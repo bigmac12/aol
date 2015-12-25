@@ -1,0 +1,411 @@
+#4100
+guard gate bronze skin~
+a gate guard with skin of bronze~
+A gate guard with skin of bronze stands before the gates.
+~
+   A gate guard with skin of bronze stands before you.  He is one of many that
+guard the gates and walls of Morning Dew.  With the exception of facial
+features they all seem identical.  All the guards are dressed in the same thick
+leather armor, breeches, boots, and all wielding what appears to be the same
+long sharp spear.    
+~
+9459722 67109888 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 11
+Maxmove: 50
+E
+#4101
+guard bronze skin~
+a city guard with skin of bronze~
+A city guard with skin of bronze watches over the city.
+~
+   A city guard with skin of bronze stands before you.  The sun in this dry hot
+climate has tanned his skin a beautiful bronze color.  He is one of many guards
+that walk the streets of Morning Dew.  Like the gate guards he too wears same
+identical thick leather armor, breeches, and boots.  The only difference is
+that he wields a scimitar for the close fighting within the city walls.  It is
+hard to tell the guards apart though for they are all so much alike.    
+~
+1052744 67109888 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#4102
+zwann weaponsmith shopkeeper~
+Zwann the weaponsmith~
+Zwann the weaponsmith stands before you with a gleam in his eye.
+~
+   Zwann stands before you with a gleam in his eyes as he sees you looking over
+his weapons.  His long gray hair is pulled back in an ancient warriors knott.
+Long jagged scarrs can be seen running down his right arm, and where is left
+arm should be there is but a small stump.  He watches you as an old fighter
+would, knowing instantly what type of weapon would suit you best.    
+~
+3399706 67252264 0 0 E
+30 1 -14 3d33+5000 25d1+9
+100000 250000 0
+8 8 1 0
+Maxmove: 50
+E
+#4103
+wemick armorer shopkeeper~
+Wemick the armorer~
+Wemick the armorer stands here ready to outfit you.
+~
+   The shopowner Wemick stands before you.  He wears a light jerkin to keep him
+cool in the dry heat that seems to have setteled over the city.  His short
+graying hair is well kept, as is his shop.  He keeps a clean appearance in all
+that he does.  As he notices you looking over him, he walks over to see if he
+can be of assistance in picking out your new gear.    
+~
+3399690 40 0 0 E
+30 1 -14 3d33+5000 25d1+9
+100000 250000 0
+8 8 1 0
+Maxmove: 50
+E
+#4104
+noora shop keeper~
+Noora the shopkeeper~
+Noora the shopkeeper stands here waiting for you to make up your mind.
+~
+   Noora stands before you with long flowing hair, bleached a light yellow from
+the sun.  She wears a long light dress, and an apron tied about her waste.  
+She moves about the shop throwing out any bad fruit, or damaged items.  She
+seems to make a tisking sound everytime she sees something wrong.  She glances
+up at you as you enter her store, and gives you a warm smile.    
+~
+253982 40 0 0 E
+30 1 -14 3d33+1700 4d8+9
+100000 250000 0
+8 8 2 0
+Maxmove: 50
+E
+#4105
+innkeeper veluna~
+Veluna the Inn Keeper~
+Veluna, the Innkeeper stands here ready to rent you a room.
+~
+   Veluna, the Innkeeper of the Dew Drop Inn sits comfortably at the rather
+large registry desk, sipping dark-colored wine from a crystal glass.  She wears
+a long, gossamer gown of violet which leaves little to the imagination.  She
+wears her long, lustrous black hair in braids.  This, combined with her dark,
+tanned complexion gives her a rather exotic look.  Noticing your entrance, she
+stands and greets you with a smile that could make a priest of Paladine turn to
+sin.    
+~
+1826843 40 69206672 0 E
+30 1 -20 3d33+5000 4d8+9
+0 0 1
+8 8 2 3
+BareHandAttack: 13
+Maxmove: 50
+E
+#4106
+postmaster erdlu~
+Erdlu the postmaster~
+The Postmaster Erdlu is here providing services.
+~
+   Erdlu, the postmaster of Morning Dew stands here sorting letters into their
+correct bags and slots.  He wears small oval spectacles over his dark, beady
+eyes.  Ink stains his hands, and the occasional smear marks his apron.  As you
+enter, he turns to peer at you with his beady little eyes.  You get the
+distinct impression that he's assessing whether you're even literate.    
+~
+7594015 33554472 0 0 E
+30 1 -20 3d33+9000 4d8+9
+0 0 0
+8 8 1 1
+Maxmove: 50
+E
+#4107
+shopkeeper methven~
+Methven the Mage~
+Methven, the owner of this shop stands here waiting for you to decide.
+~
+   A large fellow in a brown cloak stands before you.  He has the look of a
+monk, but you can tell by the gleam in his eye that he is not.  Dark sandals
+cover his feet.  He wonders around the shop constantly dusting and
+straightening his wares.  He leans heavely on a long knarled staff as he comes
+up to you to see if he can be of assistance.    
+~
+3399710 131112 0 0 E
+30 1 -14 3d33+5000 25d1+9
+100000 250000 0
+8 8 1 0
+BareHandAttack: 12
+Maxmove: 50
+E
+#4108
+Pileus tavern owner~
+Pileus the tavern owner~
+The tavern owner, Pileus, stands here ready to serve you a drink.
+~
+   The tavern owner, Pileus, stands before you.  He is a rather large man of
+light complection.  This must be due to the fact that he stays up late at night
+serving drinks.  His long leather apron keeps the spilled beverages from
+staining his nice clothing.  He has rather large arms which are scarred from
+all the barroom brawls.  He stands here ready to serve you up a drink.    
+~
+24606 40 0 0 E
+30 1 -14 3d33+1700 4d8+9
+100000 250000 0
+8 8 0 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#4109
+citizen bronze~
+a citizen~
+A bronze skinned citizen wanders the streets here.
+~
+   A citizen stands before you.  He looks about like all the rest that wander
+the streets of this city.  His skin is tanned to a bronze color from the sun.
+You have seen many just like him wondering in and out of the shops and about
+the streets of Morning Dew.    
+~
+16584 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 0 0
+Maxmove: 50
+E
+#4110
+street cleaner bronze~
+a street cleaner~
+A bronze skinned street cleaner wanders about cleaning up.
+~
+   A bronze skinned man wanders about picking up the refuge of items left about
+the streets.  He is covered in dirt and grime from crawling into the corners
+where all the papers and other junk tend to blow.    
+~
+16460 8 0 0 E
+11 14 5 5d4+190 2d8+2
+166 2900 0
+8 8 1 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#4111
+marauder mar~
+a marauder~
+A marauder stands here relaxing from his most recent job.
+~
+   This man is dressed in mostly leather armor so as not to make to much noise
+when he moves.  He stands here relaxing from his most recent exploits.  His
+large frame seems quite imposing.    
+~
+22600 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#4112
+the Marauder Leader~
+the Marauder Leader~
+A maruader leader stands here counting his wealth.
+~
+   The leader of the maruaders stands here counting his wealth into a large
+iron chest.  He glances up as you enter then slams the chest lid down and locks
+it.  He turns on you all the while growling fiercely.    
+~
+18538 67108904 0 -900 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 0 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#4114
+marauder guard mar~
+a maruader guard~
+A maruader guard stands here guarding the door.
+~
+   This guard is dressed in some of the finest leather around.  Only the elite
+of the maruaders are selected to guard the entrance to there secret lair.  His
+vast frame almost blocks the entire doorway so it would be almost imposible to
+sneak around him.    
+~
+18522 67108904 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 0
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#4115
+traveler nomad~
+a traveling nomad~
+A traveling nomad wonders the streets taking in the city sites.
+~
+   A traveling nomad is dressed in tanned skins from some type of animal.  His
+grizzly features show the turmoils of a life of hardships.  He wonders the
+streets taking in the city sites.  It is hard to tell if he has been to the
+market to sell his skins yet or if he is just arriving to this fair city.    
+~
+16460 67108864 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 0 0
+BareHandAttack: 2
+Maxmove: 50
+E
+#4116
+merchant~
+a well dressed merchant~
+A well dressed merchant lies here relaxing on the bed
+~
+   A well dressed merchant is laying here relazing on the oversized bed.  His
+rather large body seems to take up almost the entire thing.  He is rather over
+weight, and that is not taking into consideration the fine clothing and jewels
+that he wears.    
+~
+3164238 67108864 0 0 E
+18 11 -2 3d20+380 3d6+6
+600 14000 0
+8 8 1 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#4117
+servant female~
+a female servant~
+A well dressed servant stands here make sure the room stays clean.
+~
+   A well dressed servant stands before you.  She is constantly running about
+the room making sure that everything is in perfect order for her master.  Her
+elagant clothing shows that she works for someone of alot of wealth.    
+~
+16478 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 2 0
+Maxmove: 50
+E
+#4119
+udo banker~
+Udo the banker~
+The banker of Morning Dew, Udo, stands here to handle your banking needs.
+~
+   Udo, the Morning Dew banker is rather plump.  He seems like he has no
+problem keeping food the table.  For he gains when other loose.  Those
+travelers wishing to venture out onto the plains usually deposit there coin
+before going.  So he profits much since few ever return safetly.    
+~
+7594075 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+100000 250000 0
+8 8 1 4
+BareHandAttack: 15
+Maxmove: 50
+E
+#4120
+sly devious fellow~
+a sly devious fellow~
+A sly devious fellow is here pushing on a barrel.
+~
+   This devious looking fellow stands here trying to push a barrel back against
+the western wall.  Dressed in dark, dusky clothing his features are hard to
+make out.  A low-hanging hood is pulled over his head so as to hide his face
+from view.  He turns as you come down the stairs, trying to look innocent by
+leaning against the barrel.    
+~
+1064974 32 0 -678 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 11
+Maxmove: 50
+E
+#4121
+guard gate bronze skin~
+a gate guard with skin of bronze~
+A gate guard with skin of bronze stands before the gates.
+~
+   A gate guard with skin of bronze stands before you.  He is one of many that
+guard the gates and walls of Morning Dew.  With the exception of facial
+features they all seem identical.  All the guards are dressed in the same thick
+leather armor, breeches, boots, and all wielding what appears to be the same
+long sharp spear.    
+~
+9437194 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+912 25000 0
+8 8 0 0
+Maxmove: 50
+E
+#4122
+Ingolf director~
+Ingolf~
+Ingolf, the Chamber director, smiles eagerly as you enter.
+~
+   Ingolf smiles happily as you look at him.  His face is tan and wrinkled, but
+he seems eager to help any who enter.  He wanders about behind the counter,
+straightening his stacks of maps.    
+~
+7340042 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1700 250000 0
+8 8 1 0
+Maxmove: 50
+E
+#4123
+mercenary female unimpressed~
+a female mercenary~
+A female mercenary walks by here, looking unimpressed with the town.
+~
+   This woman is quite clearly a warrior or mercenary of some sort, as could be
+gathered by the well used, but well cared for armor she wears.  She carries a
+thin-bladed scimitar with confidence, looking as though she could handle her
+own quite well.  She walks through the city with a look on her face that seems
+to say, "Ugh.. what a dirt-hole."
+~
+1048584 132096 0 0 E
+24 6 -8 3d33+750 4d6+8
+1200 68000 3
+8 8 2 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#4124
+crow common~
+a common crow~
+A common crow flies overhead, looking for a place to perch.
+~
+   This is a common crow, though it has grown to a rather impressive size;
+likely an elder among its kind.  Its feathers, feet and beak are all a dusky,
+coal-colored black.  It flies overhead, searching the area with small, beady
+black eyes.    
+~
+140 66560 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+Maxmove: 50
+E
+#4125
+cat black midnight prowls large~
+a black cat~
+A large cat the color of midnight prowls the area here.
+~
+   This large cat stalks the area, looking every bit the predator.  Likely it
+is searching for some prey, either for food or entertainment; it's impossible
+to tell.  Its fur is a deep, midnight black in color and looks quite soft,
+though something hidden in its golden gaze suggests you'd better not disturb it
+right now.    
+~
+65690 263168 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+$

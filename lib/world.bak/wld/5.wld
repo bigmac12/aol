@@ -1,0 +1,318 @@
+#500
+A Tunnel Beneath the Alley~
+   Grey stone walls covered with grime and filth are cast with an eerie light
+provided by wooden torches wedged in between various cracks.  A massive black
+door made of oak and reinforced with steel lies to the west.  Cast in shadow, a
+thick iron ring hangs from it, and serves as either a knocker or a door handle,
+but seems much to heavy to lift.    
+~
+5 232 0 0 0
+D4
+~
+~
+0 0 5087
+S
+#501
+The Hideout Entryway~
+   This open hallway, almost round in shape, is lined with numerous blazing
+torches.  The light hardly shines on the cold stone walls, yet serve to
+illuminated a tiled seal of an opal dagger on the floor.  Several exits lead
+from here to various places throughout the hideout.  However loud, boisterous
+noises, laughing, and occasional angry outbursts can be heard from the exit
+leading northwest, along with the strong smell of drink.    
+~
+5 232 0 0 0
+D1
+~
+~
+0 0 500
+D3
+~
+~
+0 0 508
+D6
+~
+~
+0 0 502
+D8
+~
+~
+0 0 506
+S
+#502
+The Humbled Knight~
+   Polished fittings of brass shine brightly in this room of deep mahogany
+paneling.  No expense has been spared to provide a comfortable spot to rest and
+conduct business.  Sacks of obtained loot lay haphazardly in the corners
+waiting for assessement while a large rectangular table rests on the polished
+plank floor awaiting patrons.  Tapers mounted on elaborate fittings, designed
+to resemble daggers, illuminate the bar, their soft glow dancing off the
+polished tankards and and glasses that are scattered upon the oaken bar and
+nearby shelves.  Large crates and kegs of various alcohols line the walls just
+waiting to be opened.    
+~
+5 200 0 0 0
+D0
+~
+door~
+1 0 503
+D3
+~
+door~
+1 0 505
+D6
+~
+door~
+1 0 504
+D9
+~
+~
+0 0 501
+S
+#503
+A Private Room~
+   Every wall of the room is painted pure white, even the floor has been
+stained and bleached.  The four poster bed is covered in white silks and lace,
+and the curtains surrounding the bed is gauzy white.  Even the one piece of
+furniture that remains in this room has been painted white.    
+~
+5 216 0 0 0
+D2
+~
+door~
+1 0 502
+S
+#504
+A Private Room~
+   This room has a large, blazing fireplace, causing a constant supply a
+warmth.  A large bed covered in black sheets and black fur blankets is pushed
+against the back wall.  Large plush chairs are situated in front of the
+fireplace, seated on top of a thick, black fur rug on the floor.    
+~
+5 232 0 0 0
+D9
+~
+door~
+1 0 502
+S
+#505
+A Private Room~
+   Taking up most of the space in this room is a rather large canopy bed.  A
+thin satin fabric hangs from the canopy and sweeps down to the floor.  The bed
+itself is clothed with silk sheets and heavy furs died a blood red.  Stuffed
+satin pillows cover nearly half of the bed, allowing for maximum comfort.  
+Nearly every inch of the stone floor has been covered with thick fur carpets,
+also died a blood red.    
+~
+5 232 0 0 0
+D1
+~
+door~
+1 0 502
+S
+#506
+Mail and Board Room~
+   A stained oak counter has been built against one of the walls here.  Simple
+wooden shelves with several compartments with a name written on each one hangs
+on the wall behind the counter, serving as a small mail room.  On the opposite
+wall is a large slab of wood that is used as a bulletin board for posting
+messages, jobs, and announcements.  Each messase is nailed into the board with
+a small dagger.    
+~
+5 232 0 0 0
+D2
+~
+~
+0 0 507
+D7
+~
+~
+0 0 501
+S
+#507
+A Thrift Store~
+   A polished wooden counter with several open display cases has been pushed
+agains the back wall here.  Shelves have also been nailed into the stone walls,
+with smaller items placed upon them for viewing.  On either side are large
+blazing torches providing ample lighting to see each available ware.    
+~
+5 200 0 0 0
+D0
+~
+~
+0 0 506
+S
+#508
+A Well-Lit Hallway~
+   Torches in glistening obsidian sconces line this hallway.  The vaulted walls
+are made from cold, undecorated grey stone.  Although well-lit, the air is
+uncomfortably dank.  A thick black carpet is centered on the floor, leading
+into the next room.  From the east come the loud and raucous sounds of a
+constant party.    
+~
+5 8424 0 0 0
+D1
+~
+~
+0 0 501
+D3
+~
+~
+0 0 509
+S
+#509
+The Meeting Room~
+   Situated in the center of this large, open chamber is an oblong stone table.
+Several chairs rest around the table, evenly spaced apart.  Maps and parchments
+stained with ink are scattered about the stone surface, as well as empty mugs
+and glasses.  Upon one wall is hanging a midnight-black tapestry, heavily
+embroidered with an opal dagger.  On another wall is a detailed map of Karthay
+with several marks inked in, as well as a gigantic map of Ansalon.    
+~
+5 232 0 0 0
+D1
+~
+~
+0 0 508
+S
+#593
+Hallway to the Member's Rooms~
+   This hallway is slightly more improved than the rest of the tree 'house',
+ropes and planks bound tighter to keep drafts out, as well as to keep the rooms
+from falling out from under unsuspecting sleepers.  Each door is engraved with
+the God or Godess of choice, and each room seems to be added to the hallway as
+needed, the materials farther down seem newer and smell fresh.  Boards creak in
+a friendly way as you walk past the doors.    
+~
+5 8 0 0 0
+D3
+~
+~
+0 0 597
+D8
+~
+~
+0 0 596
+S
+#594
+Thyryshalion's Room~
+   This room is currently under construction.  Piles of lumber and tools litter
+the floor which is the only finished portion of the chamber.    
+~
+5 8 0 0 0
+D3
+~
+~
+0 0 596
+S
+#595
+Dandricassius' Room~
+   This room is rather simple.  The walls are covered in a pleasent smelling
+ivy, save for the window.  There is a small armor stand in the southwestern
+corner of the room, as well as a weapon rack, and a bed.  Beneath one of the
+windows sits a small wooden carving of a vallenwood tree, radiating a feeling
+of tranquility throughout the room.    
+~
+5 8 0 0 0
+D3
+~
+~
+0 0 598
+S
+#596
+Hallway to the Member's Rooms~
+   This hallway is slightly more improved than the rest of the tree 'house',
+ropes and planks bound tighter to keep drafts out, as well as to keep the rooms
+from falling out from under unsuspecting sleepers.  Each door is engraved with
+the God or Godess of choice, and each room seems to be added to the hallway as
+needed, the materials farther down seem newer and smell fresh.  Boards creak in
+a friendly way as you walk past the doors.    
+~
+5 8 0 0 0
+D1
+~
+~
+0 0 594
+D7
+~
+~
+0 0 593
+D8
+~
+~
+0 0 598
+S
+#597
+Banazir's Bedroom~
+   Yet another bedroom of a member of the Guardians of the Wilds.  This room is
+fairly simple, though it is decorated a bit oddly.  Great vines of Goodberries
+cover every wall, and nearly every surface as well.  The only clear space is a
+small end table and part of the moss-lined bed.  The window on the opposite
+wall is completely covered, save a few scraggly shafts of peeping sun-light.  
+A large red-stained tub sits in the corner, filled to the brim with a dark red
+juice.  Empty liqour bottles lay strewn about the floor, along with the random
+cork.  On the end table is a piece of parchment.    
+~
+5 8 0 0 0
+D1
+~
+~
+0 0 593
+E
+parchment piece~
+The heading on the parchment reads...
+
+ &RGoodberry Wine, its wine, its good.&N
+ Banazir, owner and proprietor.
+
+~
+S
+#598
+The Guardian's Inn~
+   This room seems to be as ruggedly built as the last, and there is a tidy
+pile of moss and leaves near a large window in the opposite corner, which
+serves as a place to rest for the many forest dwellers which visit.  One whole
+wall is lined with shelves, obviously to set and store various belongings.  
+There are two halls leading east and northeast, as well as the door southwest,
+which opens back into the Commons.    
+~
+5 8 0 0 0
+D1
+~
+~
+0 0 595
+D7
+~
+~
+0 0 596
+D8
+~
+~
+0 0 599
+S
+#599
+The Commons~
+   Braided vine ropes and woven pine needles seem to be the only materials
+holding together this most rugged of treehouses.  It appears as if all things
+modern had no part in its creation, being formed of natural elements common to
+the forest.  A vallenwood chest, a comfy couch of soft moss, and several sets
+of chairs surrounding solid pine tables are the only furnishings.  The
+octagonal shape of what can only be a sort of meeting or gathering area, gives
+a spectacular view of the Silvanesti Forest through the wide, open windows set
+at each of the four cardinal directions.  The sweet melodies of song birds and
+an earthy scent tinged with pine gives you a feeling of peace and satisfaction.
+Carved in vallenwood upon the door to the northeast is an extremely beautiful
+and detailed green and gold tree, a symbol of Zivilyn.  You can just make out a
+small indentation on the door, among the branches of Zivilyn's tree.    
+~
+5 8 0 0 0
+D7
+   Nothing.  Carved in vallenwood upon the door to the northeast is an
+extremely beautiful and detailed green and gold tree, a symbol of Zivilyn.  
+You can just make out a small indentation on the door, among the branches of
+Zivilyn's tree.    
+~
+door~
+1 0 598
+S
+$~

@@ -1,0 +1,140 @@
+2
+ws
+9
+wear sack
+0
+3
+tee
+12
+assist fyrak
+0
+2
+ls
+12
+look in sack
+0
+2
+wp
+9
+wear sack
+0
+2
+rs
+11
+remove sack
+0
+2
+dt
+20
+cast detect-magic $*
+1
+2
+ct
+19
+cast chill-touch $*
+1
+6
+shield
+14
+cast shield $*
+1
+1
+t
+7
+tell $*
+1
+2
+bh
+21
+cast burning-hands $*
+1
+3
+web
+11
+cast web $*
+1
+2
+re
+15
+get runes pouch
+0
+3
+par
+19
+recite parchment $*
+1
+2
+eb
+12
+examin board
+0
+2
+ml
+19
+cast magic-light $*
+1
+4
+blur
+12
+cast blur $*
+1
+5
+chair
+79
+emote seats himself within a chair and the fingers, steepled, draw to his chin.
+0
+4
+chat
+11
+chat &R$*&n
+1
+3
+wiz
+11
+chat &R$*&n
+1
+1
+x
+3
+sco
+0
+5
+armor
+13
+cast armor $*
+1
+3
+lip
+12
+look in pack
+0
+2
+ga
+7
+get all
+0
+3
+gac
+14
+get all corpse
+0
+1
+p
+3
+pra
+0
+1
+m
+3
+mem
+0
+2
+ds
+10
+drink skin
+0
+2
+mm
+21
+cast magic-missile $*
+1

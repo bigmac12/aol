@@ -1,0 +1,536 @@
+#1800
+Caroline car woman mournful~
+Caroline~
+A mournful-looking woman goes about her daily chores.
+~
+   Standing here is a woman who looks to have aged prematurely.  While her face
+seems young, she has the marks of one who has led a hard life.  Her long
+brunette hair is marked by streaks of grey, and is tied into a bun atop her
+head.  Her eyes are filled with a profound sadness.  When she sees you, she
+looks at you for a moment, seeming to lose herself at least temporarily in
+memory.  Then, she gives a dismissive nod and returns to her chores.    
+~
+28682 0 0 850 E
+10 14 6 5d4+160 2d7+2
+300 1900 0
+8 8 2 0
+E
+#1801
+Arkin small boy~
+Arkin~
+A small boy runs about the house, trying to find his sister.
+~
+   This small boy has an air of innocence and playfulness about him.  His
+shining black hair falls about his ears.  Hanging on his belt is a small,
+wooden sword, no doubt used for slaying many an imaginary foe.  As it is now,
+he seems to have met his match, as he looks about here, there and everywhere
+for his little sister.    
+~
+24716 0 0 850 E
+5 17 11 2d5+65 2d5+0
+30 85 0
+8 8 1 0
+E
+#1802
+Elspeth small girl~
+Elspeth~
+A small girl skips about here, twirling a lock of blonde hair around her finger.
+~
+   This little girl is wearing a white dress with pink trim.  Her golden blonde
+hair is curled and tied up with pink ribbons.  She looks up and bats her
+eyelashes, giggling mischieviously as she skips off in search of a new place to
+hide so that she may continue playing her game.    
+~
+24716 0 0 850 E
+5 17 11 2d5+65 2d5+0
+30 85 0
+8 8 2 0
+E
+#1803
+weary messenger man travelling clothes~
+a weary messenger~
+A man dressed in travelling clothes wanders here, carrying an envelope in his hand.
+~
+   This man's clothing is plain, made not so much for form as function.  His
+boots are worn nearly right through from endless walking, as he is obviously a
+messenger of some kind.  He seems to be very intent on his destination, to
+deliver a message to whoever resides within this tiny cottage.    
+~
+8 0 0 0 E
+12 13 4 5d6+210 2d8+3
+199 4700 0
+8 8 1 0
+E
+#1804
+dog hound~
+a tired-looking hound~
+A large hound sits upon the steps here, waiting the return of his master.
+~
+   A very large dog sits here, resting its heavy head upon its paws.  As you
+approach, it looks up, its ears perking up noticably, and for a moment it looks
+as though it may attack.  Then, it seems to see that you are not who he
+expected, so he goes back to resting.  His size shows that in its heydey, this
+dog may well have been a war hound, but those days are long past.  His haunches
+have grown broader, and it appears to be missing several teeth.  If ever beast
+looked forlorn, certainly he does.    ~
+69642 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+E
+#1810
+sentinel commander's~
+the commander's sentinel~
+The commander's sentinel stands at attention here.
+~
+   He is a very burly Hylar with a bushy beard to fight off the cold.  
+Although he is at a very disciplined attention his eyes are always on the
+prowl.  He watches everyone who passes very intently.  He wields an axe, which
+appears very sharp, and very deadly.    
+~
+9461770 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+8 8 1 0
+BareHandAttack: 13
+E
+#1811
+commander hylar dwarf~
+the Hylar Commander~
+The commander of the Hylar outpost carefully studies a map.
+~
+   This wrinkled dwarf is carefully studying a map of the surrounding mountain
+range.  He is clad from head to toe in the finest dwarven forged armor.  As a
+result of an officers lifestyle, he appears plump even for dwarven standards.
+He has earned the respect of his men by fighting along side them for years.  
+~
+1073162 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+800 17000 3
+8 8 1 0
+BareHandAttack: 13
+E
+#1812
+watchman dwarf hylar~
+the Hylar watchman~
+A Hylar watchman scans the horizon from the tower.
+~
+   It appears as if sleep deprivation is setting in on this dwarf.  There are
+large, dark circles under his eyes, and he sways uncontrollably.  He scans the
+mountain side through a set of metal binoculars, for any sign of hostile troops
+moving through the area.  He doesn't get many chances to go to the mess hall,
+and as a result, is thinner than a normal dwarf.    
+~
+1048586 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+8 8 1 0
+E
+#1813
+cook outpost's dwarf~
+the outpost's cook~
+The outpost's cook is preparing something...interesting.
+~
+   This cook is mixing a very large pot of something you hope is edible.  He
+has a thick scruff on his chin, and his hands appear to have not been washed
+for days.  He hurries from pot to pot adding this and that.  (none of which
+will make the food taste better.  Suddenly you're not hungry from your long
+treck up the hillside.    
+~
+1048586 0 0 0 E
+11 14 5 5d4+190 2d8+2
+222 2900 0
+8 8 1 0
+BareHandAttack: 4
+E
+#1814
+soldier footsoldier dwarven~
+the dwarven footsoldier~
+A dwarven footsoldier paces the floor, waiting for his turn at watch.
+~
+   The lack of bathing facilities is appearent by the stench of this young
+soldier.  His eyes are bloodshot and he seems to stagger as sleep deprivation
+starts to set in.  The shine from his armor is gone, and his weapon is chipped
+and dull from neglect.    
+~
+1048584 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+BareHandAttack: 13
+E
+#1824
+mage warlock man~
+a black robed man~
+A resting man in black robes on the grass.
+~
+His blue eyes pierce through the black hood of his robe. He appears to be resting
+on the grass. His robes flow along his muscled body. As you look at him, he flashes
+an evil grin back at you.
+~
+8 0 1 -500 E
+20 8 -4 3d20+440 3d4+6
+0 25000 1
+8 8 1 0
+E
+#1826
+brambles wall thorns~
+a huge, twisted wall of brambles~
+A huge, twisted wall of brambles and wicked thorns block the pathway here.
+~
+   A huge, twisted mass of brambles blocks the entire pathway.  The thick vines
+seem nearly impenetrable and are covered with pointy thorns.  Brownish-green
+leaves grow amongst the thorns.  Their shiny surface appears to be covered with
+some sort of sticky wax-like.    
+~
+8579166 33832 0 0 E
+10 14 6 5d4+160 2d7+2
+400 1900 0
+8 8 0 0
+BareHandAttack: 3
+E
+#1830
+druid young sobbing knees~
+a young druid~
+A young druid on her knees sobbing endlessly.
+~
+The young druid is on her knees hunched over with her face burried in her
+hands sobbing endlessly. Her long hair hangs down on either side of her head to
+the ground. Her clothing is rotted and decayed nearly beyond recognition. She
+appears to be very beautiful, unlike her rotted robes.
+~
+548874 512 2049 -100 E
+12 13 4 5d6+210 2d8+3
+0 4700 5
+8 8 2 0
+BareHandAttack: 8
+E
+#1840
+drunk wandering man~
+a drunk~
+A wandering drunk stumbles about.
+~
+   A drunken man seems to be wandering, not quite sure where he is or going.  
+He staggers quite a bit, as he lurches from side to side.  He reeks of stale
+alcohol and is probably on the verge of passing out.  Maybe if you are lucky he
+will leave and not leave a reminder of his presence all over your clothes.    
+~
+24648 0 0 -50 E
+15 14 1 5d10+300 2d8+4
+320 8200 4
+8 8 1 0
+BareHandAttack: 13
+E
+#1841
+drunk obnoxious~
+an obnoxious drunk~
+An obnoxious drunk sits here, playing cards.
+~
+   The aroma of alcohol seems to ooze from his pores.  He may not be completely
+drunk, but he is well on his way to getting there.  He sways in his seat,
+barely keeping his percarious perch.  One light shove and he would be on the
+floor.  He seem to be completely oblivious to your presence.    
+~
+30730 0 0 -50 E
+15 14 1 5d10+300 2d8+4
+450 8400 4
+6 6 1 0
+BareHandAttack: 13
+E
+#1842
+chef rotund~
+a chef~
+A rotund chef is busy preparing a meal.
+~
+   The chef is busily working on unappreciated meals.  She viciously hacks at
+side of beef with her cleaver.  She seems worried that she won't have all the
+food ready in time for dinner.  The apron she is wearing is stained and covered
+in food.  Her hair is pulled back tight away from her face.    
+~
+26634 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 6
+8 8 2 0
+BareHandAttack: 16
+E
+#1843
+thug smelly fat~
+a smelly thug~
+A fat, smelly thug sleeps here, with snoring so loud that almost shake the walls.
+~
+   The thug is quite endowed around the mid section.  He reeks of stale alcohol
+and sweat.  His snoring is almost loud enough to raise the dead.  He is still
+wearing the filthy clothes he was drinking in, except he remembered to take off
+his boots before passing out.    
+~
+26634 0 0 -50 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+4 4 1 0
+BareHandAttack: 13
+E
+#1844
+guard built~
+a guard~
+A well-built guard stands in front of the entrance to the inner office.
+~
+   The guard is dressed is a suit of studded leather.  His long, black hair is
+braided to keep out of his way.  He keeps his hands at all times on his sword
+strapped at his belt.  He does not look like he wants to let you into the
+office behind him.    
+~
+9463834 1064 0 -50 E
+16 11 0 3d20+320 3d6+4
+700 11000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#1845
+Helspar leader bandit~
+Helspar~
+Helspar, the bandit leader is sitting at his desk.
+~
+   Helspar, the leader of this small group of thieves and cutthroats is sitting
+quietly at his desk counting his money.  He is dressed in the finest of silks.
+His blond hair is very short.  He looks up and seems very annoyed at your
+disturbance to his tranquil space in the world.    
+~
+1075226 1064 0 -350 E
+18 11 -2 3d20+380 3d6+6
+700 14000 4
+6 6 1 0
+BareHandAttack: 11
+E
+#1846
+cat tabby fat~
+a cat~
+A big, fat tabby lays in the corner.
+~
+   The chef's cat is a fat tabby with dark grey fur.  It lays in the corner
+proud of the job it has been doing in clearing the pantry.  It looks like it is
+on the verge of falling asleep.    
+~
+92170 0 0 0 E
+4 18 12 1d5+45 1d8+1
+0 50 0
+5 5 2 0
+BareHandAttack: 8
+E
+#1880
+glowering hill giant~
+a glowering hill giant~
+A glowering hill giant stands here, a puddle of drool collecting at his feet.
+~
+   A mountain of flesh and bone wrapped in thick muscle towers above you, a
+not-so-friendly grin smacked across his face.  This giant stands as tall as
+several kenders stacked atop each other, and from the malevolent glare in his
+eye could prove to be even more trouble.
+~
+1115722 1024 0 -850 E
+22 7 -6 3d33+550 3d8+7
+1100 40000 3
+8 7 1 0
+BareHandAttack: 6
+E
+#1881
+well built satyr short~
+a short, well-built satyr~
+A short, well-built satyr dances through the trees as he plays his flute.
+~
+   Grinning with face lost amidst a bramble of ebony locks, this young man
+dances in place to some playful melody that he hums quietly to himself while
+occasionally playing a note or two upon the set of flutes that hangs at his
+neck.  He would be embarassingly naked were it not for the thick black fur that
+grows from waist to ankles over his well-muscled legs.  And curiously enough,
+instead of feet this fellow appears to walk about on two hooves--like those of
+a goat!    
+~
+2120 1024 1025 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+BareHandAttack: 8
+E
+#1882
+heron great blue~
+a great blue-heron~
+A great blue-heron is perched here upon a low branch, searching the waters for fish.
+~
+   Perched majestically atop a low branch, this great bird gazes calmly upon
+the stream below as it searches for a good spot for fish.  It stands almost
+five feet high, and as it briefly stretches its bright bluish-gray wings you
+gather its wingspan to be almost two yards in width.  A crown of white upon its
+black-striped head rustles in the breeze, its long beak snapping open and shut
+in impatience for its next meal.    
+~
+65608 0 0 0 E
+4 19 13 1d5+25 1d6+1
+10 25 0
+8 8 2 0
+BareHandAttack: 11
+E
+#1883
+enraged dryad~
+a wild-eyed dryad~
+A wild-eyed dryad stands here, madly clawing at the air.
+~
+   The dryad's skin is dark brownish-black, and patterned like bark.  A mane of
+decayed and bug-ridden leaves cascades down her back and shoulders, her eyes a
+baleful glare of glowing amber that glare at you with the hatred of a mother
+who has laid eyes upon her child's murderer.  Her thin arms end in massive
+claws of solid wood, which wail hauntingly as she sweeps them through the air.
+~
+567368 32776 1552 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 5
+8 8 2 0
+E
+#1884
+diamond back diamondback terrapin~
+a diamondback terrapin~
+A diamondback terrapin slowly crawls across the damp soil.
+~
+   Plodding along at an excruciatingly slow place, this large terrapin leaves a
+vague trail in the damp soil.  Just shy of a foot long, he stops every now and
+then to munch at foliage that grows in great abundance in this area.  On his
+deep blue shell an intricate diamond-pattern repeats itself within shallow
+grooves, and the pattern seems to continue into almost tattoo-looking lines
+upon his off-white skin.    
+~
+65672 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 0 0
+E
+#1885
+corpse minotaur~
+the minotaur corpse~
+The rotting corpse of a long-dead minotaur limps about here.
+~
+   The corpse of this long dead minotaur silently mouths a scream of perpetual
+agony, its face almost completely decayed to little more than bone.  Empty eyes
+peer out in hollow torture, its tattered clothes flapping softly in the breeze
+as clouds of insects hover about what little flesh and fur remains.    
+~
+172106 32 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 10
+8 8 0 0
+E
+#1886
+druid rugged earthy~
+a rugged, earthy-looking druid~
+A rugged, earthy-looking druid stands here viewing the valley below.
+~
+   This man is dressed in an bark-colored robe, leather breeches, and a pair of
+forest roamers.  While not particularly dirty, he seems to hold an 'earthy' air
+about him.  A thick, painful-looking cudgel crafted from blackthorn is tucked
+into the sash at his waist.  He stands here silently, looking down over the
+valley below with eyes that seem to hold a wisdom far beyond his apparent
+years.  His long, ash-colored hair and beard stir gently in the breeze coming
+up from the valley.    
+~
+1599514 33824 5636 0 E
+23 6 -7 3d33+650 3d8+8
+12 52000 5
+8 8 1 0
+BareHandAttack: 5
+E
+#1890
+cook~
+a fat cook~
+A fat cook is here cooking.
+~
+   A fat cook is here, cooking on a stove.  He has a white apron on, stained
+with blood, sweat, and grease.  He sings a song in a deep baritone as he chops
+up carrots and tomatoes, adding them to a terrific stew.  He bustles around the
+kitchen with skill, maneuvering quite well despite his size as he adds spices
+and seasoning to different dishes.    
+~
+10 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 1 0
+E
+#1891
+dark priestess~
+a dark priestess~
+A dark priestess kneels here, chanting to Takhisis.
+~
+   This priestess kneels, unaware of her surroundings.  Soft feculent chants
+erupt from pursed lips, prayers to her dark goddess, Takhisis.  Her long, silky
+black hair contrasts completely with her pale complexion.  Ice blue eyes stare
+into the wall, seemingly unaware of any visitors.    
+~
+8 0 32 0 E
+5 17 11 2d5+65 2d5+0
+21 85 2
+6 6 2 0
+BareHandAttack: 3
+E
+#1893
+acolyte sleeping~
+a sleeping acolyte~
+An acolyte lies here, sleeping on a cot.
+~
+   This woman twists and turns in her sleep, haunted by the infernal wishes of
+her dark mistress.  Clad only in her shift, her robes lay in a pile beside her
+cot.  Groans escape her and sweat pours down her body, and soft murmurs of "No!
+" and "Save me mistress, why are you standing there laughing?!  " can be
+discerned from the jumble of sound.    
+~
+8 0 0 0 E
+4 18 12 1d5+45 1d8+1
+7 50 2
+4 4 2 0
+BareHandAttack: 3
+E
+#1894
+high priestess~
+the high priestess of Takhisis~
+The High Priestess of the shrine stands here, handing cold stares out like candy.
+~
+   A dark crescent medallion hangs between the breasts of this beautiful
+maiden.  Crushed black velvet robes shift as if alive, draped over her
+shoulders.  A jewel encrusted crescent shaped dagger hangs on her belt, and her
+hand flicks to it absently as she looks up at the entrance.  Her lips move with
+silent prayers to her goddess, and her beauty is at once marred with a scowl
+that would make daemons crawl.    
+~
+524810 0 4194304 0 E
+7 16 9 3d5+85 2d6+1
+54 400 2
+8 8 2 0
+BareHandAttack: 3
+E
+#1895
+acolyte~
+a newly initiated acolyte~
+A newly initiated acolyte scurries about, doing mundane chores.
+~
+   From the shaky look in her eyes, you can tell that this young lady has only
+newly turned her soul from the light.  Wearing a set of cheap black robes, she
+rushes about doing the clerics bidding.  She lowers her eyes to the ground as
+she runs past the room, off to clean no doubt.    
+~
+8 0 0 0 E
+4 18 12 1d5+45 1d8+1
+8 50 0
+8 8 2 0
+E
+#1896
+knight spectral guardian dark knight undead~
+a spectral knight~
+A spectral knight remains vigilant at his post, even in death.
+~
+   This dark knight remains faithfully at his post despite the fact that he
+o]bviously met his end a great many years ago.  He continues to serve his Queen
+and her priestess even in death.  He is still clad in full body armor, the
+style of which dates back to the first Dragon War.    
+~
+87642 1024 0 -500 E
+5 17 11 2d5+65 2d5+0
+0 85 10
+8 8 1 0
+E
+$

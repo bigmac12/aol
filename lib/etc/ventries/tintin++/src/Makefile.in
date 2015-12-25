@@ -1,0 +1,66 @@
+#
+# Makefile for TINTIN++ 
+# 
+
+# You may need to change some of this Makefile if you have trouble compiling.
+# Type 'make help' for a few instructions, if you like.
+# If you change the Makefile, you *may* need to type 'make clean', then 'make'.
+
+# If you have troubles compiling, or prefer the gcc compiler,
+# try uncommenting the 'gcc' line and commenting the 'cc' one.
+# Tintin++ doesn't *need* an ANSI compiler anymore, but gcc
+# is still better than cc on many platforms...
+CC = @CC@ -O
+CFLAGS = @DEFS@
+LIBS = @LIBS@
+PIPE = @PIPE@
+# If you plan on doing debugging (with gdb), it is very helpful to turn all
+# the alarms off so that you can step through the code without having to 
+# jump to the ticker function.  This will also disable the internal
+# tickcounter.
+#F4 = -DDEBUG
+
+# BINDIR is the directory you wish tt++ to be placed if you wish to use
+# make install.  
+BINDIR = ..
+
+# DEFAULT_FILE_DIR is the path to tintin files. 
+DEFAULT_FILE_DIR = @HOME@
+
+#########################################
+# You shouldn't need to change anything #
+# below this line.                      #
+#########################################
+# GREP-FOR-ME (this is for gripe)       #
+#########################################
+
+FFLAGS= $(F4)
+LFLAGS= 
+CFILES = main.c parse.c action.c alias.c substitute.c session.c \
+	files.c history.c ticks.c misc.c path.c net.c llist.c utils.c echo.c \
+	variables.c highlight.c antisub.c ivars.c help.c text.c glob.c
+OFILES = $(CFILES:.c=.o)
+
+all: tintin++ install
+
+tintin++: $(OFILES) tintin.h
+	@echo "Linking..."
+	$(CC) $(CFLAGS) $(FFLAGS) $(LFLAGS) -o tt++ $(OFILES) $(LIBS)
+
+install: all
+	@./install.sh $(BINDIR) $(DEFAULT_FILE_DIR) $(COMPRESSED_HELP)
+
+# Autocompile all .c files into .o files using this rule:
+.c.o:
+	$(CC) $(PIPE) $(CFLAGS) $(FFLAGS) -c $<
+
+clean:
+	rm -f *.o ../tt++ tt++ core
+
+dist: 
+	@/bin/sh ./dist.sh
+
+depend:
+	makedepend -o ".o" $(CFILES)
+
+# DO NOT DELETE THIS LINE -- make depend depends on it.

@@ -1,0 +1,110 @@
+6
+mlight
+16
+cast magic-light
+0
+3
+gow
+20
+cast gust-of-wind $1
+1
+2
+ds
+18
+cast dancing-sword
+0
+2
+cv
+22
+cast vampiric-touch $1
+1
+2
+lt
+22
+cast lightning-bolt $1
+1
+2
+ec
+23
+cast enhance-cunning $1
+1
+4
+blur
+9
+cast blur
+0
+2
+ga
+7
+get all
+0
+2
+ak
+11
+assist kran
+0
+6
+shield
+11
+cast shield
+0
+3
+die
+215
+cast shocking-grasp $1;cast shocking-grasp $1;cast shocking-grasp $1;cast chill-touch $1;cast burning-hands $1;cast burning-hands $1;cast burning-hands $1;cast chill-touch $1;cast chill-touch $1;cast chill-touch $1;
+1
+6
+mirror
+17
+cast mirror-image
+0
+2
+ct
+19
+cast chill-touch $1
+1
+2
+tc
+17
+take coins corpse
+0
+2
+cs
+22
+cast shocking-grasp $1
+1
+2
+ac
+14
+assist chronix
+0
+2
+bh
+21
+cast burning-hands $1
+1
+2
+ab
+16
+assist Brianthas
+0
+2
+am
+15
+assist Moiraine
+0
+1
+t
+15
+take all corpse
+0
+2
+sk
+11
+skin corpse
+0
+2
+mm
+21
+cast magic-missile $1
+1

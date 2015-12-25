@@ -1,0 +1,8 @@
+#alias grimne {#ses {%%0} {129.241.36.229 4000}}
+#alias burn {#ses {%%0} {next5.cas.muohio.edu 4000}}
+#pathdir {e} {w}
+#pathdir {w} {e}
+#pathdir {n} {s}
+#pathdir {s} {n}
+#pathdir {u} {d}
+#pathdir {d} {u}

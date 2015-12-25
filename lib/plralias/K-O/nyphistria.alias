@@ -1,0 +1,65 @@
+3
+@dm
+14
+dismount horse
+0
+3
+gcc
+20
+Get chicken rucksack
+0
+3
+@ms
+12
+mstand horse
+0
+2
+@m
+11
+Mount horse
+0
+3
+@mr
+11
+Mrest Horse
+0
+2
+@k
+7
+kick $1
+1
+2
+@b
+7
+bash $1
+1
+4
+warc
+45
+:utters a loud war cry, then joins the fight.
+0
+4
+skco
+11
+skin corpse
+0
+3
+gac
+14
+get all corpse
+0
+6
+raiser
+26
+:raises her right eyebrow.
+0
+6
+raisel
+25
+:raises her left eyebrow.
+0
+4
+sitt
+36
+:sits down at a table in the corner.
+0

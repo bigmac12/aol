@@ -1,0 +1,35 @@
+2
+ar
+15
+give warrant $*
+1
+3
+res
+9
+rescue $*
+1
+2
+fs
+12
+fill skin $*
+1
+1
+2
+4
+bash
+0
+2
+dr
+23
+unsheath sword scabbard
+0
+2
+sh
+21
+sheath sword scabbard
+0
+1
+t
+18
+take all $*.corpse
+1

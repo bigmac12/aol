@@ -1,0 +1,55 @@
+1
+a
+4
+k $*
+1
+2
+cs
+19
+cast cure-severe $*
+1
+4
+pray
+128
+em bows her head after a moment and places one hand on her forehead and another around her pendant as she prays in silent words.
+0
+4
+food
+16
+cast create-food
+0
+2
+cm
+16
+cast cure-mod $*
+1
+1
+j
+10
+quaff vial
+0
+5
+bless
+13
+cast bless $*
+1
+2
+cl
+18
+cast cure-light $*
+1
+1
+g
+7
+gore $*
+1
+2
+gg
+14
+get all corpse
+0
+2
+eq
+6
+l self
+0

@@ -1,0 +1,135 @@
+2
+ko
+11
+knockout $*
+1
+1
+x
+15
+st ; mount mare
+1
+1
+1
+12
+buy 10 bread
+0
+1
+2
+18
+put all.bread wind
+0
+2
+eb
+9
+eat bread
+0
+3
+gbp
+14
+get bread wind
+0
+2
+rp
+9
+remo wind
+0
+2
+wp
+14
+hang wind sash
+0
+2
+cl
+24
+get flask wind ; q flask
+1
+2
+mm
+32
+get runes wind ; recite runes $*
+1
+3
+lip
+12
+look in wind
+0
+2
+st
+68
+remo bone ; wear scales ; remo pearl.ring ; wear sapphires.claw ; st
+1
+3
+res
+70
+remo scales ; wear bone ; remo sapphires.claw ; wear pearl.ring ; rest
+1
+2
+sk
+11
+skin corpse
+0
+3
+bas
+4
+trip
+0
+4
+lick
+52
+:licks his sharp teeth with his long, pointy tongue.
+0
+7
+spellup
+123
+get thick bag ; q thick ; get pale bag ; q pale ; get bottle bag ; q bottle ; get fizzy bag ; q fizzy ; get wax bag ; q wax
+1
+3
+lib
+11
+look in bag
+0
+1
+;
+11
+chat &g$*&n
+1
+2
+as
+14
+ass sunstrider
+0
+4
+grin
+56
+:grins a grin that spreads much too far across his face.
+0
+2
+ah
+7
+ass hak
+0
+3
+say
+21
+:&ccroaks&n, '&C$*&n'
+1
+6
+unlock
+19
+unlock $* ; open $*
+1
+2
+sc
+4
+scan
+0
+4
+drin
+9
+drin skin
+0
+3
+gac
+18
+get all all.corpse
+0

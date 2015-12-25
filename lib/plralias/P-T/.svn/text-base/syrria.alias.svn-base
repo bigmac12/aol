@@ -1,0 +1,25 @@
+5
+water
+11
+drink water
+0
+1
+g
+6
+get $*
+1
+1
+q
+14
+get all corpse
+0
+3
+cal
+16
+c cause-light $*
+1
+2
+cl
+18
+cast cure-light $*
+1

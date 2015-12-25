@@ -1,0 +1,275 @@
+5
+blade
+21
+cast blade-barrier $*
+1
+6
+wither
+14
+cast wither $*
+1
+3
+say
+23
+:says weakly, '&K$*&n '
+1
+4
+skin
+11
+skin corpse
+0
+5
+feast
+17
+cast heroes-feast
+0
+5
+drain
+18
+cast soul-drain $*
+1
+5
+wrath
+18
+cast harmful-wrath
+0
+9
+spsilence
+22
+cast sphere-of-silence
+0
+8
+paralyze
+16
+cast paralyze $*
+1
+5
+gsanc
+25
+cast greater-sanctuary $*
+1
+4
+harm
+12
+cast harm $*
+1
+6
+abjure
+14
+cast abjure $*
+1
+5
+ccrit
+22
+cast cause-critical $*
+1
+7
+silence
+15
+cast silence $*
+1
+6
+spring
+18
+cast create-spring
+0
+5
+gpray
+11
+cast prayer
+0
+7
+disease
+15
+cast disease $*
+1
+6
+recall
+19
+cast word-of-recall
+0
+5
+curse
+20
+cast bestow-curse $*
+1
+8
+teleport
+16
+cast teleport $*
+1
+7
+conceal
+25
+cast conceal-alignment $*
+1
+4
+csev
+20
+cast cause-severe $*
+1
+3
+sev
+19
+cast cure-severe $*
+1
+6
+dispel
+20
+cast dispel-magic $*
+1
+6
+deafen
+22
+cast deafening-wind $*
+1
+11
+infravision
+19
+cast infravision $*
+1
+5
+msanc
+23
+cast minor-sanctuary $*
+1
+7
+npoison
+25
+cast neutralize-poison $*
+1
+6
+summon
+14
+cast summon $*
+1
+6
+poison
+14
+cast poison $*
+1
+4
+cmod
+22
+cast cause-moderate $*
+1
+3
+mod
+21
+cast cure-moderate $*
+1
+5
+dgood
+19
+cast dispel-good $*
+1
+7
+dpoison
+21
+cast detect-poison $*
+1
+5
+blind
+17
+cast blindness $*
+1
+3
+cli
+19
+cast cause-light $*
+1
+8
+darkness
+16
+cast darkness $*
+1
+5
+light
+19
+cast magic-light $*
+1
+6
+dmagic
+20
+cast detect-magic $*
+1
+6
+dalign
+24
+cast detect-alignment $*
+1
+2
+li
+18
+cast cure-light $*
+1
+5
+water
+20
+cast create-water $*
+1
+4
+food
+16
+cast create-food
+0
+5
+bless
+13
+cast bless $*
+1
+4
+wake
+10
+wake;stand
+1
+5
+pouch
+25
+remove pouch;get $* pouch
+1
+4
+ccri
+22
+cast cause-critical $*
+1
+5
+swear
+5
+curse
+0
+4
+disg
+19
+cast dispel-good $*
+1
+4
+dism
+20
+cast dispel-magic $*
+1
+7
+cpoison
+25
+cast neutralize-poison $*
+1
+4
+dark
+16
+cast darkness $*
+1
+1
+2
+24
+get all.coins all.corpse
+0
+1
+1
+18
+get all all.corpse
+0
+1
+5
+29
+flee;flee;flee;flee;flee;flee
+1

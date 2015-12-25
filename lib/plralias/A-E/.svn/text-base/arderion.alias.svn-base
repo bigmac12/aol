@@ -1,0 +1,310 @@
+7
+spellup
+172
+; c mag-ves $* ; c great-sanc $* ; c prot-fr-undead ; c prot-fr-evil ; c prot-fr-fire ; c prot-fr-frost ; c prot-fr-elem ; c stren $* ; c spir-hamm ; c h-feast ; c div-wrat
+1
+2
+dw
+10
+c div-wrat
+0
+3
+pfe
+14
+c prot-fr-elem
+0
+4
+weak
+9
+c weak $*
+1
+2
+st
+35
+remo book ; wear shield shield ; st
+1
+3
+res
+30
+remo shield ; hold book ; rest
+1
+6
+summon
+85
+remo book ; remo shield ; hold doorframe ; c summon $* ; remo doorframe ; wear shield
+1
+2
+mm
+56
+remo belt ; get runes belt ; wear belt ; recite runes $*
+1
+2
+ds
+14
+dismount horse
+0
+2
+md
+11
+mount horse
+0
+3
+lip
+12
+look in belt
+0
+1
+4
+25
+remo heraldry ; hold book
+1
+1
+3
+25
+remo book ; wear heraldry
+1
+2
+hf
+12
+c hero-feast
+0
+5
+feast
+12
+c hero-feast
+0
+3
+min
+15
+c great-sanc $*
+1
+2
+ai
+16
+ass illiathyndir
+0
+2
+eb
+9
+eat bread
+0
+3
+gbp
+14
+get bread hole
+0
+1
+2
+18
+put all.bread belt
+0
+1
+1
+12
+buy 10 bread
+0
+2
+wp
+9
+wear hole
+0
+2
+rp
+9
+remo hole
+0
+3
+liw
+12
+look in hole
+0
+1
+s
+3
+sou
+0
+3
+aid
+8
+c aid $*
+1
+6
+sphere
+8
+c sphere
+0
+2
+pf
+15
+c prot-fr-frost
+0
+2
+pr
+14
+c prot-fr-fire
+0
+6
+dispel
+13
+c disp-mag $*
+1
+5
+tiger
+48
+remo wind ; get tiger wind ; q tiger ; wear wind
+1
+6
+hammer
+11
+c spir-hamm
+0
+2
+mv
+13
+c mag-vest $*
+1
+3
+sil
+11
+c silenc $*
+1
+4
+tele
+10
+c telep $*
+1
+2
+cp
+8
+c prayer
+0
+6
+recall
+15
+c word-o-recall
+0
+4
+word
+15
+c word-o-recall
+0
+3
+str
+8
+c str $*
+1
+2
+pe
+14
+c prot-fr-evil
+0
+2
+pu
+15
+c prot-fr-undea
+0
+6
+unlock
+19
+unlock $* ; open $*
+1
+2
+ms
+13
+c mag-ston $*
+1
+2
+fl
+9
+c flam $*
+1
+2
+cs
+13
+c cure-sev $*
+1
+2
+ml
+11
+c mag-li $*
+1
+7
+conceal
+10
+c conc-ali
+0
+2
+de
+14
+c disp-evil $*
+1
+2
+dg
+14
+c disp-evil $*
+1
+2
+ca
+10
+c armor $*
+1
+2
+cm
+13
+c cure-mod $*
+1
+2
+da
+9
+c det-ali
+0
+2
+cw
+14
+c cre-wat skin
+0
+2
+dm
+9
+c det-mag
+0
+4
+dark
+9
+c dark $*
+1
+2
+cf
+5
+c c-f
+0
+2
+sc
+4
+scan
+0
+4
+drin
+9
+drin skin
+0
+2
+bl
+9
+c bles $*
+1
+2
+cl
+12
+c cure-li $*
+1
+1
+;
+11
+chat &B$*&n
+1
+3
+gac
+18
+get all all.corpse
+0

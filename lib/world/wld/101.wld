@@ -1,0 +1,2188 @@
+#10100
+Shop Storeroom~
+   Shelves line the wall filled with unusual bits of machinery that have still
+to be assembled.  Light floods into the room from a window in the northern wall
+and is reflected by mirrors arranged around the room.  The effect is almost
+blinding and it is surprising that anyone can actually see the unusual door set
+into the western wall.    
+~
+101 8 0 0 0
+D1
+~
+~
+0 0 10102
+E
+button~
+   'PRESS'
+~
+E
+west door~
+   A door with no handles.  There is a button set into the wall.    
+~
+S
+T 10120
+#10101
+Quill Lane~
+   Quill lane runs from market square to the east to Dargaard Road on the west.
+Several buildings and shops line both sides of it raising up like stone walls
+puntuated by the occasional door.  Recently a few mages and scholars have taken
+over some of the buildings for use as places to sell their magical wares and
+scholarly skills.    
+~
+101 8 0 0 0
+D1
+~
+~
+0 0 10054
+D3
+~
+~
+0 0 10092
+S
+#10102
+Gnishomatrobthethe's Tinkerers Shop~
+   This shop is filled with wonders of all imaginable size and description, yet
+whose function is absolutely impossible to determine.  Metal and wooden
+contraptions lie in large mounds, covering every possible space and surface,
+some covered in a thick layer of dust which gets stirred up as you move about
+the shop.    
+~
+101 8 0 0 0
+D1
+~
+~
+0 0 10069
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 10100
+E
+bookshelf~
+   This small wooden bookshelf looks it could hold at most fifty tomes, and
+currently it is only holding twenty-five.  Titles include "An Expository Review
+of The Magical Properties of Lodestone" and "Amazing Rocks".    
+~
+E
+table~
+   This small stone table was brought to Kalaman from the Khalkist mountain
+range.  It was brought down from a great peak, and carved by the dwarves, who
+sold it to Alkamar at a reasonable price.    
+~
+S
+#10103
+A Library~
+   This is the ample library of the mage, Zhan-Xung.  Great wooden bookshelves
+line the walls, and are in turn lined with a myriad of tomes, both mystical and
+mundane.  Books are bound in many different materials, from leather to wood,
+and the materials are in turn many different colors, from white to bright red.
+Three large stuffed leather chairs, colored red, white, and black, and two
+small tables seemed to be placed randomly in the room.  The tables are covered
+with books both open and closed, some stacks reaching up to four feet in
+height.    
+~
+101 8 0 0 0
+D3
+~
+~
+0 0 10199
+E
+tables~
+   These two small wooden tables are covered with books, and you can barely see
+the actual tables.  From what you can see of them, they appear to be the same
+dark wood as the bookshelves.    
+~
+E
+chair red white black~
+   These three, comfortable looking, chairs, are made of leather colored red,
+white, and black.  The chairs represent each of the three orders of High
+Sorcery, red for the neutral order of red robed wizards, to which Alkamar
+belongs; white for the good order of white robed wizards; and black for the
+evil order of black robed wizards.    
+~
+E
+bookshelf bookshelves~
+   These bookshelves are made out of a strong, dark, wood.  They cover every
+inch of the walls except for the area occupied by the door in the north wall.
+~
+S
+T 10199
+T 10198
+T 10197
+#10104
+An Entry Hall~
+   This small room is dimly lit, and almost completely bare.  A small desk sits
+against the western wall, with a simple wooden chair behind it.  The desk is
+covered with a jumble of papers, and a half empty pot of ink.  There is a
+steel-banded door to the northeast, and this room extends to the south into an
+even darker room.    
+~
+101 8 0 0 0
+D2
+~
+~
+0 0 10105
+D7
+~
+door~
+1 0 10082
+E
+chair~
+   This small chair sits behind the desk.    
+~
+E
+desk~
+   This small desk littered with papers is where a secretary for this guild
+handles the paperwork involved with the guild's front operations, fencing
+operations, and money laundering operations.    
+~
+S
+#10105
+A Dark Hallway~
+   This seems to be the main hallway of the building, and is almost completely
+dark.  Faint light can be seen coming from all of the cardinal directions
+except north.  Something moves in the darkness..  Or does it?  Maybe it was
+just your eyes.  A noxious odor rises from a metal grate placed in the middle
+of the floor, causing those weak of stomach to feel a bit queasy.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10104
+D1
+~
+~
+0 0 10110
+D2
+~
+~
+0 0 10106
+D3
+~
+~
+0 0 10107
+D5
+~
+grate~
+1 0 2929
+S
+#10106
+A Training Room~
+   You find yourself in a large room, the ceiling easily towers twenty feet
+over your head.  Mats made of some sort of rubbery cloth litter the floor,
+ropes reach up into the darkness above you.  Stuffed dummies covered with brass
+bells are lined up along the southern wall.  The room appears to be some sort
+of training area, but for what you have no idea.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10105
+E
+dummies dummy doll~
+   A stuffed dummy stands here, covered with brass bells.  The dummy is covered
+with pockets, some of them bulging with items.  You get the feeling that it is
+used to train people in some sort of skill, but what the skill is or how it
+works you have no idea.    
+~
+S
+#10107
+A Dining Room~
+   This room is filled with large oak tables and chairs, leaving almost no room
+for you to pass through it.  Dirty plates are arranged haphazardly across some
+of the tables, others are shining with cleanliness.  A small fireplace presides
+over the west wall of the room, and a low fire is burning at the moment, making
+the room comfortably warm.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10108
+D1
+~
+~
+0 0 10105
+D2
+~
+~
+0 0 10109
+E
+fireplace~
+   A warm fire is burning in this small fireplace.  The fireplace itself is
+made out of a dark slate, and is covered in soot.    
+~
+E
+chair~
+   The chairs litter the floor, mostly focused around the tables, some are
+standing upright, but a large number of others are laying on the ground
+sideways.    
+~
+E
+table~
+   The tables are nothing special, just large, extremely heavy, oak tables.  
+~
+S
+#10108
+A Kitchen~
+   This small room is almost unbearably hot.  A fire roars in a fireplace
+filling the west wall, and another fire leaps from an oven to the north.  Pots
+and pans litter the many wooden tables in the room, alongside knives, spoons,
+and other utensils.  This is obviously the kitchen for whoever lives in this
+strange building.  Your stomach growls as you look over all of the food being
+prepared in front of you.    
+~
+101 8 0 0 0
+D2
+~
+~
+0 0 10107
+S
+#10109
+Sleeping Chambers~
+   You look upon a jumbled mess of beds, trunks, clothing, and other objects.
+At least fifteen unmade beds are placed randomly around the room, and these in
+turn are littered with dirty clothing, mostly black clothing.  There are a
+large number of locked trunks, at least twenty, in the room.  Whoever lives
+here certainly is not very concered about cleanliness or order.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10107
+E
+beds~
+   These fifteen beds are large enough for an average man to sleep in
+comfortably.    
+~
+S
+#10110
+A Storage and Training Room~
+   This room is quite large and well lit with iron braziers.  A worn and faded
+mat extends across the majority of the wooden floor, showing signs of repair in
+a few places.  A variety of tools and weapons line the walls including rope,
+grappling hooks, sparring sticks, daggers, swords, and many other items.  Laid
+out upon a counter on one end of the room are several vials containing other
+useful tools such as weapon black and minor poisons.  A set of black iron
+chests line one wall, and matching keys hang upon hooks just above them.    
+~
+101 8 0 0 0
+D3
+~
+~
+0 0 10105
+S
+#10111
+Entrance To A House~
+   This small sparsely furnished room is the entry way to the house of an old
+retired Knight of Solamnia.  Eblis Brightblade was once a great knight, quickly
+climbing the ranks of that elite order.  But fate was to keep him from reaching
+the upper ranks of the knighthood.  He was in Palanthas, walking past the great
+library, when he came upon a raging minotaur slaughtering peaceful citizens.  
+Eblis dutifully plunged into the fray.  In the course of slaying the minotaur
+he was stabbed in the eye with one of its horns, and permanantly lost his sight
+in his right eye, forcing him into retirement.  Eblis passed on some time ago,
+but his sons have gladly taken up the family duty, to train up and coming
+warriors the ways of honour and courage, as well as skill.    
+~
+101 32776 0 0 0
+D0
+~
+~
+0 0 10112
+D1
+~
+~
+0 0 10113
+D2
+~
+~
+0 0 10073
+D3
+~
+~
+0 0 -1
+S
+#10112
+Workout Room~
+   This large room is where Pender keeps in shape, working out every day and
+practicing his skills with the blade.  He is also known to aid young knights
+here, teaching them proper use of the blade and other weaponry.  Pender is
+extremely skilled, and does his best to pass his knowledge down to the next
+generation of knights, with the hope that they will use it honorably to uphold
+the Oath and the Measure.  Along the western wall of the house, a narrow,
+wrought iron staircase can be witnessed disappearing beneath the floorboards.
+~
+101 32776 0 0 0
+D2
+~
+~
+0 0 10111
+D5
+~
+~
+0 0 9980
+S
+#10113
+A Bedchamber~
+   This small, sparsely furnished, chamber is the where the retired Knight
+Pender Brightblade rests his weary, old bones.  A generously sized bed is made
+neatly in the northwest corner, and a bureau stands along the south wall.  
+Next to the bed, on the west wall, a small desk is piled high with papers and
+books.  Pender, much like his forebears, is something of a scholar of knightly
+history.  A small bookshelf holds his small collection of tomes to the north of
+the doorway.    
+~
+101 32776 0 0 0
+D3
+~
+~
+0 0 10111
+S
+#10114
+Erven's Jewelry and Fine Stones~
+   This small room is all of the gem shop that is open to the public.  Erven is
+getting on in years, and is quite stuck in his ways.  A large glass case
+occupies the center of the room, standing between you and the door to the south
+which prevents anyone from entering the back rooms of the building.  Many
+beautiful gems fill the case: rubies, emeralds, diamonds, sapphires.  All
+available as plain gems or in rings, bracelets, and necklaces of gold and
+silver.  There is a family history behind this store, and it is left in rather
+the same condition that five generations of Erven's family has kept it in.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10053
+E
+glass case~
+   This case has a wooden base, with a glass top.  It is locked from behind,
+and only Carok has the key.  Inside the case gems and jewelry are on display.
+~
+S
+#10115
+The Riven Shield and Armor Shop~
+   This shop is famous throughout Solamnia for its large and varied assortment
+of second-hand arms and armor, including relics of fallen or retired
+adventurers.  The items of famous adventurers are not for sale, or command very
+high prices.  There are, however, many serviceable, unstoried used pieces of
+armor here, from heavy plate mail used by aspiring knights to small shields
+wielded by Elven warriors, that could be useful to anyone in need of armor.  
+~
+101 12 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 10036
+S
+#10116
+A Private Room~
+   This modest room is sometimes rented out by Stella to those who want to have
+a private meeting.  A somewhat small table rests against one wall while a
+modest sized bed sits in the middle of the room.  One lone chair has been
+pushed up under the table which is most often unused by this rooms occupants.
+The floor is bare, exposing the wooden planks that run from wall to wall and
+creak noisily when stepped on.    
+~
+101 8 0 0 0
+D2
+~
+door~
+1 10168 10172
+E
+dragons head hatchling~
+   This blue dragon's head was taken from a hatchling found in a cave in the
+Dargaard mountains.  The proprietor of this tavern was in the party of
+adventurers who slew the dragon.    
+~
+S
+#10117
+The Movepeopletootherfloors (tm) Device~
+   This small room appears to have been made out of an extremely large packing
+case.  The wood does not feel that strong and bows slightly under your weight.
+Four buttons sit to the side of the door each labeled 1, 2, 3 and 4.  A small
+sign has been nailed above the buttons.    
+~
+101 8 0 0 0
+E
+sign~
+Movepeopletootherfloors (tm) Device
+Designed by Scrombisherllydonelots
+includingthisliftanautomatedrat
+catcherthatexplodedwhenitcaughtrats
+thoughitwasnotsuposedtodothatwhenI
+designeditsonofragnarallyfirttle
+bronwhoinventedmanythingsinhislife
+timethoughnoneofthemworkedhewasson
+ofjaeergon....
+
+It appears he ran out of space to complete his sign.
+~
+E
+buttons button~
+   They are numbered 1, 2, 3 and 4.    
+~
+E
+door~
+   A door with no handles.    
+~
+S
+T 10121
+#10118
+A Cluttered Workshop~
+   The room is cluttered and chaotic.  Unusual metallic objects lie strewn
+around the workshop and a small workbench strains under the weight of a burnt
+out contraption.  Blueprints of weird and wonderful inventions have been
+hastily pinned to the walls.  Most of the diagrams appear scorched and a large
+black stain covers the roof.    
+~
+101 8 0 0 0
+S
+T 10123
+#10119
+An Attic Bedroom~
+   The room is located under the eaves of the roof of the buildings.  A large
+window overlooks the street and lets in ample light.  A small bed, little more
+than a childs, occupies a corner and scrolls litter the plain wooden floor.  A
+painting of a mountain hangs over the bed.  An unusual door is set into the
+western wall.    
+~
+101 8 0 0 0
+E
+button~
+   'PRESS'
+~
+E
+door~
+   A door with no handles.  There is a button set into the wall.    
+~
+E
+scroll scrolls~
+   The scrolls that litter the floor contain complex diagrams within them.  
+What these drawings represent is a mystery as they seem to relate to several
+different inventions.    
+~
+E
+window~
+   The window overlooks the street.  It would seem that a small crowd has
+gathered outside the shop, probably wondering what all the noise is.    
+~
+E
+painting~
+   On closer inspection the painting is not of a mountain at all, but a extinct
+looking volcano.  One could surmise that this is Mt.  Nevermind the ancestral
+home of the Gnomes.    
+~
+S
+T 10122
+#10120
+Steampropelsthecogsandmakesthemgoround (tm) Room~
+   This large basement room is almost entirely filled with a large contraption
+of gnomish design.  Attached to rapidly spinning wheels are a complex amount of
+ropes and pulleys.  The ropes travel off in all directions into various parts
+of the building.  The heat and steam emanating from this machine is
+overpowering and it seems to devour large quantities of coal that continually
+slides down a chute into it's gaping maw.  An unusual door is set into the
+western wall.    
+~
+101 524296 0 1 0
+E
+button~
+   'PRESS'
+~
+E
+door~
+   A door with no handles.  There is a button set into the wall.    
+~
+S
+T 10124
+T 10125
+#10121
+Dragonbane Books & Folios~
+   The battered Dragonbane sign hangs outside this old, unkempt stone building
+whose wares window is boarded over, and whose black door entry is always
+forbiddingly closed.  Inside, the shop is very dark.  It is crammed with
+deep-hued bookshelves, and the walls are paneled with wood.  The sole light
+here comes from the magical glowing orbs that drift about at Edmund's will.  
+Powerful fireguard spells prevent anything in the shop from burning.  Aside
+from Edmund's desk and three chairs (two for visitors), books are the only
+furnishings of this shop.  The Dragonbanes have kept the shop for centuries,
+and Edmund prides himself on being the thirteenth Dragonbane to have resided in
+this place.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10092
+S
+#10122
+Reception Hall~
+   This small hall has been whitewashed and Solamnic battle honors line the
+walls.  What was once doorways to the east and west have been bricked up,
+providing an easier space to defend.  The battle honors proudly on display mark
+the current regiment of Knights proud history and the part they have played
+defending Solamnia.    
+~
+101 12 0 0 0
+D0
+~
+~
+0 0 10123
+D2
+~
+~
+0 0 10023
+S
+#10123
+Garrison Armory~
+   This large, dimly lit, room serves as the garrisons armory.  Racks filled
+with swords and dummies wearing suits of armor line the whitewashed walls.  
+The quality of the merchandise is comparable to the finest smithy and
+everything looks in pristine condition.  Here a knight can purchase weapons and
+armor at very competitive rates, that are subsidised by the order.    
+~
+101 262168 0 0 0
+D0
+~
+~
+0 0 10124
+D2
+~
+~
+0 0 10122
+D3
+~
+~
+0 0 10128
+S
+#10124
+A Dining Room~
+   Large trestle tables surrounded by high backed chairs fill the room.  The
+tables have all been scrubbed clean and places have been set for the next meal.
+A large tapestry, depicting a hunting scene, hangs on the wall and a large
+chandelier casts light down into the room.    
+~
+101 24 0 0 0
+D0
+~
+~
+0 0 10125
+D2
+~
+~
+0 0 10123
+S
+#10125
+A Kitchen~
+   This large, uncomfortably warm, room is the food preparation area for the
+garrison.  Pots and pans full of food cook on the stoves and the smell of
+freshly baked bread emanates from the ovens.  Dirty knives, pans, pots, plates,
+glasses, forks, spoons, and other cooking and eating utensils are piled high on
+a table next to a great bowl of water.    
+~
+101 24 0 0 0
+D2
+~
+~
+0 0 10124
+D3
+~
+~
+0 0 10126
+S
+#10126
+A Back Storage Room~
+   This room is stocked with everything the garrison needs to feed the Knights
+that barrack here.  Sacks and crates fill the shelves, which are all labeled
+and inventoried.  The room has been whitewashed and the stone floor has been
+scrubbed clean.    
+~
+101 24 0 0 0
+D1
+~
+~
+0 0 10125
+D2
+   A loose panel.    
+~
+panel~
+1 0 10127
+S
+#10127
+The Watchroom~
+   This secret back chamber is where the guards of The Gentle Sea-elf once
+watched over the gambling halls.  Powerful seeing spells, that have long since
+faded away, were used by the occupants of the once plush chairs.  The faded
+blue leather chairs are arranged in a circle and covered with a thick layer of
+dust.  The rest of the room is completely bare, with dark wood paneled walls
+and flooring.    
+~
+101 72 0 0 0
+D0
+   A panel.    
+~
+panel~
+1 0 10126
+S
+#10128
+Administration Hall~
+   This large, stone floored chamber has a soaring pavilion-like roof, through
+which slowly shifting lights play in a soft, continually changing show.  Desks
+and chairs are neatly organised into rows, giving the Knights a place to catch
+up on their correspondence and paperwork.    
+~
+101 24 0 0 0
+D1
+~
+~
+0 0 10123
+D3
+~
+~
+0 0 10129
+S
+#10129
+Climbing A Stairway~
+   You are climbing a small but well lit staircase leading up to the second
+floor or down to the adminstration hall of the garrison.  The walls are
+whitewashed and bare.  You are climbing a small but well lit staircase leading
+up to the second floor or down to the adminstration hall of the garrison.    
+~
+101 24 0 0 0
+D1
+~
+~
+0 0 10128
+D4
+~
+~
+0 0 10130
+S
+#10130
+Climbing A Stairway~
+   You are climbing a small but well lit staircase leading up to the second
+floor or down to the adminstration hall of the garrison.  The walls are
+whitewashed and bare.  You are climbing a small but well lit staircase leading
+up to the second floor or down to the adminstration hall of the garrison.    
+~
+101 24 0 0 0
+D1
+~
+~
+0 0 10131
+D5
+~
+~
+0 0 10129
+S
+#10131
+Entrance to the Barrack Rooms~
+   The upper floors of this building have been turned into makeshift barracks
+rooms.  The main hall is filled with bunks and occasionally a private room can
+be seen in the distance.  Here the Knights can rest and relax after a day
+patrolling the streets of Kalaman.    
+~
+101 24 0 0 0
+D0
+~
+~
+0 0 10137
+D1
+~
+~
+0 0 10132
+D3
+~
+~
+0 0 10130
+S
+#10132
+A Comfortable Lounge~
+   The upper floors of this building have been turned into makeshift barrack
+rooms.  The main hall is filled with bunks and a private room for high ranking
+Knights can be seen to the south.  Here the Knights can rest and relax after a
+day patrolling the streets of Kalaman.    
+~
+101 24 0 0 0
+D0
+~
+~
+0 0 10135
+D1
+~
+~
+0 0 10133
+D2
+~
+~
+0 0 10134
+D3
+~
+~
+0 0 10131
+S
+#10133
+A Balcony Overlooking Crown Street~
+   You stand on a balcony overlooking the southeastern portion of Kalaman.  
+Directly below you is Crown Street, near where it meets Garnet Street.  Beyond
+that you can see the warehouses and taverns of the docks, and beyond those the
+masts and sails of the great ships in the city's harbor.  Even farther out,
+beyond those, you catch fleeting glimpses of the water itself.    
+~
+101 8192 1 0 0
+D3
+~
+~
+0 0 10132
+S
+#10134
+A Sleeping Quarter~
+   This bunk is cozy, despite how small it may seem.  On either side of the
+small closing, a tapestry has been hung to provide a sense of privacy, the
+stitching designed to represent the honourable Triumvirate.  Just behind the
+bunk is an adjustable window, with a sliding curtain to allow for customizable
+comfort to whomever may be sleeping here.  The trunk in front of the bed is
+fairly large in size, and it's no doubt that a full suit of armor could fit in
+there to accomodate for that, an armor stand has been placed here, for the
+conveniance of the Knights to use as they please.    
+~
+101 33554444 0 0 0
+D0
+~
+~
+0 0 10132
+S
+#10135
+A Sleeping Quarter~
+   The upper floors of this building have been turned into makeshift barrack
+rooms.  The main hall is filled with bunks and a private room for high ranking
+Knights can be seen to the north.  Here the Knights can rest and relax after a
+day patrolling the streets of Kalaman.    
+~
+101 24 0 0 0
+D0
+~
+~
+0 0 10136
+D2
+~
+~
+0 0 10132
+S
+#10136
+A Sleeping Quarter~
+   This bunk is cozy, despite how small it may seem.  On either side of the
+small closing, a tapestry has been hung to provide a sense of privacy, the
+stitching designed to represent the honourable Triumvirate.  Just behind the
+bunk is an adjustable window, with a sliding curtain to allow for customizable
+comfort to whomever may be sleeping here.  The trunk in front of the bed is
+fairly large in size, and it's no doubt that a full suit of armor could fit in
+there to accomodate for that, an armor stand has been placed here, for the
+conveniance of the Knights to use as they please.    
+~
+101 33554444 0 0 0
+D2
+~
+~
+0 0 10135
+S
+#10137
+A Sleeping Quarter~
+   This bunk is cozy, despite how small it may seem.  On either side of the
+small closing, a tapestry has been hung to provide a sense of privacy, the
+stitching designed to represent the honourable Triumvirate.  Just behind the
+bunk is an adjustable window, with a sliding curtain to allow for customizable
+comfort to whomever may be sleeping here.  The trunk in front of the bed is
+fairly large in size, and it's no doubt that a full suit of armor could fit in
+there to accomodate for that, an armor stand has been placed here, for the
+conveniance of the Knights to use as they please.    
+~
+101 33554444 0 0 0
+D2
+~
+~
+0 0 10131
+S
+#10138
+A Hallway in The Dripping Dagger Inn~
+   This cozy old inn stands on the north side of Huma Lane, directly north of
+the mouth of Watch Alley.  It is well known as the favorite watering hole and
+resting place for mercenaries, and has a reputation for jovial horseplay that
+keeps the more timid merchants and citizens of Kalaman away from its doors.  
+The tavern has a fieldstone street-level floor pierced by a few squat,
+iron-barred arched windows.  A large staircase in the corner leads up to a
+meeting area.  To the east, the main room of the Inn opens up.    
+~
+101 12 0 0 0
+D0
+~
+~
+0 0 10172
+D1
+~
+~
+0 0 10140
+D2
+~
+~
+0 0 10075
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 10139
+S
+#10139
+A Meeting Room~
+   This small room at The Dripping Dagger Inn is available for use by anyone
+willing to pay the fee.  Nobles and diplomats frequently rent it to hold
+meetings with the mercenaries who frequent the Inn, and as an added bonus the
+food is actually quite decent.  A large circular table with eight chairs and a
+small fireplace are the rooms only furnishings.  The table and chairs are made
+of sturdy oak, and the stone fireplace keeps the room warm and cozy even in the
+colder months.  Rooms containing bulletin boards for discussing world events
+branch off of this room.  The post office lies just to the south.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10177
+D1
+~
+~
+0 0 10174
+D2
+~
+~
+0 0 10179
+D3
+~
+~
+0 0 10196
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 10138
+D6
+~
+~
+0 0 10173
+D7
+~
+~
+0 0 10175
+D8
+~
+~
+0 0 10178
+D9
+~
+~
+0 0 10176
+S
+#10140
+Behind The Bar~
+   You stand behind a bar looking out over a dark, low-ceilinged taproom.  A
+staircase nearby leads up to the inn rooms, and there is a private room off to
+the east of the main taproom.  The place is simple, but comfortably furnished
+and welcoming.  The guests seem to relax completely here, and laugh, joke, and
+play at dice, cards or board games with easy, lazy, enjoyment.  Laughter rings
+often around the taproom, you can see why guests love this place so and become
+regulars.  Those who are not fighting men are greeted affably and treated with
+courtesy, rather than being made to feel unwelcome or out of place.  In one
+corner you see three hulking mercenaries on their knees playing a game with a
+little boy as his mother looks on in amazement.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10142
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 10156
+D3
+~
+~
+0 0 10138
+S
+#10141
+A Pantry~
+   Chairs are stacked high in one corner of this large dark room, and the
+shelves that fill the walls are strewn with plates, bowls, mugs, flour, sugar,
+spices, vegetables, and many dried meats.  A small stairway in another corner
+leads down to the Inn's darkened cellar.    
+~
+101 8 0 0 0
+D2
+~
+~
+0 0 10142
+D3
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 10155
+S
+#10142
+A Kitchen~
+   This large room is filled with three massive wooden tables and a fireplace.
+Both clean and dirty dishes litter the tables and flow out of the cabinets
+overhead and under the tables.  Many delicious looking dishes are being
+prepared in here, the sight of which makes your stomach growl.  The hungry
+adventurer can purchase, at reasonable prices, these mouth-watering delights at
+the bar to the south.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10141
+D2
+~
+~
+0 0 10140
+D6
+~
+~
+0 0 -1
+S
+#10143
+A Wide Dirt Track~
+   Winding its way around the impressive outer walls of the city of Kalaman,
+this wide dirt track is hard-packed and well-travelled, providing a quick route
+around the city for those whose destinations lie elsewhere.  The tall, thick
+walls to the north of the road are made of solid stone and look quite
+defendable in times of warfare or seige.  Along the walls, at regular
+intervals, are several water troughs and even a small selection of local
+vendors, lending some few amenities to even this short route around the
+hospitality of the city proper.    
+~
+101 0 2 0 0
+D1
+~
+~
+0 0 7100
+D3
+~
+~
+0 0 10144
+S
+#10144
+A Wide Dirt Track~
+   Winding its way around the impressive outer walls of the city of Kalaman,
+this wide dirt track is hard-packed and well-travelled, providing a quick route
+around the city for those whose destinations lie elsewhere.  The tall, thick
+walls to the north of the road are made of solid stone and look quite
+defendable in times of warfare or seige.  Along the walls, at regular
+intervals, are several water troughs and even a small selection of local
+vendors, lending some few amenities to even this short route around the
+hospitality of the city proper.    
+~
+101 0 2 0 0
+D1
+~
+~
+0 0 10143
+D3
+~
+~
+0 0 10145
+S
+#10145
+A Wide Dirt Track~
+   Winding its way around the impressive outer walls of the city of Kalaman,
+this wide dirt track is hard-packed and well-travelled, providing a quick route
+around the city for those whose destinations lie elsewhere.  The tall, thick
+walls to the north of the road are made of solid stone and look quite
+defendable in times of warfare or seige.  Along the walls, at regular
+intervals, are several water troughs and even a small selection of local
+vendors, lending some few amenities to even this short route around the
+hospitality of the city proper.    
+~
+101 0 2 0 0
+D0
+~
+~
+0 0 10146
+D1
+~
+~
+0 0 10144
+D2
+~
+~
+0 0 -1
+S
+#10146
+A Wide Dirt Track~
+   Winding its way around the impressive outer walls of the city of Kalaman,
+this wide dirt track is hard-packed and well-travelled, providing a quick route
+around the city for those whose destinations lie elsewhere.  The tall, thick
+walls to the east of the road are made of solid stone and look quite defendable
+in times of warfare or seige.  Along the walls, at regular intervals, are
+several water troughs and even a small selection of local vendors, lending some
+few amenities to even this short route around the hospitality of the city
+proper.    
+~
+101 0 2 0 0
+D0
+~
+~
+0 0 10147
+D2
+~
+~
+0 0 10145
+S
+#10147
+A Wide Dirt Track~
+   Winding its way around the impressive outer walls of the city of Kalaman,
+this wide dirt track is hard-packed and well-travelled, providing a quick route
+around the city for those whose destinations lie elsewhere.  The tall, thick
+walls to the east of the road are made of solid stone and look quite defendable
+in times of warfare or seige.  Along the walls, at regular intervals, are
+several water troughs and even a small selection of local vendors, lending some
+few amenities to even this short route around the hospitality of the city
+proper.    
+~
+101 0 2 0 0
+D0
+~
+~
+0 0 10148
+D2
+~
+~
+0 0 10146
+S
+#10148
+A Wide Dirt Track~
+   Winding its way around the impressive outer walls of the city of Kalaman,
+this wide dirt track is hard-packed and well-travelled, providing a quick route
+around the city for those whose destinations lie elsewhere.  The tall, thick
+walls to the east of the road are made of solid stone and look quite defendable
+in times of warfare or seige.  Along the walls, at regular intervals, are
+several water troughs and even a small selection of local vendors, lending some
+few amenities to even this short route around the hospitality of the city
+proper.    
+~
+101 0 2 0 0
+D0
+~
+~
+0 0 10149
+D2
+~
+~
+0 0 10147
+S
+#10149
+A Wide Dirt Track~
+   Winding its way around the impressive outer walls of the city of Kalaman,
+this wide dirt track is hard-packed and well-travelled, providing a quick route
+around the city for those whose destinations lie elsewhere.  The tall, thick
+walls to the east of the road are made of solid stone and look quite defendable
+in times of warfare or seige.  Along the walls, at regular intervals, are
+several water troughs and even a small selection of local vendors, lending some
+few amenities to even this short route around the hospitality of the city
+proper.    
+~
+101 0 2 0 0
+D0
+~
+~
+0 0 7099
+D2
+~
+~
+0 0 10148
+S
+#10150
+Kalaman Gaol Cells~
+   A large padlocked door to the north leads to the prisons cell area.  
+Unadorned brick walls give the room an austere feel and dirty, barred windows,
+give in little light.  A large desk, worn with use, sits in the corner of the
+room.  The desk is covered in an assortment of paperwork that looks neglected.
+A large sign in clear print hangs from the ceiling.    
+~
+101 196776 0 0 0
+D0
+   A large wooden and steel door has been padlocked shut with a massive steel
+padlock.    
+~
+door~
+2 0 10042
+D1
+   The doorway leads into a kitchen.  Not much can be seen due to the steam in
+the room.    
+~
+~
+0 0 10152
+D2
+   A small room can be seen to the south.    
+~
+~
+0 0 10151
+D3
+   The doorway leads into a small dimly lit room.    
+~
+~
+0 0 10153
+E
+padlock~
+   A massive padlock bars the northern door.  Constructed of thick steel it
+looks unbreakable.    
+~
+E
+desk~
+   The large desk that sits in the corner of the room appears to be made of
+ancient oak.  No doubt it was once a magnificent piece of furniture, now it is
+a sorry state of repair and is covered by mounds of paperwork.    
+~
+E
+paperwork~
+   Invoices for gruel and requisitions for more staff.  The paperwork looks
+like it has been ignored for a long time.  Obviously whoever has the
+responsibility of dealing with it is either too busy or can not be bothered.  
+
+~
+E
+windows bars window~
+   The windows are set high into the walls.  Thick steel bars prevent anyone
+entering or leaving through them.  The glass is discolored, from age and dirt,
+and little light passes into the room below.    
+~
+E
+sign~
+      NOTICE TO ALL NEW INMATES
+
+On arrival to the prison please rent 
+immediately. To the south is a room that
+you can obtain money from your personal
+bank funds.
+
+Anyone found to have escaped from this
+gaol will be declared an outlaw and shall
+be hunted down by the authorities.
+
+
+Visitors should ring the bell when they
+are ready to leave.
+~
+S
+#10151
+Kalaman Gaol Credit Office~
+   A small desk and seats sit in the corner of this small room.  The credit
+office is used to access funds that may be held in an outside bank.  This
+valuable service was provided to make life a little more bearable for the
+prisoners and enable them to pay off their debt to society.  A small safe lies
+next to the desk and a sign hangs over the doorframe of the southern door.    
+~
+101 196776 0 0 0
+D0
+   You can see the Gaolers desk to the north.    
+~
+~
+0 0 10150
+D2
+   Light spills forth from the doorway to the south.    
+~
+~
+0 0 10154
+E
+desk seats seat~
+   The small desk is uncluttered and tidy.  Four chairs surround the desk and
+it would appear that this is where the credit exchange staff hold financial
+meetings with prisoners.    
+~
+E
+safe~
+   A small safe lies next to the desk.  It looks strong enough to stop it being
+forced open and heavy enough to stop anyone moving it.  Though where a thief
+would be able to take it is an other matter.    
+~
+E
+sign doorfram~
+   Governor Trombild
+~
+S
+#10152
+Kalaman Gaol Kitchen~
+   Clouds of steam rise from large pots that are sitting on a huge iron range.
+Cockroaches scuttle across the floor and an unidentifiable stench fills the
+air.  The walls are covered with mould and mildew from the humid environment of
+the kitchen.  Debris from the preparation of the food rots on the floor and
+occasionally a quick movement snatches something and scampers away.  Someone
+has scrawled a little message on the wall.    
+~
+101 196776 0 0 0
+D3
+   You can see the Gaolers desk to the west.    
+~
+~
+0 0 10150
+E
+pots pot range iron~
+   Large pots sit boiling on a large iron range.  Clouds of steam billow forth
+from them accompanied by the nauseating stench.    
+~
+E
+message scrawled wall~
+   'Abandon hope all ye that eat here!  '
+~
+E
+cockroaches~
+   Too many of them to count.    
+~
+E
+debris~
+   The debris that covers the floor is rotting food.    
+~
+S
+#10153
+Kalaman Gaol Mail Room~
+   A large counter divides the room in half.  Behind the counter lies sacks of
+undelivered mail and parcels.  Candles cast a pall light from their fixings
+high on the walls and on the southern wall someone has pinned up an oil
+painting, probably to cheer up his dreary surroundings.    
+~
+101 196776 0 0 0
+D1
+   You can see the Gaolers desk to the east.    
+~
+~
+0 0 10150
+E
+painting southern~
+   On the southern wall hangs a beautiful oil painting of a tranquil valley.  
+A river flows through the valley and is surrounded by magnificent pine trees.
+Though well done it looks like the work of an amateur, possibly an ex-prisoner.
+The painting is signed by an artist called Karlia.    
+~
+E
+candles~
+   Little more than stubs, they cast limited light into the room.    
+~
+E
+counter~
+   The counter runs across the middle of the room, effectively splitting it in
+half.  Behind it lies sacks of mail and parcels.    
+~
+E
+sack sacks mail parcels~
+   Sacks of mail and parcels lie heaped behind the counter.  Covered in dust,
+they have not been disturbed in a long time.    
+~
+S
+#10154
+Kalaman Gaol, Governors' Office~
+   A large barred window dominates the southern wall and a magnificent desk
+sits in the center of the room.  Velvet drapes hang on either side of the
+window and a plush carpet covers the floor.  A strange mark on the desk catches
+your eye.    
+~
+101 196776 0 0 0
+D0
+   A doorway to the north leads to the credit office.    
+~
+~
+0 0 10151
+E
+desk~
+   The beautiful mahogany desk has been polished so much that it reflects the
+light.  However someone has scratched some grafitti into the corner.    
+~
+E
+grafitti scratch scratched mark~
+   Kheldar an' Lerog wis 'ere
+~
+E
+drapes curtains~
+   Expensive red velvet drapes hang to the floor on either side of the window.
+  
+~
+E
+carpet~
+   Red in color and very plush, the carpet gives the room a homely feeling.  
+
+~
+E
+window bars~
+   The large window overlooks a well kept courtyard garden.  The thick steel
+bars are a practical way of stopping escapes.    
+~
+S
+#10155
+A Cellar~
+   This spacious, damp, dark cellar is where the many varied beverages served
+at The Dripping Dagger Inn are stored.  Crates and kegs of Ale, Mead, Sherry,
+Whiskey, and Almond Brandy, among others, are piled halfway to the lofty
+ceiling.  Certainly a large number of drinks are served to the rowdy patrons of
+this inn, which is popular with mercenaries and other adventurers, every night.
+~
+101 8 0 0 1
+D2
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 10141
+S
+#10156
+Taproom of the Dripping Dagger Inn~
+   One of the busiest rooms in town, this large taproom was recently added as
+part of a renovation project.  Originally serving as a both the administrative
+offices for the inn and a storage area, the room is large enough to accommodate
+the many patrons who now frequent it.  Various tables are filled with all
+manner of guests, and in the northern corner of the room, the bar invites you
+to pull up a stool and sample from the fine beverages and foods served by the
+Inn.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10140
+D1
+~
+~
+0 0 9897
+D7
+~
+~
+0 0 9898
+D9
+~
+~
+0 0 9899
+S
+#10157
+The Bow and Blade~
+   This shop, located in the southwestern corner of Market Square, is crowded
+with an assortment of ready weaponry, most of it second hand.  It is notable as
+the source of the best bows, arrows, and blades in Kalaman, made on the
+premises by the owner.  Their superlative workmanship is admired and coveted by
+the warriors who see them.  The walls are lined with racks and display cases,
+though theft is not an easy thing to accomplish here.  Sven has a sharp eye,
+and though he does not speak very good common, he is quite adept at calling the
+guards should any pilferers decide to avail themselves of his ample stock.    
+~
+101 12 0 0 0
+D0
+~
+~
+0 0 10036
+D2
+~
+~
+0 0 10165
+S
+#10158
+Lit-Lamp Grocery~
+   This large room is filled with shelves piles high with all manner of food,
+and any other accessory you could possibly want.  Open crates on the floor in
+the middle of the store hold all sorts of fruits and vegetables, while several
+chilled display cases hold meats and fish.  A glass case near the counter is
+full of delicious looking baked goods, breads, and pastries.  If you can eat
+it, chances are you will find it here.  Upon the counter sits a sign that
+reads, 'No Acorns for Sale'.  No one really knows why it is there, but there it
+sits, and has sat for centuries.    
+~
+101 8 0 0 0
+D3
+~
+~
+0 0 10037
+S
+#10159
+First Federal Bank of Northern Solamnia~
+   The Kalaman branch of the First Federal Bank of Northern Solamnia was
+successfully robbed a number of years ago, and as such, security here has
+stepped up a notch.  Where once smiling bank tellers gladly gave the customers
+their money, now there is a lot of paperwork and security checks in place.  As
+well, instead of the wide open, public space and glass windows that once
+characterized the building, there are now bars over the windows, and thick iron
+doors.  The one who runs the shop is less a bank teller, and more of a hired
+thug, placed here to insure that the citizens of Kalaman never again have their
+money carried away by one who it does not belong to.  Knights and guards alike
+also make frequent stops in here.  It is not a very pleasant sort of scrutiny,
+though it does have a way of making one feel safe.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10052
+S
+#10160
+Kalaman General Store~
+   You are in a large shop, full of strange assorted knick-knacks and other
+almost useless things.  Piles of rope, torches, lanterns, and sacks.  A
+backpack or two here and there.  A short, round, man with a bulbous nose stands
+behind the counter eyeing you suspiciously.  With all of the sailors that come
+into Kalaman, he has reason to be suspicious of those who venture into his
+shop.    
+~
+101 8 0 0 0
+D2
+~
+~
+0 0 10039
+S
+#10161
+The Ambrosie Fine Garment Emporium~
+   After a change of ownership a long, long time ago, the former Maerados Fine
+Clothing Boutique came under new ownership by a pair of out-of-town investors.
+A few decades ago, the clothing shop became terminally infested with termites,
+was condemned, and then torn down.  The store was rebuilt and remains under the
+ownership of the same family, who serve as absentee landlords.  In the
+meantime, the store is run by Galaralas, a slightly effeminate elven man with a
+tasteful eye for fashion.  He tends to stock only the highest quality and most
+fashionable goods this side of Palanthas, assisted by his beleaguered
+co-proprietor, Cecil.  Clothing here may be custom ordered, sized by the tailor
+to fit the wearer perfectly.  Since the building is fairly new, it is
+immaculately clean.  A decorative archway leads west into the adjoining room.
+~
+101 8 0 0 0
+D1
+~
+~
+0 0 10040
+D3
+~
+~
+0 0 10197
+S
+#10162
+Main Hall of The Guardhouse~
+   This large, cozy, firelit room is where guards come to rest their feet while
+on duty, or where off-duty guards gather to just sit and chat.  It is filled
+with large stuffed chairs and low tables for playing at cards and dice, a
+popular way of passing time among the city's guards.  This room can also be
+used as a base of operations, because of its size and the number of tables, in
+the event of an attack on the city.    
+~
+101 12 0 0 0
+D0
+~
+~
+0 0 10163
+D1
+~
+~
+0 0 10164
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 10003
+S
+#10163
+The City Armory~
+   The walls of this room are lined with racks filled with many kinds of
+weapons.  From spears, pole arms, and swords, to bows, and crossbows even, if
+it can cause damage to something living, it's probably in one of the racks in
+this room.    
+~
+101 8 0 0 0
+D2
+~
+~
+0 0 10162
+S
+#10164
+Office of The Captain of The City Guard~
+   This small chamber is where the Captain of the City Guard handles all of the
+paperwork involved in keeping the guardsmen well equipped, well fed, and ready
+to do battle at the drop of a hat should the city be attacked.  While none of
+the guardsmen bunk here at the guardhouse, the Captain has been known to help
+those guardsmen in need of financial aid so that they can have a place to live.
+~
+101 8 0 0 0
+D3
+~
+~
+0 0 10162
+S
+#10165
+A Small Courtyard~
+   Large crates lie scattered around this small rectangular courtyard.  
+Opposite the shop wall stands, a roughly errected, wooden canopy and shaded
+beneath it is a large forge.  Strips of metal have been stacked alongside the
+forge and tools hang from hooks on the wall.  A makeshift sign hangs crookedly
+above the doorway.    
+~
+101 0 1 0 0
+D0
+~
+~
+0 0 10157
+E
+crate crates~
+   The large crates are made from a thick wood and are banded by bands of
+steel.  A small label is on each crate.    
+~
+E
+label~
+   The label reads, 'Dinna drop the box, cause ye might break the things
+inside.  Aye and send it back tae me when yer done cause ye pay fer the
+contents nae the box'
+~
+E
+canopy~
+   The canopy appears to have been built in a hurry.  The guttering is loose
+and holes can be seen in the roof.    
+~
+E
+forge~
+   The forge emanates a comforting warmth.  Then, as air is fed into it, a
+blast of intense heat briefly fills the courtyard.    
+~
+E
+strips metal~
+   Long strips of expensive steel lie carefully stacked alongside the forge.  
+The steel is obviously waiting to be folded and beaten into weapons and armor.
+  
+~
+E
+tool tools hooks~
+   Hammers and tongs of various sizes hang from hooks in the wall.  On closer
+inspection the hooks are actually long nails that have been hammered in to the
+wall with great force.    
+~
+E
+sign~
+   The poorly painted sign reads, 'Khrinus's Forge, Best Armor and Weapons in
+a' the Worlde'.    
+~
+S
+#10166
+Blue Sails Warehouse~
+   This warehouse offers rental space to all, no questions asked.  Material to
+be stored can't be alive or flammable, and space is divided into longboxes.  
+The longboxes are more or less coffin sized.  Empty cubicles the size of up to
+two longboxes deep and eight high are also available.  If cooling is needed,
+ice and watching costs extra daily.    
+~
+101 8 0 0 0
+D1
+~
+~
+0 0 10030
+S
+#10167
+In The Home of A Retired Sailor~
+   This cozy little room is the den of a retired sailor's home.  With
+comfortable stuffed chairs, a small stone fireplace, and shelves filled with
+books and curios it looks like the kind of place a tired adventurer could
+really kick back and relax.  The curios on the shelves are from all of Ansalon.
+Breastplates from the lands of the minotaurs, crystal globes from the elves,
+and strange mechanical devices from the gnomes among other things fill the
+shelves.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10168
+D1
+~
+~
+0 0 10032
+S
+#10168
+A Sailor's Bedroom~
+   This small room is the retired sailor's bedchamber.  It is sparsely
+furnished, especially in comparison to the den to the south.  Only two pieces
+of furniture are in the room: a fair sized bed and a large wooden trunk.  
+Obviously the sailor spends most of his time in his den, remembering the days
+he spent on the sea.    
+~
+101 8 0 0 0
+D2
+~
+~
+0 0 10167
+S
+#10169
+The Northern Gate~
+   This is one of the city's three gatehouses.  Looking through the bars of the
+gate you can see the area around the city.  The gatehouse itself is small,
+built into the stone ten foot wall that surrounds the city.  With stone walls,
+ceiling, and floor, the room is quite cold and distant.  A small torch on
+either side of the gate provides the room with light and a little heat.    
+~
+101 8 0 0 0
+D0
+~
+gate~
+1 0 6000
+D2
+~
+~
+0 0 10099
+S
+#10170
+The Western Gate~
+   This is one of the city's three gatehouses.  Looking through the bars of the
+gate you can see the area around the city.  The gatehouse itself is small,
+built into the stone ten foot wall that surrounds the city.  With stone walls,
+ceiling, and floor, the room is quite cold and distant.  A small torch on
+either side of the gate provides the room with light and a little heat.    
+~
+101 8 0 0 0
+D1
+~
+~
+0 0 10005
+D3
+~
+gate~
+2 2100 7099
+S
+#10171
+The Southern Gate~
+   This is one of the city's three gatehouses.  Looking through the bars of the
+gate you can see the area around the city.  The gatehouse itself is small,
+built into the stone ten foot wall that surrounds the city.  With stone walls,
+ceiling, and floor, the room is quite cold and distant.  A small torch on
+either side of the gate provides the room with light and a little heat.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10018
+D2
+~
+gate~
+1 2100 7100
+S
+#10172
+The Dripping Dagger Inn~
+   This small room is where you pay for your room here at the Dripping Dagger
+Inn.  A large counter blocks you from passing more than a few feet into the
+room.  Behind the counter a large shelf is filled with books containing the
+Inn's financial records, dating back more than half a century.  The counter is
+littered with papers that the Innkeeper is currently working on, as well as the
+current log book.    
+~
+101 8 0 0 0
+D2
+~
+~
+0 0 10138
+S
+#10173
+The Main Board Room~
+   This small room contains only a bulletin board on the north wall of the
+room.  Pictures of heroes of Krynn and their fantastical deeds have been
+painted on the walls of the room by an excellent artist.  These pictures
+depict, amongst others, Kith-Kanan, Vinas Solamnus, and Huma Dragonbane.    
+~
+101 8 0 0 0
+D2
+~
+~
+0 0 -1
+D9
+~
+~
+0 0 10139
+S
+#10174
+The RP Board Room~
+   This small room contains only a large bulletin board on the north wall.  
+The bulletin board actually covers the entire wall, and is itself plastered
+with messages and notes.  The walls of the room are covered in paintings of
+various places in Krynn including The Tower of The Stars in Silvanost, The High
+Clerist's Tower outside of Palanthas, and Vingaard Keep.  This board is for the
+questions, comments, and ideas or suggesstions that the mortals may have
+concerning things such as RP, Quests, Invasions, and minor or major situations,
+histories, backgrounds for characters that might occur, or that they wish to
+do.  Imms may reply as well on this board, to answer or ask for ideas about any
+RP-type situation.    
+~
+101 8 0 0 0
+D3
+~
+~
+0 0 10139
+D8
+~
+~
+0 0 -1
+S
+#10175
+The Trade and Special Events Board Room~
+   A fair sized bulletin board is attached to the east wall of this small room.
+Strange objects from all over Krynn litter the floor of here.  Things such as
+elven gems, dwarven armor, and Qualinesti leather-working are just a few of the
+strange, and valuable, objects to be found here.    
+~
+101 8 0 0 0
+D3
+~
+~
+0 0 -1
+D8
+~
+~
+0 0 10139
+S
+#10176
+The Policy Board Room~
+   The board on the southern wall of this room is for discussing the Gods'
+policies as they pertain to the mortals of Krynn.  Discussion topics include
+things such as helping mortals, the healing of mortals, and Gods abusing their
+powers towards mortals.  Pictures of the Gods have been painted on the walls,
+including Chemosh, Lunitari, Branchala, and Gilean.    
+~
+101 8 0 0 0
+D6
+~
+~
+0 0 10139
+S
+#10177
+The Bug Board Room~
+   The bulletin board on the south wall of this small room is for pointing out
+bugs.  If you find any bugs anywhere in Krynn, just leave a note here and one
+of the Gods will fix it.  A large mural of Branchala is the only decoration in
+this room, and it fills the entire east wall of the room.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 10139
+S
+#10178
+The Local Crime Board Room~
+   This small room with stone walls and a dirt floor is decorated only with a
+small bulletin board on the south wall.  This bulletin board is for posting
+messages about unjust crimes that you have seen or fallen victim to near
+Kalaman.  The city guard occasionally comes here and reads the board, and then
+attempts to solve the crime.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 -1
+D7
+~
+~
+0 0 10139
+S
+#10179
+The Dripping Dagger Inn Mailroom~
+   This small room to the east of the bookroom is where those who are staying
+at the Inn can receive mail sent to them here.  A large man stands behind a
+counter sorting mail into a large array of mail slots on the wall behind him.
+Each slot has a small name on it, and there is one for you somewhere in there.
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10139
+D3
+~
+~
+0 0 -1
+S
+#10180
+A Bakery~
+   This small front end of the local bakery is filled with wonderful pastries.
+A glass clase between you and the Baker protects and displays all sorts of
+pies, cakes, breads, muffins, and assorted pastries.  The wonderful smells
+cause your stomach to rumble, and make you hunger for a taste.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 10035
+S
+#10181
+Southgate Tower~
+   You find yourself on a great spiral stairway in the large tower set into the
+south wall of the city.  No windows line the walls of this stairway, so you
+have absolutely no idea how far up you are.  Scones in the wall hold torches
+every twenty feet or so, providing minimal light and casting shadows all around
+you.    
+~
+101 8 0 0 0
+D0
+~
+~
+0 0 10017
+D4
+~
+~
+0 0 10182
+S
+#10182
+Southgate Tower~
+   You find yourself on a great spiral stairway in the large tower set into the
+south wall of the city.  No windows line the walls of this stairway, so you
+have absolutely no idea how far up you are.  Scones in the wall hold torches
+every twenty feet or so, providing minimal light and casting shadows all around
+you.    
+~
+101 8 0 0 0
+D4
+~
+~
+0 0 10183
+D5
+~
+~
+0 0 10181
+S
+#10183
+On Top of the Southgate Tower~
+   From the top of the tower watching over the area outside of the city and to
+the south you can barely see the Midland Highway through the dense foliage of
+the forest below.  The treetops are at least thirty feet below you, a fall from
+this height would surely be fatal.  To the north the entire city of Kalaman
+lays before you, and you see that you are almost as far up as one would be in
+the observatory tower of the Temple of Paladine.    
+~
+101 8 0 0 0
+D5
+~
+~
+0 0 10182
+S
+#10184
+A Townhome~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+101 33554956 0 0 0
+D3
+~
+~
+0 0 10001
+S
+#10185
+A Townhome~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+101 33554444 0 0 0
+D3
+~
+~
+0 0 10000
+S
+#10186
+Westgate Tower~
+   This narrow tower guards the western gate of Kalaman, keeping watch over the
+vast plains in that direction.  The inside of the tower is windowless, holding
+only a narrow spiral stairway that climbs to the top of the tower, illuminated
+at sparse intervals by strongly burning torches in metal sconces on the wall.  
+~
+101 8 0 0 0
+D1
+~
+~
+0 0 10006
+D4
+~
+~
+0 0 10187
+S
+#10187
+Westgate Tower~
+   This narrow tower guards the western gate of Kalaman, keeping watch over the
+vast plains in that direction.  The inside of the tower is windowless, holding
+only a narrow spiral stairway that climbs to the top of the tower, illuminated
+at sparse intervals by strongly burning torches in metal sconces on the wall.  
+~
+101 8 0 0 0
+D4
+~
+~
+0 0 10188
+D5
+~
+~
+0 0 10186
+S
+#10188
+On Top of the Westgate Tower~
+   From the top of the tower guarding the western wall of Kalaman you can see
+for miles over the forests to the west, watching the winding path of the Plains
+Highway.  Far to the west and slightly to the south you can see the jagged
+peaks of the Dargaard Mountains.  Looking back into the city to the east you
+notice that the tower you are in is not quite as tall as the tower of the
+Temple of Paladine.    
+~
+101 8 0 0 0
+D5
+~
+~
+0 0 10187
+S
+#10189
+A Townhome~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+101 33554444 0 0 0
+D2
+~
+~
+0 0 10046
+S
+#10190
+A Townhome~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+101 33554444 0 0 0
+D2
+~
+~
+0 0 10087
+S
+#10191
+Northgate Tower~
+   You are slowly making your way along the narrow spiral staircase of this
+tower.  There are no windows, so your only light is from the torches placed in
+metal scones located in infrequent intervals along the wall.  This sturdy tower
+guards the northern wall of the city, providing a lookout point to watch for an
+attack from the north.    
+~
+101 8 0 0 0
+D2
+~
+~
+0 0 10098
+D4
+~
+~
+0 0 10192
+S
+#10192
+Northgate Tower~
+   You are slowly making your way along the narrow spiral staircase of this
+tower.  There are no windows, so your only light is from the torches placed in
+metal scones located in infrequent intervals along the wall.  This sturdy tower
+guards the northern wall of the city, providing a lookout point to watch for an
+attack from the north.    
+~
+101 8 0 0 0
+D4
+~
+~
+0 0 10193
+D5
+~
+~
+0 0 10191
+S
+#10193
+On Top of the Northgate Tower~
+   From atop the northern tower of the city's defenses you can see far to the
+north.  You can barely see the hazy form of North Keep far in the distance.  
+North Keep is an outpost of the Knights of Solamnia, from which they keep watch
+over this entire area.  Back to the south you can see all of the city, and you
+can also see the even taller tower of the Temple of Paladine.    
+~
+101 8 0 0 0
+D5
+~
+~
+0 0 10192
+S
+#10194
+A Townhome~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+101 33554444 0 0 0
+D2
+~
+~
+0 0 10050
+S
+#10195
+A Townhome~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+101 33554444 0 0 0
+D2
+~
+~
+0 0 10049
+S
+#10196
+Board Room of Alternate Universes~
+   This small room contains a bulletin board on the north wall of the room,
+written in a strange language you can't place with any race on Krynn.  In the
+center of the room is a sphere wrapped with what looks like a geographical map,
+spinning of its own accord, and radiating a pale blue light that both chills
+and warms your soul.  You feel somehow connected to it...  Yet completely
+incapable of determining how.  A stairway leads up to the area where you first
+started your journey.  If you find yourself in need of more guidance, it might
+be a good idea to take another stroll through those rooms.    
+~
+101 8 0 0 0
+D1
+~
+~
+0 0 10139
+D4
+~
+~
+0 0 2070
+D5
+~
+~
+0 0 -1
+S
+#10197
+The Ambrosie Fine Garment Emporium~
+   The back room of the clothing shop is where Galaralas insists on keeping the
+outer garments, which apparently aren't as in fashion these days.  Lining the
+walls are numerous cloaks, jackets, and other accessories.  Also a few of the
+less glamorous outfits have found their way to these rear shelves, out of the
+eyeline of all save those who are looking for more rugged gear.  Some boxes at
+the rear of the room remain unopened, possibly either new arrivals, or items
+that are being cleared out of the stock.  An elegant archway leads back to the
+east.    
+~
+101 8 0 0 0
+D1
+~
+~
+0 0 10161
+S
+#10198
+A Room of Swirling Shadows~
+   This room is cast in shadows.  There are no windows and the walls and
+ceiling are smudged in soot from the torches which line the walls.  A few low
+benches offer places for mages to sit and converse on various topics.  One wall
+is fixed with shelves which hold hundreds of scrolls.  The air here is thick
+with the smell of magic components and the faint tinge of wood smoke.    
+~
+101 220 0 0 0
+D1
+~
+~
+0 0 -1
+S
+T 10199
+T 10198
+T 10196
+#10199
+Brytte's House of Magic~
+   In this small, darkened shop, Brytte sells a variety of items of interest to
+the local magi.  Nearly every square foot of space has been used to fullest
+advantage.  There are imported fabrics draped across a chair in one corner.  
+In another corner, a wooden crate full of unlabelled potions rests, waiting to
+be put on the shelves for sale.  The main display case has been crafted from
+dark wood, and designed with a section to hold garments, and a section for
+scrolls, potions and other similar items.  Brytte herself selects all items for
+sale, not trusting the judgement of any assistants in her efforts to carry only
+those items most useful (and most likely to sell at a high profit margin) to
+her clientele.  Scented candles burn here and there, which, along with incense,
+serve to fill the shop with an exotic fragrance.  A wooden door stands ajar to
+the south, and an archway, covered with a cloth curtain sits to the east.    
+~
+101 156 0 0 0
+D1
+~
+~
+0 0 10103
+D2
+~
+~
+0 0 10092
+S
+$~

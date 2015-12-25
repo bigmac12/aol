@@ -1,0 +1,302 @@
+#5400
+mage stiff red robes~
+a mage with stiff red robes~
+A mage with stiff red robes waits patiently in the cold.
+~
+   A man with short cropped hair and a grizzled beard caked in frost patiently
+rocks back and forth staring out over the cliff and into the swirling snow.  
+His face is pale and fatigues and the robes which once flowed lightly over his
+body have frozen together into stiff masses that make crunching sounds as he
+moves.    
+~
+2058 0 0 0 E
+12 13 4 5d6+210 2d8+3
+105 4700 0
+8 8 1 0
+E
+#5401
+man shredded black clothing mage~
+a man in shredded black clothing~
+A man in shredded black clothing lays out apparently frozen on the stone.
+~
+   An immobile form lays out flat on the stone with its head turned out the
+opening to see the view.  Its skin is frozen almost solid and a thin layer of
+ice crystals cover it entirely, reflecting the light.  The knees are worn out
+of the long black robes as though knelt upon for many years as the eyes stare
+out and curiously still glisten wetly.    
+~
+524296 0 16777216 -850 E
+16 11 0 3d20+320 3d6+4
+495 11000 1
+8 8 1 0
+BareHandAttack: 13
+E
+#5402
+man shaven head~
+a man with a shaven head~
+A man with a shaven head picks around the frozen corpses.
+~
+   A grotesquely thin man wearing little more than a patchwork of fabric slowly
+shuffles about picking through the remains of the people interred here.  His
+head is shaved clean and his nose is blackened and shriveled from untreated
+frostbite.  He pauses for a moment at a small piece of cloth stuck to an old
+bone, tears it off and places it carefully within his robe.    
+~
+8 0 0 0 E
+10 14 6 5d4+160 2d7+2
+82 1900 0
+8 8 1 0
+BareHandAttack: 13
+E
+#5403
+huge white feathered bird~
+a huge white feathered bird~
+A huge white feathered bird snaps its beak.
+~
+   A massive bird standing more than half the height of a grown human hops back
+and forth on the edge of the platform.  Long talons dig in to the wooden
+decking leaving little gouged holes.  It has beautiful, long white feathers
+which perfectly insulate the predator as well as allow it to soar along the up
+currents that flow beside the cliff.    
+~
+8 0 0 0 E
+11 14 5 5d4+190 2d8+2
+89 2900 0
+8 8 0 0
+BareHandAttack: 8
+E
+#5404
+mage blank eyes~
+a mage with blank eyes~
+A mage with blank eyes stares out over the edge of the cliff.
+~
+   The empty space beyond the ledge of the cliff consume the gaze of a young
+mage in thin robes.  His enraptured eyes look out into the grey skies as he
+shivers uncontrollably from the bitter cold.  Strips of fabric wrapped around
+his hands and feet are stained red from blood oozing from the dead frostbitten
+skin.  He gets up for a moment and steps toward the edge only to stumble and
+settle back down again.    
+~
+10 0 0 0 E
+14 12 2 6d8+240 2d8+4
+291 7000 0
+8 8 1 0
+E
+#5405
+woman burned blackened clothes~
+a woman in burned and blackened clothes~
+A woman in burned and blackened clothes rattles around through her bottles.
+~
+   This beautiful woman, a young adept of alchemy, carefully studies the
+contents of a number of translucent and unlabeled bottles.  Her red robes have
+been almost completely charred black from burning.  The skin of her hands and
+face is red and peeling from being exposed to some form of extreme heat, likely
+the intent of her experiments.    
+~
+524298 0 4 0 E
+16 11 0 3d20+320 3d6+4
+523 11000 1
+8 8 2 0
+E
+#5406
+man twitching shaking~
+a man, twitching and shaking~
+A man, twitching and shaking shuffles along the walkways.
+~
+   A sad man lunges and stumbles about on the thin platforms.  He constantly
+shakes and twitches, likely going into hypothermia from the cold and lack of
+warm clothing.  It appears from his wild gazes that he is apparently searching
+for some way to escape the cold but he lacks the strength and direction to
+climb down from the mountain.    
+~
+8 0 0 0 E
+11 14 5 5d4+190 2d8+2
+92 2900 0
+8 8 1 0
+BareHandAttack: 13
+E
+#5407
+elemental pure ice~
+an elemental formed of pure ice~
+An elemental formed of pure ice glistens in the light.
+~
+   It appears as though some creature has been summoned from the ice and has
+left to run amok.  An amorphous form of solid ice slides along the stone
+leaving a thin layer of slippery crystals as it passes.  It wildly bangs into
+everything it sees though fortunately there is little here other than stone to
+damage.  Deep within its center pulses a faint light of pale blue.    
+~
+2088 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+631 11800 3
+8 8 0 0
+BareHandAttack: 6
+E
+#5408
+holy man frozen beard~
+a holy man with a frozen beard~
+A holy man with a frozen beard cautiously listens along the wall.
+~
+   A man of apparently great peace walks along the passageways, peering around
+each corner as if looking for something dangerous.  He has a black beard which
+has been tinted white from the snow and has thin trails of ice running down
+from the corners of his mouth.  He quickly glances down at his hands as a sharp
+crack is heard and steps back.    
+~
+524296 0 2050 0 E
+15 11 1 5d10+300 2d8+4
+404 9400 2
+8 8 1 0
+E
+#5409
+woman limping frost feet~
+a woman with frost bitten feet~
+A woman with frost bitten feet limps along.
+~
+   A short woman in long pants and a thick shirt quickly moves along the
+ledges.  Although warmly dressed elsewhere she has bare feet that are black and
+shrunken and have several toes missing.  Each step is carefully placed as
+likely all feeling has left her feet, nonetheless she still maintains an
+intense and purposeful look.  A freezing gust of wind nearly knocks her over as
+she continues along the platform.    
+~
+8 0 0 0 E
+13 13 3 6d5+240 2d9+2
+211 6625 0
+8 8 2 0
+E
+#5410
+small child blue lips pale skin~
+a small child with blue lips and pale skin~
+A small child with blue lips and pale skin swings on the chair.
+~
+   A little girl with a smug and content smile swings back and forth on the
+dangerous, hanging chair.  Her skin is pale and her lips are blue though it
+does not appear that she is in discomfort.  It seems as though she has been
+born into this frigid environment and is perfectly happy in the freezing cold.
+She turns slightly as you approach and giggles before looking back out into the
+sky.    
+~
+524314 134217728 2 0 E
+17 10 -1 3d20+340 3d6+5
+585 12500 1
+8 8 2 0
+E
+#5411
+man small flame palm~
+a man carrying a small flame~
+A man carrying a small flame within his upturned palm.
+~
+   A confident and well dressed man walks proudly along the hanging walkways.
+He appears to be dressed in a better manner than the rest of the inhabitants of
+this part of the cliff.  He holds one hand upturned from which rises a small
+but intensely burning orange and blue flame.  It appears as though he may be
+bringing a source of heat to this freezing area.    
+~
+524296 0 4 0 E
+16 11 0 3d20+320 3d6+4
+523 11000 1
+8 8 1 0
+BareHandAttack: 13
+E
+#5412
+rock spider~
+a rock spider~
+A rock spider clicks along the rocks as it moves.
+~
+   A large arachnid covered in a thick brown matting of hair intermixed with
+long spines travels slowly along the wall of the cliff.  The end of its stubby
+legs terminate in small hooks that are perfect for grabbing at tiny cracks in
+the stone to enable its movement.  Several pairs of black eyes stare blackly
+out as the spider turns about to face the approaching noise and reveal its
+sharp mandibles.    
+~
+40 0 0 0 E
+12 13 4 5d6+210 2d8+3
+97 4700 0
+8 8 0 0
+BareHandAttack: 4
+E
+#5413
+intense woman~
+an intense woman~
+An intense woman studying a book pauses momentarily nearby.
+~
+   Staring down intently at a small book is an older woman with jet black hair
+and long flowing red robes.  She does not pay any attention to anything except
+for her readings as she slowly paces back and forth within the hand carved
+tower.  The relative warmth and protection of the interior of the mountain has
+left her healthy enough to devote herself to her studies.    
+~
+8 0 0 0 E
+15 11 1 5d10+300 2d8+4
+410 8400 0
+8 8 2 0
+E
+#5414
+emaciated man~
+an emaciated man~
+An emaciated man stares up at the ceiling.
+~
+   A strange man with long unwashed hair and dirty bare feet stares
+unwaveringly at the painted stars on the ceiling.  It appears as though he has
+not eaten in a week or two and his cheekbones have begun to extrude from his
+face.  Occasionally he will mumble something to himself and point at a star
+before returning to his trance like state.    
+~
+32778 0 0 0 E
+13 13 3 6d5+240 2d9+2
+198 6625 0
+8 8 1 0
+E
+#5415
+archmage mage tower~
+the archmage of the tower~
+The archmage of the tower examines the floor's inscriptions.
+~
+   An older man in blood red robes fringed with gold madly circles around a
+large chair in the center of the room and looks at the floor as if trying to
+figure out some puzzle.  He appears distracted and angry, likely unsuccessful
+at his task and frustrated.  A small crackle of static erupts around his hands
+as he clenches then into a fist.    
+~
+524302 0 16 0 E
+17 10 -1 3d20+340 3d6+5
+625 12100 1
+8 8 1 0
+BareHandAttack: 13
+E
+#5416
+woman crouching~
+a crouching woman~
+A woman crouches beside a small fire.
+~
+   Crouching beside a small fire built into the side of the cliff a thin woman
+attempts to gain some small amount of comfort from the dim flames.  She is very
+skinny but at least for the moment appears to be drawing some amount of
+pleasure from the warmth.  This was only a momentary respite and she already
+begins to look longingly back out to the cold edge of the cliff.    
+~
+10 0 0 0 E
+15 11 1 5d10+300 2d8+4
+390 8400 0
+8 8 2 0
+BareHandAttack: 13
+E
+#5417
+half naked man~
+a half naked man~
+A half naked man stubles about in a daze.
+~
+   A man wearing little more than a thin piece of fabric around his waist
+stumbles about turning slow circles while looking up into the falling snow.  
+His eyes appear detached from reality as he dances about and stomps his feet on
+the hard, ice covered stone.  A crazed look suddenly appears on his face and he
+seems to lean towards the edge of the cliff as if to jump off.    
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+315 7000 0
+8 8 1 0
+E
+$

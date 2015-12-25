@@ -1,0 +1,191 @@
+#400
+man silent deep black robes~
+a man in deep black robes~
+A man in dark black robes silently stalks the area.
+~
+   An uneasy feeling hits you as you look upon this man.  While he is most
+definitely human, his features are gaunt and drawn, and rather terrifying.  
+His eyes show not the faintest trace of emotion.  His robes are the color of
+midnight, betraying not the slightest hint of light within their folds.  His
+eyes narrow to a frown as he regards you coolly.    
+~
+12 786464 0 -850 E
+10 14 6 5d4+160 2d7+2
+85 1900 4
+8 8 1 0
+BareHandAttack: 14
+E
+#401
+paladin dark~
+a dark paladin~
+A dark paladin stands here, his face showing no emotion.
+~
+   This human male stands at a little over six feet tall, about average for a
+human.  He looks like he has recently reached middle age, his face looks
+slightly worn.  His armor is made out of blackened steel and is very well kept.
+It covers all of him and each piece has been cleaned and polished.  His
+expression remains cool and composed.    
+~
+1572872 33554432 2562 -850 E
+23 6 -7 3d33+650 3d8+8
+1200 52000 7
+8 8 1 0
+BareHandAttack: 3
+E
+#402
+cleric dark~
+a dark cleric~
+A dark cleric stands here, absentmindedly fingering his pendant.
+~
+   This man is fairly young, he hasn't reached his middle ages yet.  His robes
+are dark black and go down to his ankles.  His hair looks neglected, it is
+almost shoulder length and very shaggy looking.  The dirty brown strands of
+hair have tangles in them.  His eyes remain sharp though, he has bright blue
+eyes that look around the room, taking everything in.    
+~
+524296 132 88219648 -850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 2
+8 8 1 0
+BareHandAttack: 5
+E
+#403
+cleric elderly~
+an elderly cleric~
+An elderly cleric stands here, his body hunched over.
+~
+   This man is near the end of his natural life.  While standing, his knees
+shake slightly from the weight put on them.  His clothing is kept to simple
+light weight robes, he feels that he doesn't need anything fancy.  His hair is
+in a horseshoe shape, the top of his head is completely bald.  His body is
+frail looking, almost like a good gust of wind would break him, but he seems to
+have spiritual power in him, the result of years in the clergy.    
+~
+524296 140 11534352 0 E
+27 3 -11 3d33+1400 4d7+8
+1600 135000 2
+8 8 1 0
+BareHandAttack: 12
+E
+#404
+knight solamnic old~
+an old Solamnic Knight~
+An old Soamnic Knight stands here, his posture perfectly straight.
+~
+   This man is old, but there is little doubt of his combat ability.  His eyes
+remain sharp and his movements are percise.  His hair is completely grey, but
+it is still well kept.  His mustache is groomed as well.  His eyes are a deep
+golden brown color.  Each piece of his armor has been polished and cleaned.  A
+sheathed broadsword stays at his side.    
+~
+3145736 0 0 850 E
+26 3 -10 3d33+950 4d8+8
+1500 115000 0
+8 8 1 0
+BareHandAttack: 14
+E
+#405
+man elven tall white robe robes mage magi~
+a tall elven man in white robes~
+A tall elven man in white robes stands here.
+~
+   For humans the exact race of this man is difficult to tell, but to those who
+are familiar with elves, this man is a Silvanesti.  He has many classic elven
+traits.  The almond shaped hazel eyes, honey blonde hair, pointed ears, and a
+slender body.  Although, he is a little more slender than most, he could be
+called frail.  His robes are long and white, having magical runes stiched in
+them, protecting him from some harm.  His face is burned, probably the price he
+paid for magic.    
+~
+524296 33555456 44041344 850 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 1
+8 8 1 0
+BareHandAttack: 12
+E
+#406
+man bald red robe robes mage magi~
+a bald man in red robes~
+A bald man in red robes stands here.
+~
+   It is difficult to tell the age of this man, all that is certain is that he
+isn't young.  His robes appear to be thick, around the sleeves and neckline of
+the robe are glowing runes.  Around his waist is a belt that a kender would be
+proud to own, there are many pouches on it, each one of them full of magical
+components or magical items.  It is hard to be sure if he is bald from natural
+reasons or if the Test did it to him.    
+~
+524296 33554432 16777552 0 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 1
+8 8 1 0
+BareHandAttack: 12
+E
+#407
+woman frail black robes robe mage magi~
+a frail woman in black robes~
+A frail woman in black robes stands here.
+~
+   This woman is begining to show the effects of old age.  Her long brown hair
+is starting to show highlights of silver.  Her robes are an extreamly dark
+black, either that or the robes actually keep some light away.  Her eyes are
+completely white yet she faces things that have her attention, even objects, as
+if she could see.  In her left hand is a black orb the size of a fist.  Once in
+a while the orb seems to have an eye appear in it.    
+~
+655384 33554432 71303872 -850 E
+25 5 -9 3d33+750 4d6+8
+0 87000 1
+8 8 2 0
+BareHandAttack: 12
+E
+#408
+boy young dirt smudged face quest~
+a young boy with a dirt smudged face~
+A young boy with a dirty face is here, his curious eyes always examining the world around him.
+~
+   This boy is still very young, only five to six years old.  His hair is
+blonde but it is a little darker than it should be, not being cleaned for a
+long time.  His face has a bit of mud and dirt on it, covering over a few
+freckles.  The clothing he wears matches the rest of him, dirty.  By just
+looking, it's hard to tell if he is wearing the clothing out of choice or out
+of necessity.    
+~
+10 40 0 0 E
+8 15 8 5d5+110 2d6+2
+0 0 0
+8 8 1 0
+E
+#409
+boy injured tattered quest~
+an injured boy wearing tattered clothing~
+An injured boy in tattered clothing rests on the ground here, holding his left arm.
+~
+   This boy appears to have been injured fairly badly, his right hand is
+grasping his left arm, just above the elbow.  Blood can be seen coming from
+under his hand.  His body is covered with scrapes and cuts of different shapes
+and sizes.  His clothing is torn with fresh bloodstains on it, making the
+clothing stick to his body.    
+~
+10 40 0 0 E
+8 15 8 5d5+110 2d6+2
+0 0 0
+8 5 1 0
+E
+#410
+girl flower little quest~
+a little girl holding a flower~
+A little girl walks around the area, holding a daisy.
+~
+   The girl can't be very old at all, she's still smaller than some kenders.  
+Her hair is worn in short brown pigtails.  Her face seems to be smiling most
+the time.  Her little dress has a few grass stains on it, much to her mother's
+dismay, while her nose has a smudge of dirt.  In her little hands is a daisy
+that she acquired while outside.    
+~
+10 40 0 0 E
+8 15 8 5d5+110 2d6+2
+0 0 0
+8 8 2 0
+E
+$

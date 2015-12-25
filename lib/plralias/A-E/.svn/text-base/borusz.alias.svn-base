@@ -1,0 +1,465 @@
+1
+x
+16
+st ; mount horse
+1
+4
+pool
+14
+c refl-pool $*
+1
+2
+ag
+10
+ass gholor
+0
+2
+og
+15
+order gholor $*
+1
+5
+charm
+123
+remo wind ; get pendulum wind ; hang wind belt ; remo blackened.shield ; hold pendulum ; c charm $* ; wear blackened.shield
+1
+2
+cg
+14
+control gholor
+0
+3
+gbp
+14
+get bread wind
+0
+7
+spellup
+198
+c great-sanc $* ; c aid $* ; c c-f ; eat bread ; remo wind ; put all.bread wind ; hang wind belt ; c sen-lif ; c det-invis ; c prayer ; c stren $* ; c mag-li $* ; c spir-hamm ; c braver $* ; c cloak
+1
+2
+rp
+9
+remo wind
+0
+2
+wp
+14
+hang wind belt
+0
+3
+lip
+12
+look in wind
+0
+1
+2
+18
+put all.bread wind
+0
+2
+sd
+15
+c soul-drain $*
+1
+4
+deaf
+9
+c deaf $*
+1
+7
+conceal
+9
+c conceal
+0
+5
+infra
+7
+c infra
+0
+2
+np
+13
+c neut-poi $*
+1
+2
+dp
+12
+c det-poi $*
+1
+5
+tiger
+24
+get tiger pack ; q tiger
+1
+2
+ao
+8
+ass form
+0
+2
+oo
+13
+order form $*
+1
+2
+kf
+12
+control form
+0
+2
+ak
+10
+ass korova
+0
+1
+;
+11
+chat &c$*&n
+1
+4
+weak
+10
+c weakn $*
+1
+2
+ac
+10
+ass corpse
+0
+2
+oc
+15
+order corpse $*
+1
+2
+cc
+14
+control corpse
+0
+2
+ks
+14
+control stahnk
+0
+2
+as
+10
+ass stahnk
+0
+2
+os
+15
+order stahnk $*
+1
+3
+aid
+8
+c aid $*
+1
+2
+ad
+9
+ass disir
+0
+2
+od
+14
+order disir $*
+1
+2
+at
+9
+ass troll
+0
+2
+ot
+14
+order troll $*
+1
+2
+ae
+15
+ass executioner
+0
+2
+oe
+20
+order executioner $*
+1
+2
+aj
+8
+ass jail
+0
+2
+oj
+13
+order jail $*
+1
+3
+lib
+11
+look in bag
+0
+2
+ap
+13
+ass priestess
+0
+2
+op
+18
+order priestess $*
+1
+5
+cloak
+7
+c cloak
+0
+2
+di
+10
+c det-invi
+0
+4
+para
+13
+c paralyze $*
+1
+2
+af
+8
+ass form
+0
+3
+min
+15
+c great-sanc $*
+1
+2
+a3
+14
+ass 3.sentinel
+0
+2
+o3
+19
+order 3.sentinel $*
+1
+2
+a2
+14
+ass 2.sentinel
+0
+2
+o2
+19
+order 2.sentinel $*
+1
+5
+brave
+10
+c brave $*
+1
+6
+locate
+15
+c locate-obj $*
+1
+3
+dis
+11
+c diseas $*
+1
+6
+hammer
+14
+c spiri-hammer
+0
+2
+bc
+14
+c best-curs $*
+1
+2
+cp
+8
+c prayer
+0
+2
+sl
+9
+c sen-lif
+0
+2
+fl
+9
+c flam $*
+1
+2
+hp
+16
+c hold-person $*
+1
+3
+str
+8
+c str $*
+1
+3
+sil
+8
+c sil $*
+1
+2
+ab
+9
+ass blood
+0
+2
+ob
+14
+order blood $*
+1
+6
+dispel
+13
+c disp-mag $*
+1
+6
+unlock
+19
+unlock $* ; open $*
+1
+2
+aw
+10
+ass wraith
+0
+2
+ow
+15
+order wraith $*
+1
+2
+eb
+9
+eat bread
+0
+2
+cs
+13
+c cure-sev $*
+1
+3
+lic
+13
+look in cloak
+0
+2
+rf
+14
+c remo-fear $*
+1
+2
+if
+17
+c inspire-fear $*
+1
+2
+mm
+40
+get parchment pack ; recite parchment $*
+1
+2
+av
+29
+order followers assist borusz
+0
+2
+of
+18
+order followers $*
+1
+5
+blind
+10
+c blind $*
+1
+4
+heal
+24
+get flask pack ; q flask
+1
+2
+da
+9
+c det-ali
+0
+2
+cw
+13
+c cre-wa skin
+0
+2
+cm
+13
+c cure-mod $*
+1
+1
+1
+14
+buy 10 rations
+0
+2
+cf
+7
+c cre-f
+0
+2
+ms
+13
+c mag-ston $*
+1
+2
+sc
+4
+scan
+0
+2
+dm
+12
+c det-mag $*
+1
+4
+dark
+9
+c dark $*
+1
+2
+ml
+11
+c mag-li $*
+1
+4
+drin
+9
+drin skin
+0
+3
+gac
+18
+get all all.corpse
+0
+2
+bl
+10
+c bless $*
+1
+2
+cl
+14
+c cure-ligh $*
+1

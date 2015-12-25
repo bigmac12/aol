@@ -1,0 +1,1198 @@
+#12700
+A Winding Path Leading To A Tower~
+   A polished, grey cobblestone path winds a sinuous line to an expansive hedge
+maze.  In the midst of the foilage stands a shimmering tower sheathed in a
+thin, layer of limestone, giving it a wet, glistening appearnce.  Strong winds
+blow and buffet leaves and other small debris causing visibility to be
+partially obscured.    
+~
+127 4 2 0 0
+D3
+~
+~
+0 0 12701
+S
+#12701
+A Path Within A Hedgerow~
+   Vines criss-cross the ground in a tangled mass of greens and browns.  The
+silence seems overpowering as all sound of life has been muted.  Sharp thorns
+coat the walls of the hedgerows, looking quite painful and perhaps poisonous.
+A heavy wood scent tinged with decay seems to linger about in the air.    
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12720
+D1
+~
+~
+0 0 12700
+D2
+~
+~
+0 0 12702
+S
+#12702
+A Trail Through Thorns And Shrubs~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12701
+D2
+~
+~
+0 0 12703
+S
+#12703
+The Corner Of A Hedge Maze~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12702
+D3
+~
+~
+0 0 12704
+S
+#12704
+A Trail Through The Thicket~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D1
+~
+~
+0 0 12703
+D3
+~
+~
+0 0 12705
+S
+#12705
+Entrance To The Tower Of High Sorcery~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+   An immense wooden door gilded in silver and gold seems to invite travellers
+into the Tower of High Sorcery.    
+~
+door~
+1 0 12723
+D1
+~
+~
+0 0 12704
+D3
+~
+~
+0 0 12706
+E
+door~
+   An immense wooden door gilded in silver and gold seems to invite travellers
+into the Tower of High Sorcery.    
+~
+S
+#12706
+Doorway To The Tower Of High Sorcery~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+   An immense wooden door gilded in gold and silver seems to invite travelers
+into the Tower of High Sorcery.    
+~
+door~
+1 0 12722
+D1
+~
+~
+0 0 12705
+D3
+~
+~
+0 0 12707
+E
+door~
+   An immense wooden door gilded in gold and silver seems to invite travelers
+into the Tower of High Sorcery.    
+~
+S
+#12707
+A Pathway Through Brambles And Bushes~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D1
+~
+~
+0 0 12706
+D3
+~
+~
+0 0 12708
+S
+#12708
+An Altar To Nuitari~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12709
+D1
+~
+~
+0 0 12707
+S
+#12709
+A Forested Pathway~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12710
+D2
+~
+~
+0 0 12708
+S
+#12710
+A Trail Surrounded By A Hedge~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12711
+D2
+~
+~
+0 0 12709
+S
+#12711
+A Bramble-Strewn Pathway~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12712
+D2
+~
+~
+0 0 12710
+S
+#12712
+A Way Through The Hedge~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12713
+D2
+~
+~
+0 0 12711
+S
+#12713
+An Altar To Lunitari~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D1
+~
+~
+0 0 12714
+D2
+~
+~
+0 0 12712
+S
+#12714
+A Path Through The Hedges~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D1
+~
+~
+0 0 12715
+D3
+~
+~
+0 0 12713
+S
+#12715
+A Pathway Through The Thorny Brush~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D1
+~
+~
+0 0 12716
+D2
+   The door vanishes and a bare solid grey brick wall is all that remains.    
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 12714
+E
+door~
+   The door vanishes and a bare solid grey brick wall is all that remains.    
+~
+S
+#12716
+A Path Through The Underbrush~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D1
+~
+~
+0 0 12717
+D2
+   The door vanishes and only a solid bare wall of grey brick remains.    
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 12715
+E
+door~
+   The door vanishes and only a bare solid grey brick wall remains.    
+~
+S
+#12717
+A Trail Through A Brier~
+   You are in an unfinished room.    
+~
+127 0 2 0 0
+D1
+~
+~
+0 0 12718
+D3
+~
+~
+0 0 12716
+S
+#12718
+An Altar To Solinari~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D2
+~
+~
+0 0 12719
+D3
+~
+~
+0 0 12717
+S
+#12719
+A Road Amidst The Brambles~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12718
+D2
+~
+~
+0 0 12720
+S
+#12720
+A Trail Through The Shrubbery~
+You are in an unfinished room.
+~
+127 0 2 0 0
+D0
+~
+~
+0 0 12719
+D2
+~
+~
+0 0 12701
+S
+#12721
+Inside Tower --1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12725
+D4
+~
+~
+0 0 12737
+S
+#12722
+Entrance to the Tower --Mapping~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12726
+D1
+~
+~
+0 0 12723
+D2
+   A slate grey brick wall now stands in the place where the door once was.  
+All traces of the door or any other further travel south have completely
+vanished.    
+~
+~
+0 0 -1
+E
+door~
+   A slate grey brick wall now stands in the place where the door once was.  
+All traces of the door or any other further travel south have completely
+vanished.    
+~
+S
+#12723
+Entrance to the Tower --Mapping~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12727
+D2
+   A slate grey brick wall now stands in the place where the door once was.  
+All traces of the door or any other further travel south have completely
+vanished.    
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 12722
+E
+door~
+   A slate grey brick wall now stands in the place where the door once was.  
+All traces of the door or any other further travel south have completely
+vanished.    
+~
+S
+#12724
+Inside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12728
+S
+#12725
+Inside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12729
+D1
+~
+~
+0 0 12726
+D2
+~
+~
+0 0 12721
+S
+#12726
+Inside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D2
+~
+~
+0 0 12722
+D3
+~
+~
+0 0 12725
+S
+#12727
+Inside Tower --1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12728
+D2
+~
+~
+0 0 12723
+S
+#12728
+Inside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12732
+D2
+~
+~
+0 0 12724
+D3
+~
+~
+0 0 12727
+S
+#12729
+INside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12733
+D1
+~
+~
+0 0 12730
+D2
+~
+~
+0 0 12725
+S
+#12730
+Inside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12734
+D3
+~
+~
+0 0 12729
+S
+#12731
+Inside Tower --1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12735
+D1
+~
+~
+0 0 12732
+S
+#12732
+INside Tower -- 1st Floor~
+You are in an unfinished room.    
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12736
+D2
+~
+~
+0 0 12728
+D3
+~
+~
+0 0 12731
+S
+#12733
+Inside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12734
+D2
+~
+~
+0 0 12729
+S
+#12734
+Inside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+Door.
+~
+Door~
+1 0 12715
+D2
+~
+~
+0 0 12730
+D3
+~
+~
+0 0 12733
+S
+#12735
+Inside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+Door.
+~
+Door~
+1 0 12716
+D1
+~
+~
+0 0 12736
+D2
+~
+~
+0 0 12731
+S
+#12736
+Inside Tower -- 1st Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D2
+~
+~
+0 0 12732
+D3
+~
+~
+0 0 12735
+D4
+~
+~
+0 0 12752
+S
+#12737
+Inside Tower --2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12738
+D5
+~
+~
+0 0 12721
+S
+#12738
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12742
+D3
+~
+~
+0 0 12737
+S
+#12739
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12743
+D1
+~
+~
+0 0 12740
+S
+#12740
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D3
+~
+~
+0 0 12739
+D4
+~
+~
+0 0 12756
+S
+#12741
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12745
+D1
+~
+~
+0 0 12742
+S
+#12742
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12746
+D2
+~
+~
+0 0 12738
+D3
+~
+~
+0 0 12741
+S
+#12743
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12747
+D1
+~
+~
+0 0 12744
+D2
+~
+~
+0 0 12739
+S
+#12744
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12748
+D3
+~
+~
+0 0 12743
+S
+#12745
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12746
+D2
+~
+~
+0 0 12741
+S
+#12746
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12750
+D2
+~
+~
+0 0 12742
+D3
+~
+~
+0 0 12745
+S
+#12747
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12751
+D1
+~
+~
+0 0 12748
+D2
+~
+~
+0 0 12743
+S
+#12748
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D2
+~
+~
+0 0 12744
+D3
+~
+~
+0 0 12747
+S
+#12749
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12750
+D4
+~
+~
+0 0 12765
+S
+#12750
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D2
+~
+~
+0 0 12746
+D3
+~
+~
+0 0 12749
+S
+#12751
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12752
+D2
+~
+~
+0 0 12747
+S
+#12752
+Inside Tower -- 2nd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D3
+~
+~
+0 0 12751
+D5
+~
+~
+0 0 12736
+S
+#12753
+INside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12757
+D1
+~
+~
+0 0 12754
+S
+#12754
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12758
+D1
+~
+~
+0 0 12755
+D3
+~
+~
+0 0 12753
+S
+#12755
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12756
+D3
+~
+~
+0 0 12754
+S
+#12756
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12760
+D3
+~
+~
+0 0 12755
+D5
+~
+~
+0 0 12740
+S
+#12757
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12758
+D2
+~
+~
+0 0 12753
+S
+#12758
+INside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D2
+~
+~
+0 0 12754
+D3
+~
+~
+0 0 12757
+S
+#12759
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12760
+D4
+~
+~
+0 0 12770
+S
+#12760
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D2
+~
+~
+0 0 12756
+D3
+~
+~
+0 0 12759
+S
+#12761
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12765
+D1
+~
+~
+0 0 12762
+S
+#12762
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D3
+~
+~
+0 0 12761
+D4
+~
+~
+0 0 12771
+S
+#12763
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12767
+D1
+~
+~
+0 0 12764
+S
+#12764
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12768
+D3
+~
+~
+0 0 12763
+S
+#12765
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12766
+D2
+~
+~
+0 0 12761
+D5
+~
+~
+0 0 12749
+S
+#12766
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12767
+D3
+~
+~
+0 0 12765
+S
+#12767
+INside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12768
+D2
+~
+~
+0 0 12763
+D3
+~
+~
+0 0 12766
+S
+#12768
+Inside Tower -- 3rd Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D2
+~
+~
+0 0 12764
+D3
+~
+~
+0 0 12767
+S
+#12769
+Inside Tower -- 4th Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12771
+D1
+~
+~
+0 0 12770
+D4
+~
+~
+0 0 12773
+S
+#12770
+Inside Tower -- 4th Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D0
+~
+~
+0 0 12772
+D3
+~
+~
+0 0 12769
+D5
+~
+~
+0 0 12759
+S
+#12771
+Inside Tower -- 4th Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D1
+~
+~
+0 0 12772
+D2
+~
+~
+0 0 12769
+D5
+~
+~
+0 0 12762
+S
+#12772
+Inside Tower -- 4th Floor~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D2
+~
+~
+0 0 12770
+D3
+~
+~
+0 0 12771
+D4
+~
+~
+0 0 12774
+S
+#12773
+Office of the Master of the Tower~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D5
+~
+~
+0 0 12769
+D7
+~
+~
+0 0 12774
+S
+#12774
+Bedroom of the Master of the Tower~
+You are in an unfinished room.
+~
+127 8 0 0 0
+D5
+~
+~
+0 0 12772
+D8
+~
+~
+0 0 12773
+S
+$~

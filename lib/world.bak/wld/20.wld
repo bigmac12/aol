@@ -1,0 +1,686 @@
+#2000
+Upon the Palace Stairs~
+   Elegantly designed stairs lay before you, carved from what seems to be
+marble.  A few palace guards stands at attention before the doors that lead
+into the palace.  This palace was recently constructed for the new lord of
+Palanthas.    
+~
+20 0 1
+D0
+~
+doors door~
+1 0 2001
+D2
+~
+~
+0 0 1903
+S
+#2001
+The Palace Foyer~
+   You've entered what apprears to be a large greeting room.  Servants of the
+lord walk around gathering things and greeting people as they enter.  The hall
+extends to the north, east, and to the west.    
+~
+20 8 0
+D0
+~
+~
+0 0 2006
+D1
+~
+~
+0 0 2004
+D2
+~
+door~
+1 0 2000
+D3
+~
+~
+0 0 2002
+S
+#2002
+Along the Hallway~
+   You begin your walk down this long wide hall.  Pictures are hung, showing
+the lord's family members.  A few guards patrol the halls for people that don't
+belong here.    
+~
+20 8 0
+D1
+~
+~
+0 0 2001
+D3
+~
+~
+0 0 2003
+S
+#2003
+Along the Hallway~
+   You begin your walk down this long wide hall.  Pictures are hung, showing
+the lord's family members.  A few guards patrol the halls for people that don't
+belong here.    
+~
+20 8 0
+D1
+~
+~
+0 0 2002
+D4
+~
+~
+0 0 2024
+S
+#2004
+Along the Hallway~
+   You begin your walk down this long wide hall.  Pictures are hung, showing
+the lord's family members.  A few guards patrol the halls for people that don't
+belong here.    
+~
+20 8 0
+D1
+~
+~
+0 0 2005
+D3
+~
+~
+0 0 2001
+S
+#2005
+Along the Hallway~
+   You begin your walk down this long wide hall.  Pictures are hung, showing
+the lord's family members.  A few guards patrol the halls for people that don't
+belong here.    
+~
+20 8 0
+D3
+~
+~
+0 0 2004
+D4
+~
+~
+0 0 2028
+S
+#2006
+Entering the Main Palace~
+   You walk along the palace floors observing people as they wonder pass you, A
+little hall leads to the east, and another to the west.  Looking ahead, a few
+guards can be spotted.    
+~
+20 8 0
+D0
+~
+~
+0 0 2009
+D1
+~
+~
+0 0 2008
+D2
+~
+~
+0 0 2001
+D3
+~
+~
+0 0 2007
+S
+#2007
+An Alcove~
+   You stand off in a little alcove off to the left of the hallway.  A man
+stands here looking at a picture of the lord of Palanthas.  He looks back to
+see you staring at him, and moves about his way.    
+~
+20 8 0
+D1
+~
+~
+0 0 2006
+S
+#2008
+An Alcove~
+   You stand off in a little alcove off to the left of the hallway.  A man
+stands here looking at a picture of the lord of Palanthas.  He looks back to
+see you staring at him, and moves about his way.    
+~
+20 8 0
+D3
+~
+~
+0 0 2006
+S
+#2009
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2010
+D2
+~
+~
+0 0 2006
+D3
+~
+~
+0 0 2011
+S
+#2010
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D2
+~
+~
+0 0 2009
+S
+#2011
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2012
+D1
+~
+~
+0 0 2009
+S
+#2012
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2013
+D2
+~
+~
+0 0 2011
+S
+#2013
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2016
+D1
+~
+~
+0 0 2014
+D2
+~
+~
+0 0 2012
+D3
+~
+~
+0 0 2015
+S
+#2014
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D3
+~
+~
+0 0 2013
+S
+#2015
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2013
+S
+#2016
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2019
+D1
+~
+~
+0 0 2017
+D2
+~
+~
+0 0 2013
+D3
+~
+~
+0 0 2018
+S
+#2017
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D3
+~
+~
+0 0 2016
+S
+#2018
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2016
+S
+#2019
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2022
+D1
+~
+~
+0 0 2020
+D2
+~
+~
+0 0 2016
+D3
+~
+~
+0 0 2021
+S
+#2020
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D3
+~
+~
+0 0 2019
+S
+#2021
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2019
+S
+#2022
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2023
+D2
+~
+~
+0 0 2019
+S
+#2023
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D2
+~
+~
+0 0 2022
+S
+#2024
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2025
+D5
+~
+~
+0 0 2003
+S
+#2025
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2026
+D3
+~
+~
+0 0 2024
+S
+#2026
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2029
+D1
+~
+~
+0 0 2027
+D3
+~
+~
+0 0 2025
+S
+#2027
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2028
+D3
+~
+~
+0 0 2026
+S
+#2028
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D3
+~
+~
+0 0 2027
+D5
+~
+~
+0 0 2005
+S
+#2029
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2032
+D1
+~
+~
+0 0 2030
+D2
+~
+~
+0 0 2026
+D3
+~
+~
+0 0 2031
+S
+#2030
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2029
+D3
+~
+~
+0 0 2029
+S
+#2031
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2029
+S
+#2032
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D2
+~
+~
+0 0 2029
+D4
+~
+~
+0 0 2033
+S
+#2033
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D2
+~
+~
+0 0 2034
+D4
+~
+~
+0 0 2043
+D5
+~
+~
+0 0 2032
+S
+#2034
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2033
+D1
+~
+~
+0 0 2041
+D2
+~
+~
+0 0 2035
+D3
+~
+~
+0 0 2042
+S
+#2035
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2034
+D1
+~
+~
+0 0 2040
+D2
+~
+~
+0 0 2036
+D3
+~
+~
+0 0 2039
+S
+#2036
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D0
+~
+~
+0 0 2035
+D1
+~
+~
+0 0 2037
+D3
+~
+~
+0 0 2038
+S
+#2037
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D3
+~
+~
+0 0 2036
+S
+#2038
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2036
+S
+#2039
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2035
+S
+#2040
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D3
+~
+~
+0 0 2035
+S
+#2041
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D3
+~
+~
+0 0 2034
+S
+#2042
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D1
+~
+~
+0 0 2034
+S
+#2043
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+D5
+~
+~
+0 0 2033
+S
+#2044
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+S
+#2045
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+S
+#2046
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+S
+#2047
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+S
+#2048
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+S
+#2049
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+S
+#2050
+Palace~
+You are in an unfinished room.
+~
+20 8 0
+S
+$~

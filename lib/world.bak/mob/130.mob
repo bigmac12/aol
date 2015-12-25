@@ -1,0 +1,235 @@
+#13074
+hunter kagonesti~
+a kagonesti hunter~
+A kagonesti hunter tracks her prey here, alert to any danger.
+~
+   This female Kagonesti is a hunter, and she looks every bit capable.  Her
+smooth brown skin is taut with toned muscle; she is no stranger to labor and
+exercise.  She has long, jet-black hair which, combined with her dark
+complexion and vibrant hazel eyes, provides her with quite the exotic
+appearance.  She bears an intricate, twining tattoo of forest ivy upon the left
+side of her face.  She is dressed lightly; a simple leather tunic and skirt.  
+She wields a longbow with the look of an expert.    
+~
+1572890 295968 16 0 E
+18 11 -2 3d20+380 3d6+6
+300 14000 6
+8 8 2 0
+BareHandAttack: 11
+E
+#13075
+wolf dire~
+a dire wolf~
+A large dire wolf crouches here, glaring at you with savage-looking eyes.
+~
+   This wolf is huge, quite a bit larger than a normal wolf.  Its fur is a
+dark, almost shadowy grey in color, and its eyes are savage and cruel looking.
+It crouches low, glaring at you with undisguised malice.  This beast seems to
+be violent by nature, unlike normal wolves whom hunt only for food or
+protection.    
+~
+106554 1064 0 -850 E
+14 12 2 6d8+240 2d8+4
+0 7000 0
+8 8 0 0
+BareHandAttack: 4
+SkinData0: 30
+E
+T 13078
+#13076
+wolf dire crouches~
+a dire wolf~
+A large dire wolf crouches here, glaring at you with savage-looking eyes.
+~
+   This wolf is huge, quite a bit larger than a normal wolf.  Its fur is a
+dark, almost shadowy grey in color, and its eyes are savage and cruel looking.
+It crouches low, glaring at you with undisguised malice.  This beast seems to
+be violent by nature, unlike normal wolves whom hunt only for food or
+protection.    
+~
+106538 1064 0 -850 E
+14 12 2 6d8+240 2d8+4
+0 7000 0
+8 8 0 0
+BareHandAttack: 4
+SkinData0: 30
+E
+#13077
+wolf dire~
+a dire wolf~
+A large dire wolf crouches here, glaring at you with savage-looking eyes.
+~
+   This wolf is huge, quite a bit larger than a normal wolf.  Its fur is a
+dark, almost shadowy grey in color, and its eyes are savage and cruel looking.
+It crouches low, glaring at you with undisguised malice.  This beast seems to
+be violent by nature, unlike normal wolves whom hunt only for food or
+protection.    
+~
+69642 787496 0 -400 E
+14 12 2 6d8+240 2d8+4
+0 7000 0
+8 8 0 0
+BareHandAttack: 4
+SkinData0: 13079
+E
+#13078
+wolf dire muscular huge~
+a huge, muscular dire wolf~
+A huge, muscular dire wolf is here, growling deeply at your approach!
+~
+   This beast is truly something out of a nightmare.  It is massive in size for
+a wolf, with shadowy black fur and glaring, vicious-looking eyes.  This is a
+dire wolf, one of a savage, ancient breed of wolves that are infamous for their
+feral appearance and demeanor.  Blood stains its teeth and drips from its maw
+from a recent kill, easily visible as it releases a low, nerve-wracking growl.
+It moves slowly, deliberately, never taking its eyes off of you.  Soon it will
+lunge for the kill..    
+~
+1384474 263208 0 -400 E
+18 11 -2 3d20+400 3d6+6
+0 16000 0
+8 8 0 8
+BareHandAttack: 4
+SkinData0: 13078
+E
+T 13078
+#13079
+ogre wounded bloody~
+a wounded and bloody ogre~
+A wounded and bloody ogre lies here, weakly trying to fend off attack.
+~
+   This ogre is bleeding profusely from ghastly looking gashes and bite wounds.
+He lies upon the floor, weakly swinging an arm whenever anything gets near him
+in an attempt to ward off further attack.  His breathing is ragged, and it is
+apparent his life is near an end.  His clothing and light leather armor are
+torn beyond repair, and a pool of blood is forming underneath him.    
+~
+24586 33792 0 0 E
+2 19 14 1d3+12 1d5+1
+0 13 3
+8 8 1 0
+E
+T 13079
+#13080
+priest chemosh~
+a priest of Chemosh~
+A priest of Chemosh is chanting here, raising the dead.
+~
+   This man is still young, but he looks sickly thin.  His skin just hangs on
+his body and he almost looks like one of the dead he is raising back to life.
+His black robes are outlined with yellow edges.  If he were to stand straight,
+he would be taller than most humans, but his frail body is stooped.  He doesn't
+even seem to notice other people's presense, he just keeps praying to his dark
+lord, his hand grasping a pendant of a yellow skull.    
+~
+548874 0 12288 -850 E
+8 15 8 5d5+110 2d6+2
+70 800 2
+8 8 1 0
+E
+#13081
+minotaur large mino half head~
+a large minotaur with half a head~
+A large minotaur with half of his head missing slowly walks around here, his left arm dangling while he moves.
+~
+   This minotaur is hideous.  His body is covered in deep wounds covered in
+dried blood.  His left forearm is just barely hanging on to his elbow by a few
+muscles and some thick skin.  Worst of all though, is his head.  The top left
+part of his skull to the bottom right side , near his jaw, is missing.  It
+looks like the blow was done with one massive blow, probably from an axe
+wielding minotaur.    
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 10
+8 8 1 0
+BareHandAttack: 16
+E
+#13082
+body human bloated~
+a bloated human body~
+The body of a bloated human lies here, barely moving.
+~
+   This poor person seems to of been lost at see and drowned to death.  Their
+body is bloated and colored a slight blue.  Because of a bit of rotting and the
+bloating, it is impossible to tell just what gender this person was.  They
+twitch every now and then, unable to walk, but still able to use their arms a
+little.    
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 10
+8 8 0 0
+BareHandAttack: 4
+E
+#13083
+kender undead~
+an undead kender~
+A small kender slowly walks around here, a look of unending sorrow on her face.
+~
+   This young kender seems to of died recently, her body isn't rotted or
+bloated at all.  Her death seems to of been caused by the claw marks that have
+sliced through parts of her bright purple tunic.  Her hair seems to of been
+ripped out in some places.  The look on her face is nothing like what normal
+kenders look like.  Instead of the usual happy expression, she has a look of
+never ending pain and sorrow.    
+~
+12 1024 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 10
+8 8 2 0
+BareHandAttack: 8
+E
+#13084
+sailor corpse rotted~
+a rotted corpse of a sailor~
+A rotted corpse of a sailor moans in never ending pain.
+~
+   His body was once strong and powerful looking, but now he is a walking
+corpse.  His death seems to of been caused by a disease, his skin has
+discolored spots all over.  He is missing one eye, and some of his skin fell
+off, exposing the muscles and the bones underneath.  Some of his hair still
+remains, along with parts of a beard, both are dark brown.  It is hard to tell
+if his hair color was always that or if the dirt and sand caused it.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 10
+8 8 1 0
+BareHandAttack: 8
+E
+#13085
+dockhand skeletal dock hand form~
+a skeletal dockhand~
+A skeletal form of a dockhand walks around, it's eyes glowing yellow.
+~
+   This skeleton's bones are dark colored and red tinted sand coats parts of
+it.  It is shorter than an average human, but not by much.  The cause of death
+seems to be impossible to tell now, there is nothing but bones left.  It's
+skull is the worst looking part of it, it seems to have an evil grin on it that
+won't go away and it's eye sockets glow with a dark yellow-brown color.    
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 10
+8 8 0 0
+BareHandAttack: 8
+E
+#13086
+acolyte chemosh~
+an acolyte of Chemosh~
+An acolyte of Chemosh is walking around here, making sure the undead are in control.
+~
+   This acolyte seems to be in his mid to late teens.  His long black hair
+travels down his neck and brushes on the his robed shoulders.  He has a fairly
+simple appearance to him.  Black robes, a yellow skull pendant, a small mace,
+and some simple earrings is all he has.  He doesn't seem to be sickly thin and
+frail, but he is by no means big and muscular.    
+~
+524808 4 2048 -850 E
+5 17 11 2d5+65 2d5+0
+20 85 2
+8 8 1 0
+BareHandAttack: 13
+E
+$

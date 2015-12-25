@@ -1,0 +1,90 @@
+#13380
+man pillar dark skin long braided hair sturdy~
+a pillar of a man with dark skin and long, braided hair~
+A sturdy man stands between the two pillars, blocking the trail to the northeast.
+~
+   The stoic countenance and sturdy frame of this pillar of a man give him the
+appearance of a statue.  His alert eyes, though, seem to always be on the move:
+constantly scanning the surrounding plain for signs of movement from man or
+beast.  A pale ice blue, his eyes stand in sharp contrast to his deeply tanned
+body.  He wears his long hair in several braids.  Each is ornamented with a
+variety of simple, though colorful, beads.    
+~
+3237914 33587232 0 0 E
+22 7 -6 3d33+550 3d8+7
+999 40000 3
+8 8 1 0
+Maxmove: 50
+E
+#13381
+aun tanner~
+Aun, the tanner~
+Aun, the tanner, sits behind the table skillfully working a piece of leather.
+~
+   Small in comparison to the rest of the members of his clan, Aun still stands
+at least a head taller than the average human.  He sits quietly behind the
+table in the corner, skillfully working a piece of leather.  As he notices your
+gaze, he gently sets down his tools and turns to show you his wares.  His
+tanned skin is criss-crossed with scars, and his hands appear rough from years
+of manual labor.    
+~
+7585818 33685504 0 0 E
+31 -30 -15 30d99+2000 30d99+50
+9999999 300000 0
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#13382
+Thyra silk merchant~
+Thyra, the silk merchant~
+Thyra, the silk merchant, stands behind the counter sorting piles of fabric.
+~
+   Thyra is tall and slender with deeply-tanned skin.  Her hair is a dusty
+brown color and is pulled back into a pony tail which is tied with a silk sash.
+She wears a gown which is fashioned from strips of brightly colored silk which
+have been stitched together.  It hands loosely around her delicate frame and is
+tied at the waist with a thick cord.    
+~
+7585818 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+999999999 250000 0
+8 8 2 0
+Maxmove: 50
+E
+#13383
+Abie barbarian man slender~
+Abie, the spice merchant~
+Abie wanders the area, his eyes constantly scanning the ground.
+~
+   Abie, a tall slender man with deeply tanned skin, wanders the encampment
+much of the day.  His eyes are generally fixed on the ground as he scans the
+area for plants or seeds which might be of interest to him.  He has spent much
+of his life gathering and studying various specimens to determine their uses
+for both culinary and medicinal purposes.    
+~
+1138760 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+676 11800 6
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#13385
+ox large horns~
+a large ox with broad horns~
+A large ox chews idly on straw which has been left for him.
+~
+   Oxen are simply cattle which have been trained to serve as beasts of burden.
+This particular specimen is quite large and boasts an impressive set of horns.
+He is not currently wearing his yoke, but a bit of his coat on his shoulders
+has been worn away evidencing his past labors.    
+~
+16867338 0 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 1 0
+BareHandAttack: 14
+Maxmove: 50
+E
+$

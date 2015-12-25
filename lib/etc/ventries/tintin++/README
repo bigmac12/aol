@@ -1,0 +1,23 @@
+Welcome to TinTin++ v1.5!
+-------------------------
+
+This is the Official Release of v1.5.  Please read over the documentation
+and the Makefile before reporting problems.  Enjoy it
+
+SunOS users:  Don't forget to remove the # in the Makefile for F2 
+(-DDIRTY_REDEFINE)
+
+SYSV users (IRIX, SolarisOS, etc.):  If you get errors in the 
+echo.c file during compilation, don't forget to uncomment F3, (F4 is optional)
+and some OS's like F5 being uncommented.
+
+If the install script didn't copy the help files to your home directory, they 
+can be found in tintin++/src/support/.tt_help.txt.Z
+
+All bug reports should be sent to:   reiss@ritchie.acomp.usf.edu
+All mail will get forwarded to the devel team.
+
+Thanks.. and Good luck.
+
+The Devel team for Tintin++ 
+

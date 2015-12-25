@@ -1,0 +1,273 @@
+#6400
+a tormented soul~
+a tormented and lost soul~
+A tormented and lost soul glides by.
+~
+   This soul has been trapped in this plane of existence for some reason, and
+is unable to pass beyond this world.  It howls in agony, its expression one of
+eternal sadness and pain.    
+~
+8 33792 0 0 E
+10 14 6 5d4+160 2d7+2 50
+91 1900 10
+8 8 2 0
+E
+#6401
+horrifying apparition blood~
+a horrifying apparition of blood~
+A horrifying apparition of blood stands here with a look of foreboding.
+~
+   This apparition is horrifying, animated by some purely evil, arcane force.
+Flames that burn like the fires of the Abyss stare out from a crimson visage,
+and talon-like appendages reach out for your slender, mortal throat.    
+~
+8 33792 0 -1000 E
+12 13 4 5d6+210 2d8+3 50
+105 4700 10
+8 8 1 0
+E
+#6402
+faint spectral wraith woman ghost figure~
+a wraith~
+The faint, spectral wraith of a woman floats ominously above the ground.
+~
+   The mists swirl and coalesce, forming the faint outlines of a woman's
+figure.  The wraith's face bears an expression of pain and loss, as well as
+anger and fury.  She floats above the ground, the mists seething angrily with
+the ghost's outline.    
+~
+8 33792 0 200 E
+11 14 5 5d4+190 2d8+2 50
+500 2900 10
+8 8 2 0
+BareHandAttack: 12
+E
+#6403
+ghost ghostly priest man~
+a ghostly priest~
+The ghostly outline of a man dressed in white clerical robes hovers here.
+~
+   The ghostly image wavers before you, flickering in and out of this world.  
+The ghost's face bears an expression of inhuman sadness and loss, and though he
+does not speak, the strength and depth of his expression says more than mere
+words ever could.    
+~
+8 32768 0 800 E
+8 15 8 5d5+110 2d6+2 50
+85 800 9
+8 8 1 0
+E
+#6404
+priestess daughter cleric woman figure pale~
+a pale, ghostly figure~
+A pale, ghostly figure of a woman in a cleric's flowing robes lingers above.
+~
+   The ghostly figure of a woman stands before you.  From the faint outline of
+a silver dragon amulet around her slender neck, she is probably the spirit of
+the Revered Daughter of Paladine whose body is impaled upon the wall behind the
+Temple altar.  Her white robes swirl around her agitatedly, and the expression
+on her delicate, etheral features is one of absolute despair and misery.  She
+reaches out to you silently, her slender hand held palm up in a wordless appeal
+for help...    
+~
+778506 32768 2097152 1000 E
+15 11 1 5d10+300 2d8+4 50
+1000 8400 9
+8 8 2 0
+BareHandAttack: 12
+E
+#6405
+ghost priest man male outline ghost~
+a ghostly outline of a priest~
+The ghostly outline of a man dressed in clerical robes.
+~
+   The ghostly image wavers before you, flickering in and out of this plane of
+existence.  The ghost's face bears an expression of inhuman sadness, loss, and
+suffereng, and though he does not speak, the strength and depth of his loss
+says more than mere words ever could.    
+~
+8 32768 0 800 E
+8 15 8 5d5+110 2d6+2 50
+800 800 9
+8 8 1 0
+E
+#6415
+cleric dark shrouded~
+a dark cleric~
+A dark, shrouded cleric stands here with hands raised, chanting.
+~
+   A dark, shrouded figure stands here with hands raised into the air.  It is a
+male, revealed only by his voice as he chants ominously into the darkened
+surroundings.  What dark purpose he is at here is unknown, though he may behind
+many of the spirits which roam this temple.  A small item, a focus of some sort
+is held tightly in his left hand.    
+~
+540682 1024 8194 -850 E
+12 13 4 5d6+210 2d8+3 100
+100 4700 2
+8 8 1 0
+E
+#6417
+undefined~
+undefined~
+/a
+~
+Nothing.
+~
+8 32768 0 1000 E
+1 14 6 5d4+160 2d7+2 50
+0 1900 0
+8 8 1 0
+E
+#6418
+undefined~
+undefined~
+undefined~
+Nothing.
+~
+8 0 0 0 E
+1 15 8 5d5+110 2d6+2 50
+0 800 0
+8 8 0 0
+E
+#6420
+tall slender ranger elf~
+an elven ranger~
+A tall slender elf dressed in a cloak of shifting colors stands here.
+~
+   A feeling of wariness and alertness exudes from the elven ranger.  He looks
+at you and ponders a moment.  Supple brown leathers adorn his body and a cloak
+that seems to shift colors keeps out the cold.  Barely any noise can be heard
+from his footfalls.  Every movement he makes seems planned and carefully
+deliberate.    
+~
+2120 1024 0 0 E
+17 10 -1 3d20+340 3d6+5 50
+300 11800 6
+8 8 1 0
+BareHandAttack: 3
+E
+#6421
+elven guard~
+an elven guard~
+An elven guard looks suspiciously at you.
+~
+   With crossed arms and a wary look the guard greets your approach with a
+stiff nod.  Leather intertwined with chain armor protects his body.  Small
+scars criss-cross his arms and face as evidence of prior skirmishes.  Silvery,
+blond hair is tied back with a small peice of leather to keep it from flying
+about in the wind.    
+~
+9439242 1024 0 1000 E
+17 10 -1 3d20+340 3d6+5 50
+700 11800 3
+8 8 1 7
+E
+#6422
+wizardess white robe elven wizard wiz elf~
+a white robed elven wizard~
+An elven wizardess adorned with white robes quietly studies here.
+~
+   As you approach the elven woman looks up from studying the oversized tome in
+her hands.  Her gentle face is unmarred and framed by long, blond hair that
+falls down her back.  Green eyes glimmer at you with a spark of great
+intelligence.  A set of white, shimmering, floor-length robes are wrapped about
+her.    
+~
+696330 33555464 10518548 1000 E
+20 8 -4 3d20+440 3d7+6 50
+800 25000 1
+6 6 2 0
+E
+#6423
+leader outpost elf~
+the leader of the outpost~
+The leader of the outpost is closely examining a map. 
+~
+   A tired, elven face looks up as you approach and gives you a curt nod.  His
+shoulder-length black hair is peppered with silver.  His hazel eyes examine
+everything but always drift back to the stacks of maps and reports scattered
+across the floor.  About his body are supple leathers of green and brown that
+have a slight, slick sheen to them.    
+~
+1288202 33792 0 0 E
+22 7 -6 3d33+550 3d8+7 50
+1100 40000 6
+8 8 1 0
+BareHandAttack: 3
+E
+#6424
+tiny mouse~
+a tiny mouse~
+A tiny mouse softly gnaws on a rope.
+~
+   A tiny mouse, with mottled brown fur mixed with a hint of white, chews
+voraciously at the ropes about it.  Its ruby colored eyes seem to have a soft
+glow to them.  A long, hairless tail is wrapped about the ropes providing the
+critter a bit more stability while it eats.    
+~
+65548 1024 0 0 E
+3 19 13 1d5+25 1d6+1 50
+0 25 0
+8 8 0 0
+BareHandAttack: 4
+E
+#6497
+vampire sleek cloaked figure lurking eyes glowing red~
+a vampire~
+A sleek, cloaked figure lurks in the shadows, watching you with glowing red eyes.
+~
+   Looking upon the sleek, cloaked figure, a feeling of dread overwhelms you.
+He peers up at you curiously, his mysterious eyes glowing an odd red.  His face
+then erupts into a wide, toothy grin, clearly showing his pointed fangs.  A
+vampire!  Powerful undead, vampires are cursed to walk the planet in search of
+human blood.  Some speculate that these foul undead made bargains with Chemosh
+for life everlasting, and this existence in His service is the price they pay.
+~
+9478872 134522428 0 -850 E
+22 7 -6 3d33+600 3d9+9 50
+0 40000 10
+8 8 1 0
+BareHandAttack: 4
+E
+#6498
+vampire buxom pale-skinned pale skinned woman slinky crimson gown~
+a vampire~
+A buxom, pale-skinned woman in a slinky crimson gown wanders silently.
+~
+   The woman is breathtakingly beautiful, buxom and slender, with a body that
+most men would die for.  She is dressed in a slinky crimson gown which only
+accentuates her feminine curves.  Her skin is very pale, almost white, which
+throws her crimson lips into stark relief.  When she sees you, she pulls back
+her lips in a broad grin, and it is then that you catch a glimpse of the
+pointed fangs.  The woman before you is a vampire, and upon noticing you, she
+licks her lips hungrily.    
+~
+647900 134587564 71303168 -850 E
+22 7 -6 3d33+550 4d10+7 50
+1200 40000 9
+8 8 2 0
+BareHandAttack: 4
+E
+#6499
+vampire mage figure tattered crazed red-eyed blood~
+a vampire mage~
+A red-eyed figure in tattered robes turns from his grisly meal to confront you.
+~
+   Some of the most feared undead creatures in existence, every adventurer
+fears running into a Vampire Mage, but unfortunately, it would seem that you
+have managed to do just that.  There can be no mistaking this thing.  The
+tattered robes that barely cover its cold, dead body must have once been black,
+though now they are greyish.  It turns towards you, the remains of a large rat
+still in its mouth.  Its eyes glow red.  Blood drips from the fangs that it
+bares at your approach.    
+~
+771678 168010798 109052544 -850 E
+29 2 -13 3d33+1950 6d9+9 50
+1800 213000 8
+8 8 0 0
+BareHandAttack: 4
+E
+T 6401
+T 2
+$

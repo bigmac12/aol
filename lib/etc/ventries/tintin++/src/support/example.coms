@@ -1,0 +1,135 @@
+#alias {afkoff} {#unaction {%0 tells you*}}
+#alias {afkon} {#action {%0 tells you '} {tell %0 Sorry.. I'm AFK.. BRB.. } {9}}
+#alias {aid} {cast 'aid' tossa}
+#alias {alist} {#showme $leader, $one, $two, $three, $four}
+#alias {armor} {cast 'armor' %0}
+#alias {auth} {#var auth%0}
+#alias {authlist} {say Authorized Robot users are: $leader, $one, $two, $three, $four}
+#alias {autoblind_off} {#unaction {*blind da*}; emote no longer auto-blinds}
+#alias {autoblind_on} {#action {^$leader tells your group 'blind da %0'} {tar %0;#2 blind %0}; emote will auto-blind on $leader's command (use gt blind da <??>)}
+#alias {autokill_off} {#unaction {*kill da*}; emote no longer auto-kills}
+#alias {autokill_on} {#action {^$leader tells your group 'kill da %0'} {tar %0;#2 kill %0}; emote will auto-kill on $leader's command (use gt kill da <??>}
+#alias {bark} {cast 'barkskin' tossa}
+#alias {ble} {cast 'bless' %0}
+#alias {blind} {cast 'blindness' $target}
+#alias {call} {cast 'call lightning' $target}
+#alias {chant} {cast 'chant' %0}
+#alias {clear-auth} {one .;two .;three .;four .}
+#alias {cr} { }
+#alias {cureb} {cast 'cure blindness' %0}
+#alias {ear} {cast 'earthquake'}
+#alias {eatit} {cast 'create food';get mushroom;eat mushroom}
+#alias {em} {recite recall inonothing}
+#alias {fillit} {cast 'create water' %0}
+#alias {four} {#var four %0}
+#alias {fs} {cast 'flame strike' $target}
+#alias {fw} {fill waterskin water;fill 2.waterskin water}
+#alias {gc} {#loop {1,%%1} {get all %0.corpse}}
+#alias {gh} {cast 'group heal'}
+#alias {grimne} {#ses {%%0} {129.241.36.229 4000}}
+#alias {he} {cast 'heal' %0}
+#alias {hl} {pow $leader}
+#alias {hm} {cast 'harm' %0}
+#alias {holy} {cast 'holy sphere'}
+#alias {kb} {kill borgh}
+#alias {km} {kill moredhel}
+#alias {kt} {kill $target}
+#alias {leader} {#var leader %0}
+#alias {loot} {unlock desk;open desk;get key desk;unlock safe;open safe;get coins safe}
+#alias {lootoff} {#unaction {^There were*};#unaction {^You receive};emote is no longer auto-looting.}
+#alias {looton} {#action {^There were %0 coins} {split $0} {0};#action {^You receive} {get all corpse} {0};emote is now auto-looting.}
+#alias {makefood} {cast 'create food'}
+#alias {neut} {cast 'neutralize poison' %0}
+#alias {one} {#var {one} %0}
+#alias {ord} {emote issues the order 'RECALL'.}
+#alias {pfe} {cast 'protection from evil' %0}
+#alias {pfg} {cast 'protection from good' %0}
+#alias {pfl} {cast 'protection from lightning' %0}
+#alias {ph} {cast 'powerheal' %0}
+#alias {pow} {cast 'powerheal' %0}
+#alias {regen} {cast 'regen' %0}
+#alias {reset} {#var trigger 0}
+#alias {rr} {recite recall}
+#alias {sad} {sac all.demonsword}
+#alias {sanc} {cast 'sanc' %0}
+#alias {saved} {cast 'summon' %0;cast 'heal' %0}
+#alias {sleepoff} {toggle tick}
+#alias {sleepon} {toggle tick}
+#alias {soff} {#unaction  {5 seconds}}
+#alias {ss} {#system  {grep -i %%0 eq.lst}}
+#alias {status1} {ps;emote has either $pow powerheals, $heals heals/regens, $calls call lightnings, and $sancs sanctuaries. (c) 1993, Peach Inc.}
+#alias {status2} {ps}
+#alias {statusoff} {#unaction {<hp:*};#action {'Cps'} {status2} {4};#action {'ps'} {status2} {4}}
+#alias {statuson} {#action {<hp:%0 mo:%1 ma:%2>} {#math pow {%2/55} {3};#math heals {%2/40};#math calls {%2/20};#math sancs {%2/50};#if {%1<=25} {emote is LOW ON MOVES.}};#action {'Cps'} {status1} {4};#action {'ps'} {status1} {4}}
+#alias {sum} {cast 'summon' %0}
+#alias {tar} {#var target %0}
+#alias {three} {#var three %0}
+#alias {treeoff} {#unaction {^%0 hero*};emote no longer powerheals on rescues}
+#alias {treeon} {#action {^%0 heroically rescues %1.} {pow %1} {1};emote now powerheals on rescues}
+#alias {two} {#var two %0}
+#alias {uw} {use wand %0}
+#alias {vit} {cast 'vitalize' %0}
+#alias {wholist} {#ses {whos} {129.241.36.229 4001}}
+#alias {wimpy} {#var wimp %0;emote is now wimpy.  She'll recall at less than or equal to %0 hp's.}
+#alias {wr} {cast 'word of recall'}
+#alias {ws} {wake;stand}
+#action {^There were %0 coins.} {split $0} {0}
+#action {^You receive} {get all corpse} {0}
+#action {pile of gold coins} {get coins} {0}
+#action {^$leader issues the order 'RECALL'} {wr;rr} {1}
+#action {^<hp:%0 m} {#if {(%0<=$wimp) && ($trigger <=0)} {#var trigger 1;recite recall}} {1}
+#action {^$four asks you '%0'} {cast '$0' $four} {2}
+#action {^$leader asks you '%0'} {cast '$0' $leader} {2}
+#action {^$one asks you '%0'} {cast '$0' $one} {2}
+#action {^$three asks you '%0'} {cast '$0' $three} {2}
+#action {^$two asks you '%0'} {cast '$0' $two} {2}
+#action {You get a bandanna} {sac bandanna} {3}
+#action {^TICKCOUNTER: 5} {sleep} {3}
+#action {^TICKCOUNTER: tikk} {wa} {3}
+#action {^You are hungry} {ws;eatit} {3}
+#action {^You are thirsty.} {#3 drink barrel} {3}
+#action {^You get a bandanna} {sac bandanna} {3}
+#action {^You get a cutlass} {sac cutlass} {3}
+#action {^You wake, and sit up.} {stand} {3}
+#action {'Cps'} {status2} {4}
+#action {'ps'} {status2} {4}
+#action {'UNLOCK %0'} {unlock %0} {5}
+#action {^$leader tells the group 'target=%0'} {tar %0} {5}
+#action {^$leader tells your group 'blind da %0'} {tar %0;#2 blind %0} {5}
+#action {^$leader tells your group 'kill da %0'} {tar %0;#2 kill %0} {5}
+#action {^You get A long sword} {sac long} {5}
+#action {^You get a suit of shadow chainmail} {sac chainmail} {5}
+#action {^You now follow %0.} {leader %0} {5}
+#action {^Your skin returns to normal} {cast 'barkskin' tossa} {5}
+#action {get a long sword} {sac long} {5}
+#action {give you %0 coins for that} {split $0} {5}
+#action {lost your concentration} {emote lost her concentration.. *SWEAR*} {5}
+#substitute {%0'cha'} {%0'chant'}
+#substitute {%0'vit'} {%0'vitalize'}
+#substitute {%0dse%1} {%0dispel evil%1}
+#substitute {%0dsg%1} {%0dispel good%1}
+#substitute {%0pfe%1} {%0protection from evil%1}
+#substitute {%0pfg%1} {%0protection from good%1}
+#substitute {%0pfl%1} {%0protection from lightning%1}
+#substitute {acorn} {.}
+#substitute {has arrived} {.}
+#variable {calls} {8}
+#variable {four} {Finch}
+#variable {heals} {4}
+#variable {hp} {0}
+#variable {leader} {Momony}
+#variable {mv} {0}
+#variable {one} {Rok}
+#variable {pow} {3}
+#variable {sancs} {3}
+#variable {target} {griffon}
+#variable {three} {Karak}
+#variable {trigger} {0}
+#variable {two} {Dread}
+#variable {wimp} {150}
+#highlight {bold} {%0tells you%1}
+#highlight {reverse} {You ultraslay%0}
+#pathdir {e} {e}
+#pathdir {n} {n}
+#pathdir {s} {s}
+#pathdir {w} {w}

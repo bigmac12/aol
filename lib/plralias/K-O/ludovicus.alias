@@ -1,0 +1,30 @@
+2
+eb
+13
+examine board
+0
+1
+k
+7
+look $1
+1
+1
+l
+7
+look $1
+1
+2
+ds
+10
+drink skin
+0
+3
+say
+23
+emote &Gsays&W,'$*&W'&n
+1
+3
+gac
+14
+get all corpse
+0

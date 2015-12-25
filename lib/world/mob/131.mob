@@ -1,0 +1,343 @@
+#13100
+monk aged cross-legged blind~
+an blind, aged monk~
+A aged man rests cross-legged on the floor here, his body still, blind eyes staring ahead at nothing.
+~
+   Resting here in the apex of the temple, this aged man is attired in long,
+flowing robes of flame orange.  Sitting cross-legged on the floor, the old
+man's eyes stare straight ahead yet seem to take in none of his surrounding, a
+thin white film covering them, marking his blindness.  His face is smooth, as
+is his head, and his skin, while wrinkled, is well-tanned and free of blemish.
+Tilting his head as you enter, he nonetheless seems aware of your every action.
+  
+~
+3334218 100663336 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#13101
+Illyavah dusky dusky-skinned blazing woman skinned~
+a dusky-skinned woman with blazing eyes~
+Illyavah, a dusky-skinned woman stands here before the altar, wrapped in vestiments of the Flamelord.
+~
+   Though dressed in the flowing vestiments of a high priestess of the
+Flamelord, the strength of this woman's form is easily apparent in her stance
+and movements.  Her skin is a dusky hue and her hair is worn long, a startling
+color like that of open flame, and seems constantly in motion.  Appearing quite
+annoyed at the interruption to her prayers, she turns to face you, her eyes
+ablaze like twin points of fire, leaving little doubt to her desire for you to
+leave this place.    
+~
+1826890 67109928 327682 0 E
+26 4 -10 3d33+950 4d7+7
+1500 115000 2
+8 8 2 0
+Maxmove: 50
+E
+#13102
+great blaze roaring fire cauldron enormous~
+a great, roaring fire~
+A great, roaring fire billows forth from an enormous cauldron of blackened, cast iron.
+~
+   Crackling and roaring, this great conflagration barely seems restrained to
+the massive cauldron to which it was placed.  Great waves of heat scorch the
+air, yet no trail of smoke may be seen to rise from the surface of this blaze,
+nor does it seem to require any source of fuel or tinder.  While the sheer size
+of the cauldron places the blaze outside of reach, the intensity of the blaze
+itself ensures it.    
+~
+1302602 67108864 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 0
+8 8 0 0
+BareHandAttack: 12
+Maxmove: 50
+E
+T 810
+T 814
+#13103
+efreeti efreet immense towering~
+a towering efreeti clad in blackened plate~
+An immense efreeti clad in blackened plate towers here before you, blocking your progress.
+~
+   While generally humanoid in shape, this immense being is an incredible sight
+to behold.  Towering to at least twelve feet in height, this being is quite
+powerfully built, likely topping considerably over two thousand pounds.  
+Itself appearing to be comprised of basalt, bronze, and the very essense of
+congealed flame, there is little doubt to it being one of the fabled efreet of
+old.  As you approach he glowers down at you, casually hefting a massive,
+curving falchion in one hand.    
+~
+11722826 67109928 0 0 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#13104
+azer dwarf-like creature flame stocky~
+a stocky and well-built azer~
+A dwarf-like creature wreathed in flame wanders the halls, mingling freely with the other worshippers.
+~
+   The creature that stands here seems remarkably like a dwarf in form, yet
+there are many great and glaring differences.  Clothed rather sparsely in a
+kilt of interworked bronze and copper the skin of this creature appears to have
+a distinctly metallic quality to it, colored like polished brass itself.  
+Flames wreath the creature's head, seeming to follow the lines that would
+normally be lent to the hair and beard of their more mundane cousins.    
+~
+1214536 67109888 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+Maxmove: 50
+E
+#13105
+salamander serpentine long creature fire~
+a long, serpentine salamander~
+A long, serpentine creature of fire rests here, a red-hot spear held defensively across his humanoid torso.
+~
+   This creature is one of a most fantastical nature, said to be brought forth
+from the elemental plane of fire itself.  A long, serpentine body snakes out
+nearly fifteen feet in length, topped by a muscular humanoid torso.  Blazing
+eyes scan its surrounding, staring out from a hawkish face, a red-hot spear
+grasped tightly in arms layered in red and black scales.  Small flames lick
+across the surface of this creature, lending an outward heat to match that of
+it's sharp gaze.    
+~
+1695816 67109888 4 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 1
+8 8 1 0
+Maxmove: 50
+E
+#13106
+fire giant immense barrel-chested~
+an immense, barrel-chested fire giant~
+A fire giant of immense proportions kneels here, lost in his humble prayers.
+~
+   Standing over twelve feet tall at his full height, this giant is huge in
+proportions, reaching nearly nine feet in girth and likely topping several
+thousand pounds.  His skin is colored coal-black under a massive suit of
+crimson leathers and blackened chain and his long, shaggy hair is flaming red.
+His head is quite squarish with a somewhat bulbous nose and prognathous jaws
+that reveal slightly jagged teeth colored a dirty yellow.    
+~
+1138760 67109888 0 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 3
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#13107
+magmin impish child-like small magma creature~
+a child-like magmin with an impish grin~
+A small, child-like creature of magma rests here, dangling his feet in the pools.
+~
+   This creature appears much like a small human child sculpted from a mixture
+of molten rock and flowing lava.  Standing just over four feet in heigth the
+creature may at first appear somewhat frail, yet even at a distance he radiates
+an intense heat and is continually wreathed in an aura of searing flames.  
+Glancing about the chamber mischieviously, this small fellow seems to
+perpetually wear an impish grin upon his face, as though snickering quietly to
+himself.    
+~
+57418 67109888 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 3
+8 8 1 0
+Maxmove: 50
+E
+#13108
+mephit steam small impish creature ~
+a small mephit composed of scalding steam~
+A small, impish-looking creature of steam wanders the halls, leaving behind a trail of scalding water.
+~
+   While at first seeming much akin to a small imp, this creature appears to be
+made up entirely of scalding steam.  Standing around four feet in height, this
+creature carries itself as though far larger, jetting forth plumes of steam as
+it sighs, glaring about itself.  As it stalks about the halls in irritation, it
+leaves behind a trail of small, scalding puddles of water in its wake.    
+~
+72 67109888 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 3
+8 8 0 0
+Maxmove: 50
+E
+#13109
+mephit fire small cackling~
+a small, cackling fire mephit~
+A small mephit composed of fire wanders the halls, cackling gleefully to itself.
+~
+   This small, imp-like creature bears a striking resemblance to a miniature
+devil, its angular features twisted into a perpetual grin.  Standing just over
+four feet in heigth, this being moves in sudden bursts, gently fanning the air
+with flapping, bat-like wings.  Bounding about the halls, this fiery little
+being mutters quietly to itself, frequently tossing back its head to let loose
+with a gleeful cackling.    
+~
+72 67109888 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 3
+8 8 0 0
+Maxmove: 50
+E
+#13110
+woman lanky wiry physique~
+a lanky woman with a wiry physique~
+A lanky woman graced with a wiry physique paces about the halls, idly lost in contemplation.
+~
+   Looking human by birth, this woman is perhaps a touch over tall for her
+frame, appearing perhaps somewhat lanky.  Her musculature appears
+well-conditioned and toned, lending her a certain grace of movement and a
+physique that may appear somewhat wiry.  Her hair is a long, flaxen blonde worn
+back is a serious braid with little thought to style or appearance and her
+hazel eyes room about the area, appearing lost in thought.    
+~
+1065032 1024 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 2 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#13111
+man muscular Ergothian shaven dark lean~
+a muscular, Ergothian man with a shaven head~
+A lean and muscular man with dark skin and a shaven head roams about the area listlessly.
+~
+   This man is of a lean yet suprisingly muscular build, appearing fluid of
+motion and sure of carriage.  His skin is of a smooth, dark nature, lending to
+a likely origin of the south of Ergoth, a land well known for its daring and
+swarthy skinned sailors.  His head and face are kept closely shaved, smooth and
+free of stubble, his dark eyes roving about the area with a somewhat impatient
+and restless aire.    
+~
+1065032 1024 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#13112
+man lean muscular priestly priest ~
+a priest of lean and muscular build~
+A man of a lean and muscular build wanders the halls respectfully, his priestly garb flowing about him.
+~
+   This young man appears to be a priest in the local clergy, dressed in the
+flowing, flame colored garb of the faithful to the Flamelord.  His build is
+that of a lean and muscular man in the prime of his life, his hair a flowing
+shock of blazing red.  His eyes are a startling green that flash with both
+conviction and wisdom while his motions carry with them an aire of one often
+impatient with those in the world around him.    
+~
+524360 67109888 65538 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 2
+8 8 1 0
+Maxmove: 50
+E
+#13113
+priestess flame woman~
+a priestess garbed in the colors of flame~
+A priestess wanders the halls among her fellows, offering words of praise and faith.
+~
+   This priestess appears to be a woman of half-elven origin well within the
+prime of her life.  Her hair is jet black and worn long and free, stirring in
+the eddies of heat and motion, her sharp eyes the color of creamy jade.  Her
+movements are crisp and fluid, lending her an impatient attitude and her
+garments are a blend of sleek and flowing, often causing her actions the feel
+of volume and recess associated with a flicker of flame.    
+~
+524360 67109888 65538 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 2
+8 8 2 0
+Maxmove: 50
+E
+#13114
+man mage thin narrow red~
+a thin man garbed in robes of red~
+A man of thin and narrow build wanders the halls slowly, his red robes stirring softly about him.
+~
+   This man is of a thin and narrow build, almost frail to the appearance were
+it not for the fire the sparks within his blue eyes.  His gait is somewhat slow
+and awkward as he seems to rely heavily upon the staff at his side, yet looking
+to his face a youth and strength becomes apparent that was not at first glance.
+He is garbed loosely in long, flowing robes that have been colored a deep red
+and while his manner is friendly, his eyes speak of an edge held within their
+depths.    
+~
+524376 67109944 36 0 E
+19 9 -3 3d20+410 3d6+6
+800 17000 1
+8 8 1 0
+Maxmove: 50
+E
+#13115
+woman attractive adventurous young adventurer's~
+an attractive young woman with an adventurer's aire~
+An attractive, young woman wanders the halls here, her eyes wide to the many wonderous sights.
+~
+   This young woman is of human stock, her appearance that of one that spends
+many days upon the road in travel and adventure.  Her hair is curly and long, a
+beautiful auburn in color that reaches well passed her shoulders in gentle
+waves.  Her eyes sparkle a brilliant hazel and gaze about the halls around her
+in some small measure of wonder, taking in as much of her surroundings as she
+may.  Her form fluid and lithe, lending her a certain grace that is almost at
+odds with her open curiousity.    
+~
+76 1024 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 3
+8 8 2 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#13116
+dancer attractive silks exotic lithe~
+a exotic and lithe firedancer clad in rich silks~
+An attractive dancer clad in fine silks performs here, her hands tracing patterns of fire though the air.
+~
+   This woman has a distinctly exotic aire about her, her skin a deep, rich
+color, her complexion dark and more than a shade mysterious.  Her eyes flash a
+deep, glittering brown as she elegantly traces through her intricate dance.  
+Her body is clad in the finest of silks, volumnous and quite revealing in
+nature, dyed a riot of oranges, reds and yellows.  In each of her hands lay
+small candles that burn with a bright light, weaving through the intricate
+patterns of her dance.    
+~
+74 1024 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 4
+8 8 2 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#13117
+sinuous aggitated red-hot segmented thoqqua worm wormlike serpent ~
+a sinuous and highly aggitated thoqqua~
+An extremely peculiar and highly aggitated wormlike creature writhes about the area, intense heat radiating from its body.
+~
+   This creature appears as a large wormlike beast of a most peculiar origin.
+Reaching nearly five feet in length and one foot in diameter, this creature
+radiates an intense heat.  Its segmented body glows with orange-white heat,
+particularly strong near what appears to be its snout.  The creature appears to
+be eyeless, yet it easily follows your movements as you walk past, seeming to
+sense your every step.    
+~
+196698 67109928 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+$

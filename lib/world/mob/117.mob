@@ -1,0 +1,592 @@
+#11700
+displacer beast cat tentacles dis~
+a displacer beast~
+A large cat-like creature with with two tentacles extending from its back is here.
+~
+   The displacer beast has the blue-black coloring of a dark panther,and a long
+cat-like body and head.  Females range in length from 8 to 9 feet, and weigh
+450 pounds males are 10 to 12 feet long, and weigh up to 500 Lbs.  They have 6
+legs.  Tentacles are tipped with rough horny edges that can inflict terrible
+wounds.  Their eyes glow bright green, even after death.    
+~
+1089548 33792 0 0 E
+12 13 4 5d6+210 1d8+3
+0 4700 0
+8 8 1 0
+BareHandAttack: 8
+SkinData0: 11701
+Maxmove: 50
+E
+#11701
+fire snake streak~
+a large fire snake~
+A streak of fire leaps at you, catching you on fire!
+~
+   This animal seems to be made completely out of fire.  It is as tall as a
+human and a little bigger around than a fist.  The only parts of it that don't
+seem to be on fire are the eyes and its mouth containing sharp looking fangs.
+  
+~
+524362 0 4 -100 E
+15 11 1 5d10+300 2d8+4
+0 9500 1
+8 8 1 9
+BareHandAttack: 4
+Maxmove: 50
+E
+#11702
+villager~
+a frightened villager ~
+A frightened villager screams for help!
+~
+   This villager is wearing simple leather breeches and a deerskin shirt.  His
+shirt is blotted with blood and flesh.  His eyes are wide open and crazed.  He
+reaches out for you with hope.
+~
+200 0 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 1 0
+Maxmove: 50
+E
+#11703
+A Town Guard~
+the town guard~
+A city guard is stalking evil.
+~
+   This simple citizen is dressed in chainmail armour bearing a crest of the
+Pheonix.  His polished shield has become caked with blood, as has his
+longsword.  He has a fine mustache.  The only odd thing about him is his
+desperated eyes, for they seem to show no sign of hope.    
+~
+1048904 4100 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#11704
+A large green troll~
+a green troll~
+A large, ugly green troll lunges for your throat.
+~
+   Their frame appears thin and frail, but trolls possess surprising strength.
+Their arms and legs are long and ungainly.  The legs end in great three-toed
+feed, the arms in wide, powerful hands with sharpened claws.  The troll's
+rubbery hide is the color of moss.  A writhing hairlike mass grows out of their
+skulls and is usually greenish black or iron gray in color.  Their dull, sunken
+black eyes possess 90-foot infravision.  Trolls walk upright but hunched
+forward with sagging shoulders.    
+~
+100110 134218784 0 -1000 E
+14 12 2 6d8+240 2d8+4
+300 7000 3
+8 8 0 8
+BareHandAttack: 8
+Maxmove: 50
+E
+T 11704
+#11705
+shadow flame long sleek engulfed flames~
+a flame shadow~
+A long sleek shadow engulfed in flames is here.
+~
+   This horrid apparition is covered in an outline of black fire.  Its dark
+wicked eyes seem to pierce your being.  It's long sleek form gives it a natural
+fluid grace, and its claws attack at your soul, not your flesh.  This thing
+thrives on the energy of the nine hells and only someone of great strength
+could summon it.    
+~
+540714 67306506 524800 -1000 E
+18 11 -2 3d20+380 3d6+6
+700 14000 8
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#11706
+umber hulk~
+an umber hulk~
+An unfinished mob stands here.
+~
+   This creature is tremendously strong that can burrow through solid rock in
+search of pray.  They are physically slow, but can cause confusion with a a
+glance,
+~
+1048616 0 0 -1000 E
+15 11 1 5d10+300 2d8+4
+0 8400 3
+8 8 0 0
+Maxmove: 50
+E
+#11707
+two headed troll~
+a two-headed troll~
+A large two-headed troll looks at you with hungry eyes.
+~
+   This gruesome troll has two heads.  Each of its slimy heads has been topped
+off with a large central horn.  Two razor sharp claws extend from strong, thin
+arms.  This massive beast stands nearly twelve feet tall.    
+~
+65598 1060 0 -1000 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 8
+BareHandAttack: 3
+Maxmove: 50
+E
+#11708
+phoenix young bird fire~
+a young bird of fire~
+A bird of fire rests in the corner of this chamber.
+~
+   This bird of fire is the creature of legends.  Its eyes look at you with
+centuries of wisdom and intelligence.  It massive body is covered in an a rich
+golden flame that threatens to engulf this room.    
+~
+1826842 67343532 656420 850 E
+25 5 -9 3d33+1300 4d6+8
+1400 87000 1
+8 8 2 0
+BareHandAttack: 12
+SkinData0: 11714
+Maxmove: 50
+E
+#11709
+Zanthar high priest phoenix blonde-haired young man golden robes~
+Zanthar, High Priest of the Phoenix~
+A blonde-haired young man in golden High Priest's robes is here.
+~
+   This man is dressed in the flowing golden robes of his order.  This pagan
+worships the protector of his town, the Phoenix.  HIs long blonde hair barely
+touches his shoulders.  He appears rather young, but has a determined set to
+his jaw that makes him seem unlikely to back down from any challenger.    
+~
+8413194 33566724 81928 1000 E
+18 11 -2 3d20+380 3d6+6
+700 14000 2
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+T 11708
+#11710
+large troll~
+a large hunched-back troll~
+A large hunched-back troll lunges for your neck!
+~
+   Their frame appears thin and frail, but trolls possess surprising strength.
+Their arms and legs are long and ungainly.  The legs end in great three-toed
+feed, the arms in wide, powerful hands with sharpened claws.  The troll's
+rubbery hide is the color of moss.  A writhing hairlike mass grows out of their
+skulls and is usually greenish black or iron gray in color.  Their dull, sunken
+black eyes possess 90-foot infravision.  Trolls walk upright but hunched
+forward with sagging shoulders.    
+~
+1050412 134218784 0 -1000 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 8
+BareHandAttack: 8
+Maxmove: 50
+E
+#11711
+Jonathon stable boy~
+Jonathon~
+Jonathon, the stable boy, is crying here.
+~
+   This simple little boy has short black hair and green eyes.  His eyes are
+blood shot from endless crying.  He clothes are dirty from sleeping on the hay
+stacks.  He skin is pale and covered in dirt.    
+~
+10 524288 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 1 0
+Maxmove: 50
+E
+#11712
+spectral troll~
+a spectral troll~
+A ghastly form of a troll shimmers here.
+~
+   Spectral trolls, taking material form only in darkness, are tormented by the
+memory of life.  They try to slay all living creatures they encounter.  
+Resembling normal trolls in all respects except color, their jet black skin and
+hair make them easily distinguishable from other trolls.    
+~
+712778 73762 512 -1000 E
+18 11 -2 3d20+380 3d6+6
+700 14000 8
+8 8 0 0
+BareHandAttack: 8
+SkinData0: 11722
+Maxmove: 50
+E
+#11713
+giant troll~
+a giant troll~
+A giant troll lumbers around here.
+~
+   Giant trolls are hideous hill-giant and troll crossbreeds.  They resemble
+normal trolls in all respects, except for their unnatural size.  Their skin is
+reddish brown and they have red-rimmed eyes.    
+~
+126 1024 0 -1000 E
+19 9 -3 3d20+450 3d6+6
+700 17000 3
+8 8 1 8
+Maxmove: 50
+E
+#11714
+blood spirit~
+a gruesome blood spirit~
+A puddle of thick blood stares at you.
+~
+   This gruesome spirit resembles a massive puddle of blood that floats.  A set
+of dark crimson eyes seem to float magically inside a fluid skull.  It's claws
+drip with a dangerous looking liquid and it's arms extend long past it's torso.
+  
+~
+8238 196640 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#11715
+Kaaba~
+Kaaba~
+Kaaba, Mayor of Shady Creek, is writing his will.
+~
+   This elderly man shows signs of stress and age.  His finely combed hair is a
+brisk white, and his blue eyes are filled with fear.  His arms still show
+strength but seem to waver increasingly by the minute.    
+~
+1048586 4096 0 0 E
+18 11 -2 3d20+380 3d6+6
+500 14000 3
+8 8 1 0
+Maxmove: 50
+E
+T 11715
+T 11716
+#11716
+cynthia secretary lady lovely~
+Cynthia~
+A lovely young lady sits at her desk.
+~
+   This young lady has long blonde hair and stunning sky-blue eyes.  She has a
+nice tan and a firm body.  Her eyes seem to be filled with fear and panic as
+she waits for the mayor's decision.    
+~
+10 0 0 1000 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 2 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#11718
+guard bodyguard~
+a strong bodyguard~
+A strong bodyguard blocks the door to Kaaba's office
+~
+   This guard looks at you with cold green eyes.  He flexes his strong muscles
+at your intrusion and gives you a stare of warning.  He is dressed in worn
+battle armor and wields a wicked edged longsword.    
+~
+9461770 0 0 1000 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#11719
+troll arm~
+a gruesome troll's arm~
+A gruesome troll's arm crawls at you!
+~
+   This digusting little arm once belonged to a troll!  It his covered in soft
+leathery skin and is leaking out green blood from its wound.  At the end of the
+arm a large hand extends that allows the arm to pull itself.    
+~
+40 0 0 -1000 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+Maxmove: 50
+E
+#11720
+man crimson red robed red-robed~
+a red-robed man~
+A man wearing crimson robes floats here, guarding the citadel.
+~
+   This man has the eyes of iron and steel, both cold and demanding.  He floats
+effortlessly at the entrace to the citadel.  He is strong and agile and no
+words leak from his mouth.    
+~
+10 65538 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 1 0
+Maxmove: 50
+E
+#11721
+priest phoenix~
+a priest of the Phoenix~
+A priest of the Phoenix chants in a unknown language.
+~
+   This man stares at you with cold lifeless eyes.  His mouth utters nothing
+but a soft chant.  He is strong and walks with a natural grace.  His robes are
+deep red and covered in blood from defending the Citadel.    
+~
+524296 1024 16386 1000 E
+15 11 1 5d10+300 2d8+4
+400 8400 2
+8 8 1 0
+Maxmove: 50
+E
+#11722
+lady flame engulfed~
+Lady of the Flame~
+A lady, engulfed in flames, holds her hand out in warning.
+~
+   The illusion shatters, and a flame shadow emerges from the deception.  Her
+arms glow red.  Here and there a bone pokes through her skin, seeping a shadowy
+liquid from it.  Large, deadly fangs can be seen protruding from her twisted
+mouth.  She floats effortlessly above the ground.    
+~
+524330 68257312 8388608 -1000 E
+18 11 -2 3d20+380 3d6+6
+700 14000 2
+8 8 2 0
+Maxmove: 50
+E
+#11723
+living armor~
+a suit of living armor~
+A rusty suit of armor leans against the stone walls.
+~
+   This basic suit of chainmail armor has been rusted from luck of use.  This
+particular suit come with a helmet, breastplate, gloves, and boots.  A large
+two handed sword is clenched in both hands.    
+~
+1048586 28 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 0 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#11724
+lord flame~
+Lord of the Flame~
+A skeleton of a man is shrouded in flames is here.
+~
+   This calm man looks at your through ember eyes and searing flames.  His long
+boney arms are barlely visible through the dark searing flames.  His voice is
+nothing more then a low whisper.    
+~
+524298 33032 524324 -1000 E
+20 8 -4 3d20+440 3d7+6
+900 25000 1
+8 8 1 0
+Maxmove: 50
+E
+#11725
+child moon pale elf blue~
+the moon child~
+A pale blue elf with crescent eyes looks you at with piercing eyes.
+~
+   This ghostly child has pale blue skin like that of a sea-elf.  Her eyes are
+unusally slanted like that of a crescent moon.  Her long skinny frame make her
+appear weak, but she hides a fierce power.    
+~
+10 134349952 1114112 0 E
+19 9 -3 3d20+410 3d6+6
+800 18000 9
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#11726
+child sun~
+the sun child~
+A child with dark red skin is here.
+~
+   This strange child skin has turned ghastly red.  His eyes are like tiny red
+darts of fire.  He seems to float effortless above the flames of the hearth.  
+His hands are outreached forming an arc.    
+~
+3399690 128 65011712 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 8
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+T 11726
+#11727
+royal guard~
+a royal guard~
+A guard dressed in the royal robes of the Phoenix is protecting the citadel.
+~
+   This well dressed guard dons the red and purple robes of his town.  His
+stance is strong and his eyes are fierce.  His hands are just seconds away from
+the hilt of his weapon.    
+~
+9437194 4104 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 0 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#11728
+citadel caretaker monk~
+a monk~
+A caretaker of the citadel is here.
+~
+   This simple monk walks around is silence.  Long flowing robes of blue velvet
+cover his body.  His eyes are cold and simple.  He is muscular and very
+athletic.  He walks with a smooth and natural grace.    
+~
+532616 0 2 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 2
+8 8 1 0
+Maxmove: 50
+E
+#11729
+glass golem~
+a glass golem~
+A transparent guardian stands blocking this door.
+~
+   This interesting but rare golem is made of nothing but clear glass.  Its
+hands been blasted into the shape of two large swords.  Its body has been made
+into the shape of a large tower shield.  Its eyes are two large rubies.    
+~
+9691146 131096 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 0 0
+Maxmove: 50
+E
+#11730
+Tethathas dark royal summoner~
+Tethathas~
+Tethathas, the Royal Summoner, looks at you wih hateful eyes.
+~
+   The eyes of this cold man boil with hate.  His long flowing black hair
+barely touches his shoulders.  His arms are well built and his body is thin.  
+His skin is dark and blemished.  A tattoo of a skull is noticeable on his right
+cheek.    
+~
+778778 28 31457840 -1000 E
+21 8 -5 3d33+450 3d8+7
+1500 33500 1
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#11731
+molted black fangs gruesome butterfly~
+a molted butterfly~
+A gruesome black butterfly with large poisonous fangs flutters around the room.
+~
+   This gruesome buttefly has strange hypnotic eyes that seem to follow your
+everystep.  The color of its wings are a light shadow of yellow and black.  
+The head of this horrid creature appears to be nothing but a skull.    
+~
+8 0 0 0 E
+15 11 0 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+Maxmove: 50
+E
+#11732
+obsidian golem sleek black form~
+an obsidian golem~
+A sleek black form guards his master's chamber.
+~
+   This black creature is hardly noticeable from the shadows it hides in.  The
+only thing that glows is it's amber colored eyes.  Its hands are razor sharp
+massive axe heads.  The rest of its sleek form has been carved from a single
+black rock, making this creature nearly indestructible.    
+~
+9494542 167903232 0 -1000 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 0 0
+BareHandAttack: 16
+Maxmove: 50
+E
+T 11732
+#11733
+rose blood~
+a blood rose~
+A beautiful but deadly-looking rose bush has been magically planted in the ground.
+~
+   This strange-looking rose bush seems to stare at you hungrily through two
+tiny little red eyes.  The eyes are barely visible through the masking of the
+leaves and roses.  Strange, you notice no roots or any natural way for this
+plant to feed.    
+~
+8 131072 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 0 8
+BareHandAttack: 11
+Maxmove: 50
+E
+#11734
+servant ser phoenix silver~
+a silver servant~
+A servant with a pale silver skin is here.
+~
+   This pale-looking human is dressed in long red robes with a golden phoenix
+embroidered on its front side.  The eyes of this servant are hollow and
+forbidding and he seems to move with little ease.    
+~
+8 1 2 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 2
+8 8 2 0
+Maxmove: 50
+E
+#11735
+golden servant~
+a golden servant~
+A servant with a golden skin and hollow eyes walks here.
+~
+   This servant looks to be nothing more then walking golden corpse.  His eyes
+are hollow and empty.  He walk limp and doesnt seem notice his surroundings
+around him.    
+~
+8 1 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 1 0
+Maxmove: 50
+E
+#11736
+marble golem~
+a marble golem~
+A white and blue marble golem stares at you with hollow eyes.
+~
+   This golem stands nearly nine feet tall and is made of white and blue
+polished marble bricks.  Its surface is smoothe and shiny, bearing no scatches
+or marks.  Its cold, hollow eyes are glowing sapphires.    
+~
+1048586 33554432 0 -100 E
+15 11 1 5d10+300 2d8+4
+600 8400 3
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+$

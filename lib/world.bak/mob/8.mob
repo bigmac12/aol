@@ -1,0 +1,628 @@
+#800
+mino minotaur privateer ruffian~
+a minotaur privateer~
+A large, abusive minotaur stands here, lording it over the docks.
+~
+   This minotaur is an intimidating presence in his surroundings.  He stands
+easily several feet over those others around him, and he seems to know this.  
+He stands around arrogantly, pushing and threatening anyone who comes near to
+him.  The weapon hanging at his side is bloodstained, so he has obviously found
+at least one opponent that he considers worthy.  He looks you over, sizing you
+up for your wealth...  And spunkiness.    
+~
+106 0 0 -500 E
+3 19 13 1d5+25 1d6+1
+8 25 3
+8 8 1 0
+BareHandAttack: 13
+E
+#801
+buccaneer large battle mino minotaur ~
+a large, battle-scarred minotaur buccaneer~
+Towering over the other sailors on the dock is a cocky-looking minotaur.
+~
+   This towering beast stands here proudly, looking down on all those he
+surveys.  He carries himself with an air of cockiness and pride that many
+minotaurs show in spades.  He shouts out various abuses at passersby, but seems
+content to simply wander around and push bystanders out of his way.  When he
+passes by you with a dismissive shove, you smell fumes of liquor on his breath.
+  
+~
+72 1028 0 -500 E
+5 17 11 2d5+65 2d5+0
+8 85 3
+8 8 1 0
+BareHandAttack: 13
+E
+#802
+guard resistance~
+a guard of resistance~
+A grim-faced, stern looking guard stands here, scrutinizing all who pass by him.
+~
+   This large, capable-looking man appears as though he may have at one time
+been a member of the city guard.  His large frame and stern demeanor mark him
+as a professional warrior.  He stands here, making certain no undesirables gain
+entry, always alert at his post.  He wears a blue armband.    
+~
+8 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+1800 25000 0
+8 8 1 0
+E
+#803
+leader resistance~
+the leader of the resistance~
+A tall, arrogant-looking man eyes you suspiciously.
+~
+   Standing before you is a tall, blonde-haired man with a fanatical gleam in
+his eye.  He wears robes of those of an Istarian cleric, with a dark overcoat.
+When you look upon him, you immediately get a sense that he would do anything
+within his power to achieve the goals he has set.  Upon seeing you, he starts a
+little, immediately clutching the medallion around his neck and reaching for
+something behind his back...    
+~
+3923978 0 16388 0 E
+29 2 -13 3d33+1450 4d7+9
+5000 213000 2
+8 8 0 0
+E
+#804
+Ralb gully dwarf filthy~
+Ralb~
+A small gully dwarf wearing filthy clothing is standing here.
+~
+   Covered from head to foot in dirt and filth, this little gully dwarf peers
+back at you with shining eyes.  He is dressed in torn clothing that is stained
+in so many places that it is impossible to determine its original color.  He
+looks back at you with a dumb smile slapped on his face.    
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 1 0
+E
+#805
+pickpocket scowling shady-looking shady character thief~
+a scowling, shady-looking character~
+Creeping from shadow to shadow, a shady-looking character looks at passersby, judging their wealth.
+~
+   This character sneaks about in the shadows, snatching purses from those who
+come too close to him.  When you look at him, he looks back, eyes widened out
+of fear, and he begins to look for his means of escape.    
+~
+204 786432 0 -300 E
+8 15 8 5d5+110 2d6+2
+0 800 4
+8 8 1 0
+BareHandAttack: 11
+E
+#806
+druid high woman~
+the druidic priestess~
+A druidic priestess stands here, cloaked in green and brown robes
+~
+   The woman stands firmly, her face weathered and wrinkled and her hands as
+gnarled as a tree's.  Her eyes are a light green, the color of moss, and her
+white hair is tied back in a bun at the base of her neck.  Her skin is tanned
+from a life outdoors, and in her eyes she holds the wisdom of ages and time.  
+
+~
+8 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 5
+8 8 2 0
+E
+#807
+small fire flame smallfire~
+a small fire~
+A small fire burns against the wall.
+~
+   A small fire burns slowly against the wall.  Smoke rises lazily into the air
+and the warmth of this meagre blaze is pleasant.  The red and orange flames
+lick gently against flammable surfaces causing them to blister and blacken.  
+Though small at this stage the fires potential to grow unchecked is obvious.  
+~
+254042 67142696 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 1
+E
+T 807
+T 814
+T 811
+#808
+large blaze flame fire largeblaze~
+a blaze~
+A large blaze has taken hold in the room.
+~
+   Thick smoke pours from a large blaze which has taken hold in the room.  The
+uncomfortable heat radiating from the fire forces you to step back and the
+yellow flames are mesmerizing.  Flames dance from surface to surface, in a
+beautiful dance, as the blaze spreads rapidly across the area.    
+~
+1302618 67142696 0 0 E
+16 11 0 3d20+320 3d6+4
+0 11000 0
+8 8 0 0
+BareHandAttack: 1
+E
+T 809
+T 814
+T 812
+#809
+roaring conflagration blaze fire flame roaringconflagration~
+a roaring conflagration~
+A roaring conflagration consumes everything in the room.
+~
+   The whole area is filled with black, choking smoke and flames rise to the
+roof.  The roaring conflagration is deafening and the intense heat makes
+approaching the fire difficult.  Stones glow red and crack as the blaze
+rampages through the room.  In fact it seems as if there is nothing left to
+burn in the area, yet the fire shows no signs of lessening.    
+~
+3399802 67142696 0 0 E
+24 6 -8 3d33+750 4d6+8
+0 68000 0
+8 8 0 0
+BareHandAttack: 12
+E
+T 810
+T 814
+#810
+tiny burning ember tinyburningember~
+a tiny burning ember~
+A tiny burning ember floats gently in the air.
+~
+   Floating gently in the air is a tiny burning ember.  Kept aloft by the
+updraft it zigs and zags across the area.  Only time will tell when it will
+land and possibly cause more havoc.    
+~
+254024 67108864 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 0
+BareHandAttack: 1
+E
+T 808
+T 815
+#811
+band knights crown mounted~
+Knights~
+A band of mounted Crown Knights carefully weave their way through the crowd.
+~
+   The band of mounted Knights carefully make their way along the street.  
+Their armor shines brightly in the light and the lead Knight holds aloft a
+pennant with the symbol of the Crown.  Horses snort impatiently when the crowds
+press too close to them and warning looks from the Knights give the most
+foolhardy enough reason to back away from the steeds.    
+~
+7596058 33832 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 3
+8 8 0 0
+BareHandAttack: 15
+E
+T 800
+#812
+band knights sword mounted~
+a band of mounted Sword Knights~
+A band of mounted Sword Knights carefully make their way along the street.
+~
+   The band of mounted Knights carefully weave their way through the crowd.  
+The lead Knight proudly holds a loft a pennant with the symbol of the Sword
+emblazoned upon it.  Resplendent in shining armour and atop magnifincient
+looking steeds, the Knights draw gasps of delight from the crowd.    
+~
+7600154 33960 4160 0 E
+30 0 -15 3d33+2000 4d8+10
+0 300000 7
+8 8 0 10
+BareHandAttack: 15
+E
+T 800
+#813
+prison warden~
+the Prison Warden~
+A Prison Warden stands here looking you over.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 0
+E
+#814
+spiritor morgion~
+a Spiritor of Morgion~
+A Spiritor of Morgion is here muttering dark prayers and incantations.
+~
+   The flesh of this dark priestess is covered in sores and boils.  Most of her
+skin is covered with a black, heavy robe, which is rotted in a few places.  
+She is of rather short stature, and before becoming a follower of Morgion,
+would most likely have been recognized as a dark dwarf living deep beneath the
+ground.    
+~
+25114 128 17825794 -850 E
+21 9 -5 1d1+499 3d8+7
+1000 33500 2
+8 8 2 0
+BareHandAttack: 5
+E
+#815
+hellhound hell hound dog~
+an abyssal hellhound~
+An abyssal hellhound is here, flames leaping and curling about his body.
+~
+   This creature holds the shape and characteristics of a normal dog, but is
+surrounded by leaping flames that also shoot from his mouth and nose.  It has
+ten times the musculature of a dog, and it's long fangs drip with a thick red
+saliva.  Straight from the abyss, the purpose and intent of this beast is only
+to kill.    
+~
+286760 33685504 0 -850 E
+23 8 -7 1d1+699 3d6+8
+1200 52000 0
+8 8 1 0
+BareHandAttack: 3
+E
+#816
+priest high morgion morg~
+a High Priest of Morgion~
+A High Priest of Morgion is here, his clothes and skin rotting from his body.
+~
+   This High Priest of Morgion possesses great power, although it comes at a
+cost.  His skin is covered in boils and sores, and in some places is even
+rotting from his body.  His eyes are red-rimmed with heavy bags beneath them,
+and a grotesque smile reveals a mouth full of yellow and black rotted teeth and
+lips covered in blisters.    
+~
+25160 33685504 25690116 -850 E
+26 7 -10 1d1+999 4d7+7
+1500 115000 2
+8 8 1 0
+BareHandAttack: 7
+E
+#817
+pirate zeboim northern ergoth~
+Donalia, the Renegade~
+A pirate from the seas of Northern Ergoth is standing here.
+~
+   The ebony skin of this woman is nearly as black as her cold, ruthless eyes.
+The muscles of her slender body are firm and well-toned.  Although athletic,
+the curves of her body are still sensual and provacative.  However, when being
+held at the tip of her sword, sensuality is the last thing to be concerned
+about.    
+~
+319592 33685504 0 -850 E
+15 12 1 1d1+324 2d8+4
+400 8400 0
+8 8 2 0
+BareHandAttack: 3
+E
+#818
+nobleman distressed richly noble~
+a distressed nobleman~
+A richly dressed nobleman with a distressed expression and a sad look in his eyes is here.
+~
+   Long, flowing bronze hair flows down to this man's broad shoulders.  He has
+a full, red beard that rests upon his soft belly.  His rounded figure is
+adorned with expensive clothing, and wears several pieces of jewlery, even a
+ring on each finger.  He has a gleam in his emerald green eyes, however looking
+into them there is a deep sorrow there as well.    
+~
+8 0 0 700 E
+15 12 1 1d1+324 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 13
+E
+#819
+mariner zeboim fish salt~
+a mariner of Zeboim~
+A mariner smelling of fish and salt water is here looking for his next opponent.
+~
+   Always prepared for a fight, this mariner keeps his cutlass at his side at
+all times, unless, of course, it is in his hands.  He smells strongly of the
+ocean wind and the pungeant stench of fish.  His skin is rough and dry from the
+spray of seawater, and his grey eyes are cold and without compassion.    
+~
+286824 33685504 0 0 E
+15 12 1 1d1+324 2d8+4
+400 8400 0
+8 8 0 0
+E
+#820
+corpse reanimated rotting elf wildrunner~
+the reanimated corpse of a Wildrunner~
+The rotting corpse of what was once an elf moves silently through the area.
+~
+   In life this being undoubtedly possessed the beauty and grace of his people.
+However, in death he has been twisted and perverted into something foul and
+unholy.  The peace of his eternal rest must have been disturbed by an evil and
+unnatural force.  Perhaps someone who sought to make use of his archery skills
+as well as his ability to move with the utmost stealth.    
+~
+1064970 820224 0 -300 E
+20 8 -4 3d20+440 3d7+6
+1492 25000 10
+8 8 1 0
+BareHandAttack: 1
+E
+#821
+foot soldier skeletal skeleton~
+a skeletal foot soldier~
+A skeleton dressed like a foot soldier stands ready to attack on command.
+~
+   What can only be described as a living skeleton stares back at you with
+empty sockets.  Its fleshless face is twisted in a menacing grin that might
+just be the result of its wide jawbone which remains open in an eternal war
+cry.  It is clad in blackened, steel armor which is caked with the blood and
+gore of previous foes.    
+~
+16392 33555456 0 -500 E
+16 11 0 3d20+320 3d6+4
+711 11000 10
+8 8 1 0
+E
+#822
+lich clad shadowy form ancient runes mage~
+a lich clad in robes adorned with ancient runes~
+The shadowy form of a lich floats just above the ground.
+~
+   The eyes of this creature are all that can be seen from beneath her
+volumnous robes: her eyes and pale skeletal hands.  Two flickering red flames,
+the eyes of this being are like none other on the face of Krynn.  Surely she is
+not of this world.  The robes she wears, stitched with runes in a language long
+since forgotten, proclaim her as a practioner of the magickal arts.    
+~
+1654792 33620992 144 -600 E
+20 8 -4 3d20+440 3d7+6
+1776 25000 8
+8 8 2 0
+BareHandAttack: 12
+E
+#823
+revenant body reanimated corpse~
+the reanimated body of a young woman~
+The reanimate corpse of a once beautiful woman floats just above the ground.
+~
+   Mangled tresses of ebony, fallen out in places, rest upon the frail
+shoulders of this, tattered being.  A hideous mark of a once severed head
+covers her discolored neck.  Riddled in open wounds and a lattice of cuts made
+from sword slashing covers the dried and stiff muscles of this once radiating
+beauty.  Now nothing more than a revenant, her corpse could only have been
+reanimated with one purpose in mind: revenge.    
+~
+3694618 33784832 270336 -800 E
+25 5 -9 3d33+850 4d6+8
+1787 87000 9
+8 8 2 0
+BareHandAttack: 8
+E
+#824
+girl scratches ashes~
+a small girl with ashes and scratches on her face~
+A small girl with ashes and scratches on her face is standing here.
+~
+   A little girl stands here, looking slightly charred and scratched up.  Her
+blonde hair is tousled and there is a smudge of ash on her nose and cheeks.  
+She has obviously been through a tough ordeal and she looks around herself
+nervously with wide eyes.    
+~
+16394 0 0 0 E
+5 17 11 2d5+65 2d5+0
+1 85 0
+8 8 2 0
+E
+#825
+man cowled black robe cowl~
+a man in a black cowl~
+A man in a cowled black robe moves about minding his own business.
+~
+   It is difficult to make out the features of this man you are now looking at.
+His thick black robes have a large voluminous cowl which is pulled down,
+obscuring his entire face except for his chin, and it is very diffcult to
+discern what he looks like from that.  His hands are exposed through the long
+sleeves of his robe, the only other part of him that is visible.  Perhaps he
+notices your scrutiny, as he quickens his step slightly.    
+~
+188634 820284 0 -600 E
+15 11 1 5d10+300 2d8+4
+300 8400 4
+8 8 1 0
+BareHandAttack: 14
+E
+#826
+wolf fierce dark~
+a fierce dark wolf~
+A fierce dark wolf pads sneakily by, sniffing at a trail.
+~
+   This wolf is covered from snout to tail in dark, matted black fur.  It is
+eerily adept at remaining unseen, so you are quite surprised to notice it here.
+It has its nose lowered near the ground, as though it were sniffing out a
+trail.  Somehow, it knows that you can see it, and thus moves more quickly upon
+its way.    
+~
+188570 819262 0 -500 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 0 0
+BareHandAttack: 4
+E
+#827
+wolf massive huge black~
+a huge black wolf~
+A truly massive, man-sized wolf stalks the area, looking for prey.
+~
+   This wolf is far larger than any naturally-occurring species.  That is a
+moot point upon looking at the creature, because it clearly is not a natural
+sort of wolf.  Sharp bones can be seen just under its sleek, black fur.  A pair
+of red eyes glow inside its skull.  And rows of razor sharp teeth can be seen
+every time it licks its chops.  It does not appear to be friendly, and this
+wolf is certainly no one's house pet.    
+~
+1302538 270396 0 -850 E
+22 7 -6 3d33+550 3d8+7
+0 40000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#828
+deacon~
+a deacon~
+A deacon glances around the temple, seeing to it that everything is kept in order.
+~
+   This is a deacon of the temple in Kalaman, like any other.  At first glance,
+he seems to be doing a routine inspection of the temple, seeing to it that
+everything is run routinely and efficiently.  Then, you notice something odd
+about the way he is looking around.  He doesn't look like someone who is used
+to the temple, and rather than check on things and then go, he lingers for an
+extrordinary length of time over seemingly everyday things, with a scowl.    
+~
+24714 9216 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 1 0
+E
+#830
+someone~
+someone~
+You become aware that someone is in your presence, though you cannot see who.
+~
+   You look in the direction of that...  That "someone" who you can sense here,
+but you cannot make out anything at all, save for the small distortion in the
+air, which indicates a presence.  Whatever invisibility spell shrouds this
+creature, it is a potent one to go undetectable, even by magical means.    
+~
+8118410 34452542 201327152 -1000 E
+30 1 -14 3d33+1700 4d8+9
+0 0 1
+8 8 0 0
+BareHandAttack: 8
+E
+#831
+Mazzy~
+Mazzy~
+Mazzy stands near you, her eyes filled with innocent wonder.
+~
+   Mazzy cannot possibly be older than seven or eight.  She looks completely
+innocent of any of the things that surely must go on in this place.  Her
+yellow-blonde hair is tied into braids, and her wide blue eyes are full of an
+almost unreal innocence.  She is a little girl, with normal little-girl
+concerns, but spends a lot of time in a place that will one day, you are fairly
+certain, warp her.    
+~
+24714 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 2 0
+E
+#832
+mob unfinished~
+a tall, black-cloaked man~
+A tall, black-cloaked man stands here, his cowl hiding his face entirely.
+~
+   This man's features are not visible, as his cloak hides all but his hands,
+which are a ghastly white indicative of ill health.  He stands slightly
+crouched and appears intent on the tasks at hand.  When his face does show, it
+is lean and gaunt, betraying little in the way of emotion.  Something in his
+stance and quiet, raspy voice assures you that he is quite aware of your
+presence, and not in the least bit alarmed by it.    
+~
+1964058 33596476 178528256 -850 E
+26 4 -10 3d33+950 4d7+7
+6000 115000 2
+8 8 1 0
+BareHandAttack: 9
+E
+#833
+werewolf huge~
+a huge werewolf~
+A huge werewolf snarls and prepares to slash out your throat.
+~
+   Werewolves were long thought to be extinct on Krynn.  They have recently
+resurfaced for reasons unknown, and have made Krynn all the more hellish for
+their presence.  The creature before you appears to be half wolf and half man,
+and all rage.  So intense is the expression of pure hatred and bloodlust upon
+its features, that it is clearly beyond the point of reason, and it is not a
+matter of if it will attack...  But when.    
+~
+1368202 434236 0 -850 E
+20 8 -4 3d20+440 3d7+6
+0 25000 3
+8 8 0 0
+BareHandAttack: 3
+E
+#834
+werewolf enormous black~
+an enormous, black werewolf~
+An enormous black werewolf advances, fangs dripping expectantly.
+~
+   Werewolves are creatures that have come into being from a curse, which
+causes them to roam Krynn, seeking out the blood of innocence whenever one of
+the moons is in ascension.  This werewolf is huge, black, and terrifying, even
+when compared to one of its fellows.  It has huge, razor-sharp teeth which it
+shows in a toothy, bloodthirsty grin.  It is larger than either a wolf or a
+man, and appears quite capable of destroying anything in its way.    
+~
+1434122 134882878 0 -1000 E
+25 5 -9 3d33+850 4d6+8
+0 87000 3
+8 8 0 0
+BareHandAttack: 3
+E
+#835
+tattered flame red robes~
+a man in tattered flame-red robes~
+A man in tattered flame-red robes moves through the area, his face obscured by a deep hood.
+~
+   The robes of this man were once a brillian red hue, but now they appear to
+be slightly faded and tattered in various places.  The man's build is extremely
+tall and lean, and he stoops over almost painfully.  He keeps his head hidden
+beneath his hood, and his face appears to be somewhat pale.  The man's eyes are
+a brilliant green but seem faintly wild.    
+~
+1630218 0 65536 0 E
+25 5 -9 3d33+850 4d6+8
+1776 87000 2
+8 8 1 0
+BareHandAttack: 12
+E
+#836
+priest high morgion morg~
+the High Priest of Morgion~
+The High Priest of Morgion is standing here.
+~
+   This High Priest of Morgion possesses great power, although it comes at a
+terrible cost.  His skin is a sickly pale color, and right off, it is very
+noticable that his chest lies still...  No breath passes through his lips.  A
+cruel smile reveals a mouth full of pearly white teeth.  He wears robes of
+purest black, that shimmer with violet highlights.    
+~
+1826826 1192 142868480 -850 E
+27 8 -13 3d33+1200 4d7+8
+0 135000 2
+8 8 1 0
+BareHandAttack: 7
+E
+#850
+woman spectral figure armor quest~
+the spectral figure of a woman in armor~
+The spectral figure of a proud woman in armor floats nearby.
+~
+   In life, this woman must have been a proud and capable warrior of some clan
+long since forgotten to time.  The spectral armor she wears bears symbols that
+trigger no immediate tingle of recognition.  Her long hair floats about her, as
+though she were adrift in the sea.  Gripped in both hands is a longsword
+covered with etchings and runes.  As you move towards her, she makes no moves
+of her own.  She simply sits there, awaiting your decision.    
+~
+7577626 33719336 0 0 E
+31 0 -20 3d333+9000 10d1+20
+0 300000 10
+6 8 2 0
+BareHandAttack: 16
+E
+$

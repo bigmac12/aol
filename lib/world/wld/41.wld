@@ -1,0 +1,2039 @@
+#4100
+Approaching The City of Morning Dew~
+   To the south you can make out the top of the city walls of Morning Dew.  
+Little is known about the city except that it sits just on the northern edge of
+the Plains of Dust.  Many caravans travel these roads to and from the city
+because it is this road that you must travel to get to the port city of Tarsis.
+You start to breath a sigh of relief knowing that the city is so close.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 8669
+D2
+~
+~
+0 0 4101
+D8
+~
+~
+0 0 -1
+S
+#4101
+Before The City Gates of Morning Dew~
+   The road coming from the north ends here just before the city gates of
+Morning Dew.  The gate guards here keep a sharp eye on the people entering and
+leaving the city.  They also stand here because there have been many reports of
+marauders hiding about these areas.  The large gates are set deep within the
+wall, and made of thick logs.  Small trails lead off to the east and to the
+west along the outer city walls.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4100
+D1
+~
+~
+0 0 4164
+D2
+   A large set of gates stand here open allowing all to enter or leave the city
+at will.    
+~
+gate~
+1 0 4102
+D3
+~
+~
+0 0 4191
+D7
+~
+~
+0 0 -1
+S
+#4102
+Just Inside The Northern Gates of Morning Dew~
+   You stand just inside the northern gate to the city of Morning Dew.  The
+dirty cobblestone streets stretch out to the south, east, and west.  You feel a
+hot breeze blow up from a southernly direction.  Clouds of dust can be seen on
+the distant horizons.  A ways to the south a small well can be seen.    
+~
+41 32768 1 0 0
+D0
+   A large set of gates stand open here allowing all to enter or leave at will.
+  
+~
+gate~
+1 0 4101
+D1
+~
+~
+0 0 4111
+D2
+~
+~
+0 0 4103
+D3
+~
+~
+0 0 4124
+S
+#4103
+Along a Dirty Cobble Stone Street~
+   You stand along the side of a dirty cobblestone street.  Dust seems to float
+in thick clouds above the street.  The dry humid air seems to creep past you
+makeing it seem hotter than it really is.  Large stone buildings line both
+sides of the streets allowing for some shade from the heat.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4102
+D1
+~
+~
+0 0 1421
+D2
+~
+~
+0 0 4104
+S
+#4104
+Along a Dirty Cobble Stone Street~
+   You stand along the side of a dirty cobblestone street.  Dust seems to float
+in thick clouds above the street.  The dry humid air seems to creep past you
+makeing it seem hotter than it really is.  Large stone buildings line both
+sides of the streets allowing for some shade from the heat.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4103
+D1
+~
+~
+0 0 1422
+D2
+~
+~
+0 0 4105
+D3
+~
+~
+0 0 1423
+S
+#4105
+The City Square~
+   You stand in the center of Morning Dew city.  A small well sits here that
+provides the entire city with water.  The dusty streets swell with travellers
+from all parts of Krynn.  This city acts as a major stop-over for those who
+travel the roads to the north, and to the south.  Large caravans often hire
+mercenaries to protect their goods as they travel into the plains from would be
+attackers.    
+~
+41 32776 1 0 0
+D0
+~
+~
+0 0 4104
+D1
+~
+~
+0 0 4116
+D2
+~
+~
+0 0 4106
+D3
+~
+~
+0 0 4129
+D6
+~
+~
+0 0 4137
+D7
+~
+~
+0 0 4138
+D8
+~
+~
+0 0 4139
+D9
+~
+~
+0 0 4140
+S
+#4106
+Along a Dirty Cobble Stone Street~
+   You stand along the side of a dirty cobblestone street.  Dust seems to float
+in thick clouds above the street.  The dry humid air seems to creep past you
+makeing it seem hotter than it really is.  Large stone buildings line both
+sides of the streets allowing for some shade from the heat.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4105
+D1
+~
+~
+0 0 1424
+D2
+~
+~
+0 0 4107
+D3
+~
+~
+0 0 1425
+S
+#4107
+Along a Dirty Cobble Stone Street~
+   You stand along the side of a dirty cobblestone street.  Dust seems to float
+in thick clouds above the street.  The dry humid air seems to creep past you
+makeing it seem hotter than it really is.  Large stone buildings line both
+sides of the streets allowing for some shade from the heat.  A small tavern can
+be seen to the east.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4106
+D1
+~
+~
+0 0 4142
+D2
+~
+~
+0 0 4108
+S
+#4108
+Just Inside The Southern Gates of Morning Dew~
+   You stand just inside the southern gate to the city of Morning Dew.  The
+dirty cobblestone streets stretch out to the north, east, and west.  You feel a
+hot breeze blow up from the from a southernly direction.  Clouds of dust can be
+seen on the distant horizans.  A ways to the north a small well can be seen.  
+
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4107
+D1
+~
+~
+0 0 4123
+D2
+   A large set of gates block you from leaving the city towords the south.    
+~
+gate~
+1 4101 4109
+D3
+~
+~
+0 0 4136
+S
+#4109
+Before The Southern Gates of Morning Dew~
+   The road coming from the south ends here just before the city gates of
+Morning Dew.  The gate guards here keep a sharp eye on the people entering and
+leaving the city.  They also stand here because there have been many reports of
+marauders hiding about these areas.  The large gates are set deep within the
+wall, and made of thick logs.  Small trails lead off to the east and to the
+west along the outer city walls.    
+~
+41 32768 2 0 0
+D0
+   A large set of gates block you from entering the city.    
+~
+gate~
+1 4101 4108
+D1
+~
+~
+0 0 4177
+D2
+~
+~
+0 0 4110
+D3
+~
+~
+0 0 4178
+S
+#4110
+Approaching The Southern Gate of Morning Dew~
+   To the north you can make out the top of the city walls of Morning Dew.  
+Little is known about the city except that it sits just on the northern edge of
+the Plains of Dust.  Many caravans travel these roads to and from the city
+becuase it is this road that you must travel to get to the port city of Tarsis.
+You start to breath a sigh of relief knowing that the city is so close.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4109
+S
+#4111
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4112
+D3
+~
+~
+0 0 4102
+S
+#4112
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4113
+D3
+~
+~
+0 0 4111
+S
+#4113
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 0 0 0
+D2
+~
+~
+0 0 4114
+D3
+~
+~
+0 0 4112
+S
+#4114
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4113
+D2
+~
+~
+0 0 4115
+S
+#4115
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4114
+D2
+~
+~
+0 0 4118
+S
+#4116
+Along a Dirty Cobble Stone Street~
+   You stand along the side of a dirty cobblestone street.  Dust seems to float
+in thick clouds above the street.  The dry humid air seems to creep past you
+makeing it seem hotter than it really is.  Large stone buildings line both
+sides of the streets allowing for some shade from the heat.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4117
+D3
+~
+~
+0 0 4105
+S
+#4117
+Along a Dirty Cobble Stone Street~
+   You stand along the side of a dirty cobblestone street.  Dust seems to float
+in thick clouds above the street.  The dry humid air seems to creep past you
+makeing it seem hotter than it really is.  Large stone buildings line both
+sides of the streets allowing for some shade from the heat.  The Morning Dew
+bank lies to the north.
+~
+41 32768 0 0 0
+D0
+~
+~
+0 0 4198
+D1
+~
+~
+0 0 4118
+D3
+~
+~
+0 0 4116
+S
+#4118
+Just Inside The Eastern Gate of Morning Dew~
+   You stand just inside the eastern gate to the city of Morning Dew.  The
+dirty cobblestone streets stretch out to the north, south, and west.  You feel
+a hot breeze blow up from the from a southernly direction.  Clouds of dust can
+be seen on the distant horizans.  A ways to the west a small well can be seen.
+  
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4115
+D1
+~
+~
+0 0 4144
+D2
+~
+~
+0 0 4119
+D3
+~
+~
+0 0 4117
+S
+#4119
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4118
+D2
+~
+~
+0 0 4120
+S
+#4120
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4119
+D2
+~
+~
+0 0 4121
+S
+#4121
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4120
+D3
+~
+~
+0 0 4122
+S
+#4122
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4121
+D3
+~
+~
+0 0 4123
+S
+#4123
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4122
+D3
+~
+~
+0 0 4108
+S
+#4124
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4102
+D3
+~
+~
+0 0 4125
+S
+#4125
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4124
+D3
+~
+~
+0 0 4126
+S
+#4126
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4125
+D2
+~
+~
+0 0 4127
+S
+#4127
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4126
+D2
+~
+~
+0 0 4128
+S
+#4128
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4127
+D2
+~
+~
+0 0 4131
+S
+#4129
+Along a Dirty Cobble Stone Street~
+   You stand along the side of a dirty cobblestone street.  Dust seems to float
+in thick clouds above the street.  The dry humid air seems to creep past you
+makeing it seem hotter than it really is.  Large stone buildings line both
+sides of the streets allowing for some shade from the heat.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4105
+D3
+~
+~
+0 0 4130
+S
+#4130
+Along a Dirty Cobble Stone Street~
+   You stand along the side of a dirty cobblestone street.  Dust seems to float
+in thick clouds above the street.  The dry humid air seems to creep past you
+makeing it seem hotter than it really is.  Large stone buildings line both
+sides of the streets allowing for some shade from the heat.  A small shop of
+some kind can be seen to the south.    
+~
+41 32768 0 0 0
+D1
+~
+~
+0 0 4129
+D2
+~
+~
+0 0 4197
+D3
+~
+~
+0 0 4131
+S
+#4131
+Just Inside The Western Gates of Morning Dew~
+   You stand just inside the western gate to the city of Morning Dew.  The
+dirty cobblestone streets stretch out to the north, south, and east.  You feel
+a hot breeze blow up from the from a southernly direction.  Clouds of dust can
+be seen on the distant horizans.  A ways to the east a small well can be seen.
+  
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4128
+D1
+~
+~
+0 0 4130
+D2
+~
+~
+0 0 4132
+D3
+~
+~
+0 0 4145
+S
+#4132
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4131
+D2
+~
+~
+0 0 4133
+S
+#4133
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4132
+D2
+~
+~
+0 0 4134
+S
+#4134
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D0
+~
+~
+0 0 4133
+D1
+~
+~
+0 0 4135
+S
+#4135
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4136
+D3
+~
+~
+0 0 4134
+S
+#4136
+A Dusty Street Along The City Walls~
+   The city walls line these dusty coblestone streets.  The high walls are made
+of thick wood to keep out wild animals and muraders that mite seek to pilage
+the city.  They are only 15 feet in height but are set deep into the ground to
+also help block some of the wind that blows across the plains.  Large buildings
+also line these streets with little or no windows apon the upper levels except
+for those facing the square.  This helps prevent the hot wind from blowing dust
+into the upper levels of the homes.    
+~
+41 32768 1 0 0
+D1
+~
+~
+0 0 4108
+D3
+~
+~
+0 0 4135
+S
+#4137
+The Morning Dew Armor Shop~
+   The armor shop holds a variety of protective gear.  Steel breastplates line
+the walls, among them are thick leather jerkins, heavy robes, and all sorts of
+items.  It seems like many travellers have decided to sell there armor here
+rather than tote it all into the vast plains under the hot sun.    
+~
+41 32768 0 0 0
+D9
+~
+~
+0 0 4105
+S
+#4138
+The Morning Dew Weapon Shop~
+   The weapon shop holds a wide variety of weapons.  Morning Dew being a major
+stopping point often has some of the finest weapons to be found.  An odd
+assortment of weapons can be seen behind the store owner.  A glass case holds
+fine daggers of all shapes and sizes.  A large well painted picture hangs on a
+wall depicting a Nomad with a spear fighting a giant sand worm.    
+~
+41 32768 0 0 0
+D8
+~
+~
+0 0 4105
+S
+#4139
+The Morning Dew General Store~
+   The general store sells a variety of items for the traveller in need.  
+Large waterskins hang upon the walls, next to them are large sacks and torchs.
+A slight aroma comes from somewhere behind the counter, upon closer examination
+you can see many dried fruits and cakes.  They are said to be light to carry
+and very filling.    
+~
+41 32768 0 0 0
+D7
+~
+~
+0 0 4105
+S
+#4140
+The Dew Drop Inn~
+   Entering the Dew Drop Inn gives the impression that the place is rather run
+down and dirty, with dust blowing in from the street occasionally.  Once inside
+the door it's quite obvious that this inn is well-taken care of.  Most of the
+walls are built of darkly stained oak, and semi-fine paintings line the walls.
+A large mahogany desk lies against the northern wall for guests to register.  
+To the east lies Morning Dew's only post office, and to the south a thick oak
+door blocks out noise from the tavern.  A large stairway leads up to the many
+guest rooms.    
+~
+41 32780 0 0 0
+D1
+~
+~
+0 0 4141
+D2
+   A door is here closing off the noise from the tavern.    
+~
+door~
+1 0 4142
+D4
+~
+~
+0 0 4147
+D6
+~
+~
+0 0 4105
+D9
+~
+~
+0 0 4143
+S
+#4141
+The Postoffice of Morning Dew~
+   The Morning Dew post office is well lit by torches set in sconces on the
+walls.  Here merchants, travelers, and citizens come to mail letters to the
+rest of Ansalon.  For a slight fee, the postmaster will see that your letter is
+delivered promptly.  An oversized desk sits against the southern wall, blocking
+entrance to the main area where the letters are stored before they're sent out.
+  
+~
+41 32776 0 0 0
+D3
+~
+~
+0 0 4140
+S
+#4142
+From Dusk Until Dawn Tavern~
+   A vast bar lines the eastern wall, while tables set closely together take up
+the rest of the room.  Many patrons inhabit the establishment at all hours,
+being that it is rarely closed.  The floorboards seem to be damp in places,
+either with ale or sometimes blood from one of the many brawls that tend to
+erupt.  A small trapdoor in the corner of the room leads to the cellar
+storerooms where most of the stock is kept.  A busy common room extends to the
+east where more revelry can be heard.  To the north, a thick oaken door leads
+to the Inn proper.    
+~
+41 32780 0 0 0
+D0
+   A door is here closing you off from the Inn.    
+~
+door~
+1 0 4140
+D1
+   A door here leads into the common room area.    
+~
+door~
+1 0 4143
+D3
+~
+~
+0 0 4107
+D5
+   A trapdoor lies here covering the entrace below the tavern.    
+~
+trap door trapdoor~
+1 0 4155
+E
+door~
+   A door is here blocking off the noisy tavern from the Inn.    
+~
+S
+#4143
+The Common Room~
+   The common room is lined with many benches, and is here for you to hold some
+semi-private conversations with fellow travellers.  It is set out of the way,
+yet close to the inn and the tavern for those that get thirsty or sleepy.  You
+see many people entering and leaving going about there business.    
+~
+41 32780 0 0 0
+D3
+   A door here leads back into the tavern.    
+~
+door~
+0 0 4142
+D4
+~
+~
+0 0 4146
+D6
+Nothing.
+~
+~
+0 0 4140
+S
+#4144
+Outside the Eastern Gates of Morning Dew~
+   The road coming from the east ends here just before the city gates of
+Morning Dew.  The gate guards here keep a sharp eye on the people entering and
+leaving the city.  They also stand here because there have been many reports of
+marauders hiding about these areas.  The large gates are set deep within the
+wall, and made of thick logs.  Small trails lead off to the north and to the
+south along the outer city walls.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4170
+D2
+~
+~
+0 0 4171
+D3
+~
+~
+0 0 4118
+S
+#4145
+Just Outside The Western Gates of Morning Dew~
+   The road coming from the west ends here just before the city gates of
+Morning Dew.  The gate guards here keep a sharp eye on the people entering and
+leaving the city.  They also stand here because there have been many reports of
+marauders hiding about these areas.  The large gates are set deep within the
+wall, and made of thick logs.  Small trails lead off to the north and to the
+south along the outer city walls.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4185
+D1
+~
+~
+0 0 4131
+D2
+~
+~
+0 0 4184
+S
+#4146
+The Main Board Room~
+   This area is set up for general anouncements and a board has been provided
+by the citizens of Morning Dew.  You may check here for general anouncements or
+happenings of the sorrounding areas.    
+~
+41 32780 0 0 0
+D3
+~
+~
+0 0 4154
+D5
+~
+~
+0 0 4143
+S
+#4147
+At The Top of The Stairs~
+   The large stairway ends here at the top of the landing.  Many doors lead in
+all directions to various rooms.  Some of the rooms are nicer than the others
+and quiet more costly.  Small paintings line the walls adding a little touch of
+home to far off Inn of Morning Dew.    
+~
+41 32780 0 0 0
+D0
+   A door here leads to on of the private rooms.    
+~
+door~
+1 0 4148
+D1
+   A door here blocks your way into one of the nicer rooms of the Inn.    
+~
+door~
+1 0 4149
+D2
+   A door here blocks the entrance to the room.    
+~
+door~
+1 0 4151
+D3
+   A large oak door blocks you from entering the lavishly plush room to the
+west.    
+~
+oak door~
+1 0 4152
+D5
+~
+~
+0 0 4140
+S
+#4148
+One of The Many Rooms in The Inn~
+   This small room of the inn seems rather shabby.  An old mattress is thrown
+on the floor to provide a slight touch of comfort while you sleep.  A large
+window overlooks the dirty crowded street below.  A small washbasin with luke
+warm water lies here for you to wash the grime off from your travels.    
+~
+41 32776 0 0 0
+D2
+   A Door shuts off your room from the rest of the Inn allowing you your
+privacy.    
+~
+door~
+1 0 4147
+S
+#4149
+One of The Better Rooms in The Inn~
+   This is the study of one of the nicer rooms the inn holds.  It is somewhat
+cleaner than two of the four rooms the inn holds.  A large couch and chair sit
+along the walls for guests to entertain others.  The walls are lined with
+paintings.  A large window over looks the eastern gate.    
+~
+41 32776 0 0 0
+D2
+~
+~
+0 0 4150
+D3
+   A door here blocks out the other many sounds coming from the Inn.    
+~
+door~
+1 0 4147
+S
+#4150
+A Rather Nice Room in The Inn~
+   This rather large room is mainly occupied with a large bed.  The bed even
+has clean sheets, so that alone makes it better than most of the other rooms.
+A water basin sits against the southern wall holding clean clear water.  A tub
+sits in the corner allowing you to wash the grime from your body before lying
+down to sleep for the night.    
+~
+41 32776 0 0 0
+D0
+~
+~
+0 0 4149
+S
+#4151
+Another One of The Many Rooms in The Inn~
+   This small room of the inn seems rather shabby.  An old mattress is thrown
+on the floor to provide a slight touch of comfort while you sleep.  A large
+window overlooks the dirty crowded street below.  A small washbasin with luke
+warm water lies here for you to wash the grime off from your travels.    
+~
+41 32776 0 0 0
+D0
+   A door here allows you some privacy.    
+~
+door~
+1 0 4147
+S
+#4152
+The Sitting Room of The Best Room of The Inn~
+   This is the study of one of the nicer rooms the inn holds.  It is spotless
+from grime and dirt making it the best room the inn holds.  A large couch and
+chair sit along the walls for guests to entertain others.  The walls are lined
+with paintings.  A large window over looks the the southern part of the town
+square.    
+~
+41 32776 0 0 0
+D0
+A thick door blocks the way north
+~
+door~
+1 4130 4153
+D1
+   A large oak door shuts you off from the rest of the Inn.    
+~
+oak door~
+1 0 4147
+S
+#4153
+The Best Room The Inn has to Offer~
+   This room is extremely large.  A large canopy bed lies against the eastern
+wall, the sheets seem spotless and crisp.  A large porcelain tub sits in one
+corner filled with cool clean water.  A vast window overlooks the town square
+allowing you to see all who come and go through the city.  Large tapestries
+line the walls depicting various things.    
+~
+41 32776 0 0 0
+D2
+A large thick door blocks the exit to the south
+~
+door~
+1 4130 4152
+S
+#4154
+The Crime Board Room~
+   The citizens of Morning Dew do not take kindly to crimes being commited
+within there city.  Though they do know it happens, and for such instances they
+have provided a board to announce such crimes as witnessed by the citizens or
+from the ones the crimes were commited against.    
+~
+41 32776 0 0 0
+D1
+~
+~
+0 0 4146
+S
+#4155
+Below The Tavern~
+   This spacious cellar storeroom is cool and dank, the walls made from thick
+stonework.  Large barrels of various types of ale line the walls, along with
+many bags of grain and other consumables.  In the middle of the cellar stand
+several wineracks, most of them full of bottles of expensive and exotic
+vintages.  The rough stone floor is swept clean of debris so that nobody slips
+and smashes anything of value.    
+~
+41 32776 0 0 0
+D3
+   A large barrel rests here agains the wall.    
+~
+barrel~
+1 0 4156
+D4
+   A trapdoor blocks the stairs going up into the tavern.    
+~
+trap door trapdoor~
+1 0 4142
+S
+#4156
+Within The Hidden Passage~
+   This large, dank passage is lined with many small crystals of some type,
+which throw off an eerie yellow light.  The walls here are made of the same
+cool, sturdy stonework as that of the cellar storeroom.  Hushed conversation
+and other noises can be heard in the distance.  A barrel shaped door lies to
+the east, leading to a cellar storeroom.    
+~
+41 33024 0 0 0
+D1
+   A large barrel here blocks the entrance into the lower level of the tavern.
+  
+~
+barrel~
+1 0 4155
+D3
+~
+~
+0 0 4157
+S
+#4157
+Within The Hidden Passage~
+   This large, dank passage is lined with many small crystals of some type,
+which throw off an eerie yellow light.  The walls here are made of the same
+cool, sturdy stonework as that of the cellar storeroom.  The hushed
+conversation and sounds of movement have gotten closer, though still fairly
+muffled.  The passage continues to the east and west.    
+~
+41 33024 0 0 0
+D1
+~
+~
+0 0 4156
+D3
+~
+~
+0 0 4158
+S
+#4158
+Within A Hidden Passage~
+   This large, dank passage is lined with many small crystals of some type
+which throw off an eerie yellow light.  The walls here are made of the same
+cool, sturdy stonework as that of the cellar storeroom.  The hushed
+conversation and movement can be heard quite clearly now, coming from the other
+side of a large door set into the west wall.  The door itself is made of thick
+banded oak, and is locked by an iron crossbar and padlock.    
+~
+41 33032 0 0 0
+D1
+~
+~
+0 0 4157
+D3
+A thick wooden door
+~
+door wood~
+1 4133 4159
+S
+#4159
+Within A Hidden Lair~
+   The lair of the marauders has not been penatrated for some time, you are one
+of the first to find it.  The vast lair is lined with valuable tapestries and
+lit with the same type of torches found in the tunnels, they seem quiet
+valuable.  Many tables line the hall as well as benches and rolled out bedding.
+Many of the marauders stand about relazing from another one of there long
+escapades.  A large door blocks the exit to the east.    
+~
+41 33024 0 0 0
+D1
+A thick wooden door
+~
+door wood~
+1 4133 4158
+D3
+~
+~
+0 0 4160
+D6
+~
+~
+0 0 4162
+D8
+~
+~
+0 0 4161
+S
+#4160
+Within A Hidden Lair~
+   The lair of the marauders has not been penatrated for some time, you are one
+of the first to find it.  The vast lair is lined with valuable tapestries and
+lit with the same type of torches found in the tunnels, they seem quiet
+valuable.  Many tables line the hall as well as benches and rolled out bedding.
+Many of the marauders stand about relazing from another one of there long
+escapades.    
+~
+41 33024 0 0 0
+D0
+~
+~
+0 0 4162
+D1
+~
+~
+0 0 4159
+D2
+~
+~
+0 0 4161
+D3
+~
+~
+0 0 4163
+S
+#4161
+Within A Hidden Lair~
+   The lair of the marauders has not been penatrated for some time, you are one
+of the first to find it.  The vast lair is lined with valuable tapestries and
+lit with the same type of torches found in the tunnels, they seem quiet
+valuable.  Many tables line the hall as well as benches and rolled out bedding.
+Many of the marauders stand about relazing from another one of there long
+escapades.    
+~
+41 33024 0 0 0
+D0
+~
+~
+0 0 4160
+D3
+~
+~
+0 0 4194
+D7
+~
+~
+0 0 4159
+S
+#4162
+Within A Hidden Lair~
+   The lair of the marauders has not been penatrated for some time, you are one
+of the first to find it.  The vast lair is lined with valuable tapestries and
+lit with the same type of torches found in the tunnels, they seem quiet
+valuable.  Many tables line the hall as well as benches and rolled out bedding.
+Many of the marauders stand about relazing from another one of there long
+escapades.    
+~
+41 33024 0 0 0
+D2
+~
+~
+0 0 4160
+D3
+~
+~
+0 0 4193
+D9
+~
+~
+0 0 4159
+S
+#4163
+Within A Hidden Lair~
+   The lair of the marauders has not been penatrated for some time, you are one
+of the first to find it.  The vast lair is lined with valuable tapestries and
+lit with the same type of torches found in the tunnels, they seem quiet
+valuable.  Many tables line the hall as well as benches and rolled out bedding.
+Many of the marauders stand about relazing from another one of there long
+escapades.    
+~
+41 33024 0 0 0
+D0
+~
+~
+0 0 4193
+D1
+~
+~
+0 0 4160
+D2
+~
+~
+0 0 4194
+D3
+~
+~
+0 0 4192
+S
+#4164
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the northeastern outer wall you notice that this path is
+well beaten by many feet.  Looking out to the north you can just make out the
+vast forests that cover the area.  The wall here is made out of thick sturdy
+wood, set deep within the ground to protect those within the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4165
+D3
+~
+~
+0 0 4101
+S
+#4165
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the northeastern outer wall you notice that this path is
+well beaten by many feet.  Looking out to the north you can just make out the
+vast forests that cover the area.  The wall here is made out of thick sturdy
+wood, set deep within the ground to protect those within the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4166
+D3
+~
+~
+0 0 4164
+S
+#4166
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the northeastern outer wall you notice that this path is
+well beaten by many feet.  Looking out to the north you can just make out the
+vast forests that cover the area.  The wall here is made out of thick sturdy
+wood, set deep within the ground to protect those within the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4167
+D3
+~
+~
+0 0 4165
+S
+#4167
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the northeastern corner of the outer wall you notice that
+this path is well beaten by many feet.  Looking out to the north you can just
+make out the vast forests that cover the area.  The wall here is made out of
+thick sturdy wood, set deep within the ground to protect those within the city.
+  
+~
+41 32768 2 0 0
+D2
+~
+~
+0 0 4168
+D3
+~
+~
+0 0 4166
+S
+#4168
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the eastern edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the east you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4167
+D2
+~
+~
+0 0 4169
+S
+#4169
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the eastern edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the east you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4168
+D2
+~
+~
+0 0 4170
+S
+#4170
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the eastern edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the east you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4169
+D2
+~
+~
+0 0 4144
+S
+#4171
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the eastern edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the east you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4144
+D2
+~
+~
+0 0 4172
+S
+#4172
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the eastern edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the east you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4171
+D2
+~
+~
+0 0 4173
+S
+#4173
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the eastern edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the east you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4172
+D2
+~
+~
+0 0 4174
+S
+#4174
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the southeastern corner edge of the outer wall you notice
+that this path is well beaten by many feet.  Looking out to the east you can
+just make out where the vast forests merge into the grass lands.  To the south
+as far as the eye can see are vast plains and a dark dust cloud out in the
+distance.  The wall here is made out of thick sturdy wood, set deep within the
+ground to protect those within the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4173
+D3
+~
+~
+0 0 4175
+S
+#4175
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the southern edge of the outer wall you notice that this
+path is well beaten by many feet.  To the south as far as the eye can see are
+vast plains and a dark dust cloud out in the distance.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4174
+D3
+~
+~
+0 0 4176
+S
+#4176
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the southern edge of the outer wall you notice that this
+path is well beaten by many feet.  To the south as far as the eye can see are
+vast plains and a dark dust cloud out in the distance.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4175
+D3
+~
+~
+0 0 4177
+S
+#4177
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the southern edge of the outer wall you notice that this
+path is well beaten by many feet.  To the south as far as the eye can see are
+vast plains and a dark dust cloud out in the distance.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4176
+D3
+~
+~
+0 0 4109
+S
+#4178
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the southern edge of the outer wall you notice that this
+path is well beaten by many feet.  To the south as far as the eye can see are
+vast plains and a dark dust cloud out in the distance.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4109
+D3
+~
+~
+0 0 4179
+S
+#4179
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the southern edge of the outer wall you notice that this
+path is well beaten by many feet.  To the south as far as the eye can see are
+vast plains and a dark dust cloud out in the distance.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4178
+D3
+~
+~
+0 0 4180
+S
+#4180
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the southern edge of the outer wall you notice that this
+path is well beaten by many feet.  To the south as far as the eye can see are
+vast plains and a dark dust cloud out in the distance.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4179
+D3
+~
+~
+0 0 4181
+S
+#4181
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the southwestern corner edge of the outer wall you notice
+that this path is well beaten by many feet.  Looking out to the west you can
+just make out where the vast forests merge into the grass lands.  To the south
+as far as the eye can see are vast plains and a dark dust cloud out in the
+distance.  The wall here is made out of thick sturdy wood, set deep within the
+ground to protect those within the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4182
+D1
+~
+~
+0 0 4180
+S
+#4182
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the western edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the west you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4183
+D2
+~
+~
+0 0 4181
+S
+#4183
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the western edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the west you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4184
+D2
+~
+~
+0 0 4182
+S
+#4184
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the western edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the west you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4145
+D2
+~
+~
+0 0 4183
+S
+#4185
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the western edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the west you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4186
+D2
+~
+~
+0 0 4145
+S
+#4186
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the western edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the west you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4187
+D2
+~
+~
+0 0 4185
+S
+#4187
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the western edge of the outer wall you notice that this
+path is well beaten by many feet.  Looking out to the west you can just make
+out where the vast forests merge into the grass lands.  The wall here is made
+out of thick sturdy wood, set deep within the ground to protect those within
+the city.    
+~
+41 32768 2 0 0
+D0
+~
+~
+0 0 4188
+D1
+   A small part of the wall looks rather new.    
+~
+wall~
+1 0 4199
+D2
+~
+~
+0 0 4186
+S
+#4188
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the northwestern corner of the corner of the outer wall
+you notice that this path is well beaten by many feet.  Looking out to the
+north you can just make out the vast forests that cover the area.  The wall
+here is made out of thick sturdy wood, set deep within the ground to protect
+those within the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4189
+D2
+~
+~
+0 0 4187
+S
+#4189
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the northwestern outer wall you notice that this path is
+well beaten by many feet.  Looking out to the north you can just make out the
+vast forests that cover the area.  The wall here is made out of thick sturdy
+wood, set deep within the ground to protect those within the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4190
+D3
+~
+~
+0 0 4188
+S
+#4190
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the northwestern outer wall you notice that this path is
+well beaten by many feet.  Looking out to the north you can just make out the
+vast forests that cover the area.  The wall here is made out of thick sturdy
+wood, set deep within the ground to protect those within the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4191
+D3
+~
+~
+0 0 4189
+S
+#4191
+A Dirt Track Along The Outer Walls of Morning Dew~
+   As you walk along the northwestern outer wall you notice that this path is
+well beaten by many feet.  Looking out to the north you can just make out the
+vast forests that cover the area.  The wall here is made out of thick sturdy
+wood, set deep within the ground to protect those within the city.    
+~
+41 32768 2 0 0
+D1
+~
+~
+0 0 4101
+D3
+~
+~
+0 0 4190
+S
+#4192
+Within A Hidden Lair~
+   The lair of the marauders has not been penatrated for some time, you are one
+of the first to find it.  The vast lair is lined with valuable tapestries and
+lit with the same type of torches found in the tunnels, they seem quiet
+valuable.  Many tables line the hall as well as benches and rolled out bedding.
+Many of the marauders stand about relazing from another one of there long
+escapades.  A large door blocks the exit to the west.    
+~
+41 33024 0 0 0
+D1
+~
+~
+0 0 4163
+D3
+A large wooden door
+~
+door wood~
+1 4133 4195
+D7
+~
+~
+0 0 4193
+D9
+~
+~
+0 0 4194
+S
+#4193
+Within A Hidden Lair~
+   The lair of the marauders has not been penatrated for some time, you are one
+of the first to find it.  The vast lair is lined with valuable tapestries and
+lit with the same type of torches found in the tunnels, they seem quiet
+valuable.  Many tables line the hall as well as benches and rolled out bedding.
+Many of the marauders stand about relazing from another one of there long
+escapades.    
+~
+41 33024 0 0 0
+D1
+~
+~
+0 0 4162
+D2
+~
+~
+0 0 4163
+D8
+~
+~
+0 0 4192
+S
+#4194
+Within A Hidden Lair~
+   The lair of the marauders has not been penatrated for some time, you are one
+of the first to find it.  The vast lair is lined with valuable tapestries and
+lit with the same type of torches found in the tunnels, they seem quiet
+valuable.  Many tables line the hall as well as benches and rolled out bedding.
+Many of the marauders stand about relazing from another one of there long
+escapades.    
+~
+41 33024 0 0 0
+D0
+~
+~
+0 0 4163
+D1
+~
+~
+0 0 4161
+D6
+~
+~
+0 0 4192
+S
+#4195
+Within The Hidden Passage~
+   The large hidden passage is lined with many small lights of some kind.  The
+lights seem to give off an eerie glow, but have no flame.  The walls are covered
+straight from the stone beneath the city.  Slight sounds can be heard coming
+from a large door set within the stone to the east.    
+~
+41 33024 0 0 0
+D1
+A large wooden door
+~
+door wooden~
+1 4133 4192
+D6
+~
+~
+0 0 4196
+S
+#4196
+Within The Hidden Passage~
+   The large hidden passage is lined with many small lights of some kind.  The
+lights seem to give off an eerie glow, but have no flame.  The walls are covered
+straight from the stone beneath the city.  Slight sounds can be heard off in
+the distance.  It would be wise not to venture forth to hastely.    
+~
+41 33024 0 0 0
+D4
+~
+~
+0 0 4199
+D9
+~
+~
+0 0 4195
+S
+#4197
+The Shop of Magic~
+   A small shop is here providing what ever magical items it may be able to.  
+Many rare items hang from the walls.  The smell of cloves linger in the air.  
+A vast counter lines on wall, while a vast aray of tables line the others.    
+~
+41 32776 0 0 0
+D0
+~
+~
+0 0 4130
+S
+#4198
+The Morning Dew Bank~
+   The Morning Dew bank is here to provide you with all your banking needs.  
+Large plush couchs line the walls for you to relax in while you wait.  The bank
+is so nice due mainly to all the trade that comes through this city.  Many
+travellers have not returned from there travels into the plains of dust
+therefore the bank tends to keep the coin after it has not been retrieved for
+long periods of time.    
+~
+41 32776 0 0 0
+D2
+~
+~
+0 0 4117
+S
+#4199
+Within The Hidden Passage~
+   A large hidden passage is here hidden behind the outer wall.  Many torchlike
+lights line the walls leading down into the passage.  Sounds can be heard off
+in the distance from some unknown source.  This passage was obviously hidden
+for a reason, perhaps you should think twice before venturing forth so hastely.
+  
+~
+41 33024 0 0 0
+D3
+   A false wall sits here covering the entrance to the hidden passage.    
+~
+wall~
+1 0 4187
+D5
+~
+~
+0 0 4196
+S
+$~

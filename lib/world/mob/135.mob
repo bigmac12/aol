@@ -1,0 +1,53 @@
+#13500
+mage black ~
+a black mage~
+A black mage is here.
+~
+   This mage trainer stands here surrounded by a dark mist.  You can make out
+his presence but his features are obscured and difficult to discern.  Jet black
+robes cascade down his body and onto the floor.    
+~
+16394 40 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 1
+8 8 1 2
+Maxmove: 100
+E
+T 13500
+T 13502
+T 13503
+#13501
+red mage~
+a red mage~
+A red mage is here.
+~
+   This mage trainer stands here surrounded by a red tinted haze.  You can make
+out his presence but his features are obscured and difficult to discern.  
+Bright red robes cascade down his body and onto the floor.    
+~
+16394 40 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 1
+8 8 1 2
+Maxmove: 100
+E
+T 13504
+T 13505
+#13502
+white mage~
+a white mage~
+A white mage is here.
+~
+   This mage trainer stands here surrounded by a soft white haze.  You can make
+out his presence but his features are obscured and difficult to discern.  Pure
+white robes cascade down his body and onto the floor.    
+~
+16394 40 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 1
+8 8 1 2
+Maxmove: 100
+E
+T 13506
+T 13507
+$

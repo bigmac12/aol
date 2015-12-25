@@ -1,0 +1,1000 @@
+"SPELL BLESS"
+
+  Usage: cast bless <target>
+
+  This spell will imbue the target with the power of the casting priest or
+paladin's diety, increasing his or her chance to hit and resistance to
+magical spells.
+
+#
+"SPELL CURE LIGHT"
+
+  Usage: cast cure-light <target>
+
+  This spell will cure a small amount of damage to the intended target.
+
+#
+"SPELL CAUSE LIGHT"
+
+  Usage: cast cause-light <target>
+  Save : for half
+
+  This spell will cause a minor amount of damage to one target.
+
+#
+"SPELL DARKNESS"
+
+  Usage: cast darkness <target>
+  Save : to negate
+
+  This spell will cause a dark aura to flow from the intended target,
+darkening the room.  Those without the ability to see in the dark are
+effectively blinded until the spell ends.  Note that the caster can cast
+this spell on himself or herself - in this case, the spell automatically
+succeeds, and no saving throw is made.
+
+#
+"SPELL CREATE FOOD"
+
+  Usage: cast create-food
+
+  This spell will, as the name implies, create a loaf of waybread.
+
+#
+"SPELL MAGICAL STONE"
+
+  Usage: cast magical-stone <target>
+  Save : for half
+
+  This spell will hurl a number of magical stones at the intended victim.
+The number of stones is directly proportional to the caster's level.  A
+seperate saving throw must be made against each stone.
+
+#
+"SPELL CREATE WATER"
+
+  Usage: cast create-water <container>
+
+  This spell will fill a container with water.  Note that if there is
+already a liquid in the container other than water when this spell is
+cast, the effects may be somewhat unsettling.
+
+#
+"SPELL DETECT ALIGNMENT"
+
+  Usage: cast detect-alignment
+
+  This spell will allow the caster to percieve auras surrounding good or
+evil beings.  Good people will radiate a faint blue aura, while those of
+a darker disposion will glow red.  Those who do not show a strong tendancy
+towards either alignment, including most normal animals, will have no
+discernable auras.
+
+#
+"SPELL CURE MODERATE"
+
+  Usage: cast cure-moderate <target>
+
+  This spell will cure a moderate amount of damage to one being.
+
+#
+"SPELL CAUSE MODERATE"
+
+  Usage: cast cause-moderate <victim>
+  Save : for half
+
+  This spell will inflict a moderate amount of damage to one target.
+
+#
+"SPELL CURE BLIND"
+
+  Usage: cast cure-blind <target>
+
+  This spell will cure magical blindness caused by any number of different
+spells or abilities.
+
+#
+"SPELL BLINDNESS"
+
+  Usage: cast blindness <victim>
+  Save : to negate
+
+  This spell will cause the target to become blinded, making him or her
+easier to strike in combat, and making it harder for him or her to strike
+others.
+
+#
+"SPELL DETECT POISON"
+
+  Usage: cast detect-poison <person>
+         cast detect-poison <object>
+
+  If cast on a person, this spell will tell whether that person is affected
+by poison or not.  If used on food or drink, it will tell whether that food
+or drink would poison a character attempting to drink it.  Using this spell
+on non-consumable items reveals only that they cannot be consumed.
+
+#
+"SPELL CALL ANIMAL SPIRIT"
+
+  Usage: cast call-animal-spirit
+
+  This spell will summon the spirit of an animal to the caster's side to aid
+him or her for a time.  The duration of the spell is based on the caster's
+level.
+
+#
+"SPELL DISPEL GOOD"
+
+  Usage: cast dispel-good <victim>
+  Save : for half
+
+  This spell will cause a great amount of harm to any being of good
+alignment.  Note that if the caster of this spell is a good-aligned
+being, the spell will affect him or her and not the intended target!
+
+#
+"SPELL DISPEL EVIL"
+
+  Usage: cast dispel-evil <victim>
+  Save : for half
+
+  This spell will inflict a great deal of damage to any being which
+follows the darker paths of life.  Note that if the caster follows
+the dark side himself, the spell will affect him or her, and not the
+intended being.
+
+#
+"SPELL PROTECTION FROM UNDEAD"
+
+  Usage: cast protection-from-undead
+
+  This spell will protect the caster from undead beings, making it more
+difficult to strike the caster in combat and causing them to inflict
+slightly less damage when they do.  Note that a person protected by this
+spell and also protected from beings of the undead's alignment does not
+recieve double protection.
+
+#
+"SPELL INSPIRE FEAR"
+
+  Usage: cast inspire-fear <victim>
+  Save : to negate
+
+  This spell will cause the victim to be gripped by a great fear, causing
+him or her to flee from combat whenever he or she begins fighting.
+
+#
+"SPELL REMOVE FEAR"
+
+  Usage: cast remove-fear <target>
+
+  This spell will negate the effects of any magically-inspired fear.
+
+#
+"SPELL THORNFLESH"
+
+  Usage: cast thornflesh <target>
+
+  This spell will cause thorns to grow from the target's flesh, slightly
+increasing his or her chance to hit, and slightly increasing his or her
+damage as well.  Note that this spell could be considered a blessing of
+the spirits of nature, and as such is not cumulative with the bless spell.
+
+#
+"SPELL REFRESH"
+
+  Usage: cast refresh <target>
+
+  This spell will partially refresh the intended target, restoring a bit of
+his or her energy and ability to move.  The amount of refreshment depends
+on the level of the casting druid.
+
+#
+"SPELL CURE SEVERE"
+
+  Usage: cast cure-severe <target>
+
+  This spell will cure a large amount of wounds from the intended target.
+
+#
+"SPELL CAUSE SEVERE"
+
+  Usage: cast cause-severe <victim>
+  Save : for half
+
+  This spell will cause a significant amount of damage to one victim.
+
+#
+"SPELL FAERIE FIRE"
+
+  Usage: cast faerie-fire <victim>
+
+  This spell will outline the intended target in flickering faerie fire.
+This will not only make the target easier to hit, but will also make him or
+her clearly visible to any onlookers, unless they are magically concealed by
+some sort of invisibility.
+
+#
+"SPELL CURE DEAFNESS"
+
+  Usage: cast cure-deafness <target>
+
+  This spell will remove any magically-caused deafness from one target.
+
+#
+"SPELL DEAFENING WIND"
+
+  Usage: cast deafening-wind <victim>
+  Save : to negate
+
+  This spell will deafen the intended target.  They will be unable to hear
+anything for the course of the spell, and if they attempt to cast a spell
+there is a chance that they will make a mistake with the verbal componant
+and botch the spell.  The same notes that apply to RPing silence also apply
+to deafening wind.
+
+  See also: "SPELL SILENCE"
+
+#
+"SPELL DUST DEVIL"
+
+  Usage: cast dust-devil <victim>
+
+  This spell, if successful, will summon a small dust devil.  The dust devil
+will immediately attack the intended victim, and will fight to the death.
+Upon the expiration of the spell's duration, if the dust devil is still alive,
+it will return to its native plane.
+
+  Note that although the caster summons this mob, it is not charmed, and will
+not obey the caster's orders, nor will it follow the caster around.
+
+#
+"SPELL POISON"
+
+  Usage: cast poison <victim>
+         cast poison <object>
+  Save : to negate
+
+  This spell will poison either a person, some food, or a water supply.  The
+poison will weaken the character, lowering his or her strength, and will also
+do a small amount of damage every round.  If this spell is cast on a person,
+there is a saving throw - if it is cast on food, there is not.  
+
+#
+"SPELL NEUTRALIZE POISON"
+
+  Usage: cast neutralize-poison <target>
+         cast neutralize-poison <object>
+
+  Like the skill of remove poison, this will remove the poison from the blood
+of any one person it is cast upon.  Unlike the skill, however, this spell can
+also unpoison a water supply or some food.
+
+  See also: "REMOVE POISON"
+
+#
+"SPELL FLAMESTRIKE"
+
+  Usage: cast flamestrike <victim>
+  Save : for half
+
+  This spell will shoot a jet of flames from the caster's fingertips, doing
+a significant amount of damage to any one being struck by the flames.
+
+#
+"SPELL ENTANGLE"
+
+  Usage: cast entangle <victim>
+
+  This spell will cause vines and roots from the ground to entangle the
+selected target, preventing him or her from leaving the room.  Note that
+this spell can only be cast in an area where vines and roots can be found -
+attempting to entangle someone in the middle of a city is often found to be
+an exercise in futility.
+
+#
+"SPELL ANIMAL SUMMONING"
+
+  Usage: cast animal-summoning
+
+  This spell will summon an animal to aid the caster for a short period of
+time.  The animal will aid the caster in whatever way he chooses.  The type
+of animal is chosen at random when the spell is cast, but when the spell
+ends the animal will return to the place it calls home.
+
+#
+"SPELL MINOR SANCTUARY"
+
+  Usage: cast minor-sanctuary <target>
+
+  This spell will protect the target from a small amount of damage from any
+attack which happens to be aimed his or her way.  It is not cumulative with
+the spell of greater sanctuary, nor is it cumulative with any spell that
+cannot be combined with greater sanctuary.
+
+  See also: "SPELL GREATER SANCTUARY"
+#
+"SPELL WATER WALK"
+
+  Usage: cast water-walk <target>
+
+  This spell will allow the intended target to walk on water, which can be
+very useful in certain instances.
+
+#
+"SPELL PROTECTION FROM GOOD"
+
+  Usage: cast protection-from-good
+
+  This spell will protect the caster from beings of good alignment, making
+it harder for them to strike the caster as well as slightly lowering the
+damage that they do.  Note that if the protected being is undead, and the
+caster is also protected from undead beings, the caster is not doubly
+protected.
+
+#
+"SPELL PROTECTION FROM EVIL"
+
+  Usage: cast protection-from-evil
+
+  This spell will protect the caster from beings of evil disposition.  They
+will find it harder to strike the caster, and the damage they do will be
+slightly lowered.  If the being in question is undead, and the caster is
+also protected from undead beings, the protection is not cumulative.
+
+#
+"SPELL SUMMON"
+
+  Usage: cast summon <target>
+
+  This spell will attempt to summon someone from afar.  Note that the caster
+must be familiar with the person he or she is summoning, and that the level
+of both participants is a major factor.
+
+#
+"SPELL CURE CRITICAL"
+
+  Usage: cast cure-critical <target>
+
+  This spell will cure a very large amount of wounds from any one target.
+
+#
+"SPELL CAUSE CRITICAL"
+
+  Usage: cast cause-critical <target>
+  Save : for half
+
+  This spell attempts to cause great damage to any one target.
+
+#
+"SPELL BESTOW CURSE"
+
+  Usage: cast bestow-curse <victim>
+  Save : to negate
+
+  This spell will attempt to curse the target.  Curses have a somewhat
+random effect - the victim could end up uglier, weaker, more susceptable
+to a certain form of attack, less likely to do damage, and so forth.  The
+power of the curse is proportional to the caster's level, but all curses
+tend to have very long-lasting effects.
+
+#
+"SPELL REMOVE CURSE"
+
+  Usage: cast remove-curse <target>
+
+  This spell will remove any sort of magical curse placed upon the victim,
+including curses placed upon the victim by bestow curse and similar spells.
+
+#
+"SPELL WORD OF RECALL"
+
+  Usage: cast word-of-recall
+
+  This spell will return the caster to his place of rent.
+
+#
+"SPELL GOODBERRY"
+
+  Usage: cast goodberry
+
+  This spell will create a number of delicious looking berries to eat.  The
+number of berries appearing is proportional to the caster's level.
+
+#
+"SPELL HOLD PERSON"
+
+  Usage: cast hold-person <victim>
+
+  This spell will prevent the target from leaving the room until the spell
+wears off.  This in no way prevents the target from taking other action
+against the caster, or leaving the room by magical means.
+
+#
+"SPELL SUMMON INSECTS"
+
+  Usage: cast summon-insects <victim>
+
+  This spell will summon a swarm of insects to attack a target creature of
+the caster's choice.  The insects will attack the target until one or the
+other is dead.  This spell is very similar to the dust devil spell.
+
+  See also: "SPELL DUST DEVIL"
+
+#
+"SPELL FLAME BLADE"
+
+  Usage: cast flame-blade
+
+  This spell will conjure a blade of flame.  Whenever the caster attacks, the
+blade of flame will also attack.
+
+#
+"SPELL PRAYER"
+
+  Usage: cast prayer
+
+  Casting this spell gives everyone grouped with the caster the same effects
+as the bless spell.  Note that allies who are not grouped with the caster,
+even if they are in the same room, are not affected.
+
+#
+"SPELL SENSE LIFE"
+
+  Usage: cast sense-life
+
+  This spell allows the caster to see persons who are hidden or otherwise
+concealed from view as if they were not hidden, but it does not allow him
+or her to see invisible objects or people.
+
+  See also: "SPELL DETECT INVISIBILITY"
+
+#
+"SPELL ANIMAL SUMMONING II"
+
+  Usage: cast animal-summoning-II
+
+  This spell is identical to animal summoning, except that the animals that
+are summoned by this spell are stronger and more capable in combat.
+
+  See also: "SPELL ANIMAL SUMMONING"
+
+#
+"SPELL CALL LIGHTNING"
+
+  Usage: cast call-lightning <victim>
+  Save : for half
+
+  This spell will call a bolt of lightning down from a storm to strike the
+intended victim, causing a large amount of damage.  Note that if there is no
+storm prevalent in the area, this spell will fail, and it will not work if
+cast indoors in any event.
+
+#
+"SPELL CURE DISEASE"
+
+  Usage: cast cure-disease <target>
+
+  This spell will cure the target of any magical disease, but will not remove
+the effects of a plague - that requires far stronger magicks.
+
+#
+"SPELL DISEASE"
+
+  Usage: cast disease <victim>
+  Save : to negate
+
+  This spell will inflict the target with a horrid, rotting disease.  Their
+health will be greatly damaged, they will become somewhat weaker, and they
+will recieve only partial benefit from healing spells until the disease is
+somehow cured.
+
+#
+"SPELL MAGIC VESTMENT"
+
+  Usage: cast magic-vestment <target>
+
+  This spell will cloak the target in a magical vestment, hardening his or
+her skin and making it much harder for him or her to be struck in combat.
+This spell is not cumulative with similar forms of protection, such as armor
+and barkskin.
+
+#
+"SPELL BARKSKIN"
+
+  Usage: cast barkskin <target>
+
+  This skin will make the target's skin take on the texture of bark, making
+it harder to land blows on him or her.  This spell is not cumulative with
+similar forms of protection, such as magic vestment and armor.
+
+#
+"SPELL ABJURE"
+
+  Usage: cast abjure <victim>
+  Save : to negate
+
+  This spell can only be sued on summoned creatures that will follow their
+master's orders, such as called spirits or elementals.  If this spell is
+successful, the summoned creature will be banished back to its native plane.
+
+#
+"SPELL SPIRITUAL HAMMER"
+
+  Usage: cast spiritual-hammer
+
+  This spell will create a floating hammer that moves with the caster.  If
+the caster attacks a target, the hammer will attack it as well, aiding the
+caster's abilities in combat.
+
+#
+"SPELL CREATE SPRING"
+
+  Usage: cast create-spring
+
+  This spell will call up a spring of fresh water from the ground, which can
+be drank from or used to refill waterskins.  This spell cannot be used to
+create a spring within a town, although towns normally tend to have fountains
+of their own.
+
+#
+"SPELL BRAVERY"
+
+  Usage: cast bravery <target>
+
+  This spell will bolster a target's confidence, negating any magical fear
+and causing a temporary immunity to magical fear of all sorts.
+
+#
+"SPELL HEAL"
+
+  Usage: cast heal <target>
+
+  This spell can cure even the most grievous of injuries.
+
+#
+"SPELL HARM"
+
+  Usage: cast harm <victim>
+
+  This potent attack can cause a grievous amount of harm.
+
+#
+"SPELL INSECT PLAGUE"
+
+  Usage: cast insect-plague
+
+  This spell will create a swarming cloud of insects who will attack everyone
+present in the room, except for the caster and those in his group, until the
+spell duration ends.  The insects also have a random chance of poisoning their
+victims.
+
+#
+"SPELL PROTECTION FROM FIRE"
+
+  Usage: cast protection-from-fire
+
+  This spell will give the priest a heavy resistance to all sorts of fiery
+attacks, greatly reducing damage from any fire-based source of damage, such
+as the fireball spell.
+
+#
+"SPELL ADAMANT MACE"
+
+  Usage: cast adamant-mace
+
+  When cast, this spell will harden the caster's weapon, causing him or her to
+have a better chance of striking an opponent.  If the caster removes his or
+her weapon for any reason, the spell ends instantly - thus the caster's weapon
+cannot be transferred to another person.
+
+#
+"SPELL GREATER SANCTUARY"
+
+  Usage: cast greater-sanctuary <target>
+
+  This spell has the ability to prevent a great deal of damage to any one
+target from all sorts of attacks, and any number of attacks up to the spell
+duration.  The white aura created by this spell is not compatible with the
+fiery aura created by fire shield, does not allow the use of a shield of
+thorns, and although it can be cast with stoneskin will negate the effects
+of stoneskin for the duration of the greater sanctuary.
+
+#
+"SPELL THORNSHIELD"
+
+  Usage: cast thornshield
+
+  This spell will create a shield of thorns around the caster.  Anyone
+striking the caster in physical combat will take damage in return for the
+attack, much like a fireshield.  A thornshield is not cumulative with fire
+shield, nor is it cumulative with any sort of sanctuary.
+
+#
+"SPELL AERIAL SERVANT"
+
+  Usage: cast aerial-servant
+
+  This spell will bring into existance an aerial servant which will serve the
+caster for the duration of the spell.  At the end of the spell's duration, the
+servant will return to the elemental plane of air, but until that time the
+servant will follow the caster's commands unerringly.
+
+#
+"SPELL REMOVE PARALYSIS"
+
+  Usage: cast rem-paralysis <target>
+
+  This spell will negate any type of magical paralysis, including the spell
+of hold person and similar spells.  It will not remove other forms of
+restricting movement, such as web.
+
+#
+"SPELL PARALYZE"
+
+  Usage: cast paralyze <victim>
+  Save : to negate
+
+  When this spell succeeds, the victim will find him or herself unable to take
+any sort of action until the spell duration ends.  If attacked, the victim
+fights in combat at a heavy penalty until the spell wears off.
+
+#
+"SPELL CLOAK OF FEAR"
+
+  Usage: cast cloak-of-fear
+
+  This spell will shroud the caster in a cloak of fear.  Anyone attacking
+him or her must make periodic saving throws or be affected as per inspire
+fear, and be forced to flee.
+
+  See also: "SPELL INSPIRE FEAR"
+
+#
+"SPELL RAINBOW"
+
+  Usage: cast rainbow <victim>
+  Save : special (see below)
+
+  Upon casting this spell, a rainbow will shoot from the caster's hand and
+hit the victim.  The victim must make several saving throws for several
+different status effects, as well as a seperate save for half damage.
+
+#
+"SPELL PROTECTION FROM FROST"
+
+  Usage: cast protection-from-frost
+
+  This spell will protect the caster from damaging forms of ice and cold,
+such as cone of cold.  It greatly reduces the damage dealt by any cold-based
+spell or ability.
+
+#
+"SPELL AID"
+
+  Usage: cast aid <target>
+
+  This spell will increase the target's chance to hit and resistance to magic,
+but in addition will increase his or her maximum hitpoints by a small amount.
+This spell is not cumulative with the bless spell, since it draws on the same
+energies.
+
+#
+"SPELL MYSTIC SPIRIT"
+
+  Usage: cast mystic-spirit <target>
+
+  Upon casting this spell, the spirit of a certain animal will inhabit the
+body of the target, augmenting his or her abilities slightly.  The exact
+affect of this spell depends on which type of animal spirit, chosen at random,
+bonds with the target's spirit.
+
+#
+"SPELL SPHERE OF SILENCE"
+
+  Usage: cast sphere-of-silence
+  Save : to negate
+
+  This spell will hit everyone in the room, including the caster, with the
+affects of a silence spell if they fail their saving throws.  For restrictions
+in RP purposes for this spell, see the help on silence.
+
+  See also: "SPELL SILENCE"
+
+#
+"SPELL HEALING LIGHT"
+
+  Usage: cast healing-light
+
+  This spell will heal everyone in the caster's group by a large amount.
+
+#
+"SPELL HARMFUL WRATH"
+
+  Usage: cast harmful-wrath
+  Save : for half
+
+  This potent spell will damage everyone in the room not in the caster's
+group by a large amount.
+
+#
+"SPELL STICKS TO SNAKES"
+
+  Usage: cast sticks-to-snakes <victim>
+
+  This spell, if the summoning succeeds, will turn a bundle of sticks into
+a large group of snakes which will immediately begin taking up all of the
+victim's attention.  Even if the victim is currently fighting someone else,
+their attention is diverted to the snakes as soon as they appear, effectively
+rescuing whoever else they were fighting.
+
+#
+"SPELL RESTORATION"
+
+  Usage: cast restoration <target>
+
+  This spell can reverse the effects of a soul drain, restoring the target's
+vitality, youth, and willpower.
+
+#
+"SPELL SOUL DRAIN"
+
+  Usage: cast soul-drain <victim>
+  Save : to negate
+
+  If this spell is successful, the victim immediately falls prey to several
+effects as a result of having part of their life force drained away.  They
+immediately age by a significant amount, but they also lose a certain amount
+of their willpower.  This spell is permanent until the victim finds a way to
+have his or her soul restored to normal.
+
+#
+"SPELL HEROES FEAST"
+
+  Usage: cast heroes-feast
+
+  This spell will immediately provide adequate food and drink for everyone in
+the caster's group, who will automatically partake in the feast.  It fills
+the hunger and thirst of everyone in that group automatically.
+
+#
+"SPELL STORM SUMMONING"
+
+  Usage: cast storm-summoning
+
+  It starts only as a faint rumble, but after several rounds the weather will
+begin to take a turn for the worse.  Once this spell is cast, the weather
+will begin a steady decline into a large thunderstorm, and when the storm does
+arrive it will begin striking everything not in the caster's group with great
+force every round for the remainder of the duration.  Multiple castings of
+this spell are especially potent because after the first casting the weather
+tends to be where it needs to be to do damage.  This spell can only be cast
+to any success when the caster is outside.
+
+#
+"SPELL DEHYDRATION"
+
+  Usage: cast dehydration
+
+  When this spell is cast, it quickly begins sucking up any and all moisture
+in the area - from waterskins left in inventories to fountains to even that
+which is found in people and in the weather patterns.  When this spell is
+cast, the weather will quickly begin drying up, quickly negating any storms
+in the area, and will also begin drying up containers of water unless they are
+quickly put inside another container.  It will also begin drawing the water
+out of people as well, and once the person becoems thirsty, it begins to cause
+damage from the amount of water it draws out of them.  Once the sky is clear
+and any moisture in the air has been cleared up, the rate of drain increases.
+The caster and his group are immune to the effects of this spell.
+
+#
+"SPELL SUMMON GUARD"
+
+  Usage: cast summon-guard
+
+  This spell will summon a mob that will guard the caster from all attempted
+attacks on him or her - this is similar to a player using the guard skill on
+the caster, but the guard can protect the caster even when it is already
+fighting something else.  The guard does not obey the caster's commands, and
+will not move around with the caster.
+
+#
+"SPELL REFLECTING POOL"
+
+  Usage: cast reflecting-pool <target>
+
+  See "SPELL SCRY".  The two spells are identical in all but name.
+
+#
+"SPELL ANIMAL SUMMONING III"
+
+  Usage: cast animal-summoning-III
+
+  This spell is identical to animal summoning and animal summoning II, except
+that the animals summoned from this spell are the strongest of all the animal
+summoning spells.
+
+  See also: "SPELL ANIMAL SUMMONING"
+
+#
+"SPELL DIVINE WRATH"
+
+  Usage: cast divine-wrath
+
+  This spell will imbue everyone in the caster's group with great energy,
+affecting them as an aid spell, but for the caster and any other clerics and
+paladins present of his or her faith (serving the same god - alignment alone
+will not suffice), it does far more, increasing their ability to strike and
+damage their opponents beyond that of a simple aid spell.
+
+#
+"SPELL MIRE"
+
+  Usage: cast mire
+
+  This spell prevents anyone in the room from leaving.  In addition, anyone
+else who walks into the room immediately finds themselves trapped in the mire
+as well, and unable to leave.  The mire will spread with its victims, so if
+one of the trapped parties manages to find a way to leave the room before the
+spell has worn off, there will be two mires - one with the one who has left
+and another at the initial location.  This spell does affect the caster.
+
+#
+"SPELL WIND WALK"
+
+  Usage: cast wind-walk
+
+  This spell will allow the caster and his comrades to walk upon the winds,
+granting the ability of flight to everyone in his or her group until the
+spell duration ends.
+
+#
+"SPELL PROTECTION FROM ELEMENTS"
+
+  Usage: cast protection-from-elements
+
+  This spell will imbue the caster with resistance to the elements, reducing
+the damage he or she takes from all sorts of elemental attacks, from the
+reasonably benign chill touch and burning hands to the deadly chain lightning
+and meteor swarm.
+
+#
+"SPELL CALM"
+
+  Usage: cast calm
+
+  This spell will end all combat in the room in which it is cast - at least,
+until the participants decide to begin fighting each other again, as is often
+the case.
+
+#
+"SPELL PORTAL"
+
+  Usage: cast portal <target>
+
+  This spell will create a portal to any one target of the caster's choice.
+The caster must know the target (ie has the target's intro), or the spell will
+fail.  Upon casting, a glowing portal appears both on the caster's side and
+the target's side - anyone from either side can enter the portal and come out
+the other side.
+
+#
+"SPELL MOONBEAM"
+
+  Usage: cast moonbeam
+  Save : for half
+
+  This spell will shine the rays of the moons upon everyone not grouped with
+the caster, providing the caster is outside.  This causes several status
+affects to affect the victims, as well as causing a reasonable amount of
+damage.  All affected by this spell get a saving throw to halve the damage.
+
+#
+"SPELL BLADE BARRIER"
+
+  Usage: cast blade-barrier
+
+  This spell creates a spinning wall of blades which will do heavy damage to
+all in the room who are not grouped with the caster every round for the
+spell's duration.
+
+#
+"SPELL CREEPING DOOM"
+
+  Usage: cast creeping-door
+
+  This spell summons a hoarde of insects far more powerful than that called by
+the insect plague spell.  The creeping doom causes massive damage to every
+creature in the room not grouped with the caster for the duration of the
+spell, and has a random chance of causing status affects as well.
+
+#
+"SPELL HOLY WORD"
+
+  Usage: cast holy-word
+  Save : none
+
+  One of the most powerful spells in existance, the power of the holy word
+causes massive chaos among those not aligned with the caster - even those who
+happen to be within his or her own group.  Depending on the level of the
+victims, they might be stunned, slowed, paralyzed, deafened, or even slain
+outright upon hearing the holy word of power.
+
+#
+"SPELL REGENERATION"
+
+  Usage: cast regeneration
+
+  This spell can be used to regenerate a limb that has been lost or rendered
+useless.
+
+#
+"SPELL WITHER"
+
+  Usage: cast wither
+  Save : to negate
+
+  This powerful spell, if successful, will wither one of the target's limbs.
+The effect will vary depending on exactly what limb is struck by this spell,
+but the affected body part becomes useless.  This spell is permanent until
+it is reversed by an equally potent spell.
+
+#
+"SPELL ELEMENTAL STORM"
+
+  Usage: cast elemental-storm
+
+  This spell will create a storm of elements within the area.  Everyone in the
+area not grouped with the caster will take a great amount of damage every
+round for the considerable duration of this spell, although certain relevant
+magicks can lower this damage somewhat.
+
+#
+"SPELL IMPERVIOUS MIND"
+
+  Usage: cast impervious-mind
+
+  This spell will negate the effects of any mind-altering magic upon the
+caster, including but not limited to hold person, charm person, inspire fear,
+and sleep, and will prevent all such spells from functioning against the
+caster for the spell's duration.
+
+#
+"SPELL SUNRAY"
+
+  Usage: cast sunray <victim>
+  Save : for half
+
+  This powerful spell channels the raw energy of the sun into a searing blast
+of energy.  Although this spell can only be successfully cast outside during
+the day while the sun is not blocked by clouds, it is far from weak.  Anyone
+struck by the blast of energy must take a massive amount of damage, somewhat
+modified by how cloudy the day is.  This spell is exceptionally lethal to
+undead, who take much, much more damage from it than the living do.
+
+#
+"SPELL BREATH OF LIFE"
+
+  Usage: cast breath-of-life
+
+  Casting this spell will remove a plague from everyone present in the room,
+and grant them temporary immunity to plague as well to that they do not catch
+it again immediately.  This spell has no affect on other diseases.
+
+#
+"SPELL BLACK PLAGUE"
+
+  Usage: cast black-plague
+  Save : special (see below)
+
+  When this spell is cast, everyone in the room with the caster must succeed
+in a saving throw or be affected by a rotting plague that lowers the effect
+of magical healing, much like with the spell disease.  However, unlike a
+disease created by the spell disease, a plague spreads.  Anyone in the room
+with someone affected by the plague must make a successful saving throw each
+round or catch the plague from them.  The plague lasts for a significant
+amount of time, but it is not permanent, and once the plague wears off of a
+character they are immune to the effects of plague for quite some time.
+#
+$

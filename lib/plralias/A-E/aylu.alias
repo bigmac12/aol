@@ -1,0 +1,285 @@
+4
+conj
+12
+cast conjure
+0
+3
+mys
+21
+cast mystic-spirit $*
+1
+9
+breathing
+23
+cast water-breathing $*
+1
+3
+sev
+19
+cast cure-severe $*
+1
+4
+mire
+12
+cast mire $*
+1
+6
+sticks
+14
+cast sticks $*
+1
+6
+kagsay
+38
+say *In jumbled &YKagonesti&n* &y$* &n
+1
+4
+ani3
+27
+cast animal-summoning-three
+0
+5
+morph
+30
+remove scimitar;cast polymorph
+1
+11
+dehydration
+16
+cast dehydration
+0
+5
+storm
+20
+cast storm-summoning
+0
+6
+sunray
+14
+cast sunray $*
+1
+3
+sun
+14
+cast sunray $*
+1
+4
+thsh
+19
+cast thornshield $*
+1
+8
+nofolbar
+35
+w;s;s;s;order followers sit;n;n;n;e
+1
+6
+plague
+21
+cast insect-plague $*
+1
+7
+qualsay
+48
+say *In &GQ&gu&Ga&gl&Gi&gn&Ge&gs&Gt&gi&n* &g$*&n
+1
+4
+hand
+7
+hang $*
+1
+1
+b
+16
+throw berries $*
+1
+5
+stone
+17
+cast stoneskin $*
+1
+3
+mod
+21
+cast cure-moderate $*
+1
+3
+aid
+11
+cast aid $*
+1
+2
+wo
+3
+who
+0
+3
+ora
+18
+order followers $*
+1
+2
+oa
+27
+order followers assist aylu
+0
+2
+ki
+3
+res
+0
+3
+rev
+23
+cast reveal-illusion $*
+1
+4
+ani2
+25
+cast animal-summoning-two
+0
+4
+call
+22
+cast call-lightning $*
+1
+2
+no
+10
+track self
+0
+3
+ent
+16
+cast entangle $*
+1
+4
+disp
+20
+cast dispel-magic $*
+1
+5
+water
+10
+cast water
+0
+6
+spring
+18
+cast create-spring
+0
+4
+bark
+16
+cast barkskin $*
+1
+7
+refresh
+15
+cast refresh $*
+1
+5
+detma
+17
+cast detect-magic
+0
+3
+sto
+21
+cast magical-stone $*
+1
+2
+sd
+22
+cast summon-insects $*
+1
+7
+silvsay
+30
+say *In &CSilvanesti&n* &B$*&n
+1
+1
+0
+11
+lo smuggler
+0
+4
+smug
+13
+kill smuggler
+0
+4
+dust
+12
+cast dust $*
+1
+3
+shi
+18
+cast shillelagh $*
+1
+3
+fer
+34
+order ferret kill $*;assist ferret
+1
+5
+thorn
+18
+cast thornflesh $*
+1
+2
+li
+18
+cast cure-light $*
+1
+3
+ani
+11
+cast animal
+0
+4
+fire
+14
+cast faerie $*
+1
+3
+pur
+6
+put $*
+1
+4
+skin
+11
+skin corpse
+0
+4
+food
+14
+cast goodberry
+0
+3
+ref
+15
+cast refresh $*
+1
+3
+say
+11
+say &c$* &n
+1
+1
+2
+24
+get all.coins all.corpse
+0
+1
+1
+18
+get all all.corpse
+0
+1
+5
+24
+flee;flee;flee;flee;flee
+1

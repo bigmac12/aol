@@ -1,0 +1,369 @@
+#6605
+well muscled mino minotaur red brown~
+a well-muscled, reddish-brown minotaur~
+A well-muscled, reddish brown minotaur guards the gate here.
+~
+   This large minotaur watches the gate blocking passage into the village.  His
+fur is a reddish-brown and his body well-muscled.  His form alone takes up
+half of the gate, making it impossible for even the smallest person to get by
+unnoticed.  His horns are as wide as his body and go up another head taller
+than himself.    
+~
+8413210 40 0 0 E
+15 11 1 5d10+300 2d8+4
+405 8400 0
+8 8 1 0
+BareHandAttack: 5
+E
+#6610
+member mino minotaur Guthorg militia~
+a member of the Guthorg Militia~
+A member of the Guthorg Militia struts about the streets.
+~
+   This minotaur is a member of the Guthorg Militia.  He watches the streets to
+make sure that fights upon the streets do not get too out of hand.  Most fights
+are to the be seen in the Arena, so they have to keep other entertainment at a
+minimum.  As he walks about he stops every now and then to watch a fight, or to
+break one up if too many people get involved.    
+~
+1048584 0 0 0 E
+19 9 -3 3d40+350 3d6+6
+1219 17000 3
+8 8 1 0
+BareHandAttack: 5
+E
+#6611
+mino minotaur short wide~
+a short, wide minotaur~
+A short, wide minotaur walks quickly down the streets.
+~
+   This minotaur is rather short.  He stands about shoulder height to most of
+the other minotaurs in the community, however his shoulders are incredibly
+broad and give him a rather odd profile.  He walks quickly down the streets
+searching about intently.  It seems as though he is looking for someone in
+particular.    
+~
+8 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+633 11800 0
+8 8 1 0
+E
+#6622
+minotaur mino girl~
+a minotaur girl~
+A minotaur girl runs about skipping and playing.
+~
+   This young minotaur girl runs around chasing animals.  She watches all the
+people that pass with the innocence of childhood.  Her horns do not even show
+any signs of growth yet indicating that she is still quite young.  Despite the
+fact that she is still an adolescent, she already stands about shoulder height
+to most humans.    
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+332 7000 0
+8 8 2 0
+E
+#6626
+seagull large~
+a large seagull~
+A large seagull makes lazy circles in the sky.
+~
+   This large seagull is white with black wingtips.  It glides lazily on the
+breeze, flapping only occasionaly as it looses height.  Every now and then it
+darts down into the sea, to come up once more with a large fish.    
+~
+65544 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+BareHandAttack: 4
+E
+#6636
+ship's lookout mino minotaur~
+the ship's lookout~
+The ship's lookout lies snoozing in the bottom of the crow's nest.
+~
+   This minotaur lies snoozing in a corner of the crow's nest.  There really is
+no need for him to be watching the seas at the moment since the ship is in
+harbour so he is taking the chance to catch a bit of sleep.  He looks rather
+sun burnt and well weathered from all of his time spent up here at this lofty
+height.    
+~
+10 0 0 0 E
+16 11 0 3d20+320 3d6+4
+521 11000 0
+4 4 1 0
+BareHandAttack: 5
+E
+#6638
+crew member ship~
+a member of the ship's crew~
+A member of the ship's crew is busy unloading the ship.
+~
+   This minotaur walks about the dock and ship unloading equipment and supplies
+from the hold.  He looks very strong, made so from long work aboard the ship
+and from hauling supplies from one end to the other.  He is dressed in worn
+clothing and has the distinct smell of the sea about him.  Having just returned
+from a long voyage across the seas he is ready for a well deserved rest.    
+~
+8 0 0 0 E
+15 11 1 5d10+300 2d8+4
+461 8400 0
+8 8 0 0
+E
+#6640
+snake sewer large~
+a large sewer snake~
+A large sewer snake slithers through the water.
+~
+   This snake is about four feet long and has scales of a dull greenish brown
+color.  It coils about in the water and glares up at you in apparent irritation
+at having been disturbed.  Its tongue cautiously flicks at the air in an effort
+to determine what you are.    
+~
+589864 0 4194304 0 E
+6 17 10 2d5+70 2d5+2
+0 175 1
+8 8 0 0
+BareHandAttack: 4
+E
+#6641
+snake small speckled~
+a small speckled snake~
+A small speckled snake swims quickly through the waters.
+~
+   This small snake has many different colors speckled all along it's body.  
+It's eyes are almost a golden color and look at you with great curiousity.  It
+slithers quickly through the water looking for small bits of food.    
+~
+8 0 0 0 E
+13 13 3 6d5+240 2d9+2
+225 6625 0
+8 8 0 0
+BareHandAttack: 4
+E
+#6642
+rat large ugly~
+a large ugly rat~
+A large ugly rat scurries about the edges of the water.
+~
+   This large rat is missing his left ear and one of it's eyes is nothing but a
+scar over an empty socket.  It is missing patches of fur all about it's back
+side and the tail seems to be shorter than it should be.  The rodent scurries
+about scavenging for food and lost treasures within the foul sediment that
+coats the bottom of the sewers.    
+~
+65544 0 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 0
+8 8 0 0
+E
+#6666
+harbor master minotaur able bodied~
+the harbor master~
+The harbor master, an able bodied minotaur, shuffles though sheets of paper.
+~
+   This minotaur is extremely large, his arms being about as wide as trees and
+his legs even larger.  At the moment he is shuffling through sheets of paper,
+probably trying to find some inventory list or ships log.  He is dressed in
+only an old tunic and some leggings that have seen their share of sea winds.  
+~
+1237002 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+925 26000 0
+8 8 1 0
+BareHandAttack: 16
+E
+#6667
+minotaur deadly mino sargonnas priest sarg~
+a deadly looking minotaur~
+A deadly looking minotaur priest of Sargonnas watches you carefully.
+~
+   This minotaur's fur is black as pitch.  A solid blood red mane runs from the
+top of his head and down under his robes.  His eyes watch all visitors to the
+temple, making sure they pay proper tribue to the Destroyer.  His robes are a
+dark black with red etching in the proper colors of his Lord, Sargonnas.    
+~
+1761290 0 100667408 0 E
+21 8 -5 3d33+450 3d8+7
+1039 38500 2
+8 8 0 0
+BareHandAttack: 3
+E
+#6668
+calm mino minotaur kiri~
+a calm looking minotaur~
+A calm looking minotaur stands here, dressed in the robes of Kiri-Jolith.
+~
+   This minotaur walks about the temple inspecting altars and welcoming
+visitors.  He appears quite subdued, and is dressed in long brown robes of
+Kiri-Jolith.  Even though his countenance is calm, he is still a very large and
+imposing figure.    
+~
+524298 0 9441288 400 E
+18 11 -2 3d20+380 3d6+6
+665 17000 2
+8 8 0 0
+E
+#6669
+minotaur mino richly garbed female~
+a richly garbed female minotaur~
+A richly garbed female minotaur strolls about the city.
+~
+   By minotaur standards this woman would be considered very beautiful.  Her
+horns are fairly short yet shine like pearls.  She is clothed in bright red
+robes with gold trim about the edges.
+~
+8 0 0 0 E
+16 11 0 3d20+320 3d6+4
+505 11000 0
+8 8 2 0
+E
+#6670
+Galvrent mino minotaur scarred~
+Galvrent Ogreslayer~
+Galvrent Ogreslayer, a scarred minotaur, sharpens and balances weapons here.
+~
+   Galvrent Ogreslayer sharpens axes and tests the balance of other weapons.
+As he walks about the room, he has a slight limp to the left.  He received this
+injury from one of his many infamous battles.  He earned the name Ogreslayer
+by taking on five ogres at once, and single handedly.  Now he has retired from
+his battles and helps to train new blood within the minotaurs.    
+~
+7512074 0 0 0 E
+31 0 -15 3d33+2000 22d1+10
+500 300000 0
+8 8 1 2
+BareHandAttack: 7
+E
+#6671
+dummy wooden practice~
+a wooden practice dummy~
+A wooden practice dummy stands in the middle of the room.
+~
+   A simple wooden practice dummy stands here.  It is made of a simple swivel
+stand that can swing around and hit the fighter every once in a while.  There
+are scratches and scars all about the dummy from vigorous fights.  Although
+appearing to be rather simple in nature, it bears a faint aura which gives away
+its true magical origin.    
+~
+188426 33599616 24 0 E
+21 8 -5 3d33+450 3d8+7
+0 43500 2
+8 8 1 0
+E
+#6672
+Raxis rough bartender~
+Raxis, the bartender~
+Raxis, a rough looking bartender, stands behind the counter mixing drinks.
+~
+   A rough looking bartender stands behind the bar mixing various drinks for
+the visitors of the tavern.  His body is covered by many scars including one
+that goes straight across his right eye.  He wears an eyepatch over that though
+to spare the customers its awful appearance.    
+~
+1237002 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1000 300000 0
+8 8 1 0
+E
+#6675
+cook mino minotaur ship~
+the ship's cook~
+A minotaur roams about the galley checking supplies and organizing the goods.
+~
+   This minotaur clomps about the galley on one good leg, the other being
+merely a pegleg.  As he walks about he records a list of the supplies on the
+shelves and in barrels on a pad of paper he carries.  This must be the ship's
+cook, who prepares the food during the long voyages back and forth between the
+various ports of call.    
+~
+8 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+790 14000 0
+8 8 1 0
+BareHandAttack: 7
+E
+#6679
+francor longhorn mino franc minotaur sturdy~
+Francor Longhorn~
+Francor Longhorn, a sturdy minotaur, stands behind the counter.
+~
+   Francor Longhorn runs this gambling establishment.  He handles bets for the
+arena, even though some of the law officials here think that it should be
+stopped.  Even so, Francor has built up such an outstanding reputation in the
+community that it would be more trouble to get rid of him.    
+~
+10 33718272 0 0 E
+30 1 -14 3d33+1700 4d8+9
+402 250000 0
+8 8 1 3
+BareHandAttack: 7
+E
+#6680
+huge minotaur lord~
+a huge minotaur lord~
+The minotaur lord sits comfortably in his chair.
+~
+   The minotaur lord sits comfortably in his chair.  A large figure and
+fearsome looking beast, few can stand under the scrutiny of his gaze as rules
+over the village with an iron hand.  How he rose to such power has always been
+a mystery, but rumor has it that he fought like a demon during his days on the
+battlefield.  Now he is content to watch arena fights.    
+~
+3336202 0 0 0 E
+21 8 -5 3d33+450 3d10+7
+1005 33500 0
+8 8 1 0
+BareHandAttack: 9
+E
+#6681
+large black furred minotaur~
+a large black furred minotaur~
+A large black furred minotaur watches over the gate here.
+~
+   This large black furred minotuar is in charge of the arena.  His horns are
+long and the color of ivory.  Upon his body he carries no weapons but the sheer
+size of him puts down most thoughts of illegal use of the arena.  For a slight
+deposit he grants the use of the arena to those who wish to use it.    
+~
+3401738 33554432 0 0 E
+31 0 -15 3d33+2000 4d8+10
+20 300000 0
+8 8 0 0
+BareHandAttack: 9
+E
+#6682
+large black furred minotaur~
+a large black furred minotaur~
+A large black furred minotaur runs the arena.
+~
+   This large black furred minotuar is in charge of the arena.  His horns are
+long and the color of ivory.  Upon him he carries no weapons but the sheer
+size of him puts down most thoughts of illegal use of the arena.  For a slight
+deposit he grants the use of the arena to those who wish to use it.    
+~
+3336202 33554432 0 0 E
+31 0 -15 3d33+2000 4d8+10
+800 300000 0
+8 8 1 0
+BareHandAttack: 9
+E
+#6690
+spectator arena~
+an arena spectator~
+A spectator of the arena, searches about for a good place to sit.
+~
+   This minotaur walks about looking for a prime seat for the arena fights
+though he seems to be having trouble deciding exactly where he would want to
+sit and just wanders through the rows.  As he walks about he shoves some of the
+other spectators out of the way while he tries to find his own place to sit.  
+~
+8 0 0 0 E
+15 11 1 5d10+300 2d8+4
+370 8400 0
+8 8 0 0
+BareHandAttack: 7
+E
+$

@@ -1,0 +1,115 @@
+13
+chislevlights
+60
+set self title &f&Y}&f&yi&f&Y{&n&gThe Beast&f&Y}&f&yi&f&Y{&n
+0
+7
+takburn
+47
+wiz Nuitari: tak's a whore she touches everyone
+0
+1
+:
+8
+emote $*
+1
+1
+x
+5
+score
+0
+4
+reff
+446
+'And finally a brief crash corse of our Mud. We are dated pre-cataclysm where the gods still played an active role in the land of Krynn. To understand this a little further, other Immortals and players have composed a reference section. You can view it by going to http://www.ageoflegends.com/phpBB2 and click on references. Any questions you have can be directed to on our newbie line. You access it by typing new or newbie <and say stuff here>.
+0
+4
+'and
+441
+finally a brief crash corse of our Mud. We are dated pre-cataclysm where the gods still played an active role in the land of Krynn. To understand this a little further, other Immortals and players have composed a reference section. You can view it by going to http://www.ageoflegends.com/phpBB2 and click on references. Any questions you have can be directed to on our newbie line. You access it by typing new or newbie <and say stuff here>.
+0
+3
+and
+441
+finally a brief crash corse of our Mud. We are dated pre-cataclysm where the gods still played an active role in the land of Krynn. To understand this a little further, other Immortals and players have composed a reference section. You can view it by going to http://www.ageoflegends.com/phpBB2 and click on references. Any questions you have can be directed to on our newbie line. You access it by typing new or newbie <and say stuff here>.
+0
+6
+socnew
+177
+'Lastly are your socials. These are your role play actions. By typing wink, you do a simple wink. But when added to a person's name like wink <chislev>, you wink at that person.
+0
+6
+newcom
+165
+'Next you have the commands of our mud. These are all the commands available for your class as well as game commands. Type 'commands' to see a complete list of them.
+0
+7
+newhelp
+259
+Now that you are approved you have a few commands available to you now. By typing help, you will now have access to the help files within the mud. By using <help> <topic name> You can look up information on a specific topic such as help <rent> or help <coin>.
+0
+4
+chis
+22
+beast chizzle thebeast
+0
+2
+ap
+130
+approve $*; force $* prompt all; force $* color complete; force $* display all; force $* auto exits; load obj 2484; give bottle $*
+1
+5
+whack
+46
+emote whacks $* with her wooden spoon of doom.
+1
+3
+gac
+14
+get all corpse
+0
+3
+lol
+5
+laugh
+0
+3
+new
+38
+gecho &Y{&yNewbie&Y} &gChislev&w: $*&n
+1
+3
+wiz
+8
+wiz &w$*
+1
+2
+me
+47
+set chislev title &g-&Y|&g-&yChislev&g-&Y|&g-&n
+0
+2
+pk
+23
+cast power-word-kill $*
+1
+4
+away
+33
+set chislev title Chizzle is away
+0
+1
+t
+7
+tell $*
+1
+4
+back
+49
+set chislev title &Y}&yi&Y{&gThe Beast&Y}&yi&Y{&n
+0
+2
+eb
+13
+examine board
+0

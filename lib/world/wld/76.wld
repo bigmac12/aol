@@ -1,0 +1,2071 @@
+#7600
+A Guard House~
+   This is one of two guard houses by the northern gate of the minotaur city of
+Laeynes.  It is sparsely furnished with just a chair for sitting, a desk for
+working, and a rack for storing the taller weapons, such as pole arms.  It has
+windows to keep out the cold during winter, and they open to allow a breeze
+through in summer and spring.    
+~
+76 0 0 0 0
+D3
+~
+~
+0 0 7499
+S
+#7601
+A Narrow Stairwell~
+   Just wide enough to accommodate a full-grown minotaur, this narrow stairwell
+leads of from the Temple of Maelstrom to the lighthouse.  The narrow wooden
+steps are difficult to climb and wobble a bit underfoot.  An iron railing hangs
+loosely from its hinges, offering minimal support.    
+~
+76 264 0 0 0
+D4
+~
+~
+0 0 7602
+D5
+~
+~
+0 0 7496
+S
+#7602
+A Narrow Stairwell~
+   Just wide enough to accommodate a full-grown minotaur, this narrow stairwell
+leads of from the Temple of Maelstrom to the lighthouse.  The narrow wooden
+steps are difficult to climb and wobble a bit underfoot.  An iron railing hangs
+loosely from its hinges, offering minimal support.    
+~
+76 264 0 0 0
+D4
+~
+~
+0 0 7497
+D5
+~
+~
+0 0 7601
+S
+#7603
+A Bedroom~
+   Though more compact than the master bedroom, this room is still a good size
+and has plenty of room for the many pieces of furniture that fill it.  A
+twin-sized bed sets against both the eastern and western walls of the room.  
+At the foot of each bed stands a storage trunk.  Between the two beds is a tall
+table.  An oil lamp sits atop the table providing light.    
+~
+76 8 0 0 0
+D2
+~
+~
+0 0 7606
+S
+#7604
+The Lacynes Post Office~
+   The Lacynes post office is housed in this simple wooden building.  Wooden
+shelves run along the northern and southern walls.  The shelves are separated
+into dozens of mailslots for the families that live with in the city.  An
+overcrowded desk sits against the western wall.  Stacks of mail spill off the
+desk and onto the floor.    
+~
+76 12 0 0 0
+D1
+~
+~
+0 0 7478
+S
+#7605
+The Master Bedroom~
+   Though not overly fancy, this bedroom is rather warm and inviting.  It is
+sparely furnished with just the necessities.  The main focal point of the room
+is a massive, wooden bed.  It stands high off the floor, though probably at
+normal height to a minotaur.  It is covered with heavy blankets to keep out the
+cool breeze that often blows up off the ocean and across the city.    
+~
+76 8 0 0 0
+D1
+~
+~
+0 0 7606
+S
+#7606
+A Wide Hallway~
+   This portion of the main hallway leads to the more private areas of the
+home.  Simple sconces line the walls, casting their soft glow on the many
+portraits that adorn the walls.  Each portrait portrays the same basic theme: a
+minotaur standing triumphantly over the slain body of his opponent.  Tall
+doorways stand in the northern and western walls.  The hallway continues to the
+south.    
+~
+76 8 0 0 0
+D0
+~
+~
+0 0 7603
+D2
+~
+~
+0 0 7610
+D3
+~
+~
+0 0 7605
+S
+#7607
+Sitting Room~
+   Comfortably appointed, though not overly lavish, this sitting room serves as
+the main receiving area for guests to the home.  It has two large
+minotaur-sized couches that sit opposite eachother with a large trunk, which
+serves as a table, sitting between them.  The wooden plank floor is covered
+with a woven rug that adds warmth to the room.  A woodburning stove stands in
+the corner of the room to provide heat during the winter months.    
+~
+76 8 0 0 0
+D2
+~
+~
+0 0 7611
+S
+#7608
+A Training Yard~
+   This spacious yard serves as the training area for the residents of this
+home.  It is obviously well-tended, since despite its constant use the lawns
+are still rather lush and green.  A long stone bench sits off to the side
+amongst a grove of trees.  It is angled in such a way as to provide an
+excellent view of the Temple of Sargas, which lies to the south.    
+~
+76 0 2 0 0
+D0
+~
+~
+0 0 7609
+S
+#7609
+Trophy Room~
+   The walls of this room are lined with shelves overloaded with trophies of
+all kinds.  Most are rather simplistic in design.  Some, however, hold a place
+of honor in a glass-enclosed case.  These trophies are highly polished gold and
+decorated with ribbons.  A massive weapons case stands against the western wall
+of the room.  A doorway to the south leads outside into the training yard.    
+~
+76 8 0 0 0
+D1
+~
+~
+0 0 7610
+D2
+~
+~
+0 0 7608
+S
+#7610
+A Wide Hallway~
+   Stretching from the entry foyer toward the back of the house, this wide
+hallway is lines with simple wall sconces to provide light.  They cast their
+soft glow on the many portraits that adorn the walls.  Each portrait portrays
+the same basic theme: a minotaur standing triumphantly over the slain body of
+his opponent.    
+~
+76 12 0 0 0
+D0
+~
+~
+0 0 7606
+D1
+~
+~
+0 0 7611
+D2
+~
+~
+0 0 7612
+D3
+~
+~
+0 0 7609
+S
+#7611
+A Foyer~
+   This grand residence is decorated a bit more ornately than the average
+minotaur home.  The entry foyer is quite spacious with high ceilings and large
+windows that fill the room with light during the daytime.  In addition to
+serving as the main entryway for the home, it also houses an impressive
+collection of weapons.  Each of the weapons has been carefully fastened to the
+wall and appears to receive the greatest of care.    
+~
+76 12 0 0 0
+D0
+~
+~
+0 0 7607
+D1
+~
+~
+0 0 7431
+D3
+~
+~
+0 0 7610
+S
+#7612
+The Kitchen~
+   Dominated by a massive, walk-in fireplace which takes up the entire southern
+wall, this kitchen if cluttered with all sorts of cooking implements.  Copper
+pots of all sizes hang from the wooden ceiling beams along with large spoons
+made from both wood and metal.  A butcher block stands in the middle of the
+room, it is covered with deep gashes from use.    
+~
+76 8 0 0 0
+D0
+~
+~
+0 0 7610
+S
+#7613
+A Modest Dwelling~
+   A massive oak bed takes up much of this room.  Its timbers as thick as a
+man's waist, it creaks with age like an old man complaining about a bad back.
+Off to one side lies a gigantic set of drawers, each large enough to fit a
+small lamb.  Above the drawers is a portrait of a mangy red beast with ivory
+horns, and a silver studded nose ring.    
+~
+76 8 0 0 0
+D2
+~
+~
+0 0 7616
+S
+#7614
+The Dirty Mug~
+   Packed from wall to wall each night with rowdy patrons, the Dirty Mug is one
+of the busiest gathering spots in town.  It is modestly decorated with just
+simple wooden tables and chairs.  A high bar runs across the eastern wall of
+the building.  It is stacked high with empty ale mugs waiting to be washed.  
+Many of which have toppled over, accounting for the many puddles of ale that
+cover the bar top and floor.    
+~
+76 8 0 0 0
+D0
+~
+~
+0 0 7426
+D3
+~
+~
+0 0 7432
+S
+#7615
+The Vault~
+   Secured more from fear of outside visitors than fellow minotaur, the vault
+provides the citizens of Lacynes a safe place to store their funds.  The main
+lobby is quite boring.  The plank flooring and walls decorated only with simply
+wall sconces to provide light.  The western wall is dominated by a great iron
+gate which leads into the bank vault itself.    
+~
+76 12 0 0 0
+D1
+~
+~
+0 0 7464
+S
+#7616
+A Modest Dwelling~
+   A small fireplace cackles in the corner of this small dwelling.  Small for a
+minotaur.  A chair sits by the fire, big enough for two or three humans.  A few
+heads of monsters are mounted on the walls, obviously a trophy of some sort,
+and a huge double headed battle axe rests on the mantle, shining in the ominous
+light.  The warmth of the fire is slightly diminished by a small hole in one of
+the walls.    
+~
+76 8 0 0 0
+D0
+~
+~
+0 0 7613
+D1
+~
+~
+0 0 7433
+E
+axe battle ~
+   This huge black shafted axe gleams in the firelight.  Easily wielded by a
+minotaur, it would take a very strong man to even pick it up.    
+~
+S
+#7617
+The Ship Yards of Lacynes~
+   Always bustling with activity, the great shipyards of Lacynes are among the
+nosiest places of the city.  Dozens of minotaurs move along the wooden docks
+that pass through the shipyards.  Most are pulling carts weighed down with
+goods being brought in from the docks.  The items are most likely destined for
+the shops that line Bleeding Sword Lane.  A stiff breeze blows up from the
+ocean below.  The customs office lies immediately to the north.    
+~
+76 0 1 0 0
+D0
+~
+~
+0 0 7470
+D1
+~
+~
+0 0 7618
+D2
+~
+~
+0 0 7671
+S
+#7618
+Shipyard~
+   Always bustling with activity, the great shipyards of Lacynes are among the
+nosiest places of the city.  Dozens of minotaurs move along the wooden docks
+that pass through the shipyards.  Most are pulling carts weighed down with
+goods being brought in from the docks.  The items are most likely destined for
+the shops that line Bleeding Sword Lane.  A stiff breeze blows up from the
+ocean below.    
+~
+76 0 1 0 0
+D1
+~
+~
+0 0 7619
+D3
+~
+~
+0 0 7617
+S
+#7619
+Along the Drydocks~
+   The northern docks of Lacynes continue here, passing along the drydocks
+which are visible to the north.  Here ships needing work can find a safe haven
+from the pounding surface while being repaired.  Alongside the drydocks stand
+the massive warehouses of the ship builders and merchants that frequent this
+part of town.    
+~
+76 0 1 0 0
+D0
+~
+~
+0 0 7472
+D1
+~
+~
+0 0 7620
+D3
+~
+~
+0 0 7618
+S
+#7620
+The Northern Docks of Lacynes~
+   Worn wooden planks stretch out here from the rocky coast over the beach
+which lies below.  Large merchant ships bob in the waves, banging gently
+against the side of the docks.  Merchants and sailors walk up and down the
+docks, carrying goods to and from their ships.  The docks are lit by lanterns
+which hang from tall posts.  Glass globes shield the flames from the seabreeze.
+~
+76 0 1 0 0
+D1
+~
+~
+0 0 7621
+D3
+~
+~
+0 0 7619
+S
+#7621
+The Northern Docks of Lacynes~
+   Worn wooden planks stretch out here from the rocky coast over the beach
+which lies below.  Large merchant ships bob in the waves, banging gently
+against the side of the docks.  Merchants and sailors walk up and down the
+docks, carrying goods to and from their ships.  The docks are lit by lanterns
+which hang from tall posts.  Glass globes shield the flames from the seabreeze.
+~
+76 0 1 0 0
+D3
+~
+~
+0 0 7620
+S
+#7622
+Along the Shipyard~
+   A wooden walkway has been built here over the stone cliffs that make up the
+eastern border of the city.  The walkway leads from Sea Lane to the city's
+shipyard and northern docks.  It is fairly heavily travelled here and is
+supported by massive wooden beams to accommodate the flow of traffic to and
+from the docks.    
+~
+76 0 1 0 0
+D1
+~
+~
+0 0 7671
+D3
+~
+~
+0 0 7418
+S
+#7623
+The Administration Building~
+   Though not as shabbily decorated as many of the buildings in Lacynes, the
+Administration Building is still rather plain and sparsely decorated.  This
+large chamber serves as both an office and a meeting room.  It is rarely used
+as most disputes are settled in the arena.  However, this is the room that any
+citizens accused of dishonorable acts are processed.  Denied of the honor of
+combat in the arena, the accused face a fate worse than death.    
+~
+76 8 0 0 0
+D1
+   A massive wooden door carved from a single piece of sturdy vallenwood.    
+~
+door wooden massive~
+1 0 7642
+D6
+~
+~
+0 0 7447
+S
+#7624
+The Academy Grounds~
+   Unlike the most the grounds, this area is still covered with green grass.  
+Though several hoof impressions have left their marks on the hillside, the area
+has not been let turn to a muddy mess like much of the area.  Instead, the hoof
+prints seem to be concentrated into a single path leading further up the hill,
+with rolling lawns on either side.  A light breeze blows down from the
+mountains which provide the natural western defenses for the city.    
+~
+76 0 0 0 0
+D1
+~
+~
+0 0 7625
+D4
+~
+~
+0 0 7663
+S
+#7625
+The Academy Grounds~
+   The grounds of the Academy stretch south toward the city wall and west into
+the hillside.  There is little grass remaining in this heavily travelled area.
+A narrow stone path has since been widened into one large lane for all the
+traffic that moves through here while the Academy is in session.  A door to the
+east leads back inside.    
+~
+76 0 1 0 0
+D1
+   This massive door has been carved from a single piece of vallenwood.  It is
+thick and solid, standing about ten feet in height.    
+~
+door massive wooden~
+1 0 7626
+D2
+~
+~
+0 0 7633
+D3
+~
+~
+0 0 7624
+D6
+~
+~
+0 0 7665
+S
+#7626
+The Main Corridor~
+   This is the main corridor of the Academy.  It runs east-west from the
+entrance to the Academy's grounds.  It is largely unadorned, with just simple
+torches lining the walls to provide light.  A large classroom is visible to the
+north.  The stone floor has been covered with a thick carpet to quiet the
+hoofsteps of those who pass.  A massive, wooden door dominates the western
+wall.    
+~
+76 12 0 0 0
+D0
+~
+~
+0 0 7666
+D1
+~
+~
+0 0 7627
+D3
+   This massive door has been carved from a single piece of vallenwood.  It
+appears quite sturdy and stands over ten feet tall.    
+~
+door massive wooden~
+1 0 7625
+S
+#7627
+The Main Corridor~
+   Branching off from the Hall of Ancestors to the west, this main corridor
+runs east toward entrance to the Academy's grounds.  It is largely unadorned,
+with just simple torches lining the walls to provide light.  Two large
+classrooms are visible to the north and south.  The stone floor has been
+covered with a thick carpet to quiet the hoofsteps of those who pass.    
+~
+76 8 0 0 0
+D0
+~
+~
+0 0 7667
+D1
+~
+~
+0 0 7628
+D2
+~
+~
+0 0 7635
+D3
+~
+~
+0 0 7626
+S
+#7628
+Hall of Ancestors~
+   Perhaps the most ornately decorated room in all of Lacynes, the Hall of
+Ancestors serves to commemorate the rich history of the minotaurs of Krynn.  A
+vast mural dominates the northern wall.  It is composed of several different
+scenes; each depicting an event of great importance to the citizens.  The
+southern wall is lined with the coats of arms of the most prominent families in
+the city.    
+~
+76 8 0 0 0
+D1
+~
+~
+0 0 7629
+D3
+~
+~
+0 0 7627
+E
+scenes scene mural~
+   Though several different scenes have been depicted on the wall, two specific
+events of great importance dominate the entire mural.  Each is displayed in
+great detail.  The first is the passing of the Graystone over the face of
+Krynn.  Thereby, leading to the creation of the minotaur race.  The second is
+the great leader, Ambeoutin leading the minotaurs to overthrow their dwarven
+captors.    
+~
+S
+#7629
+Entryway of the Academy~
+   The main entryway of the Academy is a rather impressive chamber,
+particularly in comparison to the rest of the city.  It has an extremely high
+ceiling, even by minotaur standards.  The wooden floor has been sanded smooth
+and polished to give it a slight sheen.  The entry foyer opens up into an
+enormous hall to the west.    
+~
+76 12 0 0 0
+D0
+~
+~
+0 0 7668
+D3
+~
+~
+0 0 7628
+S
+#7630
+The Skirmish Field~
+   The skirmish field becomes a bit steeper here as it extends into the
+hillside, providing an extra challenge for the participants.  The ground is
+soft with no grass remaining.  The mud below foot is covered with dozens of
+hoof marks that lead in all directions, evidencing the recent training
+exercises.  Pools of rain water have collected in many of the deeper
+impressions.  The water is a deep reddish-brown from the mingling of blood with
+the muddy rain water.    
+~
+76 8 4 0 0
+D1
+~
+~
+0 0 7631
+D2
+~
+~
+0 0 7636
+D9
+~
+~
+0 0 7637
+S
+#7631
+The Skirmish Field~
+   The skirmish field becomes a bit steeper here as it extends into the
+hillside, providing an extra challenge for the participants.  The ground is
+soft with no grass remaining.  The mud below foot is covered with dozens of
+hoof marks that lead in all directions, evidencing the recent training
+exercises.  Pools of rain water have collected in many of the deeper
+impressions.  The water is a deep reddish-brown from the mingling of blood with
+the muddy rain water.    
+~
+76 8 4 0 0
+D1
+~
+~
+0 0 7632
+D2
+~
+~
+0 0 7637
+D3
+~
+~
+0 0 7630
+D8
+~
+~
+0 0 7636
+D9
+~
+~
+0 0 7638
+S
+#7632
+The Skirmish Field~
+   This muddy field is used for the practicing group skirmishes.  The ground is
+soft with no grass remaining.  The mud below foot is covered with dozens of
+hoof marks that lead in all directions, evidencing the recent training
+exercises.  Pools of rain water have collected in many of the deeper
+impressions.  The water is a deep reddish-brown from the mingling of blood with
+the muddy rain water.    
+~
+76 8 2 0 0
+D2
+~
+~
+0 0 7638
+D3
+~
+~
+0 0 7631
+D8
+~
+~
+0 0 7637
+S
+#7633
+The Proving Grounds~
+   This section of the Academy grounds is divided into separate areas for
+practicing one on one combat tactics.  The grass has been trampled and killed
+by the many battles that have been rehearsed here.  The muddy field is scarred
+with dozens of deep hoof marks filled with murky water from a recent rain.  
+The air is filled with the odor of blood mingled with sweat.  To the south
+stands a large tournament tent.    
+~
+76 0 0 0 0
+D0
+~
+~
+0 0 7625
+D1
+~
+~
+0 0 7634
+D2
+~
+~
+0 0 7639
+S
+#7634
+The Proving Grounds~
+   This section of the Academy grounds is divided into separate areas for
+practicing one on one combat tactics.  The grass has been trampled and killed
+by the many battles that have been rehearsed here.  The muddy field is scarred
+with dozens of deep hoof marks filled with murky water from a recent rain.  
+The air is filled with the odor of blood mingled with sweat.    
+~
+76 0 0 0 0
+D2
+~
+~
+0 0 7640
+D3
+~
+~
+0 0 7633
+S
+#7635
+A Large Classroom~
+   This large chamber looks more like a battlefield than a classroom.  A few
+tables are pushed off to the side walls, leaving the main part of the floor
+open.  The bare wood floor is covered with deep gashes and stained with blood.
+Hanging on the front wall of the room is a large piece of parchment.  Several
+arrows have been drawn on the parchment, appearing to point in all directions.
+Several books on fighting skills and combat techniques fill a narrow bookshelf
+that stands in the corner of the room.    
+~
+76 4 0 0 0
+D0
+~
+~
+0 0 7627
+S
+#7636
+The Skirmish Field~
+   The skirmish field becomes a bit steeper here as it extends into the
+hillside, providing an extra challenge for the participants.  The ground is
+soft with no grass remaining.  The mud below foot is covered with dozens of
+hoof marks that lead in all directions, evidencing the recent training
+exercises.  Pools of rain water have collected in many of the deeper
+impressions.  The water is a deep reddish-brown from the mingling of blood with
+the muddy rain water.    
+~
+76 8 4 0 0
+D0
+~
+~
+0 0 7630
+D1
+~
+~
+0 0 7637
+D7
+~
+~
+0 0 7631
+S
+#7637
+The Skirmish Field~
+   This muddy field is used for the practicing group skirmishes.  The ground is
+soft with no grass remaining.  The mud below foot is covered with dozens of
+hoof marks that lead in all directions, evidencing the recent training
+exercises.  Pools of rain water have collected in many of the deeper
+impressions.  The water is a deep reddish-brown from the mingling of blood with
+the muddy rain water.    
+~
+76 8 2 0 0
+D0
+~
+~
+0 0 7631
+D1
+~
+~
+0 0 7638
+D3
+~
+~
+0 0 7636
+D6
+~
+~
+0 0 7630
+D7
+~
+~
+0 0 7632
+S
+#7638
+The Skirmish Field~
+   This muddy field is used for the practicing group skirmishes.  The ground is
+soft with no grass remaining.  The mud below foot is covered with dozens of
+hoof marks that lead in all directions, evidencing the recent training
+exercises.  Pools of rain water have collected in many of the deeper
+impressions.  The water is a deep reddish-brown from the mingling of blood with
+the muddy rain water.    
+~
+76 8 2 0 0
+D0
+~
+~
+0 0 7632
+D1
+~
+~
+0 0 7639
+D3
+~
+~
+0 0 7637
+D6
+~
+~
+0 0 7631
+S
+#7639
+A Large Tent~
+   A tent has been erected in the middle of the mock battlefields to serve as
+both a haven for the instructors and a commander's tent during tournaments and
+battle simulations.  The flaps are rolled back allowing a breeze to blow
+through.  It carries on it the smell of blood and sweat from the surrounding
+fields.  A wooden ladder stands in one corner leading up to an observation
+tower.    
+~
+76 8 0 0 0
+D0
+~
+~
+0 0 7633
+D3
+~
+~
+0 0 7638
+D4
+~
+~
+0 0 7641
+S
+#7640
+The Proving Grounds~
+   This section of the Academy grounds is divided into separate areas for
+practicing one on one combat tactics.  The grass has been trampled and killed
+by the many battles that have been rehearsed here.  The muddy field is scarred
+with dozens of deep hoof marks filled with murky water from a recent rain.  
+The air is filled with the odor of blood mingled with sweat.    
+~
+76 0 1 0 0
+D0
+~
+~
+0 0 7634
+S
+#7641
+An Observation Tower~
+   This simple wooden tower was constructed to allow the trainers at the
+academy to watch the action below on the fields.  It has a roof to shield its
+occupants from the midday sun, but it has no side walls to obscure the views of
+the battlefields below.    
+~
+76 12 0 0 0
+D5
+~
+~
+0 0 7639
+S
+#7642
+A Dark Stairwell~
+   Any citizen found guilty of dishonorable acts is led down this stairway to
+the dungeon below.  The rickety steps creak underfoot and do not appear as
+though they could possibly support the weight of an adult minotuar, however
+they somehow manage not to collapse.    
+~
+76 8 0 0 0
+D3
+   A massive wooden door carved from a single piece of sturdy vallenwood.    
+~
+door wooden massive~
+1 0 7623
+D5
+~
+~
+0 0 7643
+S
+#7643
+A Dank Room~
+   The stench of this room is almost overwhelming.  It reeks of a revolting
+combination of sweat and blood.  It is completely unadorned with not even a
+torch to provide light.  The dirt floor is covered with hoof marks leading in
+all directions.  Many of them appearing to the be the result of a scuffle of
+some some sort.    
+~
+76 262189 0 0 0
+D0
+~
+~
+0 0 7647
+D1
+~
+~
+0 0 7644
+D2
+~
+~
+0 0 7645
+D4
+~
+~
+0 0 7642
+S
+#7644
+A Dank Room~
+   The stench of this room is almost overwhelming.  It reeks of a revolting
+combination of sweat and blood.  It is completely unadorned with not even a
+torch to provide light.  The loose dirt on the floor is covered with hoof marks
+leading in all directions.  Many of them appearing to the be the result of a
+scuffle of some some sort.    
+~
+76 41 0 0 0
+D0
+~
+~
+0 0 7648
+D2
+~
+~
+0 0 7646
+D3
+~
+~
+0 0 7643
+D5
+A trapdoor with a steel hoop for a handle sets in the floor.
+~
+trapdoor door~
+1 0 7650
+S
+#7645
+A Dark Cell~
+   This is one of four holding cells in the dungeon of the Administration
+Building.  Not used for common criminals, these cells are reserved for citizens
+whose crimes are so heinous they are denied the right to face their accuser in
+the arena.  The cell is cramped with a low ceiling.  No adult minotaur could
+possibly stand up straight here.  Any who are held here would need to stand
+hunched over.    
+~
+76 41 0 0 0
+D0
+~
+~
+0 0 7643
+S
+#7646
+A Dark Cell~
+   This is one of four holding cells in the dungeon of the Administration
+Building.  Not used for common criminals, these cells are reserved for citizens
+whose crimes are so heinous they are denied the right to face their accuser in
+the arena.  The cell is cramped with a low ceiling.  No adult minotaur could
+possibly stand up straight here.  Any who are held here would need to stand
+hunched over.    
+~
+76 41 0 0 0
+D0
+~
+~
+0 0 7644
+S
+#7647
+A Dark Cell~
+   This is one of four holding cells in the dungeon of the Administration
+Building.  Not used for common criminals, these cells are reserved for citizens
+whose crimes are so heinous they are denied the right to face their accuser in
+the arena.  The cell is cramped with a low ceiling.  No adult minotaur could
+possibly stand up straight here.  Any who are held here would need to stand
+hunched over.    
+~
+76 41 0 0 0
+D2
+~
+~
+0 0 7643
+S
+#7648
+A Dark Cell~
+   This is one of four holding cells in the dungeon of the Administration
+Building.  Not used for common criminals, these cells are reserved for citizens
+whose crimes are so heinous they are denied the right to face their accuser in
+the arena.  The cell is cramped with a low ceiling.  No adult minotaur could
+possibly stand up straight here.  Any who are held here would need to stand
+hunched over.    
+~
+76 41 0 0 0
+D2
+~
+~
+0 0 7644
+S
+#7649
+A Large Landing~
+   This large landing opens down to the common room below.  A wooden railing
+has been placed along the edge of the hallway which wraps around the outerwall.
+Doorways line the wall, leading off in all directions.  The noise of drunken
+revelry drifts up from the common room below.    
+~
+76 12 0 0 0
+D0
+~
+~
+0 0 7456
+D1
+~
+~
+0 0 7465
+D3
+~
+~
+0 0 7459
+D5
+~
+~
+0 0 7457
+D6
+~
+~
+0 0 7455
+D7
+~
+~
+0 0 7458
+D8
+~
+~
+0 0 7466
+D9
+~
+~
+0 0 7469
+S
+#7650
+The Lower Dungeon~
+   A feeling of pain and suffering permeates the air which seems to be haunted
+by those who have suffered here.  The room is more or less a small cavern that
+has been dug into the rock and dirt upon which the city was built.  The cavern
+is damp, most likely do to its close proximity to the coastline.  Small bits of
+rock cover the muddy floor, making it difficult to keep a sound footing.    
+~
+76 41 0 0 0
+D1
+~
+~
+0 0 7655
+D4
+A trapdoor with a steel hoop for a handle sets in the ceiling.
+~
+trapdoor door~
+1 0 7644
+D6
+A large rock leans against the cavern wall.
+~
+rock wall~
+1 0 7651
+S
+#7651
+A Dark and Narrow Passage~
+   This narrow tunnel has been carved into the rock upon which the city was
+built.  The air is cold and damp and reeks with a mixture of sweat, blood and
+seawater.  The ground is muddy with an occasional rock jutting out of the mud,
+making it difficult to pass.  The ceiling is so low that any minotaur passing
+through these halls would have to keep his head hung low.    
+~
+76 297 0 0 0
+D6
+~
+~
+0 0 7652
+D9
+A large rock leans against the cavern wall.
+~
+rock wall~
+1 0 7650
+S
+#7652
+A Dark and Narrow Passage~
+   This narrow tunnel has been carved into the rock upon which the city was
+built.  The air is cold and damp and reeks with a mixture of sweat, blood and
+seawater.  The ground is muddy with an occasional rock jutting out of the mud,
+making it difficult to pass.  The ceiling is so low that any minotaur passing
+through these halls would have to keep his head hung low.    
+~
+76 262441 0 0 0
+D1
+~
+~
+0 0 7653
+D9
+~
+~
+0 0 7651
+S
+#7653
+A Dark and Narrow Passage~
+   This narrow tunnel has been carved into the rock upon which the city was
+built.  The air is cold and damp and reeks with a mixture of sweat, blood and
+seawater.  The ground is muddy with an occasional rock jutting out of the mud,
+making it difficult to pass.  The ceiling is so low that any minotaur passing
+through these halls would have to keep his head hung low.    
+~
+76 297 0 0 0
+D3
+~
+~
+0 0 7652
+D7
+~
+~
+0 0 7654
+S
+#7654
+A Dark and Narrow Passage~
+   This narrow tunnel comes to an a rubt end here.  The air is cold and damp
+and reeks with a mixture of sweat, blood and seawater.  The ground is muddy
+with an occasional rock jutting out of the mud, making it difficult to pass.  
+The ceiling is so low that any minotaur passing through these halls would have
+to keep his head hung low.    
+~
+76 301 0 0 0
+D0
+A large rock leans against the cavern wall.
+~
+rock wall~
+1 0 7656
+D8
+~
+~
+0 0 7653
+S
+#7655
+The Stone of Shame~
+   This part of the cavern is a bit larger.  Its ceiling is high enough to
+allow those who enter to stand erect.  It is completely barren save for one
+lone stone block that stands in the center of the room.  The surface of the
+block is covered with several deep gashes, as though it has been struck with a
+great blade.  It is littered with small slivers of what appear to be minotaur
+horns.    
+~
+76 41 0 0 0
+D3
+~
+~
+0 0 7650
+E
+stone shame~
+   This Stone of Shame, so named for the unspeakable task it represents, is
+generally the last thing a condemned minotaur sees before being exiled from his
+beloved city.  Any minotaur accused of acting dishonorably will have his horns
+removed here at the stone.  The stone itself is merely a large piece slab
+standing, reaching a height of about two and a half feet.  This low height
+requires the condemned to lower themselves to the floor, resting their horns
+upon the stone as they await the awful swing of an axe blade.    
+~
+S
+#7656
+Along the Shoreline~
+   The gravelly sand of the beach makes a soft crunching sound underfoot.  It
+is barely audible over the sound of the waves crashing to shore.  To the west
+and south loom the stone cliffs upon which the city has been built.  A stiff
+seabreeze blows across the shoreline, carrying with it the briny smell of the
+ocean.    
+~
+76 0 2 0 0
+D0
+~
+~
+0 0 7658
+D1
+~
+~
+0 0 7657
+D2
+The sheer cliffs upon which the city was built block passage to the south.    
+~
+cliff cliffs~
+1 0 7654
+D7
+~
+~
+0 0 7659
+S
+#7657
+Along the Shoreline~
+   The foamy surf crashes against the gravelly sand of the beach creating a
+soothing, though somewhat loud, rhythm.  It carries with it seaweed and the
+occasional shell as well as a bit of debris that has been tossed carelessly
+into the ocean.  The briny smell of the sea swirls though the air, carried on a
+breeze that blows in off the ocean.    
+~
+76 2097152 2 0 0
+D0
+~
+~
+0 0 7659
+D3
+~
+~
+0 0 7656
+D6
+~
+~
+0 0 7658
+S
+#7658
+Along the Shoreline~
+   The gravelly sand of the beach makes a soft crunching sound underfoot.  It
+is barely audible over the sound of the waves crashing to shore.  To the west
+the large cliffs upon which the city has been built rise up from the beach.  A
+stiff seabreeze blows across the shoreline, carrying with it the briny smell of
+the ocean.    
+~
+76 0 2 0 0
+D0
+~
+~
+0 0 7661
+D1
+~
+~
+0 0 7659
+D2
+~
+~
+0 0 7656
+D6
+~
+~
+0 0 7660
+D7
+~
+~
+0 0 7662
+D9
+~
+~
+0 0 7657
+S
+#7659
+Along the Shoreline~
+   The foamy surf crashes against the gravelly sand of the beach creating a
+soothing, though somewhat loud, rhythm.  It carries with it seaweed and the
+occasional shell as well as a bit of debris that has been tossed carelessly
+into the ocean.  The briny smell of the sea swirls though the air, carried on a
+breeze that blows in off the ocean.    
+~
+76 2097152 2 0 0
+D0
+~
+~
+0 0 7662
+D2
+~
+~
+0 0 7657
+D3
+~
+~
+0 0 7658
+D6
+~
+~
+0 0 7661
+D8
+~
+~
+0 0 7656
+S
+#7660
+Along the Shoreline~
+   The gravelly sand of the beach makes a soft crunching sound underfoot.  It
+is barely audible over the sound of the waves crashing to shore.  To the west
+and north loom the stone cliffs upon which the city has been built.  A stiff
+seabreeze blows across the shoreline, carrying with it the briny smell of the
+ocean.  A wooden staircase leads up the shipbuilding yards above.    
+~
+76 4 2 0 0
+D1
+~
+~
+0 0 7661
+D4
+~
+~
+0 0 7671
+D9
+~
+~
+0 0 7658
+S
+#7661
+Along the Shoreline~
+   The gravelly sand of the beach makes a soft crunching sound underfoot.  It
+is barely audible over the sound of the waves crashing to shore.  To the west
+the large cliffs upon which the city has been built rise up from the beach.  A
+stiff seabreeze blows across the shoreline, carrying with it the briny smell of
+the ocean.    
+~
+76 4 2 0 0
+D0
+   A narrow crevice is visible in the cliff face.  It looks as though a message
+has been scratched into the stone.    
+~
+cliff~
+1 0 5201
+D1
+~
+~
+0 0 7662
+D2
+~
+~
+0 0 7658
+D3
+~
+~
+0 0 7660
+D9
+~
+~
+0 0 7659
+E
+message~
+The only word that is legibile is 'Warning'.
+~
+S
+#7662
+Along the Shoreline~
+   The foamy surf crashes against the gravelly sand of the beach creating a
+soothing, though somewhat loud, rhythm.  It carries with it seaweed and the
+occasional shell as well as a bit of debris that has been tossed carelessly
+into the ocean.  The briny smell of the sea swirls though the air, carried on a
+breeze that blows in off the ocean.    
+~
+76 2097152 2 0 0
+D2
+~
+~
+0 0 7659
+D3
+~
+~
+0 0 7661
+D8
+~
+~
+0 0 7658
+S
+#7663
+A Statue of Kothas~
+   Standing proudly atop a small hill, this large statue towers over the city.
+It is carved from white marble with several veins of black and deep green
+running through it.  The statue is of Kothas, one of the two sons of Ambeoutin.
+Taught of kingship and battle at their father's knee, both Mithas and his
+brother Kothas proved equal when they faced each other in the arena.  After a
+full day and night of fighting, the judges declared the match a draw, and the
+kingdom was divided into two separate countries.    
+~
+76 0 4 0 0
+D5
+~
+~
+0 0 7624
+S
+#7664
+A Statue of Mithas~
+   Standing proudly atop a small hill, this large statue towers over the city.
+It is carved from white marble with several veins of black and deep green
+running through it.  The statue is of Mithas, one of the two sons of Ambeoutin.
+Taught of kingship and battle at their father's knee, both Mithas and his
+brother Kothas proved equal when they faced each other in the arena.  After a
+full day and night of fighting, the judges declared the match a draw, and the
+kingdom was divided into two separate countries.    
+~
+76 0 4 0 0
+D5
+~
+~
+0 0 7665
+S
+#7665
+The Academy Grounds~
+   Unlike the most the grounds, this area is still covered with green grass.  
+Though several hoof impressions have left their marks on the hillside, the area
+has not been let turn to a muddy mess like much of the area.  Instead, the hoof
+prints seem to be concentrated into a single path leading further up the hill,
+with rolling lawns on either side.  A light breeze blows down from the
+mountains which provide the natural western defenses for the city.    
+~
+76 8 4 0 0
+D4
+~
+~
+0 0 7664
+D9
+~
+~
+0 0 7625
+S
+#7666
+A Large Classroom~
+   The walls of this large classroom are papered with maps and timelines as
+well as several murals depicting the history of the minotaurs of Krynn.  
+Scenes of great battles including those fought against the dwarves completely
+cover the western wall of the room.  Rows of tall desks fill the room.  An
+instructor's podium stands facing the rows of desks.  It is littered with
+books, scrolls, and whips.    
+~
+76 8 0 0 0
+D2
+~
+~
+0 0 7626
+S
+#7667
+A Large Classroom~
+   A large table stands in the middle of this room.  Upon the table rests a
+grand relief map of Ansalon.  Particular detail has been paid to the seas.  
+Arrows indicating currents and wind patterns have been carved into the surface
+of the map.  A few tall chairs stand against the western wall of the room, and
+a long table stands against the eastern wall.  Upon the table rests a sextant
+and a compass.    
+~
+76 8 0 0 0
+D2
+~
+~
+0 0 7627
+S
+#7668
+Before the Academy~
+   Branching off from the main intersection to the north, this wide pathway
+leads to the Academy.  The path itself is actually paved, not dirt like many of
+the other roads in town.  Stone blocks, formerly used as ballast in merchant
+ships, are neatly arranged to provide a smooth walking surface.  To the south
+looms the Academy itself, one of the larger and more extravagant buildings
+within the city.    
+~
+76 0 1 0 0
+D0
+~
+~
+0 0 7463
+D2
+~
+~
+0 0 7629
+S
+#7669
+A Townhouse~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+76 33554444 0 0 0
+D1
+~
+~
+0 0 7438
+S
+#7670
+A Dark Passageway~
+You are in an unfinished room.
+~
+76 0 0 0 0
+S
+#7671
+Along the Shipyards~
+   This narrow wooden walkway runs from Sea Lane out toward the shipyards and
+northern docks of Lacynes.  It was built along the stone cliffs which provide
+the natural defenses of the eastern side of the city.  A rickety staircase
+leads down to the beach below.    
+~
+76 0 1 0 0
+D0
+~
+~
+0 0 7617
+D3
+~
+~
+0 0 7622
+D5
+~
+~
+0 0 7660
+S
+#7672
+A Townhouse~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+76 33554444 0 0 0
+D1
+~
+~
+0 0 7439
+S
+#7673
+A Townhouse~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+76 33554444 0 0 0
+D3
+~
+~
+0 0 7439
+S
+#7674
+A Townhouse~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+76 33554444 0 0 0
+D3
+~
+~
+0 0 7438
+S
+#7675
+The Lacynes Chamber of Commerce~
+   Known for their prowess as mariners, the minotaur of Lacynes have quite a
+few visitors coming and going in their port city.  Though, they pride
+themselves on their racial superiority, they seem to have no qualms about
+taking money from any of the other races of Krynn.  The Chamber works closely
+with the customs office to maintain the free flow of goods both in and out of
+the city.    
+~
+76 12 0 0 0
+D1
+~
+~
+0 0 7492
+S
+#7676
+The Attic~
+   Climbing to the top of the stairs brings you into a large, (literally) open
+space.  Large portions of the roof are broken or missing, permitting the
+weather to pour in.  The roof below your feet is very unstable, the soaked,
+cracking wood offering tenuous footing even at the best of times.  It does not
+seem wise to venture far from the stairs, as the ground here would surely
+collapse below your feet.  There does not appear to be anything of value here,
+and a flash of lightning from above only serves to make leaving look even more
+inviting.    
+~
+76 0 0 0 0
+D5
+~
+~
+0 0 7686
+S
+#7677
+A Closet~
+   This room was once used for janitorial purposes, judging from the cleaning
+tools that lie around inside of it.  The floorboards are warped by moisture,
+and the entire closet smells heavily of mildew.  Cobewbs are heaped in every
+corner, and the slightest of movements stir up a cloud of dust.    
+~
+76 9 0 0 0
+D0
+The door to the north leads back into the guest room.
+~
+closet door~
+1 0 7678
+S
+#7678
+A Guest Room~
+   Each guest room in the old manor is almost identical, a ten foot square
+bunkroom with a high ceiling.  The furniture is as uniform as it is barren: a
+small spring bed without a mattress, and a small set of shelves.  Very little
+else is in here, save some cobwebs, and some odd debris littering the floor.  
+A single doorway to the east leads out into the hall.  Another, smaller doorway
+to the south sits slightly ajar.    
+~
+76 9 0 0 0
+D2
+   The door to the south leads into a small broom closet.  It sits slightly
+ajar, still allowing no clue of what may be behind it.    
+~
+closet door~
+1 0 7677
+D3
+~
+~
+0 0 7686
+S
+#7679
+A Guest Room~
+   Each guest room in the old manor is almost identical, a ten foot square
+bunkroom with a high ceiling.  The furniture is as uniform as it is barren: a
+small spring bed without a mattress, and a small set of shelves.  Very little
+else is in here, save some cobwebs, and some odd debris littering the floor.  
+A single doorway to the east leads out into the hall.    
+~
+76 9 0 0 0
+D1
+~
+~
+0 0 7686
+S
+#7680
+A Weathered Path~
+   It is strange indeed, but the moment you step into this area, the weather
+around you seems to change.  The surrounding area is cast in almost perpetual
+darkness, and there is nearly always a storm, be it brewing or raging about.  
+A short ways to the east, down the winding path is a large mansion, which seems
+to be the source of the unusual atmosphere in this area.    
+~
+76 4 1 0 0
+D1
+~
+~
+0 0 7681
+D6
+~
+~
+0 0 8291
+S
+#7681
+Through a Gate~
+   A short, wrought-iron fence surrounds the mansion.  The gate is left ajar
+and swings open and closed in the breeze, adding to the place's rustic,
+mysterious feeling.  The path is in a state of disrepair, with cracked, broken
+and missing cobblestones littering it.  The owner of this house clearly does
+not see a reason to do upkeep on his property.  The mansion is mostly dark, and
+seems to be in a similar state of disarray, leading one to the conclusion that
+it may well be abandoned.    
+~
+76 0 0 0 0
+D1
+~
+~
+0 0 7682
+D3
+~
+~
+0 0 7680
+S
+#7682
+Within an Overgrown Yard~
+   Gardening is another thing which is clearly not a priority for those who
+reside here.  The path at this portion has been almost completely grown over by
+grass and weeds.  Plants are everywhere, both living and dead.  A few dead
+trees stand out amongst the shrubs, and the whole area has been left to let
+nature take its course.  Someone definitely lives at this mansion though.  
+That much is made clear by the presence of a dull yellow light in one of the
+upstairs windows.    
+~
+76 0 0 0 0
+D1
+~
+~
+0 0 7683
+D3
+~
+~
+0 0 7681
+S
+#7683
+Before the Mysterious Manor~
+   The disheveled manor house rises up above you.  The entire house has been
+left to crumble, it seems.  Shingles hang from the sunken roof, and the
+eavestroughs hang, disused and rusty.  The door sits firmly shut however, and
+very few of the windows are broken.  The house has not been purposefully
+damaged, rather, it has become like this over time.  Its condition is only
+worsened by the unusual weather that prevails here.  Upon the doorstep sits a
+mat, upon which words are still perfectly legible despite the passage of time.
+  
+~
+76 0 0 0 0
+D0
+The creaking wooden door is nearly falling off its hinges.
+~
+door~
+1 0 7684
+D3
+~
+~
+0 0 7682
+E
+mat doormat welcome~
+                      Here sits my home,
+                      as you have found,
+             Where magic stirs and storms abound.
+              Within it, you shall take my test.
+             For those of you who prove the best,
+                      Rewards await you,
+                         Yes, indeed!
+                To satisfy thy greatest greed.
+
+                    Enter if you be worthy.
+~
+S
+#7684
+Inside the Manor~
+   The manor house is pretty much the same on the inside as it is on the
+outside.  Floorboards creak ominously with every step, leading a person to
+wonder when the boards will finally just snap and send them tumbling into the
+basement.  The carpeting is old and moth-eaten, and the furniture for the most
+part is either gone or broken.  A howling wind blows through cracks in the
+walls, and the resulting noise sends a chill down the spine.    
+~
+76 9 0 0 0
+D1
+~
+~
+0 0 7685
+D2
+The creaking wooden door is falling off its hinges.
+~
+door~
+1 0 7683
+S
+#7685
+An Abandoned Study~
+   This is a study, with rows of shelves filled with dusty tomes lining the
+walls.  There are cobwebs everywhere, and the scant furniture that sits around
+is covered in dust.  Cloth curtains hang in tatters, eaten by moths and vermin.
+Some of the books are so ancient that even touching them causes them to crumble
+to dust.  The window to the south is cracked, and that seems to be the source
+of most of the draft in here.  There is a glowing light to the north.    
+~
+76 9 0 0 0
+D0
+~
+~
+0 0 7686
+D3
+~
+~
+0 0 7684
+S
+#7686
+A Dark Hallway~
+   This hallway lies almost completely barren, with footprints visible in the
+thick dust upon the floor.  There are a few doorways in the walls to the east
+and west, through which small guest rooms can be seen.  Likely once used for
+visitors, the rooms have clearly not been used in some time.  At the end of the
+hallway to the east is a creaky spiral staircase which leads both up and down,
+though the condition of the wood on the staircase makes you think twice about
+trying to go downstairs.  A few old painted portraits line the walls.    
+~
+76 9 0 0 0
+D1
+~
+~
+0 0 7678
+D2
+~
+~
+0 0 7685
+D3
+~
+~
+0 0 7679
+D4
+~
+~
+0 0 7676
+D5
+~
+~
+0 0 7687
+E
+walls portraits paintings old~
+   Each portrait is centuries old, and is a painted depiction of mages of old.
+Underneath each portrait is a copper nameplate.  Those that can still be read
+must be dusted off, but you can make out a few of the names: Boris, Khoron,
+Phydia, Vidian.  Mages whose names have been lost to time, but were clearly
+renouned throughout the land.    
+~
+S
+#7687
+The Basement~
+   Where the rest of the house is merely dilapidated, the basement is downright
+spooky.  The walls drip with condensation, and the air smells heavily of
+mildew.  There is a dripping sound off into the distance, and the sound of
+movement which leads you to believe you are not completely alone in this dark
+place.  Whether that is a comforting thought or not remains to be seen.  Off to
+the north, the light grows a little brighter, and some unseen force seems to be
+pulling you in that direction.    
+~
+76 9 0 0 0
+D0
+~
+~
+0 0 7688
+D4
+~
+~
+0 0 7686
+S
+#7688
+A Dank Corridor~
+   The dim light from the north shines and reflects off of the wet stones of
+the walls and the pool of water on the floor.  An odd chill fills the air,
+causing torches to flicker and loose clothing to lightly sway.  The smell here
+is almost unbearable from years of mold left unchecked.  The corridor continues
+to the north and south.    
+~
+76 9 0 0 0
+D0
+~
+~
+0 0 7689
+D2
+~
+~
+0 0 7687
+S
+#7689
+The End of the Corridor~
+   This portion of the hallway is nearly fully lit, bathed in an eerie yellow
+light.  The water upon the floor and walls has evaporated, leaving a fine dust
+in its wake.  The slightest movement within this part of the corridor causes
+the dust to come off of the walls and form a cloying dust that makes it
+difficult to breathe...  And to see the shape that is moving towards you.    
+~
+76 8 0 0 0
+D2
+~
+~
+0 0 7688
+D5
+~
+~
+0 0 7690
+S
+#7690
+The Central Chamber~
+   This chamber is not what one might have expected from the appearance of the
+rest of the house.  It is well-kept and lavishly appointed.  The room is
+decorated so that everything within it points to one of the four entryways that
+surround it.  The thick red carpet is shaped like an "X", with each portion
+leading up to one of the four rooms.  The walls are made of hardwood, inlaid
+with gold carvings.  Each doorway is equally ornate.  Looking at the rug, you
+can see a large, clearly written message, woven in gold thread.    
+~
+76 262268 0 0 0
+D4
+~
+~
+0 0 7689
+D6
+~
+~
+0 0 7691
+D7
+~
+~
+0 0 7692
+D8
+~
+~
+0 0 7694
+D9
+~
+~
+0 0 7693
+E
+carpet rug message writing thread gold~
+             To those of you that read this note,
+               Know that ye hath right to gloat.
+              Where others fell and others died,
+                      You have passed,
+                     So now take pride!
+
+                However traveller, be aware,
+               The testing has not ended here.
+            There are two more to test your skill.
+                   Have you the strength?
+                     Have you the will?
+~
+S
+#7691
+The Room of Earth and Rock~
+   Entering the room, you find yourself in completely different surroundings.
+The walls of this room are made from stone.  The floor is made of soft clay.  
+There are no foot prints, evidence that no one has made it this far before, at
+least, not recently.  An eerie light fills the room.  There is something
+eyecatching upon the ceiling, an inscription written upon a metal plaque.    
+~
+76 360 0 0 0
+D9
+~
+~
+0 0 7690
+E
+ceiling inscription writing plaque roof~
+      The second test begins right here, between these walls of stone.
+        Now here you stand, among the earth, but do not stand alone.
+      You see my beast, no doubt, by now, and he you'll have to fight,
+        Or ever shall remain you here, and ne'er again see the light.
+~
+S
+#7692
+The Room of Lava and Fire~
+   No sooner have you entered the room but you are engulfed in heat.  The walls
+are made of lava bricks, and are warm to the touch, but not burning.  The
+entire area is lit by bright red flames that emit from a large, bowl-shaped
+indentation in the center of the room.  Upon the roof, written in scorched
+black letters is another message, clearly presented and waiting to be read.  
+
+~
+76 360 0 0 0
+D8
+~
+~
+0 0 7690
+E
+roof ceiling scorched black letters message writing~
+         You stand among a living fire, a fire with hunger deep.
+      A fire that will not die or fade, a fire that will not sleep.
+     These flames will never burn or scald, this place a welcome bed.
+       Deny its feast, defeat my beast, or you shall find ye dead.
+~
+S
+#7693
+The Room You Should Not Be In~
+   You would be hard-pressed to classify this area as a room.  Suddenly, you
+are bathed in white light, and ceiling, floor, and walls all vanish into thin
+air.  The sensation of floating is all one feels upon entering this room, and
+every loose article of clothing, every long hair, every flame of a torch is
+swept up and blown around uncontrollably.  There are words that seem to be
+floating in mid-air, suspended from above by some unseen force.    
+~
+76 360 0 0 0
+D5
+   The air all seems to flow down towards a nearly invisible panel in the
+floor.  There is a tiny golden keyhole here, that hints that this panel may be
+opened, but is probably currently locked.  What sort of key would open such an
+exit?    
+~
+exit~
+2 7688 7695
+D6
+~
+~
+0 0 7690
+E
+words floating mid-air suspended message ceiling~
+        How can this place exist in space?  Where nothing is around,
+     Except the wind which fills the space, which moves without a sound.
+          The final portion of this test is here, before your face,
+         But have you done it all by book?  Put everything in place?
+~
+S
+#7694
+The Room of Sea and Storm~
+   Stepping through the door, you immediately plunge waist-deep into cold
+water.  The walls are lost in darkness, and the ceiling seems to be composed
+entirely of black clouds.  The water is drawn into a whirlpool in the center of
+the room, but there is sure enough footing to allow one who stands here to
+avoid being pulled into it.  Upon the ceiling is a message, scrawled upon the
+clouds in white, lightning-like letters.    
+~
+76 361 0 0 0
+D7
+~
+~
+0 0 7690
+E
+ceiling message scrawling scrawled clouds white lightning letters~
+      You stand within a raging storm, in all its glory and might,
+     Where nature shows its teeth to all, dispelling day and night.
+  Of course, you find return is blocked, you'll have to fight to leave.
+   But fret not, friend, you near an end, and ye shall find reprieve.
+~
+S
+#7695
+The Point of No Return~
+   However you got down here, there does not appear to be any real way back up.
+Once again, it is dark, and all around are cold stone walls and a smoothe stone
+floor.  The passageway is very narrow, and those of broader shoulders must turn
+sideways to fit through.  It is dry at this level though, lacking the dankness
+and moisture that characterized the upper levels, and is more orderly than the
+chaos on the level above.  There is a sign on the wall here that offers further
+cryptic information on how to proceed from here.    
+~
+76 262412 0 0 0
+D3
+~
+~
+0 0 7696
+E
+sign wall information cryptic~
+                 You might not want to leave just yet,
+                      The best is still at hand.
+                   The final test, by far the best,
+                   For rewards both rich and grand.
+
+       Ahead is pain from all about, to speed your little choice.
+                  Choose badly, punished shall ye be,
+                            Choose right...
+
+                       ...You'll hear my voice.
+~
+S
+#7696
+A Thousand Knives of Pain~
+   Any who enter this room immediately find their eyes forced closed by the
+incredible pain coming from all around.  Every time you open your eyes, they
+are stung by pain, as if tiny knives of fire were being pushed into your flesh.
+Three doors to the west can be hazily made out, one directly to the west, one
+to the northwest, and one to the southwest.  All are apparently identical, but
+the pain you are feeling makes you want to leave this room as soon as possible.
+  
+~
+76 524620 0 1 0
+D1
+~
+~
+0 0 7695
+D3
+~
+~
+0 0 7697
+D6
+~
+~
+0 0 7687
+D8
+~
+~
+0 0 7698
+S
+#7697
+A Dead End~
+   This room is a small cube, about ten feet all around.  Almost completely
+dark, you hear sounds of scuttling feet from within it.  An odd smell fills the
+air, and before long, you get a feeling as is you are in imminent danger.    
+~
+76 329 0 0 0
+D1
+~
+~
+0 0 7696
+S
+#7698
+No Way Out~
+   This room has a feel to it, like being trapped inside of some giant box.  
+There is no obvious way out from here.  The walls and floor are all the same,
+identical color of flat gray.  There is no furniture.  There is nothing in this
+room that indicates it has ever been used for anything.  The entryway behind
+you has vanished.  The only thing that is strange about this room, apart from
+the lack of any apparent way out, is the slight downdraft that seems to be
+coming from the ceiling.    
+~
+76 476 0 0 1
+D4
+~
+ceiling roof~
+1 0 7699
+S
+T 7698
+#7699
+The Study of the Mad Archmage~
+   Climbing up through the floor, the entrance abruptly closes beneath your
+feet.  All around is a lavishly appointed study.  The walls are lined with
+book-filled shelves and a single, large desk sits in the center of the room.  
+Various "trophies" are all around, on shelves and hanging on the walls.  The
+old mage who lives here apparently keeps everything of value right here, and
+the entire complex has been made to protect his secrets from the outside world.
+~
+76 348 0 0 0
+D4
+~
+~
+0 0 7683
+S
+$~

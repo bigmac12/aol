@@ -1,0 +1,96 @@
+#7100
+lumberjack~
+a lumberjack~
+A lumberjack on his way to another section of forest is standing here.
+~
+   This giant of a man has skin darkened to a deep brown from all the years he
+has spent out in the sun clearing away the land.  Many people hire this man
+when they need to add a few more acres to their farm or when they wish to build
+a house out in the country.  This man's attitude is one of "waste not, want
+not" so he sells off all the lumber that he is paid to cut down in one of the
+city markets.    
+~
+76 0 0 0 E
+13 13 3 6d5+240 2d8+2
+212 6625 0
+8 8 1 0
+E
+#7102
+priestess mishakal~
+a priestess of Mishakal~
+A priestess of Mishakal smiles as she walks past.
+~
+   This young lady has only recently begun her service to the goddess Mishakal.
+Being the newest and one of the youngest people at the temple she frequently
+travels back and forth to the nearby cities to acquire various goods needed by
+the temple or to perform healing on those to sick to travel.    
+~
+524361 0 1 1000 E
+6 17 10 2d5+70 2d5+2
+35 175 2
+8 8 2 10
+E
+#7107
+bard traveling bird dances~
+a traveling bard~
+A traveling bard of bird-like features dances along the road here.
+~
+   This traveling bard is dressed garishly; bright greens and yellows, with a
+smattering of other colors thrown in.  To top it all off, he wears a rediculous
+looking jester's cap complete with bells.  He dances along the road, jingling
+and singing as he goes.  He is tall and thin, with bird-like facial features
+which only serves to add to the humorous effect.    
+~
+12 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+50 85 4
+8 8 1 0
+BareHandAttack: 13
+E
+#7117
+Knight errant crown~
+an errant Knight of the Crown~
+An errant Knight of the Crown makes his way towards Kalaman.
+~
+   This young Knight of the Crown is on his way to Kalaman after completing one
+of his required quests.  He wears the Solamnic mustache of tradition, though it
+looks to still be growing in a bit.  He walks proudly along the road showing no
+outer signs of fatigue, though one could see it in his eyes.    
+~
+1067016 33792 0 850 E
+18 11 -4 3d20+380 3d6+6
+400 14000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#7198
+wolf wild black~
+a wild black wolf~
+A wild black wolf bares her teeth as she growls, ready to pounce.
+~
+   The dark black fur of this wolf helps her to hide within the shadows of the
+forest as she stalks her prey.  Dark green eyes watch hungrily for an easy
+kill.  She waits in hiding and strikes without warning.    
+~
+168 524288 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 2 0
+BareHandAttack: 4
+E
+#7199
+wolf wild black~
+a wild black wolf~
+A large black wolf bares her teeth as she growls, ready to pounce.
+~
+   The dark black fur of this wolf helps her to hide within the shadows of the
+forest as she stalks her prey.  Dark green eyes watch hungrily for an easy
+kill.  She waits in hiding and strikes without warning.    
+~
+232 786472 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 2 0
+BareHandAttack: 4
+E
+$

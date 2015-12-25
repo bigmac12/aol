@@ -1,0 +1,61 @@
+#12568
+stained-glass glass stained creature entity shards tinkling dancing~
+an entity of swirling, stained-glass shards~
+A soft, tinkling sound and dancing light reveals the presence of a creature formed of a thousand shards of stained-glass.
+~
+   Revealed in a sudden flurry of light and sound, the air comes alive in the
+presence of a swirling storm of stained-glass.  Obviously a creature of magic
+or one born of its use, this creature resembles nothing so much as a cyclone of
+shattered glass in miniature.  Belying its perpensity for visciousness, this
+malevolent form always rings with a quiet, tinkling sound, much the same as a
+wind chime in a gentle breeze.  Stirred in a brilliant and often dazzling
+display, the stained shards of glass within may weave in an almost hypnotic
+dance, entreating those nearby to often stand in amazement when flight of foot
+could be better suited.    
+~
+7596138 0 262144 0 E
+15 11 1 5d10+300 1d4+4
+0 8400 3
+8 8 0 0
+BareHandAttack: 3
+Maxmove: 100
+E
+#12572
+golem stained-glass glass stained figure brilliant~
+a golem formed of brilliant stained-glass~
+A figure formed of brilliant stained-glass comes to life, stepping forth from the window sill.
+~
+   Heralded by a soft ringing akin to the sound of wind chimes in a gentle
+breeze, this creature slips from the confines of its benign form and assumes a
+roughly humanoid shape some eight feet in height.  Glittering with all of the
+brilliance and color of its stained-glass construction, this extremely rare
+form of golem sheds dazzling light just as a window of its shared materials.  
+Clearly a creature of magical creation, this beautiful beast sends forth an
+array of colors and light that creates many wildly dancing motes that flash
+erratically about the chamber.    
+~
+714858 0 16384 0 E
+18 11 -2 3d20+380 3d6+6
+0 14000 5
+8 8 0 0
+BareHandAttack: 3
+Maxmove: 100
+E
+#12596
+traveller traveler dust-stained weary weariness~
+a weary traveller~
+A traveler in dust-stained clothes picks his way along the trail carefully, a great deal of weariness on his face.
+~
+   This man is young in age, with the energy and ambition that often accompany
+such.  However, he appears as to have gotten himself somewhat lost here, for he
+pauses and glances about frequently, as though to gain his bearings.  Sighing
+inwardly to himself, he shakes his head slightly, muttering quietly.  He nods
+slightly as you pass, friendly, but clearly not in any mood to chat.    
+~
+200 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+Maxmove: 50
+E
+$

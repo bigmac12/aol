@@ -1,0 +1,270 @@
+4
+poly
+6
+c poly
+0
+3
+lip
+12
+look in wind
+0
+2
+at
+10
+ass ferret
+0
+2
+ot
+15
+order ferret $*
+1
+1
+x
+15
+st ; mount pony
+1
+2
+ts
+13
+c thornshield
+0
+3
+sun
+11
+c sunray $*
+1
+7
+spellup
+159
+c cre-spring ; drink spring ; c goodb ; c goodb ; eat berries ; put all.berries satchel ; c aid $* ; c thornfl $* ; c barksk $* ; c myst-spir $* ; c stonesk $*
+1
+2
+ip
+12
+c ins-plague
+0
+3
+lic
+15
+look in satchel
+0
+2
+al
+9
+ass valin
+0
+4
+kick
+38
+get berries satchel ; throw berries $*
+1
+3
+gbp
+19
+get berries satchel
+0
+1
+2
+23
+put all.berries satchel
+0
+2
+ss
+12
+c stonesk $*
+1
+2
+hi
+74
+say I'm Mountaintop Moonbow Butterfly Slendergrass Water's Edge Wintersky.
+0
+2
+cm
+13
+c cure-mod $*
+1
+3
+aid
+8
+c aid $*
+1
+4
+myst
+11
+c myst-spir
+0
+2
+am
+10
+ass monkey
+0
+2
+om
+15
+order monkey $*
+1
+3
+as2
+15
+c anim-summ-two
+0
+4
+call
+15
+c call-light $*
+1
+2
+ar
+7
+ass rat
+0
+2
+or
+12
+order rat $*
+1
+4
+bark
+13
+c barkskin $*
+1
+2
+os
+16
+order sparrow $*
+1
+2
+as
+11
+ass sparrow
+0
+2
+ad
+13
+ass dragonfly
+0
+2
+ms
+13
+c mag-ston $*
+1
+2
+si
+15
+c summ-insec $*
+1
+2
+dm
+9
+c det-mag
+0
+2
+af
+10
+ass ferret
+0
+2
+dd
+15
+c dust-devil $*
+1
+3
+as1
+15
+c anim-summ-one
+0
+2
+tf
+12
+c thornfl $*
+1
+2
+cl
+12
+c cure-li $*
+1
+2
+eb
+11
+eat berries
+0
+6
+spring
+13
+c crea-spring
+0
+2
+ff
+14
+c faer-fire $*
+1
+2
+aa
+7
+ass ana
+0
+2
+od
+18
+order dragonfly $*
+1
+1
+;
+11
+chat &g$*&n
+1
+2
+sk
+11
+skin corpse
+0
+2
+sc
+4
+scan
+0
+2
+av
+29
+order followers assist Helena
+0
+2
+of
+18
+order followers $*
+1
+3
+cas
+16
+c call-anim-spir
+0
+4
+drin
+9
+drin skin
+0
+2
+rp
+9
+remo pack
+0
+5
+berry
+11
+c goodberry
+0
+7
+refresh
+12
+c refresh $*
+1
+2
+gb
+10
+c goodberr
+0
+3
+gac
+18
+get all all.corpse
+0

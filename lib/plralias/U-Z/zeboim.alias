@@ -1,0 +1,55 @@
+7
+namegen
+37
+say http://www.squid.org/tools/names/
+0
+5
+bless
+202
+cast shield $*; cast stoneskin $*; cast enhance-strength $*; cast enhance-insight $*; cast enhance-endurance $*; cast enhance-charisma $*; cast enhance-cunning $*; cast enhance-agility $*; cast armor $*
+1
+5
+dream
+9
+goto 4200
+0
+7
+kalaman
+10
+goto 10172
+0
+7
+karthay
+9
+goto 5113
+0
+5
+token
+13
+load obj 1290
+0
+3
+apr
+9
+goto 1998
+0
+6
+cookie
+13
+load obj 8190
+0
+4
+home
+9
+goto 1080
+0
+2
+ap
+136
+approve $*; force $* autoexit; force $* prompt all; force $* subdue; force $* color complete;force $* intro;load obj 2484;give bottle $*
+1
+4
+find
+11
+vnum obj $*
+1

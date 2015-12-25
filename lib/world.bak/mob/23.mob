@@ -1,0 +1,331 @@
+#2300
+swan white beautiful~
+a beautiful white swan~
+A beautiful white swan is resting quietly.
+~
+   A beautiful white swan is resting quietly, its feathers ruffling in the
+wind.  Large and graceful in flight, the animal is completely harmless on the
+ground, unless someone tries to hurt its young or attempts to steal its food.
+It peers up at you with large black eyes as you draw near.    
+~
+65544 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+BareHandAttack: 4
+E
+#2301
+duck small brown~
+a small brown duck~
+A small brown duck waddles about.
+~
+   A small brown duck waddles about, on a constant hunt for food.  About the
+size of a large cat, the duck is quite capable of bullying other creatures
+twice its size.  As it moves about the duck constantly has its head to the
+ground, looking for bits of food passersby may have dropped.    
+~
+65544 0 0 0 E
+4 18 12 1d5+45 1d8+1
+0 50 0
+8 8 2 0
+BareHandAttack: 4
+E
+#2302
+man young happy~
+a happy young man~
+A happy young man relaxes in the grass.
+~
+   A happy young man relaxes in the grass.  He has his arm around an attractive
+young woman at his side.  They peer into each others eyes, obviously deeply in
+love.  In one hand, which is behind his back, he holds a bouquet of flowers
+which he is about to present to the lady of his dreams.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+75 800 0
+8 8 1 0
+E
+#2303
+woman attractive young~
+an attractive young woman~
+An attractive young woman sits here relaxing.
+~
+   An attractive young woman sits here relaxing.  She gazes into the eyes of
+her companion with great love.  Dressed in noble finery, she wears a red cloak
+to keep the chill away.  One hand rests lightly in her lap, while the other
+tenderly caresses the face of her partner.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 2 0
+E
+#2304
+squirrel bushy tailed~
+a bushy tailed squirrel~
+A bushy tailed squirrel skitters about.
+~
+   A bushy tailed squirrel skitters about, on the lookout for crumbs.  Seeing
+you arrive the furry little creature chatters happily and runs up to you,
+looking for a handout.    
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+BareHandAttack: 4
+SkinData0: 2304
+E
+#2305
+gardener weary~
+a weary gardener~
+A weary gardener tends the flowers.
+~
+   A weary gardener tends the flowers.  He stands with his back slightly
+stooped, as he ranks the ground level in preparation for planting new seeds.  
+His clothes are dirty and he looks slightly disheveled, as if his work is
+getting the better of him.    
+~
+8 0 0 0 E
+7 16 9 3d5+85 2d6+1
+52 400 0
+8 8 1 0
+BareHandAttack: 13
+E
+#2306
+gardener master~
+the master gardener~
+The master gardener stands here.
+~
+   The master gardener stand here pouring water onto the manure from a large
+waterskin she holds in her hand.  Her face is slightly pale, no doubt from
+inhaling the terrible smell from the pile of dung sitting in the corner of the
+room.    
+~
+10 0 0 0 E
+13 13 3 6d5+240 2d9+2
+212 6625 0
+8 8 2 0
+E
+#2307
+butler aged~
+an aged butler~
+An aged butler wanders about, aimlessly.
+~
+   An aged butler wanders about, aimlessly.  His hair is pure white and his
+face is covered in wrinkles.  Yet, there is a hint of steel in his face, and
+you are sure he is still quite capable of getting the job done.    
+~
+8 0 0 0 E
+9 15 7 5d5+130 2d7+1
+83 1300 0
+8 8 1 0
+E
+#2308
+lord estate~
+the lord of the estate~
+The lord of the estate stands here.
+~
+   The lord of the estate stands here.  In one hand he holds a book, which he
+is about to read, while in the other hand he holds a tall glass of red wine.  
+His face is relaxed and calm as he ponders resting for a bit to read his
+favorite book.    
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 1 0
+E
+#2309
+lady estate~
+the lady of the estate~
+The lady of the estate sits here, relaxing.
+~
+   The lady of the estate sits here, relaxing.  She is combing her hair with a
+fine brush as she takes in the pleasant aromas from the various incense burners
+which have been placed about the room, inbuing it with rich fragrant odours.  
+
+~
+1050634 0 0 0 E
+15 11 1 5d10+300 2d8+4
+391 8400 0
+8 8 2 0
+BareHandAttack: 8
+E
+#2310
+child small~
+a small child~
+A small child sits here playing with her toys.
+~
+   A small child sits here playing with her toys.  She seems to be very happy
+as she sets up a series of blocks into the shape of a house, so that she can
+play with the beautifully carved figurines which lie skattered about on the
+floor.    
+~
+10 0 0 0 E
+3 19 13 1d5+25 1d6+1
+22 25 0
+6 6 2 0
+E
+#2311
+guest estate~
+a guest of the estate~
+A guest of the estate is sitting here, his eyes half shut.
+~
+   A guest of the estate is sits here, peering out the window.  He appears to
+be quite tired, as his eyes are half closed and a peaceful look is upon his
+face.  As you enter the room, he opens his eyes and stands up to greet you.  
+
+~
+10 0 0 0 E
+7 16 9 3d5+85 2d6+1
+52 400 0
+8 8 1 0
+E
+#2312
+chef rotund~
+a rotund chef~
+A rotund chef stands here, tasting his food.
+~
+   A rotund chef stands here, tasting his food.  His face is beet red from the
+heat of the kichen and his clothes are covered in scrapes of food.  He stands
+at a counter chopping vegetables for the evening meal and ignores you
+completely as you come closer to see what is going on.    
+~
+10 0 0 0 E
+13 13 3 6d5+240 2d9+2
+95 6625 0
+8 8 1 0
+BareHandAttack: 3
+E
+#2313
+lady petite waiting~
+a petite lady in waiting~
+A petite lady in waiting paces about nervously.
+~
+   A petite lady in waiting paces about nervously.  She is wearing a pretty
+long, pink dress, well suited for the summer months.  Her hair is long and red,
+shining in the light from the chandelier.  She glances up every so often,
+obviously waiting for the Lady of the house to make an appearance.    
+~
+8 0 0 8 E
+6 17 10 2d5+70 2d5+2
+56 175 0
+8 8 2 0
+E
+#2314
+waiter~
+a waiter~
+A waiter busily sets the table.
+~
+   A young, happy-looking waiter stands here setting, the table for the evening
+meal.  Dress in black trousers and a white shirt with a black tie, he looks
+well trained and quite professional in appearance.  He moves about slowly,
+making sure everything is set correctly.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+71 800 0
+8 8 1 0
+E
+#2315
+rabbit grey~
+a gray haired rabbit~
+A gray haired rabbit hops about.
+~
+   A small cute grey haired rabbit hops along the path, looking for nice tasty
+leaves to eat.  The scurge of the gardeners, these rabbits have made a home in
+the flower garden and have proven almost impossible to get rid of.  The
+gardeners have relented, and now allow the rabbits free access to the gardens.
+  
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+BareHandAttack: 4
+E
+#2316
+man elderly~
+an elderly man~
+An elderly man wanders about, feeding the ducks.
+~
+   An elderly man is wandering about aimlessly, feeding the ducks and swans
+from a late bag of bread crumbs he holds in his hand.  A large group of ducks
+follow him around looking for handouts.  However, he very selectively looks for
+those which seem undernourished and makes an effort to see that they get fed.
+  
+~
+8 0 0 0 E
+9 15 7 5d5+130 2d7+1
+81 1300 0
+8 8 1 0
+E
+#2317
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 15 5d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+#2318
+guard estate~
+an estate guard~
+An estate guard patrols the perimeter.
+~
+   A guard hired by the estate partols the perimeter, looking for subversives
+and other undesirable people.  Tall and muscular, this man has a hard look to
+him from years of guard duty.  It would be unadvisable to attempt anything
+unsavory while these men patrol the grounds.    
+~
+2056 0 0 0 E
+10 14 6 5d4+160 2d7+2
+94 1900 0
+8 8 1 0
+BareHandAttack: 6
+E
+#2319
+hummingbird bird humming small~
+a small hummingbird~
+A small hummingbird constantly darts about here.
+~
+   This small bird's wings can only be seen as a constant blur on each side of
+its body.  It constantly streaks about moving from plant to plant with easy and
+an incredible speed.    
+~
+98376 131072 0 0 E
+4 18 12 1d5+45 1d4+1
+0 50 0
+8 8 0 0
+BareHandAttack: 11
+E
+#2320
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 15 5d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+#2321
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 15 5d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+$

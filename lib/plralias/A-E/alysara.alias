@@ -1,0 +1,190 @@
+5
+prism
+23
+cast prismatic-spray $*
+1
+8
+teleport
+16
+cast teleport $*
+1
+6
+locate
+21
+cast locate-object $*
+1
+4
+scry
+12
+cast scry $*
+1
+9
+elemental
+22
+cast conjure-elemental
+0
+5
+arrow
+21
+cast arrow-of-bone $*
+1
+5
+sword
+18
+cast dancing-sword
+0
+5
+chain
+23
+cast chain-lightning $*
+1
+2
+wb
+23
+cast water-breathing $*
+1
+3
+fly
+14
+cast flight $*
+1
+2
+fb
+16
+cast fireball $*
+1
+2
+vt
+22
+cast vampiric-touch $*
+1
+2
+lb
+22
+cast lightning-bolt $*
+1
+2
+kp
+10
+say Aeleck
+0
+2
+pk
+12
+say Horistal
+0
+3
+web
+11
+cast web $*
+1
+4
+weak
+17
+cast weakness $* 
+1
+8
+strength
+25
+cast enhance-strength $* 
+1
+5
+shock
+23
+cast shocking-grasp $* 
+1
+6
+shield
+15
+cast shield $* 
+1
+2
+mm
+22
+cast magic-missile $* 
+1
+6
+mirror
+18
+cast mirror-image 
+0
+5
+light
+20
+cast magic-light $* 
+1
+9
+invisible
+21
+cast invisibility $* 
+1
+7
+insight
+24
+cast enhance-insight $* 
+1
+5
+infra
+17
+cast infravision 
+0
+4
+gust
+21
+cast gust-of-wind $* 
+1
+9
+endurance
+26
+cast enhance-endurance $* 
+1
+6
+dmagic
+21
+cast detect-magic $* 
+1
+10
+dinvisible
+28
+cast detect-invisibility $* 
+1
+7
+cunning
+24
+cast enhance-cunning $* 
+1
+5
+chill
+20
+cast chill-touch $* 
+1
+8
+charisma
+25
+cast enhance-charisma $* 
+1
+4
+burn
+22
+cast burning-hands $* 
+1
+4
+blur
+13
+cast blur $* 
+1
+5
+blind
+18
+cast blindness $* 
+1
+5
+armor
+14
+cast armor $* 
+1
+7
+agility
+24
+cast enhance-agility $* 
+1

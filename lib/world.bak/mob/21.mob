@@ -1,0 +1,397 @@
+#2100
+bat giant vampire~
+the giant bat~
+A giant vampire bat swoops down from the ceiling.
+~
+   With large teeth gleaming and ready for the kill, this bat looks rather
+intimidating.    
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+32 175 0
+8 8 0 0
+BareHandAttack: 4
+E
+#2101
+darkgnome guard dark gnome~
+the darkgnome guard~
+A darkgnome guard in loosely-fitted plate armor stands attent and ready.
+~
+   The guard's face is as ugly as they come, his cheekbones sticking out from
+his skin much like his other bones tend to.  The armor he wears hangs on him
+like a robe much too big for him.  The shortsword he carries looks less than
+formidable.    
+~
+8202 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 0 0
+BareHandAttack: 3
+E
+T 2101
+T 2102
+#2102
+slave dark gnome darkgnome~
+the darkgnome slave~
+Toiling away at the fields, a darkgnome slave is chained to the wall here.
+~
+   The slave toils away at the gravelled earth with only a loincloth, gritting
+its teeth at the effort.  It carries the hunched-over body, dark olive skin and
+disfigured facial features of a darkgnome.    
+~
+10 0 0 0 E
+7 16 9 3d5+85 2d6+1
+53 400 0
+8 8 0 0
+E
+#2103
+mage dark gnome darkgnome~
+the darkgnome mage~
+A darkgnome mage in tattered brown robes steps carefully along the path.
+~
+   The mage is clad in brown robes, ripped and battered from working the slaves
+in the field.  His strangely hunched body and disfigured facial features mark
+him as a darkgnome.    
+~
+524296 0 1 0 E
+8 15 8 5d5+110 2d6+2
+78 800 1
+8 8 0 0
+E
+#2104
+slavemaster slave master dark gnome darkgnome~
+the slavemaster~
+The slavemaster, overseer of the fields, stands before you.
+~
+   The slavemaster stands taller than most of his race, somehow having avoided
+much of the accursed hunched stance that is so common among darkgnomes.  
+Dressed in wide flaring blue pantaloons, a flowing white shirt and a vest of
+leather armor to cover it, he looks almost civilized.  A curved sword hangs at
+his waist, and the manner in which he carries it shows you that he knows how to
+use it.    
+~
+40986 0 0 0 E
+13 13 3 6d5+240 2d9+2
+213 6625 0
+8 8 1 0
+BareHandAttack: 3
+E
+T 2104
+#2105
+darkgnome gnome dark torso mound flesh ancient bent figure~
+the Darkgnome Immortal~
+Atop the mound, the torso of an ancient, bent figure writhes at your aproach.
+~
+   The creature is deformed from hundreds of years of existence, having been
+the first darkgnome to inhabit the caves.  Kept alive by the flesh of his kin,
+he leads a tortured existence as do those who are sacrificed to support him,
+but with his age he has been given knowledge.  And with his knowledge, he has
+been given incredible power.    
+~
+1828890 8232 16 -850 E
+25 5 -9 3d33+850 4d6+8
+1356 87000 1
+8 8 0 0
+BareHandAttack: 12
+E
+#2106
+attendant dark gnome darkgnome~
+the attendant~
+An attendant moves quitely around the mass, covering old flesh with new.
+~
+   Dressed in bloodied white robes, the attendant moves slowly around the heap
+of flesh, patching unconscious though still living bodies over the more rotten
+places.  An extreme reverence and fanaticism shows in its eyes, as though it is
+doing holy work.    
+~
+4138 0 0 0 E
+6 17 10 2d5+70 2d5+2
+37 175 0
+8 8 0 0
+E
+#2107
+mineslave slave mine dark gnome darkgnome~
+the mineslave~
+Pickaxe in hand, the mineslave chips away at the cave wall.
+~
+   Wearing nothing but a loincloth, the slave mercilessly beats his pickaxe
+against the hard rock, uncovering a shiny, milky ore with his efforts.  On
+occasion he coughs from the odd fumes that seem to seep out from the walls
+themselves, putting more strain on his already heavy breathing.    
+~
+14 0 0 0 E
+7 16 9 3d5+85 2d6+1
+52 400 0
+8 8 1 0
+BareHandAttack: 5
+E
+#2108
+attendant robe dark gnome darkgnome~
+the slave attendant~
+A robe-clad attendant moves silently among the slaves, keeping them healthy.
+~
+   The darkgnome is dressed in white robes and carries food and water for the
+slaves so that they may remain healthy.  Her deformed breasts make it obvious
+that she is a female.  As well as attending to the slaves, she also attends to
+the corpses -- giving them food and water, just as if they were still alive,
+and on occasion calling for assistance so that a corpse may be removed.    
+~
+6152 0 0 0 E
+6 17 10 2d5+70 2d5+2
+42 175 0
+8 8 2 0
+BareHandAttack: 8
+E
+#2109
+burly darkgnome gnome dark thick~
+the burly darkgnome~
+A burly, scarred darkgnome glares at you, arms crossed.
+~
+   Outfitted in thick hide armor and a pair of leather shorts, the darkgnome does
+not look like an easy character to deal with.  He looks as though he would
+enjoy pounding your face into the floor for no particular reason.    
+~
+10250 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 0
+BareHandAttack: 6
+E
+T 2103
+#2110
+half drunk drunken dark gnome darkgnome~
+the darkgnome~
+A half-drunken darkgnome sits at a table here, laughing uncontrollably.
+~
+   The creature's olive-green skin is pressed tightly across its bones, lending
+the darkgnome a skeletal shape that makes it look quite unnatural.  Holding a
+mug of some sort of liqour, the creature guffaws, half from his drink.    
+~
+10 0 0 0 E
+7 16 9 3d5+85 2d6+1
+56 400 0
+8 8 1 0
+E
+#2111
+darkgnome dark gnome fine bored rich~
+the rich darkgnome~
+A darkgnome in once-fine clothing sits at a table by himself, looking bored.
+~
+   Clothes once probably belonging to a wealthy merchant, or perhaps even a
+noble of small import, the darkgnome has an aire of dignity about him that
+seems to demand respect.  His gaze is fixed on his drink, face matching the
+smooth pool of liquid in placid boredom.    
+~
+10 0 0 0 E
+9 15 7 5d5+130 2d7+1
+212 1300 0
+8 8 1 0
+BareHandAttack: 11
+E
+#2112
+serving wench darkgnome dark gnome~
+the serving wench~
+A serving wench carries drinks to tables about the room.
+~
+   This darkgnome woman looks long tired of both the physical strain of working
+and of the lewd comments and very forward grabs having been made at her.  
+Though lacking any real definition in her bosom, she has attempted to dress in
+the manner of human waitresses, with a low cut blouse tied in the center.    
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+41 175 0
+8 8 2 0
+BareHandAttack: 8
+E
+#2113
+dark robed member chorus dark gnome darkgnome~
+the choral member~
+A dark-robed member of the chorus stumps about the stage.
+~
+   Weariness seems to be consuming this figure rapidly as it moves about the
+stage with a purpose long forgotten to him.  It is shrowded in dark grey-blue
+robes with a hood to disguise its face, but the sweat glinting off its
+olive-skinned forehead and heavy breathing are signs enough that the creature
+has been doing this for much too long.    
+~
+8 0 0 0 E
+7 16 9 3d5+85 2d6+1
+43 400 0
+8 8 0 0
+E
+#2114
+lead actor darkgnome dark gnome~
+the lead actor~
+The lead actor, knife in hand, makes quick work of another sacrifice.
+~
+   There are few costumes more garish than the one the lead actor is wearing.
+Yellow feathers fan out from her head, all pointing straight up, while deep
+violet cloth streams for a foot attached to her arms.  The majority of the
+costume is made up of a shiny metalic rock mixed with beads and some rough gems
+in all shades of the rainbow.  As she raises the knife upon her next sacrifice,
+a strange evil light shines in her dark eyes.    
+~
+40986 0 0 0 E
+10 14 6 5d4+160 2d7+2
+94 1900 0
+8 8 2 0
+BareHandAttack: 11
+E
+#2115
+master warlock darkgnome dark gnome~
+the Master Warlock~
+The Master Warlock rises from his chair as you enter.
+~
+   Dressed in the deepest of blacks and wearing a facial expression darker than
+the robes he dons, the Master Warlock does not look as though he welcomes your
+presense.  He carries with him a sense of power and danger that let all who
+look upon him know that he is no ordinary darkgnome.    
+~
+581674 0 1 0 E
+16 12 -3 1d40+336 1d2+6
+478 11545 1
+8 8 1 0
+BareHandAttack: 12
+E
+#2116
+small darkgnome~
+the small darkgnome~
+A small darkgnome eyes you wearily as it walks by.
+~
+   A typical darkgnome, with stretched olive grey skin, a slender frame, and a
+somewhat hunched back, the small creature looks rather ordinary.  It eyes you
+with a mix of fear and submission as it walks by.    
+~
+12 0 0 0 E
+6 17 10 2d5+70 2d5+2
+32 175 0
+8 8 0 0
+E
+#2117
+ancient mystic darkgnome dark gnome~
+the mystic~
+The ancient mystic cracks a wide, half-sane grin at you.
+~
+   The mystic is the most hunched of any in the caves.  So old is this
+darkgnome that it is a marvel his body simply does not just fall apart.  His
+skin wraps tightly around his small head, giving you the impression of looking
+at a skeleton with skin on its bones rather than an actual creature.    
+~
+2074 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+BareHandAttack: 8
+E
+#2118
+reservoir cleaner darkgnome dark gnome~
+the reservoir cleaner~
+The reservoir cleaner walks along the edge, fishing out debris.
+~
+   Dressed in brown hide clothing like most every other darkgnome in the caves,
+the attendant is as plain as darkgnomes come.  A look of passive disinterest or
+perhaps slow-wittedness covers his face as he tries to find debris in the
+reservoir pool.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+82 800 0
+8 8 0 0
+BareHandAttack: 5
+E
+#2119
+furnace tender~
+the furnace tender~
+The furnace tender examines the metal trays, replacing them when necessary.
+~
+   The furnace tender bears a blank expression of one too used to their work.
+The intense heat seems to have little effect on him, with not a drop of sweat
+on his brow.  Two large leather mits protect his hands from burns, but
+elsewhere he is unprotected except for a thin layer of hide cloth.    
+~
+10 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+BareHandAttack: 7
+E
+#2120
+flask filler dark gnome darkgnome~
+the flask filler~
+A flask filler is taking a momentary break in the corner.
+~
+   Her olive skin splotched in places by the thick metallic liquid, it is
+obvious that this woman's job has many drawbacks.  Her back is more hunched
+than most you have seen elsewhere from toiling over the pot, and her eyes
+bearing a strong desire to never return to her work.    
+~
+136 0 0 0 E
+8 15 8 5d5+110 2d6+2
+120 800 0
+8 8 2 0
+E
+#2121
+high darkgnome sitting dark gnome~
+the High Darkgnome~
+Sitting at the desk, the High Darkgnome intently ignores you.
+~
+   Resembling more his gnomish cousins than a darkgnome, the High Darkgnome
+sketches idly at a paper on his desk with pen and ink.  He seems to be actively
+ignoring you.  From what you can see of him, he is of average height for his
+race, though he is certainly heavier, and he is dressed in clean clothing as a
+civilized person might wear.  If he weren't a darkgnome, he could be confused
+with a gnomish merchant.    
+~
+1107994 0 0 -850 E
+19 9 -3 3d20+410 3d6+6
+865 17000 0
+8 8 1 0
+BareHandAttack: 3
+E
+#2122
+massive plant small deadly teeth carnivorous~
+the carnivorous plant~
+A massive plant with small, deadly teeth grows from the wall here.
+~
+   From its green stalk, thick around as a man's hand, to its large split bulb
+"head", bearing teeth sharp as knifeblades, everything about this plant shows
+that it is not merely ordinary foilage, but as deadly as any assassin.  The
+heat from your body attracts it, and slowly it swivels its head around to face
+you, snapping and missing you by just inches.    
+~
+1056826 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+683 14000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#2123
+darkgnome dark gnome figure slumped~
+the darkgnome~
+A figure lies slumped in the corner, snoring loudly.
+~
+   Lying in a heap and covered in ragged clothing, this figure could almost be
+mistaken for a pile of rubbish.  Occasionally, the darkgnome twitches or rolls
+from side to side in unrest.  Her hunched back makes the fetal position quite
+natural, and while not looking exactly comfortable, she seems to sleep soundly.
+~
+32778 0 0 0 E
+8 15 8 5d5+110 2d6+2
+93 800 0
+8 8 2 0
+E
+#2198
+savage warrior raider~
+the savage warrior~
+A savage warrior glances to you, a gleam in his eye.
+~
+It looks unfinished.
+~
+14348 0 0 0 E
+5 17 10 1d10+70 2d4+2
+0 98 0
+8 8 1 0
+BareHandAttack: 3
+E
+$

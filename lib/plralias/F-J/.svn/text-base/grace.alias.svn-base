@@ -1,0 +1,85 @@
+2
+fe
+36
+forget prot-from-evil ; mem cure-sev
+1
+2
+me
+36
+forget cure-sev ; mem prot-from-evil
+1
+3
+cms
+11
+c mag-stone
+0
+2
+fa
+26
+forget armor; mem cure-mod
+1
+2
+ma
+26
+forget cure-mod; mem armor
+1
+2
+gl
+18
+c cure-light grace
+0
+2
+gm
+16
+c cure-mod grace
+0
+2
+mb
+28
+forget cure-light; mem bless
+1
+2
+fb
+28
+forget bless; mem cure-light
+1
+2
+mu
+43
+forget cure-mod; mem protection-from-undead
+1
+2
+fu
+43
+forget protection-from-undead; mem cure-mod
+1
+2
+gs
+16
+c cure-sev grace
+0
+2
+cu
+18
+c prot-from-undead
+0
+2
+fs
+46
+pour skin out; fill skin fountain; dr fountain
+1
+2
+ml
+14
+mem cure-light
+0
+3
+gac
+18
+get all all.corpse
+0
+2
+lg
+18
+c cure-light grace
+0

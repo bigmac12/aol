@@ -1,0 +1,248 @@
+Apr  9 03:16:51 :: CircleMUD, version 3.00 beta patchlevel 17-GAN
+Apr  9 03:16:51 :: Using lib as data directory.
+Apr  9 03:16:51 :: Running game on port 6010.
+Apr  9 03:16:51 :: Finding player limit.
+Apr  9 03:16:51 ::    Setting player limit to 300 using rlimit.
+Apr  9 03:16:51 :: Opening mother connection.
+Apr  9 03:16:51 :: Binding to all IP interfaces on this host.
+Apr  9 03:16:51 :: Boot db -- BEGIN.
+Apr  9 03:16:51 :: Resetting the game time:
+Apr  9 03:16:51 ::    Current Gametime: 9H 15D 3M 520Y.
+Apr  9 03:16:51 :: Reading news, credits, help, bground, info & motds.
+Apr  9 03:16:51 :: Loading zone table.
+Apr  9 03:16:51 :: Loading triggers and generating index.
+Apr  9 03:16:51 :: Loading rooms.
+Apr  9 03:16:51 :: Renumbering rooms.
+Apr  9 03:16:51 :: Checking start rooms.
+Apr  9 03:16:51 :: Loading mobs and generating index.
+Apr  9 03:16:51 :: Loading objs and generating index.
+Apr  9 03:16:51 :: Renumbering zone table.
+Apr  9 03:16:51 :: Loading shops.
+Apr  9 03:16:51 :: Loading help entries.
+Apr  9 03:16:51 :: Generating player index.
+Apr  9 03:16:51 ::    1235 players in database.
+Apr  9 03:16:51 :: Loading fight messages.
+Apr  9 03:16:51 :: Loading social messages.
+Apr  9 03:16:51 :: Assigning function pointers:
+Apr  9 03:16:51 ::    Mobiles.
+Apr  9 03:16:51 ::    Shopkeepers.
+Apr  9 03:16:51 ::    Objects.
+Apr  9 03:16:51 ::    Rooms.
+Apr  9 03:16:51 ::    Spells.
+Apr  9 03:16:51 :: Assigning spell and skill levels.
+Apr  9 03:16:51 :: Sorting command list and spells.
+Apr  9 03:16:51 :: Booting mail system.
+Apr  9 03:16:51 ::    174700 bytes read.
+Apr  9 03:16:51 ::    Mail file read -- 367 messages.
+Apr  9 03:16:51 :: Reading banned site and invalid-name list.
+Apr  9 03:16:51 :: Resetting Reserved (code driven stuff) (rooms 0-99).
+Apr  9 03:16:51 :: Resetting Reserved (rooms 100-199).
+Apr  9 03:16:51 :: Resetting Permanent Quest Items (rooms 200-499).
+Apr  9 03:16:51 :: Resetting NonDL Clans (rooms 500-599).
+Apr  9 03:16:51 :: Resetting Reserved (rooms 600-699).
+Apr  9 03:16:51 :: Resetting Custom Objs and Holy Symbols (rooms 700-799).
+Apr  9 03:16:51 :: Resetting QUEST STUFF - TEMP (rooms 800-899).
+Apr  9 03:16:51 :: Resetting Avatar Gear (rooms 900-999).
+Apr  9 03:16:51 :: Resetting IMM ONLY GEAR HERE (rooms 1000-1099).
+Apr  9 03:16:51 :: Resetting IMM ONLY GEAR HERE (rooms 1100-1199).
+Apr  9 03:16:51 :: Resetting God Lounge (rooms 1200-1299).
+Apr  9 03:16:51 :: Resetting Sewers of Palanthas (rooms 1300-1399).
+Apr  9 03:16:51 :: Resetting Mini Zones (rooms 1400-1499).
+Apr  9 03:16:51 :: Resetting The Great Library (rooms 1500-1599).
+Apr  9 03:16:51 :: Resetting Vingaard Keep I (rooms 1600-1699).
+Apr  9 03:16:51 :: Resetting Vingaard Keep II (rooms 1700-1799).
+Apr  9 03:16:51 :: Resetting MiniZones (rooms 1800-1899).
+Apr  9 03:16:51 :: Resetting Palanthas (rooms 1900-2099).
+Apr  9 03:16:51 :: Resetting Darkgnome Caves (rooms 2100-2199).
+Apr  9 03:16:51 :: Resetting Zivilyn's Temple (rooms 2200-2299).
+Apr  9 03:16:51 :: Resetting A Country Estate (rooms 2300-2399).
+Apr  9 03:16:51 :: Resetting Kendermore (rooms 2400-2499).
+Apr  9 03:16:51 :: Resetting Monastery (rooms 2500-2599).
+Apr  9 03:16:51 :: Resetting An Abandoned Mine (rooms 2600-2699).
+Apr  9 03:16:51 :: Resetting Raven Wood II (rooms 2700-2799).
+Apr  9 03:16:51 :: Resetting Raven Wood (rooms 2800-2899).
+Apr  9 03:16:51 :: Resetting Kalaman (Sewers) (rooms 2900-2999).
+Apr  9 03:16:51 :: Resetting Stock Start Town (rooms 3000-3099).
+Apr  9 03:16:51 :: Resetting Silvanesti Forest (rooms 3100-3199).
+Apr  9 03:16:51 :: Resetting Silvanost City I (rooms 3200-3299).
+Apr  9 03:16:51 :: Resetting Silvanesti Forest II (rooms 3300-3399).
+Apr  9 03:16:51 :: Resetting Silvanost City II (Buildings) (rooms 3400-3499).
+Apr  9 03:16:51 :: Resetting Temple of Mishakal (rooms 3500-3599).
+Apr  9 03:16:51 :: Resetting Mista's Village (rooms 3600-3699).
+Apr  9 03:16:51 :: Resetting The Tower of The Stars (rooms 3700-3799).
+Apr  9 03:16:51 :: Resetting Coastal Fortress (rooms 3800-3899).
+Apr  9 03:16:51 :: Resetting Forest Off the Plains (rooms 3900-3999).
+Apr  9 03:16:51 :: Resetting Goblin Encampment (rooms 4000-4099).
+Apr  9 03:16:51 :: Resetting City of Morning Dew (rooms 4100-4199).
+Apr  9 03:16:51 :: Resetting Tomb of Fa-ranal (rooms 4200-4299).
+Apr  9 03:16:51 :: Resetting Woods/Wharf Across from Istar (rooms 4300-4399).
+Apr  9 03:16:51 :: Resetting Ogre Outpost (rooms 4400-4499).
+Apr  9 03:16:51 :: Resetting Mini Zones (rooms 4500-4599).
+Apr  9 03:16:51 :: Resetting The Tree King's Grove (rooms 4600-4699).
+Apr  9 03:16:51 :: Resetting TalenRock (rooms 4700-4799).
+Apr  9 03:16:51 :: Resetting academy (rooms 4800-4899).
+Apr  9 03:16:51 :: Resetting Sanction (rooms 4900-4999).
+Apr  9 03:16:51 :: Resetting City of Karthay I (rooms 5000-5099).
+Apr  9 03:16:51 :: Resetting City of Karthay II (rooms 5100-5199).
+Apr  9 03:16:51 :: Resetting More Mini/Roadside Zones (rooms 5200-5299).
+Apr  9 03:16:51 :: Resetting The Drowned Forest (rooms 5300-5399).
+Apr  9 03:16:51 :: Resetting Cliff of Ice and Dreaming (rooms 5400-5499).
+Apr  9 03:16:51 :: Resetting Cliff of I and D--2 (rooms 5500-5599).
+Apr  9 03:16:51 :: Resetting The Light Forest (UNFINISHED) (rooms 5600-5699).
+Apr  9 03:16:51 :: Resetting Knights Spur (rooms 5700-5799).
+Apr  9 03:16:51 :: Resetting The High Clerists Tower (part one) (rooms 5800-5899).
+Apr  9 03:16:51 :: Resetting The High Clerists Tower (part two) (rooms 5900-5999).
+Apr  9 03:16:51 :: Resetting The Village of Wyrdna (rooms 6000-6099).
+Apr  9 03:16:51 :: Resetting Palanthas Tower of Sorcery (rooms 6100-6199).
+Apr  9 03:16:51 :: Resetting Palanthas Tower of Sorcery (rooms 6200-6299).
+Apr  9 03:16:51 :: Resetting Karthay Navy (rooms 6300-6399).
+Apr  9 03:16:51 :: Resetting Silvanesti Outpost (Mini) (rooms 6400-6499).
+Apr  9 03:16:51 :: Resetting The Entangling Forest (rooms 6500-6599).
+Apr  9 03:16:51 :: Resetting Guthorg Mino Village (rooms 6600-6699).
+Apr  9 03:16:51 :: Resetting New Zone (rooms 6700-6799).
+Apr  9 03:16:51 :: Resetting Quali (rooms 6800-6899).
+Apr  9 03:16:51 :: Resetting Abandoned House (rooms 6900-6999).
+Apr  9 03:16:51 :: Resetting Roads (pal-kal) (rooms 7000-7099).
+Apr  9 03:16:51 :: Resetting Roads (kal-thor, extras) (rooms 7100-7199).
+Apr  9 03:16:51 :: Resetting Roads (thor-is) (rooms 7200-7299).
+Apr  9 03:16:51 :: Resetting Roads (is-kar) (rooms 7300-7399).
+Apr  9 03:16:51 :: Resetting Lacynes (rooms 7400-7499).
+Apr  9 03:16:51 :: Resetting Garnet Mountain Pass (rooms 7500-7599).
+Apr  9 03:16:51 :: Resetting Lacynes II (and magehouse) (rooms 7600-7699).
+Apr  9 03:16:51 :: Resetting A Fog Enshrouded Forest (rooms 7700-7799).
+Apr  9 03:16:51 :: Resetting Wayreth Forest I (rooms 7800-7899).
+Apr  9 03:16:51 :: Resetting Wayreth Forest II (rooms 7900-7999).
+Apr  9 03:16:51 :: Resetting Istar (rooms 8000-8099).
+Apr  9 03:16:51 :: Resetting Istar - Extra (rooms 8100-8199).
+Apr  9 03:16:51 :: Resetting roads (to lacynos) (rooms 8200-8299).
+Apr  9 03:16:51 :: Resetting roads (is-kender) (rooms 8300-8399).
+Apr  9 03:16:51 :: Resetting Roads (bay-sanction) (rooms 8400-8499).
+Apr  9 03:16:51 :: Resetting Mayor's Mansion (rooms 8500-8599).
+Apr  9 03:16:51 :: Resetting roads (sanct-md) (rooms 8600-8699).
+Apr  9 03:16:51 :: Resetting roads (sanct-woodxroad) (rooms 8700-8799).
+Apr  9 03:16:51 :: Resetting Roads (Kar to Gurthog) & (Wayreth to Caergoth) (rooms 8800-8899).
+Apr  9 03:16:51 :: Resetting Roads (Bayside to Balifor) (rooms 8900-8999).
+Apr  9 03:16:51 :: Resetting New Zone (rooms 9000-9099).
+Apr  9 03:16:51 :: Resetting roads (woodxland-md) (rooms 9100-9199).
+Apr  9 03:16:51 :: Resetting Empty (rooms 9200-9299).
+Apr  9 03:16:51 :: Resetting Empty (rooms 9300-9399).
+Apr  9 03:16:51 :: Resetting Pal-Wayreth Road (rooms 9400-9499).
+Apr  9 03:16:51 :: Resetting Kalaman (Caves) (rooms 9500-9799).
+Apr  9 03:16:51 :: Resetting Kalaman (Docks) (rooms 9800-9899).
+Apr  9 03:16:51 :: Resetting Kalaman (Temple + Baths) (rooms 9900-9999).
+Apr  9 03:16:51 :: Resetting Kalaman (Streets) (rooms 10000-10099).
+Apr  9 03:16:51 :: Resetting Kalaman (Buildings) (rooms 10100-10199).
+Apr  9 03:16:51 :: Resetting DL Clans (rooms 10200-10299).
+Apr  9 03:16:51 :: Resetting Northern Dargaard Mtns (rooms 10300-10399).
+Apr  9 03:16:51 :: Resetting Temple of Sargonnas (rooms 10400-10499).
+Apr  9 03:16:51 :: Resetting New Zone (rooms 10500-10599).
+Apr  9 03:16:51 :: Resetting New Zone (rooms 10600-10699).
+Apr  9 03:16:51 :: Resetting An Unused, Half-done Sanction (rooms 10700-10799).
+Apr  9 03:16:51 :: Resetting Thelgaard Keep (rooms 10800-10899).
+Apr  9 03:16:51 :: Resetting Thelgaard Keep (rooms 10900-10999).
+Apr  9 03:16:51 :: Resetting Mage zones for Start Cities (rooms 11000-11099).
+Apr  9 03:16:51 :: Resetting Underground Temple of Morgion (rooms 11100-11199).
+Apr  9 03:16:51 :: Resetting Karthay Thieves Zone (rooms 11200-11299).
+Apr  9 03:16:51 :: Resetting Cloud Forest (rooms 11300-11399).
+Apr  9 03:16:51 :: Resetting More Ziv's mini zones (rooms 11400-11499).
+Apr  9 03:16:51 :: Resetting Temple of Kiri-jolith (rooms 11500-11599).
+Apr  9 03:16:51 :: Resetting Cultists (rooms 11600-11699).
+Apr  9 03:16:51 :: Resetting Shady Creek (rooms 11700-11799).
+Apr  9 03:16:51 :: Resetting Solanthus (rooms 11800-11899).
+Apr  9 03:16:51 :: Resetting Ruins of Fortress Belfire (rooms 11900-11999).
+Apr  9 03:16:51 :: Resetting Boats (rooms 12000-12099).
+Apr  9 03:16:51 :: Resetting Solanthus/Solamnia Extras (rooms 12100-12199).
+Apr  9 03:16:51 :: Resetting Minizones (rooms 12200-12299).
+Apr  9 03:16:51 :: Resetting Garnet (rooms 12300-12399).
+Apr  9 03:16:51 :: Resetting A Lost Lordship (rooms 12400-12499).
+Apr  9 03:16:51 :: Resetting A Lost Lordship (rooms 12500-12599).
+Apr  9 03:16:51 :: Resetting Chem's Latest Project! (rooms 12600-12699).
+Apr  9 03:16:51 :: Resetting Istar ToHS (rooms 12700-12799).
+Apr  9 03:16:51 :: Resetting Silvanesti/Balifor extras (rooms 12800-12899).
+Apr  9 03:16:51 :: Resetting Minis for the South (rooms 12900-12999).
+Apr  9 03:16:51 :: Resetting Not So Minizones (rooms 13000-13099).
+Apr  9 03:16:51 :: Resetting Temple of the Flamelord (rooms 13100-13199).
+Apr  9 03:16:51 :: Resetting Hobgoblin Camp (rooms 13200-13299).
+Apr  9 03:16:51 :: Resetting Large Minis (hah!) - Stealing Barbarian descs (rooms 13300-13399).
+Apr  9 03:16:51 :: Resetting Old Mista's Village (rooms 13400-13499).
+Apr  9 03:16:51 :: Resetting Mage Minis (rooms 13500-13599).
+Apr  9 03:16:51 :: Resetting Bayside Fishing Village (rooms 13600-13699).
+Apr  9 03:16:51 :: Resetting New Zone (rooms 13700-13799).
+Apr  9 03:16:51 :: Resetting New Zone (rooms 13800-13899).
+Apr  9 03:16:51 :: Resetting New Zone (rooms 13900-18999).
+Apr  9 03:16:51 :: Resetting Housing (rooms 19000-19099).
+Apr  9 03:16:51 :: Resetting Artifacts (rooms 19100-19199).
+Apr  9 03:16:51 :: Resetting Wayside Temples II (rooms 19200-19999).
+Apr  9 03:16:51 :: Resetting Wayside Temples I (rooms 20000-20099).
+Apr  9 03:16:51 :: Resetting New Zone (rooms 20100-30099).
+Apr  9 03:16:51 :: Booting houses.
+Apr  9 03:16:51 :: Boot db -- DONE.
+Apr  9 03:16:51 :: Signal trapping.
+Apr  9 03:16:51 :: Entering game loop.
+Apr  9 03:16:51 :: No connections.  Going to sleep.
+Apr  9 03:16:51 :: New connection.  Waking up.
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+Apr  9 03:16:56 :: Asch retrieving crash-saved items and entering game.
+Apr  9 03:16:57 :: Nuitari retrieving crash-saved items and entering game.
+Apr  9 03:16:59 :: Kiri-Jolith retrieving crash-saved items and entering game.
+Apr  9 03:17:11 :: Zeboim retrieving crash-saved items and entering game.
+Apr  9 03:17:29 :: Multiplay detected from 63-230-51-217.desm.qwest.net (Valdemir/Nuitari).
+Apr  9 03:17:29 :: Valdemir retrieving crash-saved items and entering game.
+SYSERR: gethostbyaddr: Success
+SYSERR: gethostbyaddr: Success
+Apr  9 03:17:37 :: Chemosh retrieving crash-saved items and entering game.
+Apr  9 03:17:37 :: Multiplay detected from host-69-145-52-30.csp-wy.client.bresnan.net (Alysara/Zeboim).
+Apr  9 03:17:37 :: Alysara retrieving crash-saved items and entering game.
+Apr  9 03:17:44 :: Multiplay detected from 216.207.84.88 (Amanda/Chemosh).
+Apr  9 03:17:44 :: Amanda retrieving crash-saved items and entering game.
+Apr  9 03:18:54 :: Amanda has rented (0/day, 23252 tot.)
+Apr  9 03:18:54 :: Losing player: <null>.
+SYSERR: gethostbyaddr: Success
+Apr  9 03:19:19 :: Multiplay detected from 216.207.84.88 (Azareth/Chemosh).
+Apr  9 03:19:19 :: Azareth un-cryo'ing and entering game.
+Apr  9 03:21:12 :: Azareth has rented (0/day, 15458 tot.)
+Apr  9 03:21:13 :: Losing player: <null>.
+Apr  9 03:21:51 :: nusage: 7   sockets connected, 7   sockets playing
+Apr  9 03:26:51 :: nusage: 7   sockets connected, 7   sockets playing
+Apr  9 03:28:20 :: Alysara has rented (0/day, 51851 tot.)
+Apr  9 03:28:22 :: Losing player: <null>.
+Apr  9 03:31:04 :: Asch has rented (1693/day, 55653 tot.)
+Apr  9 03:31:05 :: Losing player: <null>.
+Apr  9 03:31:51 :: nusage: 5   sockets connected, 5   sockets playing
+SYSERR: gethostbyaddr: Success
+Apr  9 03:32:34 :: Multiplay detected from 216.207.84.88 (Rathon/Chemosh).
+Apr  9 03:32:34 :: Rathon un-cryo'ing and entering game.
+Apr  9 03:36:51 :: nusage: 6   sockets connected, 6   sockets playing
+Apr  9 03:41:51 :: nusage: 6   sockets connected, 6   sockets playing
+Apr  9 03:42:10 :: Rathon has rented (0/day, 2749 tot.)
+Apr  9 03:42:10 :: Losing player: <null>.
+Apr  9 03:46:51 :: nusage: 5   sockets connected, 5   sockets playing
+Apr  9 03:51:51 :: nusage: 5   sockets connected, 5   sockets playing
+Apr  9 03:56:51 :: nusage: 5   sockets connected, 5   sockets playing
+Apr  9 04:01:51 :: nusage: 5   sockets connected, 5   sockets playing
+Apr  9 04:03:29 :: WARNING: EOF on socket read (connection broken by peer)
+Apr  9 04:06:51 :: nusage: 5   sockets connected, 5   sockets playing
+Apr  9 04:11:51 :: nusage: 5   sockets connected, 5   sockets playing
+Apr  9 04:16:51 :: nusage: 5   sockets connected, 5   sockets playing
+Apr  9 04:21:51 :: nusage: 5   sockets connected, 5   sockets playing
+Apr  9 04:23:05 :: Valdemir has rented (0/day, 277638 tot.)
+Apr  9 04:23:06 :: Losing player: <null>.
+Apr  9 04:23:09 :: Nuitari has quit the game.
+Apr  9 04:23:10 :: Losing player: <null>.
+Apr  9 04:26:51 :: nusage: 3   sockets connected, 3   sockets playing
+Apr  9 04:31:42 :: Anubia retrieving crash-saved items and entering game.
+Apr  9 04:31:51 :: nusage: 4   sockets connected, 4   sockets playing
+Apr  9 04:36:51 :: nusage: 4   sockets connected, 4   sockets playing
+Apr  9 04:41:53 :: nusage: 4   sockets connected, 4   sockets playing
+Apr  9 04:42:06 :: Zeboim has quit the game.
+Apr  9 04:42:08 :: Losing player: <null>.
+Apr  9 04:44:47 :: (GC) Chemosh forced all to save
+Apr  9 04:44:47 :: (GC) Chemosh forced all to save
+Apr  9 04:44:48 :: (GC) Chemosh forced all to save
+Apr  9 04:44:52 :: (GC) Reboot by Chemosh.
+Apr  9 04:44:52 :: Closing all sockets.
+Apr  9 04:44:52 :: Closing link to: Anubia.
+Apr  9 04:44:52 :: Closing link to: Chemosh.
+Apr  9 04:44:52 :: Closing link to: Kiri-Jolith.
+Apr  9 04:44:52 :: Rebooting.

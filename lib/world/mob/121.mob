@@ -1,0 +1,700 @@
+#12100
+woman laundry~
+a woman doing laundry~
+A woman stands at the river here washing laundry.
+~
+   This woman wears her hair back in a bun at the nape of her neck.  She is
+nearing old-age, but has not quite reached it yet.  Her face only has a few
+wrinkles, most are laugh lines at the edge of her eyes.  She smiles as she does
+her chore and seems used to doing it.  Gossiping happily, she doesn't even
+notice you walk up.    
+~
+74 0 0 0 E
+11 14 5 5d4+190 2d8+2
+100 2900 0
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#12101
+cook~
+a cook~
+A cook stands here adding ingredients to the kettle.
+~
+   This portly cook looks like he has been sampling his own cooking.  He has a
+black mop of hair on top of his head and a black beard which is trimmed neatly.
+He stands at the kettle looking quite serious in his duties as he adds
+ingredients to the soup.    
+~
+74 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+Maxmove: 50
+E
+#12103
+young girl~
+a young girl~
+A young girl tries to hide here.
+~
+   This young girl has her hair up in pigtails and a mischevious grin on her
+face.  When anyone approaches she tries to hide in the nearest hiding spot she
+can find.  When she notices you looking her way she peers towards the river and
+whispers your way 'Shh... Don't tell mama I'm here!'
+~
+72 0 0 0 E
+6 17 10 2d5+70 2d5+2
+2 175 0
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#12104
+young boy~
+a young boy~
+A young boy stands here building up his fort.
+~
+   This young boy sits here building up his fort.  He looks around for rocks,
+occasionally going to the river and fishing other things out.  His round
+cherubic face looks up once in awhile and a big grin spreads across his face.
+He keeps a lookout south and whenever a girl appears sticks out his tongue at
+her, making sure no adults see.    
+~
+10 0 0 0 E
+4 18 12 1d5+45 1d8+1
+0 50 0
+8 8 1 0
+Maxmove: 50
+E
+#12105
+patrol man~
+a man on patrol~
+A man walks here, keeping an eye out for danger.
+~
+   This man walks along, keeping an eye out for danger.  He seems very alert
+and ready to leap into action if he has to.  He has a handsome face with green
+eyes.  Whenever he passes a young lady, she pauses in what she's doing and
+sends a smile his direction.  He sends a wink back and continues on his way.
+~
+92 0 0 0 E
+14 12 2 6d8+240 2d8+4
+222 7000 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#12111
+Gina gypsy brightly cloth rolls~
+Gina the gypsy~
+Gina the gypsy sits here surrounded by brightly colored rolls of cloth.
+~
+   Gina sits here looking like the center of an exploding flower of color.  
+Pile upon pile of brightly colored fabric lies behind her forming what has to
+be the deepest cushion in the whole of Krynn.  Gina takes a lot of pride in
+being someone who holds a reputation of being able to ...  Uhhh...  Aquire
+things.  With her reputation being what it is you find yourself wondering just
+what all is in these piles hiden by the fabric.    
+~
+7422026 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 0 4
+8 8 2 0
+Maxmove: 50
+E
+#12117
+off-duty off duty crown knight~
+an off-duty Crown Knight~
+A Crown Knight rests along the edge of the path, waiting for his next shift.
+~
+   Resting here before you is a young Crown Knight, taking a break from manning
+the defenses of Solanthus.  His sandy brown hair is matted with sweat from the
+heat of the day, and from having to wear his armor while on duty.  He has the
+beginnings of the trademark handlebar mustache, the well-known physical feature
+of most Solamnic knights.  Despite being at rest, he nevertheless projects the
+image of an ever-vigilant warrior.    
+~
+1058842 33554432 0 0 E
+18 11 -2 3d20+380 3d6+6
+750 14000 0
+8 8 0 0
+Maxmove: 50
+E
+#12118
+merchant traveling~
+a traveling merchant~
+A merchant walks along here, heading to Solanthus.
+~
+   Walking along the plains, this merchant has traveled far to reach his
+destination, Solanthus.  His packhorse is fully laden with dozens of sacks and
+bags, fairly bursting with goods.  He whistles a merry tune and gives a wink as
+he notices you watching him.    
+~
+216 33554432 0 0 E
+15 11 1 5d10+300 2d8+4
+550 8400 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#12119
+large horse packhorse pack~
+a large packhorse~
+A large packhorse shambles along under its heavy load.
+~
+   This packhorse is noticably straining under the heavy load that its master
+has burdened it with.  Despite its size, it seems to be on the verge of
+exhaustion, and flecks of foam fall from its mouth as it struggles to take the
+next step.    
+~
+16842824 1024 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 0
+Maxmove: 400
+E
+#12120
+traveller dusty dark clothing~
+a dusty traveller dressed in dark clothing~
+A dusty traveller, dressed in rather dark clothing, makes his way along the trail.
+~
+   The dark clothing of this weathered-looking traveller is covered with dirt
+and dust.  He meanders along the dirt trail, glancing up at the city walls from
+time to time.  His face is obscured under a wide-brimmed hat.  Only a sly,
+crooked grin can be seen peeking out from beneath it.    
+~
+204 0 0 0 E
+13 13 3 0d5+100 2d9+2
+123 6625 4
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#12121
+man dark clothing~
+a man in dark clothing~
+A man in dark clothing holds still here, listening for any sounds from above.
+~
+   This man is dressed in very dark clothing, blacks and greys, which serve to
+help him blend into the shadows better.  He wears a breath muffle over his
+face, and he stands completely still, his head cocked listening for sounds from
+above.  Either he is waiting for someone to arrive, or he's waiting for
+something to leave, you can't really be sure.  He has attempted to hide himself
+as well, but the fact that you can see him means he hasn't done a very good
+job.    
+~
+16415 820224 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 4
+8 8 1 6
+BareHandAttack: 14
+Maxmove: 50
+E
+#12130
+lizard dark green~
+a dark green lizard~
+A dark green lizard clings to the wall of the cavern.
+~
+   This dark lizard is nearly two feet in length.  Its skin is mottled green
+like moss.  It scrambles along the wall of the cave, attempting to avoid being
+trampled under foot.  Its long, sticky tongue slips out of its mouth
+periodically as it breathes.    
+~
+8 0 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#12131
+goblin pug nosed pug-nosed~
+a pug-nosed goblin~
+A pug-nosed goblin blends into the shadows.
+~
+   Like most goblins, the one before you has a pug-nosed face with a wide mouth
+and pointed ears.  His skin is an earthy brownish-red color.  He makes his way
+through the caverns, trying his best to keep out of sight.    
+~
+12 786432 0 0 E
+11 14 5 5d4+190 2d8+2
+300 2900 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#12132
+spider black large~
+a large black spider~
+A surprisingly large black spider crouches in the shadows as it weaves its web.
+~
+   A rather large black spider crouches in the shadows as it skillfully weaves
+its web.  Its segmented legs go about their work with the practiced ease of a
+master craftsman.  A bit of saliva drips from its mandibles as it returns your
+stare.    
+~
+8 0 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#12140
+haunt knight suit armor~
+a knight haunt~
+A suit of Solamnic armor stands against the wall.  It glows with a strange light.
+~
+   This suit of armor seems to walk and move as though it were still fit to the
+body that once wore it.  Such behavior would seem to indicate that you have
+encountered a knight haunt.  Assigned to guard the tombs here in Solanthus,
+this Knight has continued his duty long after death.  No form are features are
+visible, yet he moves with the strength and skill of a well-trained warrior.  
+~
+11788298 33820676 0 400 E
+22 7 -6 3d33+550 3d8+7
+0 40000 10
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#12141
+haunt knight suit~
+a knight haunt~
+A suit of Solamnic armor stands against the wall.  It glows with a strange light.
+~
+   This suit of armor stands perfectly formed as though it is still being worn
+by the body for which it was designed.  It moves and behaves as though worn by
+a person, yet there is no corporeal form which can be seen.  All that still
+remains of the guardian of these tombs is his spirit, still intent on its task
+long after death, and its shining armor.    
+~
+11792394 33558528 0 500 E
+23 6 -7 3d33+650 3d8+8
+0 52000 10
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#12142
+form ghostly ghost~
+a ghostly form~
+A ghostly form floats above the ground.
+~
+   This form is dressed in robes that appear to have once been white but are
+now grayed by time and wear.  She scans the area with a saddened look in her
+eyes.  As she walks among the tombs, she tries in vain to wipe away centuries
+of dust and cobwebs.    
+~
+1572872 0 16388 400 E
+17 10 -1 3d20+340 3d6+5
+0 11800 9
+8 8 2 0
+BareHandAttack: 12
+Maxmove: 50
+E
+#12158
+Mina woman finery collector~
+Mina~
+Mina sits behind her desk, admiring her most recent aquisitions.
+~
+   Mina is dressed in the latest fashions which are all the rage from Solanthus
+to Palanthas.  Her elaborate gown is crafted of the finest silk money can buy
+and is accented by the jewels which adorn her fingers and delicate neck.  She
+sits quietly at her desk, examining a few items which have recently come into
+her possession.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+9999999 1 0
+8 8 2 0
+Maxmove: 50
+E
+T 12158
+#12160
+shadow shadowy figure claws~
+a shadowy figure~
+A shadowy figure lurks in the darkness, its claws clattering against the stone.
+~
+   This thin, gangly creature is hard to see even up close.  A long stretchable
+membrane connects its arms to its flanks, and short dark hair completely covers
+its body.  Its hairy visage includes a small flat nose, cat-like green eyes,
+and two sharp fangs which protrude from its upper lip.  Long, grotesque looking
+claws can be seen on both hands and feet.    
+~
+1093704 1064 0 -300 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#12161
+shadowperson~
+the shadowperson~
+A shadowperson investigates the area.
+~
+   This shadow person gets close enough for you to see its cat-like amber eyes.
+They peer at you with a piercing intensity, though it seems that there is more
+going on behind them than just looking.  In fact, it seems something is peering
+into your mind.  Its thick, protruding fangs are the only other discernable
+feature in its mass of thick, black fur.    
+~
+1110088 263208 0 250 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 0 0
+Maxmove: 50
+E
+#12164
+pale fish~
+the pale fish~
+A small pale fish swims in the pond.
+~
+   This small white fish swims in the clear pond.  It looks quite different
+from fish on the surface.  It has no eyes, being unable to see anything because
+of the dark anyway.  Its a pale, pale color, being almost translucent.  One can
+even make out the small organs inside.  It nibbles the surface of the water,
+looking for food.    
+~
+49226 1064 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 0 0
+Maxmove: 50
+E
+#12169
+revered ancient cloud shadowperson shape~
+the revered ancient one~
+A cloud in a shape similar to a shadowperson floats here.
+~
+   Not seeming to be a physical being, this creature is more like a cloud in
+form.  It floats a few feet off the ground, seeming to take up the whole space.
+The only distinct features that can be seen are its legs, arms, and two
+fanglike teeth.    
+~
+9496648 66602 2097672 500 E
+28 2 -12 3d33+1250 4d7+9
+1700 175000 1
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#12170
+frumpy maid~
+the frumpy maid~
+A frumpy maid polishes the walls with a filthy rag.
+~
+   A tired, frumpy maid looks up as you approach.  Her dishevelled hair and
+haggard appearance give her a wild look.  Her eyes dart about the room
+searching for any sign of dirt or grime.  Her dull brown skirt and blouse are
+unkept, wrinkled, and ironically none to clean.  She pauses briefly in her work
+to sigh, but is soon scrubbing the walls once again.    
+~
+8 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 2 0
+Maxmove: 50
+E
+#12171
+filth coated rat~
+the filth coated rat~
+A filth coated rat burrows through the garbage.
+~
+   The grungy rat looks up as you approach and sniffs disdainfully at you.  
+Its mottled brown fur is matted and patchy.  Putrid yellow eyes peer at you
+giving it a most unwholesome look.  Quickly it dives back into the garbage
+searching out an easy meal, completely oblivious to the fact that you are still
+standing here.    
+~
+138 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#12172
+large bristly spider~
+the large bristly spider~
+A large, bristly spider slowly spins a web in the corner.
+~
+   Beady black eyes that glow with a bluish light peer at you from the safety
+of its web.  Its carapace is bright red covered in small spots of yellow and
+black.  Two protruding mandibles are clearly visible accmpanied by small green
+sacs of tissue.  Although clearly caught up in building its web, it still
+watches you hesitantly.    
+~
+138 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#12173
+weeping widow~
+the weeping widow~
+A weeping widow sits quietly sobbing in a chair.
+~
+   Lines of sorrow scar this middle-aged woman's sallow face.  Her stringy,
+tangled hair has almost no resemblance to what would have been once lustrous
+and blond.  Her black floor-length dress and veil are dusty and grimy with age.
+She stares out the bay window and sighs deeply, but begins crying once again
+soon after.  She looks up with red, puffy eyes as you approach and makes a poor
+attempt at a smile.    
+~
+10 0 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+6 6 2 0
+Maxmove: 50
+E
+#12174
+weathered caretaker~
+the weathered caretaker~
+A weathered caretaker stands here admiring his handiwork.
+~
+   The caretaker gives you a curt nod upon your approach.  Delicate points
+grace his ears betraying the elven part of his heritage.  Short cropped black
+hair and a clean-shaven, weathered face give him a rough, leathery appearance.
+His tunic, breeches and boots look to be made out of some kind of animal hide
+and are not very clean.    
+~
+10 1024 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#12180
+stable boy~
+a small stable boy~
+A stable boy with blonde hair and blue eyes is here tending to some menial task.
+~
+   This small boy has wild blonde hair and eager blue eyes.  His build is lithe
+and wiry but he looks strong for his age.  He rushes about doing chores and
+other odd jobs.  His knees and elbows are scraped and bruised, and his face is
+covered with a smear of dirt.    
+~
+200 0 0 0 E
+10 15 6 1d1+169 2d7+8
+90 1900 0
+8 8 1 0
+Maxmove: 50
+E
+#12181
+older woman~
+an older woman~
+An older woman sits here making horse blankets.
+~
+   This human woman looks to be in her later years.  She has plain brown hair
+that has been neatly braided.  She has wrinkles around her eyes and mouth
+showing signs of many years of laughing.  Her hands skillfully knit the
+blankets.    
+~
+14 0 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 2 0
+Maxmove: 50
+E
+#12182
+older nobleman~
+an older nobleman~
+An older nobleman sits here at the desk, going through paperwork.
+~
+   This man has the bearing of a noble.  His hair and mustache have been
+maintained in the Solamnic fashion.  His eyes are hard, and he looks able to
+defend himself.    
+~
+2058 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 3
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#12183
+older stable boy~
+an older stable boy~
+An older stable boy polishes a saddle.
+~
+   This young man looks to be strong for his age, and his hands are rough and
+calloused from tedious labor.  Bits of straw and hay protude from his shaggy
+blonde hair, yet he obviously takes no notice of his appearance.  He seems
+engrossed in his work taking great pains to do it correctly.    
+~
+72 0 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 1 0
+Maxmove: 50
+E
+#12184
+large black stallion~
+a large black stallion~
+A large black stallion stands here sizing you up.
+~
+   The essence of power flows from this magnificent beast.  His large, solid
+frame is covered in coarse, black hair.  Corded muscles ripple under the dark
+coat bearing witness to the power and strength within.  The horse stands almost
+sixteen hands high, his head held in a proud and dominant position.    
+~
+16777226 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 400
+E
+#12185
+powerful brown mare~
+a powerful brown mare~
+A powerful brown mare gallops about the pasture.
+~
+   This large, powerful mare has chestnut brown hair that is groomed to a
+smooth shine.  She looks to be powerful and has a bit of a wild streak in her
+as she bucks and tosses her head.  She often nips at the heels of the other
+horses in the pasture.    
+~
+16777226 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 0 0
+Maxmove: 50
+E
+#12186
+trainer~
+a trainer~
+A trainer stands here looking over a horse.
+~
+   Dressed in muddy and faded clothing, and smelling strongly of horse, this
+man is obviously a trainer of some sorts.  He is constantly looking over horses
+for any injuries or bad grooming, and occasionaly whispers a word or two into
+their twitchy ears.    
+~
+72 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+Maxmove: 50
+E
+#12187
+massive warhorse war horse~
+a massive warhorse~
+A massive warhorse is standing here, pawing it's hoof into the ground.
+~
+   This horse's coat is nearly black as coal, yet is groomed to a beautiful
+shine.  He stands at least seventeen hands high, massive and muscular body like
+pure tempered steel.  His head is held naturally high by a powerful, gracefully
+arched neck.  He is proud and spirited, and is probably as noble as any knight.
+  
+~
+16777226 1024 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 1 0
+BareHandAttack: 5
+Maxmove: 400
+E
+#12188
+knight~
+a knight of the sword~
+A knight of the sword stands here looking over her horse.
+~
+   This knight seems to be the exact same as her horse, stoic and strong.  She
+brushes her horse methodically and seems to have a system for everything.  
+With each stroke the clank of her armor makes a type of harsh, yet soothing and
+solemn music.  Much like her horses coat, the Knight's armor is buffed to a
+perfect shine.    
+~
+10 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 2 0
+Maxmove: 50
+E
+#12190
+qual qualinesti elf patrol patrolman quali~
+a Qualinesti patrolman~
+A Qualinesti patrolman is here resting before his watch.
+~
+   The keen eyes of this patrolman are completely alert to his surroundings.  
+His movements are lithe and gracefull, showing he most likely moves with ease
+over any type of terrain.    
+~
+16410 163840 0 850 E
+15 12 1 1d1+324 2d8+4
+400 8400 6
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#12191
+elven archer qualinesti quali qual~
+an elven archer~
+An archer is here scanning the area for intruders.
+~
+   Qualinesti archers are fabled for their stealth and accuracy.  Dressed in a
+camouflaged cloak that blends him into the gold and silver aspen leaves and
+rose-quartz bark, this archer is keen and swift with the bow.    
+~
+16394 262144 0 850 E
+16 12 0 1d1+349 3d6+4
+500 11000 6
+8 8 1 0
+BareHandAttack: 11
+Maxmove: 50
+E
+#12192
+cooshee coosh coo shee dog~
+an elven cooshee~
+A cooshee is here standing loyally by its master.
+~
+   Mentally linked with their masters, these elven hounds are fiercely loyal.
+Green and brown fur allows them to blend in with their surroundings.  They are
+light and fleet footed, and easily move across any terrain.    
+~
+266250 294912 0 850 E
+15 12 1 1d1+324 1d1+4
+0 8400 0
+8 8 2 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#12193
+qualinesti quali qual elven wildrunner wild runner~
+a Qualinesti wildrunner~
+A Qualinesti wildrunner is here scouting the area.
+~
+   The elite of the Qualinesti border patrol, wildrunners are the masters of
+the bow, the sword, tracking, and scouting.  Dressed in tight fitting,
+camouflage clothing enables them to travel unseen, for the most part.    
+~
+16472 294912 0 850 E
+18 11 -2 1d1+409 3d6+6
+700 14000 6
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#12194
+elven scout qualinesti qual quali~
+an elven border scout~
+An elven border scout is here peering through the vines.
+~
+   Dressed in dark green clothing to match the color of the vines, this scout
+is expert and surveying his surroundings with only a tiny hole in the foliage
+to see through.  He is quite comfortable bracing himself between two trees to
+gain an elevated look at the area outside.    
+~
+16394 131072 0 850 E
+16 12 0 1d1+349 3d6+4
+500 11000 6
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+$

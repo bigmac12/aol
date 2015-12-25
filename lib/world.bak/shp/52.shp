@@ -1,0 +1,107 @@
+CircleMUD v3.0 Shop File~
+#5292~
+5241
+-1
+1.00
+1.00
+185241
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+5292
+0
+5292
+-1
+0
+28
+0
+0
+1
+38
+#5293~
+5296
+5294
+5293
+5299
+5252
+5253
+-1
+1.00
+0.40
+3
+6
+9
+15
+1
+4
+19
+5
+17
+11
+8
+30firewood wood bundle
+26
+22
+7
+-1
+%s Sorry, I don't stock that, eh.~
+%s Ye don't have that, eh.~
+%s I don't trade in that, eh.~
+%s I can't afford that, eh!~
+%s Yer too poor, eh.~
+%s That'll be %s, eh.~
+%s I'll give ya %s fer that, eh.~
+0
+0
+5293
+0
+5293
+-1
+0
+28
+0
+0
+1
+20
+#5295~
+5292
+5290
+5297
+5298
+5240
+-1
+1.00
+0.60
+19steak
+17flagon
+19bread
+19stew
+19bacon
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+5291
+0
+5295
+-1
+0
+28
+0
+0
+1
+38
+$~

@@ -1,0 +1,175 @@
+6
+ferret
+13
+assist ferret
+0
+3
+rat
+10
+assist rat
+0
+7
+sparrow
+14
+assist sparrow
+0
+3
+mal
+21
+cast animal-summoning
+0
+2
+eb
+13
+examine board
+0
+1
+t
+7
+tell $*
+1
+2
+cl
+18
+cast cure-light $*
+1
+2
+rr
+11
+remove sack
+0
+2
+wr
+9
+wear sack
+0
+5
+frest
+20
+order followers rest
+0
+5
+fkill
+20
+order followers k $*
+1
+3
+asd
+12
+assist devil
+0
+5
+devil
+18
+cast dust-devil $*
+1
+4
+skin
+11
+skin corpse
+0
+5
+fresh
+15
+cast refresh $*
+1
+1
+x
+3
+sco
+0
+2
+lr
+16
+look in rucksack
+0
+3
+rab
+13
+assist rabbit
+0
+6
+spirit
+13
+assist spirit
+0
+4
+pale
+11
+assist pale
+0
+2
+ls
+12
+l in satchel
+0
+2
+rs
+14
+remove satchel
+0
+2
+ws
+12
+wear satchel
+0
+2
+tf
+18
+cast thornflesh $*
+1
+2
+dm
+20
+cast detect-magic $*
+1
+4
+shil
+18
+cast shillelagh $*
+1
+2
+ff
+19
+cast faerie-fire $*
+1
+1
+p
+4
+prac
+0
+1
+m
+3
+mem
+0
+4
+call
+23
+cast call-animal-spirit
+0
+3
+wiz
+11
+chat &Y$*&n
+1
+4
+chat
+11
+chat &Y$*&n
+1
+2
+ds
+10
+drink skin
+0
+5
+berry
+14
+cast goodberry
+0
+3
+gac
+14
+get all corpse
+0

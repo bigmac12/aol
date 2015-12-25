@@ -1,0 +1,1518 @@
+ADVANCE
+
+Usage: advance <victim> <level>
+
+ADVANCE moves a player to a new level.  If used to promote a player to an
+immortal level, and if you have the autowiz program installed, the wizlist and
+immlist will automatically be recreated.
+
+Example:
+
+  > advance rasmussen 34
+
+See also: SET
+#
+APPROVE
+
+Usage: approve
+       approve <player>
+
+Approve by itself lists the names of players awaiting character approval.
+The Imm should then check all relevant character information, and either
+make necessary changes or reject the character based on the policies
+listed for new character approval.
+
+To approve an acceptable character: approve <player>.
+
+See also: reject, pedit
+#
+WIZAT
+
+Usage: at <room VNUM | item | mob | player name> <command> <arguments>
+
+AT can be used to perform an action in a location other than where you are
+standing.  The first argument can be a virtual room number or the name of a
+character or object.  The remainder of the line is passed to the command
+interpreter.
+
+Examples:
+
+  > at 3001 look
+  > at fido kill fido
+  > at 3.corpse get all corpse
+  > at catje wave catje
+
+See also: GOTO
+#
+BAN UNBAN
+
+Usage: ban [<all | new | select> <site>]
+       unban <site>
+
+These commands prevent anyone from a site with a hostname containing the
+site substring from logging in to the game.  You may ban a site to ALL, NEW
+or SELECT players.  Banning a site to NEW players prevents any new players
+from registering.  Banning a site to ALL players disallows ANY connections
+from that site.  Banning a site SELECTively allows only players with site-ok
+flags to log in from that site.  Ban with no argument returns a list of
+currently banned sites.
+
+Unban removes the ban.
+
+Examples:
+
+  > ban all whitehouse.gov
+  > unban ai.mit.edu
+
+See also: WIZLOCK
+#
+DATE
+
+Shows the current real time. (Not a social)
+#
+DC
+
+Usage: dc <descriptor number>
+
+DC (DisConnect) is used to disconnect a socket.  If used on a playing socket,
+the player will lose his/her link, but, unlike PURGE, will not extract the
+player or dump the player's inventory on the ground.
+
+DC is also useful for disconnecting people who have accidentally left
+themselves at the main menu, or connections sitting in the "Get name" state.
+
+See also: USERS
+#
+ECHO GECHO QECHO SEND
+
+Usage: echo <message>
+       gecho <message>
+       send <victim> <message>
+       qecho <message>
+
+ECHO displays a string to everyone in your room.
+GECHO displays the string to everyone in the game.
+QECHO displays the string to everyone with the QUEST flag.
+SEND displays the string to a particular person.
+
+Examples:
+
+  > echo Hi, everyone in the room.
+  > gecho Hi, everyone in the game, isn't this annoying?
+  > send rasmussen You are being watched.
+#
+FORCE
+
+Usage: force <victim | all> <command> <arguments>
+
+FORCE forces a character, either monster or player, to perform a certain
+action.  FORCE ALL forces everyone in the game; FORCE ROOM forces everyone in
+your room.
+
+Example:
+
+  > force fido drop meat
+  > force all save
+  > force room look fido
+
+If you are invisible to the one being forced, the force will be performed
+silently.
+#
+FREEZE THAW
+
+Usage: freeze <victim>
+       thaw <victim>
+
+FREEZE, originally invented here at CircleMUD (we think), is used to prevent
+a player from playing.  If frozen, the game will ignore all commands entered
+by the player, including QUIT, until the player is unfrozen with THAW.
+
+Obviously, this command should only be used in extreme disciplinary
+circumstances.
+
+See also: SET -> FROZEN
+#
+GOTO TRANS WIZTELEPORT
+
+Usage: goto <location>
+       trans <victim>
+       teleport <victim> <location>
+
+These commands are used to transports yourself and others to different rooms.
+GOTO allows you to go to other rooms; TRANS transports a person from wherever
+they are to the room YOU are in; TELEPORT transports your victim to some other
+location.
+
+For both GOTO and TELEPORT, the location specifier can be either a virtual
+room number, or the name of a character or object.
+
+Examples:
+
+  > goto 3001
+  > goto rasmussen
+  > trans fido
+  > teleport fido 3001
+  > teleport fido 2.fido
+
+See also: POOFIN, POOFOUT, SET -> ROOM, WIZAT
+#
+HANDBOOK
+
+Usage: handbook
+
+Guidelines for having an Immortal character -- you should read it.
+#
+HCONTROL
+
+Usage: hcontrol build <house vnum> <exit dir> <player name>
+       hcontrol destroy <house vnum>
+       hcontrol pay <house vnum>
+       hcontrol show
+
+House control, controls the addition, removal, and payments of houses.
+Hcontrol show will show all the houses currently defined in the game
+along with their last 'rent' payment date.
+
+See also: HOUSE, HOUSES
+#
+HOLYLIGHT
+
+Usage: holylight
+
+A toggle which allows you to see:
+   Invisible people and objects, even if you don't have 'detect invisibility'
+   Hidden people, even if you don't have 'sense life'
+   Dark rooms, even if you don't have a light
+
+It is expected most immortals will keep HOLYLIGHT on most of the time;
+it exists so that you have the ability to see what mortals see for
+debugging purposes.
+#
+IMOTD
+
+Usage: imotd
+
+Displays the Immortal message of the day.  This file usually contains
+new information on commands recently added, new features and other
+important information that immortals should be aware of.
+
+See also: MOTD
+#
+INVIS
+
+Usage: invis [level]
+
+INVIS sets your invisibility level.  With no argument, invis toggles between
+making you fully visible and fully invisible.  If you specify a level, only
+people at and above the level you specify will be able to see you.
+
+Examples:
+
+  > invis
+  > invis 31
+
+See also: VISIBLE
+#
+LAST
+
+Usage: last <player_name>
+
+For checking the last time a person logged on, their sitename, and their
+ID number.
+
+Example: 
+
+  > last ras
+  [  24] [14 Cl] Ras          : somesite.edu : Tue May 16 22:07:09 1995
+
+See also: STAT
+#
+LOAD
+
+Usage: load <mob | obj> <virtual number>
+
+LOAD is used to create mobiles and objects.  The first argument specifies if
+you are trying to load a mobile or an object; the second is the virtual
+number.
+
+Example:
+
+  > load obj 3099
+  You create a bulletin board.
+
+  > load mob 3005
+  You create the receptionist.
+
+See also: VNUM
+#
+MUTE
+
+Usage: mute <victim>
+
+MUTE is used to shut a player up.  When muted, a player will not be able to
+use most communication channels until he/she is unmuted.
+
+See also: FLAGS
+#
+NOHASSLE
+
+Usage: nohassle
+
+Toggles a flag to prevent aggressive monsters from attacking.
+#
+NOTITLE
+
+Usage: notitle <vicitim>
+
+Prevent players from being able to set their own titles; i.e., if the
+player consistently has an offensive title.  The definition of offensive
+is left as an exercise for the reader.
+
+See also: TITLE
+#
+NOWIZ
+
+Usage: nowiz
+
+Allows you to hear or ignore messages coming over the wiznet.
+
+See also: WIZNET
+#
+OLC
+
+Usage: olc { . | set | show | obj | mob | room} [args]
+
+   .: Repeat last modification command
+ set: Set OLC characteristics
+show: Show OLC characteristics
+ obj: Modify an object
+ mob: Modify a mob
+room: Modify a room
+
+OnLine Creation.  A feature which will eventually allow the creation
+of areas ONLINE, without having to reboot the system.
+
+See also: SHOW->ZONES, ZRESET
+#
+PAGE
+
+Usage: page <player | all> <message>
+
+PAGE is used to send a message, along with a beep, to another player.  Use
+PAGE ALL to send a message and a beep to everyone in the game.
+
+Examples:
+
+  > page rasmussen Hey, are you still at the keyboard?
+  > page all GAME WILL BE SHUTTING DOWN IN 10 MINUTES
+
+Do not abuse this command.
+#
+PARDON
+
+Usage: pardon <victim>
+
+Removes killer and thief flags from a player.
+#
+PEDIT
+
+Usage: pedit <player> alias <string>
+       pedit <player> short <string>
+       pedit <player> detail
+
+This is mainly to be used when new players are created, and the approving
+Imm finds typos, spelling problems, poorly formatted descriptions, etc.
+
+Also, this ties in with the approval/reject commands associated with new
+character creation.
+
+See also: approve, reject
+#
+POOFIN POOFOUT
+
+Usage: poofin <message>
+       poofout <message>
+
+Sets the message seen by players when you use GOTO to move to a different
+room.  POOFIN with no argument resets your poofin to the default "appears with
+an ear-splitting bang"; POOFOUT with no argument defaults to "disappears in
+a puff of smoke."
+
+See also: GOTO
+#
+PURGE
+
+Usage: purge [name]
+
+Purge destroys things.  If used with no arguments, it will clear a room of all
+mobiles and objects, but will not harm players.  If the argument is an object,
+that object (and all of its contents, if any) will be destroyed.  If the
+argument is a mobile, the mobile will be destroyed, leaving its inventory and
+equipment lying on the ground.
+
+If the argument is the name of a player, the player's inventory and equipment
+will drop on the ground and the player will lose his/her connection.  For this
+reason, PURGE should only be used on players in disciplinary situations.
+
+Examples:
+
+  > purge
+  > purge Pom
+  > purge sword
+  > purge dragon
+
+See also: DC
+#
+REJECT
+
+Usage: reject <player> <string stating the reason(s)>
+
+Used to alert a newly created character that they have made too many errors
+in their character, and what to fix.
+
+See also: approve, pedit
+#
+RELOAD
+
+Usage: reload < '*' | all | file >
+
+Reload is used to reload text files such as the MOTD from disk into memory.
+reload * reloads all the text files below.
+
+Valid files are:
+
+  background (/mud_dir/lib/text/background)
+  credits    (/mud_dir/lib/text/credits)
+  handbook   (/mud_dir/lib/text/handbook)
+  help       (/mud_dir/lib/text/help)
+  immlist    (/mud_dir/lib/text/immlist)
+  imotd      (/mud_dir/lib/text/imotd)
+  news       (/mud_dir/lib/text/news)
+  motd       (/mud_dir/lib/text/motd)
+  info       (/mud_dir/lib/text/info)
+  policy     (/mud_dir/lib/text/policies)
+  wizlist    (/mud_dir/lib/text/wizlist)
+  xhelp      (/mud_dir/lib/text/help/*)
+#
+REROLL
+
+Usage: reroll <player>
+
+REROLL gives a player new stats (i.e., Str, Int, Wis, Dex, Con, and Cha)
+
+See also: STAT
+#
+RESTORE
+
+Usage: restore <player | mobile>
+
+RESTORE restores a player or mobile to full hit, mana, and movement points.
+If used on immortals, it also sets all skill levels to 100%.
+#
+RETURN
+
+Usage: return
+
+RETURN returns you to your regular body if you are switched into a mob.
+
+See also: SWITCH
+#
+ROOMFLAGS
+
+Usage: roomflags
+
+Toggles a flag which causes the virtual room number and room flags, if any,
+to be displayed next to room names.
+#
+SET
+
+Usage: set [ file | player ] <character> <field> <value>
+
+SET is an extremely powerful command, capable of setting dozens of aspects of
+characters, both players and mobiles.
+
+SET PLAYER forces set to look for a player and not a mobile; useful for
+players with names such as 'guard'.
+
+SET FILE lets you change players who are not logged on.  If you use SET FILE
+on a player who IS logged on, your change will be lost.  If you wish to set
+a player who is in the game but is linkless, use set twice -- once with the
+FILE argument, and once without -- to make sure that the change takes.
+
+For toggled fields (BINARY), the value must be ON, OFF, YES, or NO.
+
+The following are valid fields:
+
+Field          Level Required   Who     Value Type   Decription
+-----------------------------------------------------------------------------
+brief          LVL_GOD          PC      BINARY       Brief mode
+invstart       LVL_GOD          PC      BINARY       Invisible @ Start
+title          LVL_GOD          PC      MISC         Player's title
+nosummon       LVL_GRGOD        PC      BINARY       NOSUMMON flag
+maxhit         LVL_GRGOD        BOTH    NUMBER       Max HP
+maxmana        LVL_GRGOD        BOTH    NUMBER       Max mana
+maxmove        LVL_GRGOD        BOTH    NUMBER       Max movement
+hit            LVL_GRGOD        BOTH    NUMBER       Current HP
+mana           LVL_GRGOD        BOTH    NUMBER       Current mana
+move           LVL_GRGOD        BOTH    NUMBER       Current movement
+align          LVL_GOD          BOTH    NUMBER       Alignment
+str            LVL_GRGOD        BOTH    NUMBER       Strength
+stradd         LVL_GRGOD        BOTH    NUMBER       Additional STR (18/xx)
+int            LVL_GRGOD        BOTH    NUMBER       Inteligence
+wis            LVL_GRGOD        BOTH    NUMBER       Wisdom
+dex            LVL_GRGOD        BOTH    NUMBER       Dexterity
+con            LVL_GRGOD        BOTH    NUMBER       Constitution
+cha            LVL_GRGOD        BOTH    NUMBER       Charisma
+sex            LVL_GRGOD        BOTH    MISC         Sex
+ac             LVL_GRGOD        BOTH    NUMBER       Armor class
+gold           LVL_GOD          BOTH    NUMBER       Gold (On hand)
+bank           LVL_GOD          PC      NUMBER       Gold in bank
+exp            LVL_GRGOD        BOTH    NUMBER       Experience points
+hitroll        LVL_GRGOD        BOTH    NUMBER       To-Hit modifier
+damroll        LVL_GRGOD        BOTH    NUMBER       Damage modifier
+invis          LVL_IMPL         PC      NUMBER       Invisible (level)
+nohassle       LVL_GRGOD        PC      BINARY       NOHASSLE flag
+frozen         LVL_FREEZE       PC      BINARY       FROZEN flag
+practices      LVL_GRGOD        PC      NUMBER       # of practices
+lessons        LVL_GRGOD        PC      NUMBER       # of practices
+drunk          LVL_GRGOD        BOTH    MISC         Drunkeness
+hunger         LVL_GRGOD        BOTH    MISC         Hrs to hunger
+thirst         LVL_GRGOD        BOTH    MISC         Hrs to thirst
+killer         LVL_GOD          PC      BINARY       KILLER flag
+thief          LVL_GOD          PC      BINARY       THIEF flag
+level          LVL_IMPL         BOTH    NUMBER       Level
+room           LVL_IMPL         BOTH    NUMBER       Move to room
+roomflag       LVL_GRGOD        PC      BINARY       ROOMFLAGS flag
+siteok         LVL_GRGOD        PC      BINARY       SITEOK flag
+deleted        LVL_IMPL         PC      BINARY       DELETED flag
+class          LVL_GRGOD        BOTH    MISC         Class (W/T/C/M)
+nowizlist      LVL_GOD          PC      BINARY       Not Wizlistable flag
+quest          LVL_GOD          PC      BINARY       QUESTING flag
+loadroom       LVL_GRGOD        PC      MISC         Room to load in (#/off)
+color          LVL_GOD          PC      BINARY       COLOR flag
+idnum          LVL_IMPL         PC      NUMBER       ID Number
+passwd         LVL_IMPL         PC      MISC         Player password
+nodelete       LVL_GOD          PC      BINARY       Undeletable flag
+
+See also: STAT
+#
+SHOW
+
+Usage: show <mode> [argument]
+
+Valid Modes:
+
+death          errors         godrooms       houses
+player         rent           shops          stats
+zones   
+
+The SHOW command displays information.  Some modes of show require additional
+information, such as a player name.
+
+   death: Shows all death traps in the game.
+  errors: Shows errant rooms.
+godrooms: Shows the rooms in the 'god zone'.
+  houses: Shows the houses that are currently defined.
+  player: Shows player summary information, simply provide a player name.
+    rent: Shows the filename and path to a players rent file.
+   shops: Shows all the shops in the game and their buy/sell parameters.
+   stats: Shows game status information including players in game, mobs etc.
+   zones: Shows all the zones in the game and their current reset status.
+          An age of -1 means it is in the 'to be reset next' queue.
+
+See also: STAT, ZRESET
+#
+SHUTDOWN
+
+Usage: shutdown [reboot | die | pause]
+
+SHUTDOWN shuts the MUD down.  The SHUTDOWN command works in conjunction with
+CircleMUD's 'autorun' script.  If you are not using autorun, the arguments are
+meaningless.  If you are using autorun, the following arguments are available:
+
+REBOOT     Pause only 5 seconds instead of the normal 40 before trying to
+           restart the MUD.
+
+DIE        Kill the autorun script; the MUD will not reboot until autorun is
+           explicitly run again.
+
+PAUSE      Create a file called 'paused' in Circle's root directory; do not
+           try to restart the MUD until 'paused' is removed.
+#
+SKILLSET
+
+Usage: skillset <name> '<skill>' <value>
+
+Sets the specified skill to the specified value.
+
+See also: SET
+#
+SLOWNS
+
+Usage: slowns
+
+Toggles whether or not IP addresses are resolved into readable site names.
+If slow nameserver is enabled, USERS will show only IP addresses.
+(128.123.222.111 etc).
+
+See also: USERS
+#
+SNOOP
+
+Usage: snoop [player]
+
+Snoop allows you to listen in on another player's session; everything the
+player sees or types will be displayed on your terminal preceded by a '%'.
+
+Obviously, there are many ethical considerations to the use of this command; 
+snoop should be used minimally, and only for disciplinary purposes.
+
+Type snoop <your name> or just snoop to stop snooping.
+#
+SNOWBALL
+
+Snowball is just a social -- it prints a funny message, and nothing more.
+#
+STAT
+
+Usage: stat [player | object | mobile | file] <name>
+
+Gives information about players, monsters, and objects in the game.  The type
+argument is optional.
+
+STAT PLAYER will search only for players; useful for statting people with
+names such as Red or Cityguard.
+
+STAT OBJECT will search only for objects.
+
+STAT MOBILE will search only for monsters.
+
+STAT FILE is used to stat players who are not logged in; the information
+displayed comes from the playerfile.
+
+Examples:
+
+  > stat fido
+  > stat player red
+  > stat mobile red
+  > stat file niandra
+  > stat object thunderbolt
+
+See also: VSTAT
+#
+STRING
+
+Usage: string <type> <name> <field> [<string> | <keyword>]
+
+For changing the text-strings associated with objects and characters.  The
+format is:
+
+Type is either 'obj' or 'char'.
+
+Field is one of the following(the names may be abbreviated):
+
+Name                  (the call-name of an obj/char - kill giant)
+Short                 (for inventory lists (obj's) and actions (char's))
+Long                  (for when obj/character is seen in room)
+Title                 (for players)
+Description           (For look at.  For obj's, must be followed by a keyword)
+Delete-description    (only for obj's. Must be followed by keyword)
+
+Where a string is expected as the last argument, a newline will make you enter
+a string mode, and the game will prompt you for new lines to the string until
+you exceed the maximum length for the string or you end a line with a '@'.
+
+Mobiles and objects currently cannot be strung.
+#
+SWITCH
+
+Usage: switch <monster>
+
+SWITCH is used to take over the body of mobiles; useful for interactive
+adventures.  If the monster in which you are switched is killed you will be
+returned to your own body.
+
+See also: RETURN
+#
+SYSLOG
+
+Usage: syslog [off | brief | normal | complete]
+
+The SYSLOG command controls how detailed of an on-line system log you see.
+Messages surrounded by '[' and ']' are syslog messages and are in green
+if you have color on.
+
+The messages you receive are level dependent.
+
+Examples:
+
+  > syslog complete
+  > syslog off
+
+See also: COLOR
+#
+UNAFFECT
+
+Usage: unaffect <victim>
+
+Removes all affections (i.e., spell effects) from a player.
+
+See also: STAT
+#
+UPTIME
+
+Usage: uptime
+
+Displays when the game was booted and calculates how long ago that was.
+#
+USERS
+
+Usage: users [switches]
+
+USERS gives a list of all sockets (i.e., connections) currently active on the
+MUD.  The multi-column display shows the socket number (used by DC), class,
+level, and name of the player connected, connection state, idle time, and
+hostname.
+
+The following switches are available:
+
+-k or -o   Show only outlaws (killers and thieves).
+-p         Show only sockets in the playing sockets.
+-d         Show only non-playing (deadweight) sockets.
+-l min-max Show only sockets whose characters are from level min to max.
+-n <name>  Show the socket with <name> associated with it.
+-h <host>  Show all sockets from <host>.
+-c list    Show only sockets whose characters' classes are in list.
+
+See also: DC, SLOWNS
+#
+VNUM
+
+Usage: vnum <mob | obj> <name>
+
+Gives a list of the virtual numbers of objects or mobiles which have the
+specified name.
+
+Examples:
+
+  > vnum obj ring
+  1. [  904] a platinum ring
+  2. [ 2543] a seashell ring
+  3. [ 2588] a small emerald ring
+  
+  > vnum mob dragon
+  1. [    1] Puff
+  2. [  908] the dragon turtle
+  3. [ 2548] the Master of Illusions
+#
+VSTAT
+
+Usage: vstat < mob | obj > <virtual number>
+
+Used to stat a prototypical mobile or object by virtual number.
+
+Examples:
+
+  > vstat obj 3000
+  > vstat mob 3001
+
+See also: LOAD, STAT, VNUM
+#
+WIZHELP
+
+Usage: wizhelp
+
+Gives a list of the special commands available at your level.
+#
+WIZLOCK
+
+Usage: wizlock [value]
+
+WIZLOCK allows you to restrict the game.  WIZLOCK 1 prevents new characters
+from being created.  WIZLOCK n, 2 <= n <= 34, prevents new characters and
+allows only characters level n and above to log on.  WIZLOCK with no argument
+displays the current WIZLOCK level.
+
+See also: BAN
+#
+WIZNET ;
+
+The immortal communication channel.
+
+Usage: wiznet [ '@' | '+' | '-' | '#' ] [<text>]
+
+Examples:
+
+  >; <text>    - just sends text
+  >; @         - shows all gods that are on and visible to you
+               - also shows if the gods who are visible to you are writing
+
+This code was provided by Gnort.
+
+See also: NOWIZ
+#
+ZRESET
+
+Usage: zreset < zone | '*' | '.' >
+
+Used to force a zone to reset.  '*' forces all zones to reset.  '.' forces
+the zone you are in to reset.
+
+See also: SHOW -> ZONES
+#
+LUNITARI
+
+Lunitari is a vivacious young woman with a mischievous streak.
+Her capriciousness has earned her homage even among the Kender.  She delights
+in all magic and illusions, but loves neutral spellcasting most of all.
+
+'The Three gods of Magic drew Together.'
+
+  "It wasn't our fault," Lunitari said.
+  "We knew nothing about it," Nuitari replied.
+  "No one consulted us," Solinari protested.
+  Reorx grumbled, "It was Lunitari who lost the Graygem."
+  "Your grubby little gnome stole it!" Lunitari flashed back.
+#
+HIDDUKEL
+
+Hiddukel constantly seeks good bargains, which generally entail the swapping
+of a material object for one's spirit.  Although he is calculating and
+predatory, Hiddukel often takes the guise of a fawning and fumbling merchant.
+Those tricked into bargaining with him generally lose their lives.
+
+  "I look out for myself," Hiddukel whinned, shrinking back from Takhisis'
+  anger. "What's the harm in that?  If some people"-his greasy face turned
+to Chislev-"are so naive to fall for it, then that's their problem isn't
+it?  And if some"-Hiddukel glanced disparigingly at the Dwarf-"are so
+stupid as to try to capture Chaos.."
+#
+NUITARI
+
+Nuitari is among the younger of the gods, but he is still no one to
+trifle with. He has an especial love of taking an avatar, simply to
+cause problems among those who have either forsaken his path or maybe
+just annoyed him. He is usually far too busy with his work to bother
+with such petty things, but once you've got his attention...
+
+     "You killed my family!", protested the newly minted red-robe.
+     Nuitari smirked.
+
+     "Are you STILL upset about that?"
+
+See also: NUIAVATAR
+#
+NUIAVATAR
+
+Nuitari has a great love of his avatar form, for reasons no one has
+been able to deduce. He often appears as a smirking mage in black robes,
+though it does vary. What is always noticed, however, is how incredibly
+ascerbic he is one moment, while (feigning) concern and even pain the
+next. Don't let it fool you, though. Flesh does nothing to temper the
+Black Moon's love of making those he perceives as idiots (namely, every
+person he's ever met) suffer.
+
+     "You don't trust me? That hurts. On the inside."
+#
+ZIVILYN
+
+Despite Zivilyn's wisdom, many find him aloof.  His concern with harmony and
+balance prevents him from approaching other gods or mortals.  His wisdom also
+makes him imperturbably quiet.  Many misinterpret these two traits as conceit,
+though Zivilyn is in truth one of the most approachable and sympathetic gods.
+
+  "If only someone had asked me," Zivilyn complained, "I could have looked
+  into the future and warned you.."
+  "When?"  Morgion asked sarcastically.  "In another six or seven
+  millinia?  It would have taken you that long to make up your mind about
+  which future was which."  
+#
+CHISLEV
+
+Chislev's moods can vary wildly.  One moment, she may be tempestuous,
+destructive, and harsh; but then she grows calm, nurturing and kind.  In
+rare moments of summer despair, the day grows cold and dark, and in brief
+glimpses of winter joy, the sun breaks through and the snow begins to melt
+
+  "And what do we do with this gem once it's created?  Give it to you for
+  safe keeping?"  Chislev was a gentle goddess but had a tendancy to be
+  sarcastic, especially around Hiddukel.
+#
+GODCHARS
+
+Chars added so far are Lunitari, Hiddukel, Zivilyn and Chislev.
+More will be added soon.
+#
+Creation-Kender
+
+There was a big nothing called Void, and in it was a swirling thing called
+Chaos.  Reorx, who made dwarves, but also like us, thought Chaos was
+interesting.  He picked it up, borrowed a hammer Kiri-Jolith wasn't using,
+and pounded Chaos into a round world.
+"Hmmm.  Maybe it needs some decorations."  He took his hammer and made
+mountains, hills, and valleys.  "Better--but it's all sooty from the
+hammer.  Perhaps if I wash it with that water Zeboim isn't using..."
+And so the thing came to have rivers and oceans.  Then he found some seeds
+that Chislev had thrown out.  "From seeds she doesn't even want, I will
+grow some flowers for her."  So, he took the seeds and planted them.
+Instantly, trees, grass, plants, and flowers sprang up.
+"The world's looking better and better."  He found a few of Habbakuk's fish
+and threw them into his ocean to keep them from suffocating.  He gathered
+in a stray flock of Sirrion's birds and placed them on the world for safe
+keeping.  Soon, Reorx's world was thriving.
+The gods, seeing their discarded things put to such good use, grew jealous.
+They complained to Paladine, who studied Reorx's world.  He said "You're
+mad because Reorx made something good with your throw-aways?  Well, Too
+bad for you.  Anyway, everything's so mixed up down there, you couldn't get
+it back if you tried."
+#
+object-tables
+
+Object Creation Tables
+
+This table has been compiled from various other tables that
+were previously posted in various places on the mud. All prices
+shown herein have been adjusted according to the latest monetary
+system update.
+
+
+
+***GENERAL OBJECT CONSIDERATIONS***
+===================================
+Bonus Applies:
+Please limit these applies. The is no need for everyother item on the
+     mud to have an extra affect with it.
+Stats Applies: VERY limited with -stats being more common then +stats.
+Class/Level Applies: These applies should never be used.
+Age, Char_weight, Char_height Applies: These applies should not be set
+     unless it can be explained IC.
+Maxmoves, Maxhitpoint Applies: Should not be used unless the bonus can
+     be explained IC (example: a pair of well crafted boots made
+     specifically for elven feet might improve moves because they fit
+     the wearers feet so well and are so well made that the dont hurt.
+     But in this instance, since they are made for elves, elves should
+     be the only class able to wear them.
+Gold, Experiance Applies: These should NEVER be used.
+Armor Applies: Used VERY seldom and only on rare items.
+Hitroll and Damroll Applies: This is the only apply i can see being used
+     with any frequency, but it still should be used sparingly and on
+     only well crafted or magical items.
+
+When using any of these applies it is also a good idea to use the
+!class and !race flags in conjunction with them to help increase their
+rarity and provide some offset for the bonuses. Basically when making
+objects use your best judgement and try to make the items balanced and
+fair. If you are in doubt about an item, ask around and get opinions
+on it from other imms. They might be able to give you ideas on how to
+handle the item.
+
+
+
+***RENT COST***
+===============
+
+At this time rent cost for all items is 10% of the items value.
+Example: If an it hase a value of 100cp then it rents for 10cp.
+
+
+
+***FOOD DRINKS AND LIQUID CONTAINERS***
+=======================================
+
+The following table is given as an example of food pricing.
+These prices may be affected by things such as famines and
+surpluses. Also, this table lists only a small sampling of
+the food types available. Use any other food type you feel
+is warranted but try to follow the pricing guidelines shown
+here as much as possible.
+
+Possible Food Types		Cost	     Last for # Hours
+-------------------------------------------------------------
+Piece of fruit			1cp		1 to 3
+Slice of bread			1cp		1 to 3
+Strip of meat			2cp		3 to 4
+Cup of stew			2cp		3 to 4
+Loaf of bread			3cp		4 to 6
+Bowl of Stew			3 cp		4 to 6
+A meal				3cp		4 to 6
+A large meal			4 to 6cp	6 to 10
+Whole chicken			4 to 6 cp	6 to 10
+
+The following table is given as an example of drink pricing.
+
+Drink Type			Cost	    Last for # Hours
+------------------------------------------------------------
+Mug of bad ale, beer, etc	1cp		2
+Mug of decent ale, beer, etc	2cp		2
+Wine and finer ales		3cp		3
+Glass of water			1cp		2
+
+The following is an example of Liquid Container size and
+pricing.
+
+Container Type			Cost		Holds
+-----------------------------------------------------------
+Waterskin			4 to 5 cp	10 to 12
+Wineskin			7 to 8 cp	10 to 15
+canteen				3 to 4 cp	8 to 10
+
+
+
+
+***CONTAINERS***
+================
+
+The following table should be used as a guideline for
+determining how much weight a container can hold.
+
+Container		Small		Medium		Large
+-------------------------------------------------------------
+Pouch (gem, belt, etc)	5 to 10		N/A		N/A
+Purse			5 to 10		10 to 15	15 to 20
+bags			10 to 15	15 to 20	20 to 25
+sacks			20 to 25	25 to 30	30 to 35
+backpacks		20 to 30	30 to 40	40 to 50
+
+Note: 50 should be the maximum for any normal, everyday item.
+75 should be the maximum for any magical, rare, or unique item.
+
+
+
+
+***LIGHTS***
+============
+
+ Type of Light		Costs			Duration
+-----------------------------------------------------------
+Torch			8 to 12cp		5 to 8hrs
+Lantern			15 to 25cp		10 to 15hrs
+artifact		300 to 1000cp		infinite
+
+
+
+
+***STAVES, WANDS, POTIONS AND SCROLLS***
+========================================
+
+The following is a list of the beginning cost for a staff, wand, potion
+or scroll based on which spell it casts.
+
+Spell Name		Cost
+-----------------------------
+animal fury		400
+animal summon		375
+animate dead		700
+armor			300
+barkskin		400
+bless			300
+blindness		600
+blur			450
+burning hands		300
+call lightning		500
+charm			750
+chill touch		300
+clone			400
+color spray		600
+control weather		400
+create food		150
+create water		150
+cure blind		300
+cure critical		600
+cure light		400
+cure serious		500
+curse			400
+detect alignment	300
+detect invisibility	500
+detect magic		150
+detect poison		150
+dispel evil		400
+dispel good		400
+easthquake		700
+enchant weapon		3000
+energy drain		400
+entangle		400
+faerie fire		300
+fireball		500
+goodberry		300
+group armor		700
+group heal		2700
+group recall		2300
+harm			400
+heal			1000
+identify		1300
+infravision		300
+invisibility		750
+lightning bolt		700
+locate object		N/A
+magic missile		300
+magic vestment		500
+mirror image		500
+poison			400
+portal			N/A
+protection from evil	150
+rejuvenate		400
+remove curse		400
+remove poison		500
+sanctuary		1200
+sense life		500
+shocking grasp		400
+silence			500
+sleep			400
+strength		400
+summon			N/A
+teleport		400
+ventriloquate		300
+waterwalk		500
+word of recall		1500
+
+If the spell is cast at level 10 or less then subtract 10% off of
+the price of the spell listed above. If cast at level 20 or above
+add 10% to the price listed above.
+
+If the item is a wand, add the number of charges in percent form
+to the price.  Example: spell price is 500 and the wand has 15
+charges, 500 + 15% of 500 = 575.
+
+If the item is a staff, add twice the number of charges in percent
+to the price. Example: spell price is 500 and the staff has 5
+charges, 500 +10% of 500 = 550.
+
+
+
+***ARMOR***
+===========
+
+Armor Weight:
+-------------
+The following table sould be used as a guide for determining the
+weight of different pieces and types of armor based on material used
+to construct it and the location it is worn. Also the weight should
+be based on the thickness of that material. Example: A full face
+covering plate mail helmet would weight more then one that just
+covers the top of the head like a plate mail skullcap. Also, weight
+ranges are given here for items that would not normally be found
+(Example: Chain mail gloves would be so cumbersome and reduce Dex
+so much noone would even want then if any were ever made). This has
+been do to provide a reference for comparison.
+
+Armor Type		Location	Weight
+----------------------------------------------
+Cloth			Head		0 to 1
+			Body		1 to 10
+			Arms		2 or so
+			Legs		2 or so
+			Hands		0 to 1
+			Feet		0 to 2
+Leather			Head		0 to 2
+			Body		4 to 12		
+			Arms		2 to 6
+			Legs		2 to 6
+			Hands		0 to 1
+			Feet		2 to 6
+Chain			Head		3 to 6
+			Body		18 to 25
+			Arms		9 to 15
+			Legs		9 to 15
+			Hands		4 to 6
+			Feet		4 to 6
+Scale			Head		5 to 10
+			Body		25 to 35
+			Arms		12 to 18
+			Legs		12 to 18
+			Hands		6 to 9
+			Feet		6 to 9
+Plate			Head		8 to 12
+			Body		35 to 45
+			Arms		15 to 20
+			Legs		15 to 20
+			Hands		3 to 10
+			Feet		3 to 10
+
+Setting AC Value:
+-----------------
+For leg/arm/torso armor take the level of the mob and divide by
+2 and round down. Example: A level 12 mob is wearing that brand new
+breastplate you just made, level 12 divided by 2 equals 6 so the AC
+value would be 6. The maximum AC value at this time is 15. For the
+rest of the wear locations, make it lower (like maybe mob level divided
+by 4 or 5) and above all make it reasonable.
+
+Pricing Armor:
+--------------
+The following table gives a base price for a piece of armor based on its
+AC value.
+
+AC		    Cost
+--------------------------------
+1		3 to 6cp
+2		7 to 14cp
+3		15 to 25cp
+4		26 to 50cp
+5		51 to 80cp
+6		81 to 100cp
+7		101 to 160cp
+8		161 to 300cp
+9		301 to 500cp
+10		501 to 1000cp
+11		1001 to 2000cp
+12		2001 to 5000cp
+13		5001 to 8000cp
+14		8001 to 10000cp
+15		10001 to 15000cp
+
+Use the following rules to adjust the above listed base price for
+each item:
+1- For each point of +hitroll add 30% to the price.
+2- For each point of +damroll add 50% to the price.
+3- For each stat point increased add 60% to the price.
+4- For each bonus point to a saving throw add 30% to the price.
+5- For every 2 points of HP increased add 5% to the price.
+6- For every 3 points of MV increased add 5% to the price.
+7- For special abilities add 10%, or your best judgement, to the price.
+8- For fine workmanship add 5% to the price.
+9- For shoddy workmanship subtract 5% from the price.
+10- For jewels or gold worked into the item add a minimum of 10% to the
+    price based on the number and quality of the adornments.
+11- If worn on legs, arms, or as shield add 15% to the price.
+12- If worn on shoulders, about body, or back add 20% to the price.
+13- If worn on head add 40% to the price.
+14- If worn on feet or hands add 50% to the price.
+15- If worn on neck, wrist, ankle, face or above body add 60% to the price.
+16- If an iten has multiple wear locations add 30% to the price for each
+    additional wear location.
+
+
+
+
+***WEAPONS***
+=============
+
+On Age of Legends, a weapons value and level are determined based on
+two different numbers. The first number is MAXIMUM damage. MAXIMUM
+damage is determined by multiplying the size of the dam die by the
+number of die used. Example: 2d6 (2 rolls of a 6 sided die), MAXIMUM
+damage is 12.  This number is used to determine the weapons intended
+level range. The next number, AVERAGE damage, is used to determine
+a weapons base value. To figure the AVERAGE damage of a weapon, add
+its minimum damage to its maximum damage and divide by two. Example:
+The AVERAGE damage of a 2d6 weapon is equal to its minimum damage of
+2 (2 rolls of a 6 sided die resulting in 1 on both role, 1+1=2) plus
+its maximum damage of 12 divided by 2 giving an answer of 7 as the
+AVERAGE damage of a 2d6 weapon. In other words (MinDam+MaxDam)/2 = 
+AvgDam using the above example (2+12)/2=7.
+
+
+SPECIAL WEAPON NOTES:
+There should be no + or - AC affects on any weapon.
+
+The following table gives a list of weapon levels based on MAXIMUM
+damage of the weapon.
+
+MAX Damage		Level
+--------------------------------
+1 to 4			1 to 4
+5 to 9			5 to 11
+10 to 14		12 to 21
+15 to 19		22 to 29
+20			30
+
+The following table is to be used to determine the base value of a
+weapon based on its AVERAGE damage.
+
+AVG Dam			Value
+---------------------------------
+1			5 to 8 cp
+2			9 to 16cp
+3			17 to 25cp
+4			26 to 45cp
+5			46 to 140cp
+6			141 to 220cp
+7			221 to 460cp
+8			461 to 500cp
+9			501 to 580cp
+10			700 to 1000cp
+11			1001 to 1700cp
+12			1701 to 2500cp
+
+After determining the base value of the weapon on the above chart use
+the following modifiers to determine the final value.
+
+1- For every point of + to hitroll add 30% to the price.
+2- For every point of + to damroll add 50% to the price.
+3- For each point of stat increased add 60% to the price.
+4- For each bonus point to a saving throw add 30% to the price.
+5- For every 2 points of hp increased add 5% to the price.
+6- For every 3 points of MV increased add 5% to the price.
+7- For special abilities add 10% to the price or your best judgement.
+8- For fine workmanship add 5% to the price
+9- For shoddy workmanship subtract 5% from the price.
+10- For any jewels or gold worked into the design add a minimum of 10%
+    to the price.
+
+
+
+****MISC OBJECTS****
+====================
+Books:
+Books should start out at around 80 to 100 cp. For larger volumes add
+80 to 120cp. Wood bound or other elaborate bindings should add another
+80 to 150cp depending on quality of the cover, pages and binding.
+
+Bottles, Papers, Pens, Figurines, and other Odds and Ends:
+On these items, compare them to prices of similar items already in
+the game and use your best judgement. The better the quality of the
+item the higher the price while damaged, used or lower quality items
+should be priced lower.
+#
+RENT-COST
+
+* *  RENT   * *
+=================
+
+Rent guidelines - the cost to rent on object (based on copper).
+
+
+-----
+
+Object Effects:
+
+For each +1 to a stat: 			        500 
+     if Ring, Neck, Bracer:  			1000 
+For every point of AC Apply above 5:  	        200 
+For every +1 to hitroll: 			100 
+     if Ring, Neck, Bracer:			300 
+For every +1 damroll:			        500 
+     if Ring, Neck, Bracer:			700 
+For every -1 to armor (not ac apply)		100 
+     if Ring, Neck, Bracer:			200 
+For every +1 to movement:			20
+For every +1 to maxhit:		               	40
+For every +1 to age:			        20
+For every -1 to age:                            20
+
+For every -1 to saving throws :                 200 
+        if Ring, Neck, Bracer:                  300 
+
+-----
+
+Object Penalties:
+
+Class and Race restrictions:                   -20 each
+All Others (except age)                         -(rent_modifier/2)
+[Ie.  -3 damroll would be  -(1500/2) or -750]
+
+-----
+
+Object Flags:
+
+Detect Invis:                                   500
+User_Invis:                                     1000
+Item_Invis:                                    -100
+Blessed:                                        100
+Nosell:                                        -100
+Nodrop:                                         100
+
+-----
+
+Miscellaneous:
+
+For every wearable location past "take"
+  and the primary position:                     200
+
+-----
+
+Weapons:
+
+Every possible point damage:                    100
+Offhand Weapon:                                 rent * 1.50
+2-Handed Weapon:                                rent * 0.67
+
+-----
+
+The following use the BSP acronym which stands for: Base Spell Rent
+which is the base cost to rent an item that has some type of spell
+associated with it (potions, rod/staff/wand, scroll).
+
+-----
+
+Wands:
+
+Spell Level:                    BSP
+Number of charges:              # charges * BSP / 10
+
+-----
+
+Staves:
+
+Spell:                          BSP * 1.5
+Number of charges:              # charges * BSP / 5
+
+-----
+
+Potions and Scrolls:
+
+Spell Level (for each spell):                   BSP
+
+BSP = Base Spell Rent
+
+Note:  Included below is a text file called sp_rent.txt which I have
+attached to the body of the mail.  It is my suggestions for spell rents. 
+
+-----
+
+Lights:
+
+For each hour of duration:              10
+Unlimited                               250
+
+-----
+
+Boats:                                  500
+
+-----
+
+
+These Guidlelines are just that.  Guidelines.  If it doesn't seem right to
+you, change it.  The final judgement will come when the zone is to be
+reviewed.  Following these
+guidelines will help with that however.  In all situations follow your
+instinct though, and special cases can be discussed with the zone reviewer.
+
+-----
+
+Base Rent for Spells
+
+animal fury            200
+animal summon          150
+animate dead           500
+armor                  100 
+barkskin               400
+bless                  100
+blindness              300
+blur                   150
+burning hands          100
+call lightning         200
+charm                  750
+chill touch            100
+clone		       400                  
+color spray            300
+control weather        200
+create food             50
+create water            50
+cure blind             100
+cure critic            600
+cure light             200
+cure serious           400
+curse                  400
+detect align           100
+detect invis           500
+detect magic            50
+detect poison           50
+dispel evil            200
+dispel good            200
+earthquake             300
+enchant weapon        2000
+energy drain           200
+entangle               200
+faerie fire            100
+fireball               500
+goodberry              100
+group armor            500
+group heal            2000
+group recall          1000
+harm                   400
+heal                  1000
+identify              1000
+infravision            100
+invisible              750
+lightning bolt         350
+locate object	       N/A         
+magic missile          100
+magic vestment         500
+mirror image           250
+poison                 200
+portal                 N/A
+prot from evil          50
+rejuvenate             200
+remove curse           400
+remove poison          250
+sanctuary             1000
+sense life             500
+shocking grasp         200
+silence                500
+sleep                  400
+strength               400
+summon                 N/A
+teleport               200
+ventriloquate          100
+waterwalk              500
+word of recall         500
+#
+MOB
+
+Mob Creation Table
+ 
+NOTE: the only change to this table is to reflect that the prior
+table already included the Damroll into the damage field.  This
+table now has new values in the "Damage" column, which you should
+update in all your MOBs.  Now, you should set the MOB's damroll to
+what is show, as well as making the damage (# of hit die and hit
+die size) reflect what is in the damage column.
+ 
+This table will be used to test to see if the balance is good.
+Level   Exp     HP     Hitroll Damroll    AC   Copper   Damage   #Attacks
+1         7      7        0       0       100      1     1d4         1
+2        13     15        1       1        92      2     1d4         1
+3        25     30        1       2        84      5     1d4         1
+4        50     50        2       1        76     10     2d3         1
+5        85     75        3       2        68     20     2d3         1
+6       175     80        3       4        60     35     1d5         1
+7       400    100        4       3        52     50     1d7         1
+8       800    125        4       4        44     70     1d6         1
+9      1300    150        5       5        34     80     1d6         1
+10     1900    170        5       6        25     90     1d5         1
+ 
+11     2900    200        6       3        15     95     1d3         2
+12     4700    230        6       4         5    100     1d2         2
+13     6625    260        7       4        -5    200     1d3         2
+14     6000    290        7       5       -15    500     1d2         2
+15     8400    325        8       5       -25    700     1d3         2
+16    11000    350        8       6       -35    800     1d2         2
+17    11800    380        9       6       -45   1000     1d3         2
+18    14000    410        9       7       -55   1500     1d3         2
+19    17000    440        10      7       -65   2000     1d4         2
+20    25000    470        10      8       -75   2300     1d4         2
+ 
+21    33500    500        11      5       -85   3000     1d3         3
+22    40000    600        11      5       -90   3500     1d4         3
+23    52000    700        12      6       -95   4000     1d4         3
+24    68000    800        12      6      -100   4500     1d5         3
+  ***  NOTE: all MOBs level 25 and above should be UNIQUE in the MUD  ***
+25    87000    900        13      6      -110   5000     1d5         3
+26   115  k   1000        13      7      -120   6000     1d5         3
+27   135  k   1150        14      7      -130   7000     1d5         3
+28   175  k   1300        14      8      -140   8000     1d5         3
+29   213  k   1500        15      9      -150   9000     1d5         3
+30   250  k   1750        15     10      -150  10000     1d5         3
+ 
+31+     case by case    20      20     -150       case by case
+ 
+
+Obviously, you can customize a MOB, but make sure to keep the overall
+strength  of the MOB close to these paramters.  Ie. if you give it more
+HP, you could lower (worsen) its AC or lower its damage, etc.
+
+Again, send comments, etc to one of the IMPLs.
+#
+DIG
+for an exit nw the letter r is to be used.
+for an exit ne the letter o
+for an exit se the letter t
+and for an exit sw the letter v
+so it would be ...
+dig (n,s,e,w,u,d,o,r,t,v) (virtual number of room being connected to)
+Not hard eh? :)  It creates exits in both rooms so moves twice as fast :)
+Chem
+#
+$
+

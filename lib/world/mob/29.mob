@@ -1,0 +1,70 @@
+#2900
+rat giant~
+a giant rat~
+A giant rat lurks in the shadows.
+~
+   This horrid creature is brown and black, with a white belly.  Its mottled
+fur festers with disease.    
+~
+72 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 0 0
+BareHandAttack: 4
+E
+#2901
+giant lizard~
+a giant lizard~
+A giant lizard crawls along the tunnel.
+~
+   This lizard is at least six feet long, from its head to the end of its tail.
+Its green skin is flecked with orange and red spots, and appears quite rubbery.
+~
+72 0 0 0 E
+3 19 13 1d5+25 1d6+1
+2 25 0
+8 8 0 0
+BareHandAttack: 15
+E
+#2902
+bat giant~
+a giant bat~
+A giant bat flaps its wings.
+~
+   This bat's wingspan is at least four feet, making it a marvel that it can
+even fly through these narrow tunnels.  It is pitch black, with strange white
+fangs protruding from beneath its upper lip.    
+~
+72 65536 0 0 E
+3 19 13 1d5+25 1d6+1
+2 25 0
+8 8 0 0
+BareHandAttack: 4
+E
+#2903
+slig large humanoid~
+a slig~
+A large humanoid creature with rubbery skin crouches in the shadows.
+~
+   Distant cousins of goblins and hobgoblins, sligs are larger and more
+ferocious than their brethren.  They love combat and hate weakness, and look to
+find inventive ways to destroy their opponents.    
+~
+72 0 0 0 E
+5 17 11 2d5+65 2d5+0
+17 85 0
+8 8 0 0
+BareHandAttack: 8
+E
+#2999
+undefined~
+undefined~
+undefined~
+Nothing.
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 0 0
+E
+$

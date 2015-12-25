@@ -1,0 +1,690 @@
+#2200
+temple sentinel guard~
+a temple sentinel~
+A temple sentinel stands here guarding the door.
+~
+   This sentinel appears to be a formidable warrior.  In years past many
+unscrupulous people have come to Zivilyn's temple and tried to partake of its
+knowledge and riches for themselves.  In response to this Zivilyn's High Priest
+decided that guards must be employed to make certain that all who enter the
+temple do so only to study, debate or attend ceremonies.    
+~
+1071118 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#2201
+roaming temple guard~
+a roaming temple guard~
+A temple guard roams through the halls keeping order.
+~
+   After having several heated "discussions" among the worshippers, scholars
+and researchers who can be found here at the temple, the priests hired these
+rather formidable men to roam the halls and maintain order.  They all wear the
+same uniform which consists of a leather jerkin which has been dyed to an
+emerald green color and a gold loincloth.    
+~
+6220 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+Maxmove: 50
+E
+#2202
+priestess zivilyn~
+a priestess of Zivilyn~
+A priestess of Zivilyn stands here preparing for the next ceremony.
+~
+   This priestess is one of several who assist the higher ranking priests with
+the ceremonies performed each day to honor Zivilyn.  Her green clothing trimmed
+in gold indicates that she is one of the lowest ranking members of Zivilyn's
+clergy.    
+~
+655560 0 1 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 5
+8 8 2 0
+Maxmove: 50
+E
+#2203
+priest zivilyn~
+a priest of Zivilyn~
+A priest of Zivilyn mumbles the words to the next ceremony he is to perform quietly here.
+~
+   This priest is preparing for the next ceremony he must perform to glorify
+his god.  He hopes that the words he is quietly mumbling over and over will
+lead those who come to worship to find wisdom.  His green and gold striped
+clothing marks this man as being a mid level clergyman.    
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 1 0
+Maxmove: 50
+E
+#2204
+female pilgrim zivilyn~
+a female pilgrim~
+A female pilgrim wanders around here in awe of the sights.
+~
+   This female pilgrim had to travel many long hard miles to reach the temple
+of her god, Zivilyn.  All of the stories that she heard in her homeland did not
+do justice to the majesty of the temple that she now stares at in awe.  Her
+clothing looks like it has been recently cleaned but has evidently been hard
+used on the journey to the temple.    
+~
+524360 32768 512 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 5
+8 8 2 0
+Maxmove: 50
+E
+#2205
+encil longshanks master ranger~
+Encil Longshanks~
+Encil Longshanks the master ranger kneels here, praying quietly.
+~
+   This Sylvanesti elf kneels here on the dias before the image of his god,
+Zivilyn.  His garments seem almost threadbare from his many travels through the
+land but his armor and weapons are in perfect condition.  Wait a minute...  
+What is this?!?  Moving your head slightly to one side to catch the light an
+image on his cloak suddenly snaps in to view.  It is an image of the Tree of
+Life with a shield covering its trunk and swords in its branches.    
+~
+1302538 33730728 0 0 E
+23 6 -7 3d33+600 3d10+8
+1400 68000 6
+8 8 1 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#2206
+pilgrim male zivilyn~
+a male pilgrim~
+A male pilgrim wanders the area here in awe at the sights that surround him.
+~
+   This man has traveled far to reach the main temple of his god, Zivilyn.  
+His eyes are wide open staring at the sights that surround him and the
+expression on his face is one of shock and awe.  Nothing he has ever heard
+could prepare him for viewing the true majesty of the temple of Zivilyn.    
+~
+524364 1024 32 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 6
+8 8 1 0
+Maxmove: 50
+E
+#2207
+elderly researcher~
+an elderly researcher~
+An elderly researcher sits here mumbling strange words to himself.
+~
+   This old man is frequently seen roaming the libraries of the temple.  He has
+been here many years and those who have the patience to deal with him often
+come and ask his assistance for it is said he knows where every book is
+located.  His head is barely visible within an old pale green hood and
+occasionally you catch a few words of whatever it is he is mumbling.    
+~
+174152 12416 0 0 E
+13 13 3 6d5+240 2d9+2
+200 7300 6
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+T 2203
+#2208
+man middle aged~
+a middle aged man~
+A middle aged man stands here studying a book.
+~
+   This slightly short middle aged man looks like one who has spent his entire
+life studying inside out of sunlight and away from fresh air.  His shoulders
+are slightly stooped and his breathing is audible and sounds labored.    
+~
+76 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+Maxmove: 50
+E
+#2209
+female dressed middle aged~
+a well dressed female~
+A well dressed female stands off to one side here.
+~
+   This aged lady stands off to one side going over her notes on an upcoming
+debate she is involved in.  She pays no attention to anything or anyone around
+here concentrating entirely on her papers.  Her clothing was obviously chosen
+to make her look more educated and knowledgable about the subject of her
+debate.    
+~
+72 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#2210
+wandering druid mottled green~
+a wandering druid~
+A wandering druid wearing a mottled green robe passes you by quickly.
+~
+   This young woman is apparently on some urgent mission.  She rushes by you
+without even glancing in your direction.  Her eyes stare straight ahead and she
+uses long strides to cover ground quickly without having to run.    
+~
+524360 0 512 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 5
+8 8 2 0
+Maxmove: 50
+E
+#2211
+druid high ranking~
+a high ranking druid~
+A high ranking druid sits here among the potted plants with a severe look on her face.
+~
+   This older lady is seemingly troubled by something.  Younger druids rush
+messages to and from her constantly.  Her face remains stern and looks slightly
+worried as she deals with the messengers.  She turns to face you and you catch
+a glimpse of some image painted on her cheeks.  It looks like it is...  
+Certainly not...  You have found one of the reclusive members of the Forest
+Warrior Clan!  The symbols on her cheek show her to be a high ranking member of
+the clan.    
+~
+524362 33587240 513 0 E
+15 12 2 6d8+240 2d8+4
+400 7300 5
+8 8 2 0
+Maxmove: 50
+E
+T 2203
+#2212
+ranger travel weary~
+a travel weary ranger~
+A travel weary ranger has stopped here to rest and recover.
+~
+   This man has obviously spent much time afield as his clother are threadbare
+and his boots are heavily mud spattered and worn.  A haggard look passes across
+his face giving a slight glance into his weary soul.  At present he has found
+refuge and is trying to use it to the best advantage and recover as much as he
+can before he once again heads out to travel the world once more.    
+~
+1595480 0 2048 0 E
+22 7 -6 3d33+550 3d8+7
+1100 40000 6
+8 8 1 0
+Maxmove: 50
+E
+T 2201
+#2213
+druid mud spattered tired~
+a tired and mud splattered druid~
+A tired and mud spattered druid is here trying to rest.
+~
+   This druid has obviously travelled far to bring the high druid in the garden
+above some information.  Her mud spattered clothing gives evidence to the miles
+that she has covered and her tired appearance makes it evident that she needs
+rest before she can return to that from whence she came.    
+~
+1599576 0 68 0 E
+22 7 -6 3d33+550 3d8+7
+1100 40000 5
+5 5 2 0
+BareHandAttack: 13
+Maxmove: 50
+E
+T 2201
+#2217
+statue old man avatar beard long~
+a statue of an old, balding man~
+A statue of an old, balding man with a long beard has been setup here.
+~
+   This statue is a depiction of one of Zivilyn's avatars.  It shows how he
+normally appears when he is thinking on or dealing with the past.  It is an old
+man whose head is balding.  The statue has a long beard which is the color of
+pure snow.  Two mirrors have been set in the place where you would normally
+expect to see eyes.  Looking at the mirrors you see yourself reflected, but
+then the reflection changes slightly to what looks like you at sometime in the
+past.    
+~
+3401818 33567784 2 0 E
+24 6 -8 3d33+750 4d6+8
+1200 84000 5
+8 8 0 0
+BareHandAttack: 7
+Maxmove: 50
+E
+T 2200
+#2218
+statue child young white hair~
+a statue of a young child with white hair~
+A statue of a young child with white hair and black skin has been setup here.
+~
+   This statue is a depiction of one of Zivilyn's avatars.  It shows how he
+normally appears when he is thinking about or dealing with the future.  The
+statue is that of a yound child who has pitch black skin and pearly, snow white
+hair.  Two orbs of quick silver have been set in the statues face instead of
+eyes.  Gazing into them you see a reflection of your self now, then it suddenly
+changes into what looks like an image of you at some time in the future.    
+~
+1828954 33567784 8212 0 E
+24 6 -8 3d33+750 4d6+8
+1200 84000 6
+8 8 0 0
+BareHandAttack: 7
+Maxmove: 50
+E
+T 2200
+#2221
+statue tree great scales weights~
+a statue of a great tree~
+A statue of a great tree with a set of scales and weights carved in its trunk has been built here.
+~
+   This immense statue reaches from the floor all the way to the ceiling.  A
+massive trunk made of stone rests squarely on the floor, its width so large
+that it would take three men to reach around it.  Right at head height on the
+statue the trunk's bark has been replaced with a smooth bit of stone on which a
+set of scales and weights have been carved.  On each side of the scales
+numerous weights have been set but the scales remain in perfect balance.    
+~
+3926107 42119208 16777280 0 E
+30 1 -14 3d33+1700 4d8+9
+1900 250000 1
+8 8 0 8
+BareHandAttack: 6
+Maxmove: 50
+E
+T 2200
+T 2
+#2222
+delete me~
+delete me~
+A scholar intent on his research walks among the books.
+~
+   This young scholar has just recently begun his own research into Krynn's
+past.  Many of his teachers have told him of the great mysteries of the past
+and he, in his youthful exhuberance, has decided that HE will be the one who
+finally solves them all.    
+~
+2060 0 0 0 E
+10 15 2 1d5+170 6d4+6
+500 1900 0
+8 8 0 0
+Maxmove: 50
+E
+#2227
+delete me~
+delete me~
+An aged scholar stands here looking for a particular book.
+~
+   This is Nerocium.  He was one of the first scholars to begin serious
+research into the past of Krynn.  In his younger days he was know through out
+the world as man of honor and integrity, but since he began his research many
+accuse him of senialty.  He claims that if he could just find the book he was
+looking for he could explain every mystery in the known universe.    
+~
+698378 8 68 0 E
+19 19 3 1d30+300 5d4+2
+0 8000 0
+8 8 0 0
+Maxmove: 50
+E
+#2239
+delete me~
+delete me~
+An old druid rests here pondering the past, present and future.
+~
+   This ancient druid long ago came to the Temple of Zivilyn as a researcher.
+Spending many long years studying the past has taught him a great deal about
+how one event leads to another and in recognition of all of his work he was
+awarded the title of Honored Disciple and allowed into the temple's inner
+sanctum.  He now roams here trying to sort through the myriad of possible
+futures in an effort to find which one shall come to be.    
+~
+2126 0 138 0 E
+22 9 -9 10d10+600 1d4+5
+35000 40000 0
+6 6 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#2248
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#2250
+delete me~
+delete me~
+A lost traveler stands here.
+~
+   Before you stands an ancient figure who is apparently unsure which way to
+go.  As you look closer you get the impression that the things this traveler
+has seen have driven him to the edge of madness if not beyond.  He looks
+extremely frail and would probably fall over if it werent for the tall staff he
+is leaning against.
+~
+18252 2 0 0 E
+20 10 -9 1d10+470 1d6+8
+23000 25000 0
+8 8 0 0
+Maxmove: 50
+E
+#2258
+delete me~
+delete me~
+Zivilyn's High Preistess kneels here praying.
+~
+   Zivilyn's High Preistess kneels here murmuring prayers to The Tree of Life.
+For years she was an Honored Disciple who served within the inner sanctum and
+waited on the previous high preistess.  Growing old and world weary now
+herself, she wonders who she should chose to succeed her.  Many times she has
+asked Zivilyn for advice on this matter, but the only responses she receives
+are dreams and images of the futures that could come to pass should she chose
+wrongly.    
+~
+174170 234913962 138 0 E
+30 5 -15 1d1+1750 1d5+10
+100000 350000 0
+8 8 2 0
+Maxmove: 50
+E
+#2285
+presence subspace distortion unnatural rift~
+a presence~
+A presence hangs in the air here, though it is impossible to discern what.
+~
+   The air swirls in an unnatural way here, as though there were a rift in the
+air itself and someone or something were struggling to climb out of that rift.
+It is a horrifying thing to behold, a thing that fills you with terror, not
+knowing what may be unleashed now at any moment.    
+~
+253978 34341930 0 0 E
+31 0 -15 3d33+8000 4d8+10
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+T 2291
+#2286
+old man strange beard bearded weird wierd~
+a strange old man~
+A strange old man with a beard down to his toes stands in your way.
+~
+   This man is incredibly old, so old that it is hard to determine his exact
+age.  His face is wrinkled and weathered, and he stands shakily in the hall.  
+Your arrival seems to have awakened him from his sleep, and he looks you up and
+down.  To advance any further through the tunnel, you will have to go past him.
+He pulses with a strong magical aura, making attacking him a huge mistake.  
+Perhaps he'll simply let you walk by?    
+~
+7594010 33698876 0 0 E
+31 0 -20 5d50+6000 4d8+10
+0 300000 0
+8 8 1 0
+Maxmove: 50
+E
+T 2293
+T 2292
+#2287
+spectral figure woman armor first~
+the spectral figure of a woman in armor~
+The spectral figure of a proud woman in armor floats nearby.
+~
+   In life, this woman must have been a proud and capable warrior of some clan
+long since forgotten to time.  The spectral armor she wears bears symbols that
+trigger no immediate tingle of recognition.  Her long hair floats about her, as
+though she were adrift in the sea.  Gripped in both hands is a longsword
+covered with etchings and runes.  As you move towards her, she makes no moves
+of her own.  She simply floats there, awaiting your decision.    
+~
+8 0 0 0 E
+25 5 -9 3d33+850 4d6+8
+0 87000 10
+8 8 2 0
+BareHandAttack: 16
+Maxmove: 50
+E
+T 2287
+#2288
+scholarly spectre spectral figure robed scholar second~
+a scholarly spectre~
+The spectral figure of a robed scholar floats emotionless nearby.
+~
+   A book under one arm, this spectral figure floats here, perhaps the only
+spectre in this entire ghostly room that does not seem threatening.  Upon its
+aged ghostly face is worn a pair of glasses.  Even this state of unlife has
+failed to correct a vision problem that nights poring over tomes has worsened.
+Its face is dry and puckered, with a short beard covering its lifeless,
+unmoving chin.    
+~
+8 0 0 0 E
+22 7 -6 3d33+550 3d8+7
+0 40000 10
+8 8 0 0
+Maxmove: 50
+E
+#2289
+raggedly dressed spectre ragged third~
+a raggedly dressed spectre~
+A ragged spectre floats unsteadily above the ground.
+~
+   This spectre looks as though in life it were a homeless person.  A long,
+scraggly beard covers its cadaverous face which has no immediately apparent
+eyes.  Only black holes stare at you, seeming to be waiting for something.  
+Its spectral posture is bent and crooked, as you would expect of one who has
+lived many long, difficult years.  All of its clothes are tattered and torn.  
+Its wretched undeath seems to have condemned it to wollow in eternal misery.  
+
+~
+8 0 0 0 E
+22 7 -6 3d33+550 3d8+7
+0 40000 10
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#2290
+spectre gaunt thin gaping eye sockets fourth~
+a gaunt, thin spectre~
+A gaunt, thin spectre with gaping eye sockets floats above the ground.
+~
+   The figure floats above the ground with a malevolent air about it.  The
+nearer you come to it, the colder the blood within your veins becomes.  Its
+gaunt, dead-man's face betrays no hint of emotion.  His mouth is motionless,
+making no sound, and mouthing no words.  He has no eyes, only black holes where
+perhaps they once were in life.  He glows with a faint, blue aura, and is
+surrounded by a shield of cold.    
+~
+782426 134317116 640 0 E
+25 5 -9 3d33+850 4d6+8
+0 87000 8
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#2291
+spirit long-dead dead priestess woman spectral figure shimmering armor fifth~
+the spirit of a long-dead priestess~
+A woman's spectral figure, clad in shimmering armor, floats motionlessly in the air.
+~
+   This unquiet spirit looks in death much like she must have in life.  Every
+part of her has maintained its shape, except now what once was flesh and bone
+and blood is spectral energy, humming with a faint, ultramarine aura.  In her
+hands, she clutches a long staff.  Her spectral robes cover her lithe body,
+like a death shroud.  Her face is kept cast low, looking down on you.    
+~
+1831002 103480 209715200 200 E
+25 5 -9 3d33+850 4d6+8
+0 87000 9
+8 8 2 0
+BareHandAttack: 12
+Maxmove: 50
+E
+#2292
+spectral warrior long dark robes mailed hands sixth~
+a spectral warrior~
+Long dark robes show only the mailed hands of this spectral warrior.
+~
+   This spectral figure floats a foot off the ground, and has no readily
+apparent feet.  Still, when you look up upon his tall frame, you cannot help
+but feel intimidated by his presence.  He wears armor beneath voluminous black
+robes, a cowl completely obscuring his face.  Clutched in those cold mailed
+fists is an ancient two-handed sword, held forever at the ready.  Perhaps once
+a mighty warrior, only his spirit remains upon this world.    
+~
+3403802 110652 0 0 E
+25 5 -9 3d33+850 4d6+8
+0 87000 10
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#2293
+spectral wizard robes spectre resplendent dignified cursed seventh~
+a spectral wizard~
+A spectral wizard floats here, his robes resplendent and dignified in his cursed state.
+~
+   This spectre is terrifying to behold, yet at the same time, he has a quiet
+dignity which somehow softens the fear that comes in his presence.  His hands
+are folded within the sleeves of his robes, which, though spectral, are clearly
+of fine make.  He has a high forehead, perpetually wrinkled as though he were
+in deep thought.  His ghostly face is covered with a long beard which falls in
+white curls nearly to the floor.    
+~
+782426 110652 201589760 0 E
+25 5 -9 3d33+850 4d6+8
+0 87000 8
+8 8 1 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#2294
+spectral king figure gaunt regal eighth~
+a spectral king~
+The spectral figure of a king stands here, his gaunt face held in regal dignity.
+~
+   Oh how death has taken everything from some.  Judging from the tattered
+finery worn by this horrible apparition, he held a high station in life.  When
+he died, he took with him the large, jewelled crown upon his head into the next
+world.  His beard is thin and long, much of it fallen out.  His eyes are hidden
+in shadow, forever hiding the pride shown there which would surely match the
+proud, though dead features of his lifeless face.    
+~
+258138 201557052 0 -200 E
+25 5 -9 3d33+850 4d6+8
+0 87000 10
+8 8 1 0
+BareHandAttack: 12
+Maxmove: 50
+E
+#2295
+spectre elven woman haughty haughtiness ninth~
+the spectre of an elven woman~
+An elven woman floats here, her haughtiness forever preserved as a spectre.
+~
+   Tall and thin, this spectral figure of an elven princess appears almost
+half-starved.  The long, drawn features which in life would have held colour in
+vivacity now hold nothing but arrogance, and a stubborn refusal to go softly
+into that good night.  Her gossamer gown shimmers with ghostly energy.  Her
+hands are folded demurely in front of her.  Her eyes are all but absent from
+that face which seems to regard you with an air of superiority, even in this
+most cursed state of unlife.    
+~
+1306714 111676 0 0 E
+25 5 -9 3d33+850 4d6+8
+0 87000 10
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#2296
+ghostly child figure tenth spectre~
+a ghostly child~
+The ghostly figure of a child floats here, his days of playing long gone.
+~
+   This spectre is smaller than the rest.  Though its face bears the same
+gauntness and ageless torment as the others, its small size marks it as a
+child.  It is of undeterminable gender, its face betraying not a hint of
+maculinity or femininity.  Its long years of lifeless living have robbed it of
+any childlike qualities it once held, and now it simply floats here, like the
+rest, not moving, not speaking.    
+~
+258138 242748 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 10
+8 8 0 0
+Maxmove: 50
+E
+#2297
+ancient nearly-skeletal skeletal spectre eleventh~
+an ancient, nearly-skeletal spectre~
+A spectre apparently more ancient than all the rest floats motionless before you.
+~
+   This spectre is quite old indeed, and must have been old when he entered
+into this cursed unlife.  His head is bereft of any trace of hair, which would
+have long ago fallen out.  His deep, sunken eyes make his face appear
+completely ghastly.  Wrinkles line every inch of his exposed skin.  He is
+dressed in the simple robe of a clerical hearler, but his hands have become
+gnarled hooks.    
+~
+1831002 111676 12 0 E
+27 3 -11 3d33+1100 4d7+8
+0 135000 9
+8 8 1 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#2298
+spectral druid no features robes twelfth~
+a spectral druid~
+No features can be made out of this spectre as robes cover all.
+~
+   It seems as though a set of blue, spectral robes is floating in midair
+before you, but there is definitely a figure lurking within.  An aura of peace
+surrounds this figure, who betrays no gender, nor age, station, or profession.
+It is almost dismissable as simply another spectre, but then you notice
+something: a leaf-shaped amulet, barely visible, glowing upon its chest.    
+~
+782346 33796156 262144 0 E
+24 6 -8 3d33+750 4d6+8
+100000 68000 9
+8 8 0 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#2299
+spectral knight ghostly armor symbols solamnia solamnic spectre thirteenth~
+a spectral knight~
+A ghostly warrior bears upon his armor the symbols of the Knights of Solamnia.
+~
+   This man's proud bearing is unmistakable even in death.  Though his face is
+now withered away and ghostly, and black holes mark the places where eyes once
+were, it has the long moustaches favored in bygone days by the Knights of
+Solamnia.  Upon his shimmering spectral armor are the heraldic devices of the
+Kingfisher, the Rose, and the Sword.  He stands, clutching a broken, rusted
+sword in his right hand.  His head is held high in a semblence of knightly
+pride.    
+~
+3403866 233532 0 850 E
+26 4 -10 3d33+950 4d7+7
+0 115000 10
+8 8 1 0
+BareHandAttack: 11
+Maxmove: 50
+E
+$

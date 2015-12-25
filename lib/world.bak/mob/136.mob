@@ -1,0 +1,310 @@
+#13600
+village watchman~
+a village watchman~
+A village watchman patrols the streets and walkways of this tiny village.
+~
+   This well built, middle-aged man has very prominent features and leathery
+skin, which he likely earned through hours spent outdoors on patrol.  Hanging
+on his leather belt is a sturdy club.  He gives the villagers a nod, and very
+rarely a faint smile, as he walks his beat.  Any strangers, however, are met
+with a suspicious stare.    
+~
+1060940 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+695 14000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#13601
+boy young worn clothing~
+a young boy in worn clothing~
+A young boy runs around the village with a stick in his hand.
+~
+   This young boy appears to be no more than nine years old.  He is clad in
+old, torn clothes that were no doubt handed down from an older sibling.  It
+does not seem to bother him, however.  He is far more interested in whatever
+game he is playing at the moment.  He swings the stick he is carrying in the
+air, as if brandishing an intimidating weapon.    
+~
+76 0 0 0 E
+5 17 11 2d5+65 2d5+0
+21 85 0
+8 8 1 0
+BareHandAttack: 13
+E
+#13602
+homemaker woman tired housewife~
+a tired-looking homemaker~
+This tired homemaker takes a moment's rest between chores.
+~
+   This young woman is pale and tired and looks quite a bit older than she
+truly is.  Like many of the women of this village her day begins at sunrise and
+her work lasts her long into the evening hours.  Despite her apparent
+exhaustion, she whistles cheerfully to herself as she goes about her chores.  
+~
+10 0 0 0 E
+12 13 4 5d6+210 2d8+3
+70 4700 0
+8 8 2 0
+E
+#13603
+woman elderly greying hair~
+an elderly woman with greying hair~
+An elderly woman sits comfortably by the fire, enjoying a book.
+~
+   This woman is sitting comfortably in her rocking chair She rests her feet on
+the small footstool in front of her, warming her feet by the fire.  Her greying
+hair is neatly combed and pinned up in a bun.  She is wearing a pair of reading
+glasses and seems to be enjoying her book.    
+~
+14 0 0 0 E
+10 15 8 5d5+110 2d6+2
+60 800 0
+8 8 2 0
+E
+#13604
+gentleman elderly man~
+an elderly gentleman with a walking stick~
+An elderly gentleman stands here, leaning heavily on his walking stick.
+~
+   This man appears to be in sixties or seventies.  He looks worn out as he
+leans heavily on his walking stick.  Despite the obvious effort it takes, he
+still makes his way to the village square each day.  His hair is bushy and a
+pale color of grey, and his expression is warm though tired.    
+~
+76 0 0 0 E
+11 14 5 5d4+190 2d8+2
+44 2900 0
+8 8 1 0
+E
+#13605
+girl youthful dimples~
+a youthful girl with dimples on each cheek~
+A youthful looking girl skips along the street, humming to herself.
+~
+   This young girl seems to be enjoying whatever game she is playing as she
+makes her way through the village.  She stops to tidy her hair and smile as she
+notices you looking at her.  Her prominent dimples brighten her face as she
+smiles in your direction before giggling and running away.    
+~
+12 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 2 0
+E
+#13606
+terrapin turtle diamondback~
+a diamondback terrapin~
+A diamondback terrapin slowly makes its way through the marshlands.
+~
+   Diamondback terrapins are perhaps the most attractive turtles on Krynn.  
+They have ornately patterned shells, light gray bodies dotted with contrasting
+black spots, and always look as though they are grinning.  These turtles spend
+most of their time in the water and only come onto land to bask or lay eggs.  
+Marshes are the ideal home for them since they feed on a variety of
+crustaceans, fish, insects, and mollusks.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+BareHandAttack: 4
+E
+#13607
+watchman man village~
+a village watchman~
+A watchman stands at his post, watching the bay and the countryside below.
+~
+   This well built, middle-aged man has very prominent features and leathery
+skin, which he likely earned through hours spent outdoors at his post.  
+Hanging on his leather belt is a sturdy club.  He keeps a watchful eye over the
+surrounding landscape: always alert for anything out of the ordinary.    
+~
+65562 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+654 11800 0
+8 8 1 0
+BareHandAttack: 13
+E
+#13608
+bird black red-winged~
+a red-winged black bird~
+A red-winged black bird circles lazily overhead as it looks for food.
+~
+   This beautiful bird makes its home along the upland borders of the salt
+marsh.  Its nest of marsh grasses houses two to three broods each season.  
+This specimen is clearly a male, having the telltale red shoulder patches on
+his otherwise black body.  Females are brown with brown and tan streaks.    
+~
+65544 65536 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 1 0
+BareHandAttack: 4
+E
+#13609
+snake greenish water~
+a greenish water snake~
+A greenish snake hides amongst the grasses.
+~
+   This snake is a rather short specimen.  Its scales are a greenish color
+which allows it to blend in with its aquatic surroundings.  A few spots of
+yellow are useful when the snake is hiding amongst the grassy areas of the
+marsh.  Noticing your attention, the snake hisses extending its tongue and
+bearing its fangs.    
+~
+65545 0 0 0 E
+4 18 12 1d5+45 1d8+1
+0 50 0
+8 8 0 9
+BareHandAttack: 4
+E
+#13610
+fisherman man hip-waders~
+a fisherman in hip-waders~
+One of the many fishermen in the village returns from his latest fishing adventure.
+~
+   It is not uncommon in this town to see men dressed as this man is.  Canvas
+waders, reaching up past his hip and fastened with suspenders, cover more than
+half his body.  Her proudly carries his fishing basket and pole as signs of his
+profession.  His tanned face is handsome, and he smiles as he notices you
+looking in his direction.  He lifts his fishing basket to show of his catch.  
+~
+12 0 0 0 E
+13 13 3 6d5+240 2d9+2
+104 6625 0
+8 8 1 0
+BareHandAttack: 13
+E
+#13611
+patron intoxicated man~
+an intoxicated patron~
+A slightly intoxicated patron leans heavily on the bar.
+~
+   This solidly built man appears to have had one drink too many.  He leans
+heavily on the bar in an attempt to remain in his seat.  Despite his obviously
+intoxicated condition, he gestures for the barkeep to refill his mug.  His
+eyes, though heavy from the alcohol, are still a bright color of blue, and he
+has a friendly smile that shows off his dimples.    
+~
+10 0 0 0 E
+14 12 2 6d8+240 2d8+4
+60 7000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#13612
+woman young villager~
+a young woman from Bayside Village~
+A young woman gossips with passerbys as she makes her way along the village paths.
+~
+   This young woman has short auburn hair which peeks out from beneath her sun
+hat.  She carries a fishing basket on her arm.  It swings easily as she walks
+and is most likely still empty.  She stops to chat with each person she meets
+as she makes her way towards the waterfront.    
+~
+12 0 0 0 E
+12 13 4 5d6+210 2d8+3
+70 4700 0
+8 8 2 0
+E
+#13613
+alligator~
+an alligator~
+An alligator hides amongst the grasses.
+~
+   Alligators are large reptiles with sharp teeth and powerful jaws.  They
+differ from crocodiles in that they have a broader, shorter snout.  Leather
+made from their hide is prized by many and used to make shoes, belts, and other
+items.  This alligator lives in the wetlands along the bay.  He hides in the
+shallow waters and amongst the grasses.  When still, his prey often mistake him
+for a log which enables him to draw them near for the kill.    
+~
+82092 786496 1 0 E
+15 11 1 5d10+300 2d8+4
+0 8400 0
+8 8 1 0
+BareHandAttack: 4
+E
+#13614
+cow black white large patched~
+a large black and white patched cow~
+A large black and white patched cow chews slowly on her cud.
+~
+   This large white cow is covered with black patches like most dairy cows.  
+She meanders through the pen, quietly chewing her cud.  Her dark brown eyes are
+round and fringed with thick lashes.    
+~
+8 0 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 2 0
+BareHandAttack: 4
+E
+#13615
+woman tired~
+a tired looking woman~
+A tired looking woman is attending to her chores.
+~
+   This petite woman appears to be about middle-aged.  Her curly hair is dark
+brown in color and pulled up into a tight bun.  She sighs in exhaustion as she
+does her daily chores around the house.  Her eyes show signs of a long day's
+work, and she appears as though she could use a peaceful night's rest.    
+~
+14 0 0 0 E
+12 13 4 5d6+210 2d8+3
+66 4700 0
+8 8 2 0
+E
+#13637
+Therima barkeeper shopkeeper shopkeep~
+Therima~
+Therima stands behind the wooden bar which runs the length of the western wall.
+~
+   Therima is an energetic young woman that seems to thoroughly enjoy her
+occupation.  Her parents are the owners of the tavern, and she has been working
+here (in some capacity) for years.  She wears a simply dress with a laced up
+bodice, and a white ruffled bonnet on her head.  A few mousey-brown curls peek
+out from beneath its lace edging.  As she notices your gaze, she flashes a
+charming smile.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+4444 30d99+50
+9999999 0 0
+8 8 2 0
+BareHandAttack: 6
+E
+#13679
+Felind shopkeeper shopkeep~
+Felind~
+Felind stands behind the counter, eager to help her next customer.
+~
+   Felind and her husband are the proprietors of this small shop.  They live in
+a simple apartment above the store.  Felind prefers to spend her time in the
+shop, though, socializing with her customers.  She is a striking woman,
+particularly for her age.  Her hair is a salt and pepper color, and the few
+lines on her face enhance her large and exotic features.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+4000 30d99+50
+99999999 0 0
+8 8 2 0
+BareHandAttack: 6
+E
+#13690
+Rilade innkeeper~
+Rilade~
+Rilade sits behind a narrow desk, sorting through some papers.
+~
+   Rilade looks up from her paperwork and smiles at your approach.  Her face
+and dress are plain, but her friendly smile lends warmth to her overall
+appearance.  In Bayside Village, Rilade is the woman to see if you are looking
+for a room to rent.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+0 0 0
+8 8 2 3
+BareHandAttack: 6
+E
+$

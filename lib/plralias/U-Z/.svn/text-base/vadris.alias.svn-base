@@ -1,0 +1,220 @@
+1
+2
+20
+put all.chicken pack
+0
+2
+ds
+14
+dismount horse
+0
+2
+md
+16
+st ; mount horse
+1
+2
+gr
+10
+guard russ
+0
+2
+rr
+9
+resc russ
+0
+2
+ar
+8
+ass russ
+0
+2
+eb
+11
+eat chicken
+0
+3
+gbp
+16
+get chicken pack
+0
+2
+st
+55
+remo bone ; wear inlaid ; remo pearl ; wear curled ; st
+1
+3
+res
+53
+remo arm ; wear bone ; remo curled ; wear pearl ; res
+1
+1
+8
+31
+remo winged ; wear winged ; aff
+1
+4
+ping
+34
+tel bath :P ; tel weaponsmaster :P
+1
+1
+5
+60
+remo bastard ; remo shield ; remo damascus ; wield flamberge
+1
+1
+4
+67
+remo flamberge ; remo damascus ; wield bastard ; wear shield shield
+1
+1
+3
+60
+remo flamberge ; remo shield ; wield bastard ; hold damascus
+1
+2
+us
+25
+unsheath bastard scabbard
+0
+2
+ss
+23
+sheath bastard scabbard
+0
+1
+1
+14
+buy 10 snapper
+0
+2
+rm
+11
+resc mathar
+0
+2
+am
+10
+ass mathar
+0
+2
+gi
+9
+guard ill
+0
+1
+s
+5
+south
+0
+2
+ra
+8
+resc ala
+0
+2
+aa
+7
+ass ala
+0
+2
+ri
+8
+resc ill
+0
+2
+ai
+7
+ass ill
+0
+2
+rl
+9
+resc lill
+0
+2
+al
+8
+ass lill
+0
+1
+;
+11
+chat &g$*&n
+1
+2
+ga
+10
+guard asik
+0
+3
+fly
+48
+remo pack ; get faery pack ; wear pack ; q faery
+1
+5
+tiger
+48
+remo pack ; get tiger pack ; q tiger ; wear pack
+1
+3
+liw
+14
+look in cowled
+0
+3
+lic
+14
+look in cowled
+0
+2
+af
+10
+ass floren
+0
+2
+rf
+11
+resc floren
+0
+2
+rp
+9
+remo pack
+0
+2
+wp
+9
+wear pack
+0
+3
+lip
+12
+look in pack
+0
+6
+unlock
+19
+unlock $* ; open $*
+1
+2
+sc
+4
+scan
+0
+2
+sk
+11
+skin corpse
+0
+4
+drin
+9
+drin skin
+0
+3
+gac
+18
+get all all.corpse
+0

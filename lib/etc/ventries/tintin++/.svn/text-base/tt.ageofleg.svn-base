@@ -1,0 +1,22 @@
+#alias {bread} {drink skin;drink skin;get bread bag;eat bread}
+#alias {skin} {get skin pack;drink skin;drink skin;put skin pack}
+#alias {targ} {#var ta %0}
+#alias {tank} {#var tank %0}
+#alias {clt} {cast cure-light $tank}
+#alias {killm} {kill $ta}
+#alias {c} {assist $tank}
+#alias {cl} {cast cure-light}
+#alias {gcc} {get coins corpse}
+#alias {re} {rest}
+#alias {sc} {score}
+#alias {cm} {cast cure-moderate}
+#alias {cmt} {cast cure-moderate $tank}
+#alias {cf} {cast create-food}
+#alias {c-l} {cast magic-light}
+#alias {gac} {get all corpse}
+#alias {ble} {cast bless}
+#alias {cs} {cast cure-severe}
+#alias {cst} {cast cure-severe $tank}
+#alias {arm} {cast armor}
+#var tank me
+#high {light green} {%0 utters the words, '%1}

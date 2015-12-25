@@ -1,0 +1,107 @@
+CircleMUD v3.0 Shop File~
+#500~
+500
+501
+502
+503
+504
+505
+506
+507
+510
+-1
+1.00
+0.25
+17goblet
+17flask
+17tumbler
+17flute
+17snifter
+-1
+%s We don't serve that here, honey.~
+%s Do you take me for some kind of fool?~
+%s I can't do anything with that piece of junk.~
+%s Do I look like I've got platinum spilling out of my blouse?~
+%s Come back when you have some real money.~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+501
+0
+502
+-1
+0
+28
+0
+0
+1
+38
+#506~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that iter.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+1751348589
+0
+-1
+0
+28
+0
+0
+1
+38
+#507~
+4613
+11548
+5123
+-1
+1.00
+1.00
+5sword
+5shortsword
+5dagger
+5staff
+5broadsword
+5longsword
+5whip
+5flail
+5mace
+9plate
+9leather
+9steel
+9breastplate
+9leggings
+9boots
+9bracer
+9gloves
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+503
+0
+507
+-1
+0
+28
+0
+0
+1
+38
+$~

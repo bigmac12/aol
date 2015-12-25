@@ -1,0 +1,116 @@
+#20101
+The Mountains~
+  The path from palanthus continues up the mountains,it looks like a dangerous and har climb,but it's worth the risk.
+~
+201 0 0
+D0
+~
+~
+0 0 20104
+D1
+Nothing.
+~
+~
+0 0 20102
+D3
+~
+~
+0 0 20103
+S
+#20102
+The Mountains~
+You are in an unfinished room.
+~
+201 0 0
+D3
+~
+~
+0 0 20101
+S
+#20103
+The Mountains~
+You are in an unfinished room.
+~
+201 0 0
+D1
+~
+~
+0 0 20101
+S
+#20104
+Climbing The Mountains~
+You are in an unfinished room.
+~
+201 0 0
+D0
+~
+~
+0 0 20105
+D2
+~
+~
+0 0 20101
+D3
+~
+~
+0 0 20110
+S
+#20105
+High In the Mountains~
+You are in an unfinished room.
+~
+201 0 0
+D2
+~
+~
+0 0 20104
+D5
+~
+~
+0 0 20106
+S
+#20106
+Climbing Down~
+You are in an unfinished room.
+~
+201 0 0
+D2
+~
+~
+0 0 20105
+D5
+~
+~
+0 0 20107
+S
+#20107
+On the Ground~
+You are in an unfinished room.
+~
+201 0 0
+D0
+~
+~
+0 0 20108
+D4
+~
+~
+0 0 20106
+S
+#20108
+An Overgrown Road~
+You are in an unfinished room.
+~
+201 0 0
+D2
+~
+~
+0 0 20107
+S
+#20110
+Falling~
+ Falling,falling,falling,falling some more,SPLAT! You're DEAD!
+~
+0 0 0
+S
+$~

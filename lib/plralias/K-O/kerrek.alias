@@ -1,0 +1,80 @@
+1
+x
+20
+st ; mount packhorse
+1
+1
+2
+22
+put all.rations cowled
+0
+2
+wp
+11
+wear cowled
+0
+2
+rp
+11
+remo cowled
+0
+2
+st
+18
+remo bandages ; st
+1
+3
+res
+25
+wear bandages back ; rest
+1
+3
+lip
+14
+look in cowled
+0
+3
+gbp
+17
+get rations cloak
+0
+2
+sk
+11
+skin corpse
+0
+2
+eb
+11
+eat rations
+0
+1
+1
+14
+buy 10 rations
+0
+1
+;
+7
+chat $*
+1
+6
+unlock
+19
+unlock $* ; open $*
+1
+4
+drin
+9
+drin skin
+0
+2
+sc
+4
+scan
+0
+3
+gac
+18
+get all all.corpse
+0

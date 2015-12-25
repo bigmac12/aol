@@ -1,0 +1,228 @@
+#12900
+ogre burly bartender~
+the burly bartender~
+A hulking ogre with greasy hair and a horrible stench stands here serving drinks.
+~
+   The first thing you notice about this ogre is the stench he emits.  It
+smells as though he is unfamiliar with the concept of bathing.  His clothing is
+soiled, his white apron is decorated by various brown stains, and yet somehow
+he is quite polular among the local patrons.  It seems logical that it could be
+due to the fact that many of them smell no better than this massive bulk of
+green beast.    
+~
+7528523 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+5000 250000 3
+8 8 1 0
+BareHandAttack: 6
+E
+#12901
+dazed dazed-looking drunken ogre~
+a dazed-looking ogre in a drunken stupor~
+A dazed-looking ogre lays here, drooling, in a drunken stupor.
+~
+   Once a proud warrior, this ogre has long since past his prime.  There are
+several empty mugs laying scattered around him, and definitely no shortage of
+flies buzzing about his head.  He looks as though he is so intoxicated that it
+is difficult for him to even hold up his once-proud head.  However, the glint
+in his eye tells you that this ogre still has some fight to him.    
+~
+72 0 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 3
+5 8 1 0
+BareHandAttack: 13
+E
+#12902
+wench serving ogre woman~
+the serving wench~
+An ogre woman, as wide as she is tall, serves drinks here.
+~
+   This youthful ogre woman is almost as heavily-muscled as most of the men in
+this bar.  One massive arm carries a tray full of drinks, while the other
+clears her path of patrons as she moves through the croud.  On her face is a
+stern look of determination that would make most customers think twice before
+complaining about the food and drink here.    
+~
+72 0 0 0 E
+8 15 8 5d5+110 2d6+2
+450 800 3
+8 8 2 0
+BareHandAttack: 13
+E
+#12903
+ogrish stock-boy~
+a young ogrish stock-boy~
+A young ogrish stock-boy sorts the inventory here.
+~
+   This young ogre is the human equivilant of a teenager.  He is well-muscled,
+but does not yet rival a fully grown male in size.  He has a rather annoyed
+look on his face, and he is constantly grumbling about the bartender as he
+tosses stock around the room.  Most of what he says is slander directed at his
+employer, but he also mentions something about a lost key...    
+~
+74 0 0 0 E
+8 15 8 5d5+110 2d6+2
+100 800 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12904
+innkeeper ogre female elderly~
+an elderly female ogre~
+An elderly female ogre sits here waiting for you to decide if you need a room or not.
+~
+   This elderly female's face is covered with so many wrinkles that her eyes
+are just barely visible.  Her gnarled hands sit in her lap and constantly
+shake.  This shaking travels from her hands up her arms into her shoulders and
+face making her wrinkles quiver slightly.  She sits here patiently waiting for
+you to make your decision about weather or not you need a room.    
+~
+254026 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 1 0
+6 6 2 3
+E
+#12905
+merchant travelling~
+a travelling merchant~
+A travelling merchant has temporarily set up shop here.
+~
+   This man's rich dress makes it apparent that he has been quite successful as
+a merchant.  So successful in fact that he can now pick and chose his
+customers.  If he feels that it isnt worth his time to deal with you he simply
+ignores you.  On the other hand if he thinks you are worth his while his face
+is all smiles, and he is more than eager to help you.    
+~
+7594058 0 0 0 E
+31 0 -15 30d99+2000 30d99+10
+999999999 0 0
+8 8 1 0
+E
+#12990
+man large bald balding~
+a large, balding man~
+A large, balding man is eagerly pacing about.
+~
+   A large, balding man is eagerly pacing about the hallway, waiting his turn.
+His short height, large waistline, and old age suggests that he is not the
+fighting type.  He appears to be in the late fourties in years, maybe more.  
+The dark purple clothing he wears suggests that he is a wealthy business man,
+but he isn't too wealthy after a visit here.  Although he has been pacing for
+quite some time, he still looks like he's in a good mood, most likely imagining
+what will happen.    
+~
+1048712 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 1 0
+E
+#12991
+woman pretty dark hair haired~
+a pretty, dark haired woman~
+A pretty, dark haired woman is getting prepared for her next client.
+~
+   A pretty, dark haired woman is getting prepared for her next client here.  
+Even though she looks young, she seems very calm, almost like she's done this
+many times before.  Her dark brown hair reaches just past her shoulders.  You
+notice that on her wrists are red marks, possibly where some coarse rope was
+tied.  Seeing as how pretty she is, she probably has drained a good amount of
+money from many men.  She is sitting down on a bed, gathering various 'props'
+for her next 'performance'.    
+~
+1064970 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+462 11800 0
+8 8 2 0
+BareHandAttack: 8
+E
+#12992
+warrior strong client~
+a strong looking warrior~
+A strong looking warrior is celebrating a recent victory.
+~
+   A strong looking warrior is celebrating a recent victory, with an ale mug in
+one hand, and a bandage on the other.  Many of the employees of this
+establishment are surrounding him, flirting with him almost non-stop.  He sits
+here, drinking from his mug that gets refilled often, telling stories about
+fights that even a kender would have trouble making up.  The ladies don't seem
+to notice though, they don't even seem to be paying attention to the story.  
+~
+1048586 131072 0 0 E
+16 11 0 3d20+320 3d6+4
+493 11000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#12993
+woman attractive young~
+a very attractive young woman~
+A very attractive young woman is holding a leash connected to a client.
+~
+   A very attractive young woman is holding a leash connected to a client here.
+You are surprised how young she looks, she can't be more than 20 years old.  
+Her hair is a firey red color, and hangs a few inches above her shoulders.  
+She is wearing black leather, and it is worn very tight.  With a smirk on her
+face, she tightly holds a leash.  On the other end of the leash, you see a man
+tied up with leather straps.    
+~
+1064970 131072 0 0 E
+20 8 -4 3d20+440 3d6+6
+832 25000 4
+8 8 2 0
+BareHandAttack: 8
+E
+#12994
+man client middle aged~
+a middle-aged man~
+A middle-aged man, bound in leather is kneeling next to his temporary mistress.
+~
+   A middle-aged man, bound in leather is kneeling infront of the young woman
+here.  He has been tied in leather straps, it doesn't look comfortable.  He is
+wearing next to no clothing, but, thankfully, he is still wearing some
+leggings.  His feet are bound together, and his hands are behind his back, tied
+as well.  Around his neck is a large collar, with a leash connected to it.  
+The leash must be incase he gets over excited and his temporary mistress needs
+to keep him in control.    
+~
+1064970 131072 0 0 E
+18 11 -2 3d20+380 3d6+6
+655 14000 0
+8 8 1 0
+E
+#12995
+woman attractive spark sparkling green eyes~
+an attractive woman~
+An attractive woman with sparkling green eyes is giggling here.
+~
+   An attractive woman with sparkling green eyes is giggling here.  She is
+hanging onto the warrior, not listening to his stories, but interested in his
+body.  Being a head shorter than most women, she looks small next to him.  
+Whenever she giggles, her wavy hair moves with her.  Her eyes are a bright
+green, and they blaze with youth and life.    
+~
+1048586 0 0 0 E
+16 11 0 3d20+320 3d6+4
+512 11000 0
+8 8 2 0
+BareHandAttack: 8
+E
+#12996
+Melinda woman young light brown hair~
+Melinda~
+A young woman with light brown hair is standing here, greeting visitors.
+~
+   A young woman with light brown hair is standing here, greeting visitors with
+a friendly smile.  She is very attractive and it makes you wonder if this is
+her only job here.  Her hair is straight and long, going to the middle of her
+back.  While it may seem plain, her hair is actually well kept and brushed.  
+The smile she gives everyone is one that she's had some time to perfect, and it
+shows that she has not wasted that time.    
+~
+3391498 33686568 0 0 E
+25 5 -10 3d33+900 5d6+8
+1400 87000 0
+8 8 2 0
+BareHandAttack: 8
+E
+$

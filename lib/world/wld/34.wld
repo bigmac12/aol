@@ -1,0 +1,1029 @@
+#3400
+Entrance to the Temple of Astarin~
+   The great Temple of Astarin sits at the geographical center of the City of
+Silvanost.  This in itself should adequately exemplify the importance of this
+diety to the city's inhabitants.  However, the elven craftsmen that erected
+this temple felt its grandeur should be second to none.  It is flanked on all
+sides by temples raised in honor of each of the other gods of the pantheon of
+light, yet it still manages to stand out and exert its dominance.  The entryway
+glows during the daytime as sunlight pours in through the windows, bathing the
+flawless marble room in its cleansing light.  Ornately carved archways leading
+off in each of the cardinal directions invite visitors further into the temple
+or outside toward the garden.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3403
+D1
+~
+~
+0 0 3401
+D2
+~
+~
+0 0 3402
+D3
+~
+~
+0 0 3246
+S
+#3401
+The Altar of Astarin~
+You are in an unfinished room.
+~
+34 8 0 0 0
+D3
+~
+~
+0 0 3400
+S
+#3402
+A Concert Hall~
+You are in an unfinished room.
+~
+34 0 0 0 0
+D0
+~
+~
+0 0 3400
+S
+#3403
+A Room for the Reading of Poetry~
+You are in an unfinished room.
+~
+34 0 3 0 0
+D2
+~
+~
+0 0 3400
+S
+#3404
+Another Room for the Temple of Astarin?~
+You are in an unfinished room.
+~
+34 0 0 0 0
+S
+#3405
+Temple of Matheri~
+   The fragrance of fresh rose blossoms overwhelms the senses upon entering
+this exquisite structure.  The main prayer room of the temple formed by the
+gnarled roots of an ancient aspen which have substantially uprooted over the
+years.  Beneath these roots, which embrace the temple like spider's legs, elves
+gather to worship at a copper altar.  Each visitor to the temple bring with
+them an offering of a single rose which is added to the ever-present pile of
+blooms.  An enclosed room is visible to the north, and a path to the west leads
+out from underneath the massive tree.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3406
+D2
+~
+~
+0 0 3232
+D3
+~
+~
+0 0 3407
+S
+#3406
+A Room for Meditation and Reflection~
+   The quiet serenity of this room immediately soothes the souls of all who
+enter.  The walls are painted the color of parchment paper and provide a warm
+feeling to the sparsely decorated area.  On the floor are simple sisal mats
+which quiet the footfalls of those who pass, adding to the peaceful atmosphere.
+A copper fountain is the only furnishing in this otherwise barren chamber.  
+Its soft bubbing sound lulls visitors into an almost trance-like state.    
+~
+34 8 0 0 0
+D2
+~
+~
+0 0 3405
+S
+#3407
+A Training Yard~
+   It is here that those who wish to study the martial arts, as taught by the
+priest of Matheri, come to practice.  This method of fighting is designed to be
+used primarily as a means of self defense.  Elves, viewing life as a gift from
+the gods and therefore sacred, will attempt to preserve the sanctity of life in
+all forms.  However they train dutifully.  If they are provoked or need to
+defend their beloved homeland, they will be ready and able.    
+~
+34 0 1 0 0
+D1
+~
+~
+0 0 3405
+S
+#3408
+The Temple of Quenesti Pah~
+   The Temple of Quenesti Pah is one of the many buildings in Silvanost that
+was carved from a solid piece of marble that is quite plentiful in this area.
+The white marble is veined with shades of blue adding a warmth to the otherwise
+cold stone.  An altar, draped in fine blue silk, stands before the southern
+wall upon a dais.  On the center of the altar rests a silver infinity symbol
+which glows with an ethereal light.  Rows of wooden pews sit facing the alter.
+Each pew is intricately carved with scenes of a woman as she makes her way
+through the enchanted forest of Silvanesti.    
+~
+34 8 0 0 0
+D7
+~
+~
+0 0 3409
+D8
+~
+~
+0 0 3233
+S
+#3409
+A Convalescent Center~
+   The convalescent center was added after the original temple structure had
+been molded from nature.  It is no less opulent in its design, however.  It
+appears far more like a lavish hotel than a center for people in need of care
+or the attention of clerics.  Designed to offer a place for rest and relaxation
+during recovery periods, it is rarely used.  Occasionally an injured resident
+may venture in to reap the benefits of prayer and the comforts of the center.
+~
+34 8 0 0 0
+D8
+~
+~
+0 0 3408
+S
+#3410
+The Main Sanctuary of the Temple of E'li~
+   Sunlight pours through the wide windows of the main hall, great swaths of
+golden light, glittering on a long, sinewy form of a dragon, wings spread and
+jaws wide.  Fangs of ivory, talons of gold, and scales of beaten platinum, here
+is the image of E'li, the Dragon's Lord himself.  Somewhere in the deeps of the
+Temple, chants can be heard, in deep voices as well as high, the rhythm of them
+rolling forth and back: 'From the might of the Dragon Queen, protect us, O
+E'li!  From her claws and rage, from her fury, defend us!  From the sway of the
+Dragon Queen, protect us, O E'li!  From her fire and sword, from her terror,
+defend us!'  A silver triangle, about seven feet in height, adorns the eastern
+wall.
+~
+34 8 0 0 0
+D1
+   A triangular door, gilded in silver, leads out of the main sanctuary.    
+~
+door silver triangle~
+1 0 3416
+D3
+~
+~
+0 0 3234
+D4
+~
+~
+0 0 3415
+S
+#3411
+The Temple of Kiri-Jolith~
+   The Temple of Kiri-Jolith is not so much a temple as it is a gathering space
+for those looking to pay homage to the god of righteous warfare.  A perfect
+circle of aspen trees arch toward eachother creating a canopy of green leaves
+overhead.  Beneath the trees a lush carpet of verdant grass invites visitors to
+linger for a few moments after visiting the altar which stands at the center of
+the circle.  It is simplistic in its design consisting solely of a wooden table
+draped with white silk.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3257
+S
+#3412
+The Temple of the Blue Phoenix~
+   As a member of the Pantheon of Light and the god of the eternal cycle of
+nature Habbakuk, the Blue Phoenix, is well-loved by the elven people.  The
+temple they erected in His honor reflects their love of the natural gifts he
+has bestowed upon the world.  It has been built into the base of an ancient
+Vallenwood tree.  Over the centuries the tree has become one with the temple
+structure making it rather difficult to determine where one stops and the other
+starts.  It is simply furnished with an altar at the front, draped with white
+and blue linen.    
+~
+34 8 0 0 0
+D7
+~
+~
+0 0 3256
+S
+#3413
+The Temple of Solinari~
+   The Temple of Solinari is a round structure crafted from pure, white marble.
+Only a few veins of silver mar the otherwise flawless rock which has been
+buffed smooth.  The walls are so thick that they provide worshippers a quiet
+sanctuary for prayer and reflection.  A round window sits at the highest point
+of the domed ceiling.  The glass was specially crafted to allow only the
+silvery light of Solinari to filter through.  When the white moon is high in
+the sky, the entire temple is flooded with a warm, silvery light.    
+~
+34 8 0 0 0
+D1
+~
+~
+0 0 3255
+S
+#3415
+Before the Altar of the Temple of E'li~
+   The pure white marble of this large dais has been gilded with fine silver.
+The walls have been crafted from the living rock which has been here for
+centuries.  The altar itself sits at the center of the dais.  A few elegant
+chairs stand on either side of the altar, no doubt the seats for worshipping
+members of the Royal Family.  The domed ceiling which soars high overhead is
+made entirely of cut crystal.  As the sunlight passes through it around midday
+it casts a breathtaking pall over the entire temple below.    
+~
+34 8 0 0 0
+D5
+~
+~
+0 0 3410
+S
+#3416
+The Scriptorium of the Temple of E'li~
+   The scriptorium is typically a rather busy place during the daytime hours.
+Members of House Cleric who have been appointed to record keeping and map
+making work busily here, bathed in the bright sunshine which pours in through
+large, arching windows.  The windows are generally kept open to allow the
+fragrant blooms of the Temple's gardens to permeate the air while the
+everpresent chanting of melodious voices pay homage to E'li.    
+~
+34 8 0 0 0
+D3
+   A triangular door, gilded with silver, leads back to the main sanctuary.  
+
+~
+door silver triangle~
+1 0 3410
+E
+window windows~
+
+   Looking out the arching windows that make up the northern wall, it is
+possible to see the vast gardens of the Temple of E'li.  They are planted with
+fragrant blooms of all kinds as well as herbs for salves, ointments, and
+infusions.  The tower of the Householder of House Cleric adjoins these gardens
+and is clearly visible from this location.    
+
+   To the south, the gardens stretch to the very edge of House Cleric giving
+way to the paths of House Mason.  Just the other side of the main avenue, the
+highest points of the Great Palace of Quinari can be seen.
+
+~
+S
+#3420
+The Tower of the Householder of House Artisan~
+You are in an unfinished room.
+~
+34 8 0 0 0
+D7
+~
+~
+0 0 3208
+S
+#3421
+The Tower of the Householder of House Advocate~
+You are in an unfinished room.
+~
+34 8 0 0 0
+D2
+~
+~
+0 0 3243
+D4
+~
+~
+0 0 3440
+S
+#3422
+The Tower of the Householder of House Mason~
+You are in an unfinished room.
+~
+34 8 0 0 0
+D2
+~
+~
+0 0 3252
+S
+#3423
+The Tower of the Householder of House Cleric~
+You are in an unfinished room.
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3221
+S
+#3424
+The Tower of the Householder of House Woodshaper~
+   The entry room of House Woodshaper is a marvel of form and function.  The
+tower itself has been built to encircle a giant vallenwood.  The tree rises in
+the center of the tower, extending its branches above the open apex of the
+tower.  The inner walls have been inset with polished and lacquered murals,
+woodland scenes of primeval forests from the beginning of time.  The sounds of
+artisans at work can be heard from the side rooms, the muted noise of wood
+being sanded and the light metallic chime of hammer and chisel.  The room bears
+little ornamentation, instead rows of tables bearing architectural plans and
+sketches of carvings in progress have been placed at the four corners of the
+room.  A staircase of carved rowan encircles the tree, leading to the upper
+reaches of the tower.    
+~
+34 12 0 0 0
+D0
+~
+~
+0 0 3450
+D1
+~
+~
+0 0 3265
+D2
+~
+~
+0 0 3451
+D3
+~
+~
+0 0 3452
+D4
+~
+~
+0 0 3453
+E
+vallenwood tree staircase~
+   This elder vallenwood appears ancient beyond comprehension, its trunk
+dwarfing the tower proper as it rises high into the sky above.  A polished
+staircase of carved rowan wood circles it, reaching to the upper floors.  The
+smooth bark of the tree has been smoothed by the hands of countless elves who
+touch it in reverence as they pass.    
+~
+S
+#3425
+The Tower of the Householder of House Mystic~
+You are in an unfinished room.
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3262
+S
+#3426
+The Tower of the Householder of House Metalline~
+   Each of the houses of the Silvanesti caste system are lead by a Householder.
+Each of these leaders resides in a tower which also serves as a meeting place
+to discuss business.  The tower of House Metalline is a grand multi-colored
+structure which has been expertly crafted from a variety of different stones.
+The members of House Metalline being the miners of the Silvanesti people, they
+designed their tower as a showcase for the myriad of stones which they have
+encountered in their mining.    
+~
+34 8 0 0 0
+D8
+~
+~
+0 0 3226
+S
+#3427
+The Tower of the Householder of House Servitor~
+   Each house in the Silvanesti clan system has a leader who is called the
+Householder.  House Servitor is no exception.  Understandably this tower is a
+bit more humble than those of the other leaders.  To the human eye, it probably
+seems a wondrous edifice.  It was formed from an ancient aspen tree which still
+lives and grows even as it provides shelter for the Householder of the
+Servitors.  The branches of the tree seem to embrace the nonliving portions of
+the structure which are formed from the wood of a much younger aspen.  The main
+room is modestly furnished, with only a table and four chairs.  It seems a good
+place to come and discuss business, however.  The only decoration in the room
+is that which is provided by the natural beauty of the aspen.    
+~
+34 8 0 0 0
+D8
+~
+~
+0 0 3231
+S
+#3430
+The Entryway of the Great Palace of Quinari~
+   Heavily polished marble walls and pillars show the beauty of the palace.  
+Small bits of emerald have been embedded in pillars, and only a few in walls.
+The pillars themselves appear to be two pillars spiralled together to make one.
+Elves of all type and profession walk through here, some seeking the advice of
+House Royal.    
+~
+34 12 0 0 0
+D2
+~
+~
+0 0 3431
+D6
+~
+~
+0 0 3247
+S
+#3431
+A Long Hallway in the Palace of Quinari~
+   A polished marble floor gleams brightly all along the hall, even under the
+stress of traffic from palace visitors.  Squarish windows dot either wall,
+providing views of beautiful gardens and nature's touch.  The intersection just
+to south leads further into the interior of the palace, while the entryway can
+been seen to the north.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3430
+D2
+~
+~
+0 0 3433
+S
+#3432
+A Wide Patio~
+   Vines wrap themselves around the nearby railing, fragrant blooms add a
+light, flowery scent to the air.  Outside of the hedges immediately surrounding
+the railing, purple finches and quick hummingbirds dart in and out of the
+flowers and bushes in the garden overlooked by the extravagant patio.  Various
+gardeners meticulously tend to delicate flowers, keeping this scene flawless.
+~
+34 8 0 0 0
+D1
+~
+~
+0 0 3433
+S
+#3433
+An Intersection within the Palace~
+   An elaborate, stained glass dome resides overtop of this royal intersection.
+Elves of all walks of life stride through, some on business appearing urgent,
+while others are merely taking in sites.  In the middle of the floor, the sign
+of each elven house has been painted in a circle on the floor, the origin of
+the circle being that of House Royal's sign.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3431
+D1
+~
+~
+0 0 3434
+D2
+~
+~
+0 0 3435
+D3
+~
+~
+0 0 3432
+E
+dome stained glass elaborate~
+   This dome consists of painted glass tiles, each a unique shape, each a
+unique color.  When the sun is high, the room sparkles beautifully as the sun's
+rays are altered to the separate colors of the glass.    
+~
+S
+#3434
+The Eastern Hall of Silvanos~
+   The revered hall of Silvanos is the target of many travellers within the
+city.  Tapestries, paintings, and artifacts line the walls, each telling a
+different story about House Royal, the creation of the city, or Silvanos
+himself.  Not a spot nor a smudge is found on the floors, walls, or stands,
+each previous belmish or flaw has been painstakingly removed.
+~
+34 8 0 0 0
+D3
+~
+~
+0 0 3433
+S
+#3435
+Before the Grand Audience Hall~
+   Grand doors of oak swing open, allowing all who wish to receive an audience
+with the members of House Royal to do so.  At either side, guards stand at
+attention, filtering through the mighty doors citizens and travelers alike.  
+Ornate tapestries woven with the purest fibers adorn the walls leading to the
+audience hall.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3433
+D2
+~
+~
+0 0 3436
+S
+#3436
+The Grand Audience Hall of Quinari~
+   Almost uncomfortably crowded, the only real open space is the pathway to the
+throne, just to the south of this room.  Town citizens and many travelers,
+almost all of Silvanesti heritage, pack this room as they patiently await an
+audience.  The room itself is spacious and the ceilings rise high above.  The
+pearly walls shine, conforming to the beauty of the rest of the palace.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3435
+D1
+A solid oaken door leads to the east.
+~
+door solid oaken~
+1 3436 3437
+D2
+~
+~
+0 0 3438
+S
+#3437
+The Guard's Room~
+   Walls of aspen and pine were used to create this small addition to the
+palace.  On the eastern wall, a weapon rack stands next to a small window.  
+The northern and southern walls are barren, with the exception of a small stone
+panel on the southern wall.  Simple pieces of furniture sit in the middle of
+the room and near the corners, placed there for the use of resting guardsmen.
+~
+34 8 0 0 0
+D3
+A flimsy wooden door is here.
+~
+door flimsy wooden~
+1 0 3436
+S
+#3438
+At the Throne~
+   The marble floor of the throne sector in the audience hall rises up a step
+to give the royal court a superior feeling.  It is in this area that elven
+travellers or citizens of Silvanost seek audience with one from House Royal,
+questioning matters that may not receive attention from the Speaker himself.  
+Near the throne itself, the glittering marble floor is covered with thin velvet
+carpeting.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3436
+D1
+A thin, barely detectable outline of a panel is in the wall.
+~
+panel trapdoor passage~
+1 0 3439
+S
+#3439
+A Small Shelter~
+   Not uniform at all with the rest of this palace, the small shelter space
+hidden near the throne is reserved only for emergencies.  The space itself is
+dark and damp, certainly no place for those of House Royal to normally reside.
+A few battle-worn pieces of equipment sparsely lean against one of four stone
+walls.  A keyhole in the northern wall is difficult to discern from the rest of
+the room.    
+~
+34 8 0 0 0
+D0
+~
+keyhole~
+2 3439 3437
+D3
+A thick, and very sturdy wooden door rests firmly on its hinges here.
+~
+door sturdy wooden~
+1 0 3438
+S
+#3440
+The Common Room of House Advocate~
+You are in an unfinished room.
+~
+34 0 0 0 0
+D0
+~
+~
+0 0 3441
+D1
+~
+~
+0 0 3442
+D2
+~
+~
+0 0 3443
+D3
+~
+~
+0 0 3444
+D5
+~
+~
+0 0 3421
+S
+#3441
+The House Advocate Meeting Chamber~
+You are in an unfinished room.
+~
+34 0 0 0 0
+D2
+~
+~
+0 0 3440
+S
+#3442
+An Elegant Side Room~
+   Tiled in solid plates of onyx embedded with small stars of mother-of-pearl
+the floor of this elegant sitting room resembles the night sky, the
+constellation of E'li ascendant in the center.  Four small luminescent orbs
+float near the ceiling in each corner bathing the room in a pale soft white
+light reminiscent of the moon's glow.  The northern wall is open, forming a
+small balcony that overlooks the city below, the small sounds of birds and the
+gentle susurration of elven voices drifting upwards to the room.  The balcony's
+railing is wrought in silver and shaped into the form of a nightingale, its
+extended wings anchored into the walls.    
+~
+34 8 0 0 0
+D3
+~
+~
+0 0 3440
+S
+#3443
+The House Advocate Library~
+You are in an unfinished room.
+~
+34 0 0 0 0
+D0
+~
+~
+0 0 3440
+S
+#3444
+An Elegant Side Room~
+   Tiled in solid plates of onyx embedded with small stars of mother-of-pearl
+the floor of this elegant sitting room resembles the night sky, the
+constellation of E'li ascendant in the center.  Four small luminescent orbs
+float near the ceiling in each corner bathing the room in a pale soft white
+light reminiscent of the moon's glow.  The northern wall is open, forming a
+small balcony that overlooks the city below, the small sounds of birds and the
+gentle susurration of elven voices drifting upwards to the room.  The balcony's
+railing is wrought in silver and shaped into the form of a nightingale, it's
+extended wings anchored into the walls.    
+~
+34 8 0 0 0
+D1
+~
+~
+0 0 3440
+S
+#3450
+The House Woodshaper Lacquer Storage Area~
+   This small side room houses the numerous lacquers and stains used by the
+artisans of House Woodshaper in their work.  Ever attentive to detail, even the
+shelving of this storage chamber has been carved and painted.  The six shelves
+all stand as branches of one large ash tree that has been shaped from the wood
+of its namesake, individual leaves carved to create small receptacles for the
+individual vials and jars.  Each jar is labeled in flowing Elven script,
+bearing both a name and what appears to be a date and place of origin beneath.
+They represent a myriad of colours and hues, some so slight in variation you
+can barely discern the difference between them.    
+~
+34 8 0 0 0
+D2
+~
+~
+0 0 3424
+S
+#3451
+The House Woodshaper Sanding and Joining Chamber~
+   A study in organized chaos, this workroom of House Woodshaper is full of the
+bustle of artisans at work.  Small sections of the room have been set aside for
+individual projects and the many masters and apprentices of the house move to
+and fro on errands.  The rear of the room appears reserved for the scupltors,
+the wall above their work-area containing a glittering array of delicate
+woodshaping tools.  Nearby a set of lath forming a skeleton for a bust is
+drying in the light from the large windows that pour light into this chamber.
+The floor is littered with small scraps and shavings of wood, but even beneath
+the dust and debris, the simple spartan elegance of this room's lines can be
+seen.  Though plain in form every tile is seamless and the walls are smooth and
+even.  The entire room is free of any adornment save the ceiling which bares a
+motif of the sigil of House Woodshaper burned by stylus, then filled with
+silver.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3424
+S
+#3452
+The Gallery of House Woodshaper~
+   The gallery of House Woodshaper stands beneath a vaulted ceiling buttressed
+with beams carved to resemble elegant dryads, each ones arms extended towards
+the center where a large incandescent orb of light hovers.  Some of the
+masterworks of House Woodshaper have been arrayed here for the public to view,
+ranging from sculptures to furniture and weaponry.  The walls of the room
+itself are a work of a sublime artisan, each wall representing a view of the
+city of Silvanost in a different season.  Rather than being simply painted they
+have been carved in bas-relief, each individual tower and building represented
+in the most minute detail.  Viewed closely, you can even peer in the open
+windows of some to see the rooms within.  The floor has been set with thousands
+of individual tiles representing the leaves of every tree native to Ansalon,
+each one fitted seamlessly with the next, the illusion so complete you expect
+to hear them crack beneath your feet as you circle the room.    
+~
+34 8 0 0 0
+D1
+~
+~
+0 0 3424
+S
+#3453
+The Upper Chambers Of House Woodshaper~
+   The upper chamber acts as the atrium to the private reaches of House
+Woodshaper.  The central vallenwood of the tower begins to thin here, its first
+branches stretching from the trunk just past the open area of the ceiling.  
+This room has more of a domestic feel to it than the lower floors, a small
+carved bench set with gilded cushions rests against the wall.  The walls are
+lacquered in a deep midnight black, and small iridescent opals have been set
+into the wood in a representation of the night sky.  A large arch to the north
+leads into the private rooms of the head of the household and an archway to the
+south leads to a small altar dedicated to Branchala.  Faint echoes of voices
+raised in song can be heard, the soft lilting elvish tones like the sound of
+autumn leaves sent dancing by the wind.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3454
+D2
+~
+~
+0 0 3455
+D5
+~
+~
+0 0 3424
+S
+#3454
+The Private Chambers of the Head of House Woodshaper~
+   Upon first entry, it is difficult to describe this room as an actual living
+chamber.  The entire room resembles a replica of a section of forest, thin
+columns carved of rowan, willow, ash and oak rise at scattered intervals about
+the room.  The floor has been laid with rushes and leaves adding to the
+verisimillitude of the chamber, the fragrant earthy scent of loam filling the
+area.  The chamber itself is dark and shadowy, with no visible windows and the
+only illumination a pale moonlit glow from some unseen source near the ceiling.
+Journeying further into the chamber reveals no discernable furniture or
+features that would label this a bedroom.  The only sign of habitation a small
+cushion laid on the floor near the rear wall.    
+~
+34 8 0 0 0
+D2
+~
+~
+0 0 3453
+S
+#3455
+A Prayer Room Dedicated To Branchala~
+   This spacious chamber bears an altar to the favoured elven god of nature,
+Branchala.  Filled with instruments of various size and shape, ranging from
+harps, to flutes, to lutes and bodhran it easily could be a Bard's dream.  The
+instruments are all works of art, decorated in vines and whorls, seamlessly
+fitted with nigh unnoticeable joins and seams.  The altar itself holds a small
+carved statue of an elven man dressed in finery and bearing a golden lute.  
+The walls are decorated with scenes of nymphs and dryads, satyr and centaur
+engaged in song and festival.  The depictions are so vivid they seem to shift
+and move, capering beneath the shifting light of a hundred candles lining the
+room on small pedestals.  There are no pews, only a few chairs allowing someone
+a place to sit when they find an instrument that strikes their fancy.  The
+sound of singing voices is stronger here, seeming to echo from the very walls
+themselves.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3453
+D4
+   The altar sits next to two small grooves on the floor near the two front
+corners.  It appears it may slide forward to reveal the wall behind.    
+~
+altar~
+1 0 3456
+E
+altar~
+   The altar sits next to two small grooves on the floor near the two front
+corners.  It appears it may slide forward to reveal the wall behind.    
+~
+S
+#3456
+The Upper Sanctum of House Woodshaper~
+   Rising through the stairwell the sounds of song finally reveal their source.
+This room encircles the spreading branches of the vallenwood as they reach from
+the trunk to the sky above.  The walls of this chamber are built of layered
+angular slats of wood, enhancing and focusing the voices of the singing elves
+to a level that drowns out the sound of the city beyond and the rooms below.  
+Enclosed within the rising and falling tones of their voices, the air seems
+charged with possibilty.  The tree itself creaks softly, as if swaying in time
+to the dirges and arias issuing from the lips of the assembled elves.  The room
+is lit only by two small braziers burning fragrant incense, their smoke
+drifting lazily through the air in soft curls and tendrils.  The smell of the
+deep woods assaults your senses, earthy and pungent, issuing from the gathered
+herbs smoldering in the braziers.  You can move through the branches towards
+the north, were the song is strongest.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3457
+D5
+   The staircase leads down to the rear of a small altar that can be pushed
+forward.    
+~
+altar~
+1 0 3455
+S
+#3457
+The Chamber of Song~
+   Nestled between the branches of the vallenwood a small platform has been
+built extending out to the trunk itself.  The tree has been decorated with
+hundreds of small gems and charms hanging from the branches.  They vibrate and
+chime in cadence with the song that fills the room, as if even the breeze has
+been harnessed by the tones.  The trunk of the tree glows and pulsates in time
+with the hymn, the bark slowly flowing away from the trunk to reveal the soft
+heartwood beneath.  The air vibrates with force, blurring the space around the
+trunk as it ripples in slow waves.  The room is completely enclosed within the
+branches of the tree, the leaves obscuring any view of the outside world.  
+Even the sky above is blocked from sight, the only light emanating from the
+ghostly glow of the charged air as it is reflected by the hanging jewels,
+glittering in all the colours of the rainbow.    
+~
+34 8 0 0 0
+D2
+~
+~
+0 0 3456
+S
+#3470
+The Reception Room of the Ambassador Hotel~
+   The reception room of the Ambassador Hotel is no less beautiful than any of
+the other buildings within the city of Silvanost.  Its appointments, however,
+seem to be designed to be cold and a bit uninviting.  Generally the Ambassador
+provides lodging for those Silvanesti elves whose business in the city keeps
+them from their beloved forest home for more than a day.  From time to time,
+however, it is the reluctant host to foreign emissaries who find themselves
+needing a place to stay.    
+~
+34 8 0 0 0
+D1
+~
+~
+0 0 3263
+D3
+~
+~
+0 0 3471
+S
+#3471
+The Ambassador Lounge~
+You are in an unfinished room.
+~
+34 8 0 0 0
+D1
+~
+~
+0 0 3470
+S
+#3473
+Silvanost Chamber of Commerce~
+You are in an unfinished room.
+~
+34 8 0 0 0
+D1
+~
+~
+0 0 3258
+D3
+~
+~
+0 0 3477
+S
+#3474
+Northwest Barracks~
+   Make into a barrack's entrance/quartermaster's office.  No admittance
+beyond, etc, etc unless you are bunking here.    
+~
+0 8 0 0 0
+D9
+~
+~
+0 0 3268
+S
+#3475
+Grocer~
+You are in an unfinished room.
+~
+34 0 1 0 0
+D0
+~
+~
+0 0 3254
+D1
+~
+~
+0 0 3259
+D3
+~
+~
+0 0 3480
+S
+#3476
+The Vault of Silvanost~
+   Though it is common for the well-to-do residents of Silvanost to surround
+themselves with their wealth, oftentimes they still find it necessary to store
+at least some their holdings here at the Vault of Silvanost.  Interestingly
+enough, the Vault is carved from the stump of what was once a massive ironwood
+tree.  As if the ironwood itself were not sturdy enough to house such wealth,
+much of it has petrified providing walls that are as formidable as those of any
+keep.  The Vault is sparsely furnished with a single marble desk serving as the
+only location at which to conduct business.    
+~
+34 8 0 0 0
+D0
+~
+~
+0 0 3241
+S
+#3477
+The Owlery~
+You are in an unfinished room.
+~
+34 0 1 0 0
+D1
+~
+~
+0 0 3473
+S
+#3480
+Leather Shop~
+You are in an unfinished room.
+~
+34 0 1 0 0
+D0
+~
+~
+0 0 3485
+D1
+~
+~
+0 0 3475
+S
+#3485
+Weapons Shop~
+You are in an unfinished room.
+~
+34 0 1 0 0
+D1
+~
+~
+0 0 3254
+D2
+~
+~
+0 0 3480
+S
+#3490
+Natural Beauty~
+Nature's gifts?
+~
+34 8 0 0 0
+D8
+~
+~
+0 0 3214
+S
+#3495
+Music Shop~
+You are in an unfinished room.
+~
+34 8 0 0 0
+D2
+~
+~
+0 0 3212
+S
+$~

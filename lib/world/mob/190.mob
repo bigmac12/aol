@@ -1,0 +1,559 @@
+#19000
+fireplace stonework innkeeper~
+a stonework fireplace~
+The stonework fireplace gives off a warm glow, the fire crackling quietly.
+~
+   &WThis stonework fireplace is impressive in size, taking up a good portion
+of the southern wall.  The stone used to build it has been tooled and set with
+master skill, likely by dwarven hands.  A relief carved into the upper face of
+the fireplace shows a beautiful forest scene, ancient oaks standing tall.  
+Many ravens can be seen either in flight, or perched upon the branches.  The
+light of the fireplace helps to give this otherwise rather dark room a nice
+soft glow.    
+&n
+~
+10 1064 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 0 3
+BareHandAttack: 1
+Maxmove: 50
+E
+#19001
+swyfte aged gray squirrel~
+Swyfte~
+Swyfte, an aged squirrel with a dull gray coat is standing here watching you.
+~
+   This noble squirrel looks as if he has seen many years.  His once luxurious
+coat is now a dull and weathered gray.  His gentle eyes are like two emeralds,
+always alert and bright with life.  Despite his age his tail maintains the
+fullness of youth.    
+~
+72 0 0 0 E
+15 11 1 5d10+300 2d8+4
+0 8400 0
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#19002
+golem marble innkeeper~
+a marble golem~
+A white and green marble golem stares at you with hollow eyes.
+~
+   This golem stands only 3 feet tall and is made of white and green polished
+marble bricks.  Its surface is smoothe and shiny, bearing no scatches or marks.
+Its cold, hollow eyes are glowing emeralds.  It serves the owner of the
+Vallenwood house in the capacity of a housekeeper, doing small chores that
+don't interfere with the lifestyle of the occupants.    
+~
+7593994 33718272 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 0 3
+Maxmove: 50
+E
+#19003
+samantha cook housekeeper~
+Samantha, the housekeeper~
+Samantha, the housekeeper is here cleaning and preparing for the next meal.
+~
+   A short and plump figure, the housekeeper always has a bright smile upon her
+face.  She hustles and bustles about the kitchen, either cleaning up messes
+from previous meals and snacks, or preparing food for the next meal.    
+~
+253962 0 0 850 E
+30 20 10 1d1+1000 1d1+0
+1000 0 0
+8 8 2 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#19004
+featherbed large bed~
+a large featherbed~
+A large featherbed covered with thick earth-toned furs is here.
+~
+   Draped over this thickly stuffed featherbed are heavy animal furs.  Each fur
+is dyed in a different shade of brown.  They are clearly well taken care of as
+the fur is still soft and thick.    
+~
+253963 0 0 0 E
+30 20 10 1d1+1000 1d1+0
+0 0 0
+8 8 0 3
+Maxmove: 50
+E
+#19005
+owl snow white feathers feather~
+an owl~
+An owl with snow white feathers sits in a little nook here dozing.
+~
+   This small owl appears to have made quite a comfortable home here in one of
+several small nooks around this room.  It is covered in feathers that are so
+white as to remind you of the purest of snows upon the highest of mountain
+tops.    
+~
+5496842 0 0 0 E
+30 5 -14 1d1+1749 4d8+9
+0 0 0
+8 8 0 3
+BareHandAttack: 13
+Maxmove: 50
+E
+#19014
+Dorminoth falcon innkeeper~
+Dorminoth, a large falcon~
+Dorminoth, a large falcon perched on the window ledge.
+~
+   Here lies a majestic bird of prey that scans the area with watch full eyes.
+This falcon seems large for his kind, although quite beautiful.  His feathers
+are silver that shine in the light.  While usually viscous, this falcon seems
+to have a tame look to his eyes.  Although he tends to shy away from the touch
+of most people, which he does to more out of untrusting then of fear.    
+~
+7594010 33555516 0 0 E
+31 1 -14 3d33+9999 4d8+9
+0 2 0
+8 8 1 3
+Maxmove: 50
+E
+#19015
+housekeeper innkeep~
+a housekeeper~
+Your housekeeper greets you and offers to take your things to your room.
+~
+   The housekeeper looks up from her chores to offer a welcoming smile.  She
+looks a bit weary from her workload yet still maintains a pleasant demeanor.  
+She is always, regardless of time or day, eager to escort you to your room and
+help you put your things away for the night.    
+~
+7356426 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 1 0
+8 8 2 3
+Maxmove: 50
+E
+#19019
+Yxtphrar Raven night-black housekeeper innkeep~
+Yxtphrar, the Raven~
+A night-black raven perches on one of the bedposts, its eyes seething with malice.
+~
+   Yxtphrar, in the Nightbird's native tongue means simply "Black-Feathered".
+This raven is black beyond black, appearing to be made of living twilight.  It
+is very intelligent, and occasionally speaks to those it deems worthy.  It has
+been subjected to a geas, and now serves Yxt-Pielle and her guests.  Its black
+eyes stand out, shining amongst its matte feathers, and there is a sense of
+intense evil about the creature which comes from those malicious, beady eyes.
+  
+~
+7594059 33621052 0 -1000 E
+31 0 -15 30d256+10000 1d1+1
+0 1 0
+8 8 1 3
+BareHandAttack: 8
+Maxmove: 50
+E
+#19020
+housekeeper innkeep innkeeper~
+a housekeeper~
+Your housekeeper greets you and offers to take your things to your room.
+~
+   The housekeeper looks up from her chores to offer a welcoming smile.  She
+looks a bit weary from her workload yet still maintains a pleasant demeanor.  
+She is always, regardless of time or day, eager to escort you to your room and
+help you put your things away for the night.    
+~
+7364618 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#19023
+horse small white~
+a small, white horse~
+A small, white horse galloping through the meadow.
+~
+   This small horse gallops freely around the meadows as it happily neighs.  
+It has a rich looking white coat of hair, and dark brown eyes.  It still seems
+to have a wild look to it, although it seems to be in peace its small meadow.
+It is very well muscled for its small stature that is evident when it is
+playing.    
+~
+7594138 33686588 0 0 E
+30 0 -20 0d33+9999 30d99+20
+0 0 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 400
+E
+#19025
+Geeves enspelled shadow butler undead~
+Geeves~
+An enspelled shadow, lovingly named "Geeves" bustles about, preparing meals and cleaning.
+~
+   What a loathesome fate.  First to be doomed to a life of eternal torment as
+an undead shadow, but then, adding insult to injury, having all dignity robbed
+from you by being forced to work as a simple house-ghost.  A powerful geas was
+placed upon this creature, who, in life, must have done something truly
+abhorrent to be cursed to butlerdom for the rest of his existence.  He has been
+given a name suitable to his station in unlife.    
+~
+1306715 134579772 0 0 E
+30 1 -14 3d33+1700 4d8+9
+100000 0 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+T 19025
+#19026
+pigeon pidgeon scarlet carrier postmaster feathers scarlet-feathered~
+a scarlet-feathered pidgeon~
+Your carrier pidgeon with feathers of scarlet awaits your command.
+~
+   The carrier pidgeon is a rare breed of bird with a "homing" sense, that
+always leads it to return home after it flies off on whatever errand you have
+sent it on.  This one is doubly rare, as it has feathers of scarlet,
+conclusively identifying it as property of Helimar Varzicek.  It is employed
+almost exclusively to deliver and retrieve his personal communications.    
+~
+7340043 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 0 1
+Maxmove: 50
+E
+#19027
+kenku servant housekeeper~
+a kenku servant~
+A kenku servant stands here, ready to bring your pipe and slippers and tuck you in.
+~
+   It cost a king's ransom to buy that egg from that dwarven trader, but it has
+proven worth every copper.  The kenku are prized as servants because of their
+intelligence and loyalty, and this bird-man is no exception.  You have not
+owned him long enough yet to give him the familiarity of a name, but still, he
+is a refreshing sight to see after a long night of horrifying the masses.  He
+carries your slippers in one hand, and a tobacco pipe in the other.    
+
+~
+15982666 173116 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 1 3
+8 8 0 3
+BareHandAttack: 9
+Maxmove: 50
+E
+#19030
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to bed.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7364618 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 2 3
+Maxmove: 50
+E
+#19034
+A'Karonys huge beast enlongated head black eye innkeeper~
+a'Karonys~
+A'Karonys, a huge beast with an enlongated head, wanders through the great room.
+~
+   This beast looks like it has been pulled out of a nightmare, close to nine
+feet tall, crouching on two thin hind limbs.  From a hunched, angular shoulder
+blade, the creatures sinuous neck rises to a flat, elongated head.  Needle
+fangs ridge its jaw-line, which is swept back and naturally grinning like a
+dolphins.  Head, neck limbs are black, while its torso is a dun grey.  A
+single, flat black eye regards you with appalling awareness.    
+~
+7594011 33698872 0 -850 E
+31 0 -20 0d0+9999 30d99+20
+0 0 0
+8 8 0 3
+Maxmove: 50
+E
+#19038
+REUSE ME~
+REUSE ME~
+A tiny wood sprite looks up at you with feigned interest.
+~
+   A very small humanoid with elf like ears, antennae and translucent wings
+relaxes in the the bedroom and takes in the airy breeze from the window.  It
+takes only a casual interest in your approach and continues to run its hands
+through the moss leaves in the corner.  As it becomes apparent that you have
+need of her, the sprite flies up into the air and circles around your feet,
+looking up into your eyes.    
+~
+7594010 503976 0 0 E
+31 0 -20 0d0+9999 30d99+20
+0 0 0
+8 8 0 3
+BareHandAttack: 12
+Maxmove: 50
+E
+#19045
+housekeeper innkeep~
+a house keeper~
+Your housekeeper greets you and offers to take your things to your room.
+~
+   It looks unfinished.  The housekeeper looks up from her chores to offer a
+welcoming smile.  She looks a bit weary from her workload yet still maintains a
+pleasant demeanor.  She is always, regardless of time or day, eager to escort
+you to your room and help you put your things away for the night.    
+~
+7593994 33685544 0 0 E
+30 1 -14 3d33+2000 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#19050
+housekeeper weary innkeep~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7594010 33686568 0 0 E
+30 -5 -20 5d33+5000 6d16+18
+0 1 0
+8 8 2 3
+BareHandAttack: 4
+Maxmove: 50
+E
+#19053
+housekeeper innkeeper weary~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685544 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#19057
+TalonAu golden brown owl housekeeper innkeeper~
+TalonAu, a golden brown owl~
+A golden brown owl has taken up residence within the branches of the hollowed cedar.
+~
+   Eyes of an eerie golden green watch everything with a sense of calm and
+wisdom.  The feathers of this owl are golden brown, shimmering like the metal
+and just as soft.  He moved in recently after the cottage was built, preferring
+the hollowed cedar within the cottage to the numerous ones in the forest
+outside.  He is still a wild child of nature, comes and goes as he pleases, but
+he seems to enjoy the company of the other resident of the cottage well enough
+to not make a mess of things.    
+~
+7593994 33588264 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 0 3
+Maxmove: 50
+E
+#19060
+tryaldar tree large~
+Tryaldar~
+A large tree on the northern side of the room seems to be watching you.
+~
+   The more you look at this tree, the more you realize that it - he - is not
+an ordinary tree, but one of an ancient race of treelike beings known to
+protect the forests.  He watches you impassivlely, ensuring that you don't
+damage any of the abundant life here.    
+~
+7585802 33718312 0 0 E
+30 1 -16 3d33+2000 4d8+9
+0 0 0
+8 8 1 3
+Maxmove: 50
+E
+#19064
+fire elemental innkeeper~
+a small fire elemental~
+A small fire elemental lives happily in the fireplace.
+~
+   The fire in the fireplace appears normal by most eyes, yet two tiny orbs of
+white-blue can be seen winking once in a while, as the fire takes the shape of
+a small gnome-like figure.  The elemental has found his home in the fireplace,
+and seems to be rather happy there.    
+~
+7593994 33685544 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 0 3
+Maxmove: 50
+E
+#19068
+quartermaster keep master innkeep innkeeper~
+the Quartermaster~
+The Quartermaster of the keep stands watch over this room.
+~
+   This young man stands watch over the gear of the keep, and keeps records of
+the soldiers and men who reside within the keep.  In his hand is a small
+notepad in which he keeps careful talleys and records of the men of Black
+Hills.    
+~
+7593994 33727528 0 0 E
+30 0 -18 3d33+9000 20d10+15
+0 0 0
+8 8 1 3
+Maxmove: 50
+E
+#19072
+Ku'rosh spider gold silver innkeeper~
+Ku'rosh, a large, gold and silver spider~
+Ku'rosh, a large, gold and silver spider, perches silently in one of the corners.
+~
+   This spider is unusually large, spanning over one foot in diameter.  Its
+body is covered in swirls of gold and silver which holds your gaze to an almost
+hypnotic point.  His movements are slow and measured, and his hollow black eyes
+seem to be watching your every move with silent scrutiny.  His three inch fangs
+are neatly tucked away, but could be sprung at any moment.  Occasionally, he
+will come off the wall and wander around the room, idly inspecting the home for
+anything unusual.    
+~
+7593994 33685544 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 1 3
+Maxmove: 50
+E
+#19076
+dhaohl tall silent man black innkeeper~
+Dhaohl~
+A tall, silent man, clad in black stands here.
+~
+   Dhaohl is one of the higher-ranking members of the Ninja of the Crescent
+Moon.  He looks to be of middle years, though his hair is still dark and his
+frame slender and well-muscled.  He leans heavily on an ebony cane at his right
+side, helping to support the weight which would have been carried by his right
+leg if he had one.  The handicap doesn't seem to slow him down much, as he
+moves behind the bar and around the room periodically, keeping a close and
+watchful eye on all those gathered here.    ~
+7593994 33685544 0 0 E
+30 1 -14 3d33+1700 4d8+9
+100000 0 0
+8 8 1 3
+Maxmove: 50
+E
+#19082
+Ithel gusting air winds presence guardian Innkeeper~
+Ithel-llyeacean~
+A slight gusting of the winds marks the presence of Ithel-llyeacean, the guardian of the Rose Tower.
+~
+   The creature that lies before you is clearly not of this plane of existance,
+likely originating from the elemental plane of air.  Barely noticeable if not
+for the slight gusting of the breezes, Ithel-lleacean is, at best, seen as a
+amorphous, shifting cloud, marked dimly by darker bits of swirling vapor that
+lend it the vague appearance of eyes and a mouth.  Though it rarely speaks,
+when it does it's voice is that of the moaning of a midnight storm.    
+~
+7594010 99336 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 0 3
+BareHandAttack: 12
+Maxmove: 50
+E
+#19084
+kattralla dwarven innkeeper young~
+Kattralla~
+Kattralla, an energetic dwarven woman, is cleaning here.
+~
+   A young energetic dwarven female with long golden brown hair worn in a
+chignon at the nape of her neck, blue eyes with flecks of gold take in all
+about her.  Shapely yet muscular, she can clearly stand guard for even the most
+venerated of Dwarven Defenders.  Her appearance is softened by the blue dress
+and shoes she wears.    
+~
+7593994 33719296 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#19088
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#19092
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#19096
+housekeeper brown tanned slender shyrala~
+Shyrala, the housekeeper~
+The housekeeper waits patiently to help you to bed.
+~
+   Glancing up at you, Shyrala smiles at you warmly as she waits patiently to
+help you into your bed.  Long, wavy brown hair flows down to the small of her
+back, and a few wisps frame her angular face.  She has warm, dark brown eyes
+that glisten in the light.  Her skin is smooth yet deeply tanned, evidence of
+long hours in the sun.  She is delicately boned, and though lightly muscled; is
+very slender in stature.  She wears soft robes that appear to be as white as
+the beard of Habbakuk, on one of
+~
+7593994 135308 0 850 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#19098
+Lerokan~
+Lerokan Stonehammer~
+Lerokan stands here preparing the next meal, whistling to himself.
+~
+   Lerokan is a family friend to the Kormars.  His father knew Khelan's father,
+and the two were friends in their youth.  He stands upon a stool, cutting
+carrots at one of the vallenwood countertops.  His coal black hair is pulled
+back into a severe ponytail, and his bushy beard is well taken-care of though
+it has begun to pepper very slightly.  He wears a clean white apron and
+whistles happily to himself, absorbed in his work.    
+~
+16395 1064 0 0 E
+30 1 -14 3d33+1700 4d8+9
+800 250000 0
+8 8 1 0
+Maxmove: 50
+E
+$

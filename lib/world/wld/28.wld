@@ -1,0 +1,1790 @@
+#2800
+A Narrow Dirt Path~
+   A fairly narrow dirt path stretches out before you leading to a small,
+walled village of some sort.  The path is flanked on either side by large oaks
+and evergreens.  The trees appear somewhat out of place amidst the smaller
+trees and shrubs which line the pathway.    
+~
+28 64 3 0 0
+D0
+~
+~
+0 0 2801
+D9
+~
+~
+0 0 2722
+S
+#2801
+A Narrow Dirt Path~
+   A fairly narrow dirt path stretches out before you.  It apparently leads to
+an average looking village slightly up ahead.  The path is flanked by enormous
+oaks and evergreens.  The trees grow thicker as one approaches the town.  
+There is a large gap in the roots that a humanoid could fit through.  However,
+there does not appear to be anything handy to grab hold of to make such a
+descent.  Obviously, the townsfolk have taken great care in preserving the
+forest surrounding their village.    
+~
+28 32768 3 0 0
+D0
+~
+~
+0 0 2802
+D2
+~
+~
+0 0 2800
+D3
+~
+~
+0 0 2730
+D5
+   A mass of entangled roots has formed over a small hole in the ground.    
+~
+root roots~
+1 0 4954
+S
+#2802
+A Narrow Dirt Path~
+   The path seems to have gotten a bit wider as it closes in on the city.  The
+trees here are slightly more sparse, the signs of civilization becoming more
+and more obvious.  Wheel ruts criss-cross the path smalls piles of wood can be
+seen along the roadway where someone has been harvesting wood.    
+~
+28 32768 1 0 0
+D2
+~
+~
+0 0 2801
+D7
+~
+~
+0 0 2803
+S
+#2803
+A Narrow Dirt Path~
+   Just in the distance you can see the gates of the city.  Two crimson flags
+fly just over the gatetowers, each bearing a black bird of some sort.  The
+bustle of everday life can be heard all around.    
+~
+28 32768 1 0 0
+D6
+~
+~
+0 0 2804
+D8
+~
+~
+0 0 2802
+S
+#2804
+A Narrow Dirt Path~
+   The closer you get to the city, the more you see the affects of civilization
+on nature.  The trees have retreated, and those at the borders of the forest
+are not of the same calibur of those preceding them.  A sparsely thicketed
+trail leads off to the east into the forest, it seems to end abruptly several
+feet from a dense copse of evergreens.    
+~
+28 32772 0 0 0
+D0
+~
+~
+0 0 2812
+D1
+~
+~
+0 0 2805
+D9
+~
+~
+0 0 2803
+S
+#2805
+A Sparsely Thicketed Trail~
+   The main road lies directly to the west.  You are on some sort of hunting
+trail and the sounds of forest animals can be heard vaguely.  A small amount of
+vegetation and leaves cover the trail, muffling the sounds of your feet.  
+Sunlight streams through the branches of the trees giving the area a surreal
+feeling.    
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2806
+D3
+~
+~
+0 0 2804
+S
+#2806
+A Sparsely Thicketed Trail~
+   The vegetation is quite thick here.  The trees have begun to return to their
+normal dominance.  The locals have not cut wood here in a while and it shows.
+Flowers and short grasses grow in between the trees and a light coating of
+leaves and debris cover the trail.  In the distance to the east lies a dense
+copse of trees and within it sits a small house.    
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2807
+D3
+~
+~
+0 0 2805
+S
+#2807
+A Sparsely Thicketed Trail~
+   The path here seems to have become almost fully covered by dense foliage.  
+Leaves litter the ground along with a thin carpet of pine needles.  Sunlight
+filters down throught the branches of the trees, casting odds shadows here and
+there.  The sounds of the forest can be heard from all directions, from the
+wind blowing throught the trees to birds chirping.    
+~
+28 32768 3 0 0
+D1
+~
+~
+0 0 2808
+D3
+~
+~
+0 0 2806
+S
+#2808
+A Sparsely Thicketed Trail~
+   The path stops abruptly here.  To the west it continues to wind among the
+trees while to the east a small wooden structure can barely be seen nestled
+amongst a dense group of short evergreen trees.  A thin column of smoke rise up
+from a short wide chimney sitting near the back of the roof of the hut.    
+~
+28 32768 0 0 0
+D3
+~
+~
+0 0 2807
+D7
+~
+~
+0 0 2809
+S
+#2809
+Entering the Copse~
+   A few more steps have lead you into the copse.  The mysterious wooden
+structure is even more bizarre up close.  Odd earthen wind chimes dangle from a
+thatched roof which seems about ready to collapse.  A pile of fire wood is
+decorated with odd and end pieces of furniture, half a rocking chair, a few
+table legs, a stack of carriage wheels, and even a small crib.  No logs, or
+visible non-processed wood is anywhere around.  The scent of drying herbs fills
+the air.    
+~
+28 32768 0 0 0
+D0
+~
+~
+0 0 2810
+D6
+~
+~
+0 0 2852
+D8
+~
+~
+0 0 2808
+S
+#2810
+In Front of the Shack~
+   A small wooden platform sits in front of the shack.  Herbs hang from the
+rafters, dangling alongside of the clay chimes.  A small ancient rocking chair
+sits in one corner of the platform, rocking gently as if it was just occupied.
+A door hangs from a single hinge in the middle of the left side.    
+~
+28 32768 0 0 0
+D0
+~
+~
+0 0 2811
+D2
+~
+~
+0 0 2809
+S
+#2811
+Inside the Shack~
+   The interior of the house is more than shocking, it seems well kept and
+hardly inhabitated.  A medium sized oak table sits in the center of the room, a
+large black iron cauldron sits in the center, surrounded by small tidy stacks
+of herbs.  Several blue candles surround the cauldron which bubbles quietly,
+though no heat source is apparent.  A grey brown shawl lays tossed across the
+back of a small chair covered with intricate nature carvings.    
+~
+28 32768 0 0 0
+D2
+~
+~
+0 0 2810
+S
+#2812
+The Gates of Havaenna~
+   Through the gates you can see people carrying about their business.  
+Merchants hawking their wares, peddlers peddling their goods, and a heavily
+armed guard patrolling the city.  The smell of good tavern cooking floats
+through the gates calling to your stomach.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 2813
+D2
+~
+~
+0 0 2804
+S
+#2813
+Inside the Main Gates~
+   You stand inside the main gates of Havaenna.  The sounds of the city are
+almost overwhelming.  A cobblestone road loads north, to your east lays a
+blacksmith's shop, and to the west the smell of stew floats from the doorway of
+an inn.  A sign portraying a large boar with steam coming out of its nose
+charging at a running farmer hangs over the door.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 2818
+D1
+~
+~
+0 0 2817
+D2
+~
+~
+0 0 2812
+D3
+~
+~
+0 0 2814
+S
+#2814
+The Main Room of the Charging Boar Tavern~
+   You stand in a humblely decorated bar room.  The counter is surrounded by
+farmers and merchants sipping away the days labors.  Several tables lay strewn
+about in a haphazardly fashion, each containing vaguely the same contents, a
+weary citizen, a few empty glasses and a deck of cards.  The smell of fresh
+venison stew flows from out of the kitchen as a all-too-pleasing-to-the-eyes
+waitress scampers in carrying a tray of drinks and small blue ceramic bowls.  
+
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2815
+D1
+~
+~
+0 0 2813
+D2
+~
+~
+0 0 2816
+D3
+~
+~
+0 0 2799
+S
+#2815
+A Dark Backroom~
+   A single candle sits in the center of a smaller table surrounded by crates
+and a single overstuffed crimson velvet chair sits at the head in the back of
+the room.  A few busted bottles lay on the floor and table.  A less public
+place for the shady clients of the Boar.    
+~
+28 32776 0 0 0
+D2
+~
+~
+0 0 2814
+S
+#2816
+The Kitchen~
+   This kitchen seems to be in a horrible state of chaos.  The butcher block in
+the center of the room is covered with fresh herbs and several slabs of
+venison.  The stove in the southwestern corner is topped by an enormous iron
+pot bubbling over the edges with a thick grey stew.  The smells overtake you as
+you inhale, you feel the spittle in your mouth building up as your eyes turn to
+a tray bearing four bowls of the grey venison stew and four honey-covered
+muffins.    
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2814
+S
+#2817
+The Smithy's~
+   The central forge roars with a blazing white flame.  The smell of soot and
+smoke fill the air and heavy-armed clanging.  Three barrels line the eastern
+wall, one olive oil, one salt water, and one plain water.  Each used for
+different metal textures upon cooling.    
+~
+28 32768 0 0 0
+D3
+~
+~
+0 0 2813
+S
+#2818
+Mandrake Road~
+   A cobblestone road leads north and south.  This seems to be the main road
+through Havaenna, carriages wheel by you and merchants yell from their
+respective stands.  A small markerstone sits on the right corner of the road
+naming the street as Mandrake road.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 2819
+D1
+~
+~
+0 0 2844
+D2
+~
+~
+0 0 2813
+D3
+~
+~
+0 0 1429
+S
+#2819
+Mandrake Road~
+   A cobblestone road leads north and south.  This seems to be the main road
+through Havaenna, carriages wheel all around and merchants herald their goods
+from shops and street stands lining the road.  In the distance to the north, an
+impressive looking mansion dominates the area, sitting squat and foreboding
+against the northern wall of the town.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 2820
+D2
+~
+~
+0 0 2818
+S
+#2820
+Mandrake Road~
+   A cobblestone road leads north and south.  This seems to be the main road
+through Havaenna, carriages wheel all around and merchants herald their goods
+from shops and street stands lining the road.  In the distance to the north, an
+impressive looking mansion dominates the area, sitting squat and foreboding
+against the northern wall of the town.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 2821
+D2
+~
+~
+0 0 2819
+D3
+~
+~
+0 0 2843
+S
+#2821
+Mandrake Square~
+   The many branches of Havaenna's road intersect here at Mandrake Square.  
+Mandrake itself running north and south, while Harrier runs east and west.  
+The square is dominated by the towering manor in the north at the end of
+Mandrake road, to the east a row of simple temples to the various gods of
+Krynn, and to the west, the slums.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 2887
+D1
+~
+~
+0 0 2826
+D2
+~
+~
+0 0 2820
+D3
+~
+~
+0 0 2822
+S
+#2822
+Harrier Road~
+   You've entered the less reputable side of Havaenna.  The slums, so known by
+some, are full of the shady activity and impoverished peoples the hierarchy
+tends to vehemently deny. People sit in the streets, huddled in groups
+of two or three, or sometimes wandering aimlessly.
+~
+28 32768 1 0 0
+D1
+~
+~
+0 0 2821
+D3
+~
+~
+0 0 2823
+S
+#2823
+Harrier Road~
+   The desolute atmosphere of the slums overtakes you.  A small group of
+children are kicking what looks to be a balled and tied blanket about in some
+sort of organized fashion.  Several people stand in a circle around them,
+cheering their respective children.    
+~
+28 32768 1 0 0
+D1
+~
+~
+0 0 2822
+D2
+~
+~
+0 0 2824
+D3
+~
+~
+0 0 2825
+S
+#2824
+A Small Cubby-Hole~
+   Aside from the main clutter of the slums this cubby seems to be inhabited by
+someone, though none of the generic signs of life are apparent.  Just a few
+stray blankets and a wineskin with a hole in it.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 2823
+S
+#2825
+Harrier Road~
+   You have reached what seems to be the dead end of Harrier Road.  The walls
+here seem to have been freshly painted, oddly enough.  However, this does not
+hide the stones on the ground, which are stained a deep rust color, mute
+testament to the system of law in this town.    
+~
+28 32768 1 0 0
+D1
+~
+~
+0 0 2823
+S
+#2826
+Harrier Road~
+   This is the better side of Harrier Road.  It is known by some as the temple
+district, by others it is known as Noble Row.  Aptly named, the area provides
+housing for those more fortunate individuals in town, mostly nobles and wealthy
+merchants, alothough a few middle class citizens have homes here.    
+~
+28 32768 1 0 0
+D1
+~
+~
+0 0 2827
+D3
+~
+~
+0 0 2821
+S
+#2827
+Harrier Road~
+   This is the better side of Harrier Road.  It is known by some as the temple
+district, by others it is known as Noble Row.  Aptly named, the area provides
+housing for those more fortunate individuals in town, mostly nobles and wealthy
+merchants, alothough a few middle class citizens have homes here.    
+~
+28 32768 1 0 0
+D1
+~
+~
+0 0 2828
+D3
+~
+~
+0 0 2826
+S
+#2828
+Harrier Road~
+   This is the better side of Harrier Road.  It is known by some as the temple
+district, by others it is known as Noble Row.  Aptly named, the area provides
+housing for those more fortunate individuals in town, mostly nobles and wealthy
+merchants, alothough a few middle class citizens have homes here.  To the south
+lies a typically massive house of one of the local nobles.    
+~
+28 32768 1 0 0
+D1
+~
+~
+0 0 2829
+D2
+~
+~
+0 0 2858
+D3
+~
+~
+0 0 2827
+S
+#2829
+Harrier Road~
+   This is the better side of Harrier Road.  It is known by some as the temple
+district, by others it is known as Noble Row.  Aptly named, the area provides
+housing for those more fortunate individuals in town, mostly nobles and wealthy
+merchants, alothough a few middle class citizens have homes here.  To the north
+lies a small put well maintained temple to the god Paladine.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 2857
+D1
+~
+~
+0 0 2830
+D3
+~
+~
+0 0 2828
+S
+#2830
+Harrier Road~
+   This is the better side of Harrier Road.  It is known by some as the temple
+district, by others it is known as Noble Row.  Aptly named, the area provides
+housing for those more fortunate individuals in town, mostly nobles and wealthy
+merchants, alothough a few middle class citizens have homes here.    
+~
+28 32768 1 0 0
+D1
+~
+~
+0 0 2831
+D3
+~
+~
+0 0 2829
+S
+#2831
+The Eastern Gates of Havaenna~
+   The eastern gates of Havaenna lie just to the east.  Outside of the gates,
+the forest spreads out into the distance.  Towering oaks and pines nudge up
+against the walls of the town.  Traces of ivy can also be seen climbing the
+walls.  Small trails can barely be made out amogst the trees.  To the east
+Harrier Road continues into town.    
+~
+28 32768 1 0 0
+D1
+~
+~
+0 0 2832
+D3
+~
+~
+0 0 2830
+S
+#2832
+Outside the Eastern Gates of Havaenna~
+   The gates of the town lie just to the west.  Ouside of the gates, the forest
+spreads out in all directions.  Towering oaks compete with immense pines for
+space.  Intertwined amongst the trees, small animal trail and other paths can
+barely be seen in the gim gloom cast by the shadows of the trees.    
+~
+28 32772 0 0 0
+D1
+~
+~
+0 0 2833
+D3
+~
+~
+0 0 2831
+S
+#2833
+A Dirt Path~
+   A simple dirt path branches out in various directions here, heading back
+towards the city and as well, deeper into the forest.  The sounds of nature can
+be heard all around and the smell of pine needles and wet soil is heavy in the
+air.    
+~
+28 32768 3 0 0
+D1
+~
+~
+0 0 2840
+D2
+~
+~
+0 0 2837
+D3
+~
+~
+0 0 2832
+D7
+~
+~
+0 0 2834
+S
+#2834
+The Northeastern Dirt Path~
+   This trail seems to be of the hunting sort.  It leads precariously through
+the woods with no apparent destination in mind.  Leaves and foliage litter the
+path.  The sunlight appears less here, casting the entire area in shadows,
+making determining sirections somewhat difficult, even for the best tracker.  
+
+~
+28 32768 3 0 0
+D0
+~
+~
+0 0 2835
+D8
+~
+~
+0 0 2833
+S
+#2835
+The Northeastern Dirt Path~
+   This trail seems to be of the hunting sort.  It leads precariously through
+the woods with no apparent destination in mind.  Leaves and foliage litter the
+path.  The sunlight appears less here, casting the entire area in shadows,
+making determining sirections somewhat difficult, even for the best tracker.  
+
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2836
+D2
+~
+~
+0 0 2834
+S
+#2836
+The Northeastern Dirt Path~
+   This trail seems to be of the hunting sort.  It leads precariously through
+the woods with no apparent destination in mind.  Leaves and foliage litter the
+path.  To the northeast the trail enters a dense area of tress and scrubs while
+to the west the trail continues on aimlessly.    
+~
+28 32768 0 0 0
+D3
+~
+~
+0 0 2835
+D7
+~
+~
+0 0 2845
+S
+#2837
+The Southern Dirt Path~
+   A branch in the trail leads to a wider, more well travelled pathway to the
+west.  The path which travels in a north-south direction appears to be a
+hunting trail of some sort that winds its way through the forest.  Fresh tracks
+of various types of animals are imprinted into the perpetually wet soil.    
+~
+28 32768 0 0 0
+D0
+~
+~
+0 0 2833
+D2
+~
+~
+0 0 2848
+D3
+~
+~
+0 0 2838
+S
+#2838
+The Southern Dirt Path~
+   Having stepped of the main path you step onto what seems like a hunting
+trail that veins its way through the forest.  Fresh tracks of multivarious
+animals are imprinted into the prepetually wet soil.    
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2837
+D3
+~
+~
+0 0 2839
+S
+#2839
+Along the Havaenna Walls~
+   You stand beside the walls of the city of Havaenna.  Ivy seems to have
+carpeted the wall in a dense emerald.  A fairly large oak hangs its head over
+the wall, it seems as though its peeking into the city.    
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2838
+D2
+~
+~
+0 0 2847
+S
+#2840
+The Dirt Path~
+   A small dirt path winds its way throught the forest.  The sounds of nature
+can be heard all around and the smell of pine needles and wet soil is heavy in
+the air.  Dust from the trees hangs in the air, creating odd motes of light
+where the sun passes throught the folaige to strike the forest floor.    
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2841
+D3
+~
+~
+0 0 2833
+S
+#2841
+The Dirt Path~
+   A small dirt path winds its way throught the forest.  The sounds of nature
+can be heard all around and the smell of pine needles and wet soil is heavy in
+the air.  Dust from the trees hangs in the air, creating odd motes of light
+where the sun passes throught the folaige to strike the forest floor.    
+~
+28 32768 0 0 0
+D3
+~
+~
+0 0 2840
+D9
+~
+~
+0 0 2842
+S
+#2842
+The Southeastern Dirt Path~
+   Just off from the main trail, a smaller hunting path veins its way throught
+the forest.  Fresh tracks of various types of animals are inprinted into the
+perpetually wet soil.  A small cave lies just to the south of here.    
+~
+28 32772 0 0 0
+D2
+~
+~
+0 0 2854
+D6
+~
+~
+0 0 2841
+S
+#2843
+The Apothecary~
+   You stand inside the apothecary shoppe.  Dried herbs hang over the door way
+and multi-hued flasks line the walls.  The contrasting smells of rose petals
+and bitter nightshade fill the air.    
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2820
+S
+#2844
+The Armourer~
+   You stand within a fairly average sized wooden building.  It seems to be a
+combination tanner's shop and armourer.  Thick animal hides hang on rusty metal
+hooks about the room and a sturdy oak counter covered with steel studs and
+hoops sits before you.    
+~
+28 8 0 0 0
+D3
+~
+~
+0 0 2818
+S
+#2845
+Wandering the Forest~
+   The trees have grown very close together here, and you are unable to
+determine where in the forst you are.  Looking about you realize that the path
+has dissapeared behind you.  The forest itself betrays no hint of the proper
+direction to travel, the tree and scrubs look indistinguishable.    
+~
+28 32772 3 0 0
+D0
+~
+~
+0 0 2846
+D1
+~
+~
+0 0 2845
+D2
+~
+~
+0 0 2845
+D3
+~
+~
+0 0 2845
+D6
+~
+~
+0 0 2845
+D9
+Nothing.
+~
+~
+0 0 2845
+S
+#2846
+Wandering the Forest~
+   The trees have grown very close together here, and you are unable to
+determine where in the forst you are.  Looking about you realize that the path
+has disappeared behind you.  The forest itself betrays no hint of the proper
+direction to travel, the tree and scrubs look indistinguishable.  However, a
+slight sounds makes you turn to the west.    
+~
+28 32768 3 0 0
+D0
+~
+~
+0 0 2845
+D1
+~
+~
+0 0 2853
+D3
+~
+~
+0 0 2836
+D6
+~
+~
+0 0 2845
+D7
+~
+~
+0 0 2845
+D9
+~
+~
+0 0 2845
+S
+#2847
+Along the Walls of Havaenna~
+   You stand beside the walls of the city of Havaenna.  Ivy seems to have
+carpeted the wall in a dense emerald.  A fairly large oak hangs its head over
+the wall, it seems as though its peeking into the city.    
+~
+28 32768 0 0 0
+D0
+~
+~
+0 0 2839
+S
+#2848
+A Heavily Foliaged Trail~
+   You stand in a well used trail.  Heavy foliage has covered the trail in
+debris, softening the sounds of footsteps.  In the distance to the west the
+eastern walls of the town can be see.  The trail continues in a rough
+north-south direction.    
+~
+28 32768 3 0 0
+D0
+~
+~
+0 0 2837
+D2
+~
+~
+0 0 2849
+S
+#2849
+A Heavily Foliaged Trail~
+   You stand in a well used trail.  Heavy foliage has covered the trail in
+debris, softening the sounds of footsteps.  In the distance to the west the
+eastern walls of the town can be see.  The trail continues in a rough
+north-south direction.    
+~
+28 32768 3 0 0
+D0
+~
+~
+0 0 2848
+D3
+~
+~
+0 0 2850
+S
+#2850
+A Heavily Foliaged Trail~
+   You stand in a well used trail.  Heavy foliage has covered the trail in
+debris, softening the sounds of footsteps.  In the distance to the west the
+eastern walls of the town can be see.  The trail continues in a rough
+north-south direction.    
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2849
+D2
+~
+~
+0 0 2851
+S
+#2851
+A Heavily Foliaged Trail~
+   You stand in a well used trail.  Heavy foliage has covered the trail in
+debris, softening the sounds of footsteps.  In the distance to the west the
+eastern walls of the town can be see.  The trail continues in a rough
+north-south direction.    
+~
+28 32768 0 0 0
+D0
+~
+~
+0 0 2850
+D2
+~
+~
+0 0 2852
+S
+#2852
+Approaching the Copse~
+   The trail leads along the eastern side of the town of Havaenna.  Dirt
+covered and well packed, the trail has seen frequent use.  It continues to the
+north while to the south a dense copse of trees can be seen.  Overhead a few
+birds fly from tree to tree, singing happily.    
+~
+28 32772 0 0 0
+D0
+~
+~
+0 0 2851
+D3
+~
+~
+0 0 2851
+D9
+~
+~
+0 0 2809
+S
+#2853
+Wandering the Forest~
+   The trees have grown very close together here, and you are unable to
+determine where in the forest you are.  Looking about you realize that the path
+has disappeared behind you.  The forest itself betrays no hint of the proper
+direction to travel, the tree and scrubs look indistinguishable.    
+~
+28 32768 0 0 0
+D3
+~
+~
+0 0 2846
+S
+#2854
+Inside a Small Cave~
+   You stand inside a fairly small cave.  Bones and bits of odds and ends, as
+well as other unidentifiable debris lie scattered across the floor of the
+cavern.  Odd sounds echo hollowly off the cavern walls, sounding louder than
+normal.  The odour of things long dead permeates the cave, mixing with the
+smell of long stale air.    
+~
+28 32777 0 0 0
+D0
+~
+~
+0 0 2842
+D1
+~
+~
+0 0 2855
+D2
+~
+~
+0 0 2856
+S
+#2855
+Inside the Small Cave~
+   You stand inside a fairly small cave.  Bones and bits of odds and ends, as
+well as other unidentifiable debris lie scattered across the floor of the
+cavern.  Odd sounds echo hollowly off the cavern walls, sounding louder than
+normal.  The odour of things long dead permeates the cave, mixing with the
+smell of long stale air.    
+~
+28 32769 0 0 0
+D3
+~
+~
+0 0 2854
+S
+#2856
+Inside the Small Cave~
+   You stand inside a fairly small cave.  Bones and bits of odds and ends, as
+well as other unidentifiable debris lie scattered across the floor of the
+cavern.  Odd sounds echo hollowly off the cavern walls, sounding louder than
+normal.  The odour of things long dead permeates the cave, mixing with the
+smell of long stale air.    
+~
+28 32768 0 0 0
+D0
+~
+~
+0 0 2854
+S
+#2857
+The Temple of Paladine~
+   You stand in a rather small temple dedicated to the just god Paladine.  A
+heavy-looking white marble altar stands in the center of the room, on it a
+medium sized silver dragon idol blows curls of incense out of its nostrils.  
+Several pews surround the altar most scattered with a few ardent worshippers.
+~
+28 32920 0 0 0
+D2
+~
+~
+0 0 2829
+S
+#2858
+At the Gates of House Manchara~
+   Heavy black iron gates lead into a small courtyard which leads to the front
+of house Manchara.  A few vagrant trees grow here and there in the courtyard
+though it is mostly filled with rose bushes and shaped shrubs.    
+~
+28 32772 1 0 0
+D0
+~
+~
+0 0 2828
+D2
+~
+~
+0 0 2859
+S
+#2859
+In the Courtyard~
+   The courtyard seems to be a quiet place for meditation or at least an escape
+from the daily affairs of the wealthy.  The sounds of the streets are drowned
+by the thick walls and surrounding vegatation.  A few stone benches litter the
+area.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 2858
+D1
+~
+~
+0 0 2860
+D2
+~
+~
+0 0 2862
+D3
+~
+~
+0 0 2861
+S
+#2860
+In the Courtyard~
+   The courtyard seems to be a quiet place for meditation or at least an escape
+from the daily affairs of the wealthy.  The sounds of the streets are drowned
+by the thick walls and surrounding vegatation.  A few stone benches litter the
+area.    
+~
+28 32768 0 0 0
+D3
+~
+~
+0 0 2859
+S
+#2861
+In the Courtyard~
+   The courtyard seems to be a quiet place for meditation or at least an escape
+from the daily affairs of the wealthy.  The sounds of the streets are drowned
+by the thick walls and surrounding vegatation.  A few stone benches litter the
+area.    
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2859
+S
+#2862
+The Foyer~
+   Two slender marble columns flank you as you step onto the foyer.  A few
+servants stand about going about their business, bustling in and out of the
+magnificently carved ivory-coloured doors in front of you.  The sigil of
+Manchar, a falcon clutching a sprig of mint and a lance in its claw, is
+emblazoned into each handle and on the center of each door.    
+~
+28 32772 0 0 0
+D0
+~
+~
+0 0 2859
+D2
+~
+~
+0 0 2863
+S
+#2863
+The Main Hall of House Manchara~
+   Having stepped off the foyer and into the house you find yourself on a fine
+plush crimson carpet. Two stair cases lead upwards to your southeastern and
+southwestern angle while the hallway runs east and west. To the east you see
+a grand dining room and faintly into what looks to be a kitchen, to the west
+you see bustling servants and a few house guards.  Perhaps the servant's
+quarters.    
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2862
+D1
+~
+~
+0 0 2864
+D3
+~
+~
+0 0 2869
+S
+#2864
+The Hallway ~
+   You walk down the crimson-carpeted hallway towards the dining room.  
+Overhead heat and light radiates from blazing faux-crystal chandliers.    
+~
+28 32776 0 0 0
+D1
+~
+~
+0 0 2865
+D3
+~
+~
+0 0 2863
+S
+#2865
+The Hallway~
+   You walk down the crimson-carpeted hallway towards the dining room.  
+Overhead heat and light radiates from blazing faux-crystal chandliers.    
+~
+28 32776 0 0 0
+D1
+~
+~
+0 0 2866
+D3
+~
+~
+0 0 2864
+S
+#2866
+The Main Dining Room~
+   You stand in the center of a grand dining hall.  An enlongated polished
+mahogany table streaches from end to end, each side lined with equally
+well-crafted mahogany chairs.  Each end of the table is dominated by a large
+over-stuffed grey velvet chair.  To the far end, you see the entrance to the
+kitchen.    
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2867
+D3
+~
+~
+0 0 2865
+S
+#2867
+The Kitchen~
+   You stand inside a stately kitchen, servants and cooks bustle about paying
+emote nods at mind to anything but their tasks.  Fires flare up here and there
+under pans and sometimes in them. A large oaken table dominates the center of
+the room.    
+~
+28 32776 0 0 0
+D1
+~
+~
+0 0 2868
+D2
+~
+~
+0 0 2866
+S
+#2868
+The Servant's Dining Area~
+   A shabbily decorated room, this obviously being the servant's dining area.
+A short pine table sits here littered with rusty and broken eating utinsils and
+shattered plates.  The chairs surrounding the table are all mismatched, most
+missing a leg replaced by the leg of another chair.    
+~
+28 32776 0 0 0
+D3
+~
+~
+0 0 2867
+S
+#2869
+The Hallway~
+   The crimson carpeting stops abruptly a few steps into the room and is
+replaced by an obviously less expensive immitation.  The walls here have not
+been painted in sometimes and the marvelous chandliers that litter the other
+end of the hallway are replaced here by copper candlebras.    
+~
+28 32776 0 0 0
+D1
+~
+~
+0 0 2863
+D3
+~
+~
+0 0 2870
+S
+#2870
+The Hallway~
+   The crimson carpeting stops abruptly a few steps into the room and is
+replaced by an obviously less expensive immitation.  The walls here have not
+been painted in sometimes and the marvelous chandliers that litter the other
+end of the hallway are replaced here by copper candlebras.    
+~
+28 32776 0 0 0
+D1
+~
+~
+0 0 2869
+D3
+~
+~
+0 0 2871
+S
+#2871
+A Small Intersection~
+   The immitation carpet has stopped, and is now replaced by bare cement floor.
+The hallway splits in two here, to the north the women's quarters and the south
+the men's.    
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2872
+D1
+~
+~
+0 0 2870
+D2
+~
+~
+0 0 2881
+S
+#2872
+A Narrow Hallway~
+   Heading northwards you find yourself in the women's quarters.  A few female
+servants wander about the halls most going in and out of the doors that lay on
+your right and left.    
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2873
+D1
+A sturdy pine door with copper hinges stands here.
+~
+door pine sturdy~
+1 0 2875
+D2
+~
+~
+0 0 2871
+D3
+A sturdy maple door on copper hinges stands before you.
+~
+door maple sturdy copper~
+1 0 2878
+S
+#2873
+A Narrow Hallway~
+   Heading northwards you find yourself in the women's quarters.  A few female
+servants wander about the halls most going in and out of the doors that lay on
+your right and left.    
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2874
+D1
+A sturdy oak door on copper hinges stands before you.
+~
+door sturdy oak~
+1 0 2877
+D2
+~
+~
+0 0 2872
+D3
+A sturdy maple door on copper hinges stands before you.
+~
+door maple sturdy copper~
+1 0 2876
+S
+#2874
+A Narrow Hallway~
+   Heading northwards you find yourself in the women's quarters.  A few female
+servants wander about the halls most going in and out of the doors that lay on
+your right and left.    
+~
+28 32776 0 0 0
+D0
+A sturdy cherry door stands to the north of you on bronze hinges.
+~
+door cherry sturdy bronze~
+1 0 2880
+D1
+A sturdy pine door on copper hinges stands before you.
+~
+door pine copper~
+1 0 2879
+D2
+~
+~
+0 0 2873
+S
+#2875
+A Servant's Quarters~
+   The walls here are painted grey and the room is only sparsely furnitured.  
+A short sky-blue sheeted bed lays against the far eastern wall and a small wash
+basin sits up against the southern wall.    
+~
+28 32776 0 0 0
+D3
+~
+door~
+1 0 2872
+S
+#2876
+A Servant's Quarters~
+   The walls here are painted grey and the room is only sparsely furnitured.  
+A short sky-blue sheeted bed lays against the far eastern wall and a small wash
+basin sits up against the southern wall.    
+~
+28 32776 0 0 0
+D1
+~
+door~
+1 0 2873
+S
+#2877
+A Servant's Quarters~
+   The walls here are painted grey and the room is only sparsely furnitured.  
+A short sky-blue sheeted bed lays against the far eastern wall and a small wash
+basin sits up against the southern wall.    
+~
+28 32776 0 0 0
+D3
+~
+door~
+1 0 2873
+S
+#2878
+A Servant's Quarters~
+   The walls here are painted grey and the room is only sparsely furnitured.  
+A short sky-blue sheeted bed lays against the far eastern wall and a small wash
+basin sits up against the southern wall.    
+~
+28 32776 0 0 0
+D1
+~
+door~
+1 0 2872
+S
+#2879
+A Servant's Quarters~
+   You stand in a small fairly plain servant's quartering room, though it is
+slightly larger and slightly more elaborately decorated than the others.  The
+bed against the northern wall is covered with a set of cotton cream coloured
+sheets and is footed on the eastern wall by a small wash basin.    
+~
+28 32768 0 0 0
+D3
+~
+door~
+1 0 2874
+S
+#2880
+A Servant's Quarters~
+   This room could be considered lavish compared to the others lining the hall.
+It's walls are painted with a fresh coat of rose tinted ivory and a small blue
+curtained window stands to the north.  The bed, much larger than the others is
+of a four post sort, and is covered by a set of satiny-looking green sheets.  
+A small table sits at the foot of the bed, bearing an empty vase.  Directly
+across from it a copper tub for bathing attached to the basin which protrudes
+from the southern wall is filled with a murky milk-like water which is
+dotted by floating rose petals.
+~
+28 32776 0 0 0
+D2
+~
+door~
+1 0 2874
+S
+#2881
+A Narrow Hallway~
+   The men's half of this hall is littered with garbage, empty trays, dirty
+trousers and mysterious stains, which by the smell of it you would guess came
+from some sort of carrion eating cow.  The rancid smell of unwashed bodies
+fills the air.    
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2871
+D1
+~
+~
+0 0 2883
+D2
+~
+~
+0 0 2884
+D3
+~
+~
+0 0 2882
+S
+#2882
+A Servant's Quarters~
+   You stand in a poorly decorated room furnished with a small bed and a crate
+table surrounded by two smaller crate chairs.  The walls of the room are
+painted grey, and are flaking horribly.  Obviously a man's room.    
+~
+28 32776 0 0 0
+D1
+~
+~
+0 0 2881
+S
+#2883
+A Servant's Quarter's~
+   You stand in a poorly decorated room furnished with a small bed and a crate
+table surrounded by two smaller crate chairs.  The walls of the room are
+painted grey, and are flaking horriblely.  Obviously a man's room.    
+~
+28 32768 0 0 0
+D3
+~
+~
+0 0 2881
+S
+#2884
+The End of the Hallway~
+   It seems obvious that the duke doesn't seem to have much taste in male
+servants being how small their quarters are and all.  Nor does it seems that he
+cares in what fashion they live in.  The hall is littered with trash and what
+you really hope are ale stains.    
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2881
+D1
+~
+~
+0 0 2886
+D2
+~
+~
+0 0 2885
+S
+#2885
+The Head Butler's Chambers~
+   A suprising contradiction to the rest of the area, the butler's quarters are
+absolutely spotless.  The walls have been recently coated with a splash of
+indigo paint and a worn-looking grape-carved headboard stands in front of a
+down-stuffed matress.  A small wash stand sits in the northeastern corner of
+the room, a stack of rose-scented soaps stand on a wooden table on the western
+flank of the sink.    
+~
+28 32776 0 0 0
+D0
+~
+~
+0 0 2884
+S
+#2886
+A Servant's Quarters~
+   This room seems to be unoccupied, though in a horrible state of ill-repair.
+The corners of the rooms are practically rounded by cobwebs and the floor is
+very sticky.    
+~
+28 32776 0 0 0
+D3
+~
+~
+0 0 2884
+S
+#2887
+Mandrake Square~
+   The cobblestone roads continues both to the north and south.  To the east, a
+small area can be seen where it appears fighters of various sorts seem to be
+practicing their skills.  To the north, the manor which has dominated the
+northern view can be seen more clearly.    
+~
+28 32772 1 0 0
+D0
+~
+~
+0 0 2891
+D1
+~
+~
+0 0 2888
+D2
+~
+~
+0 0 2821
+S
+#2888
+The Training Grounds~
+   You stand in a fairly small cluttered combat arena full of cadets and
+veterans alike honing their skills on each other as well as going through
+random training manuevers.  Occasionally, an experienced fighter will stroll
+through the area, perhaps looking to size up the competition, perhaps looking
+to hone their skills as well.    
+~
+28 32768 0 0 0
+D0
+~
+~
+0 0 2889
+D3
+~
+~
+0 0 2887
+S
+#2889
+A Stone-Floored Battle Ring~
+   A large battle arena is here.  Large granite stones cover its floor.  A few
+scraggly cadets stand in a circle surrounding a central raised ring.  
+Scattered about the ring lie various bits of broken armor and swords.    
+~
+28 32768 0 0 0
+D1
+~
+~
+0 0 2890
+D2
+~
+~
+0 0 2888
+S
+#2890
+A Gray Tiled Alcove~
+   A gray-tiled alcove littered with cots and injured trainees.  This seems to
+be the partitioned area for the wounded.  Healers come and go periodically,
+tending to the wounds of those inadvertantly injured during training.  
+Although it is not real battle, once in a while an overzelous cadet will
+seriously hurt another, and those unfortunate enough to have been hurt are
+brought here.    
+~
+28 32768 0 0 0
+D3
+~
+~
+0 0 2889
+S
+#2891
+Mandrake Road~
+   You stand directly in front of the manor which has so long dominated the
+northern view of town.  Finely tended bushes line cast-iron fencing around the
+grounds and garden.  Ivy crawls over the fence engulfing it and threatening to
+engulf the entire city.  Very symbolic to the plans of it's lord.  At the
+moment the gates to the manor are locked tight.    
+~
+28 32768 1 0 0
+D0
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 2887
+D3
+~
+~
+0 0 2892
+S
+#2892
+Approaching the Havaenna Library~
+   You have strayed westward of the manor and find yourself approaching a
+fairly small, though well-maintained library. A marble structure with a domed
+roof surrounded by bushes, the library is not all that stunning, though seems
+to be alive with the patter of slippered feet and swishing robes.    
+~
+28 32904 0 0 0
+D1
+~
+~
+0 0 2891
+D3
+~
+~
+0 0 2893
+S
+#2893
+The Temple Entrance~
+   The entrance to the temple seems heavily guarded.  A few robed fellows walk
+about and glance at you occasionally, most however have their noses stuck in
+thick musty tomes.    
+~
+28 32776 0 0 0
+D1
+~
+~
+0 0 2892
+D3
+~
+~
+0 0 2894
+S
+#2894
+At the Altar~
+   You stand before an altar like none you have ever seen before, it is really
+a simple marble base held up by pillars, but extraodinary magics have been
+worked and the three moons have been set as illusions in front of the altar
+each slowly working its way through its cycle then starting again.  Incenses
+and offerings cover the bulk of the altar, though an enormous grimoire takes up
+most of the center.    
+~
+28 104 0 0 0
+D0
+~
+~
+0 0 2895
+D1
+~
+~
+0 0 2893
+D2
+~
+~
+0 0 2899
+D3
+~
+~
+0 0 2897
+S
+#2895
+A Granite Aisle~
+   You walk a granite-floored aisle away from the altar, a few scholars bustle
+about mostly they are studying the impressive illusions which float above the
+altar.  A few peer warily over the tops of their study books at you and then
+return to their affairs.    
+~
+28 8 0 0 0
+D0
+~
+~
+0 0 2896
+D2
+~
+~
+0 0 2894
+S
+#2896
+An Elegant Study~
+   You stand in a small study tastefully decorated by two large tapestries on
+the eastern and northern walls.  A heavy-looking pine desk sits in the center
+of the room, and a large set of shelves covers the western wall.  Odds and ends
+covering its many tiers.    
+~
+28 8 0 0 0
+D2
+~
+~
+0 0 2895
+S
+#2897
+A Marble Aisle~
+   Finely shaped marble tiles line the hall, a tapestry depicting a wizened
+looking fellow in white robes on the back of a silver dragon drapes the east
+wall and to the direct west a small study stands before you.    
+~
+28 8 0 0 0
+D1
+~
+~
+0 0 2894
+D3
+~
+~
+0 0 2898
+S
+#2898
+A Small Study~
+   You stand in a room that seems to be three walls of books, and a
+book-covered oak desk.  A single window sheds some light through the northern
+wall, but it is blocked by a tower of heavy books numbered from one to
+seventy-six.    
+~
+28 8 0 0 0
+D1
+~
+~
+0 0 2897
+S
+#2899
+A Bloodstone Aisle ~
+   A wide area opens up here.  The room is covered in deep crimson tiles which
+shine brightly in the light cast by the sun as it streams through the windows.
+The room has an unusual feel to it, almost as if strange energies have gathered
+here to create an imperceptable shimmering in the air.    
+~
+28 8 0 0 0
+D0
+~
+~
+0 0 2894
+S
+$~

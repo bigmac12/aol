@@ -1,0 +1,478 @@
+#2500
+man large training clothes~
+a large man in training clothes~
+A large man dressed in white, canvas training clothes stands here.
+~
+   This man has a large frame and a strong body.  He has blue eyes that shine
+with an inner wisdom and peacefulness.  His hair is worn pulled back into a
+short ponytail which is tied at the base of his neck.  As you look at him, he
+stops to give you a polite bow before returning to his training.    
+~
+7946250 0 0 850 E
+30 1 -14 3d33+1700 4d8+9
+1900 250000 2
+8 8 1 2
+Maxmove: 50
+E
+#2501
+Abelard man robes~
+Abelard~
+A man wearing ornately decorated robes wanders busily around.
+~
+   Abelard is a wise, old man with sparkling, blue eyes.  He smiles peacefully
+as you look at him and nods a greeting before returning to his work.  He is
+dressed in the robes of a priest.  Their fine detail and ornate decoration
+would seem to indicate that he is a man of great importance.    
+~
+1777672 131200 8454148 850 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 2
+8 8 1 0
+Maxmove: 50
+E
+T 2
+#2502
+scribe monastic~
+a monastic scribe~
+A monastic scribe goes busily about his work.
+~
+   This monk is one of the proud few who have been selected to serve as a
+scribe.  The scribes work tirelessly recording books for the great libraries of
+Krynn.  His eyes are bright with a distant look about them, as though he is
+lost in his work.    
+~
+4104 0 0 850 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 1 0
+Maxmove: 50
+E
+#2503
+mare grey dappled~
+a dappled-grey mare~
+A dappled-gray mare grazes here.
+~
+   This magnificent creature stands twelve hands high.  Her shiny coat is
+dappled-grey and perfectly smooth.  Her alert, brown eyes survey the area
+looking for a snack.    
+~
+16777224 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 2 0
+Maxmove: 50
+E
+#2504
+pig pot bellied pot-bellied~
+a pot-bellied pig~
+A pot-bellied pig searches the area, looking for food.
+~
+   This round pig is built low to the ground and a bit wide.  He keeps his
+snout low to the ground, constantly searching for a scrap of food to eat.  His
+skin is brown with a pinkish tint.  A few coarse hairs stick up on the top of
+his head.    
+~
+65544 0 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 1 0
+Maxmove: 50
+E
+#2505
+billygoat billy goat~
+a billygoat~
+A small billygoat searches the ground for something to chew on.
+~
+   This small billygoat has short, white fur with dark patches.  Two stubby
+horns protrude from its head.  It wanders about, searching the ground for
+something that it can chew to pieces.    
+~
+65544 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+Maxmove: 50
+E
+#2506
+sorceress white-robed slender elegant woman clad shimmering robes~
+a white-robed sorceress~
+A slender, elegant woman clad in shimmering white robes polishes her staff.
+~
+   This woman is very beautiful to look upon, with youthful, classical
+features.  Her skin is smooth and flawlessly pale, only set into dark relief by
+her clean white robes that shimmer in the light.  She sits here upon a small
+bench, her staff laid across her lap.  The staff looks to have been recently
+restored from a prior, dilapidated condition, and is now beginning to regain
+its shine and look like a powerful mage artifact.    
+~
+3698698 56 100663424 700 E
+27 3 -11 3d33+1100 4d7+8
+1787 135000 1
+6 6 2 0
+Maxmove: 50
+E
+#2507
+Junipero portly shopkeeper monk~
+Junipero~
+A portly man in monk's robes stands behind the cart, constantly straightening his goods.
+~
+   Junipero is a jovial, portly man who enjoys talking with travellers and
+hearing their stories.  A smile spreads across his round face as you look at
+him.  His bald head and face are tanned from time spent out of doors tending to
+his cart.    
+~
+24586 1024 0 850 E
+30 1 -14 3d33+1700 4d8+9
+99999 1 0
+8 8 1 0
+Maxmove: 50
+E
+#2508
+shrew brown~
+a shrew~
+A small, brown shrew scurries across the ground.
+~
+   This tiny creature scurries across the ground searching for food.  It has
+beady black eyes that dart back and forth, examining the area.  Short, brown
+fur covers its entire body, and long whiskers extend out from its long, pointed
+nose.    
+~
+65560 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#2509
+chicken~
+a chicken~
+A chicken pecks at the ground.
+~
+   This white chicken keeps her beak to the ground as she wanders the area.  
+She pecks at the dirt looking for bits of corn and other food that may have
+been left behind.    
+~
+65544 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 2 0
+Maxmove: 50
+E
+#2510
+man young bell ringer~
+the bell ringer~
+A young man mutters to himself as he wanders by.
+~
+   This young man is an orphan who has lived in the monastery since he was an
+infant.  The monks have seen to his education, but he has had little contact
+with the outside world.  As you look at him, he looks back at you with alert
+eyes but says nothing.    
+~
+8 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+800 17000 0
+8 8 1 0
+Maxmove: 50
+E
+#2511
+farmer thin man~
+a farmer~
+A thin man dressed in the simple clothing of a farmer is hard at work here.
+~
+   This man works the grounds at the monastery in return for food and shelter.
+The monks allow him, and others in need, to stay with them until they can get
+back on their feet.  He glances up at you before returning back to his work.  
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 0 0
+Maxmove: 50
+E
+#2512
+boy quiet young~
+a quiet, young boy~
+A quiet, young boy plays quietly in the corner.
+~
+   The young boy glances up at you as you enter before returning to his toys.
+His wide blue eyes sparkle as he looks up at you.  His cheeks are a rosy shade
+of pink which stand out against his delicate white skin.  His hair is a dark
+shade of red and cut short.  He is dresses in plain, work clothes that would
+seem to indicate his station in life, though his appearance is clean and neat.
+~
+8 0 0 0 E
+7 16 9 3d5+85 2d6+1
+22 400 0
+8 8 0 0
+Maxmove: 50
+E
+#2513
+acolyte young~
+a young acolyte~
+A young acolyte wanders about the area.
+~
+   This young man has light brown hair and bright blue eyes.  He, like many
+other young acolytes, has travelled here to take advantage of this peaceful
+setting to allow him time for study and personal reflection.  He wanders the
+area eager to help his brethren.    
+~
+4104 4096 0 850 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 0 0
+Maxmove: 50
+E
+#2514
+receptionist man young robes~
+the receptionist~
+A young man dressed in simple robes sits behind the desk.
+~
+   Sitting quietly behind the desk, the young receptionist reviews his ledgers
+and guest books.  He interacts with the public on a regular basis, greeting all
+visitors and invited guests.  He wears simple robes that hang neatly off his
+body.  As you look at him he smiles and nods a greeting.    
+~
+8388632 4096 0 850 E
+12 13 4 5d6+210 2d8+3
+333 4700 0
+6 6 1 0
+Maxmove: 50
+E
+#2515
+priest visiting~
+a visiting priest~
+A visiting priest busily unpacks his things.
+~
+   This handsome man busily unpacks his belongings and prepares for his visit
+to the monastery.  He appears to be in his early forties, yet his clothing
+would seem to indicate that he is someone of great importance.  He nods a
+greeting as you look at him, then continues about his business.    
+~
+9961480 4096 1048578 850 E
+18 11 -2 3d20+380 3d6+6
+700 14000 2
+8 8 0 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#2516
+Sera man quiet~
+Sera~
+A quiet, thoughtful man in priestly dress stands by the altar.
+~
+   His head bowed in silent prayer, Sera stands by the altar preparing for the
+next group prayer session.  His intense, blue eyes display the inner wisdom and
+peace that he has achieved through years of contemplation and prayer.    
+~
+8986634 135296 81928 850 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 2
+8 8 1 0
+BareHandAttack: 5
+Maxmove: 50
+E
+T 2
+#2517
+cook woman elderly~
+an elderly cook~
+An elderly woman in white robes prepares for this evening's meal.
+~
+   This elderly woman is dressed in simple, clerical robes.  Her aged, wrinkled
+face is warm and friendly.  She wears a long apron over her robes so that they
+do not get dirty while she is cooking.    
+~
+2056 0 0 850 E
+12 13 4 5d6+210 2d8+3
+400 4700 0
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#2518
+monk prays~
+a young monk~
+A young monk prays here.
+~
+   This young man has his head bowed in silent prayer.  His hands are folded in
+his lap, and his face is warm and peaceful.  He wears the hood of his simple
+robes pulled up over his head.    
+~
+1589256 4096 9437188 850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 2
+8 8 0 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#2519
+a monk~
+a monk~
+A monk wanders the gardens completely lost in his thoughts.
+~
+   Dressed in a simple, hoodless robes this man wanders the gardens seemingly
+lost in his thoughts.  He glances back at you and smiles slightly before once
+again bowing his head and continuing on his way.    
+~
+1048600 4096 0 850 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+Maxmove: 50
+E
+#2520
+fighter monk~
+a monk in training clothes~
+A monk in training clothes is standing here.
+~
+   This monk appears to have just come from training.  He is dressed in a
+canvas, collarless tunic and breeches.  His hair is pulled back from his face
+and fastened at the base of his neck so as not to get in his way.    
+~
+1572872 4096 1048578 850 E
+17 10 -1 3d20+340 3d6+5
+600 11800 2
+8 8 1 0
+Maxmove: 50
+E
+#2521
+druid gardens gardening~
+a gardening druid~
+A druid tends to the gardens.
+~
+   This druid has come down from the temple of Zivilyn to assist the monks with
+their gardens.  He wanders the gardens inspecting the plants and crops,
+checking their health and strength.    
+~
+591880 0 2560 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 5
+8 8 0 0
+Maxmove: 50
+E
+#2522
+monk resident~
+a resident monk~
+One of the resident monks wanders through the monastery.
+~
+   This humble man walks through the monastery with his head bowed, seemingly
+in prayer or meditation.  He is dressed in a collarless red tunic and leggings.
+The simplicity of his outfit reflects the humility demanded by his God.    
+~
+1638408 4100 81924 850 E
+17 10 -1 3d20+340 3d6+5
+600 11800 2
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#2523
+mage wise old~
+a wise, old mage~
+A wise, old mage sits at the desk studying an ancient tome.
+~
+   The old mage looks up from his studies as you enter.  His face is wrinkled
+but his eyes still sparkle with a keen intelligence.  He is dressed in the
+white robes of an arch-mage and would seem to be quite skilled in his art.  As
+you look at him, he closes the tome he had been reading and stuffs it into a
+hidden pocket in his robes.    
+~
+10170376 33689600 8388688 850 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 1
+6 6 0 0
+Maxmove: 50
+E
+#2524
+dove white~
+a white dove~
+A white dove flies overhead.
+~
+   This small bird is completely white, from beak to tail.  It soars overhead,
+cooing softly.  Its smooth, white feathers ripple in the breeze as it rises and
+falls with the air currents.    
+~
+65544 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#2525
+monk female windmill drum~
+a female monk~
+A female monk walks the area here, running a windmill drum through her hands.
+~
+   This woman is either blind, or simply enjoys walking around with a blindfold
+on.  Either way, she wears an ivory-colored strip of linen across her eyes, and
+holds her head at a slight angle as if listening for something.  Despite her
+impaired vision, she walks with confidence and grace.  She holds a windmill
+styled hand drum in her hands, running it back and forth to produce a constant
+but soothing staccato beat.    
+~
+1187848 1064 0 0 E
+16 11 0 3d20+320 3d6+4
+200 11000 3
+8 8 2 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#2526
+Arsla elderly woman fit~
+Arsla~
+Arsla, a fit looking elderly woman, teaches any who seek knowledge.
+~
+   Arsla's age cannot be hidden, her short hair was once a deep black, but now
+it's turned a shade of silver.  Her face has many wrinkles on it, but neither
+her wrinkles nor her age seem to bother her.  She smiles quite frequently, even
+during her daily training or while teaching young monks and acolytes.  Despite
+her age, her body is still quite fit, thanks to her healthy diet, meditation,
+and practice.  She wears a simple set of red pants and tunic, with a medallion
+of a copper spider around her neck.    
+~
+7462938 33558568 0 850 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 2 0
+BareHandAttack: 13
+Maxmove: 100
+E
+T 2526
+T 2527
+#2527
+monk copper clothing~
+a monk in copper colored clothing~
+A monk in a copper colored clothing sits by the fountain, listening to Arsla's lessons.
+~
+   This young man appears to be a recent addition to the monastery.  He listens
+to Arsla intently, absorbing her words in the hopes that he can find inner
+peace.  He wears a bright copper colored shirt and pants, and simple leather
+boots.  His forehead is covered in sweat, having just finished his daily
+practicing.    
+~
+1048586 0 0 850 E
+11 14 5 5d4+170 1d5+2
+95 2900 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 100
+E
+#2588
+monk wandering~
+a wandering monk~
+A wandering monk walks here, lost in thought.
+~
+   This humble man walks the area with his head bowed, lost in thought or
+meditation.  He is dressed simply, akin to a common laborer or peasant.  
+Despite this, he looks as though he is happy, at peace.  He hums or chants
+quietly now and then, amidst his thoughts.    
+~
+8 1056 0 0 E
+14 12 2 6d8+240 2d8+4
+100 7000 3
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+$

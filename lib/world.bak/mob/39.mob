@@ -1,0 +1,438 @@
+#3900
+strangely feathered druid~
+a strangely feathered druid~
+A strangely feathered druid crouches on the ground.
+~
+   A strange form rests here perched on a log beside a tree.  Still humanoid in
+appearance, it looks to have begun to shrink and grow feathers.  The arms
+distort into impossible shapes and the fingers elongate into webbed wings.  
+The process continues as as a beak sprouts from his nose and its feet start to
+form talons.  This creature will be ready to fly away within moments.    
+~
+8 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#3901
+druid green scales~
+a druid with green scales~
+A druid with green scales lies writhing on the ground.
+~
+   Lying writhing on the ground is a horrible looking shape.  It appears, to be
+a woman whose arms have retracted into her body and her legs have joined
+together into one.  Instead of skin she has brownish-green scales and has
+slitted eyes like a snake.  She turns to look at you and what first appears to
+be a smile is really just her mouth widening back to her ears which are also
+disappearing.    
+~
+8 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#3902
+man light armour ranger~
+a man in light armour~
+A man in light armor gazes out into the sky.
+~
+   Wandering around the vicinity of the campfire is a man with deeply tanned
+skin that looks like worn leather.  He is obviously used to living off the land
+and his clothes are made up seemingly of things he has found in the wild or has
+put together himself from raw materials.  His eyes gaze off beyond the rocks
+and long to be back out in the open plains again.    
+~
+1050648 0 0 0 E
+13 13 3 6d5+240 2d6+2
+200 6625 0
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#3903
+long haired ranger~
+a long haired ranger~
+A long haired ranger reviews a tactical diagram.
+~
+   Reviewing some plans, a stunningly beautiful woman doesnt bother to
+look up at you as you approach her tent.  Wearing a brown tunic and riding
+breaches, she looks down at her work through emerald green eyes.  Waist
+length hair, bleached almost white from the sun, is tied back into a tight
+braid and wrapped completely with a strip of leather.  She shakes her
+head, muttering to herself and looks about for something.
+~
+1064986 0 0 0 E
+15 11 1 5d10+300 2d6+4
+400 8400 0
+8 8 2 0
+BareHandAttack: 11
+Maxmove: 50
+E
+#3904
+initiate druid brown robes~
+an initiate druid in brown robes~
+An initiate druid in brown robes looks at the ground.
+~
+   A young druid dressed only in simple brown robes wanders about the forest
+taking an interest in everything to be seen.  Still learning the ways of
+nature, the druid pauses to examine something in a nearby thicket of bushes and
+then moves on.  With bare feet and no adornment, this person has obviously cast
+off any interest in the aquisition of material goods and has devoted themselves
+to their studies.    
+~
+135176 0 0 0 E
+9 15 7 5d5+130 2d7+1
+30 1300 0
+8 8 2 0
+Maxmove: 50
+E
+#3905
+long robed druid~
+a long robed druid~
+A long robed druid examines a buzzing insect.
+~
+   A man wearing some long green robes slowly walks around the side of a large
+tree trunk.  He slows even further and carefully walks through the underbrush
+without disturbing a single leaf.  The creaking of a branch catches his
+attention for a moment and he intones some inaudible words.  He passes, giving
+only a nod and a faint smile as he notices your interest.    
+~
+8 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 0 0
+Maxmove: 50
+E
+#3906
+quiet archdruid~
+a quiet archdruid~
+A quiet archdruid wearing a green lioncloth stands here with his eyes closed.
+~
+   Travelling through the trees is a half naked man who wears only a loincloth
+made from woven furs.  Despite the dangerous ascent of the tree, he climbs
+along confidently with his eyes closed, feeling his way with his hands.  He is
+covered with baked on mud making his skin appear a pale grey color and turning
+his hair into a solid mass of tangles and impossible knots.    
+~
+1048600 0 0 0 E
+13 13 3 6d5+240 2d6+2
+200 6625 0
+8 8 1 0
+Maxmove: 50
+E
+#3907
+peaceful druid~
+a peaceful druid~
+A peaceful druid is calmly meditating here.
+~
+   A short, half-elven woman lays down across the flowers, smelling a small
+lily near her nose.  Although small, she has an imposing gaze that gives away
+the long years of experience and training.  A bird flies past her head and out
+into the forest.  She stands up at you approach and allows an engaging smile,
+motioning to come forward and that she is available to receive an audience.  
+
+~
+1237018 0 0 0 E
+14 12 1 6d8+240 2d6+4
+300 9500 0
+8 8 0 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#3908
+serene old man~
+a serene old man~
+A serene old man rests in the corner.
+~
+   An old man, stripped completely naked, rests in the corner of the little
+room munching on berries.  He has short white hair and a long straggly beard.
+Although his body is withered his eyes are youthful and vibrant.  Suddenly, the
+beard disappears and he jumps up laughing, amused by the squeeling of a
+squirrel sitting on his palm.  Apparently unconcerned over his imprisonment he
+sits back down and goes back to the berries.    
+~
+1048602 0 0 0 E
+16 11 0 3d20+320 3d4+4
+500 14000 0
+8 8 0 0
+Maxmove: 50
+E
+#3909
+huge mishapen form~
+a huge mishapen form~
+A huge mishapen form moans in torment.
+~
+   A huge mishapen form lumbers about in the darkness.  It has a distinctly
+humanoid form but its proportions are distorted far beyond any normal shape.  
+Towering over everything, one large eye looks down at you while the other looks
+off in another direction.  Shoulders move directly into the head and only one
+arm stretches down to tiny legs.  The giant moans through yellowed teeth and
+tries to remove a rope tying its ankle to a large rock.    
+~
+1116172 0 0 -350 E
+18 11 -4 3d20+380 3d5+6
+700 17000 0
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#3910
+tall brown horse~
+a tall brown horse~
+A tall brown horse whips its tail at flies.
+~
+   A tall and powerful horse stands off to one side, feeding on a pouch of food
+strapped over its muzzle.  A simple but elegant saddle is still strapped over
+its back, indicating it has arrived recently enough to not yet be removed of
+its burdens.  A long tail whips away flies that have begun to congregate on its
+coarse brown fur.  It shakes its head back and forth, straightening out its
+mane.    
+~
+17891464 0 0 0 E
+11 14 5 5d4+190 2d8+2
+0 2900 0
+8 8 0 0
+BareHandAttack: 7
+Maxmove: 400
+E
+#3911
+panting dog teeth~
+a panting dog with long teeth~
+A panting dog looks about for its master.
+~
+   A lithe but muscular dog patiently sits on the ground waiting for a command.
+It has short, greyish-brown fur and a long tail.  Its physique is obviously
+built to enable it to run long distances without rest and its muscles have
+grown toned and strong.  The dog makes no sound and only moves to open its
+mouth repeatedly to pant away some of its body heat.    
+~
+6152 0 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#3912
+tiny wood sprite~
+a tiny wood sprite~
+A wood sprite flits about the glade.
+~
+   A very small humanoid with elf like ears, antenae and translucent wings
+relaxes in the glade and takes in the airy breeze.  It takes only a casual
+interest in your approach and continues to run its hands through the grass.  
+As it becomes apparent that flowers may be trampled, the sprite flies up into
+the air and circles around your feet, lookng up into your eyes.    
+~
+73994 69632 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 0 0
+Maxmove: 50
+E
+#3913
+silent leopard cat~
+a silent leopard~
+A silent leopard pads through the underbrush.
+~
+   A beautiful looking cat with tawny fur and small brownish-black spots walks
+silently through the underbrush.  It is as large as a small person and though
+low to the ground, its sinewy muscle implies great strength and tenacity.  
+Huge paws hold sheathed claws as large as small daggers.  It looks up into the
+trees to try to find a good spot for a rest.    
+~
+1048600 262144 0 0 E
+15 11 1 5d10+300 2d8+4
+105 8400 0
+8 8 0 0
+BareHandAttack: 4
+SkinData0: 3910
+Maxmove: 50
+E
+#3914
+bison large~
+a large bison~
+A large bison searches around for grass.
+~
+   Grunting and kicking up dust, a large bison pushes its snout through the
+ground to eat the grass.  It has huge muscular shoulders and is covered by a
+thick layer of coarse brown fur back to its haunches.  Long, curved horns
+protrude from a massive head with large eyes and long eyelashes.  The animal
+munches on the grass then begins to move around looking for more.    
+~
+65544 0 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 9
+SkinData0: 3908
+SkinData1: 3908
+SkinData2: 3922
+Maxmove: 50
+E
+#3915
+short black badger~
+a short black badger~
+A short black badger scratches at the ground.
+~
+   This short and plump looking animal quickly twitches its head from side to
+side, standing up on its hind legs for a moment to sniff the air.  Black
+stripes run up its cheeks and another split down its back into silvery-brown
+fur.  About a full stride in length it has long, sharp claws and snarls pointy
+teeth at you.  Making little huffing noises, the badger makes a mock charge in
+your direction.    
+~
+73738 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#3916
+sad distracted druid~
+a sad and distracted druid~
+A sad and distracted druid looks at her hands.
+~
+   A pale and sad looking druid in tattered robes wanders nervously about the
+forest.  Having travelled from outside of Krynn the link to her deities has
+been broken and she is known as a heathen among her bretheren.  No longer able
+to call upon the Gods' favor to assist nature she walks about trying to summon
+up enough of natures innate power to cast a spell.    
+~
+8 0 0 0 E
+12 13 4 5d6+210 2d8+3
+106 4700 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#3917
+man crouching crouches~
+a crouching man~
+A man crouches beside a hole and listens.
+~
+   A short man in simple brown robes crouches down beside a burrow near a tree.
+Apparently not just looking in the hole, the man seems to be quietly whispering
+down into it and carefully waiting for some noise to emerge.  He gently, almost
+without noticing, twirls two small quartz stones in his palm.  They make a
+faint clacking sound as they rub together.    
+~
+10 0 0 0 E
+15 11 1 5d10+300 2d8+4
+95 8400 0
+8 8 0 0
+Maxmove: 50
+E
+#3918
+obsessed twitchy man~
+an obsessed and twitchy man~
+An obsessed and twitchy man leans over a large stone.
+~
+   In front of the alter stands a twitching and sweating man.  He constantly
+moves, dropping flower petals to the ground and initiating a faint glow over
+his hands.  There is obviously no balance in the ritual and the strain shows on
+his face through a pained expression and beads of sweat.  He finally stops,
+having succeeded only in causing one leaf to sprout from a dead leaf at his
+feet.    
+~
+2058 0 0 0 E
+14 12 2 6d8+240 2d8+4
+0 7000 0
+8 8 0 0
+Maxmove: 50
+E
+#3919
+praying woman robes~
+a praying woman in robes~
+A praying woman in robes tries to keep her concentration.
+~
+   A tall and lanky woman kneels here in front of the blockade and softly
+intones enchantments.  Her hair is long and unkempt, filled with twigs and
+leaves as though she had slept for many days in the woods without a bed.  As
+she chants and slowly rocks back and forth, small cracks in the logs of the
+wall begin to disappear, fortifying the structure.    
+~
+1064970 0 0 0 E
+13 13 3 6d5+240 2d6+2
+231 6625 0
+8 8 0 0
+Maxmove: 50
+E
+#3920
+large bird black~
+a large bird with black feathers~
+A large bird with black feathers hops around on the ground.
+~
+   A large bird with pitch black feathers and a bare, pink head and neck
+hops about on the ground.  It has a ruffly, white collar of soft feathers
+surrounding its neck and a long curved beak.  Standing up straight and
+tilting its head back, it opens its wings to a width twice its height
+and walks around in a grand circle in a menacing display.
+~
+65544 0 0 0 E
+11 14 5 5d4+190 2d5+2
+0 2900 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#3921
+inquisitive young woman~
+an inquisitive young woman~
+An inquisitive young woman looks around nervously.
+~
+   A young woman with flowers in her hair wanders about confusedly looking for
+something.  Her glance continually looks up and down the trails as if she has
+lost her direction and is unsure which way to turn.  She looks down at her feet
+in disappointment and ponders upon what to do if she cannot find her way.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+78 800 0
+8 8 2 0
+Maxmove: 50
+E
+#3922
+ranger lanky~
+a lanky ranger~
+A lanky ranger chops away at some wood.
+~
+   A ranger diligently chops away at a large piece of wood laying on the
+ground.  It looks as though he is trying to fashion flattened ends on
+the wood so that it can be inserted into something else.  Occationally
+he gets up and wanders about trying to find the appropriate tool.  Wood
+chips are all over his clothes as if he has been at this for some time.
+~
+8 0 0 0 E
+11 14 5 5d4+190 2d6+2
+98 2900 0
+8 8 1 0
+Maxmove: 50
+E
+#3923
+bison large~
+a large bison~
+A large bison searches around for grass.
+~
+   Grunting and kicking up dust, a large bison pushes its snout through the
+ground to eat the grass.  It has huge muscular shoulders and is covered by a
+thick layer of coarse brown fur back to its haunches.  Long, curved horns
+protrude from a massive head with large eyes and long eyelashes.  The animal
+munches on the grass then begins to move around looking for more.    
+~
+65544 1056 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 9
+SkinData0: 3908
+SkinData1: 3908
+SkinData2: 3923
+Maxmove: 50
+E
+$

@@ -1,0 +1,1027 @@
+#11500
+paladin young kiri-jolith suspicious~
+a paladin of Kiri-Jolith~
+A young paladin paces through the crowd, watching for any suspicious activity.
+~
+   Upon looking at this impressive young man, what becomes clear is that he
+would be much more comfortable if the keep were not open to travellers of all
+kinds.  He seems confident in himself, but nervous that those who do not belong
+within these walls will try and enter.  He remains ever-vigilant for any whose
+appearance is anything but wholesome, and acts with haste to remove any
+perceived threats to the safety of his people.    
+~
+1630536 20 2048 850 E
+27 3 -11 3d33+1100 4d7+8
+1600 135000 7
+8 8 1 0
+E
+#11501
+paladin kiri-jolith pious young woman~
+a paladin of Kiri-Jolith~
+A pious young woman strides through the crowd, her head held high.
+~
+   This young lady never seems to remove her hand from the holy symbol that
+adorns her neck.  She moves with grace through the crowd, easily standing out
+because of her striking beauty.  Her carriage is an odd mix of piety and pride
+not uncommon to paladins.  Her hair is long and light brunette in colour.  Her
+eyes are a warm blue that scan you for a moment before she continues on her
+way.    
+~
+1597784 20 2048 850 E
+27 3 -11 3d33+1100 4d7+8
+1600 135000 7
+8 8 2 0
+E
+#11502
+guard gate watchful~
+a gate guard~
+A watchful gate guard eyes you suspiciously.
+~
+   This burly, gruff-mannered fellow stands before the gate of the fortress,
+looking you over carefully before he will even think about allowing you inside.
+He has developed an eye for evildoers and troublemakers, and will not waste
+time with either.  If forced into action, he acts quickly with practiced
+precision.  Judging by his fierce appearance, he does not get many repeat
+visitors of that sort.    
+~
+1077338 0 0 850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 13
+E
+T 11502
+#11503
+man younger acolyte~
+an acolyte of Kiri-Jolith~
+A younger man dressed in the robes of an acolyte tends to his humble duties.
+~
+   This man cannot be older than twenty, and is only beginning his learning in
+the ways of the great Kiri-Jolith.  He is clad in the brown and white robes of
+an acolyte, and seems to be outgrowing them.  He wanders about the temple,
+carrying out his daily duties, humble as they may be.  All brothers and
+sisters, no matter their rank, are equally important in temple life.    
+~
+528460 0 2048 850 E
+4 18 12 1d5+45 1d8+1
+10 50 2
+8 8 1 0
+E
+#11504
+girl pious young acolyte acolyte's~
+an acolyte of Kiri-Jolith~
+A pious young girl in acolyte's robes kneels here in silent prayer.
+~
+   This young girl is just beginning her learning as a priestess of
+Kiri-Jolith.  Though most of the priesthood is male, females also play an
+important role.  For now, she is just beginning, so her journey is one of
+self-discovery and prayer.  Her face, what you can see of it, is not beautiful
+to behold, but does have a cuteness all its own.  Unlike her fellows, her skin
+is pale, having spent more time in shelter than they have.    
+~
+138 0 1 850 E
+4 18 12 1d5+45 1d8+1
+10 50 2
+8 8 2 0
+E
+#11505
+older man vested priestly garments senior priest kiri-jolith~
+a senior priest of Kiri-Jolith~
+An older man, vested in priestly garments looks for a missing acolyte.
+~
+   This is one of the older priests of the temple.  His duty is to bestow upon
+the acolytes the knowledge he has accumulated in his advanced years.  It is a
+duty he gladly does, when the acolytes are paying attention.  This man is
+clearly flustered, looking high and low for one of the acolytes who has
+wandered off somewhere.  He looks at you briefly, but seeing you are not who he
+seeks, he leaves you be.    
+~
+583768 4156 20482 850 E
+14 12 2 6d8+240 2d8+4
+300 7000 2
+8 8 1 0
+E
+#11506
+sergeant seargant-at-arms muscular large~
+a large, muscular sergeant-at-arms~
+A muscular sergeant-at-arms bellows instructions to his men.
+~
+   This man is a little shorter and more portly than the others, with a grey
+mustache remniscent of that belonging to a walrus.  He appears to be in his
+fifties.  While he may look over the hill, a few moments in his company shows
+why he is in the position he is.  His voice is louder than most others
+possessed by mortal men.  When he barks out his commands, those around him tend
+to listen.  He looks briefly at you, then resumes his beloved task of berating
+his loyal soldiers.    
+~
+1110088 0 0 600 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+BareHandAttack: 7
+E
+#11507
+nestrimus apostle kiri-jolith dark-skinned dark innumerable years man~
+Nestrimus, Apostle of Kiri-Jolith~
+A dark-skinned man of innumerable years prepares for daily mass.
+~
+   Looking up slowly as you approach, this old, black-skinned man does not need
+to look, continuing his ritual preparation as he has for innumerable years.  
+He does not regard you with the cold intolerance of the others dwelling here.
+His look is one of compassion mixed with an inspired vigilance.  His weathered
+hands handle the holy vestments with care.  He is dressed in the ritual garb of
+a high priest of Kiri-Jolith, marking him as the chaplain of the fortress.    
+~
+1826906 234885308 142934016 1000 E
+30 1 -14 3d33+1700 4d8+9
+1900 250000 2
+8 8 1 0
+E
+T 2
+#11508
+tall young man clerical cleric priest ordained kiri-jolith chanting~
+an ordained priest of Kiri-Jolith~
+A tall, young man in clerical robes walks steadily, chanting.
+~
+   This tall young man walks in slow, measured steps through the aisles of the
+temple, chanting softly in an unfamiliar tongue.  His hair is light brown, and
+he has a gentle look to his face.  The life's blood of the church, the ordained
+clergy have many tasks.  They minister to the common folk, teach the younger
+priests, and perform many important ceremonies, from weddings to war blessings.
+  
+~
+585736 0 4099 800 E
+10 14 6 5d4+160 2d7+2
+90 1900 2
+8 8 1 0
+E
+#11509
+scribe white white-haird old~
+a white-haired scribe~
+A white-haired old man stands at a table, writing feverishly.
+~
+   This old man sits at his desk, holding a quill pen in his gnarled hand.  He
+looks up as you enter, and in his startled state upsets a small vial of ink,
+making a mess of his robes.  He then frowns at you, muttering something about
+having better things to do than startle old men, and resumes writing, doing his
+utmost to ignore you.    
+~
+24586 0 0 500 E
+14 12 2 6d8+240 2d8+4
+300 7000 2
+6 6 1 0
+E
+#11510
+blacksmith massive muscular~
+a muscular blacksmith~
+A massive blacksmith stands here, pounding with a great hammer on a piece of steel plate.
+~
+   This great hulk of a man pauses a moment to mop the sweat from his brow.  
+He has likely been working at his forge since the sun first awoke in the
+morning, and he does not look to have taken any sort of break.  He works
+tirelessly, producing armor to fit the garrison of the fortress.  His skin is
+blackened by soot, and his arms are like legs.    
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 1 0
+E
+#11511
+girl vibrant young girl~
+a vibrant young girl~
+A vibrant young girl exchanges coy glances with her beau.
+~
+   This is a young, pretty girl, about the age of fifteen by all appearances.
+Her light brown hair is tied into a braid that tumbles down her back.  She is
+dressed in fashion that would be considered by many to be modest.  She walks a
+few steps away from a young man, occasionally looking at him and blushing
+fiercely.    
+~
+8202 0 0 850 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 2 0
+E
+#11512
+lad strapping handsome nervous fidgeting~
+a strapping young lad~
+A handsome, strapping lad fidgets nervously as he stands here.
+~
+   This lad cannot be older than seventeen.  He is very tall and appears to be
+rather strong, but his freckles and lack of any facial hair give away his age.
+He stands a comfortable distance from a young girl whom he quite obviously
+fancies.  They exchange a few words, and then simply look into each other's
+eyes, the blossoming of young love.    
+~
+4106 0 0 800 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+E
+#11513
+solamnic pilgrim awe awe-filled~
+a Solamnic pilgrim~
+A Solamnic Pilgrim walks through the temple with awe-filled eyes.
+~
+   Wearing the fashionable Solamnic mustache, this middle-aged man has
+travelled a long way to be here.  Now, he walks through the temple, awe and
+inspiration obvious in his eyes.  He has left his armor and sword behind; here
+he has nothing to fear.  Here, he is just a pilgrim, paying homage to the gods
+in the temple of Kiri-Jolith.    
+~
+72 0 0 850 E
+8 15 8 5d5+110 2d6+2
+70 800 3
+8 8 1 0
+E
+#11514
+woman washer elderly wrinkled old~
+an elderly washer woman~
+A wrinkled old woman carries a bundle of uniforms home to be washed.
+~
+   The garrison's uniforms don't clean themselves, as the expression goes.  
+This old woman is rather small in stature, and her skin clearly shows her
+advanced years.  She carries under her arm a basket of uniforms, which she is
+going to take home and wash.  It is in this way that she continues to
+contribute to the well-being of the community.    
+~
+200 0 0 800 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 2 0
+E
+#11515
+man man-at-arms proud~
+a proud man-at-arms~
+A proud man-at-arms walks by, scanning the crowds.
+~
+   This man-at-arms is part of the garrison that patrols in the town, watching
+out for any threats.  If one arises, he is among the first into action.  He is
+dressed in light armor, and is obviously very warm, droplets of sweat apparent
+upon his forehead.  But, the temperature will not stop him from doing his job.
+  
+~
+4360 4 0 600 E
+12 13 4 5d6+210 2d8+3
+100 4700 3
+8 8 1 0
+E
+#11516
+commoner tired sun sun-baked~
+a commoner~
+A tired, sun-baked commoner rests in the shade, watching the activities onstage.
+~
+   This young woman has spent all day in the sun, and now she has decided it is
+time to seek shelter in the shade.  She has found this place, where she can
+rest and watch the various characters who grace the public stage.  She watches
+with passing interest, rapidly fanning herself with a small folded piece of
+parchment.    
+~
+16394 0 0 560 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+5 5 2 0
+E
+#11517
+man large burly~
+a large, burly man~
+A large, burly man watches the show, nodding in approval.
+~
+   This man looks like he could be either a labourer or a guard, but currently
+he is not performing the duties of either.  He is watching the goings on
+onstage, and is enjoying them immensely.  He wears a hat on his head to protect
+him from the sun.  His chest is swollen with pride, and occasionally shakes
+with approving laughter as he watches the show.    
+~
+65610 0 0 850 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+E
+#11518
+Selahn village midwife middle middle-aged handsome~
+Selahn, the village midwife~
+A handsome, middle-aged woman looks up from preparing an herbal concoction and smiles.
+~
+   Selahn has been the village midwife for nearly twenty years, bringing many
+children into the world who have grown up and joined the garrison and the
+priesthood.  She holds a position of much importance in the community, and is
+accorded the respect she is due for her years of service.  She has a warm and
+charming demeanor, and dark brown eyes that are both soulful and friendly.    
+~
+24778 4096 0 850 E
+18 11 -2 3d20+380 3d6+6
+700 14000 2
+8 8 2 0
+E
+#11519
+crusader fist justice proud stoic~
+a crusader of the Fist of Justice~
+A proud, stoic crusader prays quietly to himself as he walks.
+~
+   The Fist of Justice are a holy order of knights who have pledged ever
+vigilance against the forces of evil.  Long ago, they entrenched themselves in
+this mountain fortress, where they continue to lead their very aesthetic,
+communal lifestyle.  This particular man appears very proud of that noble
+tradition, his jaw stiff and his head held high.  His armor is impeccably kept,
+without the slightest scratch or blemish.    
+~
+1466648 0 0 850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+E
+#11520
+veteran crusader grey-haired grey reminiscing~
+a crusader veteran~
+A grey-haired crusader shows the others a few advanced maneuvers.
+~
+   This is a grizzled veteran of the Fist of Justice.  His hair has gone grey,
+but his body remains strong and his mind alert.  However, he has moved out of
+the front lines in favor of those with fresher legs and more energy with which
+to fight evil.  Now, he serves as a mentor for those who are filling his shoes.
+He smiles proudly at his fellows, showing a few teeth have been lost in a past
+battles.    
+~
+28682 0 0 850 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 1 0
+E
+#11521
+berzerker shaven head~
+a berzerker with a shaven head~
+A berzerker with a shaven head stands guard over the quarry.
+~
+   From birth, all citizens of this settlement are trained in one of a few
+areas.  Some are trained as scholars and scribes for the priesthood.  Others
+are more suited to guard work, or labour.  This young man showed a talent for
+fighting, and a great resistance to pain.  While not overly handsome, his body
+is bronzed and scupted.  He wears only a pair of leggings, and carries a
+brutal-looking weapon.  His head has been shaved bald as part of his
+initiation.    
+~
+340296 131072 0 400 E
+16 11 0 3d20+320 3d6+4
+400 11000 3
+8 8 1 0
+BareHandAttack: 5
+E
+#11522
+mason skilled~
+a skilled mason~
+A skilled mason barks out orders to his apprentices.
+~
+   Looking at this man shows one who has long worked with stone.  His dirty
+apron is stitched with a few badges that show his past accomplishments.  The
+top of his head is bald, and he has a great white beard that covers the lower
+half of his face.  His eyes are narrow and severe, looking at the inferior work
+done by his underlings.  He is not a patient man, but he does appreciate their
+effort.  Carried in one hand, swung over his shoulder is a massive hammer, used
+for crushing and cutting rocks.    ~
+67658 0 0 400 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#11523
+guardian inner sanctum tall gaunt~
+a guardian of the inner sanctum~
+A tall, gaunt guardian of the inner sanctum stands here, barring entrance to all.
+~
+   These imposing men stand for long shifts, neither sleeping nor eating for
+many hours at a time.  It clearly starts to take its toll on their bodies,
+which are lanky and none too strong-looking.  However, any who has seen them
+act when an intruder is present knows otherwise.  Their reflexes are lightning
+fast, and they are more than capable of doing their jobs with ruthless
+efficiency should the need arise.    
+~
+9443594 5180 0 850 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 3
+8 8 1 0
+BareHandAttack: 6
+E
+#11524
+labourer tanned journeyman pouring sweat~
+a journeyman labourer~
+A tanned labourer pouring with sweat walks by, pushing a heavy cart of rocks
+~
+   This gruff fellow has a body that is both strengthened and battered from all
+of the difficult work he performs in his daily life.  He has a strong back,
+chest, and arms, but the way he walks indicates that he may have some problems
+with his feet and knees.  His skin is bronzed and sweat-soaked from working
+long days in the blazing sun.  He wastes no time, running back and forth,
+pushing heavy carts of bricks for the new construction.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+E
+#11525
+garren commander fist justice~
+Garren~
+Garren, Commander of the Fist of Justice sits up at his desk, irritated by your interruption.
+~
+   Garren is the first man in the history of the Fist of Justice to be chosen
+from outside the order to command it.  In his younger days, he was an
+adventurer of some renoun, and a veteran of the Dragonwar.  While he is not
+old, his adventuring days are done.  He now spends his days administrating the
+daily activities of the fortress.  He would be happier adventuring, but he
+understands the importance of his duty.  He awaits one who shall prove worthy
+to inherit his sword, the Holy Avenger.    
+~
+3923994 188 2304 1000 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 7
+8 8 1 0
+E
+#11526
+sentry patrolling~
+a patrolling sentry~
+A patrolling sentry watches for unwanted intruders.
+~
+   This stout young man's eyes are wide and alert, always watching for any
+threat to the people he is sworn to protect.  He is not a crusader or holy
+warrior, he is simply a young man who has decided that he would best serve his
+purpose defending his family and his way of life by patrolling his route, and
+fighting any threat that may present itself.    
+~
+1077256 0 0 590 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+E
+#11527
+sentry patrolling~
+a patrolling sentry~
+A patrolling sentry watches for unwanted intruders.
+~
+   This young woman appears strong and healthy, serving amongst the other men
+and women of the guard patrol.  She is treated no different from her male
+compatriots, and appears to be just as capable as any man in defending herself
+and others from any threat that may arise.    
+~
+1077320 0 0 670 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 2 0
+E
+#11528
+boy young rambunctious teeth missing present~
+a rambunctious young boy~
+A boy with more teeth missing than present plays tag through the crowd with his friends.
+~
+   This young, orange-haired boy seems completely unaffected by the somberness
+of most of the dwellers of the fortress.  His freckled face is stretched taut
+in a grin that would be heartwarming, if it weren't for the fact that he has
+lost his baby teeth and adult ones have yet to grow in and replace them.  He is
+dressed in blue overalls and a dirty white shirt, and hides behind the grownups
+in the crowd while playing a game of tag with his fellow boys.    
+~
+204 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 1 0
+E
+#11529
+huntress seasoned~
+a seasoned huntress~
+A seasoned huntress walks silently along the road, looking for her prey.
+~
+   This woman is not very old, possibly thirty at most, but moves with the
+stealth of one who has been working at this for a long time.  She is armed with
+a bow and arrow, and hunts for food for her people.  She also is on the lookout
+for dangerous predators, like mountain lions, seeking to end the threat they
+pose to her mountaintop kin.  She has light brown hair, tied into a ponytail,
+and a stong, lithe body.    
+~
+1310812 262144 0 670 E
+16 11 0 3d20+320 3d6+4
+500 11000 6
+8 8 2 0
+BareHandAttack: 11
+E
+#11530
+priest venerable preaching~
+a venerable priest~
+A venerable priest stands upon the stage, preaching a sermon to the people.
+~
+   This man has been a priest for a long time, and speaks from his great
+experience.  He stands upon the stage, speaking calmly, though with a voice
+that is strong and charismatic.  The people watch in rapt attention, giving him
+the occasional smattering of applause.  He is one of the most popular speakers
+here.  His hair is grey and his body is old and bent, but he is not looked down
+upon for his age; here, age is something to be respected.    
+~
+614426 0 131080 1000 E
+18 11 -2 3d20+380 3d6+6
+700 14000 2
+8 8 1 0
+E
+#11531
+traveller sleeping road-weary weary~
+a sleeping traveller~
+A road-weary traveller lies upon the side of the road, snoring softly.
+~
+   The rigors of mountain travel have proven simply too much for this soul.  
+He has found a little shade in a rocky crevice at the side of the road, and has
+lain out his bedroll to relax.  In the process of "resting his eyes", He has
+drifed off to sleep.  Hopefully he awakens soon.  This is not a safe place for
+anyone to be sleeping.  Neither weather nor wildlife are condusive to roadside
+reverie.    
+~
+10 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+4 4 1 0
+E
+#11532
+officer fist justice~
+an officer of the Fist of Justice~
+An officer of the Fist of Justice stands watch over his men.
+~
+   The officers of the Fist of Justice are alleged to have been chosen by
+Kiri-Jolith himself from among the ranks of the soldiers that garrison the
+fortress.  Indeed, they show the marks of his favor, and are said to have the
+curative powers not uncommon of paladins.  This officer is in many ways typical
+of these men.  Tall, strong, and with a proud set to his jaw.  He watches the
+area carefully, watching out for any undesirables.    
+~
+1106184 4 0 800 E
+23 6 -7 3d33+650 3d8+8
+1200 52000 7
+8 8 1 0
+E
+#11533
+guard off-duty off duty~
+an off-duty guard~
+An off-duty guard sits among the other citizens, watching for trouble even now.
+~
+   This man appears strong and capable, and though he is not currently dressed
+in uniform, his keen gaze identifies him immediately as a guard of the
+garrison.  He stands here, enjoying the show in front of him, but never does
+that keen, scanning look leave his eyes.  He is always alert, even when
+off-duty.  He sits upon a bench, watching the show, mopping sweat from his high
+forehead.    
+~
+1077258 0 0 600 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+6 6 1 0
+E
+#11534
+resident fortress~
+a resident of the fortress~
+A resident of the fortress goes about her daily chores.
+~
+   Most of the men of the fortress have been pressed into service as guards,
+labourers, or clergy.  While many women also fill these roles, this woman is
+satisfied with contributing to the welfare of the community as a mother and
+wife.  She is dressed in common clothing, and wanders about the fortress, to or
+from her chores.    
+~
+72 0 0 850 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 2 0
+E
+#11535
+monk chants chanting~
+a chanting monk~
+Walking slowly around the temple, a monk chants solemnly in an ancient language.
+~
+   You see a man, likely in his fourties, dressed in a plain brown robe made of
+course fabric.  He walks with measured steps through the halls of the temple,
+filling the echoing passageways with the sound of his lone voice, chanting in a
+language long lost in the modern world.  His expression is one of profound
+peace of mind, mingled with concentration, as with great effort he sings the
+chant in precisely the same manner it has been sung for centuries.    
+~
+2154696 0 3 850 E
+13 13 3 6d5+240 2d9+2
+200 6625 2
+8 8 1 0
+E
+#11536
+prefect kiri-jolith~
+a prefect of Kiri-Jolith~
+A prefect of Kiri-Jolith makes her way to daily mass.
+~
+   In this temple, the prefects of Kiri-Jolith help to assist Nestrimus, the
+Apostle of Kiri-Jolith in his daily masses.  They have many other duties,
+supervising the junior members of the clergy.  This young woman is dressed in
+simple clerical clothing, with a few other vestments that identify her rank in
+the church.  She is a plain woman, with the proud features that distinguish her
+people.    
+~
+590152 4 8404994 800 E
+14 12 2 6d8+240 2d8+4
+300 7000 2
+8 8 2 0
+E
+#11537
+chicken scrawny brown~
+a scrawny, brown chicken~
+A scrawny brown chicken pecks at some seeds scattered on the sidewalk.
+~
+   This malnourished bird is in many ways typical of the residents of the
+fortress.  Though common sense dictates otherwise, this bird has stayed here,
+and managed to do well enough for itself.  It stays between you and a nest over
+in the corner, which contains its eggs.  When you look at the eggs, the bird
+seems to sense your intentions and spreads its scrawny wings, looking as though
+it may attack.    
+~
+65674 65536 0 0 E
+2 19 14 1d3+12 1d5+1
+0 13 0
+8 8 0 0
+BareHandAttack: 4
+E
+#11538
+goat plaintively bleating tethered~
+a tethered goat~
+A plaintively bleating goat is tethered to a post here.
+~
+   One of the few animals that can survive in this harsh climate, this goat
+serves as a source of dairy food for the dwellers of the mountain fortress.  
+It looks up at you as you approach, lets out a brief bleat, then resumes
+munching on some dead grass.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 0
+8 8 2 0
+E
+#11539
+guard tired~
+a tired guard~
+A tired guard sits at the table, eating a bowl of stew.
+~
+   This man has just finished a long shift, and had to do extra duties today,
+therefore he has missed the dinner rush.  Still, he cannot be allowed to go
+hungry, so the cook has saved some stew for him.  It has gotten cold since
+then, but it is still sustenance.  He looks at the stew, seeming to have seen
+something inside it he does not like.  His stubble-covered chin rests upon his
+hand as his brow furrows in thought.    
+~
+65546 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+6 6 1 0
+E
+#11540
+quarryman hard-working~
+a quarryman~
+A hard-working quarryman cuts stone blocks from the pit.
+~
+   Dressed in ragged clothing, this hard-working young man works tirelessly to
+extract rock that can be used in new construction.  He stops occasionally to
+wipe sweat from his brow, then resumes his work.    
+~
+10 0 0 600 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+E
+#11541
+ox starved starved-looking~
+a starved-looking ox~
+A starved-looking ox stands hitched up to a heavy cart.
+~
+   This great beast looks like it could use some more food.  It stands
+steadily, hitched to a heavy cart.  Its rough hide drips with sweat, letting
+off a most obnoxious odor.  A proud, stubborn beast, it does not look to be
+going anywhere until it is good and ready to.  It stands with its cart in the
+middle of the street, blocking traffic.    
+~
+65546 0 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 0 0
+BareHandAttack: 4
+E
+#11542
+cook hairy old man white apron~
+an old, hairy cook~
+A hairy old man in a white apron prepares the evening's meal.
+~
+   Sniffing critically at this evening's concoction is an elderly man whose
+arms are covered in black hair.  In fact, most of his body is covered with
+hair.  There was never a more sudden reminder that you are not dining at a
+banquet in Palanthas.  This man is the one who prepares most of the food for
+the entire settlement.  He does the best he can with what he has, so those who
+dine here don't mind looking the other way when they find a hair in their stew.
+  
+~
+24650 0 0 390 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 1 0
+E
+#11543
+devout worshipper~
+a devout worshipper~
+A devout worshipper makes his way to morning prayers.
+~
+   Daily mass is part of these people's lives.  This man walks, his lips moving
+in silent prayer, towards the temple, where he will make his offerings and
+prayers to Kiri-Jolith.  He moves quickly through the crowd, making it appear
+that he believes he may be running late.    
+~
+72 0 0 850 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 0
+E
+#11544
+crusader young curvaceous~
+a curvaceous young crusader~
+A curvaceous young crusader practices her combat maneuvers here.
+~
+   While most of the crusaders are men, this one cannot be mistaken for
+anything but a woman.  She is rather curvaceous, though strong, and has had to
+have armor specially made for her.  She practices a few moves on a wooden
+practice dummy, and is cheered on by her comrades-in-arms.  She works hard to
+impress them, so that they will fully accept her as one of their own.    
+~
+1052682 0 0 850 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 2 0
+BareHandAttack: 3
+E
+#11545
+warrior young~
+a young warrior~
+A young warrior watches his comrade's training, offering support.
+~
+   This young man sits upon a stone bench, watching the training with a look of
+admiration.  He is one of the junior members of the Fist of Justice, having
+not, as the expression goes, earned his spurs yet.  He watches his comrade
+practicing, and offers cheers of support, seeming to be taking notes to himself
+as he does so.    
+~
+4106 0 0 700 E
+12 13 4 5d6+210 2d8+3
+100 4700 3
+6 6 1 0
+BareHandAttack: 5
+E
+#11546
+Ruph Ruphaelo keeper hostel~
+Ruphaelo, the Keeper of the Hostel~
+Ruphaelo, the Keeper of the Hostel smiles as you enter, offering a room.
+~
+   Ruphaelo has been keeping this hostel for years, and still has the youthful
+exuberance he had when he began.  His hair is dark black, despite his age, and
+his eyes sparkle with his welcoming smile.  He offers you shelter for the
+night, if you wish to stay in the fortress as visitors, and will lead those who
+need that shelter upstairs, where they may stay in one of the many, small rooms
+up there.    
+~
+7594075 0 0 850 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 3
+E
+#11547
+Jhaelle fire tender old blind man~
+Jhaelle, the Fire Tender~
+An old blind man sits at the fire, spinning tales for his audience.
+~
+   This old man does double duty.  He tends the communal fire, which is never
+to be extinguished, and he tells those who will listen stories of Kiri-Jolith
+and the great deeds of his devout followers.  This is all the more impressive
+given the fact that he is completely blind.  He stares blankly ahead, not
+blinking even as the smoke from the fire pours toward him.  He speaks in a
+calm, even tone, and his words are given new weight and meaning by his advanced
+age.    
+~
+7594074 0 0 850 E
+30 1 -14 3d33+4466 4d8+9
+0 250000 0
+6 6 1 0
+E
+#11548
+boy page pageboy eager-looking eager~
+an eager-looking page boy~
+An eager-looking page boy stands here, looking up at the crusaders in awe.
+~
+   This boy appears to be around the age of ten or so.  He has thin blonde hair
+cut into the shape of a bowl.  He is dressed in a red tunic, marked with the
+symbol of the Fist of Justice.  He has been left to watch the weapons and armor
+that the crusaders are not currently using.  It is a job that this young lad
+takes VERY seriously.    
+~
+4238 0 0 640 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 1 0
+E
+#11549
+uhn uhnartho artho stern stern-faced faced gatewarden~
+Uhnartho~
+Uhnartho, the stern-faced gatewarden eyes you with an unreadable expression.
+~
+   Uhnartho has been gatewarden of this fortress for more years than most of
+his men have been alive, but it does not show.  His eye is no less sharp than
+it was in his youth.  His hair and beard are now a dignified, iron-grey.  He is
+not overly tall, but he is incredibly broad-shouldered and well-built.  His
+face is full of lines and character, but his expression remains carefully
+blank, never tipping his hand to friend or foe.
+~
+3336538 188 0 1000 E
+30 1 -14 3d33+1700 4d8+9
+1900 250000 0
+8 8 1 0
+BareHandAttack: 7
+E
+#11550
+lion mountain ill ill-tempered tempered~
+an ill-tempered mountain lion~
+An ill-tempered mountain lion creeps from between the rocks, growling.
+~
+   Fierce and deadly, many mountain lions make their homes in the Vingaard
+mountains.  They find food in fine supply here, everything from mountain goats
+to travellers.  This one snarls at you, then parts its great jaws in a roar
+before leaping to attack.    
+~
+1048744 262184 0 0 E
+14 12 2 6d8+240 2d8+4
+0 7000 0
+8 8 0 0
+BareHandAttack: 8
+E
+#11551
+officer fist justice~
+an officer of the Fist of Justice~
+An officer of the Fist of Justice reads his book and rests.
+~
+   This is one of the officers of the Fist of Justice who has found himself
+with some free time during his off hours.  Never one to waste time in idle
+endeavors, he is catching up on some reading.  His short-cropped dark brown
+hair is still wet with sweat, showing that he has not been off duty for long
+now.  He relaxes, out of his armor.  He ignores your interruption for now and
+continues reading.    
+~
+1110026 0 0 850 E
+23 6 -7 3d33+650 3d8+8
+1200 52000 3
+5 5 1 0
+BareHandAttack: 13
+E
+#11552
+caller prayer stern-faced young man~
+the prayer caller~
+A stern-faced young man stands here, ready to announce the call to prayer.
+~
+   A young man in his early twenties, this fellow has one of the most important
+duties in the entire settlement.  He is the one who sounds the call to prayer
+from the top of the tower seven times a day to all those within earshot.  He
+lives up here, going down into the town only to get more food and water.  He is
+equipped with a voice that can be heard for miles.    
+~
+3334410 33591340 0 850 E
+26 4 -10 3d33+950 4d7+7
+1500 115000 0
+8 8 1 0
+BareHandAttack: 5
+E
+#11553
+clerk wizened old~
+a clerk~
+A wizened old clerk sits at his desk, feverishly writing dispatches.
+~
+   This pudgy, stout young man has the task of taking dictation from Uhnartho,
+and writing out the dispatches that will carry orders to the garrison of the
+keep.  He is a short man, and rather heavily set, with thick glasses to aid his
+eyesight, which isn't what it used to be.    
+~
+24714 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+6 6 1 0
+E
+#11554
+guardsman vigilant~
+a vigilant guardsman~
+A guardsman patrols the top of the wall, ever vigilant against danger.
+~
+   This guardsman has been assigned to patrol the top of the wall, watching for
+trouble.  He stands at his post, ready to fight any foe that should risk the
+climb up the mountain and assault the fortress.  As of yet, no such foe has
+come, though it may some day.  He walks slowly, exchanging knowing glances with
+his fellow guardsmen, patrolling from the start of his long shift until the end
+of it.  He is armed with a sturdy polearm and heavy shield.    
+~
+1053000 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#11555
+senior patrolman~
+a senior patrolman~
+A senior patrolman discusses troop dispersement with Uhnartho.
+~
+   This man has risen in the ranks, and can now speak frankly with his
+commander.  They are discussing, at length, the manner in which the troops
+should be deployed, as well as shift schedules, and many other such boring
+things.  His hair is slightly greying.  His jaw is firm, and he appears strong
+and able.  He looks at you briefly, then resumes his boring talk.    
+~
+1052682 0 0 590 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+E
+#11556
+lookout~
+a lookout~
+A lookout stands atop the tower, watching the land below for any activity.
+~
+   This is one of the lookouts of the keep.  He is not dressed for fighting,
+but is instead dressed in plain, comfortable clothing.  He wears around his
+neck a small scope, used to assist his already fine eyesight in scanning the
+horizon for any sort of trouble.  He looks at you when he feels your eyes upon
+him, but perhaps mistaking you for an officer, he resumes his watching duties
+with renewed energy.    
+~
+1048650 0 0 700 E
+17 10 -1 3d20+340 3d6+5
+600 11800 0
+8 8 1 0
+E
+#11557
+stout labourer workman~
+a stout labourer~
+A stout workman mans the scaffolding, cementing bricks into place.
+~
+   These are truly remarkable men.  Not only to be willing to work at heights
+that many are afraid of, but also to do so sitting on crossbeams that are also
+weighted down with slabs of brick.  This fellow is busily slathering the bricks
+with mortar, and laying them into place.  His skin is deeply tanned from
+working long hours in the sun, and appears quite strong and confident.  Should
+he fall though...    
+~
+10 0 0 600 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+E
+#11558
+tired workman~
+a tired workman~
+A tired workman pauses a moment to wipe the sweat from his forehead.
+~
+   Working long hours in the sun takes its toll on a body.  This sunburned
+fellow is not going to stop working, but he is taking a break to drink a little
+water and wipe the sweat from his forehead that has been stinging his eyes.  
+Seeing you noticing his break, he quickly starts to walk back towards his cart.
+  
+~
+8 0 0 0 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 1 0
+E
+#11559
+gate guard tall strong strong-looking looking~
+a gate guard~
+A tall, strong-looking gate guard shifts uncomfortably at your approach.
+~
+   This man looks like there are many things he'd rather be doing than standing
+outside of the gate in the hot sun all day.  But, he does his job and does it
+well.  He is strikingly tall, likely no less than six and a half feet, with
+blonde hair and fiery brown eyes.  His hand subconsciously tightens around his
+weapon as he sees you approach, and he eyes you cautiously.    
+~
+1052698 0 0 800 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+E
+#11560
+blacksmith soot soot-covered covered~
+a soot-covered blacksmith~
+A soot-covered blacksmith hammers away at rivets to be used in constructing scaffoldings.
+~
+   It is hard to make out much of this man's features, as he is completely
+covered from head to toe in black soot.  While it is not the cleanest of things
+to be covered in, it does ironically protect him from the sun that is blazing
+away at his colleagues.  He is working at forging several things, including
+tools, handles, supplies, and rivets.  He is working under the shade of a
+makeshift tent that has been set up on one side of the road.    
+~
+1171530 0 0 850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 7
+E
+$

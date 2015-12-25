@@ -1,0 +1,60 @@
+1
+0
+25
+set 2. hit 1;set 3. hit 1
+1
+5
+21159
+20
+mud connector review
+0
+6
+bottle
+102
+load obj 2484;give bottle $*;say That bottle is a recall potion. Use it in case you get lost.;smile $*
+1
+5
+start
+145
+say To start, you can just type "begin", but without the quotes. Or, you may go north, to experience our mud school. Whatever your preference is.
+0
+2
+rp
+151
+say Keep in mind that anything you do from now on is considered in character, except for levelling, unless you choose to make it in character yourself.
+0
+3
+tip
+180
+say If you're unsure about where to begin or how to start off in the mud, head east towards the docks. The mobs there are low level and should get you started on your adventure. :)
+0
+5
+forum
+135
+say Also, you might find some valuable roleplay information on our forums, in the reference section: http://www.ageoflegends.com/phpBB2
+0
+3
+fun
+148
+say Alright, have fun. :) Please be sure to look over our policies and other boards to get caught up with the rules, as ignorance is no excuse here.
+0
+5
+greet
+99
+say Hello there,$*. Welcome to Age of Legends: Tales of the Lance.;say Have you played here before?
+1
+7
+approve
+87
+appr $*; force $* autoexit; force $* prompt all; force $* color complete;force $* intro
+1
+4
+home
+9
+goto 1098
+0
+6
+newbie
+13
+newbie &B$*&n
+1

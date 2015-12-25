@@ -1,0 +1,183 @@
+CircleMUD v3.0 Shop File~
+#19007~
+19010
+-1
+1.00
+0.75
+-1
+%s Sorry, that's not what I made today.~
+%s You don't seem to have that.~
+%s What could I possibly want with that dearie?~
+%s I can't afford that!~
+%s Well maybe if you had given me money to buy the ingredients!~
+%s There you go, enjoy your meal.~
+%s I'll give you %s for that.~
+0
+0
+19003
+0
+19007
+-1
+0
+28
+0
+0
+1
+38
+#19011~
+19013
+10142
+-1
+1.00
+1.00
+-1
+%s Sorry, you need to go to the market if you want that!~
+%s I've got no time for games today, you know you don't have that.~
+%s This is a kitchen not a marketplace!~
+%s I can't afford that!~
+%s Seems you need to go out and earn some money for the groceries!~
+%s Here you go dearie, enjoy your meal.~
+%s Oh alright, here's %s.~
+0
+0
+1751348589
+0
+-1
+0
+28
+0
+0
+1
+38
+#19016~
+19016
+19015
+-1
+1.00
+1.00
+19plate
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+19015
+0
+19016
+-1
+0
+28
+0
+0
+1
+38
+#19022~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+1751348589
+0
+-1
+0
+28
+0
+0
+1
+38
+#19026~
+19024
+19029
+-1
+1.00
+1.00
+19
+-1
+%s I am a butler, not a magician!  Go conjure that yourself!~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I'm afraid I cannot buy that.  I have not been paid yet today!~
+%s Your wallet is a little light, your greatness!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+19025
+0
+19026
+-1
+0
+28
+0
+0
+1
+10
+#19077~
+19078
+-1
+1.00
+0.80
+19
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+19076
+0
+19077
+-1
+0
+28
+0
+0
+1
+38
+#19098~
+19098
+19099
+-1
+1.00
+1.00
+19steak loaf bread soup chicken venison meat salad
+17tankard glass cup mug
+-1
+%s I ain't got that, ye ninny!~
+%s Ye ain't got that!~
+%s I ain't takin that!~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+19098
+0
+19098
+-1
+0
+28
+0
+0
+1
+38
+$~

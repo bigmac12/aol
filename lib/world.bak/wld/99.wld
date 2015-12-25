@@ -1,0 +1,1582 @@
+#9900
+Temple Gatehouse~
+   This is one of the two gatehouses that divide the Temple of Paladine from
+the rest of Kalaman.  It's a small stone room, formed out of the stone walls
+that surround the southern courtyard of the Temple.  Two small torches burn in
+holders on two walls of the room, the other two walls hold the gate out of the
+Temple and a small wooden door leading into the courtyard.    
+~
+99 12 0 0 0
+D0
+~
+~
+0 0 9902
+D2
+~
+~
+0 0 10059
+S
+T 9900
+#9901
+Temple Gatehouse~
+   This is one of the two gatehouses that divide the Temple of Paladine from
+the rest of Kalaman.  It's a small stone room, formed out of the stone walls
+that surround the southern courtyard of the Temple.  Two small torches burn in
+holders on two walls of the room, the other two walls hold the gate out of the
+Temple and a small wooden door leading into the courtyard.    
+~
+99 12 0 0 0
+D1
+~
+~
+0 0 10058
+D3
+~
+~
+0 0 9902
+S
+T 9900
+#9902
+Temple Courtyard~
+   You are wandering through a courtyard in the temple complex.  Rose bushes,
+lillies, and many other beautiful flowers and greenery from all over Krynn grow
+here, reaching towards the sky in praise to Paladine.  Beautiful white marble
+benches are carved with images of the gods of good and their followers.  
+Majestic fountains pour holy water into great pools where followers of Paladine
+bathe.    
+~
+99 0 1 0 0
+D0
+~
+~
+0 0 9904
+D1
+~
+~
+0 0 9901
+D2
+~
+~
+0 0 9900
+D3
+~
+~
+0 0 9903
+S
+T 9900
+#9903
+Temple Courtyard~
+   You are wandering through a courtyard in the temple complex.  Rose bushes,
+lillies, and many other beautiful flowers and greenery from all over Krynn grow
+here, reaching towards the sky in praise to Paladine.  Beautiful white marble
+benches are carved with images of the gods of good and their followers.  
+Majestic fountains pour holy water into great pools where followers of Paladine
+bathe.  To the south, a small building lies nestled within the flowers and
+greenery.    
+~
+99 0 1 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 9902
+D2
+~
+~
+0 0 9967
+D3
+~
+~
+0 0 9920
+S
+T 9900
+#9904
+Temple Antechamber~
+   This small chamber is all that lies between the majestic Temple of Paladine
+and the southern courtyard of the temple complex.  A small trough of holy water
+lies on the floor near the west wall, and the east wall is a complex maze of
+small cubbies for holding shoes.  Everyone who enters the temple must wash both
+their hands and feet in the holy water, and leave their shoes behind.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9905
+D2
+~
+~
+0 0 9902
+S
+T 9900
+#9905
+The Central Aisle~
+   You are walking down the central aisle of the Temple of Paladine.  Row upon
+row of wooden pews stand to the east and west of you, some occupied by people
+praying to Paladine.  Massive stained glass windows are set into the walls of
+the room, portraying Paladine in all his glory.  Windows portraying each of the
+good dragons are in the eastern wall, and the other walls contain windows with
+pictures of Paladine himself, and a few of the Knights of Solamnia.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9906
+D1
+~
+~
+0 0 9908
+D2
+~
+~
+0 0 9904
+D3
+~
+~
+0 0 9910
+S
+T 9900
+#9906
+The Central Isle~
+   You are walking down the central aisle of the Temple of Paladine.  Row upon
+row of wooden pews stand to the east and west of you, some occupied by people
+praying to Paladine.  Massive stained glass windows are set into the walls of
+the room, portraying Paladine in all his glory.  Windows portraying each of the
+good dragons are in the eastern wall, and the other walls contain windows with
+pictures of Paladine himself, and a few of the Knights of Solamnia.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9911
+D1
+~
+~
+0 0 9907
+D2
+~
+~
+0 0 9905
+D3
+~
+~
+0 0 9909
+S
+T 9900
+#9907
+Amongst The Pews~
+   These pews are made of a sturdy oak, and fill the area to the east and west
+of the central aisle of the temple.  Hymnals lie in pockets underneath each
+seat, containing song upon song of praise to Paladine.  People praying to
+Paladine have scattered themselves throughout the pews in the temple, resting
+comfortably upon the soft white cushions that sit upon the hard wooden pews.  
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9916
+D1
+~
+~
+0 0 9915
+D2
+~
+~
+0 0 9908
+D3
+~
+~
+0 0 9906
+S
+T 9900
+#9908
+Amongst The Pews~
+   These pews are made of a sturdy oak, and fill the area to the east and west
+of the central aisle of the temple.  Hymnals lie in pockets underneath each
+seat, containing song upon song of praise to Paladine.  People praying to
+Paladine have scattered themselves throughout the pews in the temple, resting
+comfortably upon the soft white cushions that sit upon the hard wooden pews.  
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9907
+D1
+~
+~
+0 0 9914
+D2
+~
+~
+0 0 9913
+D3
+~
+~
+0 0 9905
+S
+T 9900
+#9909
+Amongst The Pews~
+   These pews are made of a sturdy oak, and fill the area to the east and west
+of the central aisle of the temple.  Hymnals lie in pockets underneath each
+seat, containing song upon song of praise to Paladine.  People praying to
+Paladine have scattered themselves throughout the pews in the temple, resting
+comfortably upon the soft white cushions that sit upon the hard wooden pews.  
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9917
+D1
+~
+~
+0 0 9906
+D2
+~
+~
+0 0 9910
+D3
+~
+~
+0 0 9919
+S
+T 9900
+#9910
+Amongst The Pews~
+   These pews are made of a sturdy oak, and fill the area to the east and west
+of the central aisle of the temple.  Hymnals lie in pockets underneath each
+seat, containing song upon song of praise to Paladine.  People praying to
+Paladine have scattered themselves throughout the pews in the temple, resting
+comfortably upon the soft white cushions that sit upon the hard wooden pews.  
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9909
+D1
+~
+~
+0 0 9905
+D2
+~
+~
+0 0 9912
+D3
+~
+~
+0 0 9926
+S
+T 9900
+#9911
+Upon a Dais~
+   You are standing upon a grand dais looking down the central aisle of the
+Temple of Paladine, and out over the pews to the east and west of the aisle.  
+A large pulpit stands towards the southeast corner of the dias, next to a small
+bowl of holy water held up by a brass structure.  In a small niche in the
+northern wall a small altar devoted to Paladine stands.    
+~
+99 8 0 0 0
+D2
+~
+~
+0 0 9906
+E
+altar~
+   This small altar is a large cylinder made of solid white marble.  The sides
+of the marble are so smooth that there is no way it could have been hewn by
+mortal hands.    
+~
+S
+T 9900
+#9912
+The Priest's Chamber~
+   This small, spartan chamber is where the priest sleeps.  Its only
+furnishings are a small wooden bed, with starched white sheets, and a rickety
+wooden desk with a chair.  The desk is littered with papers, but is dominated
+by a large leatherbound prayer book.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9910
+S
+T 9900
+#9913
+Solamnic Knight's Council Chamber~
+   This large chamber is provided by the temple to the Solamnic Knights, who
+were founded by Vinas Solamnus at the direction of Paladine and his twin sons
+Kiri-Jolith and Habbakuk.  The temple has set this room aside for their use
+whenever the local Knight's circle, consisting of knights from all over the
+nearby countryside, convenes for a meeting.  A large circular stone table fills
+the room, and at least twenty large wooden chairs have been set around the
+table.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9908
+E
+s9900~
+shop #
+~
+S
+T 9900
+#9914
+Chapel of Mishakal~
+   This is one of the five small chapels built off of the main temple, in
+praise of the five gods of good.  This chapel is devoted to Paladine's wife,
+the goddess Mishakal.  As such it is a sanctuary of healing and preservation.
+The altar is a small steel replica of the legendary disks of Mishakal, which
+are thought to be located currently at the Temple of Mishakal in Silvanost.  
+~
+99 8 0 0 0
+D3
+~
+~
+0 0 9908
+S
+T 9900
+#9915
+Chapel of Habbakuk~
+   This is one of the five small chapels built off of the main temple, in
+praise of the five gods of good.  This chapel is devoted to one of Paladine's
+twin sons, Habbakuk.  As such it is a sanctuary of nature, and many sailors
+come here to ask for Habbakuk's blessing on their next journey.  Habbakuk is
+the patron deity of Knights of the Order of The Crown, and accordingly the
+altar in this chapel is a small crown of solid gold set into a large marble
+cube.    
+~
+99 8 0 0 0
+D3
+~
+~
+0 0 9907
+S
+#9916
+Chapel of Kiri-Jolith~
+   This is one of the five small chapels built off of the main temple, in
+praise of the five gods of good.  This chapel is devoted to one of Paladine's
+twin sons, Kiri-Jolith.  Kiri-Jolith is the god of glory, honor, obedience,
+justice, and righteous warfare.  The twins and Paladine appeared before Vinas
+Solamnus and inspired him to form the Knights of Solamnia.  Kiri-Jolith became
+the patron of the Order of The Sword.  The room's only decoration is a large
+carving of a horned battle axe, the symbol of Kiri-Jolith, on the north wall.
+~
+99 8 0 0 0
+D2
+~
+~
+0 0 9907
+S
+T 9900
+#9917
+Chapel of Majere~
+   This is one of the five small chapels built off of the main temple, in
+praise of the five gods of good.  This chapel is devoted to Majere, Paladine's
+closest friend.  Majere is the god of organization, industry, and control, as
+well as faith, meditation, and dreams.  Two small rose bushes grow in the two
+northern corners of the room, and everyday a priest cuts off one stem and
+places it upon the white marble cylinder in a niche in the north wall.  Oddly
+the removed roses always grow back within a week of being cut off.    
+~
+99 8 0 0 0
+D2
+~
+~
+0 0 9909
+S
+T 9900
+#9918
+A Meditation Chamber~
+   This room is a small square with five foot walls.  The smooth white marble
+walls prevent any sound from penetrating it.  A large white cusion sits on the
+floor in the middle of the room, providing those who meditate here with a small
+measure of comfort and separation from the cold stone floor of the chamber.  
+The followers of Paladine use this chambers to meditate on the teachings of
+their god.    
+~
+99 8 0 0 0
+D3
+~
+~
+0 0 9938
+S
+T 9900
+#9919
+Chapel of Branchala~
+   This is one of the five small chapels built off of the main temple, in
+praise of the five gods of good.  The Bard King Branchala is god of music.  He
+has been a companion of Habbakuk since the beginning of time, and Branchala
+imbued Krynn's first creatures with the lyric and untamed melody of his
+immortal soul.  The only decoration in this spartan room is a large golden harp
+on a small raised dias in the middle of the west wall.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9909
+S
+T 9900
+#9920
+A Hallway~
+   This long curving hallway is the central access path of the Temple compound.
+It loops around from the southern courtyard, past sleeping chambers and
+meditation chambers, ending at the Temple of Paladine itself.  The hallway is
+lit by torches set in small niches in the wall every ten feet or so.  It is
+actually quite narrow, with room for only a few people to pass between its
+smooth stone walls.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9930
+D1
+~
+~
+0 0 9903
+D2
+~
+~
+0 0 9927
+D3
+~
+~
+0 0 9921
+S
+T 9900
+#9921
+A Hallway~
+   This long curving hallway is the central access path of the Temple compound.
+It loops around from the southern courtyard, past sleeping chambers and
+meditation chambers, ending at the Temple of Paladine itself.  The hallway is
+lit by torches set in small niches in the wall every ten feet or so.  It is
+actually quite narrow, with room for only a few people to pass between its
+smooth stone walls.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9931
+D1
+~
+~
+0 0 9920
+D2
+~
+~
+0 0 9928
+D3
+~
+~
+0 0 9922
+S
+T 9900
+#9922
+A Hallway~
+   This long curving hallway is the central access path of the Temple compound.
+It loops around from the southern courtyard, past sleeping chambers and
+meditation chambers, ending at the Temple of Paladine itself.  The hallway is
+lit by torches set in small niches in the wall every ten feet or so.  It is
+actually quite narrow, with room for only a few people to pass between its
+smooth stone walls.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9923
+D1
+~
+~
+0 0 9921
+D2
+~
+~
+0 0 9929
+D3
+~
+~
+0 0 9932
+S
+T 9900
+#9923
+A Hallway~
+   This long curving hallway is the central access path of the Temple compound.
+It loops around from the southern courtyard, past sleeping chambers and
+meditation chambers, ending at the Temple of Paladine itself.  The hallway is
+lit by torches set in small niches in the wall every ten feet or so.  It is
+actually quite narrow, with room for only a few people to pass between its
+smooth stone walls.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9924
+D2
+~
+~
+0 0 9922
+D3
+~
+~
+0 0 9933
+S
+T 9900
+#9924
+A Hallway~
+   This long curving hallway is the central access path of the Temple compound.
+It loops around from the southern courtyard, past sleeping chambers and
+meditation chambers, ending at the Temple of Paladine itself.  The hallway is
+lit by torches set in small niches in the wall every ten feet or so.  It is
+actually quite narrow, with room for only a few people to pass between its
+smooth stone walls.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9936
+D1
+~
+~
+0 0 9925
+D2
+~
+~
+0 0 9923
+D3
+~
+~
+0 0 9934
+S
+T 9900
+#9925
+A Hallway~
+   This long curving hallway is the central access path of the Temple compound.
+It loops around from the southern courtyard, past sleeping chambers and
+meditation chambers, ending at the Temple of Paladine itself.  The hallway is
+lit by torches set in small niches in the wall every ten feet or so.  It is
+actually quite narrow, with room for only a few people to pass between its
+smooth stone walls.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9935
+D1
+~
+~
+0 0 9926
+D3
+~
+~
+0 0 9924
+S
+T 9900
+#9926
+A Hallway~
+   This long curving hallway is the central access path of the Temple compound.
+It loops around from the southern courtyard, past sleeping chambers and
+meditation chambers, ending at the Temple of Paladine itself.  The hallway is
+lit by torches set in small niches in the wall every ten feet or so.  It is
+actually quite narrow, with room for only a few people to pass between its
+smooth stone walls.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9910
+D3
+~
+~
+0 0 9925
+S
+T 9900
+#9927
+A Meditation Chamber~
+   This room is a small square with five foot walls.  The smooth white marble
+walls prevent any sound from penetrating it.  A large white cusion sits on the
+floor in the middle of the room, providing those who meditate here with a small
+measure of comfort and separation from the cold stone floor of the chamber.  
+The followers of Paladine use this chambers to meditate on the teachings of
+their god.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9920
+S
+T 9900
+#9928
+A Meditation Chamber~
+   This room is a small square with five foot walls.  The smooth white marble
+walls prevent any sound from penetrating it.  A large white cushion sits on the
+floor in the middle of the room, providing those who meditate here with a small
+measure of comfort and separation from the cold stone floor of the chamber.  
+The followers of Paladine use this chambers to meditate on the teachings of
+their god.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9921
+S
+T 9900
+#9929
+A Meditation Chamber~
+   This room is a small square with five foot walls.  The smooth white marble
+walls prevent any sound from penetrating it.  A large white cushion sits on the
+floor in the middle of the room, providing those who meditate here with a small
+measure of comfort and separation from the cold stone floor of the chamber.  
+The followers of Paladine use this chambers to meditate on the teachings of
+their god.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9922
+S
+T 9900
+#9930
+A Sleeping Chamber~
+   This small chamber is where two of the priests here at the Temple sleep.  
+The priests have committed themselves to a spartan life.  They have devoted
+themselves to Paladine in every way.  The sleep, eat, pray, and do good deeds,
+and that is their life.  Two small wooden beds rest on either side of the room,
+with small trunks at their feet.  No other furnishings are to be found in this
+chamber.    
+~
+99 8 0 0 0
+D2
+~
+~
+0 0 9920
+S
+T 9900
+#9931
+A Sleeping Chamber~
+   This small chamber is where two of the priests here at the Temple sleep.  
+The priests have committed themselves to a spartan life.  They have devoted
+themselves to Paladine in every way.  The sleep, eat, pray, and do good deeds,
+and that is their life.  Two small wooden beds rest on either side of the room,
+with small trunks at their feet.  No other furnishings are to be found in this
+chamber.    
+~
+99 8 0 0 0
+D2
+~
+~
+0 0 9921
+S
+T 9900
+#9932
+A Sleeping Chamber~
+   This small chamber is where two of the priests here at the Temple sleep.  
+The priests have committed themselves to a spartan life.  They have devoted
+themselves to Paladine in every way.  The sleep, eat, pray, and do good deeds,
+and that is their life.  Two small wooden beds rest on either side of the room,
+with small trunks at their feet.  No other furnishings are to be found in this
+chamber.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9922
+S
+T 9900
+#9933
+A Sleeping Chamber~
+   This small chamber is where two of the priests here at the Temple sleep.  
+The priests have committed themselves to a spartan life.  They have devoted
+themselves to Paladine in every way.  The sleep, eat, pray, and do good deeds,
+and that is their life.  Two small wooden beds rest on either side of the room,
+with small trunks at their feet.  No other furnishings are to be found in this
+chamber.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9923
+S
+#9934
+A Library~
+   This is one of two large libraries in the Temple compound.  The two
+libraries are filled with leatherbound tomes containing the history of Krynn.
+Other tomes hold hymn upon hymn praising Paladine, and yet more tomes are
+filled with the glorious history of the Knighthood.  Aside from the shelves in
+these rooms, there are a few large wooden tables surrounded by sturdy wooden
+chairs for conducting research.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9924
+S
+T 9900
+#9935
+A Library~
+   This is one of two large libraries in the Temple compound.  The two
+libraries are filled with leatherbound tomes containing the history of Krynn.
+Other tomes hold hymn upon hymn praising Paladine, and yet more tomes are
+filled with the glorious history of the Knighthood.  Aside from the shelves in
+these rooms, there are a few large wooden tables surrounded by sturdy wooden
+chairs for conducting research.    
+~
+99 8 0 0 0
+D2
+~
+~
+0 0 9925
+S
+T 9900
+#9936
+Temple Courtyard~
+   You are wandering through a courtyard in the temple complex.  Rose bushes,
+lillies, and many other beautiful flowers and greenery from all over Krynn grow
+here, reaching towards the sky in praise to Paladine.  Beautiful white marble
+benches are carved with images of the gods of good and their followers.  
+Majestic fountains pour holy water into great pools where followers of Paladine
+bathe.    
+~
+99 0 1 0 0
+D0
+~
+~
+0 0 9937
+D2
+~
+~
+0 0 9924
+S
+T 9900
+#9937
+Temple Courtyard~
+   You are wandering through a courtyard in the temple complex.  Rose bushes,
+lillies, and many other beautiful flowers and greenery from all over Krynn grow
+here, reaching towards the sky in praise to Paladine.  Beautiful white marble
+benches are carved with images of the gods of good and their followers.  
+Majestic fountains pour holy water into great pools where followers of Paladine
+bathe.    
+~
+99 0 1 0 0
+D1
+~
+~
+0 0 9938
+D2
+~
+~
+0 0 9936
+D3
+~
+~
+0 0 9939
+S
+T 9900
+#9938
+Temple Courtyard~
+   You are wandering through a courtyard in the temple complex.  Rose bushes,
+lillies, and many other beautiful flowers and greenery from all over Krynn grow
+here, reaching towards the sky in praise to Paladine.  Beautiful white marble
+benches are carved with images of the gods of good and their followers.  
+Majestic fountains pour holy water into great pools where followers of Paladine
+bathe.    
+~
+99 0 1 0 0
+D1
+~
+~
+0 0 9918
+D3
+~
+~
+0 0 9937
+S
+T 9900
+#9939
+Temple Courtyard~
+   You are wandering through a courtyard in the temple complex.  Rose bushes,
+lillies, and many other beautiful flowers and greenery from all over Krynn grow
+here, reaching towards the sky in praise to Paladine.  Beautiful white marble
+benches are carved with images of the gods of good and their followers.  
+Majestic fountains pour holy water into great pools where followers of Paladine
+bathe.    
+~
+99 0 1 0 0
+D1
+~
+~
+0 0 9937
+D4
+~
+~
+0 0 9940
+S
+T 9900
+#9940
+A Staircase~
+   This open air staircase climbs alongside the walls of the temple combound,
+between the northern courtyard of the church and the church's magnificent
+rooftop garden.  From where you stand you can barely see over the nearby
+buildings, if you stretch, to Kalaman's west wall.  The smell of rose bushes
+from the two beautiful gardens you are walking between overwhelms your senses.
+~
+99 12 0 0 0
+D4
+~
+~
+0 0 9942
+D5
+~
+~
+0 0 9939
+S
+#9942
+A Rooftop Garden~
+   This magnificent garden has been built on the roof of the Temple.  It covers
+the entire western side of the roof of the main building with its well groomed
+plant life.  Small shrubs, roses, tulips, and over one hundred different
+varieties of lillies make up the majority of the garden.  A few fair sized
+trees are to be found here, providing the small, white, marble benches with
+shade.    
+~
+99 0 1 0 0
+D1
+~
+~
+0 0 9943
+D2
+~
+~
+0 0 9945
+D5
+~
+~
+0 0 9940
+S
+#9943
+A Rooftop Garden~
+   This magnificent garden has been built on the roof of the Temple.  It covers
+the entire western side of the roof of the main building with its well groomed
+plant life.  Small shrubs, roses, tulips, and over one hundred different
+varieties of lillies make up the majority of the garden.  A few fair sized
+trees are to be found here, providing the small, white, marble benches with
+shade.    
+~
+99 0 1 0 0
+D1
+~
+~
+0 0 9948
+D2
+~
+~
+0 0 9944
+D3
+~
+~
+0 0 9942
+S
+#9944
+A Rooftop Garden~
+   This magnificent garden has been built on the roof of the Temple.  It covers
+the entire western side of the roof of the main building with its well groomed
+plant life.  Small shrubs, roses, tulips, and over one hundred different
+varieties of lillies make up the majority of the garden.  A few fair sized
+trees are to be found here, providing the small, white, marble benches with
+shade.    
+~
+99 0 1 0 0
+D0
+~
+~
+0 0 9943
+D2
+~
+~
+0 0 9947
+D3
+~
+~
+0 0 9945
+S
+#9945
+A Rooftop Garden~
+   This magnificent garden has been built on the roof of the Temple.  It covers
+the entire western side of the roof of the main building with its well groomed
+plant life.  Small shrubs, roses, tulips, and over one hundred different
+varieties of lillies make up the majority of the garden.  A few fair sized
+trees are to be found here, providing the small, white, marble benches with
+shade.    
+~
+99 8 1 0 0
+D0
+~
+~
+0 0 9942
+D1
+~
+~
+0 0 9944
+D2
+~
+~
+0 0 9946
+S
+#9946
+A Rooftop Garden~
+   This magnificent garden has been built on the roof of the Temple.  It covers
+the entire western side of the roof of the main building with its well groomed
+plant life.  Small shrubs, roses, tulips, and over one hundred different
+varieties of lillies make up the majority of the garden.  A few fair sized
+trees are to be found here, providing the small, white, marble benches with
+shade.    
+~
+99 0 1 0 0
+D0
+~
+~
+0 0 9945
+D1
+~
+~
+0 0 9947
+S
+#9947
+A Rooftop Garden~
+   This magnificent garden has been built on the roof of the Temple.  It covers
+the entire western side of the roof of the main building with its well groomed
+plant life.  Small shrubs, roses, tulips, and over one hundred different
+varieties of lillies make up the majority of the garden.  A few fair sized
+trees are to be found here, providing the small, white, marble benches with
+shade.    
+~
+99 0 1 0 0
+D0
+~
+~
+0 0 9944
+D1
+~
+~
+0 0 9956
+D3
+~
+~
+0 0 9946
+S
+#9948
+A Hallway~
+   This small hallway is the main walkway for the second floor of the Temple.
+It travels from the Temple's rooftop garden, around the vaulted ceiling of the
+sanctuary, and around to a small stairway leading down to Rose Avenue.  Rooms
+branching off of this hallway are provided by the Temple to the homeless people
+of Kalaman, along with a good meal alongside the priests of the temple.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9949
+D3
+~
+~
+0 0 9943
+S
+#9949
+A Hallway~
+   This small hallway is the main walkway for the second floor of the Temple.
+It travels from the Temple's rooftop garden, around the vaulted ceiling of the
+sanctuary, and around to a small stairway leading down to Rose Avenue.  Rooms
+branching off of this hallway are provided by the Temple to the homeless people
+of Kalaman, along with a good meal alongside the priests of the temple.    
+~
+99 8 0 0 0
+D2
+~
+~
+0 0 9950
+D3
+~
+~
+0 0 9948
+S
+#9950
+A Hallway~
+   This small hallway is the main walkway for the second floor of the Temple.
+It travels from the Temple's rooftop garden, around the vaulted ceiling of the
+sanctuary, and around to a small stairway leading down to Rose Avenue.  Rooms
+branching off of this hallway are provided by the Temple to the homeless people
+of Kalaman, along with a good meal alongside the priests of the temple.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9949
+D2
+~
+~
+0 0 9951
+S
+#9951
+A Hallway~
+   This small hallway is the main walkway for the second floor of the Temple.
+It travels from the Temple's rooftop garden, around the vaulted ceiling of the
+sanctuary, and around to a small stairway leading down to Rose Avenue.  Rooms
+branching off of this hallway are provided by the Temple to the homeless people
+of Kalaman, along with a good meal alongside the priests of the temple.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9950
+D1
+~
+~
+0 0 9952
+D2
+~
+~
+0 0 9957
+D3
+~
+~
+0 0 9956
+S
+#9952
+A Hallway~
+   This small hallway is the main walkway for the second floor of the Temple.
+It travels from the Temple's rooftop garden, around the vaulted ceiling of the
+sanctuary, and around to a small stairway leading down to Rose Avenue.  Rooms
+branching off of this hallway are provided by the Temple to the homeless people
+of Kalaman, along with a good meal alongside the priests of the temple.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9953
+D2
+~
+~
+0 0 9958
+D3
+~
+~
+0 0 9951
+S
+#9953
+A Hallway~
+   This small hallway is the main walkway for the second floor of the Temple.
+It travels from the Temple's rooftop garden, around the vaulted ceiling of the
+sanctuary, and around to a small stairway leading down to Rose Avenue.  Rooms
+branching off of this hallway are provided by the Temple to the homeless people
+of Kalaman, along with a good meal alongside the priests of the temple.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9954
+D2
+~
+~
+0 0 9959
+D3
+~
+~
+0 0 9952
+S
+#9954
+A Hallway~
+   This small hallway is the main walkway for the second floor of the Temple.
+It travels from the Temple's rooftop garden, around the vaulted ceiling of the
+sanctuary, and around to a small stairway leading down to Rose Avenue.  Rooms
+branching off of this hallway are provided by the Temple to the homeless people
+of Kalaman, along with a good meal alongside the priests of the temple.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9961
+D2
+~
+~
+0 0 9960
+D3
+~
+~
+0 0 9953
+S
+#9955
+A Kitchen~
+   This small kitchen is where the priests of Paladine prepare meals for
+themselves and the homeless people of Kalaman.  The meals are served in the
+large dining hall to the south of this room.  The room looks like a normal
+kitchen, with a large wooden table in the middle of the room and cupboards,
+cabinets, ovens, and stove-tops along the walls.    
+~
+99 8 0 0 0
+D2
+~
+~
+0 0 9956
+S
+#9956
+A Dining Hall~
+   This large dining hall is where the priests here at the Temple eat the meals
+they and other priests cook in the kitchen to the north.  They also open the
+doors of the temple to Kalaman's homeless, providing them with a good meal here
+alongside the priests, and a bed for the night in the rooms off of the hall to
+the east.  Five long and wide wooden tables lie parallel to each other, from
+the south wall to the north wall, with benches alongside them.  A large stone
+fireplace is set into the south wall of the room, giving it a cozy feeling.  
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9955
+D1
+~
+~
+0 0 9951
+D3
+~
+~
+0 0 9947
+S
+#9957
+A Spiral Stairway~
+   You are on a long spiral stairway, leading up from the hallway on the second
+floor of the Temple, all the way to the tower observatory at the top.  There
+are no windows in the stairwell, so you aren't quite sure how far you have
+travelled.  A few torches have been set in niches in the walls of the
+stairwell, providing you with a small amount of light, barely enough to see the
+steps you set your feet upon.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9951
+D4
+~
+~
+0 0 9962
+S
+#9958
+A Home For The Homeless~
+   This large room is one of three that the Temple provides to the homeless of
+Kalaman so that they may have a comfortable place to sleep.  The Temple also
+provides them with a warm meal in the dining hall.  The room itself contains
+only five small two person bunkbeds, but that is more than enough for the
+people who sleep here.  To them this small gesture by the Temple is what keeps
+them alive during the cold winter nights.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9952
+S
+#9959
+A Home For The Homeless~
+   This large room is one of three that the Temple provides to the homeless of
+Kalaman so that they may have a comfortable place to sleep.  The Temple also
+provides them with a warm meal in the dining hall.  The room itself contains
+only five small two person bunkbeds, but that is more than enough for the
+people who sleep here.  To them this small gesture by the Temple is what keeps
+them alive during the cold winter nights.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9953
+S
+#9960
+A Home For The Homeless~
+   This large room is one of three that the Temple provides to the homeless of
+Kalaman so that they may have a comfortable place to sleep.  The Temple also
+provides them with a warm meal in the dining hall.  The room itself contains
+only five small two person bunkbeds, but that is more than enough for the
+people who sleep here.  To them this small gesture by the Temple is what keeps
+them alive during the cold winter nights.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9954
+S
+#9961
+A Stairway~
+   This narrow stairway provides access to the second floor of the Temple
+compound from Rose Avenue.  It is used primarily by the homeless people that
+the Temple provides with a warm meal and a comfortable bed.  It is open to the
+elements, leading down the outside of the compound's wall.  A large oak door at
+the top of the stairway opens into the main hallway of the second floor of the
+temple.    
+~
+99 12 0 0 0
+D3
+~
+~
+0 0 9954
+D5
+~
+~
+0 0 10057
+S
+#9962
+A Spiral Stairway~
+   You are on a long spiral stairway, leading up from the hallway on the second
+floor of the Temple, all the way to the tower observatory at the top.  There
+are no windows in the stairwell, so you aren't quite sure how far you have
+travelled.  A few torches have been set in niches in the walls of the
+stairwell, providing you with a small amount of light, barely enough to see the
+steps you set your feet upon.    
+~
+99 8 0 0 0
+D4
+~
+~
+0 0 9963
+D5
+~
+~
+0 0 9957
+S
+#9963
+A Spiral Stairway~
+   You are on a long spiral stairway, leading up from the hallway on the second
+floor of the Temple, all the way to the tower observatory at the top.  There
+are no windows in the stairwell, so you aren't quite sure how far you have
+travelled.  A few torches have been set in niches in the walls of the
+stairwell, providing you with a small amount of light, barely enough to see the
+steps you set your feet upon.    
+~
+99 8 0 0 0
+D4
+~
+~
+0 0 9964
+D5
+~
+~
+0 0 9962
+S
+#9964
+A Spiral Stairway~
+   You are on a long spiral stairway, leading up from the hallway on the second
+floor of the Temple, all the way to the tower observatory at the top.  There
+are no windows in the stairwell, so you aren't quite sure how far you have
+travelled.  A few torches have been set in niches in the walls of the
+stairwell, providing you with a small amount of light, barely enough to see the
+steps you set your feet upon.    
+~
+99 8 0 0 0
+D4
+~
+~
+0 0 9965
+D5
+~
+~
+0 0 9963
+S
+#9965
+A Spiral Stairway~
+   You are on a long spiral stairway, leading up from the hallway on the second
+floor of the Temple, all the way to the tower observatory at the top.  There
+are no windows in the stairwell, so you aren't quite sure how far you have
+travelled.  A few torches have been set in niches in the walls of the
+stairwell, providing you with a small amount of light, barely enough to see the
+steps you set your feet upon.    
+~
+99 8 0 0 0
+D4
+~
+~
+0 0 9966
+D5
+~
+~
+0 0 9964
+S
+#9966
+The Temple Observatory~
+   This small room is at the top of a narrow tower spurting from the center of
+the Temple of Paladine.  From up here you can see all of Kalaman, from the
+graveyard to the west, all the way across the docks to the sea to the east of
+the city.  Far to the north of the city you can barely make out the hazy form
+of a large keep on a cliff looking out over the sea.    
+~
+99 8 0 0 0
+D5
+~
+~
+0 0 9965
+S
+#9967
+Millabeth's Shoppe~
+   This bright, airy shop is immaculately clean and its furnishings sparse yet
+welcoming.  Vases of flowers are set in several places, filling the room with a
+fresh scent.  It is evident that this is not a business for profit, but rather,
+a labour of love for its proprietor.  Millabeth walks about the room, welcoming
+strangers and greeting old friends with the same cheerful smile that
+immediately sets all at ease.  Occasionally, one of her suppliers stops in to
+offer the latest items for her perusal, which she pours over carefully,
+commenting quietly on her selections.  Several windows in each wall catch the
+slightest sunlight during the day, and a door stands open to the north.    
+~
+99 24 0 0 0
+D0
+~
+~
+0 0 9903
+D3
+~
+~
+0 0 -1
+S
+T 9900
+#9970
+Through a Narrow, Triple Arch~
+   A set of newly built columns stretch up high above the street, capped with a
+single piece of polished alabaster, ornately carved with vigorous images of
+athleticism and sport.  Beyond the entrance a high barrel roof covers a
+gleaming, marble tiled floor which extends north into the building and towards
+the sounds of splashing and lapping water.  The walls are draped with light
+green and white fabrics which billow slightly in the breeze, picking up and
+complimenting the colors in the floor.  Just to the east, a small arch with the
+word "towels" beside it leads to a tiny alcove.
+~
+99 12 0 0 0
+D0
+~
+~
+0 0 9972
+D1
+~
+~
+0 0 9971
+D2
+~
+~
+0 0 10071
+S
+#9971
+A Shallow Alcove~
+   This small space has been set aside to provide the patrons of the baths with
+towels and bathing supplies.  The pattern of a large fish has been tiled in
+yellow and red on the floor, contrasting sharply with the watery greens and
+blues of the surrounding floor.  The walls have been plastered then textured
+with gently swirling spirals and painted a soothing cream white.  The odor of
+fragrant oils and soaps saturate the room, slowly filtering out the open boxes
+behind the small counter.    
+~
+99 8 0 0 0
+D3
+~
+~
+0 0 9970
+S
+#9972
+The Central Dome of the Baths~
+   The central focus of the building, the public baths, sits under a high domed
+roof.  Four heavy columns support the main mass of the roof and structure,
+allowing the floor space to be open and airy.  Small retractable windows
+surround the rim of the roof and allow natural light to filter down in during
+sunny days and drench the room in glowing warmth.  Steam slowly and
+continuously rises up from the geothermally heated baths and lingers, hanging
+thickly in the air before traveling up and out of a wide vent at the peak of
+the dome.  The round central bath takes up almost half of the large room, but
+does not sacrifice floor space for those wishing only to relax beside the
+water.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9976
+D1
+~
+~
+0 0 9973
+D2
+~
+~
+0 0 9970
+D3
+~
+~
+0 0 9974
+D4
+~
+~
+0 0 -1
+S
+T 9970
+#9973
+A Large, Ringed Sauna~
+   The room is lined entirely, walls and ceiling, with thin strips of red wood
+that give off a heady scent as they reflect the heat of the central sauna back.
+Two low tiers of redwood benches encircle the room providing the capacity to
+seat a large number of people.  A swinging door closes off the room and retains
+the heat from the bath area.  The heat is not overpowering, but immediately
+imparts a sense of calm and relaxation.  In the center of the room, the air
+wavers slightly over a large basin filled with dully glowing stones that are
+the source of heat for the sauna.    
+~
+99 8 0 0 0
+D3
+~
+~
+0 0 9972
+S
+#9974
+A Bubbling Pool~
+   Separated off from the main bath is a much smaller, but hotter oval pool
+that bubbles vigorously as it steams.  Smoothly carved stone within the pool
+offers comfortable seating for a number of people to soak and unwind in the hot
+water.  A complex mural has been painted entirely about the room, detailing an
+underwater scene complete with plant life and fish.  Off to one side there is a
+long, thin table with a hole at one end, designed so that someone could lay
+comfortably face down and receive a massage.  An occasional low vibration can be
+felt underneath the floor, corresponding to a spurt of bubbling within the
+pool.    
+~
+99 8 0 0 0
+D1
+~
+~
+0 0 9972
+S
+#9975
+Top of the Slide~
+   A small platform tops the peak of a wide ladder and connects to a long,
+green slide which extends down from here to the edge of the bath below.  The
+platform is nearly at the lip of the domed ceiling and offers an excellent view
+of the room below, though it is somewhat obscured by the hazy steam coming from
+the water.  A cool breeze blows in from the nearby skylights and the tops of
+many of the higher buildings of the city can be seen outside.  From here, it is
+possible to SLIDE down from the platform on the slide and land in a splash in
+the pool below.    
+~
+99 256 0 0 0
+D5
+~
+~
+0 0 9972
+S
+#9976
+Hallway to the Private Rooms~
+   A narrow hallway lined with marble sculptures leads the way back and forth
+from the main pool area to the private baths towards the north of the building.
+A barrel roof mirrors the architecture of the entrance, though this ceiling is
+closed off to give the hallway a somewhat dimmed lighting to begin to provide a
+more intimate environment for the private areas.  The sound of splashing water
+and voices echo down the hallway from the main bath in the distance off the
+hard stone floors and walls.    
+~
+99 8 0 0 0
+D0
+~
+~
+0 0 9978
+D2
+~
+~
+0 0 9972
+D6
+~
+~
+0 0 9977
+D7
+~
+~
+0 0 9979
+S
+#9977
+A Private Room Detailed with Teak and Cherry~
+   The room is small in comparison to the main bath area but much more lavishly
+appointed.  Small painted tiles weave complex geometric patterns across the
+floor, creating paths to chairs and dressing screens in the corners.  Heavily
+grained teak panels line the walls, accented by deep red, cherry wainscoting
+which circles the room at chest height.  In the center of the room are two
+large tubs inset into a single marble base, raised up as high as the waist and
+accessed by a long series of shallow steps.  Although the two tubs are usually
+used individually, they are more than large enough to accommodate two people.
+~
+99 780 0 0 0
+D9
+~
+~
+0 0 9976
+S
+#9978
+A Private Room with a Low Silk Ceiling~
+   The room is small in comparison to the main bath area but much more lavishly
+appointed.  Small painted tiles weave complex geometric patterns across the
+floor, creating paths to chairs and dressing screens in the corners.  An
+expensive series of silk strips have been strung at the edges of the room so
+that they loop down and cover the ceiling in a flowing white fabric that
+ripples in any breeze, giving the appearance of a moving sky in the dim light.
+In the center of the room are two large tubs inset into a single marble base,
+raised up as high as the waist and accessed by a long series of shallow steps.
+Although the two tubs are usually used individually, they are more than large
+enough to accommodate two people.    
+~
+99 780 0 0 0
+D2
+~
+~
+0 0 9976
+S
+#9979
+A Private Room with a Wide Cushioned Bench~
+   The room is small in comparison to the main bath area but much more lavishly
+appointed.  Small painted tiles weave complex geometric patterns across the
+floor, creating paths to chairs and dressing screens in the corners.  Along the
+back wall of the room a massive cushioned bench covered in pillows stretches
+from wall to wall and is at least three strides in width creating an ideal spot
+to lay down and relax after a long bath.  In the center of the room are two
+large tubs inset into a single marble base, raised up as high as the waist and
+accessed by a long series of shallow steps.  Although the two tubs are usually
+used individually, they are more than large enough to accommodate two people.
+~
+99 780 0 0 0
+D8
+~
+~
+0 0 9976
+S
+$~

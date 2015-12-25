@@ -1,0 +1,38 @@
+#40
+Goblin Encampment~
+4099 1 2
+* ZoneState 4 -NONE- 111000000000000
+O 0 4061 1 4061 	(a large ornately carved oaken casket)
+P 1 2877 5 4061 	(a dead rose surrounded by sparkling motes of magic)
+P 1 4063 1 4061 	(the corpse of a elderly man)
+M 0 4061 1 4061 	(a gravedigger)
+M 0 6062 1 4061 	(a young woman in red robes)
+G 1 4062 2 -1 	(a platinum key)
+D 0 4064 4 1 	(A Dark Tomb)
+M 0 4063 1 4063 	(a man in dark clothes)
+D 0 4063 5 1 	(The Graveyard)
+D 0 4050 7 1 	(A Pleasant Cave)
+M 0 4001 4 4019 	(a small squirrel)
+D 0 4019 8 1 	(A Small Game Trail)
+O 0 4003 1 4024 	(the ashes of a small camp fire)
+P 0 4004 1 4003 	(a small stone arrowhead)
+O 0 4002 1 4030 	(a small shallow pool)
+M 0 4007 2 4014 	(a male deer)
+M 0 4008 3 4014 	(a female deer)
+O 0 4000 1 4021 	(a spit)
+P 0 4001 2 4000 	(a cooked rabbit)
+P 0 4001 2 4000 	(a cooked rabbit)
+M 0 4003 2 4021 	(a short, squat goblin)
+M 0 4003 2 4021 	(a short, squat goblin)
+M 0 4004 1 4021 	(a resting goblin)
+M 0 4002 3 4022 	(a small goblin)
+M 0 4002 3 4020 	(a small goblin)
+M 0 4002 3 4020 	(a small goblin)
+O 0 4099 1 4099 	(a statue of Chislev)
+M 0 4000 2 4005 	(a short goblin scout)
+M 0 4000 2 4005 	(a short goblin scout)
+D 0 4054 0 1 	(Entering a Graveyard)
+M 0 4006 1 4053 	(a female brown bear)
+M 0 4005 1 4041 	(a large brown bear)
+S
+$

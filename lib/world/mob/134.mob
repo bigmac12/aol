@@ -1,0 +1,490 @@
+#13400
+village watchman~
+the village watchman~
+A village watchman patrols this busy street.
+~
+   This well built, middle-aged man has very prominent features that
+intimidates you as he stares at you.  Hanging on his leather belt is a sturdy
+club.  He gives the villagers a nod, and very rarely a faint smile, as he
+patrols the village.    
+~
+4172 0 0 0 E
+11 14 5 5d4+190 2d8+2
+90 2900 3
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#13401
+young boy~
+the young boy~
+A young boy runs around the village with a stick in his hand.
+~
+   This boy is barely ten years old.  He is clad in old, torn clothes but he
+seems rather comfortable in them.  His face is streaked with dirt and he is
+soaked in sweat.    
+~
+76 0 0 0 E
+5 17 11 2d5+65 2d5+0
+33 85 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#13402
+housewife~
+the housewife~
+A housewife looks tired after attending to her chores.
+~
+   The woman looks pale and tired.  She does not seems to have enough rest,
+waking up at the crack of dawn and only retiring after midnight.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+69 800 0
+8 8 2 0
+Maxmove: 50
+E
+#13403
+lady old~
+an old lady~
+An old lady sits here reading a book.
+~
+   The woman is sitting comfortably on her rocking chair.  Her greying hair is
+neatly combed and tied up.  She is wearing a pair of reading glasses as she
+struggles to make out the words in the book.    
+~
+14 0 0 0 E
+9 15 7 5d5+130 2d7+1
+77 1300 0
+8 8 2 0
+Maxmove: 50
+E
+#13404
+old man~
+the old man~
+An old man stands here with a walking stick in his hand.
+~
+   The man is about sixty, maybe seventy years old.  He looks tired as he
+struggles to get to the village square.  On his right hand is a miserable
+walking stick that doesn't look reliable to support even a child's weight.    
+~
+76 0 0 0 E
+10 14 6 5d4+160 2d7+2
+79 1900 0
+8 8 1 0
+Maxmove: 50
+E
+#13405
+girl youthful~
+the youthful looking girl~
+A youthful looking girl skips along the street, humming to herself.
+~
+   She seems to be enjoying her time on the street.  Stopping to tidy up her
+hair, she smiles as you.  Her prominent dimples brightens her face as she
+giggles and runs away.    
+~
+12 0 0 0 E
+5 17 11 2d5+65 2d5+0
+21 85 0
+8 8 2 0
+Maxmove: 50
+E
+#13406
+light brown hare~
+the light brown hare~
+A light brown hare dashes in front of you.
+~
+   Its fur is a light shade of brown with occasional spots of white.  Its hind
+legs and ears are much longer than the common rabbit.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#13407
+small child~
+the small child~
+A small child wanders the street in search of her mother.
+~
+   She is sobbing as she cries out her mother's name.  Holding her little bear
+with her tiny hands, she tries to search for her mother amongst the many
+strange faces on this busy street.    
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+17 85 0
+8 8 2 0
+Maxmove: 50
+E
+#13408
+bushy-tailed chipmunk~
+the bushy-tailed chipmunk~
+A bushy-tailed chipmunk runs across the field.
+~
+   The chipmunk has a long, bushy tail.  A white strip of white runs along its
+body, starting from the head and ending just before the tip of the tail.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#13409
+black snake~
+the black snake~
+A black snake slithers between the wheat.
+~
+   The snake is rather short for its size.  Its skin is ebony black with very
+fine yellow spots.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+Maxmove: 50
+E
+#13410
+weary trader~
+the weary trader~
+A weary trader pushes his wagon along the street.
+~
+   He looks tired from a day of trading.  Sweat trickles down his tan face as
+he slowly pushes an empty wagon along the busy street.    
+~
+12 0 0 0 E
+8 15 8 5d5+110 2d6+2
+71 800 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#13411
+large drunk~
+the large drunk~
+A large drunk stumbles and falls to the ground.
+~
+   His hair is overgrown and his chin is covered in overnight stubbles.  He
+mutters to himself as he tries in vain to get up from the filthy ground.    
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+92 1900 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#13412
+villager~
+the villager~
+A villager laughs as she gossips with the others.
+~
+   You see a woman with short auburn hair.  She is wearing a hat to block out
+the piercing sunlight.  On her right hand is a basket of vegetables and fruits.
+  
+~
+12 0 0 0 E
+8 15 8 5d5+110 2d6+2
+66 800 0
+8 8 2 0
+Maxmove: 50
+E
+#13413
+village healer~
+the village healer~
+The village healer gives you a nod as you walk into the shack.
+~
+   She wears a plain, rather dull looking green scarf on her head to pull her
+long hair away from her face.  An apron is hung on her neck and it seems rather
+dirty with stains.    
+~
+526350 0 1 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 2
+8 8 2 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#13414
+large black brown cow~
+the large black and brown patched cow~
+A large black and brown patched cow chews slowly on his cud.
+~
+   The cow is rather large with dark brown eyes.  It looks up at you as it
+continues to chew on her cud.    
+~
+10 0 0 0 E
+4 18 12 1d5+45 1d8+1
+0 50 0
+8 8 2 0
+Maxmove: 50
+E
+#13415
+tired woman~
+the tired looking woman~
+A tired looking woman is attending to her chores.
+~
+   She is a petite middle-aged woman with dark brown curly hair.  She sighs in
+exhaustion as she continues to sweep the house.  Her eyes shows signs of
+fatigue and it seems that she hasn't had a good rest for a while.    
+~
+14 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 2 0
+Maxmove: 50
+E
+#13416
+Galiard owner barkeep~
+Galiard~
+Galiard, the owner of the bar waits to take your order here.
+~
+   A large man missing several of the fingers on his left hand idly looks at
+you.  His gaze makes it clear that he dosen't care who you are or what you do
+for a living so long as you have enough coin to pay for your drink.    
+~
+7593994 33685504 0 0 E
+31 -30 -15 30d99+2000 30d99+50
+999999 1 0
+8 8 1 0
+Maxmove: 50
+E
+T 13400
+#13437
+DELETE ME~
+DELETE ME~
+DELETE ME
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 1 0
+Maxmove: 50
+E
+#13486
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 2 3
+BareHandAttack: 6
+Maxmove: 50
+E
+#13489
+Belegor homunculus toad wings warty~
+Belegor~
+Belegor, a warty little toad with bat wings sits upon the desk here.
+~
+   This warty little toad looks like many other toads, except that it has
+large, leathery bat wings.  Also, its eyes bear the semblance of heightened
+intelligence.  This creature's name is Belegor, and it is an homunculus.  
+Homunculi are small constructs created to guard specific areas or items, or to
+serve as familiars.  They are linked with their mage creators telepathically.
+Belegor sits upon Mercullius' desk with a blank look, apparently guarding his
+possessions.    
+~
+1667098 99368 12582914 0 E
+27 3 -11 3d33+1500 4d7+8
+1900 135000 1
+8 8 0 9
+BareHandAttack: 4
+Maxmove: 50
+E
+T 13489
+#13490
+old man wizened head headmaster bellinas bell mercullius merc mer~
+Headmaster Bellinas Mercullius~
+An old man with wizened eyes in crisp red robes is here.
+~
+   Headmaster Bellinas Mercullius founded the Three Moons Academy.  He watches
+over the students with great care, but at the same time he is a very strict
+teacher.  After passing his Test at the Tower of Daltigoth, he travelled the
+world as a mercenary war wizard.  After some time he decided to settle down and
+make use of his knowledge by teaching aspiring wizards.  His silver hair
+contrasts sharply with his dark tanned skin.  His eyes carry the wisdom of the
+years he has lived.    
+~
+587866 262184 125829568 0 E
+27 3 -11 3d33+1100 4d7+8
+1600 135000 1
+8 8 1 2
+Maxmove: 50
+E
+T 13490
+#13491
+student meticulous~
+a meticulous student~
+A student sits here, meticulously working on a scroll.
+~
+   Considered an overachiever by the rest of the class, this student is usually
+isolated from social events and gatherings.  He doesn't seem to mind really as
+he focuses upon his goals to one day become a powerful wizard.  He works day
+and night on spells and magical theories and even now is working on a scroll he
+recently discovered.  Pale-skinned, thin, and possessing a rather gangly
+figure, he doesn't attract the attention of the opposite sex.    
+~
+74 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+Maxmove: 50
+E
+#13492
+disheveled student dirty ~
+a disheveled student~
+A student in dirty robes sits off to the corner, brewing a potion.
+~
+   This student tries her best, but comes out lacking.  Her parents sent her to
+the academy, not because she possessed astounding magical talents, but rather
+to gain some sort of education.  Her robes are dirty and in need of repair,
+which is painfully apparent by the plethora of patchwork done unto it.  Her
+hair seems as if it hasn't been washed for some time and the odor of an
+unwashed body clings to her.  She is avoided by nearly all the other students.
+~
+74 0 0 0 E
+5 19 13 1d5+25 1d6+1
+20 25 0
+8 8 2 0
+Maxmove: 50
+E
+#13493
+curious student ~
+a curious student~
+A curious student glances over the various books within the library.
+~
+   Having nothing to do since she completed all her assignments, she comes to
+observe the books within the library.  She secretly avoids large crowds as the
+students within the academy seem to be interested in her for her looks.  
+Although she doesn't mind the attention, she has her sights set on a young dock
+worker back in the city.  She is rather pretty, her hair the color of golden
+sunlight and her eyes the color of cerulean waters.  She has a petite and
+slender form.    
+~
+74 0 0 0 E
+7 17 11 2d5+65 2d5+0
+50 85 0
+8 8 2 0
+Maxmove: 50
+E
+#13494
+charismatic student~
+a charismatic student~
+A charismatic student stands in the center of the group.
+~
+   The most popular student at the academy, he stands in the center of many
+social gatherings.  His dazzling smile has made many of the female students
+flutter their eyelids at him.  His popularity with the girls also bring in many
+of the male students, as they think that they may have a chance with some of
+the females by being around him.  He enjoys his position and does anything in
+his power to keep himself popular.    
+~
+74 0 0 0 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 1 0
+Maxmove: 50
+E
+#13495
+muscular student~
+a muscular student~
+A muscular student stands close to the center of the group.
+~
+   The muscular student is a long time friend of the one who stands at the
+center of the group.  Although not exceptionally bright, he has managed to
+follow what is taught at the academy.  He is a loyal friend, but sadly that
+seems to be his major weakness.  He follows his friends blindly, not caring for
+what the consequences may be.  He seems to be out of place within the academy
+and more suited to work as an up and coming member of the guard.    
+~
+4170 0 0 0 E
+9 15 7 5d5+130 2d7+1
+90 1300 0
+8 8 2 0
+Maxmove: 50
+E
+#13496
+female admirer admiring student~
+a female admirer~
+A female student admires the young man at the center of the group.
+~
+   One of the many female admirers of the popular kid, she has fallen for him
+the moment he smiled at her.  Not overly concerned with her magical studies,
+she spends her time trying to get closer to the object of her affection.  She
+looks down at all the other female admirers, disillusioning herself that she
+commands the most attention from him.    
+~
+74 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 2 0
+Maxmove: 50
+E
+#13497
+ordinary student~
+an ordinary student~
+An ordinary student wearing loose robes stands within the group.
+~
+   Just one of the crowd, this student does not stand out from the group in any
+way.  He is happy just to be included in the group and hopes that his own
+popularity would rise a little through association with the popular kid.  He
+steals a few quick glances at one of the female admirers, hoping to catch her
+eye, but to no avail.  His robes seem just a little too big for him as his
+sleeves hang past his hands.    
+~
+74 0 0 0 E
+8 15 8 5d5+110 2d6+2
+80 800 0
+8 8 1 0
+Maxmove: 50
+E
+#13498
+wandering student~
+a wandering student~
+A student wanders the academy, apparently deep in thought.
+~
+   This student wanders the academy not really caring where her feet takes her.
+Lost in her thoughts, it's a wonder that she doesn't walk into a wall or even
+other students for that matter.  What may be distracting her so, is only known
+to herself and until she has figured it out, it is doubtful that her wandering
+will cease anytime soon.    
+~
+72 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 2 0
+Maxmove: 50
+E
+#13499
+woman young comely white robes~
+a comely young woman~
+A comely young woman in white robes stands here, instructing students.
+~
+   This comely young woman moves about the area, instructing the students
+patiently.  She seems young to be teaching magic to other students, but she
+carries herself with an air that lends the appearance of maturity and
+responsibility.  She wears a simple white robe made of linen, and a pendant
+which symbolizes Solinari, the god of white magic.    
+~
+548874 131080 16777233 850 E
+21 8 -5 3d33+450 3d8+7
+800 33500 1
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+$

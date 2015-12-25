@@ -1,0 +1,490 @@
+#4900
+grey man short~
+a grey-eyed man of short stature~
+A grey-eyed man of short stature leaps at you from his hiding place!
+~
+   Dressed in once-fine silken garbs, this short, stocky man smells of cheap
+ale and many nights gone without bathing.  He moves with quick, calculating
+efficiency, and strikes you with a quick stare, his grey eyes blazing over you.
+~
+4142 524288 0 0 E
+17 10 -1 3d20+340 3d6+5
+264 11800 0
+8 8 1 0
+BareHandAttack: 11
+E
+#4901
+finicky man long tangled~
+a finicky man with a long, tangled beard~
+A finicky man with a long, tangled beard walks toward you calmly.
+~
+   Sizing you up carefully, the man moves around you in a circle as if looking
+for the perfect opening to strike at.  Though in his middle years, his sword
+arm is still strong, and he wields it with timed, exacting strokes.  A long
+black beard, tinged with gray at the edges, hangs over his chest, hiding a
+cracked smile.    
+~
+2090 524288 0 -400 E
+17 10 -1 3d20+340 3d6+5
+213 11800 3
+8 8 1 0
+BareHandAttack: 3
+E
+#4902
+barmaid bar maid~
+the barmaid~
+The barmaid wanders from table to table, ensuring that everyone's mug is filled to the rim.
+~
+   Though terribly overworked, this young barmaid still seems to enjoy her job
+here.  The crowd can be a bit crude and down right obnoxious at times, but the
+regulars generally tip rather well.  No matter how rude or crass, she greets
+every customer with the same inviting smile, seeming to appreciate that her
+evening's income is dependent on their comfort and enjoyment.    
+~
+7594008 33685504 0 0 E
+30 1 -14 6d33+1700 4d8+9
+0 250000 0
+8 8 2 0
+E
+T 4900
+T 4901
+T 4902
+T 4903
+#4903
+innkeep Korman~
+Korman, the innkeep~
+Korman reclines in the corner, his muddy feet resting atop the desk.
+~
+   Korman keeps a close eye on your movements as he you enter the reception
+area.  His gaze seems to move from your coinpurse to your armor to your weapon
+as he tries to determine just how much rent you would be willing to pay.  His
+rooms are, afterall, the finest in the area.  He stands to greet you, revealing
+his massive frame and muscular form.    
+~
+7528542 33685504 0 0 E
+30 1 -14 20d33+1700 20d20+20
+0 250000 4
+5 5 1 3
+BareHandAttack: 6
+E
+#4904
+man well-dressed well dressed~
+a well-dressed man~
+A well-dressed man sits behind the table, reviewing a rather large ledger.
+~
+   Clad in finely-crafted garments, this man looks up from his ledger sharply
+as you approach.  His bright, green eyes are very alert and seem to pass over
+you with an appraising glance.  He quickly snaps his ledger shut as he realizes
+you are looking in its direction.    
+~
+1073162 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 4
+8 8 1 0
+BareHandAttack: 13
+E
+T 4955
+#4905
+Tralldor shopkeep~
+Tralldor~
+Tralldor stands behind the counter, rubbing his hands together eagerly.
+~
+   Tralldor is a rather large man with an extremely well-defined physique.  He
+has the appearance of one that could easily handle himself in combat, and he
+stands with much assurance.  As you look at him, he returns your gaze, his eyes
+lingering on your coinpurse.    
+~
+7594014 33685544 0 0 E
+30 1 -14 3d33+1700 4d8+9
+99999999 250000 4
+8 8 1 0
+BareHandAttack: 6
+E
+#4906
+man dozes sleepy-eyed sleepy eyed~
+a sleepy-eyed man~
+A sleepy-eyed man dozes behind one of the crates.
+~
+   Stretching his arms over his head and yawning a bit, this man seems a bit
+upset that you have disturbed his nap.  He rubs his eyes and squints, peering
+around the tent as though taking inventory of all the crates and boxes
+contained within it.  His disheveled clothing is covered with mud.    
+~
+1073162 0 0 0 E
+22 7 -6 3d33+550 3d8+7
+541 40000 4
+8 8 1 0
+BareHandAttack: 13
+E
+#4907
+woman lithe young sprawled~
+a lithe, young woman~
+A lithe, young woman is sprawled out comfortably in a chair by the fireplace.
+~
+   The well-toned physique of this young woman is proudly displayed through her
+rather snug clothing.  She is dressed in a black catsuit which covers most of
+her flesh but hides very little.  She is stretched out comfortably on one of
+the large chairs, however she continually surveys the room as if looking for
+someone in particular.    
+~
+11624474 0 0 -100 E
+22 7 -6 3d33+550 3d8+7
+900 40000 4
+8 8 2 0
+BareHandAttack: 8
+E
+#4908
+man sharp-dressed sharp dressed~
+a sharp-dressed man~
+A sharp-dressed man lounges on one of the couches as he observes the gaming.
+~
+   Something about this man exudes confidence.  Perhaps it is his well-tailored
+clothing or just his knowing smile.  Whatever it is, all the women seem to be
+crazy about him, and the men all treat him with great respect.  He leans back
+comfortably on the couch as he watches the gaming with an amused look on his
+handsome face.    
+~
+3170314 0 0 0 E
+24 6 -8 3d33+750 4d6+8
+1000 68000 4
+6 6 1 0
+BareHandAttack: 13
+E
+#4909
+archer nimble~
+a nimble archer~
+A nimbler archer stands atop the platform and watches for unwanted visitors.
+~
+   His tall, lanky body clad entirely in green and brown clothing, the archer
+seems to blend into the treetops.  He moves nimbly from from one side of the
+platform to the other.  His bow is always raised and ready to fire at the first
+sign of trouble.  He seems the type to shoot first and then ask questions.    
+~
+1138714 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+626 25000 0
+8 8 1 0
+E
+#4910
+woman dark suspicious manner~
+a dark woman with a suspicious manner~
+A dark-skinned woman moves quietly through the area.
+~
+   A look of perpetual disgust mars the otherwise attractive features of this
+dark and exotic woman.  She moves slowly and deliberately through the area.  
+With each step she turns her head from side to side carefully scanning her
+surroundings.    
+~
+1073160 262144 0 0 E
+21 11 1 5d10+300 2d8+4
+413 8400 4
+8 8 2 0
+BareHandAttack: 8
+E
+#4911
+fellow sneaky looking sneaky-looking~
+a sneaky-looking fellow~
+A rather sneaky-looking fellow tries to blend into the shadows.
+~
+   Dressed from head to toe in black clothing, this rather sneaky-looking
+fellow seems to be trying his best to blend into the shadows around him.  He
+wears the hood of his cloak drawn up over his head, completely obscuring his
+face.  Only the whites of his eyes are visible from the depths of his hood.  
+~
+1048584 786432 0 0 E
+19 9 -3 3d20+410 3d6+6
+444 17000 4
+8 8 1 0
+BareHandAttack: 13
+E
+#4912
+figure kenku tengu mysterious man~
+a mysterious man~
+A mysterious man sits impossibly perched upon the branch of an ancient pine.
+~
+   This mysterious man sits perched perfectly, and impossibly upon a branch of
+one of the ancient pine trees.  He wears the traditional garb of a monk, as
+well as a straw coolie which covers his face from view.  Looking closer, you
+see something strange upon his back..  A pack of some sort?  No..  A set of
+black, folded wings like that of a crow.  This must be one of the mysterious
+race of bird-people known as the Kenku.    
+~
+3694687 623658 15728642 0 E
+20 8 -4 3d20+440 3d7+6
+200 25000 2
+8 8 1 6
+BareHandAttack: 13
+E
+T 4912
+#4915
+owlbear beast bear bird~
+an owlbear~
+A beast with the head of a bird and the body of a bear paces amongst the trees.
+~
+   The name owlbear can be a tad deceiving.  The head of this strange beast is
+actually far more like an eagle's head than that of an owl.  Her massive body
+is clearly that of a bear and gives her great strength.  The bulk of her body
+combines with her sharp beak and mighty claws to make her a formidable
+opponent.    
+~
+40 0 0 0 E
+16 11 0 3d20+320 3d6+4
+0 11000 0
+8 8 2 0
+BareHandAttack: 8
+E
+#4916
+worg ferocious wolf~
+a ferocious-looking worg~
+A ferocious-looking worg moves silently through the brush.
+~
+   Stepping silently amongst the trees, the worg looks back at you with an evil
+stare.  Unlike regular wolves, worgs tend to use guerrilla tactics to weaken
+their opponents: attacking and then retreating into the shadows before
+launching an even more ferocious assault.  They are far more intelligent than
+regular wolves, and this particular worg seems to be analyzing your defenses
+and preparing to launch his attack.    
+~
+82088 786432 0 0 E
+15 11 1 5d10+300 2d8+4
+0 8400 0
+8 8 1 0
+BareHandAttack: 4
+E
+#4917
+skyfisher fisher bird~
+a skyfisher~
+A skyfisher circles over the ravine in search of his daily catch.
+~
+   Unlike most birds of prey the skyfisher will actually hunt humanoids.  This
+particular specimen is no exception.  Looking much like a cross between a giant
+bat and a buzzard, it constantly squawks its piercing cry.  It circles once
+more then swoops toward you.  Its beak is open, bearing several deadly teeth.
+~
+40 65536 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 1 0
+BareHandAttack: 8
+E
+#4918
+troll forest~
+a forest troll~
+A forest troll digs in the ground beneath the trees.
+~
+   Though probably considered unattractive by human standards, forest trolls
+are by no means beastly looking creatures.  They closely resemble a stocky
+human with exaggerated features, particularly their nose and ears.  This troll
+moves through the forest with a rather complacent look on his face.  Every now
+and then he stoops at the base of a tree and digs into the ground with a stick
+and his stubby fingers.    
+~
+24652 1024 0 0 E
+13 13 3 6d5+240 2d9+2
+123 6625 0
+8 8 1 0
+BareHandAttack: 7
+E
+#4919
+mage ancient robes~
+an ancient, black-robed mage~
+An ancient mage stands before you, his black robes swirling about his body.
+~
+   Glancing up from his latest experiment, the look in the penetrating eyes of
+this mage reveals his irritation immediately.  His ancient skin is covered with
+wrinkles which show his age, but his nimble movements and and knowing smirk
+hint at the power he possesses.  One hand snaps his spellbook closed as the
+other reaches for some item which is concealed beneath his robes.    
+~
+616490 33554472 288 -700 E
+26 4 -10 3d33+950 4d7+7
+1787 115000 1
+8 8 1 0
+E
+#4920
+mercenary merc silver-haired~
+a silver-haired mercenary~
+A silver-haired mercenary leans casually against the wall.
+~
+   Though most of his body is hidden by a dark, wine-colored cloak it is still
+possible to see hints of supple armor peeking out from beneath.  He moves with
+the grace of a panther, glaring about at nothing in particular.  His hair is a
+distinguished-looking combination of silver and grey that softens his otherwise
+intense look.  His steel-grey eyes seem to catch any hint of movement around
+him, as he appears to always be ready for action.    
+~
+7366682 131072 0 -400 E
+26 4 -10 3d33+950 4d7+7
+1776 115000 4
+8 8 1 0
+BareHandAttack: 6
+E
+T 4909
+#4921
+dracolich dragon long-dead skeleton~
+a dracolich~
+The skeleton of a long-dead dragon seems to move even in death.
+~
+   As you struggle to maintain some level of composure, your eyes focus on the
+skeleton of a long-dead dragon.  Her unnaturally lit eyes peer back at you from
+within a bleached skull.  An eerie grimace is spread across the face of this
+beast as it shifts positions to get a better look at you.  Each movement is
+accompanied by the awful sound of clicking bones.    
+~
+12148762 33555498 117440512 -700 E
+25 5 -9 3d33+850 4d6+8
+1776 87000 8
+8 8 2 0
+BareHandAttack: 12
+E
+T 4904
+T 4906
+T 4908
+#4922
+hellcat hell cat~
+a hellcat~
+A hellcat seems to melt in and out of the shadows.
+~
+   A hellcat looks a great deal like a normal house cat; however, it stands
+about as tall as the average tiger.  It looms in the shadows, only visible in
+the darkness in which it lurks.  When visible they appear as dimly-glowing
+visions of evil, seeking to destroy any without tainted souls.    
+~
+1177098 525354 0 -900 E
+20 8 -4 3d20+440 3d7+6
+0 25000 10
+8 8 0 0
+BareHandAttack: 8
+E
+#4923
+hellhound hell hound~
+a hellhound~
+A hellhound with fiery eyes steps forth from the shadows.
+~
+   This beast possesses the same shape as a normal dog; however, it only takes
+a moment to realize the power it wields.  Its body is well-muscled and flames
+leap from its snarling mouth.  Generally found in packs, it would seem fortune
+has smiled upon you.  This one is alone, at least for the moment.    
+~
+1175562 525354 0 -600 E
+18 11 -2 3d20+380 3d6+6
+0 14000 10
+8 8 0 0
+BareHandAttack: 4
+E
+#4924
+figure dark shadowy hunched~
+a dark, shadowy figure~
+A dark, hunched figure lurks in the shadows.
+~
+   Barely discernable from the shadows in which it lingers, it is impossible to
+get a clear look at this figure.  Its form is rather hunched over, and it keeps
+its head hung low as if shielding it from even the faintest light.  Its hands
+are curled inward and pulled tightly against its chest.  When it moves the
+sound of what are most likely toenails, or claws, can be heard scraping against
+the cavern floor.    
+~
+1073164 786432 0 0 E
+19 9 -3 3d20+410 3d6+6
+0 17000 3
+8 8 0 0
+E
+#4925
+worm acorn slimy brown~
+an acorn worm~
+A slimy, brown acorn worm slithers through the watery mud.
+~
+   A brown, disgusting-looking creature slithers through the watery mud.  Its
+color allows it to easily blend in with the mud making it difficult to
+determine the size of the creature.  Its body appears to be separated into
+three segments which are covered with a combination of mud and slime.    
+~
+136 0 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 0 0
+E
+#4926
+kender dressed dark clothing girl~
+a kender dressed in dark clothing~
+A kender girl, dressed in dark clothing, silently moves through the shadows.
+~
+   This young woman is not wearing the brightly colored clothing which might
+normally be found on a kender.  Rather she seems to prefer dark colors which
+allow her to creep through the shadows around her.  Beneath her dark cloak, two
+nimble hands can be barely seen as they stuff various items into her belt of
+pouches.  Her sweet face reflects a look of innocence as she tosses her auburn
+topknot and reaches for your coin purse.    
+~
+12 263168 0 0 E
+14 12 2 6d8+240 2d8+4
+1111 7000 4
+8 8 2 0
+E
+#4927
+being charred undefinable~
+a charred and undefinable being~
+A charred and undefinable being appears to be stuck to the rocky slope.
+~
+   What is left of the face of this humanoid begs you for mercy.  A charred
+hand, most of its bones exposed, reaches out to you as if to say, 'Put me out
+of my misery.  ' It tries to speak, but only a pathetic gurgle manages to
+escape what is left of its lips.  The fate of this being is certain, though how
+it came to be in this state is something best left undiscovered.    
+~
+24586 512 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+2 8 0 0
+E
+#4991
+deer emaciated thin ragged weak~
+a weak and ragged deer~
+A nearly emaciated deer races across the fields here, as though its life depended upon it.
+~
+   This deer appears to have seen far better days, its flanks are narrow with
+famine and, even while panting from exhaustion, seems to be laboring under some
+sickness.  Its fur is somewhat patchy and mangy to the eye, creating an almost
+mottled looking texture and coloration.  Though it continues to run full out,
+its steps begin to come slower and much more haltingly.    
+~
+10 1024 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+E
+#4992
+wolf timberwolf sleek grey black~
+a sleek, grey and black timberwolf~
+A sleek, grey and black timberwolf races across the grasses in search of easy prey.
+~
+   This timberwolf is colored a mixture of light greys to deep blacks, its
+sleek coat glistening in the light as it runs.  Spead born of the hunt fuels
+its legs, giving it power from a desire for a full belly and the need to
+survive.  While small game is typically the wolves meal of fare, they have on
+occassion been know to take down larger prey through the combined efforts of a
+pack.    
+~
+74 1024 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 0
+E
+#4993
+timberwolf wolf sleek grey black timberwolf2~
+a sleek, black and grey wolf~
+A sleek, black and grey timberwolf races across the grasses in search of easy pray.
+~
+   This timberwolf is colored a mixture of light greys to deep blacks, its
+sleek coat glistening in the light as it runs.  Spead born of the hunt fuels
+its legs, giving it power from a desire for a full belly and the need to
+survive.  While small game is typically the wolves meal of fare, they have on
+occassion been know to take down larger prey through the combined efforts of a
+pack.    
+~
+74 1024 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 0
+E
+$

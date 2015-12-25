@@ -1,0 +1,3 @@
+rm -rf /home/aol/code/beta-old/bin/circle
+cp ../bin/circle /home/aol/code/beta-old/bin
+echo Binary copied to beta-old port successfully.

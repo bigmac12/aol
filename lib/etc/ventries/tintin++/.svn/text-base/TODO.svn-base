@@ -1,0 +1,7 @@
+v2.0
+----
+- GNU's readline support to be added.
+- configuration file for some of the defaults.
+- Split to work properly with X-Windows.
+- Make #if be able to compare strings.
+

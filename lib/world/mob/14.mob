@@ -1,0 +1,633 @@
+#1400
+priest~
+a ceremonially dressed priest~
+A priest wearing ceremonial robes stands here meditating.
+~
+   Ornate ceremonial robes seem to nearly swallow this small man.  A serene
+look covers his features as he meditates before going before his congregation
+to spread the wisdom of Zivilyn.  His lips move slightly as he murmers a prayer
+to his god.    
+~
+842 12416 0 0 E
+15 11 1 5d10+300 2d8+4
+412 8400 2
+8 8 1 0
+E
+#1401
+congregation member man~
+a male congregation member~
+A male congregation member stands here waiting for the ceremony to begin.
+~
+   This man wears the plain white robes of a pilgrim.  Having finished all of
+his daily duties he has decided to come meditate before the service begins.  
+Around his neck hangs a medalion with the image of zivilyn stamped onto it.  
+
+~
+4170 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 2
+8 8 1 0
+E
+#1402
+female congregation member~
+a female congregation member~
+A female congregation member gazes at the image of her god silently here.
+~
+   This woman wears the plain white robes of a pilgrim.  Her face, while not
+really remarkable, seems to glow slightly with an inner light.  She smiles
+happily as she gazes at the image of her god.    
+~
+4170 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 2
+8 8 2 0
+E
+#1403
+acolyte pilgrim man~
+a male pilgrim~
+A male pilgrim hurries about his duties here.
+~
+   This man wears what was at one time a set of plain white robes.  Constantly
+wearing them while on his pilgrimage has stained them until they are more of a
+light grey color now.  He is rushing about trying to finish up his daily
+duties.  As he notices you he nods slightly and hurries on.    
+~
+2252 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 2
+8 8 1 0
+E
+#1404
+female pilgrim~
+a female pilgrim~
+a female pilgrim hurries by on her way to perform some task.
+~
+   This woman wears what was at one time a set of plain white robes.  
+Constantly wearing them while on her pilgrimage has stained them until they are
+more of a light grey color now.  She is rushing about trying to finish up her
+daily duties.  As she notices you she nods slightly and hurries on.    
+~
+2252 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 2
+8 8 2 0
+E
+#1405
+guard pilgrim drunken~
+a drunken guard~
+A drunken pilgrim guard stands here talking loudly.
+~
+   This fighter was hired by the pilgrims to guard them on their trip to the
+temple of Zivilyn.  Having spent many days travelling the roads him, his leader
+and his fellow guards decided an extended stop was in order and set up camp
+much to the irritation of the pilgrims.  Since the camp was established neither
+him nor his friends have shown any interest in resuming their journey.    
+~
+1048590 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 3
+8 8 1 0
+BareHandAttack: 13
+E
+#1406
+bored guard~
+a bored guard~
+A bored guard sits here beside the embers of a small camp fire.
+~
+   This man is obviously one of the men hired to guard the pilgrims on their
+journey.  Now he is spending his shift on duty guarding his leader's tent to
+keep the pilgrims from interrupting his nap with their pleas that the journey
+be resumed.    
+~
+74 0 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 3
+8 8 1 0
+E
+#1407
+leader guard man 212~
+the guardmen's leader~
+The guard's leader is here among the blankets.
+~
+   This man was hired to be the leader of the guards on the pilgrim's journey
+due to his "experience" as a guardsman.  He reeks of alcohol and seems rather
+upset about you disturbing his sleep.  Perhaps you shouldnt have woke him.    
+~
+106 0 0 0 E
+15 11 1 5d10+300 2d8+4
+423 8400 3
+8 8 1 0
+E
+#1421
+housekeeper innkeep weary~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+4317194 33685504 0 0 E
+30 0 -14 3d33+1700 20d8+20
+0 250000 0
+8 8 2 3
+E
+#1430
+scorched red faced gnome~
+a scorched red faced gnome~
+A scorched red faced gnome dodges the furnace blasts.
+~
+   This gnome looks badly burned, and yet still no worse for wear.  He runs
+about the room trying to put out various fires, including one that about sent
+his own beard up in flames.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 3
+8 8 1 0
+BareHandAttack: 13
+E
+#1431
+Theodore Cogwhistle Theo gnome~
+Theodore Cogwhistle~
+Theodore Cogwhistle, a busy gnome, runs around pulling levers and pushing buttons.
+~
+   This is Theodore Cogwhistle, the inventor of this large machine.  He runs
+about the room pushing buttons and pulling levers frantically.  Every once in a
+great while, something actually happens.  Then he starts to hop between all the
+different foot pedals
+~
+172042 0 0 0 E
+10 14 6 5d4+160 2d7+2
+126 1900 3
+8 8 1 0
+BareHandAttack: 7
+E
+#1432
+frantic gnome~
+a frantic gnome~
+A frantic gnome runs by, jotting on a notepad of paper.
+~
+   This gnome runs about jotting in his notebook.  Every now and then muttering
+nombers, or things like "Thatshouldntbethere" or 'wheredidmytrihandledhammergo?
+' Then he runs about once more.  He seems to be rather busy, so it would
+probably be best if you stay back from him.    
+~
+76 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+E
+#1433
+female gnome repair~
+a female gnome repairman~
+A female gnome repairman runs about collecting lost gears and parts.
+~
+   This small female gnome runs about the area, picking up gears, cords,
+pulleys, and many unidentifiable items.  These parts must of fallen out of some
+gnomish machine.  Whatever it is it must still be a prototype, judging by the
+number of parts she has.    
+~
+140 1024 0 0 E
+1 20 15 1d2+5 1d4+0
+0 1000000 3
+8 8 2 5
+BareHandAttack: 13
+E
+#1434
+busy short gnome~
+a busy, short statured gnome~
+A busy, short statured gnome adjusts gears and pullys here.
+~
+   This gnome runs about twisting gears here, pulling cords there, and flipping
+levers all over.  Then he pulls a gear completely off of one wall, and takes it
+to the other side of the room.  Then he spins the gears to double check that
+they work, only to have a gear on the other side of the room fall off of the
+wall.    
+~
+72 0 0 0 E
+7 16 9 3d5+85 2d6+1
+60 400 3
+8 8 1 0
+E
+#1435
+short busy gnome~
+a short, busy gnome~
+A short, busy gnome adjusts gears and pulleys here.
+~
+   This gnome runs about twisting gears here, pulling cords there, and flipping
+levers all over the place.  Every now and then he takes a gear completely off
+the wall and takes it to the other side of the room.  Then he gives it a spin
+and two or three more gears hop off the wall on the other side of the room.  
+
+~
+72 0 0 0 E
+7 16 9 3d5+85 2d6+1
+70 400 0
+8 8 1 0
+E
+#1436
+female gnome repairman~
+a female gnome repairman~
+A female gnome repairman picks up gears and other parts.
+~
+   This female gnome walks about the area picking up stray gears, cables, and
+pulleys that have fallen off of a gnomish machine.  Judging by the amount of
+stuff she is picking up, you can guess that this machine is still in the
+prototype stage.  Either that or is waiting for new ideas to go through the
+committee.    
+~
+12 1024 0 0 E
+8 15 8 5d5+110 2d6+2
+60 800 0
+8 8 2 5
+BareHandAttack: 13
+E
+#1440
+chef cook~
+a heavy-set chef~
+A smiling heavy-set chef with thinning hair distributes food to the needy.
+~
+   This man is large of build and plump, obviously enjoying the results of the
+tasks of his occupation.  Getting on in years, his short brown hair is thinning
+rapidly, but his eyes are still warm and full of life.  With every serving that
+he hands out, it seems as though his smile only becomes wider and more
+frequent.    
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+200 2900 0
+8 8 1 0
+E
+#1441
+Angelina cleric mishakal~
+Angelina~
+Angelina, a middle-aged cleric of Mishakal is here, smiling and taking donations.
+~
+   Slightly past her prime, this woman still appears to be nonetheless active
+and radiant.  Her hair is auburn, worn long in a simple fashion, and her
+emerald eyes shine with wisdom and caring.  She still wears the sky blue robes
+of her Order, proudly displaying her faith in the Lady of Healing.  She smiles
+as she takes donations from the visitors and documents them in a small book
+that she carries with her.    
+~
+3924042 33558572 9125892 850 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 2
+8 8 2 0
+E
+T 1440
+#1442
+destitute man~
+a destitute man~
+A destitute man wanders about the area, enjoying the comforts of the shelter.
+~
+   Poor and destitute, this man is taking advantage of all that the shelter has
+to offer.  Wrapped in a clean, warm blanket, he wanders about the halls of the
+shelter taking in all of the murals as he passes.  Carrying a plate of food
+from the soup kitchen, he ravenously forks the food into his mouth.  Looking up
+from his plate as you enter, he smiles and thanks you for any generosity that
+you may have shown through your donations.    
+~
+72 0 0 0 E
+8 15 8 5d5+110 2d6+2
+100 800 0
+8 8 1 0
+E
+#1446
+priestess mishakal blue~
+a Priestess of Mishakal~
+A priestess of Mishakal circulates throughout the pews, speaking with the patrons.
+~
+   Seemingly a little young for one of her position, she still appears very
+wise and kind.  Slight of build, she has short blonde hair and large, brown
+eyes that are filled with a sense of caring.  Her sky blue robes are set aglow
+from the light of the skylight overhead, earning her the nickname of "the Blue
+Lady."  She wears a small medallion of her faith around her neck and
+frequently reaches up to fiddle with it while she talks to the patrons of the
+shrine.    
+~
+614410 0 2101250 850 E
+16 11 0 3d20+320 3d6+4
+500 11000 2
+8 8 2 0
+E
+#1449
+rose knight~
+a Knight of the Rose~
+An older Rose Knight is sifting through some maps, muttering to himself.
+~
+   His long, greying hair appears somewhat tousled and, as he wanders about
+mumbling to himself, his mind is obviously focused elsewhere.  He holds a few
+scraps of crumpled parchment in his hands as he wanders about the room,
+inspecting each of the maps in turn.  As you enter, he looks up briefly with a
+startled expression and fixes you with eyes sharper than any hawk's.  Nodding
+more to himself than to anyone else, he returns to his maps and his mutterings.
+  
+~
+1050698 12 0 850 E
+22 7 -6 3d33+550 3d8+7
+1128 40000 3
+8 8 1 0
+E
+#1450
+energetic kender bounces Featherknot Feather Knot Busyfingers~
+Featherknot Busyfingers~
+An energetic kender bounces along the side of the road, babbling about his maps.
+~
+   Featherknot Busyfingers thrusts his hand forward in greeting as he sees you
+looking his way.  Offering up a smile that seems bigger than his whole head, he
+skips gaily around in a small circle.  With each step he makes, his topknot
+bounces and sways, showcasing his prized collection of feathers.  Each of which
+has been carefully tied into his topknot.    
+~
+3170330 1024 0 300 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 4
+8 8 1 0
+E
+T 1450
+T 1451
+#1460
+carrion bird small black~
+a carrion bird~
+A small, black carrion bird perched on the gate looks you in the eyes.
+~
+   The small bird stretches its wings and picks at the small scraps of meat
+still stuck between its talons.  A slight breeze ruffles its pitch black
+feathers and disturbs the vermin crawling underneath, causing it to hop
+nervously.  Its little eyes hungrily peer into yours, attempting to descern
+whether or not you may be another source of food.    
+~
+65546 0 0 0 E
+6 17 10 2d5+70 2d5+2
+32 175 0
+8 8 0 0
+E
+#1461
+small being animated water~
+a small being of animated water~
+A small being of animated water sloshes about.
+~
+   A little pool of water forms into a roughly humanoid shape as it senses your
+approach.  Its shimmering surface glistens and reflects its surroundings into a
+distorted kaleidoscope of color and form.  Tendrils extrude out from its body,
+casting about and touching everything within reach.  As the little form moves
+about it leaves behind a wet trail of water and rapidly congealing slime.    
+~
+10 0 0 0 E
+7 16 9 3d5+85 2d6+1
+54 400 0
+8 8 0 0
+E
+#1462
+dragonfly red green wings~
+a dragonfly with red and green wings~
+A dragonfly with red and green wings darts about the foliage.
+~
+   A large insect with shiny red and green wings flits about trying to catch
+its tiny flying prey.  An audible buzz follows it everywhere and only stops for
+moments as it pauses to alight on a leaf or branch.  Suddenly seeing its victim
+the dragonfly swoops down and seizes its meal then stops to hover in mid-air to
+take a bite.    
+~
+65546 0 0 0 E
+4 18 12 1d5+45 1d8+1
+11 50 0
+8 8 0 0
+E
+#1463
+emaciated badger~
+an emaciated badger~
+An emaciated badger scratches at the ground looking for something to eat.
+~
+   A large badger, weakened but desperate from hunger slowly scans along the
+ground hoping to find a morsel to eat and build back its strength.  It seems to
+have fallen down into these corridors and was unable to escape.  Steely eyes
+look out from a thin body now nearly hairless from the lack of a proper diet.
+Food is its only consideration and it will likely try to eat anything that
+comes near.    
+~
+10 0 0 0 E
+5 17 11 2d5+65 2d5+0
+19 85 0
+8 8 0 0
+E
+#1464
+large being animated water~
+a large being of animated water~
+A large being of animated water and crystalline skin peers about.
+~
+   Constantly dripping, a large aggregation of water shambles about leaving
+pools of slimy liquid behind itself.  Brought to life by some unnatural force,
+a diffuse glow radiates from within the center of the form's mass.  Its outer
+surface seems almost solid and it gleams, picking up the warm light of its
+inner fire.  Although featureless it exudes a sense of malevolence and power.
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+74 800 0
+8 8 0 0
+E
+#1470
+priest sargonnas lecture~
+a lecturing priest of Sargonnas~
+A priest of Sargonnas is here, deep in lecture.
+~
+   The woman nods at you as you enter then continues her lecture.  Skin
+wrinkled and mottled with age shows this woman has seen more than her fair
+share of years.  Despite her wizened and frail appearance her voice is strong
+and carries easily across the clearing.  Her eyes are shrewd and burn with an
+inner fire, as if not age but the conflagaration within consumes her body.    
+~
+10 0 0 -500 E
+15 11 1 5d10+300 2d8+4
+400 8400 2
+8 8 2 0
+E
+#1471
+a leering minotaur~
+a leering minotaur~
+A minotaur is resting here, leering at the humans.
+~
+   A large minotaur crouches on his heels listening to the priest.  He is well
+armored, a condor preparing for flight inscribed on his breastplate.  He casts
+disparaging glances at the humans to his left, grinning in humour and
+undisguised contempt.    
+~
+10 0 0 -500 E
+12 13 4 5d6+210 2d8+3
+100 4700 3
+6 8 1 0
+BareHandAttack: 3
+E
+#1472
+man carefully ignoring~
+a man ignoring a minotaur~
+A man stands here, carefully ignoring a minotaur.
+~
+   A wiry man stands here listening to the lecture.  His frame is thin and
+strong conjuring images of a sword.  His eyes dart for a quick look at the
+leering minotaur, his features tight and strained in annoyance.  He sighs
+almost inaudibly and returns his attention to the priest.    
+~
+10 0 0 -500 E
+13 13 3 6d5+240 2d9+2
+200 6625 7
+8 8 1 0
+BareHandAttack: 3
+E
+#1475
+minotaur robed massive~
+a massive robed minotaur~
+A massive robed minotaur stares at you defiantly.
+~
+   Standing some seven feet tall this minotaur is an imposing figure.  A long
+expanse of red and black robes cover his body, deep brown fur framing a face
+dominated by cold black eyes.  He swings a large bladed mace with an oversized
+haft casually as he limbers up.  He notices your stare and chuckles, motioning
+you forward with a sharp-toothed grin.    
+~
+10 0 0 -400 E
+14 12 2 6d8+240 2d8+4
+300 7000 2
+8 8 1 0
+BareHandAttack: 6
+E
+#1476
+red man mutter~
+a man in red muttering to himself~
+A man in red mutters to himself quietly here.
+~
+   A dark skinned man dressed in red rests here cleaning his armor carefully.
+He speaks quietly to himself as he works a gauntlet to a glossy shine with an
+oiled rag.  His eyes dart to the minotaur side of the camp and barely concealed
+irritation flashes across his features.    
+~
+10 0 0 -500 E
+13 13 3 6d5+240 2d9+2
+200 6625 7
+5 8 1 0
+E
+#1480
+snake water silvery-green green~
+a silvery-green water snake~
+A silvery-green water snake moves silently through the waters.
+~
+   This silvery-green snake moves silently through the clear waters.  His
+scales are colored so as to blend with his surroundings and reflect the light
+of both the sun and the moons as he swims near the surface.  His belly is
+nearly all silver while his back is covered with intricate geometric patterns
+created by his green and silver scales.    
+~
+90120 17039424 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+BareHandAttack: 4
+E
+#1481
+turtle green turquoise shell~
+a small turtle with a green and turquoise shell~
+A turtle swims by, the colors of its shell blending with the blue waters.
+~
+   This small turtle makes its home along the shoreline of the lake, spending
+most of its days and nights swimming in the clear waters.  The back of its
+shell is the same colors as the water itself: varying shades of blue and
+turquoise.  It is surprisingly fast and appears to move effortlessly along the
+lake's surface.    
+~
+90120 16777280 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+BareHandAttack: 4
+E
+#1489
+guard dog~
+a guard dog~
+A large guard dog rests here.
+~
+   A large guard dog sits here.  He looks very aware of his surroundings and
+ready to attack at any moment.    
+~
+8454152 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+6 6 1 0
+BareHandAttack: 4
+E
+#1490
+large rat~
+a large rat~
+A rat of unusual size stands here.
+~
+   This creature looks much like any normal rat with the exception of its huge
+size.  Its large body is covered with black fur which is caked with mud.  It
+notices your attention and snarls, baring its teeth in your direction.    
+~
+8 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 0 0
+BareHandAttack: 4
+E
+#1491
+weary man caretaker~
+an old caretaker~
+A weary old man stands here.
+~
+   A weary old man stands here.  He appears to be the caretaker of this temple.
+His face is old and wrinkled.  He stares back at you with vacant eyes and
+mutters something to himself.    
+~
+10 1 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+E
+#1492
+delete me~
+delete me~
+delete me
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+#1493
+philosopher male~
+a male philosopher~
+A male philosopher stands here debating.
+~
+   The philosopher appears to be a spectral minion.  His body is almost
+completely transparent.  He has a contemplative look on his face and seems
+troubled that his debate has been interrupted.    
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 9
+8 8 1 0
+BareHandAttack: 13
+E
+#1494
+philosopher female~
+a female philosopher~
+A female philisopher stands here debating.
+~
+   The philosopher appears to be a spectral minion.  Her body is almost
+completely transparent.  She has a contemplative look on her face and seems
+troubled that her debate has been interrupted.    
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 9
+8 8 2 0
+BareHandAttack: 13
+E
+T 1494
+$

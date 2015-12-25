@@ -1,0 +1,230 @@
+8
+orderall
+18
+order followers $*
+1
+5
+flame
+19
+cast flamestrike $*
+1
+1
+t
+8
+throw $*
+1
+1
+m
+3
+mem
+0
+1
+5
+29
+flee;flee;flee;flee;flee;flee
+1
+1
+2
+24
+get all.coins all.corpse
+0
+1
+1
+18
+get all all.corpse
+0
+6
+recall
+19
+cast word-of-recall
+0
+4
+weak
+16
+cast weakness $*
+1
+5
+wwalk
+15
+cast water-walk
+0
+7
+wbreath
+20
+cast water-breathing
+0
+8
+teleport
+16
+cast teleport $*
+1
+6
+summon
+14
+cast summon $*
+1
+6
+hammer
+24
+cast spiritual-hammer $*
+1
+7
+silence
+15
+cast silence $*
+1
+6
+ccurse
+20
+cast remove-curse $*
+1
+4
+pray
+11
+cast prayer
+0
+7
+cpoison
+25
+cast neutralize-poison $*
+1
+5
+msanc
+23
+cast minor-sanctuary $*
+1
+3
+sto
+21
+cast magical-stone $*
+1
+5
+light
+19
+cast magic-light $*
+1
+4
+heli
+18
+cast healing-light
+0
+4
+heal
+12
+cast heal $*
+1
+5
+gsanc
+25
+cast greater-sanctuary $*
+1
+5
+blade
+19
+cast flame-blade $*
+1
+3
+dex
+23
+cast enhance-agility $*
+1
+3
+str
+24
+cast enhance-strength $*
+1
+5
+tough
+25
+cast enhance-endurance $*
+1
+4
+dust
+15
+cast dust-devil
+0
+6
+dispel
+20
+cast dispel-magic $*
+1
+4
+dark
+16
+cast darkness $*
+1
+3
+sev
+19
+cast cure-severe $*
+1
+3
+mod
+21
+cast cure-moderate $*
+1
+2
+li
+18
+cast cure-light $*
+1
+8
+cdisease
+20
+cast cure-disease $*
+1
+5
+cdeaf
+21
+cast cure-deafness $*
+1
+4
+crit
+21
+cast cure-critical $*
+1
+6
+cblind
+18
+cast cure-blind $*
+1
+5
+water
+20
+cast create-water $*
+1
+4
+food
+16
+cast create-food
+0
+7
+conjure
+22
+cast conjure-elemental
+0
+7
+conceal
+25
+cast conceal-alignment $*
+1
+5
+bless
+13
+cast bless $*
+1
+3
+aid
+11
+cast aid $*
+1
+4
+mace
+17
+cast adamant-mace
+0
+6
+abjure
+14
+cast abjure $*
+1

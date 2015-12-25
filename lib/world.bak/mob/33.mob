@@ -1,0 +1,325 @@
+#3349
+guard elven stoic~
+a stoic elven guard~
+A stoic elven guard stands amidst the dew in this glade.
+~
+   The presence of this guard is at first undetectable.  He seems to fade into
+existence with the surrounding forestry.  The elven man himself is tall and
+thin, on the verge of lanky, but appears very agile.  His features are
+unmoving, he gives away not so much as a twitch as he solemnly stands watches
+over the glade.    
+~
+12083210 525312 256 600 E
+25 5 -9 3d33+850 4d6+8
+1100 87000 6
+8 8 1 0
+E
+#3350
+Gadriendel Gad elven man strong aged build~
+Gadriendel~
+An elven man of strong but aged build studies his handy work.
+~
+   A delightful appearance graces this older elven man.  His eyes have aged
+considerably, they appear darker and creases appear around them.  Gadriendel's
+visage, contrary to his eyes, sparkles with life and happiness.  He is indeed
+many years old, but his arms are toned and muscular, much unlike most of his
+slender kin.    
+~
+3694602 33555456 48 400 E
+24 6 -8 3d33+750 4d6+8
+1200 68000 6
+8 8 1 0
+E
+#3351
+unnameable cloud gas~
+the Unnameable~
+A seemingly insubstantial cloud of gas hovers over the ground.
+~
+   The Unnameable is an evil entity, summoned to Krynn during the Second Dragon
+War.  It appears before you as a large black cloud, some forty feet in
+diameter, drifting a few feet off the ground.  Within the black fog gleans a
+wickedly fanged maw.  It is surrounded by a terrible aura and evil which
+penetrates the soul of even the most steadfast opponent.    
+~
+8118298 34153600 134218240 -850 E
+29 2 -13 3d33+1450 4d7+9
+0 213000 1
+8 8 0 0
+BareHandAttack: 4
+E
+T 2
+T 3353
+#3352
+skeleton bits pieces reanimated~
+bits and pieces of a reanimated skeleton~
+Pieces of a reanimated skeleton spring to action in response to unspoken commands.
+~
+   Several different pieces of a skeleton come together to form this reanimated
+being.  Despite the fact that little or no flesh clings to the skull, a sense
+of torment is obvious on its 'face'.  So intense is its suffering and despair
+that it permeates the air of this already detestable place.  An eerie clicking
+sound accompanies every movement as it springs into action.    
+~
+3158026 525826 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 10
+8 8 0 0
+E
+T 3351
+#3353
+wichtlin undead elven eyeballs glowing skeletal hands~
+a wichtlin~
+Two green glowing eyeballs and a pair of skeletal hands hover eerily in the air.
+~
+   Wichtlin are elven undead.  This one, like all others, appears as a pair of
+green glowing eyeballs and a pair of skeletal hands.  This is most likely all
+that is left of some poor soul that wandered carelessly into this foul place.
+As it moves, hovering above the ground, you think for a second that you might
+see the the form of a blackened elven skeleton draped with rotting flesh
+supporting the otherwise disembodied hands and eyes.    
+~
+610312 66560 33554432 -800 E
+18 11 -2 3d20+380 3d6+6
+666 14000 9
+8 8 0 0
+BareHandAttack: 1
+E
+#3360
+woman elven amber pruning~
+an amber-eyed elven woman~
+An amber-eyed elven woman is here, pruning the vines of the grapes.
+~
+   This elven woman is simply dressed in leather breeches, and a long linen
+tunic.  She moves along the trellis, pruning the vines of the grapes to ensure
+the plant doesn't crowd itself.  A sense of peace or happiness is held in her
+amber eyes, and she hums a simple melody while she works.    
+~
+540682 1024 1536 850 E
+16 11 0 3d20+320 3d6+4
+400 11000 5
+8 8 2 0
+E
+#3362
+elf willowy elven fellow~
+a willowy elf~
+A willowy elven fellow kneels here, tending to the garden with care.
+~
+   This elven man kneels here in the garden, tending to the seedlings.  He is
+quite willowy in build, indeed he might blow away in a strong wind.  He seems
+to take pleasure in his work, judging by the soft smile upon his face and the
+quiet song upon his lips as he works the soft soil.  He is dressed in simple
+clothing; leather breeches, a light linen tunic, and a pair of gardening
+gloves.    
+~
+540682 1024 5634 0 E
+20 8 -4 3d20+440 3d7+6
+400 25000 5
+8 8 1 0
+BareHandAttack: 11
+E
+#3369
+elfmaid elf dressed crimson~
+an elfmaid dressed in white robes edged in crimson~
+An elfmaid dressed in crimson-edged white robes stares curiously at you.
+~
+   Startled by your presence, this young elfmaid tries to return your gaze with
+a casual smile.  She hides her hands behind her back but not before brushing
+them off one last time.  Her face reflects the ethereal beauty of her people
+even in this dark cavern, however there is a sense of urgency in her eyes that
+seems at odds with her otherwise pleasant expression.  Her robes are the
+traditional white of her people, but they are edged in a bright crimson which
+is highlighted by the strange lighting.    
+~
+1826842 33559552 256 0 E
+25 5 -9 3d33+850 4d6+8
+0 87000 1
+8 8 2 0
+E
+T 3369
+T 2
+#3373
+prefect elf elven man~
+a prefect of Branchala~
+A prefect of Branchala quietly mutters a prayer to his god.
+~
+   As he speaks, the raspy voice of this elf is barely audible, but it seems to
+linger around the whole temple.  There is still a harmonious sing-song quality
+to his voice that hints at the splendor it possessed in his youth.  The lines
+which have now formed on his face, reflect the ages he has seen.  Though time
+has finally began to take its toll on this elf, his eyes still shine brightly.
+He is adorned in the traditional robes and pendants which flamboyantly proclaim
+him as a priest of Astarin.    ~
+524360 1024 2049 700 E
+10 14 6 5d4+160 2d7+2
+90 1900 2
+8 8 1 0
+BareHandAttack: 14
+E
+#3374
+patron temple~
+a patron~
+A temple patron walks about, showing her devotion to her lord.
+~
+   At average elven size and height, this patron walks about with a proud look
+on her face.  She flashes a beautiful smile, always happy to talk about her
+lord, Astarin.  She is dressed in the clothes of a commoner, but is wearing a
+harp pendant around her neck.    
+~
+72 1024 0 600 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 2 0
+BareHandAttack: 8
+E
+#3376
+elder elven tired~
+a tired elder~
+A tired elder blankly stares off into the nearby forest.
+~
+   This older elven man appears quiet tired indeed.  His eyes seem puffy,
+perhaps glassed over as well.  His mouth is thin with lips that are dry and
+cracked.  Small patches of his grey hair have fallen out, and age spots dot his
+visible scalp.  His movements are slow and well meditated, as if he is being
+pained by a type of arthritis.    
+~
+72 1 0 600 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+5 5 1 0
+BareHandAttack: 13
+E
+#3380
+kender cleric~
+a kender cleric~
+A giggling kender watches the chaos, he is adorned in the robes of a cleric.
+~
+   This kender can barely control his giggling.  Standing in a corner, his
+small frame shakes wildly with laughter.  He takes only a moment to break his
+laughter to duck underneath his fireball, but continues shortly after.  Robes
+cover his body, adorned in symbols of Branchala.    
+~
+57418 0 2049 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 2
+8 8 0 0
+BareHandAttack: 4
+E
+#3381
+villager short petite elf elven~
+a strolling villager~
+A villager, short and petite, strolls through the town casually.
+~
+   This villager appears calm as she strolls around her village.  Her lightly
+tanned face smiles as she watches children go by.  Every few moment, she will
+stop to brush a rogue strand of hair out of her view, but then continue at her
+own pace.  Her petite frame adopting the slow and graceful movements of her
+people.    
+~
+72 0 0 700 E
+8 15 8 5d5+110 2d6+2
+70 800 3
+8 8 2 0
+BareHandAttack: 8
+E
+#3385
+child busy~
+a busy child~
+A child swiftly runs through here, busy playing with her friends.
+~
+   Young and swift, this child quickly darts in and out of obstacles in her
+surroundings.  Her silky blonde hair falls down to the middle of her back.  
+Tiny elven ears point out through her hair.  Her crystal blue eyes are
+almond-shaped, they dart all around her as she plays.    
+~
+204 263168 0 600 E
+6 17 10 2d5+70 2d5+2
+35 175 4
+8 8 2 0
+E
+#3389
+an older fisherman~
+a fisherman~
+An older fisherman relaxes here, nodding off to sleep.
+~
+   A fisherman, older then most of the townsfolk by appearance, lazily stares
+out across the Thon-Thalas.  He appears strong and healthy by his lean body,
+despite getting into the later years in life.  His silver hair is tied back in
+a tight ponytail and his elven face exudes a gentle and calm demeanor.    
+~
+8 1024 0 600 E
+9 15 7 5d5+130 2d7+1
+95 1300 0
+5 5 1 0
+BareHandAttack: 13
+E
+#3390
+boy child elf elven lad~
+a small elven lad~
+A small elven lad is here, nodding slowly as his instructor speaks.
+~
+   This elven lad looks to be rather young, appearing only ten at the most,
+though considering the long life of the elves, it would be hard to guess his
+true age when not beheld by an elven eye.  The lad is dressed in loose flowing
+garments of earthen colors, his forearms and wrists are lightly wrapped with
+stripped cloth to hold the fabric tighter to the body.  His soft, blonde-white
+hair blends smoothly with his fair skin and his large, almond-shaped eyes seem
+quick and eager to learn.    
+~
+41034 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 6
+8 8 1 0
+E
+#3391
+lass elven small child~
+a small elven lass~
+A small elven lass looks restlessly about the area around her.
+~
+   This small elven lass looks about as though she is not overly interested in
+what it is she is doing, her soft, brown eyes roaming about the area
+listlessly.  She appears to be no more than nine or ten years of age, though
+to the long lived elves it would be hard to know her true age if not seen by
+one familiar with the race.  Her light brown hair is pulled back, trailing down
+her loose, earth-toned garments, and her fair skin is smudged here and there
+with dirt.    
+~
+41034 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 6
+8 8 2 0
+E
+#3392
+older elvish man~
+an older elvish man~
+An older elvish man stands here, attempting to pass on some of his knowledge to his kin.
+~
+   While not overly old, this man certainly appears older than the children
+that surround him.  His long, blonde-white hair hangs freely for the most,
+restrained in a few key places to avoid obstruction or entanglement.  His light
+blue eyes smile with a mixture of wisdom and quiet joy as he explains his craft
+to the young ones around him.  Forgoing the loose flowing garments of his kin,
+a set of armor that appears to be made of little more than pressed leaves
+covers his lithe elven form.    
+~
+41034 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 6
+8 8 1 0
+E
+#3393
+wandering elvish lad~
+a wandering elvish lad~
+An elvish lad wanders about the area, taking in all that he can with eager eyes.
+~
+   This young lad wanders about the small range, taking in all that he can,
+both of the surroundings and the words of his teachers.  His light brown hair
+is trimmed to fall along his jawline while his large, almond-shaped eyes roam
+about the area.  His clothing is colored in earthen shades, worn loose, though
+restrained in key places to prevent its impeding his actions overly.    
+~
+41032 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 6
+8 8 1 0
+E
+$

@@ -1,0 +1,45 @@
+2
+cm
+13
+cast cure-mod
+0
+4
+food
+16
+cast create-food
+0
+1
+f
+6
+as val
+0
+7
+curtsey
+48
+emote dips into an elegant curtsey before the $*
+1
+4
+curt
+48
+emote dips into an elegant curtsey before the $*
+1
+3
+say
+64
+emote says in the melodic song of the Silvanesti tongue,'&C$*&n'
+1
+4
+chat
+11
+chat &C$*&n
+1
+2
+eq
+6
+l self
+0
+2
+cl
+18
+cast cure-light $*
+1

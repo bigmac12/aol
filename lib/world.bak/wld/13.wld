@@ -1,0 +1,2635 @@
+#1300
+In the Sewers of Palanthas~
+   The dim light which filters through the grate above chases away the shadows,
+although the surrounding darkness cloaks untold menace.  The walls are coated
+in a thick, noxious slime that slowly oozes toward the sewer floor, meeting
+with a thread of black water that meanders off to the south.  The floor itself
+seems to be moving, and upon closer examination, you realize it is actually the
+movement of thousands of tiny insects.    
+~
+13 12 0 0 0
+D2
+~
+~
+0 0 1302
+D4
+   A rusted metal grate is above, missing the screws intended to hold it in
+place.    
+~
+grate~
+1 0 1907
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+E
+water black~
+   The black water along the sewer floor is nothing but a thin trickle and
+seems to bubble as if in metamorphis to something far more deadly.    
+~
+S
+#1301
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the east and southwest.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1302
+D8
+~
+~
+0 0 1304
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1302
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the north, east and west.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1300
+D1
+~
+~
+0 0 1303
+D3
+~
+~
+0 0 1301
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1303
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the west and southeast.    
+~
+13 73 0 0 0
+D3
+~
+~
+0 0 1302
+D9
+~
+~
+0 0 1306
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1304
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the northeast and southwest.    
+~
+13 73 0 0 0
+D7
+~
+~
+0 0 1301
+D8
+~
+~
+0 0 1307
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1305
+At the Top of a Narrow Stairwell~
+   The tunnel ends abruptly here, at the top of a narrow stairwell down.  Its
+entrance is coated in the same obnoxious smelling ooze that seems to breed
+throughout the sewers.  The stairs themselves are slippery, and a thin trickle
+of black water slowly drips its way to the lower level.  A peculiar high-
+pitched clicking sound echoes up the stairwell.    
+~
+13 365 4 0 0
+D2
+~
+~
+0 0 1308
+D5
+~
+~
+0 0 1344
+E
+ooze obnoxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+E
+stair stairwell~
+   The narrow stairwell opening is nearly hidden by huge silver cobwebs.  Its
+walls and steps are covered in slime, making footing treacherous, while the
+overpowering odor is enough to cause even the strongest adventurers to gag.  
+
+~
+S
+#1306
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the northwest and southeast.    
+~
+13 73 0 0 0
+D6
+~
+~
+0 0 1303
+D9
+~
+~
+0 0 1309
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1307
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the northeast and southwest.    
+~
+13 73 0 0 0
+D7
+~
+~
+0 0 1304
+D8
+~
+~
+0 0 1310
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1308
+In a Dank Tunnel~
+   This dark, cold tunnel is barely wide enough for one person to pass through.
+The walls of the tunnel are covered in noxious, black ooze that stains the
+clothes of any who brush against them.  The sounds from the surrounding sewers
+are distorted, and echo through the tunnel eerily.  The air is thick with a
+foul and bitter-tasting moisture that seems to seep into the skin.  The tunnel
+continues to the north and south.    
+~
+13 361 4 0 0
+D0
+~
+~
+0 0 1305
+D2
+~
+~
+0 0 1311
+E
+ooze noxious black~
+   The walls of the tunnel are dripping with some blackish substance that reeks
+of decay, and leaves thin trails of slime along the walls as it makes its way
+to the floor.    
+~
+S
+#1309
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the northwest and to the south.    
+~
+13 73 0 0 0
+D2
+~
+~
+0 0 1312
+D6
+~
+~
+0 0 1306
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1310
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the northeast and to the south.    
+~
+13 73 0 0 0
+D2
+~
+~
+0 0 1314
+D7
+~
+~
+0 0 1307
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1311
+In a Dank Tunnel~
+   This dark, cold tunnel is barely wide enough for one person to pass through.
+The walls of the tunnel are covered in noxious, black ooze that stains the
+clothes of any who brush against them.  The sounds from the surrounding sewers
+are distorted, and echo through the tunnel eerily.  The air is thick with a
+foul and bitter-tasting moisture that seems to seep into the skin.  The tunnel
+continues to the north and south.    
+~
+13 361 4 0 0
+D0
+~
+~
+0 0 1308
+D2
+~
+~
+0 0 1315
+E
+ooze noxious black~
+   The walls of the tunnel are dripping with some blackish substance that reeks
+of decay, and leaves thin trails of slime along the walls as it makes its way
+to the floor.    
+~
+S
+#1312
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the north, east and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1309
+D1
+~
+~
+0 0 1313
+D2
+~
+~
+0 0 1316
+D3
+~
+~
+0 0 -1
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1313
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the west and south.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 1317
+D3
+~
+~
+0 0 1312
+D4
+~
+~
+0 0 -1
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1314
+In the Sewers of Palanthas~
+   The dim light which filters through the grate above chases away the shadows,
+although the surrounding darkness cloaks untold menace.  The walls are coated
+in a thick, noxious slime that slowly oozes toward the sewer floor, meeting
+with a thread of black water that meanders off to the north and south.  The
+floor itself seems to be moving, and upon closer examination, you realize it is
+actually the movement of thousands of tiny insects.    
+~
+13 12 0 0 0
+D0
+~
+~
+0 0 1310
+D2
+~
+~
+0 0 1318
+D4
+   A rusted metal grate is above, missing the screws intended to hold it in
+place.    
+~
+grate~
+1 0 1932
+S
+#1315
+In a Dank Tunnel~
+   This dark, cold tunnel is barely wide enough for one person to pass through.
+The walls of the tunnel are covered in noxious, black ooze that stains the
+clothes of any who brush against them.  The sounds from the surrounding sewers
+are distorted, and echo through the tunnel eerily.  The air is thick with a
+foul and bitter-tasting moisture that seems to seep into the skin.  The tunnel
+continues to the north and south.    
+~
+13 361 4 0 0
+D0
+~
+~
+0 0 1311
+D2
+~
+~
+0 0 1322
+E
+ooze noxious black~
+   The walls of the tunnel are dripping with some blackish substance that reeks
+of decay, and leaves thin trails of slime along the walls as it makes its way
+to the floor.    
+~
+S
+#1316
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the north, east and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1312
+D1
+~
+~
+0 0 1317
+D2
+~
+~
+0 0 1323
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1317
+In the Sewers of Palanthas~
+   The dim light which filters through the grate above chases away the shadows,
+although the surrounding darkness cloaks untold menace.  The walls are coated
+in a thick, noxious slime that slowly oozes toward the sewer floor, meeting
+with a thread of black water that meanders off to the north, west and
+southwest.  The floor itself seems to be moving, and upon closer examination,
+you realize it is actually the movement of thousands of tiny insects.    
+~
+13 12 0 0 0
+D0
+~
+~
+0 0 1313
+D3
+~
+~
+0 0 1316
+D4
+   A rusted metal grate is above, missing the screws intended to hold it in
+place.    
+~
+grate~
+1 0 1939
+D8
+~
+~
+0 0 1323
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+E
+water black~
+   The black water along the sewer floor is nothing but a thin trickle and
+seems to bubble as if in metamorphis to something far more deadly.    
+~
+S
+#1318
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the north, east and southeast.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1314
+D1
+~
+~
+0 0 1319
+D9
+~
+~
+0 0 1324
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1319
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the south and west.  A dark tunnel is to the
+east.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1320
+D2
+~
+~
+0 0 1324
+D3
+~
+~
+0 0 1318
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1320
+In a Dank Tunnel~
+   This dark, cold tunnel is barely wide enough for one person to pass through.
+The walls of the tunnel are covered in noxious, black ooze that stains the
+clothes of any who brush against them.  The sounds from the surrounding sewers
+are distorted, and echo through the tunnel eerily.  The air is thick with a
+foul and bitter-tasting moisture that seems to seep into the skin.  The tunnel
+continues to the east and west.    
+~
+13 361 4 0 0
+D1
+~
+~
+0 0 1321
+D3
+~
+~
+0 0 1319
+E
+ooze noxious black~
+   The walls of the tunnel are dripping with some blackish substance that reeks
+of decay, and leaves thin trails of slime along the walls as it makes its way
+to the floor.    
+~
+S
+#1321
+In a Dank Tunnel~
+   This dark, cold tunnel is barely wide enough for one person to pass through.
+The walls of the tunnel are covered in noxious, black ooze that stains the
+clothes of any who brush against them.  The sounds from the surrounding sewers
+are distorted, and echo through the tunnel eerily.  The air is thick with a
+foul and bitter-tasting moisture that seems to seep into the skin.  The tunnel
+continues to the east and west.    
+~
+13 361 4 0 0
+D1
+~
+~
+0 0 1322
+D3
+~
+~
+0 0 1320
+E
+ooze noxious black~
+   The walls of the tunnel are dripping with some blackish substance that reeks
+of decay, and leaves thin trails of slime along the walls as it makes its way
+to the floor.    
+~
+S
+#1322
+In a Dank Tunnel~
+   This dark, cold tunnel is barely wide enough for one person to pass through.
+The walls of the tunnel are covered in noxious, black ooze that stains the
+clothes of any who brush against them.  The sounds from the surrounding sewers
+are distorted, and echo through the tunnel eerily.  The air is thick with a
+foul and bitter-tasting moisture that seems to seep into the skin.  The tunnel
+continues to the north and west.    
+~
+13 361 4 0 0
+D0
+~
+~
+0 0 1315
+D3
+~
+~
+0 0 1321
+E
+ooze noxious black~
+   The walls of the tunnel are dripping with some blackish substance that reeks
+of decay, and leaves thin trails of slime along the walls as it makes its way
+to the floor.    
+~
+S
+#1323
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the north, northeast and southwest.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1316
+D7
+~
+~
+0 0 1317
+D8
+~
+~
+0 0 1325
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1324
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the north, northwest and southeast.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1319
+D6
+~
+~
+0 0 1318
+D9
+~
+~
+0 0 1326
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1325
+The Top of a Narrow Stairwell~
+   The tunnel extends to the northeast and to the southwest, while before you
+stands a narrow stairwell down.  Its entrance is coated in the same obnoxious
+smelling ooze that seems to breed throughout the sewers.  The stairs themselves
+are slippery, and a thin trickle of black water slowly drips its way to the
+lower level.  The sound of running water echoes up the stairwell.    
+~
+13 77 0 0 0
+D1
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 1364
+D7
+~
+~
+0 0 1323
+D8
+~
+~
+0 0 1329
+E
+stair stairwell~
+   The narrow stairwell opening is nearly hidden by huge silver cobwebs.  Its
+walls and steps are covered in slime, making footing treacherous, while the
+overpowering odor is enough to cause even the strongest adventurers to gag.  
+
+~
+E
+ooze obnoxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1326
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the east and northwest, while the corridor
+south appears to come to an end abruptly a few paces away.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1327
+D2
+~
+~
+0 0 1330
+D6
+~
+~
+0 0 1324
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1327
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1328
+D3
+~
+~
+0 0 1326
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1328
+In the Sewers of Palanthas~
+   The dim light which filters through the grate above chases away the shadows,
+although the surrounding darkness cloaks untold menace.  The walls are coated
+in a thick, noxious slime that slowly oozes toward the sewer floor, meeting
+with a thread of black water that meanders off to the east and west.  The floor
+itself seems to be moving, and upon closer examination, you realize it is
+actually the movement of thousands of tiny insects.    
+~
+13 12 0 0 0
+D1
+~
+~
+0 0 1329
+D3
+~
+~
+0 0 1327
+D4
+   A rusted metal grate is above, missing the screws intended to hold it in
+place.    
+~
+grate~
+1 0 1956
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+E
+water black~
+   The black water along the sewer floor is nothing but a thin trickle and
+seems to bubble as if in metamorphis to something far more deadly.    
+~
+S
+#1329
+In the Sewers of Palanthas~
+   The Palanthas sewers meander off in various directions, making the unwary
+adventurer quickly lost.  The thick, noxious slime along the walls and floor
+makes walking a slippery, messy affair.  The overpowering smell pervades the
+senses, becoming an almost tangible entity.  The enveloping darkness seems
+alive and menacing, your light forming eerie shadows against the walls.  The
+cold, wet corridors continue to the west and northeast.    
+~
+13 73 0 0 0
+D3
+~
+~
+0 0 1328
+D7
+~
+~
+0 0 1325
+E
+slime thick noxious~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1330
+A Recess in the Sewer Walls~
+   This small area off one of the sewer corridors, is darker and filled with
+shadows.  The black ooze that pervades the sewers crawls along the ceiling
+here, dripping down in large drops on the unwary adventurer.  Judging from the
+remains of a fire, this is quite possibly the underground home for one of
+Palanthas' lost souls.    
+~
+13 361 0 0 0
+D0
+~
+~
+0 0 1326
+E
+ooze black~
+   The walls are dripping with some blackish substance that reeks of decay, and
+leaves thin trails of slime along the walls as it makes its way to the floor.
+  
+~
+S
+#1331
+By a Crumbling Stone Stairway~
+   The cavern ends abruptly at the top of a stairwell.  The ancient steps down
+are made of stone that has crumbled with age, leaving little more than a ramp.
+No light penetrates the darkness at the furthest end, and the very distant
+sound of running water gives the impression that the stairwell is incredibly
+long.    
+~
+13 77 0 0 0
+D2
+~
+~
+0 0 1332
+D5
+~
+~
+0 0 1369
+S
+#1332
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1331
+D2
+~
+~
+0 0 1333
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1333
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1332
+D2
+~
+~
+0 0 1338
+D3
+~
+~
+0 0 -1
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1334
+In a Particularly Noxious Alcove~
+   This darkened alcove reeks of loathesome, unimaginable elements.  Several
+rat carcasses have been tossed into one corner, where the insects are making a
+feast of them.  In the center of the alcove stands a rickety old cart, a warped
+and crudely painted sign nailed to one side of it.    
+~
+13 73 0 0 0
+D8
+~
+~
+0 0 1340
+E
+sign~
+   In a childlike scrawl, with some of the letters painted backward, are the
+words : "Haroks Speshultees.  "
+~
+E
+cart rickety~
+   This rickety old food cart is missing one wheel and tips precariously to one
+side.  Its surface is coated with a thick layer of rancid grease.    
+~
+S
+#1335
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and south.    
+~
+13 77 0 0 0
+D1
+~
+~
+0 0 1336
+D2
+~
+~
+0 0 1341
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1336
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1337
+D3
+~
+~
+0 0 1335
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1337
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1338
+D3
+~
+~
+0 0 1336
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1338
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The caverns continue to the north, south, east and west.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1333
+D1
+~
+~
+0 0 1339
+D2
+~
+~
+0 0 1342
+D3
+~
+~
+0 0 1337
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1339
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1340
+D3
+~
+~
+0 0 1338
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1340
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the west and a noxious odor drifts
+toward you from the northeast.    
+~
+13 77 0 0 0
+D3
+~
+~
+0 0 1339
+D7
+~
+~
+0 0 1334
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1341
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1335
+D2
+~
+~
+0 0 1343
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1342
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1338
+D2
+~
+~
+0 0 1345
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1343
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and east.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1341
+D1
+~
+~
+0 0 1344
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1344
+At the Base of a Narrow Stairwell~
+   The corridor ends here, at the base of a narrow stairwell up.  An intricate
+pattern of cobwebs covers the entrance to the stairwell in spun silver.  The
+stairs themselves are slippery, and a thin trickle of black water slowly drips
+its way down the steps, forming a putrid black pool at your feet.  Several
+varieties of beetles mill about, making a peculiar clicking sound by rubbing
+together their wings.  The distant sound of running water echoes through the
+corridors, its origin uncertain.    
+~
+13 365 0 0 0
+D3
+~
+~
+0 0 1343
+D4
+~
+~
+0 0 1305
+S
+#1345
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1342
+D2
+~
+~
+0 0 1346
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1346
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 77 0 0 0
+D0
+~
+~
+0 0 1345
+D2
+~
+~
+0 0 1350
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1347
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and south.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1348
+D2
+~
+~
+0 0 1353
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1348
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1349
+D3
+~
+~
+0 0 1347
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1349
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1350
+D3
+~
+~
+0 0 1348
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1350
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north, south and west.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1346
+D2
+~
+~
+0 0 1354
+D3
+~
+~
+0 0 1349
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1351
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The stream rushes along, reverberating loudly through the
+chambers, and disappearing through an opening at the base of the northern wall.
+The utter absence of light and the damp, vaguely unhealthy odor in the air make
+this a most unwelcome place.  The cavern heads back towards the south.  
+~
+13 73 0 0 0
+D2
+~
+~
+0 0 1355
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1352
+The Palanthas Post Office~
+   A narrow counter stretches the length of the room and closes off a back room
+containing a huge pile of parcels and letters.  Numerous pictures of criminals
+and government slogans line the walls, wrinkled and dry from the long years
+they have hung unobserved.  The office is small, a constant cause of annoyance
+for the many citizens wishing to use the post.  A thin veil of light filters in
+from a nearby barred window, highlighting the postmaster in an irridescent
+glow.    
+~
+13 72 0 0 0
+D1
+~
+~
+0 0 1943
+E
+skeleton~
+   This skeleton appears to have laid here for countless years.  Its garments
+are long rotted away, and the bones are crumbling to dust.    
+~
+S
+#1353
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1347
+D2
+~
+~
+0 0 1356
+D4
+~
+grate~
+1 0 -1
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1354
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1350
+D2
+~
+~
+0 0 1357
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1355
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The stream rushes along, reverberating loudly through the
+chambers.  The utter absence of light and the damp, vaguely unhealthy odor in
+the air make this a most unwelcome place.  The cavern branches off to the north
+and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1351
+D2
+~
+~
+0 0 1358
+D4
+~
+grate~
+1 0 -1
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1356
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1353
+D2
+~
+~
+0 0 1361
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1357
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1354
+D2
+~
+~
+0 0 1364
+D4
+~
+grate~
+1 0 -1
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1358
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The stream rushes along, reverberating loudly through the
+chambers.  The utter absence of light and the damp, vaguely unhealthy odor in
+the air make this a most unwelcome place.  The cavern branches off to the
+north, south and east.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1355
+D1
+~
+~
+0 0 1359
+D2
+~
+~
+0 0 1365
+D3
+~
+steel door~
+1 0 -1
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1359
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers,
+distinctly louder now and seeming to come from the west.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and west.    
+~
+13 77 0 0 0
+D1
+~
+~
+0 0 1360
+D3
+~
+~
+0 0 1358
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1360
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers,
+distinctly louder now and seeming to come from the west.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1361
+D3
+~
+~
+0 0 1359
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1361
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east, west and north.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1356
+D1
+~
+~
+0 0 1362
+D3
+~
+~
+0 0 1360
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1362
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1363
+D3
+~
+~
+0 0 1361
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1363
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers, its
+origin uncertain due to the odd distortion of sound here.  The utter absence of
+light and the damp, vaguely unhealthy odor in the air make this a most
+unwelcome place.  The cavern branches off to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1364
+D3
+~
+~
+0 0 1362
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1364
+At the Base of a Narrow Stairwell~
+   The corridor extends to the north and west, while before you stands a narrow
+stairwell up.  An intricate pattern of cobwebs covers the entrance to the
+stairwell in spun silver.  The stairs themselves are slippery, and a thin
+trickle of black water slowly drips its way down the steps, forming a putrid
+black pool at your feet.  Several varieties of beetles mill about, making a
+peculiar clicking sound by rubbing together their wings.  The distant sound of
+running water echoes through the corridors, its origin uncertain.    
+~
+13 365 0 0 0
+D0
+~
+~
+0 0 1357
+D3
+~
+~
+0 0 1363
+D4
+~
+~
+0 0 1325
+S
+#1365
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The stream rushes along, reverberating loudly through the
+chambers.  The utter absence of light and the damp, vaguely unhealthy odor in
+the air make this a most unwelcome place.  The cavern branches off to the north
+and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1358
+D2
+~
+~
+0 0 1366
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1366
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The stream rushes along, reverberating loudly through the
+chambers, and disappearing through an opening at the base of the southern wall.
+The utter absence of light and the damp, vaguely unhealthy odor in the air make
+this a most unwelcome place.  The cavern branches off to the north and east.  
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1365
+D1
+~
+~
+0 0 1367
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1367
+In the Caverns Beneath Palanthas~
+   Darkness surrounds you, casting your light only a few feet in any direction.
+Sharp, thin shadows dance around the multitude of stalactites and stalagmites
+in the cavern.  The sound of running water echoes through the chambers loudly.
+The utter absence of light and the damp, vaguely unhealthy odor in the air make
+this a most unwelcome place.  The cavern branches off to the east and west.  
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1368
+D3
+~
+~
+0 0 1366
+E
+stalactites stalagmites~
+   These icicle-like deposits of calcium carbonate hang from the ceiling and
+grow upward from the floor, casting thin shadows all around the chamber.    
+~
+S
+#1368
+By a Crumbling Stone Stairway~
+   The cavern ends abruptly at the top of a stairwell.  The ancient steps down
+are made of stone that has crumbled with age, leaving little more than a ramp.
+No light penetrates the darkness at the furthest end, and the very distant
+sound of shovelling gives the impression that the stairwell is incredibly long.
+~
+13 77 0 0 0
+D3
+~
+~
+0 0 1367
+D5
+~
+~
+0 0 1393
+S
+#1369
+By a Crumbling Stone Stairway~
+   The cavern ends abruptly at the base of a stairwell.  The ancient steps up
+are made of stone that has crumbled with age, leaving little more than a ramp.
+No light penetrates the darkness at the furthest end, and the very distant
+sound of dripping water gives the impression that the stairwell is incredibly
+long.    
+~
+13 77 0 0 0
+D2
+~
+~
+0 0 1370
+D4
+~
+~
+0 0 1331
+S
+#1370
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor at your feet is damp and spongy, with small pools of clear water in
+places, and the ground dips sharply down toward the south, making footing
+treacherous.  The corridor continues to the north and south.    
+~
+13 73 4 0 0
+D0
+~
+~
+0 0 1369
+D2
+~
+~
+0 0 1371
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1371
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor is wet and spongy, with small pools of mud in places that suck at
+your feet.  The ground dips sharply down to the southeast, where a deep
+reservoir of murky water is visible.  The corridor continues to the north and
+southeast.    
+~
+13 77 5 0 0
+D0
+~
+~
+0 0 1370
+D9
+~
+~
+0 0 1372
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1372
+Waist Deep in Murky Water~
+   The ground here is noticeably lower than the rest of the caverns, and you
+find yourself waist deep in murky water.  A peculiar glow emanates from the
+water, casting its light all the way to the ceiling, which seems impossibly far
+up.  Unknown creatures stir around you, nipping at your ankles and rippling the
+water from time to time as they surface for air.  An occasional drop of water
+from the ceiling falls to the reservoir, the sound resonating around you, and
+giving the false impression of peace and safety.  The reservoir continues to
+the southeast, while dryer ground is visible to the northwest.    
+~
+13 232 6 0 0
+D6
+~
+~
+0 0 1371
+D9
+~
+~
+0 0 1373
+S
+#1373
+Waist Deep in Murky Water~
+   The ground here is noticeably lower than the rest of the caverns, and you
+find yourself waist deep in murky water.  A peculiar glow emanates from the
+water, casting its light all the way to the ceiling, which seems impossibly far
+up.  Unknown creatures stir around you, nipping at your ankles and rippling the
+water from time to time as they surface for air.  An occasional drop of water
+from the ceiling falls to the reservoir, the sound resonating around you, and
+giving the false impression of peace and safety.  The reservoir continues to
+the northwest and southeast.    
+~
+13 232 6 0 0
+D6
+~
+~
+0 0 1372
+D9
+~
+~
+0 0 1374
+S
+#1374
+Waist Deep in Murky Water~
+   The ground here is noticeably lower than the rest of the caverns, and you
+find yourself waist deep in murky water.  A peculiar glow emanates from the
+water, casting its light all the way to the ceiling, which seems impossibly far
+up.  Unknown creatures stir around you, nipping at your ankles and rippling the
+water from time to time as they surface for air.  An occasional drop of water
+from the ceiling falls to the reservoir, the sound resonating around you, and
+giving the false impression of peace and safety.  The reservoir continues to
+the northwest, while dryer ground is visible to the south.    
+~
+13 232 6 0 0
+D2
+~
+~
+0 0 1377
+D6
+~
+~
+0 0 1373
+S
+#1375
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor at your feet is damp and spongy, with small pools of clear water in
+places, and the ground pitches unevenly up and down, making footing
+treacherous.  The corridor continues to the east and south.    
+~
+13 73 4 0 0
+D1
+~
+~
+0 0 1376
+D2
+~
+~
+0 0 1378
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1376
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor at your feet is damp and spongy, with small pools of clear water in
+places, and the ground dips sharply down toward the east, making footing
+treacherous.  The corridor continues to the east and west.    
+~
+13 73 4 0 0
+D1
+~
+~
+0 0 1377
+D3
+~
+~
+0 0 1375
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1377
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor is wet and spongy, with small pools of mud in places that suck at
+your feet.  The ground dips sharply down to the north, where a deep reservoir
+of murky water is visible.  The corridor continues to the north and west.    
+~
+13 77 5 0 0
+D0
+~
+~
+0 0 1374
+D3
+~
+~
+0 0 1376
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1378
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor at your feet is damp and spongy, with small pools of clear water in
+places, and the ground pitches unevenly up and down, making footing
+treacherous.  The corridor continues to the north, while an vast underground
+plaza of some sort is visible to the south.    
+~
+13 77 4 0 0
+D0
+~
+~
+0 0 1375
+D2
+~
+~
+0 0 1380
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1379
+In the Ruins Below Palanthas~
+   Judging from the positions of several fallen pillars, the crumbling wall to
+the west, and the scattered remnants of rotted cloth, it becomes clear you are
+standing in the center of what was once a clothier's shop.  The fallen pillars
+to the north and south, and the remaining wall to the west force the musty
+breeze from the east to double back on itself, creating a wailing sound that
+raises the hair on the back of your neck.    
+~
+13 73 1 0 0
+D1
+~
+~
+0 0 1380
+E
+pillar pillars marble~
+   These tall pillars are made of a rare marble, streaked with quartz and
+emerald.  The buildings they once supported have long since turned to dust, and
+they stand in quiet memorial to those that once walked here.    
+~
+S
+#1380
+In the Ruins Below Palanthas~
+   You stand amidst what appears to be an open plaza of rubble.  On closer
+inspection, you realize you are in the ruins of a city buried beneath Palanthas
+long ago.  All recorded history of this place has been lost to the passing of
+time, and these ruins have lain forgotten for centuries.  Tall marble pillars,
+the roofs they supported now crumbled to dust, now stand sentinel to the ghosts
+of this once flourishing city.  A cool breeze wafts through from some unknown
+exit from these chambers.  The slightest sound reverberates from the ceiling
+far, far above and echoes eerily, causing an involuntary shiver up your spine.
+The ruins extend to the east, west and south.  A peculiar glow emanates from
+the north.    
+~
+13 73 1 0 0
+D0
+~
+~
+0 0 1378
+D1
+~
+~
+0 0 1381
+D2
+~
+~
+0 0 1383
+D3
+~
+~
+0 0 1379
+E
+pillar pillars marble~
+   These tall pillars are made of a rare marble, streaked with quartz and
+emerald.  The buildings they once supported have long since turned to dust, and
+they stand in quiet memorial to those that once walked here.    
+~
+S
+#1381
+In the Ruins Below Palanthas~
+   Crumbling walls far to the north and east indicate this was once a massive
+building, perhaps a warehouse of some sort.  The long northern wall tilts
+slightly downward, threatening to fall at any moment.  A thick layer of dust is
+picked up by the breeze and gently settles back to the floor, quickly
+obliterating the tiny tracks of the mice and rats that are the only remaining
+inhabitants of this long lost city.  Beyond a fallen pillar to the south, the
+remains of another building are visible.    
+~
+13 73 1 0 0
+D2
+~
+~
+0 0 1384
+D3
+~
+~
+0 0 1380
+E
+pillar pillars marble~
+   These tall pillars are made of a rare marble, streaked with quartz and
+emerald.  The buildings they once supported have long since turned to dust, and
+they stand in quiet memorial to those that once walked here.    
+~
+S
+#1382
+In the Ruins Below Palanthas~
+   You stand amidst what appears to be an open plaza of rubble.  On closer
+inspection, you realize you are in the ruins of a city buried beneath Palanthas
+long ago.  All recorded history of this place has been lost to the passing of
+time, and these ruins have lain forgotten for centuries.  Tall marble pillars,
+the roofs they supported now crumbled to dust, now stand sentinel to the ghosts
+of this once flourishing city.  A cool breeze wafts through from some unknown
+exit from these chambers.  The slightest sound reverberates from the ceiling
+far, far above and echoes eerily, causing an involuntary shiver up your spine.
+The ruins extend to the east and south, while crumbling walls block passage in
+other directions.    
+~
+13 73 1 0 0
+D1
+~
+~
+0 0 1383
+D2
+~
+~
+0 0 1385
+E
+pillar pillars marble~
+   These tall pillars are made of a rare marble, streaked with quartz and
+emerald.  The buildings they once supported have long since turned to dust, and
+they stand in quiet memorial to those that once walked here.    
+~
+S
+#1383
+In the Ruins Below Palanthas~
+   You stand amidst what appears to be an open plaza of rubble.  On closer
+inspection, you realize you are in the ruins of a city buried beneath Palanthas
+long ago.  All recorded history of this place has been lost to the passing of
+time, and these ruins have lain forgotten for centuries.  Tall marble pillars,
+the roofs they supported now crumbled to dust, now stand sentinel to the ghosts
+of this once flourishing city.  A cool breeze wafts through from some unknown
+exit from these chambers.  The slightest sound reverberates from the ceiling
+far, far above and echoes eerily, causing an involuntary shiver up your spine.
+The ruins extend to the north, south, east and west.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1380
+D1
+~
+~
+0 0 1384
+D2
+~
+~
+0 0 1386
+D3
+~
+~
+0 0 1382
+E
+pillar pillars marble~
+   These tall pillars are made of a rare marble, streaked with quartz and
+emerald.  The buildings they once supported have long since turned to dust, and
+they stand in quiet memorial to those that once walked here.    
+~
+S
+#1384
+In the Ruins Below Palanthas~
+   This small building still retains a wall to the east and south, though both
+are barely higher than a human's chest and have crumbled with age.  A long
+wooden table, its surface covered with dust, stands against one of these walls.
+A musty breeze picks up the dust and eddies it about, momentarily blinding you.
+Scattered about on the floor are a few parchment scrolls, a cracked seal of
+faded blue wax still attached to several of them.  The ruins of this lost city
+extend to the west, while the remains of another building are visible beyond a
+fallen pillar to the north.    
+~
+13 73 1 0 0
+D0
+~
+~
+0 0 1381
+D3
+~
+~
+0 0 1383
+E
+pillar pillars marble~
+   These tall pillars are made of a rare marble, streaked with quartz and
+emerald.  The buildings they once supported have long since turned to dust, and
+they stand in quiet memorial to those that once walked here.    
+~
+E
+table wooden~
+   This antique table is in amazingly good condition for its age.  Brushing
+aside the thick layer of dust, beautifully carved designs become visible along
+the edges and legs.  Made of a dark wood, perhaps cherry, it looks to have been
+designed with commerce in mind, as a cash drawer of sorts has been constructed
+to open from the side of the table closest to the wall.    
+~
+S
+#1385
+In the Ruins Below Palanthas~
+   You stand amidst what appears to be an open plaza of rubble.  On closer
+inspection, you realize you are in the ruins of a city buried beneath Palanthas
+long ago.  All recorded history of this place has been lost to the passing of
+time, and these ruins have lain forgotten for centuries.  Tall marble pillars,
+the roofs they supported now crumbled to dust, now stand sentinel to the ghosts
+of this once flourishing city.  A cool breeze wafts through from some unknown
+exit from these chambers.  The slightest sound reverberates from the ceiling
+far, far above and echoes eerily, causing an involuntary shiver up your spine.
+The ruins of this lost city extend to the north and east, while the cavern
+walls block travel to the west or south.    
+~
+13 73 1 0 0
+D0
+~
+~
+0 0 1382
+D1
+~
+~
+0 0 1386
+E
+pillar pillars marble~
+   These tall pillars are made of a rare marble, streaked with quartz and
+emerald.  The buildings they once supported have long since turned to dust, and
+they stand in quiet memorial to those that once walked here.    
+~
+S
+#1386
+In the Ruins Below Palanthas~
+   You stand amidst what appears to be an open plaza of rubble.  On closer
+inspection, you realize you are in the ruins of a city buried beneath Palanthas
+long ago.  All recorded history of this place has been lost to the passing of
+time, and these ruins have lain forgotten for centuries.  Tall marble pillars,
+the roofs they supported now crumbled to dust, now stand sentinel to the ghosts
+of this once flourishing city.  A cool breeze wafts through from some unknown
+exit from these chambers.  The slightest sound reverberates from the ceiling
+far, far above and echoes eerily, causing an involuntary shiver up your spine.
+The ruins extend to the north, west and east.  A low arch to the south leads
+back into the caverns.    
+~
+13 73 1 0 0
+D0
+~
+~
+0 0 1383
+D1
+~
+~
+0 0 1387
+D2
+~
+~
+0 0 1392
+D3
+~
+~
+0 0 1385
+E
+pillar pillars marble~
+   These tall pillars are made of a rare marble, streaked with quartz and
+emerald.  The buildings they once supported have long since turned to dust, and
+they stand in quiet memorial to those that once walked here.    
+~
+S
+#1387
+In the Ruins Below Palanthas~
+   You stand amidst what appears to be a chamber full of rubble.  On closer
+inspection, you realize you are in the ruins of a city buried beneath Palanthas
+long ago.  All recorded history of this place has been lost to the passing of
+time, and these ruins have lain forgotten for centuries.  Tall marble pillars,
+the roofs they supported now crumbled to dust, now stand sentinel to the ghosts
+of this once flourishing city.  A cool breeze wafts through from some unknown
+exit from these chambers.  The slightest sound reverberates from the ceiling
+far, far above and echoes eerily, causing an involuntary shiver up your spine.
+A crumbling stone wall to the north, and the cavern walls themselves to the
+east and south prevent travel except back the way you came.    
+~
+13 73 1 0 0
+D3
+~
+~
+0 0 1386
+E
+pillar pillars marble~
+   These tall pillars are made of a rare marble, streaked with quartz and
+emerald.  The buildings they once supported have long since turned to dust, and
+they stand in quiet memorial to those that once walked here.    
+~
+S
+#1388
+In the Catacombs~
+   The air here is noticeably cooler and nearly odorless, a welcome relief from
+the floors above.  A faint, musty breeze wafts through, its origin impossible
+to discern.  Along the walls, in seemingly random fashion, are row after row of
+gold plaques signifying the entombed remains of the long dead.  The sound of
+shoveling disrupts the almost preternatural silence.  The impression of
+antiquity, of archaic whispered secrets, causes you to shiver involuntarily.  
+The catacombs stretch to the east and south.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1389
+D2
+~
+~
+0 0 1393
+E
+plaque gold~
+   Each of these gold plated plaques bears the ancient and near illegible name
+of the deceased entombed within the wall behind the plaque.    
+~
+S
+#1389
+In the Catacombs~
+   The air here is noticeably cooler and nearly odorless, a welcome relief from
+the floors above.  A faint, musty breeze wafts through, its origin impossible
+to discern.  Along the walls, in seemingly random fashion, are row after row of
+gold plaques signifying the entombed remains of the long dead.  The sound of
+shoveling disrupts the almost preternatural silence.  The impression of
+antiquity, of archaic whispered secrets, causes you to shiver involuntarily.  
+The catacombs stretch to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1390
+D3
+~
+~
+0 0 1388
+E
+plaque gold~
+   Each of these gold plated plaques bears the ancient and near illegible name
+of the deceased entombed within the wall behind the plaque.    
+~
+S
+#1390
+In the Catacombs~
+   The air here is noticeably cooler and nearly odorless, a welcome relief from
+the floors above.  A faint, musty breeze wafts through, its origin impossible
+to discern.  Along the walls, in seemingly random fashion, are row after row of
+gold plaques signifying the entombed remains of the long dead.  The sound of
+shoveling disrupts the almost preternatural silence.  The impression of
+antiquity, of archaic whispered secrets, causes you to shiver involuntarily.  
+The catacombs stretch to the east and west.    
+~
+13 73 0 0 0
+D1
+~
+~
+0 0 1391
+D3
+~
+~
+0 0 1389
+E
+plaque gold~
+   Each of these gold plated plaques bears the ancient and near illegible name
+of the deceased entombed within the wall behind the plaque.    
+~
+S
+#1391
+In the Catacombs~
+   The air here is noticeably cooler and nearly odorless, a welcome relief from
+the floors above.  A faint, musty breeze wafts through, its origin impossible
+to discern.  Along the walls, in seemingly random fashion, are row after row of
+gold plaques signifying the entombed remains of the long dead.  The sound of
+shoveling disrupts the almost preternatural silence.  The impression of
+antiquity, of archaic whispered secrets, causes you to shiver involuntarily.  
+The catacombs stretch to the west and south.    
+~
+13 73 0 0 0
+D2
+~
+~
+0 0 1394
+D3
+~
+~
+0 0 1390
+E
+plaque gold~
+   Each of these gold plated plaques bears the ancient and near illegible name
+of the deceased entombed within the wall behind the plaque.    
+~
+S
+#1392
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor at your feet is damp and spongy, with small pools of clear water in
+places, and the ground pitches unevenly up and down, making footing
+treacherous.  The corridor continues to the south, while an vast underground
+plaza of some sort is visible to the north.    
+~
+13 77 4 0 0
+D0
+~
+~
+0 0 1386
+D2
+~
+~
+0 0 1395
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1393
+A Crumbling Stone Stairway in the Catacombs~
+   The air here is noticeably cooler and nearly odorless, a welcome relief from
+the floors above.  A faint, musty breeze wafts through, its origin impossible
+to discern.  Along the walls, in seemingly random fashion, are row after row of
+gold plaques signifying the entombed remains of the long dead.  The sound of
+shoveling disrupts the almost preternatural silence.  The impression of
+antiquity, of archaic whispered secrets, causes you to shiver involuntarily.  
+A crumbling stone stairway leads up and the catacombs stretch on to the north.
+~
+13 77 0 0 0
+D0
+~
+~
+0 0 1388
+D4
+~
+~
+0 0 1368
+E
+plaque gold~
+   Each of these gold plated plaques bears the ancient and near illegible name
+of the deceased entombed within the wall behind the plaque.    
+~
+S
+#1394
+In the Catacombs~
+   The air here is noticeably cooler and nearly odorless, a welcome relief from
+the floors above.  A faint, musty breeze wafts through, its origin impossible
+to discern.  Along the walls, in seemingly random fashion, are row after row of
+gold plaques signifying the entombed remains of the long dead.  The sound of
+shoveling disrupts the almost preternatural silence.  The impression of
+antiquity, of archaic whispered secrets, causes you to shiver involuntarily.  
+The catacombs stretch to the north and south.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1391
+D2
+~
+~
+0 0 1396
+E
+plaque gold~
+   Each of these gold plated plaques bears the ancient and near illegible name
+of the deceased entombed within the wall behind the plaque.    
+~
+S
+#1395
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor at your feet is damp and spongy, with small pools of clear water in
+places, and the ground pitches unevenly up and down, making footing
+treacherous.  The corridor continues to the north and south.    
+~
+13 73 4 0 0
+D0
+~
+~
+0 0 1392
+D2
+~
+~
+0 0 1397
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1396
+In the Catacombs~
+   The air here is noticeably cooler and nearly odorless, a welcome relief from
+the floors above.  A faint, musty breeze wafts through, its origin impossible
+to discern.  Along the walls, in seemingly random fashion, are row after row of
+gold plaques signifying the entombed remains of the long dead.  The sound of
+shoveling disrupts the almost preternatural silence.  The impression of
+antiquity, of archaic whispered secrets, causes you to shiver involuntarily.  
+The catacombs continue to the north, and come to an end here.  The corridor
+curves toward the southeast.    
+~
+13 73 0 0 0
+D0
+~
+~
+0 0 1394
+D9
+~
+~
+0 0 1398
+E
+plaque gold~
+   Each of these gold plated plaques bears the ancient and near illegible name
+of the deceased entombed within the wall behind the plaque.    
+~
+S
+#1397
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor at your feet is damp and spongy, with small pools of clear water in
+places, and the ground pitches unevenly up and down, making footing
+treacherous.  The sound of bubbling water comes from the southwest.  The
+corridor bends in that direction, and continues to the north.    
+~
+13 73 4 0 0
+D0
+~
+~
+0 0 1395
+D8
+~
+~
+0 0 1398
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1398
+Far Beneath Palanthas~
+   Far beneath Palanthas, the underground caverns are cold and nearly odorless.
+The walls here are made of stone that crumbles easily when touched, and strange
+images from a time long past are painted along them in natural dyes.  A faint
+musty breeze wafts through from some unknown source, whispering of great age.
+The floor at your feet is damp and spongy, with small pools of clear water in
+places, and the ground pitches unevenly up and down, making footing
+treacherous.  The distinct sound of shoveling can be heard from the northwest,
+and the corridor curves in that direction and toward the northeast as well.  
+~
+13 77 4 0 0
+D6
+~
+~
+0 0 1396
+D7
+~
+~
+0 0 1397
+E
+images walls~
+   Along the crumbling stone walls are numerous images, painted in natural dyes
+long, long ago.  Some appear to be groups of images that tell stories, such as
+one of a great hunt of an unrecognizeable brown animal the size of a horse, and
+bearing three silver horns.  Others appear to be simple portraits of important
+personages to the painters, and these images have words in an unknown language
+crudely drawn below them.    
+~
+S
+#1399
+Avernus, First Plane of the Infernal Realms~
+   The utter darkness is so complete, as to immediately blind you.  You sense,
+rather then see, a pervasive malevolence all around you, seeping into your skin
+like acid.  As your eyes begin to adjust, you find yourself in an open chamber,
+which hovers above a sea of fiery flame far, far below.  Your senses fill with
+the tortured screams of the condemned, echoing through the limitless void of
+light surrounding you.    
+~
+13 8 0 0 0
+S
+$~

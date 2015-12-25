@@ -1,0 +1,586 @@
+#3000
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard.  He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+26635 8 900 0 E
+33 2 2 1d1+30000 2d8+18
+30000 160000 0
+8 8 1 0
+E
+#3001
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+A fat, nice looking baker.  But you can see that he has many scars on his
+body.
+~
+26635 8 900 0 E
+33 0 -10 1d1+30000 2d8+18
+100 160000 0
+8 8 1 0
+E
+#3002
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+26635 8 900 0 E
+33 0 -10 1d1+30000 2d8+18
+30000 160000 0
+8 8 1 0
+E
+#3003
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+He is a young weaponsmith, who still has lots to learn but he is still
+eager to sell you his latest implements of carnage and destruction.
+~
+26635 8 900 0 E
+33 0 -10 1d1+30000 2d8+18
+30000 160000 0
+8 8 1 0
+E
+#3004
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+An old but very strong armourer.  He has made more suits of armour in his
+life than you have ever seen.
+~
+26635 8 900 0 E
+33 0 -10 1d1+30000 2d8+18
+28500 160000 0
+8 8 1 0
+E
+#3005
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+59418 32808 900 0 E
+33 0 -10 1d1+30000 2d8+32
+0 0 0
+8 8 2 0
+E
+#3006
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+This captain has eaten more sharks than you have killed peas.
+~
+26635 8 900 0 E
+33 2 2 1d1+30000 2d8+12
+2000 160000 0
+8 8 1 0
+E
+#3007
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+He looks like a strong, fit sailor.
+~
+26634 0 900 0 E
+33 0 -10 1d1+30000 2d8+12
+2000 160000 0
+8 8 1 0
+E
+#3008
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+He looks like he may or may not have a green card.
+~
+26635 0 900 0 E
+33 0 -10 1d1+30000 2d8+18
+2000 160000 0
+8 8 1 0
+E
+#3009
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+Wally is a bit pudgy but looks very strong.  He has a glass of Midgaard
+Natural Spring Water in his hand.  When he notices you, he proudly
+displays his fine collection of contemporary waters.
+~
+26635 8 800 0 E
+33 0 -10 1d1+30000 1d8+18
+1000 160000 0
+8 8 1 0
+E
+#3010
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The Postmaster seems like a happy old man, though a bit sluggish.  He
+worries about the reputation of the MMS (Midgaard Mail Service), as many
+people seem to think that it is slow.  Perhaps if he were to brush the
+cobwebs from his uniform it would help to make a better impression.
+~
+190474 32776 1000 0 E
+33 0 -10 1d1+30000 1d8+18
+2000 0 0
+8 8 1 0
+E
+#3020
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+Even though your guildmaster looks old and tired, you can clearly see the
+vast amount of knowledge she possesses.  She is wearing fine magic clothing,
+and you notice that she is surrounded by a blue shimmering aura.
+~
+59418 136 1000 0 E
+34 0 -10 6d10+640 1d8+24
+18794 100000 0
+8 8 2 0
+E
+#3021
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+You are in no doubt that this guildmaster is truly close to your God; he
+has a peaceful, loving look.  You notice that he is surrounded by a white
+aura.
+~
+59418 136 1000 0 E
+34 0 -10 6d10+640 1d8+24
+18794 100000 0
+8 8 1 0
+E
+#3022
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+59418 136 1000 0 E
+34 0 -10 6d10+640 1d8+34
+18794 100000 0
+8 8 2 0
+E
+#3023
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+59418 0 1000 0 E
+34 0 -10 6d10+740 1d8+34
+18794 100000 0
+8 8 1 0
+E
+#3024
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive
+as well as defensive spells make him a deadly opponent.
+~
+59402 136 900 0 E
+33 0 -5 6d10+990 1d8+22
+2000 60000 0
+8 8 1 0
+E
+#3025
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+He is a specially trained warrior belonging to the military order of the
+Faith.  His duty is to protect the faithful from persecution and infidel
+attacks and his religious devotion combined with his superior skill makes
+him a deadly opponent.
+~
+59402 136 1000 0 E
+33 0 -5 6d10+990 1d8+22
+2000 160000 0
+8 8 1 0
+E
+#3026
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+He is a thief who has specialized in killing others as effectively as
+possible, using all sorts of weapons.  His superior knowledge of how
+and where to use them combined with his extraordinary stealth makes
+him a deadly opponent.
+~
+59402 786600 400 0 E
+33 0 -10 6d10+990 1d8+25
+2000 160000 0
+8 8 1 0
+E
+#3027
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+59402 136 800 0 E
+33 0 -8 6d10+990 1d8+40
+2000 160000 0
+8 8 1 0
+E
+#3040
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+24586 0 900 0 E
+24 2 2 6d10+390 1d8+12
+2000 80000 0
+8 8 1 0
+E
+#3041
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+A tired looking waiter.
+~
+24586 0 900 0 E
+23 2 2 6d10+390 1d8+12
+2000 80000 0
+8 8 1 0
+E
+#3042
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+This man was obviously a famous sorcerer in his younger days as you
+instantly recognize his face.
+~
+24586 0 600 0 E
+23 1 2 6d10+390 1d8+12
+2000 80000 0
+8 8 1 0
+E
+#3043
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+This waiter almost makes you feel like you should drop to your knees
+and begin to worship your God.  Naaah.
+~
+24586 0 600 0 E
+23 1 2 6d10+390 1d8+12
+2000 80000 0
+8 8 1 0
+E
+#3044
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+Hmmm... wonder where he got that coin he is playing with.
+~
+24586 0 600 0 E
+23 1 2 6d10+390 1d8+12
+2000 80000 0
+8 8 1 0
+E
+#3045
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+This guy looks like he could easily kill you while still carrying
+quite a few firebreathers.
+~
+24586 0 600 0 E
+23 1 2 6d10+390 1d8+12
+2000 80000 0
+8 8 1 0
+E
+#3046
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+Filthy looks real, ehm, dirty.  He likes to keep his customers happy,
+but do not mess with him or else he'll get upset.
+~
+26650 8 600 0 E
+33 1 -10 1d1+30000 1d8+22
+2000 80000 0
+8 8 1 0
+E
+#3047
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+#3059
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
+~
+6232 8 1000 0 E
+17 3 0 5d6+225 3d3+13
+2500 30000 0
+8 8 1 0
+BareHandAttack: 10
+E
+#3060
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+A big, strong, helpful, trustworthy guard.
+~
+6216 8 1000 0 E
+10 10 1 1d12+123 1d8+5
+500 9000 0
+8 8 1 0
+E
+#3061
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+What a tough job he has.
+~
+2120 0 800 0 E
+1 20 9 2d6+10 1d5+0
+34 100 0
+8 8 1 0
+E
+#3062
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The fido is a small dog that has a foul smell and pieces of rotted meat
+hanging around his teeth.
+~
+65768 32768 0 0 E
+0 20 10 1d6+4 1d4+0
+0 25 0
+8 8 1 0
+BareHandAttack: 4
+E
+#3063
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+He looks pretty mean, and you imagine he'd do anything for money.
+~
+2058 0 0 0 E
+5 15 5 2d6+60 1d6+1
+87 900 0
+8 8 1 0
+E
+#3064
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+10 0 400 0 E
+2 19 8 2d6+22 1d6+0
+53 200 0
+8 8 1 0
+E
+#3065
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The beggar looks like she is fed up with life.
+~
+8 0 400 0 E
+1 20 9 2d6+10 1d5+0
+0 100 0
+8 8 2 0
+E
+#3066
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The odif is a small god that has been reversed by some dog.
+~
+65768 32768 0 0 E
+0 20 10 1d6+4 1d4+0
+0 25 0
+8 8 1 0
+BareHandAttack: 4
+E
+#3067
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+A big, strong, helpful, trustworthy guard.
+~
+6218 0 1000 0 E
+10 10 1 1d12+123 1d8+5
+500 9000 0
+8 8 1 0
+E
+#3068
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+A horrid looking thing; it is huge, greenish, and looks like the blob.
+~
+256216 8 0 0 E
+20 0 0 1d11+325 3d6+5
+1000 40000 0
+8 8 0 0
+BareHandAttack: 6
+E
+#3069
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+#3089
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+As you look at him, he opens his hands to reveal a rat!
+~
+26634 0 1000 0 E
+10 10 1 1d1+30000 20d4+10
+500 9000 0
+8 8 1 0
+E
+#3090
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+14 0 0 0 E
+1 20 9 1d6+11 1d4+0
+0 100 0
+8 8 0 0
+BareHandAttack: 8
+E
+#3091
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+14 0 0 0 E
+1 20 9 1d6+13 1d4+0
+0 125 0
+8 8 0 0
+BareHandAttack: 8
+E
+#3092
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The beagle looks like a fierce fighter.
+~
+14 0 0 0 E
+2 19 8 1d12+22 1d6+0
+0 200 0
+8 8 0 0
+BareHandAttack: 4
+E
+#3093
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+14 0 0 0 E
+3 18 7 1d12+35 1d7+0
+0 800 0
+8 8 0 0
+BareHandAttack: 4
+E
+#3094
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+The wolf looks like a strong, fearless fighter.
+~
+14 0 0 0 E
+4 17 6 1d12+47 1d8+0
+0 1600 0
+8 8 0 0
+BareHandAttack: 4
+E
+#3095
+Delete Mob~
+Delete Mob~
+Delete Mob
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+26634 32808 900 0 E
+33 0 -10 1d1+30000 2d8+32
+0 0 0
+8 8 2 0
+E
+$

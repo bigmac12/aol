@@ -1,0 +1,700 @@
+#12800
+hatori greater dragon small~
+a young, greater hatori~
+A young, greater hatori pounces towards you in attack.
+~
+   Sand and pebbles fly in every direction as what at first appeared to be a
+slightly unusual rock formation rises up in the air over top of you.  This
+greater hatori is nearly one hundred and sixty feet long and its skin appears
+to be covered with rocks and boulders giving the impression of an oncoming
+landslide as it pounces towards you.  These beasts are known to lie in wait in
+desert areas for an unsuspecting traveller to come and rest near it.  Guess you
+shouldn't have rested here.    
+~
+8120350 235582634 206571008 0 E
+28 2 -12 3d33+3000 6d7+10
+1700 175000 8
+8 8 1 0
+E
+T 12800
+T 12807
+T 12801
+T 12803
+T 12804
+#12801
+madman panic striken~
+a panic striken madman~
+A panic striken madman runs past you quickly.
+~
+   Some horrible event has obvious happened to this disheveled and dirty man.
+The tattered remains of his clothing look as if they were once parts of a rich
+merchant's attire.  The expression on his face is one of absolute horror and
+fear.  All of his movements are at a full speed run as if he is trying to
+escape from something.    
+~
+1048712 131072 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 0
+8 8 1 0
+E
+T 12809
+#12802
+scorpion black large~
+a large black scorpion~
+A large, black scorpion backs away slightly as you approach.
+~
+   This scorpion is nearly three feet long and the massive stinger protuding
+from its arched tail looks as if it can punch right through your armor.  A
+clear drop of liquid hangs from the very tip of its stinger.  Two pincher claws
+snap together in your general direction warning you to keep your distance.    
+~
+1054733 427008 0 0 E
+23 6 -7 3d33+650 3d8+8
+0 52000 4
+8 8 0 9
+BareHandAttack: 1
+E
+#12803
+shaman nomad dark cloth~
+a nomad shaman~
+A nomadic shaman sits here entirely covered by dark cloth
+~
+   No skin is visible beneath the black clothing wrapped around this woman but
+a few strands of her long, coal black hair wave back and forth in the breeze.
+She makes no movement nor sound as you approach her, it is almost like she is
+totally unaware of your existance.  As you get closer you begin to hear a
+series of soft sighs coming from her, then it dawns on you that she is asleep.
+  
+~
+540680 33731616 83951616 0 E
+21 8 -5 3d33+450 3d8+7
+1145 33500 2
+4 4 2 0
+BareHandAttack: 13
+E
+#12804
+shah snake hood hooded~
+the shah~
+A shah sits here with its forked tongue flicking at you warily.
+~
+   This snake is about six feet long and has a hooded head.  Its coppery brown
+coloration helps it blend in quite well with the surrounding desert.  Usually
+these beasts are not very aggressive but they will take any opportunity that
+they come across just as all desert creatures must do to survive.  These snakes
+are known world wide for their deadly poison.    
+~
+1052685 34505768 0 0 E
+21 8 -5 3d33+450 3d8+7
+0 33500 0
+8 8 0 9
+BareHandAttack: 4
+E
+#12805
+lion starved desert~
+a starved lion~
+A starved desert lion leaps at you in an effort to gain a meal.
+~
+   This lion is large and strong but there is no fat on it, in the desert fat
+does you no good.  The abscense of fat makes the lion's ribs stick out very
+noticably.  Ever hungry, this creature like all other beasts who have learned
+to survive in the desert wont pass up the opportunity for a meal and when you
+walked it so did the beasts opportunity.    
+~
+3213433 33993768 0 0 E
+24 6 -8 3d33+750 4d6+8
+0 68000 0
+8 8 1 8
+BareHandAttack: 9
+E
+T 12806
+#12806
+ant fire red~
+a red fire ant~
+A red fire ant marches towards you with an aggresive attitude.
+~
+   This red fire ant is about a foot long.  The 2 tentacles on top of its head
+quiver angrily at you and its eyes fix you with a stare that makes it clear
+that this ant is not happy that you disturbed its hiding place.  Thick, bony
+plates cover this ants entire body.    
+~
+522296 33817640 0 0 E
+16 11 0 3d20+320 3d6+4
+0 11000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#12820
+Talasha Tal mercenary commander~
+Talasha, the Mercenary Commander~
+Commander Talasha wanders about the campsite, conversing with her captains.
+~
+   Regal, lithe, confident, and charismatic are terms one could associate with
+this woman.  Her long chestnut-brown hair is worn tied up in a bun upon her
+head.  She wears heavier armor which is suited to her penchant for charging
+into battle at the head of her men.  She has had to be very strong and capable
+in order to get so many men to follow her.  Each and every soldier under her
+command would gladly give up his life if she commanded it.    
+~
+3340312 40 0 0 E
+24 6 -8 3d33+950 4d6+8
+1300 68000 3
+8 8 2 0
+BareHandAttack: 15
+E
+T 12820
+T 12822
+#12821
+footman mercenary dressed light chain lightly armored~
+a lightly armored footman~
+A mercenary dressed in light chain armor wanders around off-duty, bottle in his hand.
+~
+   This man appears to be in his later twenties, and has a certain unnatural
+happiness about him.  His cheeks and his nose are flushed red, and his gaze and
+footing are both rather unsteady.  The bottle in his hand offers some small
+explanation of how he has found himself in this state.  He looks at you,
+smiles, and brings the bottle up to his lips, taking a drink while raising his
+other arm in awkward salute.    
+~
+24584 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#12822
+Tabarre tab lieutenant handsome slender young fellow friendly smile~
+Lieutenant Tabarre~
+A handsome, slender young fellow walks about on his patrol with a friendly smile.
+~
+   Lieutenant Tabarre is rather young, perhaps only in his early twenties.  He
+has advanced through the ranks of the mercenaries rather quickly with his
+charismatic presence and personal charm.  He also, as the saying goes, "Knows
+which side his bread is buttered on," as he spends much of his off-duty time
+with the commander, and over the years, the two have forged a bond that goes
+beyond profession or friendship.  Tabarre is very handsome and athletic.    
+~
+1499160 33554432 0 0 E
+20 8 -4 3d20+440 3d7+6
+1700 25000 0
+8 8 1 0
+BareHandAttack: 3
+E
+T 12821
+T 12823
+#12823
+archer patrolling dressed light chainmail white blue tabard~
+a patrolling archer~
+An archer dressed in light chainmail with a white and blue tabard patrols the area.
+~
+   Long and lean, this young man has an aire of confidence about him that is
+the unmistakable mark of one with confidence and pride in his abilities.  He
+strolls leisurely around the pallisade walls, looking up and around every now
+and then.  His stride is broad, as is the grin on his face when he notices you
+looking at him.  He nods his head, and then resumes his patrol route.    
+~
+61448 131072 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 1 0
+BareHandAttack: 11
+E
+#12824
+archer mercenary blue white tabard~
+a mercenary archer~
+An archer in a blue and white tabard patrols the upper walls of the pallisade.
+~
+   This young lady is dressed in fairly light armor, suiting to her position in
+the mercenary army as an archer.  A light helm of steel rests upon her head,
+with a graceful blue-dyed plume trailing down from it.  Her tabard is white
+with blue edging, and bears the insignia of the mercenary unit.  Resplendant in
+fine-quality chainmail, she patrols the upper walls, though walks with some
+absence of care, not expecting danger to present itself.    
+~
+1073178 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 2 0
+BareHandAttack: 11
+E
+#12825
+captain stout mercenary~
+a stout mercenary captain~
+A stout mercenary captain barks orders, training his men how to use the voulge.
+~
+   This rather stout and bulky older man is red in the face, training a few raw
+recruits in how to properly use the voulge, a variety of polearm.  He shouts
+orders to them, and sputters with frustration as time and time again they
+manage to get it wrong.  He stops shouting as you pass through the area, the
+look of impatience turning to murderous rage.  He folds his arms over his broad
+chest and waits for you to get out of the way.    
+~
+1105930 0 0 0 E
+22 7 -6 3d33+550 3d8+7
+1100 40000 0
+8 8 1 0
+BareHandAttack: 16
+E
+#12826
+recruit raw~
+a raw recruit~
+A raw recruit fumbles with his weapon, face paling noticeably as he is screamed at.
+~
+   This fresh-faced young man may have once thought very highly of himself.  
+Certainly, he thought highly enough of his abilities that he decided to make
+his living as a mercenary.  From the look in his face, that confidence appears
+to be nearly gone, and now he look snear the edge of tears.  However, as you
+approach, he stiffens his resolve and starts trying even harder to impress you,
+and his captain.    
+~
+24586 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+BareHandAttack: 11
+E
+#12827
+mercenary soldier young nervously standing attention~
+a young mercenary soldier~
+Standing nervously at attention is a young mercenary soldier, shaking in his boots.
+~
+   This young man appears rather paralyzed with fear, not on the battlefield,
+but in the training yard.  He has dropped his weapon on the ground, and the
+look he has just received from the captain has made him far too nervous to
+chance picking it up again.  He stands, shaking slightly, awaiting whatever
+punishment the captain's stern mind can concoct.    
+~
+24586 0 0 0 E
+14 12 2 6d8+240 2d8+4
+200 7000 0
+8 8 1 0
+E
+#12828
+mercenary gangly tall ill-fitting armor~
+a gangly mercenary in ill-fitting armor~
+A tall and gangly mercenary practices with ease despite his ill-fitting armor.
+~
+   This man is maybe six and a half feet tall, but from the appearance of
+things, he's lucky if he weighs a hundred pounds.  He is incredibly skinny, and
+also very pale, looking slightly anemic.  This sad appearance is only worsened
+by the armor he is wearing, which is far too large and threatens to fall onto
+the ground any moment.  Despite this, he appears to be the most capable of the
+new cadets; a fact not lost upon his captain.    
+~
+28682 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 16
+E
+#12829
+mercenary footman~
+a mercenary footman~
+A mercenary footman patrols the area, keeping an eye out for trouble.
+~
+   This stout young man is dressed in the armor and uniform of his mercenary
+unit, patrolling the area with a very serious look to his face.  Were it not
+for his uniform, he might be mistaken for a Solamnic knight, such is his
+discipline and seriousness.  He stops in his tracks as he notices you, sizing
+you up before continuing on his way.    
+~
+1079304 0 0 0 E
+21 8 -5 3d33+450 3d8+7
+1100 33500 3
+8 8 1 0
+BareHandAttack: 3
+E
+#12830
+Burm Fucko loutish oaf unusually large size questionable intelligence~
+Burm~
+A loutish oaf of unusually large size and questionable intelligence scratches his head.
+~
+   This man is easily six and a half feet tall, and his imposing, muscled frame
+gives him the appearance of one who could easily pull the head off of a sheep
+if so inclined.  There is a distant look in his eyes though: the look of an
+idiot, one lost completely in his own world.  Though named Burm by his loving
+mother, he has gained another, crueller nickname amongst his fellows.  He looks
+at you blankly, and then asks if you have brought him a monkey.  He seems
+disappointed that you haven't.    
+~
+1073228 0 0 0 E
+20 8 0 3d20+550 3d8+6
+100 25000 3
+8 8 1 0
+E
+T 12830
+#12832
+grasshopper large~
+a large grasshopper~
+A large grasshopper leaps through the grass, passing within inches of your face.
+~
+   Grasshoppers have been the bane of farmers for as long as there has been
+such a thing as a farmer.  They eat grass and grain, leaving fields decimated
+in their wake.  Alone, a grasshopper isn't much of a threat at all.  
+Unfortunately, grasshoppers are *never* found alone, but rather in huge packs.
+You've noticed this one.  The sounds around you would indicate there are more
+nearby somewhere.    
+~
+168 852992 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 0 0
+BareHandAttack: 4
+E
+#12838
+mercenary fat old slovenly laughing~
+a fat old mercenary~
+A fat and slovenly old mercenary laughs uproariously between fistfuls of food.
+~
+   This fat older mercenary barely fits into his unkempt uniform, which looks
+suspiciously like two uniforms sloppily sewn together.  He sits near the fire
+with his friend, eating like a pig and laughing uproariously at all his
+friend's jokes.  Bits of food have landed in his beard and on his uniform, and
+sit there, unchecked.  Charming as this seems at first, it begins to grow very,
+very old very, very quickly.    
+~
+96286 0 0 0 E
+21 8 -5 3d33+450 4d8+7
+1000 33500 3
+6 6 1 0
+BareHandAttack: 5
+E
+T 12838
+#12839
+veteran mercenary bitter old~
+a bitter old mercenary veteran~
+A bitter old veteran sits with his friend, making fun of the new recruits.
+~
+   This old soldier sits here upon a log, drinking heavily and shouting
+obscenities at the new recruits who run by on errands from the mercenary
+commanders.  His grey hair is thin and tangled, looking like it hasn't been out
+from under a helmet in many years.  His boots are shiny and new, looking like
+they have been recently shone, likely by some unfortunate young recruit.  He
+spits, he drinks, and he has a good time, usually at others' expense.    
+~
+1110046 0 0 0 E
+22 7 -6 3d33+550 3d8+7
+1100 40000 0
+6 6 1 0
+BareHandAttack: 3
+E
+T 12839
+#12860
+gidyish gidy gid stocky gnome red hair beard~
+Gidyishamforitolisieah Whistleoopser~
+A stocky gnome with red hair and beard, sits here poring over pieces of parchment.
+~
+   The stocky gnome sits on a stump of a tree.  He glances over the parchments
+before him, tugging on his fiery red beard every now and then.  His mouth seems
+to be constantly moving, but no sound escapes from his lips.  Occassionaly he
+grabs a peculiar looking machine and dabs it in the inkwell beside him.  He
+twirls the device lazily, getting much of the ink on himself rather than the
+parchment.    
+~
+1048586 1024 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 1 0
+E
+T 12860
+#12861
+bizzy biz violet female gnome outlandishly bizzycognitova wheelwrightworksmith~
+Bizzycognitova Wheelwrightworksmith~
+A violet eyed female gnome dressed outlandishly watches over the testing.
+~
+   A violet eyed female gnome is here watching over the tests on the
+gnomeflingers.  She is dressed in an odd assortment of colored clothing.  
+Splashes of orange, pink, purple, and green make up her appearance.  A set of
+goggles rest on top of her head, threatening to fall off.  Her face is covered
+in dirt and grime due to the many hours of work outdoors.    
+~
+10 1024 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 2 0
+E
+T 12862
+#12862
+gnome young worker~
+a gnome worker~
+A young gnome rushes to and fro, keeping busy with various errands.
+~
+   A young gnome walks about in a hurried fashion as he tries to keep himself
+busy.  Although the gnome seems to be busy, he has no true job, but rather
+works on anything that is required of him at the time.  He has a few tools
+shoved into his belt, but more often than not, he is picking up whatever he
+needs from the many number of tools that lay unattended in the clearing.    
+~
+72 1024 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 1 0
+E
+#12863
+stocky gnome worker~
+a stocky gnome worker~
+A stocky gnome worker stands here, cutting and measuring lumber.
+~
+   The stocky gnome seems to be measuring each piece of lumber with great care.
+He is immersed in his work and pointedly ignores everything that is going on
+around him.  While he is working, his lips move as he silently talks to
+himself.  His beard is extremely uneven, no doubt due to it getting in the way
+of his cutting.    
+~
+74 1024 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+E
+#12864
+busy gnome worker~
+a busy gnome worker~
+A gnome worker rushes about the area busily.
+~
+   The gnome rushes about the area, keeping busy.  He wears blue overalls over
+a green shirt like all the other workers.  The pockets of the overalls are
+filled with measurers, writing utensils, and a few brushes.  Sweat pours down
+from the gnome's head in buckets, but he doesn't seem to mind.  He works
+dilligently, talking quickly to himself about how one or another of his
+inventions can be improved.    
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 1 0
+E
+#12865
+black crow bird~
+a black crow~
+A black crow squacks in surprise as you fly past it.
+~
+   Flying through the air, the last thing this crow expected is to see you
+soaring through the air beside it.  Caught completely by surprise, the crow
+lets out a series of loud squacks as if by squacking at you, you may leave it
+alone.  The crow's body is covered in dark feathers that are currently ruffled
+because of the crow's agitation.    
+~
+8 0 0 0 E
+3 18 12 1d1+50 1d1+1
+0 50 0
+8 8 1 0
+E
+#12870
+corporal elven elf silvanesti border patrol male~
+a male elven corporal~
+A corporal in the Silvanesti Border Patrol glances at you with a fierce scowl.
+~
+   This elven man's pale skin is offset slightly by his light blond hair and
+hazel eyes which stare at you in a manner that makes it very clear that you
+should not be here.  He has been entrusted with keeping this part of the
+Silvanesti border secure and free from interlopers.  Slenderly built, he moves
+with a very natural grace and ease.    
+~
+1572958 164896 640 600 E
+21 8 -5 3d33+450 3d8+7
+989 33500 6
+8 8 1 0
+E
+#12871
+corporal elven elf silvanesti border patrol female~
+a female elven corporal~
+A corporal in the Dilvanesti Border Patrol glances at you, narrowing her eyes fiercely.
+~
+   This lady is strikingly beautiful.  Her long, white hair cascades in a most
+alluring way across her shoulders down onto her back.  She stands before you
+looking like a vision until you notice the look on her face which makes it
+obvious that she is not someone to be trifled with having had to earn her
+position in the Silvanesti Border Patrol by working hard for it.    
+~
+1572958 132128 2628 600 E
+21 8 -5 3d33+450 3d8+7
+1011 33500 5
+8 8 2 0
+E
+#12872
+scout elven silvanesti border patrol~
+an elven scout~
+A scout in the Silvanesti Border Patrol stands here.
+~
+   Being the newest person assigned to this watchpost means that this young elf
+is the one usually sent to run all the errands and tend to all the mundane
+trivial tasks that need tending too.  His light, golden colored hair is closely
+cropped to his head making him appear much younger then he really is.  As he
+walks past you on some errand or another he casually glances towards you with a
+look like that of someone trying to figure out if you belong here or not.    
+~
+1576988 132128 273 700 E
+17 10 -1 3d20+340 3d6+5
+598 11800 6
+8 8 1 0
+E
+#12873
+scout elven silvanesti border patrol~
+an elven scout~
+A scout in the Silvanesti Border Patrol stands here.
+~
+   Being the newest member of this watchpost and a female means that this elven
+lass is the one usually tending to the cooking and cleaning.  Although she
+looks very young there is a glint in her eyes that gives you a brief feeling of
+all the years that she has watched come and go.  She pauses as she walks past
+trying to figure out if she should report your presence here to the post
+corporal or not.    
+~
+1575068 132128 1098 700 E
+18 11 -2 3d20+380 3d6+6
+700 14000 5
+8 8 2 0
+E
+#12874
+scout sleeping off duty elven~
+an off duty elven scout~
+An off duty elven scout is sleeping here.
+~
+   At first glance this elven man seems to be laying awake on the floor looking
+at you but it quickly becomes apparent as soft sighing sounds repeatedly leave
+his lips that he is deep asleep.  He has probably just finished up a long shift
+on watch here or some other arduous task.    
+~
+1048602 132128 0 700 E
+16 11 0 3d20+320 3d6+4
+527 11000 3
+4 4 1 0
+E
+#12875
+scout elven duty~
+an off duty elven scout~
+An off duty elven scout sits here playing a card game.
+~
+   This elf sits here playing some sort of card game idly wasting the last few
+hours before he is required to report for his shift on watch.  He pays you no
+attention when you enter instead he seems intently focused on his card game.  
+
+~
+1050654 132128 0 1000 E
+16 11 0 3d20+320 3d6+4
+572 11000 3
+6 6 1 0
+E
+#12876
+scout elven alert silvanesti border patrol~
+an alert elven scout~
+An alert elven scout in the Silvanesti Border Patrol stands here keeping watch.
+~
+   This elven woman glancs at you and then quickly returns her gaze to the road
+she has been assigned to watch.  Her long white hair has been woven in to a
+fine braid that runs straight down the center of her back.    
+~
+1050714 132128 0 700 E
+17 10 -1 3d20+340 3d6+5
+604 11800 0
+8 8 2 0
+E
+#12877
+scout elven alert silvanesti border patrol~
+an alert elven scout~
+An alert elven scout in the Silvanesti Border Patrol stands here keeping watch.
+~
+   This elven woman glancs at you and then quickly returns her gaze to the road
+she has been assigned to watch.  Her long white hair has been cropped short
+making her pointed ears seem to stick out far from the side of her head.    
+~
+1575002 132096 1090 700 E
+18 11 -2 3d20+380 3d6+6
+0 14000 5
+8 8 2 0
+E
+#12892
+lemur angry ring-tailed~
+an angry lemur~
+A growling ring-tailed lemur leaps out at you angrily.
+~
+   Matted grey fur thick with dirt and grime coats the back of this tormented
+lemur.  A thick froth drips from its mouth as it growls savagely.  Its face and
+body twitches wildly and unnatural, obviously suggesting this animal has been
+overcome with a disease.    
+~
+110 524288 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 6
+8 8 0 0
+BareHandAttack: 10
+SkinData0: 12892
+E
+#12893
+bear cub brown~
+a bear cub~
+A small brown bear cub sleeps in the short grasses.
+~
+   Covered in the soft fur of a infant animal, this bear cub is quite young.  
+It looks quite healthy, not appearing as an infant who has been abandoned.  
+The cub's fur is light brown, slowly darkening from is backside down.  A small
+patch of fur is missing from its right hindleg, it appears to be a bite wound.
+  
+~
+74 0 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 3
+4 4 0 0
+BareHandAttack: 9
+E
+#12895
+green anole~
+a green anole~
+A green anole silently clings to a nearby tree.
+~
+   As it keeps its ever alert eyes on the forest around, this green anole seeks
+small insects to eat.  It clings to trees, nimbly pursuing potential dinner or
+avoiding hazards.  The thin body ends in a long tail, and a stripe of brown runs
+down its spine.    
+~
+65608 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 0 0
+BareHandAttack: 4
+E
+#12896
+toad fat brown~
+a fat toad~
+A fat brown toad attempts to hide itself within foliage.
+~
+   This toad endlessly attempts to cover itself with foliage, but its struggle
+is in vain, for its fat, warty body refuses to be covered completely.  It has
+an advantage, for its brown color provides a blend with the dirt and dead
+leaves on the ground.    
+~
+65612 0 0 0 E
+2 19 14 1d3+12 1d5+1
+0 13 3
+8 8 0 0
+E
+#12898
+delete~
+a rugged-looking man with long, dirty hair~
+delete me
+~
+It looks unfinished.
+~
+1075226 262144 0 333 E
+16 11 0 3d20+320 3d6+4
+476 11000 6
+8 8 2 0
+BareHandAttack: 13
+E
+#12899
+druid hair honey color~
+a meditating druid~
+A druid with hair of honey color is meditating within the circle of stones.
+~
+   With hair the color of honey, this druid meditates quietly.  Her words are
+softly spoken and under her breath, allowing her to recite and meditate over
+her skills.  Her face is marred with no blemishes, a true reflection of elvish
+beauty.  Even her wild hair, which flows down her back like silk, is pleasing
+to the eye.    
+~
+524362 0 512 0 E
+5 17 11 2d5+65 2d5+0
+20 85 5
+6 6 2 0
+BareHandAttack: 13
+E
+$

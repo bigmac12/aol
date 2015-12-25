@@ -1,0 +1,122 @@
+CircleMUD v3.0 Shop File~
+#2816~
+2824
+2825
+2826
+2828
+2879
+2880
+-1
+1.40
+0.75
+19
+17
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+2810
+0
+2816
+-1
+0
+28
+0
+0
+1
+38
+#2817~
+2817
+2816
+2815
+-1
+1.25
+0.50
+5
+9
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I've no interest in that particular type of item.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+2811
+0
+2817
+-1
+6
+18
+6
+18
+1
+38
+#2843~
+2822
+2826
+-1
+1.25
+0.50
+2
+3
+4
+10
+0
+-1
+%s Hmm, I seem to have run out....~
+%s When you actually get one come back eh?~
+%s I don't trade in such items.~
+%s I fear I've no need for that~
+%s Ah, dear, have you been to the slums? You seem to be the type...~
+%s %s is your price, here you go~
+%s I'll give you %s for it!~
+0
+0
+2818
+0
+2843
+-1
+1
+22
+1
+22
+1
+38
+#2844~
+2829
+2827
+-1
+1.25
+0.50
+11
+9
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+2819
+0
+2844
+-1
+6
+23
+6
+23
+1
+38
+$~

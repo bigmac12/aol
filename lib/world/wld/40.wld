@@ -1,0 +1,1508 @@
+#4000
+A Stony Path in the Mountains~
+   A narrow, rocky path leads off in a westerly direction.  It is only wide
+enough for two or three people to stand abreast.  The mountains loom up to
+great heights on either side of the path.  Loose rocks cover the ground and
+occasionally more fall from above.  A small warped tree tries to grow in the
+gully, however, its branches appear to be dying from lack of water.    
+~
+40 0 5 0 0
+D7
+~
+~
+0 0 7013
+D8
+~
+~
+0 0 4001
+S
+#4001
+A Rocky Path~
+   This rocky path leads off in a westerly direction.  It is only wide enough
+for two or three people to walk abreast.  The mountains rise almost straight up
+on both sides.  There is no way anyone could climb up out of this gully.  The
+floor of the gully is littered with fallen stones, and more could fall at any
+moment.  The wind whistles through here making an eerie howling sound.    
+~
+40 0 5 0 0
+D3
+~
+~
+0 0 4002
+D7
+~
+~
+0 0 4000
+S
+#4002
+A Rocky Path~
+   This rocky path leads off in a westerly direction.  It is only wide enough
+for two or three people to walk abreast.  The mountains rise almost straight up
+on both sides.  There is no way anyone could climb up out of this gully.  The
+floor of the gully is littered with fallen stones, and more could fall at any
+moment.  The wind whistles through here making an eerie howling sound.    
+~
+40 0 5 0 0
+D1
+~
+~
+0 0 4001
+D3
+~
+~
+0 0 4003
+S
+#4003
+A Rocky Path~
+   This rocky path leads off in a westerly direction.  It is only wide enough
+for two or three people to walk abreast.  The mountains rise almost straight up
+on both sides.  There is no way anyone could climb up out of this gully.  The
+floor of the gully is littered with fallen stones, and more could fall at any
+moment.  The wind whistles through here making an eerie howling sound.    
+~
+40 0 5 0 0
+D1
+~
+~
+0 0 4002
+D6
+~
+~
+0 0 4004
+S
+#4004
+A Widening Path~
+   The path gets a bit wider here.  The mountains on either side of the path
+rise up beyond sight.  A small jagged outcropping hangs over the path to the
+northwest.  Someone on that outcropping could see anyone coming down this
+gully.  The wind continues to whistle through the gully, making it hard to hear
+anything else.    
+~
+40 0 5 0 0
+D6
+~
+~
+0 0 4005
+D9
+~
+~
+0 0 4003
+E
+outcropping~
+   An outcropping of rock hangs out over the path just ahead.  One scraggly
+tree desperately clings to life on the edge of the mountainside.    
+~
+S
+#4005
+A Widening Path~
+   The path continues to get wider.  The mountains on either side of the path
+rise up beyond sight.  A small jagged outcropping hangs over the path right
+above you.  Someone on that outcropping could see anyone trying to travel
+through this gully.  The wind continues to whistle through the gully, making it
+hard to hear anything else.    
+~
+40 0 5 0 0
+D3
+~
+~
+0 0 4006
+D9
+~
+~
+0 0 4004
+E
+outcropping~
+   The outcropping of rock hangs out above your head.  It would be a perfect
+spot to place a scout to watch the gully.  One scraggly tree desperately clings
+to life on the edge of the mountainside.  Did it just move?    
+~
+S
+#4006
+A Widening Path~
+   The path continues to get wider.  The mountains on either side of the path
+rise up beyond sight.  A small, jagged outcropping hangs over the path just to
+the east of here.  Someone on that outcropping could see anyone coming through
+this gully.  The wind continues to whistle through the gully, making it hard to
+hear anything else.    
+~
+40 0 5 0 0
+D1
+~
+~
+0 0 4005
+D8
+~
+~
+0 0 4007
+E
+outcropping~
+   An outcropping of rock hangs out over the gully just to the east.  One
+scraggly tree clings to life on the edge of the mountainside.  What looks like
+steps have been carved into the cliff wall leading up to the overhang.    
+~
+S
+#4007
+A Wide Path~
+   As the path winds down out of the mountains, it continues to get wider.  
+The mountains become less steep, and the travel is much easier.  A little to
+the west is a pine filled valley.  The ground is sparsely covered with grass
+and moss.  The wind is not nearly so strong here and the sounds of the forest
+can be faintly heard.    
+~
+40 0 4 0 0
+D3
+~
+~
+0 0 4008
+D6
+~
+~
+0 0 4054
+D7
+Nothing.
+~
+~
+0 0 4006
+S
+#4008
+A Wide Path~
+   As the path winds down out of the mountains, it continues to get wider.  
+The mountains become less steep, and the travel is much easier.  A little to
+the west is a pine filled valley.  The ground is sparsely covered with grass
+and moss.  The wind is not nearly so strong here and the sounds of the forest
+can be heard easily.    
+~
+40 0 4 0 0
+D1
+~
+~
+0 0 4007
+D3
+~
+~
+0 0 4009
+D7
+~
+~
+0 0 4054
+S
+#4009
+The Opening of the Valley~
+   The gully opens suddenly into a large valley nestled in the mountains.  A
+path descends steeply to the valley floor.  The pine trees that cover this side
+of the valley, seem to thin out to the far west.  On the far northern slope of
+the mountains which lie far to the south, a waterfall plunges down below the
+tree tops.  The sound of the waterfall is like a distant rumble.    
+~
+40 4 3 0 0
+D0
+~
+~
+0 0 4048
+D1
+~
+~
+0 0 4008
+D3
+~
+~
+0 0 4010
+D6
+~
+~
+0 0 4011
+D8
+~
+~
+0 0 4012
+E
+waterfall~
+   The waterfall flows from the tops of the mountains out of site below the
+tree tops.  A small rainbow can be seen where the sunlight hits the spray of
+the water.    
+~
+S
+#4010
+The Valley Floor~
+   This looks to be a fairly new pine forest.  Most of the trees are less than
+20 feet tall.  Witch's hair hangs from the branches and moss grows up the north
+face of the trunks.  There are small bushes scattered throughout the woods,
+vying for the sunlight.  The ground is soft and springy here due to the moss
+that covers most of the area.  Pine needles that have fallen off the trees also
+cover the entire area.  The sounds of birds and other woodland creatures echo
+throughout the woods.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4011
+D1
+~
+~
+0 0 4009
+D2
+~
+~
+0 0 4012
+D3
+~
+~
+0 0 4015
+S
+#4011
+The Valley Floor~
+   This looks to be a fairly new pine forest.  Most of the trees are less than
+20 feet tall.  Witch's hair hangs from the branches and moss grows up the north
+face of the trunks.  There are small bushes scattered throughout the woods,
+vying for the sunlight.  The ground is soft and springy here due to the moss
+that covers most of the area.  Pine needles that have fallen off the trees also
+cover the entire area.  The sounds of birds and other woodland creatures echoes
+throughout the woods.    
+~
+40 0 3 0 0
+D2
+~
+~
+0 0 4010
+D3
+~
+~
+0 0 4014
+D6
+~
+~
+0 0 4013
+D9
+~
+~
+0 0 4009
+S
+#4012
+The Valley Floor~
+   This looks to be a fairly new pine forest.  Most of the trees are less than
+20 feet tall.  Witch's hair hangs from the branches and moss grows up the north
+face of the trunks.  There are small bushes scattered throughout the woods,
+vying for the sunlight.  The ground is soft and springy here due to the moss
+that covers most of the area.  Pine needles that have fallen off the trees also
+cover the entire area.  The sounds of birds and other woodland creatures echoes
+throughout the woods.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4010
+D3
+~
+~
+0 0 4016
+D7
+~
+~
+0 0 4009
+D8
+~
+~
+0 0 4017
+S
+#4013
+In the Forest~
+   The trees start to get a little thicker here.  It is difficult to see deeper
+into the woods.  You can still see the mountains rising up to the north.  To
+the south and west the forest continues.  A thick patch of raspberry bushes
+makes traveling west an impossibility.  The thorns look like they could tear
+through armor.  Small birds alite on the bushes and eat the berries, oblivious
+to the thorns.    
+~
+40 0 3 0 0
+D2
+~
+~
+0 0 4014
+D6
+~
+~
+0 0 4018
+D9
+~
+~
+0 0 4011
+S
+#4014
+In the Forest~
+   The trees start to get thicker here.  It is difficult to see in any
+direction.  Witch's hair hangs from the branches and moss grows up the north
+face of the trunks.  There is a spot on the ground here that looks like a
+bedding area for some kind of animal.  A small game trail heads west, deeper
+into the forest.  The sounds of birds chirping comes from every direction.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4013
+D1
+~
+~
+0 0 4011
+D2
+~
+~
+0 0 4015
+D3
+~
+~
+0 0 4019
+S
+#4015
+In the Forest~
+   The forest gets thicker here.  It is difficult to see anything around you.
+Witch's hair hangs from the branches and moss grows up the north face of the
+trunks.  The ground is soft and springy due to the abundance of moss and pine
+needles that cover the area.  The underbrush also gets thicker here making it
+even more difficult to see and move.  Small thorn bushes snag at your clothes
+and scratch at your face.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4014
+D1
+~
+~
+0 0 4010
+D2
+~
+~
+0 0 4016
+S
+#4016
+In the Forest~
+   The forest gets thicker here.  It is difficult to see anything around you.
+Witch's hair hangs from the branches and moss grows up the north face of the
+trunks.  The ground is soft and springy due to the abundance of moss and pine
+needles that cover the area.  The underbrush also gets thicker here making it
+even more difficult to see and move.  Small thorn bushes snag at your clothes
+and scratch at your face.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4015
+D1
+~
+~
+0 0 4012
+D2
+~
+~
+0 0 4017
+S
+#4017
+In the Forest~
+   The trees start to get a little thicker here.  It is difficult to see deeper
+into the woods.  You can still see the mountains rising up to the south.  To
+the north and west the forest continues.  A thick grove of alder trees makes
+traveling west an impossibility.  The small trees weave together almost like a
+wall.  Small forest creatures make their home in the stand of trees, because it
+offers much needed protection from larger predators.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4016
+D7
+~
+~
+0 0 4012
+D8
+~
+~
+0 0 4022
+S
+#4018
+A Small Game Trail~
+   The forest grows right up to the base of the mountains.  The mountains rise
+up to the north and east making travel in those directions impossible.  A small
+game trail weaves through the forest.  The trail leads deeper into the forest
+to the south and follows the mountains to the west.  There is one large birch
+tree along the trail that has long scratches about ten feet up the trunk.    
+~
+40 0 3 0 0
+D2
+~
+~
+0 0 4019
+D3
+~
+~
+0 0 4024
+D9
+~
+~
+0 0 4013
+E
+large birch tree~
+   Looking closely at the tree, you can see that the scratches were made by an
+animal.  Probably a bear, considering the height of the marks.    
+~
+S
+#4019
+A Small Game Trail~
+   The forest is thick in every direction.  The pine trees grow so close
+together that seeing very far ahead is nearly impossible.  A small game trail
+that weaves through the trees, joins with a side trail here.  The side trail
+heads east, while the main trail goes generally north and south.  A small pile
+of light colored sticks is partially hidden in the underbrush.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4018
+D1
+~
+~
+0 0 4014
+D2
+~
+~
+0 0 4020
+D8
+A pile of sticks.
+~
+sticks stick~
+1 0 4050
+E
+bones~
+   As you dig deeper in the pile of bones, you come across what looks to be a
+spear.  It is crudely made with a stone tip and lashed together with leather
+strips.  It has some kind of carvings on it in a language that appears to be
+goblin.    
+~
+E
+pile sticks stick light~
+   As you look closer at the sticks, you see that they are not sticks at all.
+They are the bones of a rather large woodland creature.    
+~
+S
+#4020
+A Small Game Trail~
+   The trees are thick in all directions.  A small game trail weaves through
+the trees leading north and south.  To the south, through the branches, is what
+looks to be some kind of camp.  A small fire can barely be seen with several
+small humanoids sitting around it.  Every few minutes a sharp gutteral voice
+can be heard coming from the direction of the camp.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4019
+D2
+~
+~
+0 0 4021
+S
+#4021
+A Small Camp~
+   The trees open up to a tiny clearing.  Short grass and moss cover the
+ground.  On the east side of the clearing is a small campfire with a spit.  
+The mountains can be seen to the south rising up above the treetops.  A small
+game trail that weaves through the forest, exits the clearing to the north and
+west.  The smell of cooking meat fills the area as several small animals roast
+over the fire.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4020
+D2
+~
+~
+0 0 4022
+D3
+~
+~
+0 0 4028
+S
+#4022
+The Forest~
+   The forest grows right up to the base of the mountains.  The mountains rise
+up to the south and east making travel in those directions impossible.  To the
+north is a small clearing in the trees and to the west the forest grows
+thicker.  There seems to be a small campfire in the clearing and gutteral
+voices can be heard from time to time.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4021
+D3
+~
+~
+0 0 4030
+D7
+~
+~
+0 0 4017
+S
+#4023
+Along the Base of a Cliff~
+   A small game trail follows the base of the cliff here and to the west.  It
+heads deeper into the forest to the south.  The mountains rise up out of sight
+to the north and the forest continues in all other directions.  From the west,
+a deep rumbling sound can barely be heard.    
+~
+40 0 3 0 0
+D2
+~
+~
+0 0 4024
+S
+#4024
+A Small Camp~
+   The forest is thick in all directions.  A small game trail winds through the
+trees to the north and east.  To the south a larger path can be seen that
+connects with the game trail.  Off to the side of the larger trail are the
+remains of a campfire.  A trickle of smoke can still be seen rising from the
+ashes.  There are several tracks of some humanoid all around the site.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4023
+D1
+~
+~
+0 0 4018
+D2
+~
+~
+0 0 4025
+S
+#4025
+Close to a Clearing~
+   A large path winds through the forest to the north and south.  The trees
+grow very close together to the east, making it impossible to see in that
+direction.  To the west the trees seem to be thinning out somewhat.  There are
+strange, gutteral voices, coming through the trees to the west also.  The
+smells of camp fires and cooking lingers in the air.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4024
+D2
+~
+~
+0 0 4026
+S
+#4026
+Close to a clearing~
+   A large path winds through the forest to the north and south.  The trees
+grow very close together to the east, making it impossible to see in that
+direction.  To the west the trees seem to be thinning out somewhat.  There are
+strange, gutteral voices, coming through the trees to the west also.  The
+smells of camp fires and cooking lingers in the air.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4025
+D2
+~
+~
+0 0 4027
+S
+#4027
+Close to a Clearing~
+   A large path winds through the forest to the north and south.  The trees
+grow very close together to the east, making it impossible to see in that
+direction.  To the west the trees seem to be thinning out somewhat.  There are
+strange, gutteral voices, coming through the trees to the west also.  The
+smells of camp fires and cooking lingers in the air.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4026
+D2
+~
+~
+0 0 4028
+S
+#4028
+Along a Large Path~
+   A large path joins a small game trail here.  The path heads north and south,
+while the game trail leads to a small clearing to the east.  To the west the
+forest seems to thin out a bit.  The forest is very still, with no animal
+sounds whatsoever.  The only noise that can be heard is the occasional gutteral
+sound coming from somewhere deep in the trees.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4027
+D1
+~
+~
+0 0 4021
+D2
+~
+~
+0 0 4029
+S
+#4029
+Deep in the Forest~
+   The forest grows thick all around.  It is difficult to see very far in any
+direction.  There seems to be a pall over this section of the woods, like
+something evil lurks behind every tree.  It is deathly still, and there are no
+forest creatures in sight.  To the east is a small crack in the ground with
+steam rising out of it.    
+~
+40 524288 3 1 0
+D0
+~
+~
+0 0 4028
+D2
+~
+~
+0 0 4030
+E
+small crack steam~
+   Upon closer examination of the crack, you see it appears to be a fissure.  
+A soft, red glow eminates up from deep within the earth.  The steam is actually
+some kind of gas that is escaping.  It smells like rotting eggs.    
+~
+S
+#4030
+Deep in the Forest~
+   The forest is very thick here.  The trees grow close together.  
+Entertwining branches, makes it hard to move around.  A small, shallow pool of
+slimy water is almost hidden in the trees.  To the south you can see the
+mountains rise above the treetops.  In all other directions you can only see
+more trees.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4029
+D1
+~
+~
+0 0 4022
+D2
+~
+~
+0 0 4031
+E
+small shallow pool~
+   Upon closer examination of the area around the pool, you can see humanoid
+footprints in the mud.  There are also several small birds that are lying dead
+on the ground.    
+~
+S
+#4031
+Along the Mountain Cliffs~
+   The forest grows right up to the side of the mountain cliff here.  The
+mountains rise up to the south and east beyond sight.  To the north and west
+the forest gets thicker.  A small pile of loose rock lies at the bottom of the
+cliff, probably from an avalance from higher up.  There is a faint smell of
+rotten eggs drifting through the trees to the north.    
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4030
+S
+#4032
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4026
+D3
+~
+~
+0 0 4024
+D6
+~
+~
+0 0 4025
+S
+#4033
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D1
+~
+~
+0 0 4035
+D3
+~
+~
+0 0 -1
+D7
+~
+~
+0 0 4034
+D9
+~
+~
+0 0 4068
+S
+#4034
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D2
+~
+~
+0 0 4035
+D8
+~
+~
+0 0 4033
+D9
+~
+~
+0 0 4036
+S
+#4035
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4034
+D1
+~
+~
+0 0 4036
+D2
+~
+~
+0 0 4068
+D3
+~
+~
+0 0 4033
+S
+#4036
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D1
+~
+~
+0 0 4037
+D2
+~
+~
+0 0 4038
+D3
+~
+~
+0 0 4035
+D6
+~
+~
+0 0 4034
+D8
+~
+~
+0 0 4068
+S
+#4037
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D2
+~
+~
+0 0 4039
+D3
+~
+~
+0 0 4036
+D7
+~
+~
+0 0 4040
+D8
+~
+~
+0 0 4038
+S
+#4038
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4036
+D1
+~
+~
+0 0 4039
+D3
+~
+~
+0 0 4068
+D7
+~
+~
+0 0 4037
+S
+#4039
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4037
+D2
+~
+~
+0 0 4042
+D3
+~
+~
+0 0 4038
+S
+#4040
+A Mysterious Cave~
+You are in an unfinished room.
+~
+40 1 0 0 0
+D6
+~
+~
+0 0 4041
+D8
+~
+~
+0 0 4037
+S
+#4041
+Deeper Into a Mysterious Cave~
+You are in an unfinished room.
+~
+40 1 0 0 0
+D9
+~
+~
+0 0 4040
+S
+#4042
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4039
+D2
+~
+~
+0 0 4043
+D8
+~
+~
+0 0 4044
+S
+#4043
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4042
+D2
+~
+~
+0 0 4045
+D3
+~
+~
+0 0 4044
+D8
+~
+~
+0 0 4047
+D9
+~
+~
+0 0 4046
+S
+#4044
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D1
+~
+~
+0 0 4043
+D7
+~
+~
+0 0 4042
+S
+#4045
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D0
+~
+~
+0 0 4043
+D1
+~
+~
+0 0 4046
+D3
+~
+~
+0 0 4047
+S
+#4046
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D3
+~
+~
+0 0 4045
+D6
+~
+~
+0 0 4043
+S
+#4047
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D1
+~
+~
+0 0 4045
+D3
+~
+~
+0 0 4048
+D7
+~
+~
+0 0 4043
+S
+#4048
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+D1
+~
+~
+0 0 4047
+D2
+~
+~
+0 0 4009
+D8
+~
+~
+0 0 -1
+S
+#4049
+The Forest~
+You are in an unfinished room.
+~
+40 0 3 0 0
+S
+#4050
+A Pleasant Cave~
+You are in an unfinished room.
+~
+40 1 0 0 0
+D2
+~
+~
+0 0 4051
+D3
+~
+~
+0 0 4052
+D7
+A pile of sticks.
+~
+sticks stick~
+1 0 4019
+S
+#4051
+Deeper Into a Pleasant Cave~
+You are in an unfinished room.
+~
+40 1 0 0 0
+D0
+~
+~
+0 0 4050
+S
+#4052
+Deeper Into a Pleasant Cave~
+You are in an unfinished room.
+~
+40 1 0 0 0
+D0
+~
+~
+0 0 4053
+D1
+~
+~
+0 0 4050
+S
+#4053
+Deeper Into a Pleasant Cave~
+You are in an unfinished room.
+~
+40 1 0 0 0
+D2
+~
+~
+0 0 4052
+S
+#4054
+Entering a Graveyard~
+   Two small paths lead to this spot, before the gate to the Palanthas graveyard.
+To the southeast and southwest, game trails lead from the larger labyrinth of
+trails within the forest.  To the north, the gate to the graveyard stands
+between the peaceful warmth of the forest, and the contrasting clammy mists of
+the graveyard.    
+~
+40 68 2 0 0
+D0
+~
+gate north~
+1 0 4055
+D8
+~
+~
+0 0 4008
+D9
+~
+~
+0 0 4007
+S
+#4055
+The Graveyard~
+   An expansive and well maintained graveyard opens up to the north beyond the
+large iron gates which lie to the south.  The lawn is deep green in color and
+has been cut recently.  Grave markers lie at regular intervals within,
+interspersed with larger tombs and monoliths which jut up periodically.  The
+place is quiet and the ground is dew covered.  However, people can be seen
+wandering about, often in quiet contemplation.    
+~
+40 0 2 0 0
+D0
+~
+~
+0 0 4060
+D1
+~
+~
+0 0 4056
+D2
+~
+~
+0 0 4054
+D3
+~
+~
+0 0 4062
+S
+#4056
+The Graveyard~
+   An expansive and well maintained graveyard opens up to the north beyond the
+large iron gates which lie to the south.  The lawn is deep green in color and
+has been cut recently.  Grave markers lie at regular intervals within,
+interspersed with larger tombs and monoliths which jut up periodically.  The
+place is quiet and the ground is dew covered.  However, people can be seen
+wandering about, often in quiet contemplation.    
+~
+40 0 2 0 0
+D0
+~
+~
+0 0 4059
+D1
+~
+~
+0 0 4057
+D3
+~
+~
+0 0 4055
+S
+#4057
+The Graveyard~
+   An expansive and well maintained graveyard opens up to the north beyond the
+large iron gates which lie to the south.  The lawn is deep green in color and
+has been cut recently.  Grave markers lie at regular intervals within,
+interspersed with larger tombs and monoliths which jut up periodically.  The
+place is quiet and the ground is dew covered.  However, people can be seen
+wandering about, often in quiet contemplation.    
+~
+40 0 2 0 0
+D0
+~
+~
+0 0 4058
+D3
+~
+~
+0 0 4056
+S
+#4058
+The Graveyard~
+   The corner of the graveyard here seems somewhat less well travelled as small
+weeds surround some of the older grave markers.  Off to the nortwest stands a
+large monolith and a man can be see near it kneeling in prayer.  Someone has
+been in the area recently as a large group of flowers has been carefully placed
+nearby one of the older tombstones.  Located near the edge of the graveyard,
+this recently visited marker gives the area a sense of brightness in the
+otherwise drab surroundings.    
+~
+40 0 2 0 0
+D2
+~
+~
+0 0 4057
+D3
+~
+~
+0 0 4059
+D6
+~
+~
+0 0 4063
+S
+#4059
+The Graveyard~
+   This section of the graveyard contains the majority of the larger plots and
+many of the ornate family mausoleums.  The gravemarkers here become more
+intricate and extravagant, obviously housing the remains of those that were, in
+life, of higher stations or of wealthy families.  The grounds here are
+well-kept and meticulously maintained, with many of the markers decorated and
+bearing tokens of affection from families and friends.    
+~
+40 0 2 0 0
+D1
+~
+~
+0 0 4058
+D2
+~
+~
+0 0 4056
+D3
+~
+~
+0 0 4060
+S
+#4060
+The Graveyard~
+   This section of the graveyard contains the majority of the larger plots and
+many of the ornate family mausoleums.  The gravemarkers here become more
+intricate and extravagant, obviously housing the remains of those that were, in
+life, of higher stations or of wealthy families.  The grounds here are
+well-kept and meticulously maintained, with many of the markers decorated and
+bearing tokens of affection from families and friends.    
+~
+40 0 2 0 0
+D1
+~
+~
+0 0 4059
+D2
+~
+~
+0 0 4055
+D3
+~
+~
+0 0 4061
+D7
+~
+~
+0 0 4063
+S
+#4061
+The Graveyard~
+   The ground here has been recently disturbed, in preparation for the present
+ceremony taking place.  The grave and marker are simple in fashion and lacking
+any grandious flair, yet they are of obvious quality and appear as though they
+will last a long time, leaving an unassuming reminder of the now freed soul
+that takes it's rest here.  While most of the items from the ceremony have been
+removed and none of the family no longer seem to be present, the gravedigger
+seems to be waiting for something before he finishes the task at hand.    
+~
+40 0 2 0 0
+D1
+~
+~
+0 0 4060
+D2
+~
+~
+0 0 4062
+S
+#4062
+The Graveyard~
+   An expansive and well maintained graveyard opens up to the north beyond the
+large iron gates which lie to the south.  The lawn is deep green in color and
+has been cut recently.  Grave markers lie at regular intervals within,
+interspersed with larger tombs and monoliths which jut up periodically.  The
+place is quiet and the ground is dew covered.  However, people can be seen
+wandering about, often in quiet contemplation.    
+~
+40 0 2 0 0
+D0
+~
+~
+0 0 4061
+D1
+~
+~
+0 0 4055
+S
+#4063
+The Graveyard~
+   In the middle of the graveyard stands a single monolith.  Made from light
+colored marble, the monolith has various scenes carved into its smooth surface.
+These depict images of the great city of Palanthas, as well as images of a
+beautiful woman in various poses and backgrounds.  Flowers have been placed
+about the monolith.  Some are wilting, but many are fresh.    
+~
+40 0 2 0 0
+D5
+A large stone door leads into the monolith.
+~
+door~
+1 0 4064
+D8
+~
+~
+0 0 4060
+D9
+~
+~
+0 0 4058
+S
+#4064
+A Dark Tomb~
+You are in an unfinished room.
+~
+40 262144 0 0 0
+D1
+~
+~
+0 0 4065
+D4
+A large stone door leads upwards.
+~
+door stone~
+1 0 4063
+D9
+~
+~
+0 0 4067
+S
+#4065
+A Dark Tomb~
+   An expansive and well maintained graveyard opens up to the north beyond the
+large iron gates which lie to the south.  The lawn is deep green in color and
+has been cut recently.  Grave markers lie at regular intervals within,
+intersperced with larger tombs and monoliths which jut up periodically.  The
+place is quite and the ground is dew covered.  However, people can be seen
+wandering about, often in quiet contemplation.    
+~
+40 0 0 0 0
+D1
+~
+~
+0 0 4066
+D3
+~
+~
+0 0 4064
+S
+#4066
+A Dark Tomb~
+You are in an unfinished room.
+~
+40 0 0 0 0
+D3
+~
+~
+0 0 4065
+D8
+~
+~
+0 0 4067
+S
+#4067
+A Dark Tomb~
+You are in an unfinished room.
+~
+40 0 0 0 0
+D6
+~
+~
+0 0 4064
+D7
+~
+~
+0 0 4066
+S
+#4068
+A Small Pond~
+You are in an unfinished room.
+~
+40 0 6 0 0
+D0
+~
+~
+0 0 4035
+D1
+~
+~
+0 0 4038
+D5
+~
+~
+0 0 4069
+D6
+~
+~
+0 0 4033
+D7
+~
+~
+0 0 4036
+S
+#4069
+Deeper Down in the Pond~
+You are in an unfinished room.
+~
+40 0 8 0 0
+D4
+~
+~
+0 0 4068
+S
+#4070
+Mob Chute~
+This is my MOB chute.  Neat huh?
+~
+40 0 0 0 0
+D0
+~
+~
+0 0 4017
+D1
+~
+~
+0 0 4023
+D2
+~
+~
+0 0 4035
+D3
+~
+~
+0 0 4044
+D4
+~
+~
+0 0 4004
+D5
+~
+~
+0 0 4019
+D6
+~
+~
+0 0 4025
+D7
+~
+~
+0 0 4038
+D8
+~
+~
+0 0 4046
+D9
+~
+~
+0 0 4014
+S
+#4071
+Mob Chute - Caves~
+You are in an unfinished room.
+~
+40 0 0 0 0
+S
+#4099
+Mikalar's Stone Shop~
+   This spacious room is made entirely of marble.  Huge pillers stand in long
+rows extending to the ceiling.  Intricate frescoes, obviously done by a master,
+decorate the walls.  There is a long workbench lining the eastern wall.  
+Hammers, chisels, and other stonecarving tools hang on the wall behind the
+bench.  A large slab of perfect marble lays on the bench, ready to be worked.
+A three step stone dias is against the northern wall.  A large stone throne
+sits on top of the dias.  Against the western wall lie all of the huge
+stonecutting tools and the huge tongs to pick up the slabs of marble.  There is
+a milky, white dust covering everthing.  A large globe is suspended in the
+center of the room.  It makes the dust almost shine.  There are piles of paving
+stones along the southern wall waiting for the word to send them to their
+destination.    
+~
+40 24 0 0 0
+S
+$~

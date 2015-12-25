@@ -1,0 +1,62 @@
+#2200
+load eq from list #1~
+0 f 100
+~
+eval loadobj %random.5%
+if (%loadobj% ==1) then
+mload obj 2202
+elseif (%loadobj% ==2) then
+mload obj 2209
+elseif (%loadobj% ==3) then
+mload obj 2245
+elseif (%loadobj% ==4) then
+mload obj 2249
+elseif (%loadobj% ==5) then
+mload obj 2251
+else return 1
+end
+~
+#2201
+load from eq list #2~
+0 f 100
+~
+eval loadobj %random.8%
+if (%loadobj% == 1) then
+mload obj 2200
+elseif (%loadobj% == 2) then
+mload obj 2206
+elseif (%loadobj% ==3) then
+mload obj 2209
+elseif (%loadobj% ==4) then
+mload obj 2210
+elseif (%loadobj% ==5) then
+mload obj 2211
+else return 1
+end
+~
+#2202
+pull statue trigger~
+2 c 100
+pull~
+if (%actor.vnum% == -1) then
+if (%arg% != statue) then
+wsend %actor% You do not see that here.
+else
+wait 2s
+wechoaround %actor% %actor.name% slowly pulls the statue away from the wall revealing the faint outline of a door.
+wsend %actor% You slowly pull the statue away from the wall and discover the faint outline of a door.
+wdoor 2265 south flags abcd
+wdoor 2265 south key 2208
+wdoor 2265 south name door
+wdoor 2265 south room 2267 
+wait 30s
+wecho Slowly the statue slides back into place covering the door once again.
+wdoor 2265 south purge
+~
+#2203
+load key for private temple area~
+0 f 100
+~
+mload obj 2208
+~
+$~

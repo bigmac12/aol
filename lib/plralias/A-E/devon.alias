@@ -1,0 +1,55 @@
+3
+bow
+32
+emote does a stern bow before$*.
+1
+6
+arrest
+44
+remove pack;get warrant pack;give warrant $1
+1
+4
+dual
+49
+remove shield;unsheath short scabbard;wear shield
+1
+7
+bashing
+54
+remove shield;sheath short scabbard;wear shield shield
+1
+4
+draw
+23
+unsheath short scabbard
+0
+6
+sheath
+21
+sheath short scabbard
+0
+3
+sol
+54
+emote speaks in a fluent &BSolamnic&n tongue, '&C$*&n'
+1
+4
+soft
+36
+emote says in a soft voice, '&C$*&n'
+1
+6
+search
+43
+l n;l ne;l e;l se;l s;l sw;l w;l nw;l u;l d
+1
+4
+bash
+13
+bash $1;stand
+1
+3
+gac
+18
+get all all.corpse
+0

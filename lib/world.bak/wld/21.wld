@@ -1,0 +1,1803 @@
+#2100
+Entrance to a Cave~
+   You stand outside the mouth of a cave twenty feet high and twice as wide.  
+Light fades to the deepest of blacks not far from where you stand, and a
+strange odor pricks your nose...  The smell of rotting flesh.  The entrance
+seems to be well used, a defined if rugged path plunging into the mouth of the
+seemingly infinitely deep opening.    
+~
+21 4 2 0 0
+D6
+~
+~
+0 0 2101
+D9
+~
+~
+0 0 7169
+S
+#2101
+Inside the Cave~
+   The cave is insurmountably dark, blackness covering you in every direction
+but south, where the cave ends at a wide opening.  Even with your light, you
+cannot see the ceiling nor the walls.  The rank smell of rotting flesh fills
+your nostrils, rolling your stomach with a slight nausea.    
+~
+21 9 0 0 0
+D7
+~
+~
+0 0 2102
+D9
+~
+~
+0 0 2100
+S
+#2102
+Inside the Cave~
+   The cave is insurmountably dark, blackness covering you in every direction
+but south, where the cave ends at a wide opening.  Even with your light, you
+cannot see the ceiling nor the walls.  The rank smell of rotting flesh fills
+your nostrils, rolling your stomach with a slight nausea.  Off in the distance,
+a loud screech of a dying animal echoes throughout the cave.    
+~
+21 9 0 0 0
+D7
+~
+~
+0 0 2103
+D8
+~
+~
+0 0 2101
+S
+#2103
+Inside the Cave~
+   Deep within the cave, you are surrounded by nothing but blackness.  The
+slightly warm, slightly humid draft running through brings powerfully the
+noxious odor of decaying flesh.  The passage is more narrow than at the mouth
+of the cave, and the walls have become visible...  Stained red by crude
+scrawlings in what could only be blood, the smooth surface depicts squat
+figures being tortured and slain in innumerable ways, all equally coldblooded
+and gruesome.  Below the pictures, a precise hand, still using dark blood for
+ink, has lettered a message in an incomprehensible language.    
+~
+21 9 0 0 0
+D7
+~
+~
+0 0 2104
+D8
+~
+~
+0 0 2102
+E
+writing words letters message~
+   The fiery letters are written in a language unbeknownst to you.    
+~
+E
+drawings wall walls drawing pictures picture scrawlings scrawling~
+   The drawings are of brutally violent scenes.  One depicts a headless figure
+being impaled through the chest on a spear.    
+~
+S
+#2104
+Inside the Cave~
+   Deep within the cave, you are surrounded by nothing but blackness.  The
+slightly warm, slightly humid draft running through brings powerfully the
+noxious odor of decaying flesh.  The passage is more narrow than at the mouth
+of the cave, and the walls have become visible...  Stained red by crude
+scrawlings in what could only be blood, the smooth surface depicts squat
+figures being tortured and slain in innumerable ways, all equally coldblooded
+and gruesome.  Below the pictures, a precise hand, still using dark blood for
+ink, has lettered a message in an incomprehensible language.  The blood has
+been caked and faded with time, making it all but impossible to make out what
+it had previously been.    
+~
+21 9 0 0 0
+D7
+~
+~
+0 0 2105
+D8
+~
+~
+0 0 2103
+E
+writing words letters message~
+   The fiery letters are written in a language unbeknownst to you.    
+~
+E
+drawings wall walls drawing pictures picture scrawlings scrawling~
+   The drawings are of brutally violent scenes.  One depicts a figure being fed
+what looks to be his own arm.    
+~
+S
+#2105
+Inside the Cave~
+   Deep within the cave, you are surrounded by nothing but blackness.  The
+slightly warm, slightly humid draft running through brings powerfully the
+noxious odor of decaying flesh.  The passage is more narrow than at the mouth
+of the cave, and the walls have become visible...  Stained red by crude
+scrawlings in what could only be blood, the smooth surface depicts squat
+figures being tortured and slain in innumerable ways, all equally coldblooded
+and gruesome.  Below the pictures, a precise hand, still using dark blood for
+ink, has lettered a message in an incomprehensible language.  The warmth mixing
+with the dried blood lends a loathsome note to the air.    
+~
+21 9 0 0 0
+D0
+~
+~
+0 0 2106
+D8
+~
+~
+0 0 2104
+E
+writing words letters message~
+   The fiery letters are written in a language unbeknownst to you.    
+~
+E
+drawings wall walls drawing pictures picture scrawlings scrawling~
+   The drawings are of brutally violent scenes.  One depicts a figure being
+gutted while still living.    
+~
+S
+#2106
+Inside the Cave~
+   Deep within the cave, you are surrounded by nothing but blackness.  The
+slightly warm, slightly humid draft running through brings powerfully the
+noxious odor of decaying flesh.  The passage is more narrow than at the mouth
+of the cave, and the walls have become visible...  Stained red by crude
+scrawlings in what could only be blood, the smooth surface depicts squat
+figures being tortured and slain in innumerable ways, all equally coldblooded
+and gruesome.  Below the pictures, a precise hand, still using dark blood for
+ink, has lettered a message in an incomprehensible language.  The cavern takes
+a sharp turn to the east, where the stench is layered yet thicker.    
+~
+21 9 0 0 0
+D1
+~
+~
+0 0 2107
+D2
+~
+~
+0 0 2105
+E
+writing words letters message~
+   The fiery letters are written in a language unbeknownst to you.    
+~
+E
+drawings wall walls drawing pictures picture scrawlings scrawling~
+   The drawings are of brutally violent scenes.  One depicts a figure being
+thrown into a bonfire.    
+~
+S
+#2107
+End of the Cave~
+   The cave is narrow this close to its end.  The horrible stench of rotting
+flesh is thick in the air, so thick you could almost taste it.  It is
+surprisingly very warm and quite humid this far back into the cave.  Soon you
+identify the source of the warm breeze -- a crack in the cave wall.  The cave
+widens to the west, presumably leading outside.  Written with bold strokes in
+what could only be blood a week fresh, a message in the common tongue begs for
+you to peruse its meaning.    
+~
+21 13 0 0 0
+D1
+It appears to be a slightly unordinary section of the cave wall.
+~
+wall~
+2 0 2108
+D3
+~
+~
+0 0 2106
+E
+message writing letters words~
+In fresh blood, used to paint over layer after layer of the same message, the
+word stands out boldly:
+
+                           'EARAKAR'
+
+Though written in the common tongue, the word itself has a different origin.
+~
+S
+T 2100
+#2108
+Dead End~
+   You are standing at a well-lit dead-end cave passage, your only exit to the
+east, where the cavern splits into three dim tunnels.  Pricking your ears, you
+can hear a quiet clamor mixed with raspy voices, some devilish mockery of
+speech, harsh and grating on the ears.  Also inside the strange cave is the
+ever-present odor of rotting flesh, putting even the most refined off by its
+stench.  Combined with the unexpected humidity and heat, it is almost
+overpowering.  The only relief from it is a cool breeze blowing from inbetween
+a small crack in the wall...  Not far from the tiny fissure is a message
+written upon the wall in fresh blood, no less horrible than the smell of this
+place.    
+~
+21 12 0 0 0
+D1
+~
+~
+0 0 2109
+D3
+~
+wall~
+2 0 2107
+E
+message writing letters words~
+In fresh blood, used to paint over layer after layer of the same message, the
+word stands out boldly:
+ 
+                           'EARAKAR'
+ 
+Though written in the common tongue, the word itself has a different origin.
+~
+S
+T 2100
+#2109
+Intersection~
+   You stand at the center of a brightly lit, four-way intersection of tunnels.
+It looks to be well-traversed, from the amount of oddly-shaped footprints in
+the graveled floor.  From one tunnel, the sounds of a nasal-voiced chant and
+the clamor of a crowd can be heard, mingled with a horrible stench of flesh, a
+week gone bad.  From another tunnel, shouts and grunts of toil as well as pain
+ring against the cavern walls.  There is an aged signpost that, if it were
+written in an intelligible language, you would be able to use for direction.  
+Instead you can only guess at what its pointing arrows refer to.    
+~
+21 12 0 0 0
+D1
+~
+~
+0 0 2152
+D2
+~
+~
+0 0 2133
+D3
+~
+~
+0 0 2108
+D7
+~
+~
+0 0 2110
+S
+#2110
+A Cave Tunnel~
+   The tunnel is not lit, but from one direction there is a well-lit
+intersection, and at the other is what appears to be an underground field lit
+by torches, so you have little trouble finding your way.  It seems somewhat
+cooler here than elsewhere, an escape from the heat and humidity.    
+~
+21 12 0 0 0
+D0
+~
+~
+0 0 2111
+D8
+~
+~
+0 0 2109
+S
+#2111
+Underground Field~
+   A small plot of land, squared off by a jumble of rocks, fills the area.  
+Some sort of black-violet plant grows in the gravelly soil, looking sickly and
+vile.  Lying in the field are various tools, of exceptional quality, and near
+each a set of footprints and an ankle manacle that could only fit a child.  On
+either side of this plot is another, each seperated by a pathway.  One path
+splits off from the others and leads into a dim tunnel.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2114
+D2
+~
+~
+0 0 2110
+D3
+~
+~
+0 0 2112
+S
+#2112
+Underground Field~
+   A small plot of land, squared off by a jumble of rocks, fills the area.  
+Some sort of black-violet plant grows in the gravelly soil, looking sickly and
+vile.  Lying in the field are various tools, of exceptional quality, and near
+each a set of footprints and an ankle manacle that could only fit a child.  On
+either side of this plot is another, each seperated by a pathway.
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2111
+D3
+~
+~
+0 0 2113
+S
+#2113
+Underground Field~
+   A small plot of land, squared off by a jumble of rocks, fills the area.  
+Some sort of black-violet plant grows in the gravelly soil, looking sickly and
+vile.  Lying in the field are various tools, of exceptional quality, and near
+each a set of footprints and an ankle manacle that could only fit a child.  
+The field ends at a cave wall on one side and at another field on the opposite.
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2112
+S
+#2114
+Underground Field~
+   A small plot of land, squared off by a jumble of rocks, fills the area.  
+Some sort of black-violet plant grows in the gravelly soil, looking sickly and
+vile.  Lying in the field are various tools, of exceptional quality, and near
+each a set of footprints and an ankle manacle that could only fit a child.  On
+either side of this plot is another, each seperated by a pathway.  Counting the
+plants, you note that only two seem to be healthy enough to use.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2115
+D3
+~
+~
+0 0 2111
+S
+#2115
+Underground Field~
+   A small plot of land, squared off by a jumble of rocks, fills the area.  
+Some sort of black-violet plant grows in the gravelly soil, looking sickly and
+vile.  Lying in the field are various tools, of exceptional quality, and near
+each a set of footprints and an ankle manacle that could only fit a child.  On
+either side of this plot is another, each seperated by a pathway.  Off in the
+distance, you hear the sound of metal on stone, with an occasional grunt
+mingled in.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2116
+D3
+~
+~
+0 0 2114
+S
+#2116
+Underground Field~
+   A small plot of land, squared off by a jumble of rocks, fills the area.  
+Some sort of black-violet plant grows in the gravelly soil, looking sickly and
+vile.  Lying in the field are various tools, of exceptional quality, and near
+each a set of footprints and an ankle manacle that could only fit a child.  
+Another strip of fields is connected to this one by a diagonal path.  
+Northward, the wall has been tunneled into, and from the sound and smell, you
+would guess is an ore mine.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2126
+D3
+~
+~
+0 0 2115
+D6
+~
+~
+0 0 2117
+S
+#2117
+Underground Field~
+   A small plot of land, squared off by a jumble of rocks, fills the area.  
+Some sort of black-violet plant grows in the gravelly soil, looking sickly and
+vile.  Lying in the field are various tools, of exceptional quality, and near
+each a set of footprints and an ankle manacle that could only fit a child.  
+Another strip of fields is connected to this one by a diagonal path.    
+~
+21 8 0 0 0
+D3
+~
+~
+0 0 2118
+D9
+~
+~
+0 0 2116
+S
+#2118
+Underground Field~
+   A small plot of land, squared off by a jumble of rocks, fills the area.  
+Some sort of black-violet plant grows in the gravelly soil, looking sickly and
+vile.  Lying in the field are various tools, of exceptional quality, and near
+each a set of footprints and an ankle manacle that could only fit a child.  On
+either side of this plot is another, each seperated by a pathway.  A slave has
+stopped working here for the moment, and is now attempting to bust open his
+manacles without alerting anyone.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2117
+D3
+~
+~
+0 0 2119
+S
+#2119
+Underground Field~
+   A small plot of land, squared off by a jumble of rocks, fills the area.  
+Some sort of black-violet plant grows in the gravelly soil, looking sickly and
+vile.  Lying in the field are various tools, of exceptional quality, and near
+each a set of footprints and an ankle manacle that could only fit a child.  On
+either side of this plot is another, each seperated by a pathway.  To the west,
+the fields come to an end.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2118
+D3
+~
+~
+0 0 2120
+S
+#2120
+End of the Fields~
+   The fields recede here, turning to a dusty stone floor.  A rounded door made
+of nearly ancient hardwood, glossed to a finish, and much too small for any
+human to walk comfortably through without ducking fits neatly into one of the
+cave walls.  The handle is made not of metal but of polished bone.  In the
+distance, the sounds of hoes and irate voices scrape against your ears.    
+~
+21 12 0 0 0
+D1
+~
+~
+0 0 2119
+D3
+~
+door~
+1 2100 2121
+S
+#2121
+Slavemaster's Quarters~
+   With a glimpse at the floors covered in a brown-stained rag of a carpet and
+walls decorated with various weapons and instruments of torture, it is not hard
+to determine what sort of person the slavemaster is.  To the side of the room
+lies a small cot with a single battered blanket covering it.  The room smells
+of dust and decay, like a freshly-opened tomb of long ago.  In one corner, a
+heavy curtain hangs for no observable reason.    
+~
+21 8 0 0 0
+D1
+~
+door~
+1 2100 2120
+D7
+~
+curtain~
+1 0 2122
+S
+#2122
+Secret Tunnel~
+   The tunnel is too small to walk into, forcing anyone who traverses it to
+crawl on their hands and knees over the rough and painfully jagged surface.  
+It is much too dim to make out anything ahead or behind, though in a corner of
+the tunnel, your hand brushes a soft cloth-like material.    
+~
+21 269 0 0 0
+D1
+~
+~
+0 0 2123
+D8
+~
+curtain~
+1 0 2121
+S
+#2123
+Secret Tunnel~
+   The tunnel is too small to walk into, forcing anyone who traverses it to
+crawl on their hands and knees over the rough and painfully jagged surface.  
+It is much too dim to make out anything ahead or behind.    
+~
+21 265 0 0 0
+D1
+~
+~
+0 0 2124
+D3
+~
+~
+0 0 2122
+S
+#2124
+Secret Tunnel~
+   The tunnel is too small to walk into, forcing anyone who traverses it to
+crawl on their hands and knees over the rough and painfully jagged surface.  
+Light from an opening to the north spills into the tunnel, giving hope of
+escape from this confined space.    
+~
+21 265 0 0 0
+D0
+~
+~
+0 0 2125
+D3
+~
+~
+0 0 2123
+S
+#2125
+Chamber of Life~
+   The sight of this room is too horrible for most eyes to look upon.  In the
+center of the large, brightly lit room is a mound of flesh, fifteen feet high
+and as wide around.  Pulsing purple veins the size of a man's arm run from the
+top of the gargantuan mass down to the floor, where they worm their way
+underneath the cavern floor.  At a second glance, it is easy to see that the
+half-rotted flesh is made up of bodies, hundreds of bodies, all horribly
+mutilated and melded in with the others.  With every pulse of the veins, the
+flesh shudders violenty, silenty screaming with the horrible existence of the
+half-living creatures that it has woven into itself.    
+~
+21 8 0 0 0
+D2
+~
+~
+0 0 2124
+S
+#2126
+An Ore Mine~
+   This is the opening of an ore mine.  The sounds of pickaxe against stone
+resound throughout the cave, and a strange sulfuric odor drifts upon the warm
+air.  Outside the mine, there is a small plot of land where something sickly is
+growing, and deeper inside there is only darkness broken by the faint glow 
+of a hanging lantern.
+~
+21 12 0 0 0
+D1
+~
+~
+0 0 2127
+D2
+~
+~
+0 0 2116
+S
+#2127
+An Ore Mine~
+   Inside the mine, pickaxes smash against stone, the loud clang intertwining
+with the grunts of slaveworkers.  Manacles are deeply staked into the cave
+floor to prevent them from moving farther than needed to keep from killing
+themselves.  Hanging on the air, a sulfuric odor dangerously fills the lungs of
+all here.  Corpses of dead slaves, no doubt dead from the horrible fumes, lay
+against the wall, waiting to be removed.  A lantern hangs from the ceiling,
+casting a pale glow over the mine.    
+~
+21 8 0 0 0
+D3
+~
+~
+0 0 2126
+D7
+~
+~
+0 0 2128
+S
+#2128
+An Ore Mine~
+   Inside the mine, pickaxes smash against stone, the loud clang intertwining
+with the grunts of slaveworkers.  Manacles are deeply staked into the cave
+floor to prevent them from moving farther than needed to keep from killing
+themselves.  Hanging on the air, a sulfuric odor dangerously fills the lungs of
+all here.  Corpses of dead slaves, no doubt dead from the horrible fumes, lay
+against the wall, waiting to be removed.  The lantern that hangs here is
+cracked and broken beyond all repair, giving off no light.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2129
+D8
+~
+~
+0 0 2127
+S
+#2129
+An Ore Mine~
+   Inside the mine, pickaxes smash against stone, the loud clang intertwining
+with the grunts of slaveworkers.  Manacles are deeply staked into the cave
+floor to prevent them from moving farther than needed to keep from killing
+themselves.  Hanging on the air, a sulfuric odor dangerously fills the lungs of
+all here.  Corpses of dead slaves, no doubt dead from the horrible fumes, lay
+against the wall, waiting to be removed.  A lantern hangs from the ceiling,
+casting a pale glow over the mine.  The weary slaves squint even at that dull
+light.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2130
+D3
+~
+~
+0 0 2128
+S
+#2130
+An Ore Mine~
+   Inside the mine, pickaxes smash against stone, the loud clang intertwining
+with the grunts of slaveworkers.  Manacles are deeply staked into the cave
+floor to prevent them from moving farther than needed to keep from killing
+themselves.  Hanging on the air, a sulfuric odor dangerously fills the lungs of
+all here.  Corpses of dead slaves, no doubt dead from the horrible fumes, lay
+against the wall, waiting to be removed.  A lantern hangs from the ceiling,
+casting a pale glow over the mine.  One slave in this particular area of the
+cave looks as though he may be about to lose consciousness.    
+~
+21 8 0 0 0
+D3
+~
+~
+0 0 2129
+D7
+~
+~
+0 0 2131
+S
+#2131
+End of the Mine~
+   The mine stops dead at a mangled cave wall where small deposits of ore have
+imbed themselves.  Close by, you hear the din of pickaxes on the walls and
+slaves grunting at the toil.  Surely from the occasional corpse that rests to
+the side of the mine they must know what fate shall soon be theirs, and yet
+still they work...  Hanging heavily on the air is a strange sulfuric smell that
+seems to be created by the mining, and no doubt is the cause of the
+slaveworkers' deaths.    
+~
+21 12 0 0 0
+D5
+   On the floor of the cave, there seems to be some sort of trapdoor designed
+so as not to be seen by anyone who doesn't look carefully.    
+~
+trapdoor~
+1 0 2132
+D8
+~
+~
+0 0 2130
+S
+#2132
+Storeroom~
+   The tiny storeroom contains three shelves, one against each wall.  Each
+shelf holds on it various vials, gadgets, books, and other interesting items
+that tempt the curious and scholarly to peruse their contents.  The oddly
+triangular room bears a crest on its smooth floor that seems to draw you into
+another place and time with just a glance.    
+~
+21 8 0 0 0
+D4
+There is a trapdoor in the ceiling.
+~
+trapdoor~
+1 0 2131
+S
+#2133
+Smoothed Tunnel~
+   Two long-burning torches light the way on both sides of the wide, smoothed
+passageway.  The opening closest to you leads to a well-used four-way
+intersection, while at the other end, the sounds of music and laughter, as well
+as an incredibly powerful odor of rotting flesh, originate from.    
+~
+21 12 0 0 0
+D0
+~
+~
+0 0 2109
+D2
+~
+~
+0 0 2134
+S
+#2134
+Smoothed Tunnel~
+   Two long-burning torches light the way on both sides of the wide, smoothed
+passageway as it opens to the south into a large room scattered with tables,
+chairs, and a massive stone-slab stage.  Most noticable is the strong stench of
+rotten flesh, and bawdy music and laughter as its stange companion.  To the
+north, through the passageway, is a dim four-way intersection that looks to be
+well-travelled.    
+~
+21 12 0 0 0
+D0
+~
+~
+0 0 2133
+D2
+~
+~
+0 0 2135
+D8
+~
+~
+0 0 2136
+S
+#2135
+The Chamber of Antiplane~
+   This high-ceiling chamber is a mix of strange conversation and laughter and
+exotic music, thrown full force against the overpowering sight and stench of
+mutilated, rotting bodies in a heap atop the tall stone-slab stage against the
+back wall.  A choral group of darkgnomes in blue and red-trimmed robes plod
+across it, chanting in crackling, deep voices, as a handful of actors in much
+more elaborate costumes perform some sort of sacrificial ritual centerstage.  
+In the pit below the stage, where you currently stand, a mass of chairs and
+tables sit as squeezed together as the patrons who sit at them.  Short bursts
+of laughter erupt randomly from nearly every table, all but a few entirely
+ignoring the display on stage.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2134
+D1
+~
+~
+0 0 2137
+D2
+~
+~
+0 0 2139
+D3
+~
+~
+0 0 2136
+S
+#2136
+The Chamber of Antiplane~
+   This high-ceiling chamber is a mix of strange conversation and laughter and
+exotic music, thrown full force against the overpowering sight and stench of
+mutilated, rotting bodies in a heap atop the tall stone-slab stage against the
+back wall.  A choral group of darkgnomes in blue and red-trimmed robes plod
+across it, chanting in crackling, deep voices, as a handful of actors in much
+more elaborate costumes perform some sort of sacrificial ritual centerstage.  
+In the pit below the stage, where you currently stand, a mass of chairs and
+tables sit as squeezed together as the patrons who sit at them.  Short bursts
+of laughter erupt randomly from nearly every table, all but a few entirely
+ignoring the display on stage.  A small collection of vials, reeking of strange
+liquor, sit along a makeshift bar in the corner.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2135
+D2
+~
+~
+0 0 2140
+D7
+~
+~
+0 0 2134
+S
+#2137
+The Chamber of Antiplane~
+   This high-ceiling chamber is a mix of strange conversation and laughter and
+exotic music, thrown full force against the overpowering sight and stench of
+mutilated, rotting bodies in a heap atop the tall stone-slab stage against the
+back wall.  A choral group of darkgnomes in blue and red-trimmed robes plod
+across it, chanting in crackling, deep voices, as a handful of actors in much
+more elaborate costumes perform some sort of sacrificial ritual centerstage.  
+In the pit below the stage, where you currently stand, a mass of chairs and
+tables sit as squeezed together as the patrons who sit at them.  Short bursts
+of laughter erupt randomly from nearly every table, all but a few entirely
+ignoring the display on stage.  Here a table has been set up far from the
+others, and with a bit more care, most likely for the rich or noble.    
+~
+21 8 0 0 0
+D2
+~
+~
+0 0 2138
+D3
+~
+~
+0 0 2135
+S
+#2138
+The Chamber of Antiplane~
+   This high-ceiling chamber is a mix of strange conversation and laughter and
+exotic music, thrown full force against the overpowering sight and stench of
+mutilated, rotting bodies in a heap atop the tall stone-slab stage against the
+back wall.  A choral group of darkgnomes in blue and red-trimmed robes plod
+across it, chanting in crackling, deep voices, as a handful of actors in much
+more elaborate costumes perform some sort of sacrificial ritual centerstage.  
+In the pit below the stage, where you currently stand, a mass of chairs and
+tables sit as squeezed together as the patrons who sit at them.  Short bursts
+of laughter erupt randomly from nearly every table, all but a few entirely
+ignoring the display on stage.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2137
+D1
+~
+~
+0 0 2141
+D3
+~
+~
+0 0 2139
+S
+#2139
+The Chamber of Antiplane~
+   This high-ceiling chamber is a mix of strange conversation and laughter and
+exotic music, thrown full force against the overpowering sight and stench of
+mutilated, rotting bodies in a heap atop the tall stone-slab stage against the
+back wall.  A choral group of darkgnomes in blue and red-trimmed robes plod
+across it, chanting in crackling, deep voices, as a handful of actors in much
+more elaborate costumes perform some sort of sacrificial ritual centerstage.  
+In the pit below the stage, where you currently stand, a mass of chairs and
+tables sit as squeezed together as the patrons who sit at them.  Short bursts
+of laughter erupt randomly from nearly every table, all but a few entirely
+ignoring the display on stage, directly behind them.
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2135
+D1
+~
+~
+0 0 2138
+D3
+~
+~
+0 0 2140
+S
+#2140
+The Chamber of Antiplane~
+   This high-ceiling chamber is a mix of strange conversation and laughter and
+exotic music, thrown full force against the overpowering sight and stench of
+mutilated, rotting bodies in a heap atop the tall stone-slab stage against the
+back wall.  A choral group of darkgnomes in blue and red-trimmed robes plod
+across it, chanting in crackling, deep voices, as a handful of actors in much
+more elaborate costumes perform some sort of sacrificial ritual centerstage.  
+In the pit below the stage, where you currently stand, a mass of chairs and
+tables sit as squeezed together as the patrons who sit at them.  Short bursts
+of laughter erupt randomly from nearly every table, all but a few entirely
+ignoring the display on stage, though a few in this corner glance warily from
+time to time at the pile of flesh on stage directly next to them.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2136
+D1
+~
+~
+0 0 2139
+S
+#2141
+The Chamber of Antiplane~
+   This high-ceiling chamber is a mix of strange conversation and laughter and
+exotic music, thrown full force against the overpowering sight and stench of
+mutilated, rotting bodies in a heap atop the tall stone-slab stage against the
+back wall.  A choral group of darkgnomes in blue and red-trimmed robes plod
+across it, chanting in crackling, deep voices, as a handful of actors in much
+more elaborate costumes perform some sort of sacrificial ritual centerstage.  
+In the pit below the stage, where you currently stand, a mass of chairs and
+tables sit as squeezed together as the patrons who sit at them.  Short bursts
+of laughter erupt randomly from nearly every table, all but a few entirely
+ignoring the display on stage.  A massive set of stairs to the south allow
+anyone who wishes to ascend to the stage to do so with ease.    
+~
+21 8 0 0 0
+D2
+~
+~
+0 0 2142
+D3
+~
+~
+0 0 2138
+S
+#2142
+On the Stairs~
+   The large set of stairs ascend to the long, narrow stage, each stair a foot
+high and wide, making for a difficult climb.  How a darkgnome could ever make
+it up the stairs is hard to comprehend.  Below the stage, shouts and strained
+voices buzz in the air, lanced by occasional bursts of laughter.  On the stage
+to the west, a dark robed group of darkgnomes plod about the stage as though
+they have been doing it for weeks and are about to fall over at any moment.  
+Between them you catch glimpses of actors dressed in wild costumes, but exactly
+what they are doing you can't see.  The audience seems to be content with
+completely ignoring anything that happens on stage.    
+~
+21 12 0 0 0
+D0
+~
+~
+0 0 2141
+D3
+~
+~
+0 0 2143
+S
+#2143
+On the Stage of Antiplane~
+   The stone-slab stage, ten feet high and eighty feet wide, completely
+dominates the high-ceiling chamber.  In the center of it, a choral procession
+slumps from left to right, chanting a dismal hymn.  Between the figures, you
+see a small, wildly dressed group of darkgnomes huddled together, though you
+can make out little of their features.  At the opposite end of the stage is a
+pile of horribly mutilated corpses, stacked without care to rot, lending a
+putrid odor to the stuffy air.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2142
+D3
+~
+~
+0 0 2144
+S
+#2144
+On the Stage of Antiplane~
+   The choral group mills about this area with little thought or form and only
+a mumbled hymn.  The stage is quite tall and extremely long, but the actual
+"performance" only takes place here.  With a glance at the blood-stained stage
+floor, the nature of the performance is obvious.  To the far west is a pile of
+corpses, stacked unceremoniously in a heap, which reek heavily of the foul odor
+of decay.  The easternmost portion of the stage descends to the ground as it
+meets a large set of stairs.  Behind the actors onstage, a small opening in the
+wall, left uncovered, allows entrance into a pitch-black cave, and ahead of
+them, the crowd sits at cramped tables, completely oblivious to what is
+happening on stage.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2143
+D2
+~
+~
+0 0 2146
+D3
+~
+~
+0 0 2145
+S
+#2145
+On the Stage of Antiplane~
+   This far west on the massive stage is a pile of corpses so uncerimoniously
+heaped on top of one another like rubbish.  Though they look quite fresh, they
+already have begun to overpower the area with a nauseating odor.  As if to add
+insult to injury, the corpses are horribly mutilated beyond any recognition --
+a bold show of the darkgnome indifference to other's lives.  In the center of
+the stage, a procession stumps about a group of flamboyantly dressed actors,
+who draw no attention from the crowd below the stage, and do not seem to care
+one way or another.  On the opposite end of the stage, a large stairway leads
+to the lower level of the Chamber.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2144
+S
+#2146
+Backstage~
+   The cave is quite crudely carved, meant only for the darkgnome actors and
+chorus to use, and has no light, making it difficult to avoid scratching and
+scraping against the walls.  To the north is a patch of light that leads onto a
+stage, while to the east and west there is nothing but blackness.    
+~
+21 12 0 0 0
+D0
+~
+~
+0 0 2144
+D1
+~
+~
+0 0 2148
+D3
+~
+~
+0 0 2147
+S
+#2147
+Backstage~
+   The cave is quite crudely carved, meant only for the darkgnome actors and
+chorus to use, and has no light, making it difficult to avoid scratching and
+scraping against the walls.  You are surrounded by darkness in every direction.
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2146
+S
+#2148
+Backstage~
+   The cave is quite crudely carved, meant only for the darkgnome actors and
+chorus to use, and has no light, making it difficult to avoid scratching and
+scraping against the walls.  You are surrounded by darkness in every direction.
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2149
+D3
+~
+~
+0 0 2146
+S
+#2149
+Backstage~
+   The cave is quite crudely carved, meant only for the darkgnome actors and
+chorus to use, and has no light, making it difficult to avoid scratching and
+scraping against the walls.  You are surrounded by darkness in every direction.
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2150
+D3
+~
+~
+0 0 2148
+S
+#2150
+Backstage~
+   The cave is quite crudely carved, meant only for the darkgnome actors and
+chorus to use, and has no light, making it difficult to avoid scratching and
+scraping against the walls.  You are surrounded by darkness in every direction.
+~
+21 8 0 0 0
+D0
+~
+door~
+1 0 2151
+D3
+~
+door~
+1 0 2149
+S
+#2151
+Performer's Pit~
+   This small rounded cavern has been carved in a circular pattern.  Gradual
+steps decline to the center of the room where a roaring bonfire blazes from
+nothing but a ring of stones.  The strange red-violet flame casts an eerie
+light on a large set of curved and well-polished daggers, and illuminates a
+corner where the strange costumes and robes of the performers are piled when
+not in use.    
+~
+21 8 0 0 0
+D2
+~
+door~
+1 0 2150
+S
+#2152
+A Brightly Lit Tunnel~
+   Blazing torches line the walls, keeping this area well lit.  The tunnel is
+not of nature's make, having smoothed walls and ceiling in an arch shape.  It
+is only five feet high; large enough for any sized darkgnome to walk through
+comfortably, but forcing many other races to duck their heads.  The tunnel
+meets an cavernous intersection to the west.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2153
+D3
+~
+~
+0 0 2109
+S
+#2153
+A Brightly Lit Tunnel~
+   Blazing torches line the walls, keeping this area well lit.  The tunnel is
+not of nature's make, having smoothed walls and ceiling in an arch shape.  It
+is only five feet high; large enough for any sized darkgnome to walk through
+comfortably, but forcing many other races to duck their heads.  The tunnel
+continues in two directions, though where it leads cannot be seen.  Somewhere
+in the distance, a pair of high-pitched voices argue heatedly over something in
+a language you cannot understand.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2154
+D3
+~
+~
+0 0 2152
+S
+#2154
+A Brightly Lit Tunnel~
+   Blazing torches line the walls, keeping this area well lit.  The tunnel is
+not of nature's make, having smoothed walls and ceiling in an arch shape.  It
+is only five feet high; large enough for any sized darkgnome to walk through
+comfortably, but forcing many other races to duck their heads.  The tunnel
+continues in two directions, though where it leads cannot be seen.  As the
+tunnel makes a turn, it thins slightly, making it difficult to pass through.  
+~
+21 8 0 0 0
+D3
+~
+~
+0 0 2153
+D9
+~
+~
+0 0 2155
+S
+#2155
+A Brightly Lit Tunnel~
+   Blazing torches line the walls, keeping this area well lit.  The tunnel is
+not of nature's make, having smoothed walls and ceiling in an arch shape.  It
+is only five feet high; large enough for any sized darkgnome to walk through
+comfortably, but forcing many other races to duck their heads.  The tunnel
+continues in two directions, though where it leads cannot be seen.  A pile of
+rubble lies against one wall, with an indentation in the stone above it.  It
+looks as though a particularly rough fight took place here at one time.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2156
+D6
+~
+~
+0 0 2154
+S
+#2156
+A Brightly Lit Tunnel~
+   Blazing torches line the walls, keeping this area well lit.  The tunnel is
+not of nature's make, having smoothed walls and ceiling in an arch shape.  It
+is only five feet high; large enough for any sized darkgnome to walk through
+comfortably, but forcing many other races to duck their heads.  The tunnel
+meets an cavernous intersection to the east.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2157
+D3
+~
+~
+0 0 2155
+S
+#2157
+An Intersection of Tunnels~
+   Three tunnels converge at this large cavern.  One to the west is brightly
+lit, leading far off into the distance.  To the east and south, larger tunnels
+with paved streets meander through houses and shops made out of crude masses of
+packed and solidified gravel.  From the ceiling of the cavern hangs a gigantic
+lantern frame made of solid iron.  In the center, a blazing inferno rages,
+lending a good amount of light as well as some heat to the room.    
+~
+21 12 0 0 0
+D1
+~
+~
+0 0 2158
+D2
+~
+~
+0 0 2166
+D3
+~
+~
+0 0 2156
+S
+#2158
+Underground Road~
+   A poor mockery of other races' roads, the grey-brown stone chunks, fitted in
+haste to make a path, meander through the darkgnome town with no particular
+direction.  On both sides of the street, squat huts made of unsorted and
+solidified gravel walls stand no bigger than an average human, without doors
+and most doorways but three and a half feet high.  Lanterns hang from the
+ceiling, casting a hundred shadows as the fire inside them dances to the tune
+of a warm breeze.    
+~
+21 8 0 0 0
+D1
+~
+~
+0 0 2159
+D3
+~
+~
+0 0 2157
+S
+#2159
+Underground Road~
+   A poor mockery of other races' roads, the grey-brown stone chunks, fitted in
+haste to make a path, meander through the darkgnome town with no particular
+direction.  On both sides of the street, squat huts made of unsorted and
+solidified gravel walls stand no bigger than an average human, without doors
+and most doorways but three and a half feet high.  Lanterns hang from the
+ceiling, casting a hundred shadows as the fire inside them dances to the tune
+of a warm breeze.  The road merges with a sidepath here that leads to a large
+pool of water.    
+~
+21 12 0 0 0
+D0
+~
+~
+0 0 2177
+D1
+~
+~
+0 0 2160
+D3
+~
+~
+0 0 2158
+S
+#2160
+Underground Road~
+   A poor mockery of other races' roads, the grey-brown stone chunks, fitted in
+haste to make a path, meander through the darkgnome town with no particular
+direction.  On both sides of the street, squat huts made of unsorted and
+solidified gravel walls stand no bigger than an average human, without doors
+and most doorways but three and a half feet high.  Lanterns hang from the
+ceiling, casting a hundred shadows as the fire inside them dances to the tune
+of a warm breeze.  The climate here is particularly hot and humid.  Rolling
+across the air like a wave on the wild ocean, a blast of heat suddenly hits
+you, seeming to come from a cave that splits off from the town to the
+northeast.    
+~
+21 12 0 0 0
+D2
+~
+~
+0 0 2161
+D3
+~
+~
+0 0 2159
+D7
+~
+~
+0 0 2170
+S
+#2161
+Underground Road~
+   A poor mockery of other races' roads, the grey-brown stone chunks, fitted in
+haste to make a path, meander through the darkgnome town with no particular
+direction.  On both sides of the street, squat huts made of unsorted and
+solidified gravel walls stand no bigger than an average human, without doors
+and most doorways but three and a half feet high.  Lanterns hang from the
+ceiling, casting a hundred shadows as the fire inside them dances to the tune
+of a warm breeze.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2160
+D1
+~
+~
+0 0 2174
+D2
+~
+~
+0 0 2162
+D3
+~
+~
+0 0 2173
+S
+#2162
+Underground Road~
+   A poor mockery of other races' roads, the grey-brown stone chunks, fitted in
+haste to make a path, meander through the darkgnome town with no particular
+direction.  On both sides of the street, squat huts made of unsorted and
+solidified gravel walls stand no bigger than an average human, without doors
+and most doorways but three and a half feet high.  Lanterns hang from the
+ceiling, casting a hundred shadows as the fire inside them dances to the tune
+of a warm breeze.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2161
+D1
+~
+~
+0 0 2175
+D2
+~
+~
+0 0 2163
+S
+#2163
+Underground Road~
+   A poor mockery of other races' roads, the grey-brown stone chunks, fitted in
+haste to make a path, meander through the darkgnome town with no particular
+direction.  On both sides of the street, squat huts made of unsorted and
+solidified gravel walls stand no bigger than an average human, without doors
+and most doorways but three and a half feet high.  Lanterns hang from the
+ceiling, casting a hundred shadows as the fire inside them dances to the tune
+of a warm breeze.  A dark tunnel to the east breaks off from the main road
+here.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2162
+D1
+~
+~
+0 0 2182
+D3
+~
+~
+0 0 2164
+S
+#2164
+Underground Road~
+   A poor mockery of other races' roads, the grey-brown stone chunks, fitted in
+haste to make a path, meander through the darkgnome town with no particular
+direction.  On both sides of the street, squat huts made of unsorted and
+solidified gravel walls stand no bigger than an average human, without doors
+and most doorways but three and a half feet high.  Lanterns hang from the
+ceiling, casting a hundred shadows as the fire inside them dances to the tune
+of a warm breeze.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2176
+D1
+~
+~
+0 0 2163
+D6
+~
+~
+0 0 2165
+S
+#2165
+Underground Road~
+   A poor mockery of other races' roads, the grey-brown stone chunks, fitted in
+haste to make a path, meander through the darkgnome town with no particular
+direction.  On both sides of the street, squat huts made of unsorted and
+solidified gravel walls stand no bigger than an average human, without doors
+and most doorways but three and a half feet high.  Lanterns hang from the
+ceiling, casting a hundred shadows as the fire inside them dances to the tune
+of a warm breeze.    
+~
+21 8 0 0 0
+D6
+~
+~
+0 0 2166
+D8
+~
+~
+0 0 2167
+D9
+~
+~
+0 0 2164
+S
+#2166
+Underground Road~
+   A poor mockery of other races' roads, the grey-brown stone chunks, fitted in
+haste to make a path, meander through the darkgnome town with no particular
+direction.  On both sides of the street, squat huts made of unsorted and
+solidified gravel walls stand no bigger than an average human, without doors
+and most doorways but three and a half feet high.  Lanterns hang from the
+ceiling, casting a hundred shadows as the fire inside them dances to the tune
+of a warm breeze.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2157
+D9
+~
+~
+0 0 2165
+S
+#2167
+A Small Cavern~
+   This cavern, a natural break in the cave wall that the darkgnomes didn't
+bother to hole up, is quite damp and humid.  Water drips from the ceiling,
+forming small pools of water at your feet.  A smell lingers in the cave from
+some previous inhabitant -- a scent of urine and something rotten.  To the
+northeast, the cavern opens up onto a road through the town.    
+~
+21 8 0 0 0
+D2
+~
+~
+0 0 2168
+D7
+~
+~
+0 0 2165
+S
+#2168
+A Small Cavern~
+   This cavern, a natural break in the cave wall that the darkgnomes didn't
+bother to hole up, is quite damp and humid.  Water drips from the ceiling,
+forming small pools of water at your feet.  A smell lingers in the cave from
+some previous inhabitant -- a scent of urine and something rotten.  To the
+north, the cavern opens up onto a road through the town.    
+~
+21 8 0 0 0
+D0
+~
+~
+0 0 2167
+D6
+~
+crevice~
+1 0 2169
+S
+#2169
+A Dark Crevice~
+   Just big enough to stand up in, this crack in the cave has been meticulously
+sealed by the hands of an expert stonemason to hide it from curious passers by,
+but still allow it to be entered.  The dark porous walls, rich with iron, and
+in some places rust, glint with clinging moisture.    
+~
+21 301 0 0 0
+D9
+~
+crevice~
+1 0 2168
+S
+#2170
+Before the Great Furnace~
+   A gigantic mass of iron in the center of the room radiates enough heat to
+warm a castle in the coldest of winters, making it almost unbearable to be in
+the cavern with it.  Shaped like a kettle with no opening but a small round
+door with a padded handle, with only the words "The Great Furnace" printed in
+common, and above it most likely the same words but in darkgnome, it excites a
+curiosity to know its purpose.  To one side of it is a small room where several
+darkgnomes are hunched over a pot of metallic liquid, meticulously filling
+flasks with it.    
+~
+21 12 0 0 0
+D0
+~
+furnace~
+1 0 2172
+D7
+~
+~
+0 0 2171
+D8
+~
+~
+0 0 2160
+S
+#2171
+Bottling Room~
+   The heat of the Great Furnace warms this room to a nearly unbearable
+temperature.  Sweat rolls off the many darkgnome faces surrounding a cauldron
+full of metallic liquid as they ladel it into bottles, flasks and vials, not
+bothering to stop them with a piece of cork.  Shelves are nudged tightly
+against the cave walls, almost looking to have been built in the stone.  
+Bottles similiar to the ones the darkgnomes fill are crammed tightly into each
+shelf.    
+~
+21 8 0 0 0
+D8
+~
+~
+0 0 2170
+S
+#2172
+Inside the Great Furnace~
+   Inside the furnace, there is a small room surrounded by iron walls hot
+enough to cook off of.  Slots in the iron, some filled with metal trays, allow
+a metallic rock to be melted down to a liquid form rapidly by the heat, as
+quickly as a slab of butter on a cookfire.  It is hard to bear this extreme
+heat for very long, and the door out to the south looks more inviting with
+every second that passes inside the Great Furnace.    
+~
+21 8 0 0 0
+D2
+~
+furnace~
+1 0 2170
+S
+#2173
+A Miskept Hut~
+   Built for one with only enough room to sleep and stand up in, the owner of
+this hut has tried to get the most use out of it by stacking belongings in
+large mounds.  Everything from dirt-caked clothing to remnants of meals to
+knives and swords sit in the piles, giving off a strong stench.  It is a wonder
+that anyone could live here.  Smashed tightly up against the wall is a thin
+bundle of ragged furs, caked with vomit and blood, which presumably the
+inhabitant of the hut sleeps on.  An open entrance that is barely bigger than a
+kender looks like a rather inviting exit.    
+~
+21 12 0 0 0
+D1
+~
+~
+0 0 2161
+S
+#2174
+Mystic's Hut~
+   Skulls of creatures large and small, some big enough to be a human's, hang
+from the low ceiling of the hut.  A thick dripping candle in the center,
+sitting atop a carved obsidian figurine sheds a pale glow, revealing the
+baubles and gadgets hanging on the walls and atop low tables scattered about
+the room.  In one corner is a bed of dwarven make covered with furs, and in
+another is a well-made chair, probably made for a child of a wealthy family.  
+The smell of mold and decay permeates the room.    
+~
+21 12 0 0 0
+D3
+~
+~
+0 0 2161
+S
+#2175
+A Poorly-Kept Hut~
+   Built for one with only enough room to sleep and stand up in, the owner of
+this hut has tried to get the most use out of it by stacking belongings in
+large mounds.  Everything from dirt-caked clothing to remnants of meals to
+knives and swords sit in the piles, giving off a strong stench.  It is a wonder
+that anyone could live here.  Smashed tightly up against the wall is a thin
+bundle of ragged furs, caked with vomit and blood, which presumably the
+inhabitant of the hut sleeps on.  An open entrance that is barely bigger than a
+kender looks like a rather inviting exit.    
+~
+21 12 0 0 0
+D3
+~
+~
+0 0 2162
+S
+#2176
+A Poorly-Kept Hut~
+   Built for one with only enough room to sleep and stand up in, the owner of
+this hut has tried to get the most use out of it by stacking belongings in
+large mounds.  Everything from dirt-caked clothing to remnants of meals to
+knives and swords sit in the piles, giving off a strong stench.  It is a wonder
+that anyone could live here.  Smashed tightly up against the wall is a thin
+bundle of ragged furs, caked with vomit and blood, which presumably the
+inhabitant of the hut sleeps on.  An open entrance that is barely bigger than a
+kender looks like a rather inviting exit.    
+~
+21 12 0 0 0
+D2
+~
+~
+0 0 2164
+S
+#2177
+Walkway Around the Reservoir~
+   In the center of this cavern is a water reservoir easily a hundred feet deep
+and made of perfectly smoothed stone.  Near its bottom, a gnarled mass of huge
+iron pipes that look to be more than a thousand years old, but still intact,
+take and return water to the reservoir.  Without this system, the colony would
+surely perish, but it is a mystery as to whether or not the darkgnomes created
+it, or some other race that may have inhabited the caves millenia before.  A
+walkway with a brass railing follows the water around, allowing you to walk
+along its edge.    
+~
+21 8 0 0 0
+D2
+~
+~
+0 0 2159
+D6
+~
+~
+0 0 2180
+D7
+~
+~
+0 0 2178
+S
+#2178
+Walkway Around the Reservoir~
+   In the center of this cavern is a water reservoir easily a hundred feet deep
+and made of perfectly smoothed stone.  Near its bottom, a gnarled mass of huge
+iron pipes that look to be more than a thousand years old, but still intact,
+take and return water to the reservoir.  Without this system, the colony would
+surely perish, but it is a mystery as to whether or not the darkgnomes created
+it, or some other race that may have inhabited the caves millenia before.  A
+walkway with a brass railing follows the water around, allowing you to walk
+along its edge.    
+~
+21 8 0 0 0
+D6
+~
+~
+0 0 2179
+D8
+~
+~
+0 0 2177
+S
+#2179
+Walkway Around the Reservoir~
+   In the center of this cavern is a water reservoir easily a hundred feet deep
+and made of perfectly smoothed stone.  Near its bottom, a gnarled mass of huge
+iron pipes that look to be more than a thousand years old, but still intact,
+take and return water to the reservoir.  Without this system, the colony would
+surely perish, but it is a mystery as to whether or not the darkgnomes created
+it, or some other race that may have inhabited the caves millenia before.  A
+walkway with a brass railing follows the water around, allowing you to walk
+along its edge.    
+~
+21 8 0 0 0
+D8
+~
+~
+0 0 2180
+D9
+~
+~
+0 0 2178
+S
+#2180
+Walkway Around the Reservoir~
+   In the center of this cavern is a water reservoir easily a hundred feet deep
+and made of perfectly smoothed stone.  Near its bottom, a gnarled mass of huge
+iron pipes that look to be more than a thousand years old, but still intact,
+take and return water to the reservoir.  Without this system, the colony would
+surely perish, but it is a mystery as to whether or not the darkgnomes created
+it, or some other race that may have inhabited the caves millenia before.  A
+walkway with a brass railing follows the water around, allowing you to walk
+along its edge.  There is a small, rough wooden door marked with strange
+letters to the north.    
+~
+21 8 0 0 0
+D0
+~
+door~
+1 0 2181
+D7
+~
+~
+0 0 2179
+D9
+~
+~
+0 0 2177
+S
+#2181
+Storage Room~
+   The storage room is as small as it is cluttered, objects strewn about it in
+no particular fashion.  Nets with extendable poles for fishing out debris from
+the reservoir, rough scrubbing brushes made of a strange plant's stalk for
+keeping the area clean, and a hundred other odds and ends all try to occupy the
+same space at once.  At one end of the closet there is a doorway leading out
+onto a ledge.    
+~
+21 12 0 0 0
+D2
+~
+door~
+1 0 2180
+S
+#2182
+A Side Tunnel~
+   Branching off from the main road to the west, this small rounded tunnel,
+carved from the stone rather than chiseled by mother nature, leads to a two
+story house of darkgnome proportions.  The front door is scratched and mauled
+from many years of long use, but still remains intact.  Two crooked windows
+with cracked panes are nestled in the thick pine boards so out of place this
+deep in the earth.    
+~
+21 12 0 0 0
+D1
+~
+door~
+1 0 2183
+D3
+~
+~
+0 0 2163
+S
+#2183
+A Small Home~
+   A thick grease candle in the center of the room casts a wan glow about the
+small collection of furniture in the house.  A thickly padded and nearly
+rag-worn chair rests against one of the slightly rotting walls, and tables
+about the room carry curious objects and half-read dust-covered books.  The low
+ceiling, five feet from the ground, makes it difficult for any of the taller
+races to move about with ease.  A steep wooden stairway, much like a cabin
+ship's, leads up to the second floor.    
+~
+21 8 0 0 0
+D3
+~
+door~
+1 0 2182
+D4
+~
+~
+0 0 2184
+S
+#2184
+Second Floor~
+   A bed small for a human but more than adequate for a darkgnome sits in one
+corner, the old sheets on it torn and knotted in a ball at its foot.  The only
+other object in the room is a slanted desk as an artist might use, with a flat
+portion atop it where a tall black candle flickers light across the few papers
+arranged on the desk -- some designs of complex pieces of machinery, some long
+pages in an unreadable language.  Old books in a stand sit next to the candle,
+some with titles written in the same script as the papers, and some in common.
+This is certainly not the home of an uneducated individual.    
+~
+21 8 0 0 0
+D5
+~
+~
+0 0 2183
+S
+#2199
+delete me~
+   You stand in a low chamber with no more headroom than needed, with plain
+polished wooden walls that still hold a hint of their past lustre despite the
+fading color and thin layer of dust that coats the surface.  On three of the
+four sides of the room stand large oak bookshelves, stuffed to capacity with
+ancient tomes that tempt the curious and scholarly to crack open, though they
+look as though they would simply crack and fall apart.  In the center of the
+room, awash in papers and parchment is a large desk of oak that matches the
+bookcases well.  On the side facing you is the plainly engraved image of a
+dragon, roughly portraying the symbol of Paladine, the Platinum Dragon, Father
+of Good.    
+~
+21 1052 0 0 0
+D1
+~
+~
+0 0 1000
+S
+$~

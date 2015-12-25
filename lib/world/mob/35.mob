@@ -1,0 +1,347 @@
+#3500
+acolyte young~
+the young acolyte~
+A young acolyte is collecting the tithes offered by the patrons to the temple.
+~
+   She is dressed in a plain and simple blue robes that reflects the life of
+clerics.  On her right hand is a dark blue bag, that holds the tithes offered
+by the people to this temple, as a token of gratitude to the blessings of
+Mishakal.  Her hair is neatly braided to the back, and she has a beautiful warm
+smile.    
+~
+524300 0 6 0 E
+13 13 3 6d5+240 2d9+2
+351 6625 2
+8 8 2 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#3501
+cleric Mishakal~
+the cleric of Mishakal~
+A cleric of Mishakal walks along the aisle, giving assistance to the people.
+~
+   The young man stands along the aisle, helping the patrons who seek guidance
+and healing.  He is donned in white robes, with a symbol of blue infinity
+inscribed on the sleeves.  On his neck is a silver medallion, a symbol that he
+worships the Goddess of Healing.    
+~
+524300 0 2 0 E
+15 11 1 5d10+300 2d8+4
+390 8400 2
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#3502
+prelate temple~
+the prelate of the temple~
+A prelate of the temple kneels down in prayer.
+~
+   She kneels before the statue of Mishakal, with her head bowed down as a
+symbol of respect to the goddess.  She is murmuring what seems to be a chant to
+Mishakal, but the words are strange and unfamiliar to you.    
+~
+524298 40 34 0 E
+16 11 0 3d20+320 3d6+4
+523 11000 2
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#3503
+devoted worshipper~
+the devoted worshipper~
+A devoted worshipper is sitting on the pew.
+~
+   This well donned, middle aged man seems to have travel a long way.  His
+style of dressing is strange and not of the people in the nearby towns.  From
+gestures, he looks to be of noble blood.    
+~
+10 0 0 0 E
+12 13 4 5d6+210 2d8+3
+272 4700 0
+8 8 1 0
+Maxmove: 50
+E
+#3504
+guardian temple~
+the guardian of the temple~
+A guardian of the temple is stands vigilantly at the entrance.
+~
+   The guardian stands intimidatingly at the doors leading into the temple of
+Mishakal.  He is thoroughly armored in silver plates engraved with ivory
+symbols of peace and tranquility.  He greets the patrons of the temple with a
+nod and a quick smile.    
+~
+1114126 4224 0 0 E
+16 11 0 3d20+320 3d6+4
+479 11000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#3505
+keen gardener~
+the keen gardener~
+A keen gardener trims the bushes in the courtyard.
+~
+   He seems to take great pride in his work as he trims the bushes and waters
+the garden.  Wearing a hat to block out the sun, he diligently returns to his
+work after a quick stretch as to relieve the pain in the back due to bending
+for long hours.    
+~
+12 0 0 0 E
+12 13 4 5d6+210 2d8+3
+310 4700 0
+8 8 1 0
+Maxmove: 50
+E
+#3506
+priest Mishakal~
+the priest of Mishakal~
+The priest of Mishakal is preaching a sermon to the people.
+~
+   The priest is wearing an immaculate white robe that has symbols of a blue
+infinity incribed on the sleeves.  He has dark brown hair that hangs just above
+his broad shoulders.  With interesting gestures, the priest preaches to the
+patrons of the temple who are gathered before him.  He explains in simple yet
+accurate words as to avoid misinterpretation of Mishakal's teaching.    
+~
+532506 168 8388616 600 E
+17 10 -1 3d20+340 3d6+5
+622 11800 2
+8 8 1 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#3507
+priestess Mishakal~
+the priestess of Mishakal~
+A priestess of Mishakal greets you with a smile.
+~
+   She has long, ebony black hair that greatly strikes out as she is fair
+skinned.  Draped on her shoulders is a long, fur coat.  Wearing the usual robes
+of clerics in the temple, she walks graciously towards the altar, stopping
+occasionally to speak to the acolytes.    
+~
+532504 40 8388616 500 E
+17 10 -1 3d20+340 3d6+5
+600 11800 2
+8 8 2 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#3508
+frail old man~
+the frail, old man~
+A frail, old man sits comfortably on a chair overlooking the courtyard outside.
+~
+   The man frizzy, white hair and a long white beard.  He is dressed sloppily
+in white robes that looks oversized for his small, thin body.  He seems to be
+in a daze, hardly noticing your existence.    
+~
+565258 40 4 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 2
+8 8 1 0
+BareHandAttack: 12
+Maxmove: 50
+E
+#3509
+lavishly donned man~
+the lavishly donned man~
+A lavishly donned man is unpacking his belongings here.
+~
+   The man seems to come from a rather wealthy and well to do family.  His
+clothes are decorated with jewels and gems.  As he unpacks his many belongings,
+he frowns at the condition of the room.    
+~
+2058 0 0 0 E
+12 13 4 5d6+210 2d8+3
+104 4700 0
+8 8 1 0
+Maxmove: 50
+E
+#3510
+middle aged woman~
+the middle aged woman~
+A middle aged woman is tidying up the room.
+~
+   Her hair is neatly tied back from her pale, rounded face.  She looks tired
+and exhausted from a day of cleaning and tidying of the rooms in the temple.  
+However, she seems happy with her chores as she hums softly to herself while
+performing her duties.    
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 2 0
+Maxmove: 50
+E
+#3511
+dwarven clergyman~
+the dwarven clergyman~
+A dwarven clergyman taps his feet impatiently.
+~
+   He is stout and shorter than the average dwarves.  Holding a club in his
+left hand, he waits impatiently in the corridor of the temple.  It seems that
+he is not alone, as a few other fellow dwarves can be seen pacing the walkway.
+  
+~
+8 0 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#3512
+elven traveller~
+the elven traveller~
+An elven traveller is walking up the steps of the temple.
+~
+   Taking cautious steps, the elf walks towards the entrance of the temple.  
+His green pants and plain, brown shirt stands out amongst the people, though it
+fits an elf perfectly for their love of nature.  On his shoulder is a small
+backpack, that is simple yet sufficient for a light traveller.    
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 1 0
+Maxmove: 50
+E
+#3513
+elven priestess~
+the elven priestess~
+An elven priestess is listening intently to the issues brought up by the others.
+~
+   The priestess is greatly respected by the others as most of the issues
+discussed are brought to her attention.  Her words and advise are taken
+seriously by the rest, a sign that she has great influence on the decisions
+that would be made today.  Hanging on her neck is a medallion engraved with the
+symbol of a silver triangle.    
+~
+532490 40 16392 0 E
+17 10 -1 3d20+340 3d6+5
+649 11800 2
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#3514
+patron temple~
+the patron~
+A patron of the temple takes a quick glance at you and then passes on.
+~
+   Wearing common clothes, the worshipper gradually walks along the aisle, in
+awe of the size and beauty of the temple.  He stops to offer a basket of
+rations and fruits to the clerics, as a donation to the temple.    
+~
+8 0 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 1 0
+Maxmove: 50
+E
+#3515
+acolyte~
+the acolyte~
+An acolyte is tidying up the chamber of the clerics.
+~
+   The young acolyte is barely sixteen years old.  She has dark brown hair that
+hangs lustrously on her shoulders.  She carefully sweeps the floor and wipes
+the dust from the many furnitures in this chamber.    
+~
+10 0 0 300 E
+12 13 4 5d6+210 2d8+3
+112 4700 0
+8 8 2 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#3516
+devout pilgrim~
+the devout pilgrim~
+A devout pilgrim is overwhelmed by the magnificence of the temple.
+~
+   The pilgrim seems energized by the sight before her.  She is speechless as
+she steps into the temple.  Reaching the destination of her journey, she cries
+in joy for the blessings bestowed upon her.  She reaches out for something to
+lean on as to regain her composure.    
+~
+8 0 0 250 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 2 0
+Maxmove: 50
+E
+#3517
+statue mishakal~
+the statue of Mishakal~
+A statue of Mishakal stands above a pedestal set in the center of the altar.
+~
+   The marble statue emanates a pale glow that envelopes this huge temple and
+its surroundings.  The statue is of singular grace and beauty, and is a woman
+in flowing robes.  Her marble face bears an expression of radiant hope.  On her
+neck is a silver amulet.    
+~
+3891226 4264 8405008 1000 E
+28 2 -12 3d33+1250 4d7+9
+0 175000 2
+8 8 2 0
+BareHandAttack: 6
+Maxmove: 50
+E
+T 2
+T 3507
+#3518
+priest mishakal junior~
+a junior priest of Mishakal~
+A junior priest of Mishakal stands off to one side here.
+~
+   This priest is wearing an immaculate white robe that has symbols of the blue
+infinity inscribed on the sleeves.  She is here to assist the more senior
+priest in the ceremonies which glorify their god.  While looking at her you
+catch a glimpse of light reflected of off some type of crystal.    
+~
+524298 0 1048578 0 E
+14 12 2 6d8+240 2d8+4
+0 7000 2
+8 8 2 0
+Maxmove: 50
+E
+#3519
+cat white sleepy~
+a large white cat~
+A large white cat wanders the area, looking a bit sleepy.
+~
+   This large feline wanders the area slowly, taking its time.  Its fur is as
+white as driven snow, and looks very soft.  It searches the area idly with eyes
+of vivid gold, blinking often.  This, combined with frequent yawns, would lead
+one to believe this cat is searching for a nice place to curl up.    
+~
+65560 263168 0 0 E
+10 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#3520
+adept healing hand~
+an adept~
+An adept of the Healing Hand walks the halls here on some errand.
+~
+   This young adept walks the halls, obviously on some errand.  She is dressed
+in plain, light blue robes which lack any adornment.  A small package is held
+at her side, likely on its way into someone else's hands soon enough.    
+~
+524296 0 2 850 E
+10 14 6 5d4+160 2d7+2
+50 1900 2
+8 8 2 0
+Maxmove: 50
+E
+$

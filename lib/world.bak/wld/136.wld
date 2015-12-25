@@ -1,0 +1,2015 @@
+#13600
+A Barely Perceptible Trail Along the Bay of Balifor~
+   A narrow trail is barely perceptible amongst the tall grasses that grow
+along the marshy shoreline of the Bay of Balifor.  By the looks of things the
+trail is likely only used by animals coming to the shoreline in search of food
+or perhaps water.  Gulls and other birds ride the air currents overhead,
+circling lazily for much of the day.    
+~
+136 0 2 0 0
+D0
+~
+~
+0 0 13685
+D9
+~
+~
+0 0 13686
+S
+#13601
+The Center of Bayside Village Square~
+   The village square is the hub of activity during the daytime hours.  The
+children often come here to play while their parents tend to the chores of
+daily life.  Here at the center of the square, a large cistern has been created
+to catch rain water.  Being so close to the bay, the groundwater here is often
+too salty to drink.  A stone path encircles the cistern for easy access.    
+~
+136 4 1 0 0
+D0
+~
+~
+0 0 13614
+D1
+~
+~
+0 0 13616
+D2
+~
+~
+0 0 13618
+D3
+~
+~
+0 0 13620
+S
+#13602
+A Narrow Path Along the Southern Wall~
+   This narrow path runs close to the southern wall of the village.  It is
+lined with the modest dwelling which are home to the town's residents.  The
+path is not paved in any way, and each footstep seems to stir up a bit of dust
+or mud, depending on the weather.  Occasionally a chicken, or some other small
+barnyard animal, wanders by as it hunts for food.    
+~
+136 0 1 0 0
+D0
+~
+door~
+1 0 13607
+D1
+~
+~
+0 0 13621
+D2
+~
+door~
+1 0 13640
+D3
+~
+~
+0 0 13604
+S
+#13603
+Along the Boardwalk~
+   This boardwalk stretches along the entire eastern edge of Bayside Fishing
+Village.  The boards were favored over flooding at times of high tides.  The
+coastline curves toward the east, leaving an area of marshy grasslands below
+this section of the boardwalk.  Stands to the west.  A brightly painted sign
+beside the door reads, 'The General Store'.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13605
+D2
+~
+~
+0 0 13615
+D3
+~
+door~
+1 0 13679
+S
+#13604
+A Narrow Path Along the Southern Wall~
+   This narrow path continue along the southern and western walls of the
+village.  It is lined with the tiny dwellings that are home to some of the
+town's residents.  Children are often seen running along the path or playing in
+the small yards between the houses during the daytime hours.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13630
+D1
+~
+~
+0 0 13602
+D2
+~
+door~
+1 0 13612
+D3
+~
+door~
+1 0 13638
+S
+#13605
+Along the Boardwalk~
+   This is the northernmost point on the boardwalk which stretches along the
+entire eastern edge of Bayside Fishing Village, from the northern to the
+southern wall.  This portion of the Bay is still very much subject to the tidal
+conditions of the ocean, and as such the boardwalk was created to allow the
+residents to make the most of the waterfront without the worry of the rising
+and falling water level.  The coastline curves toward the east, leaving an area
+of marshy grasslands below this section of the boardwalk.  A staircase at the
+edge of the boardwalk leads down to walkways built amongst the salt marshes
+below.    
+~
+136 0 1 0 0
+D2
+~
+~
+0 0 13603
+D3
+~
+~
+0 0 13636
+D5
+~
+~
+0 0 13673
+S
+#13606
+A Small Dwelling~
+   This tiny home is a bit cramped.  Farming tools and baskets cover the walls.
+Those that are too large to hang have been stacked neatly in the corner.  A
+fireplace is built into the northern wall, providing both light and warmth for
+the home.  A fireplace is built into the northern wall, providing both light
+and warmth for the home.  A wooden rocking chair is set beside the fireplace
+with a small footstool at placed in front of it.    
+~
+136 8 0 0 0
+D0
+~
+~
+0 0 13635
+S
+#13607
+A Small Dwelling~
+   This tiny home is a bit cramped.  Farming tools and baskets cover the walls.
+Those that are too large to hang have been stacked neatly in the corner.  A
+fireplace is built into the northern wall, providing both light and warmth for
+the home.  A fireplace is built into the northern wall, providing both light
+and warmth for the home.  A wooden rocking chair is set beside the fireplace
+with a small footstool at placed in front of it.    
+~
+136 8 0 0 0
+D2
+~
+door~
+1 0 13602
+S
+#13608
+A Dirty Alley~
+   This narrow alley leads between the outer wall of the village and another
+makeshift wall which has been constructed to contain the filth which is
+discarded here.  Clearly this alley, which is no more than two armlengths wide,
+is the dump of this tiny village.  A strong stench of rotting food fills your
+nostrils as you stand in this filthy place.    
+~
+136 260 0 0 0
+D1
+~
+~
+0 0 13680
+D8
+~
+~
+0 0 13611
+S
+#13609
+Before the Main Gate of Bayside Fishing Village~
+   This street is the main street of the village.  It is generally crowded with
+people throughout the daylight hours and into the evening.  It is paved with
+cobblestones which were drawn from the Bay of Balifor.  The edges of each of
+the stones has been smoothed by the water, making them excellent pavers.  They
+are rather eye-catching as well, ranging in colors from light brown to gray.  
+A sign on the building to the south reveals it as The Salt Marsh Tavern,
+Bayside Village's only public house.  To the north stands the main gate of the
+village.    
+~
+136 0 1 0 0
+D0
+   A wooden gate set in the village wall blocks passage to the north.    
+~
+gate wooden~
+1 0 13632
+D1
+~
+~
+0 0 13636
+D2
+~
+~
+0 0 13637
+D3
+~
+~
+0 0 13635
+E
+sign tavern building~
+
+A large sign hangs beside the door to the south.  It reads
+
+                       The
+
+                       Salt
+
+                      Marsh
+
+                      Tavern
+
+~
+S
+#13610
+The Main Street of Bayside Village~
+   This street is the main street of the village.  It is generally crowded with
+people throughout the daylight hours and into the evening.  It is paved with
+cobblestones which were drawn from the Bay of Balifor.  The edges of each of
+the stones has been smoothed by the water, making them excellent pavers.  They
+are rather eye-catching as well, ranging in colors from light brown to gray.  
+A wooden pen to the north houses several varieties of livestock.    
+~
+136 0 1 0 0
+D1
+~
+~
+0 0 13635
+D3
+~
+~
+0 0 13634
+S
+#13611
+A Dirty Alley~
+   This narrow alley leads between the outer wall of the village and another
+makeshift wall which has been constructed to contain the filth which is
+discarded here.  Clearly this alley, which is no more than two armlengths wide,
+is the dump of this tiny village.  A strong stench of rotting food fills your
+nostrils as you stand in this filthy place.    
+~
+136 256 2 0 0
+D3
+~
+~
+0 0 13678
+D7
+~
+~
+0 0 13608
+S
+#13612
+A Modest Home~
+   This tiny dwelling is modestly furnished but still rather cozy.  Drapes are
+hung on each of the windows, and the dull wood flooring is covered with a mat
+which has been hand-woven from the reeds which are so abundant in this area.  
+A crackling fire burns in the fireplace providing both light and warmth.  A
+large portrait of the family is displayed with pride over the mantle.    
+~
+136 8 0 0 0
+D0
+~
+door~
+1 0 13604
+S
+#13613
+A Small Cottage~
+   This tiny dwelling is modestly furnished but still rather cozy.  Drapes are
+hung on each of the windows, and the dull wood flooring is covered with a mat
+which has been hand-woven from the reeds which are so abundant in this area.  
+A crackling fire burns in the fireplace providing both light and warmth.  A
+large portrait of the family is displayed with pride over the mantle.    
+~
+136 8 0 0 0
+D2
+~
+~
+0 0 13621
+S
+#13614
+Bayside Village Square~
+   The village square is the hub of activity during the daytime hours.  The
+children often come here to play while their parents tend to the chores of
+daily life.  A few modest flower beds line the edge of the square.  They are
+planted primarily with succulent plants which can easily store rainwater and
+tend to thrive in this sandy soil.  A sign on the building to the northwest
+reveals it as The Salt Marsh Tavern, Bayside Village's only public house.    
+~
+136 0 1 0 0
+D1
+~
+~
+0 0 13615
+D2
+~
+~
+0 0 13601
+D6
+~
+~
+0 0 13637
+D8
+~
+~
+0 0 13620
+E
+sign tavern building~
+
+A large sign hangs beside the door to the south.  It reads
+
+                       The
+
+                       Salt
+
+                      Marsh
+
+                      Tavern
+
+~
+S
+#13615
+Along the Boardwalk~
+   This boardwalk stretches along the entire eastern edge of Bayside Fishing
+Village.  The boards were favored over flooding at times of high tides.  The
+water's edge generally lies at about fifteen feet below the level of the
+village itself, but during high tides or after heavy rains the water comes up
+nearly as high as the boardwalk.  To the west the open area known as Bayside
+Village Square is clearly visible.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13603
+D2
+~
+~
+0 0 13616
+D3
+~
+~
+0 0 13614
+S
+#13616
+Along the Boardwalk~
+   This boardwalk stretches along the entire eastern edge of Bayside Fishing
+Village.  The boards were favored over flooding at times of high tides.  The
+water's edge generally lies at about fifteen feet below the level of the
+village itself, but during high tides or after heavy rains the water comes up
+nearly as high as the boardwalk.  The Center of Bayside Village square is
+visible to the west.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13615
+D2
+~
+~
+0 0 13617
+D3
+~
+~
+0 0 13601
+S
+#13617
+Along the Boardwalk~
+   This is the southernmost point on the boardwalk which stretches along the
+entire eastern edge of Bayside Fishing Village, from the northern to the
+southern wall.  The wooden planks extend out over the Bay here, forming a pier
+for the many fishing boats which make port here.  This portion of the bay is
+still very much subject to the tidal conditions of the ocean, and as such the
+boardwalk was created to allow the residents to make the most of the waterfront
+without the worry of the rising and falling water level.  A tall stone tower to
+the south stands watch over the village and the bay.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13616
+D1
+~
+~
+0 0 13624
+D2
+~
+~
+0 0 13688
+D3
+~
+~
+0 0 13618
+S
+#13618
+A Narrow Path Along the Southern Wall~
+   This narrow path runs close to the southern wall of the village.  It is
+lined with the modest dwelling which are home to the town's residents.  The
+path is not paved in any way, and each footstep seems to stir up a bit of dust
+barnyard animal, wanders by as it hunts for food.  Or mud, depending on the
+weather.  During the daytime children run along the path as they make their way
+from their homes to the village square.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13601
+D1
+~
+~
+0 0 13617
+D2
+   A section of the wall to the south opens to the outside world.    
+~
+wall gate section~
+1 0 13680
+D3
+~
+~
+0 0 13619
+S
+#13619
+A Narrow Path Along the Southern Wall~
+   This narrow path runs close to the southern wall of the village.  It is
+lined with the modest dwelling which are home to the town's residents.  The
+path is not paved in any way, and each footstep seems to stir up a bit of dust
+or mud, depending on the weather.  Occasionally a chicken, or some other small
+barnyard animal, wanders by as it hunts for food.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13620
+D1
+~
+~
+0 0 13618
+D3
+~
+~
+0 0 13621
+S
+#13620
+Bayside Village Square~
+   The village square is the hub of activity during the daytime hours.  The
+children often come here to play while their parents tend to the chores of
+daily life.  A few modest flower beds line the edge of the square.  They are
+planted primarily with succulent plants which can easily store rainwater and
+tend to thrive in this sandy soil.    
+~
+136 0 1 0 0
+D1
+~
+~
+0 0 13601
+D2
+~
+~
+0 0 13619
+D7
+~
+~
+0 0 13614
+S
+#13621
+A Narrow Path Along the Southern Wall~
+   This narrow path runs close to the southern wall of the village.  It is
+lined with the modest dwelling which are home to the town's residents.  The
+path is not paved in any way, and each footstep seems to stir up a bit of dust
+or mud, depending on the weather.  Occasionally a chicken, or some other small
+barnyard animal, wanders by as it hunts for food.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13613
+D1
+~
+~
+0 0 13619
+D3
+~
+~
+0 0 13602
+S
+#13622
+Bayside Fishing Village Wharf~
+   The wooden boardwalk which hugs the water's edge along the eastern side of
+the village has been extended out over the water here to create a long pier.  
+The pier is home the resident's small fishing boats and is periodically visited
+by merchant ships and other fishing vessels.  The northern side of the pier is
+reserved for the use of the villagers, while the slips on the southern side are
+generally left open for visiting water craft.    
+~
+136 0 1 0 0
+D3
+~
+~
+0 0 13623
+S
+#13623
+Bayside Fishing Village Wharf~
+   The wooden boardwalk which hugs the water's edge along the eastern side of
+the village has been extended out over the water here to create a long pier.  
+The pier is home the resident's small fishing boats and is periodically visited
+by merchant ships and other fishing vessels.  The northern side of the pier is
+reserved for the use of the villagers, while the slips on the southern side are
+generally left open for visiting water craft.    
+~
+136 0 1 0 0
+D1
+~
+~
+0 0 13622
+D3
+~
+~
+0 0 13624
+S
+#13624
+Bayside Fishing Village Wharf~
+   The wooden boardwalk which hugs the water's edge along the eastern side of
+the village has been extended out over the water here to create a long pier.  
+The pier is home the resident's small fishing boats and is periodically visited
+by merchant ships and other fishing vessels.  The northern side of the pier is
+reserved for the use of the villagers, while the slips on the southern side are
+generally left open for visiting water craft.    
+~
+136 0 1 0 0
+D1
+~
+~
+0 0 13623
+D3
+~
+~
+0 0 13617
+S
+#13625
+Within a Fenced Enclosure~
+   This enclosure serves as the grazing area for any larger livestock that
+lives within the village walls.  The grass here is a bit trampled but much
+greener than the areas of the village that border the Bay of Balifor.  A trough
+filled with grain sits against the eastern side of the pen.  Another filled
+with water stands beside it.    
+~
+136 0 2 0 0
+D0
+~
+~
+0 0 13628
+D3
+~
+~
+0 0 13626
+S
+#13626
+Within a Fenced Enclosure~
+   This enclosure serves as the grazing area for any larger livestock that
+lives within the village walls.  The grass here is a bit trampled but much
+greener than the areas of the village that border the Bay of Balifor.  A trough
+filled with grain sits against the western side of the pen.  Another filled
+with water stands beside it.    
+~
+136 4 2 0 0
+D0
+~
+~
+0 0 13627
+D1
+~
+~
+0 0 13625
+D2
+   A wooden gate leads back to the main street.    
+~
+gate wooden~
+1 0 13634
+S
+#13627
+Within a Fenced Enclosure~
+   This enclosure serves as the grazing area for any larger livestock that
+lives within the village walls.  The grass here is a bit trampled but much
+greener than the areas of the village that border the Bay of Balifor.  A trough
+filled with grain sits against the western side of the pen.  Another filled
+with water stands beside it.  The outer wall of the village is clearly visible
+just beyond the northern side of the pen.    
+~
+136 0 2 0 0
+D1
+~
+~
+0 0 13628
+D2
+~
+~
+0 0 13626
+S
+#13628
+Within a Fenced Enclosure~
+   This enclosure serves as the grazing area for any larger livestock that
+lives within the village walls.  The grass here is a bit trampled but much
+greener than the areas of the village that border the Bay of Balifor.  A trough
+filled with grain sits against the eastern side of the pen.  Another filled
+with water stands beside it.  The outer wall of the village is clearly visible
+just beyond the northern side of the pen.    
+~
+136 0 2 0 0
+D2
+~
+~
+0 0 13625
+D3
+~
+~
+0 0 13627
+S
+#13629
+A Village Path~
+   A slight breeze blows along the western wall causing the sandy soil to swirl
+in the air.  Children run along the path, not seeming bothered by the dust.  
+They giggle and laugh as they chase eachother through the village.  
+Occasionally a small domesticated animals, a cat or a chicken, runs along after
+the children, as if they are enjoying the games.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13634
+D1
+~
+door~
+1 0 13639
+D2
+~
+~
+0 0 13633
+S
+#13630
+A Village Path~
+   This narrow path continue along the southern and western walls of the
+village.  It is lined with the tiny dwellings that are home to some of the
+town's residents.  Children are often seen running along the path or playing in
+the small yards between the houses during the daytime hours.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13633
+D2
+~
+~
+0 0 13604
+S
+#13631
+At the Base of a Watch Tower~
+   This brick and wood tower stands just east of the main gate of Bayside
+Fishing Village.  The base of the tower is comprised of several courses of mud
+brick which is quite common in this region.  The upper portions of the tower
+are made up mostly of wood, suggesting that they were added at some later time
+for increased height and visibility.  Two arrowloops set in the brick wall
+permit those within to observe, and if necessary attack, anyone standing
+outside the gates of the village.  A staircase follows the outer curve of the
+wall and leads up to the lookout point.    
+~
+136 8 0 0 0
+D3
+~
+~
+0 0 13632
+D4
+~
+~
+0 0 13668
+S
+#13632
+Before the Gate of Bayside Fishing Village~
+   A large wooden gate, which appears to be the only entrance to this village,
+blocks passage to the south.  Next to the gate a wooden sign bearing the words
+'Bayside Fishing Village' sways gently in the breeze.  To the east stands a
+brick and wood building which serves as a lookout post and guard tower.  Two
+arrowloops set in the brick wall permit those within to observe, and if
+necessary attack, anyone standing outside the gates of the village.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 8960
+D1
+~
+~
+0 0 13631
+D2
+   A wooden gate set in the village wall blocks passage to the south.    
+~
+gate wooden~
+1 0 13609
+S
+#13633
+A Village Path~
+   This narrow path continue along the southern and western walls of the
+village.  It is lined with the tiny dwellings that are home to some of the
+town's residents.  Children are often seen running along the path or playing in
+the small yards between the houses during the daytime hours.    
+~
+136 0 1 0 0
+D0
+~
+~
+0 0 13629
+D1
+~
+door~
+1 0 13677
+D2
+~
+~
+0 0 13630
+S
+#13634
+The Main Street of Bayside Village~
+   This street is the main street of the village.  It is generally crowded with
+people throughout the daylight hours and into the evening.  It is paved with
+cobblestones which were drawn from the Bay of Balifor.  The edges of each of
+the stones has been smoothed by the water, making them excellent pavers.  They
+are rather eye-catching as well, ranging in colors from light brown to gray.  
+A small gate to the north allows access to a wooden pen that houses several
+varieties of livestock.    
+~
+136 0 1 0 0
+D0
+   This small gate allows access to a wooden pen that houses several varieties
+of livestock.    
+~
+gate wooden~
+1 0 13626
+D1
+~
+~
+0 0 13610
+D2
+~
+~
+0 0 13629
+S
+#13635
+The Main Street of Bayside Village~
+   This street is the main street of the village.  It is generally crowded with
+people throughout the daylight hours and into the evening.  It is paved with
+cobblestones which were drawn from the Bay of Balifor.  The edges of each of
+the stones has been smoothed by the water, making them excellent pavers.  They
+are rather eye-catching as well, ranging in colors from light brown to gray.  
+To the south is one of the many modest dwellings which are home to the
+residents of this hamlet.    
+~
+136 0 1 0 0
+D1
+~
+~
+0 0 13609
+D2
+~
+~
+0 0 13606
+D3
+~
+~
+0 0 13610
+S
+#13636
+The Main Street of Bayside Village~
+   This street is the main street of the village.  It is generally crowded with
+people throughout the daylight hours and into the evening.  It is paved with
+cobblestones which were drawn from the Bay of Balifor.  The edges of each of
+the stones has been smoothed by the water, making them excellent pavers.  They
+are rather eye-catching as well, ranging in colors from light brown to gray.  
+~
+136 0 1 0 0
+D1
+~
+~
+0 0 13605
+D3
+~
+~
+0 0 13609
+S
+#13637
+The Common Room of the Salt Marsh Tavern~
+   This tavern is the only one of its kind in Bayside Fishing Village.  It
+serves as a popular meeting place for the residents during the late evening
+hours.  It is also home to a few modest sleeping chambers for visitors to this
+small hamlet who are in need of overnight accommodations.  The tavern is simply
+furnished with long wooden tables flanked by narrow benches.  There are two
+exits from the tavern: north to Main Street and southeast to the village
+square.    
+~
+136 8 0 0 0
+D0
+~
+~
+0 0 13609
+D4
+~
+~
+0 0 13690
+D9
+~
+~
+0 0 13614
+S
+#13638
+A Dwelling~
+   This comfortable little cottage is very nicely furnished.  A short-legged
+table sits in the middle of the main room, surrounded by finely carved wooden
+chairs.  Tantalizing aromas fill the air as something bubbles in a clay pot
+which is visible atop the stove.  A thick curtain to the south divides the main
+room of the cottage from a separate sleeping area.    
+~
+136 8 0 0 0
+D1
+~
+door~
+1 0 13604
+S
+#13639
+A Dwelling~
+   This comfortable little cottage is very nicely furnished.  A short-legged
+table sits in the middle of the main room, surrounded by finely carved wooden
+chairs.  Tantalizing aromas fill the air as something bubbles in a clay pot
+which is visible atop the stove.  A thick curtain to the south divides the main
+room of the cottage from a separate sleeping area.    
+~
+136 8 0 0 0
+D3
+~
+door~
+1 0 13629
+S
+#13640
+A Dwelling~
+   You step into a comfortable, little cottage.  It is very nicely furnished,
+with a short legged table sitting in the middle, surrounded by finely carved
+wooden chairs.  Atop a stove at one end is a clay pot, emitting a tantalizing
+aroma that reminds you of home cooked food.    
+~
+136 8 0 0 0
+D0
+~
+door~
+1 0 13602
+S
+#13641
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the south and east the waters are too deep
+to stand in but are excellent for fishing.  However, the marshy area to the
+west is generally passable by those who do not mind getting their feet wet.  
+For those who prefer to stay dry, the walkways provide an excellent vantage
+point for fishing or enjoying the scenery.    
+~
+136 2097152 2 0 0
+D0
+~
+~
+0 0 13652
+D3
+~
+~
+0 0 13662
+S
+#13642
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  This portion of the marsh is
+bordered to the south and east by the wooden walkway that the fishermen of this
+area use when casting into the open water or harvesting the marsh pools.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13654
+D1
+~
+~
+0 0 13652
+D2
+~
+~
+0 0 13662
+D3
+~
+~
+0 0 13661
+S
+#13643
+Within a Salt Marsh~
+   Rapid changes in salinity, temperature and exposure create stressful
+conditions and thereby limit how many species occur in this habitat.  Fiddler
+crabs, marsh snails and marsh mussels are all abundant however.  The popular
+and highly prized oyster generally makes its home in salt marshes too.  During
+their harvest, locals flock to this region.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13655
+D1
+~
+~
+0 0 13654
+D2
+~
+~
+0 0 13661
+D3
+~
+~
+0 0 13656
+S
+#13644
+Within a Salt Marsh~
+   An amazing variety of birds and insects make their home in the tall grasses
+which thrive in the marshlands.  The abundance of life here tends to vary with
+the salinity and depth of the water.  However, there is always something here
+for the skilled fisherman: whether it be small crabs, oysters, or fish trapped
+in the small pools which form amongst the grasses.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13675
+D1
+~
+~
+0 0 13655
+D2
+~
+~
+0 0 13656
+D3
+~
+~
+0 0 13657
+S
+#13645
+Within a Salt Marsh~
+   An amazing variety of birds and insects make their home in the tall grasses
+which thrive in the marshlands.  The abundance of life here tends to vary with
+the salinity and depth of the water.  However, there is always something here
+for the skilled fisherman: whether it be small crabs, oysters, or fish trapped
+in the small pools which form amongst the grasses.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13657
+D1
+~
+~
+0 0 13656
+D2
+~
+~
+0 0 13659
+D3
+~
+~
+0 0 13658
+S
+#13646
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  To the south is the wooden
+walkway that the fishermen of this area use when casting into the open water or
+harvesting the marsh pools.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13658
+D1
+~
+~
+0 0 13659
+D2
+~
+~
+0 0 13651
+D3
+~
+~
+0 0 13669
+S
+#13647
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the south the waters are too deep to stand
+in but are excellent for fishing.  However, the marshy area to the north is
+generally passable by those who do not mind getting their feet wet.  For those
+who prefer to stay dry, the walkways provide an excellent vantage point for
+fishing or enjoying the scenery.    
+~
+136 2097152 2 0 0
+D0
+~
+~
+0 0 13659
+D1
+~
+~
+0 0 13660
+D3
+~
+~
+0 0 13651
+S
+#13648
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the east the waters are too deep to stand
+in but are excellent for fishing.  However, the marshy area to the west is
+generally passable by those who do not mind getting their feet wet.  For those
+who prefer to stay dry, the walkways provide an excellent vantage point for
+fishing or enjoying the scenery.    
+~
+136 2097152 2 0 0
+D0
+~
+~
+0 0 13676
+D2
+~
+~
+0 0 13663
+D3
+~
+~
+0 0 13664
+S
+#13649
+Within a Salt Marsh~
+   This salt marshes is teaming with life at all times of year.  In spring and
+summer, the area is lush green from the varieties of grasses which grow here..
+In late fall, the green begins to turn brown as leaves die and decomposition
+begins.  This dead plant matter enriches the sandy soil and serves as food for
+the small animals that dwell in these shallow waters.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13666
+D1
+~
+~
+0 0 13657
+D2
+~
+~
+0 0 13658
+D3
+~
+~
+0 0 13674
+S
+#13650
+Within a Salt Marsh~
+   This salt marshes is teaming with life at all times of year.  In spring and
+summer, the area is lush green from the varieties of grasses which grow here..
+In late fall, the green begins to turn brown as leaves die and decomposition
+begins.  This dead plant matter enriches the sandy soil and serves as food for
+the small animals that dwell in these shallow waters.  To the south is the
+wooden walkway that the fishermen of this area use when casting into the open
+water or harvesting the pools which form amongst the grasses.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13656
+D1
+~
+~
+0 0 13661
+D2
+~
+~
+0 0 13660
+D3
+~
+~
+0 0 13659
+S
+#13651
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the south the waters are too deep to stand
+in but are excellent for fishing.  However, the marshy area to the north is
+generally passable by those who do not mind getting their feet wet.  For those
+who prefer to stay dry, the walkways provide an excellent vantage point for
+fishing or enjoying the scenery.    
+~
+136 2097152 2 0 0
+D0
+~
+~
+0 0 13646
+D1
+~
+~
+0 0 13647
+D3
+~
+~
+0 0 13673
+S
+#13652
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the east the waters are too deep to stand
+in but are excellent for fishing.  However, the marshy area to the west is
+generally passable by those who do not mind getting their feet wet.  For those
+who prefer to stay dry, the walkways provide an excellent vantage point for
+fishing or enjoying the scenery.    
+~
+136 2097156 2 0 0
+D0
+~
+~
+0 0 13663
+D2
+~
+~
+0 0 13641
+D3
+~
+~
+0 0 13642
+S
+#13653
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the south the waters are too deep to stand
+in but are excellent for fishing.  However, the marshy area to the north is
+generally passable by those who do not mind getting their feet wet.  For those
+who prefer to stay dry, the walkways provide an excellent vantage point for
+fishing or enjoying the scenery.    
+~
+136 2097152 2 0 0
+D0
+~
+~
+0 0 13661
+D1
+~
+~
+0 0 13662
+D3
+~
+~
+0 0 13660
+S
+#13654
+Within a Salt Marsh~
+   An amazing variety of birds and insects make their home in the tall grasses
+which thrive in the marshlands.  The abundance of life here tends to vary with
+the salinity and depth of the water.  However, there is always something here
+for the skilled fisherman: whether it be small crabs, oysters, or fish trapped
+in the small pools which form amongst the grasses.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13664
+D1
+~
+~
+0 0 13663
+D2
+~
+~
+0 0 13642
+D3
+~
+~
+0 0 13643
+S
+#13655
+Within a Salt Marsh~
+   Salt marshes are transitional areas between land and water, occurring along
+the intertidal shore of bays such as this where salinity ranges from near ocean
+strength to near fresh.  Since this coastal area is influenced by the twice
+daily rise and fall of the tide from the Courrain Ocean, it is subject to rapid
+changes in salinity, temperature and water depth.  Residents of this region
+know the tidal schedule and to retreat to higher ground before the water level
+rises too high.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13667
+D1
+~
+~
+0 0 13664
+D2
+~
+~
+0 0 13643
+D3
+~
+~
+0 0 13644
+S
+#13656
+Within a Salt Marsh~
+   This salt marshes is teaming with life at all times of year.  In spring and
+summer, the area is lush green from the varieties of grasses which grow here..
+In late fall, the green begins to turn brown as leaves die and decomposition
+begins.  This dead plant matter enriches the sandy soil and serves as food for
+the small animals that dwell in these shallow waters.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13644
+D1
+~
+~
+0 0 13643
+D2
+~
+~
+0 0 13650
+D3
+~
+~
+0 0 13645
+S
+#13657
+Within a Salt Marsh~
+   Salt marshes are transitional areas between land and water, occurring along
+the intertidal shore of bays such as this where salinity ranges from near ocean
+strength to near fresh.  Since this coastal area is influenced by the twice
+daily rise and fall of the tide from the Courrain Ocean, it is subject to rapid
+changes in salinity, temperature and water depth.  Residents of this region
+know the tidal schedule and to retreat to higher ground before the water level
+rises too high.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13671
+D1
+~
+~
+0 0 13644
+D2
+~
+~
+0 0 13645
+D3
+~
+~
+0 0 13649
+S
+#13658
+Within a Salt Marsh~
+   Salt marshes are transitional areas between land and water, occurring along
+the intertidal shore of bays such as this where salinity ranges from near ocean
+strength to near fresh.  Since this coastal area is influenced by the twice
+daily rise and fall of the tide from the Courrain Ocean, it is subject to rapid
+changes in salinity, temperature and water depth.  Residents of this region
+know the tidal schedule and to retreat to higher ground before the water level
+rises too high.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13649
+D1
+~
+~
+0 0 13645
+D2
+~
+~
+0 0 13646
+D3
+~
+~
+0 0 13665
+S
+#13659
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  To the south is the wooden
+walkway that the fishermen of this area use when casting into the open water or
+harvesting the shallow pools of the marshes.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13645
+D1
+~
+~
+0 0 13650
+D2
+~
+~
+0 0 13647
+D3
+~
+~
+0 0 13646
+S
+#13660
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the south the waters are too deep to stand
+in but are excellent for fishing.  However, the marshy area to the north is
+generally passable by those who do not mind getting their feet wet.  For those
+who prefer to stay dry, the walkways provide an excellent vantage point for
+fishing or enjoying the scenery.    
+~
+136 2097152 2 0 0
+D0
+~
+~
+0 0 13650
+D1
+~
+~
+0 0 13653
+D3
+~
+~
+0 0 13647
+S
+#13661
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  To the south is the wooden
+walkway that the fishermen of this area use when casting into the open water or
+harvesting the shallow pools of the marshes.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13643
+D1
+~
+~
+0 0 13642
+D2
+~
+~
+0 0 13653
+D3
+~
+~
+0 0 13650
+S
+#13662
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the south the waters are too deep to stand
+in but are excellent for fishing.  However, the marshy area to the north is
+generally passable by those who do not mind getting their feet wet.  For those
+who prefer to stay dry, the walkways provide an excellent vantage point for
+fishing or enjoying the scenery.    
+~
+136 2097152 2 0 0
+D0
+~
+~
+0 0 13642
+D1
+~
+~
+0 0 13641
+D3
+~
+~
+0 0 13653
+S
+#13663
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the east the waters are too deep to stand
+in but are excellent for fishing.  However, the marshy area to the west is
+generally passable by those who do not mind getting their feet wet.  For those
+who prefer to stay dry, the walkways provide an excellent vantage point for
+fishing or enjoying the scenery.    
+~
+136 2097152 2 0 0
+D0
+~
+~
+0 0 13648
+D2
+~
+~
+0 0 13652
+D3
+~
+~
+0 0 13654
+S
+#13664
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  To the east is the wooden walkway
+that the fishermen of this area use when casting into the open water or
+harvesting the marsh pools.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13672
+D1
+~
+~
+0 0 13648
+D2
+~
+~
+0 0 13654
+D3
+~
+~
+0 0 13655
+S
+#13665
+Within a Salt Marsh~
+   This salt marshes is teaming with life at all times of year.  In spring and
+summer, the area is lush green from the varieties of grasses which grow here..
+In late fall, the green begins to turn brown as leaves die and decomposition
+begins.  This dead plant matter enriches the sandy soil and serves as food for
+the small animals that dwell in these shallow waters.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13674
+D1
+~
+~
+0 0 13658
+D2
+~
+~
+0 0 13669
+S
+#13666
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  To the north the water is far too
+deep for wading.    
+~
+136 0 2 0 0
+D1
+~
+~
+0 0 13671
+D2
+~
+~
+0 0 13649
+D3
+~
+~
+0 0 13670
+S
+#13667
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  To the north the water is far too
+deep for wading.    
+~
+136 0 6 0 0
+D1
+~
+~
+0 0 13672
+D2
+~
+~
+0 0 13655
+D3
+~
+~
+0 0 13675
+S
+#13668
+The Top of a Watch Tower~
+   Standing atop the lookout tower offers an excellent vantage point for
+monitoring activity in the plains to the north and west as well as the
+marshlands and bay to the east.  The wooden walls of the upper region of this
+tower were added many decades after its original stone structure.  As the
+village expanded and more outsiders found their way to this corner of the
+world, the townsfolk felt the need for additional precautions.  The pointed
+wooden posts which create a circle atop this stone structure provide protection
+for anyone standing watch atop this tower.    
+~
+136 0 1 0 0
+D5
+~
+~
+0 0 13631
+S
+#13669
+Within a Salt Marsh~
+   Salt marshes are transitional areas between land and water, occurring along
+the intertidal shore of bays such as this where salinity ranges from near ocean
+strength to near fresh.  Since this coastal area is influenced by the twice
+daily rise and fall of the tide from the Courrain Ocean, it is subject to rapid
+changes in salinity, temperature and water depth.  Residents of this region
+know the tidal schedule and to retreat to higher ground before the water level
+rises too high.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13665
+D1
+~
+~
+0 0 13646
+D2
+~
+~
+0 0 13673
+S
+#13670
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  The water deepens to the north,
+making it impossible to continue walking in that direction.    
+~
+136 0 6 0 0
+D1
+~
+~
+0 0 13666
+D2
+~
+~
+0 0 13674
+S
+#13671
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  To the north the water is far too
+deep for wading, however the grassy marshes to the south are passable.    
+~
+136 0 6 0 0
+D1
+~
+~
+0 0 13675
+D2
+~
+~
+0 0 13657
+D3
+~
+~
+0 0 13666
+S
+#13672
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  To the north the water is far too
+deep for wading, however the grassy marshes to the south are passable.  To the
+east is the wooden walkway that the fishermen of this area use when casting
+into the open water or harvesting the shallow pools of the marshes.    
+~
+136 0 2 0 0
+D1
+~
+~
+0 0 13676
+D2
+~
+~
+0 0 13664
+D3
+~
+~
+0 0 13667
+S
+#13673
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the south the waters are too deep to stand
+in but are excellent for fishing.  However, the marshy area to the north is
+generally passable by those who do not mind getting their feet wet.  For those
+who prefer to stay dry, the walkways provide an excellent vantage point for
+fishing or enjoying the scenery.  A wooden staircase leads back up to the
+boardwalk.    
+~
+136 4 2 0 0
+D0
+~
+~
+0 0 13669
+D1
+~
+~
+0 0 13651
+D4
+~
+~
+0 0 13605
+S
+#13674
+Within a Salt Marsh~
+   Rapid changes in salinity, temperature and exposure create stressful
+conditions and thereby limit how many species occur in this habitat.  Fiddler
+crabs, marsh snails and marsh mussels are all abundant however.  The popular
+and highly prized oyster generally makes its home in salt marshes too.  During
+their harvest, locals flock to this region.    
+~
+136 0 6 0 0
+D0
+~
+~
+0 0 13670
+D1
+~
+~
+0 0 13649
+D2
+~
+~
+0 0 13665
+S
+#13675
+Within a Salt Marsh~
+   The coastline of the Bay of Balifor curves sharply to the south and east
+here, creating a little cove.  It traps both salt water that flows in from the
+ocean and fresh water from the mouth of the river to the north.  They meet here
+to form a brackish mixture which is home to a vast array of birds, insects and
+shellfish which thrive in the shallow pools.  The water deepens to the north,
+making it impossible to continue walking in that direction.    
+~
+136 0 6 0 0
+D1
+~
+~
+0 0 13667
+D2
+~
+~
+0 0 13644
+D3
+~
+~
+0 0 13671
+S
+#13676
+Within a Salt Marsh~
+   Piers have been driven into the sandy soil below to anchor a wooden walkway
+which borders this salt marsh.  To the east the waters are far too deep to
+stand in but are excellent for fishing.  A sandbar has formed to the northeast,
+perhaps the result of the sandy soil being trapped by the walkways.  The marshy
+area to the west is generally passable by those who do not mind getting their
+feet wet.  For those who prefer to stay dry, the walkways provide an excellent
+vantage point for fishing or enjoying the scenery.    
+~
+136 2097152 2 0 0
+D2
+~
+~
+0 0 13648
+D3
+~
+~
+0 0 13672
+D7
+~
+~
+0 0 8900
+S
+#13677
+A Small Dwelling~
+   This tiny home is a bit cramped.  Farming tools and baskets cover the walls.
+Those that are too large to hang have been stacked neatly in the corner.  A
+fireplace is built into the northern wall, providing both light and warmth for
+the home.  A fireplace is built into the northern wall, providing both light
+and warmth for the home.  A wooden rocking chair is set beside the fireplace
+with a small footstool at placed in front of it.    
+~
+136 8 0 0 0
+D3
+~
+door~
+1 0 13633
+S
+#13678
+A Dirty Alley~
+   This narrow alley leads between the outer wall of the village and another
+makeshift wall which has been constructed to contain the filth which is
+discarded here.  Clearly this alley, which is no more than two armlengths wide,
+is the dump of this tiny village.  A large pit here seems to contain the bulk
+of the garbage.  Surely anything that was dropped here would disappear into its
+depths and be lost forever.  The putrid stench of rotting food wafts up from
+the pit, assualting the senses.    
+~
+136 256 2 0 1
+D1
+~
+~
+0 0 13611
+S
+#13679
+The General Store~
+   This quaint shop serves as the general store for Bayside Fishing Village.  
+It provides the villagers with all their basic needs, from live bait and feed
+to household items and dry goods.  Its stock varies with the season and the
+availability of certain items.  The owners do, however, make every attempt to
+meet all the villagers needs.  When necessary items are brought in from outside
+merchants to ensure that the shelves are always full.    
+~
+136 8 0 0 0
+D1
+~
+door~
+1 0 13603
+S
+#13680
+A Faint Trail Along the Shoreline of the Bay of Balifor~
+   The faint trail ends abruptly at a wooden wall which stands about ten feet
+in height.  It extends west from the water's edge for some distance, breaking
+up the otherwise open landscape.  A pathway of trampled grasses follows the
+length of the wall.  The sounds of civilization to the north drown out the
+melody of the waters of the Bay.    
+~
+136 4 1 0 0
+D0
+   A section of the wall hides a gate which allows entrance to the village to
+the north.    
+~
+gate wooden wall~
+1 0 13618
+D2
+~
+~
+0 0 13681
+D3
+~
+~
+0 0 13608
+S
+#13681
+A Faint Trail Along the Shoreline of the Bay of Balifor~
+   Light gusts of wind blow off the bay to the east causing the grasses of the
+plains to dance to a tune that only they can hear.  Their movement nearly
+obscures the faint trail that leads along the shoreline.  In the distance to
+the north clouds of billowing black smoke curl there way to the clear blue sky.
+Soft, muffled noise of laughter can be heard not too far away from here.  
+These signs greater confirm your speculation that some kind of civilization has
+to be closeby.  A few fishing boats dot the blue waters of the Bay of Balifor.
+~
+136 4 2 0 0
+D0
+~
+~
+0 0 13680
+D8
+~
+~
+0 0 13682
+S
+#13682
+A Faint Trail Along the Shoreline of the Bay of Balifor~
+   Light gusts of wind blow off the bay to the east causing the grasses of the
+plains to dance to a tune that only they can hear.  Their movement nearly
+obscures the faint trail that leads along the shoreline.  In the distance to
+the north clouds of billowing black smoke curl there way to the clear blue sky.
+Soft, muffled noise of laughter can be heard not too far away from here.  
+These signs greater confirm your speculation that some kind of civilization has
+to be closeby.    
+~
+136 32768 2 0 0
+D2
+~
+~
+0 0 13683
+D7
+~
+~
+0 0 13681
+S
+#13683
+A Faint Trail Along the Shoreline of the Bay of Balifor~
+   Light gusts of wind blow off the bay to the east causing the grasses of the
+plains to dance to a tune that only they can hear.  Their movement nearly
+obscures the faint trail that leads along the shoreline.  In the distance to
+the north clouds of billowing black smoke curl there way to the clear blue sky.
+Soft, muffled noise of laughter can be heard not too far away from here.  
+These signs greater confirm your speculation that some kind of civilization has
+to be closeby.    
+~
+136 32768 2 0 0
+D0
+~
+~
+0 0 13682
+D8
+~
+~
+0 0 13684
+S
+#13684
+A Faint Trail Along the Shoreline of the Bay of Balifor~
+   A faint trail follow the shoreline of the Bay of Balifor.  Its blue waters,
+which are very much effected by ocean currents, looking as though they might
+swallow the path during high tides.  In the distance are faint billowing black
+smokes that rise to the clear blue sky.  Soft, muffled noise of laughter can be
+heard not too far away from here.  These signs greater confirm your speculation
+that some kind of civilization has to be closeby.    
+~
+136 32768 2 0 0
+D2
+~
+~
+0 0 13685
+D7
+~
+~
+0 0 13683
+S
+#13685
+A Faint Trail Along the Shoreline of the Bay of Balifor~
+   A faint trail follow the shoreline of the Bay of Balifor.  Its blue waters,
+which are very much effected by ocean currents, looking as though they might
+swallow the path during high tides.  In the distance are faint billowing black
+smokes that rise to the clear blue sky.  Soft, muffled noise of laughter can be
+heard not too far away from here.  These signs greater confirm your speculation
+that some kind of civilization has to be closeby.    
+~
+136 4 2 0 0
+D0
+~
+~
+0 0 13684
+D2
+~
+~
+0 0 13600
+S
+#13686
+A Barely Perceptible Trail Along the Bay of Balifor~
+   The dense forest of aspen trees to the south begins to thin and mingle with
+other types of trees as the forest gives way to open plains.  To the east the
+Bay of Balifor seems to stretch endlessly with no other shoreline in sight.  
+The sound of its water lapping lazily at the shore mixes with the squawks of
+gulls which ride the air currents overhead.    
+~
+136 0 2 0 0
+D6
+~
+~
+0 0 13600
+D9
+~
+~
+0 0 13687
+S
+#13687
+A Barely Perceptible Trail Along the Bay of Balifor~
+   The dense forest of aspen trees to the south begins to thin and mingle with
+other types of trees as the forest gives way to open plains.  To the east the
+Bay of Balifor seems to stretch endlessly with no other shoreline in sight.  
+The sound of its water lapping lazily at the shore mixes with the squawks of
+gulls which ride the air currents overhead.    
+~
+136 4 3 0 0
+D2
+~
+~
+0 0 3316
+D6
+~
+~
+0 0 13686
+S
+#13688
+At the Base of a Watch Tower~
+   This stone tower serves multiple purposes for the residents and visitors of
+Bayside Fishing Village.  The lower level serves as the office for the custom
+official who monitors incoming vessels, while the upper portion serves as a
+lookout post for the village watchmen.  Several filing cabinets and a simple
+wooden desk make up the office which is located on this floor.  A curved
+staircase is set into the wall permitting access to the rooftop post.    
+~
+136 12 0 0 0
+D0
+~
+~
+0 0 13617
+D4
+~
+~
+0 0 13689
+S
+#13689
+The Top of a Watch Tower~
+   The crenellated parapet which has been constructed atop this small tower
+looks much like a miniature, and low cost, version of the watch tower of one of
+the great keeps of Solamnia.  It provides excellent protection for watchmen
+posted here while still offering an excellent view of the bay to the east, the
+village to the north, and the plains to the south.  Far off to the south, the
+tops of very tall and graceful trees can be seen dancing in the light breeze
+which blows off the bay.    
+~
+136 0 1 0 0
+D5
+~
+~
+0 0 13688
+S
+#13690
+The Salt Marsh Tavern~
+   This cramped landing is furnished only with a narrow desk to allow Rilade to
+perform her work.  This Inn has been in her family for years, and she oversees
+every detail of its business.  There is a narrow hallway leading off to the
+south which leads to the sleeping chambers.  None are very large, but they are
+cozily furnished and inviting.  A staircase leads back downstairs to the common
+room.    
+~
+136 8 0 0 0
+D5
+~
+~
+0 0 13637
+S
+$~

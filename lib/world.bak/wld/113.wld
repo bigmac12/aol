@@ -1,0 +1,724 @@
+#11300
+Inside a Boulder~
+   The walls of this cramped little chamber radiate an intense heat, stifling
+the air with the scent of burning minerals.  Here they are completely
+unadorned, barren of all but the random grain-patterns of a deep red wood
+though upon further inspection the walls feel and sound like solid stone.  A
+staircase of a polished silvery metal encased within a thick layer of glass
+descends through the floor into darkness.    
+~
+113 33033 0 0 0
+D0
+A large boulder blocks the way to the north.    
+~
+boulder door secret~
+2 11301 1888
+D5
+~
+~
+0 0 11301
+S
+#11301
+Upon a Spiral Staircase~
+   A staircase of glass-encased silvery metal spirals upward and into a small
+hole in the ceiling while disappearing below as it turns a corner.  Walls of
+petrified wood radiate heat, giving off the vague scent of something burning
+which shouldn't be.  A heavy silence clings to the air, making the slightest of
+footfalls resound off the walls with nerve-wracking intensity.    
+~
+113 32777 0 0 0
+D4
+~
+~
+0 0 11300
+D5
+~
+~
+0 0 11302
+S
+#11302
+Bottom of the Spiral Staircase~
+   Wide stairs of solid metal encased in thick glass ascend to the south of
+this narrow chamber, spiraling upwards as they turn a corner.  Save for these
+steps, all else has been formed from a dark red wood that appears to have been
+turned to solid stone.  The chamber continues due north for quite a distance
+with no end in sight.    
+~
+113 32777 0 0 0
+D0
+~
+~
+0 0 11303
+D4
+~
+~
+0 0 11301
+S
+#11303
+A Darkened Hallway~
+   The barren walls, ceiling, and floor of this hallway have been kept
+meticulously clean of any dust or mildew that would normally form within its
+subterranean maw.  Abstract shapes swirl across the surface of the dark red
+wood-like stone from which the hallway has been formed, polished to a softly
+lustrous sheen.  The scent of something unplaceably familiar lingers in the dry
+air, seeming to emanate from the hallway itself.  Here the walls are several
+yards apart, narrowing slowly into the distance to the south while widening
+slightly before reaching a set of stairs leading down to the north.    
+~
+113 32777 0 0 0
+D2
+~
+~
+0 0 11302
+D5
+~
+~
+0 0 11304
+S
+#11304
+A Darkened Hallway~
+   The barren walls, ceiling, and floor of this hallway have been kept
+meticulously clean of any dust or mildew that would normally form within its
+subterranean maw.  Abstract shapes swirl across the surface of the dark red
+wood-like stone from which the hallway has been formed, polished to a softly
+lustrous sheen.  The scent of something unplaceably familiar lingers in the dry
+air, seeming to emanate from the hallway itself.  Darkness consumes any glimpse
+of what might lie beyond the set of shallow stairs that climbs to the south,
+while to the northeast the hallway makes a severe turn.    
+~
+113 32777 0 0 0
+D4
+~
+~
+0 0 11303
+D7
+~
+~
+0 0 11305
+S
+#11305
+Chamber of Murals~
+   The vaulted ceiling of this dome-shaped chamber vanishes into shadow; the
+slightest of sounds echoing off its darkness-veiled surface with a thunderous
+clarity.  The entirety of the chamber appears to have been carved from a dark
+red, wood-like stone.  Random patterns in the grain of the wood twist and swirl
+as they emerge from the darkness above into abstract shapes, coalescing into
+clearly real imagery as they near the floor.  These murals encircle the entire
+lower portion of the chamber, in fact covering the surface of the floor itself.
+Formed directly from the center of the chamber's floor a finely sculptured hand
+reaches out, palm upwards.    
+~
+113 32777 0 0 0
+D5
+~
+hand~
+2 0 11361
+D7
+~
+~
+0 0 11306
+D8
+~
+~
+0 0 11304
+E
+mural murals wall~
+   A mural of exquisite detail and masterful beauty surrounds the lower portion
+of the chamber wall, shaped from the very grain of the wood from which the
+chamber has been formed.  Some areas of the mural have been subtly carved and
+sanded as highlights to certain portions of the depictions.  A sunburst pattern
+borders the southern doorway, and from the northern doorway an amorphous cloud
+spreads out a few feet from the arch of the opening.    
+~
+E
+hand hands floor~
+   The grain of the stone-wood from which the floor has been formed stretches
+into concentric circles; shallows have been formed between the grain-lines so
+expertly that the floor seems like a large pool of water that has been turned
+to wood, and then to stone.  From the center of the floor sprouts a hand,
+webbed-fingers splayed open towards the ceiling, a sculptured splash forming in
+its wake as though some human-like sea-creature has thrust its hand above the
+water to receive some sort of gift.  A tiny keyhole can be seen within its
+palm.    
+~
+S
+#11306
+A Darkened Hallway~
+   The barren walls, ceiling, and floor of this hallway have been kept
+metiulously clean of any dust or mildew that would normally form within its
+subterranean maw.  Abstract shapes swirl across the surface of the dark red
+wood-like stone from which the hallway has been formed, polished to a softly
+lustrous sheen.  The end of the hallway to the northeast ends at an awkward
+slant, the wall sloping at an odd angle back towards the south.  Beyond the
+northern wall can be heard the sound of quickly rushing water.    
+~
+113 32777 0 0 0
+D4
+~
+door round~
+1 0 11307
+D8
+~
+~
+0 0 11305
+E
+door~
+   A round hickory door with a plain brass knob is set into an oddly angled
+wall, slanted slightly upwards.    
+~
+S
+#11307
+Bottom of a Wooded Gully~
+You are in an unfinished room.
+~
+113 32768 5 0 0
+D4
+~
+~
+0 0 11308
+D5
+   A round hickory door with a plain brass knob is set into the floor of the
+crater's basin, covered in dirt and foliage.    
+~
+door~
+1 0 11306
+E
+door~
+   A round hickory door with a plain brass knob is set into the floor of the
+crater's basin, covered in dirt and foliage.    
+~
+S
+#11308
+Along the Basin Wall~
+You are in an unfinished room.
+~
+113 32768 5 0 0
+D4
+~
+~
+0 0 11309
+D5
+~
+~
+0 0 11307
+S
+#11309
+Along the Basin Wall~
+You are in an unfinished room.
+~
+113 32768 5 0 0
+D0
+~
+~
+0 0 11310
+D5
+~
+~
+0 0 11308
+S
+#11310
+Along the Basin Wall~
+You are in an unfinished room.
+~
+113 32768 5 0 0
+D2
+~
+~
+0 0 11309
+D4
+~
+~
+0 0 11311
+S
+#11311
+Atop a Cliff~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D1
+~
+~
+0 0 11312
+D5
+~
+~
+0 0 11310
+S
+#11312
+Atop a Cliff~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D3
+~
+~
+0 0 11311
+D9
+~
+~
+0 0 11313
+S
+#11313
+Atop a Cliff~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D5
+~
+~
+0 0 11314
+D6
+~
+~
+0 0 11312
+S
+#11314
+Overlooking the Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 4 0 0
+D0
+~
+~
+0 0 11315
+D4
+~
+~
+0 0 11313
+S
+#11315
+Overlooking the Cloud Forest~
+You are in an unfinished room.
+blah blah blah
+~
+113 32768 4 0 0
+D2
+~
+~
+0 0 11314
+D7
+~
+~
+0 0 11316
+S
+#11316
+Overlooking the Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 4 0 0
+D5
+~
+~
+0 0 11317
+D8
+~
+~
+0 0 11315
+S
+#11317
+Cloud Forest's Canopy~
+You are in an unfinished room.
+~
+113 32768 4 0 0
+D1
+~
+~
+0 0 11318
+D4
+~
+~
+0 0 11316
+S
+#11318
+Cloud Forest's Canopy~
+You are in an unfinished room.
+~
+113 32768 4 0 0
+D2
+~
+~
+0 0 11319
+D3
+~
+~
+0 0 11317
+D9
+~
+~
+0 0 11320
+S
+#11319
+Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D0
+~
+~
+0 0 11318
+S
+#11320
+Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D6
+~
+~
+0 0 11318
+D9
+~
+~
+0 0 11321
+S
+#11321
+Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D1
+~
+~
+0 0 11322
+D6
+~
+~
+0 0 11320
+S
+#11322
+Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D3
+~
+~
+0 0 11321
+D9
+~
+~
+0 0 11323
+S
+#11323
+Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D1
+~
+~
+0 0 11324
+D6
+~
+~
+0 0 11322
+S
+#11324
+Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D2
+~
+~
+0 0 11325
+D3
+~
+~
+0 0 11323
+D9
+~
+~
+0 0 11326
+S
+#11325
+Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D0
+~
+~
+0 0 11324
+S
+#11326
+Cloud Forest~
+You are in an unfinished room.
+~
+113 32768 3 0 0
+D6
+~
+~
+0 0 11324
+S
+#11327
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11328
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11329
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11330
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11331
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11332
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11333
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11334
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11335
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11336
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11337
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11338
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 0 0 0
+S
+#11339
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11340
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11341
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11342
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11343
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11344
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11345
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11346
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11347
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11348
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11349
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11350
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11351
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11352
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11353
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11354
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11355
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11356
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11357
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11358
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11359
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11360
+Cloud Forest~
+You are in an unfinished room.
+~
+113 0 3 0 0
+S
+#11361
+drippy nasty place~
+You are in an unfinished room.
+~
+113 32936 0 0 0
+D1
+~
+~
+0 0 11362
+D2
+~
+~
+0 0 11363
+D4
+~
+hand~
+2 0 11305
+S
+#11362
+drippy place~
+You are in an unfinished room.
+~
+113 32768 0 0 0
+D0
+~
+~
+0 0 11365
+D3
+~
+~
+0 0 11361
+S
+#11363
+drippy place~
+You are in an unfinished room.
+~
+113 32768 0 0 0
+D0
+~
+~
+0 0 11361
+D3
+~
+~
+0 0 11364
+S
+#11364
+drippy place~
+You are in an unfinished room.
+~
+113 32768 0 0 0
+D1
+~
+~
+0 0 11363
+S
+#11365
+drippy place~
+You are in an unfinished room.
+~
+113 32768 0 0 0
+D2
+~
+~
+0 0 11362
+S
+$~

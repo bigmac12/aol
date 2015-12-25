@@ -1,0 +1,1960 @@
+#7300
+Merchant's Highway~
+   The landscape along this highway is mostly sparse brush and trees mixed in
+with the plains grasses.  The red clay mixed within the dirt, and the abundance
+of rocks make this area less suited for farmland.  Wayward Highway continues
+along in an eastern western direction.  The crenellated walk atop the city wall
+of Istar is just visible over the tops of the trees to the south.    
+~
+73 32768 3 0 0
+D1
+~
+~
+0 0 7301
+D3
+~
+~
+0 0 7299
+S
+#7301
+Merchant's Highway~
+   The landscape along this highway is mostly sparse brush and trees mixed in
+with the plains grasses.  The red clay mixed within the dirt, and the abundance
+of rocks make this area less suited for farmland.  Wayward Highway continues
+along in an eastern western direction.  The crenellated walk atop the city wall
+of Istar is just visible over the tops of the trees to the south.    
+~
+73 32768 3 0 0
+D1
+~
+~
+0 0 8395
+D3
+~
+~
+0 0 7300
+S
+#7302
+Wayward Highway~
+   This highway travels along the countryside in an east-west fashion, passing
+by sparse clumps of brush and trees that dot the landscape.  Most of the ground
+is a bit rocky, and the hard packed dirt along the road is mixed with red clay,
+making these plains a bit harder to use as farmland.    
+~
+73 32768 3 0 0
+D1
+~
+~
+0 0 7303
+D3
+~
+~
+0 0 8399
+S
+#7303
+Wayward Highway~
+   This highway travels along the countryside in an east-west fashion, passing
+by sparse clumps of brush and trees that dot the landscape.  Most of the ground
+is a bit rocky, and the hard packed dirt along the road is mixed with red clay,
+making these plains a bit harder to use as farmland.    
+~
+73 32768 3 0 0
+D3
+~
+~
+0 0 7302
+D9
+~
+~
+0 0 7304
+S
+#7304
+Wayward Highway~
+   Wayward Highway continues along the countryside, passing by sparse brush,
+plainsgrasses, and a few trees that dot the landscape.  The ground is a bit
+rocky, and the hard packed dirt near the road is mixed with red clay.  A bridge
+spans the large river to the east, and the highway leads east.    
+~
+73 32768 3 0 0
+D1
+~
+~
+0 0 7305
+D6
+~
+~
+0 0 7303
+S
+#7305
+Crossing the Wayward Bridge~
+   This bridge near Istar spans the narrowest section of the river, yet is
+still quite long, and a bit too ornate for the merchants' tastes.  The sides of
+the bridge are high enough to prevent even the travellers on the wagons from
+accidentally plummeting into the river below.  The heavily carved planks and
+bridge-fence-posts are brushed with gold dust, and is the talk of the townsmen
+in Istar.  Wayward Highway continues on both sides of the bridge.    
+~
+73 32768 3 0 0
+D1
+~
+~
+0 0 7306
+D3
+~
+~
+0 0 7304
+S
+#7306
+Wayward Dragonscale Crossroads~
+   You come to a crossroads.  To the north lies the Dragonscale Highway while
+the Wayward Highway continues to the west and southeast.  Small ruts criss-
+cross the road here, indicating much wagon travel.  A small hawk floats on the
+air currents overhead, always on the lookout for small rodents which are easy
+to spot on the flat rocky grasslands.    
+~
+73 32772 2 0 0
+D0
+~
+~
+0 0 7307
+D3
+~
+~
+0 0 7305
+D9
+~
+~
+0 0 8300
+E
+sign weathered old wooden~
+                        Istar ------ 18 Miles West
+                        Kendermore - 213 Miles South-Southeast
+~
+S
+#7307
+Dragonscale Highway~
+   The land is flat and rocky with small patches of grass waving in the breeze.
+The road here is somewhat bumpy and rocky.  Obviously the influence of Istar
+only extends so far.  Undoubedly the merchants have been complaining about the
+condition of this road, but nothing has been done so far to improve its
+condition.  To the northeast the road bends slightly.    
+~
+73 32772 2 0 0
+D2
+~
+~
+0 0 7306
+D7
+~
+~
+0 0 7308
+S
+T 7300
+#7308
+Dragonscale Highway~
+   The road here is twisty and barren.  To either side of the wagon trail the
+land streches to the horizon, generally flat and desolate.  The terrain is
+curving up slightly as you see a hill far to the north.  It might be a good
+place to scan the area to see what lies around you.  Peering about you see
+small birds flitting about, catching the insects which seem to be in great
+abundance here.    
+~
+73 294912 0 0 0
+D7
+~
+~
+0 0 7309
+D8
+~
+~
+0 0 7307
+S
+#7309
+Dragonscale Highway~
+   The road here is twisty and barren.  To either side of the wagon trail the
+land streches to the horizon, generally flat and desolate.  The terrain is
+curving up slightly as you see a hill far to the north.  It might be a good
+place to scan the area to see what lies around you.  Peering about you see
+small birds flitting about, catching the insects which seem to be in great
+abundance here.    
+~
+73 32768 2 0 0
+D7
+~
+~
+0 0 7310
+D8
+~
+~
+0 0 7308
+S
+#7310
+Dragonscale Highway~
+   The road takes a sharp turn here, continuing east and southwest.  In the
+distance to the north lies a large hill while to the south the road continues.
+A small group of black birds sqauck loudly as you approach them, rising into
+the air and circling around you angrily.  There must be a nest of some sort
+nearby.  With the abundance of vegetation and flowers in the immediate vicinity
+there is no wonder so much animal life is nearby.    
+~
+73 32768 2 0 0
+D1
+~
+~
+0 0 7311
+D8
+~
+~
+0 0 7309
+S
+#7311
+Dragonscale Highway~
+   The flatlands continue.  The road here is dusty and dry, with small clouds
+of dirt being blown about by the wind.  The dust gets into your clothes and
+hair, making travel somewhat uncomfortable.  However, the abundance of animal
+and plant life on the plains makes it an intersting journey in any case.  The
+road streches out in both directions, with no end in sight.    
+~
+73 32768 2 0 0
+D3
+~
+~
+0 0 7310
+D7
+~
+~
+0 0 7312
+S
+#7312
+Dragonscale Highway~
+   The flatlands continue.  The road here is dusty and dry, with small clouds
+of dirt being blown about by the wind.  The dust gets into your clothes and
+hair, making travel somewhat uncomfortable.  However, the abundance of animal
+and plant life on the plains makes it an interesting journey in any case.  The
+road streches out in both directions, with no end in sight.    
+~
+73 32768 2 0 0
+D0
+~
+~
+0 0 7313
+D8
+~
+~
+0 0 7311
+S
+#7313
+Dragonscale Highway~
+   The flatlands continue.  The road here is dusty and dry, with small clouds
+of dirt being blown about by the wind.  The dust gets into your clothes and
+hair, making travel somewhat uncomfortable.  However, the abundance of animal
+and plant life on the plains makes it an interesting journey in any case.  The
+road streches out in both directions, with no end in sight.    
+~
+73 32768 2 0 0
+D0
+~
+~
+0 0 7314
+D2
+~
+~
+0 0 7312
+S
+#7314
+Dragonscale Highway~
+   The frequent use of this highway is quite apparrent here.  Large ruts and
+potholes are abundant, making travel somewhat difficult in places.  However,
+the road is still wide and quite passable with some caution.  To the north the
+area begins to show signs of more frequent vegetation, as small scrubs and
+trees begin to dot the landscape, while to the south the flatlands continue.  
+~
+73 32768 2 0 0
+D2
+~
+~
+0 0 7313
+D7
+~
+~
+0 0 7315
+S
+#7315
+Dragonscale Highway~
+   The frequent use of this highway is quite apparrent here.  Large ruts and
+potholes are abundant, making travel somewhat difficult in places.  However,
+the road is still wide and quite passable with some caution.  To the north the
+area begins to show signs of more frequent vegetation, as small scrubs and
+trees begin to dot the landscape, while to the south the flatlands continue.  
+~
+73 32768 2 0 0
+D0
+~
+~
+0 0 7316
+D8
+~
+~
+0 0 7314
+S
+#7316
+Dragonscale Highway~
+   The ground is inclined sharply here as a large hill can be seen close by to
+the north, while to the south the hill slopes downwards.  A slight breeze can
+be felt bringing with it the freshness of the land and the trees which grow
+more abundantly here.  Birds of all sizes ride the air currents looking for
+food, singing happily.    
+~
+73 32768 2 0 0
+D0
+~
+~
+0 0 7317
+D2
+~
+~
+0 0 7315
+S
+#7317
+Talonis Dragonscale Crossroads~
+   At the top of this bare hill the Talonis Highway branches off from the
+Dragonscale Highway and runs off to the east.  The Dragonscale Highway Runs to
+the north and south from here.  From the center of the crossroads, several
+groups of trees can been seen punctuating the meadows that roll off towards the
+horizons on all sides.  High in the sky, a few birds ride the air currents
+lazily.    
+~
+73 32768 2 0 0
+D1
+~
+~
+0 0 8250
+D2
+~
+~
+0 0 7316
+D6
+~
+~
+0 0 7318
+E
+sign old wooden weathered~
+
+               Istar ------ 51 Miles South
+               Karthay ---- 247 Miles North-Northwest
+               Lacynes ---- 162 Miles East-Northeast
+
+~
+S
+#7318
+Dragonscale Highway~
+   The road stretches off in the distance to the north while to the south you
+see a crossroads of some sort.  The trees ans brush gro thicker here, and the
+branches overhang the road in places, providing nice shade from the heat during
+the day.  Small animals can be seen and heard chattering in the undergrowth,
+darting from place to place.  There is no shortage of entertainment on this
+road, which seems to continue forever.    
+~
+73 32768 2 0 0
+D0
+~
+~
+0 0 7319
+D9
+~
+~
+0 0 7317
+S
+#7319
+Dragonscale Highway~
+   The lushness of the forest sweeps over you.  The trees here are tall and
+green, while the undergrowth is minimal, allowing you to see deep into the
+forest.  A wide variety of animal and plant life can be seen.  Obviously this
+area has not been used for hunting or logging as it is pristine and unfettered
+by the hands of mortals.  The road itself is still pitted and deeply rutted in
+places, but is nevertheless more than passable.  Overhead, in the places you
+can see the sky, birds fly about lazily.    
+~
+73 32772 2 0 0
+D0
+~
+~
+0 0 7320
+D1
+~
+~
+0 0 2200
+D2
+~
+~
+0 0 7318
+S
+#7320
+Dragonscale Highway~
+   The lushness of the forest sweeps over you.  The trees here are tall and
+green, while the undergrowth is minimal, allowing you to see deep into the
+forest.  A wide variety of animal and plant life can be seen.  Obviously this
+area has not been used for hunting or logging as it is pristine and unfettered
+by the hands of mortals.  The road itself is still pitted and deeply rutted in
+places, but is nevertheless more than passable.  Overhead, in the places you
+can see the sky, birds fly about lazily.    
+~
+73 32768 2 0 0
+D2
+~
+~
+0 0 7319
+D6
+~
+~
+0 0 7321
+S
+#7321
+Dragonscale Highway~
+   The lushness of the forest sweeps over you.  The trees here are tall and
+green, while the undergrowth is minimal, allowing you to see deep into the
+forest.  A wide variety of animal and plant life can be seen.  Obviously this
+area has not been used for hunting or logging as it is pristine and unfettered
+by the hands of mortals.  The road itself is still pitted and deeply rutted in
+places, but is nevertheless more than passable.  Overhead, in the places you
+can see the sky, birds fly about lazily.    
+~
+73 32768 2 0 0
+D0
+~
+~
+0 0 7322
+D9
+~
+~
+0 0 7320
+S
+#7322
+Dragonscale Highway~
+   A slight breeze stirs up from the north bringing with it the faint smell of
+the sea.  The branches of the trees wave ever so gently, almost hypnotically.
+The road is in better shape now, almost as if it has been maintained by
+someone.  However, you detect no signs of people or dwellings anywhere near
+you.  Fortunately travel is somewhat easier here as the forest streches out for
+miles on all sides.    
+~
+73 32768 2 0 0
+D2
+~
+~
+0 0 7321
+D7
+~
+~
+0 0 7323
+S
+#7323
+Dragonscale Highway~
+   A slight breeze stirs up from the north bringing with it the faint smell of
+the sea.  The branches of the trees wave ever so gently, almost hypnotically.
+The road is in better shape now, almost as if it has been maintained by
+someone.  However, you detect no signs of people or dwellings anywhere near
+you.  Fortunately travel is somewhat easier here as the forest streches out for
+miles on all sides.    
+~
+73 32768 2 0 0
+D0
+~
+~
+0 0 7324
+D8
+~
+~
+0 0 7322
+S
+#7324
+Dragonscale Highway~
+   The lushness of the forest sweeps over you.  The trees here are tall and
+green, while the undergrowth is minimal, allowing you to see deep into the
+forest.  A wide variety of animal and plant life can be seen.  Obviously this
+area has not been used for hunting or logging as it is pristine and unfettered
+by the hands of mortals.  The road itself is still pitted and deeply rutted in
+places, but is nevertheless more than passable.  Overhead, in the places you
+can see the sky, birds fly about lazily.    
+~
+73 32768 2 0 0
+D2
+~
+~
+0 0 7323
+D7
+~
+~
+0 0 7325
+S
+#7325
+Dragonscale Highway~
+   A slight breeze stirs up from the north bringing with it the faint smell of
+the sea.  The branches of the trees wave ever so gently, almost hypnotically.
+The road is in better shape now, almost as if it has been maintained by
+someone.  However, you detect no signs of people or dwellings anywhere near
+you.  Fortunately travel is somewhat easier here as the forest streches out for
+miles on all sides.    
+~
+73 0 2 0 0
+D7
+~
+~
+0 0 7326
+D8
+~
+~
+0 0 7324
+S
+#7326
+Dragonscale Highway~
+   The Dragonscale Highway continues in a north-south direction.  The shade
+from the tress is quite refreshing during the day, and keeps the area cool
+during the night.  The road here is strewn with debris from the trees and grass
+is growing in places where the rocks have crept up through the road.  This is
+more a sign of the vibrancy of this forest than it is of neglect or lack of
+travel as there are signs that caravans pass by here in great numbers.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7327
+D8
+~
+~
+0 0 7325
+S
+#7327
+Dragonscale Highway~
+   The Dragonscale Highway continues in a north-south direction.  The shade
+from the tress is quite refreshing during the day, and keeps the area cool
+during the night.  The road here is strewn with debris from the trees and grass
+is growing in places where the rocks have crept up through the road.  This is
+more a sign of the vibrancy of this forest than it is of neglect or lack of
+travel as there are signs that caravans pass by here in great numbers.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7328
+D2
+~
+~
+0 0 7326
+S
+#7328
+Dragonscale Highway~
+   The Dragonscale Highway continues to the northwest and south.  The shade
+from the tress is quite refreshing during the day, and keeps the area cool
+during the night.  The road here is strewn with debris from the trees and grass
+is growing in places where the rocks have crept up through the road.  This is
+more a sign of the vibrancy of this forest than it is of neglect or lack of
+travel as there are signs that caravans pass by here in great numbers.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 6500
+D2
+~
+~
+0 0 7327
+D6
+~
+~
+0 0 7329
+S
+#7329
+Dragonscale Highway~
+   The Dragonscale Highway continues in a north-south direction.  The shade
+from the tress is quite refreshing during the day, and keeps the area cool
+during the night.  The road here is strewn with debris from the trees and grass
+is growing in places where the rocks have crept up through the road.  This is
+more a sign of the vibrancy of this forest than it is of neglect or lack of
+travel as there are signs that caravans pass by here in great numbers.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7330
+D9
+~
+~
+0 0 7328
+S
+#7330
+Dragonscale Highway~
+   There is a break in the trees here and you see a large lake off in the
+distance to the west.  A lone eagle soars above the lake looking for fish.  
+With a loud cry, it suddenly plunges into the water, only to quickly emerge
+clutching a large fish, which flaps madly trying to escape.  A cool breeze
+blows off the water, chilling you somewhat despite your clothing.  The
+Dragonscale Highway continues both north and south from here.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7331
+D2
+~
+~
+0 0 7329
+S
+#7331
+Dragonscale Highway~
+   The foliage here allows the sunlight to shine through, casting bright rays
+across the road, giving the area an almost mystical feel to it.  Small birds
+dart about in the branches and squirrels run along the ground chattering
+endlessly and chasing each other playfully.  The road shows sign of hard use
+and deep wagon tracks criss-cross the path in large numbers, indicating heavy
+loads have been pulled through here recently.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7332
+D2
+~
+~
+0 0 7330
+S
+#7332
+Dragonscale Highway~
+   The foliage here allows the sunlight to shine through, casting bright rays
+across the road, giving the area an almost mystical feel to it.  Small birds
+dart about in the branches and squirrels run along the ground chattering
+endlessly and chasing each other playfully.  The road shows sign of hard use
+and deep wagon tracks criss-cross the path in large numbers, indicating heavy
+loads have been pulled through here recently.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7331
+D6
+~
+~
+0 0 7333
+S
+#7333
+Dragonscale Highway~
+   Interestingly enough, the leaves of the trees, you notice for the first
+time, seem to be shaped almost like dragon scales, and they sparkle golden and
+silver in the light of the day.  Perhaps this is why the highway has been
+Called the Dragonscale Highway for so many years.  In any event, the beauty of
+this place makes most travelers smile in contentment as they wander this
+otherwise nondescript road.    
+~
+73 0 2 0 0
+D6
+~
+~
+0 0 7334
+D9
+~
+~
+0 0 7332
+S
+#7334
+Dragonscale Highway~
+   The Dragonscale Highway continues in a north-south direction.  The shade
+from the tress is quite refreshing during the day, and keeps the area cool
+during the night.  The road here is strwen with debris from the trees and grass
+is growing in places where the rocks have crept up through the road.  This is
+more a sign of the vibrancy of this forest than it is of neglect or lack of
+travel as there are signs that caravans pass by here in great numbers.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7335
+D9
+~
+~
+0 0 7333
+S
+#7335
+Dragonscale Highway~
+   The Dragonscale Highway continues in a north-south direction.  The shade
+from the tress is quite refreshing during the day, and keeps the area cool
+during the night.  The road here is strwen with debris from the trees and grass
+is growing in places where the rocks have crept up through the road.  This is
+more a sign of the vibrancy of this forest than it is of neglect or lack of
+travel as there are signs that caravans pass by here in great numbers.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7336
+D2
+~
+~
+0 0 7334
+S
+#7336
+Dragonscale Highway~
+   Small groups of travelers pass you by on the road, carrying goods for trade
+in Karthay or Istar, depending on which direction they are journeying in.  
+Wagons laden with salted fish pass you traveling in a southerly direction while
+those journeying north carry finely crafted objects, some of religious value
+and some of a more practical nature.  Many of these people stop to gape as you
+as you pass by, not in fear but as if they have seen few individuals such as
+you on this road before.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7335
+D7
+~
+~
+0 0 7337
+S
+#7337
+Dragonscale Highway~
+   In the near distance to the north the Dragonscale Highway begins to twist
+through a series of foothills while to the south the path continues through the
+lush forest covered plains.  Various travelers pass you in wagons laden with
+all manner of goods, destined for the various cities of Ansalon.  Some stop to
+rest in the shade of the trees, resting during the long journeys.  Others pass
+by quickly, in a hurry to reach their destinations.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7338
+D8
+~
+~
+0 0 7336
+S
+#7338
+Dragonscale Highway~
+   In the near distance to the north the Dragonscale Highway begins to twist
+through a series of foothills while to the south the path continues through the
+lush forest covered plains.  Various travelers pass you in wagons laden with
+all manner of goods, destined for the various cities of Ansalon.  Some stop to
+rest in the shade of the trees, resting during the long journeys.  Others pass
+by quickly, in a hurry to reach their destinations.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7339
+D2
+~
+~
+0 0 7337
+S
+#7339
+Dragonscale Highway~
+   In the near distance to the north the Dragonscale Highway begins to twist
+through a series of foothills while to the south the path continues through the
+lush forest covered plains.  Various travelers pass you in wagons laden with
+all manner of goods, destined for the various cities of Ansalon.  Some stop to
+rest in the shade of the trees, resting during the long journeys.  Others pass
+by quickly, in a hurry to reach their destinations.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7340
+D2
+~
+~
+0 0 7338
+S
+#7340
+Dragonscale Highway~
+   In the near distance to the north the Dragonscale Highway begins to twist
+through a series of foothills while to the south the path continues through the
+lush forest covered plains.  Various travelers pass you in wagons laden with
+all manner of goods, destined for the various cities of Ansalon.  Some stop to
+rest in the shade of the trees, resting during the long journeys.  Others pass
+by quickly, in a hurry to reach their destinations.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7339
+D7
+~
+~
+0 0 7341
+S
+#7341
+Dragonscale Highway~
+   The Dragonscale Highway begins to climb into a series of foothills to the
+north while to the south the forests continue into the distance.  A slight
+chill breeze begins to blow out of the northwest, bringing with it a slight
+hint of moisture and sea water.  The trees, in all their brilliant glory, sway
+slightly, their leaves flashing brilliantly in the light.  Mystifying scolars
+for years, the scale like leaves nevertheless draw many travelers to this area.
+A clearing can be seen to the northeast.    
+~
+73 4 2 0 0
+D7
+~
+~
+0 0 4255
+D8
+~
+~
+0 0 7340
+S
+#7342
+Dragonscale Highway~
+   The Dragonscale Highway begins to climb into a series of foothills to the
+north while to the south the forests continue into the distance.  A slight
+chill breeze begins to blow out of the northwest, bringing with it a slight
+hint of moisture and sea water.  The trees, in all their brilliant glory, sway
+slightly, their leaves flashing brilliantly in the light.  Mystifying scolars
+for years, the scale like leaves nevertheless draw many travelers to this area.
+~
+73 4 2 0 0
+D0
+~
+~
+0 0 7343
+D8
+~
+~
+0 0 4256
+S
+#7343
+Dragonscale Highway~
+   The Dragonscale Highway winds through a series of foothills here.  The trail
+narrows in certain areas to get around rocky outcroppings which break through
+the forest which still surrounds you on all sides.  As the climb gets steeper
+the air takes on a bit of a chill.  Sleeping here in these hills would not be
+advisable becuase of this.  As well there have been tales of large wild beasts
+which have been known to prey on unsuspecting travelers.    
+~
+73 0 4 0 0
+D2
+~
+~
+0 0 7342
+D7
+~
+~
+0 0 7344
+S
+#7344
+Dragonscale Highway~
+   The Dragonscale Highway winds through a series of foothills here.  The trail
+narrows in certain areas to get around rocky outcroppings which break through
+the forest which still surrounds you on all sides.  As the climb gets steeper
+the air takes on a bit of a chill.  Sleeping here in these hills would not be
+advisable because of this.  As well there have been tales of large wild beasts
+which have been known to prey on unsuspecting travelers.    
+~
+73 0 4 0 0
+D1
+~
+~
+0 0 7345
+D8
+~
+~
+0 0 7343
+S
+#7345
+Dragonscale Highway~
+   The hills here are old, older than the forests which cover them.  Time has
+weathered them so much so that they resemble the shells of giant sea turtles.
+The chill breeze, ever present, and much cooler than on the plains, fills the
+air with wild, yet pleasing fragrances.  The trail here is a series of slopes
+and sharp turns as it winds about, avoiding obstacles, continuing in a roughly
+north-south direction.    
+~
+73 0 4 0 0
+D3
+~
+~
+0 0 7344
+D7
+~
+~
+0 0 7346
+S
+#7346
+Dragonscale Highway~
+   The hills here are old, older than the forests which cover them.  Time has
+weatheyed them so much so that they resemble the shells of giant sea turtles.
+The chill breeze, ever present, and much cooler than on the plains, fills the
+air with wild, yet pleasing fragrances.  The trail here is a series of slopes
+and sharp turns as it winds about, avoiding obstacles, continuing in a roughly
+north-south direction.    
+~
+73 0 4 0 0
+D0
+~
+~
+0 0 7347
+D8
+~
+~
+0 0 7345
+S
+#7347
+Dragonscale Highway~
+   The hills here are old, older than the forests which cover them.  Time has
+weathered them so much so that they resemble the shells of giant sea turtles.
+The chill breeze, ever present, and much cooler than on the plains, fills the
+air with wild, yet pleasing fragrances.  The trail here is a series of slopes
+and sharp turns as it winds about, avoiding obstacles, continuing in a roughly
+north-south direction.    
+~
+73 0 4 0 0
+D2
+~
+~
+0 0 7346
+D7
+~
+~
+0 0 7348
+S
+#7348
+Dragonscale Highway~
+   The hills here are old, older than the forests which cover them.  Time has
+weatheyed them so much so that they resemble the shells of giant sea turtles.
+Thw chill breeze, ever present, and much cooler than on the plains, fills the
+air with wild, yet pleasing fragrances.  The trail here is a series of slopes
+and sharp turns as it winds about, avoiding obstacles, continuing in a roughly
+north-south direction.    
+~
+73 0 4 0 0
+D7
+~
+~
+0 0 7349
+D8
+~
+~
+0 0 7347
+S
+#7349
+Dragonscale Highway~
+   The trail becomes smoother and flatter here.  The forest has seemed to
+reclaim the landscape somewhat enveloping you in its moist freshness once
+again.  Various types of song birds fly from tree to tree, fighting for unseen
+food no doubt, and a few rodents peer out from the underbrush to see what new
+visitors have come by this part of the highway.  The path widens a bit here,
+allowing wagons to pass each other while going around the winding trail.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7350
+D8
+~
+~
+0 0 7348
+S
+#7350
+Dragonscale Highway~
+   The trail becomes smoother and flatter here.  The forest has seemed to
+reclaim the landscape somewhat enveloping you in its moist freshness once
+again.  Various types of song birds fly from tree to tree, fighting for unseen
+food no doubt, and a few rodents peer out from the underbrush to see what new
+visitors have come by this part of the highway.  The path widdens a bit here,
+allowing wagons to pass each other while going around the winding trail.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7349
+D7
+~
+~
+0 0 7351
+S
+#7351
+Dragonscale Highway~
+   The Dragonscale Highway is in much better repair here.  All ruts and wagon
+trails have been cleared away by work crews, leaving a smooth gravel surface
+which expedites speedy travel greatly.  Stone markers have been placed along
+the road at regular intervals, however you are unable to determine their
+meaning as there is nothing written on them.  The forest here has been greatly
+diminished in places, leaving large bare spots of only shrubs and other
+undergrowth.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7352
+D8
+~
+~
+0 0 7350
+S
+#7352
+Dragonscale Highway~
+   The Dragonscale Highway is in much better repair here.  All ruts and wagon
+trails have been cleared away by work crews, leaving a smooth gravel surface
+which expedites speedy travel greatly.  Stone markers have been placed along
+the road at regular intervals, however you are unable to determine their
+meaning as there is nothing written on them.  The forest here has been greatly
+diminished in places, leaving large bare spots of only shrubs and other
+undergrowth.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7351
+D6
+~
+~
+0 0 7353
+S
+#7353
+Dragonscale Highway~
+   The Dragonscale Highway is in much better repair here.  All ruts and wagon
+trails have been cleared away by work crews, leaving a smooth gravel surface
+which expedites speedy travel greatly.  Stone markers have been placed along
+the road at regular intervals, however you are unable to determine their
+meaning as there is nothing written on them.  The forest here has been greatly
+diminished in places, leaving large bare spots of only shrubs and other
+undergrowth.    
+~
+73 0 2 0 0
+D7
+~
+~
+0 0 7354
+D9
+~
+~
+0 0 7352
+S
+#7354
+Dragonscale Highway~
+   Large patches of forest have been cleared here.  The reason is unknown but
+you suspect it may have been the shipwrights in Karthay taking these beautiful
+trees for building the famed ships of Karthay.  Tall and majestic it is a shame
+they are cut down, however their strength and deep natural color make them
+ideal for hull planks and masts.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7355
+D8
+~
+~
+0 0 7353
+S
+#7355
+Dragonscale Highway~
+   Large patches of forest have been cleared here.  The reason is unknown but
+you suspect it may have been the shipwrights in Karthay taking these beautiful
+trees for building the famed ships of Karthay.  Tall and majestic it is a shame
+they are cut down, however their strength and deep natural color make them
+ideal for hull planks and masts.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7354
+D7
+~
+~
+0 0 7356
+S
+#7356
+Dragonscale Highway~
+   Large patches of forest have been cleared here.  The reason is unknown but
+you suspect it may have been the shipwrights in Karthay taking these beautiful
+trees for building the famed ships of Karthay.  Tall and majestic it is a shame
+they are cut down, however their strength and deep natural color make them
+ideal for hull planks and masts.    
+~
+73 0 2 0 0
+D6
+~
+~
+0 0 7357
+D8
+~
+~
+0 0 7355
+S
+#7357
+Dragonscale Highway~
+   The road traffic is considerable.  Large caravans of wagons travel
+southwards which a great variety of people of various types travel northwards
+towards Karthay.  Such is the nature of large sea ports that they attract all
+sorts of interesting individuals, from honest folk looking for work, to
+nefarious adventurers looking for money.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7358
+D9
+~
+~
+0 0 7356
+S
+#7358
+Dragonscale Highway~
+   The road traffic is considerable.  Large caravans of wagons travel
+southwards which a great variety of people of various types travel northwards
+towards Karthay.  Such is the nature of large sea ports that they attract all
+sorts of interesting individuals, from honest folk looking for work, to
+nefarious adventurers looking for money.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7357
+D7
+~
+~
+0 0 7359
+S
+#7359
+Dragonscale Highway Bridge~
+   The smell of salt and the sea grows stronger here despite that fact you are
+still well within the forest.  Through the trees to the north you think you can
+see a crossroads of some sort, while to the south the Dragonscale Highway
+continues into the distance.  A caravan passes close by to you, heading in a
+southerly directions at a leisurely pace.  As it passes by you peer into some
+of the wagons and see that they are filled with various types of dried, smoked,
+or salted fish.    
+~
+73 0 2 0 0
+D7
+~
+~
+0 0 7360
+D8
+~
+~
+0 0 7358
+S
+#7360
+Argonis Dragonscale Shores Crossroads~
+   Three roads meet here.  To the east is the Argonis Highway, to the north is
+the Shores Highway and to the southwest is the Dragonscale Highway.  A mild
+breeze coming from the northwest carries a slight salt tang with it.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7361
+D1
+~
+~
+0 0 8200
+D8
+~
+~
+0 0 7359
+E
+sign old weathered wooden~
+
+               Karthay ---- 132 Miles North-Northwest
+               Lacynes ---- 128 Miles East-Southeast
+               Istar ------ 191 Miles South-Southwest
+
+~
+S
+#7361
+Shores Highway~
+   This road winds it's way around the bay to the north, from which a stiff,
+saltly breeze blows almost constantly.  Pebbles and slightly larger rocks have
+been set here outlining the roadway's course.  Tall clumps of grass grow right
+up to the line of stones here and would probably cover the entire road if it
+weren't for a steady stream of traffic which keeps it at bay.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7360
+D3
+~
+~
+0 0 11700
+D7
+~
+~
+0 0 7362
+S
+#7362
+Shores Highway~
+   This road winds it's way around the bay to the north, from which a stiff,
+saltly breeze blows almost constantly.  Pebbles and slightly larger rocks have
+been set here outlining the roadway's course.  Tall clumps of grass grow right
+up to the line of stones here and would probably cover the entire road if it
+weren't for a steady stream of traffic which keeps it at bay.    
+~
+73 0 2 0 0
+D7
+~
+~
+0 0 7363
+D8
+~
+~
+0 0 7361
+S
+#7363
+Shores Highway~
+   The road meanders it's way closer and closer to the bay area here.  
+Following the line of stones that mark it's course, it appears that the road
+follows the outline of the bay.  The grasses have receded here somewhat
+revealing more and more sand that shifts slightly as you as you walk on it.  
+The breeze blowing off of the ocean has a slightly salty taste to it, making
+your mouth dry.  Waves crash into the shore to the northwest as they finish
+their journey across the oceans.    
+~
+73 0 2 0 0
+D1
+~
+~
+0 0 7364
+D8
+~
+~
+0 0 7362
+S
+#7364
+Shores Highway~
+   The road meanders it's way closer and closer to the bay area here.  
+Following the line of stones that mark it's course, it appears that the road
+follows the outline of the bay.  The grasses have receded here somewhat
+revealing more and more sand that shifts slightly as you as you walk on it.  
+The breeze blowing off of the ocean has a slightly salty taste to it, making
+your mouth dry.  Waves crash into the shore to the northwest as they finish
+their journey across the oceans.    
+~
+73 0 2 0 0
+D3
+~
+~
+0 0 7363
+D7
+~
+~
+0 0 7365
+S
+#7365
+Shores Highway~
+   The road meanders it's way closer and closer to the bay area here.  
+Following the line of stones that mark it's course, it appears that the road
+follows the outline of the bay.  The grasses have receded here somewhat
+revealing more and more sand that shifts slightly as you as you walk on it.  
+The breeze blowing off of the ocean has a slightly salty taste to it, making
+your mouth dry.  Waves crash into the shore to the northwest as they finish
+their journey across the oceans.    
+~
+73 0 2 0 0
+D7
+~
+~
+0 0 7366
+D8
+~
+~
+0 0 7364
+S
+#7366
+Shores Highway~
+   The road meanders it's way closer and closer to the bay area here.  
+Following the line of stones that mark it's course, it appears that the road
+follows the outline of the bay.  The grasses have receded here somewhat
+revealing more and more sand that shifts slightly as you as you walk on it.  
+The breeze blowing off of the ocean has a slightly salty taste to it, making
+your mouth dry.  Waves crash into the shore to the northwest as they finish
+their journey across the oceans.    
+~
+73 0 2 0 0
+D7
+~
+~
+0 0 7367
+D8
+~
+~
+0 0 7365
+S
+#7367
+Shores Highway~
+   Directly to the north, a little ways out in the water, a few tall thin
+columns interrupt the smooth slow of the waves as they approach the shore.  
+There are also several large stones just below the high tide mark on the shore
+which are apparently the remains of the markers used to line the road.  
+Obviously, travelers have started following a more inland trail now since the
+bay has encroached onto the older road.  The breeze has increased its intensity
+and begun to blow not only salt water mist your way but also stinging grains of
+sand as well.    
+~
+73 0 2 0 0
+D7
+~
+~
+0 0 7368
+D8
+~
+~
+0 0 7366
+S
+#7368
+Shores Highway~
+   Here half the road is below the high tide line while the other half is above
+it.  There are several gaps in the row of marker stones below the high tide
+line giving evidence to the sea's ability to scour the coast clean given enough
+time.  Even know, small waves lap at the stones as the tide starts to come in.
+The wet sand sucks at your feet as you walk leaving a faint depression when you
+move on.  A wet, salty breeze blows constantly from the sea.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7369
+D8
+~
+~
+0 0 7367
+S
+#7369
+Shores Highway~
+   Here half the road is below the high tide line while the other half is above
+it.  There are several gaps in the row of marker stones below the high tide
+line giving evidence to the sea's ability to scour the coast clean given enough
+time.  Even now, small waves lap at the stones as the tide starts to come in.
+The wet sand sucks at your feet as you walk leaving a faint depression when you
+move on.  A wet, salty breeze blows constantly from the sea.  A short distance
+to the north, several large pieces of wood stick up in odd directions, like the
+reminents of some type of structure.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7370
+D2
+~
+~
+0 0 7368
+S
+#7370
+Shores Highway~
+   The ruined remains of an old boat landing are scattered around this area.  
+Several columns that apparently used to support a dock or pier of some type had
+been driven into the ground here in two rows running several yards out into the
+bay.  Large planks have been broken into bits and litter the ground.  The sand
+sucks at your feet here making it difficult to walk.  The waves seem to slam
+into the remaining columns on one side while sand piles up against them on the
+other.    
+~
+73 0 2 0 0
+D1
+~
+~
+0 0 7371
+D2
+~
+~
+0 0 7369
+S
+#7371
+Shores Highway~
+   Immediately to the west, several large pieces of wood are scattered about
+the shore.  This section of the road seems to have been repaired slightly in
+recent years to offset the damage caused by the advancing high tide line.  
+Unlike the road to the south, this area has had its markers moved a ways back
+from the sea to keep them from being washed away.  A strong breeze blows from
+the west carrying grains of sand and a tang of salt.    
+~
+73 0 2 0 0
+D3
+~
+~
+0 0 7370
+D7
+~
+~
+0 0 7372
+S
+#7372
+Shores Highway~
+   Off to the southwest, out in the bay a little bit, several columns rise up
+out of the water.  Here, three rows of stones run along the beach marking the
+old road and the new road.  Not only has the new road been moved back away from
+the relentless advance of the sea, it has also been widened to accomodate a
+larger volume of traffic.  The breeze from the west carries a slight tang of
+salt with it.    
+~
+73 0 2 0 0
+D7
+~
+~
+0 0 7373
+D8
+~
+~
+0 0 7371
+S
+#7373
+Shores Highway~
+   The sand beneath your feet shifts constantly as you move across it making it
+difficult to walk.  To the west, waves lap gently at the shoreline slowly
+working their way to the high tide line.  Several clumps of tall grasses grow
+on the small dunes to the east giving the impression of a sea lining both sides
+of the road here.  One to the west of water and another to the east of grass,
+both covered in rolling waves as the breeze blows back and forth.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7374
+D8
+~
+~
+0 0 7372
+S
+#7374
+Shores Highway~
+   The sand beneath your feet shifts constantly as you move across it making it
+difficult to walk.  To the west, waves lap gently at the shoreline slowly
+working their way to the high tide line.  Several clumps of tall grasses grow
+on the small dunes to the east giving the impression of a sea lining both sides
+of the road here.  One to the west of water and another to the east of grass,
+both covered in rolling waves as the breeze blows back and forth.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7375
+D2
+~
+~
+0 0 7373
+S
+#7375
+Shores Highway~
+   Directly to the north the sea has managed to work its way right up to the
+first of several rows of small sand dunes.  Looking at these dunes you can see
+the waves of water fighting with the waves of grass for supremacy.  To the
+south the road runs along between the dunes and the water while to the
+northeast it curves behind the first row of sand dunes.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7374
+D7
+~
+~
+0 0 7376
+S
+#7376
+Shores Highway~
+   The sand dunes to the west block your view of the bay, but the sound of
+waves crashing into the shore remind you of its existance.  To the east,
+another row of dunes blocks your view inland.  More marker stones have been
+nestled in amongst the clumps of tall grasses here to help keep travellers on
+the highway.  As you walk along you not only have to deal with the sand
+shifting below your feet, but also the clumps of grass that block your path and
+the breeze which blows grains of sand into your eyes.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7377
+D8
+~
+~
+0 0 7375
+S
+#7377
+Shores Highway~
+   The sand dunes to the west block your view of the bay, but the sound of
+waves crashing into the shore remind you of its existance.  To the east,
+another row of dunes blocks your view inland.  More marker stones have been
+nestled in amongst the clumps of tall grasses here to help keep travellers on
+the highway.  As you walk along you not only have to deal with the sand
+shifting below your feet, but also the clumps of grass that block your path and
+the breeze which blows grains of sand into your eyes.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7378
+D2
+~
+~
+0 0 7376
+S
+#7378
+Shores Highway~
+   The sand dunes to the west block your view of the bay, but the sound of
+waves crashing into the shore remind you of its existance.  To the east,
+another row of dunes blocks your view inland.  More marker stones have been
+nestled in amongst the clumps of tall grasses here to help keep travellers on
+the highway.  As you walk along you not only have to deal with the sand
+shifting below your feet, but also the clumps of grass that block your path and
+the breeze which blows grains of sand into your eyes.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7377
+D6
+~
+~
+0 0 7379
+S
+#7379
+Shores Highway~
+   The sand dunes to the west block your view of the bay, but the sound of
+waves crashing into the shore remind you of its existance.  To the east,
+another row of dunes blocks your view inland.  More marker stones have been
+nestled in amongst the clumps of tall grasses here to help keep travellers on
+the highway.  As you walk along you not only have to deal with the sand
+shifting below your feet, but also the clumps of grass that block your path and
+the breeze which blows grains of sand into your eyes.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7380
+D9
+~
+~
+0 0 7378
+S
+#7380
+Shores Highway~
+   The sand dunes to the west block your view of the bay, but the sound of
+waves crashing into the shore remind you of its existance.  To the east,
+another row of dunes blocks your view inland.  More marker stones have been
+nestled in amongst the clumps of tall grasses here to help keep travellers on
+the highway.  As you walk along you not only have to deal with the sand
+shifting below your feet, but also the clumps of grass that block your path and
+the breeze which blows grains of sand into your eyes.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7381
+D2
+~
+~
+0 0 7379
+S
+#7381
+Shores Highway~
+   The road here runs northwest between some large sand dunes and south between
+two rows of dunes.  The shifting sand that comprises the road bed pulls at your
+feet making it difficult to walk.  A breeze from the west carries the odor of
+the sea and small grains of sand with it as it travels inland.  To the east
+there is a long black bridge, leading to a small tower.    
+~
+73 0 2 0 0
+D1
+~
+~
+0 0 19034
+D2
+~
+~
+0 0 7380
+D6
+~
+~
+0 0 7382
+S
+#7382
+Shores Highway~
+   To the south the road turns inland and starts to run between two rows of
+sand dunes while to the north it runs between the high tide mark on the west
+and a row of grass covered dunes on the east.  Several large stones have been
+set in the sand here to help travellers stay on the road as it meanders its way
+across the shores here.  Small waves lap at the beach.  Off to the west ,on the
+other side of the bay, several cliffs of medium height rise up out of the sea.
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7383
+D9
+~
+~
+0 0 7381
+S
+#7383
+Shores Highway~
+   To the north the road begins to turn westwards and circle around the bay
+while to the south it continues following the shoreline.  Off to the west, on
+the other side of the bay, several medium sized cliffs rise up out of the bay
+and form a plateau seperating the bay from the ocean.  Markers line both sides
+of the road here.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7384
+D2
+~
+~
+0 0 7382
+S
+#7384
+Shores Highway~
+   To the north the road begins to turn westwards and circle around the bay
+while to the south it continues following the shoreline.  Off to the west, on
+the other side of the bay, several medium sized cliffs rise up out of the bay
+and form a plateau seperating the bay from the ocean.  Markers line both sides
+of the road here.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7383
+D6
+~
+~
+0 0 7385
+S
+#7385
+Shores Highway~
+   To the north the road begins to turn westwards and circle around the bay
+while to the south it continues following the shoreline.  Off to the west, on
+the other side of the bay, several medium sized cliffs rise up out of the bay
+and form a plateau seperating the bay from the ocean.  Markers line both sides
+of the road here.    
+~
+73 0 2 0 0
+D6
+~
+~
+0 0 7386
+D9
+~
+~
+0 0 7384
+S
+#7386
+Shores Highway~
+   To the north the road begins to turn westwards and circle around the bay
+while to the south it continues following the shoreline.  Off to the west, on
+the other side of the bay, several medium sized cliffs rise up out of the bay
+and form a plateau seperating the bay from the ocean.  Markers line both sides
+of the road here.    
+~
+73 0 2 0 0
+D6
+~
+~
+0 0 7387
+D9
+~
+~
+0 0 7385
+S
+#7387
+Shores Highway~
+   This part of the road runs along the northern side of the bay.  Some medium
+sized cliffs are climbing up out of the water here causing the road to slope
+upwards slightly to the west.  Small waves crash into the cliff's base below
+you and the breeze blows your hair in every direction as it constantly moves
+inland from the bay.  Above you, high up in the sky, you can make out several
+small shapes.  Apparently they are birds riding the updrafts caused by the
+cliffs here.    
+~
+73 0 2 0 0
+D3
+~
+~
+0 0 7388
+D7
+~
+~
+0 0 8800
+D9
+~
+~
+0 0 7386
+S
+#7388
+Shores Highway~
+   This part of the road runs along the northern side of the bay.  Some medium
+sized cliffs are climbing up out of the water here causing the road to slope
+upwards slightly to the west.  Small waves crash into the cliff's base below
+you and the breeze blows your hair in every direction as it constantly moves
+inland from the bay.  Above you, high up in the sky, you can make out several
+small shapes.  Apparently they are birds riding the updrafts caused by the
+cliffs here.  Stone steps, leading up, have been carved into the cliff face.  
+~
+73 0 2 0 0
+D1
+~
+~
+0 0 7387
+D3
+~
+~
+0 0 7389
+D4
+~
+~
+0 0 11000
+S
+#7389
+Shores Highway~
+   Here, the road runs along the top of the cliffs that line the northwestern
+part of the bay.  To the southwest the cliffs rise up higher while to the east
+they slowly descend.  Looking out across the bay you can see line after line of
+waves making their way to the shore after traveling across the oceans.  Off to
+the west several small hills rest at the feet of mountains whose peaks are
+hidden in clouds.    
+~
+73 0 2 0 0
+D1
+~
+~
+0 0 7388
+D8
+~
+~
+0 0 7390
+S
+#7390
+Shores Highway~
+   Here, the road runs along the top of the cliffs that line the northwestern
+part of the bay.  To the southwest the cliffs rise up higher while to the east
+they slowly descend.  Looking out across the bay you can see line after line of
+waves making their way to the shore after traveling across the oceans.  Off to
+the west several small hills rest at the feet of mountains whose peaks are
+hidden in clouds.  A large bush grows along the edge of the cliff.    
+~
+73 0 2 0 0
+D5
+   There is a very large berry bush resting on the edge of the cliff.  It seems
+to be obscuring the view of what is on the other side.    
+~
+bush berry large~
+1 0 11200
+D7
+~
+~
+0 0 7389
+D8
+~
+~
+0 0 7391
+S
+#7391
+Shores Highway~
+   To the north the road runs around the northern side of the bay and runs west
+away from the bay to avoid the cliffs to the south which rapidly rise in
+height.  Off to the west several small hills rest at the foot of a mountain
+range.  Above you, high up in the sky, what appears to be a flock of birds of
+some type are slowly circling.    
+~
+73 0 2 0 0
+D3
+~
+~
+0 0 7392
+D7
+~
+~
+0 0 7390
+S
+#7392
+Shores Highway~
+   This part of the Shores Highway runs west inland and east towards the bay.
+Off to the west and north, several small hills lay scattered about at the foot
+of a mountain range whose peaks are enshrouded in clouds.  A stiff breeze blows
+from the west rapidly cooling everything it touches.  Above you, high up in the
+sky, what appears to be a flock of birds of some type are slowly circling as if
+they are searching for something.    
+~
+73 0 2 0 0
+D1
+~
+~
+0 0 7391
+D3
+~
+~
+0 0 7393
+S
+#7393
+Shores Highway~
+   This part of the Shores Highway runs south towards Karthay and east towards
+the bay.  Off to the west and north, several small hills lay scattered about at
+the foot of a mountain range whose peaks are enshrouded in clouds.  A stiff
+breeze blows from the west rapidly cooling everything it touches.  Above you,
+high up in the sky, what appears to be a flock of birds of some type are slowly
+circling as if they are searching for something.    
+~
+73 0 2 0 0
+D1
+~
+~
+0 0 7392
+D2
+~
+~
+0 0 7394
+S
+#7394
+Shores Highway~
+   This part of the Shores Highway follows a low line of hills to the west as
+it travels south to the city of Karthay.  To the northeast it follows the
+shoreline of the bay to the east.  Here the road is wide and relatively clear
+and several marker stones have recently been laid along its sides to mark its
+course which has not changed much over the years judging by the hard packed
+earth under your feet.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7393
+D8
+~
+~
+0 0 7395
+S
+#7395
+Shores Highway~
+   This part of the Shores Highway follows a low line of hills and forest to
+the west as it travels south to the city of Karthay.  To the northeast it
+follows the shoreline of the bay to the east.  Here the road is wide and
+relatively clear and several marker stones have recently been laid along its
+sides to mark its course which has not changed much over the years judging by
+the hard packed earth under your feet.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7396
+D7
+~
+~
+0 0 7394
+S
+#7396
+Shores Highway~
+   This part of the Shores Highway follows a low line of hills to the west as
+it travels south to the city of Karthay.  To the northeast it follows the
+shoreline of the bay to the east.  Here the road is wide and relatively clear
+and several marker stones have recently been laid along its sides to mark its
+course which has not changed much over the years judging by the hard packed
+earth under your feet.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7395
+D2
+~
+~
+0 0 7397
+S
+#7397
+Shores Highway~
+   This part of the Shores Highway follows a low line of hills to the west as
+it travels south to the city of Karthay.  To the northeast it follows the
+shoreline of the bay to the east.  Here the road is wide and relatively clear
+and several marker stones have recently been laid along its sides to mark its
+course which has not changed much over the years judging by the hard packed
+earth under your feet.    
+~
+73 0 2 0 0
+D0
+~
+~
+0 0 7396
+D8
+~
+~
+0 0 7398
+S
+#7398
+Shores Highway~
+   Just to the south, the city gates of Karthay guard the northern enterance
+into the city.  To the north the road follows a low line of hills on its way to
+the shore of the bay which lays to the east.  To the northwest a series of low
+hills rise up into a mountain range whose peaks are enshrouded in clouds.  
+Several large marker stones line the edges of this wide road.    
+~
+73 0 2 0 0
+D2
+~
+~
+0 0 7399
+D7
+~
+~
+0 0 7397
+S
+#7399
+Shores Highway~
+   Just to the south, the city gates of Karthay guard the northern entrance
+into the city.  To the north the road follows a low line of hills on its way to
+the shore of the bay which lays to the east.  To the northwest a series of low
+hills rise up into a mountain range whose peaks are enshrouded in clouds.  
+Several large marker stones line the edges of this wide road.    
+~
+73 4 2 0 0
+D0
+~
+~
+0 0 7398
+D2
+~
+~
+0 0 5019
+D3
+~
+~
+0 0 10496
+S
+$~

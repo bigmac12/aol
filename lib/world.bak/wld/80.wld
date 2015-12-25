@@ -1,0 +1,2046 @@
+#8000
+The City Gates of Istar~
+   Standing before the massive gates to the city of Istar, a feeling of awe
+fills your senses.  The fantastic architecture of the buildings is unsurpassed.
+The gate itself is made of solid steel and a wire sculpture of the symbols of
+Paladine and Mishakal have been placed on the right and left faces of the gate.
+To the south, outcropping of large rocks form the shoreline of Lake Istar.    
+~
+80 4 1 0 0
+D3
+~
+~
+0 0 8001
+D7
+~
+~
+0 0 8116
+S
+#8001
+Along the Shores of Lake Istar~
+   This roadway runs along the northern shore of Lake Istar from the gates to
+the city's docks.  It is paved with blue and green blocks of stone that mirror
+the colors of the lake.  A breakwater, appearing to be nearly a mile long, is
+visible outside the main harbor area.  It serves to keep the waters calm and
+peaceful.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8007
+D1
+~
+~
+0 0 8000
+D3
+~
+~
+0 0 8130
+S
+#8002
+Arena Trainer's Stall~
+   A retired warrior has set up a stall here to educate those people who are
+coming to the arena on what to watch for during the fights.  Many people often
+come to him to learn the names of the different techniaues and styles they see
+used in the arena.  For those seeking to actually participate in combat in the
+arena he offers advice and a bit of training in the different martial arts.  
+~
+80 28 1 0 0
+D0
+~
+~
+0 0 8051
+S
+#8003
+Gold Street~
+   The first named street one passes entering Istar is Gold Street.  This road
+is much the same as that to the south, but gold runes have been scribed into
+the pavement.  Along either side of the road are common homes, a few small
+shops, and a home of a merchant or two.    
+~
+80 0 1 0 0
+D0
+   Gold Street heads off to the north, surrounded by buildings on either side.
+It moves on to the north for quite a ways, and then stops at a bright
+intersection.    
+~
+~
+0 0 8004
+D1
+   A common home sets here on the eastern side of the avenue.  The house is
+well built, and appears sturdy, but it not an elegant place to live.    
+~
+door~
+1 0 8008
+D2
+~
+~
+0 0 8130
+D3
+   A common home sets here on the western side of the avenue.  The house is
+well built, and appears sturdy, but it not an elegant place to live.    
+~
+door~
+1 0 8009
+S
+#8004
+Gold Street~
+   The first named street one passes entering Istar is Gold Street.  This road
+is much the same as that to the south, but gold runes have been scribed into
+the pavement.  Along either side of the road are common homes, a few small
+shops, and a home of a merchant or two.    
+~
+80 0 1 0 0
+D0
+   Gold Street continues to the north for a short distance, and then ends in
+the center of a bright intersection.  On both sides of the road are smaller
+houses, but they appear to be under contruction and are not able to be entered.
+  
+~
+~
+0 0 8005
+D1
+   A large house has been erected on this side of the road.  It appears to
+belong to a merchant of some kind, for it bares a lot of ornaments around its
+fixtures.    
+~
+door~
+1 0 8010
+D2
+   Gold Street continues off in this direction, heading for the city gates.  
+Groups of people can be seen entering and leaving the city, going about their
+daily tasks.    
+~
+~
+0 0 8003
+S
+#8005
+Gold Street~
+   The width of the street allows more traffic to move along comfortably in
+this area.  A few merchant tables are set up along the side of the street,
+selling wares common to this part of Krynn.  To the north a multitude of people
+walk around a busy intersection.  To the south, Gold Street continues.  A dark
+alley branches off to the southwest.    
+~
+80 0 1 0 0
+D0
+   A bright intersection opens up before you, with a few peddlers and common
+fold moving towards their individual destinations.    
+~
+~
+0 0 8006
+D2
+   Gold Street continues in this direction, surrounded on both sides by
+buildings.  It continues off for some distance to the south, and then ends at
+the city gates.    
+~
+~
+0 0 8004
+D8
+~
+~
+0 0 8034
+S
+#8006
+A Bright Intersection~
+   Bright sunlight fills the square.  A pungent smell of sweet smelling smoke
+fills the air.  This section of the city is richer and more lively than most.
+Most of the trading is done in this vicinity, and so merchants are out in
+droves.  To the north are large statues dedicated to the gods of good, and the
+market square continues to the east and the west.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8025
+D1
+~
+~
+0 0 8015
+D2
+   To the south, Gold Street moves along, and heads for the city gates.  City
+folk and peasants move along its straight path, most of them coming from or
+heading to the entrance to the city.    
+~
+~
+0 0 8005
+D3
+~
+~
+0 0 8033
+S
+#8007
+A Small Gatehouse~
+   This dwelling is filled with the smell of alcohol and dirty laundry.  The
+magistrates of the city demand that each guard house be kept clean, but they do
+not often come around during this busy time of year.  A few weapons racks adorn
+each well.  They hold everything from short swords to pole arms.  There has not
+been a real threat to the city in a long time, but the guards manage to fill
+their time by bullying the common people.    
+~
+80 12 0 0 0
+D2
+~
+~
+0 0 8001
+S
+#8008
+A Common Home~
+   This home is filled with little, but a lot of care has gone into making it
+feel like home.  A few broken down chairs have been set around a rotting wooden
+table in the middle of the floor.  With only one room, and a leaky roof, this
+does not appear to be a desirable place to live.    
+~
+80 12 0 0 0
+D3
+   A small door leads out to Gold Street.    
+~
+door~
+1 0 8003
+S
+#8009
+A Common Home~
+   This home is filled with little, but a lot of care has gone into making it
+feel like home.  A few broken down chairs have been set around a rotting wooden
+table in the middle of the floor.  With only one room, and a leaky roof, this
+does not appear to be a desirable place to live.    
+~
+80 12 0 0 0
+D1
+   A small door leads out to Gold Street.    
+~
+door~
+1 0 8003
+S
+#8010
+A Large Dwelling~
+   A broad carpet feels soft beneath your feet, and the lamps around the room
+keep it well lit.  A spiraling staircase along the northern edge of the room
+leads to the upstairs.  A couch and some other comfortable seats have been set
+up to the south, where small dinner parties are held and guests of the house
+can be kept entertained.    
+~
+80 12 0 0 0
+D3
+   The wall is decorated with a few paintings and various weapons gathered from
+all over Krynn.  The door leads out to Gold Street.    
+~
+door~
+1 0 8004
+D4
+   The celing has a large mural painted on it by one of Istar's finest
+craftsmen, Quill.  It depicts the god Paladine peering in and smiling on a
+ritual congregation of the Church at Istar.    
+~
+~
+0 0 8011
+S
+#8011
+The Upstairs~
+   A spiraling staircase, with carpeted steps, leads down to the floor below.
+This home is very extravagant but is not very large.  The only upstairs room is
+a bedroom a small ways down the hallway to the east.  A door leads into the
+room that can be closed when times of privacy are necessary.    
+~
+80 8 0 0 0
+D1
+   A large doorway leads to the master bedroom, where the merchant sleeps.    
+~
+doorway~
+1 0 8012
+D5
+   The stairs lead down at a steep angle to the floor below.    
+~
+~
+0 0 8010
+S
+#8012
+A Large Bedroom~
+   A large bed fills most of the room and makes walking around difficult.  A
+large window facing the east is perfect for watching the sun come up on lazy
+mornings around the house.  A large chest is set near the foot of the bed,
+probably holdings bed linens and other small adornments for the room.    
+~
+80 8 0 0 0
+D3
+   The western wall of this room is decorated with paintings of the various
+flowers of the region around Istar.  Large yellow blossom and pinkish tulips
+dot the wall.  The doorway leads to the outer hallway.    
+~
+doorway~
+1 0 8011
+S
+#8013
+A Small Herbal Shop~
+   This small shop is filled with the smell of fresh flowers and fruit.  The
+shelves are lined with various herbs for everything to curing a wicked cough,
+to spices to cook a delicious meal with.  The walls are stone, and a few
+paintings have been hung along their edges.    
+~
+80 12 0 0 0
+D0
+~
+~
+0 0 8033
+D3
+~
+door~
+1 0 8014
+E
+plaque sign sedit~
+   A small plaque behind the counter bears the establishment's merchant number
+which is assigned by the Istar Chamber of Commerce, located in the Welcoming
+Tower.    
+
+                           #8002
+
+
+~
+S
+#8014
+A Small Living Quarters~
+   This small room is filled with all the comforts of home.  There is not much
+decoration, but care has been taken to ensure comfort and warmth.  The ceiling
+is leaking in places, but small pots placed strategically along the floor keep
+the water from making puddles.    
+~
+80 12 0 0 0
+D1
+~
+door~
+1 0 8013
+S
+#8015
+The Istar Marketplace~
+   This street is lined with merchants of all kinds selling their various
+wares.  People are all rushing around trying to make a fast dollar, and a lot
+of noise results from their constant chattering and dealing.  The street is
+paved with a smooth stone that makes for good footing.  Large lamps have been
+built on either side of the street.  These can be lit at night to allow for
+better sight at night for the citizens of Istar.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8099
+D1
+~
+~
+0 0 8016
+D2
+~
+~
+0 0 8129
+D3
+~
+~
+0 0 8006
+S
+#8016
+Market Street~
+   This street is lined with merchants of all kinds selling their various
+wares.  People are all rushing around trying to make a fast dollar, and a lot
+of noise results from their constant chattering and dealing.  The street is
+paved with a smooth stone that makes for good footing.  Large lamps have been
+built on either side of the street.  These can be lit at night to allow for
+better sight at night for the citizens of Istar.    
+~
+80 0 1 0 0
+D1
+~
+~
+0 0 8017
+D3
+~
+~
+0 0 8015
+S
+#8017
+The Corner of Market and Mercy~
+   To the north of this spot is one of the poorer sections of Istar.  The
+people there are in need, and if someone who has plenty should pass along that
+way it is common for them to hand out alms to those less fortunate.  The view
+of the rest of the city is blocked because of several tall buildings.  
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8018
+D3
+~
+~
+0 0 8016
+S
+#8018
+Mercy Avenue~
+   This wide avenue is named Mercy Avenue because this is where the alms are
+handed out for the poor.  A few noblemen and noblewomen move along its edges,
+handing out coins to the poorer peasants who beg from the edges of the road.  
+To the east is a narrow alley where more beggars try to scrounge for food and
+money.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8019
+D2
+~
+~
+0 0 8017
+S
+#8019
+Mercy Avenue~
+   This wide avenue is named Mercy Avenue because this is where the alms are
+handed out for the poor.  A few noblemen and noblewomen move along its edges,
+handing out coins to the poorer peasants who beg from the edges of the road.  
+The sides of the road are bare, but to the west in the distance a large statue
+of Paladine can be seen.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8020
+D2
+~
+~
+0 0 8018
+S
+#8020
+Corner of Mercy and Blessed~
+   The street is somewhat muddy here from a recent thunderstorm.  A small stone
+wall has been erected to the east, with an arch in the center of it leading to
+a small side street.  The holy symbol of Paladine has been engraved above the
+arch, indicating that the doorway leads eventually to a statue of the god.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8046
+D1
+~
+~
+0 0 8036
+D2
+~
+~
+0 0 8019
+D3
+~
+~
+0 0 8021
+S
+#8021
+The Avenue of the Blessed~
+   The street is somewhat muddy here from the flow of traffic and a recent
+thunderstorm.  A divine sense of peace fills this area.  The street is narrow,
+but the walking is not crowded.  The avenue is an area where priests often take
+a morning walk, to think quitely and reflect on their repsective gods.    
+~
+80 0 1 0 0
+D1
+~
+~
+0 0 8020
+D2
+~
+~
+0 0 8183
+D3
+~
+~
+0 0 8022
+S
+#8022
+The Avenue of the Blessed~
+   The street is somewhat muddy here from the flow of traffic and a recent
+thunderstorm.  A divine sense of peace fills this area.  The street is narrow,
+but far from crowded.  The avenue is an area where priests often take a morning
+walk, to think quietly and reflect on their respective gods.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8040
+D1
+~
+~
+0 0 8021
+D2
+~
+~
+0 0 8182
+D3
+~
+~
+0 0 8023
+S
+#8023
+A Crowded Intersection~
+   This intersection marks the meeting of three major roads within Istar.  A
+few merchants have set up stands to sell their goods to the passing Istarians.
+The sound of laughter and song fills the air as a small band of musicians
+entertains from the southeast corner of the intersection.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8077
+D1
+~
+~
+0 0 8022
+D2
+~
+~
+0 0 8024
+D3
+~
+~
+0 0 8026
+D5
+~
+~
+0 0 -1
+S
+#8024
+A Statue of Mishakal~
+   A sense of awe, majesty and light fills the air.  In the center of the road,
+upon a round dais, a beautiful statue of the goddess Mishakal has been erected
+in honor of her warmth and healing.  As people pass the statue, most bow their
+heads to pay respect to the goddess that brings so much compassion into the
+world.  A momentary distraction from the beauty of the statue is provided by a
+sign over a small doorway tucked away between two large houses.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8023
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 8025
+D3
+~
+~
+0 0 8102
+E
+sign~
+The sign reads, 'The Thief's Dismay'
+~
+S
+#8025
+A Statue of Paladine~
+   A strong power eminates from the center of the road where a large statue of
+the god Paladine has been erected on a large, circular dais.  The statue seems
+to give off its own white light, and has a look of serene peace across its
+mighty visage.  Most of the folk who pass by bow their heads in respect to the
+god, and priests of Istar often visit here to pray out in front of the public.
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8024
+D2
+~
+~
+0 0 8006
+S
+#8026
+The Avenue of the Blessed~
+   The street is somewhat muddy here from the flow of traffic and a recent
+thunderstorm.  A divine sense of peace fills this area.  The street is narrow,
+but the walking is not crowded.  The avenue is an area where priests often take
+a morning walk, to think quitely and reflect on their respective gods.    
+~
+80 0 1 0 0
+D1
+~
+~
+0 0 8023
+D3
+~
+~
+0 0 8027
+S
+#8027
+The Avenue of the Blessed~
+   The street is somewhat muddy here from the flow of traffic and a recent
+thunderstorm.  A divine sense of peace fills this area.  The street is narrow,
+but the walking is not crowded.  The avenue is an area where priests often take
+a morning walk, to think quitely and reflect on their repsective gods.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 8026
+D2
+~
+~
+0 0 8181
+D3
+~
+~
+0 0 8028
+S
+#8028
+Before the Roaring Dragon Inn~
+   The Roaring Dragon Inn stands directly to the north.  It is Istar's premiere
+inn and tavern and as such is located here, just off one of the main city
+promenades.  This wide avenue is often graced by the clergy on their morning
+stroll.  It is bordered on both sides by lovely flower boxes which overflow
+with colorful blooms at nearly all times of year.    
+~
+80 4 1 0 0
+D0
+~
+~
+0 0 8103
+D1
+~
+~
+0 0 8027
+D3
+~
+~
+0 0 8038
+D5
+A small manhole covered with a grate.
+~
+manhole~
+1 0 8112
+S
+#8029
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  On the southern side are homes where the city guards live.  Standing to
+the north, in the shadow of the Great Temple, is the formidable structure that
+serves as Istar's jail.  The road is made of a smooth, white stone that is
+generally only ever seen by the guards and the prisoners.  The common folk and
+nobles of the city tend to avoid the area whenever possible.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8140
+D1
+~
+~
+0 0 8117
+D3
+~
+~
+0 0 8030
+S
+#8030
+Guardsmen's Road~
+   A sense of awe is felt in this area, as a large statue of a High Guard has
+been erected along the southwest part of this corner to honor all those who
+serve the city.  The street is kept cleaner here, to help give this place the
+presence and admiration it deserves.  The road is wide enough to allow patrols
+of troops to train and to easily pass through the area.    
+~
+80 0 1 0 0
+D1
+~
+~
+0 0 8029
+D2
+~
+~
+0 0 8039
+S
+#8031
+The Western Side of the Marketplace~
+   This street is lined with merchants of all kinds selling their various
+wares.  People are all rushing around trying to make a fast coin, and a lot of
+noise results from their constant chattering and dealing.  The street is paved
+with a smooth stone that makes for good footing.  Large lamps have been built
+on either side of the street.  These can be lit at night to allow for better
+sight at night for the citizens of Istar.    
+~
+80 4 1 0 0
+D0
+~
+~
+0 0 8127
+D1
+~
+~
+0 0 8032
+D2
+~
+~
+0 0 8101
+D6
+~
+~
+0 0 8122
+S
+#8032
+The Istar Marketplace~
+   This street is lined with merchants of all kinds selling their various
+wares.  People are all rushing around trying to make a fast coin, and a lot of
+noise results from their constant chattering and dealing.  The street is paved
+with a smooth stone that makes for good footing.  Large lamps have been built
+on either side of the street.  These can be lit at night to allow for better
+sight at night for the citizens of Istar.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8128
+D1
+~
+~
+0 0 8033
+D2
+~
+~
+0 0 8071
+D3
+~
+~
+0 0 8031
+S
+#8033
+The Istar Marketplace~
+   This street is lined with merchants of all kinds selling their various
+wares.  People are all rushing around trying to make a fast coin, and a lot of
+noise results from their constant chattering and dealing.  The street is paved
+with a smooth stone that makes for good footing.  Large lamps have been built
+on either side of the street.  These can be lit at night to allow for better
+sight at night for the citizens of Istar.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8100
+D1
+~
+~
+0 0 8006
+D2
+~
+~
+0 0 8013
+D3
+~
+~
+0 0 8032
+S
+#8034
+Beggar's Alley~
+   This alley smells of rotting flesh and stale urine.  Most of the peasants
+who live off of the handouts given on Mercy Avenue make their home here.  Both
+sides of the alley are large stone walls, whose original purpose is unknown in
+the city today.    
+~
+80 0 1 0 0
+D7
+~
+~
+0 0 8005
+D8
+~
+~
+0 0 8035
+S
+#8035
+Beggar's Alley~
+   This alley smells of rotting flesh and stale urine.  Most of the peasants
+who live off of the handouts given on Mercy Avenue make their home here.  Both
+sides of the alley are large stone walls, whose original purpose is unknown in
+the city today.    
+~
+80 4 1 0 0
+D2
+~
+~
+0 0 8132
+D3
+~
+~
+0 0 8190
+D7
+~
+~
+0 0 8034
+S
+#8036
+A Small Side Street~
+   This small sidestreet leads to an area revered by all who dwell within this
+city.  The sides of the street are stone walls, with decorations that have
+never been vandalized, and are carefully protected.  There is an archway to the
+west back to the intersection, and another to the north leading to a large
+statue of Paladine.    
+~
+80 4 1 0 0
+D0
+~
+~
+0 0 8037
+D2
+~
+~
+0 0 8180
+D3
+~
+~
+0 0 8020
+S
+#8037
+Near a Large Statue of Paladine~
+   Grass covers the ground here to allow for those who come to rest along the
+ground to pray.  A massive statue of Paladine stands in the center of the area,
+a sense of peace eminating from its surface.  The statue is made with fine
+white stone, and has been carved to perfection.    
+~
+80 0 1 0 0
+D2
+~
+~
+0 0 8036
+S
+#8038
+The Avenue of the Blessed~
+   This grand promenade is one of the main east-west streets in Istar.  It runs
+from the central hub of the city, near the Great Temple, to the arena in the
+west.  To the south, the shops and stalls of the market square are visible over
+some smaller residences.  The Welcoming Tower stands to the north and houses
+some of the services provided by the city government.    
+~
+80 4 1 0 0
+D0
+~
+~
+0 0 8114
+D1
+~
+~
+0 0 8028
+D3
+~
+~
+0 0 8048
+S
+#8039
+Near a Large Statue of Mishakal~
+   Grass covers the ground here to allow for those who come to rest along the
+ground to pray.  A massive statue of Mishakal stands in the center of the area,
+a sense of peace eminating from its surface.  The statue is made with fine
+white stone, and has been carved to perfection.    
+~
+80 4 1 0 0
+D0
+~
+~
+0 0 8030
+D2
+~
+~
+0 0 8042
+S
+#8040
+The Walk of the Gods~
+   Finely-fitted white stones make up the road known as the Walk of the Gods,
+and tall lamps lean over the road, lighting the area brightly when night falls
+upon Istar.  The stones have been arranged to form the constellations of the
+gods of good.  Here, Branchala's harp fills the stones with song.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8041
+D2
+~
+~
+0 0 8022
+S
+#8041
+The Walk of the Gods~
+   Finely-fitted white stones make up the road known as the Walk of the Gods,
+and tall lamps lean over the road, lighting the area brightly when night falls
+upon Istar.  The stones have been arranged to form the constellations of the
+gods of good.  Here, Majere's single rose lends its beauty to the surroundings.
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8042
+D2
+~
+~
+0 0 8040
+S
+#8042
+The Walk of the Gods~
+   Finely-fitted white stones make up the road known as the Walk of the Gods,
+and tall lamps lean over the road, lighting the area brightly when night falls
+upon Istar.  The stones have been arranged to form the constellations of the
+gods of good.  Here, Mishakal's symbol of infinity is embodied in the ageless
+rock.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8039
+D1
+~
+~
+0 0 8043
+D2
+~
+~
+0 0 8041
+S
+#8043
+The Walk of the Gods~
+   Finely-fitted white stones make up the road known as the Walk of the Gods,
+and tall lamps lean over the road, lighting the area brightly when night falls
+upon Istar.  Here, the stones have been arranged to form the constallation of
+Paladine, the Platinum Dragon, which is traced by a shining mixture of gold and
+silver and platinum lines, bestowing a sense of absolute purity to all near it.
+~
+80 16 1 0 0
+D1
+~
+~
+0 0 8044
+D2
+~
+~
+0 0 8097
+D3
+~
+~
+0 0 8042
+S
+#8044
+The Walk of the Gods~
+   Finely-fitted white stones make up the road known as the Walk of the Gods,
+and tall lamps lean over the road, lighting the area brightly when night falls
+upon Istar.  The stones have been arranged to form the constellations of the
+gods of good.  Here, Solinari's white sphere lights up the surface.  
+Fittingly, this path leads to the Tower of High Sorcery which is visible to the
+east, beyond groves of ancient olive trees.    
+~
+80 0 1 0 0
+D1
+~
+~
+0 0 8199
+D2
+~
+~
+0 0 8045
+D3
+~
+~
+0 0 8043
+S
+#8045
+The Walk of the Gods~
+   Finely-fitted white stones make up the road known as the Walk of the Gods,
+and tall lamps lean over the road, lighting the area brightly when night falls
+upon Istar.  The stones have been arranged to form the constellations of the
+gods of good.  Here, Kiri-Jolith's bison bears its mane proudly, inspiring
+those who pass over it.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8044
+D2
+~
+~
+0 0 8046
+S
+#8046
+The Walk of the Gods~
+   Finely-fitted white stones make up the road known as the Walk of the Gods,
+and tall lamps lean over the road, lighting the area brightly when night falls
+upon Istar.  The stones have been arranged to form the constellations of the
+gods of good.  Here, Habbakuk's blue phoenix flies across the surface.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8045
+D2
+~
+~
+0 0 8020
+S
+#8047
+The Path to the Arena~
+   The grey-stone path is surrounded on both sides by well-trimmed hedges
+intertwined with rose bushes to add a splash of color.  Many people who are
+eager to see the outcome of the next battle in the arena pass through this
+area, or are returning from a show with smiles on their faces.  To the east the
+path leads back towards the hub of the city, and to the northeast it leads into
+the arena's entryway.    
+~
+80 4 1 0 0
+D1
+~
+~
+0 0 8048
+D2
+~
+~
+0 0 8119
+D6
+~
+~
+0 0 8051
+S
+#8048
+The Path to the Arena~
+   The grey-stone path is surrounded on both sides by well-trimmed hedges
+intertwined with rose bushes to add a splash of color.  Despite the small
+amount of walking space, many people pass through, eager to see the next
+battle.  The large arena peeks up over the top of the hedges, towering over the
+area.  To the east, the path meets another road, and it continues toward the
+arena to the west.    
+~
+80 0 1 0 0
+D1
+~
+~
+0 0 8038
+D3
+~
+~
+0 0 8047
+S
+#8049
+Standing Near the Seats~
+   The arena contains row after row of benches, most occupied, for the comfort
+of the spectators.  Some noblemen, many of which own gladiators that fight in
+the arena, sit in padded, soft-backed seats closest to the action.  Unlike the
+rest of the crowd, they refrain from cheering or applauding as the warriors
+battle on.  The view of the center of the arena is not spectacular from these
+seats, but it's good enough for the commoner.    
+~
+80 4 1 0 0
+D0
+~
+~
+0 0 8058
+D1
+~
+~
+0 0 8050
+S
+#8050
+A Walkway Around the Arena~
+   The walkway of the arena allows spectators to find a seat that pleases them
+without disturbing anyone.  Running along the edge of the arena, it makes it
+difficult to see the gladiators battling in the center pit.  The constant din
+of cheering and applause is the main indication that the gladiators still
+battle.    
+~
+80 8 0 0 0
+D1
+~
+~
+0 0 8051
+D3
+~
+~
+0 0 8049
+S
+#8051
+The Entrance to the Arena~
+   The entrance is filled with people coming to and leaving from the arena.  
+An arch as tall as four men put together, and wide enough to allow nearly all
+of the crowd to walk through, welcomes you to the magnificent building.  
+Shouts and cheers can be heard from the stands as a battle rages on in the
+center of the arena.  A small stall has been set up to the south.    
+~
+80 8 0 0 0
+D0
+~
+~
+0 0 8052
+D2
+~
+~
+0 0 8002
+D3
+~
+~
+0 0 8050
+D9
+~
+~
+0 0 8047
+S
+#8052
+Standing Near the Seats~
+   The arena contains row after row of benches, most occupied, for the comfort
+of the spectators.  Some noblemen, many of which own gladiators that fight in
+the arena, sit in padded, soft-backed seats closest to the action.  Unlike the
+rest of the crowd, they refrain from cheering or applauding as the warriors
+battle on.  The view of the center of the arena is not spectacular from these
+seats, but it's good enough for the commoner.    
+~
+80 8 0 0 0
+D0
+~
+~
+0 0 8053
+D2
+~
+~
+0 0 8051
+S
+#8053
+Near the Seats and Stairs~
+   The arena contains row after row of benches, most occupied, for the comfort
+of the spectators.  Some noblemen, many of which own gladiators that fight in
+the arena, sit in padded, soft-backed seats closest to the action.  Unlike the
+rest of the crowd, they refrain from cheering or applauding as the warriors
+battle on.  Close by, a stairway descends into the center of the arena.    
+~
+80 8 0 0 0
+D0
+~
+~
+0 0 8054
+D2
+~
+~
+0 0 8052
+D5
+~
+~
+0 0 8059
+S
+#8054
+Standing Near the Seats~
+   The arena contains row after row of benches, most occupied, for the comfort
+of the spectators.  Some noblemen, many of which own gladiators that fight in
+the arena, sit in padded, soft-backed seats closest to the action.  Unlike the
+rest of the crowd, they refrain from cheering or applauding as the warriors
+battle on.  The view of the center of the arena is not spectacular from these
+seats, but it's good enough for the commoner.    
+~
+80 8 0 0 0
+D2
+~
+~
+0 0 8053
+D3
+~
+~
+0 0 8055
+S
+#8055
+Standing Near the Seats~
+   The arena contains row after row of benches, most occupied, for the comfort
+of the spectators.  Some noblemen, many of which own gladiators that fight in
+the arena, sit in padded, soft-backed seats closest to the action.  Unlike the
+rest of the crowd, they refrain from cheering or applauding as the warriors
+battle on.  The view of the center of the arena is not spectacular from these
+seats, but it's good enough for the commoner.    
+~
+80 8 0 0 0
+D1
+~
+~
+0 0 8054
+D3
+~
+~
+0 0 8056
+S
+#8056
+Standing Near the Seats~
+   The arena contains row after row of benches, most occupied, for the comfort
+of the spectators.  Some noblemen, many of which own gladiators that fight in
+the arena, sit in padded, soft-backed seats closest to the action.  Unlike the
+rest of the crowd, they refrain from cheering or applauding as the warriors
+battle on.  The view of the center of the arena is not spectacular from these
+seats, but it's good enough for the commoner.    
+~
+80 8 0 0 0
+D1
+~
+~
+0 0 8055
+D2
+~
+~
+0 0 8057
+S
+#8057
+Standing Near the Seats~
+   The arena contains row after row of benches, most occupied, for the comfort
+of the spectators.  Some noblemen, many of which own gladiators that fight in
+the arena, sit in padded, soft-backed seats closest to the action.  Unlike the
+rest of the crowd, they refrain from cheering or applauding as the warriors
+battle on.  The view of the center of the arena is not spectacular from these
+seats, but it's good enough for the commoner.    
+~
+80 8 0 0 0
+D0
+~
+~
+0 0 8056
+D2
+~
+~
+0 0 8058
+S
+#8058
+Near the Seats and Stairs~
+   The arena contains row after row of benches, most occupied, for the comfort
+of the spectators.  Some noblemen, many of which own gladiators that fight in
+the arena, sit in padded, soft-backed seats closest to the action.  Unlike the
+rest of the crowd, they refrain from cheering or applauding as the warriors
+battle on.  Close by, a stairway descends into the center of the arena.    
+~
+80 8 0 0 0
+D0
+~
+~
+0 0 8057
+D2
+~
+~
+0 0 8049
+D5
+~
+~
+0 0 8060
+S
+#8059
+Inside the Arena~
+   The arena is a vast open space set beneath the seats that surround it.  
+Dust covers the well-treaded ground, in some places marked by blood or the
+imprint left by a clumsily-swung weapon.  At the sight of you, the crowd bursts
+into applause, perhaps thinking a new battle is about to ensue.  It would be in
+your best interests to leave post-haste before an armed gladiator gets the same
+idea.    
+~
+80 12 0 0 0
+D2
+~
+~
+0 0 8060
+D3
+~
+~
+0 0 8061
+D4
+~
+~
+0 0 8053
+S
+#8060
+Inside the Arena~
+   The arena is a vast open space set beneath the seats that surround it.  
+Dust covers the well-treaded ground, in some places marked by blood or the
+imprint left by a clumsily-swung weapon.  At the sight of you, the crowd bursts
+into applause, perhaps thinking a new battle is about to ensue.  It would be in
+your best interests to leave post-haste before an armed gladiator gets the same
+idea.    
+~
+80 12 0 0 0
+D0
+~
+~
+0 0 8059
+D4
+~
+~
+0 0 8058
+S
+#8061
+Underground Entrance to the Arena~
+   This is the entrance used by the gladiators to enter and exit the arena.  
+Filled with pieces of gaudy fake armor as well as dulled weapons and daggers
+that retract when used, it also seems to be the place the gladiators prepare
+for their "battles".  Several animal-hide bags, easily punctured with enough
+force, are set against the wall, filled with the blood of the same creature
+that provided the skin.  These are used to simulate the blood of a dying
+warrior in the arena.  A hallway leads back into several chambers, where the
+clamor of conversation and the muffled din of cheering from above intertwine.
+~
+80 12 0 0 0
+D1
+~
+~
+0 0 8059
+D3
+~
+~
+0 0 8062
+S
+#8062
+Underground Entrance to the Arena~
+   This is the back part of the entrance used by the gladiators to enter and
+exit the arena.  Filled with pieces of gaudy fake armor as well as dulled
+weapons and daggers that retract when used, it also seems to be the place the
+gladiators prepare for their "battles".  Several animal-hide bags, easily
+punctured with enough force, are set against the wall, filled with the blood of
+the same creature that provided the skin.  These are used to simulate the blood
+of a dying warrior in the arena, which lies to the east.  Northward is the
+slave mess hall, where enough noise to rouse a corpse eminates from.    
+~
+80 12 0 0 0
+D0
+~
+~
+0 0 8063
+D1
+~
+~
+0 0 8061
+D3
+~
+~
+0 0 8065
+S
+#8063
+The Mess Hall~
+   Rows of long tables fill the mess hall, each fully packed with gladiator
+slaves.  Loud voices boom over the sounds of normal conversation occasionally,
+as well as bursts of laughter from groups of slaves.  Against the east wall, a
+bustling kitchen works quickly to satisfy the hunger of the gladiators.  As
+they line up with trays for a meal more nauseating than appetizing, a cook
+slops it on their trays with a ladle.    
+~
+80 12 0 0 0
+D0
+~
+~
+0 0 8064
+D2
+~
+~
+0 0 8062
+D3
+~
+~
+0 0 8066
+S
+#8064
+The Sleeping Area of the Fighters~
+   This is where tired slaves can recover from a day of practice and battle.  
+Each has a cot to call his or her own, but without sheets or a pillow, and only
+one blanket.  The few personal items each warrior has are stashed underneath.
+A life of luxury certainly is not a gladiator's.    
+~
+80 12 0 0 0
+D2
+~
+~
+0 0 8063
+S
+#8065
+The Slave Entrance~
+   This is the entrance that is used by the gladiator slaves to come in from
+the city.  Normally used by recently purchased slaves, on occasion some veteran
+gladiators are allowed to use it to leave the slave quarters when accompanied
+by a guard.  The hatch leads into the ground by ladder, and is normally
+guarded, making it difficult for a slave to escape.    
+~
+80 12 0 0 0
+D1
+~
+~
+0 0 8062
+D5
+~
+hatch~
+1 0 8067
+S
+#8066
+Training Room~
+   Grunts of toil and pain mingle with the strong smell of sweat in this large
+room filled with warriors practicing for the arena.  On one side, racks of
+dulled weapons lean against the walls, and warriors practice their ability to
+thrust and parry, giving and receiving only a few scratches.  On the opposite
+side, thick padded mats allow the gladiators to practice their kicks, throws,
+and flashy moves that win the applause of the audience.    
+~
+80 12 0 0 0
+D1
+~
+~
+0 0 8063
+S
+#8067
+The Bottom of the Ladder~
+   The walkway ends here at a ladder that ascends to the surface.  It is made
+of sturdy wood and does not look to be a challenge to climb.  Opposite the
+ladder is a walkway over the sewers, which will take you back in the other
+direction.    
+~
+80 12 0 0 0
+D1
+~
+~
+0 0 8068
+D2
+~
+~
+0 0 8068
+D4
+~
+hatch~
+1 0 8065
+S
+#8068
+Along the Walkway~
+   The walkway is a rope bridge with two planks to walk upon.  Suspended by
+ropes thick as man's wrist, and by the sturdy posts underneath the planks at
+every ten feet, it is not likely that the walkway would fall, but the thought
+is chilling nonetheless.  A section of Istar's complex sewer system runs
+underneath, giving off a repulsive odor.  The walkway was obviously built in a
+utilitarian manner, and not made for casual strolls.    
+~
+80 8 0 0 0
+D3
+~
+~
+0 0 8067
+D9
+~
+~
+0 0 8069
+S
+#8069
+Along the Walkway~
+   The walkway is a rope bridge with two planks to walk upon.  Suspended by
+ropes thick as man's wrist, and by the sturdy posts underneath the planks at
+every ten feet, it is not likely that the walkway would fall, but the thought
+is chilling nonetheless.  A section of Istar's complex sewer system runs
+underneath, giving off a repulsive odor.  The walkway was obviously built in a
+utilitarian manner, and not made for casual strolls.    
+~
+80 8 0 0 0
+D1
+~
+~
+0 0 8070
+D5
+~
+~
+0 0 -1
+D6
+~
+~
+0 0 8068
+S
+#8070
+Along the Walkway~
+   The walkway is a rope bridge with two planks to walk upon.  Suspended by
+ropes thick as man's wrist, and by the sturdy posts underneath the planks at
+every ten feet, it is not likely that the walkway would fall, but the thought
+is chilling nonetheless.  A section of Istar's complex sewer system runs
+underneath, giving off a repulsive odor.  The walkway was obviously built in a
+utilitarian manner, and not made for casual strolls.    
+~
+80 8 0 0 0
+D1
+~
+~
+0 0 8072
+D3
+~
+~
+0 0 8069
+D5
+~
+~
+0 0 -1
+S
+#8071
+General Store~
+   The general store buys and sells nearly everything imaginable.  Odds and
+ends line the shelves behind the front desk, filled with everything from books
+to broaches.  Along a side shelf are various baked goods pleasing to almost any
+palate, and next to the shelf is a trapdoor leading down into a small wine
+cellar.  In the front of the store, various pieces of fine clothing and
+well-crafted armor hang, some ornamental, most for sale.    
+~
+80 12 0 0 0
+D0
+~
+~
+0 0 8032
+E
+plaque sign sedit~
+   A small plaque behind the counter bears the establishment's merchant number
+which is assigned by the Istar Chamber of Commerce, located in the Welcoming
+Tower.    
+
+                            #8000
+
+
+~
+S
+#8072
+The Bottom of the Ladder~
+   The walkway ends here at a ladder that ascends to the surface.  It is made
+of sturdy wood and does not look to be a challenge to climb.  Opposite the
+ladder is a walkway over the sewers, which will take you back in the other
+direction.    
+~
+80 12 0 0 0
+D3
+~
+~
+0 0 8070
+D4
+~
+~
+0 0 8112
+S
+#8073
+A Guard's House~
+   Little decoration adorns the walls of this home.  In its place, swords and
+other weapons of hand to hand combat fill up the space.  A small wooden table
+rests in the center of the room, with nothing on top of it.  A cast iron stove
+for cooking meager meals has been set up near the eastern wall.    
+~
+80 12 0 0 0
+D2
+~
+~
+0 0 8117
+D5
+~
+~
+0 0 -1
+S
+#8074
+A Guard's House~
+   Little decoration adorns the walls of this home.  In its place, swords and
+other weapons of hand to hand combat fill up the space.  A small wooden table
+rests in the center of the room, with nothing on top of it.  A cast iron stove
+for cooking meager meals has been set up near the eastern wall.    
+~
+80 12 0 0 0
+D0
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 8118
+S
+#8075
+A Guard's House~
+   Little decoration adorns the walls of this home.  In its place, swords and
+other weapons of hand to hand combat fill up the space.  A small wooden table
+rests in the center of the room, with nothing on top of it.  A cast iron stove
+for cooking meager meals has been set up near the eastern wall.    
+~
+80 12 0 0 0
+D0
+~
+~
+0 0 8117
+S
+#8076
+A Guard's House~
+   Little decoration adorns the walls of this home.  In its place, swords and
+other weapons of hand to hand combat fill up the space.  A small wooden table
+rests in the center of the room, with nothing on top of it.  A cast iron stove
+for cooking meager meals has been set up near the eastern wall.    
+~
+80 12 0 0 0
+D0
+~
+~
+0 0 8118
+S
+#8077
+The Walkway Leading to the Great Temple~
+   The road is small, well-kept, and not often travelled by anyone but clerics
+going about their business to and from the temple.  The occasional noble,
+observing the construction of the temple, passes by dressed in fine attire.  
+In the north, the beginnings of the majestic white temple, dedicated to the
+clergy of the gods of good, radiates a warmth and holiness about the area.    
+~
+80 4 1 0 0
+D2
+~
+~
+0 0 8023
+D6
+~
+~
+0 0 8078
+S
+#8078
+The Walkway Leading to the Great Temple~
+   The road is small, well-kept, and not often travelled by anyone but clerics
+going about their business to and from the temple.  The occasional noble,
+observing the construction of the temple, passes by dressed in fine attire.  
+In the north, the beginnings of the majestic white temple, dedicated to the
+clergy of the gods of good, radiates a warmth and holiness about the area.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8079
+D9
+~
+~
+0 0 8077
+S
+#8079
+Temple Road~
+   The road is small, well-kept, and not often travelled by anyone but clerics
+going about their business to and from the temple.  The occasional noble,
+observing the construction of the temple, passes by dressed in fine attire.  
+In the north, the beginnings of the majestic white temple, dedicated to the
+clergy of the gods of good, radiates a warmth and holiness about the area.    
+~
+80 0 1 0 0
+D0
+~
+~
+0 0 8086
+D2
+~
+~
+0 0 8078
+D3
+~
+door~
+1 0 8080
+S
+#8080
+A Large Foyer~
+   The foyer is quite large, belonging to a well-to-do family.  The walls are
+beautifully panelled in a rich fine-grained redwood, and against each wall is a
+long redwood bench, well-padded for comfort.  Paintings of remarkable scenes
+delight the eyes, and short tables with candellabras and tall shelves thick
+with books add a final flavor to the room.  The foyer opens up into another,
+much smaller room to the west.    
+~
+80 12 0 0 0
+D1
+~
+door~
+1 0 8079
+D3
+~
+~
+0 0 8081
+S
+#8081
+An Open Room~
+   This room is sparsely decorated with one sculptured piece against the wall
+and a large curtained window.  A gradual staircase winds up to the second
+floor, and a polished solid oaken door leads into a room to the south.  To the
+east is the foyer.    
+~
+80 8 0 0 0
+D1
+~
+~
+0 0 8080
+D2
+~
+door~
+1 0 8084
+D4
+~
+~
+0 0 8082
+S
+#8082
+A Long Hallway~
+   A lush green carpet runs the length of this hallway, adding warmth to the
+redwood-panelled walls.  Portaits of the master and mistress of the house hang
+in intricately carven wooden frames, and small candleholders hang from the
+walls between them, casting a glow across the hallway to see them by.    
+~
+80 8 0 0 0
+D0
+~
+doorway~
+1 0 8083
+D2
+~
+~
+0 0 8085
+D5
+~
+~
+0 0 8081
+S
+#8083
+A Large Bedroom~
+   The walls in this room are done in the same redwood panelling as the rest of
+the house, lending a magnificent beauty to the area.  A large mirror surrounded
+by a wooden frame rests against one wall, and a four-post bed large enough for
+five people to sleep comfortably in is against another.  A small tiled area in
+the southeastern corner of the room is covered by thick curtains, which must
+surely be the bathroom area, added as an afterthought by the designer.  A door
+to the south leads out of the room.    
+~
+80 12 0 0 0
+D2
+~
+doorway~
+1 0 8082
+S
+#8084
+A Small Sitting Room~
+   The elegant sitting room is small, yet comfortable.  Three soft-backed
+chairs are arranged around a short table for conversation, and a well-used but
+very comfortable armchair sits in the corner for reading.  By it is a table
+just big enough to hold the book that rests on it.  Two of the four walls are
+covered by bookcases full of literature from every genre imaginable, and a
+third is dominated by a large fireplace, where a crackling fire blazes, keeping
+the room well above warm.  A door to the north leads out of the sitting room.
+~
+80 12 0 0 0
+D0
+~
+door~
+1 0 8081
+S
+#8085
+A Smaller Sitting Room~
+   This room is probably where the lady of the house spends most of her days.
+Two large windows give a spectacular view of Istar and its surroundings, and
+allow sunlight to brighten the room up without need for candles well past dusk.
+A cozy rocking chair sits in the center of the room, with a basket of knitting
+materials and a half-finished project.  A sturdy wooden desk with blank
+parchment and a quill and ink laid out on its surface sits in the corner.  The
+door to the north leads back into the hallway.    
+~
+80 8 0 0 0
+D0
+~
+~
+0 0 8082
+S
+#8086
+Before the Temple~
+   The beginnings of the temple stand here in all their holy glory, the white
+shining surface reaching to the heavens, revering the gods.  The beautiful
+temple curves subtly at each corner with obvious care -- an indication of the
+skill of the stonemasons that are creating it stone by stone.  Above an open
+archway that may soon allow anyone that wishes to enter is the holy symbol of
+each of the good gods of Krynn emblazoned in gold, a mark of reverence.  A
+pathway lined with gardens travels south back toward the main portion of the
+city.    
+~
+80 4 1 0 0
+D0
+~
+door~
+1 0 8089
+D1
+~
+~
+0 0 8088
+D2
+~
+~
+0 0 8079
+D3
+~
+~
+0 0 8087
+S
+#8087
+A Small Grove of Trees~
+   This grove is a common place for priests to ponder the questions of life
+when they are not busy performing any duties.  The grove is very peaceful and
+provides shade from the sun as well as an atmosphere.  Trees of every sort dot
+the grove, and flowers grow close outside the grove so that they may not be
+tramped upon.
+~
+80 0 3 0 0
+D1
+~
+~
+0 0 8086
+S
+#8088
+Near a Small Bench~
+   A bench has been provided here among the bushes and scattered trees, giving
+rest to weary bones.  Priests often come here to read or simply admire the
+temple as it is being built.  What will become the entrance to the holy place
+lies to the west.    
+~
+80 0 1 0 0
+D3
+~
+~
+0 0 8086
+S
+#8089
+Just Inside the Temple~
+   The large temple is truly splendid on the inside, representing the power and
+glory of Istar.  The beautifully smooth white walls reach skyward, nearly four
+stories high, stopping only to meet a white roof.  At the very top of the roof,
+stone turns to glass, allowing sunlight to shine in upon the priests during the
+day.  The floor is a beautiful white marble swirled with grey, stretching
+without a crack across the entire temple.  Incredibly detailed, man-sized
+paintings of past High Priests of Istar line the walls, further immortalizing
+their legacies.    
+~
+80 8 0 0 0
+D0
+~
+~
+0 0 8091
+D1
+~
+~
+0 0 8090
+D2
+~
+door~
+1 0 8086
+S
+#8090
+A Small Worship Area~
+   This area is dedicated to the supreme god of goodness, Paladine, and
+secondly to the goddess of healing, Mishakal.  Priests of the temple gather
+here to pay homage to the gods, perform daily prayers, and seek strength in
+times of hardship.  Both gods are depicted in two large statues of pure white
+stone to represent their presense and protection over this area.    
+~
+80 12 0 0 0
+D3
+~
+~
+0 0 8089
+S
+#8091
+The Hall of Audience~
+   The Hall of Audience is directly below the glass portion of the ceiling, so
+that at noon every day, the dais to the north is bathed in sunlight.  On each
+wall is a lightly padded bench where priests and nobles wait their turn to
+speak with the High Priest.  A thick red carpet runs to the north up the the
+stairs to the dais.  To the east is a small sitting room where the more noble
+guests may wait, and meanwhile be entertained by some of the higher-ranking
+priests to alleviate their boredom.  To the west is a small hallway that turns
+to the north abruptly and heads to an unknown destination.    
+~
+80 8 0 0 0
+D0
+~
+~
+0 0 8092
+D1
+~
+door~
+1 0 8093
+D2
+~
+~
+0 0 8089
+D3
+~
+~
+0 0 8094
+S
+#8092
+Atop the Central Dais~
+   The dais is surrounded by a semicircle of extremely gradual stairs, the
+center of which are carpeted all the way to the dais itself.  Atop it is a
+small embroidered cushion to allow the Head Priest to sit without discomfort.
+A strange light seems to eminate from the dais, filling all who look at it with
+warmth and a sense of tranquility and a desire to humble themselves before a
+force they cannot comprehend.  To the south, priests and lower-ranking nobles
+wait patiently for the High Priest's audience.    
+~
+80 12 0 0 0
+D2
+~
+~
+0 0 8091
+S
+#8093
+A Small Sitting Room~
+   Filled with many extravagantly-decorated chairs, all of extremely well make
+and almost as comfortable as aesthetically pleasing, the sitting room is well
+suited to high nobility.  Racks of books and holy texts, some hundreds of years
+old, are there merely for their appearance, as are the large robust paintings
+depicting holy scenes of times long past.  A small crystal chandellier hangs
+from the ceiling, decorated with gold and silver, providing a soft light even
+during the day.  There is a door to the west which leads into the Hall of
+Audience.    
+~
+80 12 0 0 0
+D3
+~
+door~
+1 0 8091
+S
+#8094
+A Short Hallway~
+   Perhaps the only place simply decorated in the temple, the hallway extends
+around a corner and to the north, where it ends at a set of double doors, and
+to the Hall of Audience in the east.  Thick blue carpet rests on the white
+tiles below it, and candleholders light the hall along the way.    
+~
+80 12 0 0 0
+D0
+~
+~
+0 0 8095
+D1
+~
+~
+0 0 8091
+S
+#8095
+A Guarded Area~
+   This area is normally very heavily guarded, the only place where weapons are
+allowed in the temple.  The hall here ends at a set of double doors with
+long-handled golden knobs and the symbol of Paladine on each in silver.  The
+area is well lit by several candle holders and is covered with a navy blue
+carpet that makes for easy walking.  The hallway continues to the south.    
+~
+80 12 0 0 0
+D0
+~
+door~
+2 8017 8096
+D2
+~
+~
+0 0 8094
+S
+#8096
+The Personal Chambers of the Head Priest~
+   The Head Priest's chambers are simply extravagant in their decoration.  The
+high-ceilinged chamber is dominated by a magnificent four-post bed, each post
+twisted with large bands of silver, and the symbol of the priesthood of Istar
+is carved into the headboard, laiden with enough gold to buy an entire town.  
+A perfectly-stitched blanket dating hundreds of years back lays over the rest
+of the well-tailored sheets and plump pillows.  A gold-framed mirror rests
+above a marble washbasin, and on another wall a painting as tall as two men
+depicts the Head Priest in all his radiance.  A fireplace crackles loudly from
+one corner, not giving off the slightest trace of smoke, and a personal altar
+with a small statue of Paladine in the center has been built in another.  A set
+of double doors to the south leads out of the room.    
+~
+80 262300 0 0 0
+D2
+Nothing.
+~
+door~
+2 8017 8095
+D5
+~
+trapdoor~
+1 0 8157
+S
+T 8096
+#8097
+A Peaceful Grove~
+   Amidst the hustle and bustle of the city of Istar, this grove offers peace
+and serenity to all who rest here.  Surrounded by hedges, and filled with
+shapely trees and well-trimmed grass, it lends a closeness with nature as well
+as an order in a world of chaos.  Beneath one of the larger trees in the center
+of the grove sits a pedastal with a delicately engraved plaque upon it.    
+~
+80 44 3 0 0
+D0
+~
+~
+0 0 8043
+D5
+~
+pedestal~
+2 8000 8098
+E
+plaque pedastal message~
+'The light be found by those who doth seek it,
+ and riches fill the most deserving of purses.
+ But lo, let it be known the most fortunate of all men
+ hath discovered the fruit of knowledge,
+ and partaken of it.'
+ 
+Below the plaque, there is a small round hole in the pedastal.
+~
+S
+#8098
+A Dark, Winding Staircase~
+   Winding down into the dark depths below, and running into a rough ceiling
+above, the crumbling staircase is operable, if in disrepair.  From the thin
+layer of dust piled on the ancient stone, it seems to have been many years
+before anyone has set foot inside this chamber.    
+~
+80 12 0 0 0
+D4
+~
+pedestal~
+2 8000 8097
+D5
+~
+~
+0 0 8150
+S
+#8099
+Karthan's Weapons~
+   Inside the weapons shop, almost every sort of instrument of battle hangs
+from or rests against one of the four walls.  Clubs and staves and other less
+dangeous weapons sit on the west wall, while opposite to it rest spears,
+javelins, and blades of the finest steel.  A fine selection of knives and
+daggers sit on a sheet of velvet for display.  Behind the counter, far from the
+customer's reach, a few rare weapons are balanced carefully on sturdy pegs.  
+~
+80 12 0 0 0
+D2
+~
+~
+0 0 8015
+E
+plaque sign sedit~
+   A small plaque behind the counter bears the establishment's merchant number
+which is assigned by the Istar Chamber of Commerce, located in the Welcoming
+Tower.    
+
+                          #8001
+
+
+~
+S
+$~

@@ -1,0 +1,10 @@
+2
+cl
+18
+cast cure-light $*
+1
+2
+eq
+6
+l self
+0

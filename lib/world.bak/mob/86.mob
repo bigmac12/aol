@@ -1,0 +1,160 @@
+#8600
+minstrel brightly red~
+a brightly dressed minstrel~
+A brightly dressed minstrel hums to himself.
+~
+   A brightly dressed minstrel prances about in red tights and a billowy
+frilled shirt.  He seems barely able to contain his exitement as he hops back
+and forth strumming chords on his lute.  Apparently unprepared for the rigors
+of long distance travel, the minstrel's felt shoes are dirty and torn though
+this does not prevent a sudden enthusiastic dance.    
+~
+8 0 0 0 E
+4 18 12 1d5+45 1d8+1
+9 50 0
+8 8 1 0
+Maxmove: 50
+E
+#8601
+bard woman dignified~
+a dignified and elegant bard~
+A dignified and elegant bard motions for you to come closer.
+~
+   The dignified, middle-aged woman carefully tunes the strings on her small
+golden harp.  Although not dressed in her performance attire, her clothes
+appear to be tailored and of high quality, evidence of a good income gained
+through her music.  She smiles with the immediate ease of a performer and
+motions fo you to come closer so that she may speak.    
+~
+10 0 0 0 E
+6 17 10 2d5+70 2d5+2
+41 175 0
+8 8 2 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#8608
+figure monk kenku tengu~
+a mysterious figure~
+A mysterious figure sits perched impossibly on a branch of the pine tree.
+~
+   This strange person sits perched perfectly, impossibly upon a branch of the
+pine tree.  He is dressed in the garb of a monk or priest.  As he looks up at
+you, you see that he is an old man, but beyond that you notice his strange
+features.  His nose is almost comically long, looking somewhat like a beak.  
+It is also now that you notice light gleaming dully against something on his
+back..  Wings, folded black wings, like that of a crow.    
+~
+1597535 99370 5242882 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 2
+8 8 1 6
+Maxmove: 50
+E
+#8611
+woman raven crystal~
+a raven-haired woman with eyes like crystal~
+A raven-haired woman with eyes like crystal walks along the road here.
+~
+   This woman looks to be in her mid-thirties, and has long raven-colored hair.
+She wears it pulled back in a ponytail currently, to keep it out of the way.  
+She is dressed in simple travelling clothes, a black tunic, breeches, and
+walking boots.  A few small pouches hang from her belt, but do not make the
+clink of coins.  It would seem odd for a woman to travel on these roads alone,
+but her eyes, so much like hardened crystal give you the impression she is much
+more than she seems.    
+~
+1622106 33792 14680112 -850 E
+18 11 -2 3d20+600 3d6+6
+0 14000 1
+8 8 2 0
+BareHandAttack: 12
+Maxmove: 50
+E
+#8650
+dirty rogue~
+a dirty rogue~
+A dirty rogue stands here demanding your coin and belongings.
+~
+   A rather large dirty rogue stands before you.  His clothing is ripped and
+torn, though his weapons gleams brightly as it is pointed at your chest.  He is
+demanding all that you own, you had better run fast or be able to defeat him.
+  
+~
+9496622 787496 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 4
+8 8 1 0
+BareHandAttack: 11
+Maxmove: 50
+E
+#8665
+courier female searchful~
+a female courier~
+A female courier is here, a searchful gaze upon her expression.
+~
+   A busy, female courier has found herself here, a searchful gaze upon her
+expression.  Her duties are clearly outlined by the courier satchel that she
+carries, her light-weight clothing made easy for travel, topping it all off.  
+Where her message needs to be delivered is a thing that could be offered up for
+question.  She displays herself as someone that has little time for sitting
+around and idling about, as she continually searches for the person she needs
+to deliver to.    
+~
+1048586 1024 0 0 E
+18 11 -2 3d20+380 3d6+6
+500 14000 4
+8 8 2 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#8666
+stallion wild black impressive~
+a wild black stallion~
+An impressive, wild black stallion is here, it's pride clearly evident.
+~
+   This large, wild black stallion is truly a horse to behold.  It's firmly
+muscled and fierce looking for a horse, the large black mane adding to its
+prowess.  Dark eyes stare outward onto the world, an obvious, un-tamed
+expression held there-in.  It seems to hold a great pride in itself, by the way
+it moves and interacts with everything around.    
+~
+17825802 1064 0 0 E
+16 11 0 3d20+320 3d6+4
+0 11000 0
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 400
+E
+#8698
+bandit ugly~
+an ugly bandit~
+A large ugly bandit stands here demanding all your possessions.
+~
+   A large ugly bandit dressed in all black clothing stands before you.  He
+demands all that you own.  His rather wicked looking dagger is pointed in your
+direction.  You have two choices, flee or fight.    
+~
+9496686 787496 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 6
+BareHandAttack: 11
+Maxmove: 50
+E
+#8699
+xer gem dealer xeries~
+Xeries, the gem dealer~
+Xeries, the gem dealer stands before you.
+~
+   A short fat man stands before you.  His deepset eyes and narrow nose give
+him the look of a weasel.  He has slicked back hair giving him a greasy
+appearence, and makes you wonder where he came by all these glorious gems.    
+~
+253962 56 0 -385 E
+31 0 -15 3d33+2000 4d8+10
+400 300000 4
+8 8 1 6
+Maxmove: 50
+E
+$

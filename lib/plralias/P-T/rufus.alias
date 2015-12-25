@@ -1,0 +1,120 @@
+1
+l
+7
+look $*
+1
+2
+aa
+11
+assist kalk
+0
+2
+dd
+17
+c dispel-magic $*
+1
+8
+unsheath
+22
+unsheath dagger sheath
+0
+6
+sheath
+20
+sheath dagger sheath
+0
+2
+lb
+22
+cast lightning-bolt $*
+1
+6
+flight
+14
+cast flight $*
+1
+10
+doorclosed
+5
+sorak
+0
+8
+dooropen
+5
+savak
+0
+5
+infra
+16
+cast infravision
+0
+2
+mi
+17
+cast mirror-image
+0
+5
+invis
+13
+cast invis $*
+1
+2
+sg
+22
+cast shocking-grasp $*
+1
+2
+me
+31
+say The name is Rufus Hrothlan.
+0
+2
+bh
+15
+cast bur-han $*
+1
+5
+chill
+19
+cast chill-touch $*
+1
+2
+sc
+4
+scan
+0
+4
+blur
+12
+cast blur $*
+1
+2
+eb
+9
+eat bread
+0
+5
+armor
+13
+cast armor $*
+1
+2
+df
+14
+drink fountain
+0
+2
+ds
+10
+drink skin
+0
+3
+tac
+15
+take all corpse
+0
+2
+mm
+11
+cast m-m $*
+1

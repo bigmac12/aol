@@ -1,0 +1,45 @@
+#7500
+bench stone z75obj~
+a carved stone bench~
+A nicely carved stone bench sits at the edge of the path.~
+~
+12 0 0
+0 0 0 0
+500 0 0 0
+E
+bench carved~
+   This bench has been carved of a whitened stone.  The seat flows into
+the back of it in one graceful curve.  The legs resemble paws of some
+large cat.  It is clean and free from lichen or leaves.
+~
+#7501
+lake wynsong z75~
+lake wynsong (fountain)~
+Lake Wynsong laps softly at the shoreline, its waters clear and clean.~
+~
+23 0 0
+9999999 9999999 15 0
+10000004 0 0 0
+E
+lake wynsong water~
+   From here your gaze stretches out across the surface of the lake to what is
+likely somewhere near the midpoint.  Its waters ripple gently with the breeze.
+Tiny pebbles line the bottom of the cove here, and the water looks clean and
+drinkable.    
+~
+#7502
+tears nymph z75obj~
+the tears of a wood nymph~
+A string of teardrops lays here.~
+~
+9 33 5
+2 0 0 0
+2 0 0 13
+E
+tears string~
+   You see a fine necklace of what looks like tears: tiny liquid drops
+that are almost clear and they sparkle softly.
+~
+A
+6 1
+$~

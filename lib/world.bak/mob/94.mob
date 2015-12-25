@@ -1,0 +1,48 @@
+#9400
+lion mountain~
+a large, fierce mountain lion~
+A mountain lion crouches on a nearby rock formation.
+~
+   A golden brown mountain lion paces alongside the roadway.  As it moves back
+and forth you cannot help but notice each sinew in its powerful legs and
+shoulders with each graceful step it takes.  It looks back at you with piercing
+eyes, wondering if you should be its next meal.    
+~
+16568 0 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 1 0
+BareHandAttack: 8
+E
+#9401
+shrew rodent~
+a long-nosed shrew~
+A tiny rodent scurries along the roadside looking for cover.
+~
+   A small rodent scurries across the roadway looking for its next meals.  It
+stops occasionally and glances around cautiously looking for predators.  Its
+pointy nose twitches wildly as it quickly moves along looking for cover.    
+~
+65704 786432 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 0
+8 8 2 0
+BareHandAttack: 4
+E
+#9489
+dwarven trader stout~
+a stout-looking dwarven trader~
+A stout-looking dwarven trader hastens on his way towards the Kharolis mountains.
+~
+   This stout dwarven trader looks like many of his race.  He bears a black,
+curly beard which he seems to take great pride in.  He seems to be in a bit of
+a hurry to get to his destination, which seems to be the Kharolis mountain
+range.  Oddly, he looks to be dressed a bit fancy for road travel.    
+~
+1065034 33792 0 0 E
+18 11 -2 3d20+380 3d6+6
+0 14000 3
+8 8 1 0
+BareHandAttack: 3
+E
+$

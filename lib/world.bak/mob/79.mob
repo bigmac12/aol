@@ -1,0 +1,426 @@
+#7900
+vine whip~
+a vine whip~
+A vine whip flails wildly from a tree.
+~
+   A long, red vine hangs down from a firm attachment high in the branches
+above.  The vine maintains a symbiotic relationship with the tree that is its
+host, killing anything that passes within reach to add nutrients to the soil
+and thus benefit both itself and the tree.  Long barbs protrude out from the
+soft looking flesh and rapidly snap shut at any hint of chemical scent in the
+air.  It waves blindly in the air, hoping to hit something.    
+~
+2090 0 0 0 E
+15 11 1 5d10+300 2d8+4
+421 8400 0
+8 8 0 0
+BareHandAttack: 2
+E
+#7901
+forest troll~
+a forest troll~
+A forest troll slowly chews on a bone.
+~
+   A massive shape, barely humanoid in shape sits with its legs folded together
+against a tree and slowly gnaws on what looks to be the remains of a moose
+bone.  The head is hairless and giant eyes protrude crudely out of a misshapen
+face marked with blemishes and jagged teeth.  It wears little more than a
+leather loincloth, its tough grey skin more than enough protection against the
+elements.    
+~
+1116200 0 0 0 E
+21 8 -5 3d33+450 3d8+7
+1042 33500 0
+8 8 0 0
+BareHandAttack: 5
+E
+#7902
+black python~
+a black python~
+A black python rustles through the bushes.
+~
+   Barely noticeable against the decayed vegetation on the forest floor, a
+large snake eases its way silently through the leaves.  Black from snout to
+tail, its scales glisten dully in the light.  A small, forked tongue flicks out
+to taste the air and any nearby prey.  It has no real teeth, relying on
+crushing its victims to death and swallowing them whole.  A large bulge in its
+midsection indicates that it has fed recently.    
+~
+1114120 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+613 11800 0
+8 8 0 0
+BareHandAttack: 6
+E
+#7903
+old wolverine~
+an old wolverine~
+An old wolverine sticks its head out of a burrow.
+~
+   This relatively small animal darts out quickly from its small hole in the
+forest floor.  It fur, once thick and crown, is now thinned and has started to
+grey indicating its old age.  Although it is not as quick as it used to be it
+has become meaner and more aggressive in its age, needing to defend its
+territory even more vigorously now from younger intruders.    
+~
+1048618 0 0 0 E
+16 11 0 3d20+320 3d6+4
+531 11000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#7904
+being animated wood~
+a being of animated wood~
+A being of animated wood shuffles out of the trees. 
+~
+   This creature is obviously not of any natural origin.  It is a being of
+matter infused with the gift of life and semi-sentience by some magical source.
+Barely holding itself together, small pieces of wood and leaves fall off it
+from every movement and an audible groaning noise emanates as its components
+scrape together as it moves.  Entirely unfriendly, it smacks its long limbs
+against the ground and approaches.    
+~
+1116202 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+783 17000 0
+8 8 0 0
+E
+#7905
+oversized spider~
+an oversized spider~
+An oversized spider drops down nearby.
+~
+   A large spider, grown huge from lack of natural predators drops down a long,
+silky thread and stops just short of the ground.  It hangs upside down and
+slowly drags its hind legs against the thread to adjust its height above the
+floor.  A series of eight, glistening eyes peer motionless at the surrounding
+forest and whatever triggered its motion detectors.  A huge abdomen overshadows
+the smaller thorax and head.    
+~
+8248 0 0 0 E
+15 11 1 5d10+300 2d8+4
+461 8400 0
+8 8 0 0
+BareHandAttack: 4
+E
+#7906
+long millipede~
+a long millipede~
+A long millipede scurries between two trees.
+~
+   Almost twice as long as the height of a human , this large but low insect
+walks between the nearby trees.  The innumerable legs give it an apparently
+continuous movement though they must move frantically to achieve locomotion.  
+The carapace is a high, hooded dome of reddish-black, separated into a segment
+for each pair of legs.  The head faces straight down at the ground though it
+rears itself up occasionally to scan around.    
+~
+73736 0 0 0 E
+15 11 1 5d10+300 2d8+4
+377 8400 0
+8 8 0 0
+BareHandAttack: 1
+E
+#7907
+moving bush~
+a moving bush~
+A moving bush extends thorned branches towards you.
+~
+   A high bush that seems firmly planted into the ground begins to move in your
+general direction.  It has brownish-green leaves frilled with delicate white
+curves but also bristles with finger long thorns along the length of each
+narrow branch.  Although it cannot move away from its roots, it extends itself
+out completely and flails its branches towards any motion that passes close
+enough by.    
+~
+6186 0 0 0 E
+15 11 1 5d10+300 2d8+4
+358 8400 0
+8 8 0 0
+BareHandAttack: 2
+E
+#7908
+naked druid~
+a naked druid~
+A naked druid walks cautiously, looking at her feet. 
+~
+   This young woman has committed herself to the lifelong pursuit of the
+understanding of nature in all its aspects.  For this she has given up all
+things that do not represent her natural beliefs and the harmony of nature.  
+An almost unnatural vitality exudes from her face, the product of her
+connection to this ancient and healthy forest.  Although not unfriendly, she
+will protect her environment at all costs.    
+~
+1048968 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+635 11800 0
+8 8 0 0
+BareHandAttack: 13
+E
+#7909
+old druid~
+an old druid~
+An old druid ribs his hand over the bark.
+~
+   The old man is smiles wearily as hit lounges against a natural curve in the
+tree.  He slowly runs his hand along the surface of the tree, feeling each
+contour of the bark, seemingly obtaining some significance.  He looks up then
+glances back down beyond the branches at the forest floor to see a small animal
+quickly run by.  Content momentarily he rises up and begins to walk around for
+a new spot to sit and think.    
+~
+1573256 135176 66560 0 E
+21 8 -5 3d33+450 3d8+7
+988 33500 5
+8 8 0 0
+BareHandAttack: 13
+E
+#7910
+young well muscled druid~
+a young, well muscled druid~
+A young, well muscled druid turns his head quickly towards you. 
+~
+   Only recently passed his position as an initiate, this young man has been
+assigned the task of protecting this refuge of nature against anyone not of his
+orders path.  He is still fiercely loyal and maybe too quick to act, lacking
+the wisdom and age of his mentors.  Newly trained in the arts of battle, he is
+eager to find someone to try out his freshly acquired skills.    
+~
+1054760 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+835 17000 0
+8 8 0 0
+BareHandAttack: 13
+E
+#7911
+young initiate druid~
+a young initiate druid~
+A young initiate druid stares out over the forest.
+~
+   Newly arrived to the forest, this young woman still marvels at almost every
+aspect that she sees.  She is still dressed in her normal city clothes and
+appears to have been some sort of fighter before she arrived and decided to
+convert over to the simpler way of life offered by the druids.  Looking up, she
+stares intently at the passing of a mated pair of eagles soaring high overhead
+before returning to her intent walk over the branches.    
+~
+1048712 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+594 11800 0
+8 8 0 0
+BareHandAttack: 13
+E
+#7912
+stealthy elf~
+a stealthy elf~
+A stealthy elf stands, half hidden behind a tree.
+~
+   This elf seems distinctly out of place here in the woods.  Although wearing
+clothes suitable enough to camouflage him against the dark greens and blacks of
+the forest, this person is definitely from the city.  He wears a short hood,
+just long enough to cover his eyes, with the image of an open eye in the middle
+of the forehead.  He quickly jumps back behind a tree hoping not to be noticed.
+~
+1048585 819200 0 0 E
+18 11 -2 3d20+380 3d6+6
+728 14000 4
+8 8 0 6
+BareHandAttack: 3
+E
+#7913
+small bear~
+a small bear~
+A small bear squeals for its mother.
+~
+   This appears to be a young cub somehow separated from its mother.  Although
+small for a bear it is still large enough to be a serious threat to anyone not
+well prepared.  It lets out a shrieking wail in an attempt to alert its mother
+of its location though there is no immediate response.  Unaware of danger it
+shuffles around your feet and sniffs at the ground, likely hungry from its
+separation.    
+~
+136 0 0 0 E
+15 11 1 5d10+300 2d8+4
+415 8400 0
+8 8 0 0
+BareHandAttack: 4
+E
+T 7900
+#7914
+huge kodiak bear~
+a huge kodiak bear~
+A huge kodiak bear lumbers out of the trees. 
+~
+   An enraged mother Kodiak bear rushes out of the forest in the direction of
+its cub.  It stops just short, stands up on its short back legs and lets out a
+deafening howl, exposing immense canine teeth while looking down its long snout
+at you.  The hair on its back stands out straight in its exited and aggressive
+state, drool dripping down from a massive mouth lined with black gums.    
+~
+1056808 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+889 25000 0
+8 8 0 0
+BareHandAttack: 8
+E
+#7915
+small brown bear~
+a small brown bear~
+A small brown bear paws at the ground.
+~
+   The brown bear digs away at the ground, likely looking for some small meal.
+Many grubs and insects, favorites of the bear, have nests just below the
+surface of the forest and are an easy source of food though it would often
+prefer to have a decent feed of meat.  Its legs are stubby but strong and long
+claws protrude out from beyond the short toes.  It probes the dirt with its
+agile lips then notices your presence.    
+~
+1048616 0 0 0 E
+16 11 0 3d20+320 3d6+4
+511 11000 0
+8 8 0 0
+BareHandAttack: 8
+E
+#7916
+short mule deer~
+a short mule deer~
+A short mule deer stops suddenly and stares.
+~
+   A curious animal that appears to be somewhat a cross between a deer and a
+moose digs its large hooves into the ground in the search of something to eat.
+It has a thick reddish-brown coat and a dull white chest patch, enough to
+offset the appearance of its overly large ears.  Although much smaller than the
+moose it is still a substantial animal with two tined antlers larger than an
+arm length.    
+~
+17825800 0 0 0 E
+16 11 0 3d20+320 3d6+4
+509 11000 0
+8 8 0 0
+E
+#7917
+brown warthog~
+a brown warthog~
+A brown warthog snorts and trots about a bush.
+~
+   A short but powerful looking animal comes out of a high bush and stands
+nearby.  It has two large, curved tusks extending out from the corners of its
+mouth and well as two smaller protuberances just below the eyes.  It has a
+coarsely hairy chest and a long mane down the back of its neck though its
+haunches are almost bare.  It bristles its hair and lays its ears low as its
+notices you, pawing at the ground.    
+~
+1048616 0 0 0 E
+16 11 0 3d20+320 3d6+4
+446 11000 0
+8 8 0 0
+BareHandAttack: 9
+E
+#7918
+vine whip~
+a vine whip~
+A vine whip flails wildly from a tree.
+~
+   A long, red vine hangs down from a firm attachment high in the branches
+above.  The vine maintains a symbiotic relationship with the tree that is its
+host, killing anything that passes within reach to add nutrients to the soil
+and thus benefit both itself and the tree.  Long barbs protrude out from the
+soft looking flesh and rapidly snap shut at any hint of chemical scent in the
+air.  It waves blindly in the air, hoping to hit something.    
+~
+2090 0 0 0 E
+15 11 1 5d10+300 2d8+4
+421 8400 0
+8 8 0 0
+BareHandAttack: 2
+E
+#7919
+vine whip~
+a vine whip~
+A vine whip flails wildly from a tree.
+~
+   A long, red vine hangs down from a firm attachment high in the branches
+above.  The vine maintains a symbiotic relationship with the tree that is its
+host, killing anything that passes within reach to add nutrients to the soil
+and thus benefit both itself and the tree.  Long barbs protrude out from the
+soft looking flesh and rapidly snap shut at any hint of chemical scent in the
+air.  It waves blindly in the air, hoping to hit something.    
+~
+2090 0 0 0 E
+15 11 1 5d10+300 2d8+4
+421 8400 0
+8 8 0 0
+BareHandAttack: 2
+E
+#7920
+black python~
+a black python~
+A black python rustles through the bushes.
+~
+   Barely noticeable against the decayed vegetation on the forest floor, a
+large snake eases its way silently through the leaves.  Black from snout to
+tail, its scales glisten dully in the light.  A small, forked tongue flicks out
+to taste the air and any nearby prey.  It has no real teeth, relying on
+crushing its victims to death and swallowing them whole.  A large bulge in its
+midsection indicates that it has fed recently.    
+~
+1114120 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+631 11800 0
+8 8 0 0
+BareHandAttack: 6
+E
+#7921
+old wolverine~
+an old wolverine~
+An old wolverine sticks its head out of a burrow.
+~
+   This relatively small animal darts out quickly from its small hole in the
+forest floor.  It fur, once thick and crown, is now thinned and has started to
+grey indicating its old age.  Although it is not as quick as it used to be it
+has become meaner and more aggressive in its age, needing to defend its
+territory even more vigorously now from younger intruders.    
+~
+1048618 0 0 0 E
+16 11 0 3d20+320 3d6+4
+531 11000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#7922
+animated wood being~
+a being of animated wood~
+A being of animated wood shuffles out of the trees. 
+~
+   This creature is obviously not of any natural origin.  It is a being of
+matter infused with the gift of life and semi-sentience by some magical source.
+Barely holding itself together, small pieces of wood and leaves fall off it
+from every movement and an audible groaning noise emanates as its components
+scrape together as it moves.  Entirely unfriendly, it smacks its long limbs
+against the ground and approaches.    
+~
+1116202 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+783 17000 0
+8 8 0 0
+E
+#7923
+long millipede~
+a long millipede~
+A long millipede scurries between two trees.
+~
+   Almost twice as long as the height of a human , this large but low insect
+walks between the nearby trees.  The innumerable legs give it an apparently
+continuous movement though they must move frantically to achieve locomotion.  
+The carapace is a high, hooded dome of reddish-black, separated into a segment
+for each pair of legs.  The head faces straight down at the ground though it
+rears itself up occasionally to scan around.    
+~
+73736 0 0 0 E
+15 11 1 5d10+300 2d8+4
+377 8400 0
+8 8 0 0
+BareHandAttack: 1
+E
+$

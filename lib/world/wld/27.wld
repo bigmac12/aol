@@ -1,0 +1,542 @@
+#2700
+A Small Animal Trail~
+   A small animal trail leads off in a roughly westerly direction from the main
+path to the east.  Narrow and well trodden, the path has seem frequent use by
+both animals and people.  Looking around, you notice that besides the grass the
+foliage here grows sparcely as wide open plains spread out in all directions.
+~
+27 4 2 0 0
+D1
+~
+~
+0 0 8432
+D3
+~
+~
+0 0 2701
+S
+#2701
+A Pathway Through the Grass~
+   Cutting through the tall grass, a small pathway has been worn out to provide
+access through the wide fields.  Sawgrass leans into the trail, nicking the
+exposed flesh of anyone careless enough to venture near the edges.  Small
+stones litter the surface and dust kicks up in to little clouds which quickly
+settle back down into the undergrowth.
+~
+27 0 2 0 0
+D1
+~
+~
+0 0 2700
+D3
+~
+~
+0 0 2702
+S
+#2702
+A Barely Perceptable Trail~
+   The path pinches off into an almost imperceptable trail within the grass
+and thorny scrub.  The grass is low enough down here to give way to the
+high stalks of a brown plant with sparse green leaves.  Cocoons made by
+caterpillars coat the inside branches of the foliage, choking them out and
+causing them to droop and wither.
+~
+27 0 2 0 0
+D1
+~
+~
+0 0 2701
+D3
+~
+~
+0 0 2703
+S
+#2703
+A Path Into the Field~
+   Small trees protrude up out of the fields and become the bases for the
+nests of large flocks of little birds.  The birds chatter constantly and
+taking to flight at any noise, swarming through the air in a continuous flow
+of movement.  The small path continues its long traverse of the open fields
+in a confusingly twisting and apparently never-ending pattern.
+~
+27 0 2 0 0
+D1
+~
+~
+0 0 2702
+D8
+~
+~
+0 0 2704
+S
+#2704
+A Pathway Through the Grass~
+   Cutting through the tall grass, a small pathway has been worn out to provide
+access through the wide fields.  Sawgrass leans into the trail, nicking the
+exposed flesh of anyone careless enough to venture near the edges.  Small
+stones litter the surface and dust kicks up in to little clouds which quickly
+settle back down into the undergrowth.
+~
+27 0 2 0 0
+D7
+~
+~
+0 0 2703
+D8
+~
+~
+0 0 2705
+S
+#2705
+A Barely Perceptable Trail~
+   The path pinches off into an almost imperceptable trail within the grass
+and thorny scrub.  The grass is low enough down here to give way to the
+high stalks of a brown plant with sparse green leaves.  Cocoons made by
+caterpillars coat the inside branches of the foliage, choking them out and
+causing them to droop and wither.
+~
+27 0 2 0 0
+D3
+~
+~
+0 0 2706
+D7
+~
+~
+0 0 2704
+S
+#2706
+A Path Into the Field~
+   Small trees protrude up out of the fields and become the bases for the
+nests of large flocks of little birds.  The birds chatter constantly and
+taking to flight at any noise, swarming through the air in a continuous flow
+of movement.  The small path continues its long traverse of the open fields
+in a confusingly twisting and apparently never-ending pattern.
+~
+27 0 2 0 0
+D1
+~
+~
+0 0 2705
+D8
+~
+~
+0 0 2707
+S
+#2707
+A Pathway Through the Grass~
+   Cutting through the tall grass, a small pathway has been worn out to provide
+access through the wide fields.  Sawgrass leans into the trail, nicking the
+exposed flesh of anyone careless enough to venture near the edges.  Small
+stones litter the surface and dust kicks up in to little clouds which quickly
+settle back down into the undergrowth.
+~
+27 0 2 0 0
+D3
+~
+~
+0 0 2708
+D7
+~
+~
+0 0 2706
+S
+#2708
+A Barely Perceptable Trail~
+   The path pinches off into an almost imperceptable trail within the grass
+and thorny scrub.  The grass is low enough down here to give way to the
+high stalks of a brown plant with sparse green leaves.  Cocoons made by
+caterpillars coat the inside branches of the foliage, choking them out and
+causing them to droop and wither.
+~
+27 0 2 0 0
+D1
+~
+~
+0 0 2707
+D6
+~
+~
+0 0 2709
+S
+#2709
+A Small Copse of Trees~
+   A copse of young deciduous trees appears up out of the grass, creating
+shade and a barrier against the strong, warm winds that blow across the open
+areas of the fields.  Apparently less travelled here, weeds and undergrowth
+extend out into the middle of the path and tangle the feet of anything
+that passes by.
+~
+27 0 2 0 0
+D3
+~
+~
+0 0 2710
+D9
+~
+~
+0 0 2708
+S
+#2710
+A Path Into the Field~
+   Small trees protrude up out of the fields and become the bases for the
+nests of large flocks of little birds.  The birds chatter constantly and
+taking to flight at any noise, swarming through the air in a continuous flow
+of movement.  The small path continues its long traverse of the open fields
+in a confusingly twisting and apparently never-ending pattern.
+~
+27 0 2 0 0
+D1
+~
+~
+0 0 2709
+D6
+~
+~
+0 0 2711
+S
+#2711
+A Small Copse of Trees~
+   A copse of young deciduous trees appears up out of the grass, creating
+shade and a barrier against the strong, warm winds that blow across the open
+areas of the fields.  Apparently less travelled here, weeds and undergrowth
+extend out into the middle of the path and tangle the feet of anything
+that passes by.
+~
+27 0 2 0 0
+D3
+~
+~
+0 0 2712
+D9
+~
+~
+0 0 2710
+S
+#2712
+On the Side of the Hills~
+   The trail angles sharply upwards towards the west and a high peaked 
+mountain, while a warm grassland stretches out downslope to the east.  The
+steep hills are covered with small trees and tangled brush.  Deep gullies
+run down on both sides and throught the path, caused by erosion and the
+run-off of water from up in the hills.
+~
+27 0 4 0 0
+D1
+~
+~
+0 0 2711
+D8
+~
+~
+0 0 2713
+S
+#2713
+On the Side of the Hills~
+   The trail angles sharply upwards towards the west and a high peaked 
+mountain, while a warm grassland stretches out downslope to the east.  The
+steep hills are covered with small trees and tangled brush.  Deep gullies
+run down on both sides and throught the path, caused by erosion and the
+run-off of water from up in the hills.
+~
+27 0 4 0 0
+D3
+~
+~
+0 0 2714
+D7
+~
+~
+0 0 2712
+S
+#2714
+The High Ridge~
+   A thick cloud-cover masks the the entire sky over a high precipice travelling
+across the top of this short mountain range.  Cold, wet rain beats down as
+lightning and deafening thunder fill the air.  The path runs along a knife
+edged ridge along the back of the mountain, dropping down sharply on either
+side.  Flashes of color and the glint of metal are just visible at the bottom
+of the slope, denoting the passing of an unlucky traveller.    
+~
+27 0 5 0 0
+D0
+~
+~
+0 0 2715
+D1
+~
+~
+0 0 2713
+S
+#2715
+A Windy Peak~
+   Stones and boulders break loose and tumble off the ridge, crashing into more
+rocks and causing small landslides as they fall.  The view below the clouds is
+dim but spectacular, a field to the east and a forest to the west.  Sudden
+gusts of wind blow straight up the slopes threatening to pick up and toss over
+anyone not keeping low to the ground.    
+~
+27 0 5 0 0
+D2
+~
+~
+0 0 2714
+D8
+~
+~
+0 0 2716
+S
+#2716
+The High Ridge~
+   A thick cloud-cover masks the the entire sky over a high precipice travelling
+across the top of this short mountain range.  Cold, wet rain beats down as
+lightning and deafening thunder fill the air.  The path runs along a knife
+edged ridge along the back of the mountain, dropping down sharply on either
+side.  Flashes of color and the glint of metal are just visible at the bottom
+of the slope, denoting the passing of an unlucky traveller.    
+~
+27 0 5 0 0
+D6
+~
+~
+0 0 2717
+D7
+~
+~
+0 0 2715
+S
+#2717
+The Mushy Pathway~
+   The pathway widens slightly here to apparently accomodate some increase in
+traffic.  It angles down towards the west and away from the mountain pass to
+the east.  Plentiful rains have imbued the land with vibrant life and thick
+foliage which drapes out into the path.  A thick musty odor emanates from all
+around, stifling the fresh smell of the trees.    
+~
+27 0 4 0 0
+D3
+~
+~
+0 0 2718
+D9
+~
+~
+0 0 2716
+S
+#2718
+The Mushy Pathway~
+   The pathway widens slightly here to apparently accomodate some increase in
+traffic.  It angles down towards the west and away from the mountain pass to
+the east.  Plentiful rains have imbued the land with vibrant life and thick
+foliage which drapes out into the path.  A thick musty odor emanates from all
+around, stifling the fresh smell of the trees.    
+~
+27 0 4 0 0
+D1
+~
+~
+0 0 2717
+D3
+~
+~
+0 0 2719
+S
+#2719
+A Thick Growth of Saplings~
+   Tall grasses mix thickly in with the small patches of of trees, dotted
+here and there off the pathway.  Saplings grow up alongside the trail making
+nearly impenetrable barriers of closely grown, thin trunks.  The grass is
+brown and dry, where the trees higher branches have denied sunlight to 
+the surface plant life.
+~
+27 0 2 0 0
+D1
+~
+~
+0 0 2718
+D8
+~
+~
+0 0 2720
+S
+#2720
+A Small Copse of Trees~
+   A copse of young deciduous trees appears up out of the grass, creating
+shade and a barrier against the strong, warm winds that blow across the open
+areas of the fields.  Apparently less travelled here, weeds and undergrowth
+extend out into the middle of the path and tangle the feet of anything
+that passes by.
+~
+27 0 2 0 0
+D3
+~
+~
+0 0 2721
+D7
+~
+~
+0 0 2719
+S
+#2721
+A Thick Growth of Saplings~
+   Tall grasses mix thickly in with the small patches of of trees, dotted here
+and there off the pathway.  Saplings grow up alongside the trail making nearly
+impenetrable barriers of closely grown, thin trunks.  The grass is brown and
+dry, where the the branches of a few large trees have denied sunlight to the
+surface plant life.    
+~
+27 0 2 0 0
+D1
+~
+~
+0 0 2720
+D3
+~
+~
+0 0 2722
+S
+#2722
+A Narrow Dirt Path~
+   A narrow dirt path winds its way through the landscape.  The further north
+one travels, the more trees can be seem growing all around you.  Occasionally,
+massive oaks and evergreens climb into the sky amid the smaller trees and
+scrubs.    
+~
+27 0 2 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 2721
+D6
+~
+~
+0 0 2800
+S
+#2730
+A Faint Trail~
+   This faint trail branches off of the main path.  It is difficult to see, and
+most likely the result of the animals that live in these parts.  The path goes
+through some bushes and around a few trees, almost looking like its going in
+circles.  There are no discernable tracks on the ground, so it is impossible to
+tell what type of animal made the trail.  It continues to the west, partially
+obscured by the bushes.    
+~
+27 4 3 0 0
+D1
+~
+~
+0 0 2801
+D3
+~
+~
+0 0 2731
+S
+#2731
+Before a Shack in Poor Condition~
+   The once faint trail is a bit easier to follow here, and it begins to become
+obvious that people have been here.  Further to the west is an shack that
+appears quite old and is in very poor condition.  Many of the boards on the
+shack have warped from the passage of time and the heavy rains this area often
+experiences.    
+~
+27 0 2 0 0
+D1
+~
+~
+0 0 2730
+D3
+~
+~
+0 0 2732
+S
+#2732
+Inside the Shack~
+   The inside of this shack is in as much of a state of ill repair as its
+exterior.  It is sparsely decorated, to say the least.  A pile of hay in one
+corner most likely serves as a bed.  In the middle of the room is a chair on a
+threadbare rug.  Where the chair sits, the rug sags a bit, as if some of the
+floor boards are missing.    
+~
+27 8 0 0 0
+D1
+~
+~
+0 0 2731
+D5
+   You can see that the rug is actually covering up a hole, leading down to
+another room.    
+~
+rug~
+1 0 2733
+S
+#2733
+In a Large Cellar~
+   This large cellar seems out of place under this ramshackle building.  In
+sharp contrast to the room above, the cellar is in rather good condition.  
+There are a few candles which light the room.  A doorway to the north and one
+to the east lead into other chambers.    
+~
+27 392 0 0 0
+D0
+~
+~
+0 0 2734
+D1
+~
+~
+0 0 2735
+D4
+~
+rug~
+1 0 2732
+S
+#2734
+The Treasure Room~
+   The light from a couple of candles provide minimal light in this room.  In
+the relative darkness it is hard to discern much about your surroundings other
+than that it is simply littered with items of all shapes and sizes.  Based off
+the inhabitants of the shack, the items are most likely stolen.  No doubt the
+contents of this room change regularly as new items are collected from all over
+the face of Krynn.    
+~
+27 262152 2 0 0
+D2
+~
+~
+0 0 2733
+S
+#2735
+A Dimly Lit Chamber~
+   This chamber is relatively cramped, not so much because of its size but
+rather because it is simply overflowing with all manner of garments and even a
+few pieces of armor.  Several different trunks are stacked against the eastern
+wall.  Each is closed, but a few garments are sticking out from beneath their
+lids.  The dirt floor is littered with buttons, beads, and other items that
+have probably fallen off of the garments.    
+~
+0 8 0 0 0
+D3
+~
+~
+0 0 2733
+S
+#2799
+The Inn~
+   An obese man stands behind an immense desk, covered in papers and a few
+flagons of ale.  Hearing someone approach he looks up from where he is leaning
+againt the wall and flashes you a toothless grin, rubbing his hands together.
+Behind him, a broad doorway leads to various private areas of the inn.  At
+regular intervals, smiling couples can be seen entering and exiting the private
+rooms.    
+~
+27 8 0 0 0
+D1
+~
+~
+0 0 2814
+S
+$~

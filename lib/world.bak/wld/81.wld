@@ -1,0 +1,1375 @@
+#8100
+Hazel's Oddities~
+   The shelves and glass covered counters of the shop, are filled with various
+items, jars, and flasks.  Many of the items seem to glow with inner light or
+hum with a strage power.  Some of the jars and pouches are filled with
+disgusting looking bugs and other things even worse.  Books and parchments fill
+a rack behind the counter where the storekeep stands.    
+~
+81 28 0 0 0
+D2
+~
+~
+0 0 8033
+S
+#8101
+Apax's Fine Stones~
+   This small little shop is brightly lit, and very clean.  Glass cases line
+the walls and sparkle with the brilliant dazzle of gemstones.  The bright light
+of the shop gleams on every edge of each of the beautiful gems making them look
+ablaze with fire.    
+~
+81 12 0 0 0
+D0
+~
+~
+0 0 8031
+E
+gems~
+   The gems seem to be on fire as the bright light of the shop gleams off of
+every edge and corner.    
+~
+E
+cases~
+   The glass casses are filled with the most beautiful sparking gems you have
+ever seen.    
+~
+E
+plaque sign sedit~
+   A small plaque behind the counter bears the establishment's merchant number
+which is assigned by the Istar Chamber of Commerce, located in the Welcoming
+Tower.    
+
+                           #8101
+
+~
+S
+#8102
+The Thief's Dismay~
+   Owned by a man with something of a sense of humor, The Thief's Dismay is the
+most well-respected vault in Istar.  True to its name, the bank has never been
+broken into, and the thick iron man-sized safebox behind the counter might lend
+a clue as to why.  A large scale, currently containing a few chipped coins,
+rests against the wall to deter forged coin pressings, and papers of old
+financial records, some curling yellow at the hands of time, have been
+meticulously arranged in piles so as to cover every possible inch of the small
+office without impeding any potential customers.    
+~
+81 12 0 0 0
+D1
+~
+~
+0 0 8024
+S
+#8103
+The Roaring Dragon Inn~
+   The smell of strong ale and fresh cooked food fills the air of this cozy
+common room.  Large cushioned chairs encircle big round wooden tables, all set
+before a huge fireplace.  The entire room and bar is paneled in a beautiful
+rich looking polished wood.  The room is well lit and the chairs inviting after
+a long road trip.  A large stairway on the east wall leads to the rooms above.
+Around the doorway leading outside are some deeply cut runes, the runes seem to
+glow.    
+~
+81 12 0 0 0
+D2
+~
+~
+0 0 8028
+D4
+~
+~
+0 0 8104
+S
+#8104
+Second Floor of the Roaring Dragon Inn~
+   This lounge is a bit smaller than the common room downstairs but also much
+quieter.  Large couches and pillows fill the room allowing room for all to rest
+here and catch a much needed nap before adventuring on.  Paintings of the city
+and of the inn itself as well as some of the country side line the wood paneled
+walls.  A hall leads to some rooms to the north.    
+~
+81 12 0 0 0
+D0
+~
+~
+0 0 8105
+D5
+~
+~
+0 0 8103
+S
+#8105
+A Narrow Hall~
+   Doors line this narrow hallway in the back of the inn.  The walls are
+covered with the same rich paneling as the rest of the inn.  The doors of the
+hall are all numbered with a large brass number.  The doors look to be very
+strong and formidable, reinforced with brass and iron.    
+~
+81 8 0 0 0
+D0
+~
+~
+0 0 8108
+D1
+   The large door bares a large brass number "1".    
+~
+door large~
+2 8111 8106
+D2
+~
+~
+0 0 8104
+D3
+   The large door bares a large brass number "2".    
+~
+door large~
+2 8114 8107
+S
+#8106
+Meeting Room 0ne~
+   This room is rather small and plain.  The only furnishings in the room are a
+small table with two chairs.  There is not room for much else in this room.  
+The walls are richly paneled and nicely decorated to match the rest of the inn.
+The table is functional and well built but not very ornate, it serves its
+purpose, nothing more.    
+~
+81 76 0 0 0
+D3
+   The large door bares a large brass number "1".    
+~
+door~
+2 8111 8105
+S
+#8107
+Meeting Room Two~
+   A table surrounded by four chairs dominates this room as space for little
+else is allowed.  The room is richly decorated with wood paneled walls and
+ornate moldings.  The table is very well built with a rich deep finnish, the
+chairs are padded and comfortable.    
+~
+81 76 0 0 0
+D1
+   The large door bares a large brass number "2".    
+~
+door~
+2 8114 8105
+S
+#8108
+The End of the Hallway~
+   A nother large door marks the end of the narrow hallway.  The well lit
+hallway is lined with large heavy wooden doors, each numbered with a large
+brass number.  The walls of the hall are covered with rich wood paneling and
+ornate trim to match the rest of the inn.    
+~
+81 8 0 0 0
+D0
+   The large wooden door bares a large brass number "5".    
+~
+door large~
+2 8115 8111
+D1
+   The large wooden door bares a brass number "3".    
+~
+door large~
+2 8113 8109
+D2
+~
+~
+0 0 8105
+D3
+   The large door bares a brass number "4".    
+~
+door large~
+2 8114 8110
+S
+#8109
+Meeting Room Number Three~
+   Five well cushioned armchairs are arranged in a cirle in the center of the
+room.  A small ornate table sits in the center of the chairs.  The room is well
+lit and ornately decorated with pictures of the temples of Istar.  The rooms
+are paneled with a rich wood paneling and ornate wood trim.    
+~
+81 76 0 0 0
+D3
+   The large wooden door bares a brass number "3".    
+~
+door large~
+2 8113 8108
+S
+#8110
+Meeting Room Number Four~
+   Large cushioned couches form a square in the center of the room allowing
+space for six large people to be seated comfortably.  A large ornately
+decorated square table sits in the center of the square.  The table appears to
+be very well built and looks to have been very expensive.  Pictures of
+different locations around Istar decorate the walls of the room.    
+~
+81 72 0 0 0
+D1
+   The large door bares a brass number "4".    
+~
+door large~
+2 8114 8108
+S
+#8111
+Meeting Room Number Five~
+   Some ten cushioned arm chairs sit around a huge round table.  The large
+chairs look very comfortable and are covered in a rich luxurious fabric.  The
+huge round table is ornately carved in marble and would rival that found in a
+royal palace anywhere on Krynn.  The large room is very well lit and
+comfortably warm, pictures of oceans and forests line its walls.    
+~
+81 76 0 0 0
+D2
+   The large wooden door bares a large brass number "5".    
+~
+door large~
+2 8115 8108
+S
+#8112
+Below the Street~
+   You stand below a street in Istar, holding onto a ladder.  You are not sure
+exactly which street you are on, but anything has to be better than the musty
+smell of this tunnel, and the rats scurrying around on the ground below you.  
+
+~
+81 8 0 0 0
+D4
+~
+manhole~
+1 0 8028
+D5
+~
+~
+0 0 8072
+S
+#8113
+The Bank of Istar~
+   This sparsely decorated room is dominated by a massive safe set into the
+eastern wall.  A few chairs litter the area for the more important customers,
+or those making large transactions, to sit in while waiting for service.  An
+old lady sits on a stool in front of the safe waiting to take your money from
+you.    
+~
+81 0 0 0 0
+D3
+~
+~
+0 0 8024
+S
+#8114
+The Istar Chamber of Commerce~
+   The Chamber office is large and spacious.  A large counter runs the length
+of the wall opposite the entrance.  The shelves behind the counter are home to
+small statues of the gods of good, which are surrounded by vases filled with
+fresh flowers.  Along the side walls are large bulletin boards with
+advertisements hung neatly on them.  The most predominate post, mentions the
+building of a great temple.    
+~
+81 136 0 0 0
+D0
+~
+~
+0 0 8115
+D2
+~
+~
+0 0 8038
+E
+post temple great~
+
+   Due to the demands placed upon our fair city by the ever expanding
+marketplace, the city council has undertaken a massive expansion project that
+will stretch the borders of our city to the edge of the lake which shares its
+name.    
+
+~
+S
+#8115
+The Written Word~
+   The post office here in is Istar is quite large.  A long counter runs the
+entire length of the northern wall.  It is stacked high with piles of mail that
+is currently being sorted.  Wooden shelves divided into mail slots line the
+eastern and western walls.    
+~
+81 12 0 0 0
+D2
+~
+~
+0 0 8114
+S
+#8116
+Before the Gates of Istar~
+   Looming just to the west, like a great pillar of light, are the gates to the
+City of Istar.  The city wall stretches northward from the lake which bears the
+city's name.  The massive gates to the southwest, which currently stand open,
+are the only means of entering the city proper by land.  Great torches stand on
+either side of the roadway, blending with the city's luminescence.    
+~
+81 0 1 0 0
+D7
+~
+~
+0 0 8397
+D8
+~
+~
+0 0 8000
+E
+sign road~
+
+                        WELCOME TO THE CITY OF ISTAR
+
+~
+S
+#8117
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  On both sides of the road are homes where the city guards live.  The road
+is made of smooth, white stone.  Common folk and nobleman do not come here, and
+the only pedestrians to be seen are guards.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8073
+D1
+~
+~
+0 0 8118
+D2
+~
+~
+0 0 8075
+D3
+~
+~
+0 0 8029
+S
+#8118
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  On both sides of the road are homes where the city guards live.  The road
+is made of smooth, white stone.  Common folk and nobleman do not come here, and
+the only pedestrians to be seen are guards.  The road deadends here at a stone
+wall, about half the height of the city's outer curtain wall.  The boughs of
+ancient olive trees are barely visible above it.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8074
+D2
+~
+~
+0 0 8076
+D3
+~
+~
+0 0 8117
+S
+#8119
+Approaching the Amphitheater~
+   This wide street has been paved with smooth stone that is both practical for
+the street's traffic, and elegant in accordance with the demeanor of the city.
+The street is filled with people coming and going from both directions
+diligently working on their daily tasks.  Once in awhile a noble of the city
+will pass by in a carriage, some handing out alms but most not taking notice of
+the common people of Istar.  To the south stands Istar's great amphitheater
+which is host to concerts and plays.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8047
+D9
+~
+~
+0 0 8121
+S
+#8120
+The Entryway of the Great Amphitheater~
+   To the west a large building stands.  A large sign on its side announces
+that it is the play house.  There appear to be many doors, but only one set of
+doors has handles, and the usher is by that door.  The rest of the doors appear
+to be exit only.  The road here has been cleaned off, the owners probably pay
+people to pick up litter.    
+~
+81 0 1 0 0
+D1
+~
+~
+0 0 8121
+S
+T 8120
+#8121
+Approaching the Amphitheater~
+   This wide street has been paved with smooth stone that is both practical for
+the street's traffic, and elegant in accordance with the demeanor of the city.
+The street is filled with people coming and going from both directions
+diligently working on their daily tasks.  Once in awhile a noble of the city
+will pass by in a carriage, some handing out alms but most not taking notice of
+the common people of Istar.  To the west stands Istar's great amphitheater
+which is host to concerts and plays.    
+~
+81 0 1 0 0
+D1
+~
+~
+0 0 8122
+D3
+~
+~
+0 0 8120
+D6
+~
+~
+0 0 8119
+S
+#8122
+On a Wide City Street~
+   This wide street has been paved with smooth stone that is both practical for
+the street's traffic, and elegant in accordance with the demeanor of the city.
+The street is filled with people coming and going from both directions
+diligently working on their daily tasks.  Once in awhile a noble of the city
+will pass by in a carriage, some handing out alms but most not taking notice of
+the common people of Istar.    
+~
+81 0 1 0 0
+D3
+~
+~
+0 0 8121
+D9
+~
+~
+0 0 8031
+S
+#8123
+The Great Amphitheater of Istar~
+   There are several doubledoors here, all leading to the east, back outside.
+The seating is simple, just rows of wooden benches.  The theater is set up in a
+large semi-circle.  The seats are higher than the stage, but not by much.  The
+stage has curtains against the back wall on the west.  These can be drawn back
+to show the picture in the background or they can be kept closed.  It doesn't
+appear like there is much room past the curtains for actors to stay.  This time
+the curtains are open, showing a painting of a sunset in some mountains.  
+There is no ceiling, leaving this place open to wind and rain, but it does
+allow the sun to light the theater up.    
+~
+81 220 0 0 0
+D1
+~
+~
+0 0 8120
+S
+T 8123
+T 8124
+#8124
+Below the Stage~
+   The lighting down here is limited, a few sets of candles is it.  This room
+is cool, and is a good place to rest from the heat.  The only exit is out the
+hatch that leads back upstage.  A set of wide stairs leads up to the hatch.  
+Scattered across the room are various props used in plays, some for the current
+play, others for older plays.  There are a few chairs in here, for the actors
+to rest.    
+~
+81 25165832 0 0 0
+D4
+~
+~
+0 0 8123
+S
+#8126
+A Recently Added On Room~
+   This small room was added on to the shop after Dana kept receiving more and
+more less attractive items.  Instead of turning them down, she decided to have
+an extra room built and hire some help.  The items here are much more bland and
+seem very out of place compared to the main part of the store.  Dana soon did
+discover that this room provided enough entertainment for males to give their
+female companions more time to try on clothing, and often, more clothing to
+buy.    
+~
+81 12 0 0 0
+D2
+~
+~
+0 0 8128
+S
+#8127
+Notro's Holy Wares~
+   This shop was added into the market at the request of some of the clergy,
+namely, Notro and a few other investers of this shop.  There is little doubt
+that this shop that was once hidden away in the temple is now thriving.  
+People walk in and out of here, rarely leaving empty handed.  The walls are
+marble, golden silk hangs from wall to wall as a decoration.  There is a
+ceramic disc over the entrance, in the center of it, a silver triangle, the
+symbol of Paladine.  Although, it doesn't look so much like a tribute to the
+great god of light as it does a decoration.    
+~
+81 12 0 0 0
+D2
+~
+~
+0 0 8031
+S
+#8128
+Lady Dana's Fashion Boutique~
+   There are so many colors in this room that it is almost stunning.  The walls
+display the latest trends in clothing in Istar.  A large desk decorated with
+white roses is on the eastern wall, that is where Dana takes care of money.  
+The northeastern wall seems out of place though.  There is a large opening on
+the north part of that corner, leading to a small add-on to the shop.  The shop
+may have the latest trends, but Dana is known to have a heart of gold and will
+buy many clothing items and put them up for sell in that corner, even if they
+are no where near the quality of her normal wares.    
+~
+81 12 0 0 0
+D0
+~
+~
+0 0 8126
+D2
+~
+~
+0 0 8032
+S
+#8129
+The Smith's Shop~
+   This shop is bristling with activity.  This shop is large and busy.  In the
+back, young apprentices race back and forth, bringing materials or tools for
+the smithies.  The sound of metal striking metal and the great heat can be too
+much for some people, it certainly seems hard to concentrate.  In the front of
+the shop, against a wall, is a large desk, this is where the shopkeeper stays.
+The glow from the forging fires keeps this place well lit, even at night, but
+due to popular demand, the shop has to close so nearby people can get some
+sleep.    
+~
+81 12 0 0 0
+D0
+~
+~
+0 0 8015
+S
+#8130
+Along the Shores of Lake Istar~
+   This roadway runs along the northern shore of Lake Istar from the gates to
+the city's docks.  It is paved with blue and green blocks of stone that mirror
+the colors of the lake.  A breakwater, appearing to be nearly a mile long, is
+visible outside the main harbor area.  It serves to keep the waters calm and
+peaceful.    
+~
+81 4 1 0 0
+D0
+~
+~
+0 0 8003
+D1
+~
+~
+0 0 8001
+D3
+~
+~
+0 0 8131
+S
+#8131
+Along the Docks of Lake Istar~
+   This roadway runs along the northern shore of Lake Istar from the gates to
+the city's docks.  It is paved with blue and green blocks of stone that mirror
+the colors of the lake.  A breakwater, appearing to be nearly a mile long, is
+visible outside the main harbor area.  It serves to keep the waters calm and
+peaceful.    
+~
+81 0 1 0 0
+D1
+~
+~
+0 0 8130
+D2
+~
+~
+0 0 8139
+D3
+~
+~
+0 0 8132
+S
+#8132
+Along the Docks of Lake Istar~
+   This roadway runs along the northern shore of Lake Istar from the gates to
+the city's docks.  It is paved with blue and green blocks of stone that mirror
+the colors of the lake.  A breakwater, appearing to be nearly a mile long, is
+visible outside the main harbor area.  It serves to keep the waters calm and
+peaceful.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8035
+D1
+~
+~
+0 0 8131
+D2
+~
+~
+0 0 8133
+S
+#8133
+The Docks of Istar~
+   Two long piers extend out from the shoreline over the blue-green waters of
+Lake Istar.  Each plays host to an endless stream of cargo and passenger ships
+which serve this busy port.  During all the daylight hours and well into the
+evening the longshoreman are unloading or loading goods while remaining clear
+of the visitors who are coming and going.  Unlike many port cities, Istar does
+not have any warehouses near its harbor.  Such buildings would only clutter the
+lovely lakefront and were deemed unnecessary eyesores.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8132
+D2
+~
+~
+0 0 8134
+D5
+   A trapdoor set in the wooden planks allows access to the waters below.    
+~
+trapdoor~
+1 0 1488
+S
+#8134
+The Docks of Istar~
+   Two long piers extend out from the shoreline over the blue-green waters of
+Lake Istar.  Each plays host to an endless stream of cargo and passenger ships
+which serve this busy port.  During all the daylight hours and well into the
+evening the longshoreman are unloading or loading goods while remaining clear
+of the visitors who are coming and going.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8133
+D2
+~
+~
+0 0 8135
+S
+#8135
+The Docks of Istar~
+   Two long piers extend out from the shoreline over the blue-green waters of
+Lake Istar.  Each plays host to an endless stream of cargo and passenger ships
+which serve this busy port.  During all the daylight hours and well into the
+evening the longshoreman are unloading or loading goods while remaining clear
+of the visitors who are coming and going.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8134
+D2
+~
+~
+0 0 8136
+S
+#8136
+The Docks of Istar~
+   The dock ends here, extending far over the waters of Lake Istar.  From this
+vantange point the top of a lighthouse, which stands watch over the lake to the
+west, is visible on the horizon.  A few small crafts are approaching the docks,
+no doubt ferrying passengers from large luxury yachts which are moored
+offshore.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8135
+S
+#8137
+The Docks of Istar~
+   The dock ends here, extending far over the waters of Lake Istar.  From this
+vantange point the top of a lighthouse, which stands watch over the lake to the
+west, is visible on the horizon.  A few small crafts are approaching the docks,
+no doubt ferrying passengers from large luxury yachts which are moored
+offshore.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8138
+S
+#8138
+The Docks of Istar~
+   Two long piers extend out from the shoreline over the blue-green waters of
+Lake Istar.  Each plays host to an endless stream of cargo and passenger ships
+which serve this busy port.  During all the daylight hours and well into the
+evening the longshoreman are unloading or loading goods while remaining clear
+of the visitors who are coming and going.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8139
+D2
+~
+~
+0 0 8137
+S
+#8139
+The Docks of Istar~
+   Two long piers extend out from the shoreline over the blue-green waters of
+Lake Istar.  Each plays host to an endless stream of cargo and passenger ships
+which serve this busy port.  During all the daylight hours and well into the
+evening the longshoreman are unloading or loading goods while remaining clear
+of the visitors who are coming and going.  Unlike many port cities, Istar does
+not have any warehouses near its harbor.  Such buildings would only clutter the
+lovely lakefront and were deemed unnecessary eyesores.    
+~
+81 0 1 0 0
+D0
+~
+~
+0 0 8131
+D2
+~
+~
+0 0 8138
+S
+#8140
+Entrance to the Istar Jail~
+   This room is spartan looking except for the far wall which is adorned with a
+small sign and several rows of pictures.  The wooden floor creaks softly in
+certain spots revealing its age.  On the eastern wall a cork message board has
+been set up with a few pictures of what can only be the local criminals pinned
+to it.  A slightly replusive smell is faintly detectable and seems to be coming
+along with the occasional sound of metal clanking from the west.    
+~
+81 12 0 0 0
+D1
+~
+~
+0 0 8142
+D2
+~
+~
+0 0 8029
+D3
+~
+~
+0 0 8141
+S
+#8141
+The Jailhouse Kitchen~
+   A slightly repulsive smell permeates this area and it quickly becomes
+obvious that the source of the smell is a large cooking pot suspended about a
+small fire in the center of the room.  A metallic clanking sound is
+occasionally created by someone using a metal spoon to stir the contents of the
+pot releasing a fresh wave of the repulsive odor.  The wooden floor in this
+room is covered with dark splotches and stains here and there which provide
+evidence to the spills that seem to occur frequently in here.    
+~
+81 8 0 0 0
+D1
+~
+~
+0 0 8140
+S
+#8142
+Entry to the Cells~
+   This is another spartan looking room in the Istarian jailhouse.  The wooden
+floor here creaks a bit louder then the one in the main entrance and the area
+gives you the feeling that it is seldom thoroughly cleaned but someone has at
+least made the attempt to keep it semi dusted and swept up.  A decent sized
+desk and heavily padded leather chair sit in front of a window in the southern
+wall.  A small, polished brass plaque rests prominently in the center of the
+desk.  In the northwestern corner of the room an old and heavily worn table is
+piled high with stacks of paper.  Above the table just between the stacks of
+paper you can see a very small piece of carved wood.  A heavily barricaded door
+is in the center of the northern wall.    
+~
+81 8 0 0 0
+D0
+~
+~
+0 0 8143
+D3
+~
+~
+0 0 8140
+E
+plaque polished brass~
+Gunther Melargo
+Head Jailer of Istar
+Serving proudly for 20 years
+~
+E
+award wooden carved~
+Asst. Jailer of the Year Award
+This plain piece of wood is carved with the following inscription:
+
+Asst. Jailer of the Year Award
+
+
+It seems to have been hung in this particular spot to try to cover a large
+crack in the wall but is not doing a good job at it.
+~
+S
+#8143
+A Cell Block Hallway~
+   This hallway is the only access to this cell block in the jailhouse.  
+Locked doors flank you to the east and the west.  The wooden floor creaks
+ominously and the stench from unwashed bodies and human excriment is almost
+overpowering.  From the west come the sounds of someone humming a tune.    
+~
+81 8 0 0 0
+D0
+~
+~
+0 0 8146
+D1
+A row of thick interwoven steel bars have been made into a cell door.
+~
+door cell bars~
+1 8143 8144
+D2
+~
+~
+0 0 8142
+D3
+A row of thick interwoven steel bars have been made into a cell door.
+~
+door cell bars~
+1 8143 8145
+S
+#8144
+A Cell in Istar's Jailhouse~
+   This small cell is made even smaller by a couple of long planks fastened on
+the north wall with a mattress thrown on top of them making the only bit of
+furniture in the place.  A bucket sits in the southwestern corner from which
+the repugnant smell of excriment seeps.  Instead of the wooden floors found in
+the rest of the jail, the floor here is one solid piece of stone.  It is
+obvious that Istar considers its criminals to be unfit for even the most basic
+of creature comforts.    
+~
+81 8 0 0 0
+D3
+A row of thick interwoven steel bars have been made into a cell door.
+~
+door cell bars~
+1 8143 8143
+S
+#8145
+A Cell in Istar's Jailhouse~
+   This small cell is made even smaller by a couple of long planks fastened on
+the north wall with a mattress thrown on top of them making the only bit of
+furniture in the place.  A bucket sits in the southwestern corner from which
+the repugnant smell of excriment seeps.  Instead of the wooden floors found in
+the rest of the jail, the floor here is one solid piece of stone.  It is
+obvious that Istar considers its criminals to be unfit for even the most basic
+of creature comforts.    
+~
+81 8 0 0 0
+D1
+A row of thick interwoven steel bars have been made into a cell door.
+~
+door cell bars~
+1 8143 8143
+S
+#8146
+A Cell Block Hallway~
+   This hallway is the only access to this cell block in the jailhouse.  
+Locked doors flank you to the east and the west.  The wooden floor creaks
+ominously and the stench from unwashed bodies and human excriment is almost
+overpowering.  Directly to the north is a door that is a little bit different
+from the others in this cell block.  It appears to be made of a much thicker
+metal than the other cell doors and there is a massive lock on it.  You can
+hear a very muffled sound coming from behind the door but cannot quite make out
+what it is.  It is obvious that whatever is locked up behind that northern door
+is considered very dangerous.    
+~
+81 8 0 0 0
+D0
+   This door is made of think gauge of solid steel with no openings in it.    
+~
+door solid steel~
+2 8142 8149
+D1
+A row of thick interwoven steel bars have been made into a cell door.
+~
+door cell bars~
+1 8143 8147
+D2
+~
+~
+0 0 8143
+D3
+A row of thick interwoven steel bars have been made into a cell door.
+~
+door cell bars~
+1 8143 8148
+S
+#8147
+A Cell in Istar's Jailhouse~
+   This small cell is made even smaller by a couple of long planks fastened on
+the north wall with a mattress thrown on top of them making the only bit of
+furniture in the place.  A bucket sits in the southwestern corner from which
+the repugnant smell of excriment seeps.  Instead of the wooden floors found in
+the rest of the jail, the floor here is one solid piece of stone.  It is
+obvious that Istar considers its criminals to be unfit for even the most basic
+of creature comforts.    
+~
+81 8 0 0 0
+D3
+A row of thick interwoven steel bars have been made into a cell door.
+~
+door cell bars~
+1 8143 8146
+S
+#8148
+A Cell in Istar's Jailhouse~
+   This small cell is made even smaller by a couple of long planks fastened on
+the north wall with a mattress thrown on top of them making the only bit of
+furniture in the place.  A bucket sits in the southwestern corner from which
+the repugnant smell of excriment seeps.  Instead of the wooden floors found in
+the rest of the jail, the floor here is one solid piece of stone.  It is
+obvious that Istar considers its criminals to be unfit for even the most basic
+of creature comforts.    
+~
+81 8 0 0 0
+D1
+A row of thick interwoven steel bars have been made into a cell door.
+~
+door cell bars~
+1 8143 8146
+S
+#8149
+A Cell in Istar's Jailhouse~
+   This small cell is made even smaller by a couple of long planks fastened on
+the north wall with a mattress thrown on top of them making the only bit of
+furniture in the place.  A bucket sits in the southwestern corner from which
+the repugnant smell of excriment seeps.  Instead of the wooden floors found in
+the rest of the jail, the floor here is one solid piece of stone.  It is
+obvious that Istar considers its criminals to be unfit for even the most basic
+of creature comforts.    
+~
+81 8 0 0 0
+D2
+   This door is made of think gauge of solid steel with no openings in it to
+let the light through except for the small keyhole.    
+~
+door solid steel thick~
+2 8141 8146
+S
+#8150
+An Ancient Ice Tunnel~
+   Crystals of ice hang on the stone walls of this man-made tunnel, glowing a
+soft teal that lights the way.  Wafting through the air, clouds of dust fill
+your nostrils, disturbed from their place of resting after so many years.  The
+chill of the ice creeps into your bones, worming through your clothes and skin
+with unseen fingers as you hasten your step to avoid it.    
+~
+81 40 0 0 0
+D4
+~
+~
+0 0 8098
+D6
+~
+~
+0 0 8151
+S
+#8151
+An Ancient Ice Tunnel~
+   Crystals of ice hang on the stone walls of this man-made tunnel, glowing a
+soft teal that lights the way.  Wafting through the air, clouds of dust fill
+your nostrils, disturbed from their place of resting after so many years.  The
+chill of the ice creeps into your bones, worming through your clothes and skin
+with unseen fingers as you hasten your step to avoid it.    
+~
+81 0 0 0 0
+D3
+~
+~
+0 0 8152
+D9
+~
+~
+0 0 8150
+S
+#8152
+An Ancient Ice Tunnel~
+   Crystals of ice hang on the stone walls of this man-made tunnel, glowing a
+soft teal that lights the way.  Wafting through the air, clouds of dust fill
+your nostrils, disturbed from their place of resting after so many years.  The
+chill of the ice creeps into your bones, worming through your clothes and skin
+with unseen fingers as you hasten your step to avoid it.    
+~
+81 0 0 0 0
+D1
+~
+~
+0 0 8151
+D6
+~
+~
+0 0 8153
+S
+#8153
+An Ancient Ice Tunnel~
+   Crystals of ice hang on the stone walls of this man-made tunnel, glowing a
+soft teal that lights the way.  Wafting through the air, clouds of dust fill
+your nostrils, disturbed from their place of resting after so many years.  The
+chill of the ice creeps into your bones, worming through your clothes and skin
+with unseen fingers as you hasten your step to avoid it.    
+~
+81 0 0 0 0
+D0
+~
+~
+0 0 8154
+D9
+~
+~
+0 0 8152
+S
+#8154
+An Ancient Ice Tunnel~
+   Crystals of ice hang on the stone walls of this man-made tunnel, glowing a
+soft teal that lights the way.  Wafting through the air, clouds of dust fill
+your nostrils, disturbed from their place of resting after so many years.  The
+chill of the ice creeps into your bones, worming through your clothes and skin
+with unseen fingers as you hasten your step to avoid it.    
+~
+81 0 0 0 0
+D2
+~
+~
+0 0 8153
+D6
+~
+~
+0 0 8155
+S
+#8155
+An Ancient Ice Tunnel~
+   Crystals of ice hang on the stone walls of this man-made tunnel, glowing a
+soft teal that lights the way.  Wafting through the air, clouds of dust fill
+your nostrils, disturbed from their place of resting after so many years.  The
+chill of the ice creeps into your bones, worming through your clothes and skin
+with unseen fingers as you hasten your step to avoid it.    
+~
+81 0 0 0 0
+D0
+~
+~
+0 0 8156
+D9
+~
+~
+0 0 8154
+S
+#8156
+An Ancient Ice Tunnel~
+   Crystals of ice hang on the stone walls of this man-made tunnel, glowing a
+soft teal that lights the way.  Wafting through the air, clouds of dust fill
+your nostrils, disturbed from their place of resting after so many years.  The
+chill of the ice creeps into your bones, worming through your clothes and skin
+with unseen fingers as you hasten your step to avoid it.    
+~
+81 0 0 0 0
+D0
+~
+~
+0 0 8157
+D2
+~
+~
+0 0 8155
+S
+#8157
+An Ancient Ice Tunnel~
+   Crystals of ice hang on the stone walls of this man-made tunnel, glowing a
+soft teal that lights the way.  Wafting through the air, clouds of dust fill
+your nostrils, disturbed from their place of resting after so many years.  The
+chill of the ice creeps into your bones, worming through your clothes and skin
+with unseen fingers as you hasten your step to avoid it.    
+~
+81 0 0 0 0
+D2
+~
+~
+0 0 8156
+D4
+~
+trapdoor~
+1 0 8096
+S
+#8180
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+81 12 0 0 0
+D0
+~
+~
+0 0 8036
+S
+#8181
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+81 12 0 0 0
+D0
+~
+~
+0 0 8027
+S
+#8182
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+81 12 0 0 0
+D0
+~
+~
+0 0 8022
+S
+#8183
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+81 12 0 0 0
+D0
+~
+~
+0 0 8021
+S
+#8190
+Entryway of the Laughing Spirits Tavern~
+   The Laughing Spirits is a far cry from the Roaring Dragon, Istar's premier
+tavern.  Unlike the Roaring Dragon the Spirits, as the locals call it, plays
+host to common merchants and mercenaries who are here for business.  It has
+become a popular haunt for those looking to provide their services, and as such
+a gathering spot for those in need.  The decor is simple yet nice with all the
+basic needs of a tavern patron taken into account.  Double doors of sturdy oak
+which stand in the center of the eastern wall open out to Beggar's Alley.    
+~
+81 12 0 0 0
+D1
+~
+~
+0 0 8035
+D2
+~
+~
+0 0 8192
+D3
+~
+~
+0 0 8191
+S
+#8191
+At the Bar of the Laughing Spirits~
+   The origin of the name of this tavern is one of the great many things that
+is debated by patrons.  Some say the tavern is named for the spirits in its
+wine cellar; others say it refers to the laughter of the patrons.  Though,
+despite the city's overall prosperity and preeminence, there are many who are
+not flourishing.  It is these people that seem to always find their way here,
+to the Laughing Spirits.  They come in the hopes of finding a champion to
+assist them in their cause, whatever it may be.    
+~
+81 8 0 0 0
+D0
+~
+~
+0 0 8194
+D1
+~
+~
+0 0 8190
+D2
+~
+~
+0 0 8193
+S
+#8192
+By the Fireplace of the Laughing Spirits Tavern~
+   This large fireplace dominates the decor of the Laughing Spirits.  It
+provides heat for the entire establishment and lights this corner with its soft
+glow.  Stones collected from the shores of Lake Istar have been used to create
+the hearth and the chimney which disappears into the lofts overhead.  The
+wooden mantle is adorned with stuffed birds which are no doubt hunting trophies
+of the owner and his regulars.    
+~
+81 264 0 0 0
+D0
+~
+~
+0 0 8190
+S
+#8193
+A Private Booth in the Laughing Spirits~
+   This cozy booth has high backed benches that provide quite a bit of privacy.
+It is frequented by those looking to spend a quiet evening or to conduct
+private business.  A single candle burns in a pewter candlestick on the table
+adding to the intimacy.    
+~
+81 520 0 0 0
+D0
+~
+~
+0 0 8191
+S
+#8194
+A Corner Booth in the Laughing Spirits~
+   This spacious booth occupies the northwest corner of the tavern's main room.
+The carved wooden benches have rather high backs, providing both comfort and a
+bit of privacy.  The large, square tables are absolutely covered with graffiti,
+mostly the carved initials of those who frequent the booth.  A pewter candle
+sits in the middle of the table, providing a bit of ambiance.    
+~
+81 8 0 0 0
+D2
+~
+~
+0 0 8191
+S
+#8195
+A Grove of Olive Trees~
+   The trees here almost seem alive.  When you look away it sounds like the
+trees behind you are moving around, rearranging themselves.  There is no sign
+of a trail anywhere.  The trees are close together, closer than they were a
+minute ago, or at least it seems.  It is difficult to know which direction
+you're headed, or even which way you came from.  The grove ceiling is thick
+enough to make it impossible to tell where the sun is or the positions of any
+stars.    
+~
+81 0 3 0 0
+D1
+~
+~
+0 0 8196
+D3
+~
+~
+0 0 8199
+S
+T 8170
+#8196
+A Grove of Olive Trees~
+   The trees here almost seem alive.  When you look away it sounds like the
+trees behind you are moving around, rearranging themselves.  There is no sign
+of a trail anywhere.  The trees are close together, closer than they were a
+minute ago, or at least it seems.  It is difficult to know which direction
+you're headed, or even which way you came from.  The grove ceiling is thick
+enough to make it impossible to tell where the sun is or the positions of any
+stars.    
+~
+81 0 3 0 0
+D1
+~
+~
+0 0 8197
+D3
+~
+~
+0 0 8195
+S
+T 8170
+#8197
+A Grove of Olive Trees~
+   The trees here almost seem alive.  When you look away it sounds like the
+trees behind you are moving around, rearranging themselves.  There is no sign
+of a trail anywhere.  The trees are close together, closer than they were a
+minute ago, or at least it seems.  It is difficult to know which direction
+you're headed, or even which way you came from.  The grove ceiling is thick
+enough to make it impossible to tell where the sun is or the positions of any
+stars.    
+~
+81 0 3 0 0
+D1
+~
+~
+0 0 8198
+D3
+~
+~
+0 0 8196
+S
+T 8170
+#8198
+Before the Tower of Sorcery~
+   Right before you is a giant white tower.  To anybody with any sense of
+magic, they can feel the magical power in the very air they breathe.  
+Occasional windows mark the outer walls of the tower.  Standing so close to it
+makes it look like it is very tall, impossibly tall.  Just to the West is the
+grove that surrounds the tower.    
+~
+81 0 3 0 0
+D1
+~
+~
+0 0 10298
+D3
+~
+~
+0 0 8197
+S
+T 8171
+#8199
+A Grove of Olive Trees~
+   The trees here almost seem alive.  When you look away it sounds like the
+trees behind you are moving around.  Maybe it is just the wind.  This grove
+does surround the Tower of High Sorcery in Istar, though, so almost anything is
+possible.  The path in front of you is straight forward, one way it leads to
+the tower, the other way to the city of Istar.  The trees seem to muddle your
+mind and beckon you to them.    
+~
+81 4 1 0 0
+D1
+~
+~
+0 0 8195
+D3
+~
+~
+0 0 8044
+S
+$~

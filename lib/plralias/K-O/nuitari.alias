@@ -1,0 +1,40 @@
+2
+tt
+18
+c shock $1; c calm
+1
+1
+t
+18
+c p-w-k $1; c calm
+1
+7
+testmob
+43
+load mob 6227; load mob 6228; load mob 6229
+1
+4
+test
+9
+goto 6147
+0
+7
+telamon
+18
+at 19034 open door
+0
+4
+gset
+19
+skillset $1 '$2' 80
+1
+4
+fset
+19
+skillset $1 '$2' 65
+1
+4
+home
+9
+goto 1006
+0

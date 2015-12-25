@@ -1,0 +1,1671 @@
+#6200
+A Narrow Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open hollow center of this small tower.    
+~
+62 32776 0 0 0
+D4
+~
+~
+0 0 6205
+D5
+~
+~
+0 0 6197
+S
+#6201
+A Narrow Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open hollow center of this small tower.    
+~
+62 32780 0 0 0
+D4
+~
+~
+0 0 6206
+D5
+~
+~
+0 0 6198
+S
+#6202
+A Sleeping Chamber~
+   This sleeping chamber is sumptuously appointed.  The floor is covered with a
+thick, plush carpet.  The walls draped with beautiful tapestries.  A bed stands
+in the corner, covered with think velvet blankets.  A fireplace in the corner
+opposite the bed provides both heat and light.    
+~
+62 32776 0 0 0
+D1
+A large wooden door.
+~
+door wooden~
+1 0 6203
+S
+#6203
+A Small Hallway~
+   Unlike the other cold and barren hallways in the tower, this hallway is
+richly decorated with carpeting and tapestries.  Small torches hang on the wall
+lighting the way.  A doorway lies to the west.  The main stairwell of the tower
+is visible to the east.    
+~
+62 32780 0 0 0
+D1
+~
+~
+0 0 6204
+D3
+A large wooden door.
+~
+door wooden~
+1 -1 6202
+S
+#6204
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.  A small hallway is visible to the
+west.    
+~
+62 32776 0 0 0
+D3
+~
+~
+0 0 6203
+D4
+~
+~
+0 0 6209
+D5
+~
+~
+0 0 6199
+S
+#6205
+A Narrow Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the hollow center of this small tower.    
+~
+62 32780 0 0 0
+D4
+~
+~
+0 0 6208
+D5
+~
+~
+0 0 6200
+S
+#6206
+A Small Balcony~
+   This small balcony looks out over the western part of the city.  Beyond the
+city wall, the Vingaard Mountains dominate the landscape.  Often snowcapped
+during the winter months.  The peaks of these great mountains stretch up
+towards the heavens.    
+~
+62 32768 1 0 0
+D5
+~
+~
+0 0 6201
+S
+#6207
+delete me~
+delete me
+~
+62 0 0 0 0
+S
+#6208
+A Small Balcony~
+   This small balcony overlooks the eastern part of the city.  The Central
+Plaza the Great Library can be seen clearly.  People rush through the streets,
+occasionally stopping at the fountain for rest.    
+~
+62 32768 1 0 0
+D5
+~
+~
+0 0 6205
+S
+#6209
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+62 32776 0 0 0
+D4
+~
+~
+0 0 6210
+D5
+~
+~
+0 0 6204
+S
+#6210
+A Small Landing~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.  A door is visible to the east.  
+~
+62 32768 0 0 0
+D1
+A rune carved, wooden door.
+~
+door wooden carved runes~
+1 0 6211
+D4
+~
+~
+0 0 6214
+D5
+~
+~
+0 0 6209
+S
+#6211
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.  Work tables covered with
+books and beakers line the room.    
+~
+62 294920 0 0 0
+D0
+~
+~
+0 0 6215
+D1
+~
+~
+0 0 6212
+D3
+A rune carved, wooden door.
+~
+door wooden carved runes~
+1 0 6210
+S
+#6212
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.  Work tables covered with
+books and beakers line the room.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6216
+D1
+~
+~
+0 0 6213
+D3
+~
+~
+0 0 6211
+S
+#6213
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.  Work tables covered with
+books and beakers line the room.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6217
+D3
+~
+~
+0 0 6212
+S
+#6214
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+62 32776 0 0 0
+D4
+~
+~
+0 0 6218
+D5
+~
+~
+0 0 6210
+S
+#6215
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.  Work tables covered with
+books and beakers line the room.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6216
+D2
+~
+~
+0 0 6211
+S
+#6216
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6217
+D2
+~
+~
+0 0 6212
+D3
+~
+~
+0 0 6215
+S
+#6217
+A Laboratory~
+   This corner of the laboratory is a bit darker than the rest.  No torches or
+other lighting fixtures are mounted on the walls or ceiling.  The area is only
+illuminated by a bit of light which shines from the other portions of the work
+room.  At the far end of the room, almost obscured by the shadows, hangs a
+purple velvet curtain.  On the floor in front of the curtain a circle has been
+formed on the floor using some sort of powdery substance.    
+~
+62 32776 0 0 0
+D2
+~
+~
+0 0 6213
+D3
+~
+~
+0 0 6216
+E
+curtain purple velvet~
+   Behind the curtain is an oval doorway standing on a golden dais.  It is
+surrounded by the dragon heads of Takhisis, the Queen of Darkness.  The heads
+appear to be nothing more than plain gold metal, yet the eyes look as though
+they see all.    
+~
+E
+floor circle powdery~
+   A powdery substance, which on close inspection appears to be sea salts, has
+been used to form the outline of a circle on the floor.  In the center of the
+circle, a single symbol has carved into the floor.    
+~
+E
+symbol single~
+
+           o
+       o       o
+
+          / \
+         /   \
+        |     |
+        |     |
+        |     |
+        |     |
+        |     |
+      __+_|^|_+__
+
+
+~
+S
+T 11002
+#6218
+At the Top of the Staircase~
+   Looking down from this landing the ground floor from the tower seems miles
+away.  The center of the tower is hollow with stairs spiraling down as far as
+the eye can see.  One misstep on these stairs and a person would fall to their
+death.  A doorway is visible to the south.    
+~
+62 32780 0 0 0
+D2
+A small wooden door.
+~
+door~
+1 0 6220
+D5
+~
+~
+0 0 6214
+S
+#6219
+A Balcony~
+   Looking out to the west, the Vingaard Mountains dominate the landscape.  
+Often snowcapped during the winter months, the peaks of these great mountains
+stretch up towards the heavens.  The balcony continues to the north and east.
+~
+62 32768 1 0 0
+D0
+~
+~
+0 0 6222
+D1
+~
+~
+0 0 6220
+S
+#6220
+A Balcony~
+   This balcony encircles the top of the tower.  The noise of the city is
+strangely hushed at this height.  The balcony provides a striking view of the
+city.  From this location, the Great Library can be clearly seen.  Its marble
+walls shining in the sunlight.  The balcony continues to the east and west.  A
+door is visible to the north.    
+~
+62 32768 1 0 0
+D0
+A small wooden door.
+~
+door~
+1 0 6218
+D1
+~
+~
+0 0 6221
+D3
+~
+~
+0 0 6219
+S
+#6221
+A Balcony~
+   The noise of the city is strangely hushed at this height.  The Central Plaza
+of Palanthas can be clearly seen from here.  People rush along the streets
+going about their business.  Many stop to visit the shops or get a drink from
+the rose fountain the rests in the center of the city.  The balcony continues
+to the north and west.    
+~
+62 32768 1 0 0
+D0
+~
+~
+0 0 6224
+D3
+~
+~
+0 0 6220
+S
+#6222
+A Balcony~
+Looking out to the west, the Vingaard Mountains dominate the landscape.  Often
+snowcapped during the winter months, the peaks of these great mountains stretch
+up towards the heavens.  The balcony continues to the south and west.    
+~
+62 32768 1 0 0
+D1
+~
+~
+0 0 6223
+D2
+~
+~
+0 0 6219
+S
+#6223
+A Balcony~
+   The noise of the city is strangely hushed at this height.  From this vantage
+point it is possible to see far out over the Bay of Branchala.  Dozens of ships
+can be seen approaching the docks.  More ships are barely visible in the
+distance as they leave port and disappear over the horizon.  The balcony
+continues on to the east and west.    
+~
+62 32768 1 0 0
+D1
+~
+~
+0 0 6224
+D3
+~
+~
+0 0 6222
+S
+#6224
+A Balcony~
+   The noise of the city is strangely hushed at this height.  Looking to the
+north beyond the city wall, the trade exchange can be clearly seen.  Countless
+stalls are setup by vendors who display their wares for the shop owners of
+Palanthas.  Further to the north, the docks are visible as they wind their way
+along the Bay of Branchala.  The balcony continues to the west and south.    
+~
+62 32768 1 0 0
+D2
+~
+~
+0 0 6221
+D3
+~
+~
+0 0 6223
+S
+#6225
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of everykind - philosophy, poetry, herbal lore, anatomy.  A plush
+chair stands in the corner of the room and looks to be an inviting place to sit
+and study.  White robed mages wander in and out of the library retrieving books
+to further their studies.  Large windows line the walls inviting in the
+sunshine which cast its warm glow throughout the room.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6227
+E
+window windows~
+   A large statue in tribute to Solinari is visible out the window to the
+northwest.    
+~
+S
+#6226
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of everykind - philosophy, poetry, herbal lore, anatomy.  A plush
+chair stands in the corner of the room and looks to be an inviting place to sit
+and study.  White robed mages wander in and out of the library retrieving books
+to further their studies.  Large windows line the walls inviting in the
+sunshine which cast its warm glow throughout the room.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6227
+S
+#6227
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of every kind - philosophy, poetry, herbel lore, anatomy.  A plush
+chair stands in the corner and looks to be an inviting place to sit and study.
+White robed mages wander in and out of the library retrieving books to further
+their studies.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6231
+D1
+~
+~
+0 0 6228
+D2
+~
+~
+0 0 6225
+D3
+~
+~
+0 0 6226
+S
+#6228
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of every kind - philosophy, poetry, herbel lore, anatomy.  A plush
+chair stands in the corner and looks to be an inviting place to sit and study.
+White robed mages wander in and out of the library retrieving books to further
+their studies.  Large windows line the walls inviting in the sunshine which
+cast its warm glow throughout the room.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6232
+D3
+~
+~
+0 0 6227
+S
+#6229
+Library of the Red Robes~
+   The walls of the immense rooms are lined with hundreds of books.  A small
+table sits at the edge of the rooms.  Red robed mages wander about retrieving
+books off the shelves.  The windows are draped with sheer fabric which casts a
+red light throughout the room as the sun shines through it.  The windows are
+draped with sheer red fabric which casts a red light throughout the room as the
+sun shines through it.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6235
+D1
+~
+~
+0 0 6230
+S
+#6230
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6236
+D3
+~
+~
+0 0 6229
+S
+#6231
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of every kind - philosophy, poetry, herbel lore, anatomy.  A plush
+chair stands in the corner and looks to be an inviting place to sit and study.
+White robed mages wander in and out of the library retrieving books to further
+their studies.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6232
+D2
+~
+~
+0 0 6227
+S
+#6232
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of every kind - philosophy, poetry, herbel lore, anatomy.  A plush
+chair stands in the corner and looks to be an inviting place to sit and study.
+White robed mages wander in and out of the library retrieving books to further
+their studies.    
+~
+62 32780 0 0 0
+D0
+~
+~
+0 0 6238
+D1
+~
+~
+0 0 6233
+D2
+~
+~
+0 0 6228
+D3
+~
+~
+0 0 6231
+S
+#6233
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of everykind - philosophy, poetry, herbal lore, anatomy.  A plush
+chair stands in the corner of the room and looks to be an inviting place to sit
+and study.  White robed mages wander in and out of the library retrieving books
+to further their studies.  Large windows line the walls inviting in the
+sunshine which cast its warm glow throughout the room.    
+~
+62 32776 0 0 0
+D3
+~
+~
+0 0 6232
+S
+#6234
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.  The windows are
+draped with sheer red fabric which casts a red light throughout the room as the
+sun shines through it.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6235
+E
+window windows~
+   A statue in tribute to Lunitari is visible in the garden to the northeast.
+  
+~
+S
+#6235
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6241
+D1
+~
+~
+0 0 6236
+D2
+~
+~
+0 0 6229
+D3
+~
+~
+0 0 6234
+S
+#6236
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.    
+~
+62 32780 0 0 0
+D0
+~
+~
+0 0 6242
+D1
+~
+~
+0 0 6174
+D2
+~
+~
+0 0 6230
+D3
+~
+~
+0 0 6235
+S
+#6238
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  To
+the north a small library is visible.  To the west is the stairway that winds
+its way up and down through the tower.  The hallway continues to the east.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6244
+D1
+~
+~
+0 0 6239
+D2
+~
+~
+0 0 6232
+D3
+~
+~
+0 0 6174
+S
+#6239
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  To
+the east is a door.  The hallway continues to the west.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6240
+D3
+~
+~
+0 0 6238
+S
+#6240
+A Meeting Room~
+   This is one of many meeting rooms in the tower.  Mages of all orders are
+able to put aside their differences and meet here, bound together by their
+shared love of their art.  A large round table sits in the middle of the room.
+Other than the chairs that surround it, there are no other furnishings.  A
+large window in the eastern wall looks out at the gardens that surround the
+tower.    
+~
+62 32768 0 0 0
+D3
+~
+~
+0 0 6239
+S
+#6241
+Library of the Red Robes~
+   The walls of the immense rooms are lined with hundreds of books.  A small
+table sits at the edge of the rooms.  Red robed mages wander about retrieving
+books off the shelves.  The windows are draped with sheer fabric which casts a
+red light throughout the room as the sun shines through it.  The windows are
+draped with sheer red fabric which casts a red light throughout the room as the
+sun shines through it.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6242
+D2
+~
+~
+0 0 6235
+S
+#6242
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.    
+~
+62 32776 0 0 0
+D2
+~
+~
+0 0 6236
+D3
+~
+~
+0 0 6241
+S
+#6243
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6247
+D1
+~
+~
+0 0 6244
+S
+#6244
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.    
+~
+62 32780 0 0 0
+D0
+~
+~
+0 0 6248
+D1
+~
+~
+0 0 6245
+D2
+~
+~
+0 0 6238
+D3
+~
+~
+0 0 6243
+S
+#6245
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.    
+~
+62 32768 0 0 0
+D3
+~
+~
+0 0 6244
+S
+#6246
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.  The windows are covered with heavy, black
+velvet curtains.  The curtains are pulled back with a black cord, allowing the
+light from outside to flood the library.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6247
+S
+#6247
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6249
+D1
+~
+~
+0 0 6248
+D2
+~
+~
+0 0 6243
+D3
+~
+~
+0 0 6246
+S
+#6248
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.  The windows are covered with heavy, black
+velvet curtains.  The curtains are pulled back with a black cord, allowing the
+light from outside to flood the library.    
+~
+62 32776 0 0 0
+D2
+~
+~
+0 0 6244
+D3
+~
+~
+0 0 6247
+S
+#6249
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.  The windows are covered with heavy, black
+velvet curtains.  The curtains are pulled back with a black cord, allowing the
+light from outside to flood the library.    
+~
+62 32776 0 0 0
+D2
+~
+~
+0 0 6247
+E
+window windows~
+   A large statue in tribute to Nuitari is visible out of the window to the
+southeast.    
+~
+S
+#6250
+The Black Garden~
+   The sun does not seem to reach this garden, yet the flowers still grow.  
+Large torches line the perimeter, casting light across the blooms.  Despite the
+beauty of the black orchids and roses that grow here, the garden lacks any
+warmth.  However, the young black robes apprentices seem to find this an
+amenable place to study.  They wander through the garden completely lost in
+thought.    
+~
+62 32769 2 0 0
+D2
+~
+~
+0 0 6251
+D3
+~
+~
+0 0 6157
+S
+#6251
+The Black Garden~
+   The sun does not seem to reach this garden, yet the flowers still grow.  
+Large torches line the perimeter, casting light across the blooms.  Despite the
+beauty of the black orchids and roses the grow here, the garden lacks any
+warmth.  However, the young black robed apprentices seem to find this an
+amenable place to study.  They wander through the garden completely lost in
+thought.    
+~
+62 32769 2 0 0
+D0
+~
+~
+0 0 6250
+D1
+~
+~
+0 0 6253
+D2
+~
+~
+0 0 6252
+D3
+~
+~
+0 0 6148
+S
+#6252
+The Black Garden~
+   The sun does not seem to reach this garden, yet the flowers still grow.  
+Large torches line the perimeter, casting light across the blooms.  Despite the
+beauty of the black orchids and roses that grow here, the garden lacks any
+warmth.  However, the young black robed apprentices seem to find this an
+amenable place to study.  They wander through the garden completely lost in
+thought.    
+~
+62 32769 2 0 0
+D0
+~
+~
+0 0 6251
+D3
+~
+~
+0 0 6139
+S
+#6253
+Before a Statue of Nuitari~
+   A large platform rises above the garden here.  Atop the platform stands a
+statue in tribute to Nuitari.  The statue is a large, black, marble sphere.  
+Tall torches stand on either side of the statue.  Their light reflects off its
+highly polished surface.    
+~
+62 32769 2 0 0
+D3
+~
+~
+0 0 6251
+S
+#6254
+The Red Garden~
+   This garden bursts with color and light.  The red roses and snapdragons
+provide a cheerful setting.  The flowers themselves almost appear to be
+smiling.  Young apprentices of the red robes wander through the garden
+practicing their art.    
+~
+62 32768 2 0 0
+D1
+~
+~
+0 0 6255
+D2
+~
+~
+0 0 6170
+S
+#6255
+The Red Garden~
+This garden bursts with color and light.  The red roses and snapdragons
+provide a cheerful setting.  The flowers themselves almost appear to be
+smiling.  Young apprentices of the red robes wander through the garden
+practicing their art.    
+~
+62 32768 2 0 0
+D0
+~
+~
+0 0 6257
+D1
+~
+~
+0 0 6256
+D2
+~
+~
+0 0 6171
+D3
+~
+~
+0 0 6254
+S
+#6256
+The Red Garden~
+   This garden busts with both color and light.  The red roses and snapdragons
+provide a cheerful setting.  The flowers themselves almost appear to be
+smilling.  Young apprentices of the red robes wander through the garden
+practicing their art.    
+~
+62 32768 2 0 0
+D2
+~
+~
+0 0 6172
+D3
+~
+~
+0 0 6255
+S
+#6257
+Before a Statue of Lunitari~
+   A large platform rises above the garden here.  Atop the platform stands a
+statue in tribute to Lunitari.  The statue is a large, red stone sphere.  
+Large torches stand on either side of the statue, reflecting their light off
+its highly polished surface.    
+~
+62 32768 2 0 0
+D2
+~
+~
+0 0 6255
+S
+#6258
+The White Garden~
+   This garden glows with a silvery light which reflects from the torches that
+line its perimeter.  The air is perfumed with the scent of the gardenias and
+jasmine that grows throughout the garden.  White robed apprentices wander
+though the garden.  They speak very little, seemingly lost in thought as they
+memorize their spells.    
+~
+62 32768 2 0 0
+D1
+~
+~
+0 0 6149
+D2
+~
+~
+0 0 6259
+S
+#6259
+The White Garden~
+   This garden glows with a silvery light which reflects from the torches that
+line its perimeter.  The air is perfumed with the scent of the gardenias and
+jasmine that grows throughout the garden.  White robed apprentices wander
+through the garden.  They speak very little, seemingly lost in thought as they
+memorize their spells.    
+~
+62 32768 2 0 0
+D0
+~
+~
+0 0 6258
+D1
+~
+~
+0 0 6140
+D2
+~
+~
+0 0 6260
+D3
+~
+~
+0 0 6261
+S
+#6260
+The White Garden~
+   This garden glows with a silvery light which reflects from the torches that
+line its perimeter.  The air is perfumed with the scent of the gardenias and
+jasmine that grows throughout the garden.  White robed apprentices wander
+through the garden.  They speak very little, seemingly lost in thought as they
+memorize their spells.    
+~
+62 32768 2 0 0
+D0
+~
+~
+0 0 6259
+D1
+~
+~
+0 0 6131
+S
+#6261
+Before a Statue of Solinari~
+   A large platform rises above the garden here.  Atop the platform stands a
+statue in tribute to Solinari.  The statue is a large, white marble sphere.  
+Two torches stand on either side of the sphere.  Their light reflects off the
+highly polished surface of the statue, creating a silvery light.    
+~
+62 32768 2 0 0
+D1
+~
+~
+0 0 6259
+S
+#6262
+A Spiral Staircase~
+   The staircase continues down into the darkness below.  The stairs cling to
+the wall around the open, hollow center of the tower.  The cool air is dank and
+stale, and the hushed silence is deafening.  An iron railing runs along the
+wall, curving with the stairwell.    
+~
+62 32780 0 0 0
+D4
+a hatch
+~
+hatch~
+1 0 6144
+D5
+~
+~
+0 0 6263
+S
+#6263
+At the Bottom of the Staircase~
+   The staircase comes to end in a dark, narrow hallway.  The hall is barren,
+cold, and empty.  There are no decorations of any kind, and no torches on the
+walls to provide light.  The stone floor is bare and filled with countless
+cracks.  The smell of death and decay permeates the cold, stale air.  The
+hallway continues to the east and west.    
+~
+62 32777 0 0 0
+D1
+~
+~
+0 0 6272
+D3
+~
+~
+0 0 6264
+D4
+~
+~
+0 0 6262
+S
+#6264
+A Dark Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, and no torches on the walls to provide light.  The stone floor is bare
+and filled with countless cracks.  The smell of death and decay permeates the
+cold, stale air.  The hallway continues to the east and west.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6263
+D3
+~
+~
+0 0 6265
+S
+#6265
+A Dark Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, and no torches on the walls to provide light.  The stone floor is bare
+and filled with countless cracks.  The smell of death and decay permeates the
+cold, stale air.  The hallway continues to the east.  A small room is visible
+to the west.    
+~
+62 32781 0 0 0
+D1
+~
+~
+0 0 6264
+D3
+~
+~
+0 0 6266
+S
+#6266
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.  A large column stands to the west.    
+~
+62 32777 0 0 0
+D0
+~
+~
+0 0 6267
+D1
+~
+~
+0 0 6265
+D2
+~
+~
+0 0 6271
+S
+#6267
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+62 32777 0 0 0
+D2
+~
+~
+0 0 6266
+D3
+~
+~
+0 0 6268
+S
+#6268
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+62 32777 0 0 0
+D1
+~
+~
+0 0 6267
+D2
+~
+~
+0 0 6269
+S
+#6269
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+62 32777 0 0 0
+D0
+~
+~
+0 0 6268
+D2
+~
+~
+0 0 6270
+D3
+A massive stone slab.
+~
+slab stone massive~
+2 6280 6280
+S
+#6270
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+62 32777 0 0 0
+D0
+~
+~
+0 0 6269
+D1
+~
+~
+0 0 6271
+S
+#6271
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+62 32777 0 0 0
+D0
+~
+~
+0 0 6266
+D3
+~
+~
+0 0 6270
+S
+#6272
+A Dark Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, and no torches on the walls to provide light.  The stone floor is bare
+and filled with countless cracks.  The smell of death and decay permeates the
+cold, stale air.  The hallway continues to the west.    
+~
+62 32777 0 0 0
+D1
+~
+~
+0 0 6273
+D3
+~
+~
+0 0 6263
+S
+#6273
+The Dungeon~
+   Few are brave enough to enter the dungeon of the tower.  Those who do enter
+rarely live to speak of what they have seen.  The air is heavy and dank.  The
+foul smell of death fills the air.  The stone walls are cracked and covered
+with moss, in sharp contrast to the rest of the tower.    
+~
+62 105 0 0 0
+D0
+~
+~
+0 0 6274
+D1
+~
+~
+0 0 6276
+D2
+~
+~
+0 0 6278
+D3
+~
+~
+0 0 6272
+S
+#6274
+The Dungeon~
+   Few are brave enough to enter the dungeon of the tower.  Those who do enter
+rarely live to speak of what they have seen.  The air is heavy and dank.  The
+foul smell of death fills the air.  The stone walls are cracked and covered
+with moss, in sharp contrast to the rest of the tower.    
+~
+62 105 0 0 0
+D2
+~
+~
+0 0 6273
+S
+#6275
+A Cell~
+   The cell is dark and cramped.  Large chains are mounted to the walls and
+appear sturdy enough to hold even the largest minotaur.  The dirt floor is
+strewn with old skeletons, persumably former inhabitants of this cell.  The
+stench of filth permeates the air.    
+~
+62 105 0 0 0
+D2
+~
+~
+0 0 6276
+S
+#6276
+The Dungeon~
+   Few are brave enough to enter the dungeon of the tower.  Those who do enter
+rarely live to speak of what they have seen.  The air is heavy and dank.  The
+foul smell of death fills the air.  The stone walls are cracked and covered
+with moss, in sharp contrast to the rest of the tower.    
+~
+62 105 0 0 0
+D0
+~
+~
+0 0 6275
+D1
+~
+~
+0 0 6279
+D2
+~
+~
+0 0 6277
+D3
+~
+~
+0 0 6273
+S
+#6277
+A Cell~
+   The cell is dark and cramped.  Large chains are mounted to the walls and
+appear sturdy enough to hold even the largest minotaur.  The dirt floor is
+strewn with old skeletons, persumably former inhabitants of this cell.  The
+stench of filth permeates the air.    
+~
+62 105 0 0 0
+D0
+~
+~
+0 0 6276
+S
+#6278
+The Dungeon~
+   Few are brave enough to enter the dungeon of the tower.  Those who do enter
+rarely live to speak of what they have seen.  The air is heavy and dank.  The
+foul smell of death fills the air.  The stone walls are cracked and covered
+with moss, in sharp contrast to the rest of the tower.    
+~
+62 105 0 0 0
+D0
+~
+~
+0 0 6273
+S
+#6279
+A Cell~
+   The cell is dark and cramped.  Large chains are mounted to the walls and
+appear sturdy enough to hold even the largest minotaur.  The dirt floor is
+strewn with old skeletons, persumably former inhabitants of this cell.  The
+stench of filth permeates the air.    
+~
+62 105 0 0 0
+D3
+~
+~
+0 0 6276
+S
+#6280
+A Crypt~
+   The air in the crypt is chilling, sending shivers down the spine of all who
+enter.  The stench of death and decay are overwhelming.  The deafening silence
+is interrupted only by the sound of the wet gravel floor crunching under foot.
+A large tomb stands at the back of the room.  The stone of the tomb is carved
+with runes which have been worn over the years and are now completely
+illegible.    
+~
+62 32809 0 0 0
+D1
+A massive slab of stone.
+~
+slab stone massive~
+1 6280 6269
+S
+#6281
+The Tower Shop~
+   This shop supplies the magic users with many of their needs.  The shelves
+are filled with strange and wondrous items from all over the face of Krynn.  
+Beakers, bubbling over with strange and noxious liquids, are scattered across
+the counter that runs along the back wall of the shop.  A window in the western
+wall opens up to the gardens below.  Attached to the sill is a flower box
+filled with several different plants.  From their pungent aroma, it would seem
+that at least the majority of the plantings are herbs.    
+~
+62 32780 0 0 0
+D1
+~
+~
+0 0 6198
+S
+T 6200
+T 6201
+T 6202
+#6286
+At the Bottom of a Staircase~
+   A spiral staircase begins here, winding its way up through one of the
+smaller towers.  The stone steps can be difficult to climb as they are worn in
+the center from the countless mages who have tread upon them.  The stairs cling
+to the wall around the open, hollow center of this tower.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6287
+D4
+~
+~
+0 0 6195
+S
+#6287
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  The
+hallway continues on to the east and west.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6288
+D3
+~
+~
+0 0 6286
+S
+#6288
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  The
+hallway continues on to the east and west.  A doorway is visible to the north
+and south.    
+~
+62 32776 0 0 0
+D0
+~
+~
+0 0 6188
+D1
+~
+~
+0 0 6289
+D2
+~
+~
+0 0 6189
+D3
+~
+~
+0 0 6287
+S
+#6289
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  The
+hallway continues to the west.  The central stairwell lies to the east.    
+~
+62 32776 0 0 0
+D1
+~
+~
+0 0 6190
+D3
+~
+~
+0 0 6288
+S
+#6290
+A Room of Swirling Shadows~
+   This room is cast in shadows.  There are no windows and the walls and
+ceiling are smudged in soot from the torches which line the walls.  A few low
+benches offer places for mages to sit and converse on various topics.  One wall
+is fixed with shelves which hold hundreds of scrolls.  The air here is thick
+with the smell of magic components and the faint tinge of wood smoke.    
+~
+62 220 0 0 0
+S
+T 6203
+T 6200
+T 6201
+#6291
+A Private Study~
+   The room is a reasonable size, allowing an individual within to walk freely
+without any discomfort.  A small window is placed on the opposite wall from the
+door, allowing light to shine in the room during the day.  A desk and chair is
+located off to one side of the room while a small bed and wardrobe fill the
+other side.  Aside from the small glowing orb of light hovering above the desk,
+everything seems rather quaint and cozy.  The floor, walls, and ceilings are
+rather bare although the faint scent of rose petals and spices fill the air.  
+~
+62 12 0 0 0
+D3
+~
+~
+0 0 6195
+S
+#6292
+A Private Study~
+   The room is a reasonable size, allowing an individual within to walk freely
+without any discomfort.  A small window is placed on the opposite wall from the
+door, allowing light to shine in the room during the day.  A desk and chair is
+located off to one side of the room while a small bed and wardrobe fill the
+other side.  Aside from the small glowing orb of light hovering above the desk,
+everything seems rather quaint and cozy.  The floor, walls, and ceilings are
+rather bare although the faint scent of rose petals and spices fill the air.  
+~
+62 12 0 0 0
+D1
+~
+~
+0 0 6195
+S
+#6293
+A Private Study~
+   The room is a reasonable size, allowing an individual within to walk freely
+without any discomfort.  A small window is placed on the opposite wall from the
+door, allowing light to shine in the room during the day.  A desk and chair is
+located off to one side of the room while a small bed and wardrobe fill the
+other side.  Aside from the small glowing orb of light hovering above the desk,
+everything seems rather quaint and cozy.  The floor, walls, and ceilings are
+rather bare although the faint scent of rose petals and spices fill the air.  
+~
+62 12 0 0 0
+D3
+~
+~
+0 0 6197
+S
+#6294
+A Private Study~
+   The room is a reasonable size, allowing an individual within to walk freely
+without any discomfort.  A small window is placed on the opposite wall from the
+door, allowing light to shine in the room during the day.  A desk and chair is
+located off to one side of the room while a small bed and wardrobe fill the
+other side.  Aside from the small glowing orb of light hovering above the desk,
+everything seems rather quaint and cozy.  The floor, walls, and ceilings are
+rather bare although the faint scent of rose petals and spices fill the air.  
+~
+62 12 0 0 0
+D1
+~
+~
+0 0 6197
+S
+$~

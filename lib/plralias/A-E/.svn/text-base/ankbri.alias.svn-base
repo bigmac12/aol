@@ -1,0 +1,55 @@
+2
+dr
+24
+unsheath pommel scabbard
+0
+2
+sh
+22
+sheath pommel scabbard
+0
+3
+app
+110
+approve $*; force $* display all; force $* autoexits; force $* color complete; force $* intro; force $* subdue
+1
+2
+li
+14
+look in corpse
+0
+2
+af
+3
+aff
+0
+1
+t
+18
+take all $*.corpse
+1
+4
+calm
+6
+c calm
+0
+3
+mch
+12
+vstat mob $*
+1
+2
+ch
+12
+vstat obj $*
+1
+4
+find
+11
+vnum obj $*
+1
+5
+mfind
+11
+vnum mob $*
+1

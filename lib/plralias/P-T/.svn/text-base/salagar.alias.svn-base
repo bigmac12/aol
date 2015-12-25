@@ -1,0 +1,300 @@
+2
+aa
+11
+ass arekina
+0
+2
+ra
+12
+resc arekina
+0
+1
+x
+19
+st ; mount stallion
+1
+4
+kill
+26
+say I'll kill you, Suckah!
+0
+7
+spellup
+22
+c bles $* ; c stren $*
+1
+3
+str
+10
+c stren $*
+1
+6
+summon
+166
+remo wind ; get doorframe wind ; remo blackened.shield ; hold doorframe ; c summon $* ; remo doorframe ; wear blackened.shield ; put doorframe wind ; hang wind girdle
+1
+4
+word
+6
+c word
+0
+2
+cp
+8
+c prayer
+0
+3
+gbp
+14
+get bread wind
+0
+2
+eb
+9
+eat bread
+0
+1
+2
+18
+put all.bread wind
+0
+1
+1
+12
+buy 10 bread
+0
+1
+4
+36
+remo khanjar ; wear blackened.shield
+1
+1
+3
+36
+remo blackened.shield ; hold khanjar
+1
+2
+am
+8
+ass mage
+0
+2
+om
+13
+order mage $*
+1
+1
+;
+11
+chat &R$*&n
+1
+2
+wp
+16
+hang wind girdle
+0
+2
+af
+8
+ass form
+0
+2
+ce
+15
+control eyewing
+0
+2
+ae
+11
+ass eyewing
+0
+2
+oe
+16
+order eyewing $*
+1
+2
+fl
+12
+c flamest $*
+1
+3
+lis
+12
+look in sack
+0
+2
+ao
+8
+ass form
+0
+2
+oo
+13
+order form $*
+1
+2
+cf
+12
+control form
+0
+2
+og
+15
+order gholor $*
+1
+2
+ag
+10
+ass gholor
+0
+2
+cg
+14
+control gholor
+0
+2
+st
+72
+remo bone ; wear bracers ; remo platinum.ring ; wear claw.sapphires ; st
+1
+3
+res
+74
+remo bracers ; wear bone ; remo claw.sapphires ; wear platinum.ring ; rest
+1
+6
+dispel
+13
+c disp-mag $*
+1
+2
+as
+10
+ass stahnk
+0
+2
+ks
+13
+c caus-sev $*
+1
+2
+cs
+14
+control stahnk
+0
+2
+os
+15
+order stahnk $*
+1
+2
+cc
+14
+control corpse
+0
+2
+ac
+10
+ass corpse
+0
+2
+oc
+15
+order corpse $*
+1
+2
+ms
+13
+c mag-ston $*
+1
+2
+ob
+14
+order blood $*
+1
+2
+av
+30
+order followers Assist Salagar
+0
+2
+of
+18
+order followers $*
+1
+2
+aw
+10
+ass wraith
+0
+2
+ow
+15
+order wraith $*
+1
+5
+tiger
+24
+get tiger wind ; q tiger
+1
+2
+dg
+16
+c dispel-good $*
+1
+2
+km
+13
+c caus-mod $*
+1
+2
+kl
+12
+c caus-li $*
+1
+2
+bl
+9
+c bles $*
+1
+2
+rp
+9
+remo wind
+0
+3
+lip
+12
+look in wind
+0
+6
+unlock
+19
+unlock $* ; open $*
+1
+1
+z
+7
+l guard
+0
+2
+sc
+4
+scan
+0
+2
+sk
+11
+skin corpse
+0
+4
+drin
+9
+drin skin
+0
+3
+gac
+18
+get all all.corpse
+0

@@ -1,0 +1,55 @@
+CircleMUD v3.0 Shop File~
+#7675~
+7449
+-1
+1.00
+0.60
+12map
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+7438
+0
+7675
+-1
+0
+28
+0
+0
+1
+38
+#7699~
+-1
+1.00
+1.00
+12magecomp
+8
+14
+-1
+%s Are you MAD?  If you don't see it, it isn't here!  Well, usually that's the case...~
+%s Have you made it invisible?  No?  Then don't try to sell it to me, you nincompoop.~
+%s I don't BUY useless things, I make and sell them!  No, wait, that's not quite it...~
+%s Do I look like the sort who carries MONEY around?~
+%s Left your money pouch in your other robes you say?  Pah.  Begone.~
+%s That will be %s, thank you very much.  An item of peerless worth, I assure you.~
+%s I'll give you %s for that, but I warn you the money is cursed.  So there.~
+0
+0
+7699
+0
+7699
+-1
+0
+28
+0
+0
+1
+38
+$~

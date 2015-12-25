@@ -1,0 +1,120 @@
+2
+ds
+10
+drink skin
+0
+2
+hw
+15
+hang bag girdle
+0
+1
+1
+8
+as arlon
+0
+2
+bu
+24
+unsheath rapier scabbard
+0
+3
+bsh
+22
+sheath rapier scabbard
+0
+2
+wk
+9
+c weak $*
+1
+3
+arm
+10
+c armor $*
+1
+3
+fls
+11
+c flames $*
+1
+2
+cb
+15
+c cure-blind $*
+1
+2
+bl
+10
+c bless $*
+1
+3
+mst
+14
+c magical-s $*
+1
+2
+dm
+13
+c dispel-m $*
+1
+3
+str
+8
+c str $*
+1
+3
+arr
+59
+rem wind; get warrant wind; hang wind belt; give warrant $*
+1
+2
+sh
+26
+sheath broadsword scabbard
+0
+2
+dr
+23
+unsheath sword scabbard
+0
+3
+sal
+60
+em briefly salutes the other present knight as he passes by.
+0
+3
+dis
+9
+disarm $*
+1
+3
+res
+9
+rescue $*
+1
+1
+f
+4
+flee
+0
+1
+b
+7
+bash $*
+1
+1
+2
+4
+bash
+0
+4
+skin
+11
+skin corpse
+0
+1
+t
+17
+get all $*.corpse
+1

@@ -1,0 +1,70 @@
+5
+pouch
+35
+remove belt;put$* in belt;wear belt
+1
+6
+recall
+60
+remove belt;take swirling from belt;quaff swirling;wear belt
+1
+6
+detinv
+122
+em raises his hands to his eyes, concentrating. He speaks the words, &W'&MTsaran korilath ith shirak dulak.&W'&N;c det-inv
+1
+12
+changeformal
+147
+remove pack;remove brown;remove shirt;put brown in pack;put shirt in pack;take tunic from pack;take dusky from pack;wear tunic;wear dusky;wear pack
+1
+12
+changenormal
+147
+remove pack;remove dusky;remove tunic;put dusky in pack;put tunic in pack;take shirt from pack;take brown from pack;wear shirt;wear brown;wear pack
+1
+3
+mir
+231
+em brings his hands in toward his chest, concentrating. As he slowly moves them outward, he utters the words, '&MAst bilak mioparalan!&N';c mir;em brings his hands outward slowly as images of himself slide off his person with them.
+1
+7
+mobkill
+79
+c arm;c mir;c chi $*;c burn;c burn;c chi;c chi;c chi;take all corpse;rest;score
+1
+7
+restore
+90
+take all corpse;wear all;take all corpse;wear all;take all corpse;wear all;take all corpse
+1
+5
+blur2
+186
+em focuses his attention, bringing his arms to his side. Wavering his body left and right, he extends his hands, crossed, toward$*, and utters the words '&MKhetsaram pakliol!&N';c blur$*
+1
+4
+blur
+118
+em wavers his body slightly to one side, then the other, crossing his arms and saying, '&MKhetsaram pakliol!&N';c blur
+1
+14
+restockrations
+135
+remove pack;buy 6 rations;put all.rations in pack;buy 6 rations;put all.rations in pack;buy 6 rations;put all.rations in pack;wear pack
+1
+10
+eatrations
+126
+remove pack;take rations from pack;take rations from pack;take rations from pack;eat rations;eat rations;eat rations;wear pack
+1
+12
+lunchrations
+49
+buy 3 rations;eat rations;eat rations;eat rations
+1
+4
+loot
+17
+take all $*corpse
+1

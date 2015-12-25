@@ -1,0 +1,135 @@
+CircleMUD v3.0 Shop File~
+#9900~
+10012
+-1
+1.00
+0.00
+-1
+%s Is it a warrant you want?~
+%s You don't seem to have that.~
+%s I am a Knight of Solamnia not a shopkeeper.~
+%s I can't afford that!~
+%s You are too poor!~
+%s One arrest warrant, fill in the charges and post on the crime board once they have been arrested.~
+%s~
+0
+2
+10017
+62
+9913
+-1
+0
+28
+0
+0
+1
+38
+#9967~
+10194
+10193
+10133
+9902
+9903
+10046
+10030
+10031
+10032
+10033
+10034
+10035
+10089
+10071
+10072
+10018
+10052
+10061
+10006
+10007
+10047
+-1
+1.25
+0.50
+1
+2
+8
+10
+9robe
+9robes
+9leather
+9bracelet
+9hood
+9cowl
+9cloak
+11cloak
+11hood
+11cowl
+11bracelet
+11leather
+11robe
+11robes
+9pendant
+5mace
+5flail
+5staff
+5quarterstaff
+11paladine
+11mishakal
+11majere
+11Kiri-Jolith
+11kiri
+11habbakuk
+11branchala
+11gilean
+11sirrion
+11reorx
+11chislev
+11zivilyn
+11shinare
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+3
+9907
+0
+9967
+-1
+0
+28
+0
+0
+1
+18
+#9971~
+-1
+1.00
+0.90
+11towel
+12soap
+12bath
+12oil
+-1
+%s Wow, it doesnt look like I have that, whatd you say you wanted?~
+%s Hmm? What was that?~
+%s Not here, this is just a bath!~
+%s Sorry, Im out of money!  Come back after ive gone to the bank.~
+%s Im sorry but you have to be able to pay for it!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+9970
+0
+-1
+0
+28
+0
+0
+1
+38
+$~

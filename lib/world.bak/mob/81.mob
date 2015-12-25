@@ -1,0 +1,595 @@
+#8100
+Hazel shopkeep~
+Hazel the shopkeep~
+Hazel stands at the counter eyeing you intently.
+~
+   Hazel is robed in beautiful ruby red velvet robes.  She is a small young
+looking woman possibly half-elven judging from her features.  A large pouch
+hangs from a pouch at the golden rope belt around her waist.  She looks at you
+with interest as a peculiar smile comes across her face, as if she knows
+something about you that you don't.    
+~
+10 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 2 0
+E
+#8101
+Apax dwarf dwarven shopkeep~
+Apax~
+Apax stands at the counter waiting to serve you.
+~
+   Apax a dwarven expert in gems wears a smile as bright as the stones he
+sells.  He is richly dressed in a maroon colored suit and polished black
+leather boots.  His long well kept flowing beard nearly reaches the buckle of
+his belt.    
+~
+8 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 1 0
+E
+#8102
+Ardain book keeper~
+Ardain~
+The book-keeper, Ardain, is behind the counter, studying a paper intently.
+~
+   A thin man, in the middle of his short human years, Ardain the book-keeper
+is both hard and calculating as the sums he tallies.  His bald head is ringed
+with dark curls, and his eyes hide behind a pair of thick, low-perched
+spectacles that only seem to magnify his perpetual hard stare.  Dressed in
+clothing twenty years out of date, it is obvious this man has little desire or
+need to change.    
+~
+256027 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000 300000 0
+8 8 1 4
+BareHandAttack: 11
+E
+T 8102
+#8103
+gwenda barkeep barmaid ~
+the barmaid~
+The barmaid stands here awaiting your order.
+~
+   The beautiful and voluptuous barmaid is cloathed in a rather revealing dress
+and wears a short appron about her waist.  She is tall and muscular for a
+woman, but still very feminine and alluring.  Her thick raven black hair falls
+down to her waist and is adorned with a braid and seashells.    
+~
+18458 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 2 0
+E
+#8104
+Horace innkeep innkeeper ~
+Horace the innkeeper~
+Horace the innkeeper is standing here waiting to show you to a room.
+~
+   Horace is richly dressed in a nice suit befitting an innkeeper of such a
+nice inn in a large town such as Istar.  He is a large clean cut looking man,
+his hair short and face clean shaved.  He wears an amiable smile and seems good
+natured.    
+~
+16411 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 1 3
+E
+#8105
+teller bank weary~
+a weary bank teller~
+A weary bank teller sits in front of a massive safe.
+~
+   The lady wearily smiles at you as glance at her.  The long hours she has to
+work here are starting to take their toll on her.  Frown lines cover her face.
+  
+~
+11 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+6 6 2 4
+E
+#8106
+Kahill~
+Kahill~
+Kahill, the director of the chamber, stands behind the counter, with a welcoming smile.
+~
+   Kahill is a tall man of about average build.  He appears to take his job
+very seriously.  He wanders about the office reviewing all of the information
+from the citizens and local merchants.    
+~
+10 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1900 250000 0
+8 8 0 0
+E
+#8107
+Stefan postmaster~
+Stefan~
+Stefan, the postmaster, stands behind the counter looking eager to help.
+~
+   This tall, well-buit man has wavy blonde hair and bright blue eyes.  He
+wanders behind the counter, sorting through large stacks of mail while
+whistling a quiet tune to himself.    
+~
+15982618 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 1
+E
+#8118
+announcer man sign~
+the announcer~
+A man wearing two wooden signs around his body is here, advertising the play.
+~
+   This young man must of needed work pretty bad to do this job.  He has to
+attract attention by wearing two wooden signs advertising the play, all while
+shouting about the play.  The young man is a little shorter than most people,
+but he hasn't finished growing yet.  His voice more than makes up for it
+though, it is loud enough to be heard over large crowds.    
+~
+1228814 33685504 0 600 E
+25 5 -9 3d33+850 4d6+8
+0 87000 0
+8 8 1 5
+E
+T 8125
+#8119
+actress woman middle aged~
+a middle aged actress~
+A middle aged woman is resting here, getting a drink of water.
+~
+   This woman appears to be the one with the most experience, even though she
+is younger than the man that goes in the silver dragon costume.  She sits on
+the floor cross legged, resting before the next show.  Her brown hair is a
+little longer than shoulder length.  She has the vest part of her costume open,
+revealing a light brown tunic underneath.    
+~
+7600138 33719296 0 0 E
+30 0 -14 3d33+1700 6d10+20
+0 250000 0
+5 5 2 0
+E
+#8120
+Boyd usher~
+Boyd~
+Boyd, the usher, stands by the theater doors.
+~
+   This man doesn't seem to be old enough to shave.  He does seem to be doing a
+pretty good job though.  He looks a little tall for his age, standing a little
+taller than many of the adults.  He seems very energetic, he isn't tired after
+ushering in large crowds.    
+~
+1302538 33828864 0 600 E
+30 0 -20 0d0+9999 5d25+20
+0 1 0
+8 8 1 0
+BareHandAttack: 6
+E
+T 8119
+#8121
+takhisis female actress ptak~
+Takhisis~
+A very unintimidating Takhisis is here, flying in the air.
+~
+   The entire costume stands more than a foot taller than the Huma actor.  The
+top of the costume, like the silver dragon costume, is made from light wood
+frames and covered with painted cloth.  The five heads of Takhisis sits on the
+actress' shoulders.  The center head has a hole in the neck, allowing the
+actress inside to breath and be heard.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 2 0
+BareHandAttack: 6
+E
+#8122
+Huma actor phuma loser~
+Huma~
+Huma is riding on the silver dragon, his armor gleaming in the light.
+~
+   Any real details about this man are hard to tell, his body is covered with
+armor.  The armor is definately not what the real Huma would wear to battle, it
+is overly ornate and has many things a sword would catch on.  The Dragonlance
+that he carries is actually just a dulled spear with a painted shaft.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 1 0
+BareHandAttack: 6
+E
+#8123
+narrator nar pnar orran~
+Orran, the narrator~
+Orran, the narrator, sits off stage, partially hidden by curtains.
+~
+   The details in the features of this man are hidden by curtains and distance.
+When his head moves, there is occasonally a flash of light, so it is save to
+assume that he is wearing glasses.  He appears to be thin.  His hair is dark,
+but it is hard to tell if it is brown or black.  It looks like there is a book
+sitting in his lap, probably the script to the play, or maybe a book to read
+while the actors play out their part.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 1 0
+BareHandAttack: 6
+E
+#8124
+actor huma nervous~
+a nervous looking actor~
+An actor stands here, his knees shaking slightly.
+~
+   This young man is new to acting and still isn't used to the crowd.  He is
+the one that plays Huma, and is known to make mistakes from time to time.  He
+doesn't have all of his armor on, making it easy to see how small he really is.
+His dirty blonde hair is wet with sweat, partially from running around the
+stage, and partially out of stage fright.    
+~
+1308682 33554432 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 0
+E
+#8125
+man muscular middle aged~
+a muscular man~
+A muscular man leans against the wall, getting some rest.
+~
+   This man appears to be the one under the silver dragon, he still has a pair
+of boots on that look like the feet of a silver dragon.  He supports the body
+of the dragon and runs behind the younger man that plays Huma.  His skin is
+darkly tanned and his dark brown hair is starting to thin out.    
+~
+1308682 33554432 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 0
+E
+#8126
+calvin shopkeeper~
+Calvin~
+Calvin is here inspecting some new items he bought.
+~
+   Just like the room he's in, Calvin seems out of place in this shop.  He is
+dressed in plain brown clothing and his face has a few dirt marks.  His face
+has a few hairs growing on it, but he is still to young for a beard.  Dana
+hired this young man for three reasons, he is nice, polite, and he and his
+family needed the money.  The items he sells are items that Dana prefers not to
+work with.    
+~
+7593998 33685504 0 600 E
+30 1 -14 3d33+1700 4d8+9
+1000000 0 0
+8 8 1 0
+E
+#8127
+notro shopkeeper~
+Notro~
+Notro stands here, carefully straightening out the items in the shop.
+~
+   This man appears to be a cleric of Paladine, he has the white robes and the
+silver triangle symbol on.  The robes he wears are decorated with gold, enough
+to give a poor family a few good meals if it was sold.  He greets his customers
+with a friendly smile.  He appears to just be entering the later parts of his
+life.  His brown hair is turning grey, his face is starting to show wrinkles.
+  
+~
+8118282 33685504 16400 850 E
+30 1 -14 3d33+3000 4d8+9
+99999 0 2
+8 8 1 0
+BareHandAttack: 7
+E
+#8128
+dana shopkeeper~
+Dana~
+Lady Dana sorts through her stock, arranging them onto color-coordinated racks.
+~
+   This woman has entered the middle half of her life yet she still looks, and
+acts, like she was young.  Her blonde hair is kept in a bun behind her head,
+although, her hair style is known to change when she's not in the shop.  The
+only hints at her age are small marks around her eyes and mouth. Her body is
+fit, she keeps it that way so she can show off her latest products.  The dress
+she wears is made to fit her body.  Across the white dress are green
+stitchings in the form of leaves.    
+~
+7593994 33685504 0 850 E
+30 1 -14 3d33+1700 4d8+9
+1000000 0 0
+8 8 2 0
+E
+#8129
+kordson shopkeeper kord~
+Kordson, the owner of The Smith's Shop~
+Kordson proudly displays his wears here, seemingly unaffected by the heat.
+~
+   This man almost looks like a very large dwarf, or maybe a short, hornless,
+and less furry minotaur, without the bovine features of course.  He stands a
+head taller than most people.  His arms are massive from swinging the heavy
+hammer onto the metal.  His skin is a dark brown color with some black marks on
+it, from the fires in the forge.  His head is completely bald, either because
+he shaved it off, or because the heat burned it off.    
+~
+7593994 33685504 0 0 E
+30 1 -14 3d33+5000 6d16+20
+1000000 0 0
+8 8 1 0
+E
+#8130
+longshoreman man long shore muscular~
+a muscular longshoreman~
+A muscular longshoreman carries crates from a recently docked vessel.
+~
+   This young man hurries busily from one vessel to the next, unloading cargo
+and bringing it to its destination here in Istar.  Unlike many port cities,
+Istar does not have any warehouses within its walls to clutter its lovely
+lakefront.  Therefore, a great many longshoreman are kept employed to be sure
+that cargo is speedily processed and delivered.  The muscles of this man allow
+him to carry several crates at a time, speeding his deliveries.    
+~
+24588 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#8140
+jailer head guard istar~
+the head jailer~
+The head jailer stands here smiling cheerfully.
+~
+   This man is the head jailer of the city of Istar.  Being the superior
+officer means many things to this man, the most important of which is that he
+has subordinates to do all the real work of running the jail for him.  This
+leaves him free to do as he wishes, and he usually wishes to do as little as
+possible.    
+~
+1048650 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 3
+8 8 1 0
+E
+#8141
+jailer assistant concerned blond man~
+the assistant jailer~
+The assistant jailer stand here with a concerned look on his face.
+~
+   This blond haired man with a concerned look on his face is the assistant
+jailer.  While he dose not have the title on Head Jailer he is the one who does
+most of the Head Jailer's work.  He glances at you and nods then mutters
+something you couldn't quite catch.    
+~
+65630 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 3
+8 8 1 0
+E
+#8142
+cook jailhouse smelly apron man~
+the jailhouse cook~
+The jailhouse cook stands here wearing a smelly apron.
+~
+   This man is not someone you would want to have to see either right before a
+meal or while trying to eat.  A smelly and stained apron that might possibly
+have been white at one time is all the he wears from the waist up.  Long matted
+hair sticks out at odd angles from his armpits.  His thick brushy eyebrows seem
+to run straight across his head then turn down his cheeck trying to become a
+beard which then creeps up under and into his nose which sports its own set of
+crusted looking hair.    
+~
+94 32 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 0
+E
+#8143
+mother overly protective worried~
+an overly protective and worried mother~
+An overly protective mother stands here worrying about her son.
+~
+   This woman is the bane off all children.  She is definitely certain that her
+chubby little child will one day turn to a life of crime and laziness instead
+of going out and getting an honest job like shoemaking.  In an effort to
+prevent this horrible thing from happening too quickly though she has brought
+the child to the local jailhouse to allow the head jailer to try to scare him
+into leading a lawabiding life.    
+~
+30 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 2 0
+E
+#8144
+child small chubby~
+a small chubby child~
+A small chubby child stands here looking slightly embarassed.
+~
+   This small child is obviously the progeney of a mother who is very concerned
+that her son might someday commit some vile and evil crime like being late for
+school.  She has dragged him to the local jail to let the jailers hopefully
+scare the child into being good.  From the bored and embarrassed look on the
+child's face it dose not seem to be working very well.    
+~
+78 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+E
+#8145
+man scrawny young~
+a scrawny young man~
+A scrawny young man looks at you and scowls.
+~
+   This young man is just about skin and bones from a lack of proper nutrition.
+His face shows that he is not very old, but the eyes sitting in that face look
+like they have already seen a lifetime.  Apparently he is one of the homeless
+wanderers who thought that he could make a living in Istar by stealing from
+those better off then he was.  Seemingly he needs to go back and practice his
+thieving skills though because he is now currently a prisioner in here.    
+~
+79 32 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 4
+8 8 1 6
+E
+#8146
+female scrawny young~
+a scrawny young female~
+A scrawny young female stands here with a tear streaked face.
+~
+   This young lady looks at you quickly as you enter her cell then just as
+quickly looks away in an attempt to hide her tear streaked face.  Her young
+angular body is covered by only the flimsiest of cheap robes which have been
+dyed in very bright colors.  You are unable to decide if black is her natural
+hair color or if it is just so filled with dirt as to look like it is black.  
+
+~
+79 0 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 4
+8 8 2 6
+E
+#8147
+man scowl dark fierce~
+a man in dark clothes with a fierce scowl~
+A man wearing dark clothes with a fierce scowl across his face glares at you angrily.
+~
+   This man is covered from the neck down with jet black clothing which covers
+almost all of his skin.  The little bit of skin which remains visible is on his
+face where a multitude of scars give it a pale complexion.  Staring out from
+that ghastly looking face are two blood red eyes that seem like they would
+drive straight into your soul and kill you if they could.    
+~
+1106042 33587200 0 0 E
+19 9 -3 3d20+410 3d6+6
+0 17000 3
+8 8 1 0
+E
+#8150
+unfinished~
+a young lithe thief~
+A young lithe elf, apprentice to a little-known master, stands here.
+~
+   This thief looks rather young, but is rumored to be apprenticed to the
+master himself.  He is graceful in his movements and very slim, able to move
+into small cracks and niches.  He has a charming smile, and uses it often to
+get his way.    
+~
+10 0 0 -400 E
+10 18 5 1d1+0 1d1+1
+0 0 0
+8 8 1 0
+E
+#8180
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 2 3
+BareHandAttack: 6
+E
+#8191
+Gwennyth Gwenn Gwen barkeep shopkeeper bartender~
+Gwennyth~
+Gwennyth, the Barkeep, polishes the bar waiting for drink orders.
+~
+   Noticing your attention, Gwennyth looks up from her work.  Her generous red
+lips part in a wide smile as she looks back at you with large, round eyes of
+deepest emerald.  Her chestnut hair is pulled back from her face, though a few
+loose curls fall across her forehead.  She constantly scans the bar, looking
+for empty glasses and working the room.  One minute she is laughing at a crude
+joke, the next she is discussing the politics of eastern Ansalon.    
+~
+15982618 33685504 0 0 E
+31 -30 -15 30d99+2000 30d127+50
+99999 300000 0
+8 8 2 0
+BareHandAttack: 6
+E
+#8193
+woman young pale dark circles~
+a pale young woman with dark circles under her eyes~
+A pale young woman watches the front door as if she is waiting for someone to arrive.
+~
+   This young woman would be quite attractive if her face were not so drawn and
+pale.  She constantly runs her fingers through her hair, nervously pulling it
+back from her face as she watches the entrance to the inn with great interest.
+She leans heavily against the back of the booth appearing to be either very
+tired or a bit ill.  Despite her posture, her inner strength is evident in her
+deep blue eyes which are filled with both sorrow and compassion.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 2 0
+BareHandAttack: 6
+E
+T 8193
+T 8195
+T 8196
+T 8197
+#8194
+mob unfinished~
+a pale young woman~
+An unfinished mob stands here.
+~
+   Add a young woman who has family/town plagued by disease.  Needs a cure
+disease potion.  The group is so sick she refuses to take anyone, not even a
+cleric, to them.  Therefore must be a potion.    
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+#8196
+mage burgundy man nonchalantly robes~
+a mage in burgundy robes~
+A mage in burgundy robes walks nonchalantly through the olive grove.
+~
+   Walking nonchalantly around the olive grove, this individual keeps to
+himself, only noticing your presence with the slightest nod.  He is outfitted
+with an extensive, burgundy robe, which boasts silver lining to show eldership
+within the tower.  His hand gestures are somewhat organic compared to those
+taught in other towers.  He carries a few books with him.  One of which is clad
+black binding with a red string used as a page holder.  Another is bound with a
+golden cover.    
+~
+1761288 33554432 8388864 0 E
+28 2 -12 3d33+1250 4d7+9
+1682 175000 1
+8 8 1 0
+E
+#8199
+mage red robed hood looking~
+a red robed mage~
+A red robed mage walks by here, looking at you from beneath his hood.
+~
+   This man is dressed in the red robes of a mage, and being that he is walking
+through a grove of purported magic few would second guess it.  Other than his
+robes, he wears nothing visible that would place him as a mage.  As you near,
+he looks out from the depths of his hood, smiling slightly as if enjoying some
+private joke.    
+~
+581642 33792 65 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 1
+8 8 1 0
+BareHandAttack: 14
+E
+$

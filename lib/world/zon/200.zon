@@ -1,0 +1,17 @@
+#200
+Wayside Temples I~
+20099 30 2
+* ZoneState 1 -NONE- 111111111111111
+D 0 20000 0 1 	(Outside the Gates of an Abandoned Garden)
+D 0 20000 0 2 	(Outside the Gates of an Abandoned Garden)
+D 0 20007 0 1 	(The Inner Courtyard of an Abandoned Garden)
+O 0 20001 1 20007 	(a willow tree fountain)
+M 0 20000 1 20007 	(the griffon statue)
+M 0 20001 1 20007 	(the griffon statue)
+D 0 20024 9 1 	(Walking Within an Abandoned Garden)
+D 0 20019 9 1 	(Alongside the Rosevine Wall)
+D 0 20013 4 1 	(At the Base of a Large Chestnut Tree)
+D 0 20001 2 1 	(Inside the Entrance of an Abandoned Garden)
+D 0 20001 2 2 	(Inside the Entrance of an Abandoned Garden)
+S
+$

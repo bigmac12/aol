@@ -1,0 +1,1602 @@
+#6400
+A Broken, Uneven Cobblestone Path~
+   The pathway here is broken and uneven, with many of the stones missing
+completely, leaving only an empty hollow to mark where they once rested.  What
+remaining stones there are are badly cracked and chipped, and a few have sunken
+into the ground and protrude at odd angles, making walking difficult.  Off to
+the west, there seems to be a building of sorts, or at least the ruins of one.
+~
+64 0 4 0 0
+D1
+~
+~
+0 0 4254
+D3
+~
+~
+0 0 6401
+E
+hollow hollows~
+   This is an indentation in the earth, where a cobblestone was once placed to
+form a path.  The stone is now missing though, leaving only a gaping hole to
+mark where it was once laid.    
+~
+E
+building ruins~
+   You can't really make much out at all from this distance, really just a
+vague shadow that seems to resemble a structure of some sort.  Perhaps you
+should move closer to it for a better look.    
+~
+E
+stones cobblestones~
+   The stones are worn smooth around the edges and covered in grime and dirt.
+Looking closely, you can see that they are actually carved out of white marble,
+traced with faint veins of silver and gold.    
+~
+E
+pathway path~
+   The stone pathway is in a terrible state of disrepair, with cracked and
+filthy cobblestones sunken into the earth.    
+
+~
+S
+#6401
+A Badly Damaged Cobblestone Path~
+   The path leads to the west and east, its broken, cracked stones lay at odd
+angles to each other.  Many of the stones are missing altogether, leaving an
+empty hollow in the earth where they were placed.  The remaining stones are
+chipped and worn, and covered in layers of grime, dirt, and dust.    
+~
+64 0 4 0 0
+D1
+~
+~
+0 0 6400
+D3
+~
+~
+0 0 6402
+E
+cobblestones stones~
+   These stones were once chiseled of pure white marble, with silver and gold
+veins running through their depths.  They are now cracked and chipped, and
+covered in layers of dirt.    
+~
+E
+pathway path~
+   The pathway is in a tragic state of disrepair, with many of its stones
+missing or broken.    
+~
+S
+#6402
+A Wide Courtyard~
+   The stones here are laid out in a wide circle...Or rather, what probably
+once formed a circle.  Many of the stones are missing, and some of the others
+have sunken into the earth in places, making the courtyard very uneven.  
+Looking carefully at the stones, there are some that are darker than the
+others, as if they once formed some sort of pattern or mosaic.    
+~
+64 0 4 0 0
+D1
+~
+~
+0 0 6401
+D3
+~
+~
+0 0 6403
+E
+cobblestones stones~
+   The stones are badly damaged and worn, many either broken or chipped.  They
+are in a series of colors, ranging from the purest white marble to a deeper
+silver in hue.  The stones are placed into a pattern of sorts.    
+~
+E
+mosaic pattern~
+   Looking closely, the darker tiles are shaped into what appears to be the
+outline of a giant, winged dragon, its wings outstretched to cover the entire
+span of the courtyard.    
+~
+S
+#6403
+An Open Courtyard outside of a Ruined Building~
+   This is a wide open courtyard, the stones laid out in what was once probably
+a circle.  The remnants of what was a fountain stand in the center of the
+circle, though the majority of the fountain is shattered.  A pile of white
+rubble is all that's left of the statue that probably stood in its center, and
+the stones surrounding the fountain are stained a dark, muddy reddish color.  
+There is a building just west of here, up a flight of stairs.  The courtyard
+continues to the east, before it turns into a path.    
+~
+64 0 0 0 0
+D1
+~
+~
+0 0 6402
+D4
+~
+~
+0 0 6404
+E
+stairs stairway~
+   The stairs are chiseled from white marble, though most of them are cracked
+and worn.  They are covered in dust, and a thin trail of reddish liquid trails
+across their length.  Oddly enough, the trail seems fresh...    
+~
+E
+rubble statue~
+   The rubble is mostly a pile of white stones, with pieces of gold and silver
+scattered throughout.  Looking closely, one of the pieces of marble seems to
+resemble a piece of the statue's face, though all that remains is the eye, part
+of the forehead, and a cheekbone.  A single drop of water clings to the stone,
+just below the eye, and the eye itself has a sadness chiseled into it that
+seems too perfect for any mortal to have crafted.    
+~
+E
+stones cobblestones~
+   The stones are stained a dark, muddy reddish brown color.  It seems vaguely
+familiar, but you can't quite remember why...    
+~
+S
+#6404
+The Stairs Outside the Temple Ruins~
+   The stairs lead west, into the ruins of what once was a magnificent temple
+to the gods, and downwards towards a wide, open clearing.  Looking out, a thin
+cobblestone path winds eastwards, away from the temple, and a hollow scar-like
+red and white pile of rubble marks what was once a fountain.  Doors hang on
+broken hinges, leading into the Temple's ruined and ransacked interior.    
+~
+64 4 0 0 0
+D3
+~
+Temple Doors~
+1 0 6405
+D5
+~
+~
+0 0 6403
+E
+temple ruins~
+   This building is in a complete state of ruin and neglect.  Its doors are
+falling off, the stones are broken and shattered, and the entire structure is
+covered in dust and littered with debris.  A vaguely sweet, cloying scent
+drifts from the temple's interior, and while it's very familiar, you can't
+quite seem to place it...    
+~
+E
+door doors doorway~
+   The doors hang on broken hinges, and creak softly in the wind - almost as if
+the temple itself sighs and laments in agony.  The doors' faces are carved with
+beautiful woodcuttings and frescoes, showing a great dragon flying above elves
+and humans.  Many of the figures are gilded with gold leaf, and the dragon is
+traced in the palest shades of white and silver.  A deep cut above the dragon's
+breast is singed and charred, as if a dagger had cut into the wood and burned
+it.    
+~
+E
+stairs stairway~
+   The stairs lead down towards the courtyard.  A bright crimson streak runs
+down the stairs, forming a pool of liquid at the base of the stairs.    
+~
+S
+#6405
+Antechamber of a Ruined Temple~
+   The antechamber of what once was a great temple is now in ruins.  The doors
+leading east, into the courtyard, sag from their hinges at odd angles, and part
+of the roof has collapsed, lying in broken tiles on the temple floor.  The
+interior of the temple is covered in black soot, and ashes cover the one-white
+marble tiles of the polished floor.  The sickly-sweet scent of death and decay
+hangs heavily in the air, and a feeling of indescribeable evil permeades the
+place so thickly, it's an almost tangible force.    
+~
+64 8 0 0 0
+D1
+~
+Temple Doors~
+1 0 6404
+D3
+~
+~
+0 0 6406
+S
+#6406
+Hallway of a Ruined Temple~
+   A wide hallway cuts through the ruins of the fallen temple, leading both
+east and west.  Small rooms branch north and south of the hallway, though they
+are enshrouded in dust and shadows.  The pews running alongside the hallway lie
+in pieces, smashed and broken into piles of timber.  The hallway of the temple
+is covered with a thick layer of soot, and burn marks climb along one wall of
+the temple's badly damaged interior.  The smell of death and decay lingers
+heavily, mingling with the coppery scent of blood and the acrid smoke of a
+long- forgotten fire.    
+~
+64 8 0 0 0
+D0
+~
+~
+0 0 6408
+D1
+~
+~
+0 0 6405
+D2
+~
+~
+0 0 6407
+D3
+~
+~
+0 0 6409
+S
+#6407
+Narthex of a Ruined Temple~
+   This shadowy alcove is a small narthex off the main temple hallway.  There
+is precious little light here, so it is difficult to make much out in the
+shadows.  On the southern wall, there is a niche in the wall with a vague,
+shadowy figure within, perhaps a statue or sculpture.  A brazier lies on the
+floor, turned over and smashed into a dented heap of gold and incense.    
+~
+64 8 0 0 0
+D0
+~
+~
+0 0 6406
+E
+statue sculpture figure~
+   You walk up to the outline within the alcove and brush it off with your
+hand, removing centuries of cobwebs and soot.  The figure beneath is a statue
+of a woman with long, flowing hair and holding a tall staff in her right hand.
+A thin trail of red trickles down the left side of the statue's face, from her
+half-closed eyelid and down to her feet, and a spear has been driven deep into
+the marble, piecing the statue's throat.    
+~
+S
+#6408
+Narthex of a Destroyed Temple~
+   This dark and dusty alcove is filled with cobwebs and debris.  A pile of
+stones lies in a heap in the center of the space, and a sword, made of some
+silver metallic substance, lies in three broken pieces upon the heap.  A statue
+on the northern wall is covered in cobwebs and ashes, one arm raised up over
+its head clasping at air, and its neck ending in a scarred stump of marble.
+~
+64 8 0 0 0
+D2
+~
+~
+0 0 6406
+E
+statue figure~
+   The statue's right arm is outstretched, the fingers around its hand clasping
+at air.  It seems as though the statue once held the sword that is now lying in
+pieces upon the ground.  The head of the statue is completely missing, though
+the marble of the statue's neck is coated in a thick, dried rust-colored
+material that seems at odds with the rest of the white stone used in its
+construction.    
+~
+E
+sword pieces ~
+   You reach over and brush off the rubble covering the pieces of the sword,
+studying it more closely.  It is obviously of superior craftsmanship, and its
+edge is still as finely honed as if it was forged only yesterday.  The blade is
+made of a very high-quality platinum, and the hilt is crusted with precious
+stones, most of which are now broken and chipped.  There are runes on the piece
+of the blade that meets the hilt, written in an older version of the Common
+language.    
+~
+E
+runes rune hilt~
+   Leaning close to the part of the sword blade extending from the hilt, you
+pause a moment to translate the archaic runes.  Though the language is an older
+dialect of Common, you're fairly certain the runes read, "Evil Shall Perish
+Before the Mighty Sword of Justice and Righteousness".    
+~
+E
+rubble pile~
+   The pile of rubble is actually a series of tiny pieces and bits of broken
+marble, from the same material as the statue.  It looks as though the pile has
+been smashed repeatedly, probably by a large hammer or something else to pummel
+the stone this badly.  It was probably once the head of the statue on the wall.
+  
+~
+S
+#6409
+Hallway of a Fallen Temple~
+   The hallway leads east, towards the entrance to the Temple, or west over to
+the altar on the far western wall.  From this distance, the shadows hang over
+everything within the temple so heavily, little detail can be seen of either
+the altar or the entrance.  Small alcoves to the north and south lead towards
+secondary narthexes of the temple, though they are covered in cobwebs and dust
+and have suffered centuries of neglect.    
+~
+64 8 0 0 0
+D0
+~
+~
+0 0 6411
+D1
+~
+~
+0 0 6406
+D2
+~
+~
+0 0 6410
+D3
+~
+~
+0 0 6412
+E
+staves white~
+   You walk over to one of the staves and push aside the wood surrounding it.
+Looking closely, the slender white pole is actually a long bone, bleached white
+over the centuries.  You cannot tell if it is human or elven, though it
+certainly is none of the other common races, judging by its size.    
+~
+S
+#6410
+A Dark and Shadowy Narthex~
+   This dark chamber is a narthex of the abandoned and destroyed temple, where
+worshippers might come to make offerings to the powers of good.  A badly
+damaged statue stands in an alcove on the southern wall, and a shattered lamp
+lies in a pile of broken glass and bent metal at the base of the statue's feet.
+Pieces of rubble and stone litter the alcove's floor, and cobwebs cling to
+every possible surface.  The stench of death and decay hangs heavily here, and
+there is a strange rune traced in red upon the statue's chest.    
+~
+64 8 0 0 0
+D0
+~
+~
+0 0 6409
+E
+rune~
+   The rune is traced in blood upon the statue of this figure.  You'd have to
+check with a historian to be positive, but it resembles the symbol of Hiddukel,
+the Prince of Lies.    
+~
+E
+lamp lantern glass~
+This shattered and twisted pile of metal and glass is all that is left of 
+what once was probably a lamp.  Shredded rose petals are placed in a 
+deliberate circle around the lamp's fragments, and the smell of blood 
+that hangs so heavily probably comes from a pool of red liquid at the 
+lamp's base.
+~
+E
+statue figure~
+The statue is chiseled from white marble, with such detail and care in 
+its craftsmanship that it seems nearly alive - or rather, it would if 
+it was not for the numerous scorch marks reaching from the base of the 
+statue's feet all the way up its length to its head.  A pile of charred 
+and burned cinders at the base of the statue are probably all that 
+remains of some wooden timbers, and the statue's mouth is open in what 
+looks to be a silent scream of pain and agony.
+~
+S
+#6411
+An Alcove off the Main Temple~
+   This alcove is a small narthex off the main hallway running through this
+once-grand temple.  It is covered in shadows and darkness, the mists swirling
+through the tiny room like tentacles and seeming to almost wrap themselves
+around a white marble statue on the northern wall.  There is a small pile of
+wood at the base of the statue, connected in places by thin wires or cords, and
+a golden chalice lies in a crushed lump of gold in one corner of the room.    
+~
+64 8 0 0 0
+D2
+~
+~
+0 0 6409
+E
+chalice gold~
+   The lump of gold vaguely resembles a chalice, though it looks as though a
+very strong and powerful hand has crushed it in its grip.  There are holes
+across the rim of the chalice, probably where gemstones once encrusted the rim,
+and deep scratches similar to claw marks mar the surface of the once-polished
+golden surface.    
+~
+E
+statue figure~
+   The statue is carved from the same while marble as the tiles in the Temple
+hallway and courtyard.  It is a youthful man, his hands held across his body as
+though he once cradled something there.  The head of the statue is badly
+damaged, with numerous chunks of marble missing over the temples, forehead, and
+chin, as if someone had taken a large hammer to the statue's face and head.  
+
+~
+E
+wood string strings cord wire pile~
+   The pile of wood and strings is actually what remains of a musical
+instrument of some sort, upon closer inspection.  It was made of a very high
+quality wood, and still retains a bit of a dull, lustrous sheen to it.  
+However, most of the wood is now splintered and unsalvageable.    
+~
+S
+#6412
+Stairway to the Temple Altar~
+   The hallway leads east, towards the doorway to the Temple, or upwards and
+west, to the altar on the west side of the Temple.  The altar itself is hidden
+by a heavy layer of shadows that are so thick and dark, they almost seem to
+have a presence and form of their own.  North and south of here are small
+alcoves, though these are enshrouded in shadow as well.  Pews on either side of
+the hallway lie in splintered and burned heaps, and thin white staves poke
+through the timber in places.  The smell of death is even stronger here, and a
+deep and abiding sense of evil and violence lingers upon the air, pervading
+throughout the Temple's interior.    
+~
+64 8 0 0 0
+D0
+~
+~
+0 0 6414
+D1
+~
+~
+0 0 6409
+D2
+~
+~
+0 0 6413
+D4
+~
+~
+0 0 6415
+S
+#6413
+A Shadowed Alcove in the Temple~
+   This is a shadowed alcove, branching off from the main hallway of the
+Temple.  Bits and pieces of broken stone and fragments of wood cover the floor,
+and dust swirls thickly in the stale air.  The acrid smell of smoke mingles
+with a more sinister, sickeningly-sweet smell of decay.  There is a statue on
+the southern wall of the alcove, carved out of white marble and covered in
+cobwebs.    
+~
+64 8 0 0 0
+D0
+~
+~
+0 0 6412
+E
+statue figure~
+   The statue is carved out of pure white marble, the detail painstakingly
+chiseled into the stone so as to make the statue nearly lifelike.  Waves of
+water curl upwards at the base of the statue's feet, and a trident is gripping
+tightly in the statue's left hand.  Its eyes have been blindfolded by a filthy
+brown rag, and a deep gash runs across the stone over the statue's abdomen.  
+Water pours out from the gash in a flood, soaking the floor of the alcove.  
+The statue does not look to be held too solidly in place, and appears as though
+it could be moved.    
+~
+S
+T 6413
+#6414
+A Shadowed Narthex~
+   The shadows cling to this room heavily, and the air smells dusty and stale.
+A neglected and badly damaged statue rests on the northern wall in a wide
+alcove, and the main hallway of the Temple is just south from here.  A book
+lies discarded and forgotten on the floor, its pages singed and torn and its
+leather spine cracked.    
+~
+64 8 0 0 0
+D2
+~
+~
+0 0 6412
+E
+book~
+   You bend down to examine the book.  It is made from the finest leather, and
+has pages of vellum that are slightly colored from age and use.  Magical runes
+chase along the book's pages and borders, though the burn marks scattered
+throughout the book and its pages make all of the spells within its contents
+completely useless.    
+~
+E
+statue figure~
+   The statue is of a tall and thin man, with noble features and a long,
+flowing robe.  His left hand is held flat before him, as though it once
+supported something, and his right hand is raised slightly in the air, as a
+spellcaster might motion when casting a cantrip.  A dirty bit of black cloth
+has been wedged into the statue's mouth, and a black dagger has been driven
+deep into the stone, cutting deeply into the statue's breast.  A thin trickle
+of a rust-colored liquid seeps from the cut in the stone and collects in a
+small pool at the statue's base.    
+~
+S
+#6415
+The Dais of a Ravaged Temple~
+   This is a wide, circular dais elevated above the main hallway of the Temple.
+To the west is the altar of this temple, with the outlines of what appears to
+be a large statue of a white and silver dragon stretching across the entire
+length and breadth of the wall.  There is something white affixed over the
+dragon's center, though from this distance, and with the heavy shadows that
+hang over everything in this place, it is impossible to tell exactly what the
+white shape is.  The dais is covered with a viscous red liquid that pours down
+the stairs and onto the Temple floor below.    
+~
+64 8 0 0 0
+D3
+~
+~
+0 0 6416
+D5
+~
+~
+0 0 6412
+S
+#6416
+The Altar of a Desecrated Temple~
+   The altar of this once glorious temple lies in two pieces, split in twain
+down the center.  A cascade of red blood pours from the split, as if the very
+altar itself was spilling its lifeblood down the dais's stairs, and the crevace
+itself is scorched a deep, fathomless black.  The blood pouring from the altar
+blisters and boils as it pours across the floor and down the hallway of this
+desecrated temple.  There is a large statue of a dragon on the far west wall of
+the temple.  The dragon's head is arched upwards, its mouth open in a silent
+scream, and the body of a woman dressed in the white robes of a cleric is
+impaled over the dragon's breast, a black stake driven through the woman's
+heart and affixing her body over the statue's breast.    
+~
+64 12 0 0 0
+D1
+~
+~
+0 0 6415
+E
+woman cleric body~
+Though this temple was clearly destroyed centuries ago, the woman's body 
+is still intact, as though she died but moments ago.  The blood dripping 
+from the stake piercing her heart down to the floor of the dais is still 
+wet, and carries the strong and unmistakable coppery tang of fresh blood.
+Her eyes are open, and the look within their pale blue depths is one of 
+such absolute terror and horror, you've never seen its equal.  One hand 
+of the woman's body is clasped tightly around her cleric's medallion, 
+and pulling her hand away, the symbol of Paladine is branded on both
+her brest and the hand where she clasped the medallion, perhaps in her
+last fear-filled moments in this world...
+~
+E
+statue dragon paladine~
+The statue of the Great Dragon is covered in ash and blood.  Its head is
+raised stiffly upwards, mouth agape as though it is fixed in a permanent
+scream.  Its wings, probably once spanning across the entire western 
+wall of the temple, have been shattered and broken into bits of marble
+strewn across the floor of the dais.  A woman's body is imapled over the
+breast of the dragon statue, her blood mingling with the marble of the 
+statue as it trails down to the floor.
+~
+E
+altar~
+The altar has been somehow sheared into two pieces, though the force that
+must have been required to achieve this feat would have to be incredible.
+Blood pours out from the crack in the temple, cascading over your feet 
+and running down the dais stairs into the temple's hallway.  The altar 
+itself is chiseled from pure white marble, and chased with intricate 
+details of the gods and goddesses of good in various acts of service 
+and piety to the mortals of the realm.  Touching the altar, you pull 
+your hand back in pain - though made of stone, the altar is incredibly
+hot to the touch!
+~
+E
+blood~
+A thick tide of blood pours from the broken altar and collects in pools 
+at the altar's base before cascading down the stairs of the dais and 
+out into the temple's hallway.  The blood itself seethes and boils, 
+and its coppery, salty scent is nearly overwhelming.  There is a definite
+sense of evil that pervaids this fallen temple, surrounding everything
+in the temple's interior with its presence.
+~
+S
+#6420
+Before a Gate Made of Pine~
+   A large wooden gate climbs into the sky, barring further travel to the east.
+An earthy scent tinged with pine wafts gently on the breeze.  Unnatural silence
+pervades the area as if the woodland creatures are waiting in anticipation for
+some event.  A rough-hewn trail leads west back to the Blue Diamond mountains.
+~
+64 4 3 0 0
+D1
+   This large gate is made of pine tree trunks expertly bound together with
+coarse, olive-colored vines.  The top of the logs have been sharpened to points
+providing a deterrent to climbing.    
+~
+gate~
+1 0 6421
+D3
+~
+~
+0 0 8485
+E
+gate pine large~
+   This large gate is made of pine tree trunks expertly bound together with
+coarse, olive-colored vines.  The top of the logs have been sharpened to points
+providing a deterrent to climbing.    
+~
+S
+#6421
+Before a Knotted Climbing Vine~
+   A sturdy, rope-like vine hangs from the branches above.  This vine is
+composed of many smaller tendrils woven together.  Frigid winds blow the vine
+about erratically as a light snow begins to fall.  Dense foliage creates a
+canopy of near gloom.  Small footprints reveal a barely perceivable trail to
+the east, and to the west looms the gate.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6422
+D3
+   This large wooden gate is made of pine tree trunks expertly bound together
+with coarse olive-colored vines.  The top of the logs have been sharpened to
+points providing a deterrent to climbing.    
+~
+gate~
+1 0 6420
+D4
+   A strong vine whips wildly in the wind.    
+~
+~
+0 0 6439
+E
+sturdy rope-like vine~
+   A strong vine whips wildly in the wind.    
+~
+E
+large gate pine~
+   This large gate is made of pine tree trunks expertly bound together with
+coarse, olive-colored vines.  The top of the logs have been sharpened to points
+providing a deterrent to climbing.    
+~
+S
+#6422
+A Trail Through a Patch of Pines~
+   The feeling of watching eyes permeates the forest causing feelings of
+unease.  Soft chitterings of small creatures can be heard.  The trees'
+expansive branches still block most of the sunlight.  A bit of snow has
+collected around the base of the pines and in a few low depressions in the
+ground.  The trail continues to the east and west.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6423
+D3
+~
+~
+0 0 6421
+E
+watching eyes~
+   The intelligent-looking eyes blink twice then vanish into the surrounding
+cover.    
+~
+S
+#6423
+A Path Through the Pines~
+   Bright, red mushrooms and some scrubby bushes are the only undergrowth hardy
+enough to survive in the cold and dimness beneath the blanket of pine needles
+and tree limbs.  A handful of grackles noisily squawk and chirp at one another
+from the branches above.  The trail continues to the east and west.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6424
+D3
+~
+~
+0 0 6422
+S
+#6424
+A Large Vine Hanging at an Intersection~
+   The small, humanoid footprints suddenly vanish, but many animal tracks can
+be seen leaving to the north though.  A strong, sturdy-looking vine sways
+slightly in the breeze.  Pinecones and pine needles decorate the ground
+providing contrast to the cloak of snow.  Once again the forest is hushed and
+the feeling of being watched persists.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6425
+D3
+~
+~
+0 0 6423
+D4
+   A sturdy, braided vine sways in the breeze.    
+~
+~
+0 0 6436
+E
+vine~
+   A sturdy, braided vine sways in the breeze.    
+~
+S
+#6425
+A Moss Covered Track~
+   Wolf and deer prints continue to the north accompanied by those of racoons
+and even a snake.  Small balls of grayish moss with hair-like tendrils
+haphazardly cover the ground, as if brought down by a stiff wind.  Melodies of
+song dance in the air as birds try to attract mates.  The trees still do not
+provide enough protection from the bitter cold though.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6426
+D2
+~
+~
+0 0 6424
+S
+#6426
+A Break in the Canopy~
+   The sky peeks through the rents in the branches.  An apparent fire has
+cleared out a portion of this part of the forest, as evidenced by the charred
+remanants of trees.  The scent of burnt wood is still quite prevalent.  A pair
+of gray squirrels chase one another, jumping from branch to branch and between
+the trees.  The track continues northerly and southerly.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6427
+D2
+~
+~
+0 0 6425
+S
+#6427
+A Tunnel of Trees~
+   The trees grow thick forming a tunnel of branches and bark.  Tiny pinpricks
+of light are the only hint from above that there is a sky.  Compact layers of
+pine needles coat the ground preventing any other plant life from the chance at
+growth.  Wind moaning through the trees is the only audible sound.  The animal
+tracks continue to the north and south.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6428
+D2
+~
+~
+0 0 6426
+S
+#6428
+An Interesection With a Thick Vine~
+   A thick olive-green vine hangs limply from the branches above.  The animal
+tracks fade into the mass of trees and lead back to the south.  The small
+footprints once again appear and lead to the east.  Breaks in the canopy create
+odd pools of light and shadow that seem to chase one another across the ground.
+The lack of wind makes this portion of the woods quite stuffy and nearly
+unbearable.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6429
+D2
+~
+~
+0 0 6427
+D4
+~
+~
+0 0 6432
+S
+#6429
+A Pathway Through Pines~
+   A sheet of ice encloses the trees and ground like a glistening sheet of
+glass.  The footprints are clearly visible heading east and west in the frost.
+Little sound save a few song birds can be heard since most of the animals try
+to avoid this part of the woods.  The scent of pine is not as prevalent here as
+in other areas.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6430
+D3
+~
+~
+0 0 6428
+S
+#6430
+A Dead End~
+   The trail ends abruptly leading into a dense group of trees and bushes.  A
+small pile of snow has built up blanketing a good portion of the ground.  A
+thorny, hedge to the south seems to be the only thing unaffected by the snow.
+The sounds of the woodland critters have become quite faint.  The only
+direction to go seems to be the way you just came.    
+~
+64 0 3 0 0
+D2
+   A thick, thorny hedge blocks further travel.    
+~
+hedge~
+1 0 6450
+D3
+~
+~
+0 0 6429
+S
+#6431
+An Undulating Path of Rope~
+   Ferocious winds cause the bridge to rock dangerously back and forth.  A
+plank of pine has been shaken loose and fallen to the ground far below.  An
+empty robin's nest is perched in the branches of a tree next to the path.  To
+the north the Silvanesti forest seems to stretch on forever, and to the south
+is a large vallenwood tree.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6432
+D3
+~
+~
+0 0 6444
+S
+#6432
+An Intersection of Rope Bridges~
+   Rope bridges converge upon a single platform of pine mounted to a sturdy
+oak.  A thick olive vine dangles down providing access to the path below.  The
+platform and the planks thmselves have been worn smooth from usage by so many.
+To the Southwest a rope path leads to a large, tent-like structure formed of
+animal skins and tarps.  This intersection also provides an excellent view of
+the Silvanesti forest.    
+~
+64 0 3 0 0
+D2
+~
+~
+0 0 6433
+D3
+~
+~
+0 0 6431
+D5
+~
+~
+0 0 6428
+D8
+~
+~
+0 0 6446
+S
+#6433
+A Rope Bridge High Above the Ground~
+   Thick, sinewy ropes provide the support for the rope bridge.  At first
+glance it seems a bit unstable, but upon closer inspection the true
+architectural strength can be seen.  Large, shimmering flakes of snow cascade
+down from the sky coating the bridge.  The trees of the Silvanesti Forest seem
+like small slivers from this height.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6432
+D2
+~
+~
+0 0 6434
+S
+#6434
+An Icy Rope Bridge~
+   Frost and ice glisten on the planks of the rope bridge creating a very
+slippery situation.  The bridge creaks and groans as the wind causes it to
+twist slightly.  On one side of the bridge is the gigantic vallenwood and on
+the other, the expansive Silvanesti Forest.  Tiny birds huddle together for
+warmth on nearby branches.  The scent of charred wood floats in the air.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6433
+D2
+~
+~
+0 0 6435
+S
+#6435
+A Bridge of Pine and Rope~
+   Vine and hemp have been woven together to form the strong rope that supports
+the pine planked bridge.  The height of the bridge offers an excellent view of
+the surrounding territory for miles in all directions.  Occasionally a pine
+cone or a handful of needles fall onto the bridge when the wind blows
+especially hard.  The sturdy planks seem well worn but still strong enough to
+support a goodly amount of weight.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6434
+D2
+~
+~
+0 0 6436
+S
+#6436
+An Intersection of Rope Bridges~
+   Ropes and pine planks meet at a small pine platform securely mounted to an
+aspen tree.  A vine suspended from the tree offers a way to the path below.  A
+rope trail leads northwest to the center of the outpost.  The pathways continue
+both north and west creaking slightly in the wind.  The smell of a cookfire and
+roasting meats float tantilizingly in the air.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6435
+D3
+~
+~
+0 0 6437
+D5
+~
+~
+0 0 6424
+D6
+~
+~
+0 0 6448
+S
+#6437
+A Suspended Rope Walkway~
+   Strong pine planks bound with rope and twine form an efficient pathway above
+the canopy of the trees.  Branches from surrounding pine trees scratch the
+bridge as it swings in the wind.  A chipmunk looks up from his perch atop a
+rope with a look of amused boredom.  Bright, red mushrooms are visible from the
+ground even at this dizzying height.  The bridge stretches to the east and
+west.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6436
+D3
+~
+~
+0 0 6438
+S
+#6438
+A Rope Bridge High Above the Ground~
+   An ocean of forest expands to the south from the height of this rope bridge.
+To the north is a massive vallenwood with a straight, strong trunk and long,
+foilage-covered branches.  The repetitve tapping of a woodpecker disrupts the
+silence of the woods.  The roped pathway continues to the east and west.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6437
+D3
+~
+~
+0 0 6439
+S
+#6439
+A Meeting of Ropes~
+   Twine and bound ropes have been securely fastened to a large, spruce thick
+with bluish-green fronds.  A woven vine droops down to allow access to the
+trail below.  Sounds of people speaking elven are carried on the wind; oddly
+enough though it is difficult to ascertain which direction it comes from.  To
+the north and east stretch more finely crafted suspensions of pine.  Earth
+colored animal skins can be seen to the northeast as part of some great
+building.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6440
+D1
+~
+~
+0 0 6438
+D5
+~
+~
+0 0 6421
+D7
+~
+~
+0 0 6447
+S
+#6440
+A Precarious Rope Bridge~
+   A few missing planks and a frayed rope bring doubt to the safety of this
+section of the rope bridge.  The damage seems to have been caused by a small
+animal, perhaps a rodent.  The sharpened spikes of the gate are clearly visible
+to the west.  A colorful finch plays along one of the support ropes and
+occasionally makes questioning chirps at passerbys.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6441
+D2
+~
+~
+0 0 6439
+S
+#6441
+A Rope Bridge Swaying in the Wind~
+   A moderately strong breeze has set the bridge into motion, creaking from
+side to side.  The support ropes pull taut as the bridge shifts directions.  
+The remnants of an avalanche in the Blue Diamond mountains can be seen to the
+west.  A raccoon quickly climbing up a pine tree causes a shower of pine cones
+and needles onto the bridge.  The rope trail continues north and south.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6442
+D2
+~
+~
+0 0 6440
+S
+#6442
+A Sturdy Bridge of Rope~
+   The imposing ice-covered peaks of the Blue Diamond mountains are plainly
+visible to the west.  The rope bridge sways slightly at the slightest movement,
+but seems solid enough and rather well-built.  From here any travelling the
+roads through the hills and mountains are easy to spot and track.  The path
+meanders in a general north and south direction through the trees.    
+~
+64 0 3 0 0
+D0
+~
+~
+0 0 6443
+D2
+~
+~
+0 0 6441
+S
+#6443
+A Crossing of Bridges~
+   Bridges from the south and east meet at a tiny landing here that has been
+fitted to strong-looking elm.  A dun-colored structure lies to the southeast,
+obviously being the center of this encampment.  Hardened bird droppings have
+collected here revealing a favorite roost by the local avian inhabitants.  The
+everpresent smell of pine lingers here as it does much of the camp.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6444
+D2
+~
+~
+0 0 6442
+D9
+~
+~
+0 0 6445
+S
+#6444
+A Rope Walkway Overlooking the Silvanesti Forest~
+   The wilderness to the north looks untamed yet some of it looks strangely
+ordered as if changed for a purpose.  A gnawing sound emanates from a small
+mouse chewing on one of the support ropes for the bridge.  Dun-colored skins
+and tarps decorate the pine platform surrounding the enormous vallenwood to the
+south.  Pine sap and needles from the trees about create a strong nearly
+overpowering scent.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6431
+D3
+~
+~
+0 0 6443
+S
+#6445
+The Northwestern Side of the Outpost~
+   A few rows of blankets and other bedding show this room to be a bunkroom of
+some sort.  Small holes in the animal skin roof have been made to collect
+rainwater in earthernware jars on the oaken floor.  A torch has been firmly
+attached to the side of the vallenwood tree base providing light and a small
+bit of heat to the occupants of this enclosure.    
+~
+64 8 0 0 0
+D1
+~
+~
+0 0 6446
+D2
+~
+~
+0 0 6447
+D6
+~
+~
+0 0 6443
+S
+#6446
+The Northeastern Side of the Outpost~
+   Neatly stacked books and vials of unknown substances litter the floor of
+this room.  Scrolls with arcane spidery script and wands of odd metals show
+this room to be inhabitated by a magic user.  A single set of bedding has been
+carelessly left unmade and forgotten in a corner.  A torch of yew wood burns
+fitfully providing light and a fair amount of smoke as well.    
+~
+64 8 0 0 0
+D2
+~
+~
+0 0 6448
+D3
+~
+~
+0 0 6445
+D7
+~
+~
+0 0 6432
+S
+#6447
+The Southwestern Side of the Outpost~
+   Bars of quith-pa and cured meats have been stacked on the floor of this
+room.  Old animal skins and planks of pine have also been neatly placed on the
+floor of this equipment room.  Light from the adjoining rooms make this gloomy
+enclosure a little brighter.  Canvas and pelts have been sewn to make the tent
+flaps that lead to the southwest.  The scent of roasting meat can be detected
+coming from the east.    
+~
+64 12 0 0 0
+D0
+~
+~
+0 0 6445
+D1
+~
+~
+0 0 6448
+D8
+~
+~
+0 0 6439
+S
+#6448
+The Southeastern Side of the Outpost~
+   Pulling aside the makeshift tent flaps of animal skin reveal a rather
+spacious room.  Built atop an oaken base that has been attached to the large
+vallenwood provides the floor for the structure.  A large cookfire has been
+built in a pit of stones.  Succulent venison roasts over the flame.  A few
+bedrolls have been pushed up against the side of the vallenwood.    
+~
+64 8 0 0 0
+D0
+~
+~
+0 0 6446
+D3
+~
+~
+0 0 6447
+D9
+~
+~
+0 0 6436
+S
+#6449
+A Room Inside the Vallenwood~
+   Light from a stone fire pit creates flickering shadows on the ruddy wooden
+walls and ceiling.  Maps and books written in elven script lay scattered about
+the room.  Some supplies and changes of green and brown clothing are stored in
+niches that have been carved into the walls.  A bedroll has been neatly made
+and set in the corner out of the way.    
+~
+64 328 0 0 0
+D5
+   An oaken hatch bars exit down out of the tree.    
+~
+hatch~
+1 0 6450
+E
+oaken hatch~
+   An oaken hatch bars exit out of the tree.    
+~
+S
+#6450
+Entrance into a Large Vallenwood~
+   A crude archway has been hallowed into the base of the vallenwood tree.  A
+small fire built in a pit of stone provides a bit of heat and light.  At first
+glance the massive tree still seems to be alive, but upon closer inspection the
+rot and decay is evident.  Somehow though the tree is being preserved in
+excellent condition.    
+~
+64 0 0 0 0
+D0
+   A thick, thorny hedge blocks further travel.    
+~
+hedge~
+1 0 6430
+D4
+   A hatch of oak bars further entry into the tree.    
+~
+hatch~
+1 0 6449
+E
+hatch oak~
+   A hatch of oak bars further entry into the tree.    
+~
+S
+#6458
+REUSE ME~
+   Considerably better than the lodgings of the normal crew members, the few
+officers have been given an entire room to split between them.  This allows
+enough space to have a few personal items on board and some modest furniture.
+Four small beds are placed evenly against each side of the room and each have a
+small nightstand to hold books and papers.  A small Persian rug is laid out in
+the middle, upon which sits a couple chairs arranged in a circle in order to be
+able to have quiet conversation at the end of the day.    
+~
+64 0 0 0 0
+S
+#6460
+Beyond a Newly Constructed Archway~
+   Everything man-made in this area appears to be new construction.  This
+notion is further enforced by the presence of wheelbarrows, heavy masonry
+hammers, and the remains of scaffolding that lie around this area.  You are
+standing upon a wooden platform behind the temple, and the view from here is
+rather breathtaking.  You can see for miles around you just above the canopy of
+the forest.  When one turns their attention to the area directly below, a path
+through the forest can be seen.  The platform continues for a short ways
+southwest from here.  There are no handrails, so someone being careless could
+easily fall.  Given that the platform is at least twenty feet up, and below the
+ground is covered with rocks and shrubs, it could be a very dangerous and
+potentially deadly fall.  Therefore, caution is definitely called for.  To the
+east, a newly constructed stone archway leads back into the until-recently
+abandoned temple.    
+~
+64 0 3 0 0
+D0
+A small door leads back into the temple.
+~
+door~
+2 6427 6413
+D8
+~
+~
+0 0 6461
+S
+#6461
+At the Top of a Long Wooden Ladder~
+   The wooden platform extends northeast of here.  There are no handrails
+present, so one who walks around or even sits up here must exercise extreme
+caution so that they do not fall twenty feet down to the rocks and shrubs
+below.  There is an open trapdoor in the platform here, which allows one access
+to a ladder.  This ladder, as rickety as it appears, is newly constructed, and
+is certainly a preferrable way to reach the forest floor below than to jump.  
+A long climb down from here, but still, nothing ventured, nothing gained.  And
+curiosity as to what could be down there gets the better of many who stay up
+here for long.    
+~
+64 0 2 0 0
+D5
+~
+~
+0 0 6462
+D7
+~
+~
+0 0 6460
+S
+#6462
+Within the Trampled Grass~
+   A long, rickety wooden ladder leads up from here to a temporary wooden
+platform many feet above your head.  The grass here has been trampled almost
+completely, and lies mostly dead.  There are a number of jagged protrusions
+from the ground here, including rocks, broken branches, and bits of sawed-off
+wood.  The grass is beaten down as though many feet have passed through here in
+recent weeks.  The trail leads into the forest a ways to the left.  The eerie
+sounds of wildlife around you sound somehow distorted, as though this place
+houses animals that you wouldn't normally find elsewhere.  A cool breeze blows
+in from the east.    
+~
+64 0 4 0 0
+D3
+~
+~
+0 0 6463
+D4
+~
+~
+0 0 6461
+S
+#6463
+Along a Faint Trail~
+   You are now deep into the woods.  The sky overhead is blocked out by many
+leafy branches, giving the place a look of constant twilight.  Nearby, you hear
+the sound of an unfamiliar bird, as well as other sounds.  The wind blows
+through, causing the trees to sway eerily back and forth.  The wind blows trees
+and long grass aside, making it appear as though some invisible being is making
+their way towards you through the growth.  It is an unsettling feeling, and
+after staying here too long, leaving begins to look rather nice.  The path from
+here continues east, and northwest, though it is rather impossible to tell what
+lies in either direction.    
+~
+64 0 3 0 0
+D1
+~
+~
+0 0 6462
+D6
+~
+~
+0 0 6464
+S
+#6464
+Approaching a Wide Clearing~
+   The forest clears out a little to the north.  To the southeast, the canopy
+is so thick that it darkens the entire area day and night.  A little farther to
+the north, you can see a wide clearing, though that is nearly all you can
+discern from here.  A cold, howling wind blows through from the north, pushing
+aside thin trees and tall, overgrown grass.  It is not the usual wind...  It
+seems somehow far too cold for the season.  Then, something else strikes you.
+The animal sounds that had been omnipresent to this point have now vanished
+entirely.  The only sounds you hear are the wind, and the quickening sound of
+your own heartbeat.    
+~
+64 4 3 0 0
+D0
+~
+~
+0 0 6465
+D9
+~
+~
+0 0 6463
+S
+#6465
+Entering the Clearing~
+   The trees have been removed from this part of the forest, and new digging
+has begun to the north.  The ground all around you has been dug up in various
+places, seeming to indicate that someone was looking for something.  There are
+various broken shovels and pick-axes that have been hastily abandoned.  The
+hole to the north is larger than the rest, indicating perhaps that whoever was
+digging here found what they were looking for in that spot.  There is an odd
+chill that hangs in the air, and the place is eerily silent.    
+~
+64 0 2 0 0
+D0
+~
+~
+0 0 6468
+D1
+~
+~
+0 0 6467
+D2
+~
+~
+0 0 6464
+D3
+~
+~
+0 0 6466
+D6
+~
+~
+0 0 6469
+D7
+~
+~
+0 0 6470
+S
+T 6466
+#6466
+The Southwest Corner of the Clearing~
+   There is ample shade upon this side of the clearing, provided by tall trees
+to the west and south.  There has not been very much digging in this particular
+spot, seeming to indicate that this location was not seriously considered to be
+a possible resting place for whatever the diggers were trying to unearth.  The
+whole clearing looks to have been dug up fairly recently, and the ground is
+soft, uneven, and scarred as a result.  There is a very very large hole in the
+ground just to the northeast.  There is a path to the east and south that leads
+back into the forest.    
+~
+64 0 0 0 0
+D0
+~
+~
+0 0 6469
+D1
+~
+~
+0 0 6465
+D7
+~
+~
+0 0 6468
+S
+T 6465
+T 6466
+#6467
+The Southeast Corner of the Clearing~
+   The ground is wet here.  The trees are not quite so tall as the ones just to
+the north of the clearing.  If you take a few steps back from the edge of the
+clearing, you can see the very top of the temple to the east.  Taking the few
+steps back, you stumble and twist your ankle on a hole in the ground.  It is a
+fairly large hole, not enough to fall completely into, but big enough to prove
+an impediment.  There are many similar holes all around; the remnants of an
+excavation that took place in this very area.  There are holes everywhere, both
+where digging has taken place, and where very old trees were uprooted.  There
+is a path to the west that leads back into the forest.    
+~
+64 0 2 0 0
+D0
+~
+~
+0 0 6470
+D3
+~
+~
+0 0 6465
+D6
+~
+~
+0 0 6468
+S
+T 6466
+#6468
+Before a Deep, Dark Hole~
+   The ground here is soft, and seems to have been the site of recent digging.
+It is very difficult to tell what the previous digging team was looking for.  
+Footing is very treacherous and slippery, your feet sinking into the ground in
+certain areas.  There are abandoned shovels and carts lying about, most of
+which are broken, but some of them are functional.  Whoever was digging here
+abandoned the project very hastily, and left a lot of things simply lying
+about.  The chill in the air remains, and is, if anything, even stronger when
+you stand on this precise spot.  Panic starts to set in, and the path back
+through the forest starts to look more and more inviting.  There are some
+shovels nearby, which could be used to resume the digging, if you decided to do
+that.    
+~
+64 0 0 0 0
+D1
+~
+~
+0 0 6470
+D2
+~
+~
+0 0 6465
+D3
+~
+~
+0 0 6469
+D8
+~
+~
+0 0 6466
+D9
+~
+~
+0 0 6467
+S
+T 6400
+T 6466
+#6469
+The Northwest Corner of the Clearing~
+   This corner of the clearing is shaded by thick, old trees to the north and
+west.  There has been less digging here than in the rest of the clearing,
+indicating a part of the area that was not considered as a possible location
+for whatever the diggers were looking for.  There is still a very large hole
+here, with bits of root clinging still to the side of it.  A large tree once
+grew here, but grows no more.  It is rather sad, really.  The clearing
+stretches out to the east and south, with a very, very large hole to the east.
+There are a few splinters and shapeless pieces of metal lying about.    
+~
+64 0 0 0 0
+D1
+~
+~
+0 0 6468
+D2
+~
+~
+0 0 6466
+D9
+~
+~
+0 0 6465
+S
+T 6466
+#6470
+The Northeast Corner of the Clearing~
+   The trees are very, very tall around the northeast corner of the clearing.
+If you take a few steps back from the edge of the clearing, you can see the
+very top of the temple to the east.  Taking the few steps back, you stumble and
+twist your ankle on a hole in the ground.  It is a fairly large hole, not
+enough to fall completely into, but big enough to prove an impediment.  There
+are many similar holes all around; the remnants of an excavation that took
+place in this very area.  There are holes everywhere, both where digging has
+taken place, and where very old trees were uprooted.  There is a path that
+leads away form the area to the south and back through the forest.    
+~
+64 0 0 0 0
+D2
+~
+~
+0 0 6467
+D3
+~
+~
+0 0 6468
+D8
+~
+~
+0 0 6465
+S
+T 6465
+T 6466
+#6471
+In a Deep, Dark Hole~
+   You are now standing in the middle of a deep, dark hole.  It appears to have
+been freshly excavated.  The earth around is moist, indicating that there has
+been some recent precipitation, or this hole was dug not long ago.  It doesn't
+take long to figure out why this excavation took place.  There is a heavy slab
+of stone in the middle of the room, sitting slightly off where it ought to be.
+It is clearly a tombstone of some kind, which is unsettling.  Normally, things
+that are buried are supposed to stay that way.  It is a difficult climb up from
+here, but that is your only choice of exit...  Apart from opening up the crypt
+to see what lies beneath.  The area around you is thick with fog, and there is
+a chill in the air.  Something here gives off the unmistakeable aura of fear.
+The wind picks up above you unexpectedly.    
+~
+64 262401 0 0 0
+D4
+~
+~
+0 0 6468
+D5
+   There is a simple, heavy tombstone in the center of the room.  It looks to
+have been removed and replaced very recently, and there are fresh handprints in
+the dust.    
+~
+tombstone~
+1 0 6472
+S
+#6472
+Within a Dark Crypt~
+   You pass through a narrow opening and fall a short ways into an ancient
+stone room.  The smell of death is in the air, as is a thick dust.  It is very
+dark in here, the only light being that which you brought with you.  In the
+center of the room is a large, ornate sarcophagus.  When you examine it more
+closely, you note that it is open a crack and nothing lies within.  The wind
+above blows over the hatch, resulting in an eerie wailing noise.  You think you
+hear shuffling footsteps behind you.    
+~
+64 361 1 0 0
+D4
+~
+tombstone hatch~
+1 0 6471
+S
+$~

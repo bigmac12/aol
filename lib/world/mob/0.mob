@@ -1,0 +1,993 @@
+#1
+insects swarm~
+a swarm of insects~
+A swarm of insects buzzes about angrily.
+~
+   A swarm of flying insects emits a loud humming sound as it flies around the
+area.  The insects appear to be quite angry at something, or someone.    
+~
+2088 66560 1000 0 E
+6 17 10 2d5+70 2d3+0
+0 0 0
+8 8 0 0
+BareHandAttack: 1
+Maxmove: 50
+E
+#2
+squirrel small pale ghostly~
+a small, pale squirrel~
+A small squirrel with a ghostly tint chitters softly as it moves around.
+~
+   A small squirrel glances about the area nervously.  It seems to be pale and
+transparent for some reason, as if it were a spirit of some animal instead of a
+living thing.  It chitters softly to itself as it wanders around the area.    
+~
+2062 2098176 0 0 E
+2 19 14 1d3+12 1d5+1
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#3
+rabbit ghostly pale small~
+a small, ghostly rabbit~
+A small rabbit with a pale look to its fur hops around.
+~
+   A small rabbit hops around here.  It seems quite content to simply play in
+the area, hopping around merrily.  Its fur, which normally should be quite
+brown, is instead pale and transparent, making you wonder if this is a living
+rabbit, or a spirit called back to this realm from the afterlife.    
+~
+51210 2098176 0 0 E
+2 19 14 1d3+12 1d5+1
+0 0 0
+8 8 0 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#4
+dragonfly spirit pale~
+a small dragonfly spirit~
+A dragonfly with a pale tint to it flies around your head.
+~
+   A small pale dragonfly hovers for a brief moment, allowing you a better look
+at it.  It seems to have been called back from the spirit world for some
+purpose, judging by its semi-transparentness.  It looked to once have been a
+bluish green in color, with a faint tint of violet in its wings.  It speeds off
+again, circling your head once before you lose sight of it.    
+~
+40970 2163712 0 0 E
+2 19 14 1d3+12 1d5+1
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#5
+sparrow brown~
+a brown sparrow~
+A brown sparrow circles the area.
+~
+   A brown sparrow is circling the area not too far over your heads, with its
+wings beating in a regular pattern as it keeps itself aloft.  Its claws look
+strong from perching on branches all day, and its hard beak is somewhat worn
+from being used to grab things in the dirt.  It seems a fine specimen of its
+kind, especially for the area.
+~
+2058 2163712 0 0 E
+5 17 11 2d5+65 2d5+0
+0 0 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#6
+rat large black~
+a large black rat~
+A large black rat roams the area.
+~
+   A large black rat seems to be searching the area for something.  Its claws
+do not look as sharp as you would expect, but its teeth seem quite pointy.  It
+seems to be more intent on looking for things than on driving others away from
+its area, but with those teeth you have little doubt it could do so with no
+small degree of effeciancy.    
+~
+14 2098176 0 0 E
+5 17 11 2d5+65 2d5+0
+0 0 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#7
+ferret brown~
+a brown ferret~
+A brown ferret surveys the terrain.
+~
+   A brown ferret studies the terrain here.  Its beady eyes look back and forth
+across the room as it turns its head from side to side.  Its long nose sniffs
+the area occasionally, and you are quite sure that if there were something here
+in the room, the ferret would notice it.    
+~
+2058 2098216 0 0 E
+5 17 11 2d5+65 2d5+0
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#8
+monkey small brown~
+a small brown monkey~
+A brown monkey scratches under its arms and screeches at you.
+~
+   This small brown money, covered from head to toe with hair, is quite
+predictably scratching under its arms.  It also seems to be jumping up and down
+and screeching at anyone who looks at it.  It does not, however, seem to be
+very violent or hostile, but you wouldn't want to make it mad.    
+~
+2062 2098176 0 0 E
+9 15 7 5d5+130 2d7+1
+0 0 0
+8 8 0 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#9
+raven black jet~
+a jet-black raven~
+A raven with jet black feathers is perched to the side here, watching.
+~
+   This raven has feathers as black as the darkest night.  It sits to one side
+of the area, calmly watching everyone else with great patience through its deep
+eyes.  Its beak looks very sharp, having been honed from years of daily use.  
+~
+2058 2163712 0 0 E
+9 15 7 5d5+130 2d7+1
+0 0 0
+8 8 0 0
+BareHandAttack: 11
+Maxmove: 50
+E
+#10
+snake green large~
+a large green snake~
+A large green snake slithers along the ground here.
+~
+   This green snake slithers along the ground with its smooth body.  Its fangs
+look sharp, but more dangerous is the clear liquid dripping from them.  
+Fortunately, it does not seem to be very aggressive, content to simply slither
+along across the ground.    
+~
+67595 2097154 0 0 E
+9 15 7 5d5+130 2d7+1
+0 0 0
+8 8 0 9
+BareHandAttack: 4
+Maxmove: 50
+E
+#11
+spider large black~
+a large black spider~
+A large black spider creeps along the ground here.
+~
+   A large black spider stands here on its eight legs, slowly clicking.  It
+does not appear to be hostile, but the large fangs in its mouth dripping with
+some sort of fluid tell you that it would be quite wise to exercise caution.  
+Its armored body seems to provide a decent amount of protection, and its eight
+long legs provide balance in any number of situations.    
+~
+2059 2098208 0 0 E
+14 12 2 6d8+240 2d8+4
+0 0 0
+8 8 0 9
+BareHandAttack: 4
+Maxmove: 50
+E
+#12
+alligator gator large green~
+a large green alligator~
+A large green alligator opens its huge mouth and yawns loudly.
+~
+   A large green alligator lies on the ground.  The gator's skin is covered
+from head to toe with scales which do not impede its swift underwater motion
+and provide a great deal of protection.  It would be a very dangerous foe if it
+were provoked, due to its protected body and razor-sharp teeth, but it seems
+quite content to simply lounge around for now.    
+~
+2058 18875456 0 0 E
+14 12 2 6d8+300 2d8+4
+0 0 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#13
+falcon bird majestic beautiful soars~
+a majestic falcon~
+A beautiful bird majestically soars over the area.
+~
+   A falcon, one of the more dangerous and majestic birds of prey, flies around
+the area here.  Its claws are honed to a razor's edge, and its beak is not very
+far behind that.  Its plumage is such that it could blend into any forest and
+not be noticed, and the bird wouldn't have it any other way.    
+~
+2058 2294784 0 0 E
+14 12 2 6d8+240 2d8+4
+0 0 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#14
+wolf grey large~
+a large grey wolf~
+A large grey wolf sniffs the air cautiously.
+~
+   A large grey wolf sniffs the air cautiously, sensing what is around her.  
+As a pack animal, you know that other wolves cannot be very far if she happens
+to be here, yet you hear nothing in the distance to verify that fact.  She
+moves with a silence and grace that only one who is truly one with their
+environment can fully comprehend.  Her sharp teeth look as though they could
+easily tear to shreds anyone who threatens her, her pack, or her companions
+without a second thought.    
+~
+2058 2495488 0 0 E
+14 12 2 6d8+240 2d8+4
+0 0 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#15
+servant aerial form~
+an aerial servant~
+The form of an aerial servant seems to materialize in front of you.
+~
+   This appears to be an aerial servant, a being from the elemental plane of
+air.  Composed almost completely of wind and the element of air, it
+nevertheless maintains some solidity on this plane through means unknown.    
+~
+10 2425864 0 0 E
+12 13 4 5d6+300 2d8+3
+0 4700 0
+8 8 0 0
+Maxmove: 50
+E
+#16
+devil dust~
+a dust devil~
+A dust devil whirls around here, sending dust and dirt flying everywhere.
+~
+   This is a dust devil, a creature from the elemental plane of air.  It
+resembles in many respects a small tornado filled with sand, dust, or dirt,
+depending on the current environs.  It appears to be somewhat angry at the
+present moment, and whirls around angrily trying to find someone to pummel with
+its high winds and whirling sands.    
+~
+2088 1024 0 0 E
+4 18 12 1d5+45 1d8+1
+0 0 0
+8 8 0 0
+BareHandAttack: 12
+Maxmove: 50
+E
+#17
+elemental water~
+a water elemental~
+An elemental composed totally of water soaks the ground here.
+~
+   This being is an elemental, a creature from one of the elemental planes of
+existance, composed totally of one of the four elements that supposedly make up
+everything that exists.  This particular elemental is made of the element of
+water, and stands here soaking the ground upon which it stands as it waits for
+a command from its master.    
+~
+106506 2098216 0 0 E
+12 13 4 5d6+200 2d8+3
+0 1 0
+8 8 0 0
+Maxmove: 50
+E
+#18
+elemental earth~
+an earth elemental~
+An elemental composed of earth stands here, towering over you.
+~
+   Like other elementals, this one is composed totally of one of the four main
+elements that supposedly make up all living things.  This particular elemental
+is composed entirely of the element of earth, making it a very solidly built
+being.  It stands tall as it waits for its next command.    
+~
+106506 35652648 0 0 E
+12 14 4 5d6+200 2d8+2
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#19
+elemental air~
+an air elemental~
+A faint wind barely reveals the presence of an elemental of air.
+~
+   As all elementals are, this elemental is composed totally of one element out
+of the four that supposedly make up all living things.  This elemental is an
+elemental composed entirely of air, which makes it rather difficult to see.  A
+faint breeze is one of the few signs of its presence as it stands nearby,
+waiting for a new order from its master.    
+~
+57354 2163754 0 0 E
+12 13 4 5d6+200 2d8+3
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#20
+elemental fire~
+a fire elemental~
+A pillar of flame easily reveals the dominating presence of a fire elemental.
+~
+   A fire elemental, like other elementals, is made up entirely of one of the
+four elements that seemingly make up all life.  Fire elementals, of course, are
+composed entirely of fire, making them rather fearsome beings.  It radiates a
+large amount of heat as stands in the center of the area, waiting for a new
+command from the one who would be its master.    
+~
+229386 2098216 0 0 E
+12 13 4 5d6+200 2d8+3
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#21
+elemental abyssmal aggro~
+an abyssmal elemental~
+An elemental composed of cold, green flame fills the area with its hate.
+~
+   This foul being must have been summoned from the depths of the Abyss itself.
+It is composed of an unnatural cold, green flame that feeds off the anger and
+hate of others.  It undulates, forming different images - all from your worst
+nightmares.  With barely a moment's hesitation it lashes out at all it sees.  
+~
+98346 1064 0 0 E
+12 13 4 5d6+200 2d8+3
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#22
+guard large~
+a large guard~
+A large guard stands here with its arms crossed, watching everyone nearby.
+~
+   A large guard stands ready here.  His arms are crossed as he looks around
+the room, examining all who stand within it.  It seems as if he would be quite
+adept at protecting someone from attack.    
+~
+122890 40 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#23
+elemental water greater~
+a greater water elemental~
+A greater water elemental stands here.
+~
+   This large elemental surveys all the surroundings with an air of contempt.
+Nothing seems to impress it very much nor hold its attention for very long
+~
+106506 2098216 0 0 E
+25 5 -9 3d33+700 4d6+8
+0 87000 0
+8 8 0 0
+Maxmove: 50
+E
+#24
+elemental earth greater~
+a greater earth elemental~
+A greater earth elemental stands here.
+~
+   This large elemental surveys all the surroundings with an air of contempt.
+Nothing seems to impress it very much nor hold its attention for very long
+~
+106506 35652648 0 0 E
+25 5 -9 3d33+850 4d6+8
+0 87000 0
+8 8 0 0
+Maxmove: 50
+E
+#25
+elemental air greater~
+a greater air elemental~
+A greater air elemental stands here.
+~
+   This large elemental surveys all the surroundings with an air of contempt.
+Nothing seems to impress it very much nor hold its attention for very long
+~
+122890 2163754 0 0 E
+25 5 -9 3d33+650 4d6+8
+0 87000 0
+8 8 0 0
+Maxmove: 50
+E
+#26
+elemental fire greater~
+a greater fire elemental~
+A greater fire elemental stands here.
+~
+   This large elemental surveys all the surroundings with an air of contempt.
+Nothing seems to impress it very much nor hold its attention for very long
+~
+237578 2098216 0 0 E
+25 5 -9 3d33+750 4d6+8
+0 87000 0
+8 8 0 0
+Maxmove: 50
+E
+#27
+elemental abyssmal cold green flame aggro~
+a greater abyssmal elemental~
+An elemental composed of cold, green flame fills the area with its hate.
+~
+   This foul being must have been summoned from the depths of the Abyss itself.
+It is composed of an unnatural cold, green flame that feeds off the anger and
+hate of others.  It undulates, forming different images - all from your worst
+nightmares.  With barely a moment's hesitation it lashes out at all it sees.  
+~
+106538 1064 0 0 E
+20 8 -4 3d20+400 3d7+6
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#28
+snakes group large~
+a large group of snakes~
+A large group of snakes hiss loudly.
+~
+   A large group of brown snakes slither around, baring their fangs.  They hiss
+loudly and they look quite angry, and you notice a pale green liquid that
+thinly coats their fangs.  Their skin does not look quite as smooth as that of
+other snakes, and looks rough.  They seem to harmed as easily as other snakes,
+but their skin looks as if it were made of bark.    
+~
+1114155 1064 0 0 E
+15 11 1 5d10+300 2d8+4
+0 8400 0
+8 8 0 9
+Maxmove: 50
+E
+#29
+elemental air aggro~
+an air elemental~
+A faint wind barely reveals the presence of an elemental of air.
+~
+   As all elementals are, this elemental is composed totally of one element out
+of the four that supposedly make up all living things.  This elemental is an
+elemental composed entirely of air, which makes it rather difficult to see.  A
+faint breeze is one of the few signs of its presence as it stands nearby.    
+~
+57386 66602 0 0 E
+12 13 4 5d6+200 2d8+3
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#30
+elemental fire aggro~
+a fire elemental~
+A pillar of flame easily reveals the dominating presence of a fire elemental.
+~
+   A fire elemental, like other elementals, is made up entirely of one of the
+four elements that seemingly make up all life.  Fire elementals, of course, are
+composed entirely of fire, making them rather fearsome beings.  It radiates a
+large amount of heat as stands in the center of the area.    
+~
+229418 1064 0 0 E
+12 13 4 5d6+200 2d8+3
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#33
+elemental water greater aggro~
+a greater water elemental~
+A greater water elemental stands here.
+~
+   This large elemental surveys all the surroundings with an air of contempt.
+Nothing seems to impress it very much nor hold its attention for very long.  
+~
+106506 1034 0 0 E
+20 8 -4 3d20+400 3d7+6
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#34
+elemental greater earth aggro~
+a greater earth elemental~
+A greater earth elemental stands here.
+~
+   This large elemental surveys all the surroundings with an air of contempt.
+Nothing seems to impress it very much nor hold its attention for very long.  
+~
+106538 33555466 0 0 E
+20 10 -4 3d20+400 3d7+5
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#35
+elemental air greater aggro~
+a greater air elemental~
+This large elemental surveys all the surroundings with an air of contempt.
+~
+   This large elemental surveys all the surroundings with an air of contempt.
+Nothing seems to impress it very much nor hold its attention for very long.  
+~
+122922 66602 0 0 E
+20 8 -4 3d20+400 3d7+6
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#36
+elemental fire greater aggro~
+a greater fire elemental~
+A greater fire elemental stands here.
+~
+   This large elemental surveys all the surroundings with an air of contempt.
+Nothing seems to impress it very much nor hold its attention for very long.  
+~
+237610 10 0 0 E
+20 8 -4 3d20+400 3d7+6
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#70
+brown white hawk~
+a brown-and-white hawk~
+A brown-and-white hawk perches here, surveying the area with shrewd golden eyes
+~
+   This is a brown-and-white feathered hawk, its golden eyes darting around and
+studying everything carefully.  His feathers are dark on top, across his back
+and the edge of his wings, fading into a pale, creamy white along his belly and
+the underside of his wings.  His beak is a bright golden-yellow, curved sharply
+and hooked into a point at the end.    
+~
+1277978 2196520 0 0 E
+3 19 13 1d5+25 1d6+1
+0 0 6
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#71
+black badger~
+the black badger~
+A black badger stands here on stubby little legs, whiskers twitching furiously.
+~
+   This is a short, black badger with a white mark on its face.  It has a soft,
+pink little nose and white whiskers that twitch furiously.  It has short,
+stubby little legs with wicked-looking black claws that appear to be perfect
+for digging or defending its burrow.    
+~
+1146904 262176 0 0 E
+4 18 12 1d5+45 1d8+1
+0 0 6
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#72
+dire rat grey~
+the large grey rat~
+A large grey rat sniffs the ground.
+~
+   This is a large, greyish-colored rat, often called a dire rat for its size.
+It has black, beady eyes that dart arund the room rapidly, and grey whiskers
+that twitch incessantly.  Tw long, white and very sharp teeth poke out from its
+jaws, clicking nervously.    
+~
+1114140 1064 0 0 E
+4 18 12 1d5+45 1d8+1
+0 0 3
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#73
+tiny viper snake green~
+the bright green viper~
+A brightly-hued viper slithers along the ground, its tongue flicking in and out.
+~
+   This is a very small, brightly colored viper.  Its skin is predominantly
+green, with a wide yellow stripe running down the length of its body.  Its
+narrow, forked tongue darts in and out of its mouth from between two pale
+white, sharply pointed fangs.    
+~
+229400 264296 0 0 E
+4 18 12 1d5+45 1d8+1
+0 0 5
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#74
+golden eagle~
+the golden eagle~
+A majestic, golden eagle perches here, proud and dignified.
+~
+   This is a rare and beautiful golden eagle, its feathers varying between a
+rich, sable brown and golden honey.  It has sharp golden eyes that seem to spot
+every tiny bit of movement, constantly darting from one part of the area to
+another.  Its beak has a wickedly sharp hook, and its talons, each an inch
+long, are also dangerously sharp-looking.  The bird is a good two feet high,
+large even for one of its kind, and its bearing shows both an innate majesty
+and ferocity.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#75
+wolf timber grey large~
+the grey timber wolf~
+A large timber wolf paces around, its tawny eyes searching the area restlessly.
+~
+   This is a large, beautiful timber wolf.  It has thick, grey and white fur
+covering its slender and wiry body, and tawny eyes, keen with intelligence and
+observation, survey the area restlessly.  It paces around almost constantly, as
+if filled with the restless energy of one who wants to roam through the wilds.
+Its paws are very large for its frame, nearly the size of a dinner plate, and
+well designed for padding thrugh the forest or over a blanket of freshly fallen
+snow with ease and grace.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+0 0 6
+8 8 0 0
+Maxmove: 50
+E
+#76
+panther jet black~
+the black panther~
+A jet-black panther paces here, jade-green eyes glaring around.
+~
+   This is a beautiful panther, its body covered in a coat of glossy-jet black
+fur.  The panther has deep jade-green eyes, seeming to reflect an aloofness and
+almost a disdain for its surroundings.  It paces the area restlessly, tail
+switching back and forth in annoyance, muscles moving sleekly beneath the ebony
+fur.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+0 0 6
+8 8 0 0
+Maxmove: 50
+E
+#77
+small viper~
+the red copperhead~
+A red serpent, back pattterned with a black diamond pattern, slithers along.
+~
+   This is a smaller-sized snake, a deep, coral red patrterned with a series of
+black diamond marking running along the length of its body.  It has a slender
+tongue which darts out periodically, tasting the air.  Its black, beady eyes
+stare flatly around, showing little intelligence beyond a dull, passive stare.
+  
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#78
+brown bison buffalo~
+the large brown bison~
+A large brown bison with prominant, ivory horns, swings its massive head around as it looks about.
+~
+   A massive bison stands stoically here, covered in a thick cat of rich,
+chocolate-brown fur.  Around its head and neck, the fur changes texture to a
+very thick, almost curly, ruff of fur.  Two sharp, ivory horns protrude from
+its massive head, and large, liquid brown eyes gaze out from either side of its
+head.    
+~
+8 0 0 0 E
+11 14 5 5d4+190 2d8+2
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#79
+black bear~
+a black bear~
+A smallish black bear, walking about on all fours, paws the ground.
+~
+   This is a medium-sized black bear, covered in a thick, glossy coat of ebony
+fur.  It has dark brown eyes that look around with curiosity, and paws
+unusually large for its body size.  IT has a dash of lighter, tawny-colored
+brown around its muzzle, and prominant, sharp-looking teeth which can be seen
+upon opening its mouth.    
+~
+253962 0 0 0 E
+11 14 5 5d4+190 2d8+2
+0 0 6
+8 8 0 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#80
+camel sandy~
+a sandy-colored camel~
+A tall, sandy-colored camel with two large humps on its back stands here, its long lashes blinking over its eyes.
+~
+   This is a tall, funny-looking beast called a camel.  Its body is covered in
+sandy-colored fur, and it has two very large, odd-looking humps on its back.  
+The camel is supported by four spindly legs that barely look like it can
+support its weight, and each leg seems to have three joints instead of two.  
+The camel has large, beautiful brown eyes that seem extremely expressive for an
+animal, and lashes well over an inch long, giving the beast an almst feminine
+appearance.    
+~
+8 0 0 0 E
+11 14 5 5d4+190 2d8+2
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#81
+constrictor snake boa~
+a boa constrictor~
+A long, brown and black snake coils itself int a tightly wound circle, black eyes staring aroudn it.
+~
+   This is a large, brown and black boa constrictor, native to jungle areas.  
+It has black, beady eyes that seem to show hints of malevolance, and its
+muscles flex periodically in an almost threatening manner.  It coils itself int
+a tight circle, then stretches out again and back into a coil repeatedly,
+keeping its muscles loose and ready to strangle its next victim.    
+~
+9 0 0 0 E
+11 14 5 5d4+190 2d8+2
+0 0 0
+8 8 0 9
+Maxmove: 50
+E
+#82
+mob unfinished~
+a giant owl~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#83
+mob unfinished~
+a lion~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+0 0 6
+8 8 0 0
+Maxmove: 50
+E
+#84
+mob unfinished~
+a dire wolf~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#85
+mob unfinished~
+an assassin vine~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+0 0 5
+8 8 0 0
+Maxmove: 50
+E
+#86
+mob unfinished~
+a brown bear~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+0 0 6
+8 8 0 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#87
+mob unfinished~
+a tiger~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+0 0 6
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#88
+mob unfinished~
+a giant crocodile~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+0 0 3
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#89
+mob unfinished~
+a huge viper~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+17 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 9
+BareHandAttack: 4
+Maxmove: 50
+E
+#90
+mob unfinished~
+a unicorn~
+A majestic and serene unicorn stands here, its bearing noble and etheral.
+~
+   The unicorn is one of the most magnificent creatures you have ever beheld,
+its fur a pure, snow-white and a beautiful, golden horn rising from its
+forehead.  It appears both delicate yet strong, its muscules solid beneath the
+white fur yet its bones slender and fine beneath the musculature.  It looks at
+you briefly with sky-blue eyes, and those eyes seem to see far more than a
+normal animal's.    
+~
+3313688 2101288 0 850 E
+20 8 -4 3d20+440 3d7+6
+0 0 3
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#91
+mob unfinished~
+a dire bear~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 0 0
+8 8 0 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#92
+mob unfinished~
+a xorn~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#93
+mob unfinished~
+a shambling mound~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#94
+mob unfinished~
+a treant~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+23 6 -7 3d33+650 3d8+8
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#95
+mob unfinished~
+an elephant~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+23 6 -7 3d33+650 3d8+8
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#96
+mob unfinished~
+a dire tiger~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+23 6 -7 3d33+650 3d8+8
+0 0 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#97
+mob unfinished~
+a large salamander~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+23 6 -7 3d33+650 3d8+8
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#99
+undefined~
+undefined~
+Nothing.
+~
+Nothing.
+~
+10 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 0 0
+Maxmove: 50
+E
+$

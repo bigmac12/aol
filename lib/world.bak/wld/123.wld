@@ -1,0 +1,2181 @@
+#12300
+The Southern Gate~
+   This is the southern gate of Garnet, a dwarven settlement.  Solamnia granted
+the dwarves of Thorbardin mining and settlement rights to this land for their
+aid against the ogres which had been terrorizing Solamnic lands.  The
+settlement was named for its location of course, being in the Garnet mountains.
+The dwarves have not had time to entrench themselves quite yet, and so this
+gate is little more than a break in a six foot tall, stone wall which surrounds
+the majority of the settlement itself.  It is wide enough to allow the passage
+of wagons, though the dwarves keep an eye on anyone coming through the gate.  
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12301
+S
+#12301
+Sparking Anvil Avenue~
+   This large, perfectly fitted cobblestone avenue stretches as far north as
+the eye can see.  Breaking the perfection of the cobblestones are two ruts, set
+in the middle of the avenue.  They certainly look odd, placed amid the
+perfectly set cobblestones, and may warrant additional attention from the
+curious.  This particular section of the road is quite busy, and is filled with
+a variety of people, from dwarf and human to kender and gnome.  Wagons seem to
+be constantly rolling in and out of the gate, the ones entering either
+continuing northward or pulling into the wagonyard to the west.  To the east
+lies a squat wooden building, from which the sounds of revelry can be heard.  
+A wooden sign hangs above its door.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12302
+D1
+~
+~
+0 0 12342
+D2
+~
+~
+0 0 12300
+D3
+~
+~
+0 0 12344
+E
+sign~
+   The sign hangs just above the door of the building, swaying gently in the
+breeze.  It is marked with the words, "The Wayward Inn" and bears a depiction
+of a road vanishing into the distance.    
+~
+E
+ruts rut~
+   Upon closer inspection, you see that the ruts placed in the avenue are
+actually hollowed cobblestones.  The rut is smooth for the most part, and the
+lip lies flush with the rest of the street.  The dwarves have created these
+ruts as a pathway of sorts for the many wagons entering the settlement.  
+Certainly quite the clever invention, the ruts serve to direct wagon traffic to
+specific areas as well as to save wear and tear on the cobblestones.    
+~
+S
+#12302
+Sparking Anvil Avenue~
+   The same perfectly set cobblestone road makes its appearance, accompanied by
+the set of ruts which run through it.  The crowds are less here, though still
+fairly busy as people make their way to different areas of the settlement.  A
+large portion of the wagons turn westward here, heading down Delving Way.  To
+the east lies a small wooden building, nondescript in appearance save for a
+sign dangling above its doorway.  The avenue continues northward, further into
+the settlement, and the southern gate lies a few blocks south.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12303
+D1
+~
+~
+0 0 12396
+D2
+~
+~
+0 0 12301
+D3
+~
+~
+0 0 12336
+E
+sign~
+   This small sign bears a depiction of a map carved into it.  Indeed, it is a
+depiction of the cliche treasure map, complete with dotted line and X.    
+~
+S
+#12303
+Sparking Anvil Avenue~
+   This large, perfectly fitted cobblestone avenue stretches for as long as the
+eye can see.  Bustling crowds of small, stout dwarves waddle about, shopping
+from the various merchants that have made camp on the sides of the avenue.  
+Small, intricately crafted dwellings lie nearly wherewhere to the right and
+left, with old dwarven wives hanging out their clothing on lines to dry them.
+To the west lies a large, towering structure that looks very much like a
+temple.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12304
+D2
+~
+~
+0 0 12302
+D3
+~
+~
+0 0 12348
+S
+#12304
+Sparking Anvil Avenue~
+   The avenue continues along, its cobblestone surface smoothing out
+considerably.  Bustling crowds roam about, shopping or getting the latest
+gossip.  Children can be seen running themselves ragged from playing, while a
+few old dwarven woman can be seen hanging up clothing to dry.  Buildings, old
+and new, have been erected nearly everywhere off the road, while several
+merchants can be heard shouting for people to come and buy their wares.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12305
+D2
+~
+~
+0 0 12303
+D3
+~
+~
+0 0 12350
+S
+#12305
+Market~
+   The avenue trucks slowly along, nearing the centre of the city.  There are a
+few merchant stands, but most are back down the road.  More plants and small
+animals can be seen scuttling about, while marvelously hand-carved benches have
+been stuck in the middle of a small grove of trees.  A small group of children
+can be seen sprinting around, some dueling each other with imaginary axes and
+swords.  A large fountain lies north, while the avenue can go back south.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12306
+D1
+~
+~
+0 0 12332
+D2
+~
+~
+0 0 12304
+D3
+~
+~
+0 0 12347
+D6
+~
+~
+0 0 12333
+D7
+~
+~
+0 0 12334
+S
+#12306
+A Fountain~
+   A large, elegantly crafted fountain greets you as you enter this quaint,
+quiet square.  The fountain's three tiers softly spout water, cascading into
+the fountain's large bowl.  Strange, marble-like stones have been fitted into
+place around the fountain, their surface slightly damp from the fountain.  
+Many benches lie around the fountain, so that many dwarven patrons might enjoy
+its calm elegance.  Exits lead to the east, west, north and south.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12307
+D1
+~
+~
+0 0 12334
+D2
+~
+~
+0 0 12305
+D3
+~
+~
+0 0 12333
+D6
+~
+~
+0 0 12345
+D7
+~
+~
+0 0 12335
+D8
+~
+~
+0 0 12347
+D9
+~
+~
+0 0 12332
+S
+#12307
+Market~
+   This wide avenue continues, its cobblestone surface dull as ever.  The
+merchants on the sidewalks have lessened somewhat, as they tend to stay near
+the gates, hoping to catch unwary travellers.  Huge, poplar trees have been
+planted along this part of the avenue, casting cool shadows over walking
+dwarves when the sun is up.  Benches have been strategically placed under the
+trees, taking full advantage of the shade.    
+~
+123 4 1 0 0
+D0
+~
+~
+0 0 12328
+D1
+~
+~
+0 0 12335
+D2
+~
+~
+0 0 12306
+D3
+~
+~
+0 0 12345
+S
+#12308
+A Small, Low-Roofed Entrance~
+   This path is quite narrow, and is only wide enough to accomdate two people
+at a time.  The floor of the pathway is made of smooth, neatly fitted
+flagstones which have been swept clean.  A small, low-lying roof has been built
+into the wall over the pathway to provide some cover against the elements.  A
+small symbol has been carved into the stone of the wall on either side of the
+path, lending the only clue as to where this path leads.  Sparking Anvil Avenue
+lies just to the west.    
+~
+123 4 0 0 0
+D1
+~
+~
+0 0 12309
+D3
+~
+~
+0 0 12328
+E
+symbol~
+   The symbol carved into the stone of the wall is that of two crossed
+battleaxes, surrounded by a knotwork pattern.  It is the symbol of the dwarven
+branch of the warrior's guild, and likely marks this as the location of said
+guild.    
+~
+S
+#12309
+A Large Courtyard~
+   This is a large courtyard made of neatly fitted, smooth flagstones.  The
+courtyard is rectangular in shape, and tall stone walls of dwarven
+craftsmanship surround it to the west and south.  The Warrior's Guild uses this
+courtyard as a practice yard, sparring with eachother, as well as testing
+initiates.  In the center of the courtyard, the floor sinks into a rectangular
+depression, forming a natural 'arena' of sorts.  Simple straw mats sit evenly
+spaced around the arena, where observers or warriors may sit and watch the
+matches.  Weapon racks sit on either end of the courtyard, holding an
+impressive array of weaponry.  The flagstones are swept, and everything in the
+courtyard is kept impressively clean.  One thing that catches your eye are
+symbols etched into the center of the west and south walls.    
+~
+123 128 0 0 0
+D0
+~
+~
+0 0 12310
+D1
+~
+~
+0 0 12355
+D3
+~
+~
+0 0 12308
+D7
+~
+~
+0 0 12357
+E
+symbols symbol~
+   Etched into the exact center of the western and southern walls are identical
+dwarven runes, circled by a pattern of knotwork.  When examined for a longer
+period of time, one gets the impression that the runes glow red, ever so
+slightly.    
+~
+S
+#12310
+A Large Meeting Room~
+   As you enter the meeting room of the Guild of Warriors, The first thing you
+notice is the smell of burning pitch from the torches in the room and the smell
+of sweat soaked leather from the warriors in here.  The room is large enough to
+fit at least fifty people, though at the moment only a few can be found in
+here.  The most noticeable person in the room is the Head of the Guild, a
+seasoned, battle ready dwarf with one eye.  He seems to be holding a discussion
+with a few others in the room, discussing something heatedly.  The room is
+built to accomodate both dwarves and larger sized creatures, with the high
+ceilings and raised meeting table.  On the table you notice a map of Krynn
+spread out, with various knives marking out certain locations, presumably where
+other units are stationed.    
+~
+123 8 0 0 0
+D2
+~
+~
+0 0 12309
+S
+#12311
+reuse me (temple)~
+   A majestic statue lies right in front of you, in the middle of the Temple.
+It's perfect marble has been crafted into the likeness of a powerful dwarven
+warrior, wielding a large enchanted throwing axe.  Reorx, naturally.  
+Vallenwood benches for seating lie to the north and south, while the aisle
+continues to the west.    
+~
+123 0 0 0 0
+S
+#12312
+Before Two Solid Oak Doors~
+   Two large doors stand high here, the oak proving durable and strong against
+any kind of force.  Wedged beautifully into a finely crafted building of stone,
+each layer is laid perfectly upon another.  The left side of the door has been
+engraved with a large smithing hammer, and the other side has an equally large
+anvil.  Subheading the two images is an engraved message, written in dwarven.
+The cobblestone pathway leads southward down the hill to whence one would come,
+but the two doors prove mightily inviting, especially to dwarves.    
+~
+123 0 1 0 0
+D0
+~
+doors~
+1 0 12313
+D2
+~
+~
+0 0 12353
+E
+message dwarven~
+     "In loving and honoured memory of the Creator, Reorx"
+             "May he father us all forever"
+~
+S
+#12313
+Entrance To Reorx's Temple~
+   Dwarven craftsmanship is blatantly obvious, the evidence coming two-fold
+from the dwarven warrior statue standing in the center of the nave, and the
+master craftsmanship being displayed along the walls of the building, be them
+racks of armor, or weaponry.  The constant clang of metal being pounded on by
+an anvil can be heard in the distant rooms, though it's not devastatingly loud.
+The ceiling has been built using a mahagony wood, worked down and polished
+nicely to create a very rich effect in the temple.  Someone worked hard to
+create a beautiful representation of Reorx's hard working demeanour, and it was
+definitely achieved.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12314
+D1
+~
+~
+0 0 12320
+D2
+~
+doors~
+1 0 12312
+D3
+~
+~
+0 0 12319
+S
+#12314
+A Hallway Leading to the Altar~
+   The dwarven craftsmanship continually extends in the architectual design of
+this temple, the work looking as though it'll last for many years.  The further
+someone enters into here, the more exquisite it seems to become.  Hanging from
+the walls on the left and right are fine, exquisite tapestries the colour of
+red.  On the left is a tapestry depicting a smithing hammer, on the right is an
+anvil.  A long, grey carpet stitched with red lays on the ground, the length of
+it leading up to a slightly visible altar to the north.  Intense heat comes
+from the west, the sounds of clanging metal ringing with it, despite a solid
+door used to dim the noise down.  Another door is to the east, though nothing
+gives an idea of what may be behind it.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12315
+D1
+~
+door~
+1 12384 12322
+D2
+~
+~
+0 0 12313
+D3
+~
+door~
+1 0 12321
+E
+tapestries vibrant reorx two large~
+   This wall-hanging is truly breathtaking.  The cloth itself is a vibrant,
+rich red in color, and has been crafted of a heavy iridescent material which
+causes it to shimmer slightly in the light.  The effect is quite stunning,
+giving the lower portion of the tapestry the appearance of glowing ember at
+times.  Set in the center of the left tapestry is the symbol of a hammer, and
+on the right a symbol of an anvil.  Both have been expertly stitched in grey
+and silver thread.  On each side of the tapestries, ancient dwarven runes have
+been stitched in silver thread.    
+~
+S
+#12315
+Before The Altar~
+   The carpet finally ends, the red edging coming right up to the first step
+leading to the altar.  This altar is particularly unique in that it isn't like
+any other; instead, it is a large, magnificent scene of a dwarf pounding on a
+piece of metal.  The entire room has been designed this way.  The walls are
+actually designed to look like the walls of a cavern, and the forge in
+particular is large and exquisite in every style.  The dwarf resembles the one
+seen at the entrance of the temple, and it's obvious to anyone that read the
+plaque, or just has the knowledge, that the dwarf pounding away here is Reorx.
+Just before the image is a very large plaque, the words engraved written in
+dwarven.    
+~
+123 8 0 0 0
+D2
+~
+~
+0 0 12314
+E
+plaque words dwarven~
+   "There is a beauty in creation.  Nothing in life is better than crafting
+something lasting, and the process is as important as the finished item is.  
+Never be idle when you can be working.  Rituals and tried-and-true formulas are
+well and good, but innovation is vitally important.  In all things, strive to
+master your skill, honor your peers, and enjoy the results of your work.  "
+~
+S
+#12316
+reuse me (temple)~
+   This small waiting room as been well-furnished, and is well lit.  Large,
+goose-feather pillows are fitted into ornately carved benches against the
+walls.  Speaking of walls, they are covered in several large paintings, most of
+them extravagent.  This is the waiting room to see the a High Priest of Reorx,
+and perhaps benefit from one of his many healing powers.  The floor is covered
+with a rich, well-sewn carpet, and many large candles are set up in the
+corners.  The doorway to the priest's office is west, while the exit is back
+south.    
+~
+123 0 0 0 0
+S
+#12317
+Reuse me (temple)~
+   This small, insignificant storage room is littered with items.  Brooms,
+dirty rags, and boxes of all different kinds are packed against the walls, in
+no particular order.  Several large barrels are stacked in one corner, while a
+hammer sits beside it.  The floor is smeared with dirt and grime, and the room
+is lit dimly by a small, stubby candle hanging from the wall.  There is nothing
+here that seems of any interest, while the exit is the exact same way you came
+in.    
+~
+123 0 0 0 0
+S
+#12318
+reuse me (temple)~
+   This beautiful, masterfully furnished office belongs to none other then the
+High Priest of Reorx.  Huge, masterpieces of artwork have been hung around the
+walls, while the finest candles flare brilliantly from hangers on the walls.  
+A small desk, by non-dwarven standards, has been planted near the far wall, a
+high-backed chair pushed in behind it.  The floor is covered by a beautifully
+sewn carpet.  Near one of the back desk-legs, there looks to be a small handle.
+The only visible exit is back east.    
+~
+123 0 0 0 0
+S
+#12319
+A Quiet Study~
+   The structural perfection of dwarven hands extends to this miniature
+library, the room decorated very little but bearing the necessities to be
+effective for its purpose.  As part of the requirement, a few shelves are set
+along side each other, each filled with both old and new books alike.  
+Studying becomes easy with the scattered tables around the room, each set with
+two candles and comfy looking chairs to make reading all the more easier.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12313
+S
+#12320
+A Carpentry Shop~
+   The shop here appears to be used as some kind of carpentry class.  Many
+young dwarves are seated in here, silently carving away at pieces of material
+with whatever means they find most comfortable.  Whether or not it is
+coincidental, the room has been designed completely out of wood, decorated in
+certain locations quite beautifully to represent Reorx.  The far eastern wall
+bears a large carving of an anvil, with a hammer above it, representing one of
+the Creator's symbols.  All in all, the hardwood flooring in twofold with the
+finely built environment and decorated interior, the shop proves to be both
+inviting and intriguing to those that may wish to learn how to carve.    
+~
+123 8 0 0 0
+D3
+~
+~
+0 0 12313
+S
+#12321
+A Forging Shop~
+   Serving as one of the bigger rooms, this particular place acts a forging
+class.  Three, four forges can be seen, despite the many dwarves shuffling
+around the several anvils situated about.  Many of the dwarves are constantly
+forging away, while some of the older dwarves can be seen assisting them on
+what to do or not do.  This room isn't particularly pretty, but what forging
+room is supposed to be?  The walls are made of a solid metal, along side the
+floor and everything else here.  Many air channels extend out of the roof,
+allowing for the shop to remain somewhat friendly when it comes to breathing.
+~
+123 8 0 0 0
+D1
+~
+door~
+1 0 12314
+S
+#12322
+A Storage Room~
+   Dark, and not particularly tended to that well, this room serves as storage.
+A lantern barely keeps the room lit up, but with the available light it's easy
+to see many stacks of metal, and many piles of wood.  Probably used for holding
+material used in the shops, the room is generally plain, bearing little
+decoration or formality.  Several crates hold some newly loaded supplies,
+filling up the empty space where old supplies used to be.    
+~
+123 8 0 0 0
+D3
+~
+door~
+1 12384 12314
+S
+#12323
+Clerical Abundancies~
+   This small, simple structure has been marvelously crafted, like most dwarven
+homes and shops.  This small, humble place holds many clerical items that can
+be bought.  Many shelves line the walls, packed with items of all different
+kinds.  A small, circular sunroof can be seen when looking up, that lets in a
+warm glow when the sun is up.  A large, red and black tapestry can be seen
+behind the counter, on its surface sewn a beautiful anvil over a forge, the
+symbol of Reorx.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12353
+S
+#12324
+Notched Hammer Lane~
+   This lane is not as wide as its counterpart, the Sparking Anvil Avenue, but
+still can hold a very large crowd.  Several clerics can be seen preaching the
+names of their Gods, with a few dwarven peasants actually watching them.  The
+lane is lined with trees and shrubs of all different colors, and its plain to
+see that these dwarves have adapted to being in the hills quite well.  Several
+marvously crafted stone and wooden benches lie beneath many of the trees.  
+Some merchants can be seen, but this lane is much more peaceful then many of
+the other streets.    
+~
+123 0 1 0 0
+D1
+~
+~
+0 0 12333
+D3
+~
+~
+0 0 12325
+S
+#12325
+Westgate Crossings~
+   The Westgate Crossings intersects the streets known as Notched Hammer Lane,
+and Delving Stone Road.  The western gate of Garnet lies a few blocks to the
+west, while the marketplace lies a few blocks to the east.  Delving Stone Road
+is used mainly as a transportation route for wagons going to the quarry in the
+northern section of the settlement, and extends both north and south.  The
+location of this crossing makes it quite the busy place, and all manner of
+people are here going about their business.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12360
+D1
+~
+~
+0 0 12324
+D2
+~
+~
+0 0 12359
+D3
+~
+~
+0 0 12326
+S
+#12326
+Notched Hammer Lane~
+   This large, perfectly fitted cobblestone lane stretches off to the east,
+where a crossings can be seen.  Breaking the perfection of the cobblestones are
+two ruts, set in the middle of the avenue.  They certainly look odd, placed
+amid the perfectly set cobblestones, and may warrant additional attention from
+the curious.  This particular section of the road is fairly busy, and is filled
+with mostly humans and dwarves coming and going from the wagonyard to the
+south, or the settlement proper to the east.  A small, roofed structure lies to
+the north of the lane.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12380
+D1
+~
+~
+0 0 12325
+D2
+~
+~
+0 0 12381
+D3
+~
+~
+0 0 12327
+E
+ruts rut~
+   Upon closer inspection, you see that the ruts placed in the lane are
+actually hollowed cobblestones.  The rut is smooth for the most part, and the
+lip lies flush with the rest of the street.  The dwarves have created these as
+a pathway of sorts for the many wagons entering the settlement.  Certainly
+quite the clever invention, the ruts serve to direct wagon traffic to specific
+areas as well as to save wear and tear on the cobblestones.    
+~
+S
+#12327
+The Western Gate~
+   This is the western gate of Garnet, a dwarven settlement.  Solamnia granted
+the dwarves of Thorbardin mining and settlement rights to this land for their
+aid against the ogres which had been terrorizing Solamnic lands.  The
+settlement was named for its location of course, being in the Garnet mountains.
+The dwarves have not had time to entrench themselves quite yet, and so this
+gate is little more than a break in a six foot tall, stone wall which surrounds
+the majority of the settlement itself.  It is wide enough to allow the passage
+of wagons, though the dwarves keep an eye on anyone coming through the gate.  
+~
+123 0 1 0 0
+D1
+~
+~
+0 0 12326
+S
+#12328
+Sparking Anvil Avenue~
+   This wide avenue continues, its cobblestone surface dull as ever.  The
+merchants on the sidewalks have lessened somewhat, as they tend to stay near
+the gates, hoping to catch unwary travellers.  Huge, poplar trees have been
+planted along this part of the avenue, casting cool shadows over walking
+dwarves when the sun is up.  Benches have been strategically placed under the
+trees, taking full advantage of the shade.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12329
+D1
+~
+~
+0 0 12308
+D2
+~
+~
+0 0 12307
+D3
+~
+~
+0 0 12338
+S
+#12329
+Sparking Anvil Avenue~
+   This wide avenue continues, its cobblestone surface dull as ever.  The
+merchants on the sidewalks have lessened somewhat, as they tend to stay near
+the gates, hoping to catch unwary travellers.  Huge, poplar trees have been
+planted along this part of the avenue, casting cool shadows over walking
+dwarves when the sun is up.  Benches have been strategically placed under the
+trees, taking full advantage of the shade.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12330
+D2
+~
+~
+0 0 12328
+S
+#12330
+Sparking Anvil Avenue~
+   This wide avenue continues, its cobblestone surface dull as ever.  The
+merchants on the sidewalks have lessened somewhat, as they tend to stay near
+the gates, hoping to catch unwary travellers.  Huge, poplar trees have been
+planted along this part of the avenue, casting cool shadows over walking
+dwarves when the sun is up.  Benches have been strategically placed under the
+trees, taking full advantage of the shade.  A large, bustling building can be
+seen to the west.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12331
+D1
+~
+~
+0 0 12368
+D2
+~
+~
+0 0 12329
+S
+#12331
+Sparking Anvil Avenue~
+   This wide avenue continues, its cobblestone surface dull as ever.  The
+merchants on the sidewalks have lessened somewhat, as they tend to stay near
+the gates, hoping to catch unwary travellers.  Huge, poplar trees have been
+planted along this part of the avenue, casting cool shadows over walking
+dwarves when the sun is up.  Benches have been strategically placed under the
+trees, taking full advantage of the shade.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12372
+D1
+~
+~
+0 0 12366
+D2
+~
+~
+0 0 12330
+S
+#12332
+Market~
+   The avenue continues merrily along, its dwarven patrons waddling across it,
+most without purpose or direction.  The thump of heavy boots on the cobblestone
+can be heard quite well, as dwarves are not exactly light steppers.  The poplar
+trees have started to thin out, giving the area a warmer feel.  The trees have
+been replaced by numerous small shrubs, which many small animals can be seen
+scuttling about in.  The avenue veers off to the east, or continues to the
+north.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12334
+D3
+~
+~
+0 0 12305
+D6
+~
+~
+0 0 12306
+D9
+~
+~
+0 0 12346
+S
+#12333
+Market~
+   The avenue continues merrily along, its dwarven patrons waddling across it,
+most without purpose or direction.  The thump of heavy boots on the cobblestone
+can be heard quite well, as dwarves are not exactly light steppers.  The poplar
+trees have started to thin out, giving the area a warmer feel.  The trees have
+been replaced by numerous small shrubs, which many small animals can be seen
+scuttling about in.  The avenue continues both north and south.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12345
+D1
+~
+~
+0 0 12306
+D2
+~
+~
+0 0 12350
+D3
+~
+~
+0 0 12324
+D7
+~
+~
+0 0 12307
+D9
+~
+~
+0 0 12305
+S
+#12334
+Market~
+   The avenue continues merrily along, its dwarven patrons waddling across it,
+most without purpose or direction.  The thump of heavy boots on the cobblestone
+can be heard quite well, as dwarves are not exactly light steppers.  The poplar
+trees have started to thin out, giving the area a warmer feel.  The trees have
+been replaced by numerous small shrubs, which many small animals can be seen
+scuttling about in.  The avenue goes both north and south.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12335
+D1
+~
+~
+0 0 12352
+D2
+~
+~
+0 0 12332
+D3
+~
+~
+0 0 12306
+D8
+~
+~
+0 0 12305
+S
+#12335
+Market~
+   This small road has been shoddily created, almost as if it wasn't sanctioned
+by the govenors of the city.  There is no noticeable ground, only a long,
+dirt-covered clearing.  There are next to no merchants, and it seems as if the
+dwarven patrons in the city have tried to avoid this part of town, for some
+unknown reason.  No noises can be heard, except the faint sounds of the crowds
+to the west.  The road continues east.    
+~
+123 0 1 0 0
+D2
+~
+~
+0 0 12334
+D3
+~
+~
+0 0 12307
+D7
+~
+~
+0 0 12351
+D8
+~
+~
+0 0 12306
+S
+#12336
+Delving Way~
+   The same perfectly set cobblestone road makes its appearance, accompanied by
+the set of ruts which run through it.  There are few people walking the street
+here, it seems as though this small road is used mainly for the transportation
+of wagons to some other area of the settlement.  To the south lies a wagonyard,
+and Sparking Anvil Avenue lies to the east.  Delving Way continues west, where
+it turns northward.    
+~
+123 0 1 0 0
+D1
+~
+~
+0 0 12302
+D3
+~
+~
+0 0 12337
+S
+#12337
+Delving Way~
+   The same perfectly set cobblestone road makes its appearance, accompanied by
+the set of ruts which run through it.  There are few people walking the street
+here, it seems as though this small road is used mainly for the transportation
+of wagons to some other area of the settlement.  Delving Way turns northward
+here, towards Delving Stone Road.  Delving Way also continues eastward, toward
+Sparking Anvil Avenue and the southern gate of Garnet.    
+~
+123 0 1 0 0
+D1
+~
+~
+0 0 12336
+D6
+~
+~
+0 0 12340
+S
+#12338
+The Treasure Stop~
+   This huge, square room is quite a sight to look upon.  A large desk,
+blocking entrance to the rear of the room, has been placed smack in the middle.
+Behind it, you catch glimpses of glittering pieces of jewlerly, and treasures
+of all kind.  On the front side of the desk, there are many glass cases set up,
+with glittering pieces of treasure and jewlerly placed securely inside.  A few
+burly dwarven guards can be seen near the entrance, and they look none too
+happyo to see you.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12328
+D2
+~
+~
+0 0 12345
+S
+#12339
+Clothier's~
+A clothier's shop.
+~
+123 8 0 0 0
+D9
+~
+~
+0 0 12345
+S
+#12340
+Delving Stone Road~
+   Delving Stone Road begins to widen here, wide enough to permit several
+wagons to traverse the road simultaneously.  The road itself is constructed of
+perfectly set cobblestone, broken by the ingenious wagon paths designed by the
+dwarves.  This area is sparsely traveled on foot, most of the traffic being
+wagons or travelers on ponies and the like.  However, occasionally one can find
+hired guards walking on foot, escorting wagons up and down the road.  Delving
+Stone Road continues to the north, widening further.  It also leads southward,
+turning into Delving Way.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12341
+D9
+~
+~
+0 0 12337
+S
+#12341
+Delving Stone Road~
+   The road widens fully here, allowing many wagons to traverse simultaneously.
+The road itself is constructed of perfectly set cobblestone, broken by the
+ingenious wagon paths designed by the dwarves.  This area is sparsely traveled
+on foot, most of the traffic being wagons or travelers on ponies and the like.
+However, occasionally one can find hired guards walking on foot, escorting
+wagons up and down the road.  Garnet's tall stone wall lines the western edge
+of the road, effectively blocking it from the rest of Ansalon.  On the east
+side of the road, the backs of businesses can be seen, also blocked by a wall
+though much smaller in size.  The road continues northward towards a crossings,
+and also south towards Delving Way.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12359
+D2
+~
+~
+0 0 12340
+S
+#12342
+The Wayward Inn~
+   This is the entrance to the Wayward Inn, and for the most part looks like
+any other Inn on the face of Ansalon.  The building is constructed of wood, as
+is the room and most of its furnishings.  A sturdy oak desk lies to the north,
+short enough for most dwarves to see over the top.  It is covered in account
+books and other paperwork.  The floors of the room are a bit dusty, dirt having
+been tracked in by newly arrived guests.  A set of stairs next to the desk lead
+to the guest rooms.  One thing noticeable about this Inn is that everything has
+been scaled just right, in order to accomodate both dwarves, and also the
+taller races of Krynn.  Sounds of drinking and revelry can be heard coming from
+the taproom to the east.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12343
+D3
+~
+~
+0 0 12301
+S
+#12343
+The Wayward Inn Taproom~
+   This large, yet simple bar room is circular with a dome-shaped roof.  The
+floors are made of dusty, scarred-looking oak planks.  The furniture is made of
+oak as well, and looks similarly abused.  Iron lanterns hang from the rafters
+periodically, providing just the right amount of light for a bar atmosphere.  
+All in all, you get the idea that this bar is not a poor, or low quality
+establishment, but that it does receive a good amount of traffic from guests
+coming in off of the road.  Patrons sit scattered across the room, both dwarf
+and taller folk alike, drinking ale and discussing news with eachother.    
+~
+123 8 0 0 0
+D3
+~
+~
+0 0 12342
+S
+#12344
+Wagonyard~
+   Several wagons are arranged in a crude semicircle here, each one bearing
+it's own distinctive mark to identify the owners of the wagons, and to what
+purpose the wagons serve.  The sounds of animals can be heard from the stable
+to the west, but barely.  Standing on the back of one wagon, a diminutive human
+shouts his sales pitch selling something from the back of his wagon.  A couple
+of old dwarves shake their heads at the human as he cries out what he has.    
+~
+123 0 1 0 0
+D1
+~
+~
+0 0 12301
+D3
+~
+~
+0 0 12365
+S
+#12345
+Market~
+   The crowds in this area are nearly tripled compared to that of the roads.  
+Merchants and dwarves alike can be seen haggling with one another, sometimes
+their voices raising yells, contesting prices or the quality of goods.  
+Several heavily armed dwarves, bearing the insignia of the city guard, can be
+seen walking amongst the crowds, making sure arguments don't turn into fights,
+and generally keeping the peace.  The ground is dirty with every conceivable
+item thrown upon it, and a large building can be seen to the west.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12338
+D1
+~
+~
+0 0 12307
+D2
+~
+~
+0 0 12333
+D6
+~
+~
+0 0 12339
+D9
+~
+~
+0 0 12306
+S
+#12346
+The Sunstone Hearth~
+   This huge, square building smells deeply of fresh pastries, fragrant bread,
+and other assorted goodies that can make anyone's mouth water.  Many shelves
+have been lined up in front of the cashier, packed to the brim with bagged
+cookings.  The floor is covered, it seems, in a fine layer of flour.  A sun
+roof, seemingly a favored dwarven accessory, has been carved into the roof,
+letting in a warm glow when the sun is up.  Past the cashier, several dwarves
+can be seen scuttling about, their white chef hats dirty with cooking
+ingredients.    
+~
+123 8 0 0 0
+D6
+~
+~
+0 0 12332
+S
+#12347
+Market~
+   The crowds in this area are nearly tripled compared to that of the roads.  
+Merchants and dwarves alike can be seen haggling with one another, sometimes
+their voices raising yells, contesting prices or the quality of goods.  
+Several heavily armed dwarves, bearing the insignia of the city guard, can be
+seen walking amongst the crowds, making sure arguments don't turn into fights,
+and generally keeping the peace.  The ground is dirty with every conceivable
+item thrown upon it.  Smoke can be seen coming from the buildings to the west
+and north, while smaller buildings lie to the east and northeast.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12333
+D1
+~
+~
+0 0 12305
+D2
+~
+~
+0 0 12350
+D7
+~
+~
+0 0 12306
+D8
+~
+~
+0 0 12349
+S
+#12348
+The Adventurer's Emporium~
+   This small, strange room smells heavily of the outdoors.  Covering the walls
+looks to be tarps of a dull, greenish color, while the floor has been crafted
+of a strange blackish marble.  A sunroof has been carved into the roof, giving
+this building a very outdoor look.  Numerous shelves are lined up nicely,
+covered with every toy you could possibly need while adventuring.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12303
+S
+#12349
+The Smoking Forge Armory~
+   This hut has been crafted in a way not unlike its weapon-making counterpart,
+by splitting itself into two halves.  But there are noticeable differences.  
+The front part still yields a cashier's desk, but is now boasting a much larger
+display of armor.  Nearly every type of armor can be seen, everything from
+rune-etched breastplates, to battered helmets.  Past the cashier lies the
+forge, except it protrudes out of the back of the hut, nearly revealing itself
+to the sun.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12350
+D7
+~
+~
+0 0 12347
+S
+#12350
+The Flaming Hammer Weaponry~
+   This strange hut has been split into two sections.  Near the front, there is
+a cashier's desk and a display of many finely crafted weapons, some even look
+extremely rare.  But the back has been closed off, obviously being used as the
+forging area.  Looking past the desk, a medium sized black forge can be seen,
+with a strange, one-handed hammer laying on top of it.  Waves of heat can be
+felt, if not seen, coming from the forge.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12347
+D1
+~
+~
+0 0 12304
+D3
+~
+~
+0 0 12349
+S
+#12351
+Karena's Fine Leather~
+   The smells of polished leather linger thickly in the air, and its no wonder
+that this place indeed sells leathers.  As dwarves are more adept at making
+metal armor, it is a wonder how a leather store could surive economically in a
+dwarven town.  Nonetheless, it stands firm.  Large displays have been set up,
+revealing suits coats, and pretty much every possible item you could want made
+of leather.  The cashier's desk itself has been covered in a thick, polished
+leather, as if to advertise its use.    
+~
+123 8 0 0 0
+D8
+~
+~
+0 0 12335
+S
+#12352
+Notched Hammer Lane~
+   This lane is not as wide as its counterpart, the Sparking Anvil Avenue, but
+still can hold a very large crowd.  Several clerics can be seen preaching the
+names of their Gods, with a few dwarven peasants actually watching them.  The
+lane is lined with trees and shrubs of all different colors, and its plain to
+see that these dwarves have adapted to being in the hills quite well.  Several
+marvously crafted stone and wooden benches lie beneath many of the trees.  
+Some merchants can be seen, but this lane is much more peaceful then many of
+the other streets.    
+~
+123 0 1 0 0
+D1
+~
+~
+0 0 12353
+D3
+~
+~
+0 0 12334
+S
+#12353
+Notched Hammer Lane~
+   This lane is not as wide as its counterpart, the Sparking Anvil Avenue, but
+still can hold a very large crowd.  Several clerics can be seen preaching the
+names of their Gods, with a few dwarven peasants actually watching them.  The
+lane is lined with trees and shrubs of all different colors, and its plain to
+see that these dwarves have adapted to being in the hills quite well.  Several
+marvously crafted stone and wooden benches lie beneath many of the trees.  
+Some merchants can be seen, but this lane is much more peaceful then many of
+the other streets.  A small shop lies to the south, and a stone building can be
+seen up the hill to the north.    
+~
+123 4 1 0 0
+D0
+~
+~
+0 0 12312
+D1
+~
+~
+0 0 12354
+D2
+~
+~
+0 0 12323
+D3
+~
+~
+0 0 12352
+S
+#12354
+Notched Hammer Lane~
+   This beautifully cobblestoned lane yields many dwarven patrons, more so then
+the last.  Perhaps this can be blamed upon the appearance of the Blazing Keg
+Tavern to the north.  This particular part of the street is rather dirty
+indeed, its surface stomped with many heavy and dirty boots.  Nonetheless,
+merchants can still be seen hawking their wares in loud, silky voices.  
+Multiple trees and shrubs grow along the sides, with the customary street
+benches near them.    
+~
+123 0 1 0 0
+D1
+~
+~
+0 0 12356
+D3
+~
+~
+0 0 12353
+S
+#12355
+The Warrior's Way~
+   This large room serves as a tavern for members of the Warrior's Guild.  The
+floor here is made of the same neatly fitted flagstone as that of the courtyard
+to the west.  The tables that are placed evenly about the room are made of
+iron, likely to ensure not having to replace them on a regular basis after the
+occasional brawl.  Simple iron lanterns hang from the rafters of the
+establishment, lighting it fairly well.  Everything from proudly displayed
+weapons, to the horns or claws of unknown beasts hang from the walls as
+trophies of victory.  An impressive sized bar sits against the northern wall,
+with an even more impressive choice of alcohol behind it.  The scent of
+roasting foods can be smelled coming from the kitchen as well.    
+~
+123 8 0 0 0
+D3
+~
+~
+0 0 12309
+S
+#12356
+Notched Hammer Lane~
+   This beautifully cobblestoned lane yields many dwarven patrons, more so then
+the last.  Perhaps this can be blamed upon the appearance of the Foamy Mug Bar
+to the south.  This particular part of the street is rather dirty indeed, its
+surface stomped with many heavy and dirty boots.  Nonetheless, merchants can
+still be seen hawking their wares in loud, silky voices Multiple trees and
+shrubs grow along the sides, with the customary street benches near them.    
+~
+123 4 1 0 0
+D1
+~
+~
+0 0 12358
+D2
+~
+~
+0 0 12370
+D3
+~
+~
+0 0 12354
+S
+#12357
+The Infirmary~
+   As you enter this room you notice it is cleaner than the rest of the rooms
+in the Guildhall.  A few wounded dwarves sit in assorted chairs, each clutching
+a wounded body part with a blood soaked towel.  A single physician moves
+between them, a needle and thread in his still nimble fingers.  He sews up the
+wounded dwarves, who bear the pain in stoic dwarven fashion.  As the physician
+leaves the patient, he hands them a bottle of something and moves on to the
+next patient.  You see an ugly, yet neat criss-crossing of thread over the
+wounded area on the patient.  When the physician moves past you, he gives you a
+sour look from beneath his bushy white eyebrows before moving on to the next
+patient.    
+~
+123 8 0 0 0
+D8
+~
+~
+0 0 12309
+S
+#12358
+A Crossroads~
+   The lane comes promptly to a stop, giving the walker four possible places to
+go.  To the north, a large mansion can be seen, its walkway full with gardens
+and life.  To the east, lies a large, important-looking building, its
+shimmering white surfaces marred only by several, strange crests.  To the
+south, looks almost like a desolate graveyard.  A stark contrast to the mansion
+northwards, the mansion to the south renounces nature, rather then embraces it.
+A huge granite wall has been erected around the mansion's property, and a peek
+inside reveals next to no green growth.    
+~
+123 4 1 0 0
+D0
+~
+~
+0 0 12372
+D3
+~
+~
+0 0 12356
+S
+#12359
+Delving Stone Road~
+   Delving Stone Road continues here constructed of perfectly set cobblestones,
+broken by the ingenious wagon paths designed by the dwarves.  This area is
+sparsely traveled on foot, most of the traffic being wagons or travelers on
+ponies and the like.  However, occasionally one can find hired guards walking
+on foot, escorting wagons up and down the road.  Garnet's tall stone wall lines
+the western edge of the road, effectively blocking it from the rest of Ansalon.
+On the east side of the road, the backs of businesses can be seen, also blocked
+by a wall though much smaller in size.  A crossings lies just northward, while
+Delving Stone Road continues southward.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12325
+D2
+~
+~
+0 0 12341
+S
+#12360
+Delving Stone Road~
+   Delving Stone Road continues here constructed of perfectly set cobblestones,
+broken by the ingenious wagon paths designed by the dwarves.  This area is
+sparsely traveled on foot, most of the traffic being wagons or travelers on
+ponies and the like.  However, occasionally one can find hired guards walking
+on foot, escorting wagons up and down the road.  Garnet's tall stone wall lines
+the western edge of the road, effectively blocking it from the rest of Ansalon.
+On the east side of the road, the backs of businesses can be seen, also blocked
+by a wall though much smaller in size.  Westgate Crossings lies just to the
+south, while Delving Stone Road continues northward.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12361
+D2
+~
+~
+0 0 12325
+S
+#12361
+Delving Stone Road~
+   Delving Stone Road continues here constructed of perfectly set cobblestones,
+broken by the ingenious wagon paths designed by the dwarves.  This area is
+sparsely traveled on foot, most of the traffic being wagons or travelers on
+ponies and the like.  However, occasionally one can find hired guards walking
+on foot, escorting wagons up and down the road.  Garnet's tall stone wall lines
+the western edge of the road, effectively blocking it from the rest of Ansalon.
+On the east side of the road, the backs of businesses can be seen, also blocked
+by a wall though much smaller in size.  The road turns to the northeast,
+heading towards the quarry in the northern section of the city.  Westgate
+Crossings lie a block or two to the south.    
+~
+123 0 1 0 0
+D2
+~
+~
+0 0 12360
+D7
+~
+~
+0 0 12362
+S
+#12362
+Delving Stone Road~
+   Delving Stone Road continues here constructed of perfectly set cobblestones,
+broken by the ingenious wagon paths designed by the dwarves.  This area is
+sparsely traveled on foot, most of the traffic being wagons or travelers on
+ponies and the like.  However, occasionally one can find hired guards walking
+on foot, escorting wagons up and down the road.  Garnet's tall stone wall lines
+the western edge of the road, effectively blocking it from the rest of Ansalon.
+On the east side of the road, the backs of businesses can be seen, also blocked
+by a wall though much smaller in size.  The road continues both to the north,
+and to the southwest.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12363
+D8
+~
+~
+0 0 12361
+S
+#12363
+Delving Stone Road~
+   Delving Stone Road continues here constructed of perfectly set cobblestones,
+broken by the ingenious wagon paths designed by the dwarves.  This area is
+sparsely traveled on foot, most of the traffic being wagons or travelers on
+ponies and the like.  However, occasionally one can find hired guards walking
+on foot, escorting wagons up and down the road.  Garnet's tall stone wall lines
+the western edge of the road, effectively blocking it from the rest of Ansalon.
+On the east side of the road, the backs of businesses can be seen, also blocked
+by a wall though much smaller in size.  The road continues to the south, as
+well as northeast towards the exacavation site in the northern section of the
+settlement.    
+~
+123 0 1 0 0
+D2
+~
+~
+0 0 12362
+D7
+~
+~
+0 0 12364
+S
+#12364
+Delving Stone Road~
+   Delving Stone Road continues here constructed of perfectly set cobblestones,
+broken by the ingenious wagon paths designed by the dwarves.  This area is
+sparsely traveled on foot, most of the traffic being wagons or travelers on
+ponies and the like.  However, occasionally one can find hired guards walking
+on foot, escorting wagons up and down the road.  This section of road is
+actually quite dusty, compared to the rest of the settlement.  Enough so that
+one must cover their face when the wind kicks up, or risk inhaling a mouthful
+of dust.  The road widens out to the northeast, leading into the exacavation
+site where the dwarves have begun to mine.  Delving Stone Road continues to the
+southwest.    
+~
+123 0 1 0 0
+D7
+~
+~
+0 0 12372
+D8
+~
+~
+0 0 12363
+S
+#12365
+Stables~
+   As you enter the stable, the smell of hay assaults your nostrils instantly.
+Beneath this smell is the dung heap out back.  A dwarven child stands ready to
+take the reins of your mount as you enter, his small, dirty hands outstretched
+for his required fee.  Horses and other beasts of burden neigh and whicker in
+their stalls, as they casually munch the hay provided for them.  In the corner,
+you notice a brush and a pail, obviously for brushing the animals and for
+bringing them fresh water.  By the door you entered, a stack of saddles lay
+waiting for their owners, each one marked by a ticket, to remind the young
+stablehand which animal the saddle goes too.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12344
+S
+#12366
+Entrance to Town Hall~
+entrance
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12367
+D3
+~
+~
+0 0 12331
+S
+#12367
+A Reception and Waiting Room~
+waiting area.
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12398
+D3
+~
+~
+0 0 12366
+D7
+~
+~
+0 0 12397
+D9
+~
+~
+0 0 12369
+S
+#12368
+The Entrance to the Blazing Keg Tavern~
+   This big, loud room looks to be very well-worn and loved indeed.  Beaten
+chairs and tables are scattered about in no order, while a big crowd has
+gathered in a corner.  Upon closer inspection, it can be decided that two
+large, burly dwarves have gotten into a barfight, and are beating the heck out
+of each other with anything they can get their hands on.  A large bar has been
+set up on the opposite side of the room, which several swivelling chairs set in
+front of it.  Bottles and mugs litter the room.    
+~
+123 8 0 0 0
+D3
+~
+~
+0 0 12330
+S
+#12369
+The Hall of Diplomatic Affairs~
+   The first thing you see when you enter this room is the Solamnic crest
+hanging on a wall, right next to the crest of Thorbardin.  The room is built to
+accomadate several humans and dwarves comfortably.  In the front of this room
+is a dias built to human standards, and a lavishly decorated box, presumeably a
+footstool, right next to it.  The seats in this room are built to human
+standards, but in the very front is a row of seats built to dwarven dimensions,
+much more decorated than the human sized seats.    
+~
+123 8 0 0 0
+D6
+~
+~
+0 0 12367
+S
+#12370
+The Common Room of the Foamy Mug Bar~
+   This large, circular common room has been well kept, and it looks like the
+dwarves that are attracted to this place are of higher noble stature.  
+Strangely plush chairs have been set up around ornately-carved mohagany tables,
+each with their own flower-embroidered tablecloth.  The ale is served in large,
+stained-glass mugs, while the ale is most likely of the finest vintage.  The
+bar itself has been painstakingly carved, with several padded swivel chairs set
+in front of it.  All the patrons sit about with pompous looks on their faces,
+and the only noise that can be heard is an argument between two nobles about
+whos mansion is larger.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12356
+D2
+~
+~
+0 0 12371
+S
+#12371
+A Small, Beautifully Furnished Room~
+   This small, quaint room has been furnished with every luxury known to
+dwarves.  Giant (by dwarven standards) armchairs are littered about the room,
+some in front of ornately-carved tables, and some placed in front of a roaring
+fireplace.  A small bar has been set up in one of the back corners, with
+several of the dwarves lined up for a drink.  Some look a tad tipsy, while
+others look worse.  Near one of the tables, a small crowd has gathered, and it
+looks as though some gambling is going on.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12370
+S
+#12372
+entrance to quarry~
+Nothing.
+~
+123 0 1 0 0
+D2
+~
+~
+0 0 12331
+D8
+~
+~
+0 0 12364
+S
+#12373
+The Dirt Path~
+   The wide dirt path leads up into the hills surrounding Hillhome.  Though the
+village of Hillhome itself offers housing to those willing to build themselves
+homes, the dwarves that live in the village tend to make their homes in the
+hills themselves.  The path is well kept since it is constantly in use by the
+dwarves going to or coming from the village.  The occasional wagon can be seen
+trundling up and down the path carrying all sorts of cargo.  The path splits
+off to the northeast here.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12374
+D2
+~
+~
+0 0 12372
+D7
+~
+~
+0 0 12380
+S
+#12374
+path to houses~
+   The manor of Lord Toukan Goldcleaver is indeed as huge as it is beautiful.
+The walkway itself is still crafted of the same red quartz, but it is slowly
+starting to edge upwards, as the manor has been built upon a vast hill.  The
+vegetation that is so plentiful in this area is still present, the smells of
+the outdoors lingering pleasantly in the air.  The doorway to the manor is just
+a bit of a walk away, and the building itself is almost intimidating.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12375
+D2
+~
+~
+0 0 12373
+S
+#12375
+path to houses~
+   The manor of Lord Toukan Goldcleaver is indeed as huge as it is beautiful.
+The walkway itself is still crafted of the same red quartz, but it is slowly
+starting to edge upwards, as the manor has been built upon a vast hill.  The
+vegetation that is so plentiful in this area is still present, the smells of
+the outdoors lingering pleasantly in the air.  The doorway to the manor is just
+a bit of a walk away, and the building itself is almost intimidating.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12376
+D2
+~
+~
+0 0 12374
+S
+#12376
+Before a Dwarven Home~
+   The dirt path leads to a wooden door set into the hill to the north.  A
+wooden post has been placed off to the side of the entrance, proclaiming the
+identity of the home's inhabitants.  A small garden situated on the gentle
+slopes of the hill seems to have been relatively well kept.  The path leading
+to and from the entrance of the home is free of any debris.  A small white
+picket fence has been erected around the garden before the house, giving it a
+peaceful and homey look.    
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12377
+D2
+~
+~
+0 0 12375
+S
+#12377
+An Impressive Doorway~
+   This set of medium-sized doubledoors bar the entry into the Goldcleaver
+estate.  Although they look somewhat fragile, being made of wood and steel,
+they bear marks of mistreatment, most likely from people trying to break in at
+different occasions.  Above the doorway lies a large crest, of a golden
+battleaxe in front of a crackling fire.  Obviously the crest of Lord Toukan
+Goldcleaver himself.  A panel-like roof is above, shielding those seeking entry
+from the elements.    
+~
+123 0 1 0 0
+D1
+~
+~
+0 0 12378
+D2
+~
+~
+0 0 12376
+D9
+~
+~
+0 0 12379
+S
+#12378
+A Wide, Inviting Entranceway~
+   This plush entranceway has been decorated with every conceivable item of
+luxury.  A long, embroidered rug has been set on the floor, its embroidered
+surface splendidly displaying a cataclysmic battle between dragons of good and
+evil.  The low roof causes those of higher stature to stoop somewhat, but the
+dwarves in the area seem quite accustomed to their surroundings.  Flaming
+torches line the walls, casting dancing shadows around the room.    
+~
+123 8 0 0 0
+D2
+~
+~
+0 0 12379
+D3
+~
+~
+0 0 12377
+S
+#12379
+The Grand Hall~
+   This huge, cavernous hall is dominated by a long, ornately-carved oaken
+table.  The floor has been covered in expensive rugs, the walls lined with
+artwork worth more then the common dwarf could comprehend.  A huge crystal
+chandolier is hanging delicately above, its many parts clinking together
+slightly by an unseen force.  Lining the long table are many high-backed
+chairs, crafted of polished mohogany and set with plush seatcovers.  This looks
+to be the main place of business for the Goldcleaver family, but the mansion is
+still quite unexplored.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12378
+D6
+~
+~
+0 0 12377
+S
+#12380
+gazebo~
+gazebo
+~
+123 0 1 0 0
+D2
+~
+~
+0 0 12326
+S
+#12381
+Wagonyard~
+wagonyard
+~
+123 0 1 0 0
+D0
+~
+~
+0 0 12326
+S
+#12382
+A Busy, Well-Stocked Kitchen~
+   This large, bustling kitchen is full of small, stubby dwarves in tall
+pointed chefs hats.  To a foreign traveller, the sight of so many dwarves
+running in different directions should be absolutely comical.  Ten or so
+blazing stoves bake or fry the meals, with literally hundreds of different
+compartments lining the walls above them, containing a kings ransom in exotic
+foods.  The floor is coated with flour and other spilled cooking ingredients,
+and the dwarves bustling about seem to have faired no better.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12383
+D8
+~
+~
+0 0 12381
+S
+#12383
+At The Top Of The Staircase~
+   The top of the staircase is truly sparcely decorated indeed.  It seems that
+Lord Goldcleaver has spent more time decorated the places that his guests see.
+A plain, red carpet has been set about the floor, and a single torch can be
+seen on the far wall, casting eerie shadows throughout the room.  The walls are
+made of a strange, granite-like substance, which looks not unlike that of the
+concrete used in prison cells.  Such a strange room, considering the marvels
+Lord Goldcleaver has payed for on the main floor.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12384
+D1
+~
+~
+0 0 12390
+D2
+~
+~
+0 0 12382
+S
+#12384
+A Long Hallway~
+   This hallway fares no better then the last room in the decoration deparment.
+It looks almost like a tunnel in a dungeon, with next to no light and ill-kept
+surfaces.  The ground has been covered with a stained, dirtied old rug, and the
+only light source is a small torch hooked onto the wall by a brass clamp.  The
+roof is very low, and its obvious this room has been made with only dwarves in
+mind.    
+~
+123 8 0 0 0
+D2
+~
+~
+0 0 12383
+D7
+~
+~
+0 0 12385
+S
+#12385
+A Long Hallway~
+   This hallway fares no better then the last room in the decoration deparment.
+It looks almost like a tunnel in a dungeon, with next to no light and ill-kept
+surfaces.  The ground has been covered with a stained, dirtied old rug, and the
+only light source is a small torch hooked onto the wall by a brass clamp.  The
+roof is very low, and its obvious this room has been made with only dwarves in
+mind.    
+~
+123 8 0 0 0
+D6
+~
+~
+0 0 12386
+D8
+~
+~
+0 0 12384
+S
+#12386
+A Long Hallway~
+   This hallway fares no better then the last room in the decoration deparment.
+It looks almost like a tunnel in a dungeon, with next to no light and ill-kept
+surfaces.  The ground has been covered with a stained, dirtied old rug, and the
+only light source is a small torch hooked onto the wall by a brass clamp.  The
+roof is very low, and its obvious this room has been made with only dwarves in
+mind.    
+~
+123 8 0 0 0
+D2
+~
+~
+0 0 12389
+D3
+~
+~
+0 0 12387
+D8
+~
+~
+0 0 12388
+D9
+~
+~
+0 0 12385
+S
+#12387
+A Long Hallway~
+   This hallway fares no better then the last room in the decoration deparment.
+It looks almost like a tunnel in a dungeon, with next to no light and ill-kept
+surfaces.  The ground has been covered with a stained, dirtied old rug, and the
+only light source is a small torch hooked onto the wall by a brass clamp.  The
+roof is very low, and its obvious this room has been made with only dwarves in
+mind.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12386
+D2
+~
+~
+0 0 12388
+D9
+~
+~
+0 0 12389
+S
+#12388
+Before A Massive Doorway~
+   The bleak hallway abruptly ends, revealing suddenly a huge, iron-supported
+oaken door.  Its thick surface sports an intricate carving of a large axe
+cleaving into a solid boulder.  On the floor, the old ragged red carpet has
+been replaced by a painstakingly embroidered blue and gold placemat.  Two stout
+torches, glowing with a strange blue flame, have been set up on either side of
+the door, illuminating all parts of this small room.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12387
+D1
+~
+~
+0 0 12389
+D7
+~
+~
+0 0 12386
+S
+#12389
+Entering the Master Bedroom~
+   This bedroom is truly a sight indeed.  Beams of light gleam in from a
+crystal skylight, creating a brilliant array of colors.  The carpet covering
+the floor has been created by obviously skilled weavers, its embroidered silver
+surface depicting a raging battle between dwarves and the forces of evil.  
+Huge, overstuffed armchairs and couches are littered about, most placed
+strategically in front of a brick hearth, which as of now, is not ignited.  A
+small door leads to the east.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12386
+D3
+~
+~
+0 0 12388
+D6
+~
+~
+0 0 12387
+S
+#12390
+A Small Study~
+   This small, yet extremely comfortable-looking study is absolutely crammed
+with books.  It seems Lord Goldcleaver is quite the historian, as a quick
+glance at the names on the spines reveals many books about ancient lore and
+battles gone by.  A large, plush green armchair has been set behind an
+extremely cluttered oaken desk.  Small candles are set all about it, giving off
+a eerie glow.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12391
+D3
+~
+~
+0 0 12383
+S
+#12391
+A Large, Four-Poster Bed~
+   This large room obviously is the sleeping quarter of the Lord and Lady,
+judging by the massive, overstuffed canopy bed set in the middle of it.  Small
+nightstands lie on either side of the bed, both yielding large candles, as of
+now unlit.  A large walk-in closet lies to the north, but for good reason is
+locked and barred.  A small window lies on the far eastern part of the room,
+letting in a small light when the sun is up.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12394
+D3
+~
+~
+0 0 12390
+D7
+~
+~
+0 0 12392
+S
+#12392
+A Strange, Dark Attic~
+   This strange, dark attic seems to be encased in a permanent black smog.  It
+wafts around slowly, all but impairing the vision of even the most keen-eyed
+elf.  From what little can be seen discerened, the ground has been covered in a
+thick, gravel-like substance, and the roof built very short, even for a dwarf.
+The air is thick and stingy, most likely do to the magical smog.  Small animals
+can be hard scuttling about, their small bodies barely visible in the little
+light remaining.    
+~
+123 9 0 0 0
+D8
+~
+~
+0 0 12391
+D9
+~
+~
+0 0 12393
+S
+#12393
+A Strange, Dark Attic~
+   This strange, dark attic seems to be encased in a permanent black smog.  It
+wafts around slowly, all but impairing the vision of even the most keen-eyed
+elf.  From what little can be seen discerened, the ground has been covered in a
+thick, gravel-like substance, and the roof built very short, even for a dwarf.
+The air is thick and stingy, most likely do to the magical smog.  Small animals
+can be hard scuttling about, their small bodies barely visible in the little
+light remaining.    
+~
+123 9 0 0 0
+D3
+~
+~
+0 0 12394
+D6
+~
+~
+0 0 12392
+S
+#12394
+Before A Huge, Bronze Door~
+   The smog has abruptly cleared, leaving to sight a thick, bronze door.  Its
+massive surface has been engraved with strange, runic symbols, that glow
+slightly.  A thick, round keyhole has been placed in the middle of the door,
+encrusted with tiny precious gemstones.  Two large torches have been set on
+either side of the door, their strange light seeming to clear away the smog.  
+The only other direction is back into the haze, to the west.    
+~
+123 8 0 0 0
+D1
+~
+~
+0 0 12393
+D2
+~
+~
+0 0 12395
+D3
+~
+~
+0 0 12391
+S
+#12395
+reuse me~
+   This treasury is truly a sight indeed.  Boxes of gold and platinum line the
+walls, stacked underneath even more boxes of precious gemstones.  A large pile
+of platinum disks lie in the corner, with lines of runes written across them.
+Crowns, sceptres, shields, and weapons of every kind are hung high on the
+walls, away from the prying reaches of theives.  But strangely, a long box lies
+in the middle of the floor, away from the other splendors.  A strange light can
+be seen exciting through the corners of the box, which is different, to say the
+least.    
+~
+123 8 0 0 0
+D0
+~
+~
+0 0 12394
+S
+#12396
+The Garnet Guide~
+   This large, square room houses the collection of several hundred maps, big
+and small.  Many are of Hillhome, while many are of Krynn as a whole.  There
+have been many dwarven adventurers that have seen the world, and they come here
+when their journey is finished to map where they have been.  A large oaken desk
+lies near the back, cluttered with junk.  Candles line all the walls, each
+giving off a pallid glow.  Although unkept, this room looks to hold many
+secrets indeed.    
+~
+123 0 0 0 0
+D3
+~
+~
+0 0 12302
+S
+#12397
+The Mining Hall~
+   When you enter this room, you immedieately feel a blast of heat, while your
+ears are assaulted by a medley of voices, each arguing over something
+different.  There is a long table in the center of this room, covered with a
+clutter of papers which can only be described as bedlam.  The papers show
+different geological data, maps of the mining project and various other sorts
+of documents.  Several dwarves seem to be arguing over where to excavate next,
+and a gnome is trying to demonstrate his new digging device.    
+~
+123 8 0 0 0
+D8
+~
+~
+0 0 12367
+S
+#12398
+Town Hall~
+meeting place. heads of community meet here to discuss in private
+~
+123 8 0 0 0
+D3
+~
+~
+0 0 12367
+S
+#12399
+Reuse me~
+   This steel catwalk overlooks a vat of ale.  The vat is made of a soft wood,
+at least 3 feet thick.  But the contents within are a lighter, almost orange
+color.  Compared to the vat to the south, this ale looks almost like wine.  
+Several dwarves can be seen below, sticking various items into the vat, and
+sometimes even testing its taste.  A remarkable number of different machines
+and gadgets can be seen also, slowly giving off steam.    
+~
+123 0 0 0 0
+D2
+~
+~
+0 0 12397
+S
+$~

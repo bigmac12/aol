@@ -1,0 +1,5 @@
+#alias {leg} {#session {%%0} {nolta.mudservices.com 6010}}
+#message var
+#message act
+#speedwalk
+#split 23

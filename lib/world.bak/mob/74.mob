@@ -1,0 +1,668 @@
+#7400
+minotaur elderly~
+an elderly minotaur~
+An elderly minotaur wanders through town on some errand.
+~
+   This elderly minotaur stands more than seven feet tall.  His horns, though
+showing some signs of aging, are highly polished and just under two feet in
+length.  His dark fur is short and smooth.  It is mottled in some places,
+showing his age.    
+~
+72 0 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 1 0
+BareHandAttack: 6
+E
+#7401
+minotaur hulking warrior~
+a minotaur warrior~
+A hulking minotaur warrior stands ready for battle at a moment's notice.
+~
+   Looming above even the tallest human, this minotaur has the appearance and
+stance of a seasoned veteran.  His alert, dark eyes scan the area constantly
+taking in all his surroundings.  He keeps one of his strong hands on his weapon
+at all times.    
+~
+254040 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 1 0
+E
+#7402
+minotaur female~
+a female minotaur~
+A female minotaur wanders the city, busily running her daily errands.
+~
+   Moving busily through the city, this woman seems to be on a mission.  Her
+gaze is firmly set in front of her, and she moves quickly and deliberately as
+she makes her way through town.  Her chestnut-brown fur covers her well-muscled
+body.  She is dresed in a plain leather apron, common to her race.    
+~
+16460 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 2 0
+E
+#7403
+traveller wary~
+a wary traveller~
+A wary traveller wanders the city, looking around in amazement.
+~
+   Looking warily about the city, this human traveller stands straight and
+tall, trying not to look so much smaller than the city's residents.  She is
+dressed for travel in heavy boots and cloak.  The hood of her cloak is folded
+down, allowing her to keep a close eye on her surroundings.    
+~
+200 0 0 0 E
+11 14 5 5d4+190 2d8+2
+85 2900 0
+8 8 2 0
+E
+#7404
+guard gate Lacynes~
+a Lacynes gate guard~
+A Lacynes Gate Guard stands by the gate, poised for trouble.
+~
+   This massive minotaur has the stance of a skilled warriors.  His
+honey-blonde fur covers rippling muscles that he flexes and unflexes with
+pride.  His dark, alert eyes scan each traveller and citizen who passes through
+the city gates.  He nods to himself, seeming to be judging each an inferior
+opponent.    
+~
+1077322 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 1 0
+E
+#7405
+guard Lacynes~
+a Lacynes guard~
+A hulking guard patrols the city, eager for any sign of trouble.
+~
+   Massively-built, even by minotaur standards, this guard appears as though he
+always means business.  His long horns, extending nearly two feet in length,
+shine proudly as a symbol of his prowess.  His eyes scan the city, eagerly
+looking for the opportunity to quell any disturbance.    
+~
+1069128 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+E
+#7406
+priest sargas minotaur~
+a priest of Sargas~
+A priest of Sargas kneels before the altar, lost in prayer.
+~
+   Dressed in the robes of a cleric of faith, this minotaur kneels before the
+altar of the Great Sargas.  His head is bowed, and his lips move in silent
+prayer to his Lord.  The hood of his robes are pulled up obscuring his face,
+however his horns can be seen extending out from beneath the hood.    
+~
+1589834 44 2 -850 E
+20 11 1 5d10+300 2d8+4
+900 8400 2
+6 6 1 0
+BareHandAttack: 5
+E
+#7407
+prefect Sargas~
+a prefect of Sargas~
+A prefect of Sargas busily prepares for the next service.
+~
+   This minotaur is clothed in the traditional vestments of a cleric of Sargas.
+Her blonde fur is almost completely covered by the black suit she wears.  Her
+ankles and wrists are tightly wrapped in blood-red silk.  She walks through the
+temple with a strong sense of purpose in her stride.    
+~
+541260 44 1 -850 E
+12 13 4 5d6+210 2d8+3
+100 4700 2
+8 8 2 0
+E
+#7408
+visitor temple~
+a visitor to the temple~
+A visitor to the temple offers his praise to the mighty Sargas.
+~
+   Dressed in garments of black and red, this man has come to offer his praise
+to Sargas.  Though smaller by far than the many minotaur worshippers that
+frequent the temple, he stands with the confidence and pride that his faith has
+instilled in him.  He looks back at you, a sinister grin on his face.    
+~
+88 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 0
+E
+#7409
+Switcher~
+Switcher~
+Switcher stands behind the bar, ready to serve up a drink and a tale of past glory.
+~
+   Switcher is the son of the owner of the Roaring Tempest and the Roaring
+Tempest II.  He earned his nickname by his tendency to switch between the two
+establishments.  Gargantuan, even by minotaur standards, Switcher is known
+throughout the city for his mammouth size as well as his prowess.    
+~
+7422026 0 0 0 E
+30 20 10 1d1+0 1d1+0
+9999 0 0
+8 8 1 0
+BareHandAttack: 6
+E
+#7410
+Pazdoki~
+Pazdoki~
+Pazdoki stands behind the bar greeting visitors with a grin and a roaring laugh.
+~
+   An excellent businessman, Pazdoki does his best to make all visitors feel
+welcome in both his establishments.  He is a monstruous minotaur, covered in
+dark ebony fur.  His fur is mottled in a few spots, showing his age.  Though,
+he still appears as though he would be a formidable opponent.    
+~
+7422026 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+9999 250000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#7411
+Kazar~
+Kazar~
+Kazar grunts and groans behind the counter as he sorts through his inventory.
+~
+   Grunting as he roams behind the counter, Kazar sorts through his inventory
+busily.  He takes items from one shelf and moves them to another in a vain
+attempt to make room for the many items brought up from the docks each day.  
+The muscles in his massive arms ripple under his brown fur as he lifts items
+from the shelves.    
+~
+7421962 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+999999 250000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#7412
+Zhayir~
+Zhayir~
+Zhayir wanders the shop carefully arranging her armours for display.
+~
+   Zhayir nods as you look at her, then returns to her task.  She is relatively
+short but still quite muscular.  Her strong hands move delicately over the
+armour as she prepares it for sale.  She carefully looks over each piece as she
+lifts it, nodding approvingly as she admires her work.    
+~
+7422026 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+999999 250000 0
+8 8 2 0
+BareHandAttack: 6
+E
+#7413
+Sarsonius~
+Sarsonius~
+Sarsonius sits behind the desk, sorting through the piles of mail.
+~
+   Sarsonius sits behind his desking, grunting in irritation.  His face is
+completely obscured by the piles of mail, with only his long horns showing from
+behind the stacks.  His muscular body is covered by short, black fur.  He wears
+a leather apron with many pockets.  The pockets bulge with pieces of mail.    
+~
+2179146 33554432 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1900 250000 0
+6 6 1 1
+E
+#7414
+Gurick~
+Gurick~
+Gurick stands by the vault, his muscular arms folded across his broad chest.
+~
+   Glaring about the area suspiciously, Gurick stands in front of the vault
+entrance.  His strong, muscular arms are folded across his broad chest.  He
+flexes and unflexes his impressive muscles, which ripple under his short, dark
+fur.    
+~
+7593994 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 4
+BareHandAttack: 6
+E
+#7415
+Durak~
+Durak~
+Durak paces behind the counter, carefully reviewing his inventory.
+~
+   Pacing behind the counter like a caged animal, Durak seems to be analyzing
+each weapon in his inventory.  Occasionally he stops and retrieves an item,
+testing its weight and balance before carefully returning it to its proper
+location.    
+~
+7422026 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+9999999 250000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#7416
+specialist academy combat~
+the academy's combat specialist~
+Flexing and unflexing his massive muscles, the combat specialist stands ready for his next training session.
+~
+   Standing well over seven feet tall and wearing nothing more than a simple
+leather skirt, the combat specialist for the academy is one of the many
+legendary fighters in the city.  He flexes his massive muscles as he eagerly
+awaits his next victim.    
+~
+7594058 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1900 250000 3
+8 8 1 2
+BareHandAttack: 6
+E
+#7417
+citizen lacynes~
+a citizen of Lacynes~
+A citizen of Lacynes is here glaring at nothing in particular.
+~
+   Looking about the area with a scowl on her massive features, this citizen of
+Lacynes seems annoyed about something.  Her dark eyes scan the area, seeming to
+glare at nothing in particular.  She periodically shifts her weight from one
+hoof to the other, snorting arrogantly.    
+~
+8 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 2 0
+BareHandAttack: 13
+E
+#7418
+Olina~
+Olina~
+Olina stands behind the counter staring out over the ocean.
+~
+   Olina looks back at you with a huff, turning her attentions from the ocean
+to your belongings.  She looks you over in an effort to determine just how much
+you are willing to pay to store your items.  After a brief assessment, she nods
+inwardly then pulls out her guestbook.    
+~
+7594058 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 2 3
+BareHandAttack: 6
+E
+#7419
+sailor strapping minotaur~
+a strapping sailor~
+A strapping young minotaur, dressed in the clothes of a sailor, wanders the city.
+~
+   Dressed for the high seas, this strapping young minotaur wanders the city
+before departing on his next sea voyage.  He has several tattoos on his
+muscular biceps, including a rather large anchor intwined with rope.  His eyes
+scan the area as he walks through the city, taking long bold strides.    
+~
+88 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+E
+#7420
+merchant~
+a visiting merchant~
+A merchant hauls her wares to the local shops.
+~
+   Heavily weighed down by bundles bulging with goods, this young woman makes
+her way through the city headed for the shops.  She no doubt just pulled in to
+port and is taking samples to the local businessmen for review.  She keeps a
+tight hand-hold on her packages as she makes her way through the crowds.    
+~
+72 0 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 2 0
+E
+#7421
+member navy lacynes~
+a member of the Lacynes navy~
+A member of the Lacynes navy grins broadly as he enjoys his shore leave.
+~
+   Standing a head taller than the average minotaur male, this massive sailor
+proudly wears the emblem of the Lacynes Navy on his tunic.  Swaggering proudly
+through the city, he wears a large grin on his face, seeming to be enjoying his
+shore leave.    
+~
+1302600 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 13
+E
+#7422
+buccaneer mino minotaur battle scarred large~
+a large, battle-scarred minotaur buccaneer~
+Towering over the other sailors on the dock is a cocky-looking minotaur.
+~
+   This towering beast stands here proudly, looking down on all those he
+surveys.  He carries himself with an air of cockiness and pride that many
+minotaurs show in spades.  He shouts out various abuses at passersby, but seems
+content to simply wander around and push bystanders out of his way.  When he
+passes by you with a dismissive shove, you smell fumes of liquor on his breath.
+  
+~
+1065032 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#7423
+mino minotaur ruffian privateer abusive large lording~
+a minotaur privateer~
+A large, abusive minotaur stands here, lording it over the docks.
+~
+   This minotaur is an intimidating presence in his surroundings.  He stands
+easily several feet over those others around him, and he seems to know this.  
+He stands around arrogantly, pushing and threatening anyone who comes near to
+him.  The weapon hanging at his side is bloodstained, so he has obviously found
+at least one opponent that he considers worthy.  He looks you over, sizing you
+up for your wealth...  And spunkiness.    
+~
+16456 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 1 0
+E
+#7424
+minotaur cook furred light-furred~
+a minotaur cook~
+A light-furred minotaur stands within the fireplace.
+~
+   Standing within the massive fireplace, this minotaur stoops over the
+bubbling pots stirring them with great care.  She notices you looking in her
+direction and snorts, obviously angered by your intrusion.  Her simple clothing
+is covered with a combination of soot, blood, and various other stains.    
+~
+1065038 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 2 0
+BareHandAttack: 13
+E
+#7425
+minotaur well-dressed dressed~
+a well-dressed minotaur~
+A minotaur dressed in finely crafted armor is relaxing here.
+~
+   Dressed in handsomely crafted armor, this proud minotaur appears to be one
+of the administrators of the city.  His deep chestnut-brown fur is brushed
+smooth and shows no signs of mottling.  His highly polished horns protrude from
+the top of his head reaching nearly two feet in length.    
+~
+16456 0 0 0 E
+14 12 2 6d8+240 2d8+4
+320 7000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#7426
+acolyte zeboim woman~
+an acolyte of Zeboim~
+A young woman dressed in green clerical robes walks between the benches.
+~
+   This young woman looks incredibly small in comparison to her surroundings.
+She walks through the temple, her head bowed reverently.  She wears the hood of
+her sea-green robes drawn up over her head.  Her face is obscured by the shadow
+yet you notice two bright emerald eyes looking back at you.    
+~
+540744 0 8194 -500 E
+14 12 2 6d8+240 2d8+4
+300 7000 2
+8 8 2 0
+E
+#7427
+gladiator~
+a gladiator~
+A gladiator takes a few practices swings in preparation for the next event.
+~
+   The arena is used for gladiatorial fights as well as the settling of
+disputes.  Only the strongest and most powerful minotaur are given the
+privilege of becoming professional gladiators.  This particular fighter is an
+impressive specimen.  Standing an imposing seven feet tall, he looks around the
+arena with alert eyes as every muscle on his body seems to flex at once.    
+~
+7422042 0 0 0 E
+25 5 -9 3d33+850 4d6+8
+950 87000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#7428
+recruit~
+a new recruit~
+A new recruit works on his techniques for the next battle.
+~
+   An eager grin on his otherwise serious face, this young recruit is anxious
+to demonstrate his prowess in the arena.  Though still new to the games, he
+appears as though he would be a formidable opponent.  His muscles can be seen
+rippling beneath his dark fur with each move he makes.    
+~
+1065050 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#7429
+spectator on-looker~
+a spectator~
+A curious on-looker watches the action on the battle floor.
+~
+   Even on days when no games are scheduled, the arena draws a crowd.  This
+curious on-looker has come to watch the gladiators train.  He keeps his eyes
+locked on the battle floor watching for a technique that might be useful to
+learn.    
+~
+16456 0 0 0 E
+14 12 2 6d8+240 2d8+4
+250 7000 0
+8 8 1 0
+E
+#7430
+headmaster master~
+the headmaster~
+The headmaster watches the action below with great interest.
+~
+   This brute of a minotaur peers out over the practice fields below.  He
+watches the action with great interest, shouting orders and criticism as
+needed.  His large dark eyes seem to take in all around him.  He clenches and
+unclenches his fist, causing his muscled to flex under his ebony fur.  A
+holysymbol of the great Sargas hangs around his thick neck.    
+~
+1728538 33562624 10240 -600 E
+27 3 -11 3d33+1100 4d7+8
+1600 135000 7
+8 8 1 0
+BareHandAttack: 6
+E
+#7431
+student minotaur~
+a student of the academy~
+A young student hefts her weapon with pride as she looks for a sparring partner.
+~
+   Covered from head to hoof in mud, this young student walks through the
+practice fields with a wide grin on her face.  She hefts her weapon, her chest
+swelling with pride, as she looks for a new sparring partner.  Though still
+quite young, as evidenced by her short horns, her eyes are alert and she takes
+the stance of an experienced warrior.    
+~
+8 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 2 0
+BareHandAttack: 13
+E
+#7432
+student minotaur~
+a student of the academy~
+Dressed in a mud-covered uniform, this young student practices his fighting techniques with great care.
+~
+   Dressed in a simple leather uniform, this young student practices his
+fighting techniques with great care.  He glances up at the observation tower
+periodically, hoping for a nod of approval then returns his attention to his
+training.  His uniform is covered with both mud and blood.    
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#7433
+minotaur destroyer warrior~
+the Destroyer~
+An immense minotaur warrior with blood red horns hefts his mighty blade.
+~
+   Before you stands an immense minotaur warrior.  Long blood red horns
+protrude from his head tipped in gleaming silver.  His broad shoulders and
+muscular chest bulge with the power they hold.  His arms extend out into large
+hands as if streching out to encompass all of Krynn.    
+~
+8118362 33694720 512 -900 E
+29 2 -13 3d33+1450 4d7+9
+2000 213000 7
+8 8 1 0
+BareHandAttack: 6
+E
+#7434
+crab hermit~
+a hermit crab~
+A hermit crab tries to hide itself in the sand.
+~
+   This hermit crab appears to have just found its home in a new shell.  Its
+new home looks to have once been a nautilus shell and is a bit large for the
+tiny crab.  He sees you looking at him and tries hopelessly to bury himself in
+the sand.    
+~
+65544 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+E
+#7435
+seagull gull~
+a seagull~
+A seagull flies overhead, gliding gracefully on the seabreeze.
+~
+   Gliding gracefully on the warm seabreeze that blows in off the ocean, the
+seagull keeps his eyes open looking for fish swimming in the surf or washed up
+on shore.  Its feathers are mostly white with a few darker feathers here and
+there.  The tip of its beak is black in color and slightly hooked.    
+~
+81996 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+BareHandAttack: 5
+E
+#7436
+rat mangy~
+a mangy rat~
+A mangy rat peers out from the shadows.
+~
+   Its mangy fur caked with dried blood, this rat bares its yellowed teeth and
+snarls at your approach.  Its sharp claws dig into the dirt floor as it poises
+its body for a fight.  Its belly is bloated, seeming to indicate that it finds
+no lack of food.    
+~
+65580 786432 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 9
+BareHandAttack: 4
+E
+#7437
+minotaur soul tormented form~
+a tormented soul~
+The twisted form of a minotuar, long dead, fades in and out of existence.
+~
+   Fading slowly in and out of existence, this form appears to have once been a
+minotaur, though you cannot help but notice its lack of horns.  It is still
+clad in its leather skirt and harness.  A look of unending torture has been
+frozen on its face for all eternity.  Its red eyes flicker with anger as it
+lunges toward you.    
+~
+3162216 271362 0 -900 E
+24 6 -8 3d33+750 4d6+8
+1200 68000 10
+8 8 0 0
+BareHandAttack: 12
+E
+#7438
+Renald director~
+Renald~
+Renald stands behind the counter reviewing the latest merchant reports.
+~
+   Hired after the previous director scared off nearly every visiting merchant,
+Renald is one of the few humans that keeps a permanent residence here in
+Lacynes.  He is a rather tall human of sturdy build, yet he still seems rather
+diminutive in these surroundings.    
+~
+7593994 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+999 250000 0
+8 8 1 0
+E
+#7439
+guard hulking~
+a hulking guard~
+A hulking guard patrols the area.
+~
+   This massive minotaur has the stance of a skilled warriors.  His
+honey-blonde fur covers rippling muscles that he flexes and unflexes with
+pride.  His dark, alert eyes scan each traveller and citizen who passes through
+the city gates.  He nods to himself, seeming to be judging each an inferior
+opponent.    
+~
+9437258 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+500 25000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#7494
+priestess fiery haired~
+a fiery-haired priestess~
+A fiery-haired priestess passes by, moving through the temple on some errand.
+~
+   This woman is a priestess of Zeboim, and she seems intent on moving through
+the temple on some errand.  She has a thick mane of curly, fiery red hair, and
+deep sapphire blue eyes.  She is dressed in purples, blues and greens.    
+~
+1597450 32768 1089540 -850 E
+21 8 -5 3d33+450 3d8+7
+800 33500 2
+8 8 2 0
+BareHandAttack: 5
+E
+#7496
+harbormaster harbor master~
+the harbor master~
+The harbor master is here reviewing the some nautical charts.
+~
+   Dressed in a leather apron and harness, the harbor master carries with him
+several different nautical maps.  He studies them carefully, not seeming to
+notice your presence at all.  He nods to himself occasionally, as though the
+maps he studies possess the answers to his unspoken questions.    
+~
+3162184 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 0
+8 8 1 0
+BareHandAttack: 6
+E
+$

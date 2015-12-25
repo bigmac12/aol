@@ -1,0 +1,124 @@
+CircleMUD v3.0 Shop File~
+#12323~
+12327
+12326
+12325
+12324
+12323
+-1
+1.00
+1.00
+4staff wooden vallenwood
+6salve opaque
+21quill pen
+16parchment scroll
+2scroll
+11robe robes
+11tabard
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+12317
+0
+12323
+-1
+0
+28
+0
+0
+1
+38
+#12351~
+12328
+12329
+12330
+12331
+12332
+-1
+1.00
+1.00
+9leather bracer jerkin ankleguard ankle sheath necklace boots
+11leather bracer ankle wrist
+15leather
+8leather
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+12326
+0
+12351
+-1
+0
+28
+0
+0
+1
+21
+#12355~
+12355
+12356
+12357
+12358
+12359
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+12355
+0
+12355
+-1
+0
+28
+0
+0
+1
+38
+#12396~
+-1
+1.00
+1.00
+0
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+1751348589
+0
+-1
+0
+28
+0
+0
+1
+38
+$~

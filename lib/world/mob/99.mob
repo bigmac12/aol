@@ -1,0 +1,276 @@
+#9900
+priest head cleric~
+the head priest~
+The head priest kneels here, praying to Paladine.
+~
+   This is the head priest of Paladine in charge of the Temple here in Kalaman.
+He is swathed in white robes and wears the holy symbol of Paladine, a silver
+triangle, from a chain about his neck.    
+~
+254043 0 0 850 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 2
+Maxmove: 50
+E
+#9901
+deacon cleric~
+a deacon~
+A deacon stands here praying.
+~
+   This deacon has been at this temple serving Paladine for some years now, and
+as such is in charge of guiding two of the Temple's acolytes in praising
+Paladine.    
+~
+72 0 0 850 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 1 0
+Maxmove: 50
+E
+#9902
+acolyte cleric~
+an acolyte~
+An acolyte is learning how to praise Paladine.
+~
+   This acolyte has only been serving Paladine here at the Temple for a few
+years, and is still learning the ways of the clergy.  An older, wiser deacon is
+in charge of him and another acolyte.    
+~
+72 0 0 850 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 1 0
+Maxmove: 50
+E
+#9903
+homeless man~
+a homeless man~
+A homeless man rests here.
+~
+   This is one of the many homeless citizens of Kalaman who take advantage of
+the goodly clerics here at the Temple offering them a warm place to stay and a
+good meal each night.    
+~
+72 0 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 1 0
+Maxmove: 50
+E
+#9904
+homeless woman~
+a homeless woman~
+A homeless woman rests here.
+~
+   This is one of the many homeless citizens of Kalaman who take advantage of
+the goodly clerics here at the Temple offering them a warm place to stay and a
+good meal each night.    
+~
+72 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 2 0
+Maxmove: 50
+E
+#9905
+homeless child~
+a homeless child~
+A homeless child is playing here.
+~
+   This poor child is oblivious to his family's plight.  If he only knew that
+he all but lived on the street, his innocent heart would break.    
+~
+72 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 1 0
+Maxmove: 50
+E
+#9906
+adventurer blind man~
+a blind man~
+A blind man wishes he could see the city.
+~
+   This man was once an adventurer, travelling all across Krynn in search of
+fame and fortune.  During one quest, he was the unfortunate witness to a
+despicable crime, so horrid that he lost his sight to save his mind.  Since
+that day, he has spent much time here at the temple, praying to Paladine and
+standing at the top of the tower, wishing he could regain his sight.  The
+clerics here provide him with food and water, and whatever else he might need.
+~
+74 1 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+Maxmove: 50
+E
+#9907
+Millabeth temple shopkeeper Isabeth keeper~
+Millabeth, the temple shopkeeper~
+Millabeth, the shopkeeper, smiles warmly as you enter.
+~
+   Millabeth is a pretty, middle-aged woman, not overly tall, but her proud
+leaves the impression of great height.  Her hair is a wispy blond, beginning to
+grey, and pulled neatly to the top of her head in a bun.  Several tendrils fall
+gracefully about her face, framing her brown eyes and slender nose.  She seems
+always to be smiling, and exudes a genuine warmth toward her clientele.    
+~
+3399710 0 0 0 E
+30 1 -14 3d33+5000 25d1+9
+10000 250000 0
+8 8 2 0
+Maxmove: 50
+E
+#9970
+shop attendant~
+the shop attendant~
+The shop attendant stands behind a small counter.
+~
+   A muscular man wearing little more than a pair of shorts and sandals waits
+patiently behind the small counter to distribute the bath's towels and soaps.
+He obviously enjoys his job and the people he gets to meet every day.  His hair
+is a pale blond, contrasting with his darkly tanned skin, an indication of the
+amount of time he likes to spend out in the sun.  As people mill about he turns
+back to the endless job of folding the cleaned towels and placing them in their
+racks.    
+~
+10 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#9971
+bath attendant~
+the bath attendant~
+The bath attendant slowly wanders about the facilities.
+~
+   The woman carefully scans about the rooms looking for anything that she
+needs to do to keep the baths running smoothly.  Her radiant eyes shine out
+from her beautiful face as a light sun dress flows over her fit and feminine
+figure.  Due to the heavy humidity of the baths, she has tied her long red hair
+back into a loose pony tail, held in place by a wide sliver ribbon.  She
+carries a few towels under one arm, picked up from around the pool and destined
+to be sent to the cleaners.    
+~
+10 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 2 0
+Maxmove: 50
+E
+#9980
+dummy workout padded leather life-like lifeless~
+a short, padded workout dummy~
+A life-like dummy made of leather padding, stands lifeless in the center of the room.
+~
+   This faceless, leather dummy was placed in the room for all those who wish
+to practice their weapon skills.  Made of thick, durable cow-hide leather it
+has the ability to withstand many a blow.  It appears to stand at a soldier's
+attention, with both of its arms and hands pointing downwards at its side.  
+Overly patched around its chest area, small leather threads poke out in
+numerous locations.    
+~
+254026 0 0 0 E
+2 19 14 1d3+12 1d5+1
+0 13 0
+8 8 0 0
+Maxmove: 100
+E
+#9981
+woman young robust~
+a robust, young woman~
+A robust, young woman with a wooden, practice sword, stands ready to spar with any available.
+~
+   At a glance, it would appear that this woman would have little knowledge of
+the concept of weakness.  Standing a towering six feet in height, she would
+appear a rather good test of will to spar against.  With a boyish style of
+haircut, and considering her impressive frame, likely she has had the dubious
+distinction of being mistaken for her opposing gender on occassion.  Clothed in
+simple, yet protective, padded leather armor she awaits any who come to test
+their strength.
+~
+24650 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 3
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 100
+E
+#9982
+dummy sparring wooden leather padded humanoid~
+a leather wrapped sparring dummy~
+A humanoid-shaped, sparring dummy stands here, its wooden frame wrapped in thick padding.
+~
+   This poor fellow seems to have had much better days, although those are now
+far behind him.  Constructed of a wooden frame, this roughly humanoid sparring
+dummy has been wrapped thickly in padded leather, thick stitches of heavy sinew
+holding him together a while longer.  Small bits of stuffing protrude from
+within his innards, lending a silent testament to his less than pampered life.
+~
+254026 1024 0 0 E
+2 19 14 1d3+12 1d5+1
+0 13 0
+8 8 0 0
+Maxmove: 100
+E
+T 9982
+#9983
+man thin wiry pinched weasel~
+a thin, wiry fellow with a pinched expression~
+A thin, wiry man drifts about the area, his pinched face lending him the likeness of a weasel.
+~
+   Drifting about the area with seemingly little interest in the sparring
+dummies, this thin and wiry man seems to focus more upon his fellow combatants.
+His brown eyes are dark and restless, roaming about the chamber about him while
+his long, tapered fingers twitch deftly at his side.  Dressed in light
+leathers, his softly booted feet carry little weight and make even less sound.
+~
+26700 263168 0 0 E
+4 18 12 1d5+45 1d8+1
+13 50 4
+8 8 1 6
+BareHandAttack: 14
+Maxmove: 100
+E
+#9985
+woman elvish slender lass~
+a slender, elven lass clad in robes of white~
+A slender, elvish woman practices here with the others, her robes fluttering in her efforts.
+~
+   Slender and graceful as the limb of an aspen, this young elven woman
+practices her technique alongside the others, her white robes set to flutter as
+her staff arcs in training blows.  Her honey-blonde hair is worn long, yet
+restrained for the moment by an elegant braid as she trains in the art of
+martial combat.  Several small pouches hang about her delicate form, and she is
+marked by the scent of various herbs and other, perhaps less pleasing, aromas,
+lending her the possible traits of a student of the arcane.    
+~
+24650 1024 0 0 E
+4 20 10 1d1+0 1d1+0
+13 0 1
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 100
+E
+#9987
+man young warrior ~
+a young man dressed in aged chainmail~
+A young man stands here in the practice room, the looks of a warrior about him.
+~
+   While yet young and relatively untrained, this man has an impressive build
+and a manner that speaks of some ability in swordplay.  His dark eyes hold an
+intensity in their gaze, as though he takes his training quite seriously.  
+Dressed in simple leathers for the most part, he is draped in a shirt of aged
+chainmail, its surface dull and nicked from use, yet obviously still well
+tended despite its wear.    
+~
+24650 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 100
+E
+$

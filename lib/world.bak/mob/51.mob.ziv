@@ -1,0 +1,993 @@
+#5100
+Baeran'ayl innkeeper rough man~
+Baeran'ayl, the Innkeeper~
+A rough looking man stands behind the oak desk, chuckling at some inside joke.
+~
+   This rough looking man seems to find humor in almost anything someone tells
+him, yet his deep blue eyes miss nothing when they scan the room for those who
+try to take him off guard.  One of his promises is he won't hurt anyone too
+badly - but he doesn't expect people to take him for a wimp, either.  He takes
+pride in his establishment, and is well respected in this city, even if his
+tavern isn't quite respectable.    
+~
+3399755 8 0 0 E
+34 -1 -17 3d33+2700 4d8+11
+0 345000 0
+8 8 1 3
+BareHandAttack: 15
+E
+#5101
+gorban bartender small man~
+Gorban, the Bartender~
+A small man stands on a chair as he pours drinks and polishes his beloved bar.
+~
+   This man is no taller than a dwarf, yet he has no beard, and his eyes
+twinkle with a merriment not found in most dwarves.  He stands on a chair to
+reach his beloved bar, as well as special ladders along the back wall so he can
+get the drinks his customers desire.  His stature doesn't diminish his lust for
+fine ale or a good looking woman, as he finds ways to smack them on the rump as
+they pass him by the bar.    
+~
+3399755 8 0 0 E
+34 -1 -17 3d33+2700 4d8+11
+100 345000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#5102
+merchant provisions tall~
+the provisions merchant~
+A tall merchant stands behind his booth waiting for customers to buy his items.
+~
+   This tall man is dressed in rich clothes and fine jewelry, like the more
+prosperous merchants tend to do.  His smile and smooth voice, however, tend to
+mark him more of a charismatic man rather than a hard-core seller, and his
+sincerity and nicety belies his obvious royal heritage.    
+~
+7594058 0 0 0 E
+30 -5 -14 3d33+1700 4d25+9
+1000000 250000 0
+8 8 1 0
+BareHandAttack: 10
+E
+#5103
+Shahara treasurer woman beautiful~
+Shahara, the Treasurer~
+A beautiful woman dressed in silks and gold smiles as you enter the room.
+~
+   This woman is beautiful, her silken scarves of rose and cream draped across
+her like a loosely fitted dress, and her fine chains of gold accentuate her
+slim arms and neck.  Her skin is pale and smooth, and her dark eyes glitter
+with an exotic light as she watches everyone in her treasury room, making sure
+no one gets too close, or tries to reach behind the counter.    
+~
+1302603 8 0 0 E
+30 -5 -14 3d33+1700 4d25+9
+100000 250000 0
+8 8 2 4
+BareHandAttack: 15
+E
+#5104
+weaponsmaster man lean~
+the weaponsmaster~
+A lean man in black leather teaches his students the warrior's arts.
+~
+   The man is impossibly thin, yet the muscles undeneath the tight black
+leather clothing move like ripples in a stream, effortlessly and quick.  His
+movements are quiet and agile, and his voice is soft, yet commanding, even as
+he instructs his students in fighting skills.  His lessons are not only about
+using weapons, but using the whole body as a force of fighting.    
+~
+7594075 0 0 0 E
+30 -10 -14 3d33+1700 4d30+9
+1900 250000 3
+8 8 1 2
+BareHandAttack: 6
+E
+#5105
+warrior holy~
+a holy warrior~
+A holy warrior dressed in glowing white chain mail meditates upon the mat.
+~
+   The warrior is deep in meditation, yet seems to be able to teach the ways of
+a holy warrior - the skills and spells of a paladin - without breaking out of
+the trance.  The armor is made of tiny links of an odd white metal, glowing
+with a soft holy light that surrounds the warrior.  Once in a while, a few
+melodic phrases can be heard, praises to the god of worship.    
+~
+3401803 136 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1900 250000 0
+8 8 2 2
+BareHandAttack: 13
+E
+#5106
+priest high young man~
+the High Priest of Zeboim~
+A young man dressed in light blue robes contemplates the philosophies of Zeboim.
+~
+   This man looks too young to have made it into the role of high priest, but
+his eyes and stance show his experience.  Light blue robes hang on his thin
+body, and the holy symbol of the Sea Queen glows from a thin silver necklace.
+He grudgingly teaches priests of other faiths some spells, but he prefers those
+who are dedicated to his Goddess.    
+~
+3401803 8 0 -750 E
+30 1 -14 3d33+1700 4d8+9
+1923 250000 2
+8 8 1 2
+BareHandAttack: 6
+E
+#5107
+figure slim guildmaster~
+the Serpent's guildmaster~
+A slim figure in a scarlet cloak lounges around in the chair, looking bored.
+~
+   The slim figure that rests in the chair doesn't seem to take an interest in
+anything that is going on in the room.  It is only when someone wishes to learn
+the arts of cunning and thievery that the figure looks up, and suddenly moves
+with the speed and grace known to masters of the art, teaching those who wish
+to learn the skills.  It is only then that one notices the tanned skin and long
+dark hair of a kagonesti female.    
+~
+3399771 40 0 0 E
+30 -5 -14 3d33+1700 4d25+9
+1830 250000 0
+8 8 2 2
+BareHandAttack: 15
+E
+#5108
+nymph garden colorful~
+a garden nymph~
+Colorful gossamer wings keep this nymph on her toes as she tends the garden.
+~
+   This nymph has big wings like gossamer silk, the colors matching the various
+blossoms that can be found in this garden.  She floats around, sometimes hiding
+in the bushes, sometimes scolding the flora around her, as she tends to what
+she calls her garden.    
+~
+3154010 65576 0 0 E
+25 5 -9 3d33+850 4d6+8
+1850 87000 0
+8 8 2 0
+BareHandAttack: 16
+E
+#5109
+lady tower Rubina~
+Lady Rubina~
+The lady of the tower sits at her desk, ready to teach or debate sorceries.
+~
+   The lady of this tower is Rubina, the most powerful sorceress within
+Karthay.  Her hair is long and a luxurious auburn that glows with a deep golden
+red in the candelight.  Her robes are black silk, cut low to accent her slim
+neck, and slitted at the sides to show her shapely legs.  In this room she
+teaches others spells of the black moon, yet in other rooms of the tower she
+has been known to teach other things to those who pay well.    
+~
+1826891 8 10486912 0 E
+30 1 -14 3d33+1700 4d25+9
+1800 250000 1
+8 8 2 2
+BareHandAttack: 12
+E
+#5110
+arashi burly man weaponsmaker~
+Arashi, the weaponsmaker~
+A burly man with deep set eyes sells his finely made weapons.
+~
+   A burly man stands at the counter of his store, his deep set eyes watching
+shrewdly for those who are too cheap to buy his finely crafted items.  When he
+is not selling them, he is making them at the forge within his store.    
+~
+3145802 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+2000 250000 0
+8 8 1 0
+BareHandAttack: 9
+E
+#5111
+man muscled blacksmith~
+the dark haired blacksmith~
+A heavily muscled man with dark hair proudly displays his metal wares.
+~
+   Dark hair curls around the face of this heavily muscled man.  Black metal
+bands, engraved with the symbol of a red rose, wrap around his huge arms.  The
+unique crafting of his items make him a popular blacksmith within the city of
+Karthay.    
+~
+3252298 40 0 0 E
+30 -5 -14 3d33+2500 4d25+25
+100000 250000 0
+8 8 1 0
+BareHandAttack: 7
+E
+#5112
+cinnabar dwarf thick red beard~
+Cinnabar, the Leathersmith~
+A dwarf with a thick red beard stands ready to sell his leather items.
+~
+   This dwarf, with his long, flaming red beard, smiles as people look around
+at his leather items.  His bright brown eyes are sharp, and notice most
+everything that happens within his store, that is, when he isn't making his
+wares.    
+~
+3399754 0 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+100000 250000 0
+8 8 1 0
+BareHandAttack: 7
+E
+#5113
+danari fisherwoman huge woman~
+Danari, the fisherwoman~
+A huge woman wearing a fishscale apron meets you with a toothy grin.
+~
+   This woman is huge, with thick arms and legs, and a body to match her limbs.
+She is one of the best fishers within Karthay, and when she isn't out catching
+fish or other sea creatures, she is either cleaning them, or selling them at
+the fish market.  She wears a shimmering fishscale apron to keep her wide skirt
+and leggings clean from fish guts.    
+~
+3399754 0 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+10000 250000 0
+8 8 2 0
+BareHandAttack: 15
+E
+#5114
+tinsel bubbly gnome~
+Tinsel~
+A bubbly gnome skips around her store as she rapidly talks and sells her items.
+~
+   This small bubbly gnome is dressed in colorful rags, and skips around her
+store with untiring energy.  She talks impossibly fast, as most gnomes are
+known to do, and her happiness is almost infectious.  Her store is a mix of
+knick-knacks more than definite items, but there are things that can be useful.
+~
+3391562 196616 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+1999 250000 0
+8 8 2 0
+BareHandAttack: 15
+E
+#5115
+deep blue eyes cowl blue midnight~
+a cowled figure in blue~
+Deep blue eyes shine from underneath a cowl of midnight blue, watching you.
+~
+   The midnight blue cowl is attached to a thick robe, covering the figure
+entirely.  Deep blue eyes peer out from underneath the cowl, yet that is all
+that can be seen of this figure.  The eyes watch you with intense interest as
+you wander the store, guarding the holy possessions from theft.    
+~
+1302618 40 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+10000 250000 0
+8 8 2 0
+BareHandAttack: 12
+E
+#5116
+ravynsai woman young black~
+Ravynsai, Mistress of Spells~
+A young woman in robes of shimmering midnight black rests behind the counter.
+~
+   The young woman behind the counter has a warm smile, and eyes of a light
+grey, that glance around with interest.  Her light blonde hair shimmers in the
+light, making it a frosted silvery color.  Her robes are low cut, like a finely
+made dress, and shimmers with a deep black, accented with flashes of dark blue
+and silver.  A silver necklace and a few rings complete her warddrobe.    
+~
+1302602 40 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+100000 250000 0
+8 8 2 0
+BareHandAttack: 12
+E
+#5117
+rezzia barmaid husky woman~
+Rezzia, the Barmaid~
+A dark haired woman with a husky voice serves drinks from the bar.
+~
+   This tanned, muscular woman has earned her right to be the owner of this
+bar, after winning it in a hand-wrestling match against the previous owner.  
+Her dark hair barely hides the large gold loop in her left ear, and her deep
+green eyes are shadowed by a tattoo on her forehead.    
+~
+1048602 0 0 0 E
+30 -5 -14 3d33+3000 4d25+9
+4000 250000 0
+8 8 2 0
+BareHandAttack: 13
+E
+#5118
+kitharen postmistress small bouncy gnome~
+Kitharen, the Postmistress~
+A small bouncy gnome is here, running back and forth between mailboxes.
+~
+   This gnome is perfect for the job of postmistress.  Not only does she have
+endless amounts of energy to run back and forth from mailboxes to the front
+counter, she also loves to improve on the delivery of mail from city to city,
+as well as find ways to efficiently store all the mail of her patrons.    
+~
+3145739 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1700 250000 0
+8 8 2 1
+E
+#5119
+wren slight lady jeweler~
+Lady Wren, Jeweler~
+A lady of slight build shows off her many pieces of jewelry that she wears.
+~
+   The lady before you is decked in many fine pieces of jewelry, ranging from
+the delicate silver necklaces inlaid with tiny specks of gems, to the many
+rings she wears on her fingers.  Her build is slight, and she looks like she
+has never done an honest day's work - yet surprisingly, she is the one who
+creates the most beautiful pieces of jewelry in this store.    
+~
+1237066 8 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+100000 250000 0
+8 8 2 0
+E
+#5120
+wench bar busty~
+a busty bar wench~
+A busty bar wench shows off her new outfit as she struts around serving drinks.
+~
+   This young woman is definitely bouncy, as she struts around in her new
+outfit while she serves drinks to the patrons.  Her new outfit fits her well,
+almost too perfectly as the frilly low-cut blouse barely reaches to her
+stomach, showing off a gold ring in her belly button.  A short lace skirt
+reaches about mid-thigh, and tends to fly up whenever a breeze happens to blow
+by.  Her flushed face and grinning attitude shows she loves her job.    
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+94 2900 0
+8 8 2 0
+E
+#5121
+wench serving well endowed~
+a well endowed serving wench~
+A well endowed serving wench bounces around the room as she serves plates of food.
+~
+   This woman wears her hair up in a ponytail, held by a large gem, and another
+gem hangs down from her necklace, bringing attention to the hint of her ample
+cleavage.  The low-cut blouse she wears is made of mostly lace and leather,
+showing tanned skin underneath, and a wisp of a skirt shows off her shapely
+legs.  She loves teasing the patrons as she bends over, giving them good view
+of what she has, and flips up her skirt as she walks by.    
+~
+10 0 0 0 E
+12 13 4 5d6+210 2d8+3
+102 4700 0
+8 8 2 0
+E
+#5122
+patron bar grinning~
+a grinning bar patron~
+A bar patron sits at his table, grinning as the wenches walk by.
+~
+   This man sits at his table with a stupid, sly grin as he stares at the
+wenches while they waltz by with orders.  He buys drinks on occassion, but
+prefers to just sit and watch if he can while he daydreams.    
+~
+10 0 0 0 E
+15 11 1 5d10+300 2d8+4
+53 8400 0
+8 8 1 0
+E
+#5123
+merchant drunk~
+a drunk merchant~
+A merchant sits at his table, too drunk to move.
+~
+   The merchant sits at his table, wobbling slightly in his chair.  His eyes
+are a bit too bloodshot and his face is covered in stubble, but he doesn't
+appear to be a problem, so Gorban lets him stay.    
+~
+10 0 0 0 E
+7 16 9 3d5+85 2d6+1
+48 400 0
+8 8 1 0
+E
+#5124
+customer tavern rowdy~
+a rowdy tavern customer~
+A rowdy tavern customer whistles, hoots and hollers at the bar girls.
+~
+   This tavern customer is one of the regulars, who comes not only for the good
+ale Gorban serves, but for the eyeful of the good looking women the bartender
+hires.  A burly man with a tendency to pass punches as well as other things, he
+can down a drink in one gulp and still oogle the wenches that tease as they
+walk by him.  He causes alot of commotion, but is a good paying customer and
+won't get kicked out unless he starts a fight.    
+~
+10 0 0 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+E
+#5125
+sailor scar scarred heavy~
+a scarred sailor~
+A heavy set man with a scar on his left cheek sits in the corner of the tavern.
+~
+   This man has seen some bad days.  A long scar on his left cheek reaches his
+chin, and his left ear is gone, the scar there hidden by the long dark hair.  
+There's still a glint in his eyes though, as he sits at his table, drinking,
+and thinking of his next days at sea.    
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+94 1900 3
+8 8 1 0
+E
+#5126
+fisherman old~
+an old fisherman~
+An old fisherman rests his tired bones as he sips his drink.
+~
+   This man is definitely old and wiry.  His hair, what is left of it, is wispy
+and pure white.  His eyes are a dull blue, and look as tired as the rest of him
+does.  He sits at his table and sips his drink slowly, as if to savor it.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+71 800 0
+8 8 1 0
+E
+#5127
+figure cloaked small~
+a small cloaked figure~
+A small figure sits at a corner table, wrapped in a deep green cloak.
+~
+   Nothing can be determined about this figure, except for the small size.  
+The cloak is a beautiful velvet green and completely covers the figure.  
+Occasionally, a pair of eyes the color of the cloak peer from underneath.
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+98 2900 0
+8 8 2 0
+E
+#5128
+patron tavern complaining regular~
+a complaining tavern patron~
+A regular tavern patron sulks at his table while he complains.
+~
+   This is one of the regular tavern-goers, coming here every day at the same
+time, sitting at the same table, and ordering the same drinks.  He also
+complains every day about the same things - the prices of the drinks are too
+high, the food is rotten, the beer is stale - just a regular old grouch.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+73 800 0
+8 8 1 0
+E
+#5129
+guard tavern~
+a tavern guard~
+A tavern guard seems more interested in watching women than breaking up fights.
+~
+   The man standing here is rather large and well muscled, and was hired
+specifically to break up fights in the tavern if they got out of hand.  
+Instead, he seems more interested in watching the wenches who serve the
+patrons, rather than getting involved in any brawls.  He will help once in a
+while, if only to keep his job, and continue getting free ale and food and
+eyeful of women.    
+~
+4106 0 0 0 E
+10 14 6 5d4+160 2d7+2
+92 1900 0
+8 8 1 0
+E
+#5130
+merchant wandering loud~
+a wandering merchant~
+A loud merchant wanders about the guild hall, trying to sell his wares.
+~
+   This merchant has a loud voice, and wears garish clothing.  He tries to get
+the attention of anyone who walks by, in an attempt to persuade them to buy his
+things.  He's not a very successful merchant, however, for his prices are too
+high for most people.    
+~
+8 0 0 0 E
+7 16 9 3d5+85 2d6+1
+53 400 0
+8 8 1 0
+E
+#5131
+bed merchant rude~
+Bedarias, the oil merchant~
+A rude merchant tries to bully people into buying his oils.
+~
+   This merchant is rather rude and ugly.  His voice is scratchy, and he tries
+to bully people into buying his wares by cornering them and shoving them into
+his stall, where he has his oils for sale.    
+~
+1048586 0 0 0 E
+25 5 -9 3d33+850 4d6+8
+8541 87000 0
+8 8 1 0
+E
+#5132
+merchant female pretty~
+a pretty female merchant~
+A pretty female merchant stands here, trying to sell her goods.
+~
+   This lady is pretty - with her golden brown hair tied back to show off her
+slim neck, and her almond shaped brown eyes accented with golden eyeshadow.  
+She flutters her eyelashes as she tries to persuade people to buy her things.
+~
+7340042 0 0 0 E
+30 -5 -14 3d33+2500 4d25+9
+100000 250000 0
+8 8 2 0
+E
+#5133
+woman slim red~
+a slim woman dressed in red~
+A slim woman wearing a red dress wanders the guild hall, looking for something.
+~
+   This woman is slim and tall, with a long red dress, decorated with gems
+along the waist and edges of the fabric.  Her hair is pure black and falls
+loosely over her shoulders, and her eyes are accented with red eyeshadow.    
+~
+3670026 0 32 0 E
+30 1 -14 3d33+1700 4d8+9
+1950 250000 1
+8 8 2 0
+E
+#5134
+woman dressed gaily bright~
+a gaily dressed woman~
+A woman dressed in bright clothing dances about as she looks around.
+~
+   Bright cloth of orange, red, and yellow create the patches of this woman's
+dress.  A few ribbons of different colors are tied around her waist, and
+decorate the sleeves and the bottom of the long dress.  Her hair is curly and
+reaches to her shoulders, and bounces as she skips along, looking for
+something to buy.
+~
+8 0 0 0 E
+14 12 2 6d8+240 2d8+4
+320 7000 0
+8 8 2 0
+E
+#5135
+guard silent quiet solemn~
+a silent guard~
+A solemn guard in shining armor stands quiet vigilance.
+~
+   This guard is tall and motionless, like a live statue.  Only his eyes, orbs
+of purest warn brown, scan the area.  His armor is polished until it shines,
+and seems to glow with a faint radiance.  He guards the stairs from the
+unworthy who try to see the holy warrior on the second floor.    
+~
+1048586 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+734 14000 0
+8 8 1 0
+E
+#5136
+practicing fighter blonde~
+a blonde fighter~
+A fighter is practicing here, her blonde hair flying as she dodges her opponent.
+~
+   This woman has blonde hair, tied back to prevent it from getting in the way
+of her practicing.  She bears no weapons, but is learning how to dodge and use
+a shield to prevent herself from getting hit.  A number of bruises and
+abrasions are apparent on her exposed arms and legs, evidence of the hard
+training she has endured.  Nonetheless she still proceeds with maximum effort,
+determined to become a master of her skills.    
+~
+10 0 0 0 E
+13 13 3 6d5+240 2d9+2
+205 6625 3
+8 8 2 0
+E
+#5137
+warrior hefty practicing~
+a hefty warrior~
+A hefty warrior is here, practicing his skills with various weapons.
+~
+   This man is quite large.  However, despite his girth, he seems quite
+dextrous and seems to be an able warrior.  He hones his skills with various
+weapons so as to be prepared for inevitable challenges.  Perhaps his most
+glaring weakness is the odd film coveing one eye, indicating perhaps that he is
+half-blind.    
+~
+65546 0 0 0 E
+14 12 2 6d8+240 2d8+4
+315 7000 0
+8 8 1 0
+E
+#5138
+ranger female~
+a female ranger~
+A female ranger takes a moment to rest after a sparring session.
+~
+   This woman is lean and wiry, and tired from her recent sparring session with
+one of the warriors within the guild.  She is confident in her abilities as a
+swordswoman, and is waiting to test her skills against the weaponsmaster.    
+~
+10 0 0 0 E
+12 13 4 5d6+210 2d8+3
+135 4700 0
+8 8 2 0
+E
+#5139
+guard guild mean~
+a mean looking guard~
+A mean looking guild guard narrows his eyes at your entrance to the guild.
+~
+   The duty of this guard is to ensure that only warriors enter the Guild of
+the Warrior.  To his dismay, it includes paladins and rangers, but he would
+prefer to only let what he considers 'true warriors' gain access to his guild.
+~
+1114122 0 0 0 E
+21 5 -5 3d33+450 3d10+7
+1070 33500 0
+8 8 1 0
+E
+#5140
+apprentice priest~
+an apprentice priest~
+One of the apprentices of the priesthood wanders around the temple.
+~
+   A young man with dark glittering eyes and sandy colored hair dresses himself
+in the robes of the priesthood of Zeboim.  He studies hard and with fevor, so
+he may one day call himself a grand priest of the great goddess of the sea.  
+~
+524296 0 1 -750 E
+9 15 7 5d5+130 2d7+1
+84 1300 2
+8 8 1 0
+E
+#5141
+woman prayer praying bowed~
+a woman in prayer~
+A woman with her head bowed kneels within the courtyard, praying to Zeboim.
+~
+   This woman is a wife of a sailor, who has not seen her husband in over a
+year.  It was rumored that his ship had been lost in a storm, and this woman
+comes to the temple every day, praying to the great goddess of the sea, that
+she may bring the woman's husband home safe and alive, despite the rumors.    
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+91 1900 0
+8 8 2 0
+E
+#5142
+child hopeful~
+a hopeful child~
+A young child stares around hopefully, wishing to become a priestess.
+~
+   This young little girl has high hopes of one day being accepted into the
+priesthood of this temple, where she may serve the goddess Zeboim.  She stands
+here, looking around, picturing with childish wonder the amazing things that
+could go on in a temple.    
+~
+10 0 0 0 E
+7 16 9 3d5+85 2d6+1
+48 400 0
+8 8 2 0
+E
+#5143
+priestess harsh~
+a priestess of Zeboim~
+A harsh looking priestess in blue robes walks the temple.
+~
+   This priestess looks harsh, her cold blue eyes glaring at anyone who dares
+approach her in her temple.  Her arrogant manner comes from her belief that she
+serves the greatest of the gods, Zeboim, and that her power is beyond normal
+mortals, those who are never in favor of the goddess.    
+~
+8 0 1 -750 E
+11 14 5 5d4+190 2d8+2
+95 2900 2
+8 8 2 0
+E
+#5144
+guard burly high priest's~
+the High Priest's Guard~
+A burly man stands guard at the entrance to the High Priest's quarters.
+~
+   This man looks barbaric with his long, thick hair and light blue eyes devoid
+of any expression.  He guards the entrance to the High Priest's chambers,
+letting only those of the clerical order in to see him.  It is apparent that he
+has endured long years of conditioning and punishment, his rigid muscles never
+moving nor his gaze ever straying from straight ahead.    
+~
+9437194 0 0 -750 E
+15 11 1 5d10+300 2d8+4
+98 8400 3
+8 8 1 0
+E
+#5145
+young sand priest kneeling hair~
+a meditating priest~
+A young man with sand colored hair is kneeling in silent meditation.
+~
+   This young man is one of the priests of Zeboim.  His sand colored hair
+covers his bowed face, and he kneels in silent meditation to his goddess,
+hoping for wisdom and understanding of her ways.
+~
+524298 0 1 0 E
+10 14 6 5d4+160 2d7+2
+88 1900 2
+8 8 1 0
+E
+#5146
+priestess~
+an apprentice priestess~
+A priestess in the robes of an apprentice runs around doing her chores.
+~
+   This young apprentice looks happy in her robes of the priesthood.  At the
+moment, she has been given the duty of chores around the temple, and is running
+around fufilling her tasks.    
+~
+524296 0 1 -750 E
+10 14 6 5d4+160 2d7+2
+72 1900 2
+8 8 2 0
+E
+#5147
+priest old~
+an old priest~
+An old priest wanders slowly around the temple, reliving memories.
+~
+   This old man, with graying hair and wrinkles, is a powerful priest despite
+his age, and his inability to travel far.  He wanders around the temple,
+thinking of old times when he was an aspiring priest.  Deep scars run across
+his back, marks of honour from the transcendance through pain he achieved while
+wielding his scourge against his own unworthiness.    
+~
+524296 0 4097 0 E
+12 13 4 5d6+210 2d8+3
+102 4700 2
+8 8 0 0
+E
+#5148
+priestess beautiful~
+a beautiful priestess~
+A beautiful priestess in robes helps keep the temple in good working order.
+~
+   This woman is beautiful, with light blonde hair and light grey eyes.  She
+wanders gracefully within the temple as she helps keep the temple in order,
+from straightening to discipline.    
+~
+524296 0 33 -750 E
+12 13 4 5d6+210 2d8+3
+110 4700 2
+8 8 2 0
+E
+#5149
+priest apprentice~
+an apprentice priest~
+A young apprentice polishes the candleholders and altar bowls.
+~
+   This young man has to job of cleaning the temple storage room.  Dusting and
+polishing the many items takes a long time, as well as making sure the robes
+and cloths are free of moths and mold, counting the candles and making sure the
+inventory is correct, and keeping everyting neat and efficient.    
+~
+10 0 0 0 E
+7 16 9 3d5+85 2d6+1
+70 400 0
+8 8 1 0
+E
+#5150
+viper pair ruby eyes empress~
+a gold empress viper~
+A pair of ruby eyes glare venemously from within the darkness.
+~
+   A pair of ruby eyes shine, reflecting any light from within the room.  A
+scale or two shimmer in the darkness, creating an odd red-gold color from the
+light of the eyes.  A hissing sound, and a sinister scraping, are the only
+warning signals of this venemous serpent as she prepares to strike.    
+~
+65594 1056 0 0 E
+15 11 1 5d10+300 2d8+4
+421 8400 0
+8 8 2 0
+BareHandAttack: 4
+E
+#5151
+golden emerald eyes king cobra~
+a crowned king cobra~
+The golden glinted emerald eyes of a king cobra sway back and forth before you.
+~
+   The glint of gold is from the golden scales that cover this huge serpent.  
+His emerald eyes are full of venom, as well as the inch long fangs he bares.  
+The cobra hisses, as he arches his neck, displaying the golden hood that gives
+him his name of Crowned King.    
+~
+1114170 1056 0 0 E
+19 9 -5 3d20+410 3d6+6
+0 17000 0
+8 8 1 0
+BareHandAttack: 4
+E
+#5152
+man sleepy droopy~
+a sleepy eyed man~
+A man slouches over a chair, his droopy eyelids making him look sleepy.
+~
+   This man looks like he hasn't slept in days.  His eyelids are drooping
+heavily, and shadows hang under his eyes.  He is slouched in his chair, yet it
+is not known if he will fall asleep at any moment, or if he will spring into
+action without the slightest hesitation.
+~
+26 0 0 0 E
+15 11 1 5d10+300 2d8+4
+440 8400 0
+8 8 1 0
+E
+#5153
+child stray orphan~
+a stray child~
+An orphan child wanders around, trying to stay away from the general public.
+~
+   This child wears rags, like most beggars, yet hasn't even reached the age of
+ten.  Even at this impossible young age, he knows to stay away from the guards
+and stay hidden from the nobles and most shopkeepers.  He seems well fed, but
+that is likely from food paid for by the theft of the coinpurses fo the passing
+nobles he appears to avoid.    
+~
+9 262144 0 0 E
+4 18 12 1d5+45 1d8+1
+11 50 0
+8 8 1 6
+E
+#5155
+translator ancient text~
+the translator~
+The translator of ancient texts pours over an old book.
+~
+   A middle aged woman with black hair that has started to grey sits quietly
+near one of the bookcases and intently scans over the pages of a book.  She
+scarcely notices you presence as she slowly flips the pages of an old leather
+bound book, pausing for a moment at each page then continuing on.  Seemingly to
+see what she has been looking for she utters a stifled gasp and proceeds to
+read further.    
+~
+524298 1056 16 0 E
+12 13 4 5d6+210 2d8+3
+110 4700 1
+8 8 2 0
+E
+#5156
+shimmering form energy~
+a shimmering form~
+A shimmering form of energy distorts in the light.
+~
+   Formed above the table, a transparent and indistinct shape wavers in the
+light between the bright braziers along the walls.  Although having no
+consistant form, it is of some definite coherance; a magical being summoned and
+left here from the ethereal planes.  It rotates slightly, showing on one side
+what appears to be what could be defined as the general shape of a face, calm
+and content.    
+~
+526346 65536 32 0 E
+16 11 -1 3d20+320 3d6+4
+523 11000 1
+8 8 0 0
+BareHandAttack: 12
+E
+#5157
+seeker harmony~
+a seeker of harmony~
+A seeker of harmony shuffles along the wall.
+~
+   A man, silently blissful slowly moves along the edge of the towers walls and
+contemplates the meaning of the numerous strange inscriptions.  Dressed in a
+shambles of clothes, it is obvious he hasnt changed in weeks since his arrival,
+but little else matters beyond the words of his mistress Rubina and the quiet
+truth she professes.    
+~
+8 0 0 0 E
+9 15 7 5d5+130 2d7+1
+72 1300 0
+8 8 1 0
+E
+#5158
+karthay gate keeper~
+a gate keeper of Karthay~
+The gate keeper stands quietly beside the huge doors that close the city.
+~
+   The gate keeper walks back and forth beside the open doors of the city of
+Karthay.  It is her duty to watch the entrance of visitors and notify the
+authorities if any undesirables try to come in.  Still relatively young in age,
+her slightly greying hair betrays her true strength, vitality and skill in
+battle.  A sudden sound distracts her for a moment before she again turns and
+looks back down the road outside the city.    
+~
+1049098 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+931 25000 0
+8 8 2 0
+BareHandAttack: 13
+E
+#5195
+woman tiny slim~
+a tiny woman in silk~
+A tiny, slim woman in shimmering transparent silk sits on the counter.
+~
+   The woman is extremely small in stature, almost like a miniature elven
+female.  Her ears are delicately pointed, and she is very slim and pale in
+appearance.  The shimmering transparent silks she wears are wrapped around her
+body and flow onto the counter.  She wears a tiny gold collar around her neck.
+~
+3399690 0 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+100000 250000 0
+8 8 2 0
+BareHandAttack: 4
+E
+#5196
+man grim robes dark~
+a grim looking man in dark robes~
+A man with a grim looking face stands behind the counter, garbed in dark robes.
+~
+   The dark coloured robes appear to be black, yet in the coloured lights they
+could be almost any colour.  The man's face is grim looking, and his small
+beady eyes watch out for customers and wanderers alike.    
+~
+1302538 0 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+100000 250000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#5197
+woman soft spoken robes~
+a soft spoken woman in long robes~
+A soft spoken woman in long, simple robes stands here ready to sell her items.
+~
+   The woman standing before you is garbed in simple robes that cover her from
+head to toe, even hiding her long arms.  They are delicately shaded in green
+hues, complimenting her sea green eyes and pale complexion.  Her hair is
+covered by a light green hood, and her voice is soft and melodious.    
+~
+3399690 0 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+1870 250000 0
+8 8 2 0
+E
+#5198
+man odd beard~
+an odd looking man~
+An odd looking man with a pointy beard stands here selling odds and ends.
+~
+   The strangest thing about this man is his hair - his beard is cut in a
+strange way, pointed at the middle, and clean-cut cheeks, and long sideburns.
+The rest of his hair falls to his shoulders, giving him a striped look.  His
+wide grin and bushy eyebrows add to this odd man's appearance - and he seems to
+enjoy his looks to the fullest as he chuckles at his customer's glances.    
+~
+3399690 0 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+100000 250000 0
+8 8 1 0
+E
+#5199
+sailor greasy lanky~
+a lanky sailor in a greasy apron~
+A lanky sailor in a greasy apron sells seafood as he cooks it for customers.
+~
+   This sailor seems to be part-time cook, when he is not out on the sea.  He
+wears a long apron covered in grease from the grills and pots, to protect his
+sailor's clothing.  He looks terribly thin, yet he knows how to cook his
+seafood to perfection.    
+~
+3399690 0 0 0 E
+30 -5 -14 3d33+1700 4d25+25
+1000000 250000 0
+8 8 1 0
+E
+$

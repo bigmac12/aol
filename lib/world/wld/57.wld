@@ -1,0 +1,323 @@
+#5700
+A Wide, Cobbled Road~
+   The closer you get to the tower, the more and more it's sheer size
+overwhelms you.  Standing 1000 feet in the air, the massive size of it dwarfs
+even some of the smaller mountains in the area.  It is a fitting protector of
+the city of Palanthas, and it even seems to have the same type of regalness as
+it's defenders, and brings to mind a knight standing guard duty.  There is
+visible damage to the tower, miniarets crumbled, and parts of the massive outer
+wall has been blasted open.  The main tower it self is blackened and scorched
+in many areas.  The damage from the dragon war has still not been fixed, and
+the gaping holes in the tower and walls fill you with awe as you imagine the
+size and strength of the beasts needed to punch holes in the massive structure.
+  
+~
+57 0 0 0 0
+D1
+~
+~
+0 0 7020
+D8
+~
+~
+0 0 5701
+S
+#5701
+A Wide, Cobbled Road~
+   As you approach the tower, the spur stands out.  Built as a way to guard the
+road into Palanthas, the Knight's Spur is nothing more than a huge wall with
+rooms in it.  The thickness of the wall, however, is the one factor that makes
+the road so incredibly safe to attacks.    
+~
+57 0 0 0 0
+D2
+~
+~
+0 0 5702
+D7
+~
+~
+0 0 5700
+S
+#5702
+A Wide, Cobbled Road~
+   This is a large hallway that leads from one entrance of the Knight's Spur to
+the other.  It is kept clean of horse matter, as well as of garbage, and other
+refuse.  The walls are made of marble, as is the floor and polished to a
+gleaming shine.    
+~
+57 8 0 0 0
+D0
+~
+~
+0 0 5701
+D8
+~
+~
+0 0 5703
+S
+#5703
+A Wide, Cobbled Road~
+   Here is a large guarded porticullis into and out of the Knight's Spur.  
+From here you can venture out onto the Wings of Habbakuk, or into the spur.  
+The porticullis is open and is very large.  It is not fully open, due to damage
+to it.  You can see scratch marks on the metal, and several of the iron bars
+have been torn out of it, or bent severely.    
+~
+57 8 0 0 0
+D7
+~
+~
+0 0 5702
+D8
+~
+~
+0 0 5704
+S
+#5704
+At a Fork in the Road~
+   You stand on a large bridge that leads over a flowing river.  The small
+river itself runs through the Knight's Spur, and is used to carry away refuse
+and other trash.  There stands, on each end of the bridge, a knight, showing
+you that they take this one possible weakness in the tower's defenses quite
+seriously, and are well aware of it.    
+~
+57 8 0 0 0
+D2
+~
+~
+0 0 5710
+D3
+~
+~
+0 0 5705
+D7
+~
+~
+0 0 5703
+S
+#5705
+A Wide Road Along the Field~
+   This is the entrance way from the Knight's Spur to the The High Clerist's
+Tower itself.  It seems an easy way to enter the tower, though it is
+undoubtedly well guarded.    
+~
+57 8 0 0 0
+D1
+~
+~
+0 0 5704
+D3
+~
+~
+0 0 5706
+S
+#5706
+Nearing the High Clerist's Tower~
+You are in an unfinished room.
+~
+57 8 0 0 0
+D1
+~
+~
+0 0 5705
+D8
+~
+~
+0 0 5707
+S
+#5707
+Nearing the High Clerist's Tower~
+You are in an unfinished room.
+~
+57 8 0 0 0
+D7
+~
+~
+0 0 5706
+D8
+~
+~
+0 0 5708
+S
+#5708
+Approaching the High Clerist's Tower~
+You are in an unfinished room.
+~
+57 8 0 0 0
+D7
+~
+~
+0 0 5707
+D8
+~
+~
+0 0 5709
+S
+#5709
+Before a Massive Iron Portcullis~
+You are in an unfinished room.
+~
+57 8 0 0 0
+D7
+~
+~
+0 0 5708
+S
+#5710
+A Wide Road Through the Field~
+You are in an unfinished room.
+~
+57 8 0 0 0
+D0
+~
+~
+0 0 5704
+D2
+~
+~
+0 0 5711
+S
+#5711
+A Wide Road Through the Field~
+You are in an unfinished room.
+~
+57 8 0 0 0
+D0
+~
+~
+0 0 5710
+D9
+~
+~
+0 0 5717
+S
+#5712
+A Wide Road Through the Field~
+You are in an unfinished room.
+~
+57 8 0 0 0
+D0
+~
+~
+0 0 5720
+D2
+~
+~
+0 0 5713
+S
+#5713
+A Wide Road Through the Field~
+You are in an unfinished room.
+~
+57 8 0 0 0
+D0
+~
+~
+0 0 5712
+D2
+~
+~
+0 0 5714
+S
+#5714
+A Turn in the Road~
+You are in an unfinished room.
+~
+57 0 0 0 0
+D0
+~
+~
+0 0 5713
+D3
+~
+~
+0 0 5715
+S
+#5715
+Approaching the High Clerist's Tower~
+You are in an unfinished room.
+~
+57 0 0 0 0
+D1
+~
+~
+0 0 5714
+D3
+~
+~
+0 0 5716
+S
+#5716
+Before a Massive Iron Portcullis~
+You are in an unfinished room.
+~
+57 0 0 0 0
+D1
+~
+~
+0 0 5715
+S
+#5717
+A Wide Road Through the Field~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D6
+~
+~
+0 0 5711
+D9
+~
+~
+0 0 5718
+S
+#5718
+A Wide Road Through the Field~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D2
+~
+~
+0 0 5719
+D6
+~
+~
+0 0 5717
+S
+#5719
+A Wide Road Through the Field~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D0
+~
+~
+0 0 5718
+D9
+~
+~
+0 0 5720
+S
+#5720
+A Wide Road Through the Field~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D2
+~
+~
+0 0 5712
+D6
+~
+~
+0 0 5719
+S
+#5766
+Unused~
+You are in an unfinished room.
+~
+57 0 0 0 0
+S
+$~

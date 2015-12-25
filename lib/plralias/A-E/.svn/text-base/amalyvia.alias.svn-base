@@ -1,0 +1,80 @@
+4
+skin
+11
+skin corpse
+0
+3
+gac
+18
+get all all.corpse
+0
+2
+ot
+20
+order fol assist ama
+0
+2
+af
+8
+ass frit
+0
+4
+bark
+12
+cast bark $*
+1
+5
+thorn
+13
+cast thorn $*
+1
+2
+cm
+16
+cast magic-st $*
+1
+2
+lb
+19
+cast call-lightning
+0
+7
+conjure
+12
+cast conjure
+0
+2
+c3
+24
+c animal-summoning-three
+0
+2
+a1
+8
+c animal
+0
+2
+a2
+22
+c animal-summoning-two
+0
+2
+tb
+16
+throw berries $*
+1
+2
+cl
+14
+cast cure-l $*
+1
+2
+cr
+15
+cast refresh $*
+1
+2
+gb
+14
+cast goodberry
+0

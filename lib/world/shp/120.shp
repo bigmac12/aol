@@ -1,0 +1,100 @@
+CircleMUD v3.0 Shop File~
+#12000~
+12000
+-1
+1.00
+0.00
+-1
+%s Can't give ye what I don't have!~
+%s You don't seem to have that.~
+%s What do ye think I am? A shopkeeper?~
+%s I can't afford that!~
+%s I don't do credit!~
+%s Give us the money then!~
+%s I'll give you %s for that.~
+0
+2
+12000
+0
+12002
+12000
+-1
+0
+28
+0
+0
+1
+38
+#12001~
+12000
+-1
+1.00
+0.00
+-1
+%s I don't think I've got any of those on board.~
+%s You don't seem to have that.~
+%s I've got all the cargo I need.~
+%s I've already spent all my money on cargo.~
+%s You won't get far in Kalaman with no money.~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+12002
+0
+12008
+12010
+-1
+0
+28
+0
+0
+1
+38
+#12002~
+-1
+1.00
+0.00
+-1
+%s Can't give ye what I don't have!~
+%s You don't seem to have that.~
+%s What do ye think I am? A shopkeeper?~
+%s I can't afford that!~
+%s I don't do credit!~
+%s Give us the money then!~
+%s I'll give you %s for that.~
+0
+2
+1684303719
+0
+-1
+0
+28
+0
+0
+1
+38
+#12010~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+1684303719
+0
+-1
+0
+28
+0
+0
+1
+38
+$~

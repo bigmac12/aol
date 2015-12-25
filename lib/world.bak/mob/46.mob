@@ -1,0 +1,1056 @@
+#4600
+treant father forest huge living tree benevolent aura~
+the Father of the Forest~
+A huge, living tree with a benevolent aura sits in the center of the clearing.
+~
+   This is a large, aged oak tree, whose bark is gnarled into what closely
+resembles a face.  Its strong roots hold tightly to the ground.  It is truly
+immense in size, easily larger than any other tree around.  A sense of kindness
+and benevolence surround the tree, though this quickly changes to anger with
+the reckless use of fire, and suspicion of those who carry axes.  This is
+certainly not an ordinary tree.  It is a powerful magical entity, placed here
+to serve as guardian of the forest.    
+~
+3924314 33558656 279040 800 E
+30 1 -14 3d33+3980 4d8+9
+0 250000 5
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+T 4600
+T 2
+#4601
+immense greenish insect ankheg~
+an ankheg~
+An immense, greenish insect bursts from the soil and attacks!
+~
+   This immense tunnelling insect is covered with thick armor plates.  It lurks
+beneath the soil until its prey is felt above, then it bursts forth, attacking
+with a huge chittering pair of mandibles that are easily capable of crushing
+anything.  Even a warrior in full plate armor.    
+~
+90232 787488 0 0 E
+15 12 1 5d10+300 3d9+4
+0 8400 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4602
+bear large black ~
+a large black bear~
+A large black bear rears up on its hind legs.
+~
+   A large black bear was fast asleep before your arrival, but the sound of
+your footfalls has awakened it.  It sniffs at the air, and then looms up on its
+rear legs ferociously.  Its long fangs and sharp claws make this a formidable
+opponent, and one that is not pleased by your intrusion.    
+~
+1048648 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+8 8 1 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#4603
+basilisk lesser strange strange-eyed reptilian creature~
+a lesser basilisk~
+A strange-eyed reptilian creature lurks in the brush.
+~
+   A creature of legend, the basilisk can turn those who look upon it to stone
+with its gaze.  Fortunately, this appears to be a lesser basilisk, whose
+petrification attack is less effective than its greater kin.  Its scales are a
+dull green, but shimmer with some violet stripes when light is cast upon it.  
+It is a formidable foe, and not one to be taken lightly.    
+~
+712712 33554468 16777216 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 1
+6 6 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4604
+beetle stag huge brown blue circle gleeful~
+a stag beetle~
+A huge brown beetle with a blue circle upon its back gleefully clashes its mandibles.
+~
+   Stag beetles are very very large, the height of a man, and the length of
+three men.  Every step is announced with the chitinous clicking of its long
+legs upon the ground.  It stalks about the forest in search of carrion to feed
+off of.  Though you know this creature is completely unintelligent, it somehow
+seems satisfied, likely at having just found itself a meal.  It does not seem
+to notice you.    
+~
+65608 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4605
+beetle bombardier immense black~
+a bombardier beetle~
+An immense black beetle squeaks and clicks at your approach.
+~
+   Bombardier beetles, by most reckoning, have no right to be so big.  These
+huge insects are the height of two men, and are as long as four men.  Unlike
+many other beetles, which are usually benign scavengers, the bombardier beetles
+enjoy larger prey, paralyzing it with a foul liquid spewed from its mandibles.
+It seems to size you up at your approach.    
+~
+1114184 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+800 17000 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4606
+unicorn majestic white~
+a unicorn~
+A majestic white unicorn whinnies softly at your approach.
+~
+   Unicorns are truly wondrous creatures that inspire a feeling of peace and
+well-being in all good creatures.  All white, the unicorn gives off a soft holy
+light.  A glitter comes from the horn in the center of its head.  It is thought
+to be a great curse to kill a unicorn, so only the most evil of hunters or most
+mindless of predators would willingly make such a thing their prey.  The
+unicorn however is imbued with great magical might, and does not make for an
+easy kill, even by them.    
+~
+729178 5308 29360128 850 E
+24 6 -8 3d33+750 4d6+8
+1400 68000 1
+8 8 1 0
+BareHandAttack: 11
+Maxmove: 50
+E
+T 4606
+#4607
+snake greyish green~
+a grey green snake~
+A greyish-green snake hisses as you pass.
+~
+   At first glance, this appears to be a broken tree branch lying upon the
+ground.  Then you notice the flickering of a forked tongue.  The skin of the
+snake is a greyish-green colour, like that of a young sapling.  The snake looks
+toward you and then quickly scurries for cover.    
+~
+65736 0 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4608
+griffon proud~
+a griffon~
+A proud griffon raises its head at your approach, emitting a loud &R'&YSquawk!&R'&n
+~
+   Griffons are magical creatures that have sometimes been tamed as mounts by
+the elves.  The griffon is comprised of two halves: The front half appearing to
+be a huge eagle with a mighty, sharp beak, and razor-sharp talons.  The
+hindquarters are those of a lion, as well as its tail.  This one has a red
+head, and ruddy brown flanks.  Its wings, covered in red feathers spread out
+wide as it prepares to attack, or take flight.    
+~
+11600218 0 0 0 E
+24 6 -8 3d33+750 4d6+8
+0 68000 0
+8 8 0 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#4609
+Pegasus winged horse regal~
+a pegasus~
+A winged pegasus lands before you, lowering its wing to allow its rider to step down.
+~
+   The sight of this regal creature is enough to elevate the spirit of the most
+common man into a spirit of song.  It is a magnificent white horse, with great
+wings that it uses in flight.  Some pegasi have been tamed to allow men to ride
+them.  Though this one appears tame enough, there is no bridle or bit upon it.
+It must take a skilled rider indeed to remain mounted while this graceful
+creature is airborne.  It looks at you with deep blue eyes that shine with
+peace and wisdom.    
+~
+17307722 33620096 88 0 E
+26 4 -10 3d33+950 4d7+7
+1400 115000 1
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 500
+E
+#4610
+deer white tailed white-tailed~
+a white-tailed deer~
+A swift white-tailed deer scampers across your path.
+~
+   This white tailed deer bounds out of the forest and stops for a brief moment
+upon your trail.  Deer are prey for most other creatures, so they are a flighty
+lot, and not inclined to stay and become someones meal, or trophy.  This one
+looks at you with black, haunted eyes before scampering away once again into
+the forest.    
+~
+200 0 0 0 E
+15 11 1 5d10+300 2d8+4
+0 8400 0
+8 8 1 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#4611
+tiger huge fierce golden~
+a huge tiger~
+A huge tiger stares at you with fierce golden eyes, letting out a mighty roar.
+~
+   A full-grown male tiger pads slowly in front of you.  It has probably heard
+you coming from some way away, and has prepared itself for attack.  Something,
+however, is different about this tiger.  Its eyes hold a quick, searching
+intelligence, as though it specializes in hunting a certain kind of prey.  It
+lets out a warning roar at your approach, causing birds from the nearby trees
+to fly away in fear.    
+~
+1116504 294956 0 0 E
+19 9 -3 3d20+410 3d6+6
+0 17000 0
+8 8 0 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#4612
+centaur powerful figure man horse waist~
+a centaur~
+A powerful figure crosses your path: a man from the waist up and a horse from the waist down.
+~
+   Centaurs are sylvan denizens that have inspired poets and storytellers for
+generations, and are among the most blessed of Chislev's children.  Being that
+they are such an impressive sight to behold, it is not hard to imagine why.  
+This one is a handsome, powerful man from the waist up, and a swift, powerful
+stallion from the waist down.  They often seek the company of satyrs and the
+occasional fortunate female elf or druid.    
+~
+327948 266244 0 0 E
+17 10 -1 3d20+340 3d6+5
+1000 11800 0
+8 8 1 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#4613
+warrior rider pegasus handsome blonde warrior sleek strong~
+a pegasus rider~
+A handsome blonde warrior with sleek, strong muscles stares off into the distance.
+~
+   This incredibly handsome human man approaches you.  He wears glittering
+armor, and a white cloak.  In his hand is held a sword which he has not
+sheathed, as he has not yet decided what to make of you.  He seems like he is
+concentrating on you very hard, to try and figure out if you pose a threat to
+that which he is sworn to protect.  His face is beautiful, appearing to have
+been sculpted from pure marble by a skilled artisan.  His hair is a long mane
+of spun gold.    
+~
+3176778 37948 0 850 E
+26 4 -10 3d33+950 4d7+7
+1000 115000 3
+8 8 1 0
+Maxmove: 50
+E
+T 4613
+T 4612
+#4614
+Annaliesae Stillgrove elegant elven woman~
+Annaliesae Stillgrove~
+An elegant elven woman relaxes upon a broken pillar, engrossed in reading her book.
+~
+   Annaliesae was a rather promising magical novice, who had only recently
+taken her test and chosen the white robes.  Shortly thereafter, she went
+missing and was presumed dead, however that appears to not be the case.  She
+sits here before you in the ruins, skimming through a heavy tome and scarcely
+acknowledging your presence.  Wherever she goes, her cat familiar is never far
+behind.    
+~
+1601738 295964 18882624 850 E
+23 6 -7 3d33+650 3d8+8
+1200 52000 1
+5 5 2 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#4615
+cat small grey~
+a small grey cat~
+A small grey cat is curled up sleeping upon his mistress' lap.
+~
+   Annaliesae Stillgrove made quite a name for herself during her very brief
+time in the conclave.  Almost as renouned was her cat, who had a marvellous
+knack for getting into places it should not have been able to get into.  Some
+suspect the cat was able to turn itself into gaseous form at will, though
+perhaps it was just really really agile.  It follows its master with unswerving
+loyalty, and fights fiercely to protect her.    
+~
+3149898 33980476 0 0 E
+18 11 -6 3d16+180 1d6+6
+0 14000 0
+5 5 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#4616
+sylph~
+a sylph~
+A sylph floats down from the treetops to stand before you.
+~
+   You see a beautiful, humanoid woman with delicate, translucent wings like
+those of a dragonfly.  Her hair is a faint purplish-blue in colour, and is very
+long.  It blows in all directions from her, seeming to defy the wind.  Related
+to air elementals and nymphs, sylphs are beautiful creatures to look upon, and
+tend to dwell in high altitudes, or in the treetops.    
+~
+590040 102402 4202496 600 E
+20 8 -4 3d20+440 3d7+6
+300 25000 1
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#4617
+black knight man glistening armor~
+the Black Knight~
+A man in glistening black armor raises his sword and regards you with savage fury.
+~
+   This man is clad entirely in glistening black armor.  Armor so dark that no
+form of heraldry can be seen upon it at a distance, though at a distance seems
+to be the only way that this fierce warrior allows any to regard him.  
+Attached to his lower body are numerous buckles and harnesses, the gear
+necessary for staying on the back of a swiftly-flying wyvern.  Though you
+cannot see his face, it is easy to imagine one full of hatred and evil behind
+the dread mask.    
+~
+1079834 65852 0 -850 E
+27 3 -11 3d33+1900 4d7+8
+70 135000 3
+8 8 1 0
+Maxmove: 50
+E
+T 4617
+#4620
+mage dark dark-robed~
+a dark mage~
+A dark-robed mage stands here, preparing to set fire to the forest.
+~
+   This vile, evil man lurks in the dark corners of the forest under the
+protection of an invisibility spell.  He holds in one hand a vial of a
+yellowish, oily substance.  In his other hand, he holds a spellbook.  He is
+studying both, obviously in preparation to do something unspeakable to the
+forest here.  He seems deeply engaged in his reading, and has not noticed that
+you can see right through his spell.  The opportunity to strike is yours.    
+~
+585866 0 12 -850 E
+15 11 1 5d10+300 2d8+4
+50 8400 1
+8 8 1 0
+BareHandAttack: 14
+Maxmove: 50
+E
+#4621
+druidess druid dark~
+a dark druidess~
+A dark druidess hides amonst the trees, preparing to commit some great evil.
+~
+   This dark druidess hides within the trees very well, but not too well for
+your trained eyes to see.  She has a wicked sneer upon her lips, her eyes
+closed in concentration.  Dark druids are a great rarity on Krynn, and for good
+reason.  Dark Druids are the epitome of everything druids fight against, and
+are hunted with great fury wherever they go.  They serve the dark gods, rather
+than Chislev.    
+~
+549086 34119680 8396800 -850 E
+19 9 -3 3d20+410 3d6+6
+1500 17000 5
+8 8 2 0
+BareHandAttack: 14
+Maxmove: 50
+E
+#4622
+quasit ugly little disgusting creature scaly skin beady red eyes wings~
+an ugly little quasit~
+A disgusting little creature with scaly skin and beady red eyes flaps its wings.
+~
+   You see what at first appears to be a tiny, starved frog with wings.  But
+when you look closer, you notice that it is something much, much more sinister.
+Although they may be amongst the lowest of the low within that realm, Quasits
+originate in the Abyss and the Nine Hells, and are summoned to Krynn to beform
+the darkest of deeds.  Adept at sneakery, Quasits are natural pranksters and
+thieves.  When this little fellow sees you looking at him, he makes an obscene
+gesture and a rude noise.    
+~
+1642654 361516 2105344 -1000 E
+4 18 8 1d5+45 1d4+1
+0 1 1
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+T 4661
+#4625
+rugged woodsman~
+a rugged woodsman~
+A rugged woodsman kneels near the cave's edge, listening to the sounds of the forest.
+~
+   This rugged gentleman appears to have seen his share of life, evidenced by
+the deep lines of age and weariness upon his face.  His dark brown eyes are
+alight with the wisdom of many years spend away from civilization.  He wears
+dark dingy green leggings and a leather tunic, with a longbow slung over his
+back.  Here and there upon him, various weapons can be seen peeking out of
+harnesses and scabbards.    
+~
+1106010 1064 0 0 E
+20 8 -4 3d20+440 3d7+6
+750 25000 6
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+T 4625
+#4630
+druid~
+a druid~
+A druid pours a bucket of water on the ground around the burning tree.
+~
+   This druid's robes are dripping wet with both sweat and water.  She is
+working feverishly, trying to keep the fire from spreading beyond this point.
+Her lovely blonde curls are tied back so as to stay out of the way while she
+runs back and forth.  In her hands, she carries a bucket of water, which she
+pours on the ground around the burning tree, then running back for more water.
+She would be rather pretty, if her face weren't covered in soot and sweat.    
+~
+552970 131072 1024 0 E
+11 14 5 5d4+190 2d8+2
+20 2900 5
+8 8 2 0
+Maxmove: 50
+E
+#4631
+druid worry faced worry-faced~
+a worry-faced druid~
+A worry-faced druid rushes buckets of water back and forth to the burning tree.
+~
+   This young man's bearded face is creased in worry and concern over the tree
+before him, a child of the forest that is horribly suffering.  He is not
+letting the fear and worry paralyze him however, there is no time for idleness.
+He bolts back and forth with blinding speed to the river and back here with
+more water to try and quell the spreading of the blaze.    
+~
+581774 0 512 0 E
+10 14 6 5d4+160 2d7+2
+18 1900 5
+8 8 1 0
+Maxmove: 50
+E
+#4639
+hobgoblin guard blocker goblin burly~
+a burly hobgoblin~
+A burly hobgoblin guards the entry to the settlement from intruders like you.
+~
+   Beady reddish eyes meet yours beneath a saggy grey-green brow.  Close-knit
+eyebrows slowly furrow in anger at your intrusion, as the strong, muscled hands
+tighten about a huge club.  This hobgoblin has been placed here for two
+reasons.  One is to keep an eye out for any animals that could be food.  The
+other is to watch for intruders.  Given the look in this brute's eyes, you
+could fit into either category, but one thing is sure.  One false move, and
+this burly hobgoblin will try to kill you.    
+~
+8577114 60 0 -850 E
+12 13 4 5d6+210 2d8+3
+350 4700 0
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#4640
+goblin runty little~
+a runty little goblin~
+A runty little goblin creeps about the cave, looking up and screaming at your approach!
+~
+   Goblins are one of Krynn's evil races, though they are usually considered
+more of a pest than a genuine menace.  This sort of dismissive attitude can be
+dangerous, as goblins can be deadly in large, organized groups.  This little
+goblin appears to be much more afraid of you than you are of it, evidenced by
+the horrified little scream it emits upon seeing you.    
+~
+6280 1024 0 -850 E
+7 16 9 3d5+85 2d6+1
+50 400 3
+8 8 1 0
+Maxmove: 50
+E
+#4641
+hobgoblin female repulsive disgusting~
+a repulsive female hobgoblin~
+A disgusting female hobgoblin stands here, winking lustily at you.
+~
+   This particularly unpleasant-looking woman has grey, warty skin, a jutting
+jaw, and pointed, rotting teeth.  She is dressed in a rather immodest fashion,
+making you wish that hobgoblins would cover up more.  She leers at every
+passing man, and the occasional passing hobgoblin winks at her and makes some
+lewd comment.  It is horrifying that even hobgoblins could find this sort of
+woman attractive.    
+~
+12 1024 0 0 E
+8 15 8 5d5+110 2d6+2
+80 800 0
+8 8 2 0
+Maxmove: 50
+E
+#4642
+hobgoblin shaman old bedecked bones feathers~
+a hobgoblin shaman~
+An old hobgoblin bedecked in bones and feathers stands here, glaring.
+~
+   This is a particularly old hobgoblin.  He is lean and looks half-starved.  
+What remains of his greasy hair is grey and matted.  He is a peculiar
+bluish-green in colour.  He is absolutely covered with tribal ornamantation,
+various bones, teeth, claws, and feathers from assorted animals.  He glares
+around him, at his fellow hobgoblins, and particularly at you, the intruder.  
+
+~
+543242 1156 8194 -850 E
+11 14 5 5d4+190 2d8+2
+95 2900 2
+8 8 1 0
+Maxmove: 50
+E
+#4643
+hobgoblin large brutish~
+a large, brutish hobgoblin~
+A large, brutish hobgoblin prepares himself to hunt giant beetles.
+~
+   This brawny hobgoblin is preparing himself for the hunt.  He holds in his
+hands a long barbed spear, used for hunting the giant beetles that infest the
+caves.  He has thick grey skin covered with many scars, seeming to indicate
+that he is a veteran at the hunt.  He also wears a patch over one of his eyes,
+seeming to indicate that he has been careless in the past.  The glare in his
+remaining eye seems to indicate that he has no intention of being unprepared
+this time around.    
+~
+288776 1024 0 -850 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#4644
+hobgoblin unusually tall lanky~
+a tall, lanky hobgoblin~
+An unusually tall and lanky hobgoblin slouches as he wanders around.
+~
+   Unusually tall and lanky, this hobgoblin wanders around with the rest,
+looking slightly out of place.  The tattered and dirty tunic and leggings that
+he is wearing are obviously the poorly stitched-together remains of two
+tattered and dirty tunics and two pairs of leggings.  His chin juts out too
+far, and he has a grotesque underbite.  His matted black hair hangs in his
+beady yellow eyes.    
+~
+16476 0 0 -850 E
+9 15 7 5d5+130 2d7+1
+85 1300 3
+8 8 1 0
+Maxmove: 50
+E
+#4645
+hobgoblin fat enormous grotesquely obese smelly~
+an enormous, fat hobgoblin~
+A grotesquely obese and smelly hobgoblin sits here, picking his nose.
+~
+   Even in a place where food is scarce and the living difficult, this
+hobgoblin has somehow managed to become terribly fat.  He is enormous in size,
+exceptional even for the muscular and normally athletic hobgoblins, and likely
+would have made a fine warrior if not for his appetite.  If you were to hear
+him tell the story of how he got to be the way he is, he would probably blame
+it on the genes.  However, even the thought of approaching this creature is
+repulsive, as he smells absolutely terrible.  ~
+1048586 0 0 -850 E
+10 14 6 4d2+160 2d7+2
+90 1900 0
+6 6 1 0
+Maxmove: 50
+E
+#4646
+hobgoblin goblin large muscular~
+a large and muscular hobgoblin~
+A large and muscular hobgoblin guards the area, watching for intruders.
+~
+   This hobgoblin is large and more muscular than most of his brethren.  As
+such, he serves as a guard when the clan is not raiding some lair or hunting
+for food.  He paces around the area, glaring at anything that looks out of
+place.  His mottled grey skin is pulled tight over his muscles, and he bears
+many scars on his arms.  He seems a capable warrior.    
+~
+1200154 1024 0 -850 E
+12 13 4 5d4+210 2d8+3
+100 4700 3
+8 8 1 0
+Maxmove: 50
+E
+#4647
+Gharganor Ghar Hobgoblin Chieftain~
+Gharganor, the Hobgoblin Chieftain~
+The Chieftain of the Grey Talon clan is here, barking out orders to his cronies.
+~
+   Gharganor has been chieftain of the Grey Talon clan for years now; a
+heretofore impossible feat.  He has remained so because of his ruthlessness and
+greed, which have proven assets to those who serve him, and deadly to those who
+oppose him.  He is fairly old, for a Hobgoblin, but still as mighty as he ever
+was.  His back is hunched slightly, and his thick grey skin shows the signs of
+many victorious battles.    
+~
+1239114 1028 0 -850 E
+14 12 2 6d8+240 2d8+4
+222 7000 3
+8 8 1 0
+Maxmove: 50
+E
+#4648
+otyugh hideous tentacled horror gulguthra~
+a hideous otyugh~
+A hideous, tentacled horror shambles out of the darkness toward you!
+~
+   Otyughs, also known as the gulguthra are terrifying creatures that lurk in
+heaps of dung and decay, waiting for something to disturb it.  It has a huge,
+bloated body, covered with brownish rock-like skin.  It has three eyes on a
+leaf-like stalk that moves quickly from side to side, sizing you up.  It has a
+huge mouth, with very sharp teeth in the center of its body, which gapes and
+drools as it slumps toward you!!    
+~
+3235902 33686536 0 0 E
+16 11 0 3d20+220 2d5+4
+0 11000 0
+8 8 0 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#4649
+oak black huge twisted tree blood~
+the Black Oak~
+A huge, twisted, black tree stands in the middle of the path, blood oozing from its branches.
+~
+   Once a tree of great beauty, this tree has been blighted by powerful dark
+magic, cursing it to a form of undeath.  Where its beauty was once an
+inspiration to elves and druids, it has been corrupted into the stuff of
+nightmares.  Its branches are stunted and broken, its bark black, its trunk
+twisted.  But worst of all, it bleeds.  The source of the blood is unknown,
+though it is rumoured to be the blood of the tree's past victims.  Dripping for
+eternity from its twisted branches.    
+~
+3925599 33587244 1179648 -1000 E
+29 2 -13 3d33+2666 4d7+9
+0 213000 5
+8 8 0 8
+Maxmove: 50
+E
+T 4649
+#4650
+guardian druid winter winter's graceful woman clad white~
+winter's guardian~
+A woman clad entirely in white moves gracefully about, coating all around her with frost.
+~
+   The woman you see before you is breathtaking.  Literally.  When you are
+within a few feet of her, it is like the coldest of winters, and moving becomes
+very difficult for shivering, and every breath you exhale freezes the instant
+it passes your lips.  Her skin is very pale, nearly white as her hair is.  
+Looking closer, she is covered with a fine layer of frost.  Her clothes seem to
+be made of drifts of gossamer snow.    
+~
+1761370 134251560 65538 0 E
+20 8 -4 3d20+440 3d7+6
+2 25000 5
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#4651
+guardian spring's spring druid young girl wreathed flowers vines~
+spring's guardian~
+A young girl wreathed in flowers and vines prances about.
+~
+   This girl, by human standards, appears to still be in her early teens.  Her
+figure is still lithe and girlish, and while curves have begun to appear, she
+is not yet in the full blossom of womanhood.  She is the very embodiment of
+spring and the rebirth that spring has come to symbolize.  She is loosely clad
+in garlands of flowers and vines which move with her and thus maintain modesty.
+Her eyes twinkle with merriment and fun.  Her long yellow hair trails behind
+her in the breeze.    
+~
+647258 176296 1538 0 E
+20 8 -4 3d20+440 3d7+6
+495 25000 5
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#4652
+guardian summer druid summer's tanned brawny man~
+summer's guardian~
+A tanned and brawny man does a slow, methodical dance in one spot.
+~
+   This is a middle-aged man with a build that would take a lifetime of
+exercise and maintenence to achieve.  His skin is rough, tanned and leathery,
+likely the result of having spent most of his time under the sun's occasionally
+unforgiving blaze.  His hair is black and short.  His dark eyes are cast upon
+the ground almost all the time.  He doesn't seem to notice you as he continues
+his slow, deliberate ritual dance.    
+~
+3334218 33653820 0 0 E
+20 8 -4 3d20+440 3d6+6
+400 25000 3
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#4653
+guardian druid autumn autumn's gaunt old man sunken eyes shaved head~
+autumn's guardian~
+A gaunt old man with sunken eyes and a shaved head stands perfectly motionless.
+~
+   This old man is so gaunt that he appears almost skeletal.  His eyes are
+sunken so far it cannot truely be discerned from this angle whether he even has
+eyes at all.  He looks half-starved and close to death.  He has the appearance
+of one who has seen far too many years pass by, with far too little joy.  He
+remains completely motionless.  It would seem as though he were waiting for
+something...    
+~
+778266 235058236 8454656 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 5
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#4654
+peacock beautiful~
+a peacock~
+A beautiful peacock struts along the path.
+~
+   The peacock is one of nature's most beautiful birds.  They tend to grace the
+most idyllic of locales with their lovely presence.  This one in particular
+strolls around here, free of predators, bobbing its head with each step that it
+takes.  Occasionally it stops, spreads its great, beautiful span of
+tailfeathers, and then returns to walking nowhere in particular.    
+~
+65736 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 1 0
+Maxmove: 50
+E
+T 4654
+#4655
+cardinal red beautiful~
+a cardinal~
+A beautiful red cardinal flies up above.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+Maxmove: 50
+E
+#4656
+beaver~
+a beaver~
+A beaver swims about in the water at the base of the falls.
+~
+   Beavers are mammals that choose to make their homes in the water.  They
+build natural dams out of sticks and logs, which sometimes serve as an
+impediment to modern city building.  As a result, in some places beavers are
+relentlessly hunted.  Their dams are set ablaze and destroyed, and a bounty is
+placed on their unusual flat tails.  The beaver has huge teeth, used for eating
+the bark from trees.    
+~
+10 16777216 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 0
+Maxmove: 50
+E
+#4657
+raven red black glowing eyes~
+a black raven with glowing red eyes~
+A black raven sits upon a withered branch, its red eyes glowing maliciously.
+~
+   The raven is quite a bit larger, and much more intelligent than the
+blackbird or crow, for which it is sometimes mistaken by the unknowledgeable.
+Apart from its size, a raven can be distinguished from crows by its crooked
+beak.  This raven has unusual red eyes, which glow evilly.  It sits in one of
+the withered branches of the forest, watching every move that you make.    
+~
+1277980 0 0 -850 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#4658
+snake oily black scales~
+a snake with oily black scales~
+An oily black form slithers by.
+~
+   This unusual looking snake is almost completely black in color, and from a
+distant glance could be mistaken for a very long slug.  Its scales are covered
+with a slippery oil which allows it to move very quickly around the lower
+regions of this forest, in search of its prey.  Not being familiar with this
+particular breed of snake, you are not sure if "prey" includes you, but it
+would be prudent to be wary nonetheless.    
+~
+65548 787488 0 0 E
+14 12 2 6d8+190 3d10+4
+0 7000 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4659
+buzzard razor razor-sharp talons claws~
+a buzzard with razor-sharp talons~
+A buzzard perches with its razor-sharp talons in the branches of the Black Oak.
+~
+   This enormous buzzard is even larger than its carrion-eating brethren, with
+a long, scraggly neck bereft of feathers, and a drooping red crest upon its
+beak.  It stretches its huge, black wings at your approach.  Its eyes glow with
+an unholy light.  It has been watching you for some time now, and has warned
+the forest of your coming.  It has unnaturally sharp talons which look like
+they could rip a man to shreds in a few swipes.  The bird smells like death,
+like everything else around here.    
+~
+1306718 0 0 -850 E
+20 8 -4 3d20+440 3d7+6
+0 25000 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#4660
+shadow assassin~
+a shadow assassin~
+A shadow assassin lurks in the shadows beneath a sickly tree.
+~
+   A shadow assassin lurks in the shadows here.  He is clad from head to toe in
+soft black clothing, making him very difficult to detect by even the most
+highly-trained and accute sets of eyes.  Slung about his shoulder is a leather
+strap, upon which hangs several small vials of black bubbling liquid.  He has
+his sword drawn and when he sees you notice him, he looks for an escape route.
+~
+1237198 820264 0 -850 E
+29 2 -13 3d33+3450 4d10+9
+2980 213000 4
+8 8 1 0
+BareHandAttack: 14
+Maxmove: 50
+E
+#4661
+Centaur Grand beauteous cascading golden blonde hair trainer~
+the Grand Centaur~
+A beauteous centaur with cascading golden blonde hair smiles as you approach.
+~
+   All the majesty of nature has been captured in this captivating and royal
+creature.  She is a model of physical perfection.  Her body is that of a
+splendid mare with a golden brown coat.  Her voluptuous torso is lightly
+clothed by long strips of shimmering silk.  Her face is ageless, and wordlessly
+beautiful, with long, golden blonde hair that cascades down her back, trailing
+almost to the ground.  Her impossibly green eyes glitter with warmth, and she
+does not seem at all frightened of you.    
+~
+8118363 234917948 12845072 0 E
+31 0 -15 3d33+10000 4d8+10
+0 0 2
+8 8 2 2
+BareHandAttack: 11
+Maxmove: 50
+E
+T 4602
+T 4641
+#4681
+stag white~
+a white stag~
+A white stag stands a short distance away, its dark eyes sizing you up.
+~
+   This is no ordinary wild deer of the type so often found wandering the
+plains and forests of Krynn.  Though deer come in all sorts of sizes and
+colours, they do not naturally come so large, nor so pure a hue of white.  The
+more suspicious of mortals consider the sighting of a white stag to be a very
+good omen indeed.  There is a sense of dignity and peace about this creature
+which somehow makes you hesitate to make any hostile moves toward it.    
+~
+1171658 33559612 0 0 E
+22 7 -7 3d33+650 3d8+7
+0 40000 0
+8 8 1 0
+BareHandAttack: 10
+Maxmove: 50
+E
+T 4681
+#4690
+falcon silvery grey~
+a large silvery grey falcon~
+A silvery-grey falcon rests calmly in the branches of the Father of the Forest.
+~
+   This large silvery-grey falcon is so pale in colouring that he looks like a
+ghost.  He watches things from the branches of the Father of the Forest and
+gives a soft whistle.  His sharp eyes catch things at great distances, so by
+the time you arrive here, your exploits in the forest have been
+well-chronicled.    
+~
+1060954 33656832 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 0
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#4691
+druid apprentice young girl burlap robes~
+an apprentice druid~
+A young girl dressed in burlap robes wanders about the grove, tending plants.
+~
+   This girl appears very very young, likely having just joined the druidic
+order.  She wanders about the grove in wide-eyed joy, taking great pleasure in
+her duties.  So happy is she with the simple matters of tending plants and
+healing sick animals that it is a heartbreaking thought that she may some day
+lose that innocence and enthusiasm.  She looks up at you and smiles, but the
+smile doesn't reach her eyes; she does not yet know your intent.    
+~
+532696 0 1 0 E
+8 15 8 5d5+110 2d6+2
+90 800 5
+8 8 2 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#4692
+druid novice handsome young man thin green robes~
+a novice druid~
+A handsome young man in thin green robes wanders about, studying everything.
+~
+   This very striking young man wanders about the area, looking at every single
+detail of everything around, as if committing every part of the grove to
+memory.  Nothing is so small as to escape his notice, not even the tiniest of
+insects crawling on the tiniest of leaves of the simplest of weeds.  Then,
+suddenly, he has something much larger to worry about: you.  More to the point,
+he looks at you, wondering what you are doing here.    
+~
+524376 36924 1536 0 E
+14 12 2 6d8+240 2d8+4
+600 7000 5
+8 8 1 0
+Maxmove: 50
+E
+#4693
+druid gray gray-robed grey grey-robed woman~
+a druid~
+A gray-robed woman stands at the foot of the bridge, waiting for something.
+~
+   This woman appears to be in her thirties, with clear skin and a bright
+glimmer in her eyes, however her hair has turned completely gray so that it now
+matches her robes, indicating that she is probably much older than thirty, but
+in excellent health.  She is standing here, waiting for the return of her
+apprentices, who are all out on various errands in the grove.  She sees you
+approach, and gets excited for a moment, but when she sees you are not who she
+expected, she seems disappointed.    
+~
+583706 143420 8388610 0 E
+16 11 0 3d20+320 3d6+4
+295 11000 5
+8 8 2 0
+Maxmove: 50
+E
+#4695
+ranger patrolling sturdy weather weather-beaten beaten~
+a patrolling ranger~
+A sturdy, weather-beaten ranger patrols the area, looking out for danger.
+~
+   This man appears to be in his forties, and is exactly what most think a
+ranger ought to be.  His face is weathered and wrinkled, with lots of
+character.  His shoulder-length black hair is unwashed, but not particularly
+dirty.  He wears rugged travelling clothes, which have mud splattered almost up
+to his waist.  He carries a longbow, and has arrows slung across his back.  He
+peers at you cautiously, sizing you up.    
+~
+1761576 294972 64 100 E
+16 11 0 3d20+320 3d6+4
+300 11000 6
+8 8 1 0
+BareHandAttack: 11
+Maxmove: 50
+E
+#4696
+serpent gargantuan grey earth earth-serpent~
+a gargantuan grey earth-serpent~
+A gargantuan, glistening serpent bursts from the soil!
+~
+   There are few creatures on Krynn this large.  This earth serpent is a huge,
+long snake-like creature with a draconian head.  Rows upon rows of sharp teeth
+fill its mouth, and the entire creature is covered with sharp spines.  Its
+scales glisten with moisture, and everything it touches rots.  The entire
+length of the creature, easily some seventy feet long, is dripping with
+corrosive acid, likely the reason why the soil around this area is so
+corrupted.  It attacks its prey mercilessly!    
+~
+11609978 525352 0 0 E
+27 3 -11 3d33+2290 4d7+8
+0 135000 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4698
+dark hierophant wretchedly ugly hate-filled man~
+the Dark Hierophant~
+A wretchedly ugly and hate-filled man looks up with a brown-toothed grin.
+~
+   Though human in shape, any shred of humanity that this terrible man once
+possessed has long since been discarded.  Though druids traditionally worship
+the goddess Chislev and serve to protect life, this Dark Hierophan worships the
+darkest, most destructive aspects of Chislev, and dedicates his life to the
+corrupted forces of nature.  You seem to have interrupted one of his dark
+rituals, and he looks up with a grin.  He is grinning, but you somehow doubt
+that he is glad to see you.    
+~
+3794458 566460 34799616 -1000 E
+27 3 -11 3d33+1900 4d7+8
+1776 135000 5
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+T 2
+#4699
+wyvern huge draconian beast leathery wings barbed tail~
+a wyvern~
+A huge draconian beast with leathery wings twitches its barbed tail threateningly.
+~
+   Distantly related to dragons, the Wyvern is its smaller, less-intelligent
+kin.  While they are not equipped with a breath weapon as dragons are, their
+tails are equipped with poisoned barbs upon their tails and can fly at great
+speeds.  They are often used by evil warlords for transportation and as
+bodyguards.  Its blood-red eyes peer at you, its long neck craning down towards
+you in a threatening fashion, as its tail prepares to deal a deadly strike.  
+
+~
+3261019 66620 0 -690 E
+28 2 -12 3d33+1750 4d7+9
+0 175000 0
+8 8 0 9
+BareHandAttack: 1
+Maxmove: 50
+E
+$

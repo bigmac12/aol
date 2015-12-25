@@ -1,0 +1,444 @@
+#3401
+elven shifty tattoos~
+a shifty elven man~
+a shifty looking elven man with dark tribal tattoos wanders the area.
+~
+I am shifty looking elven man with dark tribal tattoos. Raar, I'm spooky.
+~
+9 1024 0 -850 E
+6 17 10 1d1+80 1d1+2
+35 175 4
+8 8 1 6
+BareHandAttack: 14
+E
+#3412
+mob unfinished~
+a patriarch of the Blue Phoenix~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 800 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+8 8 0 0
+E
+#3416
+elf member man elven servitor~
+a young man clad in the garb of House Servitor~
+A member of House Servitor sits at his desk sharpening quills.
+~
+   This young man sits quietly hunched over his desk.  Sitting in front of him
+are two large baskets: one for quills requiring sharpening, and the other for
+freshly sharpened quills.  His almond-shaped eyes are cast down.  You cannot be
+certain, however, if this is due to the work he is performing or a sign of his
+servitude.  He attire also reflects his station.  Each garment is dyed what is
+commonly referred to as 'servant's brown'.    
+~
+28682 5120 0 600 E
+11 14 5 5d4+190 2d8+2
+50 2900 0
+6 6 1 0
+BareHandAttack: 13
+E
+#3420
+Coralbrar Cor Cora Householder Artisan elf~
+Coralbrar, Householder of House Artisan~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+1073162 1024 0 800 E
+17 10 -1 3d20+340 3d6+5
+499 11800 0
+8 8 2 0
+BareHandAttack: 8
+E
+#3421
+Solaerani Sola Householder Advocate elf~
+Solaerani, Householder of House Advocate~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+1073162 1024 0 800 E
+17 10 -1 3d20+340 3d6+5
+555 11800 0
+8 8 1 0
+BareHandAttack: 13
+E
+#3422
+Koehuanna Koe Koeh householder mason elf~
+Koehuanna, Householder of House Mason~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+1073162 1024 0 600 E
+18 11 -2 3d20+380 3d6+6
+333 14000 0
+8 8 2 0
+BareHandAttack: 13
+E
+#3423
+Maraynthal Mar Householder Cleric elf~
+Maraynthal, Householder of House Cleric~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+1597450 5124 8388612 800 E
+18 11 -2 3d20+380 3d6+6
+222 14000 2
+8 8 2 0
+BareHandAttack: 8
+E
+#3424
+Saebraran Sae Saeb housholder elf woodshaper~
+Saebraran, Householder of House Woodshaper~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+1073162 1024 0 800 E
+18 11 -2 3d20+380 3d6+6
+395 14000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#3425
+Tiarathonna Tia Tiar elf householder mystic~
+Tiarathonna, Householder of House Mystic~
+undefined~
+It looks unfinished.
+~
+1761290 1032 12582912 800 E
+18 11 -2 3d20+380 3d6+6
+495 14000 1
+8 8 2 0
+BareHandAttack: 8
+E
+#3426
+Ariluthon Ari Aril Householder Metalline elf~
+Ariluthon, Householder of House Metalline~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+1073160 1024 0 800 E
+18 11 -2 3d20+380 3d6+6
+449 14000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#3427
+Thavilron Tha Thav Householder Servitor elf~
+Thavilron, Householder of House Servitor~
+Thavilron, Householder of House Servitor, sits at the table reviewing some documents.
+~
+   Thavilron looks up from his work at your approach.  He carefully rolls the
+documents he was reading and sets them aside as you look in his direction.  
+Though he still possesses the graceful elegance of his brethren, his body is a
+tad bulkier than the average elf.  Perhaps from a life spent working in the
+service of others.    
+~
+1073163 33792 0 800 E
+17 10 -1 3d20+340 3d6+5
+295 11800 0
+6 6 1 2
+BareHandAttack: 13
+E
+#3434
+traveller elven~
+a traveller~
+An elven traveller looks about the palace curiously.
+~
+   Outfitted in slightly worn travelling clothes, this lovely elven maiden
+curiously pokes around the palace.  Her hair falls down to her shoulder,
+covering only her pointy left ear.  Her skin is darker than that of most
+Silvanesti elves, suggesting she is of another race.    
+~
+24648 263168 0 600 E
+9 15 7 5d5+130 2d7+1
+35 1300 5
+8 8 2 0
+BareHandAttack: 13
+E
+#3435
+an older citizen~
+an older citizen~
+An older citizen of Silvanesti walks through the palace slowly.
+~
+   The older citizens of Silvanost tend to be the most common to walk the halls
+of the palace, either to take in the grand site, or to attend meetings in the
+audience hall.  Wearing simple clothing and walking with the heavy aid of a
+cane, its no easy task to just trot freely about, but one that occurs anyway.
+~
+24648 1024 0 600 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 1 0
+E
+#3436
+guard bored blank look face~
+a bored guard~
+A bored-looking guard with a blank look on his face stands here.
+~
+   Obviously wishing he were somewhere else, this guard rests leisurely against
+the nearby wall.  He idly plays with a sword, twirling it about in the air
+carelessly.  His golden hair is pulled back into a tight ponytail, tied with a
+leather thong.  He whistles a quick, elvish tune.    
+~
+1075274 1024 0 800 E
+18 15 8 5d5+110 2d6+2
+444 800 0
+8 8 1 0
+BareHandAttack: 13
+E
+#3437
+elite heavily armored guard ~
+an elite guard~
+A heavily armored guard looks over a few documents on a table.
+~
+   This guard constantly overlooks documents that are spread on the table
+before him.  He is armored in elven chainmail which fits his lean and muscled
+form perfectly.  He is only of average elven height, but appears considerably
+stronger than most of his kin.  Upon his breast, there are many medals honoring
+his actions.    
+~
+1050698 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+676 17000 3
+8 8 1 0
+BareHandAttack: 6
+E
+#3438
+Sith Sith-Saran Saran member House Royal~
+Sith-Saran~
+Sith-Saran, a member of House Royal, stands here regally.
+~
+   Arms folded and flowing hair wildly laying on his shoulders, Sith-Saran is
+quite a noble looking lord.  He wears a white tunic of the finest silk which
+match his silver-embroidered gloves, cap, and leggings.  His scabbard holds a
+jeweled sword, its hilt beautifully gleaming in any light.  A long blue cape
+cascades down his form.    
+~
+7594058 33559680 0 800 E
+30 1 -14 3d33+1700 4d8+9
+10000 250000 3
+8 8 1 0
+BareHandAttack: 7
+E
+#3439
+wildrunner agile~
+a Wildrunner~
+An agile Wildrunner seems to blend into her surroundings.
+~
+   Wearing only drab earthly colors, this Wildrunner easily blends in with her
+surrounding.  She does not attract attention to herself, her alert eyes dart
+around the room.  She wields a short staff, its tip is sharp but hallowed out.
+The back end of her staff is just as capable of doing damage.    
+~
+7344218 34505728 0 800 E
+25 5 -9 3d33+850 4d6+8
+5000 87000 3
+8 8 2 0
+BareHandAttack: 15
+E
+#3440
+elven woman full motionless~
+a cloaked elven woman~
+An elven woman in a full cloak stands motionless, looking outwards.
+~
+   Draped in a full cloak that appears to mirror her surroundings, she would be
+invisible if she raised her hood.  As it stands, only her face is visible,
+framed by long brown hair left to flow loosely about her shoulders.  Her
+patrician features are only enhanced by her high cheekbones and ivory skin.
+Eyes a deep blue, almost to the point of indigo, are accented by dark lashes
+that crash like shadowy waves on her alabaster cheeks.    
+~
+24650 524288 0 850 E
+14 13 2 3d20+280 2d8+4
+300 6625 0
+8 8 2 0
+BareHandAttack: 8
+E
+#3441
+apprentice woodshaper elven~
+an apprentice woodshaper~
+An young apprentice woodshaper is here sweeping the floor.
+~
+   Even by elven standards, this young man's youth is apparent in his slight
+frame and the anticipation in his eyes as he glances towards the journeyman
+woodshapers.  He is sweeping the floor with dedicated ease, and has likely been
+at the task for some years as he waits for his chance to advance to the rank of
+journeyman.  His attire is plain and simple, denoting his rank within the
+household, though expertly cut and sewn with an embroidery of crawling vines
+and leaves running the length of it.    
+~
+10 0 0 700 E
+3 19 13 3d10+10 1d6+1
+10 25 0
+8 8 1 0
+E
+#3442
+journeyman woodshaper elven~
+a journeyman woodshaper~
+A journeyman woodshaper is hunched over a table, carefully sanding a piece of furniture.
+~
+   Having attained the rank of journeyman, this elven man has been allowed to
+work with minor pieces of furniture, carefully setting and joining them until
+he can do the work with his eyes closed.  His face is set in a determined frown
+as he concentrates on his work, but he is still aware enough of his
+surroundings to spare an irritated glance at you before returning to his task.
+His long auburn hair is tied in a queue at the nape of his neck, falling
+to his mid-back.
+~
+10 0 0 750 E
+6 17 10 8d10+30 2d5+2
+35 175 0
+8 8 1 0
+BareHandAttack: 13
+E
+#3450
+Gadriendel Gad elven man strong aged~
+REUSE ME~
+An elven man of strong but aged build studies his handy work.
+~
+   A delightful appearance graces this older elven man.  His eyes have aged
+considerably, they appear darker and creases appear around them.  Gadriendel's
+visage, contrary to his eyes, sparkles with life and happiness.  He is indeed
+many years old, but his arms are toned and muscular, much unlike most of his
+slender kin.    
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 1 0
+E
+#3470
+Nanelia Nan Nane innkeeper~
+Nanelia, the innkeeper~
+Nanelia stands behind the counter with a welcoming smile for any of her kin that require a room.
+~
+   Though Nanelia is rather welcoming to her kin, she is less than hospitable
+to those of other races.  Ironically, she was chosen for the position of
+innkeep due to her relative tolerance of the lesser peoples of Krynn.  
+Nanelia's lovely elven features are no less beautiful to behold when twisted
+into the unwelcoming smirk that graces her face when an unwanted visitor
+arrives.    
+~
+7594058 33685504 0 400 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 2 3
+BareHandAttack: 6
+E
+#3471
+Wylaendra Wyl Wyla shopkeeper~
+Wylaendra~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+7594058 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+99999 250000 0
+8 8 2 0
+BareHandAttack: 6
+E
+#3474
+Tathar Tath innkeeper~
+Tathar, the Wildrunner quartermaster~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+3399690 33686528 0 600 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 1 0
+E
+#3475
+Elbamaeraen grocer shopkeeper Elba~
+Elbamaeraen, the grocer~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+7594058 33685504 0 0 E
+30 -30 10 30d99+0 30d99+50
+99999 0 0
+8 8 2 0
+BareHandAttack: 6
+E
+#3476
+Talamaeraen banker Tala Tal Talam~
+Talamaeraen, the banker~
+Talamaeraen, the banker, sits at a marble desk and reviews her ledger.
+~
+   Talamaeraen looks up from her ledger as she notices your glance.  She is
+dressed in the lavish garb you might expect to see on a prominent member of
+House Advocate.  She is quite lovely with long golden tresses that are fastened
+with a fine golden clip at the base of her neck.  With a graceful gesture she
+motions for you to have a seat to discuss your business.    
+~
+7594074 33686528 0 500 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 2 4
+BareHandAttack: 6
+E
+#3477
+Contogyn Conto Con postmaster~
+Contogyn, the postmaster~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+7594074 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+0 250000 0
+8 8 2 1
+BareHandAttack: 6
+E
+#3480
+Adralataeriel Adra Ad leatherworker shopkeeper~
+Adralataeriel, the leatherworker~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+7594058 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+99999 250000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#3485
+Gannanderiel Gan Gannan weaponsmith shopkeeper~
+Gannanderiel, the weaponsmith~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+7585866 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+999999 250000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#3490
+Albobrena Albo jeweler shopkeeper~
+Albobrena, the jeweler~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+7594058 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+99999 250000 0
+8 8 2 0
+BareHandAttack: 6
+E
+$

@@ -1,0 +1,301 @@
+#6900
+frog toad ugly large~
+a large toad~
+A large toad sits and croaks as you approach.
+~
+   The toad turns its head to you, indiferent of your arrival.  He croaks and
+looks away having more interest in a fly buzzing around than in you.  He seems
+to be about 2 or 3 feet tall, definately abnormal for his species.    
+~
+72 16778240 0 -300 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 1 0
+E
+#6901
+bullywug wug~
+a large bullywug~
+A large bullywug charges forward at your coming.
+~
+   This large, mutated and disgusting looking toad doesn't leave you much time
+to look at it.  His large, spined hind legs and his mean bite charge at you
+with full force.    
+~
+40 16778240 0 -500 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 0 0
+BareHandAttack: 4
+E
+#6902
+undead warrior skeleton~
+an undead warrior~
+An undead warrior turns as you approach.
+~
+   The mere fact that you can stare through his body is frightening enough.  
+His skeletal body has no tissue on it and it is hard to say how this fellow
+died.  One thing is certain, by some means, he walks again and does not look
+too happy.    
+~
+9802 1036 0 -600 E
+7 16 9 3d5+85 2d6+1
+50 400 10
+8 8 0 0
+BareHandAttack: 3
+E
+#6903
+mage black black-robed spellcaster~
+an evil mage~
+A black-robed mage glares at you as you enter.
+~
+   The man stands with a slight hump, as though stooped for some time over the
+counters or desks of his laboratory.  His robes dangle around him like a loose
+second skin, covering even his feet from view.  His eyes seem to have a magic,
+reddish glow to them and he uses them to study you.    
+~
+525850 1044 13 -500 E
+8 15 8 5d5+110 2d6+2
+70 800 1
+8 8 1 0
+E
+#6904
+rat large~
+a large rat~
+A large rat scuttles away at your entrance.
+~
+   This rat appears to be a tad larger than his kin, although just as
+frightened of the light you carry.  He hisses and squeaks, running from your
+advance to attempt to make it back to his home.    
+~
+136 263168 0 -100 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 1 0
+BareHandAttack: 4
+E
+#6905
+bandit sneaky sneaks~
+a sneaky bandit~
+A bandit sneaks around the house here.
+~
+   From beneath a brown cloak, two evil-looking eyes glare at you as they
+search your person for possible valuables.  A simple suit of leather armor are
+all they wear and this man looks quite greedy.    
+~
+12 294912 0 -400 E
+6 17 10 2d5+70 2d5+2
+35 175 4
+8 8 1 0
+BareHandAttack: 11
+E
+#6906
+bandit fighter~
+a bandit fighter~
+A bandit who looks ready to fight stands here.
+~
+   This particular bandit looks not like the others, no dexterous movements or
+stealthy hands, this bandit looks ready for a roll around.  He is definately a
+fighter at heart.    
+~
+4120 0 0 -400 E
+6 17 10 2d5+70 2d5+2
+35 175 3
+8 8 1 0
+BareHandAttack: 3
+E
+#6907
+bandit guard sentry~
+a bandit sentry~
+A bandit sentry sleeps at her post here.
+~
+   This young looking girl appears to have been at her post for some time, for
+she has fallen quite asleep.  She was most likely posted here to raise alert if
+anyone entered, but she can scarcely let anyone know of a problem from her
+dreams.    
+~
+8388618 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 4
+4 4 2 0
+BareHandAttack: 11
+E
+#6908
+minotaur hulking angered~
+a hulking minotaur~
+A hulking minotaur stands here, angered by your approach.
+~
+   This huge beast seems about to tear himself from his armor he is in such
+rage.  Looking to you, he sees only hate and is blinded by bloodlust.  Clear
+out!    
+~
+4154 0 0 -400 E
+8 15 8 5d5+110 2d6+2
+74 800 3
+8 8 2 0
+BareHandAttack: 10
+E
+#6909
+mouse grey~
+a grey mouse~
+A grey mouse skitters along the ground here, avoiding detection.
+~
+   This mouse appears very frightened of you, and getting a good look at it
+seems to be nearly impossible, as everytime you try and approach, it runs off
+some distance.    
+~
+200 263200 0 -50 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 0 0
+BareHandAttack: 4
+E
+#6910
+cat white feline~
+a white cat~
+A small white cat runs around the barn here, chasing mice.
+~
+   This small feline runs about widly here, darting back and forth around old
+bales of hay.  Its entirely white, except for a small dark spot on its
+underside.    
+~
+8 1056 0 -50 E
+4 18 12 1d7+45 1d8+1
+0 50 0
+8 8 0 0
+BareHandAttack: 8
+E
+#6911
+spider arachnid giant~
+a giant spider~
+A giant spider appears annoyed at your intrusion here.
+~
+   This large arachnid is almost ten times is normal size.  What has caused
+this monster to be formed, is beyond you.  Its long, segmented legs stretch out
+and grip the web it has created.    
+~
+42 1056 0 -500 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 0 0
+BareHandAttack: 1
+E
+#6912
+sword spider large arachnid~
+a sword spider~
+A sword spider suddenly leaps for you.
+~
+   This large species of giant spider seems to have swords on its front two
+legs, which it uses to attack its enemies.  The rest of the spider appears
+normal, except for its incredible speed and agility.  It moves like lightning,
+darting here and there to make its attacks.    
+~
+10 1056 0 -500 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 0 0
+BareHandAttack: 3
+E
+#6913
+spider phase arachnid~
+a phase spider~
+A large spider stands here, moving its front legs wildly.
+~
+   This spider doesn't appear to be ready to leap because it is busy casting a
+spell of some sort.  Some God must have given this spider the ability to cast
+spells on itself and its bretheren.  Its best spell is 'teleport,' giving it
+the name Phase Spider.    
+~
+524298 1080 1 -400 E
+7 16 9 3d5+85 2d6+1
+50 400 1
+8 8 0 0
+BareHandAttack: 4
+E
+#6914
+large spider arachnid~
+a large spider~
+A large spider walks in the web here.
+~
+   This spider doesn't appear as large as its cousins, the phase, sword and
+giant spiders, but is still easily 7 or 8 times the regular size of spider.  
+Its long legs it uses to grip to the side of the web, walking speedily along
+some strands.    
+~
+4104 1056 0 -400 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 0 0
+BareHandAttack: 4
+E
+#6915
+dragon fly dragonfly~
+a large dragonfly~
+A large dragonfly buzzes around the swamp here.
+~
+   This large dragonfly appears almost three times the normal size of the
+insect.  It buzzes around merrily, most likely searching for a mate.    
+~
+8 66592 0 100 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+E
+#6916
+badger small~
+a small badger~
+A small badger growls at you as you come nearer.
+~
+   This ferrocious-looking creature doesn't appear too keen on your entrance.
+It snarls its teeth and looks quite ready to do some battle.    
+~
+72 1056 0 -200 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 0 0
+BareHandAttack: 4
+E
+#6917
+bandit elite~
+an elite bandit~
+An elite bandit fighter stands here, ready for battle.
+~
+   This man looks scarred and abused from almost every war the land has ever
+seen.  His face is contorted into a grimace, showing no emotion, only hate.  
+He fliches at his sword, ready at the slightest drop to attack.    
+~
+6154 262144 0 -500 E
+7 16 9 3d5+85 2d6+1
+50 400 3
+8 8 1 0
+BareHandAttack: 3
+E
+#6918
+squirrel male~
+a male squirrel~
+A small male squirrel runs about here, looking for its mate.
+~
+   This small rodent seems intently looking for something, as it darts from
+here to there, sniffing about wildly.    
+~
+204 1056 0 400 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 1 0
+BareHandAttack: 4
+E
+#6919
+cleric hiddukel bandit~
+a cleric of Hiddukel~
+A bandit dressed in long, bone-white robes is here.
+~
+   This bandit is different than all the rest.  Her feminine features are
+visible, but only beneath a hood from a long, flowing bone white robe that she
+wears.  This is obviously a cleric of some kind.    
+~
+528458 8232 1050624 -500 E
+7 16 9 3d5+85 2d6+1
+50 400 2
+8 8 2 0
+BareHandAttack: 5
+E
+$

@@ -1,0 +1,143 @@
+#10707
+bandit guard slim~
+a slim bandit guard~
+A slim bandit sits atop the rocks watching and guarding the pass.
+~
+   This slim bandit sits atop the rocks wrapped in a gray cloak.  Sitting well
+concealed they are hardly noticed, as they watch for those who are not wanted
+to attempt and enter their sanctuary.  From their vantage they can see any
+crossing the bridge, as well as anyone walking up the pass under the bridge.  
+
+~
+1053210 558112 0 -850 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+8 8 0 0
+E
+#10711
+gray robed magi~
+a gray robed magi~
+A gray robed magi keeps watch over those who would seek to enter.
+~
+   This magi is clothed in gray robes, marking him of no orders, and thus a
+renegade.  He seeks his own sanctuary in this hidden valley, and assists in
+guarding it from those who would attempt to penetrate into the valley.    
+~
+1630730 33555498 16777312 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 1
+8 8 1 0
+E
+#10760
+man dark bearded~
+a dark bearded man~
+A dark bearded man sits quitly in the corner of the room.
+~
+   This man has somehow gained access to most of the bank records of the land,
+and is the one man who knows how much you have.  So he will loan you some money
+for a time, but he will get it out of your bank for you.    
+~
+7528458 33824 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1200 300000 0
+8 8 1 4
+BareHandAttack: 3
+E
+#10761
+young roughly shaven man~
+a young roughly shaven man~
+A young roughly shaven man stands behind the counter pouring drinks.
+~
+   This young man is roughly shaven.  He pours drinks from a single keg behind
+the counter, all the while watching the people coming in and out of the bar.  
+Even though his mother owns the building and runs the boarding upstairs, this
+young man runs most of the business around here.    
+~
+3336218 32768 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1500 300000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#10762
+older woman innkeeper~
+an older woman~
+An older woman rests in a rocker here.
+~
+   This older woman opens some of her spare rooms to those travelers that pass
+through.  Some think that she may of used to be some type of rogue herself,
+others think she just doesn't know any better.  Whatever the reason those who
+pass through thank her for her service, and none try to take advantage of the
+poor woman.    
+~
+7528458 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+5 5 2 3
+BareHandAttack: 5
+E
+#10763
+man blank stare~
+a blankly staring man~
+A man sits in the corner staring blankly at the room.
+~
+   This man sits here, not even moving.  His blank stare is aimed directly at
+the opposite wall.  As you look closer you can tell that this man is too still.
+His chest does not even move to breath.  And his eyes seem rather glassy.    
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 1 0
+0 0 1 0
+E
+#10764
+slim figured sleek woman~
+a slim figured sleek woman~
+A slim figured sleek woman leans against the wall.
+~
+   This slim figured sleek woman, is dressed in a tight form fitting leather
+suit.  From her black leather boots, to her black leather gloves, it is hard to
+imagine how she even put it on.  Despite the slim and enticing figure, at your
+appreciative glance, a dagger appears in her hand from wear is hard to tell.  
+In that suit you can't imagine where it might of been hidden, perhaps it was
+magic.    
+~
+3401754 32768 0 0 E
+28 2 -12 3d33+1250 4d7+9
+10000 175000 0
+8 8 2 2
+BareHandAttack: 11
+E
+#10765
+man short pudgy~
+a short pudgy man~
+A short pudgy man sits behind the table, munching on a chicken leg.
+~
+   This short and pudgy looking man, seems to have retired from his illeagle
+businesses.  Now he sits in his little shop, selling his old equipment, and
+keeping a steady stream of equipment others have grown tired of.  He also has a
+few provisions for the basic traveller, such as meager choices of food, as well
+as packs and such.    
+~
+7596046 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+15000 300000 0
+8 8 1 0
+E
+#10766
+lazy bridge guard~
+a lazy bridge guard~
+A brige guard leans against the railing nodding off.
+~
+   This guard is in charge of making sure no one tries to sneak out of the
+northern pasturers.  This is where all of those who don't belong in this
+community are taken.  To save the inhabitants secrecy and keep their sanctuary.
+Any types of law, and even clerics and such are taken here, as well as a few
+who are just plain unwelcome.    
+~
+9439754 32 0 0 E
+18 11 -2 3d20+380 3d6+6
+340 14000 0
+8 8 1 0
+E
+$

@@ -1,0 +1,127 @@
+#7300
+official roadside traffic bored~
+a roadside official~
+An official hired to direct traffic looks rather bored as he stands here.
+~
+   The official bears the symbol of the kingpriest in his spiffy uniform.  He
+is clean cut with neatly trimmed beard, mustache and hair.  He yawns as he
+stands by the large tree, directing traffic back to Istar while the workers
+clear the road.    
+~
+24586 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2000 300000 0
+8 8 1 0
+E
+T 11
+#7301
+hawk bronze sun~
+a small sun hawk~
+A small bronze feathered hawk glides overhead looking for prey.
+~
+   The bronze coloured feathers of this small hawk give her the nickname 'sun
+hawk'.  With effortless grace she constantly glides above looking for prey to
+take back to her nest.    
+~
+67592 229376 0 0 E
+8 15 8 5d5+110 2d6+2
+71 800 0
+8 8 2 0
+E
+#7302
+kender girl enthusiastic~
+an enthusiastic young kender girl~
+An enthusiastic young kender girl skips along the roadside.
+~
+   A young kender girl hops along the side of the road, her auburn topnot
+bouncing along behind her.  She is dressed in brightly colored, mismatched
+clothing.  She sees you look at her and flashes a big grin in your direction as
+she runs toward you.    
+~
+16394 1024 0 0 E
+12 13 4 5d6+210 2d8+3
+70 4700 4
+8 8 2 0
+E
+#7303
+kender girl enthusiastic~
+an enthusiastic young kender girl~
+An enthusiastic young kender girl skips along the roadside.
+~
+   A young kender girl hops along the side of the road, her auburn topnot
+bouncing along behind her.  She is dressed in brightly colored, mismatched
+clothing.  She sees you look at her and flashes a big grin in your direction as
+she runs toward you.    
+~
+16394 0 0 0 E
+12 13 4 5d6+210 2d8+3
+70 4700 0
+8 8 2 0
+E
+#7304
+woman elven unparalled beauty evilblock~
+an elven woman of unparalled beauty~
+An elven woman wanders amongst the flowers that grow beside the road.
+~
+   The rare, and almost ethereal, beauty of this elven woman causes you to stop
+in your tracks a moment.  As your eyes pass over her, you seem to be drawn to
+her eyes which swirl with an impenetrable darkness.  She smiles coyly at you as
+she looks you over with an appraising glance.  Her sheer, black gown and
+flowing hair swirl around her in the breeze.    
+~
+8642586 1064 0 -100 E
+31 0 -15 3d33+2000 4d8+10
+100 300000 0
+8 8 2 0
+BareHandAttack: 8
+E
+#7305
+mage old befuddled~
+a befuddled, old mage~
+A befuddled, old mage wanders from one edge of the highway to the other.
+~
+   His head cast down towards the road's surface, this old mage seems to be
+having a conversation with the highway itself.  He mutters quietly then nods to
+himself before continuing his trek back and forth across the highway.  His
+hands are tucked neatly in his robes, and a long mane of white hair flows down
+from his uncapped head.    
+~
+8642586 1064 0 100 E
+31 0 -15 3d33+2000 4d8+10
+100 300000 0
+8 8 1 0
+E
+#7306
+crusader female~
+a female crusader~
+A female crusader, garbed in red and white travels the road here.
+~
+   This woman is a crusader, as is shown by the accoutrement she wears.  A holy
+pendant, in the form of a bison's horn hangs from a golden chain about her
+neck.  It is the symbol of Kiri-Jolith, the diety of righteous warfare.  The
+colors of her clothing and shield are not the default brown and white of most
+of Kiri-Jolith's following, however.  Her shield and tabard are red and white,
+and bear the symbol of a closed gauntlet.    
+~
+1632266 5120 10496 850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 7
+8 8 2 0
+BareHandAttack: 3
+E
+#7320
+minotaur mino large ivory~
+a large minotaur with ivory horns~
+A large minotaur with ivory horns lies here dozing under a tree.
+~
+   This large minotaur stopped to rest under the shade of a nearby tree and
+fell asleep in the process.  Now he dozes blissfully with his back against an
+old oak, his mouth hanging wide open.  He snores occasionally, making an
+ungodly racket which frightens nearby wildlife into flight.    
+~
+3235850 33792 0 0 E
+24 6 -8 3d33+750 4d6+8
+800 68000 3
+8 8 1 0
+E
+$

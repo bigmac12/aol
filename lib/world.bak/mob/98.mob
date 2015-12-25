@@ -1,0 +1,434 @@
+#9800
+guard customs official~
+a customs official~
+A guard with the symbol of a customs official on his coat patrols the area.
+~
+   These guards are the city's customs officials, and they are also in charge
+of maintaining order in the area of the docks.  They are constantly on the
+lookout for anyone who might try to import a cargo without paying all the
+tariffs and taxes due on it.    
+~
+72 0 0 0 E
+3 19 13 1d5+23 1d5+1
+12 25 0
+8 8 1 0
+Maxmove: 50
+E
+#9801
+head customs~
+the head of customs~
+The head of customs busily calculates tariffs here.
+~
+   The head of customs is in charge of all of the secretarial work involved in
+taxing merchants for goods brought into Kalaman.    
+~
+10 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 1 0
+Maxmove: 50
+E
+#9802
+bartender barkeeper barkeep~
+a bartender~
+A muscular, red-haired bartender is pouring drinks here.
+~
+   This bartender is extremely well built, strong enough to keep the bar's
+funds safe from rowdy patrons.  He has been pouring drinks here for years, and
+is extremely good at dealing with the bar's rowdy patrons.    
+~
+254042 0 0 0 E
+31 1 -20 10d200+9999 10d10+19
+100000 1 0
+8 8 1 0
+Maxmove: 50
+E
+#9803
+man homeless~
+a homeless man~
+A homeless man warms himself next to a bonfire.
+~
+   This poor drunken man lives underneath the north pier, spending his nights
+burrowing down into the sand, and he consequently has a strong smell of the sea
+about him.    
+~
+138 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 1 0
+Maxmove: 50
+E
+#9804
+zug bait dealer~
+Zug~
+Zug, the bait dealer, fishes through a bucket of worms.
+~
+   Zug is a kindly old man who has been selling bait from this small shanty on
+the south pier for longer than most Kalamanian citizens can remember.    
+~
+254043 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#9805
+fisherman man~
+a fisherman~
+A fisherman carries a bucket of fish to the market.
+~
+   This fisherman spends his days in a small boat on the sea trying to pull
+fish from its gaping maw.  Needless to say he is a hardened individual.    
+~
+72 0 0 0 E
+1 20 15 1d2+3 1d4+0
+2 7 0
+8 8 1 0
+Maxmove: 50
+E
+#9806
+dockhand hand~
+a dockhand~
+A dockhand saunters around.
+~
+   This hard working young man earns his keep hauling goods from ships to
+shore, and helping ships pull in alongside the pier.    
+~
+72 0 0 0 E
+2 19 14 1d3+12 1d5+1
+3 13 0
+8 8 1 0
+Maxmove: 50
+E
+#9807
+sailor~
+a sailor~
+A sailor makes lewd comments here.
+~
+   This is one of many sailors who come into the docks on a boat, spend the
+night causing trouble for the customs officials in the taverns nearby, then
+leave the next morning.    
+~
+200 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 1 0
+Maxmove: 50
+E
+#9808
+captain~
+a captain~
+A captain inspects the city.
+~
+   This captain is from one of the great ships anchored far out in the harbor.
+He has ventured into the city to see what kind of trouble his sailors are
+getting themselves into.    
+~
+72 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 1 0
+Maxmove: 50
+E
+#9809
+priest~
+a priest of Zeboim~
+A priest of Zeboim prays to his dark deity.
+~
+   The priest has run this temple for the sailors who venture into this part of
+the city for many years now.  No one can say exactly how long he has practiced
+his dark ways here.  Very few people in Kalaman even know he exists.    
+~
+524426 0 1 -1000 E
+4 18 12 1d5+45 1d8+1
+10 50 2
+8 8 1 0
+Maxmove: 50
+E
+#9810
+traveller weary tired~
+a weary traveller~
+A weary traveller searches for a place to stay.
+~
+   This exhausted traveller has just disembarked from one of the ships in the
+bay, and has travelled many miles in order to reach Kalaman.    
+~
+72 0 0 0 E
+1 20 15 1d2+5 1d4+0
+2 7 0
+8 8 1 0
+Maxmove: 50
+E
+#9811
+seagull gull bird~
+a seagull~
+A large seagull circles overhead.
+~
+   This seagull is one of a great flock that lives in the craggy cliffs between
+the city and the bay.  It is white with black tipped-wings, and quite large,
+with at least a four foot wingspan.    
+~
+65608 65536 0 0 E
+1 20 15 1d2+5 1d3+0
+2 7 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#9812
+seaman man navy solamnic~
+a navy seaman~
+A seaman in the Solamnic Navy is here on leave.
+~
+   This haggard fellow has served his country well, patrolling its shores for
+many years to keep the trading vessels safe from pirates and other foul
+creatures of the sea.    
+~
+72 0 0 200 E
+2 19 14 1d3+12 1d4+1
+3 13 0
+8 8 1 0
+Maxmove: 50
+E
+#9813
+ensign officer navy solamic~
+a navy ensign~
+An ensign in the Solamnic Navy wanders the docks on leave.
+~
+   This young man is fresh out of the Solamic Naval Academy, only just getting
+started on a life of patrolling the shores of Solamnia in the endless quest to
+keep seafaring vessels safe from harm at the hands of pirates or worse.    
+~
+72 0 0 250 E
+3 19 13 1d5+25 1d6+1
+3 25 0
+8 8 1 0
+Maxmove: 50
+E
+#9814
+lieutenant officer navy solamic~
+a navy lieutenant~
+A navy lieutenant keeps watch over his men on leave.
+~
+   This man has been patrolling the seas of Solamnia for only a few years now,
+but he plans on spending the rest of his life protecting the innocent from
+pirates and their ilk.    
+~
+72 0 0 300 E
+3 19 13 1d5+26 1d4+1
+5 25 0
+8 8 1 0
+Maxmove: 50
+E
+#9815
+lieutenant commander navy solamic officer~
+a navy lieutenant commander~
+A lieutenant commander looks for a comfortable inn to spend the night.
+~
+   This lieutenant commander has been travelling the seas for a month now, and
+now that he finally finds himself in a port, all he is looking for is a nice
+inn with comfortable beds to spend the night in.    
+~
+72 0 0 350 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 1 0
+Maxmove: 50
+E
+#9816
+crab~
+a crab~
+A crab crawls along the sand.
+~
+   This small red crab has just emerged from a small tunnel beneath the sand.
+Beware its large pinchers, they certainly look like they would hurt.    
+~
+65608 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#9817
+pelican~
+a pelican~
+A pelican soars in the sky.
+~
+   This large pelican has a coat with white feathers, with scattered patches of
+brown.  Its large beak is a dull yellow color.    
+~
+65608 65536 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 0 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#9818
+bartender bar tender muscular~
+a muscular dark skinned bartender~
+A muscular, dark-skinned bartender stands here, preparing drinks.
+~
+   This bartender is extremely well built, strong enough to keep the bar's
+funds safe from rowdy patrons.  He has been pouring drinks here for years, and
+is extremely good at dealing with the bar's rowdy patrons.    
+~
+1302538 0 0 0 E
+31 1 -20 10d200+9999 4d8+19
+1000000 1 0
+8 8 1 0
+Maxmove: 50
+E
+#9819
+dolphin blue playful~
+a playful blue dolphin~
+A playful blue dolphin swims around you making chirping sounds.
+~
+   This playful blue colored dolphin swims around merrilly making chirping
+noises.  It swims up to you trying to figure out what you are doing swimming in
+the bay.    
+~
+65736 40 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#9820
+fish yellow bright~
+a bright yellow fish~
+A bright yellow colored fish swims about lazily here.
+~
+   This fish swims around feeding on the refuse from the many ships that travel
+the harbor.  His yellow coloration helps to partially blend him in to the sand
+on the sea floor here.    
+~
+65612 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#9828
+Betancourt Bet Betan collector~
+Betancourt~
+Betancourt, a collector of items both fine and rare, sits behind his desk.
+~
+   Betancourt looks up from his journal as he sees you approach.  His eyes seem
+to twinkle with excitement yet he tries to contain his enthusiasm prior to
+negotiations.  He possesses one of the greatest collections on Krynn and is
+always eager to acquire new additions.  Rumor has it that he is constantly
+expanding his estate to accommodate new arrivals since he refuses to part with
+anything.    
+~
+15982602 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+999999999 0 0
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#9880
+undead captain~
+an undead captain~
+An undead captain stands here, his skin a pale blue color.
+~
+   This man was once a captain.  Some deep slash marks appear on his skin,
+hinting that his death was because of a battle.  His once fine clothing is now
+nothing but rotted rags.  When your eyes lock onto his, his eyes glow with a
+faint red light.    
+~
+10 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 10
+8 8 1 0
+Maxmove: 50
+E
+#9881
+skeletal sailor form~
+a skeletal sailor~
+The skeletal form of a sailor walks around, seeing out of a head with no eyes.
+~
+   There is no skin left on this body, only bones.  There are few signs of what
+they once were, only a few pieces of rotted clothing.  Their bones are a grey
+color, with spots of dirt on them.  Once sailing the seas, this skeleton now
+walks around he burial site in eternal pain.    
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 10
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#9882
+ghostly ghost form boy dock dockboy~
+a ghost of a dockboy~
+The ghostly form of a dockboy hovers here, chilling the air.
+~
+   The air around the ghost is very cold, so cold that you can see your breath.
+At one time he helped his ship and his crew, but that was his old life.  His
+new unlife appears to be full of pain.  Everything on him is a pale blue, even
+his skin.  At times, it is possible to see through him.    
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+0 15 10
+8 8 1 0
+Maxmove: 50
+E
+#9883
+zombie seaman man~
+a zombie seaman~
+A zombie seaman moans in pain here, his left arm missing.
+~
+   This zombie still wears rags from when he was buried.  His skin is a pale
+grey color, as are his eyes.  He obviously died in a horrific way, slashes mark
+his skin.  The occasional insect crawls out of those openings on his skin.  
+His left arm has been hacked off, leaving a stump that doesn't make it to where
+his elbow used to be.    
+~
+8 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 10
+8 8 1 0
+Maxmove: 50
+E
+#9884
+upper body sailor half~
+the upper body of a sailor~
+The upper-half of a sailor is here, using his arms to move.
+~
+   This man has large, powerful arms, which is good because he seems to of lost
+his legs.  The bottom half of his body is gone.  From the looks of it, a shark
+ate the the bottom half of his body before he crew could find him.  His skin is
+very pale, almost white, and his eyes have no pupils.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 10
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#9885
+cleric paladine~
+a cleric of Paladine~
+A cleric of Paladine is here, warding off the undead.
+~
+   This woman wears the white robes of Paladine.  Around her neck is a pendant
+with a silver triangle on it.  She is a little aged, small lines on her face
+are signs of that, but she still greets you with a warm smile.  Worn at her
+side is a mace, a last resort if her prayers to Draco Paladin fails.    
+~
+524298 0 67 0 E
+8 15 8 5d5+110 2d6+2
+70 800 2
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 50
+E
+$

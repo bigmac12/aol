@@ -1,0 +1,1873 @@
+#11400
+A Blockade~
+   Logs and other bits of debris have been piled up here forming a make shift
+blockade on the road preventing travel to the east.  Sounds of drunken laughter
+can be heard to the south.  The road is immediately to the west.  The blockade
+here continues to the south where it looks like there is some type of gate
+sitting directly in the middle of the road.    
+~
+114 0 1 0 0
+D2
+~
+~
+0 0 8240
+D3
+~
+~
+0 0 8239
+S
+#11401
+Inside A Shabby Tent~
+   The canvas of the tent is covered with mud and other stains.  It serves as
+shelter for those working the blockade but needing a break from the elements.
+Some straw, presumably for bedding, has been tossed on the wooden plank floor.
+A single lantern sits upon a sturdy trunk at the back of the tent providing
+minimal light.    
+~
+114 8 0 0 0
+D1
+~
+~
+0 0 11402
+S
+#11402
+A Patch Of Trampled Grass~
+   All the brush has been cleared away from this area to allow for easy
+passage.  The grasses have been trampled and the ground is deeply scarred with
+many large hoof prints.  A shabby tent has been erected to the west, and the
+smoke from a large fire comes in from the south.  The light from the fire as
+well as several large torches which have been staked into the ground provide
+light both day and night.    
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 8239
+D1
+~
+~
+0 0 8240
+D2
+~
+~
+0 0 11405
+D3
+~
+~
+0 0 11401
+S
+#11403
+Inside The Leader's Tent~
+   Serving as the main command post as well as the sleeping quarters for the
+commander, this tent is a bit larger and better decorated than the others.  A
+canvas cot rests against the northern wall with a large trunk sitting at its
+foot.  A wide table covered with maps and charts dominates the southern half of
+the tent.  There are generally people coming and going with news and updates at
+all times of day.  The only exception is during the few hours a day the
+commander actually finds time to sleep.    
+~
+114 8 0 0 0
+D1
+A large flap protects the tent's occupants from the elements.
+~
+tentflap flap~
+1 0 11404
+S
+#11404
+In Front Of A Large Tent~
+   Directly to the west lies a large but dirty tent.  Its entrance has been
+stained to a ash gray color by the soot of the fire to the east.  Trash and
+discarded or broken equipment lie here forgotten, rusting away in the few
+clumps of grass that stubbornly refuse to give up and die.  You can feel the
+heat of the fire to the east radiating in waves here singing every part of your
+body slightly.    
+~
+114 0 1 0 0
+D1
+~
+~
+0 0 11405
+D3
+A large flap bars entry to the tent.    
+~
+tentflap flap~
+1 0 11403
+S
+#11405
+At A Large Fire~
+   A large fire roars here lighting up the entire area.  The heat that radiates
+off of it singes your skin.  Some type of meat has been impaled on the end of a
+metal rod and placed so that it leans directly over the hottest part of the
+flame.  Several shards of glass litter the area reflecting the firelight.  
+These shards make the ground look as if it were covered with diamonds.    
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 11402
+D1
+~
+~
+0 0 11406
+D2
+~
+~
+0 0 11408
+D3
+~
+~
+0 0 11404
+E
+meat~
+   This chunk of meat came from an animal whose identity it might be best not
+to know.  It might have once been edible but its prolonged exposure to the heat
+of the fire has turned it into nothing more then a large lump of charcoal.    
+~
+E
+fire~
+   The flames reach up to almost the height of a man and give off a tremendous
+amount of heat and light.    
+~
+S
+#11406
+A Blockade~
+   Logs and other bits of debris have been piled up here forming a make shift
+blockade on the road preventing travel to the east.  Sounds of drunken laughter
+can be heard to the south.  The road is immediately to the west.  The blockade
+here continues to the south where it looks like there is some type of gate
+sitting directly in the middle of the road.    
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 8240
+D3
+~
+~
+0 0 11405
+S
+#11407
+Inside A Shabby Tent~
+   The canvas of the tent is covered with mud and other stains.  It serves as
+shelter for those working the blockade but needing a break from the elements.
+Some straw, presumably for bedding, has been tossed on the wooden plank floor.
+A single lantern sits upon a sturdy trunk at the back of the tent providing
+minimal light.    
+~
+114 8 0 0 0
+D1
+~
+~
+0 0 11408
+S
+#11408
+Beside A Pile Of Broken Kegs~
+   It would appear as though being assigned to the blockade is not as miserable
+as it might first seem.  The pile of kegs and the stench of beer stands as
+silent testimony to many long nights of drunken revelry The emptied kegs are
+saved and used as firewood for the massive fire that burns just off to the
+north, providing both heat and light.    
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 11405
+D1
+~
+~
+0 0 11409
+D3
+~
+~
+0 0 11407
+S
+#11409
+At The Latrine~
+   A small line of drunken revelers and guards stand outside this large, wooden
+latrine restlessly, a few shifting from foot to foot.  The latrine itself looks
+to have been hastily built out of warped wooden planks, and the only adorning
+mark is a small crescent moon on the door.  The smell of spirits and the sound
+of revelry can be heard to the west.    
+~
+114 0 1 0 0
+D3
+~
+~
+0 0 11408
+S
+#11410
+A Wagonyard~
+   Those travellers weighed down with wagons and carts can park them here for a
+small fee.  The fee covers the use of the space as well as security for the
+items.  Guards patrol the wagonyard day and night, to insure the safety of
+anything that may have been left in the wagons.  The entire yard is surrounded
+by a stockade fence.  A wide gate at the eastern end serves as the only way in
+or out.    
+~
+114 32768 1 0 0
+D1
+~
+~
+0 0 11411
+S
+#11411
+A Wide Dirt Path~
+   Branching off from the main road, this path winds its way northward.  It is
+a bit rough to travel but still wide enough to allow wagons to pass easily.  
+Several wheel ruts lead off to the west, while footprints run in all
+directions.  The sounds of people talking and laughing can be heard to the
+north.  A small lean-to lies to the east.    
+~
+114 32772 1 0 0
+D0
+~
+~
+0 0 11416
+D1
+~
+~
+0 0 11412
+D2
+~
+~
+0 0 8876
+D3
+~
+~
+0 0 11410
+S
+#11412
+A Small Lean-to~
+   This small lean-to serves as the office for the campground.  It has a dirt
+floor and a simple wooden table that holds the ledger.  A crude map hangs on
+the wall showing the location of the different cabins that are available for
+rental.  Above the map, is a board with hooks, upon which hang the keys to the
+cabins.  A hurricane lantern sets atop the table, providing light.  There is a
+tiny firepit in the middle of the floor, surrounded by several stones.  During
+the evenings and winter nights, it provides warmth and additional light as well
+as a place to cook food.    
+~
+114 32776 0 0 0
+D3
+~
+~
+0 0 11411
+E
+map~
+
+Taragal Springs Camping
+
+   Cabin
+    #1
+     |       Cabin
+#4---|---\    #3
+     |    \    |   Cabin
+     |-#5  \---S--- #2
+
+#4 = Camp Sites
+#5 = Rental Office
+~
+S
+#11413
+Taragal Springs~
+   Fed by underground springs, this small pond has drawn weary travellers to
+this area for as long as anyone can remember.  Many a weary traveller has
+sought the peaceful relaxation of the hot springs.  Their warm bubbling, water
+is able to soothe and relax the tensest or muscles.  Originally visitors would
+just make camp around the pond, but now those staying here must pay a small
+rental fee.  The fee is used toward the upkeep of the pond and surrounding
+grounds.  Lanterns hang from the trees providing a festive glow during the
+nightime hours.    
+~
+114 32772 1 0 0
+D0
+~
+~
+0 0 11418
+D1
+~
+~
+0 0 11414
+D6
+~
+~
+0 0 11417
+S
+#11414
+Taragal Springs Cabin #2~
+   The rate for this cabin is far more expensive than the others.  Its location
+between the foothills and the hot springs offer an exceptional setting for a
+relaxing retreat.  A massive stone fireplace sits in the middle of the cabin
+filling the room with light and heat.  Its sturdy chimney extends past the tiny
+loft above and through the roof of the cabin.  A four-poster bed sits against
+the southern wall.  A beautifully decorated quilt covers the large feather bed,
+which looks rather inviting.  Next to the bed stands an oversized nightstand,
+upon which rests an oil lantern and a small vase of fresh flowers.    
+~
+114 32776 0 0 0
+D3
+~
+~
+0 0 11413
+S
+#11415
+Amongst the Campsites~
+   Several campsites have been set up here by travellers who are either
+unwilling or unable to pay the rental fee for a cabin.  There is a small fee
+for setting up camp here, but it is negligible in comparison to the rates for a
+cabin.  Most of the groups seem to keep to themselves and do not tend to
+associate with any others.  Everynow and then someone will wander past another
+campsite, those on watch immediately move their hands to their weapons looking
+ever vigilant in their posts.    
+~
+114 32768 1 0 0
+D1
+~
+~
+0 0 11416
+S
+#11416
+A Large Bonfire~
+   A deep pit has been carved into the ground here.  It is surrounded by
+several large rocks which have been brought down from the mountains.  The pit
+is always stocked with firewood.  The massive bonfire crackles and pops as it
+burns brightly, providing both heat and light for the campers.  Additional
+lumber is stacked nearby.  Every now and then a happy camper retrieves wood
+from the pile to either cart back to their cabin or add to the main bonfire.  
+~
+114 32768 1 0 0
+D0
+~
+~
+0 0 11419
+D1
+~
+~
+0 0 11417
+D2
+~
+~
+0 0 11411
+D3
+~
+~
+0 0 11415
+S
+#11417
+A Narrow Dirt Path~
+   This narrow dirt path winds among the many cabins here, allowing campers
+easy access to their night's accommodations.  The ground is damp and soft
+underfoot.  Each footfall leaves behind a deep impression in the mud.  People
+wander the area at all times of day and night.  At night, fires from the
+campsites light the area, and the restless footsteps of those on watch can be
+heard.    
+~
+114 32768 1 0 0
+D3
+~
+~
+0 0 11416
+D9
+~
+~
+0 0 11413
+S
+#11418
+Taragal Springs Cabin #3~
+   This moderately priced cabin is clean and neat with all of the comforts
+required for an enjoyable night's stay.  Its close proximity to the springs and
+reasonable rental rate makes it a desirable location for return visitors.  A
+large bed, stacked with cozy blankets sits against the back wall of the cabin.
+Along side the bed a stone fireplace has been recently added to the cabin to
+provide both warmth and light for guests.    
+~
+114 32776 0 0 0
+D2
+~
+~
+0 0 11413
+S
+#11419
+Taragal Springs Cabin #1~
+   Sparsely decorated, this cabin is spacious enough to allow four adults to
+sleep comfortably.  Bunks lean against the eastern and western walls.  A
+blanket rests neatly folded on each bunk.  Two storage chests sit at the end of
+each bed, allowing a convenient place to store items.  A stone fireplace stands
+between the bunks.  Logs sit on the hearth awaiting the next guest.    
+~
+114 32776 0 0 0
+D2
+~
+~
+0 0 11416
+S
+#11420
+Along the Border~
+   Much of the grass has been cleared away here and replaced with paving stone
+quarried from the nearby Vingaard Mountains.  The paved surface permits the
+knights to maneuver easily while at their posts.  The wall along the border
+stretches to the northeast, its end lost in the distance.  Painstakingly
+constructed of squared blocks of smooth stone, neatly trimmed into shape, it
+provides a formidable obstacle for those trying to cross the border.  A massive
+gate stands to the east, providing the only practical means of passage.  A
+wooden post has been driven deep into the ground to provide the knights who
+have ridden down from the Keep with a place to tie up their horses.  There is
+little shelter for them other than the shade of the wall.    
+~
+114 32768 2 0 0
+D1
+~
+~
+0 0 9486
+D9
+~
+~
+0 0 11426
+S
+#11421
+Along the Border~
+   Much of the grass has been cleared away here and replaced with paving stone
+quarried from the nearby Vingaard Mountains.  The paved surface permits the
+knights to maneuver easily while at their posts.  The wall along the border
+stretches to the northeast, its end lost in the distance.  Painstakingly
+constructed of squared blocks of smooth stone, neatly trimmed into shape, it
+provides a formidable obstacle for those trying to cross the border.  A massive
+gate stands to the west, providing the only practical means of passage.    
+~
+114 32768 2 0 0
+D1
+~
+~
+0 0 11422
+D3
+~
+~
+0 0 9486
+S
+#11422
+The Lower Level of the Guard Tower~
+   Sparsely furnished, this room serves as a resting place for the knights when
+they are off duty.  In general, most knights return to Thelgaard Keep when they
+are finished with their assignment, but often times they will stop to take a
+short rest here between shifts.  A fireplace has been built into the southern
+wall, providing both light and heat.  Next to the hearth stands a plain wooden
+bench and a small table.    
+~
+114 32776 0 0 0
+D3
+~
+~
+0 0 11421
+D7
+~
+~
+0 0 11423
+S
+#11423
+The Lower Level of the Guard Tower~
+   Tightly spiraled stone stairs lead up to the top of the wall and guard
+tower.  The center of each step has been worn away by passage of heavily-booted
+feet.  A thick cord winds its way around the edge of the curved wall, serving
+as the only handhold in the stairwell.  Narrow windows, little more than slits
+in between the stones, provide a means to viewing the outside world and a bit
+of light during the daytime hours.    
+~
+114 32776 0 0 0
+D4
+~
+~
+0 0 11424
+D8
+~
+~
+0 0 11422
+S
+#11424
+The Guard Tower~
+   Standing atop the stone wall that runs along the Solamnic-Ergothian border,
+this guard tower offers the knights on duty an excellent vantage point for
+surveying the surrounding plains.  A wall taller than the height of the average
+human male extends around the tower, providing some coverage for those on watch
+here.  The crenelated battlement permits a clear view of the surrounding area.
+From this height, the towers and parapets of Thelgaard Keep are visible to the
+north.  Their banners waving proudly in the breeze.    
+~
+114 32776 0 0 0
+D5
+~
+~
+0 0 11423
+D8
+~
+~
+0 0 11425
+S
+#11425
+Atop the Wall~
+   Brown stone quarried from the nearby Vingaard Mountains was brought here to
+fortify the Ergothian border.  Several layers of stone have been carefully
+stacked to form the walls.  Mortar made from the clay-like soil of the plains
+provides great stability.  The walkway atop the wall is just wide enough to
+allow two knights to pass side by side.  The crenelated battlemant provides an
+excellent, and relatively sheltered, vantage point for the knights on watch.  
+Torches have been affixed to the wall to provide light if so desired.    
+~
+114 32768 1 0 0
+D7
+~
+~
+0 0 11424
+S
+#11426
+The Lower Level of the Guard Tower~
+   A great oaken table stands in the middle of the room.  It serves as a both
+desk and dining table.  Currently it is covered with maps and dispatches to
+Thelgaard Keep.  A map of this portion of the Solamnic plain and its
+surrounding mountains hangs upon the wall.  The strongholds of the Knights are
+clearly marked with tiny flags.    
+~
+114 32776 0 0 0
+D6
+~
+~
+0 0 11420
+D8
+~
+~
+0 0 11427
+S
+#11427
+The Lower Level of the Guard Tower~
+   Tightly spiraled stone stairs lead up to the top of the wall and guard
+tower.  The center of each step has been worn away by passage of heavily-booted
+feet.  A thick cord winds its way around the edge of the curved wall, serving
+as the only handhold in the stairwell.  Narrow windows, little more than slits
+in between the stones, provide a means to viewing the outside world and a bit
+of light during the daytime hours.    
+~
+114 32776 0 0 0
+D4
+~
+~
+0 0 11428
+D7
+~
+~
+0 0 11426
+S
+#11428
+The Guard Tower~
+   Standing atop the stone wall that runs along the Solamnic-Ergothian border,
+this guard tower offers the knights on duty an excellent vantage point for
+surveying the surrounding plains.  A wall taller than the height of the average
+human male extends around the tower, providing some coverage for those on watch
+here.  The crenelated battlement permits a clear view of the surrounding area.
+From this height, the towers and parapets of Thelgaard Keep are visible to the
+north.  Their banners waving proudly in the breeze.    
+~
+114 32776 0 0 0
+D5
+~
+~
+0 0 11427
+D7
+~
+~
+0 0 11429
+S
+#11429
+Atop the Wall~
+   Brown stone quarried from the nearby Vingaard Mountains was brought here to
+fortify the Ergothian border.  Several layers of stone have been carefully
+stacked to form the walls.  Mortar made from the clay-like soil of the plains
+provides great stability.  The walkway atop the wall is just wide enough to
+allow two knights to pass side by side.  The crenelated battlemant provides an
+excellent, and relatively sheltered, vantage point for the knights on watch.  
+Torches have been affixed to the wall to provide light if so desired.    
+~
+114 32776 0 0 0
+D8
+~
+~
+0 0 11428
+S
+#11430
+The Guard Post~
+   A large platform is built into the top of the tree,It seems as if several of
+the larger branches form the base and flooring.  A faint rustling can be heard
+as something or someone moves about, first from one side of the platform and
+then another.  The forest in this part of the woods is unusually quiet, not
+even the sound of birds seem to fill the air.  A small ladder made of woven
+vines can be barely seen against the trunk of the tree.    
+~
+114 32768 3 0 0
+D0
+~
+~
+0 0 8876
+D1
+~
+~
+0 0 11431
+D3
+~
+~
+0 0 8894
+D4
+~
+~
+0 0 11432
+S
+#11431
+The Path in the Forest~
+   The small path to the west seems as if few feet have ever trodden on it and
+yet the smell of wood smoke fills the air even though no trails lead anywhere
+but from where you have came.  The clearing seems to have the look of a
+cultivated hedge, but whoever has kept it in such repair obviously doesn't wish
+to be seen.  A small grape vine grows on a trellis to the northeast.    
+~
+114 32784 3 0 0
+D3
+~
+~
+0 0 11430
+D7
+A small vine trellis is staked here.
+~
+vine trellis~
+1 0 11433
+S
+#11432
+On the Platform~
+   The rough exterior of the platform from below does not do credit to the
+craftsmanship it took to make such a marvel.  The flooring is made from small
+saplings and a thin yet strong looking woven barrier surrounds the platform
+making it impossible for anyone standing here to fall off.  Several areas have
+been cleared to give a good view of anyone walking down the trail.  A small
+horn rests in a nook at the trunk of the tree.    
+~
+114 32768 3 0 0
+D5
+~
+~
+0 0 11430
+S
+#11433
+The Path to the Camp~
+   The faint sound of laughter can be heard echoing from the glade ahead.  The
+animals that were so conspicuous by their abscence have returned in full force
+and the raucus sound of bickering squirrels can be heard in the tree limbs
+above your head.  A small trellis of grape vines have been cultivated to the
+south west.    
+~
+114 163844 0 0 0
+D1
+~
+~
+0 0 11434
+D8
+   A small vine trellis is staked out here.    
+~
+vine trellis~
+1 0 11431
+S
+#11434
+The Camp in the Glade~
+   A small fire throws shadows about the glade in an attempt to brighten up a
+secluded spot in the forest.  Several small wood and grass thatched huts
+surround the clearing, with a larger hut being constructed to the east.  
+Several small wolf pups have made a home in the small brush pile that stands to
+the north.    
+~
+114 64 4 0 0
+D0
+~
+~
+0 0 11435
+D1
+~
+~
+0 0 11436
+D2
+~
+~
+0 0 11438
+D3
+~
+~
+0 0 11433
+S
+#11435
+Under the Brush~
+   The brush pile covers your head as crawling is the only way to get into the
+den.  Darkness prevents all but those with the keenest sight to see the huddled
+form of puppies curled in the far corner.  The floor of the brush pile is
+covered in what appears to be an old cast off blanket and scraps from the
+latest dinner have been tossed in the entrance way.    
+~
+114 9 0 0 0
+D2
+~
+~
+0 0 11434
+S
+#11436
+Inside the Main Hall~
+   The walls are just bare beams and the roof is off showing that this area is
+under construction.  The back wall is all that seems to have been finished and
+a large doorway is covered by the hide of some forest creature.  Several
+torches reside in sconces along the exposed wall joists but they are unlit as
+the sun provides all the light needed at this time.    
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11437
+D3
+~
+~
+0 0 11434
+S
+#11437
+The Sleeping Chambers~
+   This is the only room in the hut that seems to be finished and have a roof
+over it.  A small table is set in the far corner and a three legged stool is
+sitting under the near edge.  A small pile of furs is made into a bed along the
+far wall and several small candles give an eerie glow to the room in general.
+Shadows seem to abound and the chieftan is partially hidden in the shadows of
+the door.  Large runes decorate the walls on all sides giving protection
+against....  Something.    
+~
+114 137 0 0 0
+D3
+~
+~
+0 0 11436
+S
+#11438
+On the Small Path~
+   A small path leads away from the main glade and fire.  It looks as if it is
+not a main way into the camp, yet it still seems that the grass and underbrush
+has been worn down by the passage of multiple beings on different occasions.  
+~
+114 64 3 0 0
+D0
+~
+~
+0 0 11434
+D2
+~
+~
+0 0 11439
+S
+#11439
+Away from the Camp~
+   The small path has led to a large tree that has fallen, leaving its root
+exposed on one side.  Small piles of leaves are scattered about and the sound
+of flies can be heard as a constant buzz.  One small pile of leaves is covered
+by dung beetles giving a clue as to where you are.    
+~
+114 32 3 0 0
+D0
+~
+~
+0 0 11438
+S
+#11440
+A Dirt Road~
+   This loosely paved road leads into a field of grain.  The sounds of humming
+and whistling echoes into the wind as the nearby farmers harvest the grain to
+bring to the mill.  The road itself has been paved with sand stones and other
+white coarse rocks.  There is also a small wooden sign that has been stuck into
+the soil.    
+~
+114 32768 0 0 0
+D1
+~
+~
+0 0 11445
+D3
+~
+~
+0 0 11441
+E
+sign~
+   This old wooden sign seems to be held together with patchwork planks.  
+Written in a white chalk the words are barely visible. 
+
+The Solamnic Farms
+~
+S
+#11441
+Fields of Grain~
+   Large stalks of grain sprout from this moistened earth.  A cool sudden
+breeze causes the stalks to sway heavily sending a spray of grain across this
+path.  To the north a large scarecrow can be seen.  The path branches off into
+many directions into the fields.    
+~
+114 32768 2 0 0
+D0
+~
+~
+0 0 11442
+D1
+~
+~
+0 0 11440
+S
+#11442
+Before a Large Scarecrow~
+   The ground has been dug and raked free of any branches or leaves allowing
+the farmers fairly easy passage to and from the mill.  A large wooden stake
+standing about six feet in the air holds up a rather twisted and gruesome
+scarecrow.  To the north a large grain mill can be seen A narrow pathway
+between the rows of grain leads off to the west.    
+~
+114 32768 2 0 0
+D0
+~
+~
+0 0 11443
+D1
+~
+~
+0 0 11448
+D2
+~
+~
+0 0 11441
+E
+scarecrow~
+   A large straw hat sits upon a gruesome head of this scarecrow.  Two hollowed
+hole filled with glowing stones make up sadistic eyes.  The body of this
+scarecrow has been loosely crucified to the large wooden post, its arms flap
+freely with the wind.  Its like the scarecrow is taunting you to APPROACH it.
+  
+~
+S
+#11443
+Before an Old Grain Mill~
+   A large grain mill stands here.  The old wooden structure seems to creek
+with age.  The soil below it is littered with all types of grains.  A soft wind
+sends thousand of grains to be tossed into the air.  The soft echo of voices
+can be heard to the north.    
+~
+114 32768 2 0 0
+D0
+~
+~
+0 0 11444
+D2
+~
+~
+0 0 11442
+S
+#11444
+Inside the Mill~
+   Large bags of grain clutter the floor.  The smell of sweat is nearly
+overwhelming from the workers working on the mill.  The floor creaks with every
+step, and a large cracks dot the floor.  A large grain wheel can be seen to the
+northwest.    
+~
+114 32780 0 0 0
+D2
+~
+~
+0 0 11443
+D6
+~
+~
+0 0 11446
+S
+#11445
+A Dirt Road~
+   This road leads deep into a field of grains.  The road itself is covered
+with wheel tracks and bits of grains and other produce that has fallen of the
+wagon.  In the distance, a large wooden mill can be seen sitting on top of a
+small hill.  The highway is visible to the south.    
+~
+114 32768 2 0 0
+D2
+~
+~
+0 0 8712
+D3
+~
+~
+0 0 11440
+S
+#11446
+Manager's Office~
+   This office is covered in all varieties of grain.  The floor is made of hard
+plywood that as been coated with a thick tar.  The walls are plain and bear no
+paintings or other artwork.  A single desk stands in the center of the room.  
+Piles of loose-leaf papers clutter the desk and litter the floor.    
+~
+114 32776 0 0 0
+D0
+   This strange wall appears to be on steel hinges that makes it able to slide
+open.    
+~
+wall~
+1 0 11447
+D9
+~
+~
+0 0 11444
+E
+desk~
+   This old plywood desk seems to be barely standing.  Large scratches and
+dents cover its once smooth surface.  Piles of Papers clutter the top of the
+desk.  A small leather bound book can be seen under on the legs.  This book
+keeps the desk from toppling over.    
+~
+S
+#11447
+A Surreptitious Chamber~
+   A secretive aura lingers in this room.  Piles of mismatched bags and
+containers litter the floor.  The walls are barren with no windows or torches
+to provide light.  The floor is made of sea green stone slabs.  A small stone
+cabinet seems to be have built into the northern wall.    
+~
+114 262220 0 0 0
+D2
+   This strange wall appears to be on steel hinges that makes it able to slide
+open.    
+~
+wall~
+1 0 11446
+S
+#11448
+Surrounded by Fields of Grain~
+   The tall stalks of grain stretch high overhead, some reaching as much as
+eight feet in height.  Most of the plantings in this area appear to be either
+wheat or oats.  The stalks have been planted in straight rows which seem to
+stretch on endlessly in all directions.  Every now and then a field mouse peaks
+out from its home to search for a few pieces of grain which have fallen to the
+ground.  The roof of the mill is barely visible over the tops of the stalks.  
+~
+114 32768 2 0 0
+D3
+~
+~
+0 0 11442
+D7
+~
+~
+0 0 11449
+S
+#11449
+Surrounded by Fields of Grain~
+   The tall stalks of grain stretch high overhead, some reaching as much as
+eight feet in height.  Most of the plantings in this area appear to be either
+barley or rye.  The stalks have been planted in straight rows which seem to
+stretch on endlessly in all directions.  Every now and then a field mouse peaks
+out from its home to search for a few pieces of grain which have fallen to the
+ground.  Peering between the stalks, open road is visible to the east.    
+~
+114 32768 2 0 0
+D1
+~
+~
+0 0 8707
+D8
+~
+~
+0 0 11448
+S
+#11450
+An Off-Road Path~
+   The path inclines upwards towards the east, steadily climbing up the
+mountain.  For a road this remote, it seems well-travelled.  The landscape
+surrounding you is breathtaking, but at the same time desolate, with not a
+single plant to be seen for miles.  The road reaches a slant of impossible
+severity to the east, almost straight up.  It can be walked up and not
+necessarily climbed, but not without extreme difficulty.  During the day, the
+heat from the sun is almost unbearable.  During the night, a cold breeze chills
+to the very bone.    
+~
+114 260 5 0 0
+D3
+~
+~
+0 0 9462
+D4
+~
+~
+0 0 11451
+S
+#11451
+Approaching a Dark Cave~
+   The path levels off somewhat towards the top of the mountain.  A steep climb
+is hebind you to the west.  To the east, a dark cave has been burrowed into the
+mountain side, leading to gods-know-where.  There is nothing on the outside of
+the cave that gives any clue as to what could be hidden inside of it.  The path
+that leads inside is clear of rocks or other debris, so there is every
+possibility that the cave is inhabited, though one would have to partake of a
+little spelunking to find out by whom.    
+~
+114 256 5 0 0
+D5
+~
+~
+0 0 11450
+D7
+~
+~
+0 0 11452
+S
+#11452
+Inside a Dark Cave~
+   Stepping inside the cave, you are immediately shrouded in near complete
+darkness.  The little light that enters the mouth of the cave is soon lost as
+the passageway twists sharply upwards.  There are narrow, steep steps carved
+into the floor of the cave to facilitate this otherwise nigh-impossible climb.
+The ground is not slippery, nor is there any trace of mildew or dankness.  The
+cave is bone dry, as the surrounding landscape.  The entrance of the cave lies
+to the southwest.    
+~
+114 269 5 0 0
+D4
+~
+~
+0 0 11453
+D8
+~
+~
+0 0 11451
+S
+#11453
+Along A Narrow Passage~
+   Every step is answered with a deep echo as you make your way through this
+narrow passageway.  Darkness prevails inside this cave, making torchlight or
+other means of seeing necessary.  The tunnel has leveled off considerably, and
+east from here seems to be relatively flat, from what you can tell.  There is
+no sound, save the ones you make yourself, and in that void of silence, you can
+hear every sound you make, even the beating of your own heart, or the blinking
+of your own eyes.  The passageway continues to the east from here.    
+~
+114 265 4 0 0
+D1
+~
+~
+0 0 11454
+D5
+~
+~
+0 0 11452
+S
+#11454
+Light at the End of the Tunnel~
+   The tunnel opens up to an expansive cavern.  The exact height of the cavern
+remains a mystery since its ceiling is lost in the darkness overhead.  The
+silence is occasionally broken by hushed voices which come from the east.  A
+gas lantern hanging on the wall provides further evidence of intelligent life
+in these tunnels.  The air is smokey and heavy with the lingering scent of
+burnt wood.  There is something mingled with it, though.  A far less pleasant
+smell which offends the senses.    
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11455
+D3
+~
+~
+0 0 11453
+S
+#11455
+An Intersection within the Caverns~
+   This rounded cavern has natural doorways leading off to the north, south,
+and west.  Strange scents waft in through the doorways to the north and south.
+Poor lighting combines with the smokey air to blur the vision of those who
+enter.  A wooden table rests against the eastern wall.  Atop the table rests a
+basket filled with coins of various denominations.  Next to the basket is a
+pile of parchment and a stack of black quills.  Each quill is decorated with a
+tiny vial filled with a red liquid.    
+~
+114 8 0 0 0
+D0
+~
+~
+0 0 11459
+D2
+~
+~
+0 0 11457
+D3
+~
+~
+0 0 11454
+S
+#11456
+A Spacious Cavern Lined with Bunks~
+   This spacious cavern is lined with bunks on its eastern and western walls.
+The bunks are simple in design: a wooden frame with roping that supports a
+humble straw mattress.  A round, flat rock rests in the center of the room.  
+At its center rests an oil burner which is surrounded by various dried herbs.
+The rich scent of the herb-infused oils swirls in the smokey air.  The aroma is
+quite soothing to the senses and could easily induce a restful or meditative
+state.    
+~
+114 8 0 0 0
+D0
+~
+~
+0 0 11458
+S
+#11457
+Before the Sacrifical Flames~
+   This substantial cavern is clearly the source of the smoke which fill the
+other corridors.  A massive pyre burns within this chamber and would likely
+consume anything that were dropped here.  It is surrounded by kender-sized
+rocks which were no doubt cleared from these tunnels.  A large stockpile of
+lumber stands next to the pyre to ensure that it burns continually.  Upon
+closer inspection, you can see that more than just wood is being consumed by
+the flames.    
+~
+114 8 0 0 1
+D0
+~
+~
+0 0 11455
+D3
+~
+~
+0 0 11458
+E
+pyre fire flames flame~
+Stuff gets burned here!
+~
+S
+#11458
+An Altar Dripping with Fresh Blood~
+   The northern wall of this smaller cavern is dominated by a makeshift altar
+of piled stones.  The top stone, a the relatively flat rectangular specimen, is
+draped with a piece of blood-stained animal hide.  The air is heavy with the
+putrid scent of fresh blood mingled with the rancid stench of dried blood.  A
+basket sits before the altar.  It is filled with relatively fresh carcasses of
+what can only be recent sacrifices.    
+~
+114 8 0 0 0
+D1
+~
+~
+0 0 11457
+D2
+~
+~
+0 0 11456
+E
+altar stones stone northern~
+   It is impossible to determine what animal the skin draped over the altar
+once belonged to.  It has been cut into a perfect square and draped at an angle
+so that a point falls to the front and back of the pile of stones.  Two large
+pillar candles burn atop the altar.  One is black and one is a deep shade of
+red.  Between the candles are various items of interest.  Among them are a
+handful of animal teeth, dried herbs and petals, and a the claws of some poor
+animal.    
+~
+E
+pile carcasses carcass basket~
+   So mangled and rotted are these poor animals it is impossible to determine
+what they had been in life.  Each of the carcasses does seem to have some
+commonalities, though.  All were furred quadrupeds, and all were male.    
+~
+S
+#11459
+The Vision Chamber~
+   This chamber is sparsely decorated with a tripod as the only furnishing.  
+In each corner of the room stands a tall pillar with a great bowl atop it.  
+Different herbs are burned in each of the bowls.  Their smokey aromas swirl
+together to make a nearly intoxicating scent.  The chamber is dimly lit by the
+glow of the burning herbs as well as the soft light provided by sticks of
+sandalwood incense that burn on either side of the tripod.    
+~
+114 262152 0 0 0
+D2
+~
+~
+0 0 11455
+S
+T 11457
+#11460
+The Back Room of the Lizard King's Hut~
+You are in an unfinished room.
+~
+114 8 0 0 0
+D2
+~
+~
+0 0 11488
+S
+#11461
+A Path Through the Jungle~
+   Leaving the highway, one must slash their way through some dense growth.  
+However, once you pass the first few feet of plants, there is a definite path
+along the ground, and it shows signs of recent use.  The air all around is
+thick with the scent of ozone and decaying leaves.  The ground squishes beneath
+your feet, being composed mostly of mud and dead plants.  Here and there along
+the path, you see a few pieces of chipped stone or broken sticks.  The signs of
+civilization.    
+~
+114 0 3 0 0
+D7
+~
+~
+0 0 11462
+S
+#11462
+A Path Through the Jungle~
+   The path continues into the forest, but the going does not get any simpler.
+At every step, there are vines, brambles, and mud to impede progress through
+this untamed wilderness.  Getting further away from the road, you can hear the
+sounds of jungle wildlife all around.  Somewhere in the distance, you can also
+hear the bubbling of water.  Though it may be a natural brook or stream, it
+sounds far more consistent with something living, splashing about in the murky
+waters of this jungle.    
+~
+114 0 3 0 0
+D7
+~
+~
+0 0 11463
+D8
+~
+~
+0 0 11461
+S
+#11463
+A Fork in the Path~
+   Here the path forks in three directions.  One leads off to the north,
+another to the south which is overgrown with leaves and other wild plants, and
+another to the east, where the sounds of wildlife seem more focused.  The
+ground here is very mushy, and one cannot stand in one spot too long, lest he
+find himself buried ankle-deep in foul-smelling filth.  The sun rarely peeks
+through the thick jungle canopy here, thus it becomes nearly impossible to tell
+whether it is day or night out.    
+~
+114 0 3 0 0
+D0
+~
+~
+0 0 11464
+D1
+~
+~
+0 0 11471
+D8
+~
+~
+0 0 11462
+S
+#11464
+A Path Through the Jungle~
+   This area of the jungle is more well lit than some others.  The canopy is
+not as thick, and rare sunlight can be caught streaming through the foliage.  
+To the north, the path slants downward and descends into scum-covered waters.
+To the south, the path slants up, towards drier ground.  There is an odd smell
+about the path to the north, and only those with a passion for cartography, or
+a masochistic streak, would want to wander into that transversable, albeit
+utterly disgusting path.    
+~
+114 0 0 0 0
+D0
+~
+~
+0 0 11465
+D2
+~
+~
+0 0 11463
+S
+#11465
+A Swampy Area~
+   For some reason, this area of the jungle is particularly swampy.  The ground
+cannot be seen, for it is covered in waist-deep puddles.  Peeking out from
+beneath the fetid waters are some jagged boulders, covered with moss.  A
+particularly nimble creature might be able to climb from rock to rock and, with
+the use of hanging vines, cross this section effortlessly.  However, no one
+that you have ever met would be capable of such a feat, even the nimblest of
+rogues.  There is a steady, slimy bubbling that seems to come from the bottom
+of this cesspool, though the source is elusive, and not likely worthwhile to
+investigate.    
+~
+114 0 0 0 0
+D2
+~
+~
+0 0 11464
+D7
+~
+~
+0 0 11466
+S
+#11466
+An Overgrown Path~
+   You can still see the path here, though barely.  Perhaps once travelled at
+least by moderate traffic, it has now been completely shrouded by new growth.
+Vines and weeds cover the ground, and the trail is lost in a sea of green.  It
+is necessary to lift your feet high while transversing this area, lest your
+foot catch a vine and you end up falling face-first into the jungle floor.  
+There is a raucous noise nearby, from some primate no doubt, but by the time
+you can maneuver yourself to look around, whatever caused the noise has
+departed.    
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11467
+D6
+~
+~
+0 0 11470
+D8
+~
+~
+0 0 11465
+S
+#11467
+Entering the Swamp~
+   This path climbs steadily upwards to the east, climbing up and up and still
+farther up.  All around are the same trees and plants you have seen elsewhere
+in the jungle, but these appear to be older, and less accustomed to passage.  
+The slant of the ground combined with the muddy slipperiness makes it hard to
+stay standing vertical.  To the east, the sounds of life are louder and closer
+by.  The exact nature of these sounds, however, remains a mystery.    
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11477
+D3
+~
+~
+0 0 11466
+S
+#11468
+Entering the Jungle~
+   Stepping off the highway, you are immediately immersed in the sounds and
+sights one would expect of the common jungle.  The air is incredibly humid,
+almost wet, and it is not long before those not accustomed to the conditions
+are bathed in a thick sweat.  In the distance, the howl of some unidentifiable
+beast can be heard.  Underfoot, all around, are all manner of rare plant life
+that may possibly exist only here and nowhere else.  There is a barely
+perceptible trail which leads off to the east, and from there, some unknown
+direction.    
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11469
+S
+#11469
+A Slime-Covered Path~
+   The path in the jungle here is covered with a thin mucus, making footing
+tenuous at best.  The nearby flora seems to be the source of this mucus,
+looking like very large dandelions, but secreting the viscous, horrid-smelling
+substance that most closely resembles bile.  There is no evidence of any animal
+life in this section of the forest, save for a very well-rotted corpse of some
+rodent, stuck in the goop.  The unidentifiable plants have grown over it
+partially, and seem to be digesting it externally.  It is a most disturbing
+sight to behold.    
+~
+114 0 0 0 0
+D3
+~
+~
+0 0 11468
+D9
+~
+~
+0 0 11470
+S
+#11470
+Knee-Deep in Mud~
+   No sooner have you entered this portion of the jungle, but you find yourself
+knee-deep in a thick mud.  It is deep black in colour, and would be very
+fertile ground for plants to grow in, save for its wetness.  On top of the mud
+is a thin layer of scum.  You cringe to think about all the effort that will
+need to go into cleaning your boots once you finally free yourself of this
+mess.  The canopy above opens up slightly, allowing columns of light to seep
+in.  Rain likely gets into this space too, accounting for the wetness of the
+ground.    
+~
+114 0 0 0 0
+D6
+~
+~
+0 0 11469
+D9
+~
+~
+0 0 11466
+S
+#11471
+A Path Tangled by Weeds~
+   What lays before you could only loosely be described as a path at all.  A
+more apt description would be "The portion of the jungle that is not tree.  "
+There are thick weeds and many vines that cover the ground, making for some
+careful stepping.  This forest cannot possibly be inhabited by humanoid
+creatures of any kind, as it would be too hostile to them, you think to
+yourself.  Then, something catches your eye.  There, in the mud, a perfectly
+preserved footprint.  It does not look to have been caused by any boot, or by
+any animal that you have ever seen.  The foot that caused this particular print
+was large, three-toed, and clawed.  The closest possible examinations reveal
+the evidence of odd lumps: the relief impression of...  Scales.    
+~
+114 0 3 0 0
+D1
+~
+~
+0 0 11472
+D3
+~
+~
+0 0 11463
+S
+#11472
+A Crude Trap~
+   You halt briefly to survey the terrain, and then you are glad that you did.
+What looks at first glance to be solid ground (well, as solid as any ground in
+this jungle) is in fact piles of sticks and vines lain over a large pit.  The
+holes in this makeshift thatching allow a view for what lies below: a crude pit
+trap, with sharpened logs pointing upwards.  This is the most definitive
+evidence that this jungle is inhabited.  No animal constructs a trap of this
+nature.  It seems that the would-be hunters have yet to find an animal gullible
+enough to fall prey to their cunning device, though it may not be long.  It may
+be best to move along before the would-be hunters return to their trap, and
+decide that you are worthy prey.    
+~
+114 0 3 0 0
+D3
+~
+~
+0 0 11471
+D7
+~
+~
+0 0 11473
+S
+#11473
+A Turn in the Path~
+   What manner of creatures dwell in a jungle such as this?  That is the
+question foremost on the minds of those who journey this far, because, there, a
+short jog to the northeast, is a settlement of some sort.  There can be no
+mistaking the smell of cooking fires, and the barely perceptible constructions
+that are there.  It is impossible to see details from here, a closer look will
+be needed, however, the strange, animalistic sounds have grown louder as you
+have slashed your way through the forest.  Whatever lives here is not likely
+what most would term to be civilized, and certainly not many ever journey this
+far to find out.    
+~
+114 0 3 0 0
+D7
+~
+~
+0 0 11474
+D8
+~
+~
+0 0 11472
+S
+#11474
+Before A Crude Gate~
+   You have reached the gates of some village, constructed in, and of, this
+jungle.  The trunks of many strong trees have been hacked down to make the
+walls of this ramshackle squat.  Those who built the place must know a thing or
+two of civil defense, for the tops of the logs have been sharpened to points to
+make the scaling of walls dangerous, difficult, and even impossible for some.
+The gate is made of strong, dried vines, formed into something that would
+almost resemble wrought iron.  In the village, you can see many figures moving
+around, now plainly visible: Lizard men.  Thought for years to be extinct, the
+Bakali have settled in the forgotten corners of the world.  You may be the
+first humanoid visitors to this place for some time.  However, you do not have
+much time to ponder this, as almost immediately after your arrival, two burly
+Lizard Man guards emerge from the nearby forest and accost you.    
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 11475
+D8
+~
+~
+0 0 11473
+S
+#11475
+Inside the Gate of a Primative Village~
+You are in an unfinished room.
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 11478
+D2
+~
+~
+0 0 11474
+S
+#11476
+The Shaman's Hut~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D8
+~
+~
+0 0 11499
+S
+#11477
+Entering a Primative Village~
+   The path to the west is now inaccessible.  The steep dropoff makes return
+nigh impossible without climbing tools.  Now, you stand within the very walls
+of the Lizard Man village.  All around, your sudden appearance has caused
+varied reactions.  Some lizard people gather the younger ones and slip inside
+of their houses.  Others grab weapons.  Others still watch you suspiciously,
+ready to attack should you make the slightest hostile move.  They are strange
+in appearance, and you must look to be strange to them as well.  This is a
+civilization long lost to the modern, advancing world, and to be here is to
+gain a glimpse of your own, long-distant past.    
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11479
+S
+#11478
+Inside a Primative Village~
+You are in an unfinished room.
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 11479
+D1
+~
+~
+0 0 11480
+D2
+~
+~
+0 0 11475
+S
+#11479
+A Blazing Bonfire~
+You are in an unfinished room.
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 11485
+D2
+~
+~
+0 0 11478
+D3
+~
+~
+0 0 11477
+D6
+~
+~
+0 0 11482
+D7
+~
+~
+0 0 11487
+S
+#11480
+A Muddy Path Through the Village~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11481
+D3
+~
+~
+0 0 11478
+S
+#11481
+A Muddy Path Through the Village~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11494
+D3
+~
+~
+0 0 11480
+S
+#11482
+A Swampy Path Through the Village~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D6
+~
+~
+0 0 11483
+D9
+~
+~
+0 0 11479
+S
+#11483
+Before a Crude Straw Hut~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D3
+~
+~
+0 0 11484
+D9
+~
+~
+0 0 11482
+S
+#11484
+Inside a Crude Straw Hut~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11483
+S
+#11485
+A Muddy Path Through the Village~
+You are in an unfinished room.
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 11486
+D2
+~
+~
+0 0 11479
+S
+#11486
+Before a Crude House Made of Logs~
+You are in an unfinished room.
+~
+114 0 1 0 0
+D0
+~
+~
+0 0 11488
+D2
+~
+~
+0 0 11485
+S
+#11487
+A Clear Muddy Path~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11490
+D8
+~
+~
+0 0 11479
+S
+#11488
+A Large House Constructed of Stacked Logs~
+You are in an unfinished room.
+~
+114 8 0 0 0
+D0
+~
+~
+0 0 11460
+D2
+~
+~
+0 0 11486
+D3
+~
+~
+0 0 11489
+S
+#11489
+The King's Audience Chamber~
+You are in an unfinished room.
+~
+114 8 0 0 0
+D1
+~
+~
+0 0 11488
+S
+#11490
+A Divergent Trail~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D0
+~
+~
+0 0 11491
+D1
+~
+~
+0 0 11496
+D3
+~
+~
+0 0 11487
+D7
+~
+~
+0 0 11492
+D9
+~
+~
+0 0 11495
+S
+#11491
+A Crude Straw Dwelling~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D2
+~
+~
+0 0 11490
+S
+#11492
+A Barely Perceptible Path~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D7
+~
+~
+0 0 11493
+D8
+~
+~
+0 0 11490
+S
+#11493
+The Hunters' Hall~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D8
+~
+~
+0 0 11492
+S
+#11494
+A Primative Smoke House~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D0
+~
+~
+0 0 11495
+D3
+~
+~
+0 0 11481
+S
+#11495
+A Smoke-Shrouded Path~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D1
+~
+~
+0 0 11497
+D2
+~
+~
+0 0 11494
+D6
+~
+~
+0 0 11490
+S
+#11496
+A Barbaric Shrine~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D3
+~
+~
+0 0 11490
+D7
+~
+~
+0 0 11499
+S
+#11497
+A Trail Overgrown by Weeds~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D3
+~
+~
+0 0 11495
+D9
+~
+~
+0 0 11498
+S
+#11498
+The Crude Home of a Lizard Man~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D6
+~
+~
+0 0 11497
+S
+#11499
+A Clear, Muddy Path~
+You are in an unfinished room.
+~
+114 0 0 0 0
+D7
+~
+~
+0 0 11476
+D8
+~
+~
+0 0 11496
+S
+$~

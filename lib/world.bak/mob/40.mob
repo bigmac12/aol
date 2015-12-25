@@ -1,0 +1,152 @@
+#4000
+short goblin scout~
+a short goblin scout~
+A short goblin scout stands on an outcropping.
+~
+   This short goblin is wearing a leather tunic and a leather helm.  A small
+animal's horn is hanging around his neck.    
+~
+714 525312 0 -250 E
+6 17 10 2d5+70 2d5+2
+45 175 0
+8 8 1 0
+BareHandAttack: 8
+E
+#4001
+squirrel small~
+a small squirrel~
+A small squirrel jumps from tree to tree.
+~
+   A small squirrel runs along the branch.  It has light brown fur and a large,
+bushy tail.  It also has a some kind of nut sticking out of its mouth.    
+~
+72 131072 500 0 E
+5 17 11 2d5+65 2d5+0
+5 95 0
+8 8 0 0
+BareHandAttack: 4
+E
+#4002
+goblin small~
+a small goblin~
+A small goblin is sitting up in a tree, watching the woods.
+~
+You see nothing special about it.
+~
+586 525312 0 -250 E
+6 17 10 2d5+70 2d5+2
+50 175 3
+8 8 1 0
+BareHandAttack: 8
+E
+#4003
+short squat goblin~
+a short, squat goblin~
+A short, squat goblin hunches over the fire.
+~
+   The goblin is wearing an assortment of mismatched armor.  A leather tunic,
+studded leather bracers, and a dented metal cap.  He is hunched over the fire
+trying to keep warm and waiting on his meal.    
+~
+4682 1024 300 -400 E
+6 17 10 2d5+70 2d5+2
+60 175 3
+8 8 1 0
+BareHandAttack: 8
+E
+#4004
+resting goblin~
+a resting goblin~
+A goblin rests next to the fire.
+~
+   This goblin is slightly bigger than the average goblin.  He is wearing a
+studded leather tunic that is in very good condition.  He also has a sturdy
+metal helm on his head.  He is resting near the fire with his eyes half closed.
+  
+~
+4682 1024 500 0 E
+7 16 9 3d5+85 2d6+1
+50 400 3
+8 8 1 0
+BareHandAttack: 8
+E
+#4005
+bear male brown~
+a large brown bear~
+A large brown bear sleeps contentedly here.
+~
+Nothing.
+~
+106 1024 0 0 E
+4 18 7 2d25+0 3d7+1
+0 50 0
+4 4 1 0
+BareHandAttack: 8
+E
+#4006
+bear female~
+a female brown bear~
+A female brown bear sleeps here.
+~
+Nothing.
+~
+10 1024 300 0 E
+4 18 7 2d25+0 3d7+1
+0 50 0
+4 4 2 0
+BareHandAttack: 8
+E
+#4007
+deer male buck~
+a male deer~
+A large male deer looks up from eating as you approach.
+~
+   A large buck stands here eating.  He has a deep brown coat and his antlers
+have 5 tines on each side.  He looks up at you warily, slowly chewing the grass
+in his mouth.    
+~
+200 0 0 500 E
+5 17 11 2d5+65 2d5+0
+5 85 0
+8 8 1 0
+BareHandAttack: 11
+E
+#4008
+deer doe female~
+a female deer~
+A petite doe stands here, watching you intently.
+~
+   A petite doe stands here.  She has a light brown coat with a long scar
+running down her flank.    
+~
+200 0 0 400 E
+5 17 11 2d5+65 2d5+0
+5 85 0
+8 8 2 0
+BareHandAttack: 4
+E
+#4061
+gravedigger dirty clothes~
+a gravedigger~
+A gravedigger stands here, waiting patiently.
+~
+It looks unfinished.
+~
+6158 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 0
+E
+#4063
+man mourns dark clothes~
+a man in dark clothes~
+A man in dark clothes mourns in silence.
+~
+It looks unfinished.
+~
+9437194 8 0 0 E
+17 10 -1 3d20+340 3d6+5
+619 11800 0
+8 8 0 0
+E
+$

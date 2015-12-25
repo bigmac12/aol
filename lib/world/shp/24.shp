@@ -1,0 +1,110 @@
+CircleMUD v3.0 Shop File~
+#2457~
+2400
+2403
+2404
+2401
+2402
+2405
+2406
+2407
+2409
+2410
+2411
+2412
+2414
+2416
+2417
+2420
+2421
+2423
+2424
+2425
+2426
+2430
+2450
+-1
+1.50
+0.50
+5
+9
+1
+19
+11
+15
+4
+8
+-1
+%s Sorry, that's not on my shelves.  If you thought you saw it, it might be because someone accidently found it or borrowed it.  Try again later, and it might be back.~
+%s I can't buy something you don't have!~
+%s No thank you. I don't have much of a need for that, though if you visit the gnomes, they might.~
+%s That's an awfully expensive item.  I can't afford it.  Hold on tight to that though, there are a lot of thieves in the world!~
+%s You have no money!  How do you expect to buy anything?~
+%s Good choice!  My Uncle Trapspringer gave that to me!  Because he did, I'll have to charge %s for it.  Sentimental value and all.~
+%s WOW!!  I've been looking for one of those for a LONG TIME!  How about %s for that!~
+0
+2
+2408
+0
+2457
+-1
+6
+20
+0
+0
+1
+38
+#2490~
+2427
+-1
+1.50
+0.50
+12
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+2409
+0
+2490
+-1
+0
+28
+0
+0
+1
+38
+#2495~
+2471
+2472
+-1
+1.00
+0.60
+12map
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+3
+2495
+0
+2495
+-1
+0
+28
+0
+0
+1
+38
+$~

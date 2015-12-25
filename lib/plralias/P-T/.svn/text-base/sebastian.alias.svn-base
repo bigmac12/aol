@@ -1,0 +1,145 @@
+8
+strength
+24
+cast enhance-strength $1
+1
+7
+conceal
+25
+cast conceal-alignment me
+0
+8
+protelem
+28
+cast protection-from-elem $1
+1
+5
+wrath
+20
+cast divine-wrath $1
+1
+3
+asd
+12
+assist brian
+0
+5
+feast
+17
+cast heroes-feast
+0
+7
+protfir
+28
+cast protection-from-fire me
+0
+7
+protfro
+29
+cast protection-from-frost me
+0
+3
+gcc
+20
+get all.coins corpse
+0
+3
+ccl
+14
+cast cure-l $1
+1
+3
+ccm
+14
+cast cure-m $1
+1
+3
+ccs
+14
+cast cure-s $1
+1
+3
+ccw
+20
+cast create-water $1
+1
+3
+ccf
+16
+cast create-food
+0
+6
+cwater
+20
+cast create-water $1
+1
+5
+cfood
+16
+cast create-food
+0
+3
+cms
+18
+cast magical-stone
+0
+8
+teleport
+16
+cast teleport $1
+1
+3
+aid
+11
+cast aid $1
+1
+5
+mvest
+24
+cast magical-vestment $1
+1
+4
+sanc
+25
+cast greater-sanctuary $1
+1
+1
+r
+4
+rest
+0
+3
+gac
+14
+get all corpse
+0
+2
+sc
+5
+score
+0
+4
+agcc
+24
+get all.coins all.corpse
+0
+4
+agac
+18
+get all all.corpse
+0
+6
+hammer
+21
+cast spiritual-hammer
+0
+3
+cml
+16
+cast magic-light
+0
+3
+cda
+21
+cast detect-alignment
+0

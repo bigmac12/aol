@@ -1,0 +1,2461 @@
+#1500
+Approaching the Library~
+   This wide and well-used walkway leads to the famed library of Palanthas.  
+The paving stones used to cover it are made of a hard, white rock and were cut
+with such precision that there is only a hair wide crack where they meet.  A
+row of hedges runs along both sides of the walkway interrupted occasionally by
+a bench made of the same material as the paving stones.    
+~
+15 0 0 0 0
+D0
+~
+~
+0 0 1501
+D2
+~
+~
+0 0 1596
+S
+#1501
+The Library Doors~
+   Before you a set of double doors made from a lightly colored wood arch up
+well over your head.  Wide bands of black iron criss-cross the doors forming an
+intricate geometric pattern.  The walkway you were on was been widened here to
+form a patio.  On both sides of the patio are benches set between slender stone
+columns that rise up to support the slab which provides shelter from the
+weather.  A large sign stands in front of the doors.    
+~
+15 12 0 0 0
+D0
+~
+doors~
+1 0 1506
+D2
+~
+~
+0 0 1500
+E
+sign large~
+   NOTICE :: All books contained within this building are the property of the
+Palanthas' Library.    
+~
+S
+#1502
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 40 0 0 0
+D0
+~
+~
+0 0 1511
+D1
+~
+~
+0 0 1503
+D2
+~
+door doors~
+1 0 -1
+D3
+~
+~
+0 0 -1
+S
+#1503
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1504
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1502
+D4
+~
+~
+0 0 -1
+D5
+~
+panel~
+1 1507 -1
+S
+#1504
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1513
+D1
+~
+~
+0 0 1505
+D3
+~
+~
+0 0 1503
+S
+#1505
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1506
+D3
+~
+~
+0 0 1504
+S
+#1506
+The Central Hallway~
+   This wide hallway runs the entire length of the library.  A thick carpet
+covers the floor absorbing the sound of your footsteps to keep from disturbing
+others who may be studying.  Along the hallway large shelves reach from the
+floor to the ceiling which soars over your head.  Looking along the hallway you
+can see a series of catwalks giving those who need to reach the upper shelves a
+means to do so.  The smell of dried glue and deteriorating paper permeates the
+area along with a haze of dust.  Directly to the west and east another hallway
+runs along the outside wall of the library.  In the center of the hallway
+facing the door is a large desk with a gnarled old man sitting behind it.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1515
+D1
+~
+~
+0 0 1507
+D2
+~
+doors~
+1 0 1501
+D3
+~
+~
+0 0 1505
+S
+#1507
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1508
+D3
+~
+~
+0 0 1506
+S
+#1508
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1517
+D1
+~
+~
+0 0 1509
+D3
+~
+~
+0 0 1507
+S
+#1509
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1510
+D3
+~
+~
+0 0 1508
+S
+#1510
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1519
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1509
+S
+#1511
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1520
+D1
+~
+~
+0 0 1512
+D2
+~
+~
+0 0 1502
+S
+#1512
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1513
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1511
+D4
+~
+~
+0 0 1582
+S
+#1513
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow passage here allows researchers to squeeze
+carefully between the shelves and reach over areas of the library without
+having to travel the main hallways.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1522
+D1
+~
+~
+0 0 1514
+D2
+~
+~
+0 0 1504
+D3
+~
+~
+0 0 1512
+S
+#1514
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1515
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1513
+D4
+~
+~
+0 0 1584
+S
+#1515
+The Central Hallway~
+   This wide hallway runs the entire length of the library.  A thick carpet
+covers the floor absorbing the sound of your footsteps to keep from disturbing
+others who may be studying.  Along the hallway large shelves reach from the
+floor to the ceiling which soars over your head.  Looking along the hallway you
+can see a series of catwalks giving those who need to reach the upper shelves a
+means to do so.  The smell of dried glue and deteriorating paper permeates the
+area along with a haze of dust.  A small sign stands in the middle of the hall
+here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1524
+D1
+~
+~
+0 0 1516
+D2
+~
+~
+0 0 1506
+D3
+~
+~
+0 0 1514
+E
+sign small~
+   To the east you can find books on the Kights of Solamnia.  To the west are
+books on mages and the conclave.    
+~
+S
+#1516
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1517
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1515
+D4
+~
+~
+0 0 1586
+D5
+~
+~
+0 0 -1
+S
+#1517
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow passage here allows researchers to squeeze
+carefully between the shelves and reach over areas of the library without
+having to travel the main hallways.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1526
+D1
+~
+~
+0 0 1518
+D2
+~
+~
+0 0 1508
+D3
+~
+~
+0 0 1516
+S
+#1518
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1519
+D3
+~
+~
+0 0 1517
+D4
+~
+~
+0 0 1588
+S
+#1519
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1528
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 1510
+D3
+~
+~
+0 0 1518
+S
+#1520
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1529
+D1
+~
+~
+0 0 1521
+D2
+~
+~
+0 0 1511
+S
+#1521
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1522
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1520
+D4
+~
+~
+0 0 1575
+S
+#1522
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow passage here allows researchers to squeeze
+carefully between the shelves and reach over areas of the library without
+having to travel the main hallways.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1531
+D1
+~
+~
+0 0 1523
+D2
+~
+~
+0 0 1513
+D3
+~
+~
+0 0 1521
+S
+#1523
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1524
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1522
+D4
+~
+~
+0 0 1577
+S
+#1524
+The Central Hallway~
+   This wide hallway runs the entire length of the library.  A thick carpet
+covers the floor absorbing the sound of your footsteps to keep from disturbing
+others who may be studying.  Along the hallway large shelves reach from the
+floor to the ceiling which soars over your head.  Looking along the hallway you
+can see a series of catwalks giving those who need to reach the upper shelves a
+means to do so.  The smell of dried glue and deteriorating paper permeates the
+area along with a haze of dust.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1533
+D1
+~
+~
+0 0 1525
+D2
+~
+~
+0 0 1515
+D3
+~
+~
+0 0 1523
+S
+#1525
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1526
+D3
+~
+~
+0 0 1524
+D4
+~
+~
+0 0 1579
+S
+#1526
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow passage here allows researchers to squeeze
+carefully between the shelves and reach over areas of the library without
+having to travel the main hallways.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1535
+D1
+~
+~
+0 0 1527
+D2
+~
+~
+0 0 1517
+D3
+~
+~
+0 0 1525
+S
+#1527
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1528
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1526
+D4
+~
+~
+0 0 1581
+S
+#1528
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1537
+D2
+~
+~
+0 0 1519
+D3
+~
+~
+0 0 1527
+S
+#1529
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1538
+D1
+~
+~
+0 0 1530
+D2
+~
+~
+0 0 1520
+S
+#1530
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1531
+D3
+~
+~
+0 0 1529
+D4
+~
+~
+0 0 1568
+S
+#1531
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow passage here allows researchers to squeeze
+carefully between the shelves and reach over areas of the library without
+having to travel the main hallways.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1540
+D1
+~
+~
+0 0 1532
+D2
+~
+~
+0 0 1522
+D3
+~
+~
+0 0 1530
+S
+#1532
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1533
+D3
+~
+~
+0 0 1531
+D4
+~
+~
+0 0 1570
+S
+#1533
+The Central Hallway~
+   This wide hallway runs the entire length of the library.  A thick carpet
+covers the floor absorbing the sound of your footsteps to keep from disturbing
+others who may be studying.  Along the hallway large shelves reach from the
+floor to the ceiling which soars over your head.  Looking along the hallway you
+can see a series of catwalks giving those who need to reach the upper shelves a
+means to do so.  The smell of dried glue and deteriorating paper permeates the
+area along with a haze of dust.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1542
+D1
+~
+~
+0 0 1534
+D2
+~
+~
+0 0 1524
+D3
+~
+~
+0 0 1532
+S
+#1534
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1535
+D3
+~
+~
+0 0 1533
+D4
+~
+~
+0 0 1572
+S
+#1535
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow passage here allows researchers to squeeze
+carefully between the shelves and reach over areas of the library without
+having to travel the main hallways.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1544
+D1
+~
+~
+0 0 1536
+D2
+~
+~
+0 0 1526
+D3
+~
+~
+0 0 1534
+S
+#1536
+Surrounded by Books~
+   Those books which are frequently refered to by those who study here are kept
+on the main floor of the library while those less often read are kept on higher
+shelves.  Many of these books have leather covers which have been polished to a
+bright shine by constant handling.  You can tell which books are most often
+read by the lack of dust on them.  Almost all of the books are smaller than the
+width of a mans hand.  A narrow and rickety ladder ascends up to a catwalk
+allowing those so inclinded to easily reach the upper shelves.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1537
+D3
+~
+~
+0 0 1535
+D4
+~
+~
+0 0 1574
+S
+#1537
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1546
+D2
+~
+~
+0 0 1528
+D3
+~
+~
+0 0 1536
+S
+#1538
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1539
+D2
+~
+~
+0 0 1529
+S
+#1539
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Those who spend a
+lot of time here, and know their way around well enough to keep from getting
+lost, prefer using this hall over the central hall since only a few people
+wander it.  The same thick carpet as in the central hall continues to cover the
+floor but it shows more wear here.  A small door in the northern wall leads
+into a storage area where new books or books that the library have just
+received but not cataloged yet are stored.    
+~
+15 8 0 0 0
+D0
+~
+door~
+1 0 1547
+D1
+~
+~
+0 0 1540
+D3
+~
+~
+0 0 1538
+S
+#1540
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1541
+D2
+~
+~
+0 0 1531
+D3
+~
+~
+0 0 1539
+S
+#1541
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1542
+D3
+~
+~
+0 0 1540
+S
+#1542
+The Central Hallway~
+   This wide hallway runs the entire length of the library.  A thick carpet
+covers the floor absorbing the sound of your footsteps to keep from disturbing
+others who may be studying.  Along the hallway large shelves reach from the
+floor to the ceiling which soars over your head.  Looking along the hallway you
+can see a series of catwalks giving those who need to reach the upper shelves a
+means to do so.  The smell of dried glue and deteriorating paper permeates the
+area along with a haze of dust.  Directly to the west and east another hallway
+runs along the outside wall of the library.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1543
+D2
+~
+~
+0 0 1533
+D3
+~
+~
+0 0 1541
+S
+#1543
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1544
+D3
+~
+~
+0 0 1542
+S
+#1544
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1545
+D2
+~
+~
+0 0 1535
+D3
+~
+~
+0 0 1543
+S
+#1545
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Those who spend a
+lot of time here, and know their way around well enough to keep from getting
+lost, prefer using this hall over the central hall since only a few people
+wander it.  The same thick carpet as in the central hall continues to cover the
+floor but it shows more wear here.  A small door in the northern wall leads
+into a storage area where new books or books that the library have just
+received but not cataloged yet are stored.    
+~
+15 8 0 0 0
+D0
+~
+door~
+1 0 1553
+D1
+~
+~
+0 0 1546
+D3
+~
+~
+0 0 1544
+S
+#1546
+The Outer Hallway~
+   This hallway follows the outside wall around the library.  Tables are
+scattered along its route for people to sit at and do their reading.  Those who
+spend a lot of time here, and know their way around well enough to keep from
+getting lost, prefer using this hall over the central hall since only a few
+people wander it.  Every once and awhile you notice a glob of melted candle wax
+on one of the tables which gives evidence that someone has spent many hours
+during the night here reading a favorite text.  The same thick carpet as in the
+central hall continues to cover the floor but it shows more wear here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 1537
+D3
+~
+~
+0 0 1545
+S
+#1547
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 12 0 0 0
+D1
+~
+~
+0 0 1548
+D2
+~
+door~
+1 0 1539
+D3
+~
+~
+0 0 -1
+D7
+~
+~
+0 0 1554
+E
+candelabra~
+   This massive iron monstrosity is capable of holding nearly twenty candles at
+one time.  It seems to loom over you as you study it.    
+~
+E
+crate~
+   This wooden box is filled with blank sheets of paper waiting to be written
+on.    
+~
+S
+#1548
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1549
+D3
+~
+~
+0 0 1547
+D7
+~
+~
+0 0 1555
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crates crate~
+   This wooden box is filled with blank sheets of paper waiting to be written
+on.    
+~
+S
+#1549
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1550
+D3
+~
+~
+0 0 1548
+D6
+~
+~
+0 0 1554
+D7
+~
+~
+0 0 1556
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crates crate~
+   This wooden box is filled with blank sheets of paper waiting to be written
+on.    
+~
+S
+#1550
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1551
+D3
+~
+~
+0 0 1549
+D6
+~
+~
+0 0 1555
+D7
+~
+~
+0 0 1557
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crate crates~
+This wooden box is filled with blank sheets of paper waiting to be written on.
+~
+S
+#1551
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1552
+D3
+~
+~
+0 0 1550
+D6
+~
+~
+0 0 1556
+D7
+~
+~
+0 0 1558
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crate crates~
+   This wooden box is filled with blank sheets of paper waiting to be written
+on.    
+~
+S
+#1552
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1553
+D3
+~
+~
+0 0 1551
+D6
+~
+~
+0 0 1557
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crate crates~
+This wooden box is filled with blank sheets of paper waiting to be written on.
+~
+S
+#1553
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several windows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 12 0 0 0
+D2
+~
+door~
+1 0 1545
+D3
+~
+~
+0 0 1552
+D6
+~
+~
+0 0 1558
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crate crates~
+This wooden box is filled with blank sheets of paper waiting to be written on.
+~
+S
+#1554
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1555
+D8
+~
+~
+0 0 1547
+D9
+~
+~
+0 0 1549
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crate crates~
+This wooden box is filled with blank sheets of paper waiting to be written on.
+~
+S
+#1555
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1556
+D3
+~
+~
+0 0 1554
+D8
+~
+~
+0 0 1548
+D9
+~
+~
+0 0 1550
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crate crates~
+This wooden box is filled with blank sheets of paper waiting to be written on.
+~
+S
+#1556
+A Cluttered Storage Area~
+   No desks or boxes clutter this area.  Instead a wide, wooden staircase goes
+down into a cellar.  A cool, moist draft slowly wafts it's way up the staircase
+carrying a slight odor of mildew with it.  On each side of the stairway stands
+another candelabra to provide light for those unfortunate souls who have to
+travel down into the bowels of the library.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1557
+D3
+~
+~
+0 0 1555
+D5
+~
+~
+0 0 1560
+D8
+~
+~
+0 0 1549
+D9
+~
+~
+0 0 1551
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+S
+#1557
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1558
+D3
+~
+~
+0 0 1556
+D8
+~
+~
+0 0 1550
+D9
+~
+~
+0 0 1552
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crate crates~
+This wooden box is filled with blank sheets of paper waiting to be written on.
+~
+S
+#1558
+A Cluttered Storage Area~
+   A scattering of desks covered with different books fill the area.  This is
+where new books are inventoried and cataloged before being placed on the
+shelves and where older texts are copied to preserve their knowledge.  In the
+middle of the room is a neat orderly stack of crates.  Several widows set into
+the roof overhead allow light to fill the room during the daytime while a huge
+candelabra provides light during the night.    
+~
+15 8 0 0 0
+D3
+~
+~
+0 0 1557
+D8
+~
+~
+0 0 1551
+D9
+~
+~
+0 0 1553
+E
+candelabra~
+This massive iron monstrosity is capable of holding nearly twenty candles at one time.  It seems to loom over you as you study it.
+~
+E
+crate crates~
+This wooden box is filled with blank sheets of paper waiting to be written on.
+~
+S
+#1559
+An Underground Storage Area~
+   The air in this cellar is always cool and moist making it the perfect place
+to store the books which are begining to deteriorate.  Several small shelves
+and tables fill the area each covered with a multitude of ancient tomes.  As
+you wander around the area, you can feel the moisture condensing on your skin.
+  
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1560
+D2
+~
+~
+0 0 1562
+S
+#1560
+An Underground Storage Area~
+   The air in this cellar is always cool and moist making it the perfect place
+to store the books which are begining to deteriorate.  Several small shelves
+and tables fill the area each covered with a multitude of ancient tomes.  As
+you wander around the area, you can feel the moisture condensing on your skin.
+A wooden staircase wide enough for several people to walk abreast ascends to
+the first floor of the library here.    
+~
+15 12 0 0 0
+D1
+~
+~
+0 0 1561
+D2
+~
+~
+0 0 1563
+D3
+~
+~
+0 0 1559
+D4
+~
+~
+0 0 1556
+S
+#1561
+An Underground Storage Area~
+   The air in this cellar is always cool and moist making it the perfect place
+to store the books which are begining to deteriorate.  Several small shelves
+and tables fill the area each covered with a multitude of ancient tomes.  As
+you wander around the area, you can feel the moisture condensing on your skin.
+  
+~
+15 8 0 0 0
+D2
+~
+~
+0 0 1564
+D3
+~
+~
+0 0 1560
+S
+#1562
+An Underground Storage Area~
+   The air in this cellar is always cool and moist making it the perfect place
+to store the books which are begining to deteriorate.  Several small shelves
+and tables fill the area each covered with a multitude of ancient tomes.  As
+you wander around the area, you can feel the moisture condensing on your skin.
+  
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1559
+D1
+~
+~
+0 0 1563
+D2
+~
+~
+0 0 1565
+S
+#1563
+An Underground Storage Area~
+   The air in this cellar is always cool and moist making it the perfect place
+to store the books which are begining to deteriorate.  Several small shelves
+and tables fill the area each covered with a multitude of ancient tomes.  As
+you wander around the area, you can feel the moisture condensing on your skin.
+  
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1560
+D1
+~
+~
+0 0 1564
+D2
+~
+~
+0 0 1566
+D3
+~
+~
+0 0 1562
+S
+#1564
+An Underground Storage Area~
+   The air in this cellar is always cool and moist making it the perfect place
+to store the books which are begining to deteriorate.  Several small shelves
+and tables fill the area each covered with a multitude of ancient tomes.  As
+you wander around the area, you can feel the moisture condensing on your skin.
+  
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1561
+D2
+~
+~
+0 0 1567
+D3
+~
+~
+0 0 1563
+S
+#1565
+An Underground Storage Area~
+   The air in this cellar is always cool and moist making it the perfect place
+to store the books which are begining to deteriorate.  Several small shelves
+and tables fill the area each covered with a multitude of ancient tomes.  As
+you wander around the area, you can feel the moisture condensing on your skin.
+  
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1562
+D1
+~
+~
+0 0 1566
+S
+#1566
+An Underground Storage Area~
+   The air in this cellar is always cool and moist making it the perfect place
+to store the books which are begining to deteriorate.  Several small shelves
+and tables fill the area each covered with a multitude of ancient tomes.  As
+you wander around the area, you can feel the moisture condensing on your skin.
+  
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1563
+D1
+~
+~
+0 0 1567
+D3
+~
+~
+0 0 1565
+S
+#1567
+An Underground Storage Area~
+   The air in this cellar is always cool and moist making it the perfect place
+to store the books which are begining to deteriorate.  Several small shelves
+and tables fill the area each covered with a multitude of ancient tomes.  As
+you wander around the area, you can feel the moisture condensing on your skin.
+  
+~
+15 8 0 0 0
+D0
+~
+~
+0 0 1564
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 1566
+S
+#1568
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1569
+D3
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 1530
+S
+#1569
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1570
+D3
+~
+~
+0 0 1568
+S
+#1570
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1571
+D3
+~
+~
+0 0 1569
+D5
+~
+~
+0 0 1532
+S
+#1571
+Surrounded by Books~
+   This part of the catwalk crosses over the central hallway of the library
+connecting the two sides of the library together.  Looking down you can see
+others roaming through the library.  To both the east and west, shelves reach
+from the floor to the ceiling for as far as you can see.  Directly above you, a
+window in the roof lets in the daylight to illuminate the area.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1572
+D3
+~
+~
+0 0 1570
+S
+#1572
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1573
+D3
+~
+~
+0 0 1571
+D5
+~
+~
+0 0 1534
+S
+#1573
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1574
+D3
+~
+~
+0 0 1572
+S
+#1574
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D3
+~
+~
+0 0 1573
+D5
+~
+~
+0 0 1536
+S
+#1575
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1576
+D5
+~
+~
+0 0 1521
+S
+#1576
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1577
+D3
+~
+~
+0 0 1575
+S
+#1577
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1578
+D3
+~
+~
+0 0 1576
+D5
+~
+~
+0 0 1523
+S
+#1578
+Surrounded by Books~
+   This part of the catwalk crosses over the central hallway of the library
+connecting the two sides of the library together.  Looking down you can see
+others roaming through the library.  To both the east and west, shelves reach
+from the floor to the ceiling for as far as you can see.  Directly above you, a
+window in the roof lets in the daylight to illuminate the area.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1579
+D3
+~
+~
+0 0 1577
+S
+#1579
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1580
+D3
+~
+~
+0 0 1578
+D5
+~
+~
+0 0 1525
+S
+#1580
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1581
+D3
+~
+~
+0 0 1579
+S
+#1581
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D3
+~
+~
+0 0 1580
+D5
+~
+~
+0 0 1527
+S
+#1582
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1583
+D5
+~
+~
+0 0 1512
+S
+#1583
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1584
+D3
+~
+~
+0 0 1582
+S
+#1584
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1585
+D3
+~
+~
+0 0 1583
+D5
+~
+~
+0 0 1514
+S
+#1585
+Surrounded by Books~
+   This part of the catwalk crosses over the central hallway of the library
+connecting the two sides of the library together.  Looking down you can see
+others roaming through the library.  To both the east and west, shelves reach
+from the floor to the ceiling for as far as you can see.  Directly above you, a
+window in the roof lets in the daylight to illuminate the area.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1586
+D3
+~
+~
+0 0 1584
+S
+#1586
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1587
+D3
+~
+~
+0 0 1585
+D5
+~
+~
+0 0 1516
+S
+#1587
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.    
+~
+15 8 0 0 0
+D1
+~
+~
+0 0 1588
+D3
+~
+~
+0 0 1586
+S
+#1588
+Surrounded by Books~
+   Those tomes which are seldom referenced are stored here on the highest
+shelves in the library.  A thick layer of dust covers everything and flies up
+into the air when it is disturbed by your footsteps.  Shelves surround you to
+both the north and south.  Each shelf filled almost to the point of overflowing
+with books of different sizes and colors.  The thinnest book you can see right
+off is as wide as your hand while the thickest would make a fat man look thin.
+Perhaps these books are seldom referenced because of the effort that would be
+needed to move them....  Hmmmmm.  A narrow and rickety ladder descends to the
+main floor of the library through a hole cut into the catwalk here.    
+~
+15 8 0 0 0
+D3
+~
+~
+0 0 1587
+D5
+~
+~
+0 0 1518
+S
+#1589
+Approaching The Library~
+   This wide and well-used walkway leads to the famed library of Palanthas.  
+The paving stones used to cover it are made of a hard, white rock and were cut
+with such precision that there is only a hair wide crack where they meet.  A
+row of hedges runs along both sides of the walkway interrupted occasionally by
+a bench made of the same material as the paving stones.    
+~
+15 4 0 0 0
+D0
+~
+~
+0 0 2023
+D8
+~
+~
+0 0 1590
+D9
+~
+~
+0 0 1591
+S
+#1590
+Approaching The Library~
+   This wide and well-used walkway leads to the famed library of Palanthas.  
+The paving stones used to cover it are made of a hard, white rock and were cut
+with such precision that there is only a hair wide crack where they meet.  A
+row of hedges runs along both sides of the walkway interrupted occasionally by
+a bench made of the same material as the paving stones.    
+~
+15 0 0 0 0
+D7
+~
+~
+0 0 1589
+D8
+~
+~
+0 0 1592
+S
+#1591
+Approaching The Library~
+   This wide and well-used walkway leads to the famed library of Palanthas.  
+The paving stones used to cover it are made of a hard, white rock and were cut
+with such precision that there is only a hair wide crack where they meet.  A
+row of hedges runs along both sides of the walkway interrupted occasionally by
+a bench made of the same material as the paving stones.    
+~
+15 0 0 0 0
+D6
+~
+~
+0 0 1589
+D9
+~
+~
+0 0 1593
+S
+#1592
+Approaching The Library~
+   This wide and well-used walkway leads to the famed library of Palanthas.  
+The paving stones used to cover it are made of a hard, white rock and were cut
+with such precision that there is only a hair wide crack where they meet.  A
+row of hedges runs along both sides of the walkway interrupted occasionally by
+a bench made of the same material as the paving stones.    
+~
+15 0 0 0 0
+D7
+~
+~
+0 0 1590
+D9
+~
+~
+0 0 1594
+S
+#1593
+Approaching The Library~
+   This wide and well-used walkway leads to the famed library of Palanthas.  
+The paving stones used to cover it are made of a hard, white rock and were cut
+with such precision that there is only a hair wide crack where they meet.  A
+row of hedges runs along both sides of the walkway interrupted occasionally by
+a bench made of the same material as the paving stones.    
+~
+15 0 0 0 0
+D6
+~
+~
+0 0 1591
+D8
+~
+~
+0 0 1595
+S
+#1594
+Approaching The Library~
+   This wide and well-used walkway leads to the famed library of Palanthas.  
+The paving stones used to cover it are made of a hard, white rock and were cut
+with such precision that there is only a hair wide crack where they meet.  A
+row of hedges runs along both sides of the walkway interrupted occasionally by
+a bench made of the same material as the paving stones.    
+~
+15 0 0 0 0
+D6
+~
+~
+0 0 1592
+D9
+~
+~
+0 0 1596
+S
+#1595
+Approaching The Library~
+   This wide and well-used walkway leads to the famed library of Palanthas.  
+The paving stones used to cover it are made of a hard, white rock and were cut
+with such precision that there is only a hair wide crack where they meet.  A
+row of hedges runs along both sides of the walkway interrupted occasionally by
+a bench made of the same material as the paving stones.    
+~
+15 0 0 0 0
+D7
+~
+~
+0 0 1593
+D8
+~
+~
+0 0 1596
+S
+#1596
+Approaching The Library~
+   This wide and well-used walkway leads to the famed library of Palanthas.  
+The paving stones used to cover it are made of a hard, white rock and were cut
+with such precision that there is only a hair wide crack where they meet.  A
+row of hedges runs along both sides of the walkway interrupted occasionally by
+a bench made of the same material as the paving stones.    
+~
+15 0 0 0 0
+D0
+~
+~
+0 0 1500
+D6
+~
+~
+0 0 1594
+D7
+~
+~
+0 0 1595
+S
+$~

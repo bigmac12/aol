@@ -1,0 +1,674 @@
+#11400
+commander blockade~
+the blockade commander~
+The commander of the blockade stands by the map table reviewing trade routes.
+~
+   This hulking minotaur was selected to command the blockade for his keen
+intelligence and brute strength.  He uses both his sharpened steel and mind in
+battle to always emerge victorious.  Therefore he was the natural choice for
+securing the frontier.    
+~
+82010 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+E
+#11401
+sentry~
+a sentry~
+Standing alert at his post, the sentry constantly scans the highway for travellers.
+~
+   Eyes opened wide and constantly scanning the area, the sentry stands at his
+post ready to act on a moment's notice.  He shifts his weight occasionally, the
+muscles in his legs rippling under his short dark fur.  Two shining horns
+protrude from his temple.  Each is highly polished and has been sharpened to a
+lethal point.    
+~
+82010 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 0
+BareHandAttack: 13
+E
+#11402
+patrolman patrol man~
+a patrolman~
+Poised for action, the patrolman keeps a watchful eye on all passerbys.
+~
+   Always eager for a fight, this hulking minotaur returns your gaze with a
+malicious grin.  His bicep ripples as he moves his hand instinctively to his
+weapon.  He wears simple, leather armor so as not to confine his movement
+during battles.    
+~
+16392 0 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 1 0
+BareHandAttack: 6
+E
+#11403
+minotaur drunken drunk~
+a drunken minotaur~
+A drunken minotaur sits slumped on the ground.
+~
+   Sitting slumped on the ground, this member of the blockade team seems to
+have enjoyed one too many kegs of ale.  His eyes are only half opened, though a
+certain amount of awareness still flickers in them.  He hiccups every now and
+then as he mutters about his past glories in the arena.    
+~
+74 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+6 6 1 0
+E
+#11410
+Caera~
+Caera~
+Caera sits behind the table, reviewing her ledger.
+~
+   Your eyes fall upon a rather homely woman.  She is not ugly but very plain.
+Her dirty-blonde hair is tied at the base of her neck.  Several strands fall in
+her face as she bends over her ledger.  What strikes you about this woman is
+her impressive build.  Her baggy tunic and leggings do little to hide her
+powerful muscles.  She returns your gaze momentarily then returns to her work.
+~
+7340042 235024384 0 0 E
+30 12 -14 8d33+1700 4d8+12
+1300 250000 0
+8 8 2 3
+BareHandAttack: 6
+E
+#11411
+camper happy~
+a happy camper~
+A camper explores the area, looking for a good place to pitch his tent.
+~
+   Looking a little tired and ready to rest for the night, this camper still
+maintains an upbeat expression.  His weathered skin is deeply tanned from hours
+spent outdoors, and he is loaded down with gear which he wears strapped to his
+back.  A warm smile spreads across his face as he sees you looking his way, and
+he nods slightly in greeting.    
+~
+1048588 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 0
+8 8 1 0
+E
+#11412
+guard patrol~
+a patrol guard~
+A well-built guard wanders the wagonyard, looking ever vigilant at his post.
+~
+   The guard notices you looking his way and offers a slight nod as he sizes
+you up.  His large hazel eyes scan the wagonyard looking for signs of trouble.
+His right hand rests on the hilt of his sword, poised for action at a moment's
+notice.    
+~
+3213338 0 0 0 E
+23 6 -7 3d33+650 3d8+8
+1200 52000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#11420
+squire young~
+a squire~
+A young squire, dressed for travelling, prepares to run an errand to the Keep.
+~
+   This young squire has already grown his long solamnic-styled moustache.  He
+has a rather serious expression on his face as he prepares to make his way back
+to Thelgaard Keep on some errand.  He is not dressed in full armor but rather
+lighter gear generally worn for travel during times of relative peace.    
+~
+28680 0 0 0 E
+9 15 7 5d5+130 2d7+1
+200 1300 0
+8 8 1 0
+E
+#11421
+knight patrolling patrol~
+a patrolling knight~
+A stern-looking knight patrols the area.
+~
+   Constantly scanning the area with alert eyes, this young knight takes his
+post quite seriously.  He notices you looking in his direction, and nods at you
+casually.  Returning his gaze to the surrounding area, you cannot help but feel
+that he is still well aware of every move you make.    
+~
+192536 0 0 850 E
+11 14 5 5d4+190 2d8+2
+400 2900 0
+8 8 2 0
+E
+#11422
+knight stern-faced stern~
+a stern-faced knight~
+A stern-faced knight rests by the fire a moment before returning to his post.
+~
+   Looking a bit weary yet still alert, this young knight takes a few moment's
+rest by the fire before returning to his post.  He sports a long solamnic
+moustache and a stern expression, both common to knights of his rank.  His hand
+sits on the hilt of his sword, remaining ever vigilant even during his brief
+rest.    
+~
+9498696 0 0 800 E
+20 8 -4 3d20+440 3d7+6
+1000 25000 3
+5 5 1 0
+BareHandAttack: 13
+E
+#11423
+chief garrison~
+the chief of the garrison~
+The chief of the garrison prepares his dispatches to Thelgaard.
+~
+   The tanned face of this man is creased with lines which would seem to
+indicate his age.  His body, however, is still that of a trained warrior.  
+Even through his armor, it is easy to see his strong build.  He looks back at
+you with a well-trained eye, seeming to assess both your intentions and your
+abilities.    
+~
+7430170 0 0 850 E
+28 2 -12 3d33+1250 4d7+9
+1700 175000 3
+8 8 1 0
+BareHandAttack: 6
+E
+T 11420
+#11430
+elven guardian sentinel elf~
+an elven guard~
+A slender elf blends into the the surroundings.
+~
+   The elven guard seems to be barely paying attention,but at the slightest
+noise cocks his head in the direction it has come from.  He obviously takes his
+job more seriously then it appears at first glance . His clothing is a mixture
+of green and brown hues and seems to blend into the background almost
+effortlessly.    
+~
+16394 33824 0 500 E
+13 13 3 6d5+240 2d9+2
+200 6625 4
+8 8 1 0
+BareHandAttack: 11
+E
+T 11432
+#11431
+chipmunk~
+a chipmunk~
+A chipmunk scurries away from travellers.
+~
+   The chipmunk has brown and black stripes running down his back, His small
+bushy tail flicks back and forth as he scans the area for any signs of danger.
+  
+~
+16584 295936 0 0 E
+12 13 4 5d6+210 2d8+3
+120 4700 4
+8 8 0 0
+BareHandAttack: 8
+E
+#11432
+puppies wolf pup dog~
+wolf puppy~
+A small wolf puppy cowers away.
+~
+   The wolf looks to be the runt of the litter and shakes at the slightest
+sound.  His dark brown fur is laid flat along the nape of his neck and his tail
+curls between his legs showing a sign of submission.    
+~
+2186 32800 0 0 E
+9 15 7 5d5+130 2d7+1
+1 1300 3
+8 8 0 0
+BareHandAttack: 4
+E
+#11433
+wolf male puppy~
+the male wolf puppy~
+A larger wolf growls lowly here.
+~
+   The wolf pup looks as if he is ready to fight any and all who would dare to
+enter his den.  His black fur has streaks of brown and grey giving him an
+almost camoflage look to his body.  His teeth glisten as his lip curls back and
+a low growl rumbles from his chest.    
+~
+2186 295968 0 0 E
+14 12 2 6d8+240 2d8+4
+140 7000 3
+8 8 0 0
+BareHandAttack: 4
+E
+T 11435
+#11434
+elf elven warrior chief wise~
+an elven warrior chief~
+A wise looking elf stands in the shadows.
+~
+   The elven chieftan for this camp seems to exude an aura of confidence and
+calm.  He has seen many battles and survived them all by his wits and skill.  
+His clothing is a mixture of greens and browns making him hard to see from even
+a few feet away.    
+~
+1050906 267300 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 1 0
+BareHandAttack: 3
+E
+T 11437
+#11435
+elf elven warrior hunter~
+an elven hunter~
+An elven hunter-warrior rests here.
+~
+   The elven warrior looks to be a being of great skill and prowess with the
+weapon that he chooses.  His rugged good looks and the lean muscle tone makes
+him seem to glide when he moves.  Anything or anyone this hunter seeks is sure
+to stand no chance against him.    
+~
+1067032 295968 0 200 E
+14 12 2 6d8+240 2d8+4
+300 7000 6
+8 8 1 0
+E
+#11440
+farmer farm~
+a farmer~
+A solamnic farmer rakes the grain off the ground.
+~
+   This dusty old man eyes look energetic and hopefull.  His arms and legs flex
+with strong muscles with each pull of his rake.  A large straw hat shades his
+eyes from the constant beating of the sun.    
+~
+8 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+E
+T 11440
+#11441
+scare crow scarecrow animated ~
+an animated scarecrow~
+This once docile scarecrow lunges at you.
+~
+   Enraged by your presence this scarecrow comes to life.  Its soft cloth
+gloves seem to turn into blade wielding gloves.  With one massive swipe it
+attempts to take your head off!    
+~
+42 0 0 -1000 E
+16 11 0 3d20+320 3d6+4
+700 11000 0
+8 8 0 0
+E
+#11442
+mill worker~
+a strong-looking mill worker~
+A strong mill worker lifts heavy bags of grain.
+~
+   Sweat pours down this nearly tortured worker.  His arm ripple with strength
+with each new step taken.  A pair of googles cover his sweat covered face to
+prevent any sweat from entering his eyes.    
+~
+8 67108864 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 1 0
+BareHandAttack: 13
+E
+#11443
+farmer stranded~
+a farmer~
+A stranded farmer looks for his wheel.
+~
+   This poor frustrated man's face is flustered and red with anger.  He kicks
+and stomps at the dirt around knowing very well he is late for his meetings at
+the mill.    
+~
+10 0 0 0 E
+14 13 3 6d5+240 2d9+2
+300 6625 0
+8 8 1 0
+E
+#11444
+mill manager~
+the mill manager~
+The manager of this mill is yelling out orders.
+~
+   This heavily burdoned man is covered in beads of sweat and grain.  His arms
+ripple with strength and stamina.  His eyes are glazed from lack of sleep, and
+his voice wavers from giving out to many orders.    
+~
+8 0 0 100 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+BareHandAttack: 13
+E
+#11454
+lioness white~
+a white lioness~
+A graceful, white lioness patrols back and forth along the mountain path.
+~
+   Pacing along the edge of the path, this lioness keeps a vigilant watch on
+the nearby path.  Her smooth coat is a pale shade of yellow that is nearly
+white in color.  Her keen eyes are a light, icy shade of blue.  Each graceful
+step she takes seems to highlight her strong body which has been trained with
+one purpose in mind: the kill.    
+~
+1077320 0 0 0 E
+16 11 0 3d20+320 3d6+4
+0 11000 0
+8 8 2 0
+BareHandAttack: 9
+E
+#11455
+Lythia lyth priestess~
+Lythia~
+Lythia stands behind a stone table that is stained red with blood.
+~
+   Lythia is a lithe woman who looks as though she is beginning to approach the
+autumn of her life.  Her olive skin has seen the passage of many summers, as is
+evidenced by many wrinkles and creases.  Her facial features are large, almost
+too large, yet they give her an exotic appearance that would be considered
+attractive by most.  She is dressed in a simple white toga that is tied at the
+waist with a purple cord.    
+~
+7593994 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 1 2
+8 8 2 0
+E
+T 11455
+T 11456
+T 11453
+#11456
+guard woman large~
+a rather large woman~
+A rather large woman lounges across her bunk.
+~
+   Standing easily six feet in height, this woman is an impressive specimen
+indeed.  Her olive skin appears as though it is stretched to its limits over
+her thick muscles.  Her face is an unchanging mask of apathy.  Dressed in a
+short leather skirt and studded leather brassiere, she lounges across her bunk,
+most likely resting before returning to her post.    
+~
+5337098 0 0 0 E
+20 8 -4 3d20+500 3d7+6
+0 25000 3
+5 5 2 0
+E
+#11457
+woman olive skinned~
+an olive skinned woman with delicate features~
+An olive skinned woman sits cross-legged on one of the bunks, chanting quietly to herself.
+~
+   This olive skinned woman is clad in a simple white toga which is tied at the
+waist by a purple cord.  Her face is graced with delicate features, save for
+her eyes which are large and quite round.  She is slight of build and rather
+petite.  Her hair, which is the dark brown of rich, fertile soil, extends down
+her back in a twist which is tied with several short lengths of purple cord.  
+~
+28682 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+707 17000 2
+5 5 2 0
+E
+#11458
+guard woman large~
+a rather large woman~
+A rather large woman guards passage to the north.
+~
+   Standing easily six feet in height, this woman is an impressive specimen
+indeed.  Her olive skin appears as though it is stretched to its limits over
+her thick muscles.  Her face is an unchanging mask of apathy.  Dressed in a
+short leather skirt and studded leather brassiere, she stands motionless, her
+large frame blocking passage through the doorway in the north wall.    
+~
+15818778 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 3
+8 8 2 0
+E
+#11459
+Hapaloseus Hapa Hapal seer~
+Hapaloseus~
+Hapaloseus stands in the corner, her back toward the entryway.
+~
+   Hapaloseus turns to face you and your eyes are immediately drawn to hers.  
+They are large and almost perfectly rounded.  Pale blue irises form an almost
+ethereal ring around large pupils which rather dialated.  She is rather petite,
+both in height and weight yet her bearing is such that she commands your
+complete attention.  She is dressed in a simple white toga which is tied at the
+waist with a purple cord.    
+~
+7593994 33685504 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 1 0
+8 8 0 0
+BareHandAttack: 6
+E
+T 11459
+T 11454
+#11460
+king lizard man lizard-man lizardman bakili~
+the Lizard Man King~
+An extremely large lizard man, decorated in a barbaric fashion sits upon his throne.
+~
+It looks unfinished.
+~
+1271882 0 0 -850 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+6 8 1 0
+BareHandAttack: 8
+E
+#11461
+lizard man guard~
+a lizard man guard~
+A large, brutal-looking lizard man stands guard over his king.
+~
+It looks unfinished.
+~
+266762 0 0 -850 E
+12 13 4 5d6+210 2d8+3
+100 4700 3
+8 8 1 0
+BareHandAttack: 8
+E
+#11462
+lizard man shaman spiny feathers~
+the Lizard Man Shaman~
+A spiny lizard man, decorated with feathers and bones prepares to make an offering to his god.
+~
+It looks unfinished.
+~
+649370 139392 33562626 -850 E
+14 12 2 6d8+240 2d8+4
+300 7000 2
+8 8 0 0
+BareHandAttack: 8
+E
+#11463
+lizard man warrior hulking~
+a lizard man warrior~
+A hulking lizard man patrols the area, defending his village from any perceived threat.
+~
+It looks unfinished.
+~
+4620 0 0 -850 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 0 0
+BareHandAttack: 8
+E
+#11464
+lizard man~
+a lizard man~
+A lizard man wanders the village.
+~
+It looks unfinished.
+~
+72 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 3
+8 8 0 0
+BareHandAttack: 8
+E
+#11465
+lizard man hunter wandering~
+a wandering lizard man hunter~
+A lizard man, armed with hunting weapons thrashes through the jungle in search of prey.
+~
+It looks unfinished.
+~
+72 0 0 -400 E
+9 15 7 5d5+130 2d7+1
+80 1300 6
+8 8 1 0
+BareHandAttack: 8
+E
+#11466
+lizard man cultist painted strange~
+a lizard man cultist~
+A lizard man, painted with strange markings, dances ecstatically before the altar.
+~
+It looks unfinished.
+~
+528926 0 2049 -700 E
+10 14 6 5d4+160 2d7+2
+90 1900 2
+8 8 0 0
+BareHandAttack: 4
+E
+#11467
+hatchling lizard man~
+a hatchling lizard man~
+Barely out of its shell, a tiny blind lizard man claws at its brethren.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+BareHandAttack: 8
+E
+#11468
+lizard man fire tender ancient shriveled~
+the fire tender~
+An ancient, shriveled lizard man tends the fire, lecturing the younger members of his tribe.
+~
+It looks unfinished.
+~
+1048666 1 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 3
+6 8 1 0
+BareHandAttack: 10
+E
+#11469
+lizard man~
+a lizard man~
+A lizard man wanders about, curing the rancid meat that hangs in his smokehouse.
+~
+It looks unfinished.
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 0 0
+BareHandAttack: 8
+E
+#11470
+lizard man~
+a lizard man~
+A lizard man encumbered by piles of scrolls walks through the village.
+~
+It looks unfinished.
+~
+72 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+BareHandAttack: 8
+E
+#11471
+bear large angry black~
+a large, angry black bear~
+A black bear howls in rage at the hunters assaulting it.
+~
+It looks unfinished.
+~
+65738 131072 0 0 E
+13 13 3 6d5+240 2d9+2
+0 6625 0
+7 8 0 0
+BareHandAttack: 9
+E
+#11472
+lizard man nervous~
+a nervous-looking lizard man~
+A lizard man nervously approaches a flimsy wooden ladder.
+~
+It looks unfinished.
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+900 1900 0
+8 8 0 0
+BareHandAttack: 8
+E
+#11473
+lizard man second crossed glaring~
+a lizard man~
+A second lizard man stands with his arms crossed, glaring.
+~
+It looks unfinished.
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 0 0
+BareHandAttack: 8
+E
+#11474
+lizard man female~
+a lizard man~
+A female lizard man tends to the hatchlings.
+~
+It looks unfinished.
+~
+67082 0 0 -850 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 2 0
+BareHandAttack: 8
+E
+#11475
+lizard man hunter~
+a lizard man hunter~
+A lizard man hunter prepares to drive his spear into the bear's flank.
+~
+It looks unfinished.
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 6
+8 8 0 0
+BareHandAttack: 8
+E
+#11476
+black bear ferocious~
+a ferocious black bear~
+A ferocious black bear wanders the swamp.
+~
+It looks unfinished.
+~
+72 0 0 0 E
+13 13 3 6d5+240 2d9+2
+0 6625 0
+8 8 0 0
+BareHandAttack: 9
+E
+$

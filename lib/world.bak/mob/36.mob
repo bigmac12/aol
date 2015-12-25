@@ -1,0 +1,261 @@
+#3600
+village watchman~
+the village watchman~
+A village watchman patrols this busy street.
+~
+   This well built, middle-aged man has very prominent features that
+intimidates you as he stares at you.  Hanging on his leather belt is a sturdy
+club.  He gives the villagers a nod, and very rarely a faint smile, as he
+patrols the village.    
+~
+4172 0 0 0 E
+7 16 9 3d5+85 2d6+1
+52 400 3
+8 8 1 0
+BareHandAttack: 6
+E
+#3601
+young boy~
+the young boy~
+A young boy runs around the village with a stick in his hand.
+~
+   This boy is barely ten years old.  He is clad in old, torn clothes but he
+seems rather comfortable in them.  His face is streaked with dirt and he is
+soaked in sweat.    
+~
+76 0 0 0 E
+5 17 11 2d5+65 2d5+0
+21 85 0
+8 8 1 0
+BareHandAttack: 13
+E
+#3602
+farmer wild wild-eyed pitchfork~
+a wild-eyed farmer~
+A wild-eyed farmer points his pitchfork at you warily.
+~
+   As you approach, this man swings his pitchfork around to point it straight
+at you.  His lower lip quivers, and he begins to rant about &Rfire&n and
+&Wwolves&n, &Rblood&n and &Wrenegades&n.  His grey-striped overalls are stained
+and torn, and his eyes are cloudy with dementia.    
+~
+10 0 0 0 E
+7 17 10 2d5+70 2d5+2
+35 175 0
+8 8 1 0
+E
+#3603
+old lady~
+the old lady~
+An old lady sits here reading a book.
+~
+   The woman is sitting comfortably on her rocking chair.  Her greying hair is
+neatly combed and tied up.  She is wearing a pair of reading glasses as she
+struggles to make out the words in the book.    
+~
+14 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 2 0
+E
+#3604
+hound sleek blazing~
+a sleek black hound~
+A sleek black hound stealthily prowls the streets.
+~
+   A black short-haired hound slinks stealthily towards you.  Red eyes blaze
+like rubies through the black fur that covers its elongated face.  Muscles
+ripple through its shoulders and legs as it progresses nearer, and drool drips
+from its maw in thick strings, salivating in anticipation of having you as a
+meal.  The hound is well-groomed, quite possibly the familiar of a dark master.
+  
+~
+327768 0 0 0 E
+5 17 11 2d5+65 2d5+0
+22 85 0
+8 8 0 0
+BareHandAttack: 4
+E
+#3605
+girl youthful~
+the youthful looking girl~
+A youthful looking girl skips along the street, humming to herself.
+~
+   She seems to be enjoying her time on the street.  Stopping to tidy up her
+hair, she smiles as you.  Her prominent dimples brightens her face as she
+giggles and runs away.    
+~
+12 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 2 0
+E
+#3606
+woodpecker speckled downy~
+a speckled woodpecker~
+A speckled woodpecker searches for food, its beak echoing hollowly on the wood.
+~
+   Despite its small size, the bird sitting on the rafters makes a large
+racket.  This small woodpecker is black and white with the exception of a small
+red patch on the nape of its neck, marking it as a male.  The top of the head
+is black with a black band behind the eye and below the cheek.  The wings are
+black with many white spots, and the outer tail feathers are white barred with
+black.  The bird occasionally emits a sharp 'piek piek piek' sound which echoes
+hollowly throughout the windmill.    ~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 0 0
+BareHandAttack: 11
+E
+#3607
+child small ghostly~
+the small ghostly child~
+A small ghostly child wanders the street in search of her mother.
+~
+   This ghostly form of a little girl is sobbing as she cries out her mother's
+name.  Her milky white eyes gaze about sightlessly, and her inhuman wails are
+shrill and piercing, shattering the illusion of her innocence.  Holding her
+little bear with her tiny hands, she drifts by, eternally searching for her
+mother amongst the rubble.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 10
+8 8 2 0
+BareHandAttack: 8
+E
+#3608
+frog bloated boreal wood frog flicks tongue~
+a bloated boreal wood frog~
+A bloated boreal wood frog flicks its forked tongue.
+~
+   Common in damp woods and grasslands, frogs of this species tend to stick to
+dark, moist environments.  As you look closer, however, you realize that this
+frog seems somewhat different.. it is mutated.  Its long tongue is now forked
+like a snake, and its skin has a pasty yellow cast to it, with irregular-shaped
+brown wart pustules on its back.  It emits a series of duck-like quacks in
+agitation as you draw near.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+6 25 0
+8 8 0 0
+BareHandAttack: 4
+E
+#3609
+black snake~
+the black snake~
+A black snake slithers between the wheat.
+~
+   The snake is rather short for its size.  Its skin is ebony black with very
+fine yellow spots.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+3 25 0
+8 8 0 0
+E
+#3610
+weary trader~
+the weary trader~
+A weary trader pushes his wagon along the street.
+~
+   He looks tired from a day of trading.  Sweat trickles down his tan face as
+he slowly pushes an empty wagon along the busy street.    
+~
+12 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 1 0
+BareHandAttack: 13
+E
+#3611
+large drunk~
+the large drunk~
+A large drunk stumbles and falls to the ground.
+~
+   His hair is overgrown and his chin is covered in overnight stubbles.  He
+mutters to himself as he tries in vain to get up from the filthy ground.    
+~
+10 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 1 0
+BareHandAttack: 13
+E
+#3612
+villager~
+the villager~
+A villager laughs as she gossips with the others.
+~
+   You see a woman with short auburn hair.  She is wearing a hat to block out
+the piercing sunlight.  On her right hand is a basket of vegetables and fruits.
+  
+~
+12 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 2 0
+E
+#3613
+village healer~
+the village healer~
+The village healer gives you a nod as you walk into the shack.
+~
+   She wears a plain, rather dull looking green scarf on her head to pull her
+long hair away from her face.  An apron is hung on her neck and it seems rather
+dirty with stains.    
+~
+526350 0 1 0 E
+8 15 8 5d5+110 2d6+2
+70 800 2
+8 8 2 0
+BareHandAttack: 7
+E
+#3614
+large black brown cow~
+the large black and brown patched cow~
+A large black and brown patched cow chews slowly on his cud.
+~
+   The cow is rather large with dark brown eyes.  It looks up at you as it
+continues to chew on her cud.    
+~
+10 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 2 0
+E
+#3615
+tired woman~
+the tired looking woman~
+A tired looking woman is attending to her chores.
+~
+   She is a petite middle-aged woman with dark brown curly hair.  She sighs in
+exhaustion as she continues to sweep the house.  Her eyes shows signs of
+fatigue and it seems that she hasn't had a good rest for a while.    
+~
+14 0 0 0 E
+5 17 11 2d5+65 2d5+0
+22 85 0
+8 8 2 0
+E
+#3616
+man shifty-looking shifty looking~
+a shifty-looking man~
+A shifty-looking man in a gray duster lurks nearby.
+~
+   A dark-skinned man in a gray duster overcoat looks up from his scavenging to
+gaze at you with bright, greedy eyes.  It is apparent that this man makes his
+living by picking up stray artifacts out of the trash and rubble, and soon
+enough, he shuffles closer to you to offer his wares.  His greasy black hair is
+slicked back close to his head, and it looks as if he hasn't shaved or bathed
+in a long while.    
+~
+7593996 33718272 0 -500 E
+30 1 -14 3d33+1700 4d8+9
+999999 0 0
+8 8 1 0
+E
+T 3601
+$

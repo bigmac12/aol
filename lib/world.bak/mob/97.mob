@@ -1,0 +1,73 @@
+#9700
+bugbear bear~
+a bugbear~
+A bugbear shambles along the passages.
+~
+   This large, hairy, fanged goblin-like monster must weigh at least 300
+pounds, and it towers at a massive seven feet tall.    
+~
+72 0 0 0 E
+5 17 11 2d5+65 2d5+0
+14 85 0
+8 8 0 0
+E
+#9701
+shadow mastiff dog hound~
+a shadow mastiff~
+A shadowy hound hunts here.
+~
+   This shadowy hound is the ultimate hunter in the dark.  It can hide in
+shadows, striking then blending back into the shadows so that foes must attack
+as if in the dark.    
+~
+72 262144 0 0 E
+6 17 10 2d5+70 2d5+2
+30 175 0
+8 8 0 0
+BareHandAttack: 4
+E
+#9702
+spider giant~
+a giant spider~
+A giant spider crawls along the passage.
+~
+   Giant spiders sometimes spin big webs and snares, create a concealment or
+trapdoor to attack from, or lair in darkness.    
+~
+72 0 0 0 E
+5 17 11 2d5+65 2d5+0
+14 85 0
+8 8 0 0
+BareHandAttack: 4
+E
+#9703
+smuggler~
+a smuggler~
+A smuggler moves about, preparing his illegal goods for the next shipment.
+~
+   The smugglers use these caves to bring illegal goods into Kalaman and sell
+them, and to bring in legal goods tariff free.  This smuggler is a shady
+individual, like the rest of them, constantly looking over his shoulder for the
+city guard.    
+~
+232 294912 0 0 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 1 0
+E
+#9704
+head smuggling smuggler woman~
+the head of the smuggling ring~
+The head of the smuggling ring pores over records.
+~
+   This woman is the head of the smuggling ring that is responsible for
+bringing illegal goods into the city through the caves.  This ring of smugglers
+has a chokehold on smuggled goods in Kalaman, running the caves, as well as
+dabbling in sneaking goods into the city through the gates and boats.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 2 0
+E
+$

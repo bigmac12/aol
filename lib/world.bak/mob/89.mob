@@ -1,0 +1,214 @@
+#8913
+man muscular barbarian build~
+a tall man with a muscular build~
+A tall man with a muscular build walks quietly along the trail.
+~
+   A tall man with a muscular build walks quietly along the trail.  He is
+draped in animal skins and carries a bow and arrows.  He is wearing leather
+boots to muffle the sound of his steps from the prey he is hunting.  His tanned
+skin is evidence of a life spent outdoors and the scars upon his skin speak of
+a rough lifestyle.  He surveys the land in search of animals to hunt.    
+~
+3219464 294912 0 0 E
+18 11 -2 3d20+380 3d6+6
+595 14000 6
+8 8 1 0
+BareHandAttack: 13
+E
+#8955
+kender girl~
+a small kender girl~
+A small kender girl sits here, feet dangling over the side of the bridge.
+~
+   This small kender girl sits on the bridge, bare feet dangling over the side.
+A small pile of stones sits beside her, and she hums a little tune to herself
+as she tosses them in the water one by one.  She doesn't seem to be doing
+anything else, just enjoying the day and the scenery.    
+~
+24590 1024 0 850 E
+6 17 10 2d5+70 2d5+2
+20 175 0
+8 8 2 0
+E
+T 8959
+#8956
+naltia silverfoot~
+Naltia Silverfoot~
+Naltia Silverfoot sits on the bridge, rummaging through her pouches.
+~
+   This young kender woman sits upon the bridge, smiling and singing.  She
+rummages through her pouches, the contents of which are spilled all over the
+bridge itself.  She is wearing an interesting sundress, rainbow in color with
+bells attached at the hem.  Everytime she moves, a cacophony of chiming emits
+from her direction.    
+~
+24590 1024 0 850 E
+15 11 1 5d10+300 2d8+4
+200 8400 4
+8 8 2 0
+E
+T 8959
+#8959
+kender rin treesinger~
+Rin Treesinger~
+Rin Treesinger sits upon the bank of the river, strumming a mandolin.
+~
+   This kender sits upon the bank of the Fallendro river, strumming a finely
+made mandolin.  He plays no tune in particular, but pieces of several.  
+Ocassionaly he pauses, humming a quiet tune before copying it upon the
+mandolin.  He seems to be quite immersed in what he's doing, and hasn't noticed
+you.  A small pendant bearing a golden harp hangs about his neck.    
+~
+24718 1024 0 850 E
+15 11 1 5d10+300 2d8+4
+200 8400 4
+8 8 1 0
+BareHandAttack: 13
+E
+T 8959
+#8960
+kender hamisham kickbottom~
+Hamisham Kickbottom~
+Hamisham Kickbottom sits here, waiting impatiently for a fish to bite.
+~
+   This kender sits upon the bank of the Fallendro river, fishing pole in hand.
+He stares out at the water, waiting for a fish to bite.  Every few minutes he
+begins to fidget, growing impatient until he reels his line in to check for a
+fish.  Now and then he rummages through his pouches to pass the time, missing
+the tugs on his line as he does so.    
+~
+24718 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+200 1900 4
+8 8 1 0
+BareHandAttack: 13
+E
+T 8959
+#8975
+jaguar yellowish brown fur~
+a jaguar with yellowish-brown fur~
+A jaguar is sleeping in one of the shadowy corners of the pit.
+~
+   Jaguars generally have yellow to reddish-brown fur with black rosettes,
+which help them to blend with their surroundings.  These rosettes merge into
+stripes at the legs and neck.  Judging by her yellowish fur, it is most likely
+that this jaguar ventured into the forest from the plains.  Now finding her at
+the bottom of this pit trap, it is obvious she would have been better off to do
+her hunting in the open grasses.    
+~
+1138874 294912 0 0 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+4 4 2 0
+BareHandAttack: 8
+SkinData0: 8975
+E
+#8976
+redherring nasty little man few teeth~
+a nasty, little man with very few teeth~
+A nasty, little man with very few teeth peers at you from the shadows.
+~
+   The best word to describe the physical appearance of this man is nasty.  
+His face is streaked with grime, and his hair is a matted mass of tangles.  
+Personal hygiene is clearly not one of his priorities.  Though the coating of
+filth does seem to give him an advantage in this setting: combined with the
+dark shades of green and brown he is wearing, he is able to blend easily with
+his surroundings.    
+~
+1073166 263168 0 -444 E
+18 11 -2 3d20+380 3d6+6
+0 14000 4
+8 8 1 0
+E
+T 8975
+#8980
+figure dark thief rogue~
+a dark figure~
+A dark figure seems to blend into the shadows of the forest.
+~
+   This dark figure stares out to the world with beady eyes, cautious of all
+his surroundings.  Every step made is with a magnitude of stealth.  Every
+movement is deliberate and calculated.  He disappears into the shadows, only to
+reappear in another location without having made a sound.  You cannot help but
+wonder if he is human or merely a figment of your imagination brought on the by
+unusual silence of the forest.    
+~
+1075372 262144 0 0 E
+20 8 -4 3d20+440 3d7+6
+1 25000 4
+11 11 1 0
+BareHandAttack: 13
+E
+#8981
+man ragged dirt thief rogue~
+a dirt covered man in ragged clothing~
+A dirt covered man in ragged clothing keeps to the shadows.
+~
+   Dirt covered and wearing ragged clothing, this man slinks around the shadows
+looking for an easy target.  His hair is unkept and greasy due to days of being
+unwashed.  The beginnings of a beard can be seen on his face except for where a
+long scar splits his flesh.  Cold calculating eyes take in the environment with
+intense scrutiny.  His lips are curled into a cruel sneer, making him
+unappealing to look at as well as invoking a feeling of wariness.    
+~
+1077420 294912 0 -500 E
+19 9 -3 3d20+410 3d6+6
+1 17000 4
+11 11 1 0
+BareHandAttack: 13
+E
+#8986
+forger master man cloaked hidden face~
+the master forger~
+A cloaked man with a hidden face sits in the northwest corner of the room.
+~
+   Little can be seen of the face of this man.  The hood of his dark cloak is
+drawn up over his head, obscuring his facial features from view.  He sits
+quietly in the northwest corner of the room, observing all who come and go.  
+He holds one copper coin in his hand which he fingers idly, turning it over
+time and time again.    
+~
+3176478 67534848 0 0 E
+23 6 -7 3d33+650 3d8+8
+1 52000 4
+8 8 1 0
+BareHandAttack: 13
+E
+T 8987
+#8987
+man short broad dark clothing~
+a short, broad man dressed in dark clothing~
+A short, broad man steps from the shadows to block the doorway to the east.
+~
+   This man is rather short which enables him to stand comfortably in this
+relatively low chamber.  What he is lacking in height is made up for in girth.
+His build is so broad, in fact, that he nearly fills the archway to the east.
+His clothing is all black, and he wears a hood to obscure his facial features.
+~
+11561150 820224 0 -555 E
+19 9 -3 3d20+410 3d6+6
+1 17000 4
+8 8 1 0
+BareHandAttack: 13
+E
+T 8986
+#8988
+woman clothing black tight~
+a woman in tight, black clothing~
+A woman dressed all in black stands in the shadows.
+~
+   This woman is dressed from head to toe in tight, black leather.  Her body is
+long and lean, though her well-toned muscles are clearly visible through her
+well-fitted garments.  She wears a black mask over her eyes which hides them
+from view.  The slightly pointed tips of her ears are visible from beneath her
+raven hair, however, and hint at least partial elven heritage.    
+~
+3176638 787456 0 -600 E
+20 8 -4 3d20+440 3d7+6
+1 25000 4
+11 11 2 0
+BareHandAttack: 8
+E
+T 8988
+T 8989
+$

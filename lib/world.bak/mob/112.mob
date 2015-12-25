@@ -1,0 +1,488 @@
+#11200
+guard hideout~
+a hideout guard~
+A hideout guard is posted here.
+~
+   This tall man is dressed from head to toe in studded leather.  The only
+things that peek out from under that bumpy surface is a pair of sturdy, black
+leather boots and a pair of dark black gloves.  Even his hair has been covered
+with a studded leather skull cap.  He peers cautiously from his alcove,
+watching for unwanted vistors.    
+~
+1079882 1068 0 -350 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+BareHandAttack: 13
+E
+#11201
+dwarf gully filthy~
+a filthy gully dwarf~
+A filthy gully dwarf is here, cleaning the barnacles from a boat.
+~
+   Covered from head to toe in dirt and filth, you can barely discern a short
+creature that by the smell could only be a gully dwarf.  He smiles at you
+dumbly as you approach.  He works thoroughly scraping barnacles from the hull
+of the boats moored to the docks.  When he thinks nobody is looking he quickly
+pops a barnacle in his mouth and licks his lips.    
+~
+16462 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 4
+6 6 1 0
+BareHandAttack: 14
+E
+#11202
+shipwright excited~
+an excited shipwright~
+An excited shipwright works efficiently to repair a boat.
+~
+   This shipwright is working meticulously on replacing a few damaged boards on
+a flat-bottomed boat.  He is dressed in wool and canvas clothing and a large
+leather tool belt strapped about his waist.  His brown hair is cut short to
+keep it out of his way.  His brown eyes search about his work bench looking for
+something he misplaced.    
+~
+24650 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 4
+8 8 1 0
+BareHandAttack: 13
+E
+#11203
+shipwright head~
+the head shipwright~
+The head shipwright is reviewing the list of needed repairs.
+~
+   The head shipwright is sitting behind his desk, reviewing the work requests
+and reports.  He is also studying with his hazel eyes the cost and materials
+reports to see what new items must be acquired to keep repairs going smoothly.
+He is dressed in a simple canvas shirt and breeches with a leather tool belt
+strapped about his waist.    
+~
+26698 0 0 -350 E
+12 13 4 5d6+210 2d8+3
+100 4700 4
+6 6 1 0
+BareHandAttack: 13
+E
+#11204
+scribe wiry~
+a wiry scribe~
+A wiry scribe sits a his desk, taking note of the new imports.
+~
+   This young lad is somewhat tall and his thin arms quickly make notes on the
+inventory reports from the warehouse.  He is wearing a plain green silk shirt
+that seems a little tattered at the edges.  The rest of his clothing seems
+fairly plain.  He hardly notices you enter, being so enthralled with his notes.
+  
+~
+24586 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 4
+6 6 1 0
+BareHandAttack: 13
+E
+#11205
+master dock~
+the dock master~
+The dock master reviews reports of recent acquisitions.
+~
+   The dock master is sitting behind his simple, oaken desk.  All across his
+desk are the completed reports of new imports and finished boat repairs.  The
+dock master is a very tall man with hard grey eyes.  His short, black hair is
+starting to show a bit of grey at the temples.  He is dressed in a green silk
+shirt and tan cotton breeches.    
+~
+24650 0 0 -350 E
+12 13 4 5d6+210 2d8+3
+100 4700 4
+6 6 1 0
+BareHandAttack: 13
+E
+#11206
+scullery kitchen~
+a kitchen scullery~
+A kitchen scullery is on hands and knees scrubbing the floor.
+~
+   This yound kid is vigorously scrubbing the stone floor of the kitchen.  
+Dressed in little more than rags, she pays you no heed and is very intent on
+the floor.  A few bruises and welts can be seen through the holes in her
+clothing.  The small bucket beside the child if half full of dirty water.  The
+brush she is using seems very worn.    
+~
+24654 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 4
+6 6 2 0
+BareHandAttack: 13
+E
+#11207
+cook head~
+the head cook~
+The head cook is writing a list of needed supplies.
+~
+   The head cook is sitting at her plain wooden desk, reviewing the meal
+schedule for the upcoming week.  She is slighty overweight, and has her brown
+hair tied into a long ponytail.  She has light brown eyes that seem to be not
+focusing on anything, but the paperwork in front of her.  She is dressed in
+simple cotton clothing with a very clean apron tied about her waist.  She has a
+single emerald earring in her right ear, with its twin missing from the empty
+hole in her left ear.    
+~
+26634 0 0 -350 E
+12 13 4 5d6+210 2d8+3
+100 4700 4
+6 6 2 0
+BareHandAttack: 13
+E
+#11208
+bandit dining~
+a bandit~
+A bandit is here, eating his dinner.
+~
+   This bandit is sitting at a worn banquet table, slowly picking at a meal of
+meat and potatoes.  His dark-ringed brown eyes stare at the food on his plate.
+His short, brown hair has not been combed since he rolled out of bed.  The
+clothes he is wearing look like they have been slept in.    
+~
+24650 0 0 -350 E
+15 11 1 5d10+300 2d8+4
+400 8400 4
+6 6 1 0
+BareHandAttack: 13
+E
+#11209
+guard hideout~
+a hideout guard~
+A hideout guard searches the area, looking for unwanted intruders.
+~
+   This tall man is dressed from head to toe in studded leather.  The only
+things that peek out from under that bumpy surface is a pair of sturdy, black
+leather boots and a pair of dark black gloves.  Even his hair has been covered
+with a studded leather skull cap.  He watches cautiously as he makes his rounds
+through the hideout.    
+~
+1079880 1068 0 -350 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#11210
+rat mangy~
+a mangy rat~
+A mangy rat scampers across the floor.
+~
+   This filthy creature's hair has been matted and encrusted with grime and
+dirt.  It smells worse than a gully dwarf bathing in rotten eggs.  Its teeth
+look sharp and yellow, many are missing.  It tries to keep to the shadows and
+hisses at you as you approach.    
+~
+65736 0 0 -350 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 9
+BareHandAttack: 4
+E
+#11211
+worker warehouse~
+a warehouse worker~
+A warehouse worker is stocking shelves and taking inventory.
+~
+   The warehouse worker is slowly working through an inventory check list and
+stocking the shelves.  He is wearing very simple cotton clothing, not being
+able to afford much better.  His blonde hair is cut very short to his head to
+keep it out of his way.  He is muttering under his breath about the monotinous
+work.    
+~
+200 0 0 -350 E
+10 14 6 5d4+160 2d7+2
+90 1900 4
+8 8 1 0
+BareHandAttack: 13
+E
+#11212
+Gweedo merchant~
+Gweedo~
+Gweedo, the merchant sits behind the counter.
+~
+   Gweedo is not a very big man.  He smiles as you enter, always happy to see a
+new customer.  His clothing is almost entirely silk and velvet, and each piece
+is colored differently.  The combination of all the bright colors is very hard
+on the eyes to look at.  He motions with sweeping arm movements, signalling for
+you to look around at his wares.    
+~
+7594075 1064 0 -350 E
+31 0 -15 30d99+30000 25d1+10
+1000000 300000 4
+6 6 1 0
+BareHandAttack: 13
+E
+#11213
+head security~
+the head of security~
+The head of security is pacing, thinking on how to increase defenses.
+~
+   Dressed in a fine, wine-colored, silk tunic, this man is studying recent
+reports of security problems and scouting reports.  He keeps his clothing in
+good condition and sharp in appearance.  He is very tall and has his long,
+black hair held back out of his way with a silver hair clip.  He looks at you
+with his hazel eyes as you enter into his office.    
+~
+1075802 0 0 -350 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#11214
+guard hideout~
+a hideout guard~
+A hideout guard blocks the way into the head bandit's office.
+~
+   This tall man is dressed from head to toe in studded leather.  The only
+things that peek out from under that bumpy surface is a pair of sturdy, black
+leather boots and a pair of dark black gloves.  His long, blond hair has been
+pulled back into a ponytail.  He blocks the door to the hideout office of
+operations.    
+~
+9464410 1068 0 -350 E
+19 9 -3 3d20+410 3d6+6
+800 17000 3
+8 8 1 0
+BareHandAttack: 15
+E
+#11215
+Jareth head bandit~
+Jareth~
+Jareth, the head bandit plots for his groups next heist.
+~
+   Dressed in a brocaided, black silk shirt and black leather leggings, Jareth
+sits reviewing the new acquisitions reports.  He wears a few pieces of silver
+jewelry.  He sits behind his well organized cherry desk.  His blonde hair is
+tighly braided to his waist.  His bright blue eyes look up as you enter into
+the his office.    
+~
+1075802 1068 0 -350 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 4
+8 8 1 0
+BareHandAttack: 11
+E
+#11216
+mage black robe~
+a black robed mage~
+A black robed mage is here studying a scroll.
+~
+   This pale, thin mage is intently pouring over some scrolls.  He is dressed
+in all black.  His greying hair seems to be thinning and is completely white at
+the temples.  His face seems to have lost a lot of its tone and has become
+wrinkled and bony.  His dark brown eyes glare at you for disturbing his
+privacy.    
+~
+551514 1196 18882609 -350 E
+20 8 -4 3d20+440 3d7+6
+900 25000 1
+8 8 1 0
+BareHandAttack: 13
+E
+#11217
+apprentice~
+an apprentice~
+A mage's apprentice is studying a book.
+~
+   This willowy, little woman is dressed very simply in black attire.  She is
+lounging easily in an over-stuffed chair.  Her long, black hair hangs loosely
+about her shoulders.  Her piercing green eyes are pouring over a large book, so
+much so she doesn't even notice your entrance to the library.    
+~
+549450 0 2057 -350 E
+10 14 6 5d4+160 2d7+2
+90 1900 1
+8 8 2 0
+BareHandAttack: 13
+E
+#11218
+bandit sleeping~
+a bandit~
+A bandit is sleeping here in his bunk.
+~
+   This half-dressed bandit is sprawled over a messy, unmade bed.  Snoring
+slighty, he seems have crashed as soon as hit the rack.  His clothing are
+wrinkled and in need of some mending.  His ungroomed, black hair is sprawled
+all over his pillow, showing knots and split ends.    
+~
+24586 0 0 -350 E
+15 11 1 5d10+300 2d8+4
+400 8400 4
+8 8 1 0
+BareHandAttack: 13
+E
+#11219
+bandit dicing~
+a bandit~
+A bandit is here dicing to win some money.
+~
+   In a small corner of the lounge with his buddies, this bandit is gambling on
+a game of dice.  He is dressed in a hodge podge variety of clothing, nothing
+quite matching.  His long, brown hair is hanging down to his back with a few
+thin braids intermixed with the loose hair.  His brown eyes are solely
+concentrated on the rolling dice which will decide the weight of his coin
+purse.    
+~
+25098 0 0 -350 E
+15 11 1 5d10+300 2d8+4
+400 8400 4
+8 8 1 0
+BareHandAttack: 13
+E
+#11220
+minotaur bartender~
+a minotaur bartender~
+A minotaur bartender stands behind the bar.
+~
+   This minotaur with dark brown fur, stands behind the bar awaiting orders.  
+He is fairly short for his kind, only six feet two inches.  His green eyes
+watch both the patrons and the door just behind the bar.  He seems to be making
+sure only those authorized are able to enter there.    
+~
+9529946 0 0 -350 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 7
+E
+#11221
+bandit drinking~
+a bandit~
+A bandit is drinking at the bar.
+~
+   Standing in the middle of the room, this bandit seems to enjoying a large
+mug of ale, which by the smell eminating from him isn't his first.  He is
+dressed in a simple monochromatic outfit.  His blonde hair is cut short except
+for a long tail trailing down to the middle of his back.  His green eyes drift
+to the other occupants of the room.    
+~
+24650 0 0 -350 E
+15 11 1 5d10+300 2d8+4
+400 8400 4
+8 8 1 0
+BareHandAttack: 13
+E
+#11222
+harlot brazen~
+a harlot~
+A brazen harlot winks suggestively.
+~
+   Dressed to entice, this harlot make suggestive movements to those around
+her.  Her clothing seems to hug her form in just the right places.  She is of
+average height with looks to match.  Her shoulder-length brown hair hangs
+loosely.  Her brown eyes looks at you, sizing up you and your coin purse.    
+~
+24650 0 0 -350 E
+12 13 4 5d6+210 2d8+3
+275 4700 4
+8 8 2 0
+BareHandAttack: 13
+E
+#11223
+bandit tied~
+a bandit~
+A bandit is tied to the bedposts.
+~
+   This bandit is surprised when the door opens.  He has been tied spread-eagle
+to the bedposts.  Besides the collar around his neck he is wearing nothing but
+a look of shock.  He strains against his restraint trying to get free.  He also
+seems to be trying to scream at you around the gag in his mouth.    
+~
+24650 0 0 -350 E
+15 11 1 5d10+300 2d8+4
+400 8400 4
+5 5 1 0
+BareHandAttack: 13
+E
+#11224
+harlot brazen~
+a harlot~
+A brazen harlot seems to be anticapating something.
+~
+   Dressed from the neck down in black, tight fitting leather, this harlot
+stand ominously over the bed.  She has a strange smile on her face, like she is
+waiting for something good to happen.  Her black hair has been pulled back
+tightly into a ponytail that hangs almost to her well-shaped rear.    
+~
+30794 0 0 -350 E
+12 13 4 5d6+210 2d8+3
+275 4700 4
+8 8 2 0
+BareHandAttack: 2
+E
+#11225
+acolyte~
+an acolyte~
+An acolyte walks around the temple gathering donations.
+~
+   This wiry, young priest travels throughout the temple gathering tithe from
+the Enlightened.  All his facial hair has been shaven from his face and head.
+Dressed in simple clothing under his robes, he must donate all worldly
+possession to the temple until he proves himself worthy.    
+~
+549448 1068 1054787 -350 E
+15 11 1 5d10+300 2d8+4
+400 8400 2
+8 8 1 0
+BareHandAttack: 13
+E
+#11226
+priest Hiddekel~
+a priest of Hiddukel~
+The priest of Hiddukel prays by the altar.
+~
+   Standing next to the altar is a tall man.  His head has been shaven and
+tattooed with arcane runes.  His skin looks greasy and slightly scaled.  He is
+greatly overweight as his girth hangs well over his belt.  All about his person
+is covered in jewelry and finery.  He grins evilly showing that all his teeth
+have been capped in platinum.  He has been blessed by his god, for his eyes
+have become entirely black and glossy like obsidian.    
+~
+682586 9388 22577156 -350 E
+20 8 -4 3d20+440 3d7+6
+900 25000 2
+8 8 1 0
+BareHandAttack: 13
+E
+#11227
+devotee~
+a devotee~
+A devotee of Hiddukel is here praising his Lord.
+~
+   This short, little man is praying for guidance from his Lord and Master.  
+He is dressed in silks and velvets.  He has a fair amount of jewelry hanging
+from about his neck.  His brown hair has been cut short and tucked neatly under
+his hat.  By the manner of his speech and dress, he seems to be a local
+merchant.    
+~
+24648 0 0 -350 E
+10 14 6 5d4+160 2d7+2
+90 1900 4
+8 8 1 0
+BareHandAttack: 13
+E
+#11228
+thief sneaky~
+a thief~
+A sneaky thief prowls the area.
+~
+   This pale man is lurking in the shadows.  He is dressed in all black and
+dark greys.  His short brown hair is almost not visible under his black leather
+skullcap.  He has a scar running from just above his left eyebrow to the corner
+of his mouth.  He is glaring at you and brandishing a dagger menacingly.    
+~
+27228 787500 0 -350 E
+16 11 0 3d20+320 3d6+4
+500 11000 4
+8 8 1 6
+BareHandAttack: 14
+E
+$

@@ -1,0 +1,752 @@
+#8000
+guard lazy~
+the guard~
+A guard sits here half awake, slumping lazily against the wall.
+~
+   The guard is loosely fitted in a suit of light chain and thick black pants.
+A spear sits beside him, and though he makes no move to touch it, it is obvious
+that he is ready to at any moment, despite his helmet drooped down over his
+eyes to block out light.    
+~
+1052682 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 1 0
+BareHandAttack: 3
+E
+#8001
+citizen man~
+the citizen~
+An Istarian man walks about the streets.
+~
+   Dressed in the clothing of a commoner, this man moves through the streets
+perhaps on some business.  His appearance is rather plain but his face is
+graced by a warm smile that softens his look.  As he walks through the city, he
+is careful not to let his gaze meet that of any passing nobles.    
+~
+16392 0 0 0 E
+8 15 8 5d5+110 2d6+2
+33 800 0
+8 8 1 0
+BareHandAttack: 13
+E
+#8002
+citizen woman local~
+the citizen~
+A local woman walks about the streets on her errands.
+~
+   The common woman is dressed in plain brown-grey clothing, and goes about her
+business on the streets of Istar.  She carries a small basket on her arm, and
+she is no doubt on her way either to or from the marketplace.  Her eyes remain
+cast down toward the ground as she passes fellow citizens of Istar.    
+~
+8 0 0 0 E
+7 16 9 3d5+85 2d6+1
+22 400 0
+8 8 2 0
+BareHandAttack: 8
+E
+#8003
+exhausted woman tired~
+the tired woman~
+An exhausted woman busies herself with chores.
+~
+   A sad, weary look paints this woman's face, as though she has never seen a
+good time in her life.  Her poverty is such that she can only afford to dress
+herself a step better than the beggars of Mercy Avenue.  Despite her obviously
+low station in life, there is a glint of strength behind her tired eyes that
+indicates she has not yet given up hope for a better tomorrow.    
+~
+14 0 0 0 E
+5 17 11 2d5+65 2d5+0
+12 85 0
+8 8 2 0
+BareHandAttack: 8
+E
+#8004
+poor child~
+the poor child~
+A poor child sits in the corner with a hurt frown on his face.
+~
+   This child is dressed in no more than very worn clothing.  He rests his
+knees under his chin and looks sadly about the room, hoping that someone,
+anyone will notice him.  No one seems to pay much attention at all, though, and
+he sighs heavily.    
+~
+142 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 1 0
+E
+#8005
+man large disheveled thick bruised~
+the large man~
+A disheveled man sits at the table, his arms thick but bruised from hard labor.
+~
+   A thick, untrimmed beard and ripped clothing give this man a brutish
+appearance, as though he might strike at any time.  However, a look of calm and
+weariness can be seen behind his eyes -- as though he were looking at the world
+and was about to give up.    
+~
+4106 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 1 0
+BareHandAttack: 13
+E
+#8006
+Maerlis herbalist middle aged beautiful~
+Maerlis the herbalist~
+Maerlis the herbalist, a still beautiful middle-aged woman, waits patiently.
+~
+   Vibrant red curls streaked in places with grey are pulled back into a loose
+ponytail, with the occasional loose strand falling across her wrinkled face.  
+Though now quite old, it is very obvious that the herbalist was strikingly
+beautiful in her youth, and hasn't lost much of it now.  She is dressed in a
+brown tunic and medium brown and white skirt, and greets you with a warm smile.
+~
+7342106 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 2 0
+BareHandAttack: 14
+E
+#8007
+smiling elegant lady woman~
+the smiling lady~
+A smiling elegant lady of some monetary stature walks through the room.
+~
+   The elegant lady, most likely a merchant's wife, walks about the house in a
+simple deep blue dress cut in the most recent style.  She is of average beauty,
+but her smile brightens her face and makes an onlooker wonder if she is more
+lovely than noticeable at first glance.    
+~
+136 0 0 0 E
+9 15 7 5d5+130 2d7+1
+84 1300 0
+8 8 0 0
+E
+#8008
+city guard patrol~
+the city guard~
+A city guard patrols the area, protecting Istar's citizens from harm.
+~
+   A sword hangs at the guard's belt, and a loose but ready hand lies on its
+hilt, letting all know that the guard not only knows how to use it, but can at
+a moment's notice.  A polished helmet sits smartly atop his head, and a suit of
+leather armor covers his torso, drawstrings pulled tight.  He is constantly
+scanning the area, on the lookout for thieves, ruffians, drunks, muggers, and
+-- Paladine forbid -- servants of the Dark Queen.    
+~
+1357848 0 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#8009
+high guard istar~
+the High Guard of Istar~
+In silver-enlaid plate armor, a High Guard of Istar patrols the streets aloofly.
+~
+   A brightly shining, blindingly well-polished breastplate and equally
+splendid helm easily identify this man as a High Guard of Istar.  Sworn not
+only to protect the city, but to uphold the will of the Kingpriest, and
+therefore, the will of the gods, these men are truly the elite force that all
+soldiers desire to become apart of.  The deadly grace with which the sword
+hangs at this man's side shows his years of skill with it -- a very strong
+opponent.    
+~
+1454360 4 0 0 E
+20 8 -4 3d20+550 3d7+6
+878 25000 0
+8 8 1 0
+E
+#8010
+priest cleric Istar~
+the cleric of Istar~
+A cleric of Istar moves quietly through the area, humbly bowing his head.
+~
+   The quiet priest bows his head more deeply as you glance in his direction,
+moving swiftly out of your way.  He wears the white robes of a cleric of
+Paladine, emblazoned with a silver triangle.  He, and those like him, have come
+to Istar as the city grows in the hopes of bringing faith and goodness to the
+people of this fair city.    
+~
+524424 0 32769 0 E
+8 15 8 5d5+110 2d6+2
+70 800 2
+8 8 1 0
+E
+#8011
+priest cleric istar~
+the cleric of Istar~
+A cleric of Istar moves quietly through the area, humbly bowing her head.
+~
+   The quiet priestess bows her head more deeply as you glance in her
+direction, moving swiftly out of your way.  She wears the white robes of a
+cleric of Paladine, emblazoned with a silver triangle.  She, and those like
+her, have come to Istar as the city grows in the hopes of bringing faith and
+goodness to the people of this fair city.    
+~
+524424 0 1 0 E
+8 15 8 5d5+110 2d6+2
+70 800 2
+8 8 2 0
+E
+#8012
+cleric istar priest~
+the cleric of Istar~
+A cleric of Istar is here, saying his daily prayers.
+~
+   The cleric of Istar, dressed in white robes emblazoned with the silver
+symbol of the Paladine to show his dedication to the Church, bows reverently
+before the statues, speaking softly and in too strange a language to discern
+what he is saying.    
+~
+524298 0 1 0 E
+8 16 4 1d1+120 1d6+4
+70 790 2
+8 8 1 0
+E
+#8013
+cleric paladine preacher priest~
+the cleric of Paladine~
+A cleric of Paladine preaches the word of the light here.
+~
+   The cleric, arms spread wide, preaches the word of the gods, primarily of
+Paladine, the supreme deity of all goodness.  His white robes are emblazoned on
+the back with the symbol of the Platinum Dragon, showing his allegiance.    
+~
+524296 0 1 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 2
+8 8 1 0
+E
+#8014
+cleric mishakal preacher priest~
+the cleric of Mishakal~
+A cleric of Mishakal preaches the word of the light here.
+~
+   The cleric, arms spread wide, preaches the word of the gods, primarily of
+Mishakal, the goddess of healing and feritility.  Her white robes are
+emblazoned on the back with the symbol of the Healer, the Blue Infinity,
+showing her allegiance.    
+~
+524296 0 1 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 2
+8 8 1 0
+E
+#8015
+noble nobleman green~
+the nobleman~
+A nobleman with a green cloak about his shoulders rides by on horseback.
+~
+   A smartly dressed noble, probably a baron from his lack of much decoration,
+rides proudly upon his tall mare.  A green, high-necked cloak, embroidered
+lightly along the edges, wraps around his bright red velvet coat.  Coinpurse at
+hand, he tosses change to beggars and commoners on the streets.    
+~
+65546 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 0
+BareHandAttack: 3
+E
+T 8000
+#8016
+child boy wandering~
+the wandering child~
+A child wanders about the streets with a smile on his face.
+~
+   The happy child wanders about the streets, smiling to those he passes.  He
+is dressed in well-worn clothes that are a shade browner than the tailor made
+them, from a boy's second home, the dirt.    
+~
+12 0 0 0 E
+4 18 12 1d5+45 1d8+1
+11 50 0
+8 8 1 0
+BareHandAttack: 1
+E
+#8017
+small girl~
+the small girl~
+A small girl walks through the streets without a care.
+~
+   Humming an offkey tune, the girl walks innocently through the streets,
+smiling to those she passes.  She wears a white dress trimmed in light blue,
+dirtied from being close to the dusty ground.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+6 25 0
+8 8 2 0
+E
+#8018
+beggar slumped drunk drunken~
+the drunken beggar~
+A beggar lies slumped against the wall in a half-conscious state.
+~
+   The ragged beggar lifts a bottle of rum to his trembling lips, spilling some
+into his unkempt beard and a little down his clothing that could pass for no
+more than rags.  He flashes you a sickly, drunken smile, showing off his set of
+chipped and diseased teeth, then goes quickly back to the bottle.    
+~
+14 0 0 0 E
+5 17 11 2d5+65 2d5+0
+21 85 0
+8 8 1 0
+BareHandAttack: 13
+E
+#8019
+wide eyed beggar wide-eyed rusty~
+the wide-eyed beggar~
+A wide-eyed beggar with a rusty cup meekly beseeches the crowd for change.
+~
+   A long white beard and bushy eyebrows show this man's obvious age.  A life
+of poverty has not done his body well; cheekbones push tight his stretched
+face, and his eyes are sunken far into his head.  Swaddled in rags unfit for
+animals to sleep on, he holds out a cup, begging for alms.    
+~
+14 0 0 0 E
+6 17 10 2d5+70 2d5+2
+27 175 0
+8 8 1 0
+BareHandAttack: 13
+E
+T 8001
+T 8002
+#8020
+peddler grinning~
+the peddler~
+Grinning widely at the crowd, a peddler hawks useless items from his cart here.
+~
+   The peddler cries out into the crowd about his magnificient junk that he
+carries, claiming most of it to be extremely rare and worth a handsome coin.  
+A good-looking man, he sometimes winks to the common women who pass by him,
+offering a special discount for "such insurpassable beauty" as theirs.  He then
+repeats the same comment to the next who passes by.  His fakey grin shows that
+he may not be the most trustworthy of salesmen.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+BareHandAttack: 7
+E
+#8021
+white mage solinari~
+the white mage~
+A white mage of Solinari moves through the streets without a sound.
+~
+   Dressed in white robes, a white mage of the moon Solinari walks about the
+streets quietly.  As her glance passes over the crowd, many look away, not
+wanting to be the object of attention for anyone who might have the power to
+set them on fire at a whim.    
+~
+524296 0 1 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 1
+8 8 2 0
+BareHandAttack: 14
+E
+#8022
+old man wisened~
+the old man~
+A man wisened with age leans heavily on his staff as he observes the crowd.
+~
+   Quietly looking on as the crowd passes by, the old man looks to be quite
+content.  He leans heavily upon his staff, and even with his thick grey coat he
+still shivers from time to time.  Whether he is running some errands or merely
+taking a walk about Istar, he seems to be happy.    
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+22 85 0
+8 8 1 0
+BareHandAttack: 7
+E
+#8023
+woman old elderly~
+an elderly woman~
+An elderly woman moves slowly through the streets on her errands.
+~
+   She is dressed in a long white dress which trails along the ground as she
+walks, and carries a bag across her arm for carrying the goods she buys.  From
+the decoration on the dress, it looks as though she was once quite wealthy.  
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+4 25 0
+8 8 2 0
+E
+#8024
+spectator~
+the spectator~
+A spectator sits at a bench, taking in the fight.
+~
+   Obviously a long-time and enthusiastic fan of the arena, the spectator
+cheers loudly with every blow his favorite gladiator gives.  Occasionally on
+the verge of standing up and heckling the other warrior, he looks like a man
+who could become easily passionate about anything.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+BareHandAttack: 13
+E
+#8025
+nobleman~
+the nobleman~
+A nobleman of some status looks over the arena with boredom.
+~
+   Looking over the fight below with disdain and only a very fleeting interest,
+the lord looks as though he would rather be rolling in manure than sitting in
+his shaded chair closest to the action.  He is dressed in the finest of silks,
+in deep reds and blues and purples, according to the most recent trend of the
+nobility of Istar.  It is likely that he will have thrown out today's outfit by
+tomorrow and will already be on to a new trend.    
+~
+2058 0 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 1 0
+BareHandAttack: 3
+E
+#8026
+clumsy man~
+the clumsy man~
+A man moves clumsily through the crowd, trying to find a place to sit.
+~
+   From his long brown tunic and two day old beard, this man is a commoner.  
+He wanders about the crowd, hoping to find a place to sit.  He trips and
+stumbles over more than one person's foot and angers several others as he walks
+through.    
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+32 175 0
+8 8 1 0
+BareHandAttack: 13
+E
+#8027
+guard hatch brutish armed man~
+the hatch guard~
+A brutish, armed man guards the hatch, preventing slaves from escaping.
+~
+   The man could easily be a drunk in a tavern or a shopkeeper on the shady
+side of town as a guard.  A four-day beard covers his ugly face, and his bushy
+eyebrows almost connect in the center.  A low rumbling growl raises to a snarl
+as you near him.    
+~
+1052682 0 0 0 E
+15 11 1 5d10+300 2d8+4
+386 8400 3
+8 8 1 0
+BareHandAttack: 3
+E
+#8028
+gladiator slave~
+the gladiator slave~
+A gladiator slave sits at the table, shoving a rank substance into his mouth.
+~
+   The gladiator spoons something that vaguely resembles edible food into his
+mouth, keeping well away from others eating at the tables.  He looks a bit
+rougher than anyone else, and probably had a rough life before he was forced
+into slavery.    
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 3
+8 8 1 0
+BareHandAttack: 13
+E
+#8029
+gladiator slave~
+the gladiator slave~
+A gladiator woman practices her punches and kicks near the wall.
+~
+   The smooth grace with which this lithe, strong young woman moves shows how
+deadly an opponent she can be.  Standing out in the crowd as one of the more
+skilled warriors, she draws much attention from other warriors.    
+~
+1048586 0 0 0 E
+16 11 0 3d20+320 3d6+4
+486 11000 0
+8 8 2 0
+BareHandAttack: 13
+E
+#8030
+Jorin middle aged shopkeeper~
+Jorin the shopkeeper~
+Jorin, a rotund middle-aged man in a blue workshirt, mans the counter.
+~
+   The man greets you with a warm smile to let you know that you are welcome in
+his store.  He seems cherubic, friendly, plump, and the sort of man who likes
+to let out a long belly laugh from time to time.  An ordinary workshirt is
+rolled up along his sleeves, stuffed into a pair of thick brown pants, and a
+clean white apron hangs over his front.    
+~
+190490 36864 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 1 0
+E
+#8031
+karthan arms merchant~
+Karthan the arms merchant~
+Nodding to you as you enter, Karthan, the arms merchant, awaits your selection.
+~
+   The arms merchant's cold, impassive stare remains locked straight ahead of
+him as though he is gazing at something in the distance that no one else can
+see.  Most likely a soldier in his younger years from his stance and from the
+stub that used to be his left arm, the man may not be the ideal charismatic
+merchant, but he knows his weapons.    
+~
+190490 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 1 0
+E
+#8032
+butler old aged~
+the old butler~
+An aged butler awaits your order.
+~
+   This man's long face, bald head, and deep-set wrinkles do nothing to make
+him look any younger.  Most likely with the family for decades, the old butler
+is a trusted, if somewhat slow, helping hand about the large home.  He bows
+stiffly as you approach him, half-wincing at the movement.    
+~
+10 0 0 0 E
+9 15 7 5d5+130 2d7+1
+82 1300 0
+8 8 0 0
+BareHandAttack: 13
+E
+#8033
+lord house~
+the lord of the house~
+The lord of the house sits in his chair, perusing a book dating back centuries.
+~
+   The lord is in his middle age, though looking nearly as fit as a man ten
+years his junior.  He bears a neatly-trimmed beard and moustache shot with
+hints of grey in its dark brown bristles.  Questioning your presense as he
+looks at you, he seems unsure as whether to dismiss you, greet you, or ignore
+you completely.    
+~
+2074 0 0 0 E
+14 12 2 6d8+240 2d8+4
+311 7000 0
+8 8 0 0
+E
+#8034
+Jarabok huge leather-clad warrior trainer~
+Jarabok~
+A huge, leather-clad warrior assists with the gladiators' training.
+~
+   Jarabok was permitted to retire after a hundred and fifty-nine fights in the
+arena, after all of which he remained undefeated.  He bears a number of scars
+upon his body, showing that the price of these victories was sometimes high.  
+He looks at you appraisingly, and snorts slightly at you looking at him, as
+though he has already judged you to be an inadequate challenge.  However, his
+duty is to train others, and that would include you.    
+~
+7594011 33685564 0 0 E
+31 0 -15 3d33+2000 4d40+10
+0 1 3
+8 8 1 2
+BareHandAttack: 3
+E
+#8059
+angry minotaur mino muscular~
+an angry-looking minotaur~
+A muscular, somewhat angry-looking minotaur stands ready for battle.
+~
+   This minotaur is huge like most of his race, and stands nearly seven feet in
+height.  Old scars can be seen running through his dusky, bark-colored hide.  
+He has likely been a gladiator in Istar's arena for some time, and just as
+likely not by choice.  He wears little aside from a loincloth and harness, and
+wields a vicious-looking battleaxe.  For as much emotion as can be made out
+from a minotaur's features, this one seems rather pissed.    
+~
+1138746 33555456 0 0 E
+21 8 -5 3d33+450 3d8+7
+900 33500 3
+8 8 1 0
+BareHandAttack: 16
+E
+#8090
+mage white robed serenity enjoying~
+a white robed mage~
+A white robed mage sits here, enjoying the serenity of her surroundings.
+~
+   This pretty young woman sits under one of the larger trees with her eyes
+closed, and a slight smile upon her face.  She seems to be enjoying the peace
+and serenity of this small grove.  She wears the white robes of a mage, and
+carries a small pouch at her side, no doubt filled with components.    
+~
+581642 1032 2097169 850 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 1
+8 8 2 0
+BareHandAttack: 14
+E
+#8091
+Chaplain~
+a Chaplain~
+A Chaplain is here, waiting patiently for his audience with the High Priest.
+~
+   This man waits patiently for his audience with the High Priest, spending his
+time in apparent prayer.  His head is bowed, his hands folded.  He seems very
+peaceful, though looking at him gives one the impression that he is a soldier
+at heart.  He wears a white robe and hood, trimmed in brown.  A symbol of a
+bison's horn hangs about his neck.    
+~
+1597450 5120 9502724 850 E
+21 8 -5 3d33+450 3d8+7
+900 33500 2
+8 8 1 0
+BareHandAttack: 5
+E
+#8092
+bilart warrior retired trainer~
+Bilart, a retired warrior~
+Bilart, a retired warrior stands here ready to pass his knowledge on to others.
+~
+   Bilart stands before you here.  His tan and smooth skin is marred only in
+one spot, just above his left eye.  There a scar and obvious deformity of bone
+begin and jaggedly travel their way up under a plain leather cap that rests
+upon his head.  After receiving that wound in some long ago battle, he retired
+to Istar to set himself up as a trainer.  Here now, he sits, offering his
+services to whoever wishes to make use of them.    
+~
+7594059 235024512 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 2
+E
+#8093
+woman beauty flawless noble~
+a flawless beauty with a noble, and somewhat superior, mien~
+A woman of flawless beauty awaits her audience with the High Priest.
+~
+   This woman's beauty is beyond compare, and something about her demeanor
+makes it obvious that she is well aware of this blessing.  She is dressed in a
+lavish gown that serves to enhance her appearance.  Her silky auburn tresses
+are pulled back and loosely fastened with a ribbon at the base of her neck.  
+Her eyes sparkle like highly-faceted gemstones and are accented by long, thick
+eyelashes.    
+~
+24586 4096 0 300 E
+11 14 5 5d4+190 2d8+2
+99 2900 0
+8 8 2 0
+BareHandAttack: 8
+E
+#8094
+guard high istar guard1~
+the High Guard of Istar~
+In silver-enlaid plate armor, a High Guard of Istar patrols the halls aloofly.
+~
+   A brightly shining, blindingly well-polished breastplate and equally
+splendid helm easily identify this man as a High Guard of Istar.  Sworn not
+only to protect the city, but to uphold the will of the Kingpriest, and
+therefore, the will of the gods, these men are truly the elite force that all
+soldiers desire to become apart of.  The deadly grace with which the sword
+hangs at this man's side shows his years of skill with it -- a very strong
+opponent.    
+~
+1105994 5120 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 0
+8 8 1 0
+BareHandAttack: 3
+E
+#8095
+paladin paladine guard sentry impressive warrior paladin1~
+a paladin of Paladine in service of the Head Priest~
+An impressive warrior stands at attention here, his armor and accoutrements marking him as a holy paladin of Istar.
+~
+   This man is of an impressive build, clearly of a martial background from his
+stance and carriage.  His eyes sweep the corridor restlessly, while his
+form is both rigid and immobile.  His armor is the finest in all of Istar,
+polished steel set with the designs of Istar and the Gods of Light, the roaring
+dragon of Paladine foremost.  While his face speaks of the compassion of the
+devout, his eyes hold an edge of steel lent from his years of combat in the
+name of the holy tenents of Istar.    ~
+11036938 5124 1282 850 E
+28 2 -12 3d33+1250 4d7+9
+1700 175000 7
+8 8 1 0
+BareHandAttack: 3
+E
+#8096
+priest head middle man presence head1~
+the Head Priest of the Church of Istar~
+A man of middle age appears to be studying a holy text in detail, his aura of presence readily apparent even here.
+~
+Despite his incredible aura of majesty and presence, still readily apparent
+here in his private quarters, the trials of life have begun to show.  His
+golden hair is just beginning to show the sign of peppering and his eyes show
+the creases of a man burdened with the weight of the great state of Istar.  
+While the badge of office of the Head Priest of Istar yet hangs about his neck,
+he has shed his ornate robes and vestiments for a simple, white robe, almost
+causing him to appear somehow diminished.
+~
+1630234 33559596 35143696 1000 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 2
+8 8 1 0
+E
+#8097
+shadow distorted qqq~
+the distorted shadow~
+Blurred beyond recognition, the form of a distorted shadow lurks ...
+~
+   ...  You see nothing but a blurred mass, a haze like the smoke of burned
+flesh, churning the air...    
+~
+1572890 40 31481858 0 E
+10 12 -15 5d4+16000 2d3+0
+0 0 8
+8 8 0 0
+BareHandAttack: 9
+E
+#8098
+man dark-haired dark haired green cloak~
+a dark-haired man in a green cloak~
+A dark-haired man in a forest green cloak sits at the bar.
+~
+   Glancing about the area warily, this man looks to have troubles on his mind.
+Wrinkles of dark prophecy cover his face, broken by wisps of black and grey
+hair.  A thick green cloak is drawn up over his body in a protective manner, as
+though the fabric could keep off an unseen demon.    
+~
+24590 131072 0 0 E
+14 12 2 6d8+240 2d8+4
+476 7000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#8099
+messenger church man~
+a messenger for the church~
+A messenger makes his way through the temple on church business.
+~
+   The tall, gangly man moves about at a determined pace, a worn leather
+satchel bursting with parchment at his side.  His garb is an odd mix of reds
+and dark browns, puffing from his thin frame like the plumage of a magnificent
+bird.  He passes through the crowd quickly without a second glance, eager to be
+on his way to deliver his charges.    
+~
+24584 0 0 0 E
+11 14 5 5d4+190 2d8+2
+123 2900 0
+8 8 1 0
+BareHandAttack: 13
+E
+$

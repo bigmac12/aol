@@ -1,0 +1,50 @@
+2
+cw
+8
+c c-w $*
+1
+2
+ff
+8
+c f-f $*
+1
+2
+cl
+11
+c cure-l $*
+1
+2
+cm
+11
+c cure-m $*
+1
+2
+cs
+11
+c cure-s $*
+1
+2
+gs
+14
+c greater-s $*
+1
+1
+t
+18
+take all $*.corpse
+1
+4
+sing
+22
+em &Gsings&n, '&W$*&n'
+1
+2
+fs
+35
+pour wineskin out; fill wineskin $*
+1
+1
+.
+4
+hide
+0

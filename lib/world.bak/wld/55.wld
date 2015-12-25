@@ -1,0 +1,1952 @@
+#5500
+A Passage With A Triangular Roof~
+   A narrow passageway branches off from the central chamber of the tower and
+leads back straight into the mass of the mountain.  The walls angle steeply
+inwards and come together in a peak to form a triangle capable of bearing the
+weight of the stone over the hallway.  Although dim and unlit, faint light is
+visible away from the tower and murmuring voices cause a constant hum.    
+~
+55 32772 0 0 0
+D0
+~
+~
+0 0 5501
+D2
+~
+~
+0 0 5447
+S
+#5501
+Around the Viewing Gallery~
+   A wide stone ledge wraps around the outside of a deep octagonal room.  
+Shaped like a stepped bowl, this ledge lies near the top, but below is a
+smaller ledge which also surrounds a sunken stage in the center of the room.  
+The ledge has a finely carved oak rail topped with red padding that prevent
+movement down towards the stage from this upper level.    
+~
+55 32776 0 0 0
+D1
+~
+~
+0 0 5502
+D2
+~
+~
+0 0 5500
+D3
+~
+~
+0 0 5512
+S
+#5502
+Looking Down Onto a Lowered Stage~
+   A ledge continues to move around the outside of a deep, bowl shaped room.  
+From this vantage it is apparent that the central stage has no apparent
+entrance or exit and it would only be possible to enter it by some means from
+above.  The room is well lit despite the absence of any torches by a wide beam
+of light that emits from a hole directly above the stage.    
+~
+55 32776 0 0 0
+D3
+~
+~
+0 0 5501
+D7
+~
+~
+0 0 5503
+S
+#5503
+A Set of Narrow Benches~
+   The ledge is somewhat cluttered here by the presence of a series of elevated
+benches which allow one to sit comfortably while viewing the action down on the
+stage.  They seem to have been carved out of the stone during construction and
+are part of the ledge itself though they have inset wooden armrests and faded
+red and green cushions.    
+~
+55 32776 0 0 0
+D0
+~
+~
+0 0 5504
+D8
+~
+~
+0 0 5502
+S
+#5504
+A Closed Opening in the Floor~
+   A narrow metal door appears carefully inset into an accommodating opening in
+the floor of the ledge.  It is entirely solid and bears no outward clues as to
+how to open it as there are no handles or hinges and it fits very tightly into
+the floor.  On a nearby wall is a set of inscriptions surrounded by a thin
+rectangular border in faintly glowing paint.    
+~
+55 32776 0 0 0
+D0
+~
+~
+0 0 5505
+D2
+~
+~
+0 0 5503
+E
+inscriptions~
+  The glowing inscriptions state, "Stay away, private exit of the speaker."
+~
+E
+narrow metal door~
+   The door is firmly set into the stone floor.  Its seams are nearly
+perfect and there does not seem to be a way to open it from this side,
+it is an exit only.
+~
+S
+#5505
+A Projecting Ledge~
+   The even size of the surrounding walk gives way somewhat and widens even
+further to create a shallow balcony which provides an even better view of the
+stage.  The hand rail gracefully sweeps out to protect the projection though it
+additionally contains panels to prevent anything from falling down onto the
+viewing area below which it partially overhangs.    
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5504
+D6
+~
+~
+0 0 5506
+S
+#5506
+Around the Viewing Gallery~
+   A wide stone ledge wraps around the outside of a deep octagonal room.  
+Shaped like a stepped bowl, this ledge lies near the top, but below is a
+smaller ledge which also surrounds a sunken stage in the center of the room.  
+The ledge has a finely carved oak rail topped with red padding that prevent
+movement down towards the stage from this upper level.    
+~
+55 32768 0 0 0
+D3
+~
+~
+0 0 5507
+D9
+~
+~
+0 0 5505
+S
+#5507
+A Set of Narrow Benches~
+   The ledge is somewhat cluttered here by the presence of a series of elevated
+benches which allow one to sit comfortably while viewing the action down on the
+stage.  They seem to have been carved out of the stone during construction and
+are part of the ledge itself though they have inset wooden armrests and faded
+red and green cushions.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5506
+D3
+~
+~
+0 0 5508
+S
+#5508
+Looking Down Onto a Lowered Stage~
+   A ledge continues to move around the outside of a deep, bowl shaped room.  
+From this vantage it is apparent that the central stage has no apparent
+entrance or exit and it would only be possible to enter it by some means from
+above.  The room is well lit despite the absence of any torches by a wide beam
+of light that emits from a hole directly above the stage.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5507
+D8
+~
+~
+0 0 5509
+S
+#5509
+Around the Viewing Gallery~
+   A wide stone ledge wraps around the outside of a deep octagonal room.  
+Shaped like a stepped bowl, this ledge lies near the top, but below is a
+smaller ledge which also surrounds a sunken stage in the center of the room.  
+The ledge has a finely carved oak rail topped with red padding that prevent
+movement down towards the stage from this upper level.    
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5510
+D7
+~
+~
+0 0 5508
+S
+#5510
+A Projecting Ledge~
+   The even size of the surrounding walk gives way somewhat and widens even
+further to create a shallow balcony which provides an even better view of the
+stage.  The hand rail gracefully sweeps out to protect the projection though it
+additionally contains panels to prevent anything from falling down onto the
+viewing area below which it partially overhangs.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5509
+D2
+~
+~
+0 0 5511
+S
+#5511
+Looking Down Onto a Lowered Stage~
+   A ledge continues to move around the outside of a deep, bowl shaped room.  
+From this vantage it is apparent that the central stage has no apparent
+entrance or exit and it would only be possible to enter it by some means from
+above.  The room is well lit despite the absence of any torches by a wide beam
+of light that emits from a hole directly above the stage.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5510
+D9
+~
+~
+0 0 5512
+S
+#5512
+A Set of Narrow Benches~
+   The ledge is somewhat cluttered here by the presence of a series of elevated
+benches which allow one to sit comfortably while viewing the action down on the
+stage.  They seem to have been carved out of the stone during construction and
+are part of the ledge itself though they have inset wooden armrests and faded
+red and green cushions.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5501
+D6
+~
+~
+0 0 5511
+S
+#5513
+A Passage With A Triangular Roof~
+   A narrow passageway branches off from the central chamber of the tower and
+leads back straight into the mass of the mountain.  The walls angle steeply
+inwards and come together in a peak to form a triangle capable of bearing the
+weight of the stone over the hallway.  Although dim and unlit, faint light is
+visible away from the tower and murmuring voices cause a constant hum.    
+~
+55 32772 0 0 0
+D0
+~
+~
+0 0 5514
+D2
+~
+~
+0 0 5444
+S
+#5514
+A Passage With A Triangular Roof~
+   A narrow passageway branches off from the central chamber of the tower and
+leads back straight into the mass of the mountain.  The walls angle steeply
+inwards and come together in a peak to form a triangle capable of bearing the
+weight of the stone over the hallway.  Although dim and unlit, faint light is
+visible away from the tower and murmuring voices cause a constant hum.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5515
+D2
+~
+~
+0 0 5513
+S
+#5515
+Beside a Lowered Stage~
+   A small ring of ledge encircles a central stage in the lower half of a high
+bowl shaped amphitheatre.  The ledge is relatively thin and could likely only
+contain one or two across before blocking the passage.  A wider ledge is
+visible above, also circling the room and in the ceiling is a bright light
+shining from a hole and causing a spot light effect on the stage.    
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5514
+D6
+~
+~
+0 0 5518
+D7
+~
+~
+0 0 5516
+S
+#5516
+An Inner Ring of Benches~
+   Against the back wall of the narrow ledge is a line of benches in the form
+of a set of shallow shelves that would be little better than something to lean
+against.  Even with their small size they still partially block the passage.  
+Although stone, the once sharply carved edges are worn and small chips mar the
+corners.  They are uncomfortable but offer an excellent view.    
+~
+55 32768 0 0 0
+D6
+~
+~
+0 0 5517
+D8
+~
+~
+0 0 5515
+S
+#5517
+Beside a Lowered Stage~
+   A small ring of ledge encircles a central stage in the lower half of a high
+bowl shaped amphitheatre.  The ledge is relatively thin and could likely only
+contain one or two across before blocking the passage.  A wider ledge is
+visible above, also circling the room and in the ceiling is a bright light
+shining from a hole and causing a spot light effect on the stage.    
+~
+55 32768 0 0 0
+D8
+~
+~
+0 0 5518
+D9
+~
+~
+0 0 5516
+S
+#5518
+An Inner Ring of Benches~
+   Against the back wall of the narrow ledge is a line of benches in the form
+of a set of shallow shelves that would be little better than something to lean
+against.  Even with their small size they still partially block the passage.  
+Although stone, the once sharply carved edges are worn and small chips mar the
+corners.  They are uncomfortable but offer an excellent view.    
+~
+55 32768 0 0 0
+D3
+~
+~
+0 0 5519
+D7
+~
+~
+0 0 5517
+D9
+~
+~
+0 0 5515
+S
+#5519
+A Split in a Dark Hallway~
+   A smoothly floored hallway passes through an unlit section of the interior
+chambers.  Light shines in a bit from a large room to the east while the
+passage splits into two dim corridors to the west.  Great attention has been
+paid to finishing the floor of the hall but apparently very little was paid to
+the almost unfinished and rough appearance of the ceiling and walls.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5518
+D6
+~
+~
+0 0 5567
+D8
+~
+~
+0 0 5520
+S
+#5520
+A Hallway Lined with Recessed Shelves~
+   Shelves begin to line the walls of this long and thin hallway.  They are
+recessed into the stone and are of varying sizes and depths.  All appear to be
+empty though they do all contain a fine layer of dust indicating a long period
+of disuse.  Here and there are rectangular breaks in the dust, likely left when
+a forgotten book was finally removed.    
+~
+55 32772 0 0 0
+D3
+~
+~
+0 0 5521
+D7
+~
+~
+0 0 5519
+E
+shelf shelves~
+   The shelves are mostly empty, but here and there an old book sits
+on its side, untouched for many years.
+~
+S
+#5521
+A Hallway Lined with Recessed Shelves~
+   Shelves begin to line the walls of this long and thin hallway.  They are
+recessed into the stone and are of varying sizes and depths.  All appear to be
+empty though they do all contain a fine layer of dust indicating a long period
+of disuse.  Here and there are rectangular breaks in the dust, likely left when
+a forgotten book was finally removed.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5520
+D5
+~
+~
+0 0 5522
+E
+shelf shelves~
+   The shelves are mostly empty, but here and there an old book sits
+on its side, untouched for many years.
+~
+S
+#5522
+A Set of Creaking Wooden Steps~
+   Well worn and somewhat damaged steps lead nearly straight up and down
+through a narrow and slanted corridor.  A musty and old smell comes from below
+as the stairs creak and groan under the passing weight.  Halfway along the
+steps hangs a thin curtain of torn fabric which must be pushed to one side in
+order to pass.    
+~
+55 32768 0 0 0
+D4
+~
+~
+0 0 5521
+D5
+~
+~
+0 0 5524
+S
+#5523
+A Spiral Staircase Circled By Books~
+   A tightly wound spiral staircase descends into a small round hole in the
+stone floor.  The stairs lack guardrails in order to accommodate a set of
+cherrywood shelves which encircle the stairs and follow it down.  Many more
+books appear to have been placed here, likely due to the ease of their
+retrieval coming in and out of the library.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5524
+D5
+~
+~
+0 0 5527
+S
+#5524
+Rows of High Shelves~
+   Lining the walls of this narrow vertical crevice are shelves that stretch
+down and up from floor to ceiling.  They are largely filled with dusty and
+decrepit books, most of which seem to have been untouched for years.  Although
+the shelves lack any formal partitions, the books seem to be grouped together
+and held in place by small stones at each end.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5525
+D3
+~
+~
+0 0 5523
+D4
+~
+~
+0 0 5522
+E
+shelf shelves~
+   There are numerous books sitting on the shelves. They seem to range
+in topic from alchemy to the nature of the natural forces of magic.  It
+is a huge resource for the study of the mysterious arts.
+~
+S
+#5525
+Through a Hushed Corridor~
+   A twisting corridor whose walls are adorned with the symbols of knowledge
+and learning passes through the cold stone.  A faint breeze is apparent running
+along the floor from the south, but the general warmth of the interior makes it
+still very comfortable.  The air has become hushed and only the faint sounds of
+clicking footfalls and whispered voices can be heard.    
+~
+55 32772 0 0 0
+D3
+~
+~
+0 0 5524
+D5
+~
+~
+0 0 5532
+S
+#5526
+Ornate and Empty Bookcases~
+   The shelves continue to cover the walls but are largely lacking in books
+here.  The higher levels require the movement of small ladders for access,
+separate from those needed to move through the main areas, and this appears to
+be too much effort in these frigid rooms.  Here and there scattered pieces of
+paper are left behind, fallen from old books.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5527
+D5
+~
+~
+0 0 5529
+E
+shelf shelves~
+   The shelves here have been largely ignored in favor of the better
+lit areas near the torches.  An old ladder leans heavily against one
+shelf, nearly falling apart.
+~
+S
+#5527
+A Spiral Staircase Circled By Books~
+   A tightly wound spiral staircase descends into a small round hole in the
+stone floor.  The stairs lack guardrails in order to accommodate a set of
+cherrywood shelves which encircle the stairs and follow it down.  Many more
+books appear to have been placed here, likely due to the ease of their
+retrieval coming in and out of the library.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5528
+D3
+~
+~
+0 0 5526
+D4
+~
+~
+0 0 5523
+S
+#5528
+Ornate and Empty Bookcases~
+   The shelves continue to cover the walls but are largely lacking in books
+here.  The higher levels require the movement of small ladders for access,
+separate from those needed to move through the main areas, and this appears to
+be too much effort in these frigid rooms.  Here and there scattered pieces of
+paper are left behind, fallen from old books.    
+~
+55 32768 0 0 0
+D3
+~
+~
+0 0 5527
+D5
+~
+~
+0 0 5530
+E
+shelf shelves~
+   The shelves here have been largely ignored in favor of the better
+lit areas near the torches.  An old ladder leans heavily against one
+shelf, nearly falling apart.
+~
+S
+#5529
+Rows of High Shelves~
+   Lining the walls of this narrow vertical crevice are shelves that stretch
+down and up from floor to ceiling.  They are largely filled with dusty and
+decrepit books, most of which seem to have been untouched for years.  Although
+the shelves lack any formal partitions, the books seem to be grouped together
+and held in place by small stones at each end.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5530
+D4
+~
+~
+0 0 5526
+E
+shelf shelves~
+   There are numerous books sitting on the shelves. They seem to range
+in topic from alchemy to the nature of the natural forces of magic.  It
+is a huge resource for the study of the mysterious arts.
+~
+S
+#5530
+Ornate and Empty Bookcases~
+   The shelves continue to cover the walls but are largely lacking in books
+here.  The higher levels require the movement of small ladders for access,
+separate from those needed to move through the main areas, and this appears to
+be too much effort in these frigid rooms.  Here and there scattered pieces of
+paper are left behind, fallen from old books.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5531
+D3
+~
+~
+0 0 5529
+D4
+~
+~
+0 0 5528
+E
+shelf shelves~
+   The shelves here have been largely ignored in favor of the better
+lit areas near the torches.  An old ladder leans heavily against one
+shelf, nearly falling apart.
+~
+S
+#5531
+Rows of High Shelves~
+   Lining the walls of this narrow vertical crevice are shelves that stretch
+down and up from floor to ceiling.  They are largely filled with dusty and
+decrepit books, most of which seem to have been untouched for years.  Although
+the shelves lack any formal partitions, the books seem to be grouped together
+and held in place by small stones at each end.    
+~
+55 32768 0 0 0
+D3
+~
+~
+0 0 5530
+E
+shelf shelves~
+   There are numerous books sitting on the shelves. They seem to range
+in topic from alchemy to the nature of the natural forces of magic.  It
+is a huge resource for the study of the mysterious arts.
+~
+S
+#5532
+A Wide Arched Doorway~
+   A doorway sits in the middle of the hall.  It has a thick fabric curtain
+clumsily tacked into place to cover the opening where likely a large solid door
+once hung.  The arch of the door comes to a point at the top and its edges are
+beveled in several feet.  On the sides within the arch are the incised images
+of thoughtful and contemplative figures.    
+~
+55 32768 0 0 0
+D4
+~
+~
+0 0 5525
+D5
+~
+~
+0 0 5533
+S
+#5533
+Through a Hushed Corridor~
+   A twisting corridor whose walls are adorned with the symbols of knowledge
+and learning passes through the cold stone.  A faint breeze is apparent running
+along the floor from the south, but the general warmth of the interior makes it
+still very comfortable.  The air has become hushed and only the faint sounds of
+clicking footfalls and whispered voices can be heard.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5535
+D4
+~
+~
+0 0 5532
+S
+#5534
+A Small Cubicle~
+   Set aside from the rest of the room are small three walled cubicles with a
+little table and chairs.  Although the walls are only chest height, they do
+offer some privacy while reading.  The furniture appears mixed and matched and
+of poor quality as if replacing some earlier set.  Papers are littered about
+when someone apparently dropped their notes.    
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5535
+S
+#5535
+The Reading Room~
+   A large barrel roofed room with small side chambers appears to be a place
+off the main library for the study of the books.  Littered about the room are
+small stands to accommodate the reading of the books accompanied by stiff and
+uncomfortable looking straight backed chairs.  A bright light emanates nearby
+from the center of the room, making the experience easier on the readers eyes.
+~
+55 32772 0 0 0
+D0
+~
+~
+0 0 5534
+D2
+~
+~
+0 0 5536
+D3
+~
+~
+0 0 5533
+S
+#5536
+An Open Tiled Floor~
+   The rooms floor is covered by a very large number of small grey tiles,
+likely laid over the floor to cover the uneven stone.  However when walked
+upon, light tapping sounds are emitted breaking the otherwise total silence.  
+There is a distinct chill in the air here as if this room was somewhere open
+again to the cold and snow outside.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5535
+D1
+~
+~
+0 0 5541
+D8
+~
+~
+0 0 5537
+S
+#5537
+A Small Cubicle~
+   Set aside from the rest of the room are small three walled cubicles with a
+little table and chairs.  Although the walls are only chest height, they do
+offer some privacy while reading.  The furniture appears mixed and matched and
+of poor quality as if replacing some earlier set.  Papers are littered about
+when someone apparently dropped their notes.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5538
+D7
+~
+~
+0 0 5536
+S
+#5538
+The Reading Room~
+   A large barrel roofed room with small side chambers appears to be a place
+off the main library for the study of the books.  Littered about the room are
+small stands to accommodate the reading of the books accompanied by stiff and
+uncomfortable looking straight backed chairs.  A bright light emanates nearby
+from the center of the room, making the experience easier on the readers eyes.
+~
+55 32768 0 0 0
+D3
+~
+~
+0 0 5537
+D9
+~
+~
+0 0 5539
+S
+#5539
+An Outside View~
+   A jutting corner of the room sticks out away form the main body of the
+reading hall.  The source of the cold wind becomes apparent here as a high
+arched window breaks through the outside of the stone to the open cliff beyond.
+Once framed and glazed, it is now broken and allows cold wind to blow through
+though affords a beautiful view of a green field in the far distance.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5540
+D6
+~
+~
+0 0 5538
+E
+window~
+   The window is broken and the glass lays shattered about the floor.
+A refreshing but very cold breeze blows in though the opening, bringing
+snow into the library.  The view beyond is still somewhat obscured by
+the swirling snow, but below a picturesque farmland hints at a much
+warmer climate.
+~
+S
+#5540
+An Open Tiled Floor~
+   The rooms floor is covered by a very large number of small grey tiles,
+likely laid over the floor to cover the uneven stone.  However when walked
+upon, light tapping sounds are emitted breaking the otherwise total silence.  
+There is a distinct chill in the air here as if this room was somewhere open
+again to the cold and snow outside.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5541
+D2
+~
+~
+0 0 5539
+S
+#5541
+The Statue of a Wizened Man~
+   Resting in the center of the room is a tall statue holding and gazing into a
+brightly lit orb.  Appearing sickly and frail, the man stares blankly and with
+an open mouth and long beard into the device which serves to light the room for
+its patrons.  It sits on a plain square base that does not match up properly
+with the floor tiles pattern.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5542
+D1
+~
+~
+0 0 5544
+D2
+~
+~
+0 0 5540
+D3
+~
+~
+0 0 5536
+S
+#5542
+An Open Tiled Floor~
+   The rooms floor is covered by a very large number of small grey tiles,
+likely laid over the floor to cover the uneven stone.  However when walked
+upon, light tapping sounds are emitted breaking the otherwise total silence.  
+There is a distinct chill in the air here as if this room was somewhere open
+again to the cold and snow outside.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5543
+D2
+~
+~
+0 0 5541
+S
+#5543
+The Reading Room~
+   A large barrel roofed room with small side chambers appears to be a place
+off the main library for the study of the books.  Littered about the room are
+small stands to accommodate the reading of the books accompanied by stiff and
+uncomfortable looking straight backed chairs.  A bright light emanates nearby
+from the center of the room, making the experience easier on the readers eyes.
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5544
+D3
+~
+~
+0 0 5542
+S
+#5544
+A Small Cubicle~
+   Set aside from the rest of the room are small three walled cubicles with a
+little table and chairs.  Although the walls are only chest height, they do
+offer some privacy while reading.  The furniture appears mixed and matched and
+of poor quality as if replacing some earlier set.  Papers are littered about
+when someone apparently dropped their notes.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5543
+D3
+~
+~
+0 0 5541
+S
+#5545
+A Richly Decorated Hallway~
+Extra time has been taken to add to visual impact of this wide hallway.  Every
+few steps large extruded panels from the stone walls depict various fantastic
+scenes and complex series of patterns and figures.  Along the ceiling runs a
+long lengths of a silky fabric which billows down and gives the stone a soft
+and warm appearance.    
+~
+55 32772 0 0 0
+D1
+~
+~
+0 0 5546
+D4
+~
+~
+0 0 5504
+S
+#5546
+A Walkway Lined With Faded Red Carpet~
+   A hallway moves through and area obviously set aside for private use.  
+There is very little noise as the sound is reduces due to the reduction in
+traffic.  A red carpet, faded and worn in the middle runs down the length of
+the hall stretching almost to the smoothed walls and held in place at its edges
+by square brown tacks.    
+~
+55 32768 0 0 0
+D3
+~
+~
+0 0 5545
+D5
+~
+~
+0 0 5547
+S
+#5547
+A Series of Murals~
+   The walls here have been expertly carved along their entire length to depict
+various scenes detailing rites of magic and mysticism.  There is a general
+theme of the hidden presence of dragons and their effects in the everyday lives
+of mortals shown through the barely visible draconian eyes peering over the
+laboring mages as if both their guides and judges.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5548
+D4
+~
+~
+0 0 5546
+E
+murals walls~
+   In one scene a large red dragon seems to be casting out a huge cone
+of ice and snow at a kneeling mage.  The mage appears to be receptive
+to the punishment and waits patiently for what would appear to be her
+imminent death from freezing.
+~
+S
+#5548
+A Richly Decorated Hallway~
+   Extra time has been taken to add to visual impact of this wide hallway.  
+Every few steps large extruded panels from the stone walls depict various
+fantastic scenes and complex series of patterns and figures.  Along the ceiling
+runs a long lengths of a silky fabric which billows down and gives the stone a
+soft and warm appearance.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5549
+D3
+~
+~
+0 0 5547
+S
+#5549
+A Series of Murals~
+   The walls here have been expertly carved along their entire length to depict
+various scenes detailing rites of magic and mysticism.  There is a general
+theme of the hidden presence of dragons and their effects in the everyday lives
+of mortals shown through the barely visible draconian eyes peering over the
+laboring mages as if both their guides and judges.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5550
+D2
+~
+~
+0 0 5548
+D3
+~
+~
+0 0 5552
+E
+murals walls~
+   An intense set of disembodied eyes looks down over a small down near
+a large body of water.  They do not seem to be unfriendly, but they
+bear an undeniable sense of disapproval.  Dark clouds roll in from the
+background, casting the town into night.
+~
+S
+#5550
+A Walkway Lined With Faded Red Carpet~
+   A hallway moves through and area obviously set aside for private use.  
+There is very little noise as the sound is reduces due to the reduction in
+traffic.  A red carpet, faded and worn in the middle runs down the length of
+the hall stretching almost to the smoothed walls and held in place at its edges
+by square brown tacks.   
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5551
+D3
+~
+~
+0 0 5549
+S
+#5551
+Chamber of the Speaker~
+   A very small rectangular room lies at the end of the hallway, protected
+behind a sealed door.  It is almost without any furniture, containing only a
+small cot and a stand for reading from large books.  Across the flat ceiling is
+an old and chipped painting showing a view of the stars largely obscured by
+mist and clouds.  Although obviously still used, it maintains an air of
+abandon.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5550
+E
+painting ceiling~
+   This painting has been beautifully painted despite its now decayed
+appearance.  The constellations pertaining to the gods have been highlighted
+in brighter colors and the formation of Hiddukel has been highlighted
+by a black circle.
+~
+S
+#5552
+A Walkway Lined With Faded Red Carpet~
+   A hallway moves through and area obviously set aside for private use.  
+There is very little noise as the sound is reduces due to the reduction in
+traffic.  A red carpet, faded and worn in the middle runs down the length of
+the hall stretching almost to the smoothed walls and held in place at its edges
+by square brown tacks.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5549
+D4
+~
+~
+0 0 5553
+S
+#5553
+In Front of a Thick Door~
+   At the top of a short staircase the hallway abruptly stops at a thick, oak
+paneled door.  Although appearing very solid, the door has had its molding
+pulled away and the beautiful stain which once covered its wood in a rich
+golden color has been worn away and has chipped in the dry air.  Down the
+stairs it is quiet and dark.    
+~
+55 32772 0 0 0
+D0
+~
+~
+0 0 5554
+D3
+~
+~
+0 0 5555
+D5
+~
+~
+0 0 5552
+S
+#5554
+Dressing Room~
+   This room is unlike any others in this enclosed complex, due to the quality
+of its interior.  It is round with a domed ceiling from which hangs an
+elaborate silver chandelier containing more than twenty huge candles.  
+Beautiful furniture and rich adornments lay carefully placed about the room,
+likely remnants of the earlier furnishings from when these halls were more in
+use.    
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5553
+S
+#5555
+A Series of Murals~
+   The walls here have been expertly carved along their entire length to depict
+various scenes detailing rites of magic and mysticism.  There is a general
+theme of the hidden presence of dragons and their effects in the everyday lives
+of mortals shown through the barely visible draconian eyes peering over the
+laboring mages as if both their guides and judges.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5553
+D3
+~
+~
+0 0 5556
+E
+murals walls~
+   A quiet scene is depicted by a circle of mages in solemn contemplation.
+From their midst arises a faint mist that almost seems to take form as
+some massive reptile.  A nearby waterfall appears frozen and immobile
+as if nothing dared move in the presence of the ceremony.
+~
+S
+#5556
+Entrance to the Stage~
+   From the southwest a glaring light pours into the dim hallway, illuminating
+that end but making the other direction even harder to see.  There are numerous
+empty racks and shelves which would likely have contained various pieces of
+paraphernalia for anyone entering the stage.  From this side, a shimmering wall
+of translucent stone leads out into the amphitheatre.    
+~
+55 32772 0 0 0
+D1
+~
+~
+0 0 5555
+D8
+~
+~
+0 0 5557
+S
+#5557
+The Central Stage~
+   Down in the interior of a deep bowl, a sharp concavity containing a wooden
+floor that resembles a stage just large enough for one to stand looks up to the
+viewing ledges above.  The area is completely bare and looking up, a blinding
+light shines down obscuring the detail of who may be looking back down from
+above.  There is no apparent exit though one wall appears to be flickering
+slightly.    
+~
+55 32768 0 0 0
+D7
+~
+~
+0 0 5556
+S
+#5558
+A Vertical Tunnel~
+   A passageway moves almost straight up and down through rough and cracked
+stone.  Steps and handholds appear almost randomly as a set of unfinished
+diagonal stairways move up alongside.  The stone in this area turned out to be
+too brittle to carve and a makeshift manner of travel has to be settled on
+instead of the stairs.    
+~
+55 32768 0 0 0
+D4
+~
+~
+0 0 5559
+D5
+~
+~
+0 0 5567
+S
+#5559
+A Series of Short Diagonal Stairways~
+   A set of stairs works its way up the walls of a roughly hewn tunnel.  They
+are set against the back wall and move up at a shallow angle for the tunnels
+width before crossing back over onto themselves and continuing back up again a
+short distance.  The stairs are narrow and there is a far fall into empty space
+beside them.    
+~
+55 32768 0 0 0
+D4
+~
+~
+0 0 5560
+D5
+~
+~
+0 0 5558
+S
+#5560
+A Vertical Tunnel~
+   A passageway moves almost straight up and down through rough and cracked
+stone.  Steps and handholds appear almost randomly as a set of unfinished
+diagonal stairways move up alongside.  The stone in this area turned out to be
+too brittle to carve and a makeshift manner of travel has to be settled on
+instead of the stairs.    
+~
+55 32772 0 0 0
+D0
+~
+~
+0 0 5561
+D5
+~
+~
+0 0 5559
+S
+#5561
+In A High Chamber~
+   A huge and cold chamber has been hacked out very roughly above the rest of
+the rooms within the mountain.  It appears as though this area has been a
+rather recent addition to the complex as its walls are still jagged and cracked
+and a lot of loose stone still litters the floor.  The sound of a whistling
+winds through with the scent of fresh air.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5566
+D2
+~
+~
+0 0 5560
+D3
+~
+~
+0 0 5562
+S
+#5562
+A Small Slitted Window in the Room~
+   At one side of the wide room is a long rectangular window that runs from the
+floor to the ceiling but is only a hand in width.  The edges are slanted in and
+the opening is completely uncovered allowing an open view of the frozen
+mountain outside but also allowing a freezing wind carrying stinging frozen
+rain to enter and pummel any who approach.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5565
+D1
+~
+~
+0 0 5561
+D3
+~
+~
+0 0 5563
+S
+#5563
+Books and Papers Scattered on the Floor~
+   The mysterious use of this large room becomes more apparent at the
+appearance of large piles of old books and astrological charts which have been
+haphazardly tossed onto the floor.  They appear to have been read then cast
+aside to freeze and stick together on the floor without apparently any regard
+for their upkeep or longevity.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5564
+D1
+~
+~
+0 0 5562
+S
+#5564
+A Small Slitted Window in the Room~
+   At one side of the wide room is a long rectangular window that runs from the
+floor to the ceiling but is only a hand in width.  The edges are slanted in and
+the opening is completely uncovered allowing an open view of the frozen
+mountain outside but also allowing a freezing wind carrying stinging frozen
+rain to enter and pummel any who approach.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5565
+D2
+~
+~
+0 0 5563
+S
+#5565
+In A High Chamber~
+   A huge and cold chamber has been hacked out very roughly above the rest of
+the rooms within the mountain.  It appears as though this area has been a
+rather recent addition to the complex as its walls are still jagged and cracked
+and a lot of loose stone still litters the floor.  The sound of a whistling
+winds through with the scent of fresh air.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5566
+D2
+~
+~
+0 0 5562
+D3
+~
+~
+0 0 5564
+D4
+~
+~
+0 0 5568
+S
+#5566
+Books and Papers Scattered on the Floor~
+   The mysterious use of this large room becomes more apparent at the
+appearance of large piles of old books and astrological charts which have been
+haphazardly tossed onto the floor.  They appear to have been read then cast
+aside to freeze and stick together on the floor without apparently any regard
+for their upkeep or longevity.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5570
+D2
+~
+~
+0 0 5561
+D3
+~
+~
+0 0 5565
+S
+#5567
+A Series of Short Diagonal Stairways~
+   A set of stairs works its way up the walls of a roughly hewn tunnel.  They
+are set against the back wall and move up at a shallow angle for the tunnels
+width before crossing back over onto themselves and continuing back up again a
+short distance.  The stairs are narrow and there is a far fall into empty space
+beside them.    
+~
+55 32772 0 0 0
+D4
+~
+~
+0 0 5558
+D9
+~
+~
+0 0 5519
+S
+#5568
+A Cramped Staircase~
+   Like the rest of this area, a newly chipped staircase reaches up further
+into the mountain but has been left largely unfinished and uneven.  No effort
+has been used in construction save just enough to allow passage.  The wind,
+freezing and wet blows straight down the narrow passage from above rattling
+loose stone and blowing about powdery snow.    
+~
+55 32768 0 0 0
+D4
+~
+~
+0 0 5569
+D5
+~
+~
+0 0 5565
+S
+#5569
+Observation Tower~
+   A cramped set of stairs lead down through a tiny hole in the floor of a
+small circular room.  The climb has apparently reached the top of this part of
+the mountain and the ceiling is completely gone, replaced by an unimpeded view
+of the sky.  Through another opening to the side a winding and snow covered
+road is apparent to the east through a small window, clean except for a line of
+footprints leading to the edge of a cliff.    
+~
+55 32768 0 0 0
+D5
+~
+~
+0 0 5568
+S
+#5570
+A Cramped, Low Tunnel~
+   An extremely low and cramped tunnel winds an erratic path through the
+overhanging stone.  There is little enough room here that it seems as though
+that it had been chipped out by someone laying out prostrate to work.  It is
+necessary in places to push through, belongings outstretched to pass as the
+crack meanders through an unknown path.    
+~
+55 33029 0 0 0
+D3
+~
+~
+0 0 5566
+D9
+~
+~
+0 0 5571
+S
+#5571
+Passing Through a Vein of Quartz~
+   The scratchy texture of the granite suddenly gives way to a wide vein of
+quartz.  The color becomes shades from yellowish-white to an almost clear
+crystal and the surfaces are sharp and jagged.  Forced to move through this
+incredibly hard material, the constructors have narrowed the passage even
+further and made movement uncomfortable if not nearly impossible.    
+~
+55 33025 0 0 0
+D6
+~
+~
+0 0 5570
+D9
+~
+~
+0 0 5572
+S
+#5572
+A Cramped, Low Tunnel~
+   An extremely low and cramped tunnel winds an erratic path through the
+overhanging stone.  There is little enough room here that it seems as though
+that it had been chipped out by someone laying out prostrate to work.  It is
+necessary in places to push through, belongings outstretched to pass as the
+crack meanders through an unknown path.    
+~
+55 33025 0 0 0
+D2
+~
+~
+0 0 5573
+D6
+~
+~
+0 0 5571
+S
+#5573
+Passing Through a Vein of Quartz~
+   The scratchy texture of the granite suddenly gives way to a wide vein of
+quartz.  The color becomes shades from yellowish-white to an almost clear
+crystal and the surfaces are sharp and jagged.  Forced to move through this
+incredibly hard material, the constructors have narrowed the passage even
+further and made movement uncomfortable if not nearly impossible.    
+~
+55 33025 0 0 0
+D0
+~
+~
+0 0 5572
+D9
+~
+~
+0 0 5574
+S
+#5574
+A Room of Searing Light and Heat~
+   An oval room with a concave ceiling and a hole in the floor open up from the
+claustrophobic passageway.  It is filled with intense heat radiating from a
+blazing globe of light poised above the hole.  The ceiling is polished silver
+which reflects the light down into a beam which passes through the hole and
+down onto a stage within a large room below.    
+~
+55 32768 0 0 0
+D5
+~
+~
+0 0 5557
+D6
+~
+~
+0 0 5573
+S
+#5575
+A Snowy Tunnel~
+   A tunnel has branched away from a nearby room within the cliff and moves
+along through its interior.  Snow blown in from the nearby opening has covered
+the floor in a thin but icy solid layer.  The ground crunches underfoot and
+small pools of crusted ice follow the walls, left behind by the slow drip from
+cracks in the walls.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5576
+D3
+~
+~
+0 0 5483
+S
+#5576
+Within A Cave~
+   Small bumps litter the floor newly formed stalagmites of hardened minerals
+from the dripping of the walls and ceiling.  Occasionally, faint drips are
+apparent lightly echoing in the smoothly walled cave.  The passage works its
+way along an apparently random path that continues on through the dark stone.
+The air is calm and it curiously carries the smell of the forest within it.  
+~
+55 32772 0 0 0
+D0
+~
+~
+0 0 5577
+D3
+~
+~
+0 0 5575
+S
+#5577
+Scattered Footprints and Grass~
+   Here and there on the floor, footprints from numerous individuals break up
+the even coating of dust that covers the floor.  They seem to be leading in
+from the east and going to the west.  Dropped beside the prints and very
+incongruous for the cliff are numerous bits of grass and twigs, likely carried
+in stuck to the clothes who left the prints and are still fresh enough to carry
+their sweet odor.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5578
+D2
+~
+~
+0 0 5576
+S
+#5578
+Within A Cave~
+   Small bumps litter the floor newly formed stalagmites of hardened minerals
+from the dripping of the walls and ceiling.  Occasionally, faint drips are
+apparent lightly echoing in the smoothly walled cave.  The passage works its
+way along an apparently random path that continues on through the dark stone.
+The air is calm and it curiously carries the smell of the forest within it.  
+~
+55 32768 0 0 0
+D3
+~
+~
+0 0 5577
+D5
+~
+~
+0 0 5579
+S
+#5579
+Scattered Footprints and Grass~
+   Here and there on the floor, footprints from numerous individuals break up
+the even coating of dust that covers the floor.  They seem to be leading in
+from the east and going to the west.  Dropped beside the prints and very
+incongruous for the cliff are numerous bits of grass and twigs, likely carried
+in stuck to the clothes who left the prints and are still fresh enough to carry
+their sweet odor.    
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5580
+D4
+~
+~
+0 0 5578
+S
+#5580
+Above A Steep Descent~
+   A small ledge stands out over an extremely steep drop down the side of the
+cliff, though a nearby passage in to the stone offers some refuge from the
+precarious position.  A view of the surrounding, green countryside is visible
+here below the clouds and largely down the cliff.  A tower and ledges, mostly
+obscured by snow are visible high above perched on the side of the cliffs face.
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5579
+D5
+~
+~
+0 0 5581
+S
+#5581
+Descending The Cliff~
+   A long series of rough handholds and ledges nearby leads nearly straight up
+and down the side of the cliff face.  At one time it appears from the broken
+tips of iron pins that a formal set of rungs led most of the way down but these
+have long since decayed away leaving a difficult climb.  Small patches of grass
+and weeds break out through thin cracks in the stone.    
+~
+55 32768 0 0 0
+D4
+~
+~
+0 0 5580
+D5
+~
+~
+0 0 5582
+S
+#5582
+Nearing The Bottom~
+   At this height the climb on the cliff does not appear to be too bad.  The
+base of the cliff and flat land are very near below though the ledges seem to
+continue high up in to the sky above.  The scent of the forest below permeates
+the air and the top of its thick canopy stretches out below and obscures the
+ground.    
+~
+55 32768 0 0 0
+D4
+~
+~
+0 0 5581
+D5
+~
+~
+0 0 5583
+S
+#5583
+Descending The Cliff~
+   A long series of rough handholds and ledges nearby leads nearly straight up
+and down the side of the cliff face.  At one time it appears from the broken
+tips of iron pins that a formal set of rungs led most of the way down but these
+have long since decayed away leaving a difficult climb.  Small patches of grass
+and weeds break out through thin cracks in the stone.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5584
+D4
+~
+~
+0 0 5582
+S
+#5584
+A Warm Gust of Air~
+   A shallow ledge provides a brief respite in the climb.  Although narrow and
+covered in rough shards of bedrock it is a welcome change from hanging off the
+side from the fragile handholds.  A gust of warm air suddenly blows up directly
+from below fighting back the steady chill of cold air that flows slowly down
+from the continually raging snow further up the cliff.    
+~
+55 32768 0 0 0
+D3
+~
+~
+0 0 5583
+D5
+~
+~
+0 0 5585
+S
+#5585
+Near The Bottom~
+   At this height the climb on the cliff does not appear to be too bad.  The
+base of the cliff and flat land are very near below though the ledges seem to
+continue high up in to the sky above.  The scent of the forest below permeates
+the air and the top of its thick canopy stretches out below and obscures the
+ground.    
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5586
+D4
+~
+~
+0 0 5584
+S
+#5586
+Descending The Cliff~
+   A long series of rough handholds and ledges nearby leads nearly straight up
+and down the side of the cliff face.  At one time it appears from the broken
+tips of iron pins that a formal set of rungs led most of the way down but these
+have long since decayed away leaving a difficult climb.  Small patches of grass
+and weeds break out through thin cracks in the stone.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5585
+D5
+~
+~
+0 0 5587
+S
+#5587
+The Base of the Cliff~
+   Small stones and a thin slope of gravel lean up in a pile against the side
+of a high vertical cliff face which stretches up above into the clouds.  The
+ground is covered in thin yellow grass, weakly pushing up through the layer of
+detritus that constantly falls down from above.  A lightly depressed trail
+leads away to the east along the cliffs base while a thin, rusted iron bar is
+just within reach to climb up.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5588
+D4
+~
+~
+0 0 5586
+S
+#5588
+The Base of the Cliff~
+   Small stones and a thin slope of gravel lean up in a pile against the side
+of a high vertical cliff face which stretches up above into the clouds.  The
+ground is covered in thin yellow grass, weakly pushing up through the layer of
+detritus that constantly falls down from above.  A lightly depressed trail
+leads away to the east along the cliffs base while a thin, rusted iron bar is
+just within reach to climb up.    
+~
+55 32772 0 0 0
+D1
+~
+~
+0 0 5589
+D3
+~
+~
+0 0 5587
+S
+#5589
+A Rotten Stench~
+   Scraps of old fabric and useless trinkets lay about all over the ground,
+randomly scattered here for some unknown reason.  An almost unbearable stench
+of decaying meat intrudes from the south and spoils the refreshing smell of the
+forest.  A number of black carrion birds are seen wheeling about in the sky,
+some casually circling down nearby.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5591
+D2
+~
+~
+0 0 5590
+D3
+~
+~
+0 0 5588
+S
+#5590
+A Mound of Bones and Corpses~
+   The obscene sight of a large mound of rotting corpses creates an almost
+unbearable image.  It looks as though this pile has been in the process of
+formation for many years as on the bottom are bare and crushed skeletons, with
+freshly decaying corpses sitting on top.  There are scraps of fabric from red
+robes everywhere and the sudden sound of an echoing shriek comes down as if
+someone has jumped from high above.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5589
+D1
+~
+~
+0 0 5592
+S
+#5591
+A Rotten Stench~
+   Scraps of old fabric and useless trinkets lay about all over the ground,
+randomly scattered here for some unknown reason.  An almost unbearable stench
+of decaying meat intrudes from the south and spoils the refreshing smell of the
+forest.  A number of black carrion birds are seen wheeling about in the sky,
+some casually circling down nearby.    
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5592
+D3
+~
+~
+0 0 5589
+S
+#5592
+A Mound of Bones and Corpses~
+   The obscene sight of a large mound of rotting corpses creates an almost
+unbearable image.  It looks as though this pile has been in the process of
+formation for many years as on the bottom are bare and crushed skeletons, with
+freshly decaying corpses sitting on top.  There are scraps of fabric from red
+robes everywhere and the sudden sound of an echoing shriek comes down as if
+someone has jumped from high above.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5591
+D3
+~
+~
+0 0 5590
+S
+#5593
+A Shallow Pathway in the Snow~
+   A narrow crack in the sides of the high pass opens up to the side of the
+road.  The thick layer of white snow is marred through its center by a linear
+depression caused by the passage of someone in the near past.  The wind seems
+to be stronger through here and it is painfully cold, caused by the constant
+influx of a freezing and stinging snow.    
+~
+55 32772 0 0 0
+D1
+~
+~
+0 0 8456
+D3
+~
+~
+0 0 5594
+S
+#5594
+Through a Narrow Pass~
+   It appears as though the natural collapse of a section of this part of the
+mountaintop has been slightly widened in order to facilitate travel.  Obvious
+chip marks on the stone show that someone has worked hard to make passage
+easier.  The temperature is chilling and little pockets of ice join together
+with the loose stone on the ground creating a slippery and sharp surface to
+walk upon.    
+~
+55 32768 0 0 0
+D1
+~
+~
+0 0 5593
+D2
+~
+~
+0 0 5595
+S
+#5595
+A Shallow Pathway in the Snow~
+   A narrow crack in the sides of the high pass opens up to the side of the
+road.  The thick layer of white snow is marred through its center by a linear
+depression caused by the passage of someone in the near past.  The wind seems
+to be stronger through here and it is painfully cold, caused by the constant
+influx of a freezing and stinging snow.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5594
+D1
+~
+~
+0 0 5596
+D2
+~
+~
+0 0 5597
+D8
+~
+~
+0 0 5598
+S
+#5596
+Through a Narrow Pass~
+   It appears as though the natural collapse of a section of this part of the
+mountaintop has been slightly widened in order to facilitate travel.  Obvious
+chip marks on the stone show that someone has worked hard to make passage
+easier.  The temperature is chilling and little pockets of ice join together
+with the loose stone on the ground creating a slippery and sharp surface to
+walk upon.    
+~
+55 32768 0 0 0
+D3
+~
+~
+0 0 5595
+S
+#5597
+Through a Narrow Pass~
+   It appears as though the natural collapse of a section of this part of the
+mountaintop has been slightly widened in order to facilitate travel.  Obvious
+chip marks on the stone show that someone has worked hard to make passage
+easier.  The temperature is chilling and little pockets of ice join together
+with the loose stone on the ground creating a slippery and sharp surface to
+walk upon.    
+~
+55 32768 0 0 0
+D0
+~
+~
+0 0 5595
+S
+#5598
+A Long Drop Through the Clouds~
+   A pathway through a narrow crevice in the stone abruptly meets together with
+the sharp end of the mountainous stone surface.  Beyond is a step into nothing,
+the air filled with blowing snow and freezing mist.  A vertical cliff face
+descends below and a few ledges and platforms are visible.  A low metal rung
+sits in the edge of the cliff and suggests a pathway which leads down below.  
+~
+55 32768 0 0 0
+D2
+~
+~
+0 0 5400
+D7
+~
+~
+0 0 5595
+S
+#5599
+Hiddukel's Den of Inequity~
+   The warm scents of burning fat fill the air from high braziers that line the
+gilded walls of the wide room.  Rich tapestries and works of degenerate art
+travel along its length at eye level, poorly lit and forgotten.  A huge pile of
+golden coins held in silver trays lay haphazardly in each corner.  A massive
+stand with a set of assay scales sits in the middle of the room beside a long
+cushioned bed covered in silk pillows.    
+~
+55 0 0 0 0
+S
+T 10109
+$~

@@ -1,0 +1,56 @@
+CircleMUD v3.0 Shop File~
+#1300~
+1300
+-1
+1.50
+0.50
+-1
+%s I don't sell that, you fool.~
+%s You don't even have it.~
+%s I don't buy things like THAT.~
+%s Who do you think I am, a wealthy thief?~
+%s You have to steal some more before you could buy it.~
+%s I'll just take %s from you now.~
+%s Bah, here's %s for it.~
+0
+1
+1306
+1
+1366
+-1
+4
+20
+0
+0
+1
+38
+#1334~
+1307
+1308
+1309
+1310
+-1
+1.25
+0.50
+19
+-1
+%s I ain't got none 'o them ya ninny!~
+%s Ye take me fer a fool? Ye ain't got that!~
+%s Hey, I don' buy that kinda thing.~
+%s Sorry, I ain't got the money fer that.~
+%s Ye show me the money, an' maybe I'll sell it ta ye.~
+%s Ye can't find better grub fer %s, enjoy!~
+%s I'll give ye %s for it and not a copper more.~
+0
+3
+1334
+0
+1334
+-1
+0
+28
+0
+0
+1
+38
+$~

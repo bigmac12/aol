@@ -1,0 +1,870 @@
+#1900
+baltar sam innkeep innkeeper~
+Baltar, the innkeeper~
+Baltar, the innkeeper, looks up from wiping the countertop and smiles at your arrival.
+~
+   Baltar is dressed in fine garb that one would expect from a Palanthian
+noble.  He is short, and rather broad, but wears it well.  His happy but
+intelligent-looking face is dominated by a large white walrus mustache.  He
+regards you with the shrewd eye of a seasoned businessman.  He is not the sort
+of man who could be taken for a sap or a fool.  He knows that his inn is one of
+the finest, and charges accordingly.    
+~
+7593995 0 1000 0 E
+30 1 -14 3d33+5000 25d1+9
+250 250000 0
+8 8 1 3
+E
+#1901
+lord noble man nobleman~
+a Palanthas nobleman~
+A Palanthas nobleman wanders the street without a care in the world.
+~
+   This is one of Palanthas' upper crust.  Not only does he have money, but he
+feels like the world revolves around him and him alone.  He looks at everything
+that surrounds him with a contemptuous attitude.  All of his clothes are of the
+finest quality down to the pure silk handkerchief sticking out of the breast
+pocket of his coat.    
+~
+1056968 0 0 1000 E
+11 14 5 5d4+190 2d8+2
+300 2900 0
+8 8 1 0
+E
+#1902
+massive thug~
+a massive thug~
+A massive thug stands in the shadows here, watching Belinda's back.
+~
+   This massive human man stands in the shadows here, arms crossed.  He watches
+the immediate area, keeping an eye out for trouble.  He pays particular
+attention to where Belinda, the master thief sits.  Most likely, he has been
+hired for muscle.  He is dressed in drab commoner's clothing, and a crowbar
+rests at his side.    
+~
+22555 689152 1000 0 E
+15 11 1 5d10+350 2d8+4
+500 8400 4
+8 8 1 6
+BareHandAttack: 5
+E
+#1903
+Mirok Gorgrim~
+Mirok~
+Mirok, a minotaur of venerable age stands behind the counter.
+~
+   Mirok is a typical minotaur in many ways.  The bovine head, the hooves
+instead of feet, the the impressive, muscular build.  He set up shop here after
+moving from Lacynes.  Though many Palanthians were at first opposed to such an
+unsavory-looking character opening up shop on their soil, they soon saw the
+quality of his work and changed their minds.  He makes each weapon here
+himself, using the same reliable methods he has used all his life, and also
+incorporating the methods of other armorers.    ~
+7593994 0 1000 0 E
+30 1 -14 3d33+5000 4d8+9
+200000 250000 0
+8 8 1 0
+E
+#1904
+Droff Dwimble~
+Droff~
+Droff walks through the crowd, occasionally moving a chair so that it sits just right.
+~
+   Droff looks at first like a grumpy, harsh man.  However, one look in his
+eyes tells volumes about his love of this place, and those in it.  He has
+preserved this bar as it was since it was first opened, and has even changed
+the name to match that of the bar's founder, who died long ago.  Dwimble is
+still very much remembered, and Droff has tried his best to see to it that no
+one ever forgets whose place this really is.    
+~
+8203 0 1000 0 E
+30 1 -14 3d33+1700 4d8+9
+100000 250000 0
+8 8 1 0
+E
+#1905
+Luthienne Kalmara~
+Luthienne~
+Luthienne sits at a workbench, studying a gleaming silver ring.
+~
+   This young lady's beauty is easily on par with the jewels that surround her.
+Her hair is long, straight, and shimmering black.  She is renowned throughout
+the land for her knowledge of jewels and gems, and has been known to accurately
+appraise jewellery at a brief glance.  Many a noble lady's neck and many a
+nobleman's fingers are adorned with one of her gorgeous creations.    
+~
+8202 0 1000 0 E
+30 1 -14 3d33+1700 4d8+9
+100000000 250000 0
+8 8 2 0
+E
+#1906
+thraxis~
+OLD THRAXIS - nuke me~
+Thraxis, an impressively large man, stands here waiting to train you.
+~
+   Thraxis is about six foot five inches tall.  You dont even want to start
+guessing his weight.  You feel very intimadated by this individual and think
+it's best you do exactly what he tells you to do when he tells you to do it.  
+~
+8202 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+250 300000 0
+8 8 1 0
+E
+#1907
+Oscar Shopkeep Shopkeeper Ninave~
+Oscar~
+Oscar, a handsome merchant is selling some wares here.
+~
+   Oscar wears an assortment of fine cloths and leathers upon his body to keep
+him warm.  His hair is golden blonde, and he has sky blue eyes, and a thin,
+whispy mustache.  Oscar has been a merchant in Palanthas for about three years,
+and so far, his business has been rather successful.    
+~
+7593994 0 1000 0 E
+30 1 -14 25d33+5000 4d1+9
+100000 250000 0
+8 8 1 0
+E
+#1908
+palanthas guard~
+a Palanthas guard~
+A Palanthas guard wanders the street ensuring its safety.
+~
+   This man has dedicated his life to maintaining the peace and enforcing the
+laws of the great city of Palanthas.  He continually patrols the various
+streets and by-ways with a constant eye for signs of trouble along with known
+troublemakers.    
+~
+1069128 4 1000 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+E
+#1909
+citizen~
+a citizen of Palanthas~
+A citizen of Palanthas casually strolls by.
+~
+   This citizen walks the streets attending to the buisness she has.  She
+kindly smiles as you pass her by and she continues on her way.    
+~
+72 0 0 0 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 2 0
+E
+#1910
+sailor~
+a sailor~
+A sailor unloads his cargo from the ship.
+~
+   This man helps his crew unload the cargo from the ships.  The cargo he
+carries is mostly trade supplies and the such.  He is a well built man and you
+think twice about talking to him.    
+~
+72 0 0 0 E
+9 15 7 5d5+130 2d7+1
+35 1300 0
+8 8 1 0
+E
+#1911
+merchant palanthas~
+a Palanthas merchant~
+A Palanthas merchant wanders the street in search of customers.
+~
+   This merchant has temporarily left his shop to check on an incoming
+shippment.  As he passes by you he smiles and gives you directions to his shop
+promising to treat you right the next time you come by.    
+~
+200 0 0 0 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 1 0
+E
+#1912
+acolyte~
+an acolyte~
+An acolyte from the church of Paladine stands here preaching.
+~
+   An acolyte from the Temple of Paladine wanders the street spreading prayers
+of Paladine and happiness to Palanthas.  He wears the white robes, and carries
+a necklace of a silver triangle.    
+~
+72 4112 128 0 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+E
+#1913
+a pickpocket~
+a pickpocket~
+A pickpocket hides among the shadows.
+~
+   This rogue wanders from shadow to shadow in search of the unguarded purse.
+  
+~
+201 786432 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 2 6
+E
+#1914
+streetsweeper palanthas~
+a Palanthas streetsweeper~
+A Palanthas streetsweeper walks by cleaning the street.
+~
+   She walks the streets carrying a broom, cleaning the streets of Palanthas.
+It's a dirty job, but someone has to do it.    
+~
+77 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 2 5
+E
+#1915
+Kalin~
+Kalin~
+Kalin, a middle aged man stands here passing out mail.
+~
+   Kalin has been in buisness for as long as anyone can remember.  Kalin is a
+favorite among the people of Palanthas.  He knows everyone, and everyone knows
+him.    
+~
+8203 0 1000 0 E
+30 1 -14 3d33+1700 4d8+9
+250 250000 0
+8 8 1 1
+E
+#1916
+Palanthas gate guard~
+a Palanthas gate guard~
+A Palanthas Gate Guard stands here.
+~
+   This formidable warrior has several jobs to perform here at the gate.  
+During peace times he must inspect the shipping papers of all merchants who
+enter the city and during times of war he must guard the gates against the
+enemies of this great city.    
+~
+1062922 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 0
+8 8 1 0
+E
+#1917
+wandering woodsman ranger~
+a wandering woodsman~
+A wandering woodsman peers around at the city that surrounds him.
+~
+   By the look of this man's clothes and his obvious awe at the city around
+him, it is obvious that he has seldom come here.  He tries to give an
+impression of being a powerful and experienced fighter but somehow falls a
+little bit short of convincing you.    
+~
+72 32800 0 0 E
+13 11 3 6d5+290 2d9+2
+200 6625 3
+8 8 1 0
+E
+#1918
+Belinda thief master~
+Belinda, a master thief~
+Belinda, the master thief sits here plotting her next heist.
+~
+   This sly female has spent her life living off the wealth of others.  Having
+been quite successful, she now plans heists for other members of her guild to
+carry out.  She sits here relaxing, though still quite alert.  She looks lithe,
+agile, and could certainly hold her own in a fight.    
+~
+3170319 1024 0 0 E
+28 2 -12 3d33+1900 4d7+9
+1700 175000 4
+8 8 2 6
+BareHandAttack: 14
+E
+T 2107
+#1919
+thief pickpockey sly devious character~
+a sly, devious looking character~
+A sly, devious looking character tries to hide in the shadows here.
+~
+   This sly, devious looking man is one of the field operatives for the local
+thieves guild.  As you notice him he tries to sink further into the shadows in
+an attempt to hide.  All of his clothing is jet black as well as his hair.  He
+is obviously casing out his next job.    
+~
+205 0 0 0 E
+11 14 5 5d4+190 2d8+2
+333 2900 4
+8 8 1 6
+E
+#1920
+Dareana bronze raven dances rogue~
+Dareana, a bronze-skinned rogue~
+Dareana, a bronze-skinned, raven-haired rogue dances for guild members here.
+~
+   Dareana is about five feet tall with a lithe, athletic figure.  Lush
+raven-colored hair cascades down her shoulders over smooth, bronzed skin.  She
+has vibrant green eyes at once playful, and yet cunning and intelligent at the
+same time.  She is fully aware that she is beautiful, and uses that fact to her
+advantage.  She dances for the gathered guild members, taunting and teasing
+them playfully.  They just keep throwing more coin her way.    
+~
+1073166 1024 0 0 E
+20 8 -4 3d20+500 3d7+6
+900 25000 4
+8 8 2 0
+E
+#1921
+Tarnael thin older rogue greying~
+Tarnael~
+Tarnael, a thin, older rogue with greying hair walks about supervising.
+~
+   Having become highly successful in his younger days, Tarnael has grown too
+old to go out and actively seek income and adventure.  He has retired, and now
+works for the Guild as a mentor and trainer.  He is rather thin, and certainly
+looks to be a venerable age.  A pair of spectacles sit upon the end of his
+nose, and his hair is a respectable shade of grey.  He walks about supervising
+his students, beaning the occasional rogue in the head when he finds one making
+a mistake.    
+~
+7593995 33555456 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 4
+8 8 1 2
+BareHandAttack: 14
+E
+T 2010
+T 2199
+#1922
+Jerras bank teller Eldenar~
+Jerras, the bank teller~
+Jerras, a thin human, stands here waiting to carry out your transaction.
+~
+   Jerras studied all his life to work where he is working.  He has always
+excelled in maths, and loves nothing better than counting huge piles of gold,
+silver, copper, platinum, and steel coins.  He has a friendly smile and a
+helpful demeanor, but is always a little too quick to point out when some sort
+of mistake has been made by one of his customers.    
+~
+7528459 0 0 0 E
+30 1 -14 25d33+5000 4d1+9
+0 250000 0
+8 8 1 4
+E
+#1923
+rogue dark clothes~
+a rogue wearing dark clothes~
+A rogue wearing dark clothes is staying here for a while.
+~
+   This common rogue has managed to get his name on the list of criminals kept
+by the city guard, and has taken refuge here at the guild until his popularity
+has declined a bit.  He wears dark clothing, which to all appearances looks
+like they got in a fight with a gully dwarf and lost.  They are rumpled, dirty,
+and smell very much like sewer refuse.  Likely they are the same clothes he was
+wearing during the events that led to his hiding out here.    
+~
+10 16384 0 0 E
+16 11 0 3d20+320 3d6+4
+600 11000 4
+4 4 1 0
+BareHandAttack: 14
+E
+#1924
+chef head female cook fat~
+the head chef~
+The head chef snoozes here in the corner.
+~
+   This middle aged lady is the Lord's head chef.  She has been employed by him
+for several years and over these years has managed to gain quite a few pounds
+due to "sampling" the dishes she makes.  Although it now takes several more
+yards of fabric to make her clothing she still thinks of herself as a dainty
+young girl.    
+~
+78 0 0 1000 E
+11 14 5 5d4+190 2d8+2
+95 2900 3
+4 6 2 0
+E
+#1925
+lord man noble nobleman~
+the Lord of Palanthas~
+The Lord is standing here.
+~
+   This nobleman governs his household in the same manner that he would govern
+the actions of his troops on a field of battle.  He learned to oversee this way
+during his younger days when he would often travel as a squire throughout the
+land with a knight of the crown.  As he grew older, he also grew to realise
+that he didnt really wish to pursue the knighthood as a career so he took up
+other more profitable pursuits.    
+~
+1048842 0 0 1000 E
+14 12 2 6d8+240 2d8+4
+325 7000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#1926
+guest lord lord's young man squire~
+the Lord's guest~
+One of the Lord's guests stands here.
+~
+   This young man is an aspiring squire.  He has come to the Lord's house in an
+attempt to learn more about the knighthood and its past from his host.  His
+clothes are made from the finest red thread.    
+~
+10 0 0 1000 E
+10 14 6 5d4+160 2d7+2
+94 1900 3
+8 8 1 0
+BareHandAttack: 13
+E
+#1927
+small child toddler~
+a small child~
+A small child plays off to one side.
+~
+   This small child is the Lord's daughter and like most only children of
+wealthy parents she is spoiled rotten.  When you entered the room she pulled
+her long, golden blond hair down over her face and giggled.    
+~
+74 0 0 1000 E
+8 15 8 5d5+110 2d6+2
+72 800 3
+8 8 2 0
+BareHandAttack: 4
+E
+#1928
+Lady woman lady~
+the Lady of the house~
+The Lady of the house is standing here.
+~
+   This lady has done well for herself during her life.  Born a common peasant
+she managed to charm the heart of a Lord and persuade him to marry her.  Soon
+after the marriage she persuaded him to buy her this house.  You wonder what
+she is going to persuade him to do next.    
+~
+10 0 0 1000 E
+10 14 6 5d4+160 2d7+2
+94 1900 3
+8 8 2 0
+BareHandAttack: 8
+E
+#1929
+maid woman~
+the maid~
+A maid speeds past on an errand.
+~
+   This older woman serves as house keeper for the Lady of the house.  She
+recently replaced a much younger maid whom the Lady thought was trying to turn
+the Lord's eye.  Although her skills as a housekeeper are unknown one thing
+that is know is that she will not provide any temptation to the Lord.    
+~
+8 0 0 1000 E
+8 15 8 5d5+110 2d6+2
+60 800 3
+8 8 2 0
+BareHandAttack: 8
+E
+#1930
+thief sly cunning~
+a sly cunning young man~
+A sly, cunning young man crouches here in the shadows.
+~
+   This young man crouches in the shades trying to figure out the best way to
+enter into the rooms below him.  A large, dark colored bag is draped over one
+shoulder blending in nicely with his black clothing.  A slight gleam in his eye
+reveals a sly and cunning intelligence.    
+~
+15 0 0 0 E
+12 13 4 5d6+210 2d8+3
+222 4700 4
+8 8 1 6
+E
+#1931
+Nelvandon Nel Thraxis~
+Nelvandon~
+Nelvandon, an intimidating warrior, stands here waiting to train you.
+~
+   Nelvandon is about six foot five inches tall.  His body is the very visage
+of human perfection, every inch muscled and tanned.  He bears no scars, not
+because of a lack of combat experience, but because he has almost never lost.
+He has an air of authority, and those around him tend to do exactly what he
+says, no questions asked.  He wears a suit of partial platemail, not uncommon
+to gladiators.    
+~
+24587 33554432 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10 300000 0
+8 8 1 2
+BareHandAttack: 5
+E
+#1932
+Quayd director man hadden~
+Quayd~
+Quayd, the director of the chamber, stands behind the counter, smiling happily.
+~
+   Quayd smiles happily as you look at him.  He proudly wears a 'Palanthas
+Pride' button on his lapel.  He wanders about behind the counter, whistling
+happily, and straightening out the stacks of papers and scrolls that cover it.
+  
+~
+3145738 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1000000 250000 0
+8 8 1 0
+E
+#1933
+postmaster~
+the postmaster~
+The Postmaster of Palanthas looks through the outgoing mail.
+~
+   An elderly woman stands behind the narrow counter and slowly picks away at a
+large stack of mail yet to be filed.  Practiced by many years at her task, she
+throws letters into baskets without even looking and moves on to stamping a
+number of packages.  She only takes a vague interest in the comings and goings
+about the office, turning up her head only when someone steps up and approaches
+the counter.    
+~
+3145738 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 2 1
+E
+#1940
+knight patrolling Palanthas~
+a knight patrolling Palanthas~
+A sword knight on patrol duty walks the streets.
+~
+   This young knight is dressed in sparkling armor with the emblem of the
+kingfisher upon the front breastplate.  He wears a sword with the hilt in the
+shape of a kingfisher with rubies for eyes at his waist.  The armor looks as if
+it would be worn for ceremonial occasions, not to go to battle in.  He looks
+bored with his duty, stopping at times to talk to the occasional passerby.    
+~
+1079305 1028 0 850 E
+18 11 -2 3d20+380 3d6+6
+350 14000 3
+8 8 1 7
+BareHandAttack: 3
+E
+#1941
+sword knight~
+a Sword knight~
+A Sword knight walks along the street here, keeping an eye out for trouble.
+~
+   A knight walks along the streets, keeping an eye out for trouble.  Even
+though there doesn't seem to be a need for it, she takes her duty seriously and
+watches for danger.  Her armor gleams silver, the light reflects across the
+emblem of the sword, proclaiming her a knight of the Sword.  She wears no helm,
+her hair pulled back and tied in a tight bun at the nape of her neck.  An
+impressive sword hangs in a scabbard on her belt, its intricate hilt a sight to
+behold.    
+~
+813065 5124 2050 850 E
+20 8 -4 3d20+440 3d7+6
+450 25000 7
+8 8 2 7
+BareHandAttack: 3
+E
+#1951
+avianath avia avi shopkeeper~
+Avianath the shopkeeper~
+Avianath the shopkeeper is here, carefully folding some clothing.
+~
+   This man is starting to show is age.  On the top of his head is an ever
+increasing bald spot.  He tries not to make it very noticable, but his attempts
+seem to do the opposite.  He stands a little shorter than most.  On his face is
+a small pair of glasses and almost always a smile.  He decided to set up shop
+in Palanthas, where there were not many clothing stores, and he found that he
+could get quite a few customers.    
+~
+7495690 33685504 0 550 E
+30 1 -14 3d33+8000 10d20+9
+999999 0 0
+8 8 1 0
+BareHandAttack: 6
+E
+#2000
+scribe mage~
+a white robed scribe~
+A white robed scribe stands here ready to help you with your purchase.
+~
+   This lady appears far too young to be a scribe.  She is dressed from head to
+foot in immaculately clean white robes.  She wears a pair of small, round
+spectacles on the tip of her freckled nose.  Her eyes are bright and
+intelligent, and she works tirelessly to keep things in order.  Her slender
+hands are coloured black at the tips from ink that has transferred from
+scrolls.    
+~
+6545418 0 295 1000 E
+30 1 -14 3d33+5000 25d1+9
+10000 250000 2
+8 8 2 0
+E
+#2001
+gardener green mannered~
+the gardener~
+A well mannered gardener wearing a green tunic is here tending to the flowers.
+~
+   This elderly gentleman carefully wanders these gardens being sure not to
+damage any of the plants that are in his care.  He wears a dark green tunic
+that is smeared with dirt and carries a pair of shears.  He carefully singles
+out each stem that needs pruning and snips it off.  While he works, he mumbles
+to the plants in an absentminded way.    
+~
+14 32 2 1000 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+BareHandAttack: 15
+E
+#2003
+guard ebony bored skinned~
+an ebony-skinned guard~
+An ebony-skinned guard with a bored look on his face stands here.
+~
+   This tall, muscular man has dark ebony-colored skin.  He stands guard here
+at the entrance to the Thieves Guild, though he has a look of utter boredom on
+his face.  His gaze often lingers to the west, where the slight smell of
+roasting meats and the sound of revelry comes from.  A light crossbow hangs
+from his belt.    
+~
+16398 1032 0 0 E
+16 11 0 3d20+320 3d6+4
+400 11000 4
+8 8 1 0
+BareHandAttack: 11
+E
+#2006
+Kurthak half ogre bartender~
+Kurthak, the half-ogre bartender~
+Kurthak, the half-ogre bartender of the Shadows Respite stands behind the bar.
+~
+   Kurthak is a half-ogre.  He is a rather large half-ogre.  Around seven and a
+half feet tall with a massive build, he has served to keep order in the Shadows
+Respite as well as serve drinks for years now.  The Thieves Guild took him in
+as one of their own when no one else would, and he has been loyal ever since.
+He's rather ugly like most of his kind, but has developed a strange charisma
+about him from working behind the bar for so long.  He grins toothily at you,
+waiting for you to order something.
+~
+188430 1032 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1000 250000 3
+8 8 1 0
+BareHandAttack: 7
+E
+#2008
+brute thief~
+a brute of a thief~
+A brute of a thief calls out to Dareana, holding up several steel pieces.
+~
+   This is a rather large man for a thief.  He looks as though he might have
+been better off cracking skulls in an army somewhere, rather than trying his
+hand at pilfering.  He stands near the stage, looking at Dareana with
+admiration.  He calls out to her occasionally, holding out a few steel pieces
+everytime she taunts him with a few seductive moves.    
+~
+16394 33555456 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 4
+8 8 1 0
+BareHandAttack: 13
+E
+#2009
+thief drunken leering~
+a drunken thief~
+A drunken thief sits nearby, leering at Dareana.
+~
+   This man is quite obviously drunk.  He reeks of ale, and appears to have
+gotten most of his current round on himself rather than in his mouth.  His face
+is rather flushed, and he slurs lewdly as he calls out to Dareana.  He leers at
+her with a half-dazed look in his face, as though he might be calling out to a
+gully dwarf and not know the difference.    
+~
+16394 1024 0 0 E
+14 12 2 6d8+240 2d8+4
+200 7000 4
+8 8 1 0
+E
+#2010
+Jilena rogue toned slender~
+Jilena~
+Jilena, a toned, slender rogue stands here waiting for a challenge.
+~
+   This woman is a combat trainer for the Thieve's Guild, however she takes
+place in the practical part of training.  She is no stranger to combat
+whatsoever, as the many scars along her exposed arms can attest.  She handles
+herself with confidence and expertise, and smirks slightly at anyone looking as
+though they might challenge her.    
+~
+1064986 1024 0 0 E
+24 6 -8 3d33+750 4d6+8
+1100 68000 4
+8 8 2 0
+BareHandAttack: 13
+E
+#2011
+cot canvas linen blankets Innkeeper~
+a simple canvas cot, covered with linen blankets~
+A simple cot covered with linen blankets sits against the wall here.
+~
+   This is a simple cot made of canvas stretched over a metal frame.  Clean
+linen blankets are folded atop it, waiting for the next guild member in need of
+a bed to come along.  All in all, there are worse places to sleep.    
+~
+8052747 1032 219217920 0 E
+30 1 -14 3d33+10000 4d8+9
+1000 250000 2
+8 8 0 3
+E
+#2063
+rogue female relaxing folded~
+a female rogue~
+A female rogue lies here with hands folded behind her head, relaxing.
+~
+   This woman looks to be quite comfortable lying there on her cot.  Her hands
+are folded behind her head and her eyes are closed, though it's impossible to
+tell if she's really sleeping.  She has a small smile or smirk upon her face,
+as if she were enjoying a private joke.  She is dressed simply, yet most would
+find her attire quite attractive.  A violet form-fitting tunic, black leather
+leggings, and black boots complete the ensemble.    
+~
+26650 33792 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 4
+8 8 2 0
+BareHandAttack: 14
+E
+#2064
+Draynen rogue tall muscular Trainer Combat~
+Draynen~
+Draynen, a tall, muscular rogue stands here ready to train others in combat.
+~
+   This tall, muscular man stands to the side of the fighting area, watching
+the matches.  Occasionally he gives a pointer or two, yelling at his current
+pupil when they make a mistake.  He wears a loose white tunic, and loose white
+leggings.  This is the man to see if you wish to train your combat skills, and
+you are a rogue of course.    
+~
+7594010 33555496 0 0 E
+30 1 -14 3d33+15000 4d8+9
+0 250000 4
+8 8 1 2
+BareHandAttack: 13
+E
+T 2064
+T 2065
+T 2066
+#2065
+Rhaana onyx delicate rogue Trainer~
+Rhaana~
+Rhaana, a delicate-featured rogue with hair like onyx stands here.
+~
+   This woman is very beautiful, though she carries a very cold appearance as
+well.  She has delicate features, and looks to have seen little combat in her
+life.  She is dressed in fine clothing, and her skin has the hue of porcelain.
+She walks about the room instructing her students, stopping to correct the
+occasional mistake before moving on.    
+~
+7528475 33555496 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 4
+8 8 2 2
+BareHandAttack: 14
+E
+T 2009
+T 2196
+#2073
+mob npc mobile~
+a mob~
+A mob stands here waiting for you to look at it and learn.
+~
+   I am what is commonly called a mob or an npc (non player character).  My
+purposes on a mud are to provide scenery while offering you a chance to earn
+experience, money, and sometimes gear.  Remember to use the 'con' command to
+consider mobs before attacking, and do not forget to loot the corpse by typing
+'get all corpse'.  If I have items in my possession you may be able to use them
+yourself or sell them for money.  Feel free to attack me, but beware.  We mobs
+fight back.  See 'help wimpy'.    
+~
+10 0 0 0 E
+1 20 10 1d1+0 1d1+0
+1 0 0
+8 8 0 0
+E
+#2074
+trainer guildmaster~
+a trainer~
+A trainer is here waiting to help you to practice.
+~
+   I am a mob that is also a trainer or guildmaster.  My purpose is to help you
+to use your practices to learn skills and/or spells.  Do not try to kill me.  
+I am not here for that purpose.  Type 'practice <skill/spell name>' to practice
+one of your skills or spells.  For example, to practice bless you would type
+'practice bless'.  How good you can get at a spell is dependent on your stats
+as well as how much you practice it.  The more you use your spells/skills, the
+better you will get!    
+~
+10 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 0 0
+8 8 0 2
+E
+#2080
+Harkin fence~
+Harkin~
+Harkin, the Thieves Guild fence stands behind the counter arranging wares.
+~
+   Harkin is a senior member of the Thieves Guild.  Having made a small fortune
+from his days of burglarizing, he now works for the guild as a fence, buying
+and selling stolen goods.  He sits behind the counter here arranging items to
+his suiting, and making sure everything is clean.  Harkin himself is dressed in
+rather fine clothing, purple and black silks in fact, which seem to be spotless
+like his shop.    
+~
+7594014 33555464 0 0 E
+30 1 -14 3d33+1700 4d8+9
+100000 250000 4
+8 8 1 0
+E
+T 2198
+T 2197
+#2081
+Radu~
+Radu~
+Radu, a young, scrawny rogue stands here awaiting your purchases.
+~
+   This young man looks to be barely eighteen winters in age, if that.  He
+stands behind the counter, making sure everything is in place.  He bears a
+striking resemblance to old Harkin, and is probably family of some sort.  Upon
+your entrance he gives you his full attention, waiting for you to purchase
+something.    
+~
+7593994 0 0 0 E
+30 1 -14 3d33+10000 4d8+9
+99999 1 4
+8 8 1 0
+BareHandAttack: 14
+E
+#2099
+Bareil Longday oresmith dwarf armorer~
+Bareil Oresmith~
+Bareil stops polishing a suit of armor and looks up at you casually.
+~
+   Bareil Oresmith stops polishing a highly decorative set of full plate armor
+as you enter.  He casually glances up at you, trying to determine how much
+money he can get out of you and how much trouble it will be to get it.  Mr.  
+Oresmith comes from a long line of armorers who have run this shop for years
+now.  He is an older man, known for the high quality of his products.  Many of
+the Knights of Solamnia use him to make and repair their armor, exclusively.  
+
+~
+7594074 0 0 0 E
+30 1 -14 3d33+5000 25d1+9
+50000 250000 3
+8 8 1 0
+E
+$

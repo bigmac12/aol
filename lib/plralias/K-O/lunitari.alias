@@ -1,0 +1,90 @@
+7
+leaving
+95
+gecho &RSlowly the &rCrimson Moon&R disappears over the horizon as a new day begins in Krynn.&n
+0
+2
+ll
+13
+redit save 87
+0
+5
+zlist
+10
+gshow zone
+0
+4
+chat
+13
+chat &R $* &N
+1
+3
+bpw
+44
+tit &RLunitari &b<&CWorking on Building&b>&n
+0
+3
+bbp
+10
+goto 1207 
+0
+1
+f
+13
+gshow rent $*
+1
+1
+j
+12
+stat file $*
+1
+6
+superr
+258
+at $* cast barkskin $*;cast blur $*;cast stoneskin $*; cast thornflesh $*; cast haste $*; cast enhance-charisma $*; cast enhance-endurance $*; cast enhance-insight $*; cast enhance-cunning $*; cast enhance-agility $*; cast shield $*; cast enhance-strength $*
+1
+8
+getready
+111
+gecho &RComing over the horizon, the Crimson Moon slowly rises to take its place in the nightly sky.&n;invis 31
+1
+6
+cookie
+13
+load obj 8190
+0
+4
+home
+9
+goto 1099
+0
+5
+token
+13
+load obj 1290
+0
+6
+newbie
+13
+newbie &R$*&N
+1
+5
+title
+81
+title &RL&ru&Rn&ri&Rt&ra&Rr&ri&R, t&rh&Re&r V&Re&ri&Rl&re&Rd&r M&Ra&ri&Rd&re&Rn&n
+0
+2
+eq
+6
+l self
+0
+2
+ap
+136
+approve $*; force $* autoexit; force $* prompt all; force $* subdue; force $* color complete;force $* intro;load obj 2484;give bottle $*
+1
+3
+apr
+9
+goto 1998
+0

@@ -1,0 +1,1906 @@
+#5100
+The Seasick Kraken~
+   The short walkway up the the inn and tavern of the Seasick Kraken is made of
+the same tiny crushed shells and sandstone like the road before it.  The
+building stands three stories high, the tallest building in this city.  The
+structure is an odd mixture of red and green bricks, with small windows peeking
+out from the third floor.  To the south is Richwater Street.    
+~
+51 4 0 0 0
+D0
+~
+~
+0 0 5101
+D2
+~
+~
+0 0 5003
+S
+#5101
+Entrance to the Seasick Kraken~
+   Inside the oddly colored building houses the famous inn and tavern of
+Karthay.  The hallways stretch east and west from this entrance, and a wide
+staircase leads upwards where the innkeeper writes down the names of renters.
+Chandeliers hang from the ceiling, lighting the hallway well, and painting
+cover the walls with mainly seascapes.  Rowdy noises come from around the
+corner to the west - the bar must be in that direction.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5108
+D2
+~
+~
+0 0 5100
+D3
+~
+~
+0 0 5102
+D4
+~
+~
+0 0 5113
+S
+#5102
+A Hallway in Seasick Kraken~
+   The hallway has a few paintings hanging from the walls, mostly seascapes and
+sea creatures only the most seaworthy of men have seen.  A chandelier hangs
+from the ceiling, brightening the room enough to see the details.  There are
+two doors - one to the south and one to the west - that lead to bulletin board
+rooms, and the hallway turns to the north, toward the rowdy bar.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5105
+D1
+~
+~
+0 0 5101
+D2
+~
+~
+0 0 5103
+D3
+~
+~
+0 0 5104
+D8
+~
+~
+0 0 5180
+S
+#5103
+Out of Character Board Room~
+   The walls of this room are cluttered with posts from players with questions
+and answers and comments and opinions on various discussions.  The floor is
+kept miraculously clean, and the boards are kept neat and easy to this.  A
+stairway leads up to the area where you first started your journey.  If you
+find yourself in need of more guidance, it might be a good idea to take another
+stroll through those rooms.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5102
+D4
+~
+~
+0 0 2070
+S
+#5104
+A Room of Problems and Ideas~
+   A few boards line the walls of this room, and are covered with various posts
+of problems that people have come across, and ideas that sometimes prove to be
+good enough for all to listen to.  Surprisingly the floor is kept clean, and
+the boards are in proper, legible order.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5102
+S
+#5105
+A Hallway in Seasick Kraken~
+   The hallway has a few paintings hanging from the walls, mostly seascapes and
+sea creatures only the most seaworthy of men have seen.  A chandelier hangs
+from the ceiling, brightening the room enough to see the details.  A door to
+the west leads to a private room where people can gather and not be bothered
+too much by the noise from the bar.  To the east is a few steps leading to a
+large doorway, and the entrance to the famous Seasick Kraken Bar and Grill,
+home of Karthay's rowdiest people.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5107
+D2
+~
+~
+0 0 5102
+D3
+~
+~
+0 0 5106
+S
+#5106
+Kitharen's Postal Pigeon Service~
+   Stragetically located right across from the tavern, within the famous inn of
+Karthay, the front room here serves as a place for anyone to send messages to
+others in private, via homing pigeon.  This service, promptly brought to the
+citizens, is not as public as writing upon the boards, and this bouncy little
+gnome can certainly provide fast service.  Many cages behind the counter are
+filled with brown, grey, and white homing pigeons, and upon the front counter
+are sheets of parchment and inkwells for people to use for their messages.    
+~
+51 12 0 0 0
+D1
+~
+~
+0 0 5105
+S
+#5107
+Seasick Kraken Bar and Grill~
+   The lights within this tavern are covered with glass globes tinted in
+different colors - mostly orange and yellow, but a few green and blue ones can
+be spotted on various tables as well.  The large bar at one end of the room is
+a great, polished piece of wood, with carvings of various sea creatures along
+the side.  This bar is known for its great food, and fine ale, as well as many
+stories, but is best known for its women and rowdy customers.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5111
+D3
+~
+~
+0 0 5105
+S
+#5108
+A Hallway in Seasick Kraken~
+   The hallway has a few paintings hanging from the walls, mostly seascapes and
+sea creatures only the most seaworthy of men have seen.  A chandelier hangs
+from the ceiling, brightening the room enough to see the details.  There are
+two doors - one to the south and one to the east - that lead to bulletin board
+rooms, with the hallway turning north.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5111
+D1
+~
+~
+0 0 5110
+D2
+~
+~
+0 0 5109
+D3
+~
+~
+0 0 5101
+D9
+~
+~
+0 0 5119
+S
+#5109
+The Crime Board Room~
+   The walls of this room are covered in bulletin boards, with a few scribbled
+warnings, posts, and threats made by various people of the realm.  A few
+posters along the wall depict portaits of criminals, with notes attached to
+these as well.  The floor and boards are kept clean and legible for others to
+read and be warned of the crimes that happen.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5108
+S
+#5110
+Rules Board Room~
+   The boards in this room have an odd shine to them, as they are the ones the
+gods use most often to let the mortals of this realm know what is allowed, and
+what will not be tolerated.  Mortals can post questions to the gods here about
+these rules as well, and let all gain knowledge of the gods' wishes.    
+~
+51 8 0 0 0
+D3
+~
+~
+0 0 5108
+S
+#5111
+The Greatroom of the Seasick Kraken~
+   The wall to the west which closed this area off from the Seasick Kraken Bar
+and Grill has been torn down to provide more space to ease the overcrowding
+problem in the main bar room.  Additionally, a few private booths have been
+installed to permit customers to conduct private business away from prying
+eyes.  To the east, a doorway opens into a meeting room in the event a booth
+does not afford the level of privacy desired.    
+~
+51 8 0 0 0
+D1
+   A thick wooden door muffles the sounds of any meetings taking place beyond
+it.    
+~
+door thick wooden~
+1 0 5112
+D2
+~
+~
+0 0 5108
+D3
+~
+~
+0 0 5107
+D6
+~
+~
+0 0 5192
+D7
+~
+~
+0 0 5199
+S
+#5112
+A Gathering Room in the Seasick Kraken Inn~
+   This room is somewhat soundproof, muffling much of the rowdy noises from the
+tavern, but some noise still leaks through.  The walls are covered with various
+maps and paintings, and a table in the middle of the room serves as a seating
+place for weary travellers who gather here to discuss plans.  The eastern wall
+of the room is dominated by a massive stone fireplace.    
+~
+51 40 0 0 0
+D3
+   A thick wooden door muffles the sounds coming from the bar area.    
+~
+door wooden thick~
+1 0 5111
+S
+#5113
+At the Desk of the Seasick Kraken~
+   The desk is polished oak, a bit of a rarity in the seaport of Karthay.  
+Chandeliers hang from the ceiling, lighting the reception desk area well.  A
+painting of a green and blue sea creature looms above the desk, and the
+flickering lights make it seem almost alive as its scales shimmer.  The
+staircase spirals downwards to the rest of the inn, and you can faintly hear
+rowdy cheering and other noises coming from below.    
+~
+51 8 0 0 0
+D5
+~
+~
+0 0 5101
+S
+#5114
+unused~
+   This grand building has a high ceiling, and wide rooms, better to fit all
+the merchants and their wares at stragetic locations within.  Colorful booths
+line the walls, and the noise of the merchants is almost deafening as they vie
+for customers' attentions.  The main hallway continues to the southeast and two
+rooms, separated from the main hallway, are to the south and west.    
+~
+51 12 0 0 0
+D9
+~
+~
+0 0 5117
+S
+#5115
+unused~
+   The main hallway of the merchant's guild branches off into a large room,
+filled with merchants, customers, people with heavy pockets, people with light
+fingers, and many different items of all kinds in a wide variety of booths.  
+The noise is loud and the room rather crowded, but the main hallway of this
+place is just as bad.    
+~
+51 8 0 0 0
+S
+#5116
+Karthay's Provisions~
+   This extremely large shop claims to have everything that a wandering
+adventurer could ever need for their day to day provisioning while out on the
+road or just about town.  A variety of display cases show off everything from
+different sized bag and packs to torches and lanterns.  Behind some of the
+display cases items have been stacked up obviously in preperation for their
+turn on display.    
+~
+51 8 0 0 0
+D2
+~
+~
+0 0 5071
+S
+#5117
+A Vast, Dark Attic~
+   Every eave and gable of this vast attic is stocked full of boxes and chests
+simply overflowing with items from all over the face of Krynn.  Every few
+minutes a small shadow moves quickly through the attic, passing out of sight in
+an instant.  It probably would not be wise to set anything down in this area,
+as it would no doubt be swept off and stored with the collector's inventory.  
+~
+51 9 0 0 1
+D5
+~
+~
+0 0 5197
+S
+#5118
+Shahara's Treasury~
+   This room in the merchant's guild hall has been permanently reserved as the
+treasury of Karthay.  The room looks small only because of the small space
+reserved for the customers.  The rest of the room is magically barred, sealed,
+warded and glyphed against anyone other than Shahara who would attempt to get
+into it and steal the masses of treasure entrusted here.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5010
+S
+#5119
+Trading and Special Events Board Room~
+   This room has been reserved as a trading board room.  The walls are covered
+with large bulletin boards, each plastered with various posts by people willing
+to trade their items, or wanting certain pieces of equipment, or their
+locations.  This is one of the best places to find rare items, or at least to
+find the person who may know where those items can be found.    
+~
+51 8 0 0 0
+D6
+~
+~
+0 0 5108
+S
+#5120
+Merchant's Guild Hall~
+   This grand building has a high ceiling, and wide rooms, better to fit all
+the merchants and their wares at stragetic locations within.  Colorful booths
+line the walls, and the noise of the merchants is almost deafening as they vie
+for customers' attention.  The main hallway continues to the north, and a room,
+separated from the main hallway, is to the east.    
+~
+51 12 0 0 0
+D0
+~
+~
+0 0 5117
+S
+#5121
+unused~
+   The main hallway of the merchant's guild branches off into a large room,
+filled with merchants, customers, people with heavy pockets, people with light
+fingers, and many different items of all kinds in a variety of different
+booths.  The noise is loud and the room rather crowded, but the main hallway of
+this place is just as bad.    
+~
+51 8 0 0 0
+S
+#5122
+Guild of the Warrior~
+   The entrance to the Guild of the Warrior is somewhat unusual.  All along the
+walls and the ceiling hang a wide variety of weapons, from slim curved blades,
+to huge broadswords, spiked clubs, staves, as well as tridents and crossbows.
+The guild hall leads east.  The exit is to the west.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5123
+D3
+~
+~
+0 0 5022
+S
+#5123
+Guild of the Warrior~
+   The hallway expands here, leading west back toward the entrance of the
+guild, and leading north and south, toward practicing rooms.  A few stairs
+leading downwards to the east where the weaponsmaster can be found, usually
+training students and warriors alike in different techniques of swordplay, as
+well as other skills that any warrior might need in battle.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5125
+D2
+~
+~
+0 0 5127
+D3
+~
+~
+0 0 5122
+D5
+~
+~
+0 0 5124
+S
+#5124
+The Weaponmaster's Room~
+   The most noticeable thing one notices when entering this room is the amount
+of props which can be found laying all around.  Stone blocks, wooden boards,
+stuffed burlap bags complete with stiched eyes and bullseyes, a table and a few
+chairs - all seem to show that the weaponsmaster takes pride in his ability to
+teach his students more than just how to wield a weapon - but also how to fight
+in almost any instance - and how to stay prepared.    
+~
+51 8 0 0 0
+D4
+~
+~
+0 0 5123
+S
+#5125
+Guild of the Warrior~
+   This is one of the informal sparring rooms for those who wish to practice
+with each other, honing their skills while the weaponsmaster is busy with a
+student.  A few cabinets line the walls with weapons to choose from - none are
+battle ready or sharp enough to kill.  The rest of the guild lies to the east,
+while to the south lies the entrance.
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5126
+D2
+~
+~
+0 0 5123
+S
+#5126
+Guild of the Warrior~
+   Within this room are two small pillars, on one each side of a set of stairs
+that leads to the second floor of this guild.  Resting upon each pillar is a
+set of swords - one short with a slim blade, and the other larger, engraved
+with runic symbols.  No other decorations fill this room.    
+~
+51 8 0 0 0
+D3
+~
+~
+0 0 5125
+D4
+~
+~
+0 0 5129
+S
+#5127
+Guild of the Warrior~
+   This is one of the informal sparring rooms for those who wish to practice
+with each other, honing their skills while the weaponsmaster is busy with a
+student.  A few cabinets line the walls with weapons to choose from - none are
+battle ready or sharp enough to kill.  The rest of the guild lies to the east,
+and to the north, near the entrance.
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5123
+D1
+~
+~
+0 0 5128
+S
+#5128
+Guild of the Warrior~
+   Within this room are two small pillars, on one each side of a set of stairs
+that leads to the second floor of this guild.  Resting upon each pillar is a
+set of swords - one short with a slim blade, and the other larger, engraved
+with runic symbols.  No other decorations fill this room.    
+~
+51 8 0 0 0
+D3
+~
+~
+0 0 5127
+D4
+~
+~
+0 0 5129
+S
+#5129
+The Shrine of the Holy Warrior~
+   The room glows with a warm comforting light, its source unknown.  Few
+furnishings decorate this room - a pillar, carved into the likenesses of many
+weapons that have been forged together, a shallow bowl resting upon the pillar,
+and a thin mat resting at the base of the pillar.  A large window in the
+eastern wall overlooks the bay - a perfect place of contemplation.  Two sets of
+stairs - one to the north and one to the south - lead to the first floor of the
+Guild of the Warrior.    
+~
+51 8 0 0 0
+D5
+~
+~
+0 0 5126
+S
+#5130
+The Courtyard to the Temple of the Sea Queen~
+   You have entered a courtyard, the grand entrance to the temple of Zeboim.  
+The structure is made of sandstone, mostly bleached white, with built-in light
+blue waves along the sides of the walls.  Great pillars with carved images of
+sea creatures guard the temple entrances to the south and east, acting like
+doors into the sandstone structure.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5131
+D2
+~
+~
+0 0 5139
+D6
+~
+~
+0 0 5038
+S
+T 5130
+#5131
+Within the Temple of Zeboim~
+   This open room serves as a corridor separating the temple priests' private
+rooms from the main structure of the building.  A small door of sandstone,
+decorated with intricate paintings of sea creatures, bars the way to the north,
+where the priests of Zeboim live, meditate, and do the work of their goddess.
+The corridor ends to the east, branching off to the north and south.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5132
+D1
+~
+~
+0 0 5136
+D3
+~
+~
+0 0 5130
+S
+T 5130
+#5132
+Within the Temple of Zeboim~
+   Wall scones in the shape of great conch shells brighten the rooms with a
+warm yellow glow.  To the west are the living quarters of the priests of this
+temple, and to the north are the private rooms where they may go and
+contemplate, meditate, or pray for guidance from their goddess, the Sea Queen.
+A door of sandstone separates the priests' rooms from the rest of the temple.
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5133
+D2
+~
+~
+0 0 5131
+D3
+~
+~
+0 0 5134
+S
+T 5130
+#5133
+A Room of Meditation~
+   The walls of this room are lined with thousands of tiny paintings, each no
+bigger than a kender's thumb, of thousands of different creatures of the sea -
+none alike.  Even the ceiling is covered with pictures of those creatures that
+usually are kept secret within the great deep of the oceans, those that glow
+with their own phosphoescence, lending light to this room by their portraits.
+If one meditates long enough within this room of painted creatures, one could
+almost see the thumb paintings blend into one, great view of the undersea
+world, and come to understand the greatnes and holiness of the Sea Queen and
+all her glory within her watery realm.    
+~
+51 131244 0 0 0
+D2
+~
+~
+0 0 5132
+S
+T 5130
+#5134
+The Living Quarters Within the Temple~
+   This is one of the rooms that are reserved as the living quarters for the
+priests who reside within this temple.  Beds are laid out along the walls, and
+clothing cabinets are built within the walls, to serve as closets for the
+priests.  Another room lies to the north, and the the hallway lies to the east.
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5135
+D1
+~
+~
+0 0 5132
+S
+T 5130
+#5135
+The Living Quarters Within the Temple~
+   This is one of the rooms that are reserved as the living quarters for the
+priests who reside within this temple.  Beds are laid out along the walls, and
+clothing cabinets are built within the walls, to serve as closets for the
+priests.  Another room lies to the south.    
+~
+51 8 0 0 0
+D2
+~
+~
+0 0 5134
+S
+T 5130
+#5136
+Within the Temple of Zeboim~
+   A large painting along the western wall depicts a great tsunami looming over
+a tiny city.  There have been many arguments over the origional meaning of this
+painting - the most famous telling a short story of the Great Sea Queen Zeboim
+vanquishing her enemies with the wave.  This corridor turns south, up a slight
+slope, and to the north is a door leading to a private room.
+~
+51 8 0 0 0
+D0
+~
+door~
+1 0 5137
+D2
+~
+~
+0 0 5138
+D3
+~
+~
+0 0 5131
+S
+T 5130
+#5137
+The High Priest's Quarters~
+   This room has been split into two sections with a large moving screen,
+providing the High Priest with a private bedroom of sorts as well as a small
+study.  A small cabinet along the bedroom wall serves as a closet, and another
+cabinet near the study desk holds a few of the High Priest's private collection
+of books and scrolls.    
+~
+51 262152 0 0 0
+D2
+~
+door~
+1 0 5136
+S
+#5138
+Within the Temple of Zeboim~
+   The corridor ends here, at the foot of a great set of spiralling stairs
+built like the inside of a shell.  The stairs lead to the altar room above.  
+To the north the corridor continues through the rest of the temple.  Holy items
+and cloths, vials of unholy water and other altar tools lie upon the table at
+the southern end of the room, for the priests.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5136
+D4
+~
+~
+0 0 5147
+S
+T 5130
+#5139
+Within the Temple of Zeboim~
+   This open room serves as a corridor separating the temple priests' private
+rooms from the main structure of the building.  A small door of sandstone,
+decorated with intricate paintings of sea creatures, bars the way to the west,
+where the priests of Zeboim live, meditate, and do the work of their goddess.
+The corridor ends to the south, branching off to the west and east.    
+~
+51 4 0 0 0
+D0
+~
+~
+0 0 5130
+D2
+~
+~
+0 0 5144
+D3
+~
+~
+0 0 5140
+S
+T 5130
+#5140
+Within the Temple of Zeboim~
+   Wall scones in the shape of great conch shells brighten the rooms with a
+warm yellow glow.  To the north are the living quarters of the priests of this
+temple, and to the west are the private rooms where they may go for
+contemplation, meditation or pray for guidance from their goddess, the Sea
+Queen.  A door of sandstone separates the priests' rooms from the rest of the
+temple.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5142
+D1
+~
+~
+0 0 5139
+D3
+~
+~
+0 0 5141
+S
+#5141
+A Room of Meditation~
+   The walls of this room are lined with shells of every kind imaginable, from
+small snails, hermit crabs, irridescent spiralled shells, great conch shells,
+and even an odd shell with a hypnotising swirling pattern of myrads of
+different colors.  This room is designed for those who wish to sit within the
+presence of the great goddess, the Sea Queen, and contemplate her wishes and
+desires.  The room almost hums with the faith energy of those who have
+meditated here and have achieved Zeboim's blessings.    
+~
+51 172 0 0 0
+D1
+~
+~
+0 0 5140
+S
+#5142
+The Living Quarters Within the Temple~
+   This is one of the rooms that are reserved as the living quarters for the
+priests who reside within this temple.  Beds are laid out along the walls, and
+clothing cabinets are built within the walls, to serve as closets for the
+priests.  Another room lies to the west, and the hallway is to the south.    
+~
+51 8 0 0 0
+D2
+~
+~
+0 0 5140
+D3
+~
+~
+0 0 5143
+S
+#5143
+The Living Quarters Within the Temple~
+   This is one of the rooms that are reserved as the living quarters for the
+priests who reside within this temple.  Beds are laid out along the walls, and
+clothing cabinets are built within the walls, to serve as closets for the
+priests.  Another room lies to the east.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5142
+S
+#5144
+Within the Temple of Zeboim~
+   A large painting along the southern wall shows with amazing detail a
+hurricane at sea.  Tiny feathers can be seen within the swirling winds of the
+storm, and bits of wood, most likely from a boat, float within the churning
+waters.  The sky is black and violet with rage, and the sea below it is white
+with fury.  Another grim reminder of the temper of the Great Sea Queen Zeboim
+to those who may try to cross her.  To the west is a door leading to a private
+room, and the corridor continues to the east up a slight slope.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5139
+D1
+~
+~
+0 0 5146
+D3
+~
+~
+0 0 5145
+S
+T 5130
+#5145
+Temple Storage Room~
+   This room has been reserved as the storage room for the temple's items.  
+Long tables lined with blue velvet cloths are covered with candles, incense,
+vials, small bottles, shallow bowls, and other altar tools needed to run the
+temple.  A few cabinets within the walls house the various cloths and robes the
+priests may need for certain ceremonies.  The room, although packed, is neat
+and in efficient order for those who know what they need and where to get it.
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5144
+S
+T 5130
+#5146
+Within the Temple of Zeboim~
+   The corridor ends here, at the foot of a great set of spiralling stairs
+built like the inside of a shell.  The stairs lead to the altar room above.  
+To the west the corridor continues through the rest of the temple.  Holy items
+and cloths, vials of unholy water and other altar tools lie upon the table at
+the eastern end of the room, for the priests.    
+~
+51 8 0 0 0
+D3
+~
+~
+0 0 5144
+D4
+~
+~
+0 0 5147
+S
+T 5130
+#5147
+The Altar of Zeboim~
+   The altar room of the Sea Queen is magnificient.  The walls are pearly white
+and seafoam green, swirled with light blue, patterned like the inside of a
+great shell.  The altar itself stands atop a set of spiralling stairs, and
+looks out toward the sea through a huge window.  The altar bowl is made of a
+giant tortoise's shell, its pearled colors shimmering.  The lights in the room
+are conch shells acting as wall scones for the candles within them.  Two more
+sets of stairs, to the east and south, spiral down to the rest of the temple
+like the inside of a spiralled shell.    
+~
+51 12 0 0 0
+D2
+~
+~
+0 0 5146
+D5
+~
+~
+0 0 5146
+S
+T 5130
+#5148
+The Coiled Serpent~
+   The room is dimly lit and full of smoke and the smells of ale and roasted
+fish.  A few tables and chairs line the walls, each set far enough apart to
+give the patrons a bit of privacy.  The walls are mostly bare, except for the
+southeastern part of the wall, where a full length tapestry hangs, and the
+southern wall where a large almost transparent mirror is proudly displayed
+behind the bar.  Two wine racks, each full of various wines and other bottles
+of drink, hang to each side of the mirror.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5088
+D2
+~
+mirror~
+1 0 5150
+D8
+~
+tapestry~
+1 0 5149
+S
+#5149
+A Back Room Behind the Tapestry~
+   The tapestry serves as an illusionary door from the main tavern room to this
+back room.  It is here where the more shady business deals are made or broken.
+Along the southern wall is a long table, with a comfortable chair behind it -
+made especially for the master of the hidden guild.    
+~
+51 8 0 0 0
+D2
+~
+~
+0 0 5151
+D7
+~
+tapestry~
+1 0 5148
+S
+#5150
+A Hidden Corridor~
+   The small corridor behind the mirror and wine racks is dimly lit, preventing
+easy discovery by nosy tavern patrons.  The only decorations on the walls are
+of a huge serpent, coiled and ready to strike.  Faint outlines of doors can be
+detected along the south, southeastern, and southwestern walls, though only a
+fool would not check for traps first.    
+~
+51 8 0 0 0
+D0
+~
+mirror~
+1 0 5148
+D2
+~
+~
+0 0 5153
+D8
+~
+~
+0 0 5151
+D9
+~
+~
+0 0 5154
+S
+#5151
+A Small Hidden Room~
+   The room is small and lit only be a few candles within the chandelier.  
+Some tapestries hang along the walls - one to the north and another to the
+southeast are the largest.  Two corner tables have bronze sculputures of a
+coiled serpent, complete with glimmering red eyes - the symbol of the guild.  
+~
+51 8 0 0 0
+D7
+~
+~
+0 0 5150
+D9
+~
+~
+0 0 5152
+S
+#5152
+A Small Hidden Room~
+   The room is small and lit only be a few candles within the chandelier.  
+Some tapestries hang along the walls - one to the northwest and another to the
+northeast are the largest.  Two corner tables have bronze sculptures of a
+coiled serpent, complete with glimmering red eyes - the symbol of the guild.  
+~
+51 8 0 0 0
+D6
+~
+~
+0 0 5151
+D7
+~
+~
+0 0 5154
+S
+#5153
+The Pit of the Serpent~
+   The room is too dark to see where the walls lie.  The floor is slick and
+ragged, as if littered with large rocks or other debris.  A hissing emanates
+from the darkness, echoing all around, creating an ominous feeling of doom.  
+~
+51 9 0 0 0
+D0
+~
+~
+0 0 5150
+S
+#5154
+A Small Hidden Room~
+   The room is small and lit only be a few candles within the chandelier.  
+Some tapestries hang along the walls - the one to the southwest is the largest.
+Two corner tables have bronze sculptures of a coiled serpent, complete with
+glimmering red eyes - the symbol of the guild.  The faint outline of a door can
+be seen to the north within the wall.    
+~
+51 8 0 0 0
+D0
+~
+door~
+1 0 5087
+D6
+~
+~
+0 0 5150
+D8
+~
+~
+0 0 5152
+S
+#5155
+The Courtyard of SeaMist Tower~
+   A high wall of solid obsidian surrounds the inner courtyard of the magi
+tower.  Smooth polished stones of charcoal grey line the walkway, and wonderous
+plants bloom all around.  Upon closer inspection one may notice the thorns on
+the blood roses drip with a sleep poison, and the sweet fragrance of the silver
+mourningbells is meant for attracting victims to their death.  The deadly
+courtyard garden continues along the eastern wall, and around the corner of the
+tower.  Two doors of polished redwood seem to bar the entrance to the tower
+with a sentient presence.    
+~
+51 0 0 0 0
+D1
+~
+~
+0 0 5156
+D7
+~
+~
+0 0 5054
+D8
+~
+~
+0 0 5158
+S
+#5156
+SeaMist Tower Garden~
+   The garden within the inner courtyard of the tower was more formidable than
+the rest of the garden implies.  This corner of the gardens bears many herbs of
+different varieties - lemon grass, lavender, musktails, and tiger balm grow in
+neat patches in between the smooth walkway stones.  Other plants, many exotic
+blooming varieties, grow nearer the wall and out of reach.  The garden grows
+around the tower, west and south.    
+~
+51 0 0 0 0
+D2
+~
+~
+0 0 5157
+D3
+~
+~
+0 0 5155
+S
+#5157
+SeaMist Tower Garden~
+   Clouds of honeyspurs send into the air the fragrance of ambrosia as they
+multiply along the tower walls.  A few vines of wisteria climb the walls as if
+clinging for their lives, and colourful butterfly bushes fill the garden with
+beautifully winged insects that have been attracted by the flora here.  The
+obsidian wall surrounding the garden and tower seems to be blocking most of the
+seaspray from the coastal waves, but the salty tang in the air just makes the
+fragrances within this place more wonderous.  The rest of the garden lies
+north, and wraps around the tower toward the front, following the smoothly
+polished stones.    
+~
+51 0 0 0 0
+D0
+~
+~
+0 0 5156
+S
+#5158
+SeaMist Tower~
+   The entrance room to the tower is magnificient.  The walls are aglow with
+large scones holding shimmering balls of light.  The bricks are bleached white
+and cream, and tapestries hang inbetween the scones.  The floor is a solid
+piece of black marble, and a few inside trees, their leaves large and blossoms
+cream and gold, grow near the set of huge redwood doors leading outside.  
+Another door, this one of polished bronze, leads east, and a hallway continues
+to the north.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5160
+D1
+~
+~
+0 0 5159
+D7
+~
+~
+0 0 5155
+S
+#5159
+SeaMist Tower Kitchen Room~
+   This room serves mostly as a kitchen.  A huge fireplace in the corner of the
+room heats the room while it cooks meals, either with the cauldron or with a
+large type of baking pan.  Shelves along the walls hold the various ingredients
+of cooking, and various utensils hang from above the tables.  A cabinet built
+into the wall holds dry ingredients, and another serves as a cooler place to
+hold fresh fruits and vegetables.  A set of stairs winds upwards into the
+darkness above.    
+~
+51 8 0 0 0
+D3
+~
+~
+0 0 5158
+D4
+~
+~
+0 0 5163
+S
+#5160
+SeaMist Tower Hallway~
+   The hallway is almost as beautiful as the entrance room of the tower.  The
+walls are bleached white and cream, the floor is a solid piece of black marble,
+and scones along the walls glow with shimmering balls of light.  A few
+tapestries hang in between the scones along one wall, and paintings hang along
+the other wall.  To the north are two rooms - each brightly lit and inviting.
+To the south lies the entrance room of the tower.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5161
+D2
+~
+~
+0 0 5158
+D7
+~
+~
+0 0 5162
+S
+#5161
+SeaMist Tower Library Room~
+   The walls within this room are covered from corner to corner and wall to
+ceiling with shelves upon shelves of books, from all over the world.  A few
+tables within this room, and a few standing cabinets as well, have parchments,
+scrolls, and notes scattered on or within.  The room is not the largest, but it
+is extremely tidy and clean.  Lighting comes from a few shimmering balls of
+light inset into the shelves, as well as chandeliers hanging from above.    
+~
+51 8 0 0 0
+D2
+~
+~
+0 0 5160
+S
+#5162
+SeaMist Tower Herbal Room~
+   The most striking feature of this room is the large windows that look upon
+the garden of the courtyard outside.  The windows appear to be one-way, so no
+one can see into this room.  The windows let in most of the light, with a few
+wall scones upon the other two walls.  Many shelves line the walls inbetween
+the scones, and are full of various types of herbs in various types of
+containers.  The tables within this room are also covered in herbs, drying
+racks and glass jars containing liquids.  A fireplace sets in the corner,
+especially made for brewing and steaming.    
+~
+51 8 0 0 0
+D8
+~
+~
+0 0 5160
+S
+#5163
+SeaMist Tower~
+   A set of stairs in the corner of the room wind down to the first floor of
+the tower.  The walls here are more subdued, yet more extravagant in their
+designs.  Carved into the bricks of the walls are richly decorated runes,
+intertwining with reliefs of various flora and fauna.  A story could almost be
+read within the pictures upon the walls, if one could interprete the intricate
+weaving of the magical patterns.  The hallway continues to the west, into a
+room, and northwest around the corner.    
+~
+51 12 0 0 0
+D3
+~
+~
+0 0 5164
+D5
+~
+~
+0 0 5159
+D6
+~
+~
+0 0 5165
+S
+#5164
+SeaMist Tower Study~
+   This room is lightly furnished, with a table or two, and a set of
+comfortable chairs.  A chandelier hangs from the ceiling, giving off enough
+light to see by.  A few bookshelves line one of the walls, and a desk in the
+corner holds parchments and writing utensils.  The study serves as a place of
+relaxation as well as training, for it is here that the lady of the tower meets
+and trains her students.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5163
+S
+#5165
+SeaMist Tower~
+   The hallway here is oddly narrow, with the same richly decorated walls as in
+the southeastern part of the hallway.  A few runes stand out more than the
+others, as if calling attention to themselves as they intertwine with the
+various animals, plants and figures.  The northern half of the hallway hums
+with energy, with the sorce coming from the polished redwood door.  The door is
+carved with similar reliefs of plants and animals, yet the figures are more
+noticeable upon the door.  A few runes above the door throb with a faint light,
+warding those from entering who were not invited.
+~
+51 8 0 0 0
+D4
+~
+~
+0 0 5168
+D7
+~
+~
+0 0 5166
+D9
+~
+~
+0 0 5163
+S
+#5166
+SeaMist Tower - Private Bedroom~
+   This room has been spared no expense, showing the lady of the tower to love
+her possessions.  The bed itself is magnificient.  Polished mahogany with
+richly carved designs along the side, and four posts that hold the red silken
+canopy high above the bed itself.  Silken sheets of red and gold cover the bed,
+and the headboard, complete with gold trim, has magically dimming lights inset
+within.  A dressing desk sets to one side of the room, and the huge wardrobe
+cabinet, also in cream and gold trim, sets next to it.  A door leading to the
+private library is to the west.    
+~
+51 8 0 0 0
+D3
+~
+door~
+1 0 5167
+D8
+~
+~
+0 0 5165
+S
+#5167
+SeaMist Tower - Private Library~
+   The private library isn't as big as the one on the lower floor of the tower,
+but it has more of the rare books, and more powerful books, most written by
+people long dead.  Most are more magical in nature, though there are some books
+of legends and of histories.  The chairs here are more comfortable, and the
+lights brighten and dim at the will of the reader.    
+~
+51 8 0 0 0
+D1
+~
+door~
+1 0 5166
+S
+#5168
+SeaMist Tower~
+   The walls here are close together, and the lights are too dim to see
+clearly.  The reliefs upon the wall reveal similar runes and carvings, yet are
+still indeciferable.  To the south and southeast are two rooms, barred by large
+doors also covered in runes.    
+~
+51 9 0 0 0
+D2
+A large runed door sits to the south.
+~
+door~
+1 0 5169
+D5
+~
+~
+0 0 5165
+D9
+A door surrounded by runes.
+~
+door~
+1 0 5170
+S
+#5169
+SeaMist Tower - Overlooking the Bay~
+   A large window set into the southern wall of this room overlooks the sea,
+giving a spectacular view from this level.  The room itself has few furnishings
+- mainly just a comfortable chair, a desk, and a floor lamp, yet the serenity
+of the view outside the one-way window makes this room peaceful.    
+~
+51 12 0 0 0
+D0
+A large runed door sits to the north.
+~
+door~
+1 0 5168
+S
+#5170
+SeaMist Tower - Solitude~
+   A large table in the middle of the room holds the most attention, as its
+dimly glowing runes along the legs and sides of the table hum with energy.  A
+few braziers hang from poles in each corner, and a few more create a circle
+near the table.  Dim globes of light hang at intervals within the room, and
+upon the table sets a black velvet cloth, covering what could only be a large
+crystal scrying ball.  Also on the table are various other magical instruments
+- a gem encrusted wand, a few books, some scrolls, and a rune carved knife.  
+The runes above the door spell out - Solitude - and the energy within the room
+impresses upon the mind the idea that this is the most private room within the
+lady's tower.    
+~
+51 131624 0 0 0
+D6
+A large wooden door.
+~
+door~
+1 0 5168
+S
+#5171
+Arashi Weaponry~
+   The walls inside this building are done in a deep red brick, with more than
+a few metal racks holding various weapons on display.  This is the front of the
+shop where the selling and buying is done, and where some people can place
+orders for particular weapon styles, for a price of course.  The main door lies
+to the north.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5016
+S
+#5172
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+51 2572 0 0 0
+D3
+~
+~
+0 0 5055
+S
+#5173
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+51 524 0 0 0
+D3
+~
+~
+0 0 5056
+S
+#5174
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+51 524 0 0 0
+D2
+~
+~
+0 0 5052
+S
+#5175
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+51 524 0 0 0
+D2
+~
+~
+0 0 5051
+S
+#5176
+The Red Metal Rose Blacksmith Shop~
+   An immense table sits in the middle of the room, and is covered with various
+smaller items for sale.  Along the walls are neatly displayed pieces of armor,
+fastened against the wall as if held by an invisible warrior.  The only other
+thing decorating the walls are a few plaques of bravery, some so worn you
+cannot make out the words on them.  The doorway to the east leads back outside
+of the shop.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5073
+S
+#5177
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+51 524 0 0 0
+D1
+~
+~
+0 0 5097
+S
+#5178
+A Townhome~
+   This simple home has all the amenities required by city dwellers.  It is
+convenient the shops and activities while still providing for a private retreat
+from the crowds.  A massive stone fireplace in the center of the room provides
+heat and light for the entire home.  It has been outfitted with a small oven
+and a sturdy iron hook for cooking.  One side of the house is set for food
+preparation and dining, while the other provides a comfortable seating area for
+rest and relaxation.  A loft for sleeping is visible overhead.    
+~
+51 12 0 0 0
+D1
+~
+~
+0 0 5096
+S
+#5179
+Cinnabar's Leatherworking Shop~
+   A few display cases line the walls, and a table lies in the middle of the
+room where the trading takes place.  Most of the armor here is made of all
+leather and simple in design, however there is also a selection of clothing and
+other items decorated with metal studs or fur or leather fringe or even dyed
+cloth to heighten the looks.    
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5005
+S
+#5180
+The RP Board Room~
+   This small room contains only a large bulletin board on the north wall.  
+The bulletin board actually covers the entire wall, and is itself plastered
+with messages and notes.  The walls of the room are covered in paintings of
+various places in Krynn, including the arena in Lacynes, the Docks of Karthay,
+and the Temple of Sargonnas.  This board is for the questions, comments, and
+ideas or suggesstions that the mortals may have concerning things such as RP,
+Quests, Invasions, and minor or major situations, histories, backgrounds for
+characters that might occur, or that they wish to do.  Imms may reply as well
+on this board, to answer or ask for ideas about any RP-type situation.    
+~
+51 8 0 0 0
+D7
+~
+~
+0 0 5102
+S
+#5181
+unused~
+   This back room is dim compared to the lighted rooms of the shop.  Huge
+curing racks line one wall, and a few tables line another, full of scraps of
+leather, and fur.  A few barrels along the floor have tightly placed lids on
+them, one splashed with blood, and another labeled 'unusable leftovers'.  A
+sick smell comes from these barrels.  The doorway to the west leads to the rest
+of the shop.    
+~
+51 8 0 0 0
+D3
+~
+~
+0 0 5180
+E
+barrel barrels~
+   Inside the barrels is a mass of old and unusable strips of leather, leftover
+from the manufacturing process.  They rot and stink forcing you to quickly put
+the lid back on before becoming overpowered by the stench.    
+~
+S
+#5182
+Karthay Fish Market~
+   This is the Karthay fish market where fish from the returning fishing boats
+is offered for sale to anyone who wishes to get their fish as fresh as
+possible.  A small cooking fire burns just to the west where people can order
+grilled, fried or baked fish.  Just to one side is a table on which tanks of
+cold water display the variety of fish which are available here.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5029
+D2
+~
+~
+0 0 5183
+S
+#5183
+Karthay Fish Market~
+   Some of the odder types of fish and other sea creatures can be found for
+sale here in the Karthay fish market.  A large grill rests just to one side
+from which the smell of cooking seafood comes.  The Shore road lies just to the
+east while the rest of Karthay's fish market lie to the north, south and west.
+  
+~
+51 8 0 0 0
+D0
+~
+~
+0 0 5182
+D1
+~
+~
+0 0 5030
+D3
+~
+~
+0 0 5185
+S
+#5184
+unused~
+   This is the oddest part of the fish market.  Someone had decided to set up a
+stall and sell remains, like fishbones, and fish oil, figuring some people
+would buy such things.  Along one brightly painted wall are pictures of stormy
+seas and amazing sea creatures.  To the north is the rest of the fish market
+while the Shore Road is just to the east.    
+~
+51 8 0 0 0
+S
+#5185
+Karthay Fish Market~
+   This is the part of the fish market where the fish brought in by the fishing
+boats is cleaned and gutted.  It stinks of rotted fish gut so badly as to make
+those with a weak stomach nauseous.  Several barrels of rotting fish are
+scattered here and there waiting to be disposed of.  The rest of the Karthay
+fish market lies to the east.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5183
+S
+#5186
+Crescent Park~
+   The shade provided by the western wall of the city has made this area a
+popular gathering spot, particularly during the afternoon hours.  A narrow
+brick path meanders through the small park that has been created here.  The
+lawns, such as they are, require constant attention in this sandy soil.  
+Several large rocks have been positioned along the borders of the path along
+with various types of succulent plants that appear to be able to thrive in this
+environment.    
+~
+51 0 1 0 0
+D2
+~
+~
+0 0 5188
+D6
+~
+~
+0 0 5066
+S
+#5187
+The Statue of a Warrior Clad in Dark Armor~
+   This is a corner of the park where all the trees and other vegetation seem
+to lead to one place: a giant, obsidian statue.  The statue is one of a warrior
+clad in dragonscale armor.  At his feet sits a helm of intimidating design, and
+in his hands is clasped a large, evil, two-handed sword.  His face has a
+strange, charismatic quality to it.  His noble features are twisted into a look
+of anger and near madness.  He also wears a short beard.  He stands, glaring
+down at you, and you feel for a moment as though this statue, inanimate as it
+may be, is threatening you in some manner.  Upon the statue's base sits a small
+plaque, whose writing is almost too small to read, and in front of it sits a
+huge cauldron, crackling with flames.    
+~
+51 4 1 0 0
+D1
+~
+~
+0 0 5188
+E
+plaque vertrothe~
+   When you manage to get close enough to read it, the plaque carries a single
+line of script:
+
+               "In honour'd mem'ry of the Queen's Champion."
+~
+S
+T 5187
+#5188
+Crescent Park~
+   This is the busiest section of Crescent Park.  At just about any time of day
+citizen and visitors come to the fountain to fill their waterskins or canteens
+and exchange brief pleasantries before continuing on their way.  Little
+greenery grows in this area, just a few flowers that cling to the rocks and
+sandy dirt along the edge of the path.  This area is generally shady at all
+times of day due to the presence of a large tree which stands between the park
+and Sandstone Lane, as well as the city wall which is visible to the west, just
+beyond a rather large statue.    
+~
+51 0 1 0 0
+D0
+~
+~
+0 0 5186
+D1
+~
+~
+0 0 5189
+D3
+~
+~
+0 0 5187
+E
+tree~
+   This tree was planted centuries ago by a few of the city's citizens.  It
+seems to have been carefully selected to grow in this sandy dirt.  Though not
+overly green and lush, it does appear quite healthy.  The folklore associated
+with this tree is that when the park was first built, a few citizens insisted a
+tree must be included.  The city planners shrugged off the idea.  However a
+small group of people snuck in to the park one night and planted the tree,
+laughing hysterically as they worked.  No one thought it would survive, but its
+deep root system and narrow leaves seem to allow it to live in this climate.  
+
+~
+S
+#5189
+Crescent Park~
+   The shade provided by the western wall of the city has made this area a
+popular gathering spot, particularly during the afternoon hours.  A narrow
+brick path meanders through the small park that has been created here.  The
+lawns, such as they are, require constant attention in this sandy soil.  
+Several large rocks have been positioned along the borders of the path along
+with various types of succulent plants that appear to be able to thrive in this
+environment.    
+~
+51 0 1 0 0
+D3
+~
+~
+0 0 5188
+D9
+~
+~
+0 0 5060
+S
+#5190
+unused~
+   A few tables line this room, separated by silken screens with painted
+designs of various sea creatures and birds.  Different holy items rest on each
+table, ranging from the holy symbols that clerics use to show their status, to
+vials of holy water, blessed candles and other tools a holy priest might need.
+The rest of the shop lies to the east.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5189
+S
+#5191
+The Holy Shell~
+   This appears to be the clothing area of the holy store.  Robes of many
+kinds, varying in sizes, colors, and designs, hang along a rack against one
+wall, while other things such as pouches for holy items, necklaces of beads,
+rings and other items lie upon a table.  The doorway to the east leads back out
+to the Shore Road.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5035
+S
+#5192
+A Private Booth in the Seasick Kraken~
+   Away from most of the normal tables in the bar, this booth provides a bit of
+privacy.  Although the noise coming from the main part of the bar is still
+strong, it isn't as loud here, giving people some time to sit together without
+having to shout to be heard by the person sitting next to them.  The booth
+consists of two small, wooden benches, a small table, and two high walls behind
+each bench.  Each bench is slightly larger than a chair, but not by much.  A
+candle with an orange tinted glass orb provides the light for this booth, it
+has been attached to the wall, leaving more space for the table.    
+~
+51 264 0 0 0
+D9
+~
+~
+0 0 5111
+E
+table counter~
+   The table isn't big by any means.  It can barely hold two people's food and
+two mugs.  Surrounding the sides of the table are carvings of turtles.  That
+may seem odd to some, but those who travel the seas know well enough to not
+anger The Goddess of the Sea.  The table is connected to the wall and can't be
+moved, but the connection to the wall only does that, keeping it from moving.
+Under the table, one large leg comes out of the center, keeping it from falling
+down when any weight is set on it.    
+~
+E
+candle light glass orb~
+   This little candle cuts through the darkness in this poorly lit bar.  
+There's two parts attached to the wall.  First, the candle itself is on a
+simple black iron holder.  The second part is made out of the same iron, but it
+is made to hold up an orange tinted glass globe.  When the candle is new, the
+glass orb covers the flame and tints the surrounding area orange.  Often
+though, the candles are allowed to burn out to nothing.    
+~
+E
+bench chair benches seat~
+   The benches are crafted out of a solid wood and stained so it's now a very
+dark, almost red, color.  The seat of the bench has a black cloth on it, and
+under the cloth is some sort of padding, straw perhaps.  On the back of each
+bench is a carving of different sea animals, some real, some, like mermaids, a
+little less real.  Each carving is different, but they all have one thing in
+common, a carving of a turtle that is put on each of the corners of the bench.
+Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
+Keeping her happy, or at least not angry, is important.    
+~
+S
+#5193
+unused~
+   The main room of the store appears brightly lit and very colored.  Tiny
+colored gems of all colors hang from the windows, reflecting rainbows within
+the room, and many other gems of different sizes create pattered mosiacs along
+the walls or on the tables.  Most any of these can be bought, but some seem to
+have taken a magical quality to them as they dance in the light.  Two other
+rooms lead from this main room, to the rest of the shop.    
+~
+51 12 0 0 0
+D2
+~
+~
+0 0 5041
+D3
+~
+~
+0 0 5194
+D6
+~
+~
+0 0 5195
+S
+#5194
+unused~
+   This is the room of the shop that many people take their pieces of jewelry
+to be repaired, and where some bring their items to be inlaid with
+gems.  A few cloaks half-lined with gems hang along a rack, and bowls upon a
+table hold finely crushed gems, to be used as powdered decorations.  Even a
+crown, half encrusted with emeralds, lies almost hidden in a jeweled box.  The
+main room lies east.    
+~
+51 8 0 0 0
+D1
+~
+~
+0 0 5193
+S
+#5195
+Shandra's Jewellery Boutique~
+   Satin covered tables lined with various pieces of jewelry fill the tiny room
+with bright, delicate colors.  Most of the jewelry appears to be finely made
+and extremely delicate - good enough for even a queen - but there are other
+pieces of jewelry that appear to be well worn, or once broken and hastily
+mended.  The doorway to this shop lies to the south.    
+~
+51 8 0 0 0
+D2
+~
+~
+0 0 5041
+S
+#5196
+Under the Moonglow~
+   A series of short stands containing various items sits off to the side of
+the room, covered in dust.  A dark smoke that exudes a faintly sharp odor like
+herbs rolls out and over the floor at ankle height, from the back room.  Wide
+cushions run along the side of the wall, obviously well used places to sit
+confortably and meditate upon balance and inner thought.    
+~
+51 8 0 0 0
+D2
+~
+~
+0 0 5046
+S
+T 5100
+T 5101
+T 5102
+#5197
+A Room Filled with Wondrous Items from Near and Far~
+   An antique desk carved from a single piece of vallenwood sits at the center
+of this crowded room.  Atop the desk is a thick journal which is used to
+catalog all the items that Tatalania has collected over the years.  A few of
+his favorite pieces are on display here, but most of collection is quickly
+whisked upstairs for his staff to clean, restore, or prepare for storage.    
+~
+51 12 0 0 0
+D0
+~
+~
+0 0 5001
+D4
+~
+~
+0 0 5117
+S
+#5198
+A Room of Swirling Shadows~
+   This room is cast in shadows.  There are no windows and the walls and
+ceiling are smudged in soot from the torches which line the walls.  A few low
+benches offer places for mages to sit and converse on various topics.  One wall
+is fixed with shelves which hold hundreds of scrolls.  The air here is thick
+with the smell of magic components and the faint tinge of wood smoke.    
+~
+51 220 0 0 0
+S
+T 5103
+T 5100
+T 5101
+#5199
+A Private Booth in the Seasick Kraken~
+   Away from most of the normal tables in the bar, this booth provides a bit of
+privacy.  Although the noise coming from the main part of the bar is still
+strong, it isn't as loud here, giving people some time to sit together without
+having to shout to be heard by the person sitting next to them.  The booth
+consists of two small, wooden benches, a small table, and two high walls behind
+each bench.  Each bench is slightly larger than a chair, but not by much.  A
+candle with an orange tinted glass orb provides the light for this booth, it
+has been attached to the wall, leaving more space for the table.    
+~
+51 264 0 0 0
+D8
+~
+~
+0 0 5111
+E
+table counter~
+   The table isn't big by any means.  It can barely hold two people's food and
+two mugs.  Surrounding the sides of the table are carvings of turtles.  That
+may seem odd to some, but those who travel the seas know well enough to not
+anger The Goddess of the Sea.  The table is connected to the wall and can't be
+moved, but the connection to the wall only does that, keeping it from moving.
+Under the table, one large leg comes out of the center, keeping it from falling
+down when any weight is set on it.    
+~
+E
+candle light glass orb~
+   This little candle cuts through the darkness in this poorly lit bar.  
+There's two parts attached to the wall.  First, the candle itself is on a
+simple black iron holder.  The second part is made out of the same iron, but it
+is made to hold up an orange tinted glass globe.  When the candle is new, the
+glass orb covers the flame and tints the surrounding area orange.  Often
+though, the candles are allowed to burn out to nothing.    
+~
+E
+bench chair benches seat~
+   The benches are crafted out of a solid wood and stained so it's now a very
+dark, almost red, color.  The seat of the bench has a black cloth on it, and
+under the cloth is some sort of padding, straw perhaps.  On the back of each
+bench is a carving of different sea animals, some real, some, like mermaids, a
+little less real.  Each carving is different, but they all have one thing in
+common, a carving of a turtle that is put on each of the corners of the bench.
+Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
+Keeping her happy, or at least not angry, is important.    
+~
+S
+$~

@@ -1,0 +1,2258 @@
+#4600
+The Altar~
+   You enter a wide clearing in the forest.  This area glows with a dim light
+that seems to come from the trees themselves.  The clear breeze blowing through
+is refreshing and cool.  The grass that grows here is short, and right in the
+middle of the clearing is a large altar.  It is difficult to distinguish what
+material the altar is constructed of, however, it is awash in gold tones, with
+gleaming reds and lustrous blues and purples shining on its surface.  It is a
+truly beautiful sight to behold.  The altar is smooth on the top, but the sides
+are carved with various pictures that show the glory of the wilds.  It is
+simply breathtaking.  The forest becomes too thick to pass through from this
+point, and the only way to leave is south from here.    
+~
+46 16 1 0 0
+D2
+~
+~
+0 0 4605
+S
+T 4601
+#4601
+A Fragrant Herb Garden~
+   This area is lightly shaded by a canopy of tall ironwood trees.  The sun
+filtered through the leaves creates a beautiful effect as it plays across the
+leaves of the assorted herbs growing here.  Even an experienced herbalist may
+have trouble identifying every herb growing here, as there seem to be so many.
+The garden stretches out for many yards in each direction, allowing one to
+stroll through for hours and never noticing the same herb twice.  A cobblestone
+path winds its way through the garden, leading one past all the patches of
+various herbs.  When the wind shifts, your nose picks up an entirely different
+set of smells.  Almost everything a herbalist, or a chef, could possibly want
+is growing here somewhere.  It would just be a matter of finding it.  The trees
+form an archway to the west, which serves as an entryway and exit for the
+garden.    
+~
+46 80 0 0 0
+D3
+~
+~
+0 0 4605
+S
+#4602
+A Tree of Impressive Size~
+   You come into a circular clearing, the center of which is dominated by an
+immense fir tree.  The evergreen needles are as thick as baby fingers, and grow
+in thick bunches along the branches.  This is the single most impressive
+specimen of evergreen tree you have ever seen, its freakish growth the evidence
+of the magic permeating the area.  The roots spread out in all directions along
+the ground.  The forest forms a ring about the tree, almost as if every other
+tree in the area were keeping a respecful distance away.  There is a slightly
+cool breeze that blows through, carrying upon it the rich scent of pine
+needles.  A small twisting path leads back to the southwest.    
+~
+46 0 0 0 0
+D8
+~
+~
+0 0 4605
+S
+#4603
+A Tree of Impressive Size~
+   You stand before an absolutely enormous redwood tree, with a trunk many
+armlengths wide.  The trunk is straight and extends far far overhead.  Up
+above, an impressive array of green leaves form a canopy which provides ample
+shade to rest by.  The roots spread out in all directions.  The forest forms a
+ring around the tree, almost as if every other tree were keeping a respectful
+distance from this venerable elder.  There is a warm breeze that blows through,
+creating a sense of peace and tranquility.  A small path leads back through the
+ring of trees to the southeast.    
+~
+46 0 0 0 0
+D9
+~
+~
+0 0 4605
+S
+#4604
+A Fertile Flower Garden~
+   When you enter this area, the scent of millions of wild flowers immediately
+fills your nostrils.  The fragrance is intoxicating, and you feel immediately
+compelled to spend a few moments here, simply inhaling the wonderful scent.  
+The flowers that fill the area are every conceivable hue, including a few that
+you have not seen before.  Though the field appears vast, it fills only a small
+area.  Here and there throughout this garden, a post stands about six feet
+high, holding a vined plant.  Thus, the garden has several levels, creating the
+most appealing arrangement imaginable.  Though the garden must have countless
+flowers, each one has been carefully tended and raised by loving hands.  It is
+likely that maintaining this garden itself would be a full-time job, even for
+several people.  Butterflies and honey bees flit about from flower to flower,
+continuing nature's everlasting dance of birth, death, and renewal.    
+~
+46 80 0 0 0
+D1
+~
+~
+0 0 4605
+S
+#4605
+Beyond the Vine Gate~
+   The ground covering here here is a soft short moss that feels like a thick
+carpet beneath your feet.  The trees thin out all around, leading into little
+clearings.  The trees in this portion of the woods are green and very much
+alive.  The smell of life is all around you, filling your nostrils with every
+breath.  However, there are few if any sounds of wildlife.  There is a feeling
+of complete quietness and peaceful serenity all around, and there could be
+fewer places where a being could feel more alone with their thoughts.  A few
+boulders sit upon the ground which are clean, smooth, and flat, which would
+provide a nice place to sit and relax.    
+~
+46 0 2 0 0
+D0
+~
+~
+0 0 4600
+D1
+~
+~
+0 0 4601
+D2
+A gate within the vine fence appears to be moveable from the inside.
+~
+gate~
+1 0 4606
+D3
+~
+~
+0 0 4604
+D6
+~
+~
+0 0 4603
+D7
+~
+~
+0 0 4602
+S
+#4606
+A Grove of Autumn Trees~
+   Despite the season, this grove of trees and plants seems to be in the autumn
+of their lives.  The leaves are turning all manner of of golds, reds, browns,
+and yellows.  In the slightest of breezes, leaves tumble down, covering a path
+made of large stones buried in the dirt.  The sun streams through branches
+that, by all rights, should be going barren by now, but, oddly, they seem to be
+continually growing new autumn leaves.  There is a cool breeze that blows
+through from the southeast, where a trail leads.  Another, similar trail leads
+to the southwest.  Another, fainter trail, barely discernable, leads through
+some brambles to the south, towards a mighty circle of oaks.  To the north is a
+gate formed of vines.    
+~
+46 0 0 0 0
+D2
+~
+~
+0 0 4627
+D8
+~
+~
+0 0 4625
+D9
+~
+~
+0 0 4624
+S
+T 4605
+T 4604
+#4607
+A Hidden, Underground Passage~
+   The passageway seems to have gone on for miles.  It is a very difficult
+crawl, and even the most sturdy of hands and knees are beginning to bruise and
+blister.  The slippery rocks have made it a difficult underground trek, though
+you sense it may soon be coming to an end.  There is a small amount of light
+from the passageway, which curves upwards sharply to the south.  While it would
+be possible to turn around and go back to the northwest, the idea of enduring
+this rough crawl again is completely disagreeable.  The way south seems to be
+the one that makes the most sense to take.    
+~
+46 365 5 0 0
+D2
+~
+~
+0 0 4679
+D6
+~
+~
+0 0 4637
+S
+T 4607
+#4608
+A Serene Path Through the Trees~
+   Passing over a pile of rubble that was once an arch, you enter the forest.
+There is a wide path here, flanked on either side by a grove of trees.  There
+is ample shade here, and a fresh breeze carries upon it the scent of grass,
+flowers, and leaves.  The air is slightly moist, and the grass glistens with
+moisture, either dew or recent rain.  Bird calls can be heard all around you,
+echoing from tree to tree.  The path continues north, along the path, or south,
+towards the ruins.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4609
+D2
+~
+~
+0 0 4652
+S
+#4609
+A Serene Path Through the Trees~
+   Each step is cushioned by soft earth covered with twigs and leaves.  The
+trees all around are old, but not ancient.  Some are between twenty and forty
+years old.  Those that are older appear to have been damaged long ago, but have
+healed and recovered.  To one side of the path, a large flat rock sits, an
+inviting place to rest after a long stroll through the woods.  The chirping of
+birds can be heard all over, raising their voices in praise of the beautiful
+green forest that surrounds them.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4610
+D2
+~
+~
+0 0 4608
+S
+#4610
+A Serene Path Through the Trees~
+   You continue strolling through the lush green forest.  There is a wide path
+here, flanked on either side by a grove of trees.  There is ample shade here,
+and a fresh breeze carries upon it the scent of grass, flowers, and leaves.  
+The air is slightly moist, and the grass glistens with moisture, either dew or
+recent rain.  Bird calls can be heard all around you, echoing from tree to
+tree.  The path continues north, along the path, or south, back toward the
+ruins.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4643
+D2
+~
+~
+0 0 4609
+S
+#4611
+The Scent of Fresh Air~
+   Now, you can unmistakably tell what that odd new smell is in the windy cave.
+It seems like a long time since it has been smelled, but now you are absolutely
+certain.  It is the smell of fresh air, and it is coming from the east.  There
+is also faint light in that direction as well, making it appealing to move in
+that direction.  It is also possible to move southwest from here.    
+~
+46 9 0 0 0
+D1
+~
+~
+0 0 4612
+D8
+~
+~
+0 0 4672
+S
+#4612
+A Steep Dropoff in the Cave~
+   The floor of the cave has a distinct downwards dip to the east.  It is
+necessary to dig in your heels to keep from picking up too much speed and
+falling face-first into the ground.  The air here is dryer than in the caverns
+to the west, likely because of the more readily available ventilation to the
+east.    
+~
+46 9 0 0 0
+D3
+~
+~
+0 0 4611
+D5
+~
+~
+0 0 4613
+S
+#4613
+A Cave With a Low Ceiling~
+   You stand within the entrance to a cave.  There is a musky odor that hangs
+in the air all around.  Outside of here, you can see a forest quite clearly,
+though it is not like many forests you have seen.  No matter the season, this
+forest seems to be constantly in the season of autumn.  The trees all around
+are nearly barren and lifeless, their remaining leaves dry and blackened.  
+Though the cave is dark and forboding, the forest that awaits you through the
+entrance to the north does not look to be much of an improvement.  An eerie,
+hot wind stirs the leaves that litter the ground, blowing into the cave.  The
+only thing standing between you and exiting the cave is the huge, rusted cage
+fence that rises up before you, blocking further travel.    
+~
+46 4 0 0 0
+D0
+The rusting gate bars further passage.  You will have to figure out how to get it open.
+~
+gate~
+1 4699 4623
+D4
+~
+~
+0 0 4612
+S
+#4614
+Shattered Columns~
+   The area to the south has been completely filled in with rubble.  You walk
+along the old cracked marble floors, your footfalls sounding out of place in
+the rustle of leaves and chirping of birds.  To the north, each individual
+column, made of white stone, appears to have been shattered by a great force.
+Of each column, only the ornately decorated base remains intact.  Of the rest,
+only chunks of rock in piles around the bases remain.  Beyond that, a thick
+wall of trees prevents further passage.  The hallway continues to the east and
+west from here.  To the east, it continues only a short ways before the floor
+vanishes completely and leads into the forest.  A slightly overgrown path can
+be seen from that point.    
+~
+46 4 3 0 0
+D1
+~
+~
+0 0 4615
+D3
+~
+~
+0 0 4652
+S
+#4615
+The Forest~
+   The shattered columns to the west give way to the living columns of ancient
+trees at this point.  The way they have grown, the trees appear almost to have
+usurped this corner of the world from man's marble creations, returning once
+again to nature.  It is an odd feeling to be standing here.  There is sorrow
+for that which has gone before and now lays shattered, but there is the feeling
+of hope and liberation that comes from standing among such lush and beautiful
+plant life.  To the west lays the ruined temple, and east of here the forest
+continues.  To the north, there is a space between the trees, just narrow
+enough for one or two people to squeeze through.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4688
+D1
+~
+~
+0 0 4616
+D3
+~
+~
+0 0 4614
+S
+#4616
+The Sapling Forest~
+   How cute.  It appears as if the forest, tended for years by nature's hand,
+is raising a little forest of it's own.  The large trees to each side of the
+path shelter a miniature version of the forest in between.  The path narrows
+significantly, but although it would be easy to simply trample over the little
+saplings, one's heart almost cringes at the thought of crushing these promising
+little forest children, which shall almost certainly one day grow into
+something whose magnificence surpasses even that of its guardians.  The path
+continues east and west.    
+~
+46 0 3 0 0
+D1
+~
+~
+0 0 4617
+D3
+~
+~
+0 0 4615
+S
+#4617
+A Winding Forest Path~
+   After walking for a short while, you find that you are suddenly aware of a
+great deal of noise, but it comes not from the forest around you.  Stopping to
+listen, you realize that you are the only source of noise, and the forest
+around you is so utterly silent that you become aware of even the beating of
+your heart.  The trees move but make no sound.  The ground is soft and yielding
+to the foot, and no animals stir.  There is a feeling of peace and calm that
+comes with this silence, but after so long, there comes with it a feeling of
+profound loneliness.  The path spits and turns sharply here, northwest and
+west.    
+~
+46 0 3 0 0
+D3
+~
+~
+0 0 4616
+D6
+~
+~
+0 0 4618
+S
+#4618
+A Path in the Forest~
+   The forest all around you is shadowy and quite silent.  Only your own
+footsteps can be heard, and neither a bird chirps, nor does any other form of
+fauna make its presence known.  There is a small, light, fresh-smelling breeze
+here, but it does not so much as stir the ancient trees.  The ground is soft
+and yielding to the foot.  There is a feeling of peace and calm that comes from
+this silence.  Too long in a place like this leaves one thinking deep
+philosophical thoughts.  This is a desirable thing to some, but to those who
+know they should not be here, it is very disturbing.  The path continues
+northwest and southeast of here.    
+~
+46 0 3 0 0
+D6
+~
+~
+0 0 4619
+D9
+~
+~
+0 0 4617
+S
+#4619
+A Path in the Forest~
+   After walking for a short while, you find that you are suddenly aware of a
+great deal of noise, but it comes not from the forest around you.  Stopping to
+listen, you realize that you are the only source of noise, and the forest
+around you is so utterly silent that you become aware of even the beating of
+your heart.  The trees move but make no sound.  The ground is soft and yielding
+to the foot, and no animals stir.  There is a feeling of peace and calm that
+comes with this silence, but after so long, there comes with it a feeling of
+profound loneliness.  The path continues in a northwest-southeast direction
+from here.  To the south, there is an opening in the trees, just narrow enough
+for one or two people to squeeze through.    
+~
+46 4 3 0 0
+D2
+~
+~
+0 0 4688
+D6
+~
+~
+0 0 4620
+D9
+~
+~
+0 0 4618
+S
+#4620
+Near a Wide Path~
+   The forest all around you is shadowy and quite silent.  Only your own
+footsteps can be heard, and neither a bird chirps, nor does any other form of
+fauna make its presence known.  There is a small, light, fresh-smelling breeze
+here, but it does not so much as stir the ancient trees.  The ground is soft
+and yielding to the foot.  There is a feeling of peace and calm that comes from
+this silence.  Too long in a place like this leaves one thinking deep
+philosophical thoughts.  This is a desirable thing to some, but to those who
+know they should not be here, it is very disturbing.  The path continues
+northwest and southeast of here.  To the east also the trees part slightly to
+allow passage.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4682
+D1
+~
+~
+0 0 4697
+D6
+~
+~
+0 0 4643
+D9
+~
+~
+0 0 4619
+S
+#4621
+At the Base of A Collapsed Stone Staircase~
+   As you descened the broken stone staircase, your view becomes less and less
+panoramic.  You have descended into the ruins of what at one time may have been
+a temple of some kind, and a beautiful one at that.  Now, you stand upon a
+marble floor that may have once been solid, but now it is cracked.  Green grass
+peeks through the cracks, and vines overgrow the shattered columns that lie
+about in a state of disrepair.  It appears that age may have destroyed the
+temple, but the life of the forest is reclaiming it and making it its own.  
+The staircase leads back up, and it is possible to move north and west of here.
+A collapsed stone wall to the east blocks off progress in that direction.    
+~
+46 0 4 0 0
+D0
+~
+~
+0 0 4652
+D3
+~
+~
+0 0 4651
+D4
+~
+~
+0 0 4653
+S
+#4622
+A Cracked Marble Floor~
+   You are nearing, to the west, what may have been an entrance into the
+temple.  Through it can be seen trees, though they seem to be slightly
+scorched.  The marble here is greyed by a thin film of soot.  Though, this
+damage appears to be rather recent, and not at all related to what caused the
+temple to be torn asunder.  One particularly large pillar has fallen over and
+remained intact, blocking off any exits to the north.  The more you move to the
+west, the more shadowed the area becomes, as you are moving deeper into the
+forest.  The smell of fresh leaves and new trees abounds, but, there is also
+the smell of wood burning, mixed in.    
+~
+46 0 0 0 0
+D1
+~
+~
+0 0 4651
+D3
+~
+~
+0 0 4650
+S
+#4623
+Standing at the Mouth of the Cave~
+   You step out of the cave and into a forest.  The air is perpectually laden
+with ozone, and the sky seems to be at all times bleak and grey.  To the
+immediate south lies a dark cave, within which very little can be seen for the
+shadows.  To the northeast, you can enter the thickly wooded forest.  Though,
+the trees of this forest are not like normal trees.  Their trunks are warped
+and grey in colour, and their leaves are dead, or a sickly black colour.  The
+soil here is blackish grey, and covered with twigs and dead leaves.  This
+forest is blighted and cursed, taken over by the darkness.  A strange, hot wind
+carries the stench of decay, and death.    
+~
+46 512 0 0 0
+D2
+The gate fills the mouth of the cave, barring entry to those without the key.
+~
+gate~
+1 6499 4613
+D7
+~
+~
+0 0 4626
+S
+#4624
+A Barren, Frost-Rimed Grove~
+   No sooner fo you enter this grove, but you are assaulted with a biting
+winger breeze.  Why this phenomena would be so localized to this particular
+grove defies all conventional logic.  The trees around are barren, and smaller
+plants nonexistent.  The ground has a thin layer of white powder, shown upon
+closer inspection to be snow.  The bare branches of the trees are rimed with
+thick hoar frost.  A chill breeze circles around you, and before long, you will
+likely be suffering from frostbite.  Warmer breezes blow from trails to the
+southwest and northwest.  A faint trail to the west leads through a dense
+thicket, toward a tight circle of large, strong, green-leaved oaks.    
+~
+46 0 0 0 0
+D3
+~
+~
+0 0 4627
+D6
+~
+~
+0 0 4606
+D8
+~
+~
+0 0 4628
+S
+#4625
+A Grove in Full Bloom~
+   This area of the forest is full of wildlife at its best.  The trees grow
+tall and strong, and every plant here is in full bloom.  It may be just the
+imagination up to its old tricks, but the air seems warmer and drier here.  No
+sooner do you step here, but you are bathed in a feathery shower of petals that
+tumble from the treetops and land all about you.  Large rocks are partially
+buried in the soil here, forming a trail that leads northeast and southeast.  
+The smell from the blooms is intoxicating, a pleasure to the olfactory senses,
+but a living nightmare for those suffering from hayfever.  A faint trail leads
+through a thicket of deep green summer trees to the east, towards a mighty
+circle of oaks.    
+~
+46 0 0 0 0
+D1
+~
+~
+0 0 4627
+D7
+~
+~
+0 0 4606
+D9
+~
+~
+0 0 4628
+S
+#4626
+A Shadowed Forest~
+   The hot air is revolting to inhale, and it will not be long before nausea
+sets in, even for the most stalwart soul.  Every step is heralded by the
+crunching of dead leaves that lie upon the ground.  The trees all around are
+twisted and grey-black, bent in shapes that echo their agony.  The leaves
+remaining on the trees are blackened and blighted.  The path, littered with
+dead plants, leads north and southwest from here.    
+~
+46 512 0 0 0
+D0
+~
+~
+0 0 4641
+D8
+~
+~
+0 0 4623
+S
+#4627
+The Father of the Forest~
+   You squeeze through a narrow space between oaks and find yourself in a place
+of exceeding natural beauty.  The entire area is approximately a hundred feet
+in diameter.  The high, leafy branches of the oaks grow overhead, providing a
+generous amount of shade in which a tired traveller or pilgrim may rest.  The
+grass here is carefully manicured to be of uniform length, though it has not
+been cut.  Each tiny blade of grass has been nurtured and encouraged to grow to
+a certain height and no higher.  A ring of rocks surrounds a circular pool of
+water.  Inside the pool of water is a little island, and perched atop this
+island is a single, enormous tree.  There is a feeling of warmth and
+benevolence in the whole area, but it is strongest here.  Paths lead through
+narrow gaps in the wall formed by the oaks to the north, south, east, and west.
+Though, the feeling of the room leaves you in no immediate hurry to depart.  
+~
+46 4 0 0 0
+D0
+~
+~
+0 0 4606
+D1
+~
+~
+0 0 4624
+D2
+~
+~
+0 0 4628
+D3
+~
+~
+0 0 4625
+S
+T 4627
+#4628
+A Freshly Planted Grove~
+   This area of the forest looks like it has all been freshly planted.  The
+small plants and shrubs upon the ground are yellow and green, looking as though
+they have yet to bloom for the first time.  The soil is moist and warm, and
+very rich.  The smell of new growth is quite delightful and fills your nostrils
+at every turn.  A few rocks lie half-buried in the soil, forming a crude path
+northwest and northeast, as well as a path to the south.  To the north, through
+a dense thicket, another, fainter trail can be seen, leading into a tight
+circle of mighty oak trees.    
+~
+46 262144 0 0 0
+D0
+~
+~
+0 0 4627
+D2
+~
+~
+0 0 4629
+D6
+~
+~
+0 0 4625
+D7
+~
+~
+0 0 4624
+S
+#4629
+Among the Trees~
+   You stand upon the slope of a hill which climbs upward to the south, and
+down to the north.  The path continues down and down in that direction, and
+below you can see very little through the thick canopy of trees.  There does,
+however, appear to be some light shining down there, not quite bright enough to
+be sunlight, but much brighter than any torch you have ever seen.  Around you
+are all manner of trees, and whether aspen, oak, pine, or birch, they are all
+perfectly tended and cared for, and are ideal specimens of these kinds of
+trees.  Beneath your feet, the path is firm and clear, evidently having been
+travelled many times before.    
+~
+46 0 0 0 0
+D0
+~
+~
+0 0 4628
+D2
+~
+~
+0 0 4630
+S
+#4630
+A Well-Kept Forest Trail~
+   You stand upon the crest of a forested hill.  The trees around you hinder
+the range, but not the beauty of the view from here.  The trees are
+miraculously well-tended.  Miraculous because of the sheer multitude of the
+things.  Beneath your feet, cobblestones have given way to a natural beaten
+path.  To the south, more and more cobblestones can be seen, eventually forming
+a trail that leads off to the southwest.  To the north, the forest encroaches
+upon the path, making it difficult to see what lies in that direction.    
+~
+46 0 2 5 0
+D0
+~
+~
+0 0 4629
+D8
+~
+~
+0 0 4631
+S
+#4631
+A Thickly Wooded Hill~
+   The cobblestone path continues heading northeast and southwest from here.  
+To the northeast, it rises up a small, tree-lined hill.  The trees provide a
+nice bit of shade during daylight, and during the night, they provide
+much-needed shelter from an occasional cold breeze that blows through from the
+east.  A ways to the south you can see more trees, and beyond them an
+impassible stone cliff.  From somewhere nearby is a dull roar, likely the sound
+of a waterfall still too off to be seen clearly.    
+~
+46 0 3 0 0
+D3
+~
+~
+0 0 4680
+D7
+~
+~
+0 0 4630
+D8
+~
+~
+0 0 4632
+S
+#4632
+A Turn in the Path~
+   The peculiar little cobblestone path turns from here to the east and the
+northeast, with a sharp bend right about where you are standing.  There is
+little choice but to follow the path in whichever direction it carries you,
+because all around it is surrounded by tall plants and huge trees.  Looking to
+the south, you can see an impassible cliff-face.  Off to the east, you can hear
+the rush of a river cascading down a waterfall.  The sounds of wildlife are
+truly all around you, and it is difficult to pinpoint any particular sound
+coming from any particular direction.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4680
+D1
+~
+~
+0 0 4633
+D7
+~
+~
+0 0 4631
+S
+#4633
+A Path Away From the Falls~
+   You walk along a small cobblestone path lined with green plants and trees.
+The stones are smooth, like those collected from the bottom of an ancient
+rushing stream.  The roar of the water cascading down the falls to the east is
+rather loud.  The wind carries with it a fresh scent and just a hint of
+humidity, to be expected when one stands near a great deluge of water.  The
+view upwards is quite breathtaking.  To the south, all progress is blocked by a
+thick growth of trees, behind which lie impassable cliff-faces.  The path
+continues east and west a ways.    
+~
+46 0 3 0 0
+D1
+~
+~
+0 0 4634
+D3
+~
+~
+0 0 4632
+S
+#4634
+The Base of the Waterfall~
+   You stand along a small cobblestone path lined with green plants and trees.
+The stones are glistening with moisture from the falls.  The roar of the water
+cascading down from above is very very noisy.  The wind carries with it a fine
+spray of droplets that is very cooling to the touch.  Looking up, the view is
+almost breathtaking.  The river pours down here, over the rocky precipice,
+collecting into a deep pool and draining off into a river to the east.  The
+light hits the mist which refracts it into a dizzying array of colours.  The
+path continues to the west.  To the south, the cliff-face rises up.  There is a
+single, huge stone there which looks somehow out of place.    
+~
+46 0 2 0 0
+D1
+~
+~
+0 0 4635
+D3
+~
+~
+0 0 4633
+E
+stone boulder~
+   The boulder sits right up against the cliff face.  It does not look like it
+fell from above, nor does it look like the cliff was weathered away exposing
+it.  Instead, it seems as if the thing has been pushed purposefully into place.
+The stone around it on the cliff looks worn, and it appears as though there is
+something just beyond.  To see if you can move the boulder, simply walk to the
+south, and see what happens.    
+~
+S
+T 4634
+#4635
+At the Foot of the Falls~
+   The roar of water cascading down from above is nearly deafening.  The wind
+carries with it a fine spray of droplets that is very cooling to the touch.  
+Looking up, the view is almost breathtaking.  The river pours down here, over
+the rocky precipice, collecting into a deep pool and draining off into a river
+to the northeast.  The light hits the mist which refracts it into a dizzying
+array of colours.  A cobblestone path lined with green plants and trees leads
+west from here, its stones glistening with droplets of water cast upon it from
+the falls.  It would be possible to climb up the stones that flank the falls,
+though it would not be an easy climb.    
+~
+46 4 2 0 0
+D3
+~
+~
+0 0 4634
+D4
+~
+~
+0 0 4636
+S
+T 4635
+#4636
+The Bluff Face~
+   The sound of the waterfall is much louder.  Looking down, you can finally
+see through the mist to the bottom.  Though still fog-cloaked, you can see the
+jagged rocks that sit at the bottom of the falls.  Your clothes and face and
+pretty much everything are wet because of the cool mist in the air.  Swinging a
+sword or casting a spell from this spot would prove both difficult and
+dangerous.  You are approximately now a third of the way up the bluff face.  
+It is not so bad of a fall from here, but would still be painful do to the
+sharp rocks that would await you should you fall.  It is also possible to scale
+the bluff face from here, though it would be a daunting climb.    
+~
+46 4 9 0 0
+D4
+~
+~
+0 0 4638
+D5
+~
+~
+0 0 4635
+S
+#4637
+A Hidden, Underground Passage~
+   You have to crawl through this incredibly long and winding passageway just
+to be able to get through.  The rocks within are slimy and wet, and it is very
+difficult to keep one's footing.  It is dark and narrow, and it is almost
+certain that spending too long in this cramped passageway would cause those
+with claustraphobia to go completely out of their minds.  There is a huge
+boulder blocking passage to the north, so the only way to proceed is southeast.
+The darkness and narrowness of the tunnel, combined with its astonishing length
+makes it very difficult to tell what may lie ahead.    
+~
+46 365 5 0 0
+D9
+~
+~
+0 0 4607
+S
+T 4637
+#4638
+A Waterfall~
+   The water from the river pours in a great deluge down a rocky cliff face
+here.  It cascades down, down, down into a pond which drains off to the
+northeast.  It is quite a long drop from here, though you may be able to climb
+down the jutting rocks to the side of the waterfall.  At the bottom of the
+falls, no less than sixty feet below you, the water splashes, creating a fine
+cloud of mist that obscures vision of what lies below.  The water that pours
+down is clear and clean.  Even from up here, you can feel droplets of cool mist
+landing upon your face.  It is a long climb down, but in order to see what lies
+beyond, it is necessary.  The path along the river leads back to the south.  
+~
+46 4 2 0 0
+D2
+~
+~
+0 0 4639
+D5
+~
+~
+0 0 4635
+S
+T 4638
+#4639
+Alongside a Flowing Stream~
+   The path here winds and twists, running alongside a clear blue stream.  The
+stream pours northwards, where, from the sounds of things, it plummets down
+into a waterfall.  The trees here are thinner than they are to the south,
+providing some shade for travellers who find themselves here.  The plants here
+all grow to their own form of perfection, guided along in their growth by the
+druids who make their home here.  Apart from the path, there are no really
+noticeable signs of human encroachment, and even that has been built to blend
+in with the surroundings.  The people who live here have gone far out of their
+way to leave the forest close to the state in which they found it.  The path
+continues roughly north and south from here.    
+~
+46 0 0 0 0
+D0
+~
+~
+0 0 4638
+D2
+~
+~
+0 0 4640
+S
+#4640
+A Quaint Wooden Bridge~
+   The stream crosses your path here, though it does not impede movement, for,
+conveniently enough, a wooden bridge spans the river.  Though the bridge
+appears to be many years old, it remains in near perfect condition.  When you
+look at the bridge, you realize that not one single nail has been used in its
+construction.  The pieces of lumber fit together so seamlessly that they all
+support each other.  The water below rushes off to the northeast, towards what
+appears to be (and sounds like) a waterfall.  A path leads to the north from
+here, beside the river, and to the south, back along the path.    
+~
+46 0 0 0 0
+D0
+~
+~
+0 0 4639
+D2
+~
+~
+0 0 4642
+S
+#4641
+A Twisting, Overshadowed Forest Path~
+   The dead trees thicken here, their branches way overhead casting shadows
+upon the path.  The sky is grey and dreary, and the ever-present hot wind
+continues to blow through.  There are sounds here, like the sounds made by
+sick, dying animals.  A short ways to the north, you can see a single, large
+tree, its bark blasted and blackened, twisting strangely up to the sky.  The
+path curves to the northwest, and leads back to the southwest from here.    
+~
+46 576 0 0 0
+D2
+~
+~
+0 0 4626
+D6
+~
+~
+0 0 4656
+S
+#4642
+A Path Through the Forest~
+   You are along a shady forest path.  Flanking either side of this path is a
+grove of trees.  The fresh breeze carries upon it the scent of grass, flowers,
+leaves, all the smells of virgin nature.  The air is slightly moist, and the
+grass glistens, either from dew, or a recent rain.  Bird calls are all around,
+echoing from tree to tree as birds call and answer one another, possibly a
+little purturbed by your presence.  The path continues north and south back
+here.  Neither way however provides any clue as to what would lie in that
+direction.    
+~
+46 0 0 0 0
+D0
+~
+~
+0 0 4640
+D1
+~
+~
+0 0 4681
+D2
+~
+~
+0 0 4643
+S
+#4643
+Amidst the Lush Green Forest~
+   The path through the forest splits off in a few directions from here.  You
+stand in a clearing that is very small.  So small, in fact, that it hardly
+qualifies as a clearing so much as a convenient gap in nature.  All about you,
+the smells, sights, sounds, even feelings of untouched wildlife rules.  Bird
+calls can be heard, as well as the sound of a distant wolf howling.  It is a
+sharp contrast that serves as a reminder that nature is both innocent, and
+occasionally cruel and merciless.  The path narrows a bit as it goes straight
+north and south.  To the southwest and southeast, the path swerves a little
+bit, and appears to be somewhat less well-trodden.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4642
+D1
+~
+~
+0 0 4682
+D2
+~
+~
+0 0 4610
+D8
+~
+~
+0 0 4644
+D9
+~
+~
+0 0 4620
+S
+#4644
+New Growth~
+   The forest here is made up of rather young trees, the tallest of which is
+about the height of two men.  The trees are slender, and green is everywhere.
+Dewdrops glisten from the fresh new leaves of the trees.  Upon the ground, long
+grass sways in a gentle breeze.  There is a little footpath through the grass
+which shows sign of recent passage.  The path transverses the area from the
+northeast to the southwest.  There is also an opening in the slender trees to
+the northwest, which would allow you to move in that direction as well.    
+~
+46 0 0 0 0
+D6
+~
+~
+0 0 4668
+D7
+~
+~
+0 0 4643
+D8
+~
+~
+0 0 4645
+S
+#4645
+The Scorched Forest~
+   This is a fairly old section of the forest, but its beauty has been marred
+by fire.  The bark of the trees up to eye level has been scorched.  Several
+naked black branches hang limply from the trees.  The grass and smaller plants
+upon the ground are burnt to a crisp or coated with ashes and will likely soon
+die.  What might bring a tear to the eye of a child, however, does not
+completely sadden the onlooker however.  Wherever nature has been harmed, she
+works overtime to repair and shine through.  The tops of the trees are still
+green and lively.  Most beautiful of all, however, is a single orange-red
+flower which blooms brightly in the center of the burned-out area, showing
+promise of more beauty to grace the area in the future.    
+~
+46 0 0 0 0
+D7
+~
+~
+0 0 4644
+D8
+~
+~
+0 0 4646
+S
+#4646
+A Smoke-Shrouded Path~
+   You follow along a little narrow path through the trees.  The trees here
+grow large and healthy.  The air here smells sharply of smoke, and it is
+difficult to see very far into the distance because the air is clouded with
+gray smoke.  Breathing becomes slightly more difficult here.  A warn wind blows
+in from the southwest, carrying the smoke with it.  It would seem as though
+there is a fire nearby.  Looking down, you see a few small rabbits fleeing
+northward.  The path continues southwest and northeast.    
+~
+46 8 0 0 0
+D7
+~
+~
+0 0 4645
+D8
+~
+~
+0 0 4647
+S
+#4647
+A Smoke-Shrouded Path~
+   There is a small, quaint path here through the trees.  It is very difficult,
+however to see very far along the path.  Smoke fills the air, making breathing
+very difficult.  A hot wind blows in from the southwest which, along with the
+smoke, seems to indicate that there may be a fire nearby.  There are few
+animals in the area.  Even the smallest birds, rodents, and insects have fled
+the area.  It is hard to tell, but it seems possible to leave this area in
+several different directions.    
+~
+46 64 3 0 0
+D6
+~
+~
+0 0 4663
+D7
+~
+~
+0 0 4646
+D8
+~
+~
+0 0 4648
+D9
+~
+~
+0 0 4650
+S
+#4648
+A Large, Burning Tree~
+   The trees are rather sparse here, but that is not what catches your
+attention at first.  One tree here must have been struck by summer lightning,
+and it is burning, spilling smoke through the surrounding area.  Tending to the
+tree are a pair of druids, pouring buckets of water on and around it.  If they
+cannot save this tree from its fate, they can at least save other trees in the
+grove by stopping the fire from spreading.  The grass around the tree is
+scorched, though the puddle of water around the tree seems to be effectively
+preventing the fire from spreading beyond this one tree.  The druids' faces
+appear laden with sorrow as they tend to the tree as it dies.  A wide,
+well-preserved archway lies to the east, and the grove continues to the
+northeast and northwest.    
+~
+46 0 0 5 0
+D1
+~
+~
+0 0 4649
+D6
+~
+~
+0 0 4662
+D7
+~
+~
+0 0 4647
+S
+#4649
+A Slightly Scorched Grove~
+   The faint smell of smoke fills the air around you.  Looking about at this
+fairly young grove, you note that many of the trees are slightly scorched.  A
+fire has recently passed this way, and perhaps might have even touched a few of
+these trees.  The small plants and leaves on the ground glisten with moisture,
+as though it rained here recently.  If that is the case, it is fortunate for
+these trees, which appear otherwise quite dry and would likely have been
+completely incinerated otherwise.    
+~
+46 4 3 0 0
+D1
+~
+~
+0 0 4650
+D3
+~
+~
+0 0 4648
+S
+#4650
+A Strangely Well-Preserved Arch~
+   While most of the rest of this old temple has been destroyed utterly, this
+one arch remains sturdy and intact.  It is from this that one can get the best
+idea of what the temple would have looked like when it was still whole.  The
+white pillars are carved in representations of nature, and the frieze that tops
+them shows a mural depicting Chislev in her vine chariot, drawn by a chorus of
+wild animals.  Beyond the arch, to the west, lies the forest, beyond which
+there are precious few signs of unnatural intrusions.  To the east, the ruins
+continue.    
+~
+46 12 0 0 0
+D1
+~
+~
+0 0 4622
+D3
+~
+~
+0 0 4649
+D6
+~
+~
+0 0 4647
+S
+#4651
+In a Ruined Hallway~
+   This was once a hallway, flanked on each side by mighty marble and stone
+pillars.  Though cracked, broken, shattered, and even a few missing, their
+beauty is evident even now.  They are a pure white in colour, perfectly
+complimented by the lively greens of the vines that have grown over them, and
+the reds, violets, yellows, and blues of the flowers that have sprung up here
+and there.  The late hallway continues to the east towards a stone staircase
+that climbs up the hill, and to the west, from which smoke can be smelled.    
+~
+46 8 0 0 0
+D1
+~
+~
+0 0 4621
+D3
+~
+~
+0 0 4622
+S
+#4652
+The Garden Altar~
+   While the rest of the temple is ancient and wrecked, a marvel of ages past,
+this area seems to have been tended to, and recently.  There is a large square
+absence in the stone floor, within it is fertile, dark soil that serves as a
+flower bed for many beautiful plants, and a few small trees.  The plants are
+all in neatly arranged rows, and of a great variety, too great a variety to
+have found their way here naturally.  The trees provide a small amount of
+shade.  To the east and west, the little garden is flanked by rows of pillars,
+though any roof that once shaded the area is long gone.  To the north lies an
+archway, collapsed completely, and beyond that a clear path into the lush green
+forest.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4608
+D1
+~
+~
+0 0 4614
+D2
+~
+~
+0 0 4621
+S
+#4653
+Among the Ruins~
+   You stand atop the crest of a hill, overlooking a scene of patroral beauty.
+Lush green forests spread out almost as far as the eye can see to the north and
+west.  Looking down, you note that you stand upon lush green grass, but a few
+steps ahead and all the way down the hill lies a shattered white stone
+staircase.  At the bottom of the hill lay similar contructions, in a similar
+state of disrepair.  Though not clearly the archetectural marvel they once may
+have been, they possess an innate beauty of their own.  The shattered columns
+and cracked marble floors are slightly overgrown with green grass and vines, a
+sign that the forest has embraced this man-made work as its own.  The staircase
+leads down from here, and a small, cleared path leads to the south.    
+~
+46 4 0 0 0
+D2
+~
+~
+0 0 4654
+D5
+~
+~
+0 0 4621
+S
+#4654
+Nearby an Overgrown Ruins~
+   Before you to the north lie what appear to be the ruins of an old temple at
+the base of a hill.  Few of the walls remain standing, and the roof is long
+gone.  A few pillars still stand, though they are overgrown with plants and
+vines.  Beyond the ruins lie a great forest of sprawling greens.  There is some
+smoke and a trace of fire from one portion of the forest, though it can all be
+seen from here, in all its breathtaking beauty.  A lightly cleared path leads
+north and south from here.    
+~
+46 0 0 0 0
+D0
+~
+~
+0 0 4653
+D2
+~
+~
+0 0 4655
+S
+#4655
+Atop a Lush, Plant-Lined Path~
+   After a brief but entertaining climb down the face of the plateau, you fall
+a short ways and land on soft ground.  Astride the path are plants and flowers
+of many kinds.  The path itself is made of packed dirt, slightly moist as
+though it has just recently rained here.  To the south of you, a tall cliff
+rises up, blocking passage.  To the west, the rolling hillside continues
+downwards into thick trees.  The smell of flowers in bloom fills the air, and
+the sounds of animals can be heard all around you.    
+~
+46 64 3 0 0
+D0
+~
+~
+0 0 4654
+D4
+~
+~
+0 0 4687
+S
+#4656
+Deep Inside the Dark Forest~
+   The path widens here, leading north towards a single, huge,
+sickening-looking tree.  The ground is positively littered with dead leaves,
+but hanging just above this macabre carpet is a thin mist.  The air is hot and
+difficult to breathe, though the wind has died down.  As you walk towards the
+north, the smell of decay grows more and more overpowering.  There are sounds
+of suffering wildlife, and, to the ear trained to hear it, suffering plants and
+trees.  Though, there is nearly no movement.  Whatever animals inhabit this
+strange, dark forest must be cowering in shelters, awaiting the release of
+death.    
+~
+46 544 3 0 0
+D0
+~
+~
+0 0 4657
+D9
+~
+~
+0 0 4641
+S
+#4657
+An Immense, Black Tree~
+   The path here widens into a circle around a single, huge tree.  Its trunk is
+bent and twisted, black in colour.  Its branches are stunted, their growth
+retarded by some unknown curse.  At one time, it may have been a tree of great
+beauty and majesty.  Now, it is a repulsive sight to behold.  There is
+something else that sets it apart from the other trees.  While the others are
+greyish in colour, like burnt ash, this tree has a strange crimson tint.  Then
+you approach closer, and you feel a drop land on your head.  When you touch
+your fingers to the new, cold, moisture, your worst fears are realized.  Your
+fingers are wet and reddened with a crimson liquid: blood.  The tree is slowly
+bleeding, and the leaves around it are spotted with blood, some dried, and some
+not.    
+~
+46 544 0 0 0
+D0
+~
+~
+0 0 4658
+D2
+~
+~
+0 0 4656
+S
+#4658
+Deep Within the Blackened Forest~
+   A strange fog rolls in, through the thick, dead forest to the north.  It is
+thick, like a wool blanket.  It covers the leaf-littered ground, or at least,
+one can assume the ground is leaf-covered by the sounds.  You can no longer see
+it.  Breathing in, in hindsight, may have been a grevious mistake, as your
+lungs burn.  The fog must be a poison of some kind.  The trees thicken all
+around, forming a grey-black wall of death.  There is a narrow pathway to the
+north.  To the east, there appears to be a similar, narrow pathway, though it
+seems to be somehow blocked.  When anything passes close to this invisible
+barrier, it pulses and flares.  There must be some way to lower the barrier.  
+~
+46 512 3 1 0
+D0
+~
+~
+0 0 4660
+D2
+~
+~
+0 0 4657
+S
+T 4696
+T 4658
+#4659
+An Eternally Darkened Copse~
+   There is no wind here.  There are no sounds of animals.  The dead trees do
+not move.  The area is cast in complete darkness, and with it, an odd silence.
+The air is hot and opressive, and very difficult to breathe.  The ground here
+has been blown clean as if by some great force, sweeping away all leaves and
+dead plants from the area.  In the center of this area, the ground is raised a
+great degree.  In the cleared ground, set into the mud are the claw prints of
+some large animal, probably reptilian from the looks of things.  In this large
+clearing, it could be quite a large animal indeed.  In the darkness can be
+heard a leathery flap of wings, though it could simply be the product of an
+overtired imagination.    
+~
+46 833 3 0 0
+D3
+~
+~
+0 0 4658
+S
+#4660
+Nearby a Dark Stone Altar~
+   The path here takes a turn to the west, towards a pile of blackened stones.
+The ground crunches with every step, being covered with gods-know-what through
+the sickening mist.  The trees all around form a wall of death.  Even in their
+state of motionless, disturbed only by the breeze, they stand, a living
+representation of suffering.  Beyond the rustle and crunch of leaves, a few
+things can be heard, though the bizarre forest seems to mute all but the most
+immediate of noises.  The path leads west and south from here.  To the south, a
+thick cloud of grey-black fog rolls along, its putrid stench invoking nausea,
+even at this distance.    
+~
+46 262656 3 0 0
+D2
+~
+~
+0 0 4658
+D3
+~
+~
+0 0 4661
+S
+T 4660
+#4661
+A Dark, Makeshift Altar~
+   The soil here has been dug up and left to dry, burying the dead leaves and
+plants beneath.  This is possibly the only fertile soil in the entire area,
+though it is being used for dark and sinister purposes.  The thing that, from a
+short distance away, appeared to be nothing more than a pile of black stones,
+apparently grows the closer you walk to it.  Now it is an immense shrine, made
+of glistening black stones.  Moss grows up the sides, and sickly brown vines
+climb up into the forest canopy, resulting in something resembling an awning
+over the altar.  At night, when the black moon is in the precisely correct
+position in the night sky, the area is filled with an odd, blue-green light,
+and the altar seems to grow even more.  From what you can see, the black stones
+glisten with something wet.  Fresh blood.    
+~
+46 512 3 0 0
+D1
+~
+~
+0 0 4660
+S
+#4662
+A Shadowy Clearing~
+   The trees give way.  You stand in a shady clearing.  The ground is covered
+with knee-length dark green grass which grows thick.  The ground is cold and
+wet from dew.  Looking around, you note that the clearing is almost perfecly
+circular.  This is certainly odd for a naturally-placed grove.  It is likely
+that when this forest grew up over the centuries, natural magicks were used to
+keep this particular clearing open.  For what purpose isn't quite clear.  The
+tall grass shows no signs of having been disturbed, and it looks as though this
+place may have remained undisturbed for years.  There are exits to the clearing
+to the northeast and southeast.    
+~
+46 4 3 0 0
+D7
+~
+~
+0 0 4663
+D9
+~
+~
+0 0 4648
+S
+#4663
+Wandering Through the Forest~
+   There is an old expression about being unable to see the forest for the
+trees.  That expression certainly seems to apply here.  Somehow, you have found
+yourself in the middle of the forest, surrounded by trees, and are unable to
+see much else.  Even the sun in all its glory is blocked out by the might and
+majesty of these enormous vallenwoods.  The ground is a maze of root
+structures, fallen leaves, dirt, and twigs, making footing treacherous.  There
+are trees all around, and any direction seems more or less the same as any
+other.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4664
+D8
+~
+~
+0 0 4662
+D9
+~
+~
+0 0 4647
+S
+#4664
+A Quiet Forest Path~
+   Walking along this peaceful forest path, it is truly tempting to simply
+wander aimlessly for hours and become lost in thie serene paradise.  The smell
+of summer blossoms is in the air, and your every step is cushioned by fallen
+leaves and soft soil.  The air is filled with the songs of birds and the rustle
+of small animals running to and fro in the underbrush.  The light filters
+through from above, through the thick canopy of the ancient trees.  The entire
+area seems virtually untouched by "civilized" life.  A natural trail runs north
+and south of here.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4665
+D2
+~
+~
+0 0 4663
+S
+#4665
+Before a Fallen Tree~
+   To the north of this area, a single, huge, old tree has fallen.  The age old
+question comes to mind, if a tree falls in the forest, does it make a sound?  
+One could ponder this for hours, though, whether this tree made a sound or not,
+it certainly left damage in its wake.  A few smaller trees lay crushed under
+the massive trunk.  The damage to this tree does not appear to be man-made,
+instead, it is quite obvious that the old tree was sickly and damaged through
+natural processes.  A thick wall of trees blocks any progress to the east or
+west of here, though the trail to the south remains clear.  The trail to the
+northeast would involve climbing over the fallen tree, which is possible, if
+not convenient or easy.    
+~
+46 4 3 0 0
+D2
+~
+~
+0 0 4664
+D7
+~
+~
+0 0 4666
+S
+#4666
+A Freshly-Planted Copse~
+   This copse of trees cannot be older than a few decades, an infant in the
+midst of the elder trees that comprise the rest of the forest.  Here and there
+you can see something flash out of the corner of your eye, a small animal
+running through the brush, no doubt.  In some places here, careful stepping is
+needed to be certain that you do not trample any of the burgeoning life that in
+a few centuries will completely fill the area.  Trails lead from here to the
+east, where smoke can be smelled, and to the north and southwest, where the
+trees are older and larger.    
+~
+46 0 3 0 0
+D0
+~
+~
+0 0 4669
+D1
+~
+~
+0 0 4667
+D8
+~
+~
+0 0 4665
+S
+#4667
+A Dense Thicket~
+   The thicket here is incredibly dense.  There are many thorns and brambles,
+making it nearly impossible to transverse it without getting a little scratched
+up.  Naturally, there are fewer animals here than in more open or more
+sheltered areas.  There is a thin haze that hangs in the air, carrying on it
+the scent of something burning.  The ground is slightly soggy from a recent
+rain, and every step is accompanied by a resounding slurp as your feet sink
+partway into the mud.  A forest lies to the west, and there is also passage to
+the east from here.    
+~
+46 68 0 0 0
+D1
+~
+~
+0 0 4668
+D3
+~
+~
+0 0 4666
+S
+#4668
+New Growth~
+   You stand within the birthing grounds of a new forest.  Tiny saplings are
+everywhere, and you must step carefully to avoid trampling them.  There are a
+few trees that stand about the height of a man, or slightly taller.  For the
+most part however, the area is rather clear, allowing you to see all around
+you.  A little ways to the northwest, you can see a larger, older forest, and
+within it is a tall, stone tower.  There is some smoke coming from a little
+ways to the southwest.    
+~
+46 64 3 0 0
+D3
+~
+~
+0 0 4667
+D9
+~
+~
+0 0 4644
+S
+#4669
+Near Some Tall Trees~
+   You are in what must be the oldest part of the forest.  The trees here are
+so tall that their leaves almost completely block out the sky, save for a few
+beams of light that thine through the canopy.  When one stands here, they can
+positively feel how ancient the land is.  There is a faint trail that leads
+south and northeast of here.  To the south, you can smell smoke.  To the north,
+in the distance, something else can be seen, a dark shape against the trees,
+standing out like a sore thumb.    
+~
+46 0 3 0 0
+D2
+~
+~
+0 0 4666
+D7
+~
+~
+0 0 4670
+S
+#4670
+Approaching a Stone Tower~
+   You wind your way through the ancient growth of this forest.  The sounds of
+wildlife surround you: birds, animals, and other, more exotic forms of life all
+sing their song of life.  You are surrounded on almost all sides by green.  
+The trees here are tall and strong, each one easily so wide around it would
+take two grown men to wrap their arms around them.  There is a trail that leads
+in a northeast direction from here, towards a tower which shoots even above
+these massive trees.  Up above, you can see shapes flying in the sky.  Perhaps
+birds, though their shapes are not quite right.    
+~
+46 0 3 0 0
+D3
+~
+~
+0 0 4683
+D7
+~
+~
+0 0 4671
+D8
+~
+~
+0 0 4669
+S
+#4671
+At the Foot of a Crumbling Stone Tower~
+   The forest thins out as you approach a tall stone structure.  Vines and ivy
+climb up the sides and all over it.  Up in the sky, large white shapes can be
+seen flying.  Much too large to be birds, flashes of metal can be seen among
+their otherwise white forms.  A set of steep steps lead upwards onto the
+structure.  The stone is dark grey, and despite the cracks and its apparent
+age, every surface is shiny and new.  It is impossible to tell from here what
+awaits you atop the structure, though one cannot help but feel a little
+curious.  A path leads back into the forest from here to the southwest.    
+~
+46 4 3 0 0
+D4
+~
+~
+0 0 4689
+D8
+~
+~
+0 0 4670
+S
+#4672
+A Cave Filled With Howling Wind~
+   The passageways from this point northwards begin to twist and wind.  There
+is a howling wind that blows through them from a source you cannot as of yet
+pinpoint.  The sounds of dripping and the sounds of your own footsteps are
+lost, and you must speak up to be heard over the noise of the room.  The cave
+leads off to the northeast and southeast from here.    
+~
+46 9 0 0 0
+D7
+~
+~
+0 0 4611
+D9
+~
+~
+0 0 4673
+S
+#4673
+A Widening Cavern~
+   The tunnel widens further as it moves in a northwest direction.  It is still
+rather dark, and remains all too easy to trip on rocks or debris.  In a dark
+corner of the tunnel, you can see what at first appears to be a small pile of
+rocks.  As you approach a little closer, you see that the rocks have been
+arranged in a circle around an old, grey human skull.  It is sort of a relief
+to know that these caves are inhabited, though it is a slightly disturbing
+manner in which to find out.  You may proceed northwest or south from here.  
+
+~
+46 9 0 0 0
+D2
+~
+~
+0 0 4674
+D6
+~
+~
+0 0 4672
+S
+#4674
+A Widening Cavern~
+   A slightly chilled breeze fills the cave at this point.  The caverns widen
+and wind, taking dips and rises.  The ceiling is rather high as well.  A few
+stalacites, stalagmites, and rocks litter the floor and ceiling, the only
+detractions from their relatice smoothness.  The path here continues off to the
+north and south.  To the north, the air smells fresher.  Not much, but at least
+it is something.    
+~
+46 9 0 0 0
+D0
+~
+~
+0 0 4673
+D2
+~
+passageway~
+1 0 4677
+S
+#4675
+A Steep Rise~
+   The tunnel tightens and narrows as it continues into the cave, bringing your
+head dangerously close to the sharp stalacities hanging from the ceiling.  In
+the distance, you can hear growls which sound like some gutteral form of
+language.  You can also hear water dropping from somewhere nearby.  If you hold
+still, you can hear it all in shocking clarity, so perfect are the accoustics
+of the bare stone.  In the chill darkness of the cave, it is very difficult to
+tell what lies directly ahead or underfoot.  After climbing through the cramped
+passageway, your limbs are becoming sore, and you are beginning to long for dry
+land in the open air.    
+~
+46 9 4 0 0
+D0
+~
+~
+0 0 4676
+D2
+~
+~
+0 0 4695
+S
+#4676
+A Narrow Tunnel~
+   The tunnel widens out considerably here, and after you pass over a rise in
+the cave floor, you have entered the center of a small community of goblins!  
+The stinking creatures are wandering all around the tunnels engaged in various
+activities.  The cavern opens out expansively to the northeast, which is where
+most of the makeshift shelters and beds are located.  A campfire is also
+burning, making the cave air smokey and difficult to breathe.  The smell is
+almost unbearable.  The cave stretches out further to the west, and narrows to
+the south into a passageway past a small rise in the cave floor.    
+~
+46 9 4 0 0
+D2
+~
+~
+0 0 4675
+D3
+~
+~
+0 0 4677
+D7
+~
+~
+0 0 1451
+S
+#4677
+A Fork in the Tunnel~
+   You continue to walk within the cave.  The walls are smooth, almost seeming
+to be man-made.  Given your glimpses thus far of the cave's denizens thus far,
+it is highly unlikely that they are the original residents.  The cavern
+continues to the east, as well as north and southwest.  Both the east and
+southwest are lit, but to the north, the way is obscured in darkness, making it
+impossible to see what lies in that direction.  The darkness to the north is an
+odd, impenetrable barrier, as solid as stone itself.  You have heard the
+expression "thick darkness" but this is almost ridiculous.  Feeling around, you
+can find a small hole, but it doesn't serve any readily apparent purpose.  If
+it is a lock, it is a very good one.  Nonetheless, its presence leaves only two
+directions to move in.    
+~
+46 9 0 0 0
+D0
+   There is nothing but darkness here.  It is a tangible darkness that you can
+feel, and in a very real sense bars you leaving to the north.    
+~
+passageway darkness black dark wall invisible~
+2 2299 4674
+D1
+~
+~
+0 0 4676
+D9
+~
+~
+0 0 4678
+S
+#4678
+A Small, Dark Tunnel~
+   The tunnel is approximately ten feet in diameter, its stone walls a little
+smoother than elsewhere along the cavern.  It curves around a natural pillar of
+stone to the west, continuing from here in a northwest and southwest direction.
+The ground is free of any loose stones or debris, seeming as though it has been
+swept completely clean by some great force.  The air is fresh, and there is a
+breeze from the southwest, as well as a small amount of light.    
+~
+46 13 0 0 0
+D6
+~
+~
+0 0 4677
+D8
+~
+~
+0 0 4679
+S
+#4679
+A Small, Dark Tunnel~
+   The cavern walls here are smoother, and the corners begin to square off
+some, looking as though they have been carved and enhanced by forces apart from
+those that initially carved the caverns.  There is a definite light at the end
+of the tunnel distantly to the west, and the tunnel leads straight in that
+direction from here, as well as curving northeastwards around a huge stone
+pillar.    
+~
+46 9 0 0 0
+D3
+~
+~
+0 0 4684
+D7
+~
+~
+0 0 4678
+S
+T 4679
+#4680
+A Clearing Off the Main Path~
+   You enter a small clearing off of the main path.  When you stand completely
+still, you can hear a real symphony of nature's music.  There is the sound of a
+crashing waterfall from somewhere to the south.  There is also the sound of
+birds, animals, an insects which can be heard as well.  There are a few small
+stones sitting in a semicircle here, which look as though they may have been
+placed on purpose.  The grass here is short.  It is not cut that way, it simply
+grows that way.  There is a path that goes by here to the southeast.    
+~
+46 0 0 0 0
+D1
+~
+~
+0 0 4631
+D2
+~
+~
+0 0 4632
+S
+#4681
+A Curving Path Through the Forest~
+   The path turns around, flanked by trees on both sides.  It proceeds to the
+south and west from here.  The smell of trees and plantlife is very thick in
+the air.  The ground is rough, covered with twigs and fallen leaves.  The
+sunlight streaming through the leaves of the canopy of trees creates an odd
+kalaidescope effect upon the forest floor.    
+~
+46 0 3 0 0
+D2
+~
+~
+0 0 4682
+D3
+~
+~
+0 0 4642
+S
+#4682
+Within a Darkened Copse~
+   This part of the forest is rather dark and difficult to see your way around
+in.  The trees are so thick that they completely blot out the sky.  The ground
+crunches beneath your feet.  When you look down, you discover to your surprise
+not piles of leaves and twigs, but rather a pile of bones from small animals.
+They are rather neatly covering the forest floor here.  What purpose they serve
+however, is not quite clear.    
+~
+46 1 0 0 0
+D0
+~
+~
+0 0 4681
+D2
+~
+~
+0 0 4620
+D3
+~
+~
+0 0 4643
+S
+#4683
+Within the Ancient Forest~
+   You stand within perhaps the most ancient portion of the glade.  The old and
+gnarled trees rise up into the sky, holding a quiet dignity all their own.  
+The ground is dark with old, decaying fallen leaves and twigs, which fill the
+area with a rich, earthy scent.  The sky is difficult to see for the thick
+canopy of leaves.  The sounds of wildlife are all around, echoing off of the
+massive trunks and filling your ears with sound.  There is an opening in the
+trees to the east.    
+~
+46 8 3 0 0
+D1
+~
+~
+0 0 4670
+S
+#4684
+Further Along the Tunnel~
+   Though this tunnel is comprised of the same rough stone that makes up the
+rest of these caverns, this particular passageway seems to have been carved and
+cut to be more smooth in shape.  There seems to be some work in progress here,
+as the walls of the cave have been painted with a red ichor.  Also, here and
+there, coloured chips have been affixed to the walls: the beginning (or
+possible continuation) of a mural.  From what you can see in the dim light of
+the tunnel, it is not quite easy to tell what the mural is supposed to depict,
+or what it will look like when it is done.  Given the absence of any sort of
+ladders, tools, or anything else, construction has either been abandoned, or
+those who are working on it are in no particular hurry.    
+~
+46 9 0 0 0
+D1
+~
+~
+0 0 4679
+D3
+~
+~
+0 0 4685
+S
+#4685
+A Dimly Lit Cave Decorated With a Mural~
+   On the walls, ceiling, and floor of this cavern, a grand work in progress
+can be seen.  The walls are now flush with the floors, forming corners.  
+Covering every surface of this cavern are small coloured tiles that form a
+colourful mosaic, though they are in need of cleaning, and even then sit at
+only ninety percent completion.  Wiping away some of the dust and soot shows
+that the mosaic is composed of glittering greens, vibrant violets, lovely
+yellows, glimmering reds, and tranquil blues, forming a picture of a splendid
+forest, with a great waterfall, and a lovely temple made of white marble.  
+When completely cleaned, one could almost imagine they were standing within
+such a scene.  So perfect is the workmanship that it transports the viewer into
+a world of great beauty and splendor.    
+~
+46 8 0 0 0
+D1
+~
+~
+0 0 4684
+D3
+~
+~
+0 0 4686
+S
+#4686
+A Manmade Hallway~
+   The mural on this cavern's walls is truly a masterpiece, though the scene it
+depicts is not one that could be called beautiful.  It is the same valley
+paradise shown in the previous caverns, but it is under attack by airbourne
+creatures of red, blue, green, and black.  Dragons.  The once-beautiful marble
+temple is being demolished by ground forces, while men in green robes fight
+valiantly to hold them back.  Though the mural is very large, the detail is
+amazing.  The tiles used to create the mural are tiny, allowing much detail to
+be shown.  You can almost see the evil gleam in the eyes of the dragons, and
+the looks of terror in the faces of the men of the temple.  The temple is in
+flames, as are portions of the forest around it.  This area of the cave is
+rather well-lit, as directly to the west, the mouth can be seen.  The cavern
+continues off straight to the east from here.    
+~
+46 8 0 0 0
+D1
+~
+~
+0 0 4685
+D3
+~
+~
+0 0 4687
+S
+#4687
+The Mouth of the Cave~
+   You reach the mouth of the cavern, and are on a plateau overlooking a
+peaceful green valley.  The realism of the murals often leaves one grateful
+that there are no dragons in the air.  This valley is almost certainly the
+subject of the murals that line the cavern walls, so now, standing here, it is
+like being within the mural itself.  There is a steep climb down the face of
+the plateau from here.  The view is absolutely breathtaking, with vibrant
+colours as far as the eye can see.  The mouth of the cave has stone pillars set
+against it, with a frieze atop it that shows Chislev, in all her glory, sitting
+atop a chariot drawn by wild animals.  Though cracked, with moss-covered bases,
+the work is still very much intact.    
+~
+46 4 5 0 0
+D1
+~
+~
+0 0 4686
+D5
+~
+~
+0 0 4655
+S
+#4688
+In the Heart of the Forest~
+   You are surrounded on all sides by trees.  The trees are so old and wide
+that it is impossible to really move about comfortably.  The sun above is
+mostly blocked by the leaves of the trees.  Footing is treacherous here, and
+every step must be carefully places to avoid tripping on various roots, rocks,
+branches, brambles, and divits in the ground.  To some, being here proves just
+how chaotic and disorderly nature can be.  To others, it is a tribute to the
+majesty of the forest that is accessible to all, but comfortable to few.  
+There are narrow gaps between the trees to the north and the south that would
+allow passage.    
+~
+46 256 0 0 0
+D0
+~
+~
+0 0 4619
+D2
+~
+~
+0 0 4615
+S
+#4689
+Atop a Crumbling Stone Tower~
+   You climb up a long ways, easily eighty feet nearly straight up to climb up
+the tower's steep stairs.  The top of the tower is a shrine, constructed so
+that it could easily accomodate a dozen people with plenty of space in between.
+The steep stairs leading up help to preserve this extra space.  To the east and
+west are dark gray stone pillars, and to the north is a dais and a wall.  It
+looks to have been built of stones and polished so that it shines dully in the
+light.  Upon the dais sits fresh fruits and flowers from the forests, laid in
+offering before a depiction of the Beast, Chislev.  Up above, white shapes
+circle in the sky.  You feel a sense of warmth here, as if you were being
+watched over by some benevolent force.    
+~
+46 8 4 0 0
+D5
+~
+~
+0 0 4671
+S
+T 4689
+#4690
+Surrounded by Steep Cliff Faces~
+   The passageway through the cliffs meets a dead end here.  The cliff face to
+the west is completely perpendicular to the ground, with a few rocky crags
+which a climber could cling to, however they are so high off the ground as to
+be impossible to reach without some sort of means to get at least 20 feet into
+the air.  Even one perched on the wall would have a long drop to look forward
+to should he lose his grip and fall.  For the adventurous, this rocky face may
+prove tempting.  To the more cautious, the path off to the east looks more and
+more inviting.    
+~
+46 4 5 0 0
+D1
+~
+~
+0 0 4691
+D4
+~
+~
+0 0 4788
+S
+T 4690
+#4691
+A Sharp Twist in the Path~
+   The walls around you begin to soar to some rather dramatic heights giving
+the feeling of a being in some kind of fold in the surface of the planet.  For
+the briefest of moments you think this is a dead end but realize that the path
+has bent sharply creating a visual illusion.  The gap continues to the south
+and west of here.    
+~
+46 0 5 0 0
+D2
+~
+~
+0 0 4692
+D3
+~
+~
+0 0 4690
+S
+#4692
+A Widening Crevasse~
+   The crevasse widens slightly here, permitting more movement from side to
+side.  Also, the path through the cliff face splits off here, one to the north
+and one to the east.  Both ways are dark, and make it difficult to tell how one
+should proceed from here.    
+~
+46 0 5 0 0
+D0
+~
+~
+0 0 4691
+D1
+~
+~
+0 0 4699
+D2
+~
+~
+0 0 4693
+S
+#4693
+Through a Crack in the Cliff~
+   The cliff walls press in to the east and west, resulting in a narrow
+passageway.  Walking through here gives you a sense of claustrophobia.  The sky
+is almost lost, though a faint glimmer can be seen far above your head.  To the
+south, the light at the end of the passage can be seen.  To the north, nothing
+but darkness.  There are odd smells all around.  The floor is covered with
+horrid-smelling muck.  It would be impossible to follow any trail, as the
+moment your feet leave the ground, the muck fills footprints.  The stench makes
+it very difficult to follow any trail of an olfactory nature.    
+~
+46 0 4 0 0
+D0
+~
+~
+0 0 4692
+D2
+~
+~
+0 0 4694
+S
+#4694
+A Concealed Niche in the Cliff~
+   The air all around is dank and moist as you pass through the niche in the
+cliff face.  Immediately, darkness descends upon you, as you are surrounded by
+tall, sheer stone cliff faces.  The ground is slightly muddy, smelling of
+mildew and mold.  From here, it would be easy to leave to the south, from which
+light can be seen.  To the north, things get darker.    
+~
+46 4 4 0 0
+D0
+~
+~
+0 0 4693
+D2
+~
+~
+0 0 6024
+S
+#4695
+At the Mouth of a Cave~
+   The path slants slightly upwards and into the mouth of a cave.  Once inside
+the mouth of the cave, the path continues to slant until it leads nearly
+straight up.  There are signs that this cave may be inhabited by some sort of
+life, if not intelligent forms of it.  It is difficult to stand to your full
+height, as the ceiling is low and has hanging stalacites that would make for
+one very large headache.  You may proceed south, or north further into the
+cave.    
+~
+46 9 0 0 0
+D0
+~
+~
+0 0 4675
+D2
+~
+~
+0 0 4696
+S
+#4696
+Atop a Stone Shelf~
+   A jutting precipice sticks out of the cliff face here, providing welcome
+relief in a tricky climb.  The ground here is relatively smooth, albeit dusty.
+The air is slightly fresher here than on the ground, though the precaiousness
+of your current position prevents you from being able to fully relax.  The
+caves surrounding you are very quiet, allowing you to hear your own sounds,
+those created by your clothing and your body.  You can even hear your own
+pulse.  The shelf continues a brief ways to the north, and you can probably
+climb down from here as well.    
+~
+46 0 5 0 0
+D0
+~
+~
+0 0 4695
+D5
+~
+~
+0 0 4698
+S
+#4697
+A Small Clearing~
+   The clearing is almost beyond words to describe.  Each plant and each bit of
+soil seems to have its place here, but it has not been shaped or cut by any
+man-made force.  Instead, it is almost as if Chislev herself stepped from her
+celestial glade and formed this alcove of nature with her own hands.  Towards
+the east, the trees are bent in such a manner that they form a shelf upon which
+a kender or child could likely comfortably sit, but the trees are not awkward
+looking.  Instead, they simply have grown around an invisible barrier, forming
+this shape.  When one looks closer, a small impression in one of the trees can
+be made out.  About the size of a human head, and spherical in shape.  It
+leaves one pondering what it could possibly be.    
+~
+46 288 3 0 0
+D3
+~
+~
+0 0 4620
+S
+#4698
+Halfway Up the Cliff Face~
+   You are now halfway up a tight, narrow space between cliffs.  You are
+surrounded on three sides by stone walls with jutting crags, making climbing
+rather easy.  Up a short ways, you can see the top.  The entire area is
+enclosed with rock, and as there is no natural lighting, the only light that
+you can see by is that you have brought with yourself.  From here, one can
+climb up or down, though, logically, no progress can be made safely in any
+other direction.    
+~
+46 256 5 0 0
+D4
+~
+~
+0 0 4696
+D5
+~
+~
+0 0 4699
+S
+#4699
+A Narrow Opening~
+   A Rockslide has turned this otherwise sheer cliff face into a potentially
+climbable surface.  The rocks are sharp, and covered with a slimy moss,
+however, and such a climb will not be easy or safe.  After one scales the pile
+of rocks and boulders, they could likely climb up the wall a short ways up to
+where there is a natural stone shelf.  After this sort of climb, to rest even
+in that most precarious of locations would be quite inviting.    
+~
+46 256 5 0 0
+D3
+~
+~
+0 0 4692
+D4
+~
+~
+0 0 4698
+S
+$~

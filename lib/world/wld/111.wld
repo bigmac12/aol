@@ -1,0 +1,2088 @@
+#11100
+A Circular Staircase Leading Into Darkness~
+   As you enter this narrow, circular stairway the smell of rot and decay hits
+your senses full force, making you gag.  The stones of the stairs are made from
+a dark-grey, almost black stone.  Following these stairs downward leads you
+into a cold, chilly darkness, and you feel as if you are being watched.    
+~
+111 332 0 0 0
+D4
+   Looking closely you see that the hatch here is made of the floorboards of
+the cabin above.    
+~
+floorboard~
+1 0 1830
+D5
+~
+~
+0 0 11101
+S
+#11101
+A Circular Staircase Leading Into Darkness~
+   Continuing along this narrow, spiraling staircase leads you into cold, damp
+darkness.  Every movement, every breath or whispered word seems to echo off the
+walls, and the stench of decay wafts up from below.  The dark-grey stone of the
+steps and walls glisten with moisture from the damp air.    
+~
+111 365 0 0 0
+D4
+~
+~
+0 0 11100
+D5
+~
+~
+0 0 11102
+S
+#11102
+A Circular Staircase~
+   The darkness here lifts only slightly, lit dimly by some kind of flickering
+light further down the steps.  The stones in this area cease to echo your
+movements as badly, though it's just as cold and damp as before.  The sickly
+sweet scent of death still hangs about, floating about in the cold air.    
+~
+111 364 0 0 0
+D4
+~
+~
+0 0 11101
+D5
+~
+~
+0 0 11103
+S
+#11103
+A Small Landing~
+   The narrow staircase opens up here to a small, dimly lit landing.  The light
+comes from a single, sputtering torch set into a rusted iron sconce on the far
+wall, leaving flickering shadows everywhere.  Ocassionally, it seems as if sets
+of red eyes peer at you from the darkness, but when you look they are gone.  A
+human skeleton lies in the middle of the floor wearing a tattered blue robe,
+and the flesh is still decaying.  A chunk of stone been broken off of the last
+step and now lies a few inches away from the skeletal hand, where you notice
+some deep scratches in the wall.  An odd thin white mist creeps over the floor
+and down the stairs, adding to the chill of the place.    
+~
+111 104 0 0 0
+D4
+~
+~
+0 0 11102
+D5
+~
+~
+0 0 11104
+E
+wall scratches deep~
+ Upon closer inspection you see that the nearby chunk of stone was used to
+scrawl a message into the stone of the wall, though it looks as if someone has
+tried to chips parts away.    
+
+                     Turn back from this place.. the fo## serv##ts of
+                      Mo##io# lie below.. turn, or sha## my ####. 
+                                        oo
+~
+S
+#11104
+A Circular Staircase~
+   This section of staircase is dimly lit by flickering torchlight coming from
+above as well as a softly glowing moss which covers the grey stone of the
+walls.  An odd whitish mist hangs in the cold air, accompanying the smell of
+decay and any movements or speech here seem to be muffled by the surrounding
+stone and moss.    
+~
+111 360 0 0 0
+D4
+~
+~
+0 0 11103
+D5
+~
+~
+0 0 11105
+S
+#11105
+A Circular Staircase~
+   This section is lit solely by a soft, phosporant moss which casts an soft
+green light over everything, making it look sickly.  The odd white mist which
+permeates this area seems to be coming from the walls themselves, the moss
+giving it an errie green cast.  The step are slick from the mist and dampness
+of the air, and vermin skitter in the shadows.    
+~
+111 360 0 0 0
+D4
+~
+~
+0 0 11104
+D5
+~
+~
+0 0 11106
+S
+#11106
+The Bottom of the Stairs~
+   The staircase ends abruptly here, turning into a short hallway leading off
+to the north.  This section is lit solely by a soft, phosporant moss which
+casts an soft green light over everything, making it look sickly.  The odd
+white mist which permeates this area seems to be coming from the walls
+themselves, the moss giving it an errie green cast.  The step are slick from
+the mist and dampness of the air, and vermin skitter in the shadows.    
+~
+111 360 0 0 0
+D0
+~
+~
+0 0 11107
+D4
+~
+~
+0 0 11105
+S
+#11107
+At A Fountain Carved of Obsidian~
+   This room is lit by low burning braziers, casting deep, eerie shadows upon
+the already dark moss covered walls.  Along the walls are stone benches made
+from polished obsidian, and in the center of the room stands a large, ornately
+carved fountain of the same stone.  Stone gargoyles leer at you from the
+corners of the room, their ruby eyes glittering in the dim light.  A deep,
+rythmic chant echos from the north, and exits lead from this room in the four
+cardinal directions.    
+~
+111 104 0 0 0
+D0
+~
+~
+0 0 11112
+D1
+~
+~
+0 0 11108
+D2
+~
+~
+0 0 11106
+D3
+~
+~
+0 0 11109
+E
+gargoyle gargoyles leer ruby eyes~
+   Moss hangs from each of these stone gargoyles, which sit in the four corners
+of the ceiling.  Their faces have been carved into horrible, leering visages
+and each ones eyes have been set with rubies.  The dim light from the braziers
+reflects off their eyes making it look as if they were alive, watching..  
+Leering..    
+~
+E
+fountain carved obsidian~
+   This large, obsidian fountain has been carved by skilled hands.  Rising from
+the center like some black monolith, are three figures carved from the stone of
+the fountain: A rotting corpse with a snarling, hideous goats head; A muscular
+man wearing an executioners hood; and a roiling black cloud; each set with
+small, delicate rubies for eyes.    
+~
+S
+#11108
+A Rough-Hewn Chamber~
+   Entering this room reveals a small, dark chamber roughly-hewn from the
+surrounding rock.  Whatever this room was originally being mined for is now
+evidently forgotten, as evidenced by the rusted mining tools lying about the
+chamber.  Near the back of the room, a small cold spring flows through and
+disappears under the far wall.    
+~
+111 105 0 0 0
+D3
+~
+~
+0 0 11107
+S
+#11109
+A Dining Hall~
+   Four long, stone tables with stone benches on either side sit in the middle
+of the dining hall.  A few acolytes and other clergy sit here eating quietly,
+their hoods pulled low.  The entire dining hall is lined with torches set in
+wall sconces to illuminate the whole room, and the moss that seems to cover the
+walls of the rest of this structure looks to have been scraped away to keep the
+them fairly clean.  The scent of roasting meats and other foods barely
+overpower the scent of decay that floats in the air.    
+~
+111 104 0 0 0
+D1
+~
+~
+0 0 11107
+D3
+~
+door~
+1 0 11110
+S
+#11110
+The Kitchen~
+   As you enter this room the smell of roasting meat and cooking stews
+overpower your senses, making your mouth water.  A huge iron oven sits against
+the west wall, and two large preparation counters lie against the south wall.
+All kinds of meats lay out on the counters waiting to be prepared and pots of
+stew cook on the oven.  Cooks come and go from the pantry to the north
+retrieving ingredients for the meals being prepared, and the dining hall is to
+the east.    
+~
+111 104 0 0 0
+D0
+~
+door~
+1 0 11111
+D1
+~
+door~
+1 0 11109
+S
+#11111
+The Pantry~
+   A myriad selection of foods line the stone shelves of this pantry, from
+cheese to veal to grains.  All of the items here are used to make the daily
+meals for the temples followers, and from some of the items you see on the
+shelves, they eat well.  An iron lantern hangs on a peg next to the door and
+can be attached to a ring in the ceiling.  To the south is the kitchen.    
+~
+111 104 0 0 0
+D2
+~
+door~
+1 0 11110
+S
+#11112
+A Hallway~
+   This hallway is simple and unadorned, it's stone walls covered in moss and
+mold.  The air is chill, and the scent of decay is stronger here.  A deep
+rythmic chant echos from the north, and it seems a bit brighter in that
+direction, while to the south is the fountain and dining hall.    
+~
+111 364 0 0 0
+D0
+~
+~
+0 0 11113
+D2
+~
+~
+0 0 11107
+S
+#11113
+The Center Aisle of the Temple~
+   Entering this area reveals the source of the deep, rythmic chanting.  
+Acolytes, priests, and other clergy walk past or sit in pews offering prayer to
+their god.  The floor here is made of polished obsidian, reflecting light from
+torches set in the walls all around the room.  Worshippers set in the pews to
+the east and west, and dark, gothic looking pillars line this path.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11114
+D1
+~
+~
+0 0 11117
+D2
+~
+~
+0 0 11112
+D3
+~
+~
+0 0 11118
+E
+pillars dark gothic~
+   These dark, gothic-looking pillars have been carved from the same obsidian
+as the floor and line either side of the central aisle.  Each has been carved
+to depict a twisting mass of tortured souls with their mouths open in silent
+screams, whirling towards the heavens.  Every face has been painstakingly
+carved in detail, and clearly depicts inexplainable agony.    
+~
+S
+#11114
+The Center Aisle of the Temple~
+   Entering this area reveals the source of the deep, rythmic chanting.  
+Acolytes, priests, and other clergy walk past or sit in pews offering prayer to
+their god.  The floor here is made of polished obsidian, reflecting light from
+torches set in the walls all around the room.  Worshippers set in the pews to
+the east and west, and dark, gothic looking pillars line this path.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11115
+D1
+~
+~
+0 0 11120
+D2
+~
+~
+0 0 11113
+D3
+~
+~
+0 0 11121
+E
+pillars dark gothic~
+   These dark, gothic-looking pillars have been carved from the same obsidian
+as the floor and line either side of the central aisle.  Each has been carved
+to depict a twisting mass of tortured souls with their mouths open in silent
+screams, whirling towards the heavens.  Every face has been painstakingly
+carved in detail, and clearly depicts inexplainable agony.    
+~
+S
+#11115
+The Central Aisle of the Temple, Before a Raised Platform~
+   Entering this area reveals the source of the deep, rythmic chanting.  
+Acolytes, priests, and other clergy walk past or sit in pews offering prayer to
+their god.  The floor here is made of polished obsidian, reflecting light from
+torches set in the walls all around the room.  Worshippers set in the pews to
+the east and west, and dark, gothic looking pillars line this path.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11116
+D1
+~
+~
+0 0 11122
+D2
+~
+~
+0 0 11114
+D3
+~
+~
+0 0 11123
+E
+pillars dark gothic~
+   These dark, gothic-looking pillars have been carved from the same obsidian
+as the floor and line either side of the central aisle.  Each has been carved
+to depict a twisting mass of tortured souls with their mouths open in silent
+screams, whirling towards the heavens.  Every face has been painstakingly
+carved in detail, and clearly depicts inexplainable agony.    
+~
+S
+#11116
+Before the Altar of Morgion~
+   Atop this polished obsidian dais stands the altar to Morgion, god of disease
+and decay.  The huge altar stands at waist level and looks as if it was charred
+in some fire.  Atop the altar itself is an offering plate, a set of black
+ceremonial candles, and a bowl of some black ichor.  On the back wall is a
+giant likeness of Morgion himself, carved from the very stone of the walls.  
+His black hooded head looms over the altar, peering down with large ruby eyes.
+~
+111 72 0 0 0
+D2
+~
+~
+0 0 11115
+E
+altar charred~
+   This huge stone altar is blackened, as if it had been subjected to fire.  A
+brown silk cloth hangs over it, and atop the altar stands a set of black
+ceremonial candles.  In the center of the altar rests a copper bowl filled with
+some kind of thick black ichor, and an offering plate rests towards the front
+of the altar.    
+~
+E
+morgion hooded head likeness ruby eyes~
+   The huge hooded head of Morgion, Lord of Disease and Decay looms over the
+altar with large, glittering ruby eyes.  Carved from the very stone of the
+walls, the likeness is a dark grey, almost black color and is a rather imposing
+figure.    
+~
+S
+#11117
+Amongst the Pews~
+   Amongst these long oak pews with velvet seats you notice many clergymen and
+woshippers with heads bowed in prayer, or chanting along in that deep, rythmic
+chant.  The walls are covered in moss and mold, and hanging from them are
+several tapestries depicting the downfall of Mishakal and her followers, and
+the greatness of Morgion, The God of Disease.  Dark, gothic pillars line the
+end of the pews.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11120
+D3
+~
+~
+0 0 11113
+E
+pillars dark gothic~
+   These dark, gothic-looking pillars have been carved from the same obsidian
+as the floor and line either side of the central aisle.  Each has been carved
+to depict a twisting mass of tortured souls with their mouths open in silent
+screams, whirling towards the heavens.  Every face has been painstakingly
+carved in detail, and clearly depicts inexplainable agony.    
+~
+E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.    
+~
+S
+#11118
+Amongst the Pews~
+   Amongst these long oak pews with velvet seats you notice many clergymen and
+woshippers with heads bowed in prayer, or chanting along in that deep, rythmic
+chant.  The walls are covered in moss and mold, and hanging from them are
+several tapestries depicting the downfall of Mishakal and her followers, and
+the greatness of Morgion, The God of Disease.  Dark, gothic pillars line the
+end of the pews.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11121
+D1
+~
+~
+0 0 11113
+D3
+~
+~
+0 0 11119
+E
+pillars dark gothic~
+   These dark, gothic-looking pillars have been carved from the same obsidian
+as the floor and line either side of the central aisle.  Each has been carved
+to depict a twisting mass of tortured souls with their mouths open in silent
+screams, whirling towards the heavens.  Every face has been painstakingly
+carved in detail, and clearly depicts inexplainable agony.    
+~
+E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.    
+~
+S
+#11119
+A Small Chapel~
+   This small chapel is designed for those who want a more private area to
+offer their prayers.  A small altar sits at the back of the room draped with a
+brown and black silk cloth.  Two oak benches with black velvet cushions sit in
+front of the altar, and gothic statuary lines the walls.  Atop the altar is a
+small offering plate.    
+~
+111 72 0 0 0
+D1
+~
+~
+0 0 11118
+S
+#11120
+Amongst the Pews~
+   Amongst these long oak pews with velvet seats you notice many clergymen and
+woshippers with heads bowed in prayer, or chanting along in that deep, rythmic
+chant.  The walls are covered in moss and mold, and hanging from them are
+several tapestries depicting the downfall of Mishakal and her followers, and
+the greatness of Morgion, The God of Disease.  Dark, gothic pillars line the
+end of the pews.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11122
+D2
+~
+~
+0 0 11117
+D3
+~
+~
+0 0 11114
+E
+pillars dark gothic~
+   These dark, gothic-looking pillars have been carved from the same obsidian
+as the floor and line either side of the central aisle.  Each has been carved
+to depict a twisting mass of tortured souls with their mouths open in silent
+screams, whirling towards the heavens.  Every face has been painstakingly
+carved in detail, and clearly depicts inexplainable agony.    
+~
+E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.    
+~
+S
+#11121
+Amongst the Pews~
+   Amongst these long oak pews with velvet seats you notice many clergymen and
+woshippers with heads bowed in prayer, or chanting along in that deep, rythmic
+chant.  The walls are covered in moss and mold, and hanging from them are
+several tapestries depicting the downfall of Mishakal and her followers, and
+the greatness of Morgion, The God of Disease.  Dark, gothic pillars line the
+end of the pews.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11123
+D1
+~
+~
+0 0 11114
+D2
+~
+~
+0 0 11118
+E
+pillars dark gothic~
+   These dark, gothic-looking pillars have been carved from the same obsidian
+as the floor and line either side of the central aisle.  Each has been carved
+to depict a twisting mass of tortured souls with their mouths open in silent
+screams, whirling towards the heavens.  Every face has been painstakingly
+carved in detail, and clearly depicts inexplainable agony.    
+~
+E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.    
+~
+S
+#11122
+Amongst the Pews~
+   Amongst these long oak pews with velvet seats you notice many clergymen and
+woshippers with heads bowed in prayer, or chanting along in that deep, rythmic
+chant.  The walls are covered in moss and mold, and hanging from them are
+several tapestries depicting the downfall of Mishakal and her followers, and
+the greatness of Morgion, The Black Wind.  The door leading into the clergy's
+quarters lies to the north.    
+~
+111 72 0 0 0
+D0
+~
+door~
+1 0 11130
+D2
+~
+~
+0 0 11120
+D3
+~
+~
+0 0 11115
+E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.
+~
+S
+#11123
+Amongst the Pews~
+   Amongst these long oak pews with velvet seats you notice many clergymen and
+woshippers with heads bowed in prayer, or chanting along in that deep, rythmic
+chant.  The walls are covered in moss and mold, and hanging from them are
+several tapestries depicting the downfall of Mishakal and her followers, and
+the greatness of Morgion, The Black Wind.  The entrance to the supply rooms and
+high priests quarters lies to the north.
+~
+111 72 0 0 0
+D0
+~
+door~
+1 11123 11124
+D1
+~
+~
+0 0 11115
+D2
+~
+~
+0 0 11121
+E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.    
+~
+S
+#11124
+A Hallway~
+   This This simple grey stone hallway is lit on either side by sputtering
+torches set in wall sconces.  Vermin skitter underfoot and in the shadows,
+their unnatural red eyes peering out from the darkness.  Moss hangs from the
+walls, and these hallways seem seldom traveled compared to the rest of the
+temple.  The door to the south leads out into the main worship area, and the
+hallway continues to the west.    
+~
+111 262248 0 0 0
+D2
+~
+door~
+1 11123 11123
+D3
+~
+~
+0 0 11125
+S
+#11125
+A Hallway~
+   This simple grey stone hallway is lit on either side by sputtering torches
+set in wall sconces.  Vermin skitter underfoot and in the shadows, their
+unnatural red eyes peering out from the darkness.  Moss hangs from the walls,
+and these hallways seem seldom traveled compared to the rest of the temple.  
+The door to the west leads into the High Priests chamber, and the hallway
+continues to the south.    
+~
+111 104 0 0 0
+D1
+~
+~
+0 0 11124
+D2
+~
+~
+0 0 11126
+D3
+~
+door~
+1 11123 11128
+S
+#11126
+A Hallway~
+   This This simple grey stone hallway is lit on either side by sputtering
+torches set in wall sconces.  Vermin skitter underfoot and in the shadows,
+their unnatural red eyes peering out from the darkness.  Moss hangs from the
+walls, and these hallways seem seldom traveled compared to the rest of the
+temple.  The hallway continues to the north and south.    
+~
+111 104 0 0 0
+D0
+~
+~
+0 0 11125
+D2
+~
+~
+0 0 11127
+S
+#11127
+The End of the Hallway~
+   This This simple grey stone hallway is lit on either side by sputtering
+torches set in wall sconces.  Vermin skitter underfoot and in the shadows,
+their unnatural red eyes peering out from the darkness.  Moss hangs from the
+walls, and these hallways seem seldom traveled compared to the rest of the
+temple.  To the west is a solid iron door, barred with a thick iron bar.  It's
+obvious from the thick door and the guard standing in front of it that they
+want intruders kept out, and whatever lies beyond kept in.
+~
+111 104 0 0 0
+D0
+~
+~
+0 0 11126
+D3
+~
+door~
+2 11123 11140
+S
+#11128
+The High Priests Office~
+   This small, tidy room is where what little business the temple has is dealt
+with, and is the main office of the high priest.  A large polished oak desk
+sits in the middle of the room, correspondence and business papers stacked
+neatly atop it.  Stone shelving in the back of the room hold books on a myriad
+of subjects, and silk tapestries hang from the walls.    
+~
+111 104 0 0 0
+D1
+~
+door~
+1 11123 11125
+D2
+~
+door~
+1 11123 11129
+S
+#11129
+High Priest's Bedroom~
+   This room is richly furnished and very warm, being heated by a large
+fireplace near the back.  Ancient silk tapestries hang from the walls, and the
+finest quality furniture adorns this room.  A huge four-poster canopy bed with
+black silk sheets sits in the center of the room, and a small table bearing a
+decanter of fine wine stands nearby.  Pushed against the back wall is a cabinet
+with many strange looking bottles, vials and scrolls inside.  It appears to be
+heavily sealed and locked.    
+~
+111 104 0 0 0
+D0
+~
+door~
+1 11123 11128
+S
+#11130
+A Hallway~
+   This simple grey stone hallway is lit on either side by sputtering torches
+set in wall sconces.  Vermin skitter underfoot and in the shadows, their
+unnatural red eyes peering out from the darkness.  The door to the south leads
+out to the worship area, and the hallway continues to the east.    
+~
+111 104 0 0 0
+D1
+~
+~
+0 0 11131
+D2
+~
+door~
+1 0 11122
+S
+#11131
+A Hallway~
+   This This simple grey stone hallway is lit on either side by sputtering
+torches set in wall sconces.  Vermin skitter underfoot and in the shadows,
+their unnatural red eyes peering out from the darkness.  Moss hangs from the
+walls, and these hallways seem seldom traveled compared to the rest of the
+temple.  To the east is an acolytes cell, and the hallway continues south.    
+~
+111 104 0 0 0
+D1
+~
+door~
+1 0 11136
+D2
+~
+~
+0 0 11132
+D3
+~
+~
+0 0 11130
+S
+#11132
+A Hallway~
+   This This simple grey stone hallway is lit on either side by sputtering
+torches set in wall sconces.  Vermin skitter underfoot and in the shadows,
+their unnatural red eyes peering out from the darkness.  Moss hangs from the
+walls, and these hallways seem seldom traveled compared to the rest of the
+temple.  To the east is an acolytes cell, and the hallway continues south.    
+~
+111 104 0 0 0
+D0
+~
+~
+0 0 11131
+D1
+~
+door~
+1 0 11137
+D2
+~
+~
+0 0 11133
+S
+#11133
+A Hallway~
+   This This simple grey stone hallway is lit on either side by sputtering
+torches set in wall sconces.  Vermin skitter underfoot and in the shadows,
+their unnatural red eyes peering out from the darkness.  Moss hangs from the
+walls, and these hallways seem seldom traveled compared to the rest of the
+temple.  To the east is an acolytes cell, and the hallway continues south.    
+~
+111 104 0 0 0
+D0
+~
+~
+0 0 11132
+D1
+~
+door~
+1 0 11138
+D2
+~
+~
+0 0 11134
+S
+#11134
+A Hallway~
+   This This simple grey stone hallway is lit on either side by sputtering
+torches set in wall sconces.  Vermin skitter underfoot and in the shadows,
+their unnatural red eyes peering out from the darkness.  Moss hangs from the
+walls, and these hallways seem seldom traveled compared to the rest of the
+temple.  To the east is a priestess' quarters and strange muttering and
+cackling can be heard from the south.    
+~
+111 104 0 0 0
+D0
+~
+~
+0 0 11133
+D1
+~
+door~
+1 0 11139
+D2
+~
+~
+0 0 11135
+S
+#11135
+Arekan's Apothecary~
+   A frail, wispy haired old man wanders about muttering to himself and
+rearranging things in no apparent order.  A myraid collection of strange and
+arcane items lie scattered about the place in utter dissaray, and dust lines
+many of the shelves.  Hanging from the walls are richly decorated tapestries
+woven with golden borders, and thick fur rugs lie across the floor.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11134
+S
+#11136
+Acolytes Quarters~
+   This small acolytes cell is comprised of an oak bunkbed, two dressers and a
+small wall mirror.  The stone walls are barren of the moss that covers the rest
+of the temple, and the room is kept tidy.  A straw mat lies before a small
+makeshift altar at the back of the room, prepared for private prayers.    
+~
+111 104 0 0 0
+D3
+~
+door~
+1 0 11131
+S
+#11137
+Priests Quarters~
+   This room is sparsely furnished, but better than the average acolytes cell.
+A large bearskin rug lies on the floor, and a simple tapestry hangs from the
+wall.  The only furniture in the room is a sturdy bed, a large dresser, and a
+small table and chair.    
+~
+111 104 0 0 0
+D3
+~
+door~
+1 0 11132
+S
+#11138
+Acolytes Quarters~
+   This small acolytes cell is comprised of an oak bunkbed, two dressers and a
+small wall mirror.  The stone walls are barren of the moss that covers the rest
+of the temple, and the room is kept tidy.  A straw mat lies before a small
+makeshift altar at the back of the room, prepared for private prayers.    
+~
+111 104 0 0 0
+D3
+~
+door~
+1 0 11133
+S
+#11139
+A Priestess' Quarters~
+   This room is well furnished, and is obviously meant for a female.  A large
+metal wash basin is attached to the south wall, and a large mirror hangs from a
+peg above it.  A sturdy, comfortable bed and a large dresser stand against the
+north wall, and a white bearskin rug lies on the floor.    
+~
+111 104 0 0 0
+D3
+~
+door~
+1 0 11134
+S
+#11140
+A Dark Landing~
+   A strange chill swirls in the darkness providing a deep sense of foreboding.
+It is quite difficult to keep a sound footing on this narrow landing which is
+little more than a damp piece of stone that juts out from the cavern wall.  A
+faint stream of light from above penetrates the darkness revealing solid ground
+below.    
+~
+111 262252 0 0 0
+D1
+~
+door~
+2 11123 11127
+D5
+~
+~
+0 0 11165
+S
+#11141
+A Pile of Rotting Corpses~
+   This huge natural rock cavern is completely immersed in darkness and has
+been turned into a mass grave, with skeletons and corpses or every race and
+size heartlessly discarded here.  Most of the bodies in this area are long
+since decayed, and several types of mold and slime grow abundantly, testament
+to the fact that few come here anymore.  A cold sense of dread hangs over the
+place, as if you are being watched very closely.    
+~
+111 73 0 0 0
+D2
+~
+~
+0 0 11142
+D3
+~
+~
+0 0 11178
+D8
+~
+~
+0 0 11177
+S
+#11142
+A Mass Grave of Decaying Bodies~
+   This huge natural rock cavern is completely immersed in darkness and has
+been turned into a mass grave, with skeletons and corpses or every race and
+size heartlessly discarded here.  Most of the bodies in this area are long
+since decayed, and several types of mold and slime grow abundantly, testament
+to the fact that few come here anymore.  A cold sense of dread hangs over the
+place, as if you are being watched very closely.    
+~
+111 73 0 0 0
+D0
+~
+~
+0 0 11141
+D1
+~
+~
+0 0 11143
+D2
+~
+~
+0 0 11175
+D3
+~
+~
+0 0 11177
+D6
+~
+~
+0 0 11178
+D8
+~
+~
+0 0 11176
+S
+#11143
+A Mass Grave~
+   The passage opens up to a huge natural rock cavern here, and the horrible
+smell of decay and rot that filled the temple and hallways obviously comes from
+this area.  Bones and rotted cloth and other material lie scattered about the
+rough cavern floor, and just visible in the dim gloom are cold, long dead
+corpses.  The entire area has been turned into a mass grave, and skeletons and
+corpses of every race and size have been heartlessly discarded here.  Many of
+the more recently deceased corpses bear signs of rent, melted or otherwise
+mutilated flesh and some are twisted into agonizing, tortured postions.    
+~
+111 262216 0 0 0
+D3
+~
+~
+0 0 11142
+D9
+~
+~
+0 0 11146
+S
+#11144
+A Putrid Hallway~
+   A passage between the cavern walls has been cleared out to form a narrow
+hallway.  A simplisitic wooden walkway has been constructed over the uneven and
+slippery stone floor.  The wood is stained a dark red, possibly from the
+mineral-rich water that drips from the stalactites that hang overhead.  The air
+in the passageway is stagnant and heavy with the acrid scent of disease and
+decay.    
+~
+111 8 0 0 0
+D1
+~
+~
+0 0 11145
+D2
+~
+~
+0 0 11147
+S
+#11145
+A Putrid Hallway~
+   A passage between the cavern walls has been cleared out to form a narrow
+hallway.  A simplisitic wooden walkway has been constructed over the uneven and
+slippery stone floor.  The wood is stained a dark red, possibly from the
+mineral-rich water that drips from the stalactites that hang overhead.  The air
+in the passageway is stagnant and heavy with the acrid scent of disease and
+decay.    
+~
+111 8 0 0 0
+D3
+~
+~
+0 0 11144
+D9
+~
+~
+0 0 11148
+S
+#11146
+A Putrid Hallway~
+   A passage between the cavern walls has been cleared out to form a narrow
+hallway.  A simplisitic wooden walkway has been constructed over the uneven and
+slippery stone floor.  The wood is stained a dark red, possibly from the
+mineral-rich water that drips from the stalactites that hang overhead.  The air
+in the passageway is stagnant and heavy with the acrid scent of disease and
+decay.    
+~
+111 109 0 0 0
+D6
+~
+~
+0 0 11143
+D8
+~
+~
+0 0 11148
+S
+#11147
+A Putrid Hallway~
+   A passage between the cavern walls has been cleared out to form a narrow
+hallway.  A simplisitic wooden walkway has been constructed over the uneven and
+slippery stone floor.  The wood is stained a dark red, possibly from the
+mineral-rich water that drips from the stalactites that hang overhead.  The air
+in the passageway is stagnant and heavy with the acrid scent of disease and
+decay.    
+~
+111 8 0 0 0
+D0
+~
+~
+0 0 11144
+D9
+~
+~
+0 0 11150
+S
+#11148
+Within a Swirl of Mists~
+   Thick vines hang from the ceiling here, each covered by a thick, sticky
+slime and odd gargantuan sized flowers.  They are beautiful yet terrifying at
+the same time and something doesn't seem natural about the size or shape of the
+flowers.  Each resembles a great gaping mouth, their serrated edges looking
+much like sharp teeth.  Vapors from the bubbling bog hang heavily in the air,
+swirling about in a breeze of unknown origin.    
+~
+111 8 0 0 0
+D2
+~
+~
+0 0 11151
+D6
+~
+~
+0 0 11145
+D7
+~
+~
+0 0 11146
+S
+#11149
+A Dank Cell~
+   Standing in this cell it is nearly impossible not to feel the sheer horror
+of those who have been imprisoned here.  The floor is covered with claw marks
+and deep footprints all heading toward the door, as though anyone leaving here,
+had to be dragged kicking and screaming from the cell.  The dank air reeks with
+the odor of rotting flesh from a shattered body which lies in a heap in the
+back corner.    
+~
+111 108 0 0 0
+D8
+~
+door~
+1 0 11154
+S
+#11150
+A Field of Massive Mushrooms~
+   Putrid slime from the decomposing fungi covers the ground, making the floor
+slick and slippy.  The giant mushrooms stand taller than the average man and
+their pale translucent skin glows palely in the dim light.  Every so often a
+cloud of spores fills the air as a mushroom collapses under the weight of its
+own decay.    
+~
+111 105 0 0 0
+D2
+~
+~
+0 0 11158
+D6
+~
+~
+0 0 11147
+D8
+~
+~
+0 0 11157
+S
+#11151
+Before a Massive Wall of Moss~
+   A massive natural rock wall covered in a variety of clinging mosses and
+long, trailing vines rises from the rolling fog and boggish footing here.  
+Sturdy cressets have been driven deep into the soft ground providing evidence
+that someone, or something, visits these caverns.  Each cresset is filled with
+dried mosses which are set aflame to provide light, and the flickering flames
+cast light over what appears to be a small crevice where many small scrapes can
+just barely be made out.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11148
+D2
+~
+~
+0 0 11159
+D9
+   This small crevice bears tiny scrapes on either side of it, and though it is
+a part of the natural rock of the cavern wall, something doesn't seem quite
+right about it....    
+~
+wall crevice ~
+1 0 11160
+S
+#11152
+A Partially Finished Corridor~
+   Wooden planks have been set on the slippery stone floor to allow for a more
+sound footing for all who pass.  The walls are left unfinished, though a few
+torches have been forced into some of the many cracks.  Their flickering light
+bounces off the damp walls creating strange shadows.  Water drips monotonously
+from stalactites that have formed on the ceiling.  An unpleasant rusty smell
+fills the warm, stale air.    
+~
+111 8 0 0 0
+D1
+~
+~
+0 0 11153
+D8
+~
+~
+0 0 11161
+S
+#11153
+A Partially Finished Corridor~
+   The corridor ends here, opening to a vast chamber to the southeast.  Wooden
+planks have been set on the slippery stone floor to allow for a more sound
+footing for all who pass.  The walls are left unfinished, though a few torches
+have been forced into some of the many cracks.  Their flickering light bounces
+off the damp walls creating strange shadows.  Water drips monotonously from
+stalactites that have formed on the ceiling.  An unpleasant rusty smell fills
+the warm, stale air.    
+~
+111 72 0 0 0
+D3
+~
+~
+0 0 11152
+D9
+~
+~
+0 0 11162
+S
+#11154
+A Room of Great Pain and Suffering~
+   A long table stands in the center of the room.  Thin strips of leather have
+been secured to the table to allow victims to be strapped into place.  There is
+a fair bit of slack on the straps, however, so that the suffering thrashes of
+the victim can be observed.  It is here that the bog's harvest is tested for
+potency.  Unwilling to wait and study the affects of imbibing the toxic
+concoctions, a quicker way to induce their affects has been devised.  Razor
+sharp blades are used to strip off multiple layers of flesh and expose
+vulnerable tissue.  The toxins are then applied to the victim while their
+horrific affects are painstakingly documented.  A holding cell lies to the
+northeast.    
+~
+111 72 0 0 0
+D2
+~
+~
+0 0 11162
+D4
+~
+~
+0 0 11156
+D7
+   A thick oak door reinforced with banded steel bars the way into this cell.
+There are no openings on this door other than the keyhole.    
+~
+door~
+1 11162 11149
+S
+#11155
+A Dank Cell~
+   Standing in this cell it is nearly impossible not to feel the sheer horror
+of those who have been imprisoned here.  The floor is covered with claw marks
+and deep footprints all heading toward the door, as though anyone leaving here,
+had to be dragged kicking and screaming from the cell.  The dank air reeks with
+the odor of rotting flesh from a shattered body which lies in a heap in the
+back corner.    
+~
+111 104 0 0 0
+D8
+   A thick oak door reinforced with banded steel bars the way into this cell.
+There are no openings on this door other than the keyhole.    
+~
+door~
+1 11162 11162
+S
+#11156
+An Observation Deck~
+   Originally intended to allow guards to keep an eye on prisoners, these
+observation decks have become host to a rather macabre pastime.  A number of
+people flock to these observation decks to watch the great horrors that
+transpire below.  Granted, it is still possible to watch the prisoners from
+this vantage point, but few who gather here pay any mind to the cells.  Wooden
+benches have been set here and, oddly enough, tables bearing snacks.    
+~
+111 72 0 0 0
+D5
+~
+~
+0 0 11154
+D9
+~
+~
+0 0 11164
+S
+#11157
+A Pool of Bubbling Slime~
+   Poor drainage and lack of natural light has caused this area to become a
+wretched bog of vile liquid that immediately assails the senses.  It bubbles
+and belches offensively, emitting foul vapors.  The wet ground is covered by
+sphagnum mosses that form small mats which allow for passage.  Vines extend
+down from the ceiling of the cavern which is barely visible through the
+swirling fog of vapors.  Sturdy cressets have been driven deep into the soft
+ground providing evidence that someone, or something, visits these caverns.  
+Each cresset is filled with dried mosses which are set aflame to provide light.
+~
+111 32808 0 0 0
+D2
+~
+~
+0 0 11166
+D7
+~
+~
+0 0 11150
+S
+#11158
+A Field of Massive Mushrooms~
+   Huge mushrooms thrust upwards towards the roof, their pale translucent skin
+glowing palely in the dim light.  The view to the south is blocked by the thick
+stems of the fungi.  The nauseating stench of decay fills the air and small
+spores can be seen floating around.  The floor is slick from the slime of
+decomposing vegetation.    
+~
+111 105 0 0 0
+D0
+~
+~
+0 0 11150
+E
+fungi mushrooms~
+   The mushrooms appear to thrive more against the southern wall, towering
+above the height of an average man.  Slime slowly drips off the ones that are
+decomposing, making the floor slick and slippy.    
+~
+S
+#11159
+A Pool of Bubbling Slime~
+   Poor drainage and lack of natural light has caused this area to become a
+wretched bog of vile liquid that immediately assails the senses.  It bubbles
+and belches offensively, emitting foul vapors.  The wet ground is covered by
+sphagnum mosses that form small mats which allow for passage.  Vines extend
+down from the ceiling of the cavern which is barely visible through the
+swirling fog of vapors.  Sturdy cressets have been driven deep into the soft
+ground provide evidence that someone, or something, visits these caverns.  
+Each cresset is filled with dried mosses which are set aflame to provide light.
+~
+111 32776 0 0 0
+D0
+~
+~
+0 0 11151
+D5
+~
+~
+0 0 -1
+D8
+~
+~
+0 0 11167
+S
+T 11159
+#11160
+A Partially Finished Corridor~
+   Wooden planks have been set on the slippery stone floor to allow for a more
+sound footing for all who pass.  The walls are left unfinished, though a few
+torches have been forced into some of the many cracks, and their flickering
+light bounces off the damp walls, creating strange shadows.  Water drips
+monotonously from stalactites that have formed on the ceiling, and an
+unpleasant rusty smell fills the warm, stale air.  A large crevice dominates
+the northwestern wall.    
+~
+111 8 0 0 0
+D6
+   This large crevice is actually a door created out of the rock of the natural
+cavern wall.  The outline of the door can be plainly seen from this side,
+though it is hidden on the outer wall.    
+~
+crevice~
+1 0 11151
+D9
+~
+~
+0 0 11168
+S
+#11161
+A Partially Finished Corridor~
+   Wooden planks have been set on the slippery stone floor to allow for a more
+sound footing for all who pass.  The walls are left unfinished, though a few
+torches have been forced into some of the many cracks.  Their flickering light
+bounces off the damp walls creating strange shadows.  Water drips monotonously
+from stalactites that have formed on the ceiling.  An unpleasant rusty smell
+fills the warm, stale air.    
+~
+111 8 0 0 0
+D2
+~
+~
+0 0 11169
+D7
+~
+~
+0 0 11152
+S
+#11162
+A Room of Great Pain and Suffering~
+   Standing as a grand centerpiece to this gruesome display of inhumanity is
+perhaps the cruelest of tortures known.  A towering gallows has been erected in
+the middle of this imposing cavern.  Hanging from the crossbeam, where the
+noose would be expected to be found, is a massive iron hook.  The iron is
+heavily corroded and periodically a bit of blood drips from its surface to the
+stained floor below.  Damnation to the hook involves having the point of the
+hook pushed through one side of the belly and out the other, then being left to
+hang.  Holding cells lie to the east, northeast, and southeast.    
+~
+111 72 0 0 0
+D0
+~
+~
+0 0 11154
+D1
+   A thick oak door reinforced with banded steel bars the way into this cell.
+There are no openings on this door other than the keyhole.    
+~
+door~
+1 11162 11163
+D2
+~
+~
+0 0 11170
+D6
+~
+~
+0 0 11153
+D7
+   A thick oak door reinforced with banded steel locks and bars the way into
+this cell.  The only opening is a tiny barred window.
+~
+door~
+1 11162 11155
+D9
+   A thick oak door reinforced with banded steel locks and bars the way into
+this cell.  The only opening is a tiny barred window.    
+~
+door~
+1 11162 11171
+E
+ne~
+   A thick oak door reinforced with banded steel locks and bars the way into
+this cell.  The only opening is a tiny barred window.    
+~
+E
+e~
+   A thick oak door reinforced with banded steel bars the way into this cell.
+There are no openings on this door other than the keyhole.    
+~
+E
+se~
+   A thick oak door reinforced with banded steel locks and bars the way into
+this cell.  The only opening is a tiny barred window.    
+~
+S
+#11163
+A Pitch Black Cell~
+   Used to push prisoners beyond the brink of insanity, this cell is extremely
+small.  It has a low ceiling so that no one within can stand to full height,
+not even a kender.  It is pitch black, without even the faintest hint of light.
+The prisoner locked in this room receives absolutely no human contact.  It is
+vermin infested and filled with human excrement from those who have been left
+here to die.  The many cockroaches and spiders that scurry across the floor
+serve as the only source of food for anyone looking to prolong their stay.  
+Water drips down the filthy wall and forms small puddles.  The monotonous drip
+is completely unnerving in this otherwise silent environment.    
+~
+111 104 0 0 0
+D3
+A cell door.
+~
+door~
+1 11162 11162
+S
+#11164
+An Observation Deck~
+   Originally intended to allow guards to keep an eye on prisoners, these
+observation decks have become host to a rather macabre pastime.  A number of
+people flock to these observation decks to watch the great horrors that
+transpire below.  Granted, it is still possible to watch the prisoners from
+this vantage point, but few who gather here pay any mind to the cells.  Wooden
+benches have been set here and, oddly enough, tables bearing snacks.  Hanging
+directly across from the deck is a towering gallows bearing a massive iron
+hook.    
+~
+111 72 0 0 0
+D6
+~
+~
+0 0 11156
+D8
+~
+~
+0 0 11172
+S
+#11165
+An Underground Riverbed~
+   Appearing to have been forgotten for generations, all that remains of the
+river that must have carved these caverns is a thin putrid stream.  The narrow
+trickle of water still flows along its ancient bed.  Barely resembling what
+anyone would call water, the murky flow has a sickening greenish tint to it,
+presumably from sediment it has collected on its journey westward.  A low
+ceiling makes it impossible to follow the river toward its delta, however the
+riverbed is passable to the southeast.    
+~
+111 32776 0 0 0
+D3
+   A small crack runs the length of this wall.  With alittle work it could be
+widened to allow passage.    
+~
+crack~
+1 0 11194
+D4
+~
+~
+0 0 11140
+D9
+~
+~
+0 0 11173
+S
+#11166
+A Natural Cavern~
+   The cavern roof rises high overhead and Vines extend down from the ceiling
+of the cavern which is barely visible through because of the poor light.  
+Sturdy cressets have been driven deep into the soft ground providing evidence
+that someone, or something, visits these caverns.  Each cresset is filled with
+dried mosses which are set aflame to provide light.  Foul vapors drift in from
+the north and the east.    
+~
+111 32768 0 0 0
+D0
+~
+~
+0 0 11157
+D1
+~
+~
+0 0 11167
+D8
+~
+~
+0 0 11173
+S
+#11167
+A Pool of Bubbling Slime~
+   Poor drainage and lack of natural light has caused this area to become a
+wretched bog of vile liquid that immediately assails the senses.  It bubbles
+and belches offensively, emitting foul vapors.  The wet ground is covered by
+sphagnum mosses that form small mats which allow for passage.  Vines extend
+down from the ceiling of the cavern which is barely visible through the
+swirling fog of vapors.  Sturdy cressets have been driven deep into the soft
+ground provide evidence that someone, or something, visits these caverns.  
+Each cresset is filled with dried mosses which are set aflame to provide light.
+~
+111 32808 0 0 0
+D3
+~
+~
+0 0 11166
+D7
+~
+~
+0 0 11159
+S
+#11168
+A Partially Finished Corridor~
+   Wooden planks have been set on the slippery stone floor to allow for a more
+sound footing for all who pass.  The walls are left unfinished, though a few
+torches have been forced into some of the many cracks.  Their flickering light
+bounces off the damp walls creating strange shadows.  Water drips monotonously
+from stalactites that have formed on the ceiling.  An unpleasant rusty smell
+fills the warm, stale air.    
+~
+111 8 0 0 0
+D1
+~
+~
+0 0 11169
+D6
+~
+~
+0 0 11160
+S
+#11169
+A Partially Finished Corridor~
+   Wooden planks have been set on the slippery stone floor to allow for a more
+sound footing for all who pass.  The walls are left unfinished, though a few
+torches have been forced into some of the many cracks.  Their flickering light
+bounces off the damp walls creating strange shadows.  Water drips monotonously
+from stalactites that have formed on the ceiling.  An unpleasant rusty smell
+fills the warm, stale air.    
+~
+111 8 0 0 0
+D0
+~
+~
+0 0 11161
+D3
+~
+~
+0 0 11168
+S
+#11170
+A Room of Great Pain and Suffering~
+   In the very center of this dank, smelly room is a long table with two giant
+cranks attached at either end, more commonly known as the rack.  Attached to
+the flat laying surface are six spiked rollers, designed to tear away flesh as
+the victim is slowly, agonizingly stretched over a long period of time.  An
+acrid odor reminiscent of ammonia and chlorine permeates the air, stinging your
+eyes and nose.  A small steel bucket hangs above the table dripping some acidic
+formula.  When a victim is on the rack, this acid eats away at skin, muscle and
+tissue as they are being stretched adding to their pain and agony.  As it is
+now, it splatters off of the table, stinging your flesh where it touches.  A
+holding cell lies to the southeast.    
+~
+111 524360 0 5 0
+D0
+~
+~
+0 0 11162
+D4
+~
+~
+0 0 11172
+D9
+   A thick oak door reinforced with banded steel bars the way into this cell.
+There are no openings on this door other than the keyhole.    
+~
+door~
+1 11162 11174
+S
+#11171
+A Dank Cell~
+   Used to push prisoners beyond the brink of insanity, this cell is extremely
+small, and seems to be designed for specific prisoners in mind.  Unlike the
+other cells the walls of this small room bear crude tapestries depicting
+Mishakal engaged in obscene acts, or more often than not her downfall.  Rusty
+iron manacles are bolted to the back wall of the room to hold prisoners up
+during interrogation or torture, and hanging opposite from it is a desecrated
+steel breastplate once bearing the symbol of Mishakal.  The cell itself is
+vermin infested and filled with human excrement from those who have been left
+here to die.  The many cockroaches and spiders that scurry across the floor
+serve as the only source of food for anyone looking to prolong their stay, and
+water drips down the filthy wall to form small puddles.    
+~
+111 262216 0 0 0
+D6
+   A thick oak door reinforced with banded steel bars the way into this cell.
+There are no openings on this door other than the keyhole.    
+~
+door~
+1 11162 11162
+S
+#11172
+An Observation Deck~
+   Originally intended to allow guards to keep an eye on prisoners, these
+observation decks have become host to a rather macabre pastime.  A number of
+people flock to these observation decks to watch the great horrors that
+transpire below.  Granted, it is still possible to watch the prisoners from
+this vantage point, but few who gather here pay any mind to the cells.  Wooden
+benches have been set here and, oddly enough, tables bearing snacks.  Hanging
+from the ceiling, just in front of the deck, is a steel bucket with a
+funnel-shaped bottom.  A small rope extends from the partially opened cover at
+the base of the funnel to the deck's railing.  Observers can use this rope to
+further open the mouth of the funnel.    
+~
+111 72 0 0 0
+D5
+~
+~
+0 0 11170
+D7
+~
+~
+0 0 11164
+S
+#11173
+An Underground Riverbed~
+   Appearing to have been forgotten for generations, all that remains of the
+river that must have carved these caverns is a thin putrid stream.  The narrow
+trickle of water still flows along its ancient bed.  Barely resembling what
+anyone would call water, the murky flow has a sickening greenish tint to it,
+presumably from sediment it has collected on its journey westward.    
+~
+111 32776 0 0 0
+D6
+~
+~
+0 0 11165
+D7
+~
+~
+0 0 11166
+S
+#11174
+A Dank Cell~
+   Used to push prisoners beyond the brink of insanity, this cell is extremely
+small.  It has a low ceiling so that no one within can stand to full height,
+not even a kender.  It is pitch black, without even the faintest hint of light.
+The prisoner locked in this room receives absolutely no human contact.  It is
+vermin infested and filled with human excrement from those who have been left
+here to die.  The many cockroaches and spiders that scurry across the floor
+serve as the only source of food for anyone looking to prolong their stay.  
+Water drips down the filthy wall and forms small puddles.  The monotonous drip
+is completely unnerving in this otherwise silent environment.    
+~
+111 104 0 0 0
+D6
+   A thick oak door reinforced with banded steel bars the way into this cell.
+There are no openings on this door other than the keyhole.    
+~
+door~
+1 11162 11170
+S
+#11175
+A Pile of Rotting Corpses~
+   This huge natural rock cavern is completely immersed in darkness and has
+been turned into a mass grave, with skeletons and corpses or every race and
+size heartlessly discarded here.  Most of the bodies in this area are long
+since decayed, and several types of mold and slime grow abundantly, testament
+to the fact that few come here anymore.  A cold sense of dread hangs over the
+place, as if you are being watched very closely.    
+~
+111 73 0 0 0
+D0
+~
+~
+0 0 11142
+D3
+~
+~
+0 0 11176
+S
+#11176
+A Pile of Rotting Corpses~
+   This huge natural rock cavern is completely immersed in darkness and has
+been turned into a mass grave, with skeletons and corpses or every race and
+size heartlessly discarded here.  Most of the bodies in this area are long
+since decayed, and several types of mold and slime grow abundantly, testament
+to the fact that few come here anymore.  A cold sense of dread hangs over the
+place, as if you are being watched very closely.    
+~
+111 73 0 0 0
+D0
+~
+~
+0 0 11177
+D1
+~
+~
+0 0 11175
+D7
+~
+~
+0 0 11142
+S
+#11177
+A Mass Grave of Decayed Corpses~
+   This huge natural rock cavern is completely immersed in darkness and has
+been turned into a mass grave, with skeletons and corpses or every race and
+size heartlessly discarded here.  Most of the bodies in this area are long
+since decayed, and several types of mold and slime grow abundantly, testament
+to the fact that few come here anymore.  A cold sense of dread hangs over the
+place, as if you are being watched very closely.    
+~
+111 73 0 0 0
+D0
+~
+~
+0 0 11178
+D1
+~
+~
+0 0 11142
+D2
+~
+~
+0 0 11176
+D7
+~
+~
+0 0 11141
+S
+#11178
+A Pile of Long Decayed Corpses~
+   This huge natural rock cavern is completely immersed in darkness and has
+been turned into a mass grave, with skeletons and corpses or every race and
+size heartlessly discarded here.  Most of the bodies in this area are long
+since decayed, and several types of mold and slime grow abundantly, testament
+to the fact that few come here anymore.  A cold sense of dread hangs over the
+place, as if you are being watched very closely.    
+~
+111 73 0 0 0
+D1
+~
+~
+0 0 11141
+D2
+~
+~
+0 0 11177
+D9
+~
+~
+0 0 11142
+S
+#11179
+Steps Leading down to an Abandoned Temple~
+   These once white marble steps lead to an abandoned temple.  Now fully
+immersed in water the only way to reach the walkway beyound is to swim down
+along them.  Slime and debris covers the warped white stone structure that can
+be seen beyond the walkway.    
+~
+111 104 8 5 0
+D4
+~
+~
+0 0 11159
+D5
+~
+~
+0 0 11180
+S
+#11180
+Walkway Leading into the Temple~
+   This walkway runs across the courtyard, leading into an abandoned temple.  
+Intricately carved columns are erected on both sides, casting watery shadows on
+the cold, once white marble floor.  A long dead garden can be seen on either
+side of the walkway.  Its plants now drowned by enveloping water.  Where once
+worshipers must have visited this temple for healing or protection, now all
+that remains is the sight of corruption and decay.    
+~
+111 104 8 5 0
+D0
+~
+~
+0 0 11181
+D4
+~
+~
+0 0 11179
+S
+#11181
+An Underwater Alcove~
+   Through the muck and filth of the water surrounding you can be made out a
+large alcove flanked by two enormous marble columns.  The columns are in bad
+condition, being chipped and discolored from age and the surrounding waters,
+and seem somehow foreboding.  At the back of the alcove stands a large set of
+double doors.  These once shining golden doors are now blackened and are
+covered with innumerable molds, fungus and scum.  Large pull rings have been
+attached to pull them open.    
+~
+111 104 8 1 0
+D0
+   These double doors were once beautiful gold, but now are twisted and
+blackened.  They are covered with many molds, fungus and scum.    
+~
+doors doubledoors~
+1 0 11182
+D2
+~
+~
+0 0 11180
+S
+#11182
+Temple Entrance~
+   This was once a magnificient hall made of white stones.  The stones
+corrupted by time and water, are now blackened and covered with mould.  A
+sickly green light penetrates the cracked and broken, glass dome above you.  
+Broken marbles in dull colors spreads across the hallway that branches north,
+east and west.  A large, golden double doors lies to the south it too has seen
+the effects of the surrounding waters and it is tarnished to the point of
+appearing green.    
+~
+111 262248 8 1 0
+D0
+~
+~
+0 0 11183
+D1
+~
+~
+0 0 11186
+D2
+~
+doors~
+1 0 11181
+D3
+~
+~
+0 0 11185
+S
+#11183
+The Center Aisle~
+   Swimming along the center aisle in the temple that leads to the altar to the
+north.  The floor is made of dull and cracked broken marbles that blend with
+the dirty and blackened stone walls.  To the west and east are long, oaken pews
+that were once filled with worshippers who would have prayed to the goddess of
+this place.  Sickly green light streams through the glass dome above, casting
+nauseating shadows on the muck strewn floors.    
+~
+111 104 0 0 0
+D0
+~
+~
+0 0 11184
+D1
+~
+~
+0 0 11188
+D2
+~
+~
+0 0 11182
+D3
+~
+~
+0 0 11187
+S
+#11184
+Dais at the Center of the Altar~
+   Standing on what was once the most sacred and holy floor of the temple, a
+statue of a woman in flowing robes occupies the middle of the dais.  This
+horrifying piece of work stares blankly ahead, an expression of pain and
+bitterness carved on its cracked features.  Waves of darkness flow out from the
+statue causing fear and panic in even the most stout hearted.  The once white
+walls have been torn and scratched by massive talons.  Also, chests scatter the
+floor, their contents spilling into the muck and debris.    
+~
+111 524393 8 1 0
+D2
+~
+~
+0 0 11183
+S
+T 11184
+#11185
+Among the Pews~
+   The oaken pews would have been at one time filled with people, praying to
+the goddess of this temple.  The seats are now cracked and warped by the waters
+and what was once small cushions are now mere scraps of fabric drifting along
+the floor.  Ahead is the main altar of the temple, and standing in the middle
+is a marble statue of a woman.  Waves of darkness seem to emit from the
+blackened and corrupted statue.    
+~
+111 104 8 1 0
+D1
+~
+~
+0 0 11182
+S
+#11186
+Among the Pews~
+   The oaken pews would have been at one time filled with people, praying to
+the goddess of this temple.  The seats are now cracked and warped by the waters
+and what was once small cushions are now mere scraps of fabric drifting along
+the floor.  Ahead is the main altar of the temple, and standing in the middle
+is a marble statue of a woman.  Waves of darkness seem to emit from the
+blackened and corrupted statue.    
+~
+111 104 8 1 0
+D3
+~
+~
+0 0 11182
+S
+#11187
+Among the Pews~
+   The oaken pews would have been at one time filled with people, praying to
+the goddess of this temple.  The seats are now cracked and warped by the waters
+and what was once small cushions are now mere scraps of fabric drifting along
+the floor.  Ahead is the main altar of the temple, and standing in the middle
+is a marble statue of a woman.  Waves of darkness seem to emit from the
+blackened and corrupted statue.    
+~
+111 104 8 1 0
+D1
+~
+~
+0 0 11183
+S
+#11188
+Among the Pews~
+   The oaken pews would have been at one time filled with people, praying to
+the goddess of this temple.  The seats are now cracked and warped by the waters
+and what was once small cushions are now mere scraps of fabric drifting along
+the floor.  Ahead is the main altar of the temple, and standing in the middle
+is a marble statue of a woman.  Waves of darkness seem to emit from the
+blackened and corrupted statue.    
+~
+111 104 8 1 0
+D3
+~
+~
+0 0 11183
+S
+#11190
+Amongst the Trees of the Grove~
+   The leaves are beginning to fall off the trees here and drift slowly
+downwards where they have started to form a thick layer.  The shrubs and
+thickets growly sparsely, rambling over the uneven ground and adding to the
+thick layer of vegetation and dead leaves lining the ground.  The leaves and
+vegetation at your feet seems to have been recently disturbed, and the glint of
+metal can be seen beneath a thin pile of leaves.    
+~
+111 32768 3 0 0
+D1
+   A large area of thorny brambles and bushes grow amongst the base of the
+trees here, and the appear as if they have been trampled through recently.    
+~
+bushes brambles bush~
+1 0 1824
+D5
+   Below a layer of hastily scattered branches, leaves and other vegetetation
+from the forest floor can just barely be seen an old wooden trapdoor.  Two
+small iron pullrings are attached, allowing the doors to be pulled outwards.  
+
+~
+trapdoor metal branches branch vegetation~
+1 0 11191
+E
+metal~
+   Taking a closer look reveals an iron pull ring attached to a trapdoor.  The
+trapdoor has been partially hidden under the debris.    
+~
+S
+#11191
+A Dank, Stale Passage~
+   The walls of this passage are made of natural stone, and slightly slanting
+passage floor is made of dirt.  All along the walls and scattered about the
+floor are tiny bits of refuse.  The air in the passage is stale and dank, and
+the smell of sweat and uncleansed bodies reeks pervasively.    
+~
+111 32776 0 0 0
+D4
+   This old trapdoor is weathered and worn by age and the elements, and is none
+too sturdy.  Two iron pull rings are mounted toward the center, allowing for
+the door to be pulled shut from the inside.    
+~
+trapdoor~
+1 0 11190
+D5
+~
+~
+0 0 11192
+S
+#11192
+A Small, Smelly Room~
+   This small room is part of a natural cave, the walls being craggy grey rock.
+The dirt floor of this small room is littered with trash and debris, and the
+smell of stale sweat and rank body odor hits you full force.  In the center of
+the room is a small wooden table, and a few small chairs.  It is covered with
+half-eaten food and grime, and looks to be the main eating area of this place.
+  
+~
+111 32776 0 0 0
+D0
+   This is a shoddily made, warped wooden door with an iron pull ring.    
+~
+door~
+1 0 11193
+D1
+~
+~
+0 0 11194
+D4
+~
+~
+0 0 11191
+S
+#11193
+A Small Alcove~
+   This tiny alcove is only large enough to accomadate two human sized people,
+and has been utilized as a sleeping room.  Straw and pines needles from the
+forest above have been spread on the dirt floor to make a springy, comfortable
+bed.  The stale reek of sweat and body odor hangs in the air heavily, making
+you gag and clothes and other debris lie sacttered about haphazardly.  A
+makeshift wooden door has been attached to the opening for privacy.    
+~
+111 32776 0 0 0
+D2
+   This is a shoddily made, warped wooden door with an iron pull ring.    
+~
+door~
+1 0 11192
+S
+#11194
+A Small, Debris-Covered Room~
+   This small room is part of the natural cave, and has a dirt floor as with
+the rest of the dwelling.  Trash lies piled in the corners high enough to bury
+a kender in places, and smelly, soiled clothes are flung everywhere.  Odds and
+ends lie everywhere and in the center of the room someones meal lies
+unfinished, the goblet tipped over spilling it's contents.  A faint breeze
+carrying a slight smell of decay comes from the east.    
+~
+111 32776 0 0 0
+D1
+   This small crack runs the length of the wall.  It could be widened with
+alittle work to allow passage beyond.    
+~
+crack~
+1 0 11165
+D3
+~
+~
+0 0 11192
+S
+$~

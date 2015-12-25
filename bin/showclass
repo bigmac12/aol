@@ -1,0 +1,17 @@
+#!/bin/sh
+
+CL="$1"
+export CL
+
+./showplay ../lib/etc/players	|\
+	grep -v "38 ${CL}"	|\
+	grep -v "37 ${CL}"	|\
+	grep -v "36 ${CL}"	|\
+	grep -v "35 ${CL}"	|\
+	grep -v "34 ${CL}"	|\
+	grep -v "33 ${CL}"	|\
+	grep -v "32 ${CL}"	|\
+	grep -v "31 ${CL}"	|\
+	grep -v "0 ${CL}"	|\
+	sort -gn +5
+

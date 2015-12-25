@@ -1,0 +1,433 @@
+#7700
+black  robed archmage~
+a black robed archmage~
+A black robed archmage sits at her desk.
+~
+   Sitting behind a large desk, a black robed archmage scowls as you enter the
+room.  Her body, what you can see of it from behind the rune covered robes, is
+a sickly white and is almost skeletal in nature.  This apparrent physical
+weakness is offset by the aura of power which radiates from her.  She peers at
+you with cold black eyes as you glance about the room.  Her gaze seems to
+pierce to your inner most being.    
+~
+524810 0 2097152 -500 E
+13 13 3 6d5+240 2d9+2
+200 6625 1
+6 6 2 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#7701
+apprentice mage~
+an apprentice mage~
+An apprentice mage is cleaning the mansion.
+~
+   A young, obviously inexperienced apprentice mage busily scurries about the
+home ensuring that everything remains clean and in order.  Her robes are dark
+brown in color with a grey rope cord wrapped snugly around her waist.  Several
+pockets and pouches dangle from the belt containing various spell components
+and also cleaning supplies.  As she passes you she glances up in irritation as
+you track dirt through the room.    
+~
+524296 0 2 0 E
+10 14 6 5d4+160 2d7+2
+100 1900 1
+8 8 2 0
+Maxmove: 50
+E
+#7702
+visiting mage~
+a visiting mage~
+A visiting mage sits here relaxing.
+~
+   A tired man sits behind a small reading desk relaxing from his long journey.
+He has not even had a chance to remove his heavy travelling clothes.  He smiles
+briefly as his eyes scan the papers he has strewn across the desk.  Perhaps
+they are personal letters of some sort, but you cannot tell at this distance.
+When the mage looks up at your entry, he quickly stuffs the papers inside the
+folds of his cloak.    
+~
+524298 0 2097153 0 E
+13 13 3 6d5+240 2d9+2
+203 6625 1
+6 6 1 0
+Maxmove: 50
+E
+#7704
+enormous black bear~
+an enormous black bear~
+An enomormous black bear rumbles along the trail.
+~
+   An enomormous black bear rumbles along the trail, sniffing for food in the
+underbrush.  The creature is quite large, standing at least five feet tall at
+its shoulder.  Of particular interest is its beautifully thick and shiny coat
+of fur.  It is obviously quite a healthy and robust beast to have such a coat.
+It pauses briefly and rears up on its hind legs to sniff this new unknown scent
+in the air.    
+~
+8 0 0 0 E
+10 14 6 5d4+160 2d7+2
+93 1900 0
+8 8 0 0
+BareHandAttack: 9
+SkinData0: 7702
+Maxmove: 50
+E
+#7705
+armed bandit~
+an armed bandit~
+An armed bandit slinks about.
+~
+   A short quick man dressed in an armored leather vest is standing here with a
+wicked grin on his face.  The bandit group has infiltrated the entire forest
+and it is this mans job to patrol this area.  Judging by his overall
+appearance, it is likely he did not travel far from the groups hideout to get
+here, as his boots and clothes look clean and well maintained.  As you approach
+he eyes your weapons and gear greedily.    
+~
+136 262144 0 0 E
+10 14 6 5d4+160 2d7+2
+91 1900 3
+8 8 1 0
+Maxmove: 50
+E
+#7706
+nervous boar~
+a nervous boar~
+A nervous boar sniffs the air.
+~
+   Charging down the path on its squat little legs, a large and nervous boar
+stops suddenly in its tracks as it sees you blocking its way.  It grunts and
+its tusks flash brightly, almost blinding you, as it swings its head back and
+forth to get a better look at this intruder to its domain.  Bowing its head,
+the beast braces itself for a charge.    
+~
+8 0 0 0 E
+11 14 5 5d4+190 2d8+2
+98 2900 0
+8 8 0 0
+BareHandAttack: 4
+SkinData0: 7703
+Maxmove: 50
+E
+#7707
+muscular goblin~
+a muscular goblin~
+A muscular goblin thrashes through the brush.
+~
+   Goblins have always been hideously ugly and generally quite stupid.  This
+creature is no exception to the rule.  However, the one advantage it has over
+its kin are the huge muscles which ripple across its body as it moves loudly
+down the trail.  The goblin has learned to use its great strength rather
+effectively, in the same manner a skilled fighter would use a powerful weapon.
+With its long claws, this creature simply tears apart its opponents.    
+~
+8 0 0 0 E
+12 13 4 5d6+210 2d8+3
+105 4700 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#7708
+injured bandit~
+an injured bandit~
+An injured bandit lies in bed.
+~
+   A small thin man lies in a bed, his face a mask of horrible pain.  Sweat
+pours down his face and low moans escape his pale lips.  As you enter the room
+he turns his head slightly and you see an edge of madness in his eyes.  The
+bandit tries to rise but cannot get past a sitting position.  It is only then
+you realize he has a deadly fever.    
+~
+10 2048 0 0 E
+10 14 6 5d4+160 2d7+2
+92 1900 4
+8 8 0 0
+Maxmove: 50
+E
+#7709
+bandit guard~
+a bandit guard~
+A bandit guard is leaning against the wall resting.
+~
+   The guard is bored and half asleep.  The hideout is so well concealed there
+is virtually no need for guards at all.  However, caution and prudence ensure
+longevity and this man has drawn the much despised guard duty.  He leans
+against the wall with his eyes closed, his head bowed to his chest, and his
+armed folded.  Fortunately he is completely unaware that you have entered the
+room as he appears to be a capable fighter.    
+~
+10 0 0 0 E
+13 13 3 6d5+240 2d9+2
+216 6625 4
+5 5 1 0
+Maxmove: 50
+E
+#7710
+tired bandit~
+a tired bandit~
+A tired bandit sits here resting.
+~
+   Having just completed her patrol of the forest, ther bandit has returned to
+the hideout for a well deserved rest.  Dust stil clings to her hair and clothes
+as he appears far too exhausted to have the energy to clean up.  The bandit has
+begun to set up a table for a game of bones with some friends.  As well, her
+occasionally sips from a mug of ale she keeps very close to her person.    
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+97 2900 4
+5 5 2 0
+Maxmove: 50
+E
+#7711
+leader bandit roalf~
+the leader of the bandits~
+Roalf, the leader of the bandits, admires her weapons.
+~
+   Roalf, the leader of the bandits group, is an intelligent, charismatic and
+irrascable woman who enjoys fine wine and attractive men.  Another of her
+passions is the collection of unusual weapons, and the walls of this private
+office reflect this passion, as they are covered with an odd assortment of
+items.  Roalf smiles broadly when you enter, thinking you are a friend.  
+Seeing strangers she grabs for a weapon quickly.    
+~
+42 0 0 0 E
+13 13 3 6d5+240 2d9+2
+212 6625 4
+8 8 2 0
+BareHandAttack: 11
+Maxmove: 50
+E
+#7713
+shade guardian~
+the shade of a guardian of the tomb~
+The shade of a guardian of the tomb stands here watching silently.
+~
+   The shade of a guardian of the tomb stands here watching silently.  It wear
+plate mail armor of the deepest black color.  Atop its head is a skull shaped
+helm with a large crimson plume flowing from it.  Staring into its face you can
+see nothing but two glowing red eyes looking back at you.    
+~
+251914 0 0 -500 E
+13 13 3 6d5+240 2d9+2
+216 6625 3
+8 8 0 0
+Maxmove: 50
+E
+#7714
+pair eyes disembodied~
+a pair of disembodied eyes~
+A pair of disembodied eyes stare at you malevolently.
+~
+   A pair of disembodied eyes hover here, staring at you malevolently.  There
+is nothing around them to give you any indication as to whether there is a body
+there somewhere.  As you move to the side to try to get around them the eyes
+move with you, blocking your path.    
+~
+9037882 1064 2097152 -500 E
+13 13 3 6d5+240 2d9+2
+0 6625 1
+8 8 0 0
+BareHandAttack: 12
+Maxmove: 50
+E
+#7716
+lich black~
+a lich in tattered black robes~
+A lich in tattered black robes shuffles along the path.
+~
+   A lich in tattered black robes shuffles along the path, searching for blood
+to fill the strange orb she holds in her hand.  Her robes, which were beautiful
+and lavish at one time, hand off her frail thin carcass in shards.  Deep
+crimson, almost black in color the robe clings to her evicerated body so that
+you can almost see her ribcage through them.  She bends down to pick up a small
+frog.  She stands, a smile on her face as she squeezes the blood from the
+hapless creature into her orb.    
+~
+524296 0 2097153 -500 E
+15 11 1 5d10+300 2d8+4
+404 8400 1
+8 8 2 0
+BareHandAttack: 12
+SkinData0: 46
+Maxmove: 50
+E
+#7717
+snarling wolf~
+a snarling wolf~
+A snarling wolf stalks its prey.
+~
+   A snarling wolf stalks its prey silently.  It is a huge beast, almost pure
+white in color, and with glowing red eyes which gaze deep into your soul.  It
+pads sleathily down the trail, looking for unsuspecting people who might have
+ventured too far into the forest.  Hearing the snap of a twig, it turns
+suddenly and states at you, a wicked grin on its face.    
+~
+2104 1024 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#7718
+venomous snake~
+a venomous snake~
+A venomous snake coils to strike.
+~
+   A large venomous snake coils its powerful body, preparing to strike.  It
+raises its long head, which sways back and forth slightly, and its forked
+tongue flicks in and out as it tests the air.  A low hiss escapes its mouth as
+the creature slithers ever closer to you.  Soon it will be close enough to be
+in striking range.    
+~
+9 0 0 0 E
+11 14 5 5d4+190 2d8+2
+0 2900 0
+8 8 0 9
+BareHandAttack: 4
+Maxmove: 50
+E
+#7719
+patrolling bandit~
+a patrolling bandit~
+A patrolling bandit scans the area.
+~
+   A patrolling bandit scans the area, looking for travellers to rob.  By the
+looks of this man, the bandit group has been doing quite well.  His weapons and
+armor are all well maintained and functional looking.  Also, his personal
+appearance is more than presentable.  He could easier pass himself off as a
+normal member of society.  However, when he sees you coming down the path he
+reaches for his sword and proceeds to block your way.    
+~
+8 0 0 0 E
+11 14 5 5d4+190 2d8+2
+96 2900 0
+8 8 1 0
+Maxmove: 50
+E
+#7720
+skeletal figure~
+a skeletal figure~
+A skeletal figure shuffles about aimlessly.
+~
+   A skeletal figures shuffles about aimlessly.  About its body are the
+tattered remenants of various bits of clothing.  As you approach it it looks up
+slowly and it is almost possible to detect a maniacal grin on its skeletal
+face.  The creature raises a bony finger and beackons you closer.    
+~
+1220620 1024 0 0 E
+15 11 1 5d10+300 2d8+4
+409 8400 10
+8 8 0 0
+BareHandAttack: 8
+SkinData0: 7713
+Maxmove: 50
+E
+#7721
+grotesque corpse ~
+a grotesque corpse~
+A grotesque corpse shuffles about.
+~
+   The undead creature lives a life of perpetual agony.  Its eyes, as they peer
+to look at, reflect the horror of its life.  The tattered clothing of its
+former existence still cling to its rotting flesh.  From the look of it, this
+creature was once a nobleman of some importance.  However, those days are long
+gone, and it now looks to you to relieve its pain.    
+~
+8 1032 0 0 E
+12 13 4 5d6+210 2d8+3
+104 4700 10
+8 8 0 0
+Maxmove: 50
+E
+#7722
+ghostly form~
+a ghostly form~
+A ghostly form floats along hovering above the ground.
+~
+   A ghostly form inditinguishable in the gloom floats along hovering above the
+ground searching for prey.  As you approach the figure you can hear a soft
+pitiful crying come from within it.  This soul has been wrenched from its
+earthly body and is now forced to roam the land forever repenting for its
+unknown sins.    
+~
+8 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+91 1900 10
+8 8 0 0
+Maxmove: 50
+E
+#7724
+bandit thief~
+a bandit thief~
+A bandit thief skulks about.
+~
+   You barely catch a glimpse of this bandit as she runs by.  Dressed all in
+tight fitting black clothes, she is rather attractive looking.  However she
+would just as soon put a dagger in your back as meet you in a tavern for an
+ale.  Her hands reach out as she flies by and you feel something go missing
+from your pelt.  Looking down you realize she has stolen your money pouch.    
+~
+137 262144 0 0 E
+10 14 6 5d4+160 2d7+2
+93 1900 4
+8 8 2 6
+BareHandAttack: 11
+Maxmove: 50
+E
+#7725
+shade guardian~
+the shade of a guardian of the tomb~
+The shade of a guardian of the tomb patrols the area.
+~
+   The shade of a guardian of the tomb patrols the area.  It wears plate mail
+armour of the deepest black color.  Atop its head is a skull shaped helm with a
+large crimson plume flowing from it.  Staring into its face you can see nothing
+but two flowing red eyes looking back at you.    
+~
+55816 0 0 0 E
+13 13 3 6d5+240 2d9+2
+222 6625 0
+8 8 0 0
+Maxmove: 50
+E
+#7726
+ghostly statue warrior~
+the statue of a long dead warrior~
+The ghostly statue of a long dead warrior stands here.
+~
+   The ghostly statue of a long dead warrior stand here.  The design and
+construction of the statue is so incredibale you could almost believe it is
+alive.  It wears midnight blue armor and carries both a shield and sword.  The
+shield bears the same crest as the door outside and the sword is a massive
+longsword with a blade blade.  Atop the head of the statue is a helm with a
+large crimson plume.    
+~
+253962 128 0 0 E
+13 13 3 6d5+240 2d9+2
+234 6625 0
+8 8 0 0
+Maxmove: 50
+E
+#7727
+visiting mage~
+a visiting mage~
+A visiting mage sits here relaxing.
+~
+   A tired man sits behind a small reading desk relaxing from his long journey.
+He has not even had a chance to remove his heavy travelling clothes.  He smiles
+briefly as his eyes scan the papers he has strewn across the desk.  Perhaps
+they are personal letters of some sort, but you cannot tell at this distance.
+When the mage looks up at your entry, he quickly stuffs the papers inside the
+folds of his cloak.    
+~
+524298 0 6 0 E
+13 13 3 6d5+240 2d9+2
+218 6625 0
+8 8 0 0
+Maxmove: 50
+E
+$

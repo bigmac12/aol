@@ -1,0 +1,359 @@
+#4409
+vile black leech~
+a vile, black leech~
+A vile, black leech erupts from the water.
+~
+   A black leech suddenly erupts from the water.  The enormous rubbery, black
+body reaches for you.  Covered with the slime from the thick water of the pool.
+His dark under belly has a sandy texture, gritty and rough.  His mouth can be
+seen at one end.  A small opening with hundreds of diminutive sharp teeth.  As
+it attacks you hear a grotesque sucking sound.    
+~
+1115978 1034 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4410
+dark figure~
+a dark figure~
+A dark figure hurries to get away.
+~
+   A suspicious dark figure is here, hurrying to get away.  Sweat pours
+profusely from his small frame.  He is covered with fresh blood of a recent
+fight.  Struggling with the weight of a wooden chest, he stops.  His beady eyes
+notice your presence.  He signals his companions to hurry.    
+~
+4170 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+Maxmove: 50
+E
+#4413
+enraged minotaur~
+an enraged minotaur~
+An enraged minotaur, hides in the underbrush.
+~
+   With a loud, booming crash an enormous bullish figure comes smashing through
+the dense underbrush.  His horns are deep red with the stain of blood from a
+previous fight.  Brown fur covers his large muscular build.  Anger shows in his
+eyes as he swings a massive black sword in your direction.    
+~
+1052458 1032 0 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 0
+8 8 1 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#4416
+ogre scout~
+an ogre scout~
+An ogre scout scans the forest.
+~
+   This large brownish figure scans the forest.  He lifts his immense head to
+the air.  The big nose on his pointy face flares with the scent of danger.  
+The teeth in his drooling mouth are yellowed and rotten.  Clad in leather
+armor, his muscular figure is a grotesque sight.    
+~
+12 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#4422
+old hermit~
+an old hermit~
+An old hermit is resting here
+~
+   Sitting here is a gaunt, dirty, disheveled man.  His hair, matted and face
+unshaven.  By his odor he has gone unbathed for several months.  He wears a
+tattered cloak over a soiled loincloth and rough leggings.  Worn sandals are
+strapped to his dust covered feet.    
+~
+74 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+5 5 1 0
+Maxmove: 50
+E
+#4430
+small child~
+a small child~
+A small child sits here fishing
+~
+   A small orge boy sits patiently fishing.  His yellow skin is covered only by
+a small, fur loincloth.  His gangly legs hang freely over the edge of the dock.
+The string from his stick pole dangles lazily in the dark water.  As you watch,
+he hums innocently hoping for a bite.    
+~
+4170 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+6 6 1 0
+Maxmove: 50
+E
+#4431
+old guard~
+a bored, old guard~
+A bored, old guard stands watch.
+~
+   The hard life of a soldier shows in the face of the old guard.  His reflexes
+are not what they used to be as age has set in.  He is now confined to this
+scant room watching for intruders or escaping prisoners.  His mind lapses back
+to the days of his youth and a good battle.    
+~
+1054730 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#4432
+sleeping guard~
+a sleeping guard~
+A sleeping guard snores away.
+~
+   This guard is covered in a filthy old fur to fight off the dampness.  His
+large body is too big for the cot, and his feet dangle over its edge.  He is
+dressed only in a long, cloth undershirt and he snores profusely, mumbling as
+he turns over.  Perhaps he is dreaming of his favorite girl.    
+~
+74 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+4 4 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#4433
+master jail~
+an jail master~
+A jail master is here, fiddling with his keys.
+~
+   A short overweight ogre stands here dressed in drab clothing.  He pays you
+no mind as his attention is set on searching for a particular key on a large
+key ring he holds in his hand.  He looks up, startled, as you approach.    
+~
+3145802 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#4437
+executioner~
+an executioner~
+An executioner stands here, whipping a captive.
+~
+   A rather large ogre stands here, clad all in black.  His face is covered by
+a black hood allowing only his cold dark eyes to be exposed.  In his thick
+hands, he wields a long leather whip.  When he notices your presense, a smile
+can almost be made out under his hood.    
+~
+3145818 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+800 25000 3
+8 8 1 0
+BareHandAttack: 2
+Maxmove: 50
+E
+#4438
+kobold captive~
+a kobold captive~
+A kobold captive lays here, half dead.
+~
+   A small creature lies here strapped to a large wooden table.  Several large
+gashes can be seen covering its rodent like features.  Its tan, scaly skin is
+colored red from blood which oozes from several open wounds.  Sad, dark eyes
+full of fear gaze in your direction hoping for help.    
+~
+74 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+2 3 1 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4446
+kobold scavenger~
+a kobold scavenger~
+A kobold scavenger watches your every move.
+~
+   Two beady eyes glow like a bright red spark.  Its dark, scaly skin is
+covered with torn, tattered rags.  Small ivory horns stick out the top of its
+pointy head.  A round, rat-like tail curls behind its small body.  Cowardly, it
+scurries about, watching your every move.    
+~
+4104 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#4447
+rat~
+a large rat~
+A large rat scurries about.
+~
+   A creature with an elongated body sits here with his furless tail curled
+around itself.  Its triangular face is set with two, tiny onyx eyes that glare
+viciously at you.  Its whiskers twitch with anticipation of a tasty meal.  The
+four razor-like claws scrape along the stony floor as it approaches you.    
+~
+67464 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 1 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#4459
+ugly troll~
+an ugly troll~
+An ugly troll jumps from under the bridge.
+~
+   A hideous creature jumps from underneath the old bridge.  The large nimble
+body quickly places himself in front of you.  His green, rubbery skin is
+covered with wart-like bumps.  Long, greasy strands of black hair sprout from
+its oversized skull.    
+~
+1050698 0 0 0 E
+20 6 -4 3d20+600 3d7+6
+800 25000 0
+8 8 1 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#4472
+ogre shaman~
+an ogre shaman~
+Concentrating, an Ogre Shaman stands here incanting over a cauldron.
+~
+   Deep in concentration, a light blue skinned ogre stands here.  His face
+distorts and his arms flail about with each line of an incantation.  His
+brightly colored apparel hangs loosely from his large body.  White teeth and
+tusks are a sharp contrast to the darkened room.    
+~
+526410 128 20975656 0 E
+24 6 -8 3d33+750 4d6+8
+1234 68000 1
+8 8 1 0
+BareHandAttack: 12
+Maxmove: 50
+E
+#4480
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#4481
+kobold leader~
+a kobold leader~
+A kobold leader stands here, rummaging through supplies.
+~
+   A rather large kobold stands here.  Scales, rusty in color, cover its obese
+features.  Small horns protrude between two pointy ears and his beady eyes glow
+red.  As he turns to confront you his unusual weapon can be seen.    
+~
+1048682 1024 0 0 E
+20 10 -7 1d1+440 1d4+8
+900 25000 3
+8 8 1 0
+BareHandAttack: 1
+Maxmove: 50
+E
+#4486
+villager~
+a villager~
+A villager stands here holding a large pot.
+~
+   A villager is here going about her daily chores.  Her lanky body is covered
+in animal pelts and sweat beads on her brow as she carries large ceramic pots
+filled with water.  Her eyes are constantly alert, watching the children play
+about.    
+~
+1050636 1024 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 2 0
+Maxmove: 50
+E
+#4488
+ogre woman~
+an ogre woman~
+An ogre woman stands here preparing dinner.
+~
+   A tall thin form leans over a small stone pot.  Sweat drips from her as heat
+from the hearth rises.  Slowly stirring, the contents of the pot starts to
+bubble.  A sweet aroma fills your nostrils.  "Time for supper" she yells.    
+~
+1048650 1024 0 0 E
+15 12 -2 1d1+325 1d3+5
+700 8400 0
+8 8 2 0
+Maxmove: 50
+E
+#4490
+chieftain~
+the village chieftain~
+The village chieftain sits here.
+~
+   A fat oversized ogre sits lazily in his chair.  Crumbs of bread lie on his
+food stained shirt.  Saliva, food and ale run grotesquely off his double chin.
+He gulps ale thirstily from a tankard held in a large pudgy hand.  In the other
+is a leg of roasted meat.    
+~
+3170378 33686528 0 0 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 3
+6 6 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+T 4490
+#4491
+ogre woman~
+an ogre woman~
+An ogre woman stands here preparing dinner.
+~
+   A tall thin form leans over a small stone pot.  Sweat drips from her as heat
+from the hearth rises.  Slowly stirring, the contents of the pot starts to
+bubble.  A sweet aroma fills your nostrils.  "Time for supper" she yells.    
+~
+1048650 132096 0 0 E
+15 12 -2 1d1+325 1d3+5
+700 8400 0
+8 8 2 0
+Maxmove: 50
+E
+#4492
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+$

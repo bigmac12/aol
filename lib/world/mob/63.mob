@@ -1,0 +1,334 @@
+#6300
+haggard old sea captain~
+a haggard, old sea captain~
+A haggard old sea captain reviews over the ships log.
+~
+   Heavy wrinkles and deep set eyes mar the appearance of what would have once
+been a very handsome man.  Years at sea in the service of the navy has made him
+old at too early an age, the sun baking his skin thick and puffy.  He carefully
+straightens out his uniform as he slowly scans over the documents written up
+about his latest voyage and prepares to write the report for the admiralty.  
+~
+10 0 0 0 E
+9 15 7 5d5+130 2d7+1
+81 1300 0
+8 8 1 0
+BareHandAttack: 3
+E
+#6301
+ship ships navigator~
+the ships navigator~
+The ships navigator looks over some maps. 
+~
+   The short man barely seems to notice the presence of anyone else in the
+room.  He glances up quickly then turns his attention back to the many maps and
+charts that are littered about over the tables in front of him.  With his hat
+off it can be seen that he has gone mostly bald, contrasting with the thick
+beard which has been carefully trimmed to navy regulations.  His uniform is
+still buttoned up to the neckline, though not tucked into his belt.    
+~
+10 0 0 0 E
+6 17 10 2d5+70 2d5+2
+36 175 0
+8 8 1 0
+BareHandAttack: 13
+E
+#6302
+young mate~
+a young mate~
+A young mate with a mop cleans the decks.
+~
+   This young man works intently on his menial task and quietly whistles a tune
+to try to occupy his mind and pass the day with a minimum of boredom.  He has
+been recruited only recently and his uniform is disheveled and ill fitting,
+passed along to him from some previous crew member.  The pants have been pulled
+up past his knees to keep them dry and wears thin rag, tied tightly over his
+head in the manner of all of the above decks crew to keep off the sun.    
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+3 13 0
+8 8 1 0
+E
+#6303
+purser~
+the purser~
+The purser sits quietly at her desk.
+~
+   A quiet and fastidious woman busies herself with a multitude of paperwork
+and financial documents.  Although in charge of the payment of the crew at the
+end of the voyage, she also is Karthay's representative to foreign governments
+for trade deals.  Over the long voyage and many ports of call, many provisions
+and trade deals were established leaving a mess of bureaucratic filing and
+reports to be presented.    
+~
+10 0 0 0 E
+3 19 13 1d5+25 1d6+1
+6 25 0
+8 8 2 0
+E
+#6304
+old military cook~
+an old military cook~
+An old military cook is putting away his utensils. 
+~
+   An overpowering scent of salt wafts off of the body of this veteran of the
+navy.  His long presence out at sea and the vast amounts of salt used in his
+preparation of food have tainted his clothes and hair so that he himself smells
+of brine.  The stub of a burned out cigar dangles precariously from his mouth
+as he scrubs a large stew pot, his hands and uniform filthy from the effort of
+cleaning the galley.    
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+21 85 0
+8 8 1 0
+E
+#6305
+bosun~
+the bosun~
+The bosun is cleaning up and preparing for leave.
+~
+   A short, stocky man rushes abut the room with a gleeful look on his face.  
+Quickly throwing every possession he has into a large sack without attempting
+to pack it at all, he is obviously overwhelmed with the opportunity to leave
+the ship and go drinking at one of his favorite bars.  He is dressed in a
+fashion that may have been popular a decade ago, but he has not had the time to
+keep up with the trends and it doesn't look like he cares anyway.    
+~
+10 0 0 0 E
+5 17 11 2d5+65 2d5+0
+23 85 0
+8 8 1 0
+BareHandAttack: 13
+E
+#6306
+first mate~
+the first mate~
+The first mate stands quietly overseeing the work.
+~
+   Unmoved by the general commotion happening all about the ship, the first
+mate remains on duty and at her post preparing to maintain the skeleton crew on
+board during repairs.  The picture of strength and responsibility as she stands
+formally with her hands clasped behind her back, this young woman who has
+already achieved a rank beyond her years will likely become the youngest
+captain in the navy within the next few years.    
+~
+10 0 0 0 E
+6 17 10 2d5+70 2d5+2
+36 175 0
+8 8 2 0
+BareHandAttack: 13
+E
+#6307
+elven tourist~
+an elven tourist~
+An elven tourist excitedly tours the open ship.
+~
+   Now that the ship has come into dock, it has been opened up for any
+interested citizens to board and tour.  This elf is part of a group that was
+eagerly waiting on the dock to gain entrance so they could see it first.  His
+clothes seem to be that of a visiting businessman, fine but not too garish
+though they are a little inappropriately light given the slight chill of air
+that blows onto the decks from the open harbor.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+4 25 0
+8 8 1 0
+BareHandAttack: 4
+E
+#6308
+pilot~
+the pilot~
+The pilot calmly minds his station.
+~
+   The pilot stands at the ready behind the large wheel of the ship.  Although
+in port, it is still his duty to mind the wheel in case of an emergency.  It
+looks however, from the longing look in his eyes, that he would rather not have
+been selected to stay on board during the refit.  As a senior crew member he
+wears a dark grey tunic and pants with a small, brimmed hat that only barely
+manages to cover his balding head and sunburned scalp.    
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+18 85 0
+8 8 1 0
+BareHandAttack: 13
+E
+#6309
+drunken crewman~
+a drunken crewman~
+A drunken crewman has started his leave a bit too early.
+~
+   Released from duties earlier today, this crewman is already on the verge of
+losing consciousness from the consumption of rum.  His clothes are stained and
+wrinkled as he stumbles about lucky to not fall overboard or be seen by the
+captain.  It looks as though he is trying to find the gangway and debark the
+ship for his leave but cannot remember the way in his stupor.  He burps loudly
+and trips over a rope laying on the deck.    
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 1 0
+BareHandAttack: 13
+E
+#6310
+grey pelican~
+a grey pelican~
+A grey pelican is perched nearby.
+~
+   This bird is almost comical in its strange appearance.  Being very clumsy on
+land it waddles awkwardly to a perch and sits down.  A huge pouch that
+stretches almost to its feet hangs down from below its long beak as it jerks
+its head back and forth, attempting to swallow what appears to be a newly
+caught fish from the harbor.  It has long, greyish-white feathers and small,
+webbed feet which are strangely out of proportion with the rest of its body.  
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+2 7 0
+8 8 0 0
+BareHandAttack: 4
+E
+#6311
+skinny rat~
+a skinny rat~
+A skinny rat quickly skitters through the shallow water.
+~
+   This rat chose the wrong ship to board and paid for that mistake with a lack
+of food that has lasted for months.  It is thin and emaciated, using some of
+its last remaining energy to try to run away into the darkness from you.  
+There is fur missing in numerous places, evidence of scraps with other rats
+over the meager supply of food that they were able to steal from the galley.  
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 0 0
+E
+#6312
+ships carpenter~
+the ships carpenter~
+The ship's carpenter wanders about assessing damage.
+~
+   Now that the ship has come into port, the ship's carpenter is about to start
+an even heavier period of work repairing the damage that was unaccessible while
+at sea.  Notebook in hand she wanders about the lower decks looking at any
+damage that may be visible on the interior of the hull.  Her hands are heavily
+calloused and scraped and her hair has been cropped very short so as to keep
+out of the way while she works.    
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+17 85 0
+8 8 2 0
+E
+#6313
+ships officer~
+a ships officer~
+An officer of the navy is beginning to fold up his uniforms. 
+~
+   A stoic and refined man labors to carefully place his uniforms in a carrying
+bag.  A series of black tattoos run swirling symmetrical patterns across his
+face, deep enough that it is nearly impossible to determine what his original
+appearance what may have been.  He is dressed in his informal clothes though
+these He is dressed in his informal clothes though these too are immaculately
+pressed and clean, befitting a man of his rank and stature amongst the
+population.    
+~
+10 0 0 0 E
+7 16 9 3d5+85 2d6+1
+48 400 0
+8 8 1 0
+E
+#6314
+member galley crew~
+a member of the galley crew~
+A member of the galley crew cleans up after a meal.
+~
+   Performing one of the dirtiest and most thankless jobs on the ship, a weary
+looking man slowly wipes down the tables after one of the crew's meals.  He is
+covered in scraps of food and smells very poorly, being trapped down below in
+the galley for the majority of every day.  It cannot be determined whether he
+has been granted leave or not given his attitude, but it is definite that he is
+going to go quickly to bed once his shift helping the cook is over.    
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+4 7 0
+8 8 1 0
+E
+#6315
+scout~
+a scout~
+A scout looks out over the city of Karthay.
+~
+   High above the ships deck and out of view of and of the senior staff, the
+sailor has chosen to settle in for a bit of a rest and lays against the side of
+the mast.  She wears a thick set of spectacles, her eyes strained beyond their
+limit after years of staring through binoculars to scan the horizon for
+approaching enemy ships.  Despite her lazy attitude, she does turn to take in
+an appreciative view of her home city, it having been months since she has been
+in port.    
+~
+10 0 0 0 E
+4 18 12 1d5+45 1d8+1
+8 50 0
+8 8 2 0
+E
+#6316
+member guncrew~
+a member of the guncrew~
+A member of the gun crew is cleaning a cannon.
+~
+   Amidst the loud sounds of scraping, a member of the gunnery crew works hard
+to clean his cannon.  Covered in black soot from the barrel of the cannon, the
+crewman pushes a long metal brush down its interior to try to deburr any
+imperfections caused by the heavy use they have seen on this voyage.  Across
+his face he has tied a thick scarf to try to cut down on inhaling the heavy
+fumes and dust that linger in the interior spaces around the gunwales.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+6 25 0
+8 8 1 0
+E
+#6317
+tired sailor~
+a tired sailor~
+A tired sailor is stowing his belongings.
+~
+   The look of disappointment and anguish is almost unbearable to look at as he
+angrily stuffs his clothes and belongings back into his small locker at the
+foot of his bed.  It appears as though he had already packed for his leave
+which was just recently canceled and he has been forced to continue on and work
+for another couple of weeks.  His long, brown hair has been tied into a tight
+braid that extends halfway down his back and ends in a small, metallic black
+pin.    
+~
+10 0 0 0 E
+0 20 10 1d1+0 1d1+0
+10 0 0
+8 8 1 0
+E
+#6318
+mage military uniform~
+a mage in a military uniform~
+A mage in a military styled robe tests the air with her hands.
+~
+   One of the most feared officers on board the vessel is this young woman.  
+She wears a short, black robe that has been styled to fit the uniforms of the
+Karthay navy, though her insignia indicates her to be part of some special
+department.  As she holds up her arms, light burns are visible that stretch
+past her hands and up into the sleeves of her robe.  Gazing intently at the
+sky, she seems to be attempting to discern some unknown quantity in the clouds
+that is not readily apparent.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+71 800 0
+8 8 2 0
+E
+$

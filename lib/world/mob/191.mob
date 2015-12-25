@@ -1,0 +1,36 @@
+#19150
+slug huge creature~
+a huge slug-like creature~
+A huge slug-like creature tests the air with waving tentacles.
+~
+   This grey mottled slug-beast is nearly four feet in length, with six
+glistening feelers protruding from its head.  As these antennae notice your
+scent, it turns toward you, revealing a wide dripping mouth.  The flicking of
+its tail and irate twitching of its grimy skin suggest that it is not pleased
+by your intrusion.  The slug's entire body drips with the same slime that
+litters the floor of this area.    
+~
+253962 134217768 0 0 E
+25 5 -9 3d33+850 4d6+8
+5000 87000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#19151
+insect spiny barbs large~
+the large spiny insect~
+A large spiny insect with barbs on its legs scuttles along the floor.
+~
+   This breed of insect has obviously flourished here in this dark environment,
+judging by its size.  Its body is about the size of a man's foot, but the way
+it quivers its long thin legs makes it seem a lot bigger.  Hair-like antennae
+tremble as it tests the subtle air currents.  Sharp barbs adorn the back two
+pairs of legs, and there is a little hooked claw at the end of each leg.    
+~
+8 0 0 0 E
+13 13 3 6d5+240 2d9+2
+200 6625 0
+8 8 0 0
+BareHandAttack: 1
+E
+$

@@ -1,0 +1,1604 @@
+#4500
+Hylo Square~
+   This is the main square of Hylo.  A fountain, full of water, rests in the
+exact center of the square.  A tall oak tree, providing great shade, gros next
+to the fountain.  Main Street leads east and west, while Taunt Street to the
+north and Druid Way to the south lead further into the forest city.  Many
+kender and travelers pass by the fountain, going about their business, often
+stopping to take a drink from the crystal clear water in the famous fountain of
+Hylo.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4501
+D1
+~
+~
+0 0 4520
+D2
+~
+~
+0 0 4527
+D3
+~
+~
+0 0 4533
+S
+#4501
+Taunt Street~
+   A pebble strewn path leads to a large building far north, and Hylo Square to
+the south.  Large oak trees spread their boughs over the street, providing
+shade and shelter.  The path is composed entirely of dull, lifeless looking
+pebbles, all the interesting ones having long since passed into the pockets of
+various kender.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4502
+D2
+~
+~
+0 0 4500
+D3
+~
+~
+0 0 4538
+S
+#4502
+Taunt Street~
+   A pebble strewn path leads to a large building to the north, and to Hylo
+Square to the south.  To the east Common Avenue begins.  Large oak trees spread
+their boughs over the path, providing shade and shelter.  The path is composed
+entirely of dull, lifeless looking pebbles, as the interesting ones having long
+since passed into the pockets of various kender.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4503
+D1
+~
+~
+0 0 4511
+D2
+~
+~
+0 0 4501
+S
+#4503
+Before a Large Building~
+   A pebble strewn path leads to a large wooden building.  The building is made
+from logs of the surrounding forest, and is quite large.  Above the door, in
+several languages, is a message stating that this is the town hall of Hylo.  
+Various kender pass in and out of the door, some in a frenzied conversation,
+other examining some newfound treasure.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4504
+D2
+~
+~
+0 0 4502
+S
+#4504
+A Large Forum~
+   This is the heart of Hylo's government.  All the citizens come here when
+they feel like being involved in politics.  The kender have a chaotic form of
+government called an omnigarchy in which every citizen, and sometimes
+non-citizens, have an equal say.  It is here that they come when they feel like
+saying what they have to say.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4507
+D1
+~
+~
+0 0 4506
+D2
+~
+~
+0 0 4503
+D3
+~
+~
+0 0 4505
+S
+#4505
+Debate Room~
+   This is a small, more private room where kender go to discuss their
+political ideas.  The wall is covered with a carving that shows the world of
+Krynn.  Kender mill about, talking excitedly and exchanging small items
+constantly, mostly maps.  Many kender look at the carving and plan great
+adventures in far off lands.    
+~
+45 0 0 0 0
+D1
+~
+~
+0 0 4504
+S
+#4506
+Debate Room~
+   This is a small, more private room where kender go to discuss their
+political ideas.  The walls are lined with carvings depicting great kender
+victories.  Some kender look at the carvings and simply sit here and dream of
+or remember adventures in places far off.    
+~
+45 0 0 0 0
+D3
+~
+~
+0 0 4504
+S
+#4507
+Behind a Large Building~
+   To the south is a large wooden building.  A door leads from the building to
+this small clearing.  A huge tree grows in the middle of the clearing.  A
+carpet of leaves covers the ground, so that one makes slight crunching noises
+as one moves.    
+~
+45 0 1 0 0
+D2
+~
+~
+0 0 4504
+D4
+~
+~
+0 0 4508
+S
+#4508
+Midway Up the Tree~
+   Branches extend outwards from the trunk of the tree.  A particularly broad
+branch provides a place to rest for those climbing the tree.  Through the
+branches a building can be seen a little distance to the south.    
+~
+45 0 1 0 0
+D4
+~
+~
+0 0 4509
+D5
+~
+~
+0 0 4507
+S
+#4509
+At the Tree Top~
+   This is about as far up as one can safely climb the tree.  A branch to the
+east has some sort of structure built onto it, while handholds carved into the
+trunk of the tree lead down into the thick branches.  The view from here is
+pretty good, but several large branches obscure it in several places.  It looks
+as if one could get a really good view of the surroundings over to the east.  
+
+~
+45 0 1 0 0
+D1
+~
+~
+0 0 4510
+D5
+~
+~
+0 0 4508
+S
+#4510
+Lookout~
+   A platform has been built on this branch.  One has a clear view from up here
+of all surroundings.  This particular tree is higher than its fellows in the
+forest, so that one can look out over the tops of the tree and see the ocean to
+the east and the mountains to the west.  Some strange devices are mounted on
+the side of the platform.    
+~
+45 0 1 0 0
+D3
+~
+~
+0 0 4509
+S
+#4511
+Common Avenue~
+   This is little more than a gravel path, yet it is highly travelled by the
+denizens of Hylo.  Tall trees grow beside, and in, the path, providing shade
+and protection from the wind and the rain.  Kender houses, built in the very
+trunks of the trees themselves, line the way.  Many of them sport locks of all
+sorts, which seem to serve no purpose at all, as they provde no barrier to any
+of the kender.  Amazingly, the trees in which the houses are made seem to still
+be alive.    
+~
+45 0 1 0 0
+D1
+~
+~
+0 0 4512
+D3
+~
+~
+0 0 4502
+S
+#4512
+Common Avenue~
+   This is little more than a gravel path, yet it is highly travelled by the
+denizens of Hylo.  Tall trees grow beside, and in, the path, providing shade
+and protection from wind and rain.  To the north a door leads into a tree.  
+Small windows with curtains are cut at intervals around the trunk of the tree,
+which has been decorated with various carvings.  Somehow despite all this, the
+tree has managed to stay alive.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4513
+D2
+~
+~
+0 0 4514
+D3
+~
+~
+0 0 4511
+S
+#4513
+A Common Home~
+   This is a common kender home.  Junk of every imaginable sort is strewn
+around, in no discernable order.  A sturdy table and several mismatched chairs
+are pushed into the corner.  Odds and ends from the four corners of the world
+line shelves on the walls.  Several different types of curtains hang in the
+windows, which look as if they originally were meant for other windows, as they
+are somewhat the wrong size for the windows they are in.    
+~
+45 0 0 0 0
+D2
+~
+~
+0 0 4512
+S
+#4514
+Common Avenue~
+   This is little more than a gravel path, yet it is highly travlled by the
+denizens of Hylo.  Tall trees grow beside, and in, the path, providing shade
+and protection from the wind and rain.  The salty scent of the sea is carried
+along by a breeze coming from the east along with the faint sounds of sailors
+shouting.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4512
+D1
+~
+~
+0 0 4515
+S
+#4515
+Common Avenue~
+   This is little more than a gravel path, yet it is highly travelled by the
+denizens of Hylo.  Tall trees grow beside, and in, the path, providing shade
+and protection from wind and rain.  To the east are the docks of Hylo, while to
+the west Common Avenue continues.  This street is most commonly used by the
+kender sailors who work on the docks, although occassionally some poor, utterly
+lost adventurer will wander along here until he finds a landmark he recognizes.
+  
+~
+45 0 1 0 0
+D1
+~
+~
+0 0 4516
+D3
+~
+~
+0 0 4514
+S
+#4516
+The Docks of Hylo~
+   Sturdily constructed, this part of the docks is meant for large seagoing
+ships to dock at.  These ships bring the goods and news from the rest of the
+world, and invariably leave taking several kender driven by wanderlust.  
+Presently, there are no ships docked.  From the sails that can be seen out in
+the bay this will most likely soon change however.    
+~
+45 0 1 0 0
+D2
+~
+~
+0 0 4517
+D3
+~
+~
+0 0 4515
+S
+#4517
+The Docks of Hylo~
+   Sturdily constructed, these docks serve to moor the small fishing vessels of
+the residents of Hylo.  Fishing must be a lucrative venture here, as the boats
+that have recently docked are loaded with fish.  To the west, the boards of the
+dock end and the stone cobbled Main Street begins, leading further westwards.
+  
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4516
+D2
+~
+~
+0 0 4521
+D3
+~
+~
+0 0 4518
+S
+#4518
+Main Street~
+   This is the only stone cobbled street in Hylo.  It links the docks that are
+to the east with the rest of the town.  Colorfully dressed kender dart to and
+fro, up and down the street, while more conservative races merely walk.  The
+faintly pugnent smell of salt water mixes with the scent of pine, a combination
+at once both think yet rather refreshing.    
+~
+45 0 1 0 0
+D1
+~
+~
+0 0 4517
+D3
+~
+~
+0 0 4519
+S
+#4519
+Main Street~
+   This is the only stone cobbled street in Hylo.  It runs to the east and
+west, under the tall and majestic trees of the forest that Hylo is built in.  
+The docks can barely be seen to the east, full of bustling activity, while to
+the west the famed fountain of Hylo can be seen at the center of the forest
+city.    
+~
+45 0 1 0 0
+D1
+~
+~
+0 0 4518
+D3
+~
+~
+0 0 4520
+S
+#4520
+Main Street~
+   This is the only stone cobbled street in Hylo.  It runs to the east and
+west, under the tall and majestic trees of the forest that Hylo is built in.  
+To the west one can see the famous fountain at the city center.  The cool shade
+provided by the trees, along with the faint bubbling of water from the fountain
+make this a soothing spot to sit down and rest, and indeed, many kender can be
+seen at the sides of the street relaxing under the trees.    
+~
+45 0 1 0 0
+D1
+~
+~
+0 0 4519
+D3
+~
+~
+0 0 4500
+S
+#4521
+The Docks of Hylo~
+   Sturdily constructed, these docks serve to moor the small fishing vessels of
+the residents of Hylo.  Fishing seems to be a lucrative venture here, as the
+boats that have recently docked are loaded with with fish.  Most of the boats
+are docked to the north.  A few old kender lounge around this part of the dock
+fishing.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4517
+D3
+~
+~
+0 0 4522
+S
+#4522
+Feather Street~
+   The trees in this part of the forest town of Hylo are full of all kinds of
+birds.  Many nests can be seen high up in the trees.  Feathers from the birds
+lie on the forest floor, which accounts for the name of this path.  Kender come
+here all the time, to look at all the birds, and to collect their feathers.  
+Occasionally a loud squak can be heard, as a kender plucks a feather from a
+bird high up in the trees.    
+~
+45 0 1 0 0
+D1
+~
+~
+0 0 4521
+D2
+~
+~
+0 0 4523
+S
+#4523
+Feather Street~
+   The trees in this part of the forest town of Hylo are full of all kinds of
+birds.  The birds chip merrily and seem quite accustomed to two-legged
+creatures of all kinds.  Small kender children find the birds great playmates,
+and often climb high in the trees to observe the birds.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4522
+D3
+~
+~
+0 0 4524
+S
+#4524
+Feather Street~
+   The trees in this part of the forest town of Hylo are full of all kinds of
+birds.  The birds chirp merrily and seem quite accustomed to two-legged
+creatures of all kinds.  Small kender children find the birds great playmates,
+and often climb high in the trees to observe the birds in the nests.  Of
+course, the birds do not always appreciate this, as the kender usually leave
+with something a bird has pocketed away in its nest, and thus there is an
+almost continual chorus of outraged squacks from the birds in the trees.  
+Still, the birds are used to it, and the kender rarely get hurt.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4525
+D1
+~
+~
+0 0 4523
+S
+#4525
+Feather Street~
+   The trees in this part of the forest town of Hylo are full of all kinds of
+birds.  The birds chirp merrily and seem quite accustomed to two-legged
+creatures of all kinds.  Many nests dot the higher branches of the trees, and
+the path is covered with old feathers.  The birds here are a lot less noisy
+than their neighbours to the south.    
+~
+45 0 1 0 0
+D2
+~
+~
+0 0 4524
+D3
+~
+~
+0 0 4526
+S
+#4526
+Feather Street~
+   The trees in this part of the forest town of Hylo are full of all kinds of
+birds.  The birds chirp merrily and seem quite accustomed to two-legged
+creatures of all kinds.  Many nests dot the higher branches of the trees, and
+the path is covered with old feathers.  Several songbirds are singing their
+songs, which somehow blend together with the wind whistling through the
+uppermost branches of the trees to form a song full of harmony and idyllic
+restfullness.    
+~
+45 0 1 0 0
+D1
+~
+~
+0 0 4525
+D3
+~
+~
+0 0 4527
+S
+#4527
+Druid Way~
+   All of the plants in this part of the forest are thriving.  A small dirt
+path leads to the south, where the forest is even more vibrant.  To the north,
+through the trees, the fountain in Hylo Square can be seen.  From the east
+drifts the piercing cries of songbirds.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 4500
+D1
+~
+~
+0 0 4526
+D2
+~
+~
+0 0 4528
+S
+#4528
+Druid Way~
+   All of the plants in this part of the forest are thriving.  The trees reach
+far into the sky, green boughs providing shade and shelter.  Leaves and pine
+needles provide a blanket for the forest floor, except for where the small
+trail meanders through the trunks of the trees.    
+~
+45 0 0 0 0
+D0
+~
+~
+0 0 4527
+D2
+~
+~
+0 0 4529
+S
+#4529
+Druid Grove~
+   The plants in this part of the forest seem vibrantly alive.  A small circle
+of silvery elm trees grows here in an almost perfect circle and are perfectly
+unblemished.  To the south an even more secluded part of the forest can be
+seen.    
+~
+45 0 0 0 0
+D0
+~
+~
+0 0 4528
+D2
+~
+~
+0 0 4530
+S
+#4530
+Secluded Forest~
+   This part of the forest looks well tended, yet almost none of the denizens
+that one finds in the other parts of the town venture here.  A sense of quiet
+nature pervades the area, a calm broken only by the melodic chirping of birds.
+~
+45 0 0 0 0
+D0
+~
+~
+0 0 4529
+D1
+~
+~
+0 0 4531
+S
+#4531
+Secluded Forest~
+   This part of the forest looks well tended, yet almost none of the denizens
+that one finds in the other parts of the town venture here.  A sense of quiet
+nature pervades the area, a calm broken only by the melodic chirping of birds.
+This area appears to serve as a place of queit meditation for the druids of
+Hylo.    
+~
+45 0 0 0 0
+D2
+~
+~
+0 0 4532
+D3
+~
+~
+0 0 4530
+S
+#4532
+Forest Altar~
+   A small mound of earth rises from the forest floor.  Fresh leaves and pine
+needles provide a soft carpet for the mound, and on the very top is a small
+stone altar, with softly molded contours blending into the backround of the
+forest.    
+~
+45 0 0 0 0
+D0
+~
+~
+0 0 4531
+S
+#4533
+Main Street~
+   This is the only stone cobbled street in Hylo.  It runs to the east and
+west, under the tall and majestic trees of the forest that Hylo is built in.  
+The faint bubbling of water can be heard from the east, which must be the famed
+fountain of Hylo at the city center.  A breeze blowing from the east brings the
+tangy scent of the sea, which lies beyond the fountain.    
+~
+45 0 0 0 0
+D1
+~
+~
+0 0 4500
+D3
+~
+~
+0 0 4534
+S
+#4534
+Main Street~
+   This is the only stone cobbled street in Hylo.  It runs to the east and
+west, under the tall and majestic trees of the forest that Hylo is built in.  
+Pine and oak trees provide a canopy of limbs, resulting in a deep shade.  They
+also obscure most of the city from direct sight, so that one would have to know
+quite well in order to be able to get where one is going.    
+~
+45 0 0 0 0
+D1
+~
+~
+0 0 4533
+D3
+~
+~
+0 0 4535
+S
+#4535
+Main Street~
+   This is the only stone cobbled street in Hylo.  It runs to the east and
+west, under the tall and majestic trees of the forest that Hylo is built in.  
+To the north is Taunt Street.  The way to the west is quite blocked by a briar
+of blackberry bushes.  Unfortunately, some kender children recently passed this
+way, and there are no ripe blackberries left on the bushes.    
+~
+45 0 0 0 0
+D0
+~
+~
+0 0 4536
+D1
+~
+~
+0 0 4534
+S
+#4536
+Taunt Street~
+   Taunt Street twists its way through the trunks of the trees.  It is very
+sinuous, and because of this it is quite easy to get lost on.  To the south is
+the Main Street of Hylo.  A strange black path can be seen to the west.    
+~
+45 0 0 0 0
+D1
+~
+~
+0 0 4537
+D2
+~
+~
+0 0 4535
+D3
+~
+~
+0 0 4540
+S
+#4537
+Taunt Street~
+   Taunt Street twists its way through the trunks of the trees.  It is very
+sinuous, and because of this it is quite easy to get lost on.  To the north the
+forest takes on a rather dingy look.  Most of the traffic avoids whatever is to
+the north, even the kender.  This is rather unusual, as the kender in this city
+are usually just about everywhere one looks.    
+~
+45 0 0 0 0
+D1
+~
+~
+0 0 4538
+D3
+~
+~
+0 0 4536
+S
+#4538
+Taunt Street~
+   Taunt Street twists its way through the trunks of the trees.  It is very
+sinuous, and because of this it is quite easy to get lost on.  Fortunately,
+there are gnomish street signs showing the way to various destinations.    
+~
+45 0 0 0 0
+D1
+~
+~
+0 0 4501
+D3
+~
+~
+0 0 4537
+S
+#4540
+A Black Path Through The Forest~
+   A black path begins here and leads northward.  It is a very strange path.  
+The trees in this part of the forest are covered with small carvings of
+machines.  To the east Taunt Street can be seen.    
+~
+45 0 0 0 0
+D0
+~
+~
+0 0 4541
+D1
+~
+~
+0 0 4536
+S
+#4541
+The Black Path Through The Forest~
+   A very strange path runs from the south to north here.  The trees in this
+part of the forest are covered with small carvings of machines, and there is a
+constant racket, consisting of whistles, rumbles and squeaks mostly, coming
+from the north.    
+~
+45 0 0 0 0
+D2
+~
+~
+0 0 4540
+D3
+~
+~
+0 0 4542
+S
+#4542
+A Gnomish Laboratory~
+   All sorts of scientific equipment and building materials are strewn about
+tables and benches within the laboratory.  Gadgets of all sorts take up most of
+what is left of the cramped quarters.  The walls are made of thick stone, which
+here and there bear the black mack of some explosion or another, some of which
+look to have occured quite recently.    
+~
+45 0 0 0 0
+D1
+~
+~
+0 0 4541
+S
+#4550
+A Dark Hallway~
+   This is a simple stone corridor, bereft of decoration.  It is quite narrow,
+allowing for perhaps two people to walk abreast.  The corridor is very dark,
+the only light coming from a single sputtering torch set in a sconce on the
+wall.  Because of the stone and lack of light, it is rather cool along this
+stretch of corridor, enough so to possibly chill those dressed less
+conservatively.  A set of three oaken doors can be seen further southeast in
+the gloom.    
+~
+45 264 0 0 0
+D6
+~
+~
+0 0 6542
+D9
+~
+~
+0 0 4551
+S
+#4551
+A Dark Hallway~
+   The corridor ends here before three thick, steel-banded oaken doors.  Each
+has a heavy lock set into it, and it looks as though it would take quite the
+concentrated effort to get into the rooms behind them should they be locked.  
+Generally, these doors are left unlocked however, and on the other side lie
+sleeping chambers for visitors needing accomodations.  The area is lit by
+torches set into iron sconces on the walls.    
+~
+45 8 0 0 0
+D6
+~
+~
+0 0 4550
+D7
+~
+door~
+1 0 4552
+D8
+~
+door~
+1 0 4553
+D9
+~
+door~
+1 0 4554
+S
+#4552
+A Sleeping Chamber~
+   This room is just large enough to accomodate one occupant comfortably, as
+far as sleeping arrangements are concerned.  The walls, ceiling, and floor are
+all made of dull grey stone and are bereft of decoration.  A small cot lies
+against one wall, with a shabby looking nightstand set next to it.  A chest,
+little more than a pine box really, lies at the foot of the cot for the
+occupant of the room to store their belongings.  A torch set into a wall sconce
+near the door provides the rooms only light.    
+~
+45 264 0 0 0
+D8
+~
+door~
+1 0 4551
+S
+#4553
+A Sleeping Chamber~
+   This room is just large enough to accomodate one occupant comfortably, as
+far as sleeping arrangements are concerned.  The walls, ceiling, and floor are
+all made of dull grey stone and are bereft of decoration.  A small cot lies
+against one wall, with a shabby looking nightstand set next to it.  A chest,
+little more than a pine box really, lies at the foot of the cot for the
+occupant of the room to store their belongings.  A torch set into a wall sconce
+near the door provides the rooms only light.    
+~
+45 264 0 0 0
+D7
+~
+door~
+1 0 4551
+S
+#4554
+A Sleeping Chamber~
+   This room is just large enough to accomodate one occupant comfortably, as
+far as sleeping arrangements are concerned.  The walls, ceiling, and floor are
+all made of dull grey stone and are bereft of decoration.  A small cot lies
+against one wall, with a shabby looking nightstand set next to it.  A chest,
+little more than a pine box really, lies at the foot of the cot for the
+occupant of the room to store their belongings.  A torch set into a wall sconce
+near the door provides the rooms only light.    
+~
+45 264 0 0 0
+D6
+~
+door~
+1 0 4551
+S
+#4555
+A Large, Extravagant Parlor Room~
+   This room is lavishly furnished, and appears to be a parlor room of sorts.
+The floors are covered with expensive rugs imported from Tarsis, and very
+fine-quality tapestries hang the walls.  The room is well-lit by adjustable
+iron lanterns, hanging from settings in the ceiling.  Several low, padded
+leather sofas lie scattered about the room and look quite comfortable.  Placed
+near each are small tables of mahogany, some of them with bottles of liquor set
+atop them.  A cabinet filled with a variety of liquor also sits against the
+eastern wall, a dart board placed upon the wall opposite it.  A pleasant scent
+fills the air, reminiscent of spiced apples.  A decorated oak door lies to the
+north, while a door seemingly made of the wall itself lies to the southeast.  
+~
+45 25165832 0 0 0
+D0
+A decorated oak door, it's fairly thick.
+~
+door~
+1 0 4561
+D9
+   This stone wall has a wrought iron door handle set in it, though there
+appears to be no door.  It looks a bit odd.    
+~
+wall~
+1 0 6568
+S
+#4556
+A Dark Hallway~
+   The halls here are scarcely lit by a few smoldering torches.  These provide
+only enough light to keep people from tripping over things, or running into
+walls.  The halls are slightly chilly and kind of damp; indeed, small puddles
+spot the ground every few paces.  In areas where there are worse leaks, buckets
+have been placed to keep it from getting too bad.    
+~
+45 8 0 0 0
+D1
+~
+~
+0 0 4557
+D3
+~
+~
+0 0 6572
+S
+#4557
+A Dark Hallway~
+   The halls here are scarcely lit by a few smoldering torches.  These provide
+only enough light to keep people from tripping over things, or running into
+walls.  The halls are slightly chilly and kind of damp; indeed, small puddles
+spot the ground every few paces.  In areas where there are worse leaks, buckets
+have been placed to keep it from getting too bad.  Small, dimly lit rooms lie
+both to the south, and to the north.    
+~
+45 8 0 0 0
+D0
+~
+~
+0 0 4558
+D2
+~
+~
+0 0 4560
+D3
+~
+~
+0 0 4556
+S
+#4558
+A Chapel to Hiddukel, Prince of Lies~
+   This room is small, suitable for perhaps two or three people at a time.  It
+has been turned into a chapel or shrine and is in very good repair, unlike the
+hallways in this little community.  Likely, the management didn't want to
+offend their patron deities with shabby worship areas.  The room is lit by a
+pair of iron lanterns, set into the walls on either side of the room.  The only
+decorations in the room are a pair of tapestries hanging upon the walls, and
+the fine crimson rug which covers the floor of the chapel.  A small altar rests
+at the back of the room, an offering plate set atop it.    
+~
+45 8 0 0 0
+D2
+~
+~
+0 0 4557
+S
+#4559
+A Private Room in the Bar~
+   This spacious room has been turned into a private area for patrons, designed
+specifically for larger groups.  A comfortable padded bench has been built
+against the length of the walls, and a large sturdy table sits in the center of
+the room.  The room itself is sparsely decorated, the only noticeable addition
+being a small black tapestry hanging from each wall.  Iron fittings bearing
+lanterns have been set into the walls, providing adjustable light for the room.
+The only exit is a doorway in the southeast wall, from which hangs a black
+velvet curtain to provide some privacy.    
+~
+45 8 0 0 0
+D9
+Nothing.
+~
+curtain~
+1 0 6573
+E
+tapestry tapestries~
+   A small black tapestry made from silk, the only decoration it bears is a
+closed eye stitched with silver thread in its center.    
+~
+S
+#4560
+A Chapel to Shinare, Winged Victory~
+   This room is small, suitable for perhaps two or three people at a time.  It
+has been turned into a chapel or shrine and is in very good repair, unlike the
+hallways in this little community.  Likely, the management didn't want to
+offend their patron deities with shabby worship areas.  The room is lit by a
+pair of iron lanterns, set into the walls on either side of the room.  The only
+decorations in the room are a pair of tapestries hanging upon the walls, and
+the fine brown rug which covers the floor of the chapel.  A small altar rests
+at the back of the room, an offering plate set atop it.    
+~
+45 8 0 0 0
+D0
+~
+~
+0 0 4557
+S
+#4561
+A Large, Furnished Office~
+   Like the parlor room, this large office is nicely furnished and in good
+repair.  Also like the parlor, the stone floors have been covered with
+expensive Tarisian rugs.  The room is well lit at the moment, the light being
+provided by a set of iron lanterns hanging from settings in the stone ceiling.
+A large mahogany desk sits in the center of the room, covered with documents of
+various types.  Boris uses this room for business transactions, as well as for
+privacy.  The stones in the back wall of the office look to have been damaged
+by something at some point in their history, and a fine-quality tapestry has
+been hung over it in an attempt to spruce it up.  A decorated oak door is set
+into the west wall.    
+~
+45 262152 0 0 0
+D2
+~
+door~
+1 0 4555
+D3
+~
+door~
+1 0 6570
+E
+stones stone wall~
+   The stones at the back of the office here look to have been damaged severely
+at some point in their history, though the exact method is not able to be
+determined.  It appears to be a combination of scorching, as well as chipping
+due to some unknown object.  The stone has been cleaned since then, though the
+damage remains visible.  One stone in particular looks to have been damaged
+more than the others, indeed it bears a large pit directly in the center,
+amidst other small chips and pits.  It still looks alittle loose, and might
+come free of the wall with some negotiating.    
+~
+E
+tapestry~
+   This is a simple tapestry, though of fine quality.  It is crafted of black
+silk, and has been set with the design of a closed eye, stitched in silver
+threading.    
+~
+S
+#4562
+A Dark Hallway~
+   The halls here are scarcely lit by a few smoldering torches.  These provide
+only enough light to keep people from tripping over things, or running into
+walls.  The halls are slightly chilly and kind of damp; indeed, small puddles
+spot the ground every few paces.  In areas where there are worse leaks, buckets
+have been placed to keep it from getting too bad.    
+~
+45 8 0 0 0
+D0
+~
+~
+0 0 6542
+D2
+~
+~
+0 0 4563
+S
+#4563
+A Training Hall~
+   This room is quite large and well lit with iron braziers.  A worn and faded
+mat extends across the majority of the stone floor, showing signs of repair in
+a few places.  A variety of tools and weapons line the walls including rope,
+grappling hooks, sparring sticks, daggers, swords, and many other items.  Laid
+out upon a counter on one end of the room are several vials containing other
+useful tools such as weapon black and minor poisons.  A set of black iron
+chests line one wall, and matching keys hang upon hooks just above them.    
+~
+45 8 0 0 0
+D0
+~
+~
+0 0 4562
+S
+#4564
+The Kalaman Stables~
+   This is a fair-sized stables, with many enclosed stalls for holding ponies
+and stallions.  Travelers, as well as the citizens and Militia of Kalaman
+utilize these stables for just such a purpose.  Even a number of Knight's
+mounts can be found here, on occasion.  The smell of animals, hay, and other
+less pleasant odors floats through the air.  All in all it is well-maintained,
+and most folk would find these stables more than adequate place to stable their
+horses.    
+~
+45 0 1 0 0
+D0
+~
+~
+0 0 7007
+S
+#4565
+The Karthay Stables~
+   This is a fair-sized stables, with many enclosed stalls for holding ponies
+and stallions.  Travelers, as well as the citizens and merchants of Karthay
+utilize these stables for just such a purpose.  The smell of animals, hay, and
+other less pleasant odors floats through the air.  All in all it is
+well-maintained, and most folk would find these stables a more than adequate
+place to stable their mounts.    
+~
+45 0 1 0 0
+D1
+~
+~
+0 0 5099
+S
+#4580
+Inside a Tent~
+   What at first seemed to be a tent is actually, upon further inspection, a
+shelter made from the natural elements.  The canopy of low branches has been
+artfully woven together to form a ceiling, and the mosses underfoot create a
+lush carpeting upon which to rest.  A small saucer, filled with seed, attracts
+songbirds which sing a soothing melody.    
+~
+45 8 0 0 0
+D2
+~
+~
+0 0 4582
+S
+#4581
+A Druid Encampment~
+   The low canopy of branches overhead have been skillfully woven together to
+provide a bit of shelter for this area.  On the ground are several pots made
+from what appears to be dead stumps.  The stumps have been reclaimed for use as
+pots for new seedlings which are being carefully nurtured here.  A small shrine
+off to the side is ornamented with feathers and flower pots overflowing with
+fragrant blossoms.    
+~
+45 8 0 0 0
+D1
+~
+~
+0 0 4582
+S
+#4582
+A Druid Encampment~
+   Though this area has been somewhat cleared by the deforestation in this
+area, a few strong trees still stand.  It is under these trees that a small
+campsite has been erected.  The campers seem to have constructed it in such a
+way as to preserve its natural surroundings.  The remaining trees provide
+shelter from the elements and some privacy from the highway which runs to the
+west of this campsite.    
+~
+45 0 2 0 0
+D0
+~
+~
+0 0 4580
+D1
+~
+~
+0 0 7145
+D2
+~
+~
+0 0 7144
+D3
+~
+~
+0 0 4581
+S
+#4583
+An Over-Harvested Stretch of Mountainside~
+   This stretch of mountainside has the appearance of falling victim to the
+foul work of an evil magic users.  The ground is completely barren with not
+even a single tree in the area.  Though it appears to be the work of an errant
+fireball, the lumberjacks and mill workers in the area would seem to indicate
+that it is actually aggressive deforestation which has caused this affront to
+nature.    
+~
+45 4 5 0 0
+D1
+~
+~
+0 0 4590
+D2
+~
+~
+0 0 4586
+D3
+~
+~
+0 0 7145
+S
+#4584
+Amongst Some Freshly Planted Saplings~
+   A well-trodden path leads just off the highway.  The ground here appears to
+have been recently worked.  Though there are still some stumps serving as
+evidence of the heavy deforestation of these parts, some new saplings dot the
+ground providing hope for the future.  The recent plantings appear to be rather
+well taken care of and have taken root nicely.    
+~
+45 4 2 0 0
+D0
+~
+~
+0 0 7208
+D3
+~
+~
+0 0 4590
+S
+#4585
+An Over-Harvested Stretch of Mountainside~
+   This stretch of mountainside has the appearance of falling victim to the
+foul work of an evil magic users.  The ground is completely barren with not
+even a single tree in the area.  Though it appears to be the work of an errant
+fireball, the lumberjacks and mill workers in the area would seem to indicate
+that it is actually aggressive deforestation which has caused this affront to
+nature.    
+~
+45 0 5 0 0
+D0
+~
+~
+0 0 7145
+D1
+~
+~
+0 0 4586
+D2
+~
+~
+0 0 4587
+D3
+~
+~
+0 0 7144
+S
+#4586
+Amongst Some Freshly Planted Saplings~
+   A well-trodden path leads away from the highway.  The ground here appears to
+have been recently worked.  Though there are still some stumps serving as
+evidence of the heavy deforestation of these parts, some new saplings dot the
+ground providing hope for the future.  The recent plantings appear to be rather
+well taken care of and have taken root nicely.    
+~
+45 0 2 0 0
+D0
+~
+~
+0 0 4583
+D1
+~
+~
+0 0 4591
+D3
+~
+~
+0 0 4585
+S
+#4587
+Just off the Midland Highway~
+   This path leads off the highway along the mountainside.  It appears as
+though this area was once heavily forested, however now many of the trees that
+once graced the vicinity have been cleared away.  The ground underfoot seems
+scarred by the work of the lumberjacks who have deforested nearly this entire
+area.  Low stumps, surrounded by sawdust, serve as evidence to the work that
+has been done here recently.    
+~
+45 4 4 0 0
+D0
+~
+~
+0 0 4585
+D1
+~
+~
+0 0 4597
+D2
+~
+~
+0 0 4589
+D3
+~
+~
+0 0 7143
+S
+#4588
+Just Off the Midland Highway~
+   This path leads off the highway along the mountainside.  It appears as
+though this area was once heavily forested, however now many of the trees that
+once graced the vicinity have been cleared away.  The ground underfoot seems
+scarred by the work of the lumberjacks who have deforested nearly this entire
+area.  Low stumps, surrounded by sawdust, serve as evidence to the work that
+has been done here recently.    
+~
+45 4 5 0 0
+D1
+~
+~
+0 0 4589
+D3
+~
+~
+0 0 7142
+S
+#4589
+A Rough Path~
+   A rough path here leads off Midland Highway into the woods.  It seems
+to be well used but narrow.  Someone has used an axe perhaps to hew off
+the lower branches of the trees.  There are very few signs of wildlife
+amid the surrounding tall trees, and you can see an occasional boot mark
+in the soft dirt on the ground.
+~
+45 0 3 0 0
+D0
+~
+~
+0 0 4587
+D3
+~
+~
+0 0 4588
+D7
+   You can see a path made with no great care leading northeast.
+~
+~
+0 0 4597
+S
+#4590
+A Well-Trodden Path~
+   A dirt path here leads north to Merchants' Highway and south through a stand
+of tall trees.  The smell of freshly-cut lumber is in the air, and deep ruts in
+the wide path betray the fact that heavy carts have rolled past here recently.
+~
+45 4 3 0 0
+D0
+~
+~
+0 0 7207
+D1
+~
+~
+0 0 4584
+D2
+   A dirt path wide enough for large carts to pass leads south.    
+~
+~
+0 0 4591
+D3
+~
+~
+0 0 4583
+E
+south s~
+There is a lumbermill to the south.  You can smell the sawdust.
+~
+S
+#4591
+Near a Lumber Camp~
+   There are signs of heavy carts making their way over the ground here,
+impressions from their wheels leaving deep ruts in the dirt path.  A large area
+has been cleared to the south, and sounds of chopping and sawing reach your
+ears.    
+~
+45 0 3 0 0
+D0
+   A rutted cart path continues to the north.    
+~
+~
+0 0 4590
+D2
+   There is a large clearing to the south.    
+~
+~
+0 0 4592
+D3
+~
+~
+0 0 4586
+S
+#4592
+A Large Clearing in the Woods~
+   A trampled earth carpet covers this rather large, nearly circular area.  
+Logs hewn from mature trees lay stacked along the edges of this clearing,
+awaiting trimming and cutting.  The smell of freshly-cut wood hangs in the
+air.
+   There is a large sawmill made of hand-hewn logs south of the clearing,
+looking much like a part of the forest that surrounds it on three sides.
+Wide double doors hang in its northern wall, enabling the sawmill workers
+to drag large tree trunks inside for milling.
+~
+45 0 3 0 0
+D0
+   A rutted cart-path leads north.    
+~
+~
+0 0 4591
+D2
+   To the south lays a large rustic sawmill.  A pair of huge doors mark the
+entrance.    
+~
+doors~
+1 0 4593
+D3
+   A path has been carelessly hacked through the underbrush of the forest west.
+~
+~
+0 0 4597
+S
+#4593
+Inside the Mill~
+   A pair of wide doors connects a trampled earth clearing to the north and the
+inside of this sawmill.  There are drag marks in the sawdust on the floor, as
+well as pieces of bark and some splinters.  Sturdy workers man two-handed saws
+and axes as they attack the task of trimming and cutting up the lumber which
+has been carted in from the surrounding forest.    
+~
+45 8 0 0 0
+D0
+   A pair of huge wooden doors open to the clearing north.    
+~
+doors~
+1 0 4592
+D1
+   The dust and wood-shaving covered mill floor extends east.    
+~
+~
+0 0 4594
+D2
+   The dust and wood-shaving covered mill floor extends south.    
+~
+~
+0 0 4596
+D9
+   The dust and wood-shaving covered mill floor extends southeast.    
+~
+~
+0 0 4595
+E
+drag marks sawdust~
+   Looks like someone has dragged something large through the doors...
+given the snapped off twigs and pieces of bark, it was probably a large
+log.
+~
+S
+#4594
+Inside the Mill~
+   A dirty window in the north wall sheds weak light on a planked table
+surrounded by rounds sawed from logs, sliced tall enough to serve as seats.  
+A ledger book soiled with earth, its pages well-thumbed, lays upon the table.
+The omnipresent sawdust and wood scraps litter the floor.  There is a door in
+the eastern wall.    
+~
+45 8 0 0 0
+D1
+   A door made of thick planks of wood closes off a room to the east.    
+~
+door~
+1 0 4598
+D2
+   The dust and wood-shaving covered mill floor extends south.    
+~
+~
+0 0 4595
+D3
+   The dust and wood-shaving covered mill floor extends west.    
+~
+~
+0 0 4593
+D8
+   The dust and wood-shaving covered mill floor extends southwest.    
+~
+~
+0 0 4596
+E
+ledger book pages~
+   The sawmill shift leaders record the activity of the mill in this
+ledger book.  Pages and pages of entries mark which lumberjacks have
+delivered raw lumber and which merchants have placed orders for the
+finished planks.
+~
+S
+#4595
+Inside the Mill~
+   Finished planks are stacked here in the southeast corner of the sawmill.  
+Huge sawhorses stand solidly on the floor, upon which rest logs ready for
+cutting.  A couple of axes lean against the east wall near a foot-powered
+grinder, awaiting sharpening.  The floor is covered with a thick layer of
+sawdust and small bits of wood.    
+~
+45 8 0 0 0
+D0
+   The dust and wood-shaving covered mill floor extends north.    
+~
+~
+0 0 4594
+D3
+   The dust and wood-shaving covered mill floor extends west.    
+~
+~
+0 0 4596
+D6
+   The dust and wood-shaving covered mill floor extends northwest.    
+~
+~
+0 0 4593
+E
+axe axes~
+   Even though they could use sharpening, these axes are meant for heavy
+chopping.  Their handles are thick and smoothed by long use.
+~
+E
+grinder~
+   The grinder is a large stone wheel in a frame, with a pedal below
+it on the floor. 
+~
+S
+#4596
+Inside the Mill~
+   The southwest corner of this large room is littered with splinters and bark.
+The dust is so thick you can clearly see imprint marks from the boots of the
+mill workers.  Several saws hang on the windowless western wall.  Stacked
+against the southern wall is a pile of logs nearly 10 feet high.    
+~
+45 8 0 0 0
+D0
+   The dust and wood-shaving covered mill floor extends north.
+~
+~
+0 0 4593
+D1
+   The dust and wood-shaving covered mill floor extends east.
+~
+~
+0 0 4595
+D7
+   The dust and wood-shaving covered mill floor extends northeast.    
+~
+~
+0 0 4594
+E
+bark sawdust dust splinters~
+   Surely noone sweeps this floor, for it is thick with trimmings from
+the massive logs brought here for milling.
+~
+E
+saw saws~
+  Several saws, most of them on the rusty side, hang from the rough wooden
+wall on sturdy pegs.  
+~
+S
+#4597
+A Rough Path~
+   A path has been hewn through the woods, but the debris has been left
+on the ground making it necessary to pick one's way along.  Close on each
+side of the path, tall trees tower over you.  You can make out a large
+log building to the southeast, and a broad clearing just east.  The narrow
+path trails off through the trees to the southwest.
+~
+45 4 3 0 0
+D1
+   A large clearing in the woods is visible to the east.  The sound of sawing
+lumber and the distinct odor of freshly-cut wood comes from that direction.
+~
+~
+0 0 4592
+D3
+~
+~
+0 0 4587
+D8
+   A crude path twists around large trees to the southwest.
+~
+~
+0 0 4589
+S
+#4598
+A Dusty Room~
+   A wide makeshift plank shelf has been nailed to the wall at about
+waist-height, upon which you see a large pot, some cracked wooden bowls, and a
+few tins of dried food supplies.  There are dirty boots on the floor and some
+pegs on the door in the west wall where a few tattered garments hang.  You can
+see rustic bunk beds at the south end of this narrow long room.    
+~
+45 8 0 0 0
+D2
+   Some bunks line the walks to the south.
+~
+~
+0 0 4599
+D3
+   A door made from thick wooden planks is to the west.
+~
+door~
+1 0 4594
+E
+boots~
+   They are real dirty and pretty worn-looking.
+~
+E
+pot bowls tins food~
+   Apparently this area is used as a kitchen of sorts.  A crusted pot
+that needs washing sits here, and some bowls carved of wood that have
+cracked with age.  The tins of dry oats and flour have been invaded by
+tiny insects.  Ugh.
+~
+S
+#4599
+The Sleeping Quarters~
+   This shabby space is where the sawmill workers can sleep when they are
+between shifts.  A papered-over window in the south wall filters the 
+sunbeams that move slowly through the dusty air in daylight.  Four pairs
+of sturdy bunks line the east and west walls, made up with patched woolen
+blankets and small sacks of sawdust for pillows.
+~
+45 8 0 0 0
+D0
+   The mill workers have a small space to store their belongings to the north.
+~
+~
+0 0 4598
+S
+$~

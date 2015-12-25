@@ -1,0 +1,366 @@
+#5000
+guardsman elite intimidating guard uniform~
+an elite guardsman~
+An intimidating man dressed in the uniform of the elite guard walks around.
+~
+   The city of Karthay puts its trust in the small but effective group of elite
+guards.  They are easily noticeable by the lack of armor usually worn by other
+guardsmen, and the large symbol of carved jet they wear around their neck.  
+Their intimidating attitude and their way of communicating quickly with each
+other is unnerving.    
+~
+1056856 0 0 0 E
+16 11 0 3d20+320 3d6+4
+688 11000 3
+8 8 1 0
+Maxmove: 50
+E
+#5001
+lady young karthay~
+a young lady of Karthay~
+A young lady wanders around the city of Karthay.
+~
+   This lady seems to be no older than her teens, yet she is dressed in the
+fashion of a wealthy wife.  A modest, high necked dress the color of pale peach
+and cream reaches her ankles, and her hair is neatly kept back in a jeweled net.
+~
+136 0 0 0 E
+2 19 14 1d3+12 1d5+1
+3 13 0
+8 8 2 0
+Maxmove: 50
+E
+#5002
+gentleman richly dressed~
+a gentleman of Karthay~
+A richly dressed gentleman wanders around the city of Karthay.
+~
+   This man is richly dressed, with a silk shirt and a fancy jacket to go with
+his pants, and slick boots.  He doesn't seem to pay attention to anyone else as
+he walks through the city.  However, he seems to be enjoying himself immensely.
+  
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+123 175 0
+8 8 1 0
+Maxmove: 50
+E
+#5003
+citizen wandering~
+a wandering citizen~
+A citizen wanders about the city as she does her daily shopping.
+~
+   This citizen is one of the more common to walk about the city during any
+time of day.  Her daily chore of shopping for the home brings her to wander
+about the stores as she searches for things to buy.    
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+19 85 0
+8 8 2 0
+Maxmove: 50
+E
+#5004
+traveller weary~
+a weary traveller~
+A traveller from another city looks weary from walking.
+~
+   This man looks tired as he shuffles his feet along the road.  His hair is
+unkempt, and his clothes are a bit of a mess from sleeping outside too much,
+but he had a determined look in his eyes for being here.    
+~
+2056 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 1 0
+Maxmove: 50
+E
+#5005
+sailor tired~
+a tired sailor~
+A tired sailor walks around the city before heading back to his beloved boat.
+~
+   This sailor is tired from so many days at the sea, with his usually bright
+blue eyes dulled and his usually charming smile more of a frown.  Yet despite
+his tiredness, he walks around the city long enough for his love of the sea to
+overwhelm his exhaustion.    
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+3 13 0
+8 8 1 0
+Maxmove: 50
+E
+#5006
+fisherman lanky~
+a lanky fisherman~
+A lanky fisherman struts around the city while on break from fishing.
+~
+   This man is tall and terribly thin, yet he is strong when it comes to
+hauling nets and reeling in huge fish from the sea.  His clothes reek a bit of
+fish oil, but he doesn't seem to mind at all.    
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 1 0
+Maxmove: 50
+E
+#5007
+fisherman burly~
+a burly fisherman~
+A burly man hauls fish back and forth from the docks to the fish market.
+~
+   This man is covered in seaweed and sand, leftovers from the huge nets of
+fish that he carries from the docks, where the fisherman put them, to the fish
+market, where the marketers clean, cut, and prepare the fish for sale.    
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+3 13 0
+8 8 1 0
+Maxmove: 50
+E
+#5008
+girl little yellow~
+a yellow haired little girl~
+A little girl with bright yellow hair skips along, singing to herself.
+~
+   This little girl skips about as she sings to herself, a bit loudly and
+off-key.  Her bright yellow hair is bound in curls, and tied with pink ribbons.
+Her dress is a bit torn and dirty from playing, but she looks happy.  A thin
+smile is always present on her lips, revealing a clean, white set of teeth with
+only one or two gaps.    
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+2 7 0
+8 8 2 0
+Maxmove: 50
+E
+#5009
+small boy~
+a small boy~
+A small boy with a wooden stick runs around, pretending its a sword.
+~
+   A wooden stick serves as this small boy's sword.  He runs around, either
+alone or with his friends, pretending he's either a knight fighting dragons, or
+a guard beating up thieves.    
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+2 7 0
+8 8 1 0
+Maxmove: 50
+E
+#5010
+boy playful black~
+a playful boy~
+A boy with curly black hair runs around with a patch over one eye.
+~
+   This little boy has curly black hair and raggedy clothing, and he runs
+around with glee, striking anything he can with his imaginary sword.  He wears
+a patch over one eye, that keeps slipping down to his nose, and he laughs as he
+plays pirate games.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+4 25 0
+8 8 1 0
+Maxmove: 50
+E
+#5011
+seagull~
+a seagull~
+A seagull rests here, eyeing the fish brought in by the fishermen.
+~
+   This seagull looks well-fed by the size of her, yet she still eyes the
+fishermen's catch with a greedy eye.  Occasionally, someone will throw her a
+small fish to keep her out of harm's way of the nets.    
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 2 0
+Maxmove: 50
+E
+#5012
+seagull brown white~
+a brown and white seagull~
+A seagull with brown and white feathers waddles around, looking for scraps.
+~
+   This large seagull has been in a few fights, from the looks of his ruffled
+and slightly torn brown and white feathers.  He waddles around, not able to
+fly, and searches for scraps of food leftover from the fishermen or sailors.  
+
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+0 13 0
+8 8 1 0
+Maxmove: 50
+E
+#5013
+turtle painted sea large~
+a painted sea turtle~
+A large sea turtle with a painted shell basks in the sun lazily.
+~
+   This large sea turtle basks in the sun without a care in the world.  The
+designs on her shell is highly prized for its beauty and color, yet she is
+rarely hunted, for she is the symbol of the mighty Goddess of the Sea herself,
+and no one dares to stir the wrath of Zeboim.    
+~
+10 0 0 0 E
+4 18 12 1d5+45 1d8+1
+12 50 0
+8 8 2 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#5014
+parrot feathered blue~
+a blue feathered parrot~
+A parrot with wings and tail of blue sits here squawking intelligibly.
+~
+   The brightness and color of the blue feathers upon this parrot show him to
+be well cared for.  He seems to have a bit of a talent for talking, in the
+common tongue, when he can be understood.  A gleam in his eyes appears whenever
+he sees money, which can lead one to believe his master is one of greed.    
+~
+65676 65536 0 0 E
+5 17 11 2d5+65 2d5+0
+22 85 0
+8 8 1 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#5015
+merchant sea gruff~
+a sea merchant~
+A gruff looking sea merchant stands here, barking out orders to his men.
+~
+   The man before you is dressed in decent clothes, yet they are a bit worn and
+salty from his constant traveling upon the sea.  His gruff voice and harsh
+disposition gives him the reputation of a rough, yet efficient merchant.    
+~
+10 0 0 0 E
+1 20 15 1d2+5 1d4+0
+3 7 0
+8 8 1 0
+Maxmove: 50
+E
+#5016
+man merchant's~
+a merchant's man~
+One of the merchant's men hauls goods from the ship to the docks.
+~
+   This burly looking man has been working hard for the sea merchant, hauling
+his goods from his ship, to the docks, and sometimes even to the guild itself.
+Sweat pours down his face as he labors, and he seems to be thinking of going to
+the tavern after work to get a good drink and meal.    
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+6 13 0
+8 8 1 0
+Maxmove: 50
+E
+#5017
+black-robed black robed man~
+the black-robed cleric~
+A black-robed man stands here in silent prayer.
+~
+   This man stands here before the statue in silent prayer.  The hood of his
+simple black robe hangs low, hiding most of his features from view.  A small
+purple crescent adorns the sleeve of his robe.    
+~
+602 1028 1 -850 E
+6 17 10 2d5+70 2d5+2
+35 175 2
+8 8 1 10
+BareHandAttack: 5
+Maxmove: 50
+E
+#5018
+figure shrouded~
+a shrouded figure~
+A shrouded figure walks along the alleyway here.
+~
+   This figure is swathed in hooded, floor-length brown robes making it
+impossible to determine gender.  It walks through the alley here at a measured
+pace, keeping its head down.    
+~
+90 9216 4096 -850 E
+6 17 10 2d5+70 2d5+2
+35 175 2
+8 8 0 10
+BareHandAttack: 5
+Maxmove: 50
+E
+#5019
+figure shrouded~
+a figure shrouded in black~
+A figure shrouded in black makes its way through the alley.
+~
+   This mysterious figure is shrouded in black, wearing a calf-length hooded
+robe.  The hood hangs low, concealing most of the persons visage.  As he walks
+by you, you catch a glimpse of a skull-like mask under its hood.    
+~
+586 9216 2048 -850 E
+6 17 10 2d5+70 2d5+2
+35 175 2
+8 8 0 10
+BareHandAttack: 5
+Maxmove: 50
+E
+#5020
+priestess~
+a priestess of zeboim~
+A raven-haired priestess of Zeboim stands here accepting offerings.
+~
+   This gorgeous raven-haired woman stands upon the docks, accepting offerings
+from sailors and captains seeking blessings of safe passage.  She wears a long,
+hooded robe of deep green- the color of the sea.    
+~
+90 1024 1 -850 E
+6 17 10 2d5+70 2d5+2
+50 175 2
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#5098
+Creighton director~
+Creighton~
+Creighton, the Chamber Director, stands behind the counter welcoming visitors.
+~
+   Creighton looks back at you and smiles slightly as you enter.  He wanders
+back and forth behind the counter reviewing the paperwork which was recently
+delivered from the Merchant's Guild.    
+~
+7348234 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1600 250000 0
+8 8 0 0
+Maxmove: 50
+E
+#5099
+donkey mount hued dark~
+A dark-hued donkey~
+A dark-hued donkey stands here, braying quietly.
+~
+   This is a fair-sized donkey with rough, dun-colored fur.  Smaller than
+horses, donkeys are usually used as pack animals by the taller races, but make
+ideal mounts for kender, gnomes, and those dwarves that can be convinced to get
+onto a four-legged beast of any kind.  This donkey looks quite healthy, and
+could probably bear a very heavy load easily.  He stands here pawing at the
+ground, braying quietly now and then.    
+~
+16842762 1024 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 1 0
+Maxmove: 400
+E
+$

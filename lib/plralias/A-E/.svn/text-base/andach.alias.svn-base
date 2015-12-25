@@ -1,0 +1,75 @@
+2
+ff
+8
+c f-f $*
+1
+3
+hbb
+14
+hang silk sash
+0
+1
+t
+17
+get all $*.corpse
+1
+2
+gs
+8
+c g-s $*
+1
+2
+bb
+18
+c blade-barrier $*
+1
+2
+dm
+17
+c dispel-magic $*
+1
+2
+rf
+13
+c remove-f $*
+1
+2
+in
+14
+c inspire-f $*
+1
+2
+ml
+12
+c magic-l $*
+1
+2
+th
+11
+c thornf $*
+1
+3
+tip
+88
+em takes his hat, bill in hand, and lifts from his elven head in an unspoken salutation.
+0
+2
+cs
+11
+c cure-s $*
+1
+2
+cm
+11
+c cure-m $*
+1
+2
+cl
+11
+c cure-l $*
+1
+3
+wbb
+18
+wear healer onback
+0

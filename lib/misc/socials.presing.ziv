@@ -1,0 +1,1181 @@
+accuse 0 5
+Accuse who??
+#
+You look accusingly at $M.
+$n looks accusingly at $N.
+$n looks accusingly at you.
+Who do you wish to accuse?
+You point to yourself, looking rather guilty.
+$n points to $mself, looking rather guilty.
+
+agree 0 0
+You agree completely.
+$n agrees completely.
+You show that you agree with $N.
+$n agrees with $N entirely.
+$n agrees with you entirely.
+It's hard to agree with someone who's not there.
+You think everyone should agree with you without question.
+$n thinks everyone should agree with $s idea.
+
+applaud 0 0
+You give a hearty round of applause.
+$n gives a round of applause.
+You give $M a hearty round of applause.
+$n gives $N a hearty round of applause.
+$n gives you a hearty round of applause.
+Whose brilliant actions would you like to applaud?
+You give yourself a round of applause.
+$n gives $mself a round of applause.
+
+backpat 0 0
+Who do you want to pat on the back?
+#
+You pat $M on the back.
+$n pats $N on the back.
+$n pats you on the back.
+They aren't here.
+You pat yourself on the back.
+$n pats $mself on the back.
+
+beg 0 0
+You drop to your knees, begging.
+$n drops to $s knees, begging.
+You drop to your knees and beg to $M pitifully.
+$n drops to $s knees and begs to $N pitifully.
+$n drops to $s knees and begs to you pitifully.
+Mercifully, they aren't here to see you begging.
+It's not much good to beg yourself.
+#
+
+bleed 0 0
+Your wounds bleed horribly.
+$n's wounds bleed horribly, causing $m obvious pain.
+You nearly fall over onto $N, your wounds bleeding.
+$n almost falls over onto $N, $s wounds bleeding horribly.
+$n nearly falls over onto you, $s wounds bleeding horribly.
+Find another shoulder to bleed on.
+You begin to bleed all over yourself.
+$n bleeds all over $mself.
+
+blink 0 0
+You blink.
+$n blinks.
+You turn your head and blink at $M.
+$n turns $s head and blinks at $N.
+$n turns $s head to you and blinks.
+That person isn't here to blink at.
+You blink, suddenly realizing something.
+$n blinks, suddenly realizing something.
+
+blush 0 0
+Blushing, you feel your cheeks burning red.
+$n blushes.
+You blush, turning your eyes from $M.
+$n blushes and averts $s gaze from $N.
+$n blushes and averts $s eyes from yours.
+There's nobody by that name to blush at.
+You blush at your own actions.
+$n blushes at what $e just did.
+
+boggle 0 0
+You are completely boggled by the idea.
+$n is completely boggled by the idea.
+You are left completely boggled by $N.
+$n is left completely boggled by $N.
+You have left $n completely boggled.
+You are boggled by their absence.
+You boggle even yourself.
+$n seems to have completely boggled $mself.
+
+bounce 0 0
+You bounce around happily.
+$n bounces up and down happily.
+You bounce around $M happily.
+$n bounces around $N happily.
+$n bounces around you happily.
+They aren't here for you to bounce around them.
+You bounce around the area.
+$n bounces all about the area, a silly grin on $s face.
+
+bow 0 5
+You bow deeply.
+$n bows deeply.
+You bow before $M.
+$n bows before $N.
+$n bows before you.
+Who's that?
+It's not that easy to bow to yourself.
+#
+
+brb 0 0
+You mention that you'll be back in a moment.
+$n mentions $e will be back in a moment.
+You mention to $N that you'll be back in a moment.
+$n mentions to $N that $e'll be back in a moment.
+$n mentions to you that $e'll be back in a moment.
+They probably don't care if you'll be right back -- they're not here, you goof.
+You mutter to yourself about being back in just a moment.
+$n mutters to $mself that he'll be back in just a moment.
+
+burp 0 0
+You burp loudly.
+$n burps loudly.
+#
+
+cackle 0 0
+You cackle gleefully.
+$n throws back $s head and cackles with glee!
+You fix $N with a wild stare and let out a long, dry cackle.
+$n fixes $N with a wild stare and lets out a long, dry cackle.
+$n fixes you with a wild stare and let out a long, dry cackle.
+Who are you cackling at now, you fiend?
+You cackle dryly.
+$n cackles dryly.
+
+chuckle 0 0
+You chuckle politely.
+$n chuckles politely.
+You chuckle at $M.
+$n chuckles politely at $N.
+$n chuckles at you.
+Chuckle at whom?
+You chuckle to yourself.
+$n chuckles to $mself.
+
+clap 0 0
+You clap your hands together.
+$n shows $s approval by clapping $s hands together.
+You clap for $M.
+$n claps for $N.
+$n claps for you.
+I'm sure they'd be happy to know you were thinking about them.
+You clap for yourself.
+$n claps for $mself.
+
+comb 0 0
+You comb your hair.
+$n combs $s hair.
+You comb $S hair gently with your fingers.
+$n gently combs $N's hair with $s fingers.
+$n gently combs your hair with $s fingers.
+That person is not here.
+You comb your hair with your fingers.
+$n combs $s hair with $s fingers.
+
+comfort 0 5
+A look of discomfort crosses your face.
+$n looks rather uncomfortable.
+You comfort $M.
+$n comforts $N.
+$n comforts you.
+Comfort who?
+You make a vain attempt to comfort yourself.
+#
+
+cough 0 0
+You cough.
+$n coughs.
+You cough at $M, trying to get $S attention.
+$n coughs at $N, trying to attract $S attention.
+$n coughs at you, trying to get your attention.
+Who are you coughing at?
+You cough to yourself.
+$n coughs to $mself.
+
+cringe 1 0
+You cringe in terror.
+$n cringes in terror.
+You cringe away from $M.
+$n cringes away from $N in abject terror.
+$n cringes away from you.
+Who are you afraid of?  They're not here!
+You cringe at your own actions.
+$n cringes at $s own actions.
+
+cry 0 5
+You burst into tears.
+$n bursts into tears.
+You cry on $S shoulder.
+$n cries on $N's shoulder.
+$n cries on your shoulder.
+Who's that?
+You cry to yourself.
+$n sobs quietly to $mself.
+
+cuddle 1 5
+You look about, as though you could use someone to cuddle.
+$n looks as though $e could use someone to cuddle.
+You cuddle up to $M tenderly.
+$n cuddles $N tenderly.
+$n cuddles you tenderly.
+They aren't here.
+You must feel very cuddly indeed.
+#
+
+curse 0 0
+You swear loudly, enough to make a sailor blush.
+$n swears an oath harsh enough to make a sailor blush.
+You swear viciously at $M.
+$n curses at $N viciously.
+$n curses at you viciously.
+The object of your foul language isn't here.
+You curse yourself for a fool.
+$n curses $mself for a fool.
+
+curtsey 0 0
+You curtsey gracefully.
+$n curtseys gracefully.
+You curtsey before $M.
+$n curtseys to $N.
+$n curtseys before you.
+Whom did you wish to curtsey to?
+Curtsey to yourself?  Just what are you trying to accomplish.
+#
+
+dance 1 8
+You dance about, humming a simple melody.
+$n begins to dance, humming a simple melody.
+You take $S hand and begin to dance.
+$n takes $N's hand and begins to dance with $M.
+$n takes your hand and begins to dance with you.
+Who?
+Dancing gracefully, you flit about the room.
+$n dances gracefully, flitting about the room.
+
+daydream 1 0
+You begin to slip into a daydream.
+$n looks absent-minded, $s eyes staring into space.
+You gaze at $M, lost in your daydream.
+$n gazes at $N, a lost look in $s eyes.
+$n gazes at you, a lost look in $s eyes.
+Who are you dreaming about?
+You daydream about your own fantasies.
+$n seems lost in $s own fantasy.
+
+drool 1 0
+You start to drool.
+$n starts to drool.
+You can't help but drool at the sight of $M.
+$n drools at the sight of $N.
+$n looks at you and can't help but drool.
+Pardon?
+You drool all over yourself.
+$n drools on $mself.
+
+embrace 0 0 
+Whom do you wish to embrace?
+#
+You embrace $M warmly.
+$n embraces $N warmly.  
+$n embraces you warmly.  
+Alas, your embracee is not here.
+You embrace yourself?
+$n wraps $s arms around $mself for a warm self-embrace.
+
+fart 0 0
+You pass a bit of gas.
+$n passes a bit of gas.
+#
+
+flip 0 0
+Who would you like to flip?
+#
+You take hold of $N and flip $M over your back.
+$n takes hold of $N and flips $M over $s back.
+$n takes hold of you and flips you over $s back.
+Who do you intend to flip?
+You poise yourself, then jump into the air, flipping, and fall on your tail.
+$n poises $mself, then jumps into the air and flips, falling on $s tail.
+
+flirt 1 5
+You flirt shamelessly.
+$n flirts shamelessly.
+You flirt with $N shamelessly.
+$n flirts with $N shamelessly.
+$n flirts with you shamelessly.
+Sorry, your dearly beloved is not around.
+You admit it:  you're a shameless flirt!
+$n is a shameless flirt.
+
+fondle 0 5
+Who needs to be fondled?
+#
+You heatedly fondle $M.
+$n heatedly fondles $N.
+$n heatedly fondles you.
+It's hard to fondle a person who isn't there.
+You fondle yourself for all to see.
+$n fondles $mself openly.
+
+french 0 0
+French whom?
+#
+You give $N a long, passionate kiss, your tongue lost in $S mouth.
+$n kisses $N passionately.
+$n gives you a long, passionate kiss, $s tongue lost in your mouth.
+Alas... that person is not here.
+Your tongue is already IN your own mouth.
+#
+
+frown 0 0
+You frown.  Is something bothering you?
+$n frowns.
+You frown at $M.
+$n frowns at $N.
+$n frowns at you.
+That person isn't here.
+You frown thoughtfully.
+$n frowns thoughtfully.
+
+fume 1 5
+You grit your teeth, fuming with rage.
+$n grits $s teeth, fuming with rage.
+You stare at $M, fuming with rage.
+$n stares at $N, fuming with rage.
+$n stares at you, fuming with rage.
+Fume away.. they're not here.
+You clench your fists and stomp your feet, fuming with anger.
+$n clenches $s fists and stomps $s feet, fuming with anger.
+
+gasp 0 0
+You gasp in astonishment.
+$n gasps in astonishment.
+You look at $M and gasp.
+$n looks at $N and gasps.
+$n looks at you and gasps.
+Who do you want to gasp at?
+You gasp, realizing what you've just done.
+$n gasps, realizing what $e's just done.
+
+giggle 0 0
+You giggle.
+$n giggles.
+You giggle at $M.
+$n giggles at $N.
+$n giggles at you.
+Whoever you'd like to giggle at is no longer here.
+You giggle to yourself.
+$n giggles to $mself.
+
+glare 0 5
+You glare about you.
+$n glares around $m.
+You glare icily at $M.
+$n glares at $N.
+$n glares icily at you.
+You try to glare at somebody who is not present.
+You glare at your feet, hiding your feelings.
+$n glares at $s feet, hiding $s feelings.
+
+greet 0 0
+Greet whom?
+#
+You give $M a hearty greeting.
+$n gives $N a hearty greeting.
+$n gives you a hearty greeting.
+Please -- try someone who is here?
+So, you've finally discovered yourself!
+#
+
+grin 0 0
+You grin.
+$n grins.
+You grin widely at $M.
+$n grins widely at $N.
+$n grins widely at you.
+Who're you grinning at?
+You grin evilly.
+$n grins evilly.
+
+groan 0 0
+You groan loudly.
+$n groans loudly.
+You look at $M and let out a long groan.
+$n looks at $N and lets out a long groan.
+$n looks at you and lets out a long groan.
+Groan at who?
+You hold your stomach and groan.
+$n holds $s stomach and groans.
+
+grope 0 5
+Whom do you wish to grope?
+#
+You grope $M roughly.
+$n gropes $N roughly.
+$n gropes you roughly.
+Try someone who's here.
+You grope yourself all over.
+$n gropes $mself all over.
+
+grovel 1 0
+You begin to tremble, and drop to the ground, grovelling.
+$n begins to tremble, then drops to the ground, grovelling.
+You drop to the ground before $M, grovelling.
+$n drops to the ground before $N, grovelling.
+$n drops to the ground before you, grovelling.
+Who?
+That seems a little silly.
+#
+
+growl 0 0
+You growl.
+$n growls.
+You growl at $M.
+$n growls at $N.
+$n growls at you.
+Who?
+You growl to yourself.
+$n growls to $mself.
+
+headrub 0 0
+You rub your head trying to alleviate your headache.
+$n rubs $s head trying to alleviate $s headache.
+You rub $S head trying to ease $S headache.
+$n rubs $N's head trying to ease $S headache.
+$n rubs your head trying to alleviate your headache.
+They aren't here.
+You rub your head trying to alleviate your headache.
+$n rubs $s head trying to alleviate $s headache.
+
+grumble 0 0
+You grumble under your breath.
+$n grumbles under $s breath.
+You grumble about $M under your breath.
+$n grumbles about $N under $s breath.
+$n grumbles about you under $s breath.
+Who ARE you so irritated at now?
+You grumble to yourself.
+$n grumbles to $mself.
+
+hiccup 0 0
+You hiccup.  *HIC*
+$n hiccups.
+#
+
+hop 0 5
+You hop around merrily.
+$n hops around with a smile on $s face.
+You hop in circles around $N.
+$n hops gaily in circles around $N.
+$n hops gaily in circles around you.
+Hop around whom?  That person isn't around!
+Now that's just plain silly.
+#
+
+hug 1 5
+You spread your arms wide, looking hopeful.
+$n spreads $s arms wide.
+You hug $M.
+$n hugs $N.
+$n hugs you.
+Sorry, friend, I can't see that person here.
+You hug yourself.
+$n hugs $mself.
+
+intro 0 0
+But who do you want to introduce yourself to?
+#
+You introduce yourself to $M.
+$n introduces $mself to $N.
+$n introduces $mself to you.
+They aren't here.
+You already know yourself.  Goof!
+#
+
+kiss 0 0
+Isn't there someone you want to kiss?
+#
+You kiss $M.
+$n kisses $N.
+$n kisses you.
+Never around when required.
+You kiss the back of your hand to practice.
+$n kisses the back of $s hand, practicing a kiss.
+
+laugh 0 0
+You laugh.
+$n laughs.
+You laugh at $N.
+$n laughs at $N.
+$n laughs at you.
+I bet they are glad they aren't here for you to laugh at them.
+You laugh to yourself.
+$n laughs to $mself.
+
+lick 0 0
+You lick your lips and smile.
+$n licks $s lips and smiles.
+You lick $M.
+$n licks $N.
+$n licks you.
+Lick away, nobody's here with that name.
+You lick your fingers with a smile.
+$n licks $s fingers with a smile.
+
+love 0 0
+You express your love for everyone.
+$n expresses $s love for everyone.
+You tell your true feelings to $N.
+$n whispers softly to $N.
+$n whispers to you sweet words of love.
+Alas, your love is not present...
+You love yourself?  Nobody wants to hear about it.
+#
+
+massage 0 0
+You massage your neck, working the tension from it.
+$n massages $s neck, working the tension from it.
+You gently massage $N's shoulders.
+$n gently massages $N's shoulders.
+$n gently massages your shoulders.
+You can only massage someone in the same room as you.
+You massage your shoulder with a sigh.
+$n massages $s shoulder with a sigh.
+
+moan 0 0
+You start to moan.
+$n starts moaning.
+You look under heavy lids at $N and let out a long moan.
+$n moans at $N.
+$n looks at you under heavy lids and lets out a long moan.
+You can moan all you'd like -- they're not around.
+You slowly rub yourself, moaning with desire.
+$n slowly rubs $mself, moaning with desire.
+
+mutter 0 0
+You mutter something incomprehensible under your breath.
+$n mutters something incomprehensible under $s breath.
+You mutter something under your breath about $N.
+$n mutters something under $s breath about $N.
+$n mutters something under $s breath about you.
+Mutter mutter, toil and trouble...  who are you muttering at?
+You begin muttering to yourself under your breath.
+$n mutters to $mself under $s breath.
+
+nibble 0 0
+Nibble on who?
+#
+You nibble on $N's ear.
+$n nibbles on $N's ear.
+$n nibbles on your ear.
+Sorry, not here, better go back to dreaming about it.
+You nibble on your lip.
+$n nibbles on $s lip.
+
+nod 1 0
+You nod.
+$n nods.
+You nod at $M.
+$n nods at $N.
+$n nods at you.
+Save the nods for those actually present.
+You nod inwardly.
+$n nods inwardly.
+
+nudge 0 0
+Whom?
+#
+You nudge $M with your elbow.
+$n nudges $N suggestively with $s elbow.
+$n nudges you suggestively.
+Eh?  That person isn't here, you know.
+How do you intend to do that?
+#
+
+nuzzle 1 5
+Nuzzle whom?
+#
+You softly nuzzle $S neck.
+$n softly nuzzles $N's neck.
+$n softly nuzzles your neck.
+No.  They aren't here.
+I'm sorry, friend, but that's impossible.
+#
+
+pat 0 0
+Pat whom?
+#
+You pat $N on $S head.
+$n pats $N on $S head.
+$n pats you on your head.
+Who, where?
+You pat yourself on your head with a smile.
+$n pats $mself on the head with a smile.
+
+peer 1 0
+You peer around you, unable to quite make everything out.
+$n peers around, looking as if $e has trouble seeing everything clearly.
+You peer at $N, looking $M over closely.
+$n peers at $N, looking $M over closely.
+$n peers at you, looking you over closely.
+Who in the name of the gods are you peering AT?
+Feeling a bit of peer pressure, friend?
+#
+
+point 1 0
+You point in several different directions, confused.
+$n points in many different directions, obviously very confused.
+You point at $M.
+$n points at $N.
+$n points at you.
+Pointing at your imaginary friends again?
+You point at yourself.
+$n points at $mself.
+
+poke 0 0
+Poke who?
+#
+You poke $M in the ribs.
+$n pokes $N in the ribs.
+$n pokes you in the ribs.
+You can't poke someone who's not here!
+You poke yourself in the ribs.
+$n pokes $mself in the ribs, a sheepish grin on $s face.
+
+ponder 1 0
+You take a moment to stop and ponder.
+$n stops to ponder the situation.
+You ponder over $N intently.
+$n ponders over $N intently.
+$n seems to ponder over you intently.
+You ponder what it would be like if that person were here.
+You take a moment to ponder over your own actions.
+$n ponders over $s own actions.
+
+pounce 0 0
+You poise yourself, looking like a cat ready to strike.
+$n poises $mself, looking like a cat ready to strike.
+You pounce on them playfully.
+$n pounces on $N playfully.
+$n pounces on you playfully.
+They aren't here for you to pounce on them.
+Don't try that.
+#
+
+pout 0 0
+You pout.
+$n pouts.
+You look at $M and pout.
+$n looks at $N and pouts.
+$n looks at you and pouts.
+Who're you pouting at now?
+You begin to pout to yourself, attempting to hide it.
+Hiding $s face, $n pouts to $mself.
+
+pray 0 0
+You kneel reverently and begin a quiet prayer.
+$n kneels reverently, beginning a quiet prayer.
+You close your eyes and utter a prayer for $N.
+$n closes $s eyes and utters a soft prayer for $N.
+$n closes $s eyes and murmurs a prayer for you.
+If you are trying to pray to a specific god, use the tell command instead.
+You utter a silent prayer to yourself.
+$n utters a silent prayer to $mself.
+
+puke 0 0
+You suddenly feel very ill, leaning over and puking on the ground.
+$n suddenly looks very ill as $e leans over and pukes on the ground.
+You stagger toward $N and suddenly vomit on $M.
+$n staggers toward $N, and without warning, begins to vomit on $M.
+$n staggers toward you, a sick look on $s face, and vomits on you.
+Find another shoulder to puke on.  That one isn't here.
+Feeling violently ill, you begin to sputter up vomit on yourself.
+Feeling violently ill, $n begins to sputter up vomit on $mself.
+
+punch 0 0
+Who are you punching at?
+#
+You punch at $M playfully.
+$n punches at $N playfully.
+$n punches at you playfully.
+Punch whom?
+That would not be advisable.
+#
+
+purr 0 0
+You purr contentedly.
+$n purrs contentedly.
+Leaning your head on $M, you purr contentedly.
+$n leans $s head on $N, purring contentedly.
+$n leans $s head on you, purring contentedly.
+Who would you like to purr on?
+You curl up by yourself, purring contentedly.
+$n curls up by $mself, purring contentedly.
+
+roll 1 0 
+You roll your eyes.
+$n rolls $s eyes.
+You look at $M and roll your eyes in disgust.
+$n looks at $N and rolls $s eyes in disgust.
+$n looks at you and rolls $s eyes in digust.
+Rollin', rollin', rollin', keep those eyes a-rollin'...  at whom?
+You roll your eyes, disgusted with yourself.
+$n rolls $s eyes, disgusted with $mself.
+
+rofl 0 0
+You roll on the floor in a fit of laughter.
+$n rolls on the floor in a fit of laughter.
+You fall over onto $N in a fit of laughter.
+$n falls over onto $N in a fit of laughter.
+$n falls over onto you in a fit of laughter.
+Who are you going to laugh with?
+Nobody to laugh with?
+#
+
+ruffle 0 0
+Whose hair will you be ruffling today?
+#
+You ruffle $N's hair playfully.
+$n ruffles $N's hair playfully.
+$n ruffles your hair playfully.
+Might be a bit difficult, what with them not here.
+You're weird.
+#
+
+scold 0 0
+You scold those around you for their troublesome behavior.
+$n scolds all around for their troublesome behavior.
+You scold $N for behaving in such a manner.
+$n scolds $N for misbehaving.
+$n scolds you for behaving in such a manner.
+Scolding imaginary friends?
+You scold yourself for being such trouble!
+$n scolds $mself for being such trouble.
+
+scream 0 0
+You scream loudly!
+$n screams loudly!
+You scream at $N!
+$n screams at $N!
+$n screams at you!
+Stop screaming!  They're not here!
+You realize something, and suddenly scream!
+$n suddenly realizes something, screaming at the thought.
+
+shake 0 5
+You shake your head.
+$n shakes $s head.
+You shake your head at $N.
+$n shakes $s head at $N.
+$n shakes $s head at you.
+Sorry, good buddy, but that person doesn't seem to be here.
+You begin to shake uncontrollably.
+$n begins shaking uncontrollably.
+
+shiver 0 0
+You shiver.
+$n shivers.
+You look at $M and shiver.
+$n looks at $N and shivers.
+$n looks at you and shivers.
+Shiver at who?
+You shiver to yourself.
+$n shivers to $mself.
+
+shrug 0 0
+You shrug.
+$n shrugs.
+You look at $N and shrug.
+$n shrugs at $N.
+$n looks at you and shrugs.
+Shrug at whom?
+You shrug apathetically.
+$n shrugs apathetically.
+
+sigh 0 0
+You sigh.
+$n sighs.
+You sigh at $N.
+$n sighs at $N.
+$n sighs at you.
+That person's not here.
+You sigh to yourself.
+$n sighs to $mself.
+
+sing 0 0
+You begin to sing a clear, tranquil melody.
+$n begins to sing a clear, tranquil melody.
+You smile at $N, singing for them.
+$n smiles at $N, singing for $M.
+$n smiles at you, singing you a sweet melody.
+Rise your sweet voice to whom in particular?
+You sing a pleasant melody to yourself.
+$n sings a pleasant melody to $mself.
+
+slap 0 0
+Who to slap?
+#
+You slap $N.
+$n slaps $N.
+You are slapped by $n.
+How about slapping someone in the same vicinity as you?
+You slap yourself.
+$n slaps $mself.
+
+smile 1 0
+You smile happily.
+$n smiles happily.
+You smile at $M.
+$n smiles at $N.
+$n smiles at you.
+There's no one by that name around.
+You smile innocently.
+$n smiles innocently.
+
+smirk 0 0
+You smirk.
+$n smirks.
+You smirk at $M.
+$n smirks at $N.
+$n smirks at you.
+Who?
+You smirk to yourself.
+$n smirks to $mself.
+
+snap 0 0
+You snap your fingers.
+$n snaps $s fingers.
+You snap your fingers at $N, beckoning $M.
+$n snaps $s fingers at $N, beckoning $M.
+$n snaps $s fingers at you, beckoning you to $m.
+Snap your fingers?  At who?
+You snap your fingers.
+$n snaps $s fingers.
+
+snarl 0 0
+You snarl viciously.
+$n snarls viciously.
+You snarl at $M viciously.
+$n snarls at $N viciously.
+$n snarls viciously at you.
+Eh?  Who?  Not here, my friend.
+You snarl to yourself.
+$n snarls to $mself.
+
+sneeze 0 0
+You sneeze.
+$n sneezes.
+You sneeze on $N abruptly.
+$n sneezes on $N abruptly.
+$n sneezes on you abruptly.
+Sneezing on invisible people?
+You start to blink rapidly, trying to hold back a sneeze.
+$n blinks rapidly, trying to hold back a sneeze.
+
+snicker 0 0
+You snicker softly.
+$n snickers softly.
+You snicker at $N.
+$n snickers at $N.
+$n snickers at you.
+Who?
+You snicker to yourself.
+$n snickers to $mself.
+
+sniff 0 0
+You sniff sadly.
+$n sniffs sadly.
+You sniff at $N, drawing back distastefully.
+$n sniffs at $N, looking offended by the odor.
+$n sniffs at you, offended by the odor.
+You sniff, but with no-one to sniff at.
+You sniff yourself, not finding anything wrong with your smell.
+$n sniffs $mself, not smelling anything odd.
+
+snore 0 0
+You snore loudly.
+$n snores loudly.
+You fall over onto $N and begin snoring loudly.
+$n falls over onto $N and begins snoring loudly.
+$n falls over onto you and begins snoring loudly.
+That person isn't here.
+You allow your head to fall back, snoring to yourself.
+$n's head falls back, snoring to $mself.
+
+snort 0 0
+You snort arrogantly.
+$n snorts arrogantly.
+You look at $N and snort.
+$n looks at $N and snorts.
+$n looks at you and snorts.
+Whom?
+You snort to yourself.
+$n snorts to $mself as if in some private joke.
+
+snowball 0 0
+Who do you want to throw a snowball at??
+#
+You throw a snowball in $N's face.
+$n conjures a snowball from thin air and throws it at $N.
+$n conjures a snowball from thin air and throws it at you.
+You stand with the snowball in your hand because your victim is not here.
+You conjure a snowball from thin air and throw it at yourself.
+$n conjures a snowball out of the thin air and throws it at $mself.
+
+snuggle 1 5
+Who?
+#
+You snuggle up to $M tenderly.
+$n snuggles up to $N.
+$n snuggles up to you tenderly.
+They aren't here.
+Don't do that.
+#
+
+spank 0 8
+Who are you spanking?
+#
+You spank $M vigorously, long and hard.
+$n spanks $N over $s knee, leaving marks.
+$n spanks you long and hard, leaving marks.
+Are you sure about this?  I mean, that person isn't even here!
+You spank yourself, a grin slapped across your face.
+$n spanks $mself, a grin on $s face.
+
+spit 0 0
+You spit on the ground.
+$n spits on the ground.
+You spit in $S face.
+$n spits in $N's face.
+$n spits in your face.
+Can you spit that far?
+You try to spit on the ground, but miss, hitting your feet.
+$n tries to spit on the ground but hits $s feet instead.
+
+squeeze 0 0
+Who to squeeze?
+#
+You squeeze $M gently.
+$n squeezes $N gently.
+$n squeezes you gently.
+Who is the to-be-squeezed?
+You squeeze yourself with a soft sigh.
+$n squeezes $mself with a soft sigh.
+
+stagger 0 0
+You stagger around drunkenly, bumping into everyone.
+$n staggers around drunkenly, bumping into everyone.
+You stagger toward $N, smashing into them.
+$n staggers toward $N and smashes into them.
+$n staggers toward you, smashing into you!
+Stagger toward whom?
+None of that, now.
+#
+
+stare 0 5
+You stare at the sky.
+$n stares at the sky.
+You stare dreamily at $N, transfixed, and completely lost in $S eyes.
+$n stares dreamily at $N, transfixed.
+$n stares at you, transfixed, and completely lost in your eyes.
+You stare and stare but can't see that person anywhere.
+At yourself?
+#
+
+steam 0 0 
+You steep and steam.
+$n steeps and steams.
+#
+
+stroke 0 0
+Whose thighs would you like to stroke?
+#
+You gently stroke $S inner thigh with light feathery touches.
+$n gently strokes $N's inner thigh with light feathery touches.
+$n gently strokes your inner thigh with light feathery touches.
+That person is not within reach.
+You slowly begin to stroke yourself.
+$n begins to stroke $mself, gasping in pleasure.
+
+strut 0 0
+Strut your stuff.
+$n struts proudly.
+You strut before $N.
+$n struts before $N.
+$n struts before you.
+Strutting at...  whom?
+You can't do that.
+#
+
+sulk 1 0
+You start to sulk.
+$n starts to sulk.
+You stare at $M and begin to sulk.
+$n stares at $N and begins to sulk.
+$n stares at you and begins to sulk.
+Sulking because of whom?
+You move off by yourself and start to sulk.
+$n moves off by $mself and starts sulking.
+
+surrender 0 0
+You throw up your arms in surrender.
+$n throws up $s arms in surrender.
+You surrender to $N.
+$n surrenders to $N.
+$n surrenders to you.
+They're not here.
+No.  Bad.
+#
+
+tackle 0 5
+Who're you tackling, anyway?
+#
+You ruthlessly tackle $M to the ground.
+$n ruthlessly tackles $N, pinning $M to the ground.
+$n suddenly lunges at you and tackles you to the ground!
+That person isn't here, but if they were, they'd be very, very sorry.
+Tackle yourself?  Sorry.  No.
+#
+
+tango 0 8
+With whom would you like to tango?
+#
+You put a rose between your teeth and tango with $M seductively.
+$n puts a rose between $s teeth and tangos with $N seductively.
+$n puts a rose between $s teeth and tangos with you seductively.
+That person isn't around.  Better sit this one out.
+Feels rather stupid, doesn't it?
+#
+
+taunt 0 0
+You throw taunts and insults all around.
+$n throws taunts and insults all around.
+You taunt $M incessantly.
+$n taunts $N incessantly.
+$n taunts you incessantly.
+Hmmmmmmm...  no one by that name here.
+No.  Bad.
+#
+
+thank 0 5
+You thank everyone for their kindness.
+$n thanks everyone for their kindness.
+You thank $N heartily.
+$n thanks $N heartily.
+$n thanks you heartily.
+No one answers to that name here.
+You're weird.
+#
+
+think 1 0
+You sink into thought on the matter.
+$n sinks into thought on the matter.
+You look $M over and sink into thought.
+$n looks $N over, sinking into thought.
+$n looks you over, sinking into thought.
+You'd better think harder, if you hope to make contact!
+You think about your own situation.
+$n thinks about $s own situation.
+
+tickle 0 0
+Who do you want to tickle?
+#
+You tickle $N.
+$n tickles $N.
+$n tickles you - hee hee hee.
+Who is that?
+You tickle yourself -- how funny!
+$n tickles $mself with a silly grin.
+
+twiddle 0 0
+You patiently twiddle your thumbs.
+$n patiently twiddles $s thumbs.
+You look at $N, patiently twiddling your thumbs.
+$n looks at $N, patiently twiddling $s thumbs.
+$n looks at you, patiently twiddling $s thumbs.
+Twiddling at whom again?
+You twiddle your thumbs impatiently, frowning.
+$n twiddles $s thumbs impatiently, frowning.
+
+wave 0 0
+You wave.
+$n waves happily.
+You wave goodbye to $N.
+$n waves goodbye to $N.
+$n waves goodbye to you.
+They didn't wait for you to wave goodbye.
+You're just being silly.
+#
+
+whine 0 0
+You whine pitifully.
+$n whines pitifully.
+You whine to $N pitifully.
+$n whines to $N pitifully.
+$n whines to you pitifully.
+They left before you could begin that act!
+You whine and complain to yourself, doing little good.
+$n whines and complains to $mself.
+
+whistle 0 0
+You whistle innocently.
+$n whistles innocently.
+You whistle appreciatively at $M.
+$n whistles appreciatively at $N.
+$n whistles appreciatively at you.
+Whistling at...?
+You whistle a pleasant tune to yourself.
+$n whistles a pleasant tune to $mself.
+
+wiggle 0 0
+You wiggle your bottom.
+$n wiggles $s bottom.
+You wiggle your bottom at $N.
+$n wiggles $s bottom at $N.
+$n wiggles $s bottom at you.
+Wiggle your funky groove thing at WHOM?
+You wiggle to yourself hesitantly.
+$n wiggles to $mself hesitantly.
+
+whimper 0 0
+You back away and whimper pathetically.
+$n backs away and whimpers pathetically.
+You back away from $N, whimpering pathetically.
+$n backs away from $N, whimpering pathetically.
+$n backs away from you, whimpering pathetically.
+Whimpering away from your imaginary friends?
+You whimper to yourself quietly.
+$n whimpers to $mself quietly.
+
+wink 0 5
+You wink suggestively.
+$n winks suggestively.
+You wink at $M.
+$n winks at $N.
+$n winks at you.
+No one with that name is present.
+You can't do that!
+#
+
+worship 0 5
+You fall to your knees in solemn worship.
+$n falls to $s knees in solemn worship.
+You fall to your knees in solemn worship of $N.
+$n falls to $s knees in solemn worship of $N.
+$n falls to $s knees in solemn worship of you.
+Who?  Is that a god?  Maybe Paladine would work better?
+Now that's sick.
+#
+
+yawn 0 0
+You yawn.
+$n yawns.
+You yawn, nearly falling asleep as $N rambles.
+$n yawns at $N, nearly falling asleep.
+$n yawns at you, looking very bored by you.
+Yawning at whom?
+You yawn, covering your mouth with your hand.
+$n yawns, covering $s mouth with $s hand.
+
+yodel 0 0
+You begin to yodel loudly, cutting through the nerves of those around you.
+$n starts yodelling loudly, going straight to the bone.
+You leap onto $N and begin to yodel into $S ear loudly.
+$n leaps onto $N, yodelling into $S ear loudly.
+$n leaps onto you, yodelling into your ear loudly!
+You can't torture that poor soul, as they're not here.
+You yodel to yourself pleasantly, much to the dismay of those around you.
+$n yodels to $mself pleasantly, much to the dismay of you and others around.
+
+$

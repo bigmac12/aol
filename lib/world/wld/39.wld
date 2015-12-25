@@ -1,0 +1,2097 @@
+#3900
+A Faint Game Trail~
+   A barely noticable game trail runs through a thick stand of juvenile
+alder saplings.  All other growth has been choked out due to their density,
+leaving only sparse grass and green lichens sticking to the occational small
+stone.  Animals have eroded a small path between the trees leaving a twisting
+brown line devoid of all vegetation.  In places, branches are broken high
+enough to indicate the passing of something larger.
+~
+39 4 3 0 0
+D7
+~
+~
+0 0 7127
+D8
+~
+~
+0 0 3901
+S
+#3901
+A Game Trail~
+   A game trail continues through a thick stand of young trees.  Spiders webs
+and cocoons hang from the branches, getting caught on the clothes and fur of
+passers by.  A constant, hushed rustling comes from above as the branches and
+leaves scrape together in the breeze.  To the side, the remains of an old
+rabbit snare lay useless and in pieces, no longer of any value.
+~
+39 0 0 0 0
+D3
+~
+~
+0 0 3902
+D7
+~
+~
+0 0 3900
+E
+snare~
+   The snare is almost completely rusted through.  It is apparent that no one
+has used it or any other trapping device along this path in some time, though
+not from the apparent lack of game.    
+~
+S
+#3902
+A Wider Game Trail~
+   A wide trail meanders through the woods, crossing mossy, fallen trees now
+the home for numerous small animals.  Scurrying moises can be heard in the
+undergrowth to the sides as the forests residents shy away from the passing
+of intruders.  The trees appear to be in vigorous health, and the humus covered
+ground is soft and comfortable to walk upon.  A strong scent of pine and musty
+leaves wafts throught the breeze.
+~
+39 0 0 0 0
+D1
+~
+~
+0 0 3901
+D2
+~
+~
+0 0 3904
+D8
+~
+~
+0 0 3903
+S
+#3903
+A Wider Game Trail~
+   A wide trail meanders through the woods, crossing mossy, fallen trees now
+the home for numerous small animals.  Scurrying moises can be heard in the
+undergrowth to the sides as the forests residents shy away from the passing of
+intruders.  The trees appear to be in vigorous health, and the humus covered
+ground is soft and comfortable to walk upon.    
+~
+39 0 0 0 0
+D3
+~
+~
+0 0 3936
+D7
+~
+~
+0 0 3902
+S
+#3904
+Thickening of the Trees~
+   A cluster of pine trees chokes out visibility and obscures the ground.  The
+dense, green branches must be forcefully pushed aside to facilitate movement,
+and they spring back into place at your passing.  A thick layer of what must be
+pine needles crunch under the feet, scaring away small birds hiding within the
+trees.  They speed away and circle overhead waiting to return.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3902
+D2
+~
+~
+0 0 3905
+S
+#3905
+Entrance to the Grove~
+   A peaceful grove of mature forest stretches out, bordered on one side by a
+thicket of dense pines.  Tall deciduous trees of every variety cast long trunks
+towards the sky leaving the forest floor relatively open, while still
+protecting it with a dense canopy of leaves.  Vines and undergrowth fill up the
+empty spaces, creating concealment for small animals which dart about the
+bushes.    
+~
+39 4 0 0 0
+D0
+~
+~
+0 0 3904
+D2
+~
+~
+0 0 3906
+S
+#3906
+Among the Trees~
+   The forest is alive with the gentle activities of woodland creatures and the
+swaying of the trees.  There is an undeniable feeling of calm and peace
+emanating from the environment, as if in harmony with the earth.  The scent of
+fruit and budding plants is everywhere.  Roots run along the ground, breaking
+up the otherwise even grade of the forest floor and roosting birds make
+constant noise with their songs.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3905
+D3
+~
+~
+0 0 3907
+D9
+~
+~
+0 0 3912
+S
+#3907
+Within the Trees~
+   A large number of vines hang down, stretched from tree to tree in inverted
+arches.  Parasitic flowers adhere to these making them appear as though they
+were ornate woven garlands.  Moss covered trees stand as pillars in a complex
+cathedral, casting flickering shadows in the light.  Small animals, seemingly
+oblivious to danger, run up to passers by for a quick inspection before
+running back into the undergrowth.
+~
+39 0 0 0 0
+D1
+~
+~
+0 0 3906
+D2
+~
+~
+0 0 3910
+D8
+~
+~
+0 0 3909
+S
+#3908
+A Stand of Elms~
+   A small stand of tall trees with broad trunks and rounded leaves edge out
+the surrounding trees to dominate the quest for sunlight.  Thin, twisted
+circles woven from saplings have been placed around the trunks and thicker
+branches.  Hanging from the branches are curious plants with small green leaves
+and red berries that seem to stand out as unusual against the native varieties
+of the forest.    
+~
+39 0 0 0 0
+D2
+~
+~
+0 0 3909
+D7
+   Vines of morning glorys, moonflowers, and wisteria create a curtain from the
+branches of a nearby tree.    
+~
+vines curtain~
+1 0 19057
+S
+#3909
+An Ancient Pathway~
+   In places here appear to be traces of some ancient pathway, though it is
+heavily obscured by thick concentrations of moss and high bushes.  Although
+difficult to discern, it seems to be of an origin other than the game trails,
+and has been adeptly hidden.  Pretty butterflies alight on the bushes for a
+moment, then continue away up into the trees out of reach.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3908
+D7
+~
+~
+0 0 3907
+D9
+~
+~
+0 0 3913
+S
+#3910
+A Small Copse of Apple Trees~
+   A number of fruit bearing trees stand in a small clearing amidst the forest.
+They are filled with juicy, red apples ripe enough to begin to fall all around
+them onto the ground.  Without pruning the trees have somehow achieved a
+perfect balance of branches for production while maintaining their wilderness
+aesthetic.  Some apples are in little piles around the bases of the trees.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3907
+S
+#3911
+A Diseased and Dying Tree~
+   Unlike the rest of the forest, one withered old willow tree appears to be
+diseased and dying.  As the other trees creak in the wind, this tree groans and
+cracks as large pieces of bark fall to the ground dry and dead.  Almost all of
+its leaves are gone and its long drooping branches scratch at the dessicated
+soil around its periphery.  The animals are absent from here, perhaps turned
+away by the lack of balance this tree represents.    
+~
+39 0 0 0 0
+D8
+~
+~
+0 0 3913
+S
+#3912
+An Ancient Pathway~
+   In places here appear to be traces of some ancient pathway, though it is
+heavily obscured by thick concentrations of moss and high bushes.  Although
+difficult to discern, it seems to be of an origin other than the game trails,
+and has been adeptly hidden.  Pretty butterflies alight on the bushes for a
+moment, then continue away up into the trees out of reach.    
+~
+39 0 0 0 0
+D2
+~
+~
+0 0 3914
+D6
+~
+~
+0 0 3906
+S
+#3913
+A Forest Pathway~
+   A pathway is fairly apparent here, specifically leading away towards the
+sounds of a dull creaking beyond the high bushes that obscure any line of
+sight.  An incongruous odor, like rotten wood follows the breeze coming from
+the same direction as the sounds.  A flock of crows soars far overhead,
+disappearing frequently behind the leaves.  A cluster of bushes seems to have
+been disturbed recently here.    
+~
+39 0 0 0 0
+D2
+   A cluster of high bushes.
+~
+bushes~
+1 0 3915
+D6
+~
+~
+0 0 3909
+D7
+~
+~
+0 0 3911
+S
+#3914
+Enveloped By Trees~
+   The trees are particularly dense here and make movement very dificult.
+Largely made up of sparse elms, smaller pine trees have filled the gaps
+blocking visibility to no more that just an armlength.  The scent of pine
+is overpowering but still invigorating, making the sensation of pine needles
+scratching against exposed flesh almost tolerable.  In the distance can be
+heard the sound of falling water.
+~
+39 256 0 0 0
+D0
+~
+~
+0 0 3912
+D8
+~
+~
+0 0 3916
+D9
+~
+~
+0 0 3917
+S
+#3915
+Surrounded By Bushes~
+   Thick, tall bushes rise up from all sides, blocking vision beyond this
+immediate area.  Birds swoop up and away as their nests are disturbed.  The sky
+can only be seen directly overhead, but the bushes offer a feeling of warm
+protection.  Nearby it seems as if the forest noises are diminished, but soft,
+almost whispered voices can be heard.    
+~
+39 0 0 0 0
+D0
+   A stand of tall bushes.
+~
+bushes~
+1 0 3913
+D3
+   A stand of tall bushes.
+~
+bushes~
+1 0 3920
+S
+#3916
+Among the Trees~
+     The forest is alive with the gentle activities of woodland creatures and the 
+swaying of the trees.  There is an undeniable feeling of calm and peace
+emanating from the environment, as if in harmony with the earth.  The scent of
+fruit and budding plants is everywhere.  Roots run along the ground, breaking
+up the otherwise even grade of the forest floor and roosting birds make
+constant noise with their songs.
+~
+39 0 0 0 0
+D7
+~
+~
+0 0 3914
+D9
+~
+~
+0 0 3933
+S
+#3917
+Within the Trees~
+   A large number of vines hang down, stretched from tree to tree in inverted
+arches.  Parasitic flowers adhere to these making them appear as though they
+were ornate woven garlands.  Moss covered trees stand as pillars in a complex
+cathedral, casting flickering shadows in the light.  Small animals, seemingly
+oblivious to danger, run up to passers by for a quick inspection before
+running back into the undergrowth.
+~
+39 0 0 0 0
+D3
+~
+~
+0 0 3934
+D6
+~
+~
+0 0 3914
+S
+#3918
+An Impass of Thick Foliage~
+   The forest completely closes off here denying further movement in this
+direction.  Gnarled branches interlock to form an impassable wall.  The amount
+of growth seems almost unnatural in its degree, and the branches are so well
+joined as if the blockage was grown for that purpose.  However, throught the
+cracks, nothing can be seen except more trees continuing off into the visible
+distance.    
+~
+39 0 0 0 0
+D8
+~
+~
+0 0 3919
+S
+#3919
+A Serene Glade~
+   The trees make a clearing in the forest to reveal a calm glade.  It is
+coveres in lush, tall field grass and occational ornamental bushes.  Patches of
+multicolored wildflowers sprout all over, providing a bouquet of sweet smelling
+aromas, and contrasting the deep green of the forest.  Here and there small
+spots of grass are bent over indicating this to be a favorite place for the
+inhabitants of the forest to come and sun themselves.    
+~
+39 0 0 0 0
+D1
+~
+~
+0 0 3920
+D2
+~
+~
+0 0 3993
+D7
+~
+~
+0 0 3918
+D9
+~
+~
+0 0 3921
+S
+#3920
+Entrance to the Glade~
+   The density of the trees is very slightly diminished as an obvious clearing
+in the forest is visible just a short distance away.  A shallow gulley runs
+past, dry now but obviously capable of carrying water during continuous, heavy
+rains so as not to oversaturate the forest.  The trees make an abrupt end when
+they reach the edge of the clearing, leaving an open and unshaded field.    
+~
+39 0 0 0 0
+D1
+   A stand of tall bushes.
+~
+bushes~
+1 0 3915
+D3
+~
+~
+0 0 3919
+S
+#3921
+An Animal Den~
+   A small oval of soft earth radiates out from a dark hole dug underneath the
+base of a tree.  Animal fur and the shells of nuts litter the periphery, while
+a faint musty odor emanates from within.  Barely noticable scratching sounds
+are apparent beneath the ground and a light chattering sound comes from within
+the hole.  Close inspection of the forest floor reveals a number of humanoid
+footprints in addition to the animal tracks.    
+~
+39 0 0 0 0
+D6
+~
+~
+0 0 3919
+S
+#3922
+The Grand Tree~
+   This is the base of a massive and ancient oak tree with a trunk so wide it
+is impossible to span with the arms.  Its branches are the size of small trees
+themselves, hanging low to the ground near the base but also extending high up
+into areas concealed by the canopy.  It stands alone, separated by some
+distance from the nearest trees of the rest of the forest.  The branches are
+interspersed in such a fashion as to allow the easy climbing of the tree.    
+~
+39 4 0 0 0
+D2
+~
+~
+0 0 3996
+D4
+~
+~
+0 0 3923
+S
+#3923
+Travelling Up the Trunk~
+   Large branches make climbing up the tree as easy as walking up steep steps.
+The cracked bark of the trunk offers places for handholds to add extra
+stability to the ascension.  The winding vertical passage appears well worn, as
+the surface of the branches appears smoother from the passing of many feet.  
+Squirrels run from branch to branch, chattering at your approach.    
+~
+39 0 0 0 0
+D1
+~
+~
+0 0 3925
+D3
+~
+~
+0 0 3924
+D4
+~
+~
+0 0 3927
+D5
+~
+~
+0 0 3922
+D7
+~
+~
+0 0 3926
+S
+#3924
+A Massive Branch~
+   A huge branch casts out from the main body of the tree and reaches towards
+the edge of the clearing.  It is large enough to carefully walk three abreast.
+Looking down, the small clearing appears charming and idyllic, vines from the
+branch hang down almost reaching the ground.  Small worn patches indicate where
+something has sat, quietly contemplating the scene.    
+~
+39 0 0 0 0
+D1
+~
+~
+0 0 3923
+S
+#3925
+A Branch Covered With Moss~
+   A branch covered with hanging moss sways slightly in a sudden breeze.  
+Although very large it is small enough to only permit one person at a time to
+cross it.  The spongy moss is soft to the touch but adds to the slipperyness of
+the walk.  It stretches down in fine tendrils well beyond arms length and
+quivers as the branch moves.    
+~
+39 256 0 0 0
+D3
+~
+~
+0 0 3923
+S
+#3926
+A Side Branch~
+   A small branch angles upwards after a short distance, bent in the middle in
+an attempt to better reach the sunlight.  Birds nests are visible, constructed
+in the crotches of small splits in the little branches too far away to be
+reachable.  The chirping of baby birds can be heard on the nests as the parents
+fly back in bringing small morsels of food to be passed on.    
+~
+39 256 0 0 0
+D8
+~
+~
+0 0 3923
+S
+#3927
+Travelling Up the Trunk~
+   Large branches make climbing up the tree as easy as walking up steep steps.
+The cracked bark of the trunk offers places for handholds to add extra
+stability to the ascension.  The winding vertical passage appears well worn, as
+the surface of the branches appears smoother from the passing of many feet.
+Squirrels run from branch to branch, chattering at your approach.
+~
+39 0 0 0 0
+D2
+~
+~
+0 0 3930
+D4
+~
+~
+0 0 3928
+D5
+~
+~
+0 0 3923
+S
+#3928
+Travelling Up the Trunk~
+   Large branches make climbing up the tree as easy as walking up steep steps.
+The cracked bark of the trunk offers places for handholds to add extra
+stability to the ascension.  The winding vertical passage appears well worn, as
+the surface of the branches appears smoother from the passing of many feet.  
+This is the uppermost climbable limit, as the branches above become too frail
+to bear weight.  The view here is breathtaking as it looks out over the canopy
+of the forest.  A treeless plain is visible off to the west far off in the
+distance.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3929
+D1
+~
+~
+0 0 3931
+D5
+~
+~
+0 0 3927
+S
+#3929
+A Massive Branch~
+   A huge branch casts out from the main body of the tree and reaches towards
+the edge of the clearing.  It is large enough to carefully walk three abreast.
+Looking down, the small clearing appears charming and idyllic, vines from the
+branch hang down almost reaching the ground.  Small worn patches indicate where
+something has sat, quietly contemplating the scene.
+~
+39 0 0 0 0
+D2
+~
+~
+0 0 3928
+S
+#3930
+A Seat Formed of Woven Twigs~
+   Out on the branch but still near the trunk is a small seat woven from
+flexible, living twigs that have sprouted up out of the tree seemingly for this
+specific purpose.  Little more than a comfortable stool, it offers a beautiful
+view of the surrounding forest and a small colony of ants which are cutting
+away at the leaves.  The branch thins out beyond this point and connot be
+crossed.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3927
+S
+#3931
+Crossing Between Trees~
+   Along the edge of the canopy, one large branch extends out beyond the
+clearing and reaches the trees in the forest beyond.  Halfway along, another
+branch comes close enough to step from one to the other and walk to the next
+tree.  This traverse is precarious however and must be done with extreme care
+so as not to fall.    
+~
+39 256 0 0 0
+D1
+~
+~
+0 0 3932
+D3
+~
+~
+0 0 3928
+S
+#3932
+A Natural Hollow in the Trunk~
+   In a nondescript tree just outside the clearing, a natural hollow provides a
+private place for thought and reflection.  Numerous tree dwelling animals mill
+about, relaxed and unafraid at any approach to their vicinity.  Strings of
+pretty flowers lay draped across the bottom of the hollow creating a soft a
+fragrant carpet.  A warm breeze blows in and ruffles the fur of the animals.  
+
+~
+39 0 0 0 0
+D3
+~
+~
+0 0 3931
+S
+#3933
+A Thick Wooden Gate~
+   The dense trees have closed together to form an impassable wall of
+interlocking branches.  It appears as though footprints continue in through
+them but how this is done cannot be seen.  A tiny basket sits off to one edge
+and appears to be a joined to the wall.  The branches are far too thick to chop
+through, though they do appear to be dried out and unhealthy.    
+~
+39 4 0 0 0
+D6
+~
+~
+0 0 3916
+D8
+A Thick Wooden Gate
+~
+gate~
+2 3900 3935
+E
+gate basket~
+   The wooden gate has a small basket on its side that seems to form part
+of the locking mechanism.
+~
+S
+#3934
+A Tranquil Pool of Water~
+   The forest gives way to a small pool of crystal clear water.  It is only a
+few steps across and has no visible source.  A light gurgling can be heard
+likely indicating this to be a spring.  Forest animals run up to the water to
+lap up a quick drink as birds also adeptly skim in for a taste.  Wildflowers
+spring up about its edges and a lush green carpet of green grass surrounds it
+to the trees.    
+~
+39 4194304 0 0 0
+D1
+~
+~
+0 0 3917
+S
+#3935
+Entrance to a Copse of Sickly Trees~
+   A sickly sweet scent resides in this copse of trees, smaller than those
+typically found in the rest of the forest.  They are alive, but lack the
+healthiness of the rest, appearing as if they have not been taken care of
+properly and have begun to become sick.  There is no trace of animal life and
+the sounds of the forest are sparse and disturbing.    
+~
+39 0 0 0 0
+D7
+A Thick Wooden Gate
+~
+gate~
+2 3900 3933
+D8
+~
+~
+0 0 3984
+S
+#3936
+A Thinning of the Trees~
+   The ground here has somewhat of a slight decline, pitching away from the
+scents of pine in the distance.  Although very dense, the constituent trees of
+the forest are of a type more typically associated with a young mixed wood
+forest rather than that of a mature stand.  Large birds appear, wheeling around
+overhead and heading out down the slope.    
+~
+39 0 0 0 0
+D1
+~
+~
+0 0 3903
+D8
+~
+~
+0 0 3937
+S
+#3937
+A Long Sloping Hill~
+   A steep slope leads down and away through thin patches of trees and away
+from the dense trees visible up the hill.  The air feels dry and hot, stiffly
+blowing up the incline.  The foliage is a mix of small softwood trees and tall
+yellowed grass.  The grass quivers for a moment as something unseen moves along
+the ground between its stalks.    
+~
+39 0 0 0 0
+D3
+~
+~
+0 0 3938
+D7
+~
+~
+0 0 3936
+S
+#3938
+Vista Over the Plains~
+   A low, treeless ridge stands out overlooking a wide, featureless plain.
+Far in the distance to the southwest, many days travel away, lies a mountian
+range rising up from a distant forest.  A haze caused by the heat rises up
+and distorts the view.  Herd animals can be seen grazing on the grass and
+kicking up dust as they move about looking for their food.
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3939
+D1
+~
+~
+0 0 3937
+D8
+~
+~
+0 0 3940
+S
+#3939
+An Abandoned Camp Site~
+   Along the ridge is a small abandoned camp site consisting of two stone tent
+rings and a very carefully constructed hearth filled with charcoal.  The area
+is otherwise undisturbed save for some curious scratchings in the dirt, likely
+made by someone trying to diagram something for another.  Those who constructed
+this camp can only have moved on recently as the wind has not yet had time to
+wear away the marks.    
+~
+39 0 0 0 0
+D2
+~
+~
+0 0 3938
+E
+scratchings diagram marks dirt~
+   A small diagram which seems to show a cave with some sort of line
+across it is here marked in the dirt.  A large representation of a person
+is standing behind the line.
+~
+S
+#3940
+Treeless, Dry Plains~
+   An arid and flat plain stretches out towards the horizon.  Tall, waving
+grass covers the ground, broken up by patches of dusty, dry soil.  Although
+seemingly inhospitable, it teams with life and activity.  Large animals can be
+seen grazing on the grass as large scavenging birds soar overhead.  The strong
+scent of pungent grasses overshadows the smell of passing herds.    
+~
+39 4 0 0 0
+D3
+~
+~
+0 0 3941
+D7
+~
+~
+0 0 3938
+S
+#3941
+A Grassy Field~
+   The tall grasses have grown up much thicker here, holding on to the thin
+soil and making it more arable.  Small animals take refuge within the stalks
+which probide ample cover from hungry predators.  The plains continue on to the
+limits of sight, the top of the grass waving together in the wind giving it the
+appearance of ripples on the water.    
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3942
+D1
+~
+~
+0 0 3940
+D2
+~
+~
+0 0 3949
+D3
+~
+~
+0 0 3948
+D6
+~
+~
+0 0 3943
+D8
+~
+~
+0 0 3950
+D9
+~
+~
+0 0 3957
+S
+#3942
+Some Low Scrub~
+   A small stand of scrub brush nestles into the tall grass.  The stunted, tiny
+leaved shrubs send down long roots into the ground to try to access the supply
+of water which rests only a short distance below the surface of the plain.  
+Thorny branches prevent close inspection, but little birds nests are visible
+resting within the protection the branches offer.    
+~
+39 0 2 0 0
+D2
+~
+~
+0 0 3941
+D3
+~
+~
+0 0 3943
+S
+#3943
+An Open Area in the Grass~
+   This spot has been ravaged over by some long past herd of grazing animals
+that completely dug up and ate the grass completely to the roots.  Now only dry
+soil remains and the dust is picked up by the wind and blown around in tiny
+cyclones of swirling air.  At the edges grass is starting to make a return, but
+it will be many years before it will be fed upon again.    
+~
+39 0 2 0 0
+D1
+~
+~
+0 0 3942
+D2
+~
+~
+0 0 3948
+D3
+~
+~
+0 0 3944
+D9
+~
+~
+0 0 3941
+S
+#3944
+A Pile of Dry Brush~
+   Sitting on an otherwise healthy looking patch of of field grass is a small
+pile of dried brush.  The dead plants were likely picked up by the wind and
+blown away to spread their seeds, getting caught here on the tall grass.  Over
+a low rise is a thin, empty stream surrounded by dead marsh grass.  The mud on
+its banks speckled with footprints of a flock of birds.
+~
+39 0 2 0 0
+D0
+   A pile of dried brush.
+~
+brush~
+1 0 3960
+D1
+~
+~
+0 0 3943
+D3
+~
+~
+0 0 3945
+D9
+~
+~
+0 0 3948
+S
+#3945
+A Grassy Field~
+   The tall grasses have grown up much thicker here, holding on to the thin
+soil and making it more arable.  Small animals take refuge within the stalks
+which probide ample cover from hungry predators.  The plains continue on to the
+limits of sight, the top of the grass waving together in the wind giving it the
+appearance of ripples on the water.
+~
+39 0 2 0 0
+D1
+~
+~
+0 0 3944
+D2
+~
+~
+0 0 3946
+S
+#3946
+Some Low Scrub Brush~
+   A small stand of scrub brush nestles into the tall grass.  The stunted, tiny
+leaved shrubs send down long roots into the ground to try to access the supply
+of water which rests only a short distance below the surface of the plain.
+Thorny branches prevent close inspection, but little birds nests are visible
+resting within the protection the branches offer.
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3945
+D1
+~
+~
+0 0 3947
+D2
+~
+~
+0 0 3952
+S
+#3947
+Treeless, Dry Plains~
+   An arid and flat plain stretches out towards the horizon.  Tall, waving
+grass covers the ground, broken up by patches of dusty, dry soil.  Although
+seemingly inhospitable, it teams with life and activity.  Large animals can be
+seen grazing on the grass as large scavenging birds soar overhead.  The strong
+scent of pungent grasses overshadows the smell of passing herds.
+~
+39 0 2 0 0
+D1
+~
+~
+0 0 3948
+D2
+~
+~
+0 0 3951
+D3
+~
+~
+0 0 3946
+D8
+~
+~
+0 0 3952
+S
+#3948
+The Continuing Plains~
+   The plains seem to continue on forever with a never-ending similarity.  The
+only respite being the brief encounters with the wary residents of this plain.
+Although somewhat barren, this expanse preserves a dignified and austere beauty
+that does not lack of life or activity.  What appears to be people on horseback
+quickly traverse a ridge just barely visible in the distance then disappear out
+of sight.    
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3943
+D1
+~
+~
+0 0 3941
+D3
+~
+~
+0 0 3947
+D6
+~
+~
+0 0 3944
+D9
+~
+~
+0 0 3949
+S
+#3949
+An Open Area Amidst the Grass~
+   This spot has been ravaged over by some long past herd of grazing animals
+that completely dug up and ate the grass completely to the roots.  Now only dry
+soil remains and the dust is picked up by the wind and blown around in tiny
+cyclones of swirling air.  At the edges, grass is starting to make a return,
+but it will be many years before it will be fed upon again.    
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3941
+D1
+~
+~
+0 0 3957
+D2
+~
+~
+0 0 3956
+D3
+~
+~
+0 0 3950
+D6
+~
+~
+0 0 3948
+S
+#3950
+A Stretch of Open Field~
+   The standard feel of the plain momentarily gives way to a stretch of greener
+grass and the buzzing of insects.  Such extra growth has apparently been fed by
+the slaughter of a large number of herd animals some time ago, their blood
+fertilizing the soil.  Scattered bones lay about the ground and deep
+indentations, likely caused by horses hooves cover the area.    
+~
+39 0 2 0 0
+D1
+~
+~
+0 0 3949
+D2
+~
+~
+0 0 3955
+D3
+~
+~
+0 0 3951
+D7
+~
+~
+0 0 3941
+D8
+~
+~
+0 0 3954
+S
+#3951
+Hummocks and Hills~
+   A small series of small hills breaks up the horizon and makes travel more
+difficult.  Low grass and ground creeping vines cover the surface surrounding
+innumerable prarie dog holes.  Many long, hard years have taught the little
+animals to stick together in this colony for protection.  Your approach causes
+loud squealing and the sound the sound of little feet scurrying down the holes.
+  
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3947
+D1
+~
+~
+0 0 3950
+D2
+~
+~
+0 0 3954
+D3
+~
+~
+0 0 3952
+D5
+   A small hatch covered with dirt and grass.
+~
+hatch~
+1 0 3966
+S
+#3952
+An Open Area~
+   This spot has been ravaged over by some long past herd of grazing animals
+that completely dug up and ate the grass completely to the roots.  Now only dry
+soil remains and the dust is picked up by the wind and blown around in tiny
+cyclones of swirling air.  At the edges grass is starting to make a return, but
+it will be many years before it will be fed upon again.
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3946
+D1
+~
+~
+0 0 3951
+D2
+~
+~
+0 0 3953
+D7
+~
+~
+0 0 3947
+S
+#3953
+Treeless, Dry Plains~
+   An arid and flat plain stretches out towards the horizon.  Tall, waving
+grass covers the ground, broken up by patches of dusty, dry soil.  Although
+seemingly inhospitable, it teams with life and activity.  Large animals can be
+seen grazing on the grass as large scavenging birds soar overhead.  The strong
+scent of pungent grasses overshadows the smell of passing herds.
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3952
+D1
+~
+~
+0 0 3954
+D9
+~
+~
+0 0 3963
+S
+#3954
+A Grassy Field~
+   The tall grasses have grown up much thicker here, holding on to the thin
+soil and making it more arable.  Small animals take refuge within the stalks
+which probide ample cover from hungry predators.  The plains continue on to the
+limits of sight, the top of the grass waving together in the wind giving it the
+appearance of ripples on the water.
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3951
+D1
+~
+~
+0 0 3955
+D2
+~
+~
+0 0 3963
+D3
+~
+~
+0 0 3953
+D7
+~
+~
+0 0 3950
+S
+#3955
+Some Low Scrub Brush~
+   A small stand of scrub brush nestles into the tall grass.  The stunted, tiny
+leaved shrubs send down long roots into the ground to try to access the supply
+of water which rests only a short distance below the surface of the plain.
+Thorny branches prevent close inspection, but little birds nests are visible
+resting within the protection the branches offer.
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3950
+D1
+~
+~
+0 0 3956
+D2
+~
+~
+0 0 3962
+D3
+~
+~
+0 0 3954
+S
+#3956
+The Continuing Plains~
+   The plains seem to continue on forever with a never-ending similarity.  The
+only respite being the brief encounters with the wary residents of this plain.
+Although somewhat barren, this expanse preserves a dignified and austere beauty
+that does not lack of life or activity.  What appears to be people on horseback
+quickly traverse a ridge just barely visible in the distance then disappear out
+of sight.
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3949
+D1
+~
+~
+0 0 3959
+D3
+~
+~
+0 0 3955
+D8
+~
+~
+0 0 3962
+S
+#3957
+A Pile of Dry Brush~
+   Sitting on an otherwise healthy looking patch of of field grass is a small
+pile of dried brush.  The dead plants were likely picked up by the wind and
+blown away to spread their seeds, getting caught here on the tall grass.  Over
+a low rise is a thin, empty stream surrounded by dead marsh grass.  The mud on
+its banks speckled with footprints of a flock of birds.    
+~
+39 0 2 0 0
+D1
+~
+~
+0 0 3958
+D3
+~
+~
+0 0 3949
+D6
+~
+~
+0 0 3941
+S
+#3958
+Beside A High Ridge~
+   The plains run up against a very high ridge here.  On top of the ridge can
+be seen a lush and beautiful forest.  The exited sounds of forest animals
+cascade down form above, contrasting the quiet shuffling and grunting of the
+grazing animals of the plain.  Here and there, where seeds have dropped from
+trees above, small trees attempt to gain a foothold in the plain but the arid
+soil just cannot support their needs and leaves them withered.    
+~
+39 0 2 0 0
+D3
+~
+~
+0 0 3957
+D8
+~
+~
+0 0 3959
+S
+#3959
+Travelling Beside the Ridge~
+   A high forested ridge looms overhead, sending down fresh woodland scents and
+humid air in a stiff breeze.  Roots stick out of the sides of the eroded face
+and several large trees have begun to keel over and lean towards the plain as
+their footing gives way.  Loose piles of rock and soil form little ramps on the
+sides of the ridge as detritus falls down from the slowly receding bank.    
+~
+39 0 2 0 0
+D3
+~
+~
+0 0 3956
+D7
+~
+~
+0 0 3958
+D8
+~
+~
+0 0 3961
+S
+#3960
+A Dried Up Stream Bed~
+   What is occasionally a ready supply of water is currently a dried up
+crevace.  It appears as though water has flown recently through here as the mud
+on its surface, although cracked and curled, is still a moist red color between
+the breaks.  The remains of tiny fish not yet picked up by scavengers lay
+scattered about, but have been exposed long enough to have lost their smell of
+decay.    
+~
+39 0 0 0 0
+D2
+   A pile of dried brush.
+~
+brush~
+1 0 3944
+S
+#3961
+Beside A High Ridge~
+   The plains run up against a very high ridge here.  On top of the ridge can
+be seen a lush and beautiful forest.  The exited sounds of forest animals
+cascade down form above, contrasting the quiet shuffling and grunting of the
+grazing animals of the plain.  Here and there, where seeds have dropped from
+trees above, small trees attempt to gain a foothold in the plain but the arid
+soil just cannot support their needs and leaves them withered.
+~
+39 0 2 0 0
+D3
+~
+~
+0 0 3962
+D7
+~
+~
+0 0 3959
+D8
+~
+~
+0 0 3965
+S
+#3962
+A Pile of Dried Brush~
+   Sitting on an otherwise healthy looking patch of of field grass is a small
+pile of dried brush.  The dead plants were likely picked up by the wind and
+blown away to spread their seeds, getting caught here on the tall grass.  Over
+a low rise is a thin, empty stream surrounded by dead marsh grass.  The mud on
+its banks speckled with footprints of a flock of birds.
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3955
+D1
+~
+~
+0 0 3961
+D2
+~
+~
+0 0 3965
+D3
+~
+~
+0 0 3963
+D7
+~
+~
+0 0 3956
+S
+#3963
+The Continuing Plains~
+   The plains seem to continue on forever with a never-ending similarity.  The
+only respite being the brief encounters with the wary residents of this plain.
+Although somewhat barren, this expanse preserves a dignified and austere beauty
+that does not lack of life or activity.  What appears to be people on horseback
+quickly traverse a ridge just barely visible in the distance then disappear out
+of sight.
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3954
+D1
+~
+~
+0 0 3962
+D2
+~
+~
+0 0 3964
+D6
+~
+~
+0 0 3953
+S
+#3964
+Entering the Pass~
+   A ridge in the near distance begins to angle in towards an inhospitable
+region of the plain.  Although the ridge looks to be climbable in some places,
+it is easier to parallel it and stay out of an area of the plains that is blank
+and featureless, increasing the possibility of getting lost.  Some distance to
+the south, clopping hooves and calm voices can be heard.    
+~
+39 0 2 0 0
+D0
+~
+~
+0 0 3963
+D1
+~
+~
+0 0 3965
+D2
+~
+~
+0 0 3968
+S
+#3965
+Travelling Beside the Ridge~
+   The plains run up against a very high ridge here.  On top of the ridge can
+be seen a lush and beautiful forest.  The exited sounds of forest animals
+cascade down form above, contrasting the quiet shuffling and grunting of the
+grazing animals of the plain.  Here and there, where seeds have dropped from
+trees above, small trees attempt to gain a foothold in the plain but the arid
+soil just cannot support their needs and leaves them withered.  Vines stretch
+down here to the floor of the plain, enabling ascent into the forest.    
+~
+39 4 2 0 0
+D0
+~
+~
+0 0 3962
+D3
+~
+~
+0 0 3964
+D7
+~
+~
+0 0 3961
+D8
+~
+~
+0 0 3968
+D9
+~
+~
+0 0 3969
+S
+#3966
+Down the Hole~
+   A small tunnel far too large for a prarie dog to have dug extends away into
+one of the hills.  It is damp and dark, and many insects unable to live in the
+heat on the surface have made this their home turning the floor into a living
+mass.  Dust falls down into the tunnel from the hatch above and high clouds are
+visible passing overhead through the hole.    
+~
+39 257 0 0 0
+D1
+~
+~
+0 0 3967
+D4
+   A small hatch in the top of the tunnel.
+~
+hatch~
+1 0 3951
+S
+#3967
+A Small Hidden Cache~
+   At the end of the tunnel is a cramped little room with no light and stuffy,
+stale air.  Although offering very little in the way of space, this spot is
+well hidden and protected, to deep for any of the plains animals to gain access
+save the prarie dogs.  Off to one corner of the tunnel there is a diminutive
+hole in the side of the earthen wall, just large enough to fit an arm inside
+and feel around.    
+~
+39 265 0 0 0
+D3
+~
+~
+0 0 3966
+S
+#3968
+A Half Constructed Gate in the Pass~
+   Stone outcropping begins to appearing everywhere replacing the flatness of
+the plains and blocking movement.  These geological features seem to be part of
+a tiny finger on the edge of a large mountian range far to the south.  The rock
+pinches off into a thin passageway that is blocked by a wooden gate which
+completely seals the pass.  Although seemingly strong enough already, it
+appears as though attempts are being made to further fortify it as additional
+logs are stacked up all around.    
+~
+39 4 2 0 0
+D0
+~
+~
+0 0 3964
+D2
+   A partially constructed wooden gate with a small keyhole blocks you way.
+~
+gate wooden~
+2 3902 3972
+D7
+~
+~
+0 0 3965
+S
+#3969
+On Top of the Ridge~
+   A beautiful view of the plains is offered here standing in the trees on top
+of the long ridge.  The plant life here is healthy but appears dusty and
+sunbaked, unlike the moist vitality of trees seen deeper into the woods.  
+Erosion has taken its toll on the edge of the forest and many of the larger
+trees have fallen over leaving deep holes in the ground where their roots were
+pulled up as they fell.    
+~
+39 0 0 0 0
+D2
+~
+~
+0 0 3970
+D6
+~
+~
+0 0 3965
+S
+#3970
+A Wood Lot~
+   There are wood chips and sections of thick logs lying all over the ground
+here.  It appears as though someone has been trying to harvest the wood here
+from some of the forest.  A quick glance around reveals that no trees have been
+cut down and that all the work and salvage is taking place on the trees that
+have just recently fallen over of their own accord.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3969
+D3
+~
+~
+0 0 3971
+S
+#3971
+A Worn Down Edge~
+   The edge of the ridge here has been significantly worn down, creating a wide
+channel an armslength in depth for several paces along the edge of the ridge.
+Many thick vines, tied to trees, lay coiled on the forest floor and look as
+though they could be used to lower things over the edge.  Looking down, a stone
+pass is apparent, blocked by a wooden gate probably constructed from the logs
+taken from this forest.    
+~
+39 0 0 0 0
+D1
+~
+~
+0 0 3970
+S
+#3972
+Through the Pass~
+   High stone walls close in and direct travel straight down their length.  
+Hard pinkish granite speckled with white and black flecks continues from the
+ground halfway up the walls, with reddish-brown sandstone filling the rest of
+the distance up to the forest above.  A vine with a large piece of wood
+attached dangles down from way above but is still far to high to be reached.  
+
+~
+39 0 0 0 0
+D0
+   A partially constructed gate blocks your way.
+~
+gate~
+2 3902 3968
+D8
+~
+~
+0 0 3973
+S
+#3973
+Coming Into the Camp~
+   The little stone canyon is wide enough here to have more room for movement,
+as opposed to the pass to the north.  Many hoof prints are visible on the
+ground now and your movement begins to echo within the walls.  Quiet but stern
+voices can be heard to the south accompanied by the sounds of animals, and
+figures are apparent walking around the edges of a camp fire.    
+~
+39 0 0 0 0
+D2
+~
+~
+0 0 3974
+D7
+~
+~
+0 0 3972
+S
+#3974
+Center of the Camp~
+   A large temporary camp has been set up within the stone clearing.  A
+campfire burns in the center, cooking large pieces of meat on a spit, and a few
+fresh animal skins have been staked out flat to dry in the warm air.  
+Shuffling noises are easily heard coming from dark corners of the canyon and a
+small slanted lean-to can be seen of to one side of the fire.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3973
+D1
+~
+~
+0 0 3975
+D2
+~
+~
+0 0 3976
+D9
+~
+~
+0 0 3977
+S
+#3975
+Tent Made of Animal Skins~
+   An informal shelter has been constructed near the fire, but still far enough
+away to afford some privacy.  Long and straight branches, bleached white by the
+sun have been lashed together with hide strips and covered by tanned animal
+hides.  The shaggy pelt of a bear lays underneath as a bed roll.  High enough
+to stand under, the shelter remains intentionally open so as to enjoy the air
+and view the sky.    
+~
+39 0 0 0 0
+D3
+~
+~
+0 0 3974
+S
+#3976
+A Resting Area~
+   Mats and blankets lay about on the ground circling the periphery of the camp
+fire.  Packs and other belongings are neatly piled together to form rough
+pillows and stashes of food are hung out of reach atop tall tripods made from
+saplings.  The rocky floor of the canyon is covered by fist sized rocks and
+small shrubs, causing the blankets to be layed out in random and distant order.
+  
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3974
+S
+#3977
+A Resting Place~
+   Mats and blankets lay about on the ground circling the periphery of the camp
+fire.  Packs and other belongings are neatly piled together to form rough
+pillows and stashes of food are hung out of reach atop tall tripods made from
+saplings.  The rocky floor of the canyon is covered by fist-sized rocks and
+small shrubs, causing the blankets to be layed out in random and distant order.
+  
+~
+39 0 0 0 0
+D1
+~
+~
+0 0 3978
+D6
+~
+~
+0 0 3974
+S
+#3978
+Approaching A Rock Outcrop~
+   The canyon is narrower here, almost as thin as its entrance.  Boulders have
+fallen down from the upper levels of sandstone and are strewn about the ground.
+There are numerous heavy drag marks and twigs, likely the result from bringing
+large logs through.  Occasionally, heavy thuds from the distance ripple down
+the canyon strong enough to feel.    
+~
+39 0 0 0 0
+D3
+~
+~
+0 0 3977
+D7
+~
+~
+0 0 3979
+S
+#3979
+A Huge Stone Outcrop~
+   The opening between the cliffs abruptly stops at a high stone face composed
+of granite.  It appears as though a very large natural cave has been covered
+over with a wall of logs several paces thick, reinforced by other full tree
+trunks laid in diagonally with a pile of stones on top.  A tiny door, large
+enough only to crawl through is in the bottom corner of the wall.  The logs
+vibrate as something pounds on them from inside.    
+~
+39 0 0 0 0
+D1
+   A tiny door set in a pile of logs
+~
+door~
+2 3901 3980
+D8
+~
+~
+0 0 3978
+S
+#3980
+The Mouth of the Cave~
+   A wide cave in a conical shape spreads out into the granite from this
+opening.  A wall of interlocking logs prevents exit except through a tiny door
+near its base.  The logs appear torn and bashed as if they had taken heavy
+abuse.  In the darkness, heavy shuffling and a rustling on the small stones of
+the floor is apparent as though there were movement.    
+~
+39 5 0 0 0
+D1
+~
+~
+0 0 3982
+D3
+   A tiny door set in a pile of logs.
+~
+door~
+2 3901 3979
+D7
+~
+~
+0 0 3981
+D9
+~
+~
+0 0 3983
+S
+#3981
+A Dimly Lit Cave~
+   Rough granite walls circle off through the cave, flickering with light from
+the one source of illumination in the distance.  The faint light reveals thick
+red marks clumbsily spread on the walls of the cave.  From above a soft
+flapping noise appears as some bats take flight and escape the cave down some
+high, unlit tunnel.    
+~
+39 1 0 0 0
+D2
+~
+~
+0 0 3982
+D8
+~
+~
+0 0 3980
+E
+marks~
+   Written in blood is a barely comprehensible message. It reads;
+
+WHY THIS HAPEN ME. STUK IN HOLE. WANT GO HOME.
+
+The rest is indecipherable.
+~
+S
+#3982
+Deep Inside the Cave~
+   A massive stone sits here, appearing to have fallen down as a section of the
+ceiling of the cave above gave way.  A small lit torch is stuck in a crack
+providing a dim and shadowy view of the surrounding area.  The carcasses of
+animals lay all around, the bones broken to extract the marrow.  A length of
+rope remains firmly attached to the stone, its end trailing away.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3981
+D2
+~
+~
+0 0 3983
+D3
+~
+~
+0 0 3980
+E
+rope~
+   A section of tightly wrapped and glowing rope stretches out from the
+rock.  It is incredibly strong and apparently cannot be removed.
+~
+S
+#3983
+A Dimly Lit Cave~
+   Rough granite walls circle off through the cave, flickering with light from
+the one source of illumination in the distance.  The faint light reveals thick
+red marks spread on the walls of the cave.  From above, a soft flapping noise
+appears as some bats take flight and escape the cave down some high, unlit
+tunnel.    
+~
+39 1 0 0 0
+D0
+~
+~
+0 0 3982
+D6
+~
+~
+0 0 3980
+E
+marks~
+   Written in blood on the wall;
+
+HORSE MANS DO. WHY HATES ME. I CRUSH SOON
+~
+S
+#3984
+A Walkway Through the Trees~
+   Brown leaves and pine needles litter the ground through a narrow passageway
+between the trees.  They hang overhead forming a crude roof for shelter, but
+leave many gaps and ultimately offer very little protection.  Bark is peeling
+from the trunks indicating a lack of health, though not incorrectable with
+proper care.  The forests sense of balance is wrong and the trees look forced
+and stunted.    
+~
+39 0 0 0 0
+D2
+~
+~
+0 0 3985
+D7
+~
+~
+0 0 3935
+S
+#3985
+An Ugly Formation of Trees~
+   The misshapen trees arch together into a domed roof covering the forest
+floor.  The appearance of many footprints and broken branches convey that there
+has been an improper or misguided regard for nature here.  Everything is
+disorderly as trees and shrubs join together in incongruous forms lacking
+beauty and dignity.  Vines hang down in the way and must be pushed aside to
+pass.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3984
+D2
+~
+~
+0 0 3987
+D8
+~
+~
+0 0 3986
+D9
+~
+~
+0 0 3988
+S
+#3986
+A Room Made of Piled Branches~
+   A small room is constructed here from dead branches fallen from the trees,
+rather than the structures which have been woven from the living fabric of the
+forest.  Looking almost like a nest, the hovel is littered with detritus and
+half eaten food.  Spiders and other insects crawl through the branches and ants
+cover the floor.  The stale air is overpowering and it is very dim.    
+~
+39 0 0 0 0
+D7
+~
+~
+0 0 3985
+S
+#3987
+A Walkway Through the Trees~
+   Brown leaves and pine needles litter the ground through a narrow passageway
+between the trees.  They hang overhead forming a crude roof for shelter, but
+leave many gaps and ultimately offer very little protection.  Bark is peeling
+from the trunks indicating a lack of health, though not incorrectable with
+proper care.  The forests sense of balance is wrong and the trees look forced
+and stunted.
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3985
+D2
+~
+~
+0 0 3990
+D8
+~
+~
+0 0 3989
+D9
+~
+~
+0 0 3991
+S
+#3988
+A Walkway Through the Trees~
+   Brown leaves and pine needles litter the ground through a narrow passageway
+between the trees.  They hang overhead forming a crude roof for shelter, but
+leave many gaps and ultimately offer very little protection.  Bark is peeling
+from the trunks indicating a lack of health, though not incorrectable with
+proper care.  The forests sense of balance is wrong and the trees look forced
+and stunted.
+~
+39 0 0 0 0
+D6
+~
+~
+0 0 3985
+S
+#3989
+A Room Made of Piled Branches~
+   A small room is constructed here from dead branches fallen from the trees,
+rather than the structures which have been woven from the living fabric of the
+forest.  Looking almost like a nest, the hovel is littered with detritus and
+half eaten food.  Spiders and other insects crawl through the branches and ants
+cover the floor.  The stale air is overpowering and it is very dim.
+~
+39 0 0 0 0
+D7
+~
+~
+0 0 3987
+S
+#3990
+A Crude Stone Altar~
+   Here at the end of the passage stands a large amorphous stone with a small
+indentation on its top surface.  The foliage here appears to be slightly
+healthier, but is still in a state of sickness.  Pieces of stone lay about the
+altar yet to be removed and indicating that its construction is recent or
+ongoing.  Small offerings of berries and flowers lay atop the stone covered in
+light inscriptions.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3987
+S
+#3991
+A Pile of Stones~
+   A wall of stones has been hastily erected between the trees blocking access
+to whatever lies behind and the trees prevent passage around.  There are
+curious scuff marks in the ground appearing as though something has been
+dragged through here and behind the wall.  The reddish-brown sandstone wall is
+poorly constructed and it may be possible to move some of it in order to
+proceed.    
+~
+39 0 0 0 0
+D1
+   A large pile of stones.
+~
+stones~
+0 0 3992
+D6
+~
+~
+0 0 3987
+S
+#3992
+The Top of the Steps~
+   A set of natural field stone steps have been placed here to facilitate easy
+travel down a steep slope into a deep gulley eroded into the ground between the
+trees.  Tree roots uncovered by the erosion protrude out into the crevice
+providing easy handholds so as not to lose balance while traversing the stones.
+It does appear, however, that someone was not so lucky and blood marks the
+stones near the bottom.    
+~
+39 4 0 0 0
+D3
+   A large pile of stones.
+~
+stones~
+0 0 3991
+D5
+~
+~
+0 0 3998
+S
+#3993
+The Edge of the Glade~
+   The forest borders here on the edge of a beautiful glade.  The trees are
+slowly encroaching on the open space but do not extend out into the field
+itself.  Birds dart out of the trees and into the clearing to snatch a small
+morsel of food seen on the ground, to turn back just as quickly with their
+prize and speed back into the trees.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3919
+D2
+~
+~
+0 0 3994
+S
+#3994
+A Hush in the Woods~
+   The sounds of the forest begin to diminish for no apparent reason.  The air
+is still and only a faint bird call can be heard in the distance, unlike the
+cacophonous noise of life in the rest of the forest.  This change however does
+not seem foreboding, but rather feels as though a reverent calm has been
+imposed and the denizens of the woods respect this innately.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3993
+D1
+~
+~
+0 0 3995
+D3
+~
+~
+0 0 3996
+S
+#3995
+Through A Beautiful Archway~
+   The trees have grown into grand architectural forms, most noticably a
+stunning archway of woven branches and trunks.  Vines covered in flowers travel
+up the sides and hang, traversing the span, to add to the natural beauty of the
+site.  A calm presides over the air causing the rich forest aroma to linger
+rather than be blown away by the breeze.    
+~
+39 0 0 0 0
+D3
+~
+~
+0 0 3994
+D7
+~
+~
+0 0 3997
+S
+#3996
+Approaching an Ancient Tree~
+   The forest here appears to be at its most vibrant.  Trees and bushes burst
+with color as little animals scurry about purposefully but in complete silence.
+Beyond the nearby trees a clearing with a massive tree in its center can be
+seen.  The tree extends into the canopy and out of view, hiding its uppermost
+branches from view.    
+~
+39 0 0 0 0
+D0
+~
+~
+0 0 3922
+D1
+~
+~
+0 0 3994
+S
+#3997
+The Meeting Place~
+   The branches and trunks of the trees are woven together here to form a
+nearly solid wooden dome providing shelter and shade.  A large natural stone
+with a flat surface rests in the center, encircled by numerous other smaller
+stones that look somewhat like seats.  Curious writing is inscribed around the
+edges of the center stone, and its sides appear worn and smooth as if leaned
+upon for many years.    
+~
+39 0 0 0 0
+D8
+~
+~
+0 0 3995
+S
+#3998
+The Bottom of the Steps~
+   Standing here a set of stone steps are apparent, leading up the side of a
+steep gully.  A thin trickle of water flows through leaving the ground muddy
+and sticky.  Birds fly down to pick worms out of the wet soil and small holes
+are visible all along the high edges, likely the nests for small animals.  
+Small patches of dried blood stain the last few steps an the mud is torn up by
+something's passing.    
+~
+39 0 0 0 0
+D4
+~
+~
+0 0 3992
+D9
+~
+~
+0 0 3999
+S
+#3999
+A Damp and Cold Cell~
+   A shallow cave has been tunneled out of the side of the gully.  Just large
+enough for a few people, it appears as though someone has been living here for
+quite some time.  Strangely, small animals slip through hole in the entrance
+gate bringing berries and nuts, leaving them on the ground in a group.  A pile
+of leaves sits in the corner, creating an uncomfortable place to sleep.    
+~
+39 8 0 0 0
+D6
+~
+~
+0 0 3998
+S
+$~

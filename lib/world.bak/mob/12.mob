@@ -1,0 +1,195 @@
+#1200
+men white coats innkeeper coat man~
+the man in the white coat~
+The men in the white coats have finally come for you.
+~
+   Hoping to keep from getting you all worked up again, the man in the white
+coat tries to escort you quietly to your cell ...  Er, room.  His apprehension
+is evidenced by the fact that he carries a straight jacket and stun gun.  It is
+probably best that you just take a deep breath and go have some quiet time
+before someone gets hurt.    
+~
+11 32768 0 0 E
+30 0 -10 1d49+901 4d8+5
+0 0 0
+8 8 1 3
+Maxmove: 50
+E
+#1201
+postmaster master post~
+the Immortal Postmaster~
+The Immortal Postmaster is hard at work here.
+~
+Scary... a postal worker... working?
+~
+11 32768 0 0 E
+30 0 -10 1d49+901 4d8+5
+0 0 0
+8 8 1 1
+Maxmove: 50
+E
+#1202
+being amorphous spirit wandering~
+the wandering spirit~
+A strange amorphous being wanders these halls eternally cleaning.
+~
+This spirit, having lived out its days in the mortal world, now
+works off its final sins by doing menial labour in this realm's
+purgatory.  In this case, those chores seem to be cleaning up
+after the immortals of the land.
+~
+65613 295944 0 0 E
+30 0 -10 1d49+901 4d8+5
+0 0 0
+8 8 0 5
+Maxmove: 50
+E
+#1203
+imp grey greyish~
+a small tiny imp~
+A small greyish imp giggles as you pass her by.
+~
+It looks unfinished.
+  This little imp giggles madly as you pass her by. Her hands quickly go to
+cover her mouth. As you pass her bright blue eyes light up brightly as she 
+eyes you.
+~
+8 0 0 0 E
+0 20 10 0d1+0 1d1+0
+0 0 0
+8 8 2 0
+Maxmove: 50
+E
+#1204
+eric cartman~
+Eric Cartman~
+Eric Cartman
+~
+It looks unfinished.
+~
+8 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 0
+Maxmove: 50
+E
+T 6
+#1234
+gingersnap snap dragon copper~
+a young copper dragon~
+An impulsive young dragon with copper scales flips his tail arrogantly.
+~
+   Bright copper scales cover this young dragon, who appears full of energy,
+brashness, and eagerness to prove himself as most young ones often do.  The way
+the sunlight plays upon his scales, and his somewhat snappish temper has given
+him the name of Gingersnap, or Snap for short.    
+~
+8112154 98364 9443346 600 E
+30 5 -22 3d33+1700 1d5+10
+0 250000 1
+8 8 1 0
+BareHandAttack: 9
+Maxmove: 50
+E
+#1235
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+Maxmove: 100
+E
+#1255
+boss vice president~
+a boss~
+A vice president in a shirt and tie stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 1 0
+Maxmove: 50
+E
+#1295
+Rufus enourmus minotaur~
+Rufus~
+Rufus, an enourmus beast with bloodstained horns, is standing here.
+~
+   Rufus stands about 7 feet tall.  Weighing well over 400 pounds.  In the
+center of his nose, a large ring can be seen.    
+~
+10 0 0 0 E
+28 5 -7 10d20+0 3d10+20
+0 2147483647 0
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#1296
+bob skeleton~
+Bob the Skeleton~
+Bob the Skeleton stands here.
+~
+   Before you stands Bob the Skeleton.  He looks quite happy..  Course, he is a
+skeleton and is always smiling.  He nods, then starts reading through his cook
+book some more.  Next to him is a pile of books on anger management.    
+~
+8 0 0 0 E
+1 20 10 1d1+0 1d1+0
+0 0 0
+8 8 1 0
+Maxmove: 50
+E
+#1297
+beast mangled regal~
+a beast in mangled regal silks~
+A beast in mangled regal silks stand before you growling!
+~
+A deadly beast, built to kill...
+~
+163866 1032 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 3
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#1298
+guard wounded nobleman noble guard guardsman~
+the wounded guard of a nobleman~
+Staggering under his injuries, a guardsman of a noble, by his attire, stands here.
+~
+   His clothing hacked in pieces, and deep wounds covering him up and down,
+this man looks to have been involved in a major battle.  Every movement is one
+of agony for him, and he is nearly at the end of his sanity.    
+~
+26 1064 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 3
+8 8 1 0
+Maxmove: 50
+E
+#1299
+eric cartman~
+Eric Cartman~
+Eric Cartman stands here.
+~
+   You see before you a short, fat, beligerent little 8 year old named Eric
+Cartman who is from the Colorado town of Southpark.  He is a food freak and
+thinks he is gods gift to women even though he is about 3'5" and weighs 80lbs.
+  
+~
+10 0 0 0 E
+29 5 -21 3d33+1450 1d5+9
+0 213000 0
+8 8 1 0
+Maxmove: 50
+E
+$

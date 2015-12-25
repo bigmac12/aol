@@ -1,0 +1,1313 @@
+#2900
+A Pool of Muck~
+   You are standing a shallow pool of dark, mucky, water.  Something tells you
+that it would be most unhealthy to drink this water, and it is probably
+unhealthy to merely stand in it.  A large grate covers a hole in the stone
+ceiling overhead, leading into one of the back alleys of Kalaman.  Apparently
+you have wandered your way into the city's sewers, and the strong smell that
+assaults your nose seems to confirm this.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2901
+D1
+~
+~
+0 0 2930
+D3
+~
+~
+0 0 2931
+D4
+~
+grate~
+1 0 10080
+S
+#2901
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2902
+D2
+~
+~
+0 0 2900
+S
+#2902
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2903
+D2
+~
+~
+0 0 2901
+S
+#2903
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2904
+D2
+~
+~
+0 0 2902
+D3
+~
+~
+0 0 2959
+S
+#2904
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on its own.
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2905
+D2
+~
+~
+0 0 2903
+S
+#2905
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2906
+D2
+~
+~
+0 0 2904
+D3
+~
+~
+0 0 2958
+S
+#2906
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2907
+D3
+~
+~
+0 0 2905
+S
+#2907
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2908
+D2
+~
+~
+0 0 2925
+D3
+~
+~
+0 0 2906
+S
+#2908
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2909
+D3
+~
+~
+0 0 2907
+S
+#2909
+Before A Hole In The Ground~
+   This portion of the tunnel has a large hole dug into its floor.  Large dirt
+walls, about a foot above the level of the murky water, surround the hole,
+rerouting the water around it.  You look down into the hole, and all you can
+see is darkness.  Small hand and footholds have been carved into the sides of
+the hole, leading down into its dark depths.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2910
+D3
+~
+~
+0 0 2908
+D5
+~
+~
+0 0 9736
+S
+#2910
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 5 0 0 0
+D0
+~
+~
+0 0 2911
+D2
+~
+~
+0 0 2914
+D3
+~
+~
+0 0 2909
+D4
+~
+grate~
+1 0 10031
+S
+#2911
+A Pool of Muck~
+   You are standing a shallow pool of dark, mucky, water.  Something tells you
+that it would be most unhealthy to drink this water, and it is probably
+unhealthy to merely stand in it.  A large grate covers a hole in the stone
+ceiling overhead, leading into one of the back alleys of Kalaman.  Apparently
+you have wandered your way into the city's sewers, and the strong smell that
+assaults your nose seems to confirm this.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2912
+D2
+~
+~
+0 0 2910
+D4
+~
+grate~
+1 0 9815
+S
+#2912
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2913
+D2
+~
+~
+0 0 2911
+S
+#2913
+A Dead End~
+   The tunnel ends abruptly here, along with the steady stream of murky water.
+Here the water stagnates in a large pool, about four feet deep in the middle,
+and gives off a stench more powerful than anywhere else in the sewers.  The
+smell assails you physically, almost knocking you off of your feet.  You realize
+that when, if ever, you get out of these sewers, you are going to need a good
+long bath to remove the smell from your body.    
+~
+29 1 0 0 0
+D3
+~
+~
+0 0 2912
+S
+#2914
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2910
+D2
+~
+~
+0 0 2915
+S
+#2915
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2914
+D2
+~
+~
+0 0 2916
+S
+#2916
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2915
+D2
+~
+~
+0 0 2917
+S
+#2917
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2916
+D2
+~
+~
+0 0 2918
+S
+#2918
+A Pool of Muck~
+   You are standing a shallow pool of dark, mucky, water.  Something tells you
+that it would be most unhealthy to drink this water, and it is probably
+unhealthy to merely stand in it.  A large grate covers a hole in the stone
+ceiling overhead, leading into one of the back alleys of Kalaman.  Apparently
+you have wandered your way into the city's sewers, and the strong smell that
+assaults your nose seems to confirm this.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2917
+D2
+~
+~
+0 0 2919
+D4
+~
+grate~
+1 0 9820
+S
+#2919
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2918
+D2
+~
+~
+0 0 2920
+S
+#2920
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2919
+D2
+~
+~
+0 0 2921
+S
+#2921
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2920
+D2
+~
+~
+0 0 2922
+S
+#2922
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2921
+D1
+~
+~
+0 0 2923
+S
+#2923
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2924
+D3
+~
+~
+0 0 2922
+S
+#2924
+Looking Over A Cliff~
+   You are standing at the edge of the sewers of Kalaman, looking out over a
+steep cliff onto the beach.  A waterfall of the putrid smelling water pours
+forth from the sewers and into the sea.  The drop from here to the beach is
+about ten feet, straight down, with a comfortable landing on the softy sandy
+beach.  The murky water winds its way through the soft sand, and a small bridge
+of wooden planks crosses it.    
+~
+29 1 0 0 0
+D3
+~
+~
+0 0 2923
+D5
+~
+~
+0 0 9850
+S
+#2925
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2907
+D2
+~
+~
+0 0 2926
+S
+#2926
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2925
+D2
+~
+~
+0 0 2927
+S
+#2927
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2926
+D2
+~
+~
+0 0 2928
+S
+#2928
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2927
+D2
+~
+~
+0 0 2929
+S
+#2929
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 5 0 0 0
+D0
+~
+~
+0 0 2928
+D3
+~
+~
+0 0 2930
+D4
+~
+grate~
+1 0 10105
+S
+#2930
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2929
+D3
+~
+~
+0 0 2900
+S
+#2931
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2900
+D2
+~
+~
+0 0 2932
+S
+#2932
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2931
+D2
+~
+~
+0 0 2933
+S
+#2933
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2932
+D2
+~
+~
+0 0 2934
+S
+#2934
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2933
+D3
+~
+~
+0 0 2935
+S
+#2935
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2934
+D3
+~
+~
+0 0 2936
+S
+#2936
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2935
+D3
+~
+~
+0 0 2937
+S
+#2937
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2936
+D3
+~
+~
+0 0 2938
+S
+#2938
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2939
+D1
+~
+~
+0 0 2937
+S
+#2939
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2940
+D2
+~
+~
+0 0 2938
+S
+#2940
+Before A Hole In The Ground~
+   This portion of the tunnel has a large hole dug into its floor.  Large dirt
+walls, about a foot above the level of the murky water, surround the hole,
+rerouting the water around it.  You look down into the hole, and all you can
+see is darkness.  Small hand and footholds have been carved into the sides of
+the hole, leading down into its dark depths.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2941
+D2
+~
+~
+0 0 2939
+D5
+~
+~
+0 0 9700
+S
+#2941
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2942
+D2
+~
+~
+0 0 2940
+S
+#2942
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2943
+D2
+~
+~
+0 0 2941
+S
+#2943
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2944
+D2
+~
+~
+0 0 2942
+S
+#2944
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2945
+D1
+~
+~
+0 0 2962
+D2
+~
+~
+0 0 2943
+D4
+~
+grate~
+1 0 10003
+S
+#2945
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2946
+D2
+~
+~
+0 0 2944
+S
+#2946
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2947
+D2
+~
+~
+0 0 2945
+S
+#2947
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2948
+D2
+~
+~
+0 0 2946
+S
+#2948
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2949
+D2
+~
+~
+0 0 2947
+S
+#2949
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2950
+D2
+~
+~
+0 0 2948
+S
+#2950
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2951
+D2
+~
+~
+0 0 2949
+S
+#2951
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2952
+D3
+~
+~
+0 0 2950
+S
+#2952
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2953
+D3
+~
+~
+0 0 2951
+S
+#2953
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2954
+D3
+~
+~
+0 0 2952
+S
+#2954
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 257 0 0 0
+D0
+~
+~
+0 0 2963
+D2
+~
+~
+0 0 2955
+D3
+~
+~
+0 0 2953
+S
+#2955
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2954
+D2
+~
+~
+0 0 2956
+S
+#2956
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2955
+D2
+~
+~
+0 0 2957
+S
+#2957
+A Pool of Muck~
+   You are standing a shallow pool of dark, mucky, water.  Something tells you
+that it would be most unhealthy to drink this water, and it is probably
+unhealthy to merely stand in it.  A large grate covers a hole in the stone
+ceiling overhead, leading into one of the back alleys of Kalaman.  Apparently
+you have wandered your way into the city's sewers, and the strong smell that
+assaults your nose seems to confirm this.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2956
+D2
+~
+~
+0 0 2958
+D4
+~
+grate~
+1 0 10088
+S
+#2958
+An Underground Intersection~
+   Two of the tunnels that make up Kalaman's sewers meet here, and the murky
+water from both of them intermingles on its course to the sea.  You think you
+see eyes watching you from the darkness in one of the tunnels, but when you
+turn to look more closely they have disappeared.  The ever present reek of
+sewage assaults your olfactory senses, making you wish you were anywhere but
+here.    
+~
+29 1 0 0 0
+D0
+~
+~
+0 0 2957
+D1
+~
+~
+0 0 2905
+S
+#2959
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2903
+D3
+~
+~
+0 0 2960
+S
+#2960
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2959
+D3
+~
+~
+0 0 2961
+S
+#2961
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2960
+D3
+~
+~
+0 0 2962
+S
+#2962
+In The Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 1 0 0 0
+D1
+~
+~
+0 0 2961
+D3
+~
+~
+0 0 2944
+S
+#2963
+In the Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 32 0 0 0
+D0
+~
+~
+0 0 2964
+D2
+~
+~
+0 0 2954
+S
+#2964
+In the Sewers~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 0 0 0 0
+D0
+~
+~
+0 0 2965
+D2
+~
+~
+0 0 2963
+S
+#2965
+Under the Plaza~
+   This narrow, dark, corridor is a part of the vast underground sewers of the
+city of Kalaman.  A shallow stream of dark, murky, water meanders a course down
+the tunnel.  A strong smell wafts up from the muck, almost causing you to gag
+in disgust.  A soft, glowing, greenish moss has managed to grow on the walls,
+but even this doesn't provide enough light to pierce the pervasive darkness of
+these dark tunnels on it's own.    
+~
+29 0 0 0 0
+D2
+~
+~
+0 0 2964
+D4
+~
+grate~
+1 0 10044
+S
+$~

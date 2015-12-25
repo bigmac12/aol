@@ -1,0 +1,694 @@
+#6000
+squirrel grey~
+a grey squirrel~
+A grey squirrel pauses here to nibble on some acorns.
+~
+   This small bushy-tailed squirrel scampers about playfully, pausing now and
+then to check you out, or to nose under some fallen leaves for acorns.    
+~
+65608 134217728 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#6001
+rabbit fluffy fluffy-tailed white~
+a fluffy-tailed white rabbit~
+A fluffy-tailed white rabbit hops along here.
+~
+   This little rabbit is covered in soft white fur, and has big floppy ears.  
+He stops now and then, looking around, his little pink nose wiggling his
+whiskers about.    
+~
+65610 134217728 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6002
+fox grey~
+a grey fox~
+A grey fox is here, eyeing you warily.
+~
+   This grey-furred fox has a bushy tail.  Walking quietly along, he stops to
+look at you, with one paw raised in mid-step.    
+~
+98392 134480928 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6003
+raven~
+a raven~
+A raven flies overhead.
+~
+   This raven has glossy blue-black feathers, and lets out a hoarse cry now and
+then.    
+~
+73816 99392 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#6004
+hummingbird~
+a hummingbird~
+A hummingbird hovers near one of the flowers, its wings humming softly.
+~
+   This beautiful bird is small and has multihued wings which make a pleasant
+humming sound when it hovers.    
+~
+65626 98304 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+SkinData0: 37
+SkinData1: 37
+SkinData2: 37
+SkinData3: 37
+Maxmove: 50
+E
+#6005
+wolf grey vicious~
+a vicious grey wolf~
+A vicious grey wolf is here, snarling at you.
+~
+   This large grey wolf stands almost at waist level to the average human.  
+His long canines are bared in an angry snarl.    
+~
+32856 134480928 0 0 E
+5 17 11 2d5+65 2d5+0
+14 85 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6006
+fox red~
+a red fox~
+A red fox is here, stalking small prey.
+~
+   This bushy-tailed fox has red fur tinged with silver, making its coat gleam
+in daylight.  It pauses in its hunt for small prey to appraise you.    
+~
+32856 134480928 0 0 E
+3 19 13 1d5+25 1d6+1
+3 25 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6007
+butterfly red tiny~
+a tiny red butterfly~
+A tiny red butterfly flits along here.
+~
+   It is a tiny red butterfly.    
+~
+65610 98368 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#6008
+butterfly blue yellow~
+a blue and yellow butterfly~
+A blue and yellow butterfly flits by.
+~
+   This pretty butterfly has large translucent yellow wings, with royal blue
+streaks.    
+~
+65738 98368 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#6009
+deer white white-tailed~
+a white-tailed deer~
+A white-tailed deer stands here, eating some greens.
+~
+   This fawn seems unalarmed by your presence and merely pauses in her meal
+long enough to note your position, then returns to eating.    
+~
+72 134218752 0 0 E
+4 18 12 1d5+45 1d8+1
+7 50 0
+8 8 2 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6010
+snake red black~
+a red and black snake~
+A red and black snake slithers along, making a soft hissing sound.
+~
+   This rather large snake is black as coal, with thick red bands around its
+body.  It makes an ominous hissing sound.    
+~
+65624 201360480 0 0 E
+4 18 12 1d5+45 1d8+1
+7 50 0
+8 8 0 0
+BareHandAttack: 1
+Maxmove: 50
+E
+#6011
+snake grey small~
+a small grey snake~
+A small grey snake slithers along here.
+~
+   This thin snake has metallic grey scales, and luminescent green eyes.    
+~
+65624 201622624 0 0 E
+3 19 13 1d5+25 1d6+1
+3 25 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6012
+ladybug bug~
+a ladybug~
+A ladybug flutters by.
+~
+   It is a ladybug with a black dot on either of its red wings.    
+~
+65736 360448 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#6013
+owl hooded~
+a hooded owl~
+A hooded owl sits on a branch here.
+~
+   It is a grey owl with large eyes and a hooded beak.    
+~
+98394 99424 0 0 E
+3 19 13 1d5+25 1d6+1
+3 25 0
+6 6 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#6014
+spider large black wood~
+a large, black wood spider~
+A large, black wood spider is here.
+~
+   It is a large, black wood spider with slightly hairy legs.    
+~
+65608 295936 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6015
+chipmunk~
+a chipmunk~
+A chipmunk hops along here playfully.
+~
+   This cute little rodent has soft brown fur and hops, more than walks from
+place to place.    
+~
+65608 134217728 0 0 E
+5 17 11 2d5+40 2d3+0
+1 85 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6016
+dragonfly fly~
+a dragonfly~
+A dragonfly buzzes along here.
+~
+   This large insect has a long body and two pairs of transparent wings.  Its
+wings catch the light and seem multicolored.    
+~
+65754 98368 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#6017
+turtle~
+a turtle~
+A turtle makes its way slowly along here.
+~
+   It is a small turtle with a mottled shell.    
+~
+131160 234881088 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6018
+frog little green~
+a little green frog~
+A little green frog jumps along here.
+~
+   This little green frog is barely the size of a man's thumb, and is freckled
+with black spots.    
+~
+72 32832 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#6019
+beaver broad broad-tailed~
+a broad-tailed beaver~
+A broad-tailed beaver is here.
+~
+   It is a large broad-tailed rodent with big teeth that cuts down trees and
+dams rivers.    
+~
+74 134250560 0 0 E
+3 19 13 1d5+25 1d6+1
+3 25 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6020
+rat water~
+a water rat~
+A water rat stands here on the banks of the river.
+~
+   It is an ugly looking water rat.    
+~
+72 33856 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6021
+hawk red red-tailed~
+a red-tailed hawk~
+A red-tailed hawk rests on a branch here, surveying the ground for prey.
+~
+   This large bird of prey has rounded short wings, a curved beak and a long
+red tail.    
+~
+98392 99424 0 0 E
+3 19 13 1d5+25 1d6+1
+3 25 0
+5 5 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#6022
+mouse tiny field~
+a tiny field mouse~
+A tiny field mouse scurries along here.
+~
+   A tiny field mouse scurries along here.  Its coat is the color of the sky on
+a rainy day and small jet black eyes stare up at you as you approach.  Its
+sides shiver slightly, as it wonders if danger approaches.  It glances around
+and prepares to run.    
+~
+65624 134644768 0 0 E
+2 19 14 1d3+12 1d5+1
+1 13 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6023
+sparrow~
+a sparrow~
+A sparrow flies along here.
+~
+   This small bird has feathers that vary from a light brown in color to grey
+at the tips.  It moves quickly through the air looking for insects to eat.  
+Its voice rises above the sounds of the forest and can be heard everywhere.  
+
+~
+65624 99424 0 0 E
+3 19 13 1d5+20 1d6+1
+1 25 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#6024
+dog large black~
+a large black dog~
+A large black dog is here, wagging its tail.
+~
+   It is a large black dog with big, floppy ears.    
+~
+4170 134217768 0 0 E
+3 19 13 1d5+25 1d6+1
+3 25 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6025
+boy young blond~
+a young blond boy~
+A young blond boy sits here, studying an ant hill intently.
+~
+   This young man looks to be no more than six or seven.  He has an unruly mat
+of blond hair and an impish look in his blue eyes.  His face and hands are
+dirty, as he is evidently unwilling to leave his play to wash up until the very
+last possible moment before dinner.    
+~
+72 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+6 6 1 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6026
+redheaded youth boy brother~
+a redheaded youth~
+A redheaded youth is here, taunting his sister.
+~
+   This young man's face is a canvas of freckles, framed in red curls.  He
+looks to be on the verge of his teens, though one could not tell this by the
+way he is chasing after his younger sister and pulling on her pigtails.  His
+mouth is curved in a cruel smirk and his laughter is immediately annoying.    
+~
+41032 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#6027
+girl pigtailed little sister~
+a pigtailed little girl~
+A pigtailed little girl is here, glaring at her brother.
+~
+   This cute little girl has long red pigtails, falling loose from their green
+ribbons in her efforts to avoid her brother yanking on them.  Her face is
+tanned to a rich brown, all but hiding her own array of freckles.  When she
+gauges she's gained enough distance from her brother, she turns and sticks her
+tongue out at him with a mischievous grin, which of course provokes him to
+start teasing her all over again.    
+~
+200 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 2 0
+Maxmove: 50
+E
+#6028
+cat grey large~
+a large grey cat~
+A large grey cat lays here, waving its tail around imperiously.
+~
+   It is a rather fat grey cat with a long fluffy tail.  It watches the
+children playing with an odd mixture of amusement and feigned disinterest.    
+~
+65624 134480952 0 0 E
+2 19 14 1d3+12 1d5+1
+0 13 0
+5 5 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#6029
+woman scarlet scarlet-haired~
+a scarlet-haired woman~
+A scarlet-haired woman is here, smiling warmly.
+~
+   This pretty scarlet-haired woman has a warm smile and lively green eyes.  
+She walks with a simple grace, nodding occasionally to friends she meets.  She
+brushes a wayward lock of hair from her face every now and then.    
+~
+204 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 2 0
+Maxmove: 50
+E
+#6030
+Kerneth proprietor toothless man~
+Kerneth Arshyle~
+Kerneth Arshyle, the proprietor, is here flashing a toothless grin.
+~
+   Kerneth Arshyle is a brawny, blockfaced giant of a man.  His stubbled face
+and toothless smile give serious pause to would-be attackers or thieves.  His
+dark hair, or what remains of it at any rate, is combed over his bald pate in
+several greasy looking strands.    
+~
+256095 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 1 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#6031
+tall dark dark-haired man~
+a tall, dark-haired man~
+A tall, dark-haired man stands here, quietly watching.
+~
+   This tall, gaunt looking gentleman watches everything around him with cool,
+appraising blue eyes.  His silence and intense gaze make him seem rather
+unfriendly, though he is apparently well known and respected in the village,
+judging by the number of people he greets with a slight nod on his daily
+constitutional.    
+~
+8284 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#6032
+Jiomak keeper man~
+Jiomak Sentath~
+Jiomak Sentath, the tavern keeper is here, fussing over a cauldron of soup.
+~
+   Jiomak Sentath is a portly, onyx-haired man with a crooked smile.  His
+cooking and baking talents are well known, and are his obsession in life.  
+After years of finding his glassware missing and beverages emptying faster than
+the cashbox filled, he was forced to admit his distractability, and hired his
+daughter to keep an eye on the patrons and tidy the place up.    
+~
+3227727 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#6033
+man broad broad-shouldered blue blue-eyed~
+a broad-shouldered, blue-eyed man~
+A broad-shouldered, blue-eyed man stands here, seemingly lost in thought.
+~
+   This hulking man stands a good six inches higher than most.  His clear blue
+eyes hold the barest hint of merriment, but he seems lost in thought at the
+moment.  He chews on his pipe thoughtfully, now and then pulling it away and
+fiddling with the ends of his long moustache.    
+~
+16460 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#6034
+mare chestnut horse~
+a chestnut mare~
+A chestnut mare stands here, gracefully swishing away flys with her long tail.
+~
+   This beautiful mare has obviously been well cared for.  Her coat is healthy,
+and both her tail and mane have been brushed to silky perfection.    
+~
+16842826 0 0 0 E
+4 18 12 1d5+45 1d8+1
+7 50 0
+8 8 2 0
+BareHandAttack: 6
+Maxmove: 400
+E
+#6035
+woman slender raven raven-haired~
+a slender, raven-haired woman~
+A slender, raven-haired woman stands here, a slight frown creasing her brow.
+~
+   This beauty has long raven tresses, pulled back with a white lace ribbon.  
+Her high cheekbones are touched with the barest hint of rouge and accentuate
+her azure eyes perfectly.  She appears to be growing impatient waiting for
+someone, and the slight frown on her lips seems horribly out of place on such a
+delicately featured face.    
+~
+24780 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 2 0
+Maxmove: 50
+E
+#6036
+black gelding horse~
+a black gelding~
+A black gelding stands here, calmly chewing some oats.
+~
+   This magnificent creature is in the prime of health.  His coat, mane and
+tail are all brushed to a black silky elegance.  He stands with perfect poise,
+eyeing you steadily a moment and returning to his oats, disinterested.    
+~
+16842826 0 0 0 E
+4 18 12 1d5+45 1d8+1
+7 50 0
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 400
+E
+#6037
+Elyse serving girl~
+Elyse Sentath~
+Elyse Sentath stands here, wiping her chubby fingers on her dirty apron.
+~
+   The tavern keeper's daughter, Elyse, unfortunately inherited more of her
+father's looks than her mother's.  Short, rather chubby and quite
+plain-featured, she has the temperment of a sullen child.  Moving slowly
+between tables, she wipes them off half-heartedly, pausing now and then to look
+toward the door with a wistful sigh.    
+~
+98382 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 2 0
+Maxmove: 50
+E
+#6038
+attractive woman middle middle-aged mother~
+an attractive, middle-aged woman~
+An attractive, middle-aged woman stands here, mixing up a cake.
+~
+   This friendly looking woman is obviously the mistress of the house.  Her
+cheerful smile and quick laugh are evidence that her baking is very much a
+labor of love.  Occasionally she glances up at the young woman with an
+affectionate look, shaking her head ever so slightly at how fast the years have
+gone by.    
+~
+8266 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 2 0
+Maxmove: 50
+E
+#6039
+gravid young woman daughter~
+a gravid young woman~
+A gravid young woman stands here, a rosy flush to her cheeks.
+~
+   This pretty young woman looks to be nearing the end of her pregnancy.  The
+radiance of her condition flushes her cheeks to a rosy pink, and her smile is
+warm and genuine.  Her long blond hair is pulled up in a loose bun, a few
+wayward tendrils framing her face and accentuating her emerald green eyes.  
+Noting her mother's expression, she moves a bit awkwardly to hug her
+reassuringly.    
+~
+73930 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 2 0
+Maxmove: 50
+E
+#6040
+man well well-groomed bearded~
+a well-groomed, bearded man~
+A well-groomed, bearded man is sitting here, his eyes half closed.
+~
+   This man is tall and dark-haired.  His beard has been groomed carefully and
+his clothes are neat and clean.  It is evident he takes good care of himself,
+or is well cared for by a loving wife.  Starting to doze, a contented smile
+settles on his lips.    
+~
+2122 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+6 6 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#6041
+boy stableboy rough rough-featured young~
+a rough-featured young stableboy~
+A rough-featured young stableboy is fast asleep here, neglecting his duties.
+~
+   This young man looks as though he might not have begun his life within the
+relatively calm village of Wyrdna.  His face bears several small scars, and
+several more are visible on his muscular arms.  The boy evidently gave up some
+sort of fighter's life for the peace and quiet here, though his negligence to
+his position may well end this calm existence.    
+~
+67658 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+4 4 1 0
+BareHandAttack: 14
+Maxmove: 50
+E
+#6042
+owl snow white~
+a snow-white owl~
+A snow-white owl flies over the area, perhaps looking for prey.
+~
+   This owl flies overhead in lazy circles, searching the area with vivid eyes
+of golden-green.  Its feathers are pure, snow white and look quite soft.  
+Despite the bird's attractiveness, one is reminded of how dangerous it could
+choose to be if it wished.  Its short, hooked beak looks razor sharp, and
+likely could easily rend the flesh of man or beast.    
+~
+65546 66560 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#6062
+mage young female red robes~
+a young woman in red robes~
+A young woman clad in crimson robes stands here weeping softly.
+~
+It looks unfinished.
+~
+696330 2 2101260 0 E
+13 13 3 6d5+240 2d9+2
+124 6625 1
+8 8 2 0
+Maxmove: 50
+E
+$

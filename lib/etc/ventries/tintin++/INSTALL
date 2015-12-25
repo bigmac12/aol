@@ -1,0 +1,23 @@
+Autoconf version of install by David Hedbor (neotron@lysator.liu.se).
+
+How to install Tintin++v1.5.
+enter the correct bin/tintin lib directories in src/Makefile.in. 
+Change current directory to the src dir and type './configure'.
+Type 'make depend' followed by 'make all'. Hopefully this will compile
+the program without errors. If anything goes wrong, change in Makefile.in
+and not the generated Makefile. After such a change you should do
+'config.status' to remake the Makefile. You might need to do 'make clean'
+before you continue building the program.
+
+By typing in 'make install' you will install the binary and the helpfile
+in the directories you entered in 'Makefile.in'.
+
+This verion of Tintin++ v1.5 has been successfully compiled on the 
+following architechtures:
+	
+	- Sun3 with SunOS 4.1.1
+	- Sun4 with SunOS 5.3 (solaris)
+	- 486DX/2-66 with Linux 1.1.45
+	- HP9000/300 with HP-UX 8
+	- Sequent Balance with DYNIX
+	- RISC VAX (Alpha?) with UTRIX 4.4

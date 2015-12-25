@@ -1,0 +1,1563 @@
+#9600
+A Narrow Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open hollow center of this small tower.    
+~
+96 8 0 0 0
+D4
+~
+~
+0 0 9605
+D5
+~
+~
+0 0 9597
+S
+#9601
+A Narrow Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open hollow center of this small tower.    
+~
+96 12 0 0 0
+D4
+~
+~
+0 0 9606
+D5
+~
+~
+0 0 9598
+S
+#9602
+A Sleeping Chamber~
+   This sleeping chamber is sumptuously appointed.  The floor is covered with a
+thick, plush carpet.  The walls draped with beautiful tapestries.  A bed stands
+in the corner, covered with think velvet blankets.  A fireplace in the corner
+opposite the bed provides both heat and light.    
+~
+96 8 0 0 0
+D1
+A large wooden door.
+~
+door wooden~
+1 0 9603
+S
+#9603
+A Small Hallway~
+   Unlike the other cold and barren hallways in the tower, this hallway is
+richly decorated with carpeting and tapestries.  Small torches hang on the wall
+lighting the way.  A doorway lies to the west.  The main stairwell of the tower
+is visible to the east.    
+~
+96 12 0 0 0
+D1
+~
+~
+0 0 9604
+D3
+A large wooden door.
+~
+door wooden~
+1 -1 9602
+S
+#9604
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.  A small hallway is visible to the
+west.    
+~
+96 8 0 0 0
+D3
+~
+~
+0 0 9603
+D4
+~
+~
+0 0 9609
+D5
+~
+~
+0 0 9599
+S
+#9605
+A Narrow Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the hollow center of this small tower.    
+~
+96 12 0 0 0
+D4
+~
+~
+0 0 9608
+D5
+~
+~
+0 0 9600
+S
+#9606
+A Small Balcony~
+   This small balcony looks out over the western part of the city.  Beyond the
+city wall, the Vingaard Mountains dominate the landscape.  Often snowcapped
+during the winter months.  The peaks of these great mountains stretch up
+towards the heavens.    
+~
+96 0 1 0 0
+D5
+~
+~
+0 0 9601
+S
+#9607
+delete me~
+delete me
+~
+96 0 0 0 0
+S
+#9608
+A Small Balcony~
+   This small balcony overlooks the eastern part of the city.  The Central
+Plaza the Great Library can be seen clearly.  People rush through the streets,
+occasionally stopping at the fountain for rest.    
+~
+96 0 1 0 0
+D5
+~
+~
+0 0 9605
+S
+#9609
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+96 8 0 0 0
+D4
+~
+~
+0 0 9610
+D5
+~
+~
+0 0 9604
+S
+#9610
+A Small Landing~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.  A door is visible to the east.  
+~
+96 0 0 0 0
+D1
+A rune carved, wooden door.
+~
+door wooden carved runes~
+1 0 9611
+D4
+~
+~
+0 0 9614
+D5
+~
+~
+0 0 9609
+S
+#9611
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.  Work tables covered with
+books and beakers line the room.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9615
+D1
+~
+~
+0 0 9612
+D3
+A rune carved, wooden door.
+~
+door wooden carved runes~
+1 0 9610
+S
+#9612
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.  Work tables covered with
+books and beakers line the room.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9616
+D1
+~
+~
+0 0 9613
+D3
+~
+~
+0 0 9611
+S
+#9613
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.  Work tables covered with
+books and beakers line the room.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9617
+D3
+~
+~
+0 0 9612
+S
+#9614
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+96 8 0 0 0
+D4
+~
+~
+0 0 9618
+D5
+~
+~
+0 0 9610
+S
+#9615
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.  Work tables covered with
+books and beakers line the room.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9616
+D2
+~
+~
+0 0 9611
+S
+#9616
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9617
+D2
+~
+~
+0 0 9612
+D3
+~
+~
+0 0 9615
+S
+#9617
+A Laboratory~
+   The laboratory is lined with shelves filled with spellbooks and books on
+herbal lore and anatomy.  Bottles and beakers of various chemicals can also be
+found on the shelves.  Several complete skeletons of animals and humans stand
+in the corners.  Parts of skeletal remains lie about.  At the far end of the
+room, almost obscured by shadows, hangs a purple velvet curtain.    
+~
+96 8 0 0 0
+D2
+~
+~
+0 0 9613
+D3
+~
+~
+0 0 9616
+E
+curtain purple velvet~
+   Behind the curtain is an oval doorway standing on a golden dais.  It is
+surrounded by the dragon heads of Takhisis, the Queen of Darkness.  The heads
+appear to be nothing more than plain gold metal, yet the eyes look as though
+they see all.    
+~
+S
+#9618
+At the Top of the Staircase~
+   Looking down from this landing the ground floor from the tower seems miles
+away.  The center of the tower is hollow with stairs spiraling down as far as
+the eye can see.  One misstep on these stairs and a person would fall to their
+death.  A doorway is visible to the south.    
+~
+96 12 0 0 0
+D2
+A small wooden door.
+~
+door~
+1 0 9620
+D5
+~
+~
+0 0 9614
+S
+#9619
+A Balcony~
+   Looking out to the west, the Vingaard Mountains dominate the landscape.  
+Often snowcapped during the winter months, the peaks of these great mountains
+stretch up towards the heavens.  The balcony continues to the north and east.
+~
+96 0 1 0 0
+D0
+~
+~
+0 0 9622
+D1
+~
+~
+0 0 9620
+S
+#9620
+A Balcony~
+   This balcony encircles the top of the tower.  The noise of the city is
+strangely hushed at this height.  The balcony provides a striking view of the
+city.  From this location, the Great Library can be clearly seen.  Its marble
+walls shining in the sunlight.  The balcony continues to the east and west.  A
+door is visible to the north.    
+~
+96 0 1 0 0
+D0
+A small wooden door.
+~
+door~
+1 0 9618
+D1
+~
+~
+0 0 9621
+D3
+~
+~
+0 0 9619
+S
+#9621
+A Balcony~
+   The noise of the city is strangely hushed at this height.  The Central Plaza
+of Palanthas can be clearly seen from here.  People rush along the streets
+going about their business.  Many stop to visit the shops or get a drink from
+the rose fountain the rests in the center of the city.  The balcony continues
+to the north and west.    
+~
+96 0 1 0 0
+D0
+~
+~
+0 0 9624
+D3
+~
+~
+0 0 9620
+S
+#9622
+A Balcony~
+Looking out to the west, the Vingaard Mountains dominate the landscape.  Often
+snowcapped during the winter months, the peaks of these great mountains stretch
+up towards the heavens.  The balcony continues to the south and west.    
+~
+96 0 1 0 0
+D1
+~
+~
+0 0 9623
+D2
+~
+~
+0 0 9619
+S
+#9623
+A Balcony~
+   The noise of the city is strangely hushed at this height.  From this vantage
+point it is possible to see far out over the Bay of Branchala.  Dozens of ships
+can be seen approaching the docks.  More ships are barely visible in the
+distance as they leave port and disappear over the horizon.  The balcony
+continues on to the east and west.    
+~
+96 0 1 0 0
+D1
+~
+~
+0 0 9624
+D3
+~
+~
+0 0 9622
+S
+#9624
+A Balcony~
+   The noise of the city is strangely hushed at this height.  Looking to the
+north beyond the city wall, the trade exchange can be clearly seen.  Countless
+stalls are setup by vendors who display their wares for the shop owners of
+Palanthas.  Further to the north, the docks are visible as they wind their way
+along the Bay of Branchala.  The balcony continues to the west and south.    
+~
+96 0 1 0 0
+D2
+~
+~
+0 0 9621
+D3
+~
+~
+0 0 9623
+S
+#9625
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of everykind - philosophy, poetry, herbal lore, anatomy.  A plush
+chair stands in the corner of the room and looks to be an inviting place to sit
+and study.  White robed mages wander in and out of the library retrieving books
+to further their studies.  Large windows line the walls inviting in the
+sunshine which cast its warm glow throughout the room.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9627
+E
+window windows~
+   A large statue in tribute to Solinari is visible out the window to the
+northwest.    
+~
+S
+#9626
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of everykind - philosophy, poetry, herbal lore, anatomy.  A plush
+chair stands in the corner of the room and looks to be an inviting place to sit
+and study.  White robed mages wander in and out of the library retrieving books
+to further their studies.  Large windows line the walls inviting in the
+sunshine which cast its warm glow throughout the room.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9627
+S
+#9627
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of every kind - philosophy, poetry, herbel lore, anatomy.  A plush
+chair stands in the corner and looks to be an inviting place to sit and study.
+White robed mages wander in and out of the library retrieving books to further
+their studies.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9631
+D1
+~
+~
+0 0 9628
+D2
+~
+~
+0 0 9625
+D3
+~
+~
+0 0 9626
+S
+#9628
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of every kind - philosophy, poetry, herbel lore, anatomy.  A plush
+chair stands in the corner and looks to be an inviting place to sit and study.
+White robed mages wander in and out of the library retrieving books to further
+their studies.  Large windows line the walls inviting in the sunshine which
+cast its warm glow throughout the room.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9632
+D3
+~
+~
+0 0 9627
+S
+#9629
+Library of the Red Robes~
+   The walls of the immense rooms are lined with hundreds of books.  A small
+table sits at the edge of the rooms.  Red robed mages wander about retrieving
+books off the shelves.  The windows are draped with sheer fabric which casts a
+red light throughout the room as the sun shines through it.  The windows are
+draped with sheer red fabric which casts a red light throughout the room as the
+sun shines through it.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9635
+D1
+~
+~
+0 0 9630
+S
+#9630
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9636
+D3
+~
+~
+0 0 9629
+S
+#9631
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of every kind - philosophy, poetry, herbel lore, anatomy.  A plush
+chair stands in the corner and looks to be an inviting place to sit and study.
+White robed mages wander in and out of the library retrieving books to further
+their studies.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9632
+D2
+~
+~
+0 0 9627
+S
+#9632
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of every kind - philosophy, poetry, herbel lore, anatomy.  A plush
+chair stands in the corner and looks to be an inviting place to sit and study.
+White robed mages wander in and out of the library retrieving books to further
+their studies.    
+~
+96 12 0 0 0
+D0
+~
+~
+0 0 9638
+D1
+~
+~
+0 0 9633
+D2
+~
+~
+0 0 9628
+D3
+~
+~
+0 0 9631
+S
+#9633
+Library of the White Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books of everykind - philosophy, poetry, herbal lore, anatomy.  A plush
+chair stands in the corner of the room and looks to be an inviting place to sit
+and study.  White robed mages wander in and out of the library retrieving books
+to further their studies.  Large windows line the walls inviting in the
+sunshine which cast its warm glow throughout the room.    
+~
+96 8 0 0 0
+D3
+~
+~
+0 0 9632
+S
+#9634
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.  The windows are
+draped with sheer red fabric which casts a red light throughout the room as the
+sun shines through it.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9635
+E
+window windows~
+   A statue in tribute to Lunitari is visible in the garden to the northeast.
+  
+~
+S
+#9635
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9641
+D1
+~
+~
+0 0 9636
+D2
+~
+~
+0 0 9629
+D3
+~
+~
+0 0 9634
+S
+#9636
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.    
+~
+96 12 0 0 0
+D0
+~
+~
+0 0 9642
+D1
+~
+~
+0 0 9574
+D2
+~
+~
+0 0 9630
+D3
+~
+~
+0 0 9635
+S
+#9638
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  To
+the north a small library is visible.  To the west is the stairway that winds
+its way up and down through the tower.  The hallway continues to the east.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9644
+D1
+~
+~
+0 0 9639
+D2
+~
+~
+0 0 9632
+D3
+~
+~
+0 0 9574
+S
+#9639
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  To
+the east is a door.  The hallway continues to the west.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9640
+D3
+~
+~
+0 0 9638
+S
+#9640
+A Meeting Room~
+   This is one of many meeting rooms in the tower.  Mages of all orders are
+able to put aside their differences and meet here, bound together by their
+shard love of their art.  A large round table sits in the middle of the room.
+Other than the chairs that surround it, there are no other furnishings.  A
+large window in the eastern wall looks out at the gardens that surround the
+tower.    
+~
+96 0 0 0 0
+D3
+~
+~
+0 0 9639
+S
+#9641
+Library of the Red Robes~
+   The walls of the immense rooms are lined with hundreds of books.  A small
+table sits at the edge of the rooms.  Red robed mages wander about retrieving
+books off the shelves.  The windows are draped with sheer fabric which casts a
+red light throughout the room as the sun shines through it.  The windows are
+draped with sheer red fabric which casts a red light throughout the room as the
+sun shines through it.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9642
+D2
+~
+~
+0 0 9635
+S
+#9642
+Library of the Red Robes~
+   The walls of this immense room are lined with hundreds of books.  A small
+table sits at the edge of the room.  A vase filled with beautiful red roses
+stands in the middle of the table, their fragrant aroma filling the room.  Red
+robed mages wander about retrieving books off the shelves.    
+~
+96 8 0 0 0
+D2
+~
+~
+0 0 9636
+D3
+~
+~
+0 0 9641
+S
+#9643
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9647
+D1
+~
+~
+0 0 9644
+S
+#9644
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.    
+~
+96 12 0 0 0
+D0
+~
+~
+0 0 9648
+D1
+~
+~
+0 0 9645
+D2
+~
+~
+0 0 9638
+D3
+~
+~
+0 0 9643
+S
+#9645
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.    
+~
+96 0 0 0 0
+D3
+~
+~
+0 0 9644
+S
+#9646
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.  The windows are covered with heavy, black
+velvet curtains.  The curtains are pulled back with a black cord, allowing the
+light from outside to flood the library.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9647
+S
+#9647
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9649
+D1
+~
+~
+0 0 9648
+D2
+~
+~
+0 0 9643
+D3
+~
+~
+0 0 9646
+S
+#9648
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.  The windows are covered with heavy, black
+velvet curtains.  The curtains are pulled back with a black cord, allowing the
+light from outside to flood the library.    
+~
+96 8 0 0 0
+D2
+~
+~
+0 0 9644
+D3
+~
+~
+0 0 9647
+S
+#9649
+Library of the Black Robes~
+   The walls of this immense room are lined with shelves that are overflowing
+with books.  A small table sits in the center of the room.  Black robed mages
+sit at the table studying intently.  The windows are covered with heavy, black
+velvet curtains.  The curtains are pulled back with a black cord, allowing the
+light from outside to flood the library.    
+~
+96 8 0 0 0
+D2
+~
+~
+0 0 9647
+E
+window windows~
+   A large statue in tribute to Nuitari is visible out of the window to the
+southeast.    
+~
+S
+#9650
+The Black Garden~
+   The sun does not seem to reach this garden, yet the flowers still grow.  
+Large torches line the perimeter, casting light across the blooms.  Despite the
+beauty of the black orchids and roses that grow here, the garden lacks any
+warmth.  However, the young black robes apprentices seem to find this an
+amenable place to study.  They wander through the garden completely lost in
+thought.    
+~
+96 1 2 0 0
+D2
+~
+~
+0 0 9651
+D3
+~
+~
+0 0 9557
+S
+#9651
+The Black Garden~
+   The sun does not seem to reach this garden, yet the flowers still grow.  
+Large torches line the perimeter, casting light across the blooms.  Despite the
+beauty of the black orchids and roses the grow here, the garden lacks any
+warmth.  However, the young black robed apprentices seem to find this an
+amenable place to study.  They wander through the garden completely lost in
+thought.    
+~
+96 1 2 0 0
+D0
+~
+~
+0 0 9650
+D1
+~
+~
+0 0 9653
+D2
+~
+~
+0 0 9652
+D3
+~
+~
+0 0 9548
+S
+#9652
+The Black Garden~
+   The sun does not seem to reach this garden, yet the flowers still grow.  
+Large torches line the perimeter, casting light across the blooms.  Despite the
+beauty of the black orchids and roses that grow here, the garden lacks any
+warmth.  However, the young black robed apprentices seem to find this an
+amenable place to study.  They wander through the garden completely lost in
+thought.    
+~
+96 1 2 0 0
+D0
+~
+~
+0 0 9651
+D3
+~
+~
+0 0 9539
+S
+#9653
+Before a Statue of Nuitari~
+   A large platform rises above the garden here.  Atop the platform stands a
+statue in tribute to Nuitari.  The statue is a large, black, marble sphere.  
+Tall torches stand on either side of the statue.  Their light reflects off its
+highly polished surface.    
+~
+96 1 2 0 0
+D3
+~
+~
+0 0 9651
+S
+#9654
+The Red Garden~
+   This garden bursts with color and light.  The red roses and snapdragons
+provide a cheerful setting.  The flowers themselves almost appear to be
+smiling.  Young apprentices of the red robes wander through the garden
+practicing their art.    
+~
+96 0 2 0 0
+D1
+~
+~
+0 0 9655
+D2
+~
+~
+0 0 9570
+S
+#9655
+The Red Garden~
+This garden bursts with color and light.  The red roses and snapdragons
+provide a cheerful setting.  The flowers themselves almost appear to be
+smiling.  Young apprentices of the red robes wander through the garden
+practicing their art.    
+~
+96 0 2 0 0
+D0
+~
+~
+0 0 9657
+D1
+~
+~
+0 0 9656
+D2
+~
+~
+0 0 9571
+D3
+~
+~
+0 0 9654
+S
+#9656
+The Red Garden~
+   This garden busts with both color and light.  The red roses and snapdragons
+provide a cheerful setting.  The flowers themselves almost appear to be
+smilling.  Young apprentices of the red robes wander through the garden
+practicing their art.    
+~
+96 0 2 0 0
+D2
+~
+~
+0 0 9572
+D3
+~
+~
+0 0 9655
+S
+#9657
+Before a Statue of Lunitari~
+   A large platform rises above the garden here.  Atop the platform stands a
+statue in tribute to Lunitari.  The statue is a large, red stone sphere.  
+Large torches stand on either side of the statue, reflecting their light off
+its highly polished surface.    
+~
+96 0 2 0 0
+D2
+~
+~
+0 0 9655
+S
+#9658
+The White Garden~
+   This garden glows with a silvery light which reflects from the torches that
+line its perimeter.  The air is perfumed with the scent of the gardenias and
+jasmine that grows throughout the garden.  White robed apprentices wander
+though the garden.  They speak very little, seemingly lost in thought as they
+memorize their spells.    
+~
+96 0 2 0 0
+D1
+~
+~
+0 0 9549
+D2
+~
+~
+0 0 9659
+S
+#9659
+The White Garden~
+   This garden glows with a silvery light which reflects from the torches that
+line its perimeter.  The air is perfumed with the scent of the gardenias and
+jasmine that grows throughout the garden.  White robed apprentices wander
+through the garden.  They speak very little, seemingly lost in thought as they
+memorize their spells.    
+~
+96 0 2 0 0
+D0
+~
+~
+0 0 9658
+D1
+~
+~
+0 0 9540
+D2
+~
+~
+0 0 9660
+D3
+~
+~
+0 0 9661
+S
+#9660
+The White Garden~
+   This garden glows with a silvery light which reflects from the torches that
+line its perimeter.  The air is perfumed with the scent of the gardenias and
+jasmine that grows throughout the garden.  White robed apprentices wander
+through the garden.  They speak very little, seemingly lost in thought as they
+memorize their spells.    
+~
+96 0 2 0 0
+D0
+~
+~
+0 0 9659
+D1
+~
+~
+0 0 9531
+S
+#9661
+Before a Statue of Solinari~
+   A large platform rises above the garden here.  Atop the platform stands a
+statue in tribute to Solinari.  The statue is a large, white marble sphere.  
+Two torches stand on either side of the sphere.  Their light reflects off the
+highly polished surface of the statue, creating a silvery light.    
+~
+96 0 2 0 0
+D1
+~
+~
+0 0 9659
+S
+#9662
+A Spiral Staircase~
+   The staircase continues down into the darkness below.  The stairs cling to
+the wall around the open, hollow center of the tower.  The cool air is dank and
+stale, and the hushed silence is deafening.  An iron railing runs along the
+wall, curving with the stairwell.    
+~
+96 4 0 0 0
+D4
+a hatch
+~
+hatch~
+1 0 9544
+D5
+~
+~
+0 0 9663
+S
+#9663
+At the Bottom of the Staircase~
+   The staircase comes to end in a dark, narrow hallway.  The hall is barren,
+cold, and empty.  There are no decorations of any kind, and no torches on the
+walls to provide light.  The stone floor is bare and filled with countless
+cracks.  The smell of death and decay permeates the cold, stale air.  The
+hallway continues to the east and west.    
+~
+96 9 0 0 0
+D1
+~
+~
+0 0 9672
+D3
+~
+~
+0 0 9664
+D4
+~
+~
+0 0 9662
+S
+#9664
+A Dark Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, and no torches on the walls to provide light.  The stone floor is bare
+and filled with countless cracks.  The smell of death and decay permeates the
+cold, stale air.  The hallway continues to the east and west.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9663
+D3
+~
+~
+0 0 9665
+S
+#9665
+A Dark Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, and no torches on the walls to provide light.  The stone floor is bare
+and filled with countless cracks.  The smell of death and decay permeates the
+cold, stale air.  The hallway continues to the east.  A small room is visible
+to the west.    
+~
+96 13 0 0 0
+D1
+~
+~
+0 0 9664
+D3
+~
+~
+0 0 9666
+S
+#9666
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.  A large column stands to the west.    
+~
+96 9 0 0 0
+D0
+~
+~
+0 0 9667
+D1
+~
+~
+0 0 9665
+D2
+~
+~
+0 0 9671
+S
+#9667
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+96 9 0 0 0
+D2
+~
+~
+0 0 9666
+D3
+~
+~
+0 0 9668
+S
+#9668
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+96 9 0 0 0
+D1
+~
+~
+0 0 9667
+D2
+~
+~
+0 0 9669
+S
+#9669
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+96 9 0 0 0
+D0
+~
+~
+0 0 9668
+D2
+~
+~
+0 0 9670
+D3
+A massive stone slab.
+~
+slab stone massive~
+2 9680 9680
+S
+#9670
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+96 9 0 0 0
+D0
+~
+~
+0 0 9669
+D1
+~
+~
+0 0 9671
+S
+#9671
+In the Tombs~
+   Continually excavated since the building of the tower, these undergound
+tombs have a low curved ceiling.  Tombs adorned with monuments, sculptures,
+inscriptions and runes line the walls.  The air is stale and filled with the
+scent of death.  The deafening silence is interrupted only be the sound of the
+wet gravel floor crunching underfoot.    
+~
+96 9 0 0 0
+D0
+~
+~
+0 0 9666
+D3
+~
+~
+0 0 9670
+S
+#9672
+A Dark Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, and no torches on the walls to provide light.  The stone floor is bare
+and filled with countless cracks.  The smell of death and decay permeates the
+cold, stale air.  The hallway continues to the west.    
+~
+96 9 0 0 0
+D1
+~
+~
+0 0 9673
+D3
+~
+~
+0 0 9663
+S
+#9673
+The Dungeon~
+   Few are brave enough to enter the dungeon of the tower.  Those who do enter
+rarely live to speak of what they have seen.  The air is heavy and dank.  The
+foul smell of death fills the air.  The stone walls are cracked and covered
+with moss, in sharp contrast to the rest of the tower.    
+~
+96 105 0 0 0
+D0
+~
+~
+0 0 9674
+D1
+~
+~
+0 0 9676
+D2
+~
+~
+0 0 9678
+D3
+~
+~
+0 0 9672
+S
+#9674
+The Dungeon~
+   Few are brave enough to enter the dungeon of the tower.  Those who do enter
+rarely live to speak of what they have seen.  The air is heavy and dank.  The
+foul smell of death fills the air.  The stone walls are cracked and covered
+with moss, in sharp contrast to the rest of the tower.    
+~
+96 105 0 0 0
+D2
+~
+~
+0 0 9673
+S
+#9675
+A Cell~
+   The cell is dark and cramped.  Large chains are mounted to the walls and
+appear sturdy enough to hold even the largest minotaur.  The dirt floor is
+strewn with old skeletons, persumably former inhabitants of this cell.  The
+stench of filth permeates the air.    
+~
+96 105 0 0 0
+D2
+~
+~
+0 0 9676
+S
+#9676
+The Dungeon~
+   Few are brave enough to enter the dungeon of the tower.  Those who do enter
+rarely live to speak of what they have seen.  The air is heavy and dank.  The
+foul smell of death fills the air.  The stone walls are cracked and covered
+with moss, in sharp contrast to the rest of the tower.    
+~
+96 105 0 0 0
+D0
+~
+~
+0 0 9675
+D1
+~
+~
+0 0 9679
+D2
+~
+~
+0 0 9677
+D3
+~
+~
+0 0 9673
+S
+#9677
+A Cell~
+   The cell is dark and cramped.  Large chains are mounted to the walls and
+appear sturdy enough to hold even the largest minotaur.  The dirt floor is
+strewn with old skeletons, persumably former inhabitants of this cell.  The
+stench of filth permeates the air.    
+~
+96 105 0 0 0
+D0
+~
+~
+0 0 9676
+S
+#9678
+The Dungeon~
+   Few are brave enough to enter the dungeon of the tower.  Those who do enter
+rarely live to speak of what they have seen.  The air is heavy and dank.  The
+foul smell of death fills the air.  The stone walls are cracked and covered
+with moss, in sharp contrast to the rest of the tower.    
+~
+96 105 0 0 0
+D0
+~
+~
+0 0 9673
+S
+#9679
+A Cell~
+   The cell is dark and cramped.  Large chains are mounted to the walls and
+appear sturdy enough to hold even the largest minotaur.  The dirt floor is
+strewn with old skeletons, persumably former inhabitants of this cell.  The
+stench of filth permeates the air.    
+~
+96 105 0 0 0
+D3
+~
+~
+0 0 9676
+S
+#9680
+A Crypt~
+   The air in the crypt is chilling, sending shivers down the spine of all who
+enter.  The stench of death and decay are overwhelming.  The deafening silence
+is interrupted only by the sound of the wet gravel floor crunching under foot.
+A large tomb stands at the back of the room.  The stone of the tomb is carved
+with runes which have been worn over the years and are now completely
+illegible.    
+~
+96 41 0 0 0
+D1
+A massive slab of stone.
+~
+slab stone massive~
+1 9680 9669
+S
+#9681
+The Tower Shop~
+   This shop supplies the magic users with many of their needs.  The shelves
+are filled with strange and wondrous items from all over the face of Krynn.  
+Beakers, bubbling over with strange and noxious liquids, are scattered across
+the counter that runs along the back wall of the shop.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9598
+S
+#9686
+At the Bottom of a Staircase~
+   A spiral staircase begins here, winding its way up through one of the
+smaller towers.  The stone steps can be difficult to climb as they are worn in
+the center from the countless mages who have tread upon them.  The stairs cling
+to the wall around the open, hollow center of this tower.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9687
+D4
+~
+~
+0 0 9595
+S
+#9687
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  The
+hallway continues on to the east and west.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9688
+D3
+~
+~
+0 0 9686
+S
+#9688
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  The
+hallway continues on to the east and west.  A doorway is visible to the north
+and south.    
+~
+96 8 0 0 0
+D0
+~
+~
+0 0 9588
+D1
+~
+~
+0 0 9689
+D2
+~
+~
+0 0 9589
+D3
+~
+~
+0 0 9687
+S
+#9689
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  The
+hallway continues to the west.  The central stairwell lies to the east.    
+~
+96 8 0 0 0
+D1
+~
+~
+0 0 9590
+D3
+~
+~
+0 0 9688
+S
+$~

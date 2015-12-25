@@ -1,0 +1,145 @@
+4
+holy
+11
+c holy-word
+0
+3
+cbb
+15
+c blade-barrier
+0
+6
+undead
+18
+c prot-from-undead
+0
+4
+weak
+13
+c weakness $1
+1
+3
+tap
+54
+: taps the end of his staff against the ground, twice.
+0
+3
+cdw
+14
+c divine-wrath
+0
+5
+storm
+20
+c prot-from-elements
+0
+5
+hush2
+19
+c sphere-of-silence
+0
+4
+hush
+12
+c silence $1
+1
+4
+dead
+18
+c prot-from-undead
+0
+3
+cde
+16
+c dispel-evil $1
+1
+3
+csh
+15
+c spirit-hammer
+0
+5
+flame
+16
+c flamestrike $1
+1
+3
+cms
+19
+cast magic-stone $1
+1
+3
+gac
+14
+get all corpse
+0
+4
+evil
+16
+c prot-from-evil
+0
+5
+focus
+136
+: closes his eyes and lifts his arms towards the heavens, uttering a soft prayer in Qualinesti, then lowers his arms and opens his eyes.
+0
+9
+qualspeak
+40
+: &Csays&n in &GQualinesti&n, '&G $* &N'
+1
+3
+cda
+14
+c detect-align
+0
+3
+ice
+17
+c prot-from-frost
+0
+4
+fire
+16
+c prot-from-fire
+0
+3
+ccs
+16
+c cure-severe $1
+1
+3
+ccm
+18
+c cure-moderate $1
+1
+3
+ccl
+15
+c cure-light $1
+1
+5
+sanc2
+17
+c greater-sanc me
+0
+6
+armor2
+15
+c magic-vest me
+0
+4
+home
+16
+c word-of-recall
+0
+3
+ccw
+159
+: sets his eyes to the heavens, and offers up a prayer in Qualinesti, '&GE'li, I pray grant thine servant with drink, to quench my thirst&n'; c create-water $1
+1
+3
+ccf
+180
+: glances towards the heavens, and offers a prayer in Qualinesti to Paladine, &G'E'li, grant thine servant divine nourishment, that my body would be strengthened.&n'; c create-food
+1

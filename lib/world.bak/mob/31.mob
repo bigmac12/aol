@@ -1,0 +1,289 @@
+#3100
+wildrunner protectorate wild runner elf~
+a Wildrunner~
+A wildrunner makes his way silently through the forest.
+~
+   Serving as the army of Silvanesti the members of House Protectorate, also
+known as Wildrunners, are well trained in several areas of combat.  The strong
+build and confident look of this elf evidence his years of training.  His hair
+is worn pulled back and secured with a leather thong at the base of his neck,
+keeping it neatly out of his way.  His well-tanned skin highlights his alert
+eyes and elven good looks.    
+~
+1077272 820224 0 500 E
+20 8 -4 3d20+440 3d7+6
+848 25000 6
+8 8 1 0
+BareHandAttack: 13
+E
+#3101
+wildrunner wild runner elf protectorate~
+a Wildrunner~
+A wildrunner silently makes her way through the forest.
+~
+   Serving as the army of Silvanesti the members of House Protectorate, also
+known as Wildrunners, are well trained in several areas of combat.  The strong
+build and confident look of this elfmaid evidences her years of training.  She
+wears her long, golden tresses in a tight braid that extends to the small of
+her back, keeping it neatly out of her way.  Her alert eyes scan the forest
+looking for any sign of trouble.    
+~
+3166232 787456 0 600 E
+21 8 -5 3d33+450 3d8+7
+868 33500 6
+8 8 2 0
+BareHandAttack: 13
+E
+#3102
+pack coshee dog~
+a pack of hunting coshee~
+A pack of coshee appear to be out on a hunting expedition.
+~
+   The intelligence and keen sense of the coshee is clearly evidenced by the
+behavoir of this pack.  They work together as a cohesive unit to effectively
+track and hunt their prey.  A few spots of blood on the green and brown fur of
+the lead hound indicates that this has already been a successful expedition.  
+~
+1073160 263168 0 200 E
+15 11 1 5d10+300 2d8+4
+0 8400 0
+8 8 0 0
+BareHandAttack: 4
+E
+#3103
+coshee dog~
+a female coshee with brown and green fur~
+A brown and green coshee is barely visible as it moves through the forest.
+~
+   Elves consider coshee to be brethren, and therefore they treat them with
+great respect.  Their keen senses and noble mettle are appreciated by even the
+most skilled elven ranger.  This female looks much like any other hound on
+Krynn, however her green and brown fur gives her the great advantage of stealth
+here in the elven wood.    
+~
+28680 294912 0 100 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 2 0
+BareHandAttack: 4
+E
+#3104
+badger nasty nasty-looking~
+a large and nasty-looking badger~
+A large, nasty-looking badger scurries across the forest floor.
+~
+   This nasty-looking creature is a bit larger than a generously-sized house
+cat.  He is covered in thick grey and black fur which is caked with a bit of
+blood, appearing to be from a recent injury.  He has a mouth full of sharp
+teeth and claws which look as though they could tear through leather armors.  
+Despite these obvious defenses, his frantic pace and skittish manner gives him
+the look of an animal that feels they are in danger.    
+~
+90248 131072 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 1 0
+BareHandAttack: 4
+E
+#3105
+finch bird cheerful~
+a cheerful gold finch~
+A cheerful gold finch sings a pleasant melody.
+~
+   Like all members of the finch family, this gold finch has a stout, conical
+bill which is perfect for opening the seeds it eats.  Gold finches are named
+for the bright yellow markings on the males.  This particular specimen has
+vibrant yellow wings which mark it as a male.  The rest of his body is covered
+with cinnamon brown feathers, and he has a red face.    
+~
+90136 65536 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 1 0
+BareHandAttack: 4
+E
+#3106
+finch bird~
+a gray and white finch~
+A gray and white finch flies just overhead.
+~
+   This small finch is covered with gray and white feathers making a somewhat
+striped pattern on its body.  It has a stout, conical bill characteristic of
+all finches.  It hunts around the forest for the small insects and seeds which
+make up its diet.    
+~
+90136 65536 0 0 E
+4 18 12 1d5+45 1d8+1
+0 50 0
+8 8 0 0
+E
+#3107
+pheasant plump~
+a plump pheasant with brown and black feathers~
+A plump pheasant casually wanders the forest.
+~
+   A plump pheasant with brown and black feathers wanders the forest, glancing
+up occassionally to survey her surroundings.  Her head and neck is a rich ebony
+collar that contrasts sharply with a small bit of white at the collar.  Her
+lower body is covered in fine brown feathers.  She cocks her head to the side
+to look all around her, searching for any signs of alarm.  She seems ready to
+fly off should anything startle her or make her feel that she is in danger.  
+~
+90136 66560 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 2 0
+BareHandAttack: 4
+E
+#3108
+elf dressed fine leathers hunter~
+an elf dressed in fine leathers~
+An elf dressed in fine leathers walks quietly through the forest.
+~
+   A muscular elf dressed in finely cured leathers wanders the forest quietly.
+He carries with him a simple wooden bow and slung over his back is a quiver
+full of arrows.  He moves gracefully and with caution, making barely any sound
+as he moves through the lush forest.  He wears soft leather boots that muffle
+his footsteps and leather hunting gloves to protect his hands.  He moves with
+practiced ease that speaks of years of experience.    
+~
+1073160 295936 0 400 E
+18 11 -2 3d20+380 3d6+6
+333 14000 6
+8 8 1 0
+BareHandAttack: 13
+E
+#3109
+stag majestic antlers~
+a majestic stag with large, branching antlers~
+A majestic stag with large branching antlers forages for food.
+~
+   A large stag with branching antlers quietly forages for food.  His body is
+covered in a fine coat of coarse tanned hair.  A snowy patch of white is
+located along his throat.  The stag exudes a feeling majesty and dignity rarely
+found in animals.  It moves slowly, keeping an eye out for any danger.  His
+antlers look as if they can do a serious amount of damage, though any hunter
+would be honored to hang them upon their walls.    
+~
+24584 0 0 0 E
+15 11 1 5d10+300 2d8+4
+0 8400 0
+8 8 1 0
+BareHandAttack: 11
+E
+#3110
+merchant elven elf travelling~
+a travelling elven merchant~
+A travelling merchant strolls down the path, whistling a pleasant tune.
+~
+   The travelling elven merchants whistles a light airy tune as he travels the
+path.  His sapphire blue eyes glitter brightly as he starts to think of the
+goods he will sell when he arrives at the market.  A soft smile plays across
+his lips as he thinks about the beautiful elven lady that stops by his booth
+everyday.  The backpack he wears across his back seems to be laden with various
+goods that jingle softly as he walks.    
+~
+24586 263168 0 400 E
+11 14 5 5d4+190 2d8+2
+200 2900 0
+8 8 1 0
+BareHandAttack: 13
+E
+#3111
+man elven mage stark~
+an elven man dressed in stark white robes~
+An elven man dressed in stark white robes searches the forest for herbs.
+~
+   This young mage is dressed in the stark white robes that mark him as a
+follower of Solinari.  His hands are folded neatly into the sleeves of his
+robes, the hems of which are accented with fine silver embroidery.  He moves
+quietly through the forest, his eyes cast down towards the ground as if
+searching for something.  Perhaps he has ventured out in search of some spell
+components.    
+~
+548872 1024 1 700 E
+12 13 4 5d6+210 2d8+3
+525 4700 1
+8 8 1 0
+BareHandAttack: 13
+E
+#3112
+elfmaid elf green gold~
+an elfmaid dressed in green silks~
+An elfmaid, dressed in green and gold silks, sings along to the sounds of the forest.
+~
+   This lovely young elfmaid seems completely lost in her song as she enjoys
+her daily communion with nature.  She moves gracefully through the forest,
+dressed in the green and gold silks of a cleric of Branchala.  Her melodic
+voice joins a chorus of birds as she sings the praises of the great Branchala,
+known to the elves as Astarin.    
+~
+548872 1024 1 700 E
+11 14 5 5d4+190 2d8+2
+0 2900 2
+8 8 2 0
+E
+#3113
+raccoon well-fed rings tail~
+a well-fed raccoon with white rings on its tail~
+A well-fed raccoon tries to remain hidden amongst the underbrush.
+~
+   Though he tries to remain hidden amongst the underbrush, this well-fed
+raccoon is still readily visible to most observers.  He is currently scrounging
+about the forest floor, but his plump physique and appearent lack of fear of
+humanoids would seem to indicate that he has a cozy relationship with the elves
+who share these woods.    
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+BareHandAttack: 8
+E
+T 1
+#3115
+patrolelf elf border~
+a border hedge patrolelf~
+A patrolelf patrols here!
+~
+It looks unfinished.
+~
+8 0 0 0 E
+29 2 -13 3d33+1450 4d7+9
+0 213000 0
+8 8 1 0
+E
+#3147
+mage white-robed guardian bald-headed young man robes~
+a white-robed guardian mage~
+A bald-headed young man in white robes brandishes his staff threateningly.
+~
+   This man is scarcely out of his twenties, but his head is completely bereft
+of any bit of hair.  His pale scalp shines brightly in the light.  He fixes you
+with a steady glare, his eyes showing unwavering devotion to his task: That of
+seeing to it that none gain entry to the pit of the unnameable.    
+~
+10051594 34083882 104857600 850 E
+24 6 -8 3d33+750 4d6+8
+1492 68000 1
+8 8 1 0
+E
+T 2
+#3174
+elfmaid elf gathering~
+an elfmaid gathering bramble berries~
+A young elfmaid is here gathering bramble berries.
+~
+   This young elfmaid moves with grace amongst the brambles, seemingly unaware
+of the large thorns they possess.  Her golden hair hangs down to the small of
+her back in a loose braid which is interwoven with blue ribbons.  Her large,
+almond eyes are a soft shade of hazel and look back at you with a curious
+stare.    
+~
+24584 1024 0 400 E
+10 14 6 5d4+160 2d7+2
+55 1900 0
+8 8 2 0
+BareHandAttack: 8
+E
+$

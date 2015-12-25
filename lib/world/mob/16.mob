@@ -1,0 +1,704 @@
+#1600
+knight crown~
+a Knight of the Crown~
+A Knight of the Crown patrols here, guarding the entrance to Vingaard Keep.
+~
+   This knight stands tall and with great pride.  His armor glistens brightly
+as he paces in a measured way back and forth, keeping an eye out for danger.  
+At your approach he looks up, and apart from a slight nod, he does little to
+impede your advance.  It would appear his role is not so much to eliminate
+intruders as to sound the alarm should they arrive.  He wields a long spear and
+wears a medium shield.    
+~
+1052938 12 1000 850 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#1601
+knight sword~
+a Knight of the Sword~
+A Knight of the Sword stands here, guarding the gates to the inner Keep.
+~
+   These men stand vigil.  Though their shifts of standing here, mostly
+motionless are quite long, their lack of visible fatigue speaks volumes of
+their training and discipline.  This man wears his mustache long, in the style
+often preferred by Solamnic men.  His armor bears the crest of the sword, and
+shines brightly in the day's shining sun.  He carries a longsword and shield,
+standing vigilant and awaiting the first sign of trouble to spring into action.
+  
+~
+1048842 12 0 850 E
+20 8 -4 3d20+440 3d7+6
+926 25000 0
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1602
+knight crown patrolling~
+a patrolling Knight of the Crown~
+A Knight of the Crown walks about on patrol, eyes alert and weapon poised.
+~
+   This Knight wanders casually about the courtyard.  It would appear that he
+is on patrol, though he carries out his duties with such ease and pleasure, he
+might as well be on a pleasure stroll.  Still, there is no time in a knight's
+life for complacency, and his eyes remain alert.  His weapon is ready to be
+used at the first sign of trouble.    
+~
+328 12 0 850 E
+13 13 3 6d5+240 2d9+2
+333 6625 0
+8 8 1 0
+BareHandAttack: 16
+Maxmove: 50
+E
+#1603
+knight sword weary~
+a weary Knight of the Sword~
+A Knight of the Sword sits at a desk, nearly falling asleep.
+~
+   The knight looks up wearily from his desk.  In his eyes, you notice a few
+conflicting things all at once.  First of all, the man looks as though he
+hasn't slept for weeks.  As he looks up, he regards you with a mixture of
+disdain, and envy; because you can walk about, and he can't.  He is likely also
+regretting doing whatever it was that got him assigned to "desk duty" in the
+first place.  He goes back to his papers with an audible sigh.    
+~
+1315082 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+692 14000 0
+8 8 1 0
+Maxmove: 50
+E
+#1604
+knight rose training~
+a training knight~
+A Knight of the Rose barely works up a sweat, practicing with his sword.
+~
+   Though he appears to be one of the older knights, perhaps in his late
+forties, this man exercises in the hot sun with no trouble at all.  His armor
+bears the crest of the Rose and is in flawless shape, shining brightly.  He
+practices a few swings and then stops to regain his focus.  He has likely spent
+years training with the longsword alone, and the ease with which he uses it
+tells the tale.    
+~
+1311048 12 0 850 E
+21 8 -5 3d33+450 3d8+7
+992 33500 0
+8 8 1 0
+Maxmove: 50
+E
+#1605
+knight sword careless~
+a careless knight~
+A Knight of the Sword stands practicing with very little effort.
+~
+   From the first impression, this knight appears to be either very cocky, very
+tired, or very careless.  Perhaps a combination of any of these.  His attitude
+is that of one who does not wish to be where he currently is.  He practices
+slowly, and without pride.  He makes many mistakes that would surely be costly
+in an actual battle, but he does not seem to mind.  It is clear his thoughts
+are elsewhere.    
+~
+1315144 12 0 850 E
+19 9 -3 3d20+410 3d6+6
+811 17000 0
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1606
+knight crown~
+a Knight of the Crown~
+A Knight of the Crown stands here, talking with his brethren.
+~
+   This knight is not currently wearing his full armor.  He wears a padded
+shirt, and overtop of that is his breastplate.  Upon this breastplate, etched
+in great detail, resides the symbol of the Crown.  He walks about excitedly,
+eager to get to morning prayers.  He carries under his arm an old prayer book,
+battered and dog-eared after years of use.    
+~
+266568 12 0 850 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 1 0
+Maxmove: 50
+E
+#1607
+cleric tall habbakuk~
+a cleric of Habbakuk~
+A tall cleric of Habbakuk stands here, granting blessings to the Knights.
+~
+   This priest wears the colours of Habbakuk, the patron god of the Knights of
+the Crown.  He teaches all the wisdom he has to help aid the knights of the
+Crown, and prepare them mentally for their duties as knights.  He is very tall,
+and bald-headed, making his age difficult to guess.  He speaks in an animated,
+charismatic tone, keeping the knights present hanging on his every word.    
+~
+549130 5120 2097154 850 E
+18 11 -2 3d20+380 3d6+6
+600 14000 2
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#1608
+knight sword reverent~
+a reverent knight~
+A Knight of the Sword kneels reverently, listening to the words of the clerics.
+~
+   This fairly large and strong-looking man kneels upon a pew here.  He wears
+his armor, which shines as though it were newly made.  His head is bowed, and
+he utters the occasional prayer.  Mostly, however, he is here listening.  He
+listens to the wisdom being preached by the clerics of Kiri-Jolith, preparing
+his soul for the day when he may die in battle and join the god of Righteous
+Warfare in his heavenly abode.    
+~
+266504 12 0 850 E
+17 10 -1 3d20+340 3d6+5
+531 11800 3
+8 8 1 0
+Maxmove: 50
+E
+#1609
+cleric kiri-jolith kiri jolith~
+a Cleric of Kiri-Jolith~
+This large man wears the robes of Kiri-Jolith, patron God of the Order of the Sword.
+~
+   This cleric is a small, but dynamic man.  He stands here, preaching loudly
+the ways of Kiri-Jolith and his followers.  He tries every day to impart the
+wisdom he has to the knights who gather here in the chapel.  It is often his
+spells that bless the knights when they ride into battle, though he serves in
+peacetime as well.  Aside from his duties as a teacher, he also heals the sick,
+and counsels the knights in spiritual matters.  He regards you coolly as you
+interrupt his sermon.    
+~
+524554 140 1114113 850 E
+18 11 -2 3d20+380 3d6+6
+754 14000 2
+8 8 1 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#1610
+knight rose older~
+an older Knight of the Rose~
+An older, Knight of the Rose stands here waiting to pay tribute to Paladine.
+~
+   This proud man stands in the chapel, his armor polished and mirror-like.  
+He awaits his turn to have audience with the Priest of Paladine, and also
+awaits his chance to present his offering.  It has become tradition for the
+older Knights of the Rose to tithe weekly a portion of the money they earn.  
+The tithing itself has become something of a ritual, and this fellow, like the
+others, awaits his turn to participate.  He looks at you, and then looks away,
+seeming somewhat arrogant as he does so.  ~
+1310984 12 0 850 E
+22 7 -6 3d33+550 3d8+7
+1112 40000 3
+8 8 1 0
+Maxmove: 50
+E
+#1611
+cleric paladine~
+a Cleric of Paladine~
+A Cleric of Paladine stands here, a calm look shown upon his face.
+~
+   This man wears robes of the purest white.  Around his neck is hung the
+symbol of a silver triangle.  He stands, waiting and watching as the Knights of
+the Rose pay tribute to Paladine, and make their weekly tithes.  When needed,
+he is more than glad to offer his advice on issues the knights have problems
+with, particularly matters of the soul.  His face is creased by lines of care
+and worry, and his eyes shine with boundless patience and compassion.    
+~
+1835274 1156 8536066 850 E
+23 6 -7 3d33+650 3d8+8
+1239 52000 2
+8 8 1 0
+Maxmove: 50
+E
+T 2
+#1612
+knight rose elderly commander~
+an elderly Knight of the Rose~
+An elderly Knight of the Rose goes over a few battle maps.
+~
+   His face shows the many battles he has seen.  He appears to be in his
+sixties, but shows no signs of slowing down.  Instead, he wears his age
+proudly.  He wears upon his breastplate a badge that signifies his rank as a
+commander.  He reads over maps and charts showing battle formations, committing
+them to memory.  At your entry, he slams a book shut and glares at you,
+apparently a little irritated at your interruption.    
+~
+1380618 12 0 850 E
+23 6 -7 3d33+650 3d8+8
+1235 52000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+T 1612
+#1613
+knight sword quiet~
+a quiet Knight of the Sword~
+A Knight of the Sword rests his hands against the edge, staring out into the courtyard.
+~
+   This tired knight rests his body against the edge of the balcony.  His hands
+absentmindedly move over the railing.  He has a far-away look in his eyes as he
+watches the courtyard below.  As he feels your scrutiny, he turns to look at
+you and nods, though he does little else.  His mind appears to be occupied by
+other things at this moment, and it seems a shame to disrupt his quiet reverie.
+  
+~
+266250 12 0 850 E
+16 11 0 3d20+320 3d6+4
+491 11000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1614
+squire newly made~
+a newly made squire~
+A young squire wanders the halls of Vingaard Keep.
+~
+   This young man appears to be at most in his late teens.  He still wears upon
+his head the laurel of a newly appointed squire.  He wanders around the keep,
+his eyes wide and hopeful, taking in all around him.  He sees you, and seems
+barely able to contain his excitement.  He smiles and bows, apparently very
+eager to please, even though after a moment he realizes you are not who he at
+first thought you were.  He then tries to regain his dignity and continue on
+his way.    
+~
+291144 12 0 850 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+BareHandAttack: 14
+Maxmove: 50
+E
+#1615
+knight sword~
+a Knight of the Sword~
+A Knight of the Sword patrols the hallways, keeping an eye out for trouble.
+~
+   This man wanders the hallway slowly, watching for the slightest disturbance.
+He looks at you warily, sizing you up and seeing if you pose any threat.  He
+and his comrades have been trained as sentries within the keep, and have
+practiced well the subtleties of small corridor fighting.  He keeps his hand
+near his scabbard, and remains in a perpetual state of readiness.    
+~
+266504 12 0 850 E
+15 11 1 5d10+300 2d8+4
+441 8400 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1616
+knight rose observant~
+an observant Knight of the Rose~
+A female Knight of the Rose stands from the tower, keeping watch at a far distance.
+~
+   This young lady takes her job very seriously.  Her armor is brightly shined
+and is lacking of any dent or blemish.  This allows the symbol of the Rose on
+her breastplate to be seen clearly.  She stands tall, peering across the
+countryside.  Her job is to keep an eye open for incoming forces.  Using her
+special eyeglass to see, she seems satisfied to notice no immediate signs of
+danger.  Upon your entry, she turns to look at you, her face showing disdain
+and impatience with you.    
+~
+1315144 12 0 850 E
+24 6 -8 3d33+750 4d6+8
+1293 68000 3
+8 8 2 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1617
+priest kiri jolith kiri-jolith sword~
+a priest of Kiri-Jolith~
+A priest of Kiri-Jolith stands of to one side holding a figurine delicately.
+~
+   This priest is younger than the other, and seems to be an apprentice of
+sorts.  He assists his superior with the ceremonies performed here.  He stands
+to one side, watching as the cleric preaches from the pulpit.  His young eyes
+are alight with righteous inner fire, and he seems ready and willing to one day
+assume the mantle of spiritual leader of the Sword Knights here in the keep.  
+He turns his hands over and over again, fidgeting subconsciously with a small
+figurine.    
+~
+524298 0 2049 0 E
+14 12 2 6d8+240 2d8+4
+0 7000 2
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#1618
+acolyte helpful little man Habbakuk~
+an acolyte of Habbakuk~
+A helpful little man, dressed in the robes of an acolyte helps knights to their pews.
+~
+   This is a very small man who appears to be in his late twenties.  He is
+wearing the blue robes of an acolyte of Habbakuk.  He stands here, helping
+knights to their seats and making sure everyone is seated comfortably before
+the mass begins.  While some might grow bored of being an usher all day, this
+man seems to relish his work, and carries out his duties with zeal.    
+~
+552968 4 1 850 E
+10 14 6 5d4+160 2d7+2
+0 1900 2
+8 8 1 0
+Maxmove: 50
+E
+#1619
+priest chanting paladine tall slender white robes~
+a priest of Paladine~
+A tall, slender man in white robes wanders slowly around the chapel, chanting.
+~
+   This tall and somewhat skinny-looking man in clerical robes wanders about
+the chapel at a measured pace, chanting as he does.  His voice is soothing and
+melodic, the words being chanted are words of praise to the King of the gods of
+good.  As you pass, he raises his hand in a blessing, never breaking stride,
+and never ceasing the almost endless, beautiful chant.    
+~
+552984 33558588 8404996 850 E
+18 11 -2 3d20+380 3d6+6
+500 14000 2
+8 8 1 0
+Maxmove: 50
+E
+T 2
+#1620
+Miriam Lady tall woman air superiority proud~
+Lady Miriam~
+A tall woman with an air of superiority moves proudly through the chapel.
+~
+   Lady Miriam was posted to Vingaard Keep a few years ago.  She has risen
+through the ranks of the Knights of Solamnia faster than many others,
+particularly women, who are often not advanced as quickly as men.  She appears
+to be arrogant and haughty, having achieved something that few other women
+have.  She looks at you and frowns distastefully.  She then turns up her nose
+and moves along.    
+~
+4186392 36908 10240 850 E
+28 2 -12 3d33+1250 4d7+9
+1200 175000 7
+8 8 2 0
+BareHandAttack: 3
+Maxmove: 50
+E
+T 1620
+#1621
+Galford sir man Solamnic armor knight~
+Sir Galford~
+A man, dressed in full Solamnic armor, leads his horse to the stables.
+~
+   Sir Galford is one of the three ranking knights of Solamnia to be posted
+here at Vingaard.  He wears full armor, beautifully maintained, which bears the
+symbol of the order of the Sword.  His visor is raised, showing his rather
+handsome face.  He has a smile of contentment as he walks his horse to the
+stables.  He carries himself with an assured confidence that only comes of
+knowing you are among the best of the best.    
+~
+3340570 136196 0 850 E
+28 2 -12 3d33+1250 4d7+9
+2000 175000 3
+8 8 1 0
+BareHandAttack: 16
+Maxmove: 50
+E
+T 1621
+#1622
+warhorse horse beautiful white~
+a beautiful white warhorse~
+A beautiful white warhorse, dressed in full regalia follows his master loyally.
+~
+   Sir Galford's warhorse has a reputation as a steed without equal.  Galford
+has won many tournaments, using this horse in the joust events.  The horse is
+beautiful to behold.  It is purest milk-white, its coat shining brilliantly in
+the sun.  Its long white hair is equally well-maintained.  It is wearing full
+regalia, including complete tack and harness.  The reins are tassled with blue
+and red.    
+~
+82058 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+8 8 1 0
+BareHandAttack: 4
+Maxmove: 500
+E
+T 1622
+#1623
+stablehand young boy~
+a young stablehand~
+A young stablehand passes by you, smiling in a friendly way.
+~
+   This young man appears to be in his mid-twenties.  He is wearing a filthy
+set of coveralls, and have obviously spent the better part of the day in the
+stables.  His pockets bulge with brushes and cloths used in keeping the horses
+clean.  He carries a bucket of water which he is taking to the fountain to
+fill, so that the horses stabled here will be provided with something to drink.
+  
+~
+57480 0 0 0 E
+8 15 8 5d5+110 2d6+2
+100 800 0
+8 8 1 0
+Maxmove: 50
+E
+#1624
+Lucius Lord ranking knight crown~
+Lord Lucius~
+Lord Lucius, Vingaard's ranking knight of the crown leans against the wall, resting.
+~
+   Lord Lucius is in his mid-forties and has been posted at Vingaard keep for
+nearly twenty of those years.  During that time he has earned many
+commendations for his valour and professionalism.  He leans against the wall,
+holding his helmet in his hands.  He has beads of sweat upon his brow, and
+apparently has just enjoyed a rather brisk workout session with his fellow
+knights.    
+~
+3207194 33591296 0 850 E
+25 5 -9 3d33+850 4d6+8
+2000 87000 3
+8 8 1 2
+BareHandAttack: 3
+Maxmove: 50
+E
+#1625
+leopold quartermaster~
+Leopold, the quartermaster~
+Leopold, the Vingaard quartermaster stands here, his arms crossed.
+~
+   Leopold has held the office of Vingaard's quartermaster for longer than many
+knights have been stationed here.  He prides himself on being able to guess a
+knight's size just from casually looking at him, and equipping him properly.  
+Though his skills at guessing are not quite what they used to be, most knights
+humour him anyway, as it is one of the few things in life that give him some
+joy.    
+~
+7593994 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#1626
+Arturs vaultkeeper vault bank banker~
+Arturs, the vaultkeeper~
+Arturs, keeper of the Vingaard vault stands here, ready to assist you.
+~
+   Arturs has spent most of his life dealing with money.  While not uncommon
+for someone from a merchant family, Arturs was born into a noble, knightly
+family.  His father had hoped that his sons, like himself, would take up the
+calling and become knights of Solamnia, but this is the closest Arturs ever
+came: managing the vault of Vingaard Keep.  Granted, he does so very well, but
+his father remains bitterly disappointed.    
+~
+7593994 235044864 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 4
+Maxmove: 50
+E
+#1627
+Kal-Thar blacksmith~
+Kal-Thar, the blacksmith~
+Kal-Thar the blacksmith pounds on a piece of iron, completely ignoring you.
+~
+   Kal-Thar pounds away tirelessly at a piece of iron rod, working at shaping
+it into a horseshoe.  He wears a thick leather apron of the kind favoured by
+armorers.  He is so filthy it is impossible to distinguish what colour his hair
+or skin are.  He has been working here for endless hours, and may end up
+working here for endless hours more.    
+~
+7593994 33554432 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#1628
+Shindia shopkeeper exotic young woman seller~
+Shindia~
+An exotic young woman sells baking in the marketplace.
+~
+   Shindia has been selling pastries and breads here for several weeks.  While
+originally from down south, she now resides in Vingaard Keep.  Her stint here
+as a seller was so successful that she has set up permanent shop here in the
+marketplace.  Her pastries are renouned in the Keep for their succulence.  She
+winks and grins enticingly at you.    
+~
+7594122 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 2 0
+Maxmove: 50
+E
+#1629
+Herman fat merchant~
+Herman, a fat merchant~
+A fat merchant sells his goods at a table set up in the marketplace.
+~
+   Herman makes his living selling fresh meat here in the marketplace.  There
+is a joke around many of the other sellers here that every copper he makes he
+spends on food for himself.  It is true that Herman's girth has increased
+greatly during his time here, so those rumours may have some credence.    
+~
+7593994 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#1630
+Barkley one sellers seller hawking merchant shopkeeper~
+Barkley~
+One of the sellers sits here, hawking his wares.
+~
+   Barkley prides himself on bringing drinks from near and far.  However, his
+inventory today seems a little depleted.  When asked why he has so little here
+to sell, his response is to quickly mention how brisk business has been, and
+then just as quickly changing the subject.  He does this so masterfully, people
+often don't even notice until a few minutes later, after they have already
+left.    
+~
+7594122 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#1631
+Darvan fishmonger short squat man reeking~
+Darvan, the fishmonger~
+Darvan, a short, squat man reeking of fish sells his fresh catch of the day.
+~
+   Darvan positively reeks of fish, though most around him are willing to
+forgive the stench.  After all, the man does catch, kill, gut, and occasionally
+cook or cure his own fish.  He always brings in some of the finest specimens
+from his rickety fishing boat upon the Vingaard River.  Although the fish he
+sells here are large, he always has a few tales about "the one that got away".
+  
+~
+7462922 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#1632
+Saritta jewellery vendor seller sar shopkeeper~
+Saritta, the jewellery vendor~
+Saritta, the jewellery vendor sits at her display, smiling as you pass.
+~
+   Saritta is a lovely young woman with long blonde hair and exquisite
+features.  She is draped with glittering jewellery, which, in the opinion of
+many is of impeccable taste and surpassing beauty.  She has attracted many
+suitors who consider her to be the most beautiful jewel of all, though she has
+yet to find a man who she would consider settling down for.  She smiles
+wistfully as you pass, her eyes staring into space.    
+~
+7593994 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 2 0
+Maxmove: 50
+E
+#1633
+priestess habbakuk kneels~
+a priestess of Habbakuk~
+A priestess of the Kingfisher kneels, facing the altar with head bowed.
+~
+   This woman is dressed head to toe in the colors of Habbakuk, the Kingfisher.
+Her hood and robe are a beautiful shade of ocean blue, with ivory-colored trim.
+She kneels here before the altar, head bowed in prayer.  A small linen cloth is
+unrolled, smoothed out on the ground before her.  Upon it are placed various
+offerings to her diety.    
+~
+1589258 5120 2113540 850 E
+21 8 -5 3d33+450 3d8+7
+900 33500 2
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#1634
+priest habbakuk kingfisher~
+a priest of Habbakuk~
+A priest of the Kingfisher stands here, tending to the Altar.
+~
+   This priest was assigned to Vingaard Keep some time ago, and placed in
+charge of overseeing the daily mass as well as other Church affairs.  
+Currently he stands with his back to the Chapel, tending to the altar itself
+while his lesser grants blessings to attending Knights.  He wears a long,
+ivory-colored robe and an ocean blue stole, the colors of Habbakuk, the
+Kingfisher.    
+~
+1601546 5248 2113540 850 E
+20 8 -4 3d20+440 3d7+6
+800 25000 2
+8 8 1 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#1635
+mare sturdy braided white mane~
+a sturdy mare with a braided white mane~
+A sturdy mare with a brown coat and braided white mane stands quietly.
+~
+   The impeccable breeding of this beautiful mount is evident in the calm and
+dignified way in which she carries herself.  Her coat is a dark wooden brown,
+with a white diamond-mark upon her muzzle.  Her beautiful, silken mane has
+grown long and has been braided beautifully.  She is equipped with tack and
+saddle and looks fully ready for riding.    
+~
+16777352 1073741824 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 2 0
+BareHandAttack: 6
+Maxmove: 300
+E
+#1636
+warhorse horse huge black Solamnic~
+a huge, black Solamnic warhorse~
+A huge, powerful warhorse stands here in full barding and regalia.
+~
+   The Solamnics have been breeding horses for years that are best suited to
+carrying armored knights into battle, and this fine specimen is an example of
+the success they have achieved.  The magnificent animal has long, powerful
+legs, and a strong back that could easily carry even the largest of riders.  
+Solamnic mounts of this sort of pedigree are renouned for their fearlessness,
+carrying their knights into battle with no regard for their own safety.    
+~
+17899528 1107296256 0 0 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 500
+E
+#1637
+stallion young energetic~
+a young stallion~
+A young and energetic stallion chomps at the bit, raring to charge.
+~
+   This horse still appears to be largely untamed, chomping at its bit and
+tensing its muscles at your approach.  It is the sort of horse that would
+require many months of training to tame it except by the most expert of
+handlers.  It has a fairly short but sturdy back, clearly bred to carry armored
+men into combat.  Its coat is a glossy, healthy white.    
+~
+16777224 0 0 0 E
+14 12 2 6d8+240 2d8+4
+0 7000 0
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 400
+E
+$

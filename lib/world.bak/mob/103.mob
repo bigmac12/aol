@@ -1,0 +1,138 @@
+#10300
+camper outlaw~
+the outlaw camper~
+An unshaven camper jumps at you from out of nowhere!
+~
+   Dirty, unshaven and doused with blood, this man appears haggard.  His
+clothes are worn to the point of fraying, except for the shiny new pair of
+boots which are clearly out of place.    
+~
+104 786432 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 4
+8 8 1 0
+E
+#10301
+ogre fat burly~
+a fat, burly ogre~
+A fat, burly ogre stands here, glaring menacingly.
+~
+   Rather impressive in size, this large ogre is covered in grime and emits a
+rather foul stench.  Tattered animal furs are wrapped around him, covering him
+for the most part.    
+~
+104 1024 0 -600 E
+5 17 11 2d5+65 2d5+0
+20 85 3
+8 8 1 0
+BareHandAttack: 7
+E
+#10302
+fat burly ogre~
+a fat, burly ogre~
+A fat, burly ogre picks his teeth with a bone fragment.
+~
+   Tall and wide, this fat ogre is picking the remains of his last meal from his
+teeth.  There appears to be much more leftovers scattered through his hair and
+all over his grimy clothes.    
+~
+2152 1024 0 -700 E
+5 17 11 2d5+65 2d5+0
+18 85 3
+8 8 1 0
+BareHandAttack: 4
+E
+#10303
+ogre fearsome~
+a fearsome ogre~
+An incredibly massive ogre bars passage.
+~
+   Larger than a usual ogre, this is the largest member of the ogre society.  
+Standing nearly eight feet tall, the ogre grunts in anger and balls up its
+large fists.    
+~
+8394858 1024 0 -600 E
+7 16 9 3d5+85 2d6+1
+50 400 3
+8 8 1 0
+BareHandAttack: 13
+E
+#10304
+ogre mage large robes~
+an ogre mage~
+An unusually large ogre wearing tattered robes.
+~
+   Large for an ogre, perhaps this is its older cousin, the ogre.  Peculiar to
+this ogre is his clothing.  Once-fine robes are now tattered, yet the robes
+themselves are unusual for an ogre.  Also, the typical weapon of such a beast
+seems absen.    
+~
+530522 1056 1 -700 E
+9 15 7 5d5+130 2d7+1
+80 1300 1
+8 8 2 0
+BareHandAttack: 12
+E
+#10305
+huge green troll~
+a huge, green troll~
+A hideous green troll stomps about the area.
+~
+   Much larger than a typical orc, this is clearly an ogre.  Drool and flecks
+of his last meal cover his face, and blood is present on his hands and
+clothing.  Thick, greyish skin is covered by poorly sewn hides of animals.    
+~
+10344 1024 0 -900 E
+8 15 8 5d5+110 2d6+2
+70 800 3
+8 8 1 0
+BareHandAttack: 9
+E
+#10306
+giant mage green elegant~
+a giant in elegant green robes~
+A giant stands before you, looming large in impressive green robes.
+~
+   Looming large before you, this giant dons elegant green robes, with
+mysterious drawings and ancient symbols draw upon it.  An ivory nosering
+dangles from his snout, and a tuffle of gray hair droops down from his head.  
+~
+549466 1064 1 -500 E
+9 15 7 5d5+130 2d7+1
+83 1300 1
+8 8 1 0
+BareHandAttack: 12
+E
+#10307
+regal giant stone prince Grondihl~
+Grondihl, the stone giant Prince~
+Regal and incredibly large, Prince Grondihl is an awesome presence.
+~
+   Regal and incredibly large, Prince Grondihl stands here staring at you with
+an ugly smirk on his face.  His huge arms are folded across his massive chest as
+if in contempt of you and your kind.  Every once in a while he will bend over
+and converse with a figure standing near him dressed in dark robes.  Looking
+up, Grondihl scowls mightily and flexes his stone like muscles.    
+~
+110664 33555464 0 -400 E
+11 14 5 5d4+190 2d8+2
+95 2900 3
+8 8 1 0
+BareHandAttack: 6
+E
+#10399
+bird carrion large foul smelling~
+a large carrion bird~
+A large, foul smelling carrion bird circles slowly in the air overhead.
+~
+   This large and foul smelling bird slowly drifts along the air currents that
+drift across this area.  His roaming eyes are constantly scouting for his next
+meal.  Perhaps you will provide it in one way or another.    
+~
+69820 65536 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 0
+BareHandAttack: 8
+E
+$

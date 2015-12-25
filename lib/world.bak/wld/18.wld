@@ -1,0 +1,1823 @@
+#1800
+A Pathway Leading to a Small Cottage~
+   Here is a well-kept path of cobblestones, flanked on either side by short
+grass and a few bushes.  Along with the sweet sent of roses and lilacs, in the
+distance there is a smell like that of bread being baked.  Within view to the
+east is a small, quaint cottage with a thatched roof, painted white and
+maintained in good repair.    
+~
+18 4 2 0 0
+D1
+~
+~
+0 0 1801
+D3
+~
+~
+0 0 7182
+S
+#1801
+A Well-Tended Path~
+   Further along the path, the smell of baking bread is more prevalent.  The
+home looks rather tidy, and is surrounded by a well-kept yard.  The sounds of
+children playing can be heard now, giggling as they run about.  To the west,
+the path continues toward the highway.  Toward the east, the cottage sits in
+all its rustic charm.    
+~
+18 0 2 0 0
+D1
+~
+~
+0 0 1802
+D3
+~
+~
+0 0 1800
+S
+#1802
+Before a Small Cottage~
+   You now stand before the cottage.  There is a rickety set of steps here,
+which lead east up to the door.  Although the whole place, for the most part,
+is in a good state of repair, missing shingles and rusty hinges show that there
+has not been someone about to take care of the maintenance of the place.  The
+cobblestone path continues off to the southeast, around the side of the house.
+Upon the steps is a doormat.    
+~
+18 0 2 0 0
+D1
+   Up a tiny set of stairs is a door that leads into the cottage.  The door is
+painted white with a small, round window set into it.  Behind the window is a
+set of ruffled curtains.    
+~
+door~
+1 0 1806
+D3
+~
+~
+0 0 1801
+D9
+~
+~
+0 0 1803
+E
+doormat mat~
+               'Welcome to our Humble Home.'
+~
+S
+#1803
+Outside the Cottage~
+   The pathway leads around the side of the cottage.  It is shaded by the
+cottage on one side and several large oak trees on the other side.  The smell
+of flowers fills the air, along with the sounds of birds and a few insects.  
+All around, you see evidence of a well-tended yard, taken care of by loving
+hands.  To the south, the edge of the yard is marked by a simple, wooden fence.
+Through a window to the north, the inside of the house can be seen.    
+~
+18 4 2 0 0
+D1
+~
+~
+0 0 1804
+D6
+~
+~
+0 0 1802
+E
+window inside~
+   Through the window, the inside of the house can be seen.  It is a home that
+is definitely inhabited, and looks to be quite cozy.  You can see movement from
+inside.    
+~
+S
+#1804
+The Corner of the Yard~
+   The fence surrounding the yard corners off here.  This seems to be the
+corner of the yard that is set aside for the children's use.  There is a
+swingset here which shows signs of recent use, as well as a large sandbox,
+which looks to have played host to a recent string of wonderous, imaginary
+events.    
+~
+18 0 2 0 0
+D0
+~
+~
+0 0 1805
+D3
+~
+~
+0 0 1803
+E
+sandbox sand box~
+   This sandbox appears to have been played in recently, evidenced by a castle
+that has been constructed in its center, complete with a tiny drawbridge and a
+little moat.  The child that built it obviously has an active imagination, as
+strewn all about are little wooden soldiers.  The aftermath of some imaginary
+battle in which there were no survivors...    
+~
+S
+#1805
+The Garden~
+   Behind the house, the air grows more humid.  A lush garden grows here, ripe
+with many different kinds of vegetables and other plants.  A little trail of
+stones leads through the moist soil.  As with most of the yard, the garden has
+been well-taken-care of, carefully tended and weeded every day with care.    
+~
+18 0 2 0 0
+D2
+~
+~
+0 0 1804
+S
+#1806
+Inside of the Cottage~
+   Taller people would need to duck their heads to get through the small
+doorway.  No sooner do you enter the house then your nose is tickled with the
+pleasant scent of baking.  The floorboards creak a little under the throw rug.
+There are a few windows in all directions, allowing one to see around the
+well-tended yard surrounding the cottage.  Through the wide entryway to the
+north, soft humming can be heard.  There is a doorway to the west which leads
+outside.    
+~
+18 8 0 0 0
+D0
+~
+~
+0 0 1807
+D3
+   To the west is a plain wooden door, painted white.  There is a small round
+window covered by curtains through which one can view the outside world.    
+~
+door~
+1 0 1802
+S
+#1807
+Main Room of the Cottage~
+   The main room of the cottage is spread out before you.  It is a cozy little
+place, with a few chairs and a table.  In the corner is the largest chair of
+all, which looks like it has not been sat in for many years.  Against the
+northern wall is a wood stove, which appears to be un use, and the source of
+the smell of baking.  The room is rather warm at present, which is no doubt
+attributable to the stove.  On the southern wall by the entrance hangs a
+portrait enclosed in a round frame.  Light streams in through a large window to
+the west.    
+~
+18 8 0 0 0
+D1
+~
+~
+0 0 1808
+D2
+~
+~
+0 0 1806
+E
+portrait~
+   This painted portrait is a full-length depiction of an armored man on
+horseback.  He wears the regalia of a Knight of Solamnia.  The picture shows
+him as he might have been at one time, preparing for battle.  The visor on his
+helmet is up, and through the astonishing detail in the painting, you can see
+his face: handsome, proud, and caring.  The fate of the man cannot be fully
+ascertained, but his likeness is forever immortalized here.    
+~
+S
+#1808
+The Main Bedroom~
+   This room has all the comfortable trappings one would expect: a large bed
+with comfortable sheets, and matching drawers and an armoire.  On a small table
+beside the bed sits a small lamp which provides some light during evening
+hours.  All attention seems, however, to be diverted to a single large display
+case, resting in the southeast corner of the room.  Set into the northern wall
+is a flight of stairs, leading upwards.    
+~
+18 8 0 0 0
+D3
+~
+~
+0 0 1807
+D4
+~
+~
+0 0 1809
+S
+#1809
+Childrens' Room~
+   This room is very cheerful and colorful, quite a departure from the rest of
+the cottage.  On either side of the room is a small bed, covered with colorful
+linens.  At the foot of each bed is a toybox, overflowing with what some would
+consider a wealth of playthings.  The walls have been painted with funny
+animals ranging from silly-looking cows, to cute kittens, to comical lizards.
+A window on the northern side of the room has been left flung wide open, and
+the warm breeze fills the room with the smells of the outdoors.    
+~
+18 8 0 0 0
+D5
+~
+~
+0 0 1808
+S
+#1810
+Within a Hylar Outpost~
+   Some of the smaller trees in the forest have been cleared away to make a
+narrow pathway up the hillside.  The dwarves have staked out this area as a
+small outpost to keep a close eye on activity to the north and east.  This
+location was selected since it is relatively hidded by the larger trees, yet
+high enough in the hillside to provide a good view of the highways.    
+~
+18 0 2 0 0
+D0
+~
+~
+0 0 1811
+D1
+~
+~
+0 0 1814
+D8
+~
+~
+0 0 8220
+S
+#1811
+A Well Used Field~
+   This portion of the outpost has been cleared of almost all trees and brush.
+It sits back far enough from the highway that little, if any, activity here is
+dectectable by passerbys.  Any noise resulting from the heavily-booted feet of
+the dwarves is most likely attributed to the wildlife that lives in the
+hillside.  Two modest building have been erected on either side of this
+courtyard.    
+~
+18 4 2 0 0
+D0
+~
+~
+0 0 1812
+D1
+an unusually short door
+~
+door unusually short wooden~
+1 0 1816
+D2
+~
+~
+0 0 1810
+D3
+a door with a sign which reads 'MESS HALL'
+~
+door mess hall~
+1 0 1818
+S
+#1812
+Before a Small Building~
+   This portion of the outpost has been cleared of almost all trees and brush.
+It sits back far enough from the highway that little, if any, activity here is
+dectectable by passerbys.  Any noise resulting from the heavily-booted feet of
+the dwarves is most likely attributed to the wildlife that lives in the
+hillside.  A small building stands to the north.    
+~
+18 0 2 0 0
+D0
+This is a thick wooden door
+~
+door thick wooden~
+2 1811 1813
+D2
+~
+~
+0 0 1811
+S
+#1813
+Inside the Commander's Hut~
+   The only truly finished building in the outpost, the commander's hut has a
+small stone fireplace built in the northern wall and a wooden plank floor.  It
+is still rather modestly furnished with only the most essential of items: a map
+table, bureau, and a sleeping cot.  On the walls hang maps of this area of
+Ansalon, showing the highways, cities and other encampments.    
+~
+18 262152 0 0 0
+D2
+This is a thick wooden door
+~
+door thick wooden~
+2 1811 1812
+S
+#1814
+At the Base of a Watchtower~
+   To provide an even clearer view a wooden watch tower has been constructed to
+give the otherwise diminutive dwarves some much-needed height.  The tower has
+been expertly designed by dwarven craftsmen to allow it to blend in with the
+hillside.  The wooden posts that support it have been constructed on tree
+trunks that still retain their bark and are barely discernable from the trees
+that grow alongside the tower.    
+~
+18 4 2 0 0
+D3
+~
+~
+0 0 1810
+D4
+~
+~
+0 0 1815
+S
+#1815
+Atop a Watchtower~
+   The sturdy canvas of which this tent has been built has been dyed varying
+shades of green to give it the appearance of a treetop.  It has also been
+treated with oils to keep out the rains that blow through this area from time
+to time.  The outside of the tent has several tree branches fastened to it,
+providing additional camouflage.  The inside is sparsely furnished, with just
+the barest of necessities.    
+~
+18 8 0 0 0
+D5
+~
+~
+0 0 1814
+S
+#1816
+Within a Barracks~
+   Other than the tiny mess hall, this room of the barracks offers the only
+place for those dwarves not on watch to sit and relax a bit.  A small card
+table sits in the center of the dirt floor surrounded by several small stools.
+The table is littered with cards and empty tankards which reek or dwarven
+spirits.    
+~
+18 8 0 0 0
+D0
+~
+~
+0 0 1817
+D3
+an unusually short door
+~
+door unusually short wooden~
+1 0 1811
+S
+#1817
+Along a Row of Bunks~
+   Lined with row upon row of bunks, stacked three high, this room serves as
+the sleeping quarters for the outpost.  There are dwarves sleeping here at just
+about anytime of day since there are constantly rotating shifts of men on and
+off active watch.  There are no windows of any kind to allow light to come in
+and disturb the night watchmen who must get their sleep while the sun is still
+high in the sky.    
+~
+18 8 0 0 0
+D2
+~
+~
+0 0 1816
+S
+#1818
+A Tiny Mess Hall~
+   Designed to blend in with the landscape, the mess hall is constructed of
+logs and has a simple, thatched room that is covered with leaves and tree
+branches.  It has a dirt floor which is barely visible in this small room that
+is overcrowded with dining tables.  Each table is lined with short wooden
+stools, providing a place for those dwarves not on active watch to sit and rest
+while dining.    
+~
+18 8 0 0 0
+D0
+~
+~
+0 0 1819
+D1
+a wooden door leading out
+~
+door wooden~
+1 0 1811
+S
+#1819
+The Outpost's Kitchen~
+   Not much more than a large stone fire pit surrounded by racks filled with
+pots and pans, this small room serves as the outpost's kitchen.  The fire pit
+has been dug into the dirt floor and is bordered by large stones quarried from
+these hills.  Several racks sit against the western wall, overflowing with
+cookware.  In the western corner sits a large wooden barrel filled with the
+life's blood of the outpost: dwarven spirits.    
+~
+18 8 0 0 0
+D2
+~
+~
+0 0 1818
+S
+#1820
+A Small Path Through the Forest Grove~
+   The path winds gently through the trees of the forest.  The canopy of
+branches high overhead sway soothingly in the breeze and the soil underfoot is
+hard packed from once regular travel.  The undergrowth encroaching the pathway
+is the only indication of its recent disuse.    
+~
+18 0 3 0 0
+D0
+~
+~
+0 0 1821
+D3
+~
+~
+0 0 8435
+S
+#1821
+A Small Path Through the Forest~
+   The undergrowth encroaching the pathway is the only indication of its recent
+disuse.  The path is barely visible through the weeds that have now sprung up
+through its once well-travelled course.  The branches from the large trees of
+the forest sway overhead in the breeze and the pathway is kept in the shade by
+their magnificent canopy.    
+~
+18 0 3 0 0
+D0
+~
+~
+0 0 1822
+D2
+~
+~
+0 0 1820
+S
+#1822
+A Large Grove in the Dense Forest~
+   Standing within a clearing in the forest is a large grove of trees and the
+undergrowth has been cleared from beneath the overhanging branches.  The sound
+of bird song fills the air and the pleasant muted buzz of small insects gives
+out a relaxing sound.  Assorted fruits can be seen high in the various trees.
+All seemingly out of reach.    
+~
+18 0 3 0 0
+D0
+~
+~
+0 0 1823
+D2
+~
+~
+0 0 1821
+S
+#1823
+A Beautiful Spring in the Center of the Grove~
+   Beautiful grass surrounds a large clear water spring in the center of the
+grove.  The large trees tower up around the tuffet of grass.  Wildflowers have
+sprouted up throughout the grassy area around the spring.    
+~
+18 0 2 0 0
+D2
+~
+~
+0 0 1822
+D3
+~
+~
+0 0 1824
+D7
+~
+~
+0 0 1825
+S
+#1824
+A Small Alcove in the Grove~
+   The small grassy alcove is surrounded by dense trees.  The towering trees
+form a large canopy high above the alcove ground.  Birds can be heard chirping
+high in the treetops.  Wildflowers grow densely here in full bloom.    
+~
+18 0 3 0 0
+D1
+~
+~
+0 0 1823
+D3
+   A large area of thorny brambles and bushes grow amongst the base of the
+trees here, and the appear as if they have been trampled through recently.    
+~
+bushes brambles bush~
+1 0 11190
+S
+#1825
+A Path Through the Grove~
+   The leaves are beginning to fall off the trees here and drift twards the
+ground where they have started to form a layer over the small path.  The shrubs
+and wildflowers do not look as vibrant lining the path.  A light breeze flowing
+through the sparse branches of the trees makes an eerie whail.    
+~
+18 0 3 0 0
+D6
+~
+~
+0 0 1826
+D8
+~
+~
+0 0 1823
+S
+#1826
+A Thick, Withered Wall of Thorns and Brambles~
+   A huge wall of twisted brambles and thorns blocks the path here, and large,
+sickly looking trees loom closely together on either side of the path,
+preventing anyone from going around.  Amongst the brambles can be seen tatters
+of cloth, and a few whitish looking sticks..  Perhaps the long-decayed bones of
+some animal caught amongst the wicked looking thorns.  Somewhere in the
+distance ahead, a woman's sobbing voice can vaguely be heard, carried by the
+wind.    
+~
+18 0 3 0 0
+D1
+~
+~
+0 0 1827
+D9
+~
+~
+0 0 1825
+S
+#1827
+A Small Dirt Trail~
+   The dead leaves fall from the tree tops as if they are part of some chaotic
+dance.  The light breeze makes them flutter throughout their air.  Decaying
+shrubs line the trail with dead wildflowers spread throughout them.    
+~
+18 262144 3 0 0
+D3
+~
+~
+0 0 1826
+D7
+~
+~
+0 0 1828
+S
+#1828
+A Decayed Trail Through the Forest~
+   The dead leaves fall from the tree tops as if they are part of some chaotic
+dance.  The light breeze makes them flutter throughout their air.  Decaying
+shrubs line the trail with dead wildflowers spread throughout them.    
+~
+18 0 3 0 0
+D0
+~
+~
+0 0 1829
+D8
+~
+~
+0 0 1827
+S
+#1829
+A Small Decayed Path Through the Forest~
+   The once beautiful and majestic plant life here is now rotted and decaying.
+The gigantic trees have shed all of their leaves and are peeling away their
+bark like a shedding snake.  The shrubs along the path have shriveled and died,
+and clumps of strange looking mushrooms grow everywhere.  To the east is a
+small, run-down cabin from which a faint sobbing can be heard.    
+~
+18 0 3 0 0
+D1
+~
+~
+0 0 1830
+D2
+~
+~
+0 0 1828
+S
+#1830
+A Small Delapidated Cabin~
+   The boards that comprise the walls of this small cabin are decayed and
+rotting.  The once rustic accomodations look to be falling apart in the same
+fashion, and there is only one small window, near the door.  Many scattered
+bones lie about the cabin, decaying along with everything else.  One section of
+floorboard near the back of the cabin bears small scratch marks, as if someone
+were clawing at it.    
+~
+18 8 0 0 0
+D3
+~
+~
+0 0 1829
+D5
+   Upon closer inspection, many small claw marks gouge this section of
+floorboard, as if someone was trying to claw their way through it.  Moving or
+stepping upon the board reveals that it is loose and can be removed.    
+~
+floorboard~
+1 0 11100
+E
+floorboard floor board scratch marks~
+   Upon closer inspection, many small claw marks gouge this section of
+floorboard, as if someone was trying to claw their way through it.  Moving or
+stepping upon the board reveals that it is loose and can be removed.    
+~
+S
+#1840
+A Stone Covered Clearing~
+   The ground of this small clearing is littered with stones.  In the center of
+the clearing is a large piece of stone wedged in the ground.  The trees have
+grown close around the clearing blocking the wind from this small area.  
+Scattered amongst the rocks you see what seems to be the remnants of the last
+visitors.  By the looks of things and the dirt covered fire pit they must have
+used this for a campsite.    
+~
+18 4 3 0 0
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 8663
+D5
+A large stone is wedged in the ground.
+~
+stone granite~
+1 0 1841
+E
+stone granite~
+   A large chuck of weathered granite is wedged in the middle of this clearing.
+It looks to have been here a long time.    
+~
+S
+#1841
+A Dark Room~
+   From what little light there is you can barely make out the wall.  This
+passages seems to have been carved from the stone around you.  Faint laughter
+can be heard coming from the east and the passage seems to brighten in that
+direction.  The air seems musty and stale, but the temperature here is
+comfortable.    
+~
+18 333 0 0 0
+D1
+~
+~
+0 0 1842
+D4
+A large piece of granite is blocking the way to the surface.
+~
+granite stone~
+1 0 1840
+E
+stone granite~
+   Its a large piece of stone, made of granite.    
+~
+S
+#1842
+A Well Lit Room~
+   This room has been thoroughly lit with sconces hanging from the walls.  All
+of the walls have been white washed to brighten the effect of the sconces even
+more.  The sounds of snoring from a darkened room to the north are almost
+overshadowed completely by the laughing and loud voices coming from a room
+crowded with furniture to the south.  There is a whiff of stale, musty air
+coming from a dark alcove to the west.  To the east is a large well-crafted oak
+door.    
+~
+18 8 0 0 0
+D0
+~
+~
+0 0 1843
+D1
+   A large well-crafted oak door
+~
+door oak~
+1 0 1847
+D2
+~
+~
+0 0 1844
+D3
+~
+~
+0 0 1841
+E
+sconces sconce light~
+   These brightly-lit sconces alluminate the room to a noon-time brilliance.  
+
+~
+E
+oak door~
+   A large well-crafted oak door.    
+~
+S
+#1843
+A Sleeping Barracks~
+   This room is bathed in shadows, the only light is streaming in from the
+south.  Along both walls are bunk beds stack to the ceiling, and would be able
+to sleep up to ten people.  All the beds seem to be unmade and sheets each
+varying with different colors of stains.  Actually, now that you think about
+it, the whole room smells of unwashed laundry.  Snoring can be heard from many
+of the bunks, but one is quite considerably louder than the others.    
+~
+18 8 0 0 0
+D2
+~
+~
+0 0 1842
+E
+bed~
+   The beds is this room are unmade and have the destinct odor of sweat.
+~
+S
+#1844
+A Comfortable Lounge~
+   Entering this room you are overwhelmed by the drunken laughter and slurred
+speech of the room's occupants.  In the middle of this room is a worn table and
+matching chairs.  Also cluttering this small space is a well-worn couch and an
+end table.  As you stand here you can barely make out the smells of things
+baking from the south.    
+~
+18 8 0 0 0
+D0
+~
+~
+0 0 1842
+D2
+~
+~
+0 0 1845
+D5
+~
+~
+0 0 -1
+E
+couch~
+   The couch seems well worn, but looks to have been expensive when it was new.
+  
+~
+E
+table~
+   The table used to be a finely-polished oak table, now its finish is ruined
+from bottles of alcohol getting haphazardly stuck to it and removed forcefully.
+  
+~
+S
+#1845
+A Messy Kitchen~
+   This kitchen smells of all sorts of things baking.  In the middle of this
+room is a huge preparation table, with a wide assortment of delicious food, in
+all states of completion.  All around you see pots and pans hanging from hooks
+and just with an arm's reach of the preparation table or oven.  From the north
+you can hear the sounds of loud laughter.  To the east is a door, which must
+lead to a walk-in pantry where the food and supplies for the kitchen are
+stored.    
+~
+18 8 0 0 0
+D0
+~
+~
+0 0 1844
+D1
+   A old wooden door, hangs sadly on its hinges.    
+~
+pantry door~
+1 0 1846
+E
+prep table~
+   This preparation table is covered in all manner of foods in different states
+of readiness.  All of which smell alluring and delicious.    
+~
+E
+pots pans~
+   Large and small, pots and pans hang from the hooks around the chef.  They
+range from the size of large spoons, all the way to great pots able to roast a
+whole hog.    
+~
+E
+pantry door~
+   This door is quite sizable, allowing easy access to the walk in pantry.  It
+is tall enough to allow a grown minotaur to pass without ducking thier heads.
+  
+~
+S
+#1846
+A Large Pantry~
+   The pantry is lined with shelves, stocking all manner of things the chef
+will need to prepare her meals.  It smells of fresh bread and other baked items
+that are stored here before they are served during the meals.  The shelves are
+well-made and firmly attached to the walls, so that no mishaps will ruin the
+food.  You can barely make out the noise of food being prepared from the next
+room.    
+~
+18 8 0 0 0
+D3
+   A old wooden door, hangs sadly on its hinges.    
+~
+pantry door~
+1 0 1845
+S
+#1847
+The Outer Office~
+   This small outer office has barely enough room in it for more than a few
+people.  The laughter from the west is barely audible from this room.  There
+are more sconces here, making this room very easy to see in.  This outer office
+has been cleaned to a higher standard than the other rooms on the other side of
+the oak door.  The air is this room is also much fresher and cleaner.    
+~
+18 264 0 0 0
+D1
+~
+~
+0 0 1848
+D3
+   A large well-crafted oak door
+~
+door oak~
+1 0 1842
+E
+door oak~
+   A large well-crafted oak door
+~
+E
+sconce sconces~
+   The sconces in this room provide ample light to see by.    
+~
+E
+entrance inner~
+   You can't see beyond the entrance, with this big brute in your way.    
+~
+S
+#1848
+The Inner Office~
+   Opening up into a spacious area is this inner office.  There are a few fine
+paintings and figurines on display in this room.  On the north wall hangs a
+large tapestry depicting a crest of some royal family.  There is a large,
+walnut desk in the middle of the room.  Unlike the other rooms, this room has a
+floor of polished marble tile.  Not a speck of dust or dirt can be seen
+anywhere in the room.  A small bookcase stands in the corner with an assortment
+of mundane books.  The air seems to have a slight smell of flowers and
+springtime.  No sounds can be heard coming from the outer office to the west.
+  
+~
+18 262152 0 0 0
+D0
+   A secret door is well-concealed behind the large tapestry.    
+~
+secret concealed~
+1 0 1849
+D3
+~
+~
+0 0 1847
+E
+secret concealed~
+   A secret door is well-concealed behind the large tapestry.    
+~
+E
+painting paintings~
+   A painting of a proud man riding on the back of a black stallion is hanging
+on the wall behind the desk.    
+~
+E
+figurines figures figurine figure~
+   A stone figurine of a dragon sits on a small table in the corner opposite of
+the bookcase.  Also a figurine of a wolf taking down a deer is sitting to one
+side of the walnut desk.    
+~
+E
+tapestry~
+   This large tapestry is green and gold crest on a vermilion background.  
+Behind the tapestry you notice a well-concealed secret door.    
+~
+E
+book bookcase~
+   An assortment of books resides on this bookcase, ranging in subjects from
+personal grooming to heraldry.    
+~
+E
+tile floor~
+   Beautiful, green marble tiles are arranged upon the floor.  They are highly
+polished, reflecting the light of the room.    
+~
+S
+#1849
+A Storage Room~
+   This small room seems to be used for storage.  The walls are hewn from a
+plain-gray stone.  The only thing in this room is a very large chest that has
+been placed in the center.  The entire room is covered in a fine layer of dust,
+except for the lid of the chest.  Only one sconce provides the light for this
+room.  The air here is a bit stale and the room seems not to have seen much
+traffic.  All is quiet and no sound can be heard from the secret door to the
+south.    
+~
+18 12 0 0 0
+D2
+   A secret door is well-concealed in the south wall.    
+~
+secret concealed~
+1 0 1848
+E
+sconce~
+   This sconce provides just enough light to see by, hanging as it does from
+the middle of the ceiling.    
+~
+E
+secret concealed~
+   A secret door is well concealed in the wall south of you.    
+~
+S
+#1850
+Before The Doors~
+   Emerging from the dusty road only to be faced with a seemingly unyielding
+face of the mountainside, just a few paces to the northeast.  Yet upon closer
+inspection, you notice strangely symmetrical cracks running all over the face
+of the granite wall.    
+~
+18 4 5 0 0
+D7
+~
+~
+0 0 1851
+S
+#1851
+At The Doors~
+Realization of what lies before you strikes you hard. Ingenious
+craftmanship of ages gone by has hidden the great granite walls to 
+all but the most curious. Rising high above you, the doors look 
+to fit an armed regiment of men standing abreast. Looking cautiously
+around, you notice nothing out the ordinary in the shrubery.
+~
+18 0 0 0 0
+D7
+~
+Gates~
+1 0 1852
+D8
+~
+~
+0 0 1850
+S
+#1852
+The Foyer~
+   A large foyer opens up before you.  Lit by scones of fire perched upon
+towering pillars encircling the expansive tiled floor.  In the flickering
+firelight, you take note that the floor is made of rare expensive looking
+material.  The arching ceiling of the foyer is all but beyond your sight
+looming menacingly above you.    
+~
+18 0 0 0 0
+D6
+~
+~
+0 0 1856
+D7
+~
+~
+0 0 1855
+D8
+~
+~
+0 0 1851
+D9
+Nothing.
+~
+Gates~
+0 0 1853
+S
+#1853
+The Foyer~
+   The southeastern side of the foyer holds little, except a wooden door.  
+Upon it, a large doorknob wrought in the semblence of a man's fist gripping a
+ring of iron.  No one seems to mind that you are closing on this door.  It is
+difficult to make out the make of the door except that it is old and weathered.
+  
+~
+18 0 0 0 0
+D6
+~
+~
+0 0 1852
+D9
+~
+~
+0 0 1854
+S
+#1854
+A Guard House~
+   Beyond the doorway, you find a large rectangular room.  A large wooden table
+sits in the middle, racks supporting various weapons line all three walls
+facing the door.  Upon the table sits leftovers of what must have been the
+guards' meal.  The stench of te wrinkle your nose .
+~
+18 0 0 0 0
+D6
+~
+~
+0 0 1853
+S
+#1855
+The Foyer~
+   The northeastern side of the foyer presents a strange structure.  An altar
+of some sort, about shoulder high, and wide enough to fit a man lying.  Upon it
+lies a deep brass bowl.  What amazes you is that a strange multicoloured flame
+burns in it with seemingly no form of fuel.  The fire casts its spectrum of
+light all over the room.    
+~
+18 0 0 0 0
+D8
+~
+~
+0 0 1852
+S
+#1856
+A Granite Archway~
+   Dominating the sights of the entire foyer is a huge granite archway,
+spanning almost 10 men length and many more above, the archway is made of grey
+granite.  In the flickering fire light, it seems menacing but yet beckoning.  
+Beyond the archway lies a hallway leading to the northwest.  Beyond it, you can
+hear sounds of men in chant or maybe prayer.    
+~
+18 0 0 0 0
+D6
+~
+~
+0 0 1857
+D9
+~
+~
+0 0 1852
+S
+#1857
+An Extended Hallway~
+   The ceiling of the hallway like all parts of the building is lost high above
+the flickering light of the torches.  Peering to long at the darkness allows
+too much way for the imagination to run wild.  The sounds north of you echo
+loudly through the hallway.  Astounding to think that the entire structure is
+under a mountain.    
+~
+18 0 0 0 0
+D0
+~
+~
+0 0 1858
+D9
+~
+~
+0 0 1856
+S
+#1858
+The Entryway~
+   Abruptly the hallway ends in a large looming wall of granite.  So busy
+staring up into the darkness that you almost miss a sedate set of doors.  
+Simple dark wood, these double doors are of normal size.  Upon the weathered
+wood, is etched the simble of a fire.  Nothing else is visible to you, except
+the scones of torches arraying the walls of the hallway.    
+~
+18 0 0 0 0
+D0
+~
+doors~
+1 0 1859
+D2
+~
+~
+0 0 1857
+S
+#1859
+The Reception~
+   Hallways run to both east and west of you, leading off into the darkness.  
+Before you sits a large oaken table, weathered and etched.  It sits on four
+very sturdy legs and upon it lies a large golden basin about two armlengths
+wide.  A strange wavering light seems to be emanating from this basin.  Only
+then you notice the wall behind the table, is actually a large mural depicting
+various forms of man and his encounters with fire.    
+~
+18 0 0 0 0
+D1
+~
+~
+0 0 1860
+D2
+~
+doors~
+1 0 1858
+D3
+~
+~
+0 0 1876
+S
+#1860
+A Dark Hallway~
+   Disturbingly, this hallway, unlike the others is not lit.  Although a little
+light filterin g in from the other adjacent areas enough that you can feel your
+way though it.  The walls of the hallway are wet, and a little moldy.    
+~
+18 0 0 0 0
+D0
+~
+~
+0 0 1861
+D3
+~
+~
+0 0 1859
+S
+#1861
+A Dark Hallway~
+   Disturbingly, this hallway, unlike the others is not lit.  Although a little
+light filterin g in from the other adjacent areas enough that you can feel your
+way though it.  The walls of the hallway are wet, and a little moldy.    
+~
+18 0 0 0 0
+D1
+~
+~
+0 0 1862
+D2
+~
+~
+0 0 1860
+S
+#1862
+A Dark Hallway~
+   Disturbingly, this hallway, unlike the others is not lit.  Although a little
+light filterin g in from the other adjacent areas enough that you can feel your
+way though it.  The walls of the hallway are wet, and a little moldy.    
+~
+18 0 0 0 0
+D0
+~
+~
+0 0 1863
+D3
+~
+~
+0 0 1861
+S
+#1863
+A Dark Hallway~
+   The hallways everclinging darkness is chiling.  You can still hear sounds of
+people, you just don't see them.  Using a light source, you realize there are
+grooves along the floor of the hallway that behaves like drains.  
+Nevertheless, you feel inclined to proceed on your way .
+~
+18 1 0 0 0
+D0
+~
+~
+0 0 1867
+D1
+~
+door~
+1 0 1864
+D2
+~
+~
+0 0 1862
+S
+#1864
+A Faintly Lit Corridor~
+   Branching away from the main hallway, this corridor is better lit.  
+Although a little far and impractical, the corridor is lit by fire scones
+mounted in iron brackets on the wall.  The corridor seems to run a few hundred
+paces to the east.    
+~
+18 0 0 0 0
+D1
+~
+~
+0 0 1865
+D3
+~
+door~
+1 0 1863
+S
+#1865
+A Set of Doors~
+   At the end of the faintly lit corridor stands a bolted iron door, from the
+looks of it, reinforced.  A large padlock keeps the public out.  To either side
+of the "safe" are barred windows.  However they seem to be shut from the
+inside.    
+~
+18 0 0 0 0
+D1
+~
+door~
+1 0 1866
+D3
+~
+~
+0 0 1864
+S
+#1866
+A StrongRoom~
+   Rows of shelves line this room, multiple drawers sit at their feet.  But
+most amazingly is that this room is piled high with gold objects and
+semiprecious stones.  Yet when you reach out to it, an invisible field stops
+your hand, not a wall, you just seem to not want it anymore.  But right in the
+center of the room is a chest, banded in iron.    
+~
+18 0 0 0 0
+D3
+~
+door~
+1 0 1865
+S
+#1867
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D2
+~
+~
+0 0 1863
+D3
+~
+~
+0 0 1868
+S
+#1868
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D0
+~
+~
+0 0 1869
+D1
+~
+~
+0 0 1867
+S
+#1869
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D2
+~
+~
+0 0 1868
+D3
+~
+~
+0 0 1870
+S
+#1870
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D1
+~
+~
+0 0 1869
+D2
+~
+~
+0 0 1877
+S
+#1871
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D0
+~
+~
+0 0 1878
+D2
+~
+~
+0 0 1874
+D3
+~
+~
+0 0 1872
+S
+#1872
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D1
+~
+~
+0 0 1871
+D3
+~
+~
+0 0 1873
+S
+#1873
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D1
+~
+~
+0 0 1872
+S
+#1874
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D0
+~
+~
+0 0 1871
+D1
+~
+~
+0 0 1875
+S
+#1875
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D2
+~
+~
+0 0 1876
+D3
+~
+~
+0 0 1874
+S
+#1876
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D0
+~
+~
+0 0 1875
+D1
+~
+~
+0 0 1859
+S
+#1877
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D0
+~
+~
+0 0 1870
+D3
+~
+~
+0 0 1878
+S
+#1878
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D0
+~
+~
+0 0 1879
+D1
+~
+~
+0 0 1877
+D2
+~
+~
+0 0 1871
+S
+#1879
+1~
+You are in an unfinished room.
+~
+18 0 0 0 0
+D2
+~
+~
+0 0 1878
+S
+#1880
+Ravenna Wood~
+   The woods here are heavy with trees and brimming with life.  Tall enough to
+hold the sky aloft, maple and spruce stand together beside hemlock and cedar.
+Bird song and rustlings come from all directions as the trees bow to their
+subjects in wind-borne majesty.  A thin deer trail disappears to the south over
+the crest of a hill and descends into darkness, while towards the north a large
+road can be seen.    
+~
+18 4 4 0 0
+D0
+~
+~
+0 0 8258
+D2
+~
+~
+0 0 1881
+S
+#1881
+Ravenna Wood~
+   Here the forest grows lush and wet with darkness.  The moist air is heavy
+with the scent of damp leaf and underbrush, rotting wood and fungus.  Fingers
+of thin branches snare loose clothing, the woods to the east and west proving
+impermeable to both sight and body.  The path forks here, the wider trail
+heading north over a shallow incline and downwards to the south into darkness.
+A smaller trail branches to the southwest and disappears around several large
+boulders of moss-covered granite.    
+~
+18 0 4 0 0
+D0
+~
+~
+0 0 1880
+D2
+~
+~
+0 0 1883
+D8
+~
+~
+0 0 1882
+S
+#1882
+Upper Trail of Ravenna Wood~
+   The trail winds its way through several large boulders.  Several deer- sized
+hoof prints freshly imprinted upon the damp soil.  A large spider's web spans
+the trail several yards above eye level, the corpses of several unwary pests
+now mummified and prepared for the spiders' next meal.  From below the
+trickling of a stream can be heard as it winds its way through the ravine, and
+through the branches one can see the lip of a cliff on the eastern side of the
+valley.  Ancient trees as wide as a horse is long grow in abundance to the
+east, the growlings and rustlings of its shadowy denizens provide less than a
+cheery welcome.    
+~
+18 0 5 0 0
+D7
+~
+~
+0 0 1881
+D8
+~
+~
+0 0 1885
+S
+#1883
+Ravenna Wood~
+   Light dances across the waters of a wide stream that erupts from a thin crack
+along the base of a high granite cliff.  Covered in thin tendrils of moonflower
+vines, the cliff appears from a sheer incline of ancient cedars to the
+northeast and cuts a shallow curve to the southeast.  A deer trail sprouts from
+a shoulder of the stream and vanishes into the depths of the woods as it climbs
+the hill to the north.  Covered in ferns and several trees, both standing and
+fallen, the hill to the west appears far too steep to ascend.  The stream
+follows the edge of the cliff and meanders southeast, the gravelbed on the
+western side being wide enough to allow passage.    
+~
+18 4194304 3 0 0
+D0
+~
+~
+0 0 1881
+D9
+~
+~
+0 0 1884
+S
+#1884
+Along a Gravel Bed~
+   A wide stream chuckles softly as it runs its course along the bottom of the
+cliff looming to the east.  Flowers of gold and azure sway to the gently
+whispered breath of Chislev's blessing.  A steep tree-covered incline climbs
+to the west where a thick forest of maple and cedar grows into impassable
+density.  Along the bank of the stream a wide gravel bed provides ample room
+for passage.    
+~
+18 4194304 3 0 0
+D2
+~
+~
+0 0 1886
+D6
+~
+~
+0 0 1883
+S
+#1885
+Upper Trail of Ravenna Wood~
+   The trees below this section of the trail thin a little, providing a good
+view of the valley below.  A wide stream, some hundred yards below, winds its
+way along the bottom of a looming granite cliff, running parallel to the trail.
+Spotted ferns and small clusters of mushrooms, some growing several feet in
+diameter, cover the side of the hill.  Clouds of birds and insects flitter here
+and there, flushed out by the passing of the occasional deer or field-rat.  
+The trail meanders off to the north around several large rocks, and to the
+south a boulder of gargantuan size can be seen.    
+~
+18 0 3 0 0
+D2
+~
+~
+0 0 1888
+D7
+~
+~
+0 0 1882
+S
+#1886
+Along a Gravel Bed~
+   A break in the cliff provides a glimpse of a vast jungle that stretches far
+off into the eastern horizon.  The edge of a large lake can be seen to the
+northeast, feeding into its many tributaries which snake their way through the
+forest.  Fresh winds blow the fragrance of wildflower and damp wood, as the
+sounds of whistling birds and the sibilant hum of insects resounds off the
+walls of this deep ravine.    
+~
+18 4194304 3 0 0
+D0
+~
+~
+0 0 1884
+D9
+~
+~
+0 0 1887
+S
+#1887
+Along a Gravel Bed~
+   Blades of light stab between tree-branch and ivy-vine, piercing the veil of
+darkness that descends upon this heavily wooded section of the ravine.  A
+certain electricity fills the air, a vibrant energy like one felt as a child on
+the night before some great holiday.  It hovers in the air; intangible,
+invisible, an unpalpable presence that nonetheless cannot be ignored.    
+~
+18 4194308 3 0 0
+D1
+~
+~
+0 0 19072
+D6
+~
+~
+0 0 1886
+D8
+~
+~
+0 0 1889
+S
+#1888
+Upper Trail of Ravenna Wood~
+   The thin animal trail ends abruptly as it runs directly into the face of an
+immense boulder of rusty-brown basalt.  Passage to either side proves
+impossible as dense thickets of thornapple trees completely surround it.  Deep
+below, the subtle tricklings of a woodland stream can be heard.  Dense wood
+blocks all sight beyond the trail that leads from the boulder to the north.  
+~
+18 0 3 0 0
+D0
+~
+~
+0 0 1885
+E
+boulder door~
+   A thin seam runs along the north face of this massive boulder in a large
+rectangular shape roughly six feet high and a few feet wide.  The remnants of
+the nest of some tiny bird sprout from a tiny hole near the bottom of the
+stone.    
+~
+S
+#1889
+Abandoned Hut~
+   A wide stream thins as it flows from the northeast and drops over several
+large rocks as it collects into a small brackish pond.  Large stalks of
+brightly colored flowers shake suddenly as a turtle wriggles from its hiding
+place and disappears into the pond, concentric circles forming in its wake.  
+Beside the pond the remains of an ancient mud and grass hut lies vacant and
+empty, save for a large mat of dry leaves which seems to have been slept in
+recently.  Shards of broken earthenware can be found half-buried in the mud
+before what appears to have once been a primitive kiln.  Walls of root and
+vine-covered soil encompass the entire area, nearly blocking all light from
+view.
+~
+18 0 3 0 0
+D7
+~
+~
+0 0 1887
+S
+#1890
+Entrance To A Cave~
+   This side of the hill has been reshaped, to encompass a small round door.  
+A scribbled warning of entrance is on the door.  The grass around the entrance
+has died, and dirt has began taking its place.  It seems that all life avoids
+this area.  Birds and crickets cannot be heard, and all natural sounds seem to
+have stopped.    
+~
+18 4 4 0 0
+D0
+   This small round door looks weather beaten and rough, a small inscription
+lies neer the handle.  "Leave or Die!  "
+~
+door round~
+1 0 1891
+D9
+~
+~
+0 0 10491
+S
+#1891
+In Front Of A Statue~
+   This room would be dark, but a glowing fountain lights the room, pouring a
+thin red liquid.  A magnificient smell comes from the east, as if something is
+roasting a gourmet meal.  Slow ominous chants drift from a hallway to the
+north, and a small niche lies off to the east.  The fountain seems to have
+grown out of the rock from the cavern.    
+~
+18 8 0 0 0
+D0
+~
+~
+0 0 1894
+D1
+~
+~
+0 0 1892
+D2
+   This door is small and round stone, it looks rough and worn by the weather.
+  
+~
+door round~
+1 0 1890
+D3
+~
+~
+0 0 1893
+S
+T 5130
+#1892
+A Hallway~
+   This hallway is really nothing more than a niche created by the large cave
+west of here.  Wall sconces hold lit candles, and their light dances with the
+shadows.  Quiet chanting comes from the curtain north of here, and snoring can
+be heard from the curtain on the south wall.  Dripping water adds a soft beat
+to the constant chants.    
+~
+18 12 0 0 0
+D0
+   This curtain is made of rough hewn black cotton, and is missing many of the
+rungs that attach it to the ceiling.  Soft light filters in from beneath it.  
+
+~
+curtain~
+1 0 1899
+D2
+   This curtain is made of rough hewn black cotton, and is missing many of the
+rungs that attach it to the ceiling.  Soft light filters in from beneath it.  
+
+~
+curtain~
+1 0 1898
+D3
+~
+~
+0 0 1891
+S
+T 5130
+#1893
+A Tiny Kitchen~
+   This mid-sized room is full of good smells, bubbling pots can be heard above
+the cackling fire, and spits roast meat.  The smell of fresh bread comes from a
+nearby oven.  A cutting board red with blood lies on one of the counter tops,
+with a pig atop it.  The pig has a butcher knife set square in his haunches.  
+~
+18 8 0 0 0
+D1
+~
+~
+0 0 1891
+E
+pig butcher knife~
+   This is pretty gory.  This knife is sticking right in the pigs leg, and
+blood is everywhere.  The lifeless gaze of the pig stares off at the distance.
+  
+~
+S
+T 5130
+#1894
+A Hallway~
+   This long dark hallway leads deep into the hills, and seems to descend
+slowly.  Every so often, a wall sconce or candelabra lights the way.  The cool
+air moves with tinges of unholy chants and praises to Takhisis, Queen of
+Darkness.  Water drips along the cavern walls, only adding more fright upon the
+dark noises.    
+~
+18 8 0 0 0
+D0
+~
+~
+0 0 1895
+D2
+~
+door~
+0 0 1891
+S
+T 5130
+#1895
+A Hallway~
+   This hallway is a dead end.  To the north lies a heavy wooden door, and an
+open passage to the west reveal a soft glow of light and the sound of ominous
+chants.  Light flickers from candles on the walls, and dripping water is barely
+audible over the prayers.    
+~
+18 8 0 0 0
+D0
+   This is a thick wooden door set heavy on hinges.  Gentle candle light spills
+out of the cracks.    
+~
+door~
+1 0 1896
+D2
+~
+~
+0 0 1894
+D3
+~
+~
+0 0 1897
+S
+T 5130
+#1896
+The High Priestess' Room~
+   This room is rather lavish in comparison to the other rooms in the shrine.
+There is a cotton bed with linen sheets, and a small wardrobe.  Against one
+wall is a desk, while on the other is a portrait of a beautiful woman with five
+cromatic dragon heads behind her, shrouded in mist.  On the cave floor is a
+thick black rug with a silver crescent and runes embroidered on the edges.    
+~
+18 12 0 0 0
+D2
+This is a thick wooden door set heavy on hinges. Gentle candle light spills out of the cracks.
+~
+door~
+1 0 1895
+S
+T 5130
+#1897
+A Small Chapel~
+   This cavern is obviously a chapel of some sort.  Pews sit on either side of
+a shaggy black carpet, which leads to a small altar.  Two stone steps lead to
+the dais that the altar rests on, carrying with them the matted carpet.  The
+altar itself is little more than a stone slab with a red cloth draped over it,
+and it seems very quaint.  A small donation plate serves as a container for
+some thick black ichor, and candles adorn two opposing corners.  Wall sconces
+and candalabra light the room somewhat gloomily, and the walls are painted with
+pictures of massive red dragons in flight, impaling shining knights with their
+teeth and claws.  Behind the altar is a portrait of the Dark Queen herself,
+touched by an untouchable beauty.    
+~
+18 12 0 0 0
+D1
+~
+~
+0 0 1895
+E
+picture dragons~
+   Soaring far in front of the rest of the flight of dragons is one
+particularly large wyrm.  A pillar of a man clad in dark dragonscale armor sits
+astride the magnificent beast, his long ebony hair flowing behind him.  The
+other dragons are riderless.  Each is flying in perfect formation behind their
+leader as they engage in battle.    
+~
+S
+T 5130
+#1898
+A Small Room~
+   This room is very bare, with few furnishings save for two linen cots and a
+small writing desk.  A candle, sitting on the desk, flickers slowly with the
+air current, and barely lights the room.  To one corner, there is a small
+wooden chest with a silver lock on it.    
+~
+18 8 0 0 0
+D0
+   This curtain is made of rough hewn black cotton, and is missing many of the
+rungs that attach it to the ceiling.  Soft light filters in from beneath it.  
+
+~
+curtain~
+1 0 1892
+S
+T 5130
+#1899
+A Small Room~
+   This cozy room is not much better off than the one beside it.  It has a
+hardwood desk, and a few candles that light the rooms.  The dancing shadows
+play a creepy effect on the cavern wall, and dripping water can be heard in the
+distance.    
+~
+18 8 0 0 0
+D2
+   This curtain is barely hanging onto its rings.  It is patched and barely
+provides privacy to the room within .
+~
+curtain~
+1 0 1892
+S
+T 5130
+$~

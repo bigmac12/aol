@@ -1,0 +1,315 @@
+4
+silv
+25
+say *&BIn Silvanesti&C*$*
+1
+4
+qual
+56
+say *&gIn elegant though highly accented Qualinesti&C*$*
+1
+1
+x
+15
+st ; mount mare
+1
+2
+wp
+14
+hang wind belt
+0
+3
+aid
+8
+c aid $*
+1
+7
+spellup
+90
+c aid ; c det-mag ; c thornfl $* ; c barksk $* ; c thornsh ; c stonesk $* ; c myst-spir $*
+1
+2
+st
+68
+remo bone ; wear sleeves ; remo pearl.ring ; wear sapphire.ring ; st
+1
+3
+res
+70
+remo sleeves ; wear bone ; remo sapphire.ring ; wear pearl.ring ; rest
+1
+2
+ap
+10
+ass spider
+0
+2
+op
+15
+order spider $*
+1
+2
+ra
+8
+resc ana
+0
+2
+aa
+7
+ass ana
+0
+2
+at
+10
+ass ferret
+0
+2
+ot
+15
+order ferret $*
+1
+4
+myst
+14
+c myst-spir $*
+1
+2
+aw
+8
+ass wolf
+0
+2
+ow
+13
+order wolf $*
+1
+2
+og
+14
+order gator $*
+1
+2
+ag
+9
+ass gator
+0
+3
+as3
+17
+c anim-summ-three
+0
+4
+mire
+6
+c mire
+0
+4
+call
+9
+c call $*
+1
+2
+ss
+12
+c stonesk $*
+1
+2
+rp
+9
+remo wind
+0
+2
+ts
+13
+c thornshield
+0
+5
+tiger
+24
+get tiger wind ; q tiger
+1
+1
+2
+20
+put all.berries wind
+0
+3
+gbp
+16
+get berries wind
+0
+3
+lip
+12
+look in wind
+0
+2
+rv
+10
+resc valin
+0
+2
+rl
+10
+resc valin
+0
+2
+al
+9
+ass valin
+0
+2
+si
+15
+c summon-ins $*
+1
+7
+bananas
+499
+order monkey tell $* BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANANAS!!  BANAN
+1
+2
+am
+10
+ass monkey
+0
+2
+om
+15
+order monkey $*
+1
+3
+as2
+15
+c anim-summ-two
+0
+2
+rt
+11
+resc tianna
+0
+2
+ad
+9
+ass devil
+0
+2
+dd
+13
+c dust-dev $*
+1
+3
+liw
+14
+look in wallet
+0
+3
+lib
+14
+look in wallet
+0
+2
+ff
+13
+c faer-fir $*
+1
+4
+bark
+13
+c barkskin $*
+1
+2
+ar
+7
+ass rat
+0
+2
+or
+12
+order rat $*
+1
+2
+af
+10
+ass ferret
+0
+2
+of
+18
+order followers $*
+1
+2
+as
+11
+ass sparrow
+0
+2
+os
+16
+order sparrow $*
+1
+2
+av
+27
+order followers Assist Avra
+0
+3
+as1
+15
+c anim-summ-one
+0
+2
+eb
+11
+eat berries
+0
+5
+berry
+10
+c goodberr
+0
+6
+spring
+12
+c cre-spring
+0
+4
+drin
+14
+drin waterskin
+0
+2
+tf
+12
+c thornfl $*
+1
+5
+track
+16
+sneak ; track $*
+1
+6
+unlock
+19
+unlock $* ; open $*
+1
+2
+sc
+4
+scan
+0
+2
+sk
+11
+skin corpse
+0
+3
+gac
+18
+get all all.corpse
+0
+1
+;
+7
+chat $*
+1

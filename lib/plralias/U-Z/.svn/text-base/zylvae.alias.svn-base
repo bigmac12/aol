@@ -1,0 +1,165 @@
+2
+eb
+9
+eat bread
+0
+3
+gbp
+14
+get bread sack
+0
+1
+2
+18
+put all.bread sack
+0
+1
+1
+12
+buy 10 bread
+0
+5
+invis
+10
+c invis $*
+1
+2
+sg
+16
+c shock-grasp $*
+1
+2
+ao
+7
+ass osi
+0
+1
+x
+16
+st ; mount horse
+1
+2
+rm
+40
+get parchment sack ; recite parchment $*
+1
+2
+rp
+9
+remo sack
+0
+2
+wp
+9
+wear sack
+0
+7
+spellup
+47
+c armor $* ; c det-invi ; c blur $* ; c mir-ima
+1
+2
+mi
+9
+c mir-ima
+0
+2
+di
+11
+c det-invis
+0
+2
+cl
+24
+get flask sack ; q flask
+1
+3
+lip
+12
+look in sack
+0
+2
+bh
+14
+c burn-hand $*
+1
+4
+blur
+9
+c blur $*
+1
+6
+shield
+8
+c shield
+0
+3
+web
+8
+c web $*
+1
+2
+bl
+9
+c blur $*
+1
+2
+ah
+8
+ass head
+0
+2
+am
+7
+ass mia
+0
+2
+ak
+10
+ass knight
+0
+2
+ct
+10
+c chill $*
+1
+6
+unlock
+19
+unlock $* ; open $*
+1
+2
+ca
+10
+c armor $*
+1
+1
+;
+7
+chat $*
+1
+2
+dm
+9
+c det-mag
+0
+2
+mm
+13
+c mag-miss $*
+1
+4
+drin
+9
+drin skin
+0
+2
+sc
+4
+scan
+0
+3
+gac
+18
+get all all.corpse
+0

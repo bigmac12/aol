@@ -1,0 +1,295 @@
+#10400
+novice girl~
+a novice in the temple~
+A Novice of the Temple wanders through the corridors.
+~
+   This young girl has dedicated her life to Sargonnas, Dark Vengeance.  She
+wears her hair pulled back from her face in a severe ponytail, and a braided
+black and red band holds it from her face.  She does not look old enough to
+have lived very long, but there is a hard and cold look in her eyes that seems
+at odds with her otherwise youthful appearance.    
+~
+8 0 0 -500 E
+4 18 12 1d5+45 1d8+1
+5 50 2
+8 8 2 0
+E
+#10401
+boy novice~
+a novice in the temple~
+A Novice in the Temple glares around himself insolently as he walks.
+~
+   This boy is dressed in the solid black robes of a novice cleric of
+Sargonnas.  He is too young to even have the faintest traces of a beard on his
+face, yet his expression is angry and hard.  His eyes stare insolently at you,
+as if daring you to speak.    
+~
+8 0 0 -500 E
+3 19 13 1d5+25 1d6+1
+5 25 2
+8 8 1 0
+E
+#10402
+acolyte young woman~
+an acolyte in the temple~
+A young woman in the garb of an acolyte stalks through the Temple.
+~
+   This young woman is just past adolescence, her figure developing somewhat
+beneath her heavy black robes.  She wears the robes of an acolyte in the
+Temple, black with one single band of red running along the robe's hem and
+cuffs.  Her hair is pulled back into a tight bun, and she glares at you, open
+hostility in her gaze.    
+~
+8 0 32 -500 E
+4 18 12 1d5+45 1d8+1
+7 50 2
+8 8 2 0
+E
+#10403
+young man acolyte~
+an acolyte in the temple~
+A young man wearing acolyte's robes glares around as he walks.
+~
+   This young man has the faintest growth of stubble marring his chin, and his
+hair is shaved close to his head.  He wears the robes of an acolyte in the
+Temple of Sargonnas, solid black with a solitary red stripe slashing boldly
+across the hem, collar, and cuffs of his robe.  He seems sullen and withdrawn,
+glaring constantly at the world surrounding him as if impatient with the
+failings of all mortals.    
+~
+8 0 32 -500 E
+5 17 11 2d5+65 2d5+0
+10 85 2
+8 8 1 0
+E
+#10404
+woman initiate cleric~
+an initiate in the temple~
+An Initiate of the Temple cooly paces through the hall.
+~
+   This woman has been recently initated into the Priesthood of the god
+Sargonnas, judging from her age as well as her clothing.  She wears the robes
+of a newly initiated priestess, solid black with two stripes of red on each of
+the sleeves, the collar, and the hem of her robes.  In her slender hand is a
+heavy mace, gripped tightly and proudly.    
+~
+8 0 1 -500 E
+6 17 10 2d5+70 2d5+2
+12 175 2
+8 8 2 0
+E
+#10405
+man initiate~
+an initiate in the temple~
+A man in the robes of an initiate meanders through the temple.
+~
+   The man before you is a newly initiated cleric of Sargonnas, Dark Vengeance,
+wearing the black robes with dual stripes that marks all priests of his rank.
+His stance is strong and firm, and a heavy black mace is held firmly in his
+left hand.  His eyes burn with an angry flame, dancing just behind the irises
+of his eyes threateningly.    
+~
+8 0 1 -500 E
+7 16 9 3d5+85 2d6+1
+15 400 2
+8 8 1 0
+E
+#10406
+priestess woman~
+a priestess of the temple~
+A Priestess of Sargonnas stands here proudly, eyes gleaming cruelly.
+~
+   This woman is a full priestess of Sargonnas, the second-highest office in
+this branch of His faith.  She holds her chin proudly, confident in her rank
+and abilities, and with all the bearing a devout follower of Dark Vengeance has
+earned.  She wears the robes of a priestess, solid black with two narrow bands
+of red, surrounding a wide, woven band of black and red.  A braided black and
+red band encircles her waist, belting her robes.    
+~
+8 0 2048 -500 E
+8 15 8 5d5+110 2d6+2
+20 800 2
+8 8 2 0
+E
+#10407
+man priest~
+a priest in the temple~
+A Priest of Sargonnas stands here, arms crossed boldly.
+~
+   The look in the eyes of this man is one of religious fervor, bordering on
+that of a zealot.  He wears the robes of a full priest of Sargonnas, two narrow
+red stripes surrounding a thick braided band of black and red, and a black and
+red belt is tied around his waist.  He stands proudly, as if knowing the power
+and might of his god gives him all the protection he might otherwise need in
+the world.    
+~
+8 0 2048 -550 E
+9 15 7 5d5+130 2d7+1
+25 1300 2
+8 8 1 0
+E
+#10408
+high priestess woman~
+the High Priestess of Sargonnas~
+The High Priestess kneels here, praying fervently to her Dark God.
+~
+   This woman kneels before the altar, bowing pliantly before the might and
+power of her god.  Looking at her however, her eyes are not filled with
+supplication but rather a burning, unquencheable fire of ambition and
+fanaticism, almost to the point of insanity.  Feeling your gaze, the woman
+turns to stare at you and begins laughing, the raw, harsh sound of one whose
+visions extend far, far beyond the mortal plane.    
+~
+8 0 4227104 -1000 E
+15 11 1 5d10+300 2d8+4
+30 8400 2
+8 8 2 0
+E
+#10409
+dungeon guard~
+the prisoner's guard~
+A Guard of the Temple stands here, blocking the cell door.
+~
+   The guard stands here stiffly, back held at attention and eyes somewhat hard
+and uncaring.  He does not flinch at the numerous screams coming from behind
+the cell doors, and his eyes have a peculiar, flat look to them, bringing his
+humanity into question.    
+~
+8 0 0 -500 E
+10 14 6 5d4+160 2d7+2
+100 1900 3
+8 8 1 0
+E
+#10410
+keeper fields woman black~
+the keeper of the fields~
+A woman in black clothing stands here, praying to her dark god as she moves.
+~
+   This woman hums slightly to herself as she moves through the dead and
+dismembered corpses in the field, her pleasantly happy expression grossly at
+odds with her gruesome surroundings.  She wears simple black clothing, and has
+shoulder-length dark hair that is tied back from her face.    
+~
+8 0 0 -500 E
+2 19 14 1d3+12 1d5+1
+5 13 3
+8 8 2 0
+E
+#10411
+keeper fields~
+the groundskeeper~
+A keeper of the fields wanders through the area, pushing corpses aside.
+~
+   The man before you has wide, hazel eyes and a tattoo of a condor on his left
+arm.  He wears a simple black tunic and breeches, and his forearms are covered
+in blood and gore from the bodies underfoot.  He smiles slightly, as if he
+enjoys the work he does here at the Temple.    
+~
+8 0 0 -500 E
+3 19 13 1d5+25 1d6+1
+8 25 3
+8 8 1 0
+E
+#10412
+woman guard~
+the prisoner's guard~
+A Guard of the Temple stands here, blocking the cell door.
+~
+   The guard stands here stiffly, back held at attention and eyes somewhat hard
+and uncaring.  She does not flinch at the numerous screams coming from behind
+the cell doors, and her eyes have a peculiar, flat look to them, bringing her
+humanity into question.    
+~
+8 0 0 -500 E
+9 15 7 5d5+130 2d7+1
+100 1300 3
+8 8 2 0
+E
+#10414
+elven maiden woman victim~
+the elven prisoner~
+An elven woman, voice hoarse and ragged, screams a desperate cry for mercy.
+~
+   This woman screams, eyes wide with stark terror and fright and arms
+tightening convulsively around her frail body.  Her clothes hang in ragged
+shreds from her body, and deep welts on her wrists and ankles mark the places
+where she was chained before brought here.  Her wide green eyes fall upon you,
+desperately, as if you are her last hope in the world, and she begs you in a
+broken, ragged sob, "Please, in the name of the gods of Good, help me!!  "
+~
+8 0 0 200 E
+5 17 11 2d5+65 2d5+0
+0 85 1
+8 8 2 0
+BareHandAttack: 13
+E
+#10415
+kender prisoner~
+the imprisoned kender~
+An kender prisoner is shackled here, beaten nearly senseless.
+~
+   The kender looks around, eyes bleary from the recent beating but still
+filled with a small spark of curiosity.  His eyes alight on the contraption
+before him and he peers at it a moment, starts to ask a question and then,
+pausing briefly, closes him mouth again.  His face is shattered into a mess of
+broken bones, and both of his hands are smashed to the point of being boneless,
+perhaps in a failed attempt to steal some relic in the Temple.    
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 4
+8 8 1 0
+E
+#10416
+woman half-elven fright wide eyes~
+the halfelven woman~
+A half-elven woman stares wordlessly before her, eyes wide with fright.
+~
+   This half-elven woman has hair that perhaps was once blonde, but is now so
+matted with her own blood that it hangs in stiff, limp strands of a
+reddish-brown.  She does not speak, or even move, simply staring in a wordless,
+unspeakable terror at the device in front of her, fingers flexing once
+unconsciously and whimpering softly to herself as she rocks to and fro on her
+feet.    
+~
+8 0 0 400 E
+7 16 9 3d5+85 2d6+1
+0 400 7
+8 8 2 0
+BareHandAttack: 8
+E
+#10417
+human male prisoner~
+the human prisoner~
+A human male, flesh hanging from his body in strips, moans quietly to himself.
+~
+   The man does not meet your gaze but simply huddles in a corner of the room,
+moaning in a ceaseless howl of agony and pain.  The flesh from his body has
+been stripped off him systematically, and patches of muscle and sinew shine
+through areas where the skin has been rendered completely off his frame.  A
+shudder wracks his body once, the man spasoming in pain, then he is still once
+more, moaning again to himself.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 6
+8 8 1 0
+BareHandAttack: 7
+E
+#10418
+guard temple stiffly~
+the temple guard~
+A Temple Guard stands stiffly here at attention, chin held proudly.
+~
+   This guard stands vigilantly outside the entrance to the Narthex of the
+Temple, permitting no unauthorized people entrance.  He is clad in pure black
+armor, with the symbol of a red condor embroidered on his tabard's left
+shoulder, over his heart.    
+~
+9437194 40 0 -500 E
+14 12 2 6d8+240 2d8+4
+400 7000 0
+8 8 1 8
+BareHandAttack: 3
+E
+$

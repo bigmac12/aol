@@ -1,0 +1,55 @@
+4
+flee
+21
+fle ; fle ; fle ; fle
+1
+2
+cm
+21
+cast cure-moderate $*
+1
+2
+ga
+14
+get all corpse
+0
+2
+ms
+21
+cast magical-stone $*
+1
+2
+cl
+18
+cast cure-light $*
+1
+2
+df
+14
+drink fountain
+0
+2
+fw
+23
+fill waterskin fountain
+0
+2
+dw
+15
+drink waterskin
+0
+1
+;
+7
+chat $*
+1
+2
+sc
+4
+scan
+0
+3
+gac
+14
+get all corpse
+0

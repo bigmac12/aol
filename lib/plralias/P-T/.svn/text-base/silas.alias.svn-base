@@ -1,0 +1,50 @@
+3
+say
+36
+say *In a low rumbling voice* &m$*&n
+1
+1
+i
+13
+bash $*;stand
+1
+1
+0
+11
+lo smuggler
+0
+4
+smug
+13
+kill smuggler
+0
+2
+ki
+3
+res
+0
+3
+pur
+6
+put $*
+1
+1
+k
+7
+kick $*
+1
+1
+2
+24
+get all.coins all.corpse
+0
+1
+1
+18
+get all all.corpse
+0
+1
+5
+29
+flee;flee;flee;flee;flee;flee
+1

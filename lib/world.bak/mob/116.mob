@@ -1,0 +1,441 @@
+#11600
+corpse undead ~
+a terribly mutilated corpse~
+A hideously mutilated corpse hangs nailed to the wall, it's entrails snaking out across the bed.
+~
+   One can only assume this poor individual was the victim of some fiends
+demented obsession with the macabre.  It is almost impossible to recognize the
+individual features of the body, as it has been so badly mutilated and has
+begun to start the slow process of decay.  It hangs suspended upon the rear
+wall of the room, nailed to the surface by strong spikes driven through the
+wrists, it's head lulling upon the remainder of it's sunken chest.    
+
+~
+761946 1024 3145730 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 9
+8 8 0 0
+E
+#11601
+wolf timberwolf white~
+a large white timberwolf~
+A large white timberwolf trots around the area, looking for a quick meal.
+~
+   This large timberwolf drifts about the area like a pale ghost, its pure
+white coat flickering in and out of sight amongst the brush.  Her deep black
+eyes glitter with cunning and a natural, wild intelligence as she surveys the
+sights around her.  While large in form her ribs are easily visible through her
+coat of fur, showing that she has not had food in quite some time.    
+~
+72 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 0 0
+BareHandAttack: 4
+E
+#11602
+mastiff dog large dark~
+a large, dark colored mastiff~
+A large, dark colored mastiff roams about the area, as if lost or looking for its master.
+~
+   This mastiff is quite large, even for one of it's sizable breed.  Its coat
+is a dull grey color mixed throughout with darker streaks, almost making areas
+appear black.  He wanders about the area looking almost lost, perhaps he is
+looking for his master or perhaps he was left here intentionally, it is hard to
+say.  But what is certain, is that he has been domesticated, he shows no fear
+as you approach and his midsection seems rather thin, as though he has not had
+food in quite some time.    
+~
+200 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 0 0
+BareHandAttack: 4
+E
+#11603
+turtle snapping huge~
+a huge snapping turtle~
+A huge snapping turtle rests here, sunning itself on the bank.
+~
+   This snapping turtle is huge, quite possibly one of the biggest ever seen.
+His thick, armored shell must be almost four feet across in the wider part of
+his back.  His short, powerful scaled legs end in worn black claws, each one
+looking to be an easy three or four inches long.  His stumpy, thick tail lies
+partial submerged in the water yet, while his powerful, hook-beaked head glares
+out along the path.    
+~
+65610 33554432 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 0 0
+BareHandAttack: 4
+E
+#11604
+rat baby pink small~
+a small, pink-skinned baby rat~
+A small, pink-skinned baby rat lies here, trying to search for its mother.
+~
+   This small, pink-skinned rat is just a baby, barely a couple of days old.  
+It searches about the area for it's mother blindly, being born with it's eyes
+shut and not yet having aged enough for them to have opened.  As it struggles
+about the nest, it make soft noises, trying to call to its mother or any of its
+young siblings.    
+~
+4170 1 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 0 0
+BareHandAttack: 8
+E
+#11605
+rat large savage savage-looking~
+a large, savage-looking rat~
+An extremely large, savage-looking rat rummages around in the refuse, looking for food.
+~
+   This rat is enormous, easily four feet long and a little over two feet at
+the shoulders.  Despite its great size, it appears a touch malnourished, likely
+from its residence in this hall away from the surface and ample food sources.
+Dark red eyes glitter in the dark, lending it a sense of malicious intelligence
+and cunning.    
+~
+4174 525312 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 0 0
+BareHandAttack: 4
+E
+#11606
+Lilika lil lithe dangerous woman ~
+Lilika~
+Lilika, a lithe and dangerous woman rests behind the desk, reviewing several status reports.
+~
+   Shuffling through various reports, Lilika absently tucks a strand of her
+silken, black hair behind her ear.  Her striking emerald eyes scan the pages
+from beneath long, dark lashes while she gently raps a slender finger against
+the pale, alabaster skin of her chin.  As she stands to look you over, her body
+is obviously that of a warrior, lithe and well-muscled, yet it does little to
+detract from her dark beauty, with her toned and sculpted muscles only
+accentuating her already alluring form.    
+~
+7600730 33563692 0 -1000 E
+30 1 -14 3d33+8000 4d8+9
+5500 250000 3
+8 8 2 0
+BareHandAttack: 13
+E
+#11607
+Vakorius deciever ~
+Vakorius, the Deciever~
+Vakorius moves about the room, testing the abilities of his new creation.
+~
+   Vakorius moves slowly about the chamber, carefully tracing eye from
+creation to a heavy manual he clutches in his hands.  His long hair is an odd
+ghostly white, as if he has seen much that was not to be beheld by mortal eyes
+or mind.  At his hip rests a massive mace and judging by his ease at it's
+presence, he is quite adapt at wielding it in the name of his dark queen.  
+Dangling from about his neck is the symbol of intertwining dragons, a testimony
+to his devotion and faith.    
+~
+1768026 33694780 9764872 -1000 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 2
+8 8 1 0
+BareHandAttack: 13
+E
+T 2
+#11608
+monstrosity construct beast hideous~
+a hideous monstrosity~
+A hideous monstrosity moves ponderously about the chamber, carefully watching its master.
+~
+   W This creature is obviously some construct of the High Priest Vakorius,
+whose hideous perversions fill the cabinets of this chamber.  This beast,
+however, is by far the largest and likely the most dangerous, as well.  Its
+form seems to undulate and writhe as it follows its masters lead about the
+chamber, granting it the capability of at least some sense of sentient
+intelligence.    
+~
+3863130 33567796 8576 -1000 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 1
+8 8 0 0
+BareHandAttack: 8
+E
+#11609
+guard guardsman guardsmen priest's warily~
+One of the High Priest's personal guardsmen~
+One of the priest's guardsmen stands here, warily watching the creatures of the laboratory.
+~
+   This guardsman is obviously well-armed and provisioned, his glossy ebony
+platemail trimmed in silver is in immaculate condition and doubtlessly costs a
+hefty sum.  A large, ornate bastard sword hangs loosely at his hip, with the
+hand of his swordarm never straying far from it's perch upon the blades pommel.
+His sharp, grey eyes roam across the occupants of the room, constantly aware of
+Vakorius' position and any threat that may befall his charge.    
+~
+3338826 13372 0 -700 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#11610
+snakes group snake~
+a small group of snakes~
+A small group of snakes take refuge here in a dry section of the hall.
+~
+   Gathered here in the warmer recesses of the dry hall is a small group of
+brightly colored serpents.  The scales a brilliant rainbow of colors with bands
+of green, red, and blue seperated by thick bands of black, with a white
+underbelly visible as they writhe about each other.  They quickly rise into a
+coiled position, swaying rythmically in silent threat, if they sense anything
+approaching.    
+~
+1114313 1024 0 0 E
+14 12 2 6d8+240 2d8+4
+300 7000 0
+8 8 0 9
+E
+#11611
+bear man dangerous brown~
+a dangerous-looking man disguised as a brown bear~
+A large, brown bear rests here, slowly raising to its full height at your approach.
+~
+   Raising up to it's full height this bear does indeed look quite menacing,
+particularly as it's hide shifts and reveals the dangerous-looking guard
+concealed beneath it.  Dark steel glints out from concealment as he draws his
+blade and drops into a crouching position, obviously intended to lend him a
+strength of footing yet retaining a nimble dexterity and ability to spring to
+the attack.  A feral grin spreads across his rough face, almost making one wish
+that the illusion had not been broken.    
+~
+9457738 1064 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 0 0
+E
+#11612
+topiary serpent snake bush serpent-like animated~
+an animated serpent topiary~
+The form of a large, serpent-like topiary sways slightly, despite the total lack of breeze.
+~
+   This topiary is almost amazing in its detail and design, making the observer
+often feel like the observed.  Obviously the creation of someone's own
+delusions, the image it portrays is mesmerizing and haunting at the same time.
+Unlike the surrounding flora, it sways gently back and forth, even in the total
+absence of breeze here within this cavern.    
+~
+1212490 1024 0 0 E
+17 10 -1 3d20+340 3d6+5
+0 11800 0
+8 8 0 0
+E
+#11613
+rose bush carnivorous immense~
+an immense, carnivorous rose bush~
+An immense rose bush sprawls across the entire surface of this room.
+~
+   This thick, sprawling rose bush fills this chamber with its twining tendrils
+covered in deep, green leaves.  Large, heavy blossoms cover the plant, drooping
+slightly, their petals a shade of deep scarlet that almost reminds one of wet
+blood.    
+~
+7579754 525312 0 0 E
+16 11 0 3d20+320 1d8+4
+500 11000 0
+8 8 0 0
+BareHandAttack: 10
+E
+#11614
+gardener half-elven raving ranting ~
+a raving half-elven gardener~
+A raving half-elven gardener is here, tending to his plants and ranting to himself.
+~
+   Rags of clothing hang from this man's form, tattered and soiled from what
+must have been years tending to these plants in solitude.  This poor soul is
+obviously quite mad, having somehow found himself down here and unable to
+return to the surface.  He wanders about the gardens that he has planted and
+maintained in this oddly lit chamber, whiling away his time talking to the
+plants and ranting to himself.    
+~
+1052872 1024 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 1 0
+E
+#11615
+priestess scantily-clad clad scantily writhes dance~
+a scantily-clad priestess~
+A scantily-clad priestess writhes before the fire in an undulating dance, praising the One.
+~
+   Drawn to abandon before the flames, this priestess has stripped of most of
+her vestiments and writhes before the fires in supplication to the One.  Sweat
+sheens her undulating body as she traces through rhythmic steps and patterns,
+often leading her so close to the fires that one can smell the burning of
+several strands of her long, dark hair as she passes.  Her eyes are closed in
+ecstacy and she ritually chants muttered phrases over and over in her zeal.  
+
+~
+548938 1024 1114116 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 2
+8 8 2 0
+E
+#11616
+priest kneels ~
+a priest deep in prayer~
+A priest deep in prayer kneels here before the altar, seeking the truth of the One.
+~
+   Kneeling before the altar this man appears deep in trance, muttering his
+prayers for guidence to the One.  His vestiments show several more adornments
+than those about him, perhaps denoting a higher status or greater importance
+but it is hard to say without knowing the meaning of the symbols.  Taking a
+small sacrificial dagger from within the folds of his robes, he makes several
+small incisions upon his forearms, letting the blood flow freely over the altar
+as he continues to pray.    
+~
+583754 33554472 8585220 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 2
+8 8 0 0
+E
+#11617
+guard powerfully large~
+a large, powerfully built guard~
+A large, powerfully built guard stands here, defending the idol should any danger it.
+~
+   Standing before the idol, this large, powerfully-built guard is stationed
+here to ensure that none cause any damage to it.  Clad in deep burgandy plate
+and carrying a large, ornate bastard sword, this guard looks well capable of
+defending his people and the idol of Raziekaal Bar'akuruush.  Concealed behind
+a leering skull mask, little of his features can be seen but there is little
+doubt to the ferocity with which this man will defend his faith in the One.  
+
+~
+9467994 1080 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#11618
+cultist member cult younger ~
+a younger member of the cult~
+A younger member of the Cult of the One wanders about the area, revealing in his master's glory.
+~
+   Obviously one of the younger members of the cult, this young man wanders
+about the area with a look of pure ecstacy upon his face.  Thrilled at his
+acceptance into the main chamber he walks about studying everything with the
+zeal of one just awakening to the world.  He examines all around him, stopping
+to talk to any that will share their experiences in the service of the One.  
+
+~
+540872 1024 3149826 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 2
+8 8 1 0
+BareHandAttack: 5
+E
+#11619
+cultist member estute faith ~
+an estute member of the faith~
+An estute member of the faith of the One stands here studying the murals upon the wall.
+~
+   This woman stands close to the chambers walls, gently tracing hand across
+the inspiring murals drawn upon their surface.  Her short-cropped hair is the
+color of straw and she occassionally flicks a finger across her forehead,
+drawing errant strands back into place behind her ears.  Alternating from
+kneeling to peering up into the darkness near the ceiling, her eyes trace every
+section of the chamber, soaking up every ounce of information that she can.    
+~
+548938 33555456 69206040 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 1
+8 8 2 0
+E
+#11620
+dwarf short~
+a short, dwarf praising the One~
+A short dwarf roams about the area, praising the virtues of the One and protecting his fellows.
+~
+   This young dwarf appears quite well-muscled despite his extremely short
+stature, in fact, were it not for the seriousness in his eyes one could almost
+find him comical to behold, with his body so wide yet his height so low.  Yet
+he, like the others here, praise the greatness of the One and herald His
+arrival.  Unlike many of his breathern, he holds a certain steel to his gaze
+and a large, dwarven warhammer hangs easily at his waist, ready for use.    
+~
+1052744 1024 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 1 0
+BareHandAttack: 5
+E
+#11621
+Baltorius high priest Raziekaal~
+Baltorius~
+Baltorius, the High Priest of Raziekaal Bar'akuruush sits behind his desk, deep in conversation.
+~
+   Resting easily behind his desk, Baltorius appears deep within conversation
+with some unseen being.  He does not even seem to notice as you enter, so
+engrossed is he in his train of thought.  After a few moments of observation,
+he can be seen to speak and then wait, tilting his head towards the desktop as
+if listening to someone's response, and then reply to whatever voice it is that
+he alone can hear.    
+~
+10215514 33686680 10027016 0 E
+26 4 -10 3d33+950 4d7+7
+1500 115000 2
+8 8 1 0
+E
+T 2
+#11622
+priest dark wandering ~
+a wandering priest clad in dark garments~
+A wandering priest clad in dark garments moves silently about the halls.
+~
+   This man wanders about the halls, silently going about his business and
+carrying out his orders.  Wrapped up from head to toe in dark attire, it is
+very hard to descern anything about the individual or what his purpose is here.
+As he notices you he looks quite suprised, and with a strangled shout of alarm,
+he attacks.    
+~
+548968 9216 2367490 -850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 2
+8 8 1 0
+E
+#11623
+priestess dark clad ~
+a dark clad priestess~
+A dark clad priestess roams silently about the area, seeing to her tasks.
+~
+   Moving silently about the halls, this woman is clad entirely in dark
+material as if in the hopes of concealing her identity or presence.  Glancing
+up as she sees you, she issues a startled shriek and leaps drectly for you.  
+As she attacks, one can notice a small, crescent-shaped talisman slip free of
+the concealing folds of her robes.    
+~
+544872 33562624 1638404 -850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 2
+8 8 2 0
+E
+#11624
+guard roving clad dark black~
+a roving guard clad in dark armor~
+A large guard roams about the halls here, his entire form concealed beneath his black armor.
+~
+   This guard roams the halls here, protecting his breathern should any manage
+to breach the area.  He moves slowly and quietly, as quietly as his bulky armor
+will allow, as though to keep his presence unknown until the time is necessary
+to strike.  Like many of the priests here, he is completely concealed beneath
+his armor, allowing no idea as to his identity.    
+~
+1071208 33554472 0 -850 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 3
+8 8 1 0
+BareHandAttack: 3
+E
+$

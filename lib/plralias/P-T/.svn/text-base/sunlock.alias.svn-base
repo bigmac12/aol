@@ -1,0 +1,50 @@
+4
+hang
+14
+hang wind sash
+0
+4
+chat
+11
+chat &Y$*&n
+1
+1
+f
+9
+as cleric
+0
+2
+cs
+19
+cast cure-severe $*
+1
+4
+food
+11
+cast create
+0
+3
+ste
+26
+give wine $*;steal wine $*
+1
+2
+cl
+18
+cast cure-light $*
+1
+2
+cm
+16
+cast cure-mod $*
+1
+2
+eq
+6
+l self
+0
+4
+sing
+25
+emote &Gsings&n, '&C$*&n'
+1

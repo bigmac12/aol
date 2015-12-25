@@ -1,0 +1,416 @@
+#5000
+street.sign~
+a street sign~
+A large sign hangs from a pole near the middle of the road, giving directions.~
+~
+16 0 0
+0 0 0 0
+0 0 0 0
+#5001
+building.sign~
+a building plaque~
+A carved and painted plaque hangs from the side of the building.~
+~
+16 0 0
+0 0 0 0
+0 0 0 0
+#5002
+pillar display small marble swords set~
+a small marble pillar display~
+Two small marble pillars stand near the stairs, displaying a set of swords.~
+~
+0 16 0
+0 0 0 0
+0 0 0 0
+E
+small marble pillar display~
+   The small pillar is made of smooth white marble, streaked with veins of gold
+and silver, creating a crackling pattern within the marble.  Along the pillar
+is carvings of dragons winding their way up toward the top of the pillar, being
+ridden by holy warriors, frozen eternally in the marble as they reach for the
+set of finely crafted swords that are displayed upon the pillar top.    
+~
+E
+set swords finely shortsword slim blade large longsword runic~
+   The set of swords displayed upon the top of the pillar are beautifully
+crafted by an expert weaponsmith, and look perfectly balanced.  The smaller,
+slim blade has a handle of pearl inlaid with gold veins, and the larger sword
+was crafted with an odd fiery opal handle, also inlaid with gold veins, giving
+it the illusion of flames within the handle.  Along the larger blade can be
+seen etched runic symbols of elven script, flowing with elven magic.  Clearly,
+these weapons were made as a pair, and are valuable - not only for their
+craftsmanship, but also as a displayed gift to the gods of warfare.    
+~
+#5005
+fountain~
+a fountain of Zeboim~
+A crystal statue of a sea maiden stands seductively in the middle of a fountain.~
+~
+23 16 0
+99999999 99999999 15 0
+100000004 0 0 0
+#5006
+basin~
+a three-tiered basin~
+You see the glimmer of gold as clear water flows over the three-tiered basin.~
+~
+23 16 0
+1000 1000 15 0
+1005 0 0 1
+#5007
+map karthay rolled~
+a rolled map of Karthay~
+A rolled piece of paper with the word Karthay on its side rests on the ground.~
+~
+16 0 1
+0 0 0 0
+0 3 0 1
+E
+map rolled karthay~
+
+
+                            Map of the City of Karthay
+
+
+
+                           Gate
+                             |
+                       *-----*-M            A-  Seraco Crossing
+                       | L   |              B-  Seasick Kraken Inn and Bar
+                    R  |     |              C-  Tinsels Stuff
+                   *---*     |              D-  Seamist Tower
+              B    |         |              E-  The Coiled Serpent
+       Gate---*----*  J      *-*-*          F-  Under the MoonGlow
+              | H   \      K/  | |O         G-  Wren's Gems and Jewelry 
+              |      \     /  N| |          H-  Cinnabar's Leatherworking Shop
+              |       \   /    |-*          J-  Merchants Guild and Bank
+              |        \ /     *---*        K-  Red Metal Rose Blacksmith Shop
+              *---*     A         P|        L-  Arashi Weaponry
+                  |C   / \         |        M-  Guild of the Warrior
+                  |   /   \        |        N-  Karthay Fish Market
+                  |  /     \       |        O-  City Docks
+                  | /       \ G    |        P-  The Holy Shell 
+                  -*         *-----*        Q-  Temple of Zeboim
+                   |  E    F |      Q       R-  Mayors Mansion
+                   |     *---*
+                   |     |
+                   |     |
+                   *-----*
+                  D
+
+~
+#5008
+shroud mist~
+a shroud of slowly turning mist~
+A mass of misty fog swirls on the ground.~
+~
+9 141468160 1025
+6 0 0 0
+1 750 375 16
+E
+shroud mist~
+   An almost imperceptable mass of sticky mist holds its form despite
+any breeze and clings together into an elongated form.  It is possible to
+pick it up and manipulate it, though difficult due to its viscous nature.
+~
+#5009
+crudely wrapped serpents scales~
+crudely wrapped serpents scales~
+A pile of loose scales glistens in the light.~
+~
+9 512 257
+6 0 0 0
+5 1832 879 19
+E
+crudely wrapped serpents scales~
+   The skin of a large snake has been peeled off and formed into two narrow
+sheets.  They are shades of dark green and black with small white diamond
+shapes patterned over their surface and tapered down.
+~
+A
+2 1
+#5010
+turtle shell~
+a turtle shell~
+The shell of a turtle lays here upturned.~
+~
+9 0 513
+1 0 0 0
+5 39 10 3
+E
+turtle shell~
+   The shell of a turtle has been hollowed out and a small strap attached
+within to all it to be held to the chest in battle.  Although strong it is
+brittle.    
+~
+#5011
+fish tail~
+a fish tail~
+A fish tail lays rotting on the ground.~
+~
+19 0 1
+6 0 0 0
+0 1 0 1
+E
+fish tail~
+   The remnants of a fish have been left for the birds to consume.  Although
+unappetizing it may just enough to sustain a person before they get to the
+store.    
+~
+#5012
+rope wide braided loop~
+a wide braided loop of rope~
+A braided rope lays coiled in the ground.~
+~
+9 512 1048577
+1 0 0 0
+1 42 11 4
+E
+wide braided loop rope~
+   Several strands of thick rope have been carefully braided together to
+form a wide band that when worn will hang down and cover the shoulders and
+parts of the chest.  Although old and frayed it is still strong and supple.
+~
+#5013
+blue parrot feather~
+a blue parrot feather~
+A feather blows about in the wind.~
+Nothing.
+~
+9 0 5
+1 0 0 0
+1 38 9 5
+E
+blue parrot feather~
+   The feather is a brilliant shade of blue, and shimmers in the reflected
+light.  When tied to a piece of sinew or string it can be readily hung about
+the neck.    
+~
+#5014
+jacket fine leather~
+a fine leather jacket~
+A jacket made from cured leather sits in a clump on the ground.~
+~
+9 0 9
+1 0 0 0
+3 18 5 3
+E
+fine leather jacket cured~
+   A tailored jacket obviously made for one of the wealthy citizens of Karthay.
+It has perfect seams and does not have so much of a scratch on its surface.  
+Well manufactured, it is durable and strong.    
+~
+#5015
+spur matte black spiked~
+a matte-black spiked spur~
+A small hoop set with a projection of sharp spikes sit upright on the ground.~
+~
+9 354431488 131073
+2 0 0 0
+2 651 152 15
+E
+matte black spiked spur~
+   A thin band of iron has been tempered black with salt into a tight ring
+designed to be attached to the ankle.  From the back projects a bar from
+which is attached a small disc fitted with sharp, narrow spikes.
+~
+A
+14 10
+#5016
+scourge leather animal teeth coil~
+a scourge of leather and animal teeth~
+A long piece of tanned leather and sharp teeth sits coiled on the ground.~
+~
+5 0 10241
+0 2 4 1
+4 184 46 12
+E
+scourge leather animal teeth coil~
+   The skin stripped from some forest animal has been carefully flayed
+and tanned, then wrapped together into the form of a long piece of leather.
+Woven into its tip are the teeth of the animal, sharpened against the stone
+in order to add extra pain during self flagellation.
+~
+A
+17 -1
+#5070
+map large city~
+a large map of Karthay~
+A large map of the city hangs on the wall.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0
+E
+legend~
+
+                        C = Chamber of Commerce Office
+                        1 = Lord's Mansion
+                        2 = Guild of the Warrior
+                        3 = The Seasick Kracken
+                        4 = Arashi Weaponry
+                        5 = The Red Metal Rose Blacksmith Shop
+                        6 = Cinnabar's Leatherworking Shop
+                        7 = Merchants Guild Hall
+                        8 = Fish Market
+                        9 = Tinsel's Stuff
+                       10 = The Holy Shell
+                       11 = Wren's Gems and Jewelry
+                       12 = Under the Moonglow
+                       13 = Temple of Zeboim
+                       14 = Sea Mist Tower
+
+~
+E
+map large city~
+
+         _________________________________________________
+        |                                             | S |
+        |                                             | h |
+        |                                             | o |
+        |                                 ------------  r |
+        |                        1       |              e |2
+        |                       ---      |    --------    |
+        |                      |   |     |   |4       | R |
+        |   C   3              |    -----    |        | o |
+Western  ----------------------              |        | a |
+Entrance   Richwater  Street        _________|        | d |___
+        |_____     ____________    |   7              |  _    |Docks of
+        |     |   |     6       \  \               5 /  / |   |Karthay
+        |     |   |               \S \             /  /   |   |
+        |     |    ------------     \e \         /  /    8|    -------
+        |     | Sandstone Lane |      \r \     /  /       |           |
+        |      -------------   |        \a \ /  /          --------   |
+        |                   |  |          \c  /                    |  |
+        |                  9|  |         /  \o \                 10|  |
+        |                   |  |       /  /   \  \                 |  |
+        |                   |  |     /  /       \ W\               |  |
+        |                   |  |   /  /           \ a\     11      |  |
+        |                   |   --- /               \ y\ ----------   |
+        |                    --    |          12      |               |
+        |                       |  |       -----------    -----------13
+        |                       |  |      | Calere Lane  |            |
+        |                       |  |      |   -----------             |
+        |                       |  |      |  |                        |
+        |                       |  |      |  |                        |
+        |   T h e  C i t y      |   ------   |                        |
+        |   K a r t h a y       |            |      *Be sure to read  |
+        |                       14-----------          the legend.    |     
+        |_____________________________________________________________|                      
+
+~
+#5071
+map small Karthay~
+a small map of Karthay~
+A small map of Karthay is lying here.~
+~
+12 0 1
+0 0 0 0
+1 8 2 1
+E
+legend~
+
+                        C = Chamber of Commerce Office
+                        1 = Lord's Mansion
+                        2 = Guild of the Warrior
+                        3 = The Seasick Kracken
+                        4 = Arashi Weaponry
+                        5 = The Red Metal Rose Blacksmith Shop
+                        6 = Cinnabar's Leatherworking Shop
+                        7 = Merchants Guild Hall
+                        8 = Fish Market
+                        9 = Tinsel's Stuff
+                       10 = The Holy Shell
+                       11 = Wren's Gems and Jewelry
+                       12 = Under the Moonglow
+                       13 = Temple of Zeboim
+                       14 = Sea Mist Tower
+
+~
+E
+map karthay~
+
+         _________________________________________________
+        |                                             | S |
+        |                                             | h |
+        |                                             | o |
+        |                                 ------------  r |
+        |                        1       |              e |2
+        |                       ---      |    --------    |
+        |                      |   |     |   |4       | R |
+        |   C   3              |    -----    |        | o |
+Western  ----------------------              |        | a |
+Entrance   Richwater  Street        _________|        | d |___
+        |_____     ____________    |   7              |  _    |Docks of
+        |     |   |     6       \  \               5 /  / |   |Karthay
+        |     |   |               \S \             /  /   |   |
+        |     |    ------------     \e \         /  /    8|    -------
+        |     | Sandstone Lane |      \r \     /  /       |           |
+        |      -------------   |        \a \ /  /          --------   |
+        |                   |  |          \c  /                    |  |
+        |                  9|  |         /  \o \                 10|  |
+        |                   |  |       /  /   \  \                 |  |
+        |                   |  |     /  /       \ W\               |  |
+        |                   |  |   /  /           \ a\     11      |  |
+        |                   |   --- /               \ y\ ----------   ||
+        |                    --    |          12      |               |
+        |                       |  |       -----------    -----------13
+        |                       |  |      | Calere Lane  |            |
+        |                       |  |      |   -----------             |
+        |                       |  |      |  |                        |
+        |                       |  |      |  |                        |
+        |   T h e  C i t y      |   ------   |                        |
+        |   K a r t h a y       |            |      *Be sure to read  |
+        |                       14-----------          the legend.    |     
+        |_____________________________________________________________|                      
+
+~
+#5094
+board ooc outerworldly~
+an out of character board~
+An outerworldly board hovers in the air, covered in magical glowing script.~
+~
+13 16 0
+0 0 0 0
+9999 0 0 0
+#5095
+board bugs problems ideas~
+a board of bugs and ideas~
+A mis-matched board hangs here, listing problems and ideas for the world.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0
+#5096
+board rules policy~
+a wall of rules~
+A wall covered in thick parchment lists rules and policies.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0
+#5097
+board advertisements trade~
+an advertisements board~
+A board full of advertisements covers the wall, listing itens for trade.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0
+#5098
+board crime wanted posters~
+a board full of wanted posters~
+A large board hangs against the wall covered in wanted posters of criminals.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0
+#5099
+board main bulletin~
+the main bulletin board~
+The main bulletin board hangs near the door, where it can be easily read.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0
+$~

@@ -1,0 +1,1738 @@
+#4200
+A Small Clearing~
+   The small, grassy clearing is surrounded by weeds and brush that would cover
+a man's head, but is reduced to slivers of grass in a perfect circle at its
+abrupt edge.  It seems that whoever created the clearing did so with the
+intention to hide it.  In the center, the grass grows so lightly that it is
+almost unnoticeable, and the ground bulges as though it might be covering
+something.    
+~
+42 4 2 0 0
+D0
+~
+~
+0 0 4253
+D1
+~
+~
+0 0 4257
+D3
+~
+~
+0 0 4255
+D5
+A metal plate caked with mud.
+~
+plate metal~
+1 0 4201
+E
+bulge center ground~
+   Upon further examination, the bulge seems to have something under it -- a
+metal plate.  Perhaps you could lift the plate?    
+~
+S
+#4201
+On a Tall, Narrow Staircase~
+   The staircase is in hundreds of years of disrepair, pieces breaking away of
+their own free will.  In the air hangs the stench of decay and death.  The
+stairs wind down in a tight spiral fashion to the depths below.  Directly above
+you, a plate holds the darkness in.    
+~
+42 9 0 0 0
+D4
+A metal plate caked with mud.
+~
+plate metal~
+1 0 4200
+D5
+~
+~
+0 0 4202
+S
+#4202
+A Thin Corridor~
+   A thin corridor, with no more room than for a full-sized person to pass
+through one way, runs north and south.  The brick it is made of is cobbled,
+about to chip and fall away as the loose mortar fails it.  Rubble along the
+ground makes for difficult stepping in the darkness.    
+~
+42 8 0 0 0
+D2
+~
+~
+0 0 4203
+D4
+~
+~
+0 0 4201
+S
+#4203
+A Thin Corridor~
+   A thin corridor, with no more room than for a full-sized person to pass
+through one way, runs north and south.  The brick it is made of is cobbled,
+about to chip and fall away as the loose mortar fails it.  Rubble along the
+ground makes for difficult stepping in the darkness.  A short spiral staircase
+to the north leads above ground.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4202
+D2
+~
+~
+0 0 4204
+S
+#4204
+Altar Ruins~
+   The bone penetrating chill in the air makes this room quite uncomfortable.
+Pieces of crumbled rock and splintered wood lie strewn across the floor making
+it difficult to walk.  Black candle wax from some dark ritual covers the two
+large skulls, both a sickly color of yellow, that rest upon the remains of the
+altar.  The air is filled with the stench of decay.    
+~
+42 12 0 0 0
+D0
+~
+~
+0 0 4203
+D2
+~
+~
+0 0 4252
+D5
+A large stone slab.
+~
+slab stone~
+1 0 4205
+E
+altar~
+   This large altar stands in ruins at the back of the room.  It appears to
+have been carved from rock which is now crumbling to the floor.  Black candle
+wax has been dripped down the front of the rock mingling with blood and dirt.
+  
+~
+S
+#4205
+Central Chamber~
+   This chamber differs greatly from those above.  The room is well maintained
+and lit by torches which line the walls.  The lack of windows is the only
+indication that this room is underground.  The room is deathly quiet, the only
+noise are the footsteps which echo in the large empty chamber, creating an
+eerie feeling.  The chamber continues to the east, west and south.    
+~
+42 8 0 0 0
+D1
+~
+~
+0 0 4210
+D2
+~
+~
+0 0 4214
+D3
+~
+~
+0 0 4206
+D4
+A large stone slab.
+~
+slab stone~
+1 0 4204
+S
+#4206
+The Central Chamber~
+   This chamber differs greatly from those above.  The room is well maintained
+and lit by torches which line the walls.  The lack of windows is the only
+indication that this room is underground.  The room is deathly quiet, the only
+noise are the footsteps which echo in the large empty chamber, creating an
+eerie feeling.  The central chamber continues to the east.  A small staircase
+in the southwestern corner of the room winds its way further underground.    
+~
+42 8 0 0 0
+D1
+~
+~
+0 0 4205
+D5
+~
+~
+0 0 4207
+S
+#4207
+Western Staircase~
+   This stairway winds its way further underground.  The steps are smooth stone
+and a bit slippery, making it difficult to keep from falling.  Thankfully an
+iron handrail hangs on the wall, offering support.  The stone walls are cold to
+the touch, and a cool breeze from below wafts up the staircase.  The central
+chamber is visible to the east.    
+~
+42 8 0 0 0
+D4
+~
+~
+0 0 4206
+D5
+~
+~
+0 0 4208
+S
+#4208
+Western Staircase~
+   This stairway winds its way further underground.  The steps are smooth stone
+and a bit slippery, making it difficult to keep from falling.  Thankfully an
+iron handrail hangs on the wall, offering support.  The stone walls are cold to
+the touch, and a cool breeze from below wafts up the staircase.  A corridor
+leads off to the south.    
+~
+42 12 0 0 0
+D2
+~
+~
+0 0 4209
+D4
+~
+~
+0 0 4207
+S
+#4209
+Entrance to the West Wing~
+   A large pile of rock rests in the corner of the room.  Several scratches mar
+the otherwise smooth and even floor.  It appears as though the pile of rocks
+once blocked this hallway but has since been pushed off to the side.  The
+hallway continues to the south winding its way through the underground caverns.
+A staircase leading up is visible to the north.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4208
+D2
+~
+~
+0 0 4221
+S
+#4210
+The Central Chamber~
+   This chamber differs greatly from those above.  The room is well maintained
+and lit by torches which line the walls.  The lack of windows is the only
+indication that this room is underground.  The room is deathly quiet, the only
+noise are the footsteps which echo in the large empty chamber, creating an
+eerie feeling.  The central chamber continues to the west.  A small staircase
+in the southeastern corner of the room winds its way further underground.    
+~
+42 8 0 0 0
+D3
+~
+~
+0 0 4205
+D5
+~
+~
+0 0 4211
+S
+#4211
+Eastern Staircase~
+   This stairway winds its way further underground.  The steps are smooth stone
+and a bit slippery, making it difficult to keep from falling.  Thankfully an
+iron handrail runs hangs on the wall, offering support.  The stone walls are
+cold to the touch, and a cool breeze from below wafts up the staircase.  The
+central chamber is visible to the west.    
+~
+42 8 0 0 0
+D4
+~
+~
+0 0 4210
+D5
+~
+~
+0 0 4212
+S
+#4212
+Eastern Staircase~
+   This stairway winds its way further underground.  The steps are smooth stone
+and a bit slippery, making it difficult to keep from falling.  Thankfully an
+iron handrail runs hangs on the wall, offering support.  The stone walls are
+cold to the touch, and a cool breeze from below wafts up the staircase.  A
+corridor leads off to the south.    
+~
+42 12 0 0 0
+D2
+~
+~
+0 0 4213
+D4
+~
+~
+0 0 4211
+S
+#4213
+Entrance to the East Wing~
+   A large pile of rock rests in the corner of the room.  Several scratches mar
+the otherwise smooth and even floor.  It appears as though the pile of rocks
+once blocked this hallway but has since been pushed off to the side.  The
+hallway continues to the south winding its way through the underground caverns.
+A staircase leading up is visible to the north.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4212
+D2
+~
+~
+0 0 4222
+S
+#4214
+Central Chamber~
+   This chamber differs greatly from those above.  The room is well maintained
+and lit by torches which line the walls.  The lack of windows is the only
+indication that this room is underground.  The room is deathly quiet, the only
+noise are the footsteps which echo in the large empty chamber, creating an
+eerie feeling.  The chamber continues to the north.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4205
+D1
+~
+~
+0 0 4215
+D3
+~
+~
+0 0 4216
+S
+#4215
+Hall of Servants~
+   This narrow hallways runs from the central chamber to the servants quarters
+and kitchen.  The floor is covered with a long rug, which appears to be woven
+from coarse reeds.  Torches line both the eastern and western walls providing
+light for those who pass.  A small room is visible to the east and the hallway
+continues to the south.    
+~
+42 12 0 0 0
+D1
+~
+~
+0 0 4220
+D2
+~
+~
+0 0 4218
+D3
+~
+~
+0 0 4214
+S
+#4216
+A Storage Closet~
+   This small storage closet is jammed full of items which are used in the
+upkeep of this structure.  Cleaning supplies such as mops, buckets, and sponges
+as well as different building materials fill the shelves.  Several cans of
+paint are stacked along the floor.  One large shelving unit is filled entirely
+with candles and another with torches, as though someone wants to ensure that
+the area is never dark.    
+~
+42 8 0 0 0
+D1
+~
+~
+0 0 4214
+S
+#4217
+A Sitting Room~
+   This sitting chamber appears as though it would be a pleasant place to
+unwind after a busy day.  Two large sofas sit opposite each other with a small
+table placed between them.  A stone fireplace dominates the southern wall, its
+fire providing warmth and light.  The room is decorated with drawings of the
+outside world above: green meadows, blue skies with puffy clouds and the like.
+The drawings are rather simplistic in their design, like those of a child.  
+The colors and shapes are exaggerated, depicting a somewhat distorted view of
+the world.  One thing common to each drawing is a strange black cloud which
+stands in sharp contrast to the rest of the picture.    
+~
+42 8 0 0 0
+D3
+~
+~
+0 0 4218
+S
+#4218
+Hall of Servants~
+   This narrow hallway runs from the central chamber to the servants quarters
+and kitchen.  The floor is covered with a long rug, which appears to be woven
+from coarse reeds.  Torches line the eastern wall, providing light.  A mirror
+hangs opposite the torches, presumably to reflect the light.  In reality, the
+mirror does not reflect the hallway itself but rather a small field with a
+circular clearing in the center.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4215
+D1
+~
+~
+0 0 4217
+D2
+~
+~
+0 0 4278
+D3
+~
+~
+0 0 4219
+E
+mirror~
+   Reflected in the mirror is a small, grassy clearing.  It is surrounded by
+weeds and brush which have been cut away forming a perfect circle.    
+~
+S
+#4219
+A Small Kitchen~
+   This small kitchen is surprisingly bright and colorful.  Other than its
+unusual decor, it is however much like any other kitchen.  A pot of stew cooks
+on the stove, filling the room with its pleasant smell.  The floor is wooden
+but has been painted green, with the walls a brilliant sky blue, decorated with
+birds flying across the sky.  High up in the corner of the room, one strange
+black cloud is also painted on the wall.    
+~
+42 8 0 0 0
+D1
+~
+~
+0 0 4218
+S
+#4220
+Servants' Quarters~
+   This simple room serves as the servant's quarters.  The room is furnished
+very sparsely, with wooden bunk beds standing against the northern and southern
+walls and a plain dresser against the eastern wall.  The floor is bare wooden
+planks with carpeting or rugs.  Two small torches hang on either side of the
+doorway providing light.    
+~
+42 8 0 0 0
+D3
+~
+~
+0 0 4215
+S
+#4221
+A Winding Corridor~
+   This hallway winds its way through the underground caverns.  Its walls curve
+upward toward the ceiling.  They are perfectly smooth, unmarred by a single
+blemish, as though carved by some magical force.  The floor is also strangely
+even.  It slopes downward, further underground, making it difficult to walk
+without slipping on the smooth surface.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4209
+D8
+~
+~
+0 0 4223
+S
+#4222
+A Winding Corridor~
+   This hallway winds its way through the underground caverns.  Its walls curve
+upward toward the ceiling.  They are perfectly smooth, unmarred by a single
+blemish, as though carved by some magical force.  The floor is also strangely
+even.  It slopes downward, further underground, making it difficult to walk
+without slipping on the smooth surface.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4213
+D9
+~
+~
+0 0 4224
+S
+#4223
+A Winding Corridor~
+   The air gets a slight chill to it as this hallway continues to wind its way
+through the underground caverns.  Its walls curve upward toward the ceiling.  
+They are perfectly smooth, unmarred by a single blemish, as though carved by
+some magical force.  The floor is also strangely even.  It slopes downward,
+further underground, making it difficult to walk without slipping on the smooth
+surface.    
+~
+42 8 0 0 0
+D2
+~
+~
+0 0 4225
+D7
+~
+~
+0 0 4221
+S
+#4224
+A Winding Corridor~
+   This hallway winds its way through the underground caverns.  Its walls curve
+upward toward the ceiling.  They are perfectly smooth, unmarred by a single
+blemish, as though carved by some magical force.  The floor is also strangely
+even.  It slopes downward, further underground, making it difficult to walk
+without slipping on the smooth surface.  Strangely, the hallway seems to get
+brighter the further underground it goes.    
+~
+42 8 0 0 0
+D2
+~
+~
+0 0 4226
+D6
+~
+~
+0 0 4222
+S
+#4225
+A Winding Corridor~
+   This hallway winds its way through the underground caverns.  Its walls curve
+upward toward the ceiling.  They are perfectly smooth, unmarred by a single
+blemish, as though carved by some magical force.  The floor is also strangely
+even.  It slopes downward, further underground, making it difficult to walk
+without slipping on the smooth surface.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4223
+D8
+~
+~
+0 0 4228
+S
+#4226
+A Winding Corridor~
+   This hallway winds its way through the underground caverns.  Its walls curve
+upward toward the ceiling.  They are perfectly smooth, unmarred by a single
+blemish, as though carved by some magical force.  The floor is also strangely
+even.  It slopes downward, further underground, making it difficult to walk
+without slipping on the smooth surface.  Strangely, the hallway seems to get
+brighter the further underground it goes.  The light seems to come from the
+southeast.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4224
+D9
+~
+~
+0 0 4229
+S
+#4227
+Within a Nightmare~
+   A strange chill fills the air of this vast chamber.  The walls and ceiling
+are lost in a fog of swirling mists.  Eyes seem to peer out from the mists,
+carefully watching and waiting.  Strange noises of unknown origins come from
+all directions, and the air reeks of death and decay.    
+~
+42 8 0 0 0
+D2
+~
+~
+0 0 4232
+S
+#4228
+A Winding Corridor~
+   This hallway winds its way through the underground caverns.  Its walls curve
+upward toward the ceiling.  They are perfectly smooth, unmarred by a single
+blemish, as though carved by some magical force.  The floor is also strangely
+even.  It slopes downward, further underground, making it difficult to walk
+without slipping on the smooth surface.  The hallway ends here, opening up to
+the southwest into a large cavern.    
+~
+42 8 0 0 0
+D7
+~
+~
+0 0 4225
+D8
+~
+~
+0 0 4232
+S
+#4229
+A Winding Corridor~
+   This hallway winds its way through the underground caverns.  Its walls curve
+upward toward the ceiling.  They are perfectly smooth, unmarred by a single
+blemish, as though carved by some magical force.  The floor is also strangely
+even.  It slopes downward, further underground, making it difficult to walk
+without slipping on the smooth surface.  Strangely, the hallway seems to get
+brighter the further underground it goes.  The light seems to come from the
+southeast.  It is oddly bright, like sunshine.  A pleasant fragrance fills the
+hall, carried on a light breeze.    
+~
+42 8 0 0 0
+D6
+~
+~
+0 0 4226
+D9
+~
+~
+0 0 4235
+S
+#4230
+Within a Dream~
+   The bright sunshine glares in sharp contrast to the darkness of the
+hallways.  How the sun is shining so far underground is a mystery that gets
+little attention as those who enter are quickly entranced by the beauty and
+serenity that surrounds them.  A beautiful rainbow stretches across the sky.  
+Fields of lovely green grass stretch in all directions, dotted with color from
+the wildflowers that grow here.  Their sweet fragrance attracts lovely birds
+and butterflies that flit from bloom to bloom drinking their nectar.  Flit
+about, their song the only sound which breaks the peaceful silence.    
+~
+42 8 0 0 0
+D2
+~
+~
+0 0 4235
+S
+#4231
+Within a Nightmare~
+   A strange chill fills the air of this vast chamber.  The walls and ceiling
+are lost in a fog of swirling mists.  Eyes seem to peer out from the mists,
+carefully watching and waiting.  Strange noises of unknown origins come from
+all directions, and the air reeks of death and decay.  Intermixed with the
+strange noises are whispers of voices that seem familiar.  Yet there is
+something haunting about them.    
+~
+42 9 0 0 0
+D1
+~
+~
+0 0 4232
+S
+#4232
+Within a Nightmare~
+   A strange chill fills the air of this vast chamber.  The walls and ceiling
+are lost in a fog of swirling mists.  Eyes seem to peer out from the mists,
+carefully watching and waiting.  Odd noises of unknown origins come from all
+directions, mixing with strange echoes the come from the south and west.  The
+air is opressive and reeks of death and decay.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4227
+D1
+~
+~
+0 0 4233
+D2
+~
+~
+0 0 4237
+D3
+~
+~
+0 0 4231
+D7
+~
+~
+0 0 4228
+S
+#4233
+Within a Nightmare~
+   A strange chill fills the air of this vast chamber.  The walls and ceiling
+are lost in a fog of swirling mists.  Eyes seem to peer out from the mists,
+carefully watching and waiting.  Strange noises of unknown origins come from
+all directions, and the air reeks of death and decay.  A large wooden door
+takes up the majority of the eastern wall.    
+~
+42 13 0 0 0
+D1
+A heavy wooden door.
+~
+door heavy~
+2 4204 4239
+D3
+~
+~
+0 0 4232
+S
+#4234
+Within a Dream~
+   The bright sunshine glares in sharp contrast to the darkness of the
+hallways.  How the sun is shining so far underground is a mystery that gets
+little attention as those who enter are quickly entranced by the beauty and
+serenity that surrounds them.  A beautiful rainbow stretches across the sky.  
+Fields of lovely green grass stretch in all directions, dotted with color from
+the wildflowers that grow here.  Their sweet fragrance fills the air.  Birds
+flit about, their song the only sound which breaks the peaceful silence.  A
+strange breeze blows in from the west, disrupting the otherwise peaceful
+setting.    
+~
+42 8 0 0 0
+D1
+~
+~
+0 0 4235
+D3
+A heavy wooden door.
+~
+door wooden heavy~
+1 4204 4248
+S
+#4235
+Within a Dream~
+   The bright sunshine glares in sharp contrast to the darkness of the
+hallways.  How the sun is shining so far underground is a mystery that gets
+little attention as those who enter are quickly entranced by the beauty and
+serenity that surrounds them.  A beautiful rainbow stretches across the sky.  
+Fields of lovely green grass stretch in all directions, dotted with color from
+the wildflowers that grow here.  Their sweet fragrance fills the air.  Birds
+flit about, their song the only sound which breaks the peaceful silence.    
+~
+42 12 0 0 0
+D0
+~
+~
+0 0 4230
+D1
+~
+~
+0 0 4236
+D2
+~
+~
+0 0 4238
+D3
+~
+~
+0 0 4234
+D6
+~
+~
+0 0 4229
+S
+#4236
+Within a Dream~
+   The bright sunshine glares in sharp contrast to the darkness of the
+hallways.  How the sun is shining so far underground is a mystery that gets
+little attention as those who enter are quickly entranced by the beauty and
+serenity that surrounds them.  A beautiful rainbow stretches across the sky.  
+Fields of lovely green grass stretch in all directions, dotted with color from
+the wildflowers that grow here.  Small hills are visible in the distance.  A
+stream flows through the hills, cascading down to the meadow over a lovely
+waterfall.  The soothing sound of the water fall adds to the peacefulness of
+the meadow.    
+~
+42 8 0 0 0
+D3
+~
+~
+0 0 4235
+S
+#4237
+Within a Nightmare~
+   A strange chill fills the air of this vast chamber.  The walls and ceiling
+are lost in a fog of swirling mists.  Eyes seem to peer out from the mists,
+carefully watching and waiting.  Strange noises of unknown origins come from
+all directions, and the air reeks of death and decay.  A large pool sits in the
+middle of the room.  Its surface is flat calm, creating a perfect reflection of
+the room.    
+~
+42 12 0 0 0
+D0
+~
+~
+0 0 4232
+S
+T 4237
+#4238
+Within a Dream~
+   The bright sunshine glares in sharp contrast to the darkness of the
+hallways.  How the sun is shining so far underground is a mystery that gets
+little attention as those who enter are quickly entranced by the beauty and
+serenity that surrounds them.  A beautiful rainbow stretches across the sky.  
+Fields of lovely green grass stretch in all directions, dotted with color from
+the wildflowers that grow here.  Their sweet fragrance fills the air.  Birds
+flit about, their song the only sound which breaks the peaceful silence.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4235
+S
+#4239
+A Dark Hallway~
+   This dark hallway is completely unadorned.  Not a single torch or lantern
+provides a source of light as the hallway slants downward to the east, making
+its way further underground.  The air is strangely warm and damp.  A moldy,
+dank smell fills the air as it swirls in the darkness.  The hallway continues
+to the east.  A large wooden door dominates the western wall.    
+~
+42 13 0 0 0
+D1
+~
+~
+0 0 4240
+D3
+A heavy wooden door.
+~
+door heavy~
+2 0 4233
+S
+#4240
+A Dark Hallway~
+   This dark hallway is completely unadorned.  Not a single torch or lantern
+provides a source of light as the hallway slants downward to the east, making
+its way further underground.  The air is strangely warm and damp.  A moldy,
+dank smell fills the air as it swirls in the darkness.  The hallway continues
+to the east and west.    
+~
+42 9 0 0 0
+D1
+~
+~
+0 0 4241
+D3
+~
+~
+0 0 4239
+S
+#4241
+A Dark Hallway~
+   This dark hallway is completely unadorned.  Not a single torch or lantern
+provides a source of light as the hallway slants downward to the east, making
+its way further undreground.  The air is strangely warm and damp.  Pieces of
+crumbled rock and other debris lie strewn on the floor.  A moldy, dank smell
+fills the air as it swirls in the darkness.  The hallway continues to the east
+and west.    
+~
+42 9 0 0 0
+D1
+~
+~
+0 0 4242
+D3
+~
+~
+0 0 4240
+S
+#4242
+A Dark Hallway~
+   This dark hallway is completely unadorned.  Not a single torch or lantern
+provides a source of light as the hallway slants downward to the east, making
+its way further underground.  The air is strangely warm and damp.  A moldy,
+dank smell fills the air as it swirls in the darkness.  A chilled breeze blows
+in from the east.  The hallway continues to the east and west.    
+~
+42 9 0 0 0
+D1
+~
+~
+0 0 4243
+D3
+~
+~
+0 0 4241
+S
+#4243
+A Dark Hallway~
+   This dark hallway is completely unadorned.  Not a single torch or lantern
+provides a source of light.  The floor in this section of the hallway has
+leveled off.  The hot humid air is oppressive making it difficult to breath.  
+The air swirls slightly as a light breeze blows in from the south.  A moldy,
+dank smell fills the air as it swirls in the darkness.  The hallway continues
+to the east and west.  A small room is visible to the south.    
+~
+42 13 0 0 0
+D0
+~
+~
+0 0 4244
+D1
+~
+~
+0 0 4245
+D2
+You see nothing special.
+~
+~
+0 0 4251
+D3
+~
+~
+0 0 4242
+S
+#4244
+A Dark Corridor~
+   This corridor branches off of the main east-west corridor.  It is dark
+except for a strange green glow and the air is heavy with the smell of sulfur.  
+The stone walls are blackened and appear to have been charred by an intense
+flame.  The ceiling is not visible, completely lost in the darkness.  A strange
+scraping sound echoes down from above.    
+~
+42 9 0 0 0
+D0
+~
+~
+0 0 4249
+D2
+~
+~
+0 0 4243
+S
+#4245
+A Dark Hallway~
+   This dark hallway is completely unadorned.  Not a single torch or lantern
+provides a source of light as the hallway slants downward to the east, making
+its way further underground.  The air is strangely warm and damp.  A moldy,
+dank smell fills the air as it swirls in the darkness.  A chilled breeze blows
+in from the west.  The hallway continues to the east and west.    
+~
+42 9 0 0 0
+D1
+~
+~
+0 0 4246
+D3
+~
+~
+0 0 4243
+S
+#4246
+A Dark Hallway~
+   This dark hallway is completely unadorned.  Not a single torch or lantern
+provides a source of light as the hallway slants downward to the east, making
+its way further undreground.  The air is strangely warm and damp.  Pieces of
+crumbled rock and other debris lie strewn on the floor.  A moldy, dank smell
+fills the air as it swirls in the darkness.  The hallway continues to the east
+and west.    
+~
+42 9 0 0 0
+D1
+~
+~
+0 0 4247
+D3
+~
+~
+0 0 4245
+S
+#4247
+A Dark Hallway~
+   This dark hallway is completely unadorned.  Not a single torch or lantern
+provides a source of light as the hallway slants downward to the east, making
+its way further underground.  The air is strangely warm and damp.  A moldy,
+dank smell fills the air as it swirls in the darkness.  The hallway continues
+to the east and west.    
+~
+42 9 0 0 0
+D1
+~
+~
+0 0 4248
+D3
+~
+~
+0 0 4246
+S
+#4248
+A Dark Hallway~
+   This dark hallway is completely unadorned.  Not a single torch or lantern
+provides a source of light as the hallway slants downward to the west, making
+its way further underground.  The air is strangely warm and damp.  A moldy,
+dank smell fills the air as it swirls in the darkness.  The hallway continues
+to the west.    
+~
+42 13 0 0 0
+D3
+~
+~
+0 0 4247
+S
+#4249
+A Dead End~
+   This corridor branches off of the main east-west corridor.  It is dark
+except for a strange green glow and the air is heavy with the smell of sulfur.
+The stone walls are blackened and appear to have been charred by an intense
+flame.  The ceiling is not visible, completely lost in the darkness.  A strange
+scraping sound echoes down from above.  Heavy black curtains hang on the
+western wall, covering it from floor to ceiling.    
+~
+42 9 0 0 0
+D2
+~
+~
+0 0 4244
+D3
+Heavy black curtains hang against the wall.
+~
+curtains black heavy~
+1 0 4250
+S
+#4250
+An Altar~
+   The stone walls of this room are a strange iridescent black.  A long black
+altar stands against the northern wall.  It is draped with a black velvet
+curtain that is stained with blood.  The room is lit by two candles that rest
+in black, crescent shaped candlestick holders sitting on opposite ends of the
+alter.  Strange symbols are embroidered on the velvet that covers the altar,
+including the constellation of the five-headed dragon.    
+~
+42 524296 0 1 0
+D0
+~
+~
+0 0 4285
+D1
+Heavy black curtains hang against the wall.
+~
+curtains black heavy~
+1 0 4249
+D3
+A massive stone slab dominates the western wall.
+~
+slab massive stone~
+1 4214 4275
+S
+#4251
+A Dead End~
+   This room is small and pitch black.  The air is heavy with dampness and the
+smell of mold.  The ceiling is low creating a very claustrophobic feeling.  A
+large crack runs through the southern wall.  Off in the distance the sound of
+rushing water can be heard.    
+~
+42 13 0 0 0
+D0
+~
+~
+0 0 4243
+D2
+A hidden stone panel.
+~
+panel stone hidden~
+1 0 4259
+E
+wall crack large~
+   The large crack in the wall to the south looks as though it may open to
+reveal a doorway.    
+~
+S
+#4252
+Behind the Altar~
+   The vile contents of this room are enough to cause even the bravest warrior
+to stagger.  Piles of rotting corpses, both human and animal, cover the floor.
+Skeletons of those long dead lay crumbled across the ground.  The stench is
+almost completely overwhelming.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4204
+S
+#4253
+A Dirt Path~
+   This dirt path does not appear to be heavily travelled.  It has been cleared
+from the tall grass and brush that fill this field.  Although the grass has
+been cut back to form the path, no footprints are visible on the ground.  A
+strange hush fills the area, and the air is deathly calm.  There is a parting
+of the trees to the northwest, and a small, freshly cut path which leads
+towards a dark, forboding house.  The exterior appears fairly run-down, and
+looks to be in need of a skilled carpenter or landscaper to make it look more
+inviting.    
+~
+42 0 2 0 0
+D1
+~
+~
+0 0 4256
+D2
+~
+~
+0 0 4200
+D3
+~
+~
+0 0 4254
+D6
+   There is a door off to the northwest through the cleared path, but it seems
+barred from intruders.    
+~
+door~
+1 0 19025
+S
+#4254
+A Small Clearing~
+   The small, grassy clearing is surrounded by weeds and brush that would cover
+a man's head, but is reduced to slivers of grass in a perfect circle at its
+abrupt edge.  It seems that whoever created the clearing did so with the
+intention to hide it.  In the center, the grass grows so lightly that it is
+almost unnoticeable.  A decrepit temple is visible to the west.    
+~
+42 4 2 0 0
+D1
+~
+~
+0 0 4253
+D2
+~
+~
+0 0 4255
+D3
+~
+~
+0 0 6400
+S
+#4255
+A Small Clearing~
+   The highway fades into this small clearing.  It is surrounded by weeds and
+brush that would cover a man's head, but is reduced to slivers of grass in a
+perfect circle at its abrupt edge.  It seems that whoever created the clearing
+did so with the intention to hide it.  In the center, the grass grows so
+lightly that it is almost unnoticeable.    
+~
+42 0 2 0 0
+D0
+~
+~
+0 0 4254
+D1
+~
+~
+0 0 4200
+D8
+~
+~
+0 0 7341
+S
+#4256
+The Edge of the Clearing~
+   The highway fades into this small clearing.  The dirt path does not appear
+too heavily travelled.  It has been cleared from the tall grass and brush that
+fill this field.  Although the grass has been cut back to form the path, no
+footprints are visible on the ground.  A strange hush fills the area, and the
+air is deathly calm.    
+~
+42 0 0 0 0
+D2
+~
+~
+0 0 4257
+D3
+~
+~
+0 0 4253
+D7
+~
+~
+0 0 7342
+S
+#4257
+The Edge of the Clearing~
+   The grass is a bit taller at the edge of the clearing.  It gradually fades
+into the forest surrounding the clearing.  The air within the clearing is
+deathly calm and a strange and unidentifiable odor permeates the air.    
+~
+42 0 0 0 0
+D0
+~
+~
+0 0 4256
+D3
+~
+~
+0 0 4200
+S
+#4258
+A Large Cavern~
+   The ceiling of this cavern stretches into the darkness, replacing the
+feeling of claustrophobia with one of fear and uneasiness.  The stone walls are
+damp and covered with moss that somehow grows despite the absense of light,
+leaving the air heavy with moisture and the smell of the moss.  Water drips
+from the walls and ceiling, creating puddles on the already damp and slippery
+stone floor.  The sound of rushing water can be heard off in the distance.    
+~
+42 9 0 0 0
+D1
+~
+~
+0 0 4259
+D8
+~
+~
+0 0 4262
+S
+#4259
+A Large Cavern~
+   The ceiling of this cavern stretches into the darkness, replacing the
+feeling of claustrophobia with one of fear and uneasiness.  The stone walls are
+damp and covered with moss that somehow grows despite the absense of light,
+leaving the air heavy with moisture and the smell of the moss.  Water drips
+from the walls and ceiling, creating puddles on the already damp and slippery
+stone floor.  The sound of rushing water can be heard off in the distance.    
+~
+42 9 0 0 0
+D0
+A hidden stone panel.
+~
+panel stone hidden~
+1 0 4251
+D3
+~
+~
+0 0 4258
+S
+#4260
+An Underground Maze~
+   The darkness seems to come from all directions at once, causing a complete
+feeling of disorientation.  The darkness seems to be alive.  Strange noises
+fill the air, echoing all around.  The air is strangely cold, with a bone
+piercing chill that adds to the uneasy feeling.  Shrouded in darkness, it is
+nearly impossible to determine which direction is which.    
+~
+42 524297 0 1 0
+D1
+~
+~
+0 0 4261
+D2
+~
+~
+0 0 4263
+S
+#4261
+An Underground Maze~
+   The darkness seems to come from all directions at once, causing a complete
+feeling of disorientation.  Bizarre noises echo from within the darkness making
+it seem alive.  A strange chill fills the air which swirls around the room.  
+The purtrid odor of death and decay permeates the air.  Shrouded in utter
+darkness, it seems impossible to determine which direction is which.    
+~
+42 524297 0 1 0
+D3
+~
+~
+0 0 4260
+D9
+~
+~
+0 0 4264
+S
+#4262
+A Dark Passageway~
+   The darkness seems to come from all directions at once causing a complete
+feeling of disorientation.  The air is heavy with moisture as it swirls around
+the room.  A cool breeze wafts from the southwest, bringing with it an
+unfamiliar, putrid smell.  The sound of rushing water cuts through the silence,
+providing a welcome and familiar sound in these otherwise strange surroundings.
+~
+42 9 0 0 0
+D7
+~
+~
+0 0 4258
+D8
+~
+~
+0 0 4265
+D9
+~
+~
+0 0 4266
+S
+#4263
+An Underground Maze~
+   The room is completely enshrouded in darkness rendering the sense of sight
+nearly useless.  The darkness seems to be alive.  Odd sounds echo throughout
+the cavern.  The air swirls in a bone chilling breeze that carries with it a
+vile stench.  Surrounded by utter darkness, it is nearly impossible to
+determine which direction is which.    
+~
+42 524297 0 1 0
+D0
+~
+~
+0 0 4260
+D9
+~
+~
+0 0 4267
+S
+#4264
+An Underground Maze~
+   A veil of darkness fills the room making it impossible to see anything at
+all.  The darkness seems to have a life of its own, as strange noises echo from
+an unseen source.  A bone chilling breeze whirls about the room, filling the
+air with the purtrid stench of death and decay.  Shrouded in darkness, it is
+impossible to determine which direction is which.    
+~
+42 524297 0 1 0
+D6
+~
+~
+0 0 4261
+D7
+~
+~
+0 0 4276
+D8
+~
+~
+0 0 4267
+S
+#4265
+An Underground River~
+   The river rushes through the caverns, splashing against the stone walls.  
+The water is scalding hot and an unnatural color of black.  The air is hot and
+humid, filled with steam from the hot water of the river.  A sickening stench
+rises up from the water and hangs in a haze above the river.    
+~
+42 524297 0 1 0
+D7
+~
+~
+0 0 4262
+D9
+~
+~
+0 0 4268
+S
+T 4265
+#4266
+A Dark Passageway~
+   The darkness seems to come from all directions at once causing a complete
+feeling of disorientation.  The air is heavy with moisture as it swirls around
+the room.  A cool breeze wafts from the south, bringing with it an unfamiliar,
+putrid smell.  The sound of rushing water cuts through the silence, providing a
+welcome and familiar sound in these otherwise strange surroundings.    
+~
+42 9 0 1 0
+D1
+~
+~
+0 0 4277
+D2
+~
+~
+0 0 4269
+D6
+~
+~
+0 0 4262
+S
+#4267
+An Underground Maze~
+   An impenetrable veil of darkness blankets the room rendering the sense of
+sight nearly useless.  The air swirls about the room creating a bone chilling
+cold.  Bizarre sounds echo from within the darkness making it seem alive.  A
+foul stench fills the air, as the utter darkness renders it nearly impossible
+to determine which direction is which.    
+~
+42 524297 0 1 0
+D6
+~
+~
+0 0 4263
+D7
+~
+~
+0 0 4264
+D8
+~
+~
+0 0 4271
+D9
+~
+~
+0 0 4281
+S
+#4268
+An Underground River~
+   The river rushes through the caverns, splashing against the stone walls.  
+The water is scalding hot and an unnatural color of black.  The air is hot and
+humid, filled with steam from the hot water of the river.  A sickening stench
+rises up from the water and hangs in a haze above the river.    
+~
+42 524297 0 1 0
+D1
+~
+~
+0 0 4269
+D6
+~
+~
+0 0 4265
+S
+T 4268
+#4269
+An Underground River~
+   The river rushes through the caverns, splashing against the stone walls.  
+The water is scalding hot and an unnatural color of black.  The air is hot and
+humid, filled with steam from the hot water of the river.  A sickening stench
+rises up from the water and hangs in a haze above the river.    
+~
+42 524297 0 1 0
+D0
+~
+~
+0 0 4266
+D3
+~
+~
+0 0 4268
+D9
+~
+~
+0 0 4272
+S
+T 4265
+#4270
+An Underground Maze~
+   The darkness seems to come from all directions at once, causing a complete
+feeling of disorientation.  The darkness seems to be alive.  Strange noises
+fill the air, echoing all around.  The air is strangely cold, with a bone
+piercing chill that adds to the uneasy feeling.  Shrouded in darkness, it is
+nearly impossible to determine which direction is which.    
+~
+42 524297 0 1 0
+D1
+~
+~
+0 0 4271
+D6
+~
+~
+0 0 4277
+D8
+~
+~
+0 0 4272
+S
+#4271
+An Underground Maze~
+   The darkness seems to come from all directions at once, causing a complete
+feeling of disorientation.  Bizarre noises echo from within the darkness making
+it seem alive.  A strange chill fills the air which swirls around the room.  
+The purtrid odor of death and decay permeates the air.  Shrouded in utter
+darkness, it seems impossible to determine which direction is which.    
+~
+42 524297 0 1 0
+D2
+~
+~
+0 0 4273
+D3
+~
+~
+0 0 4270
+D7
+~
+~
+0 0 4267
+S
+#4272
+A River Bank~
+   The river comes crashing down into a pool here then winds off to the south.
+The stone floor is quite slippery being covered with mud that has washed up
+from the riverbed.  The walls are wet and covered with moss.  The air is heavy
+with moisture and the sickening smell of the river water.    
+~
+42 9 0 0 0
+D6
+~
+~
+0 0 4269
+D7
+~
+~
+0 0 4270
+D9
+~
+~
+0 0 4274
+S
+#4273
+An Underground Maze~
+   The room is completely enshrouded in darkness rendering the sense of sight
+nearly useless.  The darkness seems to be alive.  Odd sounds echo throughout
+the cavern.  The air swirls in a bone chilling breeze that carries with it a
+vile stench.  Surrounded by utter darkness, it is nearly impossible to
+determine which direction is which.    
+~
+42 524297 0 1 0
+D0
+~
+~
+0 0 4271
+D8
+~
+~
+0 0 4274
+D9
+~
+~
+0 0 4283
+S
+#4274
+An Underground Maze~
+   A veil of darkness fills the room making it impossible to see anything at
+all.  The darkness seems to have a life of its own, as strange noises echo from
+an unseen source.  A bone chilling breeze whirls about the room, filling the
+air with the purtrid stench of death and decay.  Shrouded in darkness, it is
+impossible to determine which direction is which.    
+~
+42 524297 0 1 0
+D6
+~
+~
+0 0 4272
+D7
+~
+~
+0 0 4273
+D9
+~
+~
+0 0 4284
+S
+#4275
+The Tomb~
+   A sense of evil fills this crypt.  The air is bone chillingly cold and reeks
+of death and decay.  The stone walls are black and appear as though they have
+been charred by an intense flame.  The ceiling is not visible, seemingly lost
+in the shadows.  The room is silent except for the echo of strange hollow
+breathing.    
+~
+42 524301 0 1 0
+D1
+A massive stone slab dominates the eastern wall.
+~
+slab stone massive~
+1 4214 4250
+S
+#4276
+A Dark Room~
+   The darkness seems to come from all directions at once, causing a complete
+feeling of disorientation.  The darkness seems to be alive.  Strange noises
+fill the air, echoing all around.  The air is strangely cold, with a bone
+piercing chill that adds to the uneasy feeling.  Shrouded in darkness, it is
+nearly impossible to determine which direction is which.    
+~
+42 13 0 0 0
+D7
+~
+~
+0 0 4238
+D8
+~
+~
+0 0 4264
+D9
+~
+~
+0 0 4279
+S
+#4277
+A Dark Passageway~
+   An impenetrable veil of darkness blankets the room rendering the sense of
+sight nearly useless.  The air swirls about the room creating a bone chilling
+cold.  Bizarre sounds echo from within the darkness making it seem alive.  A
+foul stench fills the air, as the utter darkness renders it nearly impossible
+to determine which direction is which.    
+~
+42 8 0 0 0
+D3
+~
+~
+0 0 4266
+D9
+~
+~
+0 0 4270
+S
+#4278
+A Sleeping Chamber~
+   On the surface this sleeping chamber appears quite pleasant.  It is
+furnished with a wooden bed, a small desk and a large bureau which stands next
+to the door.  The wooden floor in front of the door is covered with large
+scratches that go deep into the wood, appearing as though they are the result
+of the bureau being dragged in front of the door.  A chalk circle has been
+drawn around the bed.  Several runes of protection are carefully drawn within
+the circle and around the doorway.  The room is brightly lit by dozens of
+candles burning throughout the room and torches that line each wall.    
+~
+42 8 0 0 0
+D0
+~
+~
+0 0 4218
+S
+#4279
+An Underground Maze~
+   An impenetrable veil of darkness blankets the room rendering the sense of
+sight nearly useless.  The air swirls about the room creating a bone chilling
+cold.  Bizarre sounds echo from within the darkness making it seem alive.  A
+foul stench fills the air, as the utter darkness renders it nearly impossible
+to determine which direction is which.    
+~
+42 9 0 0 0
+D6
+~
+~
+0 0 4276
+D8
+~
+~
+0 0 4280
+S
+#4280
+An Underground Maze~
+   The darkness seems to come from all directions at once, causing a complete
+feeling of disorientation.  The darkness seems to be alive.  Strange noises
+fill the air, echoing all around.  The air is strangely cold, with a bone
+piercing chill that adds to the uneasy feeling.  Shrouded in darkness, it is
+nearly impossible to determine which direction is which.    
+~
+42 9 0 0 0
+D7
+~
+~
+0 0 4279
+D8
+~
+~
+0 0 4281
+S
+#4281
+An Underground Maze~
+   The darkness seems to come from all directions at once, causing a complete
+feeling of disorientation.  Bizarre noises echo from within the darkness making
+it seem alive.  A strange chill fills the air which swirls around the room.  
+The purtrid odor of death and decay permeates the air.  Shrouded in utter
+darkness, it seems impossible to determine which direction is which.    
+~
+42 9 0 0 0
+D2
+~
+~
+0 0 4282
+D6
+~
+~
+0 0 4267
+D7
+~
+~
+0 0 4280
+S
+#4282
+An Underground Maze~
+   The room is completely enshrouded in darkness rendering the sense of sight
+nearly useless.  The darkness seems to be alive.  Odd sounds echo throughout
+the cavern.  The air swirls in a bone chilling breeze that carries with it a
+vile stench.  Surrounded by utter darkness, it is nearly impossible to
+determine which direction is which.    
+~
+42 9 0 0 0
+D0
+~
+~
+0 0 4281
+D8
+~
+~
+0 0 4283
+S
+#4283
+An Underground Maze~
+   A veil of darkness fills the room making it impossible to see anything at
+all.  The darkness seems to have a life of its own, as strange noises echo from
+an unseen source.  A bone chilling breeze whirls about the room, filling the
+air with the purtrid stench of death and decay.  Shrouded in darkness, it is
+impossible to determine which direction is which.    
+~
+42 9 0 0 0
+D6
+~
+~
+0 0 4273
+D7
+~
+~
+0 0 4282
+D8
+~
+~
+0 0 4284
+S
+#4284
+An Underground Maze~
+   An impenetrable veil of darkness blankets the room rendering the sense of
+sight nearly useless.  The air swirls about the room creating a bone chilling
+cold.  Bizarre sounds echo from within the darkness making it seem alive.  A
+foul stench fills the air, as the utter darkness renders it nearly impossible
+to determine which direction is which.    
+~
+42 9 0 0 0
+D6
+~
+~
+0 0 4274
+D7
+~
+~
+0 0 4283
+S
+#4285
+A Laboratory~
+   This laboratory appears to still be in use.  Large piles of bones are strewn
+about the floor.  Strange, mangled corpses which appear to be part of some
+failed experiment sit in a heap in the corner.  A large table rests in the
+center of the room and is caked with blood and gore, the putrid smell of
+rotting flesh hanging heavily in the air.  Shelves filled with bottles
+containing various organs line the wall, many of which twitch as though they
+were still alive.    
+~
+42 8 0 0 0
+D2
+~
+~
+0 0 4250
+D3
+~
+~
+0 0 4286
+S
+#4286
+A Laboratory~
+   This laboratory appears to still be in use.  Large piles of bones are strewn
+about the floor.  Strange, mangled corpses which appear to be part of some
+failed experiment sit in a heap in the corner.  A large table rests in the
+center of the room and is caked with blood and gore, the putrid smell of
+rotting flesh hanging heavily in the air.  Shelves filled with bottles
+containing various organs line the wall, many of which twitch as though they
+were still alive.    
+~
+42 8 0 0 0
+D1
+~
+~
+0 0 4285
+S
+$~

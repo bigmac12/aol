@@ -1,0 +1,2286 @@
+#11000
+A Pathway Leading up the Cliff~
+   This pathway has been carved into the natural rock, winding its way up the
+cliff face.  The steps are perfectly smooth.  In fact, they are so smooth that
+it makes passage a rather slippery business.  The view of the bay is quite
+stunning.  A white foam forms at the base of the cliffs as the waves slap
+lazily against the rock.  Birds soar past as they float effortlessly on the
+updrafts.  A few gnarled trees grow out of the side of the cliff, providing a
+bit of shade.    
+~
+110 32772 5 0 0
+D4
+~
+~
+0 0 11001
+D5
+~
+~
+0 0 7388
+S
+#11001
+At the Top of a Stone Stairway~
+   A flat plateau at the top of the cliff provides a home to a grove of gnarled
+trees.  Their massive trunks evidence their age.  Though the climate seems
+inhospitable, they appear to have stood here for centuries.  Arcane runes have
+been carved into the bark of nearly every tree.  Their meaning is not quite
+clear to the average observer.  Perhaps they serve to welcome weary travellers,
+or perhaps to warn them.    
+~
+110 32768 3 0 0
+D0
+~
+~
+0 0 11021
+D1
+~
+~
+0 0 11003
+D3
+~
+~
+0 0 11002
+D5
+~
+~
+0 0 11000
+S
+#11002
+An Ancient Grove of Gnarled Trees~
+   The boughs of the trees that grow here are the size of an average tree
+trunk.  They are twisted and gnarled from years of competing for sunlight.  
+The ground underfoot is a mixture of gravel and dry dirt making the area seem
+an unlikely home to this ancient grove.    
+~
+110 32768 3 0 0
+D1
+~
+~
+0 0 11001
+D4
+~
+~
+0 0 11016
+S
+#11003
+An Ancient Grove of Gnarled Trees~
+   The boughs of the trees that grow here are the size of an average tree
+trunk.  They are twisted and gnarled from years of competing for sunlight.  
+The ground underfoot is a mixture of gravel and dry dirt making the area seem
+an unlikely home to this ancient grove.    
+~
+110 32768 3 0 0
+D0
+~
+~
+0 0 11014
+D1
+~
+~
+0 0 11015
+D3
+~
+~
+0 0 11001
+S
+#11004
+An Over-sized Kitchen~
+   Even the most serious of mages must find time to fuel their bodies lest they
+become to weak to perform the magic.  This ample kitchen can easily accommodate
+the needs of the many visitors that frequent this tower as well as its regular
+inhabitants.  A brick fireplace fills the entire eastern wall of the kitchen.
+The hearth is home to large cauldrons and two ovens which are built right into
+the brick.    
+~
+110 32780 0 0 0
+D0
+~
+~
+0 0 11008
+D3
+~
+~
+0 0 11005
+S
+#11005
+The Main Hall of Master Xerxes Tower~
+   The ceiling of this entryway is lost in the shadows overhead.  Judging by
+the echo, it is several hundred feet above.  A soft glow from orbs that seem to
+float in the air fill the room with their soft light.  Historically this tower
+served as the home and private offices of Master Xerxes of the Order of
+Nuitari.  However he now finds himself spending the bulk of his time at the
+Tower of High Sorcery in Palanthas, and therefore has opened up the majority of
+his tower for access to aspiring mages looking for a place to persue their art
+away from prying eyes.    
+~
+110 294920 0 0 0
+D0
+~
+~
+0 0 11007
+D1
+~
+~
+0 0 11004
+D2
+   A massive ironwood door opens up to the grove before the tower.    
+~
+door ironwood iron~
+1 0 11021
+D3
+~
+~
+0 0 11011
+S
+#11006
+A Dark Laboratory~
+   This laboratory is off limits to all visitors of the tower and to Ewalg as
+well.  Only Xerxes himself knows just what breed of horrible and mystical art
+is conjured here.  No book shelves or other items hang from the walls.  In
+fact, the only decoration (if you can call it that) on the walls are large
+runes which are difficult to read.  The writing seems to come in and out of
+focus, perhaps staying in focus only for its creator.  In the center of the
+stone floor a circle, just wide enough for one person, has been made from what
+appears to be sea salts.    
+~
+110 233 0 0 0
+D0
+~
+~
+0 0 11009
+E
+circle seasalts floor sea salts~
+   The outline of a circle has been made on the floor using sea salts.  Some
+geometric shapes and magickal runes are etched into the stone floor within the
+circle and are legible.  It appears as though they may have been etched there
+quite some time ago.    
+~
+E
+runes ancient magickal shapes geometrical~
+
+Only one symbol is still completely legible, though its meaning is not clear.
+
+     +-----+
+    /   |   \
+   / \  |  / \
+  +   \ | /   +
+  |-----+-----|
+  +   / | \   +
+   \ /  |  \ /
+    \   |   /
+     +-----+
+
+~
+S
+T 11001
+#11007
+A Warm Parlor~
+   The warmth of this chamber comes from carved, stone fireplace that is built
+into the western wall.  The hard floor is covered with a plush carpet which
+absorbs the sounds that would otherwise echo through this generously-sized
+room.  Furnished with functionality in mind, the chamber serves as a meeting
+place for visitors and students of magic.  High-backed chairs covered in
+oxblood colored leather sit on either side of the hearth.  On the opposite side
+of the room stands a round table surrounded by simple, wooden chairs.    
+~
+110 32780 0 0 0
+D2
+~
+~
+0 0 11005
+S
+#11008
+A Back Stairway~
+   This narrow stairwell leads up to the second floor of the tower.  It follows
+the curve of the outer tower wall.  Thankfully an iron handrail has been
+mounted to the wall to offer balance on the narrow stairs.  The comforting
+smells of hot coals from swirls in the air to combine with the more pungent
+aroma of spell components which comes from above.    
+~
+110 32776 0 0 0
+D2
+~
+~
+0 0 11004
+D4
+~
+~
+0 0 11024
+S
+#11009
+A Narrow Stairwell~
+   This narrow stairwell leads down from the study into the bowels of the
+tower.  It is barely wide enough to allow two people to pass at one time.  The
+stairwell seems to follow the curve of one of the tower's outer walls.  It is
+impossible to be sure, however, since there are no windows or any other views
+to the outside world.    
+~
+110 33032 0 0 0
+D2
+~
+~
+0 0 11006
+D4
+~
+~
+0 0 11017
+S
+#11010
+A Tidy Hallway~
+   This hallway provides access to the section of the tower that houses Ewalg's
+private quarters.  The eastern wall is lined with bookcases filled with volumes
+on the history and geography of eastern Krynn.  The books are shelved in
+descending order by height.  There is a small table next to the bookshelves
+with a scroll hanging from the front of it.  A stairway is built right into the
+western wall and follows the curve of the tower as it disappears into the
+darkness above.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11011
+D2
+~
+~
+0 0 11012
+D4
+~
+~
+0 0 11022
+E
+scroll note table~
+   Please return any borrowed books to this table so that they may be properly
+shelved.    
+~
+S
+#11011
+Ewalg's Study~
+   Ewalg is the main caretaker of the tower in Xerxes absence.  He has been
+serving his master for years, choosing to continue his work here even after the
+completion of his own Tests.  This chamber was set up as his study upon his
+arrival here and has remained largely unchanged since.  It is outfitted with a
+large desk of solid oak and a bookcase filled with volumes on herb lore and
+anatomy.  An arched window in the wall behind his desk offers Ewalg an
+excellent view of the bay.    
+~
+110 32776 0 0 0
+D1
+~
+~
+0 0 11005
+D2
+~
+~
+0 0 11010
+S
+#11012
+Ewalg's Quarters~
+   Neat and orderly, this sleeping chamber seems to reflect the manners of its
+inhabitant.  The windows are covered in heavy, black curtains that block all
+but a small stream of light.  Charcoal colored carpeting covers the stone
+floor.  The carpet is trimmed in a silver thread which gives the otherwise
+simple item a sense or refinement.  An oaken bed stands against the eastern
+wall.  It is dressed simply with a dark comforter and one pillow.  At the foot
+of the bed stands a trunk which offers storage space for Ewalg's personal
+effects.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11010
+S
+#11013
+A Creepy Hallway~
+You are in an unfinished room.
+~
+110 0 0 0 0
+D0
+~
+~
+0 0 11014
+D1
+~
+~
+0 0 11010
+D2
+~
+~
+0 0 11015
+D3
+~
+~
+0 0 11016
+S
+#11014
+An Ancient Grove of Gnarled Trees~
+   The boughs of the trees that grow here are the size of an average tree
+trunk.  They are twisted and gnarled from years of competing for sunlight.  
+The ground underfoot is a mixture of gravel and dry dirt making the area seem
+an unlikely home to this ancient grove.    
+~
+110 32768 3 0 0
+D2
+~
+~
+0 0 11003
+D3
+~
+~
+0 0 11021
+D9
+~
+~
+0 0 11015
+S
+#11015
+An Ancient Grove of Gnarled Trees~
+   The boughs of the trees that grow here are the size of an average tree
+trunk.  They are twisted and gnarled from years of competing for sunlight.  
+The ground underfoot is a mixture of gravel and dry dirt making the area seem
+an unlikely home to this ancient grove.    
+~
+110 32768 3 0 0
+D3
+~
+~
+0 0 11003
+D6
+~
+~
+0 0 11014
+S
+#11016
+Atop a Large Grouping of Rocks~
+   The grove of trees below opens up to a large grouping of rocks which provide
+an amazing view of the terrain below.  In the distance the larger buildings of
+what can only be the city of Karthay can be seen.  Just a small distance from
+here, the top of stone tower peeks out from the tree tops below.  The ground
+underfoot is quite rocky with only a few succulent plants able to grow in the
+pebble-like soil.    
+~
+110 32768 4 0 0
+D5
+~
+~
+0 0 11002
+S
+#11017
+Xerxes' Study~
+   This massive chamber serves as the main study area for Master Xerxes.  Only
+a select few students are ever invited inside, and no one is permitted to enter
+when Xerxes is not in residence.  A large, round window in the western wall
+provides a spectacular view.  On a clear night the moons would flood the study
+with their crimson and silver light.  There is no doubt, though, that the
+window was created to admit the dark glow of the black moon.    
+~
+110 294920 0 0 0
+D1
+   A stone door blends into the wall around it.    
+~
+door stone~
+1 0 11018
+D5
+~
+~
+0 0 11009
+S
+#11018
+A Narrow Stretch of Hallway~
+   This narrow stretch hallway is far more ornately decorated than the rest of
+the tower.  A thick, black carpet covers the floor.  It is embroidered in
+silver with complex geometric patterns.  Brass sconces hang on the wall.  Each
+bearing a single black candle.  This section of the tower leads to Xerxes
+private suite of rooms and is off limits to any visitors.  Oddly, there are no
+runes of protection visible.  It seems that Xerxes would rather leave the
+temptation open to test the mettle of his guests.    
+~
+110 32776 0 0 0
+D1
+Nothing.
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11020
+D3
+   A stone door blends into the wall around it.    
+~
+door stone~
+1 0 11017
+S
+#11019
+A Narrow Stretch of Hallway~
+   The stairway ends at a narrow stretch of hallway that is far more ornately
+decorated than the rest of the tower.  This area leads to Xerxes' private suite
+of rooms and is off limits to any visitors.  Oddly, there are no runes of
+protection at the top of the stairs.  Rather, it seems that Xerxes would rather
+leave the temptation open to test the mettle of his guests.    
+~
+110 32780 0 0 0
+D3
+~
+~
+0 0 11018
+D5
+~
+~
+0 0 11024
+S
+#11020
+Xerxes' Private Quarters~
+   This bedchamber is as much a library as it is a sleeping room.  Though the
+dominant piece of furniture is an over-sized four post bed, the bookshelves
+lining each wall seem to command more attention.  Many of the books appear to
+be quite old: perhaps dating back from before the first Dragon War.  Topic
+range from anatomy to history to herblore.  The spines of some of the books are
+covered with strange symbols that are impossible to decipher.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11018
+S
+#11021
+An Ancient Grove of Gnarled Trees~
+   The boughs of the trees that grow here are the size of an average tree
+trunk.  They are twisted and gnarled from years of competing for sunlight.  
+The ground underfoot is a mixture of gravel and dry dirt making the area seem
+an unlikely home to this ancient grove.  The entrance to a stone tower sits
+immediately to the north.  It is barred by a ironwood door.    
+~
+110 32772 3 0 0
+D0
+   This massive ironwood door is carved with several runes of protection.  
+Surrounding the entire doorway, the stone has been similarly carved.    
+~
+door ironwood iron wood~
+1 0 11005
+D1
+~
+~
+0 0 11014
+D2
+~
+~
+0 0 11001
+S
+#11022
+A Stairway Built into the Outer Wall of the Tower~
+   Narrow stairs have been carved right into the thick stone blocks which
+comprise the outer wall of the tower.  Anyone climbing the stairs would need to
+be mindful of each step since there is no railing between them and the floor
+below.  The stairs ascend from a book-lined hallway below to deadend at a
+carved, wooden door.    
+~
+110 32776 0 0 0
+D3
+   A solid-looking door stands at the top of the staircase, preventing anyone
+who is uninvited from passing.  The door and surrounding archway are both
+carved with magical runes that seem to glow as you look at them.    
+~
+door wooden carved~
+2 11000 11023
+D5
+~
+~
+0 0 11010
+S
+#11023
+Ewalg's Laboratory~
+   Ewalg's laboratory protrudes from the main cylinder of the tower.  The
+ceiling is lost somewhere in the darkness that swirls overhead.  There are no
+windows in the laboratory which seems to be lit only by a soft, magical light.
+Each of the walls is lined with bookcases.  The one furthest from the door is
+home to Ewalg's treasured spellbooks which are bound in leather which has been
+dyed a dark shade of midnight blue.  The bookcase nearest the entryway is
+filled with dozens of tiny, glass jars which are filled with various herbs and
+spices.    
+~
+110 294924 0 0 0
+D1
+   A carved, wooden door serves as the only physical barrier between Ewalg's
+laboratory and the rest of the tower.  However the runes that surround the
+doorway seem to indicate that there are additional protective forces at play.
+  
+~
+a carved, wooden door~
+2 0 11022
+S
+#11024
+A Back Stairway~
+   This narrow stairwell leads up to the second floor of the tower.  It follows
+the curve of the outer tower wall.  Thankfully an iron handrail has been
+mounted to the wall to offer balance on the narrow stairs.  The comforting
+smells of hot coals from swirls in the air to combine with the more pungent
+aroma of spell components which comes from the west.    
+~
+110 32776 0 0 0
+D3
+~
+~
+0 0 11025
+D4
+~
+~
+0 0 11019
+D5
+~
+~
+0 0 11008
+S
+#11025
+A Hallway~
+   This hallway runs from the back stairwell in the western end of the tower to
+the visitor's library which is located in a curved parapet at the tower's
+eastern side.  It is adorned only with oil lamps that hang from the ceiling and
+a plush carpet which helps to quiet the footfalls of those passing through on
+their way to or from the library.    
+~
+110 32776 0 0 0
+D1
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11026
+S
+#11026
+A Hallway~
+   This hallway runs from the back stairwell in the western end of the tower to
+the visitor's library which is located in a curved parapet at the tower's
+eastern side.  It is adorned only with oil lamps that hang from the ceiling and
+a plush carpet which helps to quiet the footfalls of those passing through on
+their way to or from the library.  Doorways to the north and south lead to bed
+chambers which are often used by those on a prolonged visit to the tower.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11028
+D1
+~
+~
+0 0 11025
+D2
+~
+~
+0 0 11029
+D3
+~
+~
+0 0 11027
+S
+#11027
+A Library Filled with Books of All Shapes and Sizes~
+   This library has been stocked with books pertaining to nearly every topic
+imaginable.  Bookcases as high as the ceiling cover every inch of the curved
+walls of this round room.  A ladder is attached to the wall to allow for easy
+access to the higher shelves.  Several small wooden tables are positioned
+throughout the room to provide a convenient place for further study of the
+volumes.    
+~
+110 32776 0 0 0
+D1
+~
+~
+0 0 11026
+S
+#11028
+A Simple Bed Chamber~
+   These bed chambers were furnished to accommodate the needs of those who
+travel to the tower to further their studies.  Simply furnished, each provides
+all the basic needs for a visitor.  It is designed to serve as both a sleeping
+chamber and a work room.  A painting of a massive red dragon has been painted
+on the western wall.  Its eyes seem alive, as though they are watching anyone
+who might enter this room.  The acrid smell of burnt sulfur hangs in the air.
+~
+110 32776 0 0 0
+D2
+~
+~
+0 0 11026
+E
+painting red dragon~
+   This exquisite painting takes up nearly the entire western wall of the room.
+It features an enormous red dragon nestled in its cavernous lair.  The dragon
+has a sinister look upon its face, and its eyes seem to watch over all that
+comes to pass in this chamber.    
+~
+S
+#11029
+A Simple Bed Chamber~
+   These bed chambers were furnished to accommodate the needs of those who
+travel to the tower to further their studies.  Simply furnished, each provides
+all the basic needs for a visitor.  It is designed to serve as both a sleeping
+chamber and a work room.  A painting of a massive black dragon has been painted
+on the western wall.  Its eyes seem alive, as though they are watching anyone
+who might enter this room.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11026
+E
+painting dragon black~
+   This exquisite painting takes up nearly the entire western wall of the room.
+It features an enormous black dragon perched atop a rocky crag.  The dragon has
+a sinister look upon its face, and its eyes seem to watch over all that comes
+to pass in this chamber.    
+~
+S
+#11030
+A Stinking, Damp Tunnel~
+   Crawling into a narrow, damp tunnel, the scent of decay and burnt flesh
+lingers in the air.  The dark water is icy cold, and it looks alive with water
+animals and insects.  The thick walls are made of pure granite, slightly
+chipped, which are in turn covered with tangled vines and twisted vegetation.
+~
+110 33037 0 0 0
+D2
+~
+~
+0 0 11031
+D4
+   A big, fat rock.    
+~
+rock~
+1 0 8805
+E
+dark water icy cold~
+   This dark, icy cold water looks polluted and dirty.  One would not be
+advised to drink this.    
+~
+E
+wall walls granite~
+   This hard, sturdy granite wall looks rather newly erected.  Although
+slightly chipped, these walls seem to be in very good condition.    
+~
+E
+vines tangled twisted vegetation~
+   These strange vines and leaves are tangled and twisted along the wall,
+making a strange green pattern.    
+~
+E
+animal animals~
+   These small, animals look something like frogs, popping their heads up every
+now and again to attack the insects.    
+~
+E
+insect insects~
+   These large, buzzing insects fly around aimlessly, darting and dodging the
+animals in the water.    
+~
+S
+#11031
+A Widening Tunnel~
+   Crawling along, the tunnel abruptly thickens out, thus allowing more
+breathing room.  The water is much shallower, and the strange water creatures
+seem to swim away.  The walls are still made of the same well-made, but
+chipped, granite, but the vegetation is considerably more scarce.  The smell of
+death still lingers, and the path continues to the south.    
+~
+110 33033 0 0 0
+D0
+~
+~
+0 0 11030
+D8
+~
+~
+0 0 11032
+E
+walls wall chipped granite~
+   The same, well-made granite is here, with a few more chips then before.    
+~
+E
+strange creatures~
+   These small, frog-like creatures retreat back to deeper waters, along with
+the insects they were hunting.    
+~
+E
+waters water shallower~
+   This dark, murky water is about ankle-deep.  It smells disgusting, and is
+icy cold.    
+~
+S
+#11032
+A Large, Well-Furnished Room~
+   As the tunnel ends as abruptly as it began, you find yourself in a large,
+well-furnished room.  Across from the entrance is a warm, crackling fire.  To
+the left of the blaze is a large sofa, and to the right is an armchair.  The
+walls are covered with expensive paintings and huge tapestries, and you have no
+doubt that whoever owns this place is extremely well off.  There are doors to
+the left and right.    
+~
+110 32776 0 0 0
+D1
+A large oaken door.
+~
+door~
+1 0 11034
+D3
+A large, oak door
+~
+door~
+1 0 11033
+D5
+A secret trapdoor.
+~
+trapdoor~
+1 0 11039
+D7
+~
+~
+0 0 11031
+E
+paintings~
+   Many large paintings line the walls.  Obviously the works of master artists,
+these paintings must have been very expensive to aquire.    
+~
+E
+small armchair~
+   This small, well-crafted armchair looks very comfortable indeed.  The arms
+and legs are made of polished oak.    
+~
+E
+large sofa~
+   This large sofa looks soft enough for you to sleep on.    
+~
+E
+warm crackling fire blaze~
+   A large, warm fire burns happily in an ornate hearth.  A large box of wood
+lies next to it.    
+~
+S
+#11033
+An Ornate Study~
+   This ornate study is lit by the low glow of several candles.  Huge
+bookshelves, loaded to the brim with books, line all four walls.  A large,
+hand-carved desk sits near the middle of the room, with books, quills and
+parchment scattered all over its smooth surface.  A large vallenwood chair
+rises up from behind the desk.  The only exit is the way you came in.    
+~
+110 32776 0 0 0
+D1
+A large oaken door.
+~
+door~
+1 0 11032
+E
+vallenwood chair~
+   This large, vallenwood chair is placed right behind the desk.  Its use is
+obvious.    
+~
+E
+large hand carved desk smooth surface~
+   This huge, beautifully hand crafted desk stands out in this small study.  
+Numerous items, big and small, are scattered over its dark, polished surface.
+  
+~
+E
+parchment~
+   Some written on, others blank, and some even torn, these peices of parchment
+seem to have been well-used.    
+~
+E
+quills~
+   Several large goosefeather quills lay unattended on this desk.    
+~
+E
+books~
+   Several books lie on this desk, many labeled with strange writing.    
+~
+E
+huge bookshelves~
+   These large, well-crafted bookshelves are loaded with to the brim.  Some
+books are actually falling out.    
+~
+E
+glow several candles~
+   These small candles are nothing but little stubs, nearing the end of their
+lives.  They gift off a soft, warm glow.    
+~
+S
+#11034
+A Dark Hallway~
+   This dull, dark hallway is almost completely lightless.  A few small candles
+mounted on the walls provide a pale light.  Smooth, flawless walls show
+themselves to the left and right, a stark comparison to the earlier granite.  
+The floor is also smooth, but upon closer inspection you notice dark, red
+stains marring its surface.  A door lies to the west, while the hallway
+continues to the southeast.    
+~
+110 32776 0 0 0
+D3
+A large oaken door.
+~
+door~
+1 0 11032
+D9
+~
+~
+0 0 11035
+E
+smooth floor red stains~
+   The smooth floor is made of the same material as the walls, but is not
+unmarred.  Dark red stains are visible if you look at the ground close enough.
+  
+~
+E
+flawless wall walls~
+   These strange, smooth walls are completely flawless.  No scratch or chip
+marrs its dark surface.    
+~
+E
+small candles mounted~
+   These small, stubby candles give off a pale glow.    
+~
+S
+#11035
+The End of the Hallway~
+   The hallways stops here, switching off into two paths.  A bright, red light
+glows from the end of the path to the right, while a soft white glow eminates
+from the path to the left.  A large, black statue has been erected just a few
+feet in front of you, and on its outstretched hand hangs a sign.    
+~
+110 32776 0 0 0
+D6
+~
+~
+0 0 11034
+D8
+~
+~
+0 0 11038
+D9
+~
+~
+0 0 11036
+E
+sign~
+   GO TO THE LEFT TO MAKE YOUR FORTUNE, OR GO TO THE RIGHT FOR SURPRISES
+UNKNOWN..    
+~
+E
+large black statue~
+   This large, intimidating statue has been carved in the likeness of a
+black-robed human.  In his hand he holds a long black staff, while his other
+hand is outstretched as if he was about to cast a spell.  On the outstretched
+hand hangs a sign.    
+~
+S
+#11036
+The Red Hallway~
+   Wandering down the red path, there are several large red globes mounted on
+the walls.  These must be the cause of the red glow.  The walls are no longer
+smooth, but jagged and ugly.  The floor is now made of cobblestones, some of
+which are missing.  Scurrying around the floor are what seems to be rats, but
+who knows what kind of creatures live in this strange place.  There is a door
+to the south.    
+~
+110 32776 0 0 0
+D2
+A large oak door
+~
+door~
+1 0 11037
+D6
+~
+~
+0 0 11035
+E
+rat rats creature creatures~
+   These strange, hairy creatures look a lot like rats.  They scurry around
+near the walls, chirping at each other.    
+~
+E
+floor cobblestone cobblestones~
+   This old floor is made of many cobblestones.  Some are broken, and there are
+a few missing completely.    
+~
+E
+walls wall jagged~
+   These once smooth walls are now distorted, with jagged rocks jutting out of
+their surfaces.    
+~
+E
+large red globe globes mounted~
+   These large, perfectly circular globes eminate a soft red glow.    
+~
+S
+#11037
+A Large, Rancid Laboratory~
+   This large laboratory stinks of death, and looks just as bad.  Lined on all
+of the large walls are shelves, on which stand what look to be body parts.  
+Big, small, green, blue.  Every color and size, floating in jars of a strange,
+watery liquid.  In the middle of the room lies a large, blood-stained operating
+table, with straps and chains obviously used to keep the victim down.  In the
+far right corner, there lies a rack of what looks like weapons.  Upon further
+inspection, they look more like operating tools...    
+~
+110 32768 0 0 0
+D0
+A large oak door.
+~
+door~
+1 0 11036
+E
+rack weapons~
+   This would-be weapons rack has been transformed into holder for tools.  
+Operating tools specifically.  Huge cleavers, and other strange, twisting tools
+are present.    
+~
+E
+blood stained operating table~
+   This huge operating table dominates the room.  Blood of all colors is
+splattered over its white surface.  Several leather straps and chains are
+present, obviously used to keep the victim at bay.    
+~
+E
+jar jars~
+   Hundreds of these strange jars line the walls, some big, some small.  
+Floating within them are bodyparts of all different kinds.  Goblin, human,
+elven.  Whoever committed this unspeakable horror must have a very strong
+stomach.    
+~
+E
+shelves lined~
+   These huge shelves reach the roof in height, and cover the four walls
+completely.  Hundreds of strange jars are lined on them.    
+~
+S
+#11038
+The White Room~
+   Strange, pure white globes eminate a soft glow.  This room seems peaceful,
+and serene.  The smooth walls are basked with white, and large sofa's and
+chairs are scattered about.  A large table lies at the far end of the room,
+overflowing with food.  Soft cots and beds line the right and left walls.    
+~
+110 32776 0 0 0
+D7
+~
+~
+0 0 11035
+E
+cots cot bed beds~
+   These soft cots and beds look very inviting .
+~
+E
+table food~
+   This huge table is chalk full of food.  Large turkey's, chickens, and ducks
+lie on platters, and bowls of potatoes, vegetables, and other delicious goodies
+are there also.    
+~
+E
+chair chairs~
+   Soft chairs are littered about, with their arms and legs made of polished
+vallenwood.    
+~
+E
+large sofa sofa's~
+   These large, white sofa's look plush and comfortable.    
+~
+E
+wall walls~
+   These walls are pure white, and comforting to look at.    
+~
+E
+strange pure white globes~
+   These large, perfectly cicular white globes eminate a hypnotic glow..    
+~
+S
+#11039
+The Dungeon~
+   This dark, smelly dungeon is nearly completely lightless.  Four huge cells
+lie all around the entrance, with the sobbing, screaming, and moaning
+inhabitants inside.  Furry rat-like creatures scurry about on the floor.  The
+floor is smeared with dirt grime and blood, and there is a torture rack about a
+foot from the entrance.    
+~
+110 32768 0 0 0
+D4
+A trapdoor.    
+~
+trapdoor~
+1 0 11032
+E
+torture rack~
+   This huge torture rack is obviously used for those who misbehave.    
+~
+E
+floor dirt grime blood~
+   The floor is slick with the likes of dirt, grime and blood.    
+~
+E
+furry rat creatures~
+   These strange, rat-like creatures scurry around the floor, chirping at each
+other.    
+~
+E
+four huge cells~
+   These cells are tall, and are made of very thick iron bars.  Not many
+creatures on Krynn could escape these things.    
+~
+S
+#11048
+A Narrow Path through the Woods~
+   A bit of the brush and the taller trees have been cleared away to create a
+narrow path through the light woods.  It has been 'paved' with thin slices of a
+rather large tree trunk.  They have been positioned over the cleared pathway,
+creating stepping stones of sorts.  The whispering of soft voices can be heard
+coming from the east.  The Merchant's Highway is visible to the northwest.    
+~
+110 32768 3 0 0
+D1
+~
+~
+0 0 11049
+D6
+~
+~
+0 0 7237
+S
+#11049
+A Narrow Path through the Woods~
+   A bit of the brush and the taller trees have been cleared away to create a
+narrow path through the light woods.  It has been 'paved' with thin slices of a
+rather large tree trunk.  They have been positioned over the cleared pathway,
+creating stepping stones of sorts.  The path leads right up to the front door
+of a rather imposing structure.  Next to the door is a brass plaque which
+simply reads, 'Delusen's Academy'.    
+~
+110 32768 3 0 0
+D1
+A sturdy oak door carved with ancient runes.
+~
+door runes oak~
+1 0 11050
+D3
+~
+~
+0 0 11048
+S
+#11050
+Entrance to the Academy~
+   Delusen's Academy is renowned for being one of the most prestigious of
+schools available to the aspiring mage, though from its interior, it may not
+look as such.  It has the pleasant feeling of a home that has been well-
+lived-in, with a large desk of oak that has been beaten with time and use
+resting in the center of the room, awash in a mass of papers.  A small
+fireplace lends the room a warm if somewhat stuffy feeling, and two comfortable
+chairs, once very valuable before wear took its toll, sit facing the desk for
+visitors to rest in while they wait to be seen.  The door to the west has a
+slight draft blowing under it -- most likely the exit -- and there are doors to
+the north and south as well.    
+~
+110 32780 0 0 0
+D0
+~
+door~
+1 11050 11051
+D2
+~
+door~
+1 0 11052
+D3
+A sturdy oak door carved with ancient runes.
+~
+door runes oak~
+1 0 11049
+E
+fire fireplace~
+   The fireplace is made up of a hodgepodge of stones and mortar which have
+been blackened now.  The fire itself burns low, but radiates a comfortable
+heat.    
+~
+E
+chairs chair~
+   Both of the chairs look to have seen their wear of years, but are both quite
+comfortable.  One smells vaguely of wine.    
+~
+E
+desk papers oak~
+The desk is covered with a multitude of papers.  One on top reads:
+
+  6am - Morning preparations
+  7am - Wake students
+  11am - Lunch
+  2pm - File incoming students
+  4pm - Discuss potential "lucid" magic instruction w/ Delusen
+  6pm - Retire
+~
+S
+#11051
+Office of Academy Records~
+   This small room is used for keeping all records associated with the academy
+in some semblance of order.  Low shelves rest against the four walls, some
+filled with books of loose papers, others still half-empty, waiting for new
+students.  A single dirty window filters in any light that might come in, and a
+table suited only for resting papers on holds a single, half-melted candle at
+its edge, by the look of it not used often for work during the night.    
+~
+110 32776 0 0 0
+D2
+~
+door~
+1 11050 11050
+E
+Ildaras~
+Name ............ Ildaras
+Completed ....... All Levels
+Notes ........... Remarkable talent.  Sometimes too serious-minded.
+~
+E
+Halran~
+Name ............ Halran
+Completed ....... Primary five through seven
+Notes ........... While incredibly talented, also prone to immature and cruel fancies
+~
+E
+Aarvacus~
+Name ............ Aarvacus
+Completed ....... Secondary two through eight, Primary one through seven
+Notes ........... Excellent work and understanding.  Will be a fine Mage
+~
+E
+Porthin~
+Name ............ Porthin
+Completed ....... Entry one through six, Secondary one through four
+Notes ........... Showed promise; unfortunately, apathetic toward magic
+~
+E
+Elai~
+Name ............ Elai
+Completed ....... All Levels
+Notes ........... Quick learner, but with little respect for elders
+~
+E
+Yeear~
+Name ............ Yeear
+Completed ....... All Levels 
+Notes ........... Quiet student, adept at scripting.
+~
+E
+shelf shelves low~
+On the shelves are several books.  Flipping through one of the older ones reveals
+these entries, which you could peruse, should you choose to do so:
+
+  Yeear
+  Elai
+  Porthin
+  Aarvacus
+  Halran
+  Ildaras
+~
+E
+candle melted~
+   The melted candle seems to have not been used for a year or more.  Beads of
+wax have run down its sides and nearly welded it to the table.    
+~
+E
+papers paper~
+   The papers look to be works in progress, some of them with mistakes and
+errors on them that have caused them not to be filed.    
+~
+E
+table~
+   The small table looks like it might belong beside a bed.  It has a few
+papers on it, as well as a half-melted candle.    
+~
+E
+window dirty~
+   You can see little through the window, covered in a layer of dirt that turns
+it an opaque color.    
+~
+S
+#11052
+End of a Long Hallway~
+   You are at the northern end of a long hallway that ends at a T in the south.
+There is a rugged carpet of once-fine detail that softens your step over the
+otherwise cold stone floors.  The hallway is lit by occasional candles along
+the old walls.  To your north is a door that leads to the entrance of the
+Academy.    
+~
+110 32776 0 0 0
+D0
+~
+door~
+1 0 11050
+D2
+~
+~
+0 0 11053
+E
+candle candles~
+   Each small candle is set into the wall with a brass holder, giving the room
+a wan light that is just enough to see by.    
+~
+E
+carpet rugged floor stone~
+   The carpet seems to have some intricate pattern woven into it, something
+that must have taken years to complete.  It has become dirtied with use over
+time.  It covers the uncomfortable stone floors.    
+~
+S
+#11053
+Before an Archway in the Hall~
+   This hall has been decorated simply, a long carpet of once-fine detail
+running down the center, keeping your feet from the cold stone of the floors.
+Candle light dances off of the walls, just enough to see by.  An archway to the
+east, decorated around its edge with light, square stones to offset the darker
+wall, opens up into a large room.  The hallway continues north and south.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11052
+D1
+~
+~
+0 0 11061
+D2
+~
+~
+0 0 11054
+E
+candle candles~
+   Each small candle is set into the wall with a brass holder, giving the room
+a wan light that is just enough to see by.    
+~
+E
+carpet fine floor stone~
+   The carpet seems to have some intricate pattern woven into it, something
+that must have taken years to complete.  It has become dirtied with use over
+time.  It covers the uncomfortable stone floors.    
+~
+S
+#11054
+Down a Long Hallway~
+   This long hallway runs north, ending at a door to the entrance of the
+Academy, and south, to a T-split centered by another door.  Up to the southern
+door, it is covered by a once-finely detailed carpet, its rich hues adding to
+the surroundings.  A low light blankets the area, provided by a series of
+candles running along the walls.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11053
+D2
+~
+~
+0 0 11055
+E
+candle candles~
+   Each small candle is set into the wall with a brass holder, giving the room
+a wan light that is just enough to see by.    
+~
+E
+carpet fine floor stone~
+   The carpet seems to have some intricate pattern woven into it, something
+that must have taken years to complete.  It has become dirtied with use over
+time.  It covers the uncomfortable stone floors.    
+~
+S
+#11055
+Intersection of Halls~
+   Two hallways meet in a T-shape here.  The hallway that needs northward is
+covered with a rich, once-finely detailed carpet, which has seen its time come
+and gone by its rugged appearance.  It ends in a door which leads to the
+reception area of the Academy.  The other hall, running east and west, is
+uncarpeted and bare of furnishings of any sort, and is short and unnecessarily
+thin.  To the south is a plain door with a shined brass handle, and upon the
+door the words, "Master's Study," are inscribed, tooled by a hand most likely
+now long dead.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11054
+D1
+~
+~
+0 0 11057
+D2
+~
+door~
+1 0 11059
+D3
+~
+~
+0 0 11056
+E
+handle brass shiny~
+   The handle is really rather shiny, much to the delight of everyone.    
+~
+E
+door inscription plain~
+   The door is made of a heavy, solid oak, built to withstand years of use, and
+to keep prying ears from listening in without some effort.    
+~
+S
+#11056
+End of the Western Hall~
+   This unusually thin hallway is dark from lack of light, relying solely on
+surrounding light to allow anyone to walk down it.  There is a door to the
+west, rounded at the top, which makes it appear smaller than it actually is.  
+The small brass doorknob has turned green with rust, and is rough to the touch.
+To the east is a door marked "Master's Study," and further east is another door
+similar to the one at the end of this small hall.    
+~
+110 32776 0 0 0
+D1
+~
+~
+0 0 11055
+D3
+~
+door~
+1 0 11088
+E
+door rounded~
+   The door looks to be as old as anything in this Academy, and looks unusually
+small, as if it was not built for humans.  It may very well not have been, but
+for some reason, the creators of the Academy chose to use it.    
+~
+E
+doorknob brass~
+   The doorknob is cold and rusted green, but has a very comfortable feel to
+it.    
+~
+S
+#11057
+Eastern Hall~
+   This hallway leads into relative darkness to the east, relying only on other
+light to warm its cold walls.  The floor is cobbled, not carpeted as elsewhere.
+Oddly, the hall seems thinner than it would need to be.  To the west, a solid
+door is inscribed with the words, "Master's Study," and at the end of this
+hall, another door with an inscription has been set into the wall, but the
+words are too small to read from this distance.    
+~
+110 32776 0 0 0
+D1
+~
+~
+0 0 11058
+D3
+~
+~
+0 0 11055
+E
+walls~
+   The walls are smooth to the touch, and a little damp from moisture that has
+seeped in through their cracks created over time.    
+~
+E
+floor cobble cobbled~
+   The cold floor isn't exactly comfortable to walk on, and seems a little
+cheap for what is supposed to be one of the best schools of magic on all of
+Ansalon.  Nevertheless, the Academy seems to be able to get things done.    
+~
+E
+door~
+   It's a small door, rounded at the top.  You can't read what's inscribed on
+it.    
+~
+S
+#11058
+End of the Eastern Hall~
+   This hall ends in near darkness at a small door with a broken handle.  A
+carefully-written sign hangs off of a mangled piece of brass where the handle
+should be, reading 'Please push gently.'  On the door itself is the engraved
+word, 'LETTERING.'  A few candles in another hallway give just enough light to
+see by.    
+~
+110 32776 0 0 0
+D1
+~
+door~
+1 0 11067
+D3
+~
+~
+0 0 11057
+E
+handle broken~
+   Most likely some student, not aware of the delicacy of the old brass handle,
+broke it off on accident.  The sign hanging from it is a temporary solution.  
+
+~
+E
+door lettering engraving~
+   The old door has been carefully engraved with the words, 'LETTERING'.  The
+handle has been broken off for quite awhile, it seems.  It looks to be stuck,
+but with a little push, it would probably open for you.    
+~
+S
+#11059
+Master's Study~
+   The Master's Study is a small room, without much decoration but with a
+comfortable feeling to it, anyhow.  Books sit open-faced on the thick red rug
+covering the floor, as the shelves against the stained wooden walls are filled
+to capacity, except for one against the east wall with just a single book
+missing from its top shelf.  In the center of the room is a large desk with
+many drawers, some of them opened.  Across the desk is a long, thin piece of
+parchment that stretches across a stack of books, papers, and a long quill
+underneath.  It's covered with a mixture of symbols and Common script, written
+with a hasty but exact hand.  To the west and north are doors leading out.    
+~
+110 32780 0 0 0
+D0
+~
+door~
+1 0 11055
+D1
+~
+bookshelf~
+2 11051 11096
+D3
+~
+door~
+1 0 11060
+E
+books book~
+   The books on the floor and shelves all have something to do with one form of
+magic or another, whether they are spellbooks, books on spell theory, or
+histories of the affairs of mages.    
+~
+E
+shelf shelves~
+   These old bookshelves have a hole in them where a book could go in very few
+places, and those holes were probably only made by books recently read.  It is
+obvious the Master of the Academy makes frequent use of his materials.    
+~
+E
+desk drawers~
+   The large desk is plain and simple, as is much of the Academy.  The drawers
+that are open don't seem to have anything of any real interest in them other
+than some writing implements.    
+~
+E
+parchment thin~
+   The piece of parchment looks difficult to decipher, even for one trained in
+the ways of magic.  It appears to be in some sort of magical shorthand, and not
+actually any readable magic words.    
+~
+E
+quill~
+   The quill is made of a raven's feather; long, black, and smooth to the
+touch.  It has ink crusted near the tip, suggesting that it may need to be cut
+soon.    
+~
+S
+#11060
+Master's Quarters~
+   Much like his study, the Master's Quarters are sparsely decorated.  There is
+a small bed in the corner, made up neatly with a single woolen blanket, and a
+end table beside it with a book and candle atop it.  There is a bookshelf
+against the other wall, as well, but unlike his study, the master keeps his
+personal collection of books organized.    
+~
+110 32776 0 0 0
+D1
+~
+door~
+1 0 11059
+E
+bed woolen blanket~
+   The bed looks small, if still comfortable.  It is made of a dark, solid
+wood, and the matress is soft but firm.    
+~
+E
+table end book candle~
+   The table is about 2 feet tall, has three legs, and is ordinary in every
+way.  The book atop it is a fantastical story of heroes long past.  The candle
+beside it seems to be used many a night for reading.    
+~
+E
+bookshelf~
+   Only about half of the books on this shelf seem to have anything to do with
+magic.  The rest are mostly stories of times long past -- probably a weakness
+of the master's that he's kept since childhood.    
+~
+S
+#11061
+Inside a Large Lecture Hall~
+   The lecture hall opens up through an archway into the hall here.  In this
+small entrance area, there are few desks lying around, facing a small raised
+platform where an instructor is supposed to speak from.  The high roof is two
+stories from the floor, as though this area used to be a temple or church.    
+~
+110 32780 0 0 0
+D0
+~
+~
+0 0 11062
+D1
+~
+~
+0 0 11066
+D2
+~
+~
+0 0 11064
+D3
+~
+~
+0 0 11053
+E
+archway~
+   The archway is made up of lighter stones that contrast with the dark stones
+of the west wall.  Through it is a dimly-lit hallway.    
+~
+E
+desks desks~
+   The desks are simple four-legged tables with a stool at each.  Some are
+scrawled with drawings by bored students.    
+~
+E
+platform~
+   The platform is about a foot high off the ground with a desk looks to be the
+place where the instructor lectures from.    
+~
+S
+#11062
+Corner of the Lecture Hall~
+   Large, thick-paned windows that rise up to the roof's height allow light to
+spill in from outside, providing the only luminance the Hall has to offer.  
+The windows themselves are set between massive, rounded beams that extend to
+the ceiling, looking to be made of entire trees.  A collection of tables with
+stools beside them face the platform in the center.    
+~
+110 32768 0 0 0
+D1
+~
+~
+0 0 11063
+D2
+~
+~
+0 0 11061
+S
+#11063
+To the Side of the Platform~
+   Large, thick-paned windows that rise up to the roof's height allow light to
+spill in from outside, providing the only luminance the Hall has to offer.  
+The windows themselves are set between massive, rounded beams that extend to
+the ceiling, looking to be made of entire trees.  A collection of tables with
+stools beside them face the platform in the center.    
+~
+110 32776 0 0 0
+D2
+~
+~
+0 0 11066
+D3
+~
+~
+0 0 11062
+S
+#11064
+A Dark Corner of the Lecture Hall~
+   The lecture hall is dark here, as less of the light reaches it from the
+windows set in the north wall.  Only a small number of desks and stools sit
+here, some facing the raised platform in the center of the room, some not.  It
+seems that this area is where those that don't necessarily want to pay
+attention to the lecture might sit to sleep or whisper to eachother.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11061
+D1
+~
+~
+0 0 11065
+S
+#11065
+Before the Platform~
+   You are next to the wooden, one-foot-tall platform that the instructor of
+the Academy lectures from.  A desk is perched atop it, and a fairly unnecessary
+gradual staircase leads up to it.  In this corner, a small shelf holds the
+books that are lectured from, though from the thick layer of dust covering near
+half of them, it doesn't seem they're used often.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11066
+D3
+~
+~
+0 0 11064
+S
+#11066
+On the Raised Platform~
+   The floor has been raised a foot off the ground here, making a platform for
+the instructor to lecture from.  Atop the platform is his desk, small but
+sturdy, and with two piles of neatly-arranged papers atop it.  From here it is
+easy to see across the entire lecture hall, including a dark corner where some
+students might sleep from time to time.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11063
+D2
+~
+~
+0 0 11065
+D3
+~
+~
+0 0 11061
+S
+#11067
+Front of the Lettering Room~
+   This room is dedicated to the practice and learning of the art of scripting
+and lettering.  An unnervingly boring, but absolutely necessary skill for all
+disciples of magic to master, proper lettering takes years to internalize.  In
+this corner of the lettering room, there are various books from which the
+student may learn and practice from, as well as a small scroll issued to every
+novice to work upon, both of which may be checked out, providing the bookkeeper
+allows it.    
+~
+110 32780 0 0 0
+D1
+~
+~
+0 0 11068
+D2
+~
+~
+0 0 11069
+D3
+~
+door~
+1 0 11058
+S
+#11068
+Before the Storage Shelves~
+   Here a number of books on the topic of lettering adorn a pair of cedar
+shelves, each focusing on a different area, from how to construct the basic
+alphabet, to finessing the perfect curves that are so vital in written magic.
+Here, too, are various tightly-bound scrolls, each with a student's name
+written over their curled edges.  An extension of a desk blocks the way south
+to the tables at which students work, presumably to prevent anyone from taking
+anything without the bookkeeper knowing.    
+~
+110 32776 0 0 0
+D3
+~
+~
+0 0 11067
+S
+#11069
+Lettering Tables~
+   These tables are set out for free student use, only sometimes with
+supervision of one of the Academy's mages.  Each is marked with lines and blots
+of ink from students' mistakes made off of the paper.  In the center of each
+table is a box containing freshly-cut quills and sealed inkpots, ready for use.
+Away from the already quiet lettering rooms are private study areas for
+students wishing to concentrate fully.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11067
+D1
+~
+~
+0 0 11070
+D3
+~
+~
+0 0 11071
+S
+#11070
+Lettering Tables~
+   These tables are set out for free student use, only sometimes with
+supervision of one of the Academy's mages.  Each is marked with lines and blots
+of ink from students' mistakes made off of the paper.  In the center of each
+table is a box containing freshly-cut quills and sealed inkpots, ready for use.
+To the east is a hallway leading off deeper into the school.    
+~
+110 32776 0 0 0
+D1
+~
+~
+0 0 11072
+D3
+~
+~
+0 0 11069
+S
+#11071
+A Private Room~
+   This chamber has been set aside for students who wish to get away from the
+rest of the Academy and study in quiet.  The air has a musty smell to it, as
+little fresh air makes its way here.  The room has no decoration to speak of
+other than a table, two chairs, and a candle by which to read.    
+~
+110 32780 0 0 0
+D1
+~
+~
+0 0 11069
+S
+#11072
+A Drafty Hallway~
+   This hallway carries a cold draft along the floor, from a source unknown.  
+It adds a very uncomfortable feeling to the area.  This portion of the Academy,
+from the looks of the carefully-fit high stone walls done in a style too old
+for any times recent, seems to be the most ancient, as if it were left over
+from an estate.  A large window against the south wall looks out into a wild,
+grassy field, the image marred somewhat by a long crack running down one pane.
+~
+110 32768 0 0 0
+D0
+~
+~
+0 0 11073
+D3
+~
+~
+0 0 11070
+S
+#11073
+A Drafty Hallway~
+   This hallway carries a cold draft along the floor, from a source unknown.  
+It adds a very uncomfortable feeling to the area.  This portion of the Academy,
+from the looks of the carefully-fit high stone walls done in a style too old
+for any times recent, seems to be the most ancient, as if it were left over
+from an estate.  The floors themselves are also stone, though cobbled smoothly.
+The drab hallway ends at a large portrait of a wizard in an overly-flattering
+pose.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11074
+D2
+~
+~
+0 0 11072
+S
+#11074
+A Small Intersection in the Drafty Hallway~
+   The hall splits four ways here, to the west and east leading into large
+rooms; the library and an area for the instructors, respectively.  South, the
+hall runs up to a cracked window and an exit to another room, and in the north,
+a somewhat gaudy, overdone portrait of an old wizard hangs.  The old stone
+walls in this area are blanketed with a cold draft that seems fitting,
+considering their appearance.    
+~
+110 32780 0 0 0
+D0
+~
+~
+0 0 11075
+D1
+~
+~
+0 0 11083
+D2
+~
+~
+0 0 11073
+D3
+~
+~
+0 0 11076
+S
+#11075
+Before a Portrait~
+   Dominating the majority of this hallway's end is a large oil painting,
+framed in something resembling gold.  The portrait is of a wizard in long white
+robes that sag about his muscular body, too muscular for a man his age.  He
+carries a tall wooden staff with a golden tip in one hand, and a blue spellbook
+in the other, his eyes wide with fiery triumph.  His foot rests on the corpse
+of what has to be the most astoundingly large red dragon in all of history.  
+It is difficult not to laugh somewhat while looking at the ridiculous scene.  
+A handful of chairs sit around a small table here, apparently there so that
+students may also partake in laughing at the picture as well.    
+~
+110 32768 0 0 0
+D2
+~
+~
+0 0 11074
+S
+#11076
+Just Inside the Academy Library~
+   A strange, awkward presence fills this area near the arch that leads out
+into the hallway, as if there is a rift between the hall and library.  The air
+is stuffy, warm, and smells of hundreds of old volumes sitting in their
+shelves, waiting to be read, feeling much different than any other part of the
+Academy.  Shelves of heights twice that of a minotaur are lined in the center
+of the room and against every available area of wall space.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11078
+D1
+~
+~
+0 0 11074
+D3
+~
+~
+0 0 11077
+S
+#11077
+Corner of the Library~
+   The only bookshelves in this far corner of the library are against the wall,
+with a ladder leaning up against one to allow access to the volumes higher up.
+Large tables, many with students at them poring over the old books, dominate
+this area.  The larger part of the library extends northward.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11079
+D1
+~
+~
+0 0 11076
+S
+#11078
+In the Academy Library~
+   Between the shelves of the magnificent library that the Academy is so
+well-known for, it is hard not to have a sense of awe over all the knowledge
+that has been gathered in one place.  The books have a pleasant, musky odor of
+pages that have seen their time, and then some.  The soft murmur of students
+discussing their studies in the background mixes with the faint splash of pages
+turning all through the library.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11080
+D2
+~
+~
+0 0 11076
+D3
+~
+~
+0 0 11079
+S
+#11079
+Inside the Academy Library~
+   Between the shelves of the magnificent library that the Academy is so
+well-known for, it is hard not to have a sense of awe over all the knowledge
+that has been gathered in one place.  The tomes here seem to be newer, more
+recently-bound, and carry titles suggesting they may deal with experimental
+forms of magic.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11081
+D1
+~
+~
+0 0 11078
+D2
+~
+~
+0 0 11077
+S
+#11080
+Inside the Academy Library~
+   Between the shelves of the magnificent library that the Academy is so
+well-known for, it is hard not to have a sense of awe over all the knowledge
+that has been gathered in one place.  The books have a pleasant, musky odor of
+pages that have seen their time, and then some.  The soft murmur of students
+discussing their studies in the background mixes with the faint splash of pages
+turning all through the library.  To the east, the shelves are smaller, and the
+books seem to carry a heavier layer of dust than the others.    
+~
+110 32776 0 0 0
+D1
+~
+~
+0 0 11082
+D2
+~
+~
+0 0 11078
+D3
+~
+~
+0 0 11081
+S
+#11081
+Corner of the Library~
+   The library meets at a corner here.  There is a small, low table with a
+bench sitting underneath it that does not look as though it has been used much.
+Out of the main area, this portion of the library is not as noisy, but not as
+bright, either, as the main source of light is at the entrance.  Off to the
+east is a dark nook with walls on three sides of it.  The books contained there
+seem as though they have not been touched in ages.    
+~
+110 32776 0 0 0
+D1
+~
+~
+0 0 11080
+D2
+~
+~
+0 0 11079
+S
+#11082
+An Undisturbed Portion of the Library~
+   The first thing you notice coming into this area is a strong magical
+presence.  Even those untrained in the arts can sense it from a few feet away.
+It surrounds every inch of this dark, tucked-away area, emanating from the
+books on the small shelves here.  Each tome is covered in a thick layer of
+dust, untouched for months or years, and each one without title.  They must all
+carry power to them, and with power, great danger, to give off such a crude,
+forceful aura.  The rest of the library to the west seems cheery in contrast to
+this drab, haunting side-room.    
+~
+110 32780 0 0 0
+D1
+~
+chamber~
+2 0 11087
+D3
+~
+~
+0 0 11080
+S
+#11083
+A Congregation Room~
+   Proving once more what an odd conglomeration of buildings and add-ons the
+Academy is, the stone of the western wall runs straight to thick redwood along
+the south wall, which leads out of doors by means of a matching door with a
+large window pane.  The room itself appears to be an area where the instructors
+of the Academy may relax and meet for informal discussions.  It is littered
+with cushioned chairs and tables, though has little ornamental decoration.  
+There is a door to the north set in another peculiar redwood wall.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11086
+D2
+~
+~
+0 0 11084
+D3
+~
+~
+0 0 11074
+S
+#11084
+An Outdoor Brick Pathway~
+   A brick path runs down the center of this small outdoor area, covered mostly
+in dirt and mud.  A fence runs around the eastern edge to keep anyone from
+simply strolling in, but it doesn't seem necessary, considering the open
+countryside.  The path runs northward to the inside of the Academy, and south
+to a small conservatory.    
+~
+110 32768 2 0 0
+D0
+~
+~
+0 0 11083
+D2
+~
+~
+0 0 11085
+S
+#11085
+The Academy's Conservatory~
+   This conservatory is quite small, but well-maintained.  Tall glass panes are
+set between beams, making up the walls, meeting at a slant at the roof.  When
+the sun is out, the brilliance of the light inside is remarkable.  The area
+smells thickly of the plants and soil within it, with many rare and unusual
+species clustered mostly near the center.  A path to the north leads back to
+the Academy.    
+~
+110 32768 0 0 0
+D0
+~
+~
+0 0 11084
+S
+#11086
+Collection of Offices~
+   Three somewhat makeshift offices of the school's instructors have been made
+out of this room.  Separated only by floorspace, each is stacked with papers.
+One maintains what looks like a well-ordered system, while the other two are a
+fairly chaotic swamp of written words.  Students come in from time to time to
+talk with their teachers, but usually the offices are vacated, as most of the
+time is spent helping those who need it.    
+~
+110 32776 0 0 0
+D2
+~
+~
+0 0 11083
+S
+#11087
+A Dark, Quiet Chamber~
+   At first glance, one could almost take this to be a storage area, with
+stacks of books and a few large shapes covered by sheets near the edges.  
+However, in the center of the room is a wooden stand with a glass chamber atop
+it.  It stands about five feet tall, with 4 plain wooden legs to support it.  
+The chamber has a small door leading out.    
+~
+110 819337 0 3 0
+D3
+~
+chamber~
+2 0 11082
+S
+#11088
+Students' Hall~
+   This wing of the Academy is dedicated to the students which support it.  
+Those that can afford it live and eat here, dedicating their young lives
+entirely to the study of the magic arts.  North is the sleeping hall, which, in
+the evening hours, becomes the social center of the compound.  South is the
+mess hall, offering its selection of "fine cuisine."
+~
+110 32780 0 0 0
+D0
+~
+~
+0 0 11092
+D1
+~
+door~
+1 0 11056
+D2
+~
+~
+0 0 11089
+S
+#11089
+Mess Hall~
+   During meal hours, this large room, filled plainly with two long benches, is
+the most bustling place in the Academy.  Both students and their instructors
+eat here, though the Mages tend to keep to themselves for the most part.  An
+aroma that is faintly pleasant drifts in from the kitchen.  A stream of
+conversation flows heavily in the high-roofed area, making it disorienting at
+times.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11088
+D3
+~
+~
+0 0 11090
+S
+#11090
+Mess Hall~
+   During meal hours, this large room, filled plainly with two long benches, is
+the most bustling place in the Academy.  Both students and their instructors
+eat here, though the Mages tend to keep to themselves for the most part.  An
+aroma that is faintly pleasant drifts in from the kitchen to the north, where
+many are loading their plates.  A stream of conversation flows heavily in the
+high-roofed area, making it disorienting at times.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11091
+D1
+~
+~
+0 0 11089
+S
+#11091
+Academy's Kitchen~
+   The wonderful smells of home cooking drift from this kitchen, almost
+palpable in their intensity.  Though the Academy may be in disrepair here and
+there, they seem to at least be committed to providing good food to eat -- most
+likely because the instructors themselves eat it as well as students.  During
+meal times, lines form here and diners are allowed to choose what they wish to
+have served into their large, partitioned bowls.    
+~
+110 32776 0 0 0
+D2
+~
+~
+0 0 11090
+S
+#11092
+Sleeping Quarters~
+   Rows upon rows of double-bunked beds are packed into the Academy's sleeping
+quarters.  Most are occupied, having the lived-in look of mild decoration, but
+a few have been left empty, most likely due to the expense of living here.  A
+bit of light and fresh air can let in from the small windows near the roof, but
+the room is otherwise left drab.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11094
+D1
+~
+~
+0 0 11093
+D2
+~
+~
+0 0 11088
+S
+#11093
+Sleeping Quarters~
+   Rows upon rows of double-bunked beds are packed into the Academy's sleeping
+quarters.  Most are occupied, having the lived-in look of mild decoration, but
+a few have been left empty, most likely due to the expense of living here.  A
+bit of light and fresh air can let in from the small windows near the roof, but
+the room is otherwise left drab.  Here a group of young initiates talk over
+their studies of the day.    
+~
+110 32776 0 0 0
+D0
+~
+~
+0 0 11095
+D3
+~
+~
+0 0 11092
+S
+#11094
+Sleeping Quarters~
+   Rows upon rows of double-bunked beds are packed into the Academy's sleeping
+quarters.  Most are occupied, having the lived-in look of mild decoration, but
+a few have been left empty, most likely due to the expense of living here.  A
+bit of light and fresh air can let in from the small windows near the roof, but
+the room is otherwise left drab.  The wooden walls have a small crack in them
+here, letting a light draft in.  Someone has attempted to plug it with a piece
+of old cloth, meeting minimal success.    
+~
+110 32776 0 0 0
+D1
+~
+~
+0 0 11095
+D2
+~
+~
+0 0 11092
+S
+#11095
+Sleeping Quarters~
+   Rows upon rows of double-bunked beds are packed into the Academy's sleeping
+quarters.  Most are occupied, having the lived-in look of mild decoration, but
+a few have been left empty, most likely due to the expense of living here.  A
+bit of light and fresh air can let in from the small windows near the roof, but
+the room is otherwise left drab.  In this back corner where it is the darkest,
+some students sleep through the day lazily.    
+~
+110 32776 0 0 0
+D2
+~
+~
+0 0 11093
+D3
+~
+~
+0 0 11094
+S
+#11096
+A Hidden Shaft~
+   This tight, cylindrical shaft has but a single ladder running down one side
+of it.  It descends into a pool of darkness below, thick with the odor of the
+old and untouched.  A door handle to the west allows you to open the bookshelf
+door and exit the shaft, if what lies underneath has no appeal.    
+~
+110 33033 0 0 0
+D3
+~
+bookshelf~
+2 11051 11059
+D5
+~
+~
+0 0 11097
+S
+#11097
+An Undisturbed Laboratory~
+   This small, old laboratory looks as though it has been around longer than
+the Academy itself.  It looks mostly just a place someone has set up to store
+their old books, but the mildewed tomes seem to be strongly warded and prevent
+any from touching them.  The rest of the room is occupied by a plain, solid
+table, with a few half-completed strange metal gadgets that look like the work
+of a gnome.  There is an archway to the north, leading into darkness.    
+~
+110 32777 0 0 0
+D0
+~
+~
+0 0 11098
+D4
+~
+~
+0 0 11096
+S
+#11098
+In Front of a Prison Cell~
+   No light is needed to know that something of great evil blankets this area.
+Between the bars of the cell to the east, nothing can be seen.  Only a great,
+disturbing unrest can be felt.  The prison seems sturdy, if ancient, but more
+than shafts of steel hold back whatever is inside it.    
+~
+110 32768 0 0 0
+D1
+~
+cell~
+2 11051 11099
+D2
+~
+~
+0 0 11097
+S
+#11099
+Inside the Cell~
+   Immediately upon entering this cell, an exasperated feeling of unease mounts
+inside of it, followed by a flash of terror.  Something is not right inside
+here -- something horrible has been done or is about to be done, but it is
+impossible to tell what it is.  The prison is completely barren, and dark as
+the bowels of the earth.  A sudden chill cracks at the air and is gone in the
+next moment.    
+~
+110 131177 0 0 0
+D3
+~
+cell~
+2 11051 11098
+S
+$~

@@ -1,0 +1,2138 @@
+#2300
+A Wide Boulevard~
+   You walk down a wide boulevard paved with brilliant white stones carefully
+laid out in exquisite patterns.  Lining the boulevard are tall slender trees.
+Branchless at lower levels, these trees are capped with thick branches covered
+in deep green and red leaves which wave gently in the breeze.  At even
+distances along the boulevard are solid grey marble benches sitting in shady
+areas.    
+~
+23 4 0 0 0
+D1
+Nothing.
+~
+~
+0 0 2301
+D3
+~
+~
+0 0 7083
+S
+#2301
+A Wide Boulevard~
+   You walk down a wide boulevard paved with brilliant white stones carefully
+laid out in exquisite patterns.  Lining the boulevard are tall slender trees.
+Branchless at lower levels, these trees are capped with thick branches covered
+in deep green and red leaves which wave gently in the breeze.  At even
+distances along the boulevard are solid grey marble benches sitting in shady
+areas.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 2302
+D3
+~
+~
+0 0 2300
+S
+#2302
+A Wide Boulevard~
+   You walk down a wide boulevard paved with brilliant white stones carefully
+laid out in exquisite patterns.  Lining the boulevard are tall slender trees.
+Branchless at lower levels, these trees are capped with thick branches covered
+in deep green and red leaves which wave gently in the breeze.  At even
+distances along the boulevard are solid grey marble benches sitting in shady
+areas.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2303
+D3
+~
+~
+0 0 2301
+S
+#2303
+Approaching the Estate~
+   The boulevard widens so that small flowering shrubs run down the middle of
+it, imbuing the area with a pleasant fragrance.  In the distance to the north,
+you can glimpse a beautiful country estate through the trees, while to the
+south the boulevard continues along until it hits the main road.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2302
+S
+#2304
+Approaching the Estate~
+   The boulevard widens so that small flowering shrubs run down the middle of
+it, imbuing the area with a pleasant fragrance.  In the distance to the north,
+you can glimpse a beautiful country estate through the trees, while to the
+south the boulevard continues along until it hits the main road.    
+~
+23 12 0 0 0
+D0
+~
+~
+0 0 2305
+D2
+~
+~
+0 0 2303
+S
+#2305
+A Low Stone Wall~
+   You stand before a long low stone wall which completely surrounds the
+estate.  Twin iron gates lie open in front of you, and beyond them stands the
+estate itself.  Just one story high, the home is fashioned from oyster colored
+marble.  The roof is made from red colored brick tiles.  The grounds
+surrounding the estate consist of a lush green lawn interspaced with a wide
+variety of shrubberies and flowers.  To the north, the broad open foyer of the
+estate can be seen, while to the south the boulevard opens up.  The stone wall
+continues into the distance to the east and west.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2306
+D1
+~
+~
+0 0 2327
+D2
+~
+~
+0 0 2304
+D3
+~
+~
+0 0 2307
+S
+#2306
+A Broad Open Foyer~
+   This is a wide, open foyer, probably used by the owners of the estate to
+greet large numbers of guests who may be invited to dinners or other social
+functions.  Thin marble pillars are placed at regular intervals in the room,
+holding up an arched ceiling decorated with colorful and vivid paintings.  The
+floor is fashioned from black and white marble laid out in a checkered pattern.
+To the north lies the great hall while to the south lies the entrance to the
+estate and the boulevard beyond.    
+~
+23 12 0 0 0
+D0
+~
+~
+0 0 2396
+D2
+~
+~
+0 0 2305
+S
+#2307
+Inside the Southern Wall~
+   You walk along the inner edge of the southern wall of the estate.  The lawn
+here is broken up at intervals with a wide variety of shrubs, small trees, and
+brightly colored flowers.  Stone benches have been placed in strategic places
+to take advantage of the beautiful scenery, as well as the shade offered by the
+trees.  You also notice that there are guards wandering about the yard
+casually.    
+~
+23 0 0 0 0
+D1
+~
+~
+0 0 2305
+D3
+~
+~
+0 0 2308
+S
+#2308
+Inside the Southern Wall~
+   You walk along the inner edge of the southern wall of the estate.  The lawn
+here is broken up at intervals with a wide variety of shrubs, small trees, and
+brightly colored flowers.  Stone benches have been placed in strategic places
+to take advantage of the beautiful scenery, as well as the shade offered by the
+trees.  You also notice that there are guards wandering about the yard
+casually.    
+~
+23 0 0 0 0
+D1
+~
+~
+0 0 2307
+D3
+~
+~
+0 0 2309
+S
+#2309
+The Southwestern Corner of the Property~
+   This is the southwestern corner of the property, where the south wall meets
+the west wall.  There is a squat square column here and sitting atop it is an
+intricately carved figure of a horse standing on its hind legs, its mane
+blowing wildly in some imagined wind.  The wall continues along both to the
+north and west with guards patrolling at regular intervals.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2310
+D1
+~
+~
+0 0 2308
+D2
+~
+~
+0 0 -1
+S
+#2310
+Inside the Western Wall~
+   The western wall appears to be somewhat more battered than the other three
+walls.  This may be due to years of afternoon sun which has faded the stones
+slightly, giving them a more rugged look.  The western side of the mansion is
+somewhat different than the other sides of the estate.  Large arched stained
+glass windows have been placed along the side of the western wing to take
+advantage of the afternoon sun.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2311
+D2
+~
+~
+0 0 2309
+S
+#2311
+Inside the Western Wall~
+   The western wall appears to be somewhat more battered than the other three
+walls.  This may be due to years of afternoon sun which has faded the stones
+slightly, giving them a more rugged look.  The western side of the mansion is
+somewhat different than the other sides of the estate.  Large arched stained
+glass windows have been placed along the side of the western wing to take
+advantage of the afternoon sun.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2312
+D2
+~
+~
+0 0 2310
+S
+#2312
+Inside the Western Wall~
+   The western wall appears to be somewhat more battered than the other three
+walls.  This may be due to years of afternoon sun which has faded the stones
+slightly, giving them a more rugged look.  The western side of the mansion is
+somewhat different than the other sides of the estate.  Large arched stained
+glass windows have been placed along the side of the western wing to take
+advantage of the afternoon sun.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2313
+D2
+~
+~
+0 0 2311
+S
+#2313
+Inside the Western Wall~
+   The western wall appears to be somewhat more battered than the other three
+walls.  This may be due to years of afternoon sun which has faded the stones
+slightly, giving them a more rugged look.  The western side of the mansion is
+somewhat different than the other sides of the estate.  Large arched stained
+glass windows have been placed along the side of the western wing to take
+advantage of the afternoon sun.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2314
+D2
+~
+~
+0 0 2312
+S
+#2314
+The Northwestern Corner of the Property~
+   This is the northwestern corner of the property where the northern wall
+meets the western wall.  There is a squat square column here, and sitting atop
+the column is an intricately carved figure of a horse standing on its hind
+legs, its mane blowing wildly in some imagined wind.  The wall continues along
+both to the west and south, with guards patrolling it at regular intervals.  
+~
+23 0 0 0 0
+D1
+~
+~
+0 0 2315
+D2
+~
+~
+0 0 2313
+S
+#2315
+Inside the Northern Wall~
+   Skirting the northern wall, you notice a large pond of some sort as well as
+a colorful flower garden, beyond the wall to the north.  The lawn here is
+broken up with a wide variety of shrubs, small trees, and various types of
+flowers.  Stone benches have been placed in strategic areas to take advantage
+of the beautiful scenery as well as the shade offered by the trees.    
+~
+23 0 0 0 0
+D1
+~
+~
+0 0 2316
+D3
+~
+~
+0 0 2314
+S
+#2316
+Inside the Northern Wall~
+   Skirting the northern wall, you notice a large pond of some sort as well as
+a colorful flower garden, beyond the wall to the north.  The lawn here is
+broken up with a wide variety of shrubs, small trees, and various types of
+flowers.  Stone benches have been placed in strategic areas to take advantage
+of the beautiful scenery as well as the shade offered by the trees.    
+~
+23 0 0 0 0
+D1
+~
+~
+0 0 2317
+D3
+~
+~
+0 0 2315
+S
+#2317
+Entrance to the Gardens~
+   Skirting the northern wall, you notice a large pond of some sort as well as
+a colorful flower garden, beyond the wall to the north.  The lawn here is
+broken up with a wide variety of shrubs, small trees, and various types of
+flowers.  Stone benches have been placed in strategic areas to take advantage
+of the beautiful scenery as well as the shade offered by the trees.  To the
+north lies a small path leading to the gardens and the pond.  The wall
+continues to the east and west.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2329
+D1
+~
+~
+0 0 2318
+D3
+~
+~
+0 0 2316
+S
+#2318
+Inside the Northern Wall~
+   Skirting the northern wall, you notice a large pond of some sort as well as
+a colorful flower garden, beyond the wall to the north.  The lawn here is
+broken up with a wide variety of shrubs, small trees, and various types of
+flowers.  Stone benches have been placed in strategic areas to take advantage
+of the beautiful scenery as well as the shade offered by the trees.    
+~
+23 0 0 0 0
+D1
+~
+~
+0 0 2319
+D3
+~
+~
+0 0 2317
+S
+#2319
+Inside the Northern Wall~
+   Skirting the northern wall, you notice a large pond of some sort as well as
+a colorful flower garden, beyond the wall to the north.  The lawn here is
+broken up with a wide variety of shrubs, small trees, and various types of
+flowers.  Stone benches have been placed in strategic areas to take advantage
+of the beautiful scenery as well as the shade offered by the trees.    
+~
+23 0 0 0 0
+D1
+~
+~
+0 0 2320
+D3
+~
+~
+0 0 2318
+S
+#2320
+The Northeastern Corner of the Property~
+   This is the northeastern corner of the property where the southern wall
+meets the eastern wall.  There is a squat square column here, and sitting atop
+the column is an intricately carved figure of a horse standing on its hind
+legs, its mane blowing wildly in some imagined wind.  The wall continues along
+both to the west and south, with guards patrolling it at regular intervals.  
+~
+23 0 0 0 0
+D2
+~
+~
+0 0 2321
+D3
+~
+~
+0 0 2319
+S
+#2321
+Inside the Eastern Wall~
+   You walk along the eastern wall of the estate.  Besides the usual lush
+greenery and assorted foliage, a large stone fountain can be seen in the
+distance, very close to the eastern wing of the home.  Small song birds can be
+seen, flitting about the fountain, singing happily as they bathe in the cool
+waters.  The sounds of their songs can be heard clearly throughout the area,
+giving all in the eastern wing and eastern grounds a relaxing backdrop to their
+wandering.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2320
+D2
+~
+~
+0 0 2322
+S
+#2322
+Inside the Eastern Wall~
+   You walk along the eastern wall of the estate.  Besides the usual lush
+greenery and assorted foliage, a large stone fountain can be seen in the
+distance, very close to the eastern wing of the home.  Small song birds can be
+seen, flitting about the fountain, singing happily as they bathe in the cool
+waters.  The sounds of their songs can be heard clearly throughout the area,
+giving all in the eastern wing and eastern grounds a relaxing backdrop to their
+wandering.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2321
+D2
+~
+~
+0 0 2323
+S
+#2323
+Inside the Eastern Wall~
+   You walk along the eastern wall of the estate.  Besides the usual lush
+greenery and assorted foliage, a large stone fountain can be seen in the
+distance, very close to the eastern wing of the home.  Small song birds can be
+seen, flitting about the fountain, singing happily as they bathe in the cool
+waters.  The sounds of their songs can be heard clearly throughout the area,
+giving all in the eastern wing and eastern grounds a relaxing backdrop to their
+wandering.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2322
+D2
+~
+~
+0 0 2324
+S
+#2324
+Inside the Eastern Wall~
+   You walk along the eastern wall of the estate.  Besides the usual lush
+greenery and assorted foliage, a large stone fountain can be seen in the
+distance, very close to the eastern wing of the home.  Small song birds can be
+seen, flitting about the fountain, singing happily as they bathe in the cool
+waters.  The sounds of their songs can be heard clearly throughout the area,
+giving all in the eastern wing and eastern grounds a relaxing backdrop to their
+wandering.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2323
+D2
+~
+~
+0 0 2325
+S
+#2325
+The Southeastern Corner of the Property~
+   This is the southestern corner of the property where the southern wall meets
+the western wall.  There is a squat square column here, and sitting atop the
+column is an intricately carved figure of a horse standing on its hind legs,
+its mane blowing wildly in some imagined wind.  The wall continues along both
+to the east and north, with guards patrolling it at regular intervals.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2324
+D3
+~
+~
+0 0 2326
+S
+#2326
+Inside the Southern Wall~
+   You walk along the inner edge of the southern wall of the estate.  The lawn
+here is broken up at intervals with a wide variety of shrubs, small trees, and
+brightly colored flowers.  Stone benches have been placed in strategic places
+to take advantage of the beautiful scenery, as well as the shade offered by the
+trees.  You also notice that there are guards wandering about the yard
+casually.    
+~
+23 0 0 0 0
+D1
+~
+~
+0 0 2325
+D3
+~
+~
+0 0 2327
+S
+#2327
+Inside the South Wall~
+   You walk along the inner edge of the southern wall of the estate.  The lawn
+here is broken up at intervals with a wide variety of shrubs, small trees, and
+brightly colored flowers.  Stone benches have been placed in strategic places
+to take advantage of the beautiful scenery, as well as the shade offered by the
+trees.  You also notice that there are guards wandering about the yard
+casually.    
+~
+23 0 0 0 0
+D1
+~
+~
+0 0 2326
+D3
+~
+~
+0 0 2305
+S
+#2328
+An unfinished room~
+You are in an unfinished room.
+~
+23 8 0 0 0
+S
+#2329
+A Short Pathway~
+   This is a short pathway which leads from the main grounds of the estate
+which lies to the south.  To the north, beyond the estate walls, lie the
+gardens and pond.  Obviously well travelled, the flat stones of the walkway
+have been polished by years of foot travel.  This is plainly indicative of the
+attractiveness of the gardens and pond to the visitors of the estate.  To the
+west lies the garden while to the east lies the pond.    
+~
+23 4 0 0 0
+D2
+~
+~
+0 0 2317
+D6
+~
+~
+0 0 2346
+D7
+~
+~
+0 0 2397
+S
+#2330
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2335
+D1
+~
+~
+0 0 2331
+D3
+~
+~
+0 0 2397
+S
+#2331
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2334
+D1
+~
+~
+0 0 2332
+D3
+~
+~
+0 0 2330
+S
+#2332
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2333
+D3
+~
+~
+0 0 2331
+S
+#2333
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194312 1 0 0
+D0
+~
+~
+0 0 2342
+D2
+~
+~
+0 0 2332
+D3
+~
+~
+0 0 2334
+S
+#2334
+Near the Pond~
+   You walk along a beach made of fine oyster colored sand which was imported
+from areas around Karthay.  The sandy beach has been well trodden by both
+visitors to the estate as well as the inhabitants of the pond.  Ducks and swans
+move about on the beach looking for handouts from the people walking along,
+enjoying the scenery and the cool breeze coming off the water.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2343
+D1
+~
+~
+0 0 2333
+D2
+~
+~
+0 0 2331
+D3
+~
+~
+0 0 2335
+D6
+~
+~
+0 0 2345
+S
+#2335
+Near the Pond~
+   You walk along a beach made of fine oyster colored sand which was imported
+from areas around Karthay.  The sandy beach has been well trodden by both
+visitors to the estate as well as the inhabitants of the pond.  Ducks and swans
+move about on the beach looking for handouts from the people walking along,
+enjoying the scenery and the cool breeze coming off the water.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2344
+D1
+~
+~
+0 0 2334
+D2
+~
+~
+0 0 2330
+D3
+~
+~
+0 0 2336
+D7
+~
+~
+0 0 2345
+S
+#2336
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2337
+D1
+~
+~
+0 0 2335
+D2
+~
+~
+0 0 2397
+S
+#2337
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2338
+D1
+~
+~
+0 0 2344
+D2
+~
+~
+0 0 2336
+D3
+~
+~
+0 0 -1
+S
+#2338
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D1
+~
+~
+0 0 2339
+D2
+~
+~
+0 0 2337
+S
+#2339
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D1
+~
+~
+0 0 2340
+D2
+~
+~
+0 0 2344
+D3
+~
+~
+0 0 2338
+S
+#2340
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D1
+~
+~
+0 0 2341
+D2
+~
+~
+0 0 2343
+D3
+~
+~
+0 0 2339
+S
+#2341
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D2
+~
+~
+0 0 2342
+D3
+~
+~
+0 0 2340
+S
+#2342
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2341
+D2
+~
+~
+0 0 2333
+D3
+~
+~
+0 0 2343
+S
+#2343
+Near the Pond~
+   You walk along a beach made of fine oyster colored sand which was imported
+from areas around Karthay.  The sandy beach has been well trodden by both
+visitors to the estate as well as the inhabitants of the pond.  Ducks and swans
+move about on the beach looking for handouts from the people walking along,
+enjoying the scenery and the cool breeze coming off the water.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2340
+D1
+~
+~
+0 0 2342
+D2
+~
+~
+0 0 2334
+D3
+~
+~
+0 0 2344
+D8
+~
+~
+0 0 2345
+S
+#2344
+Near the Pond~
+   You walk along a beach made of fine oyster colored sand which was imported
+from areas around Karthay.  The sandy beach has been well trodden by both
+visitors to the estate as well as the inhabitants of the pond.  Ducks and swans
+move about on the beach looking for handouts from the people walking along,
+enjoying the scenery and the cool breeze coming off the water.    
+~
+23 4194304 1 0 0
+D0
+~
+~
+0 0 2339
+D1
+~
+~
+0 0 2343
+D2
+~
+~
+0 0 2335
+D3
+~
+~
+0 0 2337
+D9
+~
+~
+0 0 2345
+S
+#2345
+Wading in the Pond~
+   You wade into a large artificial yet beautiful pond of clean deep blue
+water.  The water is not deep and is quite cool to the touch, and is free of
+flora except for white lily flowers which float about in random patterns across
+its smooth glassy surface.  Periodically, ducks and swans land in the pond to
+search for food and to keep themselves cool.    
+~
+23 4194304 1 0 0
+D6
+~
+~
+0 0 2344
+D7
+~
+~
+0 0 2343
+D8
+~
+~
+0 0 2335
+D9
+~
+~
+0 0 2334
+S
+#2346
+A Path to the Garden~
+   A small cobbled pathway leads between the gardens to the northwest and the
+estate grounds to the southeast.  Quiet and shaded by large willow trees, the
+path is cool and quite peaceful, leading to a general feeling of serenity which
+seems to pervade the entire garden area.  Small birds jump between the trees,
+catching the large numbers of insects flying about.    
+~
+23 4 0 0 0
+D6
+~
+~
+0 0 2347
+D9
+~
+~
+0 0 2329
+S
+#2347
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 0 0 0 0
+D0
+~
+~
+0 0 2352
+D3
+~
+~
+0 0 2348
+D9
+~
+~
+0 0 2346
+S
+#2348
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2351
+D1
+~
+~
+0 0 2347
+D3
+~
+~
+0 0 2349
+S
+#2349
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2350
+D1
+~
+~
+0 0 2348
+S
+#2350
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2355
+D1
+~
+~
+0 0 2351
+D2
+~
+~
+0 0 2349
+S
+#2351
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2354
+D1
+~
+~
+0 0 2352
+D2
+~
+~
+0 0 2348
+D3
+~
+~
+0 0 2350
+S
+#2352
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2353
+D2
+~
+~
+0 0 2347
+D3
+~
+~
+0 0 2351
+S
+#2353
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2358
+D2
+~
+~
+0 0 2352
+D3
+~
+~
+0 0 2354
+S
+#2354
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2357
+D1
+~
+~
+0 0 2353
+D2
+~
+~
+0 0 2351
+D3
+~
+~
+0 0 2355
+S
+#2355
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2356
+D1
+~
+~
+0 0 2354
+D2
+~
+~
+0 0 2350
+S
+#2356
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D1
+~
+~
+0 0 2357
+D2
+~
+~
+0 0 2355
+S
+#2357
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  The separate areas of the gardens have also been
+designed to show patterns of various types.  It is obvious from the meticulous
+condition of the gardens that a great deal of effort has been expended to
+maintain them.  Even now, gardeners can be seen working tirelessly to keep the
+weeds away.    
+~
+23 8 0 0 0
+D1
+~
+~
+0 0 2358
+D2
+~
+~
+0 0 2354
+D3
+~
+~
+0 0 2356
+S
+#2358
+A Flower Garden~
+   A lush area of brightly colored flowers can be seen all around you.  A
+narrow walkway of cobbled white stones winds through the gardens in intricate
+symmetrical patterns.  Given the amount of work required to maintain these
+gardens, the gardeners have erected a small indiscreet tool shed just to the
+north where they store the instruments needed to maintain this beautiful place.
+~
+23 0 0 0 0
+D0
+A small wooden door.
+~
+door small~
+1 0 2359
+D2
+~
+~
+0 0 2353
+D3
+~
+~
+0 0 2357
+S
+#2359
+A Tool Shed~
+   This is a relatively small but well maintained and meticulously neat tool
+shed.  Various instruments vital to the proper maintenance of the flower
+gardens have been carefully hung from various hooks along the walls.  Stacked
+in one corner of the room are large canvas bags filled with what smells like
+manure.  In another corner of the room, beside a small wide crack in the floor,
+you notice a large number of potted plants waiting to be planted.    
+~
+23 12 0 0 0
+D2
+A small wooden door.
+~
+door small wooden~
+1 0 2358
+D5
+An old floor hatch.
+~
+hatch~
+1 0 2360
+E
+crack~
+   A small crack in the floor shows the outline of a small hatch leading
+downwards.    
+~
+S
+#2360
+The Basement of the Shed~
+   The smell of the room overwhelms you as you walk down the short flight of
+stairs.  This room is obviously a storage area for the manure used to keep the
+flowers lush and healthy.  Rightly concerned about the odor should the manure
+have been stored outside, the gardeners wisely decided it would be better to
+store it in this cool underground storage area.    
+~
+23 8 0 0 0
+D4
+An old floor hatch.
+~
+hatch~
+1 0 2359
+S
+#2361
+The Great Hall~
+   Grandiose to the extreme, the great hall is broken up by four immense thick
+marble pillars holding up a high vaulted ceiling.  Animal trophies as well as
+suits of armor and pieces of fine weaponry line the outer walls of the room,
+while low wide benches surround the pillars, allowing people to sit down during
+lengthy periods of entertainment.  The floor of the hall is made of shining
+black obsidian stone which reflects the light coming from the massive
+chandelier which hangs overhead.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2364
+D1
+~
+~
+0 0 2362
+D9
+~
+~
+0 0 2396
+S
+#2362
+The Great Hall~
+   Grandiose to the extreme, the great hall is broken up by four immense, thick
+marble pillars holding up a high vaulted ceiling.  Animal trophies as well as
+suits of armor and pieces of fine weaponry line the outer walls of the room,
+while low wide benches surround the pillars, allowing people to sit down during
+lengthy periods of entertainment.  The floor of the hall is made of shining
+black obsidian stone which reflects the light coming from the massive
+chandelier which hangs overhead.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2365
+D1
+~
+~
+0 0 2363
+D2
+~
+~
+0 0 2396
+D3
+~
+~
+0 0 2361
+S
+#2363
+The Great Hall~
+   Grandiose to the extreme, the great hall is broken up by four immense thick
+marble pillars holding up a high vaulted ceiling.  Animal trophies as well as
+suits of armor and pieces of fine weaponry line the outer walls of the room,
+while low wide benches surround the pillars, allowing people to sit down during
+lengthy periods of entertainment.  The floor of the hall is made of shining
+black obsidian stone which reflects the light coming from the massive
+chandelier which hangs overhead.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2366
+D3
+~
+~
+0 0 2362
+D8
+~
+~
+0 0 2396
+S
+#2364
+Entranceway to the Private Wing~
+   A small set of doubledoors to the west are closed to prevent guests from
+intruding upon the lord and lady of the estate.  Made of sturdy blackwood, the
+doors are lined with iron, making forced entry impossible.  There is a small
+keyhole in the door allowing those with the right key access to the private
+area beyond.  To either side of the doors are small alcoves where guests may
+place their cloaks and footwear when entering the private abode of the owners
+of the estate.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2367
+D1
+~
+~
+0 0 2365
+D2
+~
+~
+0 0 2361
+D3
+   A small set of doubledoors.    
+~
+door doors small doubledoors~
+1 2300 2370
+S
+#2365
+The Center of the Hall~
+   This is the center of the great hall.  A massive crystal chandelier hangs
+down from the ceiling, its light sparkling off the floor of the hall, casting
+brilliant light throughout the hall.  From here you can also see the roof of
+the ceiling, and you notice that it is covered with a large mural depicting the
+creation by Reorx of the heavens.  Quite beautiful, the mural depicts Reorx
+pounding at his anvil, with the sparks flying from it becoming the stars in the
+sky.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2368
+D1
+~
+~
+0 0 2366
+D2
+~
+~
+0 0 2362
+D3
+~
+~
+0 0 2364
+S
+#2366
+Entranceway to the East Wing~
+   A large set of double doors breaks the eastern wing of the estate from the
+great hall.  Lying open, they can be closed during large functions to keep the
+noise level to a minimum to allow those guests who retire early to have some
+quiet.  Looking down the hallway you can see a series of doors leading off to
+each side of it, presumably these are guest rooms of some sort.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2369
+D1
+~
+~
+0 0 2375
+D2
+~
+~
+0 0 2363
+D3
+~
+~
+0 0 2365
+S
+#2367
+The Great Hall~
+   Grandiose to the extreme, the great hall is broken up by four immense thick
+marble pillars holding up a high vaulted ceiling.  Animal trophies as well as
+suits of armor and pieces of fine weaponry line the outer walls of the room,
+while low wide benches surround the pillars, allowing people to sit down during
+lengthy periods of entertainment.  The floor of the hall is made of shining
+black obsidian stone which reflects the light coming from the massive
+chandelier which hangs overhead.    
+~
+23 8 0 0 0
+D1
+~
+~
+0 0 2368
+D2
+~
+~
+0 0 2364
+S
+#2368
+The Great Hall~
+   There is a wide arched hallway here leading from the great hall to some
+other area of the estate.  The smell of food wafts in from the north, leading
+you to the conclusion that the dining hall may lie there.  Two small statues
+line the sides of the hallway.  One shows a lovely older woman dressed in a
+long flowing gown, holding a small bouquet of roses, while the other shows a
+aristocratic looking gentleman, dressed in finery fit for lower nobility.  The
+hall continues to the west and east, while there is a wide hallway leading
+north.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2384
+D1
+~
+~
+0 0 2369
+D2
+~
+~
+0 0 2365
+D3
+~
+~
+0 0 2367
+S
+#2369
+The Great Hall~
+   Grandiose to the extreme, the great hall is broken up by four immense thick
+marble pillars holding up a high vaulted ceiling.  Animal trophies as well as
+suits of armor and pieces of fine weaponry line the outer walls of the room,
+while low wide benches surround the pillars, allowing people to sit down during
+lengthy periods of entertainment.  The floor of the hall is made of shining
+black obsidian stone which reflects the light coming from the massive
+chandelier which hangs overhead.    
+~
+23 8 0 0 0
+D2
+~
+~
+0 0 2366
+D3
+~
+~
+0 0 2368
+S
+#2370
+An Opulent Hallway~
+   This hallway is richly decorated with fascinating and ornate tapestries and
+wall hangings.  Depicting the Lord and Lady of the estate in various outdoor
+scenes, they remind you of portraits one often sees of royalty.  Smaller
+versions of the chandelier which graces the great hall hang from the ceiling,
+giving the hallway a bright cherry feeling.  This is enhanced by the off-white
+marble floor and the white stucco walls.    
+~
+23 12 0 0 0
+D1
+   A small set of doubledoors.    
+~
+door doors small doubledoors~
+1 2300 2364
+D3
+~
+~
+0 0 2371
+S
+#2371
+An Opulent Hallway~
+   This hallway is richly decorated with fascinating and ornate tapestries and
+wall hangings.  Depicting the Lord and Lady of the estate in various outdoor
+scenes, they remind you of portraits one often sees of royalty.  Smaller
+versions of the chandelier which graces the great hall hang from the ceiling,
+giving the hallway a bright cherry feeling.  This is enhanced by the off-white
+marble floor and the white stucco walls.    
+~
+23 8 0 0 0
+D0
+   A small oak door.    
+~
+door small oak~
+1 0 2385
+D1
+~
+~
+0 0 2370
+D2
+   A small oak door.    
+~
+door small oak~
+1 0 2386
+D3
+~
+~
+0 0 2372
+S
+#2372
+An Opulent Hallway~
+   This hallway is richly decorated with fascinating and ornate tapestries and
+wall hangings.  Depicting the Lord and Lady of the estate in various outdoor
+scenes, they remind you of portraits one often sees of royalty.  Smaller
+versions of the chandelier which graces the great hall hang from the ceiling,
+giving the hallway a bright cherry feeling.  This is enhanced by the off-white
+marble floor and the white stucco walls.  To the west are a set of oaken double
+doors which must lead to the private rooms of the Lord and Lady.    
+~
+23 8 0 0 0
+D1
+~
+~
+0 0 2371
+D3
+   A set of oaken doubledoors.    
+~
+door doubledoors doors oak oaken~
+1 0 2373
+S
+#2373
+The Private Suite~
+   This room is quite large, measuring easily sixty feet wide and eighty feet
+long.  However, it has been cleverly divided into sections by low wooden
+railings.  Looking around, one can see a large bookshelf in one area, obviously
+a library of sorts.  In another area are six plush sofas arranged around a low
+glass topped table, an area for entertaining guests perhaps.  Oddly enough
+though, there seems to be no private sleeping chamber in this room.    
+~
+23 8 0 0 0
+D1
+   A set of oaken doubledoors.    
+~
+door doubledoors doors oak oaken~
+1 0 2372
+D2
+   A carefully concealed oaken door.    
+~
+door oak oaken~
+1 0 2374
+S
+#2374
+The Lord and Lady's Bed Chamber~
+   Stepping through the door, you are greeted with the fragrance cast from
+several incense sticks which have been lit and which sit, casting their aroma
+throughout the room.  A beautiful canopied bed sits in one corner of the room.
+Curtained with white silk shades, the bed is covered with pearl colored sheets
+and large down filled pillows.  Various other bits of furnishings can be seen,
+including dressers for both the lord and Lady.    
+~
+23 8 0 0 0
+D0
+   A carefully concealed oaken door.    
+~
+door oak oaken~
+1 0 2373
+S
+#2375
+A Wide Hallway~
+   A wide hallway lies in an east-west direction.  As with the great hall, the
+floor is made of shining obsidian marble.  However, the walls of the room are
+gold wrought mahogany, giving the hallway a feeling of warmth not seen in the
+great hall.  Several small chandeliers hang from the ceiling, providing the
+hallway with ample light.  Doors can be seen leading to private rooms both to
+the north and south.    
+~
+23 8 0 0 0
+D0
+A wooden door.
+~
+door wooden~
+1 0 2378
+D1
+~
+~
+0 0 2376
+D2
+A wooden door.
+~
+door wooden~
+1 0 2381
+D3
+~
+~
+0 0 2366
+S
+#2376
+A Wide Hallway~
+   A wide hallway lies in an east-west direction.  As with the great hall, the
+floor is made of shining obsidian marble.  However, the walls of the room are
+gold wrought mahogany, giving the hallway a feeling of warmth not seen in the
+great hall.  Several small chandeliers hang from the ceiling, providing the
+hallway with ample light.  Doors can be seen leading to private rooms both to
+the north and south.    
+~
+23 8 0 0 0
+D0
+A wooden door.
+~
+door wooden~
+1 0 2379
+D1
+~
+~
+0 0 2377
+D2
+A wooden door.
+~
+door wooden~
+1 0 2382
+D3
+~
+~
+0 0 2375
+S
+#2377
+A Wide Hallway~
+   A wide hallway lies in an east-west direction.  As with the great hall, the
+floor is made of shining obsidian marble.  However, the walls of the room are
+gold wrought mahogany, giving the hallway a feeling of warmth not seen in the
+great hall.  Several small chandeliers hang from the ceiling, providing the
+hallway with ample light.  Doors can be seen leading to private rooms both to
+the north and south.    
+~
+23 8 0 0 0
+D0
+A wooden door.
+~
+door wooden~
+1 0 2380
+D2
+A wooden door.
+~
+door wooden~
+1 0 2383
+D3
+~
+~
+0 0 2376
+S
+#2378
+A Guest Room~
+   This guest room has been lavishly decorated and furnished in order to
+provide visitors to the estate with the utmost in comfort.  A large four poster
+bed is the centerpiece of the room.  Off to one side of the bed is an opulent
+dresser carved from mahogany.  To the other side of the bed are several high
+backed chairs covered in soft velvet cushions.  The walls of this room are
+covered in rich tapestries and paintings, adding to the feeling of elegance.  
+~
+23 8 0 0 0
+D2
+A wooden door.
+~
+door wooden~
+1 0 2375
+S
+#2379
+A Guest Room~
+   This guest room has been lavishly decorated and furnished in order to
+provide visitors to the estate with the utmost in comfort.  A large four poster
+bed is the centerpiece of the room.  Off to one side of the bed is an opulent
+dresser carved from mahogany.  To the other side of the bed are several high
+backed chairs covered in soft velvet cushions.  The walls of this room are
+covered in rich tapestries and paintings, adding to the feeling of elegance.  
+~
+23 8 0 0 0
+D2
+A wooden door.
+~
+door wooden~
+1 0 2376
+S
+#2380
+A Guest Room~
+   This guest room has been lavishly decorated and furnished in order to
+provide visitors to the estate with the utmost in comfort.  A large four poster
+bed is the centerpiece of the room.  Off to one side of the bed is an opulent
+dresser carved from mahogany.  To the other side of the bed are several high
+backed chairs covered in soft velvet cushions.  The walls of this room are
+covered in rich tapestries and paintings, adding to the feeling of elegance.  
+~
+23 8 0 0 0
+D2
+A wooden door.
+~
+door wooden~
+1 0 2377
+S
+#2381
+A Guest Room~
+   This guest room has been lavishly decorated and furnished in order to
+provide visitors to the estate with the utmost in comfort.  A large four poster
+bed is the centerpiece of the room.  Off to one side of the bed is an opulent
+dresser carved from mahogany.  To the other side of the bed are several high
+backed chairs covered in soft velvet cushions.  The walls of this room are
+covered in rich tapestries and paintings, adding to the feeling of elegance.  
+~
+23 8 0 0 0
+D0
+~
+door~
+1 0 2375
+S
+#2382
+A Guest Room~
+   This guest room has been lavishly decorated and furnished in order to
+provide visitors to the estate with the utmost in comfort.  A large four poster
+bed is the centerpiece of the room.  Off to one side of the bed is an opulent
+dresser carved from mahogany.  To the other side of the bed are several high
+backed chairs covered in soft velvet cushions.  The walls of this room are
+covered in rich tapestries and paintings, adding to the feeling of elegance.  
+~
+23 8 0 0 0
+D0
+A wooden door.
+~
+door wooden~
+1 0 2376
+S
+#2383
+A Guest Room~
+   This guest room has been lavishly decorated and furnished in order to
+provide visitors to the estate with the utmost in comfort.  A large four poster
+bed is the centerpiece of the room.  Off to one side of the bed is an opulent
+dresser carved from mahogany.  To the other side of the bed are several high
+backed chairs covered in soft velvet cushions.  The walls of this room are
+covered in rich tapestries and paintings, adding to the feeling of elegance.  
+~
+23 8 0 0 0
+D0
+A wooden door.
+~
+door wooden~
+1 0 2377
+S
+#2384
+A Wide Hallway~
+   Like other hallways in the estate, this one is wide and spacious, allowing
+for unimpeded movement between the great hall to the south and the dining room
+to the north.  The smell emanating from the dining hall has a spicy aroma of
+deer meat to it and sounds of laughter can also be heard.    
+~
+23 12 0 0 0
+D0
+~
+~
+0 0 2387
+D2
+~
+~
+0 0 2368
+S
+#2385
+A Child's Room~
+   This room is obviously the bedroom of one of the children of the Lord and
+Lady of the estate.  Gaily decorated with paintings depicting scenes from
+children's stories, the room is strewn with a plethora of toys of every
+conceivable type, from balls and blocks, to intricately carved toy figurines.
+~
+23 8 0 0 0
+D2
+   A small oak door.    
+~
+door small oak~
+1 0 2371
+S
+#2386
+A Child's Room~
+   This room is obviously the bedroom of one of the children of the Lord and
+Lady of the estate.  Gaily decorated with paintings depicting scenes from
+children's stories, the room is strewn with a plethora of toys of every
+conceivable type, from balls and blocks, to intricately carved toy figurines.
+~
+23 8 0 0 0
+D0
+   A small oak door.    
+~
+door small oak~
+1 0 2371
+S
+#2387
+The Dining Hall~
+   The dining hall is dominated by an enormous table at its center.  Fifty
+seats made of red velvet lined hickory are set at even intervals around the
+table.  In front of each is a full set of platinum gilded silverware as well as
+a set of light blue china.  Large azure candles have been set at regular
+intervals along the table, their light reflecting off the finery laid out on
+it.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2389
+D1
+~
+~
+0 0 2388
+D2
+~
+~
+0 0 2384
+D3
+~
+~
+0 0 2392
+D6
+~
+~
+0 0 2391
+D7
+~
+~
+0 0 2390
+S
+#2388
+The Dining Hall~
+   The dining hall is dominated by an enormous table at its center.  Fifty
+seats made of red velvet lined hickory are set at even intervals around the
+table.  In front of each is a full set of platinum gilded silverware as well as
+a set of light blue china.  Large azure candles have been set at regular
+intervals along the table, their light reflecting off the finery laid out on
+it.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2390
+D3
+~
+~
+0 0 2387
+D6
+~
+~
+0 0 2389
+S
+#2389
+The Dining Hall~
+   The dining hall is dominated by an enormous table at its center.  Fifty
+seats made of red velvet lined hickory at set at even intervals around the
+table.  In front of each is a full set of platinum gilded silverwear as well as
+a set of light blue china.  Large azure candles have been set at regular
+intervals along the table, their light reflecting off the finery laid out on
+it.  You notice a set of swinging doubledoors to the north, where you hear the
+sounds of pots and pans clattering about.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2393
+D1
+~
+~
+0 0 2390
+D2
+~
+~
+0 0 2387
+D3
+~
+~
+0 0 2391
+D8
+~
+~
+0 0 2392
+D9
+~
+~
+0 0 2388
+S
+#2390
+The Dining Hall~
+   The dining hall is dominated by an enormous table at its center.  Fifty
+seats made of red velvet lined hickory are set at even intervals around the
+table.  In front of each is a full set of platinum gilded silverware as well as
+a set of light blue china.  Large azure candles have been set at regular
+intervals along the table, their light reflecting off the finery laid out on
+it.    
+~
+23 8 0 0 0
+D2
+~
+~
+0 0 2388
+D3
+~
+~
+0 0 2389
+D8
+~
+~
+0 0 2387
+S
+#2391
+The Dining Hall~
+   The dining hall is dominated by an enormous table at its center.  Fifty
+seats made of red velvet lined hickory are set at even intervals around the
+table.  In front of each is a full set of platinum gilded silverware as well as
+a set of light blue china.  Large azure candles have been set at regular
+intervals along the table, their light reflecting off the finery laid out on
+it.    
+~
+23 8 0 0 0
+D1
+~
+~
+0 0 2389
+D2
+~
+~
+0 0 2392
+D9
+~
+~
+0 0 2387
+S
+#2392
+The Dining Hall~
+   The dining hall is dominated by an enormous table at its center.  Fifty
+seats made of red velvet lined hickory are set at even intervals around the
+table.  In front of each is a full set of platinum gilded silverware as well as
+a set of light blue china.  Large azure candles have been set at regular
+intervals along the table, their light reflecting off the finery laid out on
+it.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2391
+D1
+~
+~
+0 0 2387
+D7
+~
+~
+0 0 2389
+S
+#2393
+The Kitchen~
+   It is in this area where the meals are prepared.  The kitchen is full of
+activity as both assistants and chefs scramble about, working furiously to get
+food ready on time for the evening meal.  Almost tripping over you as they rush
+by, several assistants grumble and cast you irritated looks as you scan the
+room.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2394
+D2
+~
+~
+0 0 2389
+S
+#2394
+The Kitchen~
+   It is in this area where the meals are prepared.  The kitchen is full of
+activity as both assistants and chefs scramble about, working furiously to get
+food ready on time for the evening meal.  Almost tripping over you as they rush
+by, several assistants grumble and cast you irritated looks as you scan the
+room.    
+~
+23 8 0 0 0
+D1
+~
+~
+0 0 2395
+D2
+~
+~
+0 0 2393
+S
+#2395
+The Kitchen~
+   It is in this area where the meals are prepared.  The kitchen is full of
+activity as both assistants and chefs scramble about, working furiously to get
+food ready on time for the evening meal.  Almost tripping over you as they rush
+by, several assistants grumble and cast you irritated looks as you scan the
+room.    
+~
+23 8 0 0 0
+D3
+~
+~
+0 0 2394
+S
+#2396
+The Entrance to the Great Hall~
+   To the north the great hall opens into a wide large and tall room.  
+However, the room you are currently in is more of an entranceway, designed to
+facilitate the movement of large numbers of people into, and out of the great
+hall.  The room is quite wide with a brass fence dividing it into two halves,
+the purpose of which is to keep those people who are entering and leaving into
+separate lines.  Almost as high as the great hall itself, the room is decorated
+with gold fringed paintings and bronze statues.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2362
+D2
+~
+~
+0 0 2306
+D6
+~
+~
+0 0 2361
+D7
+~
+~
+0 0 2363
+S
+#2397
+Surrounding the Pond~
+   A winding gravel path surrounded by lawn and large flowing willow trees
+surrounds a long narrow artificial lake, which has been created by the owners
+of the estate as an area to escape the heat of the summer.  The willow trees
+provide shade for guests to picnic and relax as they watch the swans and ducks
+cruise around on the lake.    
+~
+23 8 0 0 0
+D0
+~
+~
+0 0 2336
+D1
+~
+~
+0 0 2330
+D8
+~
+~
+0 0 2329
+S
+#2398
+An unfinished room~
+You are in an unfinished room.
+~
+23 8 0 0 0
+S
+#2399
+An unfinished room~
+You are in an unfinished room.
+~
+23 8 0 0 0
+S
+$~

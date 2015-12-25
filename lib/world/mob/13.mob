@@ -1,0 +1,145 @@
+#1300
+bat black large~
+a large bat~
+A large black bat flies overhead.
+~
+   It is an ugly black bat with huge leathery wings and sightless red eyes.  
+~
+196680 361536 0 0 E
+5 17 11 2d5+65 2d5+0
+14 85 0
+8 8 0 0
+BareHandAttack: 4
+E
+#1301
+rat sewer brown~
+a sewer rat~
+A brown sewer rat skitters by.
+~
+   It is a sewer rat with matted brown fur, sharp teeth and a long ringed tail.
+~
+196680 1024 0 0 E
+4 18 12 1d5+45 1d8+1
+7 50 0
+8 8 0 0
+BareHandAttack: 4
+E
+#1302
+resident filthy~
+a filthy sewer resident~
+A filthy resident of the sewers stands here, mumbling to himself.
+~
+   He is an emaciated man, dressed in filthy garments that are torn beyond
+repair.  His eyes have a wild look to them, and his shock of white hair looks
+as though it has not seen a comb in a number of years.    
+~
+204 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 1 0
+BareHandAttack: 13
+E
+#1303
+spider hairy fangs yellow~
+a hairy spider~
+A hairy spider with sharp yellow fangs crawls along the floor.
+~
+   This spider is as big as an average man's hand.  It has short, very hairy
+legs and sharp, glistening yellow fangs.    
+~
+65608 263168 0 0 E
+6 17 10 2d5+70 2d5+2
+28 175 0
+8 8 0 0
+BareHandAttack: 4
+E
+#1304
+fish hideous teeth glowing~
+a glowing fish~
+An oddly glowing fish with hideous teeth swims by.
+~
+   This sizeable red fish emits an eerie glow that lights the murky water.  It
+has large, hideous looking teeth that could easily devour prey in seconds.    
+~
+69754 33856 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+BareHandAttack: 4
+E
+#1305
+rat albino red piercing~
+an albino rat~
+An albino rat with piercing red eyes stands here, glaring at you.
+~
+   This pure white rat is rather large and completely without fear.  Its
+piercing red eyes glare at you challengingly.    
+~
+65608 1024 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 0 0
+BareHandAttack: 4
+E
+#1306
+graverobber robber~
+a graverobber~
+A graverobber plunders the tombs here.
+~
+   This lanky man with furtive eyes is apparantly no stranger to the sewers.  
+He makes a profitable living plundering the tombs here.    
+~
+4172 0 0 0 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 1 0
+BareHandAttack: 14
+E
+#1307
+snake long black~
+a black snake~
+A long black snake slithers along.
+~
+   This snake is perhaps four feet in length, with the width of a man's wrist
+at its thinnest point.  It has golden eyes and leathery black skin, with an
+orange diamond pattern.    
+~
+69738 1088 0 0 E
+4 18 12 1d5+45 1d8+1
+0 50 0
+8 8 0 0
+BareHandAttack: 4
+E
+#1308
+beetle gold black~
+a gold beetle~
+A gold beetle with black spots crawls by.
+~
+   This beetle has bright gold colored wings with a pattern of thin black
+lines.  It alternates between a slow crawl and a half-hop, as if uncertain if
+it wishes to walk or fly.  As it rubs its wings together, it makes a peculiar
+high-pitched clicking sound.    
+~
+65608 99328 0 0 E
+6 17 10 2d5+70 2d5+2
+28 175 0
+8 8 0 0
+BareHandAttack: 10
+E
+#1334
+Harok man toothless rags~
+Harok B'nish~
+Harok B'nish, a toothless man in rags, stands here selling sewer delicacies.
+~
+   This frightening-looking man is missing all of his teeth and is dressed in
+rags.  The mean set to his eyes gives pause to potential attackers.  He is no
+stranger to this realm of Krynn, and apparently makes enough profit with his
+venture to survive.    
+~
+7528527 33686528 0 0 E
+30 1 -14 30d33+5000 30d99+50
+1000000 1 0
+8 8 1 0
+BareHandAttack: 6
+E
+$

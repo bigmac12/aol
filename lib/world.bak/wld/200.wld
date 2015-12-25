@@ -1,0 +1,1677 @@
+#20000
+Outside the Gates of an Abandoned Garden~
+   Large gates of black and rusted green wrought iron stand at an imposing
+ten meters high.  The handles of the gates have rusted off, and the iron is
+covered with intertwining vines of thorn ivy and wild roses, making it almost
+impossible to see inside, or open without cutting yourself.  More thorn ivy and
+wild roses grow along the stone wall, which also reaches an amazing ten
+meters high.  It is, to say the least, a slight obstacle.
+~
+200 4 3 0 0
+D0
+Green and black rusted wrought iron gates stand impossibly tall and immoveable.
+~
+gates rusted black green~
+2 20000 20001
+D1
+~
+~
+0 0 20015
+D3
+~
+~
+0 0 20010
+S
+#20001
+Inside the Entrance of an Abandoned Garden~
+   Directly to the south are the impossibly high gates of rusted wrought iron.
+Like the outside of the garden, this side is also covered with intertwining
+vines of thorn ivy and wild roses, making it impossible to see outside, or to
+open the gates.  The stone walls are not as covered by the vines, but instead
+seem to have silvery green moss growing in between the stones.  The grass
+growing inside this garden is also silvery green in color, and grows about two
+feet high.  The stone pathway leading from the gates to the inner courtyard is
+broken, and some moss and grass grows in between these stones as well.  On each
+side of the pathway grows various flowers - colorful and deadly.    
+~
+200 0 0 0 0
+D0
+~
+~
+0 0 20002
+D2
+Green and black rusted iron gates stand impossibly tall, and won't move.
+~
+gates iron rusted~
+2 20000 20000
+S
+#20002
+A Stone Pathway Through an Abandoned Garden~
+   The stones that make up the outer courtyard pathway of this abandoned garden
+are broken and discolored; no longer smooth and grey in color.  Silvery moss
+and silver green grass grows inbetween the stones, making them slippery.  On
+each side of the pathway are various, colourful flowers, bushes, and vines,
+full of fragrant blooms and branches burdened with overripe fruits and nasty
+thorns.  They almost seem dangerous and overbearing in their appearance.  The
+pathway of the outer courtyard continues northwards, and to the south it leads
+to the large, rusted iron gates - the once-used entrance to the garden.    
+~
+200 0 0 0 0
+D0
+~
+~
+0 0 20004
+D2
+~
+~
+0 0 20001
+D6
+~
+~
+0 0 20005
+D7
+~
+~
+0 0 20003
+S
+#20003
+The Southwestern Corner of the Outer Courtyard~
+   The stone pathway around the outer courtyard is broken and discoloured - no
+longer smooth and grey.  Silver moss and silvery green grass grows in between
+the stones, and along the pathway, in the midst of all the various blooming
+plants, flowers, vines and bushes.  The pathway continues to the east and
+north, and to the northeast is the inner courtyard.    
+~
+200 0 0 0 0
+D0
+~
+~
+0 0 20006
+D1
+~
+~
+0 0 20004
+D6
+~
+~
+0 0 20007
+D8
+~
+~
+0 0 20002
+S
+#20004
+A Stone Pathway Through the Outer Courtyard~
+   The stones that make up the outer courtyard pathway are broken and
+discoloured - no longer smooth and grey.  Silver moss and silvery green grass
+grow in between the stones, and along the pathway, in the midst of all the
+various, blooming plants and flowers and vines.  The pathway seems safest at
+the moment, for the flowers, though beautiful, look imposing and overbearing
+with their markings and thorns.  The pathway continues to the south, and the
+outer courtyard continues in a circle, westwards and eastwards, with the inner
+courtyard to the north.    
+~
+200 0 0 0 0
+D0
+~
+~
+0 0 20007
+D1
+~
+~
+0 0 20005
+D2
+~
+~
+0 0 20002
+D3
+~
+~
+0 0 20003
+D6
+~
+~
+0 0 20008
+D7
+~
+~
+0 0 20006
+S
+#20005
+The Southeastern Corner of the Outer Courtyard~
+   The stone pathway around the outer courtyard is broken and discoloured - no
+longer smooth and grey in color.  Silver moss and silvery green grass grow in
+between the stones, and along the pathway in the midst of the various blooming
+plants, flowers, bushes and vines.  The pathway continues to the north and
+west, and to the northwest lies the inner courtyard.    
+~
+200 0 0 0 0
+D0
+~
+~
+0 0 20008
+D3
+~
+~
+0 0 20004
+D7
+~
+~
+0 0 20007
+D9
+~
+~
+0 0 20002
+S
+#20006
+The Western Corner of the Outer Courtyard~
+   The stone pathway around the outer courtyard is broken and discoloured - no
+longer smooth and grey.  Silver moss and silvery green grass grow in between
+the stones, and along the pathway in the midst of the various blooming plants,
+flowers, bushes and vines in the garden.  The pathway continues to the east and
+south, and to the east lies the inner courtyard.    
+~
+200 0 0 0 0
+D1
+~
+~
+0 0 20007
+D2
+~
+~
+0 0 20003
+D8
+~
+~
+0 0 20004
+S
+#20007
+The Inner Courtyard of an Abandoned Garden~
+   The branches of the weeping willow flash a silvery green in the sunlight,
+and seems to create a natural drapery within the courtyard.  The large trunk of
+the tree creates a naturally formed hollow bowl, from which clear water
+collects, making a wounderous bird bath type fountain.  The stones seem to grow
+around the roots of the willow and outwards, and everything is at peace within
+the willow's reach.  The outer courtyard lies to the eastern, western and
+southern directions, and to the north lies a building made of only vines,
+branches and flowers - a thick wall of vegetation, and guarded by two statues
+from those who would dare defile nature at its purest.    
+~
+200 4 0 0 0
+D0
+A small entrance into the temple, surrounded by vines, can barely be seen.
+~
+vines~
+1 0 20009
+D1
+~
+~
+0 0 20008
+D2
+~
+~
+0 0 20004
+D3
+~
+~
+0 0 20006
+D8
+~
+~
+0 0 20005
+D9
+~
+~
+0 0 20003
+S
+#20008
+The Eastern Corner of the Outer Courtyard~
+   The stone pathway around the outer courtyard is broken and discoloured - no
+longer smooth and grey in color.  Silver moss and silvery green grass grow in
+between the stones, and along the pathway in the midst of the various blooming
+plants, flowers, bushes and vines.  The pathway continues to the west and
+south, and the inner courtyard lies to the east.    
+~
+200 0 0 0 0
+D2
+~
+~
+0 0 20005
+D3
+~
+~
+0 0 20007
+D9
+~
+~
+0 0 20004
+S
+#20009
+Inside an Abandoned Garden Temple~
+You are in an unfinished room.
+~
+200 237 0 0 0
+D2
+~
+~
+0 0 20007
+S
+#20010
+Alongside the Rosevine Wall~
+   The stone wall to the north of you stands at an imposing ten meters tall,
+and is covered with vines of wild roses and thorns.  This small path seems to
+follow closely to the wall, squeezing through the various overgrown trees that
+grow along the pathway, which continues to the west.
+~
+200 0 3 0 0
+D1
+~
+~
+0 0 20000
+D3
+~
+~
+0 0 20011
+S
+#20011
+Alongside the Rosevine Wall~
+   The stone wall to the north of you stands at an imposing ten meters tall,
+and is covered with vines of wild roses and thorns.  This small path seems to
+follow closely to the wall, squeezing through the various overgrown trees that
+grow along the pathway, continuing to the northwest and east.    
+~
+200 0 3 0 0
+D1
+~
+~
+0 0 20010
+D7
+~
+~
+0 0 20012
+S
+#20012
+Alongside the Rosevine Wall~
+   The stone wall to the northeast of you stands at an imposing ten meters
+tall, and is covered with vines of wild roses and thorns.  This small path
+seems to follow closely to the wall, squeezing through the various overgrown
+trees that grow along the pathway, which continues to the northwest and
+southeast.    
+~
+200 4 3 0 0
+D7
+~
+~
+0 0 20013
+D8
+~
+~
+0 0 20011
+S
+#20013
+At the Base of a Large Chestnut Tree~
+   The pathway ends here abruptly, at the base of a large chestnut tree.  The
+tree seems to almost grow into the stone wall, with the roots loosening a few
+of the stones at the bottom of the wall, and the branches reaching over the top
+with ease.  The vines of roses and thorns continue to grow along the wall,
+continuing to the north, and some even started to grow up the trunk of the
+chestnut tree.  The path continues back to the southeast, toward the front of
+the abandoned garden.    
+~
+200 0 3 0 0
+D4
+The branches of this large chestnut tree look almost climbable.
+~
+branches~
+1 0 20014
+D8
+~
+~
+0 0 20012
+S
+#20014
+High Within the Branches of a Large Chestnut Tree~
+   The branches of this chestnut tree are thick and stable enough to hold
+almost anyone.  They branch out over the wall easily, and you can see below you
+a wonderous garden full of many different bushes, flowers, and small trees.  
+You realize, too late, you cannot climb back down the trunk of the tree, but
+you must jump from the branches into the garden.    
+~
+200 4 5 0 0
+D5
+~
+~
+0 0 20027
+S
+#20015
+Alongside the Rosevine Wall~
+   The stone wall to the north of you stands at an imposing ten meters tall,
+and is covered with vines of wild roses and thorns.  This small path seems to
+follow closely to the wall, squeezing through the various overgrown trees that
+grow along the pathway, which continues to the east.    
+~
+200 0 3 0 0
+D1
+~
+~
+0 0 20016
+D3
+~
+~
+0 0 20000
+S
+#20016
+Alongside the Rosevine Wall~
+   The stone wall to the north of you stands at an imposing ten meters tall,
+and is covered with vines of wild roses and thorns.  This small path seems to
+follow closely to the wall, squeezing through the various overgrown trees that
+grow along the pathway, which continues to the northeast and west.    
+~
+200 0 3 0 0
+D3
+~
+~
+0 0 20015
+D6
+~
+~
+0 0 20017
+S
+#20017
+Alongside the Rosevine Wall~
+   The stone wall to the northwest of you stands at an imposing ten meters
+tall, and is covered with vines of wild roses and thorns.  This small path
+seems to follow closely to the wall, squeezing through the various overgrown
+trees that grow along the pathway, which continues to the northeast and
+southwest.    
+~
+200 0 3 0 0
+D6
+~
+~
+0 0 20018
+D9
+~
+~
+0 0 20016
+S
+#20018
+Alongside the Rosevine Wall~
+   The stone wall to the west of you stands at an imposing ten meters tall, and
+is covered with vines of wild roses and thorns.  This small path seems to
+follow closely to the wall, squeezing through the various overgrown trees that
+grow along the pathway, which continues to the north, and southwest.    
+~
+200 0 3 0 0
+D0
+~
+~
+0 0 20019
+D9
+~
+~
+0 0 20017
+S
+#20019
+Alongside the Rosevine Wall~
+   The stone wall to the west of you stands at an imposing ten meters tall, and
+is covered with vines of wild roses and thorns, especially thick in one area of
+the wall to the southwest.  This small path seems to follow closely to the
+wall, squeezing through the various overgrown trees that grow along the
+pathway, which continues to the north and south.    
+~
+200 4 3 0 0
+D0
+~
+~
+0 0 20020
+D2
+~
+~
+0 0 20018
+D9
+A hidden door within the wall is concealed underneath the thick growth of vines.
+~
+hidden door~
+1 0 20042
+S
+#20020
+Beside a Dense Thicket of Thorns~
+   The pathway ends here abruptly, at the beginning of a dense thicket of
+thorny branches, stickler ivy and poisionous berries that cause rashes upon
+skin contact.  The surrounding trees are also thick in this area, leaving no
+way out other than the way you came.  The stone wall, at its imposing ten
+meters tall, appears to have no footholes for even the best thief to grasp, and
+is covered in thorns, ivy and roses as well.    
+~
+200 0 3 0 0
+D2
+~
+~
+0 0 20019
+S
+#20021
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20023
+D1
+~
+~
+0 0 20001
+D3
+~
+~
+0 0 20022
+D6
+~
+~
+0 0 20002
+D7
+~
+~
+0 0 20024
+S
+#20022
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20024
+D1
+~
+~
+0 0 20021
+D6
+~
+~
+0 0 20023
+D7
+~
+~
+0 0 20025
+S
+#20023
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20003
+D1
+~
+~
+0 0 20002
+D2
+~
+~
+0 0 20021
+D3
+~
+~
+0 0 20024
+D6
+~
+~
+0 0 20004
+D7
+~
+~
+0 0 20026
+D8
+~
+~
+0 0 20001
+D9
+~
+~
+0 0 20023
+S
+#20024
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20026
+D1
+~
+~
+0 0 20023
+D2
+~
+~
+0 0 20022
+D3
+~
+~
+0 0 20025
+D6
+~
+~
+0 0 20003
+D7
+~
+~
+0 0 20027
+D8
+~
+~
+0 0 20021
+D9
+A small concealed hole within the wall can be seen when moving the ivy.
+~
+ivy~
+1 0 20012
+S
+#20025
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20027
+D1
+~
+~
+0 0 20024
+D6
+~
+~
+0 0 20026
+D8
+~
+~
+0 0 20022
+S
+#20026
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded 2
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20028
+D1
+~
+~
+0 0 20003
+D2
+~
+~
+0 0 20024
+D3
+~
+~
+0 0 20027
+D6
+~
+~
+0 0 20006
+D7
+~
+~
+0 0 20029
+D8
+~
+~
+0 0 20023
+D9
+~
+~
+0 0 20025
+S
+#20027
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20029
+D1
+~
+~
+0 0 20026
+D2
+~
+~
+0 0 20025
+D6
+~
+~
+0 0 20028
+D8
+~
+~
+0 0 20024
+S
+#20028
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20031
+D1
+~
+~
+0 0 20006
+D2
+~
+~
+0 0 20026
+D3
+~
+~
+0 0 20029
+D6
+~
+~
+0 0 20030
+D7
+~
+~
+0 0 20032
+D8
+~
+~
+0 0 20003
+D9
+~
+~
+0 0 20027
+S
+#20029
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20032
+D1
+~
+~
+0 0 20028
+D2
+~
+~
+0 0 20027
+D6
+~
+~
+0 0 20031
+D8
+~
+~
+0 0 20026
+S
+#20030
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20033
+D2
+~
+~
+0 0 20006
+D3
+~
+~
+0 0 20031
+D6
+~
+~
+0 0 20050
+D7
+~
+~
+0 0 20034
+D9
+~
+~
+0 0 20028
+S
+#20031
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20034
+D1
+~
+~
+0 0 20030
+D2
+~
+~
+0 0 20028
+D3
+~
+~
+0 0 20032
+D6
+~
+~
+0 0 20033
+D7
+~
+~
+0 0 20035
+D8
+~
+~
+0 0 20006
+D9
+~
+~
+0 0 20029
+S
+#20032
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20035
+D1
+~
+~
+0 0 20031
+D2
+~
+~
+0 0 20029
+D6
+~
+~
+0 0 20034
+D8
+~
+~
+0 0 20028
+S
+#20033
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, in their haven of nature.
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20036
+D1
+~
+~
+0 0 20050
+D2
+~
+~
+0 0 20030
+D3
+~
+~
+0 0 20034
+D6
+~
+~
+0 0 20054
+D7
+~
+~
+0 0 20037
+D9
+~
+~
+0 0 20031
+S
+#20034
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20037
+D1
+~
+~
+0 0 20033
+D2
+~
+~
+0 0 20031
+D3
+~
+~
+0 0 20035
+D6
+~
+~
+0 0 20036
+D8
+~
+~
+0 0 20030
+D9
+~
+~
+0 0 20032
+S
+#20035
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D1
+~
+~
+0 0 20034
+D2
+~
+~
+0 0 20032
+D6
+~
+~
+0 0 20037
+D8
+~
+~
+0 0 20031
+S
+#20036
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D1
+~
+~
+0 0 20054
+D2
+~
+~
+0 0 20033
+D3
+~
+~
+0 0 20037
+D8
+~
+~
+0 0 20050
+D9
+~
+~
+0 0 20034
+S
+#20037
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D1
+~
+~
+0 0 20036
+D2
+~
+~
+0 0 20034
+D8
+~
+~
+0 0 20033
+D9
+~
+~
+0 0 20035
+S
+#20038
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20040
+D1
+~
+~
+0 0 20039
+D3
+~
+~
+0 0 20001
+D6
+~
+~
+0 0 20041
+D7
+~
+~
+0 0 20002
+S
+#20039
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20041
+D3
+~
+~
+0 0 20039
+D6
+~
+~
+0 0 20042
+D7
+~
+~
+0 0 20040
+S
+#20040
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20005
+D1
+~
+~
+0 0 20041
+D2
+~
+~
+0 0 20038
+D3
+~
+~
+0 0 20002
+D6
+~
+~
+0 0 20043
+D7
+~
+~
+0 0 20004
+D8
+~
+~
+0 0 20039
+D9
+~
+~
+0 0 20001
+S
+#20041
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20043
+D1
+~
+~
+0 0 20042
+D2
+~
+~
+0 0 20039
+D3
+~
+~
+0 0 20040
+D6
+~
+~
+0 0 20044
+D7
+~
+~
+0 0 20005
+D9
+~
+~
+0 0 20038
+S
+#20042
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20044
+D3
+~
+~
+0 0 20041
+D7
+~
+~
+0 0 20043
+D9
+~
+~
+0 0 20039
+S
+#20043
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20045
+D1
+~
+~
+0 0 20044
+D2
+~
+~
+0 0 20041
+D3
+~
+~
+0 0 20005
+D6
+~
+~
+0 0 20046
+D7
+~
+~
+0 0 20008
+D8
+~
+~
+0 0 20042
+D9
+~
+~
+0 0 20040
+S
+#20044
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20046
+D2
+~
+~
+0 0 20042
+D3
+~
+~
+0 0 20043
+D7
+~
+~
+0 0 20045
+D9
+~
+~
+0 0 20041
+S
+#20045
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20048
+D1
+~
+~
+0 0 20046
+D2
+~
+~
+0 0 20043
+D3
+~
+~
+0 0 20008
+D6
+~
+~
+0 0 20049
+D7
+~
+~
+0 0 20047
+D8
+~
+~
+0 0 20044
+D9
+~
+~
+0 0 20005
+S
+#20046
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20049
+D2
+~
+~
+0 0 20044
+D3
+~
+~
+0 0 20045
+D7
+~
+~
+0 0 20048
+D9
+~
+~
+0 0 20043
+S
+#20047
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20051
+D1
+~
+~
+0 0 20048
+D2
+~
+~
+0 0 20008
+D6
+~
+~
+0 0 20052
+D7
+~
+~
+0 0 20050
+D8
+~
+~
+0 0 20045
+S
+#20048
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20052
+D1
+~
+~
+0 0 20049
+D2
+~
+~
+0 0 20045
+D3
+~
+~
+0 0 20047
+D6
+~
+~
+0 0 20053
+D7
+~
+~
+0 0 20051
+D8
+~
+~
+0 0 20046
+D9
+~
+~
+0 0 20008
+S
+#20049
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20053
+D2
+~
+~
+0 0 20046
+D3
+~
+~
+0 0 20048
+D7
+~
+~
+0 0 20052
+D9
+~
+~
+0 0 20045
+S
+#20050
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20054
+D1
+~
+~
+0 0 20051
+D2
+~
+~
+0 0 20033
+D6
+~
+~
+0 0 20055
+D7
+~
+~
+0 0 20036
+D8
+~
+~
+0 0 20047
+D9
+~
+~
+0 0 20030
+S
+#20051
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20035
+D1
+~
+~
+0 0 20052
+D2
+~
+~
+0 0 20047
+D3
+~
+~
+0 0 20050
+D6
+~
+~
+0 0 20056
+D7
+~
+~
+0 0 20054
+D8
+~
+~
+0 0 20048
+S
+#20052
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D0
+~
+~
+0 0 20056
+D1
+~
+~
+0 0 20053
+D2
+~
+~
+0 0 20048
+D3
+~
+~
+0 0 20051
+D7
+~
+~
+0 0 20055
+D8
+~
+~
+0 0 20049
+D9
+~
+~
+0 0 20047
+S
+#20053
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D2
+~
+~
+0 0 20049
+D3
+~
+~
+0 0 20052
+D7
+~
+~
+0 0 20056
+D9
+~
+~
+0 0 20048
+S
+#20054
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D1
+~
+~
+0 0 20055
+D2
+~
+~
+0 0 20050
+D3
+~
+~
+0 0 20056
+D8
+~
+~
+0 0 20051
+D9
+~
+~
+0 0 20033
+S
+#20055
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D1
+~
+~
+0 0 20056
+D2
+~
+~
+0 0 20051
+D3
+~
+~
+0 0 20054
+D8
+~
+~
+0 0 20052
+D9
+~
+~
+0 0 20050
+S
+#20056
+Walking Within an Abandoned Garden~
+   You are surrounded by tall ornamental grasses, overbearing bushes loaded
+with ripe fruits and berries, and oddly imposing flowers of various shapes,
+sizes, colors and blooms.  There is no path in this abandoned garden - any such
+trail has long been overtaken by the plantlife itself.  They almost seem to
+have a life of their own, here in their haven of nature.    
+~
+200 0 2 0 0
+D2
+~
+~
+0 0 20052
+D3
+~
+~
+0 0 20055
+D8
+~
+~
+0 0 20053
+D9
+~
+~
+0 0 20051
+S
+#20099
+A Room within the Crimson Moon~
+   The room resembles the inside of a bubble, with no actual sides, floor or
+ceiling.  The 'wall' is perfectly smooth and spherical in nature, and is a
+dull, opaque red color that barely pulses with energy.  Images play upon the
+walls like an illusional projector - the windows to the world of Krynn.  
+Objects appear and disappear at the will of the goddess - a few chairs for
+guests, an odd coloured desk, a few ice cold drinks - even a pet can suddenly
+appear in the room at the whim of the goddess.
+~
+200 8200 0 0 0
+S
+$~

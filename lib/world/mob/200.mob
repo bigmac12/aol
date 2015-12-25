@@ -1,0 +1,129 @@
+#20000
+griffon statue growling~
+the griffon statue~
+A stone statue of a growling griffon sits imposingly in front of the temple.
+~
+A smooth stone statue sits in front of the temple, carved into the likeness
+of a fierce, growling griffon.  The statue appears well-kept, for it is one
+of the few things in this garden that is not crumbling to dust.
+~
+74 0 1000 0 E
+10 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+BareHandAttack: 6
+E
+#20001
+griffon growling statue~
+the griffon statue~
+A stone statue of a growling griffon sits imposingly in front of the temple.
+~
+A smooth stone statue sits in front of the temple, carved into the likeness
+of a fierce, growling griffon.  The statue appears well-kept, for it is one
+of the few things in this garden that is not crumbling to dust.
+~
+74 0 1000 0 E
+10 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+BareHandAttack: 6
+E
+#20005
+lily scarlet tiger~
+a scarlet tiger lily~
+The scarlet blooms of the tiger lily sway gently with an unseen breeze.
+~
+The large scarlet blooms of the tiger lily are streaked with fiery orange
+and pale stripes, and balance upon thick stalks of vibrant green.  The leaves
+are large and healthy, and the whole plant seems to sway gently, as if
+listening to mother nature.
+~
+10 0 0 0 E
+5 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+BareHandAttack: 8
+E
+#20006
+snapdragon silvery pink~
+a silvery pink snapdragon~
+A long stalked plant with silvery pink blossoms grows inbetween the grasses.
+~
+Dozens of small blossoms, silvery pink in colour, grow upon a long, thin
+green stalk.  A few of the higher blossoms are still budding, while the ones
+near the bottom are in full bloom, and resemble, somewhat, of tiny heads of
+dragons peeking out.
+~
+74 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+BareHandAttack: 4
+E
+#20007
+swordgrass red patch~
+a patch of red tipped swordgrass~
+A patch of ornamental swordgrass, leaves tipped with rusty red, grow here.
+~
+A large patch of ornamental grasses grow here in a tight bunch.  The grass,
+known as swordgrass for its unusual sharpness, has rustic red tipped stalks
+that contrast sharply with the rest of its greeness.  A few breezes through the
+swordgrass make it seem like it dances in the garden.
+~
+74 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+BareHandAttack: 3
+E
+#20008
+catnip fragrant mint clump~
+a fragrant clump of catnip~
+A fragrant clump of mint grows along the ground, attracting felines everywhere.
+~
+A clump of leafy green mint grows along the ground like a covering of incense.
+A wonderful minty fragrance from the leaves of this plant is the main secret
+people use to attract felines, or keep them tamed as pets.  Small budding
+white flowers peek out from underneath the leaves of this catnip plant,
+giving it a nice variety of color.
+~
+74 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+BareHandAttack: 15
+E
+#20050
+pixie golden tiny dainty irridescent creature~
+a tiny golden skinned pixie~
+A tiny, dainty looking creature with irridescent wings hovers nearby.
+~
+   A tiny creature hovers nearby, with irridescent wings like a dragonfly's,
+and a body similar to a miniature elf.  Her skin is golden, and she tends to
+wear tiny bits of silk, leaves and other bits of things she finds interesting.
+Her mischevious nature can lead her into trouble at times.    
+~
+8346 472120 0 0 E
+15 11 1 5d10+300 2d8+4
+0 8400 1
+8 8 2 0
+BareHandAttack: 16
+E
+#20099
+necromancer twisted warlock earth~
+a twisted necromancer~
+A twisted warlock stands amidst the corpses, smiling cruelly.
+~
+   A twisted necromancer, this warlock believes that his purpose in serving the
+shrine of earth is to help create an army of followers from the corpses of its
+fors, and use that army to conquer and plunder other lands, and their
+knowledge.  Standing amidst the pile of corpses, his robes blow in a breeze
+that seems to come from nowhere as he defiantly challenges your right to live.
+  
+~
+1572906 0 723 -1000 E
+31 -9 -11 20d20+1436 4d8+10
+1300 120000 0
+8 8 1 0
+E
+$

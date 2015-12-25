@@ -1,0 +1,397 @@
+ACID ARROW
+
+Usage       : cast 'acid arrow' <victim>
+
+By means of this spell, an acidic arrow is shot forth from the casters
+hand. The acid splatters against the victim causing them harm.
+#
+FLY
+
+Usage       : cast 'fly' <victim>
+
+This spell casuses the victim's feet to rise up off the ground and and fly
+in any direction.
+#
+SLEEP
+
+Usage       : cast 'sleep' <victim>
+
+The casting of this spell causes the victim to fall asleep rendering them
+prone for attacks.
+#
+BARKSKIN
+
+Usage       : cast 'barkskin' <victim>
+
+This spell causes the victims skin to become bark for a few hours, causing
+the victim to become harder to hit.
+#
+STONESKIN
+
+Usage       : cast 'stoneskin' <victim>
+
+This spell causes the victim's skin to become stone for a few hours,
+causing the victim to become harder to hit.
+#
+TELEPORT
+
+Usage       : cast 'teleport' <victim>
+
+This spell allws the caster to travel great distances with only the use of
+words. The caster will teleport to the victims name choosen.
+#
+WEAKNESS
+
+Usage       : cast 'weakness' <victim>
+
+The use of this spell causes the victim to be sapped of strength making
+him weaker, and less of a threat.
+#
+ARMOR
+
+Usage       : cast 'armor' [target]
+
+By means of this spell the cleric creates a magical field of force
+that serves as a suit of armor that protects the wearer. This spell
+has no additional affects to those already armored with the spell.
+
+See also: AC
+#
+BLESS
+
+Usage       : cast 'bless' <victim | object>
+
+Upon uttering the spells spell the victim becomes more accurate in
+melee combat and posses a slightly better resistant to spells being
+casted upon them.
+
+Bless on an item currently has no defined action.  It is only possible
+to bless non-evil items, and the object blessed may weigh no more
+than five pounds per level of caster. 
+#
+BLINDNESS
+
+Usage       : cast 'blindness' <victim>
+
+The blindess spell will blind its victim who fails their saving throw.
+Not only will it cause them to become blind, but will also raise their
+armor class making them easier targets.
+
+See also: AC
+#
+"BURNING HANDS"
+
+Usage       : cast 'burning hands' <victim>
+
+When the wizard casts this spells, a jet of searing flame shoots from
+his fingertips. The flame shoots out causing harm to the victim.
+
+See also: "CHILL TOUCH"
+#
+CAST
+
+Usage: cast <spell> [target]
+
+For "magical" people.  If you want to throw a spell at someone or something.
+
+Example:
+
+  > cast burning-hands dog
+
+  Note that spells with multiple words must have the words seperated by a
+dash.  The first space after the spell name begins (in this case, dog) is
+for the targets - some spells will require multiple arguments.
+
+See also: help on each individual spell:
+
+Examples:
+
+  > help spell cure light
+  > help spell ventri
+  > help spell energy drain
+#
+"CHARM PERSON"
+
+Usage       : cast 'charm person' <victim>
+
+It is not possible to charm anyone that is already charmed.
+A charmed person will follow you, and not be able to attack you, you
+can order the charmed person using the order command.
+
+Ordering a charmed person to quit the game is against the rules. If this
+happens the person will be punished.
+
+See also: FOLLOW, ORDER
+#
+"CHILL TOUCH"
+
+Usage       : cast 'chill touch' <victim>
+
+When the caster completes thi spell, a blue glow encompasses his hand.
+This energy attacks the life force of any living creature upon which the
+wizard scores a successful attack.
+
+See also: "MAGIC MISSILE"
+#
+COLORSPRAY "COLOR SPRAY"
+
+Usage       : cast 'color spray' <victim>
+
+The wizard causes a vivid, fan-shap of clashing colors to spring forth
+from his hand.
+
+For help on actual color, see:  ANSI
+#
+"CREATE FOOD"
+
+Usage       : cast 'create food'
+
+This spell instantly creates a fresh piece of bread.
+
+See also: "CREATE WATER"
+#
+"CREATE WATER"
+
+Usage       : cast 'create water' <drink container>
+
+The caster stares at the container and says the magic words. If successful
+a liquid will form inside the container.
+
+See also: "CREATE FOOD"
+#
+"CURE BLIND"
+
+Usage       : cast 'cure blind' <victim>
+
+This spell will cure a person blinded by the "blindness" spell.
+#
+"CURE CRITIC"
+
+Usage       : cast 'cure critic' <victim>
+
+This spell cures gashes and large wounds.
+#
+"CURE LIGHT"
+
+Usage       : cast 'cure light' <victim>
+
+Cures minor wounds and scratches.
+#
+CURSE
+
+Usage       : cast 'curse' <victim | object>
+
+Curse cast on a person will reduce thier ability to attack
+When cast upon an object, the object will become undropable.
+#
+"DETECT ALIGNMENT"
+
+Usage       : cast 'detect alignment'
+
+
+Allows the caster to detect the nature of those around them.
+
+
+See also: "DETECT INVISIBILITY"
+#
+"DETECT INVISIBILITY"
+
+Usage       : cast 'detect invisibility' [self]
+
+This spell enables you to see invisible items and people.
+#
+"DETECT MAGIC"
+
+Usage       : cast 'detect magic' [self]
+
+This spell will let you see the magical aura surrounding magical
+objects.
+#
+"DETECT POISON"
+
+Usage       : cast 'detect poison' <victim | food | drink>
+
+Cast on food or drinks (drink containers) you will be able to
+sense if it is poisoned.
+
+Cast on a person you will be able to see if that person is
+poisoned.
+#
+"DISPEL EVIL"
+
+Usage       : cast 'dispel evil' <victim>
+
+This spell will only affect evil creatures. If successful, this spell
+will cause a great amount of pain to the person its being casted upon.
+
+See also: DISPEL GOOD
+#
+"DISPEL GOOD"
+
+Usage       : cast 'dispel good' <victim>
+
+This spell will only affect good creatures. If successful, this spell
+will cause a great amount of pain to the person its being cast upon.
+
+See also: DISPEL EVIL
+#
+EARTHQUAKE
+
+Usage       : cast 'earthquake'
+When uttering the words to this spell, the caster causing the ground to
+open up which cases all those around him to fall.
+#
+"ENCHANT WEAPON"
+
+Usage       : cast 'enchant weapon' <weapon>
+
+This spell will enchant normal wapons, making them more powerful than
+others.
+#
+"ENERGY DRAIN"
+
+Usage       : cast 'energy drain' <victim>
+
+When cast upon its victim, the energy absorbs the life from within,
+giving the caster of the spell a partial benefit of the drain.
+#
+FIREBALL
+
+Usage       : cast 'fireball' <victim>
+
+When cast, a giant ball of fire shoots from the casters hand, causing the
+vitim an intense amount of pain, if not death.
+#
+HARM
+
+Usage       : cast 'harm' <victim>
+
+By means of this spell the caster lunges forward and grabs the victim. The
+spells causes so much pain to the victim it can almost kill the victim out
+right.
+#
+HEAL
+
+Usage       : cast 'heal' <victim>
+
+This spell heals the wounds that are which almost fatal to the victim.
+#
+INFRAVISION
+
+Usage       : cast 'infravision'
+
+Allows the caster to detect the heat given off by objects giving them
+the ability to have much better vision in dark conditions.
+
+#
+INVISIBILITY
+
+Usage       : cast 'invisibility' <victim | object>
+Accumulative: Yes (Duration)
+Duration    : 24 hours, permanent on objects.
+Level       : Mage level 4.
+
+Makes the target of the spell invisible to everyone except those who have
+means of detecting invisible things.
+#
+"LIGHTNING BOLT"
+
+Usage       : cast 'lightning bolt' <victim>
+
+The caster raises his arms high towards the sky calling a masive bolt of
+lighting to shatter into the victim it was called to, casing a great
+amount of pain.
+#
+"LOCATE OBJECT"
+
+Usage       : cast 'locate object' <object>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 6.
+
+If possible you will know exactly where an object is, or the
+name of the person using it.
+#
+"MAGIC MISSILE"
+
+Usage       : cast 'magic missile' <victim>
+
+Causes a bolt of magical energy to be thrown from the casters hands at the
+victim.
+#
+POISON
+
+Usage       : cast 'poison' <victim | food | drink>
+
+Casting poison on food or drink (containers) will poison it.  Eating
+poisoned food/drinks will poison the person eating or drinking.
+
+A person who is poisoned will suffer until the poison is removed.
+
+See also: "REMOVE POISON", "DETECT POISON"
+#
+"PROTECTION FROM EVIL"
+
+Usage       : cast 'protection from evil' [self]
+
+The meaning of this spell is not yet fully defined.
+#
+"REMOVE CURSE"
+
+Usage       : cast 'remove curse' <victim | object>
+
+Will remove a curse on carried objects or any persons.
+#
+"REMOVE POISON"
+
+Usage       : cast 'remove poison' <victim | food | drink> 
+
+Will remove the affects of poison from a victim or an object.
+
+See also: POISON
+#
+SANCTUARY
+
+Usage       : cast 'sanctuary' [self]
+
+When protected by sanctuary the amount of damage done to you is decreased.
+
+See also: ARMOR, BLESS
+#
+"SHOCKING GRASP"
+
+Usage       : cast 'shocking grasp' <victim>
+
+With this spell the caster reaches out and zaps you, causing some you
+pain.
+
+See also: "BURNING HANDS"
+#
+"SENSE LIFE"
+
+Usage       : cast 'sense life'
+
+Allows the caster to sense the presence of a person in the area.
+
+See also: HIDE
+#
+STRENGTH
+
+Usage       : cast 'strength' <victim>
+
+When cast, the victim will feel an increase in his strength.
+#
+SUMMON
+
+Usage       : cast 'summon' <victim>
+
+Will summon a person of the name spoken.
+#
+"WORD OF RECALL"
+
+Usage       : cast 'word of recall' 
+
+The caster will be transferred back to the last place in which they rented
+at.
+#
+$

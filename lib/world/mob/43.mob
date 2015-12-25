@@ -1,0 +1,254 @@
+#4301
+pirate spectral~
+a spectral pirate~
+A spectral pirate stands here protecting his treasure.
+~
+   This pirate looks as though he has seen better days.  His hair and beard are
+dark and scraggly.  His clothes are torn and faded.  He seems quite annoyed
+that his hiding place has been discovered.    
+~
+2122 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 1 0
+E
+#4302
+pirate polly~
+Polly, the pirate~
+Polly the pirate stands here loading equipment into a boat.
+~
+   This old sea dog looks like he has seen a lot of action.  He wears a patch
+over one eye and a bandana on his head.  He seems quite busy, preparing his
+boat for his next journey.    
+~
+74 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 13
+E
+#4303
+harbor master~
+the harbor master~
+The harbor master stands here, staring out the window across the water.
+~
+   The harbor master seems lost in her work.  Her gaze never turns away from
+the window.  She stares out over the wharf watching for signs of trouble.    
+~
+2122 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 2 0
+BareHandAttack: 8
+E
+#4304
+pirate young~
+a young pirate~
+A young pirate wanders around.
+~
+   This pirate looks young and somewhat inexperienced.  He wanders around,
+impatiently awaiting his next journey.    
+~
+72 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+BareHandAttack: 13
+E
+#4305
+tree oak~
+a large oak tree~
+A large oak tree stands here.
+~
+   This tree appears to be an oak, although close inspection reveals that it
+has a visage that resembles a distorted human face.  The face looks angry and
+unfriendly.    
+~
+74 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 0 0
+BareHandAttack: 2
+E
+#4306
+wench pirate~
+a pirate wench~
+A pirate wench sits here.
+~
+   This woman looks as though she would be more at home on the high seas then
+in the fishing hut.  She is wearing brightly colored, mismatched clothes that
+emphasize her shapely figure.  She constantly glances around the room as if she
+is waiting for someone.    
+~
+78 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+6 6 2 0
+BareHandAttack: 8
+E
+#4307
+fisherman large~
+a large fisherman~
+A large fisherman stands here cleaning some fish.
+~
+   The fisherman seems quite engrossed in his work.  He is skillfully uses his
+knife to clean his catch.  His clothes are covered with blood and guts from his
+work.    
+~
+78 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+E
+#4308
+druid~
+a druid~
+A druid is here singing quietly to the animals.
+~
+   The druid seems to blend into the trees.  He is dressed all in brown and can
+hide easily in the woods.  He seems to be at one with the animals of the
+forest.  He sings quietly to the animals.  His voice blending with the breeze.
+~
+72 32 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 13
+E
+#4309
+bear big black~
+a big black bear~
+A big black bear is sleeping here.
+~
+   A large black bear is sleeping here.  She stirs slightly and then rolls over
+and continues her slumber.  The bears claws are huge and look very sharp.  
+There are several clumps of dirt in her dark fur.    
+~
+78 0 0 0 E
+15 11 1 5d10+300 2d8+4
+0 8400 0
+4 4 2 0
+BareHandAttack: 9
+E
+#4310
+boar great~
+a great boar~
+A great boar paces in the brush.
+~
+   The great boar is huge and terrifying.  He appears ill tempered and hungry.
+Not a good combination.  He stops pacing and stares intently, looking as though
+he is ready to charge.    
+~
+72 0 0 0 E
+13 13 3 6d5+240 2d9+2
+0 6625 0
+8 8 1 0
+BareHandAttack: 4
+E
+#4311
+raven large black~
+a large black raven~
+A large black raven is perched here.
+~
+   A large black raven sits here on its perch.  Its eyes are dark and keenly
+aware.  Its sharp beak and large talons make it appear to be a formidable
+opponent.    
+~
+65614 0 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+6 6 1 0
+BareHandAttack: 8
+E
+#4312
+deer large~
+a large deer~
+A large deer grazes here.
+~
+   The deer grazes through the clearing, nibbling the grass.  Occasionally, he
+pauses to drink from the stream.  His strong muscles are visible beneath his
+smooth, brown coat.    
+~
+72 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+BareHandAttack: 4
+E
+#4313
+owl great horned~
+a great horned owl~
+A great horned owl circles over head.
+~
+   This great bird circles above the ground, looking for its prey.  It swoops
+down with deadly accuracy, grabbing small animals from the brush.  Its large
+eyes are alert and appear to take in everything around them.    
+~
+65608 0 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+6 8 1 0
+BareHandAttack: 8
+E
+#4314
+priestess young tomboyish zeboim~
+a young priestess of Zeboim~
+A young priestess with a tomboyish air stands here, offering spoils to Zeboim.
+~
+   This young woman is lean and lithe, and is dressed more like a pirate than a
+priestess.  She wears a self-assured smirk upon her face as she stands at the
+end of the wharf, looking out over the lake.  One by one she drops valuable
+items, most of them studded with jewels, into the water.  She offers a small
+prayer after each one, and miraculously, most of them float back.    
+~
+548874 201458688 8392708 -500 E
+21 8 -5 3d33+450 3d8+7
+800 33500 5
+8 8 2 0
+BareHandAttack: 5
+E
+#4320
+druid singing~
+a singing druid~
+A druid walks throught the forest here, singing quietly.
+~
+   This druid is dressed simply; earth-toned robes, leather shoes, and a simple
+cloak.  He carries a staff crafted of ash, and walks through the forest singing
+quietly.  One could get the sense that he is singing to the trees and plants
+around him, rather than himself.    
+~
+1597512 295968 9730 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 5
+8 8 1 0
+BareHandAttack: 7
+E
+#4398
+elf small silver~
+a small female mudwrestler~
+A small female mudwrestler stands here.
+~
+   This mudwrestler is a small elf with silver hair.  She looks shy but has
+quite a fire in her eyes.  She appears quite skilled at her art.    
+~
+8 0 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 2 0
+E
+#4399
+mudwrestler female~
+a female mudwrestler~
+A female mudwrestler stands here covered with mud from head to toe.
+~
+   The mudwrestler seems to know her profession well.  She is tall and slender
+with long black hair and, upon close inspection, appears to be an elf.  Her
+body is strong and muscular.  What clothes she is wearing are caked with mud.
+~
+1048586 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+800 17000 0
+8 8 2 0
+BareHandAttack: 13
+E
+$

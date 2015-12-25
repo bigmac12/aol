@@ -1,0 +1,134 @@
+#1500
+gnarled old man librarian~
+a gnarled old man~
+A gnarled old man sits behind a desk here.
+~
+   This old man was once well known through out the land as being a meticulous
+researcher.  During his youth, he spent many long days here pouring over the
+ancient texts.  When the last librarian died he was the only one to apply for
+the position.  No matter what time of the day or night he is always here
+walking the hallways caressing the books he loves so dearly.    
+~
+7342090 0 343 1000 E
+30 1 -14 3d33+1700 4d8+9
+10 250000 0
+8 8 1 0
+E
+T 1500
+#1501
+scribe elderly man~
+an elderly man~
+An elderly man wanders the area making sure that the texts are being copied accurately.
+~
+   This elderly man is the master scribe for the library.  His sole job is to
+make sure that his assistant scribes accurately copy the older deteriorating
+texts to new books so that their knowledge shall now be lost.  This man has a
+permanent hunch in his back from peering over the shoulders of his assistants
+for so many years.    
+~
+72 131072 0 1000 E
+11 14 5 5d4+190 2d8+2
+200 2900 0
+8 8 1 0
+E
+T 1501
+#1502
+assistant scribe female woman girl~
+an assistant scribe~
+An assistant scribe leans over a stack of books furiously scribbling.
+~
+   This young woman was hired by the library to copy various ancient texts into
+new books.  Here brown dress is made of a coarse material which has managed to
+soak up a good bit of the inks she uses in her work giving it differently
+colored patches.  Her fingers are also stained black from those same inks and
+her left temple bears a dark smear from where she has rested her head in her
+hand.    
+~
+4168 0 0 1000 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 2 0
+BareHandAttack: 3
+E
+#1503
+young man white robes mage robe~
+a young man wearing white robes~
+A young man wearing white robes frantically searches for something here.
+~
+   This young mage seems to be desperately trying to find something here among
+the shelves but you get the impression that it is not one of the books.  White
+robes hang off of his thin, bandy shoulders and stop just short of his ankles.
+A white skullcap makes his pale complexion all the paler.  He has a worried
+look on his face.    
+~
+8 0 6 1000 E
+7 16 9 3d5+85 2d6+1
+50 400 1
+8 8 0 0
+E
+#1504
+man mage tarnished white robes~
+a young man wearing tarnished white robes~
+A young man wearing tarnished white robes is kneeling here on the floor.
+~
+   This young man's robes are dirt and torn.  Looking past his clothing to his
+face you catch a gleam in his eye that tells you all is not well with this
+mage.  The skullcap on his head was apparently once white, but has now been
+stained to a dark grey by something.    
+~
+1802 0 261 -1000 E
+7 16 9 3d5+85 2d6+1
+50 400 1
+8 8 1 0
+E
+T 1502
+#1505
+custodian cleaning elderly lady~
+an elderly lady~
+An elderly lady wanders around cleaning.
+~
+   This elderly lady grew tired of staying at home all day and went out seeking
+employment.  Having few skills and suffering the ravages of age, she became a
+custodian and now spends her days wandering in and around the library dusting,
+sweeping and doing other cleaning chores.    
+~
+72 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 2 0
+E
+#1506
+young girl~
+a young girl with a blushed face~
+A young girl stands here blushing.
+~
+   This young gril's face is red fron her neck to her forehead.  You have
+apparently caught her at an embarrasing moment.  She is wearing a bright blue
+dress in which she tries to hide some small object from your gaze.  Noticing
+that you are looking at her, she quickly lowers her gaze to the floor in the
+eternal attitude of those who are guilty of some slight transgression..    
+~
+72 0 0 1000 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 2 0
+BareHandAttack: 8
+E
+#1523
+scribe male~
+a male scribe~
+A male scribe stands here organizing the shelves quietly.
+~
+   This man looks to be pushing just past his prime.  He has coal-black hair,
+which is lightly peppered with grey.  He is a scribe in the Great Library, and
+he stands here organzing books quietly.  He looks up sharply whenever a visitor
+makes too much noise, giving them impatient looks.  He is dressed in a simple,
+grey hooded robe.    
+~
+1597450 32768 1048578 0 E
+21 8 -5 3d33+450 3d8+7
+800 33500 2
+8 8 1 0
+BareHandAttack: 5
+E
+$

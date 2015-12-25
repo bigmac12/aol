@@ -1,0 +1,97 @@
+CircleMUD v3.0 Shop File~
+#7560~
+7576
+7577
+7578
+7579
+7597
+-1
+1.00
+0.40
+1
+2
+3
+5
+8
+9
+10
+11
+15
+17
+-1
+%s Heheheheh noooo, I don't have one of those, but how about this lovely book?~
+%s Hmm, nooo, I don't think I'll buy what you can't show me.  Tee hee.~
+%s No, don't want that.  But... that is a lovely set of boots you're wearing, heheheh.~
+%s Er... I seem to have... left my coinpurse in my other pantaloons...~
+%s But where is the cash?  Read the sign!  No credit!~
+%s I'll take %s and the item is yours.  Thank you! (sucker, heheheheh)~
+%s I'll give you %s for oooo... lovely.  I'll just mark that up a little bit.~
+0
+0
+7563
+0
+7560
+-1
+0
+28
+0
+0
+10
+24
+#7577~
+-1
+1.00
+1.00
+7
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+1751348589
+0
+-1
+0
+28
+0
+0
+1
+38
+#7583~
+7586
+7587
+7588
+7589
+7590
+7591
+-1
+1.00
+0.50
+19bread meat chicken pork beef salted steak venison cake pastry
+17glass pint schooner mug ale beer whiskey bottle tankard bowl
+-1
+%s Sounds int'restin' laddy, but I dunna carry it.~
+%s An' that'd be where, laddy?  I dunna see it!~
+%s Nope, ain't int'rested.~
+%s Nah, I ain't got dat kinda money.~
+%s Mind yer P's and Q's.  I think yer drinkin' more'n ye can afford!~
+%s Aye!  That'll be %s and ye've got yerself a deal.~
+%s I'll pay ye %s for it right now.~
+0
+2
+7560
+0
+7583
+-1
+0
+28
+0
+0
+1
+20
+$~

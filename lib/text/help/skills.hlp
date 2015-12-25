@@ -1,0 +1,649 @@
+HIDE
+
+This skill is for certain classes only.
+
+When you type hide there is a chance that you hide in the room.  If hidden
+you can be sensed by the sense life spell, or also by anyone who can detect
+invisible persons.  Hide is broken by pressing return, regardless of whether
+you typed a command or not.
+
+Example:
+
+  > hide
+  Ok.
+  >  (you wait for ex. 5 mins and remain hidden for 5 mins)
+
+  >  (You pressed enter and no longer hide)
+
+See also: SNEAK
+#
+KICK
+
+This skill is for certain classes only.
+
+Usage: kick <victim>
+
+The success of a kick depends upon how well you are learned.  The higher
+level you reach the harder you kick.  There is one small catch -- whenever
+you kick (or miss) you will be unable to type any command for three 
+rounds of 'Violence' -- so be sure that you do not need to flee!
+
+See also: BASH, RESCUE
+#
+"PICK LOCKS" PICK
+
+This skill is only usable by Rogues.
+
+Usage: pick <lock name> [direction]
+
+For picking locks.  Not all locks can be picked.
+
+Examples:
+
+  > pick door south
+  > pick safe
+
+See Also : OPEN, CLOSE, LOCK, UNLOCK
+#
+RESCUE
+
+Warrior classes only.
+
+Usage: rescue <victim>
+
+This command is useful if you want to try and make an attacker hit you
+instead of your poor friend who is being pummeled.  You can only 'turn'
+one monster for each rescue attempt.  This is very useful when playing
+in groups, of course.
+
+Example:
+
+  > rescue Yaina
+#
+SNEAK
+
+Only certain classes have the sneak skill.
+
+Usage: sneak
+
+Used for sneaking (moving in and out of rooms without anyone taking notice).
+When you type sneak, there is no way to know if you're actually sneaking.
+If you successfully sneak, then you'll continue to sneak for a little while.
+
+See also: HIDE
+#
+STEAL
+
+Only Rogues gain this skill.
+
+Usage: steal <item> <victim>
+
+Use steal to steal gold or items from people.  The chance of not getting
+caught depends on how well you have practiced steal, and if the person
+is asleep.
+
+Examples:
+
+  > steal gold drunk
+  > steal sword mercenary
+    (If it's wielded, only possible if he is sleeping)
+
+See also: FLAGS
+#
+TRACK
+
+Usage: track <victim>
+
+Used for finding the first step on the shortest route to a mobile or player.
+
+Example:
+
+  > track horse
+  You sense a trail south from here!
+#
+ASSESS "ASSESS MAGIC"
+
+Usage: assess <item>
+
+Assess
+Gives a general word description of the AC of equipment, or damage of a weapon.
+
+Assess Magic
+Gives a general word description of the charges remaining in magical items.
+
+Example:
+
+	> assess sword
+  	> assess wand
+#
+BACKSTAB
+
+Only Rogues gain use of this skill.
+
+Usage: backstab <victim>
+
+Multiplies damage on first strike if successful. 
+
+Example:
+
+	> backstab chemosh
+  
+#
+BANDAGE
+
+Usage: bandage <victim>
+
+Priests who possess the bandage skill are able to stabilize a mortally
+wounded character - This is particularly handy if said priest happens to
+have no healing spells left memorized to aid the poor soul.
+
+Example:
+
+	> bandage chemosh
+  
+#
+BASH
+
+Only fighter-type classes will gain this skill.
+
+Usage: bash <vitcim>
+
+Attempts to knock the victim down.  Note that if the victim is not knocked
+down, the basher very well might be instead!
+
+Example:
+
+	> bash chemosh
+  
+#
+"CONTROL UNDEAD"
+
+Usage: control <victim>
+
+If successful, undead mobs become 'charmed' and follow the controlling
+priest.  If unsuccessful, the mobs will become quite angry with the caster
+instead.
+
+Example:
+
+	> control zombie 
+  
+#
+FIND TRAPS
+
+(Currently disabled due to the lack of traps.)
+
+Usage: find
+
+If successful, shows all traps that are in room.
+
+See also: DISABLE 
+#
+DISABLE TRAPS
+
+(Currently disabled due to the lack of traps.)
+
+Usage: disable <trap>
+
+If successful, this spell will disarm the specified trap, but be
+forewarned that failure to disable the trap may set it off instead!
+
+Example:  
+
+	> disable fire
+
+See also: DETECT FIND
+#
+DISARM
+
+This is a skill for fighter classes.
+
+Usage: disarm <victim>
+
+If successful, knocks weapon from opponent's hand.
+
+Example:  
+
+	> disarm chemosh 
+
+#
+DODGE
+
+Usage: automatic
+
+If successful, prevents all damage from one attack.
+
+#
+DUAL WIELD
+
+Usage: automatic once practiced
+
+Allows the use of two weapons for attacking.  Any weapon being
+<held> by the one with this skill will be used to attack in
+addition to the weapon being wielded.
+
+#
+ENVENOM
+
+This is a skill for Rogues.
+
+Usage: envenom
+
+This skill will coat the Rogue's weapon with poison until the skill
+effect ends, the Rogue removes the weapon, or the Rogue first attacks
+someone with the weapon.  If the skill is used successfully, the Rogue's
+target will become violently ill - However, if the weapon was poisoned
+in a poor manner, the rogue may become poisoned instead of the victim.
+
+#
+GUARD
+
+Usage: guard <victim>
+
+This skill allows the fighter using it to guard a victim from potential
+attack.  The next time the victim is attacked, the one using this skill
+will attempt to automatically rescue them.  Note that in order to guard
+someone effectively, the one using this skill must not be in combat.
+
+Example:  
+
+	> guard chemosh 
+
+#
+LAY ON HANDS
+
+Usage: lay <victim>
+
+Once per day, this Paladin skill can heal some damage to a person.  The
+amount of damage healed is directly proportional to the Paladin's level.
+(For purposes of this skill, one game day is approximately 24 ticks, or
+30 minutes in RL.)
+
+Example:  
+
+	> lay chemosh 
+
+#
+READ MAGIC
+
+This skill enables the person to 'recite' scrolls - the better you are at
+reading magic, the better the chance that the scroll will work.
+
+See Also: RECITE
+#
+RETREAT
+
+Usage: retreat <direction>
+
+Allows person to escape combat in specified direction (not flee).
+
+Example:  
+
+	> retreat n 
+
+#
+SCRIBE
+
+Usage : scribe <item> <spell> 
+
+Enables person to make scrolls (from spells learned and remembered). This skill is not unlike brew, in a sense that it requires knowledge of the spell that the user is trying to scribe, components and a parchment of some sort (usually sold at mage shops). Extreme precautions must be taken when scribing, because there is a possibility of the scroll exploding, causing damage. Sometimes when this happens, the spell that the user is trying to scribe onto the parchment could even backfire upon them, causing the same amount of damage that it would inflict on any other circumstances. 
+
+#
+SECOND ATTACK THIRD ATTACK
+
+Usage: auto
+
+Second attack
+Gives second attack (%/per ? lvls) with wielded weapon.
+
+Third attack
+Gives third attack (%/per ? lvls) with wielded weapon. 
+
+#
+TURN UNDEAD
+
+Usage: turn <victim>
+
+If successful undead mobs flee.
+
+Example:  
+
+	> turn skeleton 
+
+#
+CREATE SALVE
+
+(This skill is currently disabled. There are no plans to
+ offer it any time soon.)
+
+Usage: create minor/moderate/major
+
+This skill allows the druid possessing it to create salves,
+which are a combination of a wand and a potion, if the druid
+happens to possess the necessary components.  Note that the
+different types of salve the druid can create vary depending
+on his or her level.
+
+#
+"DETECT POISON"
+
+Usage: detect poison <person>
+
+If successful, this skill detects poison in a person.
+
+Example:  
+
+	> detect poison sargonnas
+
+See also: "REMOVE POISON" 
+
+#
+"REMOVE POISON" UNPOISON
+
+Usage: unpoison <player>
+
+If successful, usage of the skill 'remove poison' will, in essence,
+unpoison a character, returning him or her to normal status.
+
+Example:  
+
+	> unpoison morgion
+
+See also: DETECT POISON
+#
+"MOUNT"
+
+Mounts are animals that you can use for transportation. When you are
+riding, your movement points will not be affected, only that of the
+mount. This is useful for long journeys where you dont have to rest
+so often to get your movements back. 
+
+Not all animals are mountable. Those that can be mounted must be tamed
+first (see HELP TAME), or else, even though you might be able to mount it,
+it will throw or buck you off whenever it feels the need to wander,
+throwing you to the ground and causing you some damage. To mount an animal,
+you must learn how to ride, (see HELP RIDING), to tame creatures so that
+you will be able to mount them (see HELP TAME), and most importantly,
+you must know how to mount.
+
+Usage : 
+
+     > mount horse
+
+See also : RIDE, TAME
+#
+"RIDE"
+
+Mounts are animals that you can use for transportation. When you are 
+riding, your movement points will not be affected, only that of the 
+mount. This is useful for long journeys where you dont have to rest so often to get your movements back. 
+
+Not all animals are mountable. Those that can be mounted must be tamed 
+first (see HELP TAME), or else, even though you might be able to mount it, 
+it will throw or buck you off whenever it feels the need to wander, 
+throwing you to the ground and causing you some damage. To ride a mount, 
+you must mount it. The ride skill gets better as you use mounts as a means
+of transportation. 
+
+
+See also : MOUNT, TAME
+#
+"TAME"
+
+Animals must be tamed first before you attempt to mount and ride them.
+Tame is rather similar to charm in a sense that a tamed creature will
+follow you about anywhere (except when they feel the need to wander.
+Unless you are mounted atop a tamed animal, it still can go about as 
+it pleases. Tame also enable you to have a certain control over the mount.
+Below are the commands that you can use for your tamed mounts: 
+
+Usage :
+
+  > tame horse
+
+mrest 
+- usage : mrest <mount> 
+- this is used for ordering your mount to sit down and rest. 
+
+mstand 
+- usage : mstand <mount> 
+- this is used for ordering your mount to stand. 
+
+mgive 
+- usage : mgive <item> <mount> 
+- this is used for 'storing' objects on the back of your mount. By using
+this command, items that are given to the animal are automatically shown
+when you do a look at the mount. It should be noted that not all items
+can be kept on the back of the mount (usually packs and bags and containers). 
+
+mget 
+- usage : mget <item> <mount> 
+- this is used for getting a particular item that is carried on the back of
+your mount. 
+
+release
+- usage : release <mount>
+- this is used to free your mount so that it can be used by other players.
+
+See also : RIDE, MOUNT
+#
+"FISH"
+
+To fish, you must be near water, in a room specified as such. Also, you
+must be holding a fishing pole. If you move from your original place of 
+fishing, you automatically pack up your gear and move on. Anyone can fish, 
+all you need is the pole and patience.
+
+Usage: castout 
+
+Use castout to start fishing. 
+
+Usage : reel 
+
+Use reel to reel in your catch! 
+#
+"SKIN"
+
+Usage : skin <corpse> 
+
+Enables person to skin useful parts of a corpse , like meat, teeth, hide
+and such. You have to be wielding a weapon for this skill to work.
+
+#
+"JAWSTRIKE"
+
+Usage : jawstrike <victim> 
+
+Temporarily silence an opponent by striking him hard on the jaw, preventing 
+any speech or spellcasting until the pain wears off. Use of emotes as a
+method of talking to 'get around' this will be considered an RP violation - 
+if your character is silenced, he or she must act like it. 
+
+#
+"DIRTKICK"
+
+Usage : dirtkick <victim> 
+
+Temporarily blind the victim by kicking dirt at him. The skill can only be
+used outdoors. 
+
+#
+"THROW"
+
+A item can thrown at the opponent, causing him damage on impact. This skill
+depends on the person's strength and the weight of the item being thrown.
+Once thrown, the item will be extracted from the person's inventory.
+
+Usage : throw <item> <victim> 
+
+#
+"DIG"
+
+Dig is used for mining/digging in a room in order to find buried items
+(treasures, forgotten objects, etc). Digging requires that you hold a
+shovel. You can only dig in certain rooms (usually the outdoors). Anybody
+could dig, only a shovel and patience are required. Once you've started
+digging, you will have to wait until a certain message comes up telling you
+that your shovel might have 'hit' something. When this happens, you can
+choose to unearth (see HELP UNEARTH) the object or keep digging (in which
+case, you wait some more). 
+
+Usage : dig 
+
+#
+"UNEARTH"
+
+This command is used in conjuction with the command dig. It cannot be used
+in any other circumstances. Use unearth to 'bring to light' the object that
+you've found. 
+
+Usage : unearth 
+
+See also : bury
+#
+"BURY"
+
+Usage : bury <obj> 
+
+Bury is used for burying objects that can later be unearthed (by your or
+other lucky players who happen to be digging in the area/room). Bury
+requires you to hold a shovel, and you can bury things in certain rooms
+(usually the outdoors). 
+
+#
+"DISGUISE"
+
+Disguise camouflages your outward appearance, altering it so that you would
+appear as you choose to be. Disguises available for those who are given the
+skill are knight, monk, beggar, mage, bard and cleric. Each disguise would
+require certain articles of clothing / equipments necessary for becoming
+the character. 
+
+Usage : 
+    
+          > disguise knight 
+          > disguise knight2
+
+To reveal your true appearance, use the command 'reveal'. (see HELP REVEAL) 
+
+More info pertaining to disguise and guises are available on the mud, through trainer mobs.
+
+#
+"REVEAL"
+
+Reveal is used for those in disguise and those masquearading as cats,
+wolves, birds, etc. Reveal basically reverts your body to normal. 
+
+Usage : reveal 
+
+#
+"DETECT DISGUISE"
+
+This skill is used for seeing through disguises. If successful, the
+identity of the person in disguise will be made known to the player using this skill. 
+
+Usage : detectdis <target>
+#
+"BUILD FIRE"
+
+Usage : build <firewood item> 
+
+This skill is used for making a fire out of items such as a bundle of 
+firewood, tinders, kindling and such. If successful, a small fire will
+be created in the room where the player is in. The fire can be used for
+cooking and lighting up the room, enabling those without infravision to see
+in the dark (limited only to the room where the fire is in). 
+
+Use the command 'douse' to put out the fire that you've made.
+
+Usage : douse fire
+#
+"COOK"
+
+This skill is used for cooking raw food (ie: fish, raw steaks, those that
+are seen as 'looking raw'). To cook, you would need a fire. Raw food items can be eaten without cooking it first, but you will risk food poisoning or violent puking by eating them. Minotaurs, however, are not affected by this. 
+
+Usage : cook <food item> <fire item> 
+
+#
+"SHEATH"
+
+Usage :
+         > sheath <weapon> <sheath item> 
+         > sheath 2.weapon <sheath item>
+
+Sheath can be used for sheathing your weapon into a scabbard or similar
+sheath items. To use this command, you must have a sheath or scabbard worn
+around your waist (or back). Not all weapon can be sheathed. You can also
+sheath a weapon that you are wielding, and it will be contained within
+the scabbard/ sheath that you are wearing. 
+
+To unsheath your weapon, use the command 'unsheath'. 
+
+Usage : unsheath <weapon> <sheath item> 
+
+You will be automatically be wielding the weapon that you've unsheathed. 
+
+#
+"HANG"
+
+Usage : hang <item> <belt item>
+
+Hang is used for hanging certain items like pouches, small containers and
+such on a belt item used by a person. To use this command, a belt must be
+worn first. If the belt is removed, the item that are hanging from it will also 
+be removed into the inventory.
+#
+"SHOW"
+
+Usage : show <item> <player> 
+
+Show is used for showing an object/item to a player without actually giving
+the object to be examined by them. An extra description of the object will
+be displayed to the player. Show will also give you the list of items
+contained in a container shown to you. 
+
+#
+"COMPONENTS"
+
+Certain spells require that you have components needed for its casting in
+your inventory, or held. Once the spell is cast, the component that is used
+for it will 'crumble to dust' and be extracted from inventory. Different
+spells require different components. 
+
+#
+"STANCE"
+
+"When he needs to, the defender can become a stalwart bastion of defense. 
+In this defensive stance, a defender gains phenomenal strength and durability, 
+but he cannot move from the spot he is defending." 
+
+In addition to not being able to move from the spot, you also can't use most 
+skills or actions. Emotes, looking, and speaking are still available to you 
+however.
+ 
+If inactive, the defender can hold the stance for quite some time. However, 
+during combat the defender's strength will quickly ebb away from the strain. 
+Once the defender has relaxed from the defensive stance, he will be weakened 
+for a short time. This skill can be used several times a day, depeding on one's level. 
+
+Usage :
+
+    > stance
+
+To come out of the stance, type 'relax'.
+
+Usage :
+
+    > relax
+
+#
+"GORE"
+
+This skill is given only to minotaurs, regardless of class. It basically requires the use of of their horn to gore the opponents, causing him damage.
+
+Usage :
+ 
+     >  gore
+#
+$

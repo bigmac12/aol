@@ -1,0 +1,90 @@
+1
+d
+21
+sneak;d;track devious
+1
+1
+u
+21
+sneak;u;track devious
+1
+2
+nw
+22
+sneak;nw;track devious
+1
+1
+w
+21
+sneak;w;track devious
+1
+2
+sw
+22
+sneak;sw;track devious
+1
+1
+s
+21
+sneak;s;track devious
+1
+2
+se
+22
+sneak;se;track devious
+1
+1
+e
+21
+sneak;e;track devious
+1
+2
+ne
+22
+sneak;ne;track devious
+1
+1
+n
+22
+sneak; n;track devious
+1
+4
+grin
+81
+emote 's coners of his mouth turns upwards slightly in what appears to be a grin.
+0
+4
+back
+125
+remove pack;get dagger pack;remove longsword;wield dagger;backstab $1;remove dagger;wield longsword;put dagger pack;wear pack
+1
+7
+goodbye
+84
+'May Lord Aeleth grant you a swift and honorable death when your time comes.; nod $1
+1
+6
+search
+43
+l n;l ne;l e;l se;l s;l sw;l w;l nw;l u;l d
+1
+5
+death
+45
+remove pack;get mask pack;wear mask;wear pack
+1
+4
+norm
+47
+remove mask;remove pack;put mask pack;wear pack
+1
+7
+respect
+82
+emote drops down to one knee as he kneels down before $* keeping his head lowered.
+1
+3
+gac
+18
+get all all.corpse
+0

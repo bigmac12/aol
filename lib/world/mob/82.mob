@@ -1,0 +1,52 @@
+#8201
+druid camouflaged dirt leaves~
+a druid camouflaged in dirt and leaves~
+A druid camouflaged with dirt and leaves hides amongst the foliage.
+~
+   Covered from head to toe with dirt and leaves, this young man is barely
+discernable from the foliage in which he stands.  He walks about the area,
+seeming to be oblivious to any humans around him.  He chirps quietly, his voice
+in harmony with the birds in the trees.    
+~
+10 524288 2048 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 5
+8 8 1 0
+E
+#8202
+minstrel travelling~
+a travelling minstrel~
+A minstrel walks along the highway, earning his income with a song or two.
+~
+   Dressed in brightly-coloured clothing and every bit the clown, this minstrel
+walks along the highway earning his living through his songs.  He looks at his
+lute with a certain seriousness in his eyes before returning to his
+merry-making.  Perhaps one day he will be a serious musician, but for now he
+seems happy enough to put on a small show for a copper or two.    
+~
+16456 0 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 1 0
+E
+T 8200
+#8277
+figure kenku tengu mysterious~
+a mysterious figure~
+A mysterious figure is perched impossibly upon a branch of the old oak.
+~
+   This mysterious figure sits perched perfectly, and impossibly upon a branch
+of the old oak tree.  He wears the traditional garb of a monk, as well as a
+straw coolie which covers his face from view.  Looking closer, you see
+something strange upon his back..  A pack of some sort?  No..  A set of black,
+folded wings like that of a crow.  This must be one of the mysterious race of
+bird-people known as the Kenku.    
+~
+3694671 623658 15728644 0 E
+20 8 -4 3d20+440 3d7+6
+400 25000 2
+8 8 1 6
+BareHandAttack: 13
+E
+T 8277
+$

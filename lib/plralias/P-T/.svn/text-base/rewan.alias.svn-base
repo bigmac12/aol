@@ -1,0 +1,25 @@
+2
+hc
+22
+cast cause-critical $*
+1
+1
+t
+15
+take all corpse
+0
+1
+h
+12
+cast harm $*
+1
+2
+sc
+4
+scan
+0
+2
+cf
+16
+cast create-food
+0

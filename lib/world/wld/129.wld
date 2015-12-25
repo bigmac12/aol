@@ -1,0 +1,453 @@
+#12900
+Entrance To The Tavern~
+   Hanging from the front of the tavern is a sign displaying a great vulture
+with its wings spread wide.  The sign itself is the most notible sight, as the
+rest of the building is horribly constructed and, in some places, falling
+apart.  The combined noise of furniture smashing, yelling, and even some
+horrible attempts at singing drown out the rest of the noise from the forest
+around you.  The door is crowded with brutish, drunken ogres, and by judging
+the type of croud outside the bar, only the bravest of adventurers would dare
+continue on into the indside.    
+~
+129 8 0 0 0
+D0
+~
+~
+0 0 12901
+D1
+~
+~
+0 0 8622
+E
+sign vulture~
+   The sign depicts a majestic grey vulture feeding on the corpse of a fallen
+ogrish warrior.  Below the vulture is some faded script, too worn down to make
+out any longer.    
+~
+S
+#12901
+Inside The Tavern~
+   The noise inside the bar makes it nearly impossible to speak with anyone.  
+The room is filled with a mixture of the enticing aroma of food, and the salty
+stench of sweaty bodies, which combine to make a rather rancid smell.  Ahead of
+you are six large tables, most already surrounded by drunken patrons.  To the
+east is the serving counter, lined with barstools.  Moving though the tavern is
+a difficult task indeed - not only are the floor boards loose and uneven, but
+the floor is crowded with massive, muscled warriors who pay little attention to
+anyone around them.    
+~
+129 8 0 0 0
+D0
+~
+~
+0 0 12902
+D1
+~
+~
+0 0 12905
+D2
+~
+~
+0 0 12900
+S
+#12902
+Inside The Tavern~
+   The noise inside the bar makes it nearly impossible to speak with anyone.  
+The room is filled with a mixture of the enticing aroma of food, and the salty
+stench of sweaty bodies, which combine to make a rather rancid smell.  To your
+right are three tables at which there seem to be a few openings.  Standing out
+from the rest of the back wall is a wide door that opens and closes
+occasionally as the stock-boy brings supplies to the bartender to the
+southeast.  Moving though the tavern is a difficult task due to the crowd, but
+it seems to thin towards the right corner of the bar.  A set of rickety old
+stairs circle up the western wall leading to what must be a few rooms for those
+travellers who decide they need a place to stay.    
+~
+129 8 0 0 0
+D0
+This oaken door looks hastily constructed, but it serves it's purpose well.
+Small gaps between the boards allow a dim light to shine through, but it is difficult to make anything out on the other side.
+~
+door~
+1 0 12903
+D1
+~
+~
+0 0 12907
+D2
+~
+~
+0 0 12901
+E
+door~
+This oaken door looks hastily constructed, but it serves it's purpose well.
+Small gaps between the boards allow a dim light to shine through, but it is difficult to make anything out on the other side.
+~
+S
+#12903
+The Storage Room~
+   The storage room is littered with sacks, crates, and barrels.  Carefully
+stacked against one wall of the room are tankards of ale, another is piled with
+large canvas sacks of stale bread.  Along a third wall lie crates and other
+boxes of various supplies.  This is by far the cleanest, most organized, room
+in the tavern, and undoubtedly one of the most boring as well.  However, the
+roar from the bar can still be heard, although muffled, through the door to the
+south.  Near the center of the room lies a trapdoor which leads downward.    
+~
+129 8 0 0 0
+D2
+~
+door~
+1 0 12902
+D5
+~
+trapdoor~
+1 0 12904
+S
+#12904
+The Cellar~
+   The rumbling of the bar above is now only a small whisper through these
+packed soil walls.  What little light there is in this room pokes through the
+cracks in the worn wooden floorboards above, as the cool moist air wafts earthy
+aromas gently about.  Wrinkled, rubbery potatoes are piled in the darkest of
+four corners in the damp room, providing food for the many vermen that inhabit
+the immediate surroundings.  Barely visible in the low light, fierce-looking
+black beetles scurry across the uneven ground, hard at work on some unknown
+task.    
+~
+129 8 0 0 0
+D4
+~
+trapdoor~
+1 0 12903
+S
+#12905
+The Serving Counter~
+   A roughly fasioned counter divides the serving area from the rest of the
+tavern.  The splintered wooden surface is dented and stained from extensive
+use.  It has seen better days, but it is obvious by the craftsmanship that it
+was never really an impressive sight.  Just behind the counter to the east is
+the bartender, who is pouring drinks for the serving wench to distribute to the
+roudy, drunken crowd.    
+~
+129 8 0 0 0
+D0
+~
+~
+0 0 12907
+D1
+   There is an opening in the counter just wide enough for an ogre to move
+through, granted they lift the counter-top door before doing so.  It seems easy
+enough to lift, but there is a sign on top that reads 'Keep out!'...
+~
+counter~
+1 0 12906
+D3
+~
+~
+0 0 12901
+E
+counter~
+   There is an opening in the counter just wide enough for an ogre to move
+through, granted they lift the counter-top door before doing so.  It seems easy
+enough to lift, but there is a sign on top that reads 'Keep out!'...
+~
+S
+#12906
+Behind The Serving Counter~
+   The wall behind the counter is fitted with shelves that house countless
+bottles of varying size an color.  It is aparent by the thick layer of dust on
+them, that they are rarely requestd.  The one container that sees all the use
+is the giant tankard of ale, which rests in the corner beside the counter.  
+The door to the west provides access to the bar for the serving wench to top up
+her drink tray, which happens quite often - ogres here can't seem to get enough
+ale.  Near the middle of the floor is what looks to be a patched-up hole.  The
+floorboards there make an oddly hollow creaking noise when trodden on...    
+~
+129 12 0 0 0
+D3
+There is an opening in the counter just wide enough for an ogre to move through, granted they lift the counter-top door before doing so.  It seems easy enough to lift, but there is a sign on top that reads 'Keep out!'...
+~
+counter~
+1 0 12905
+D5
+   A square section of the floor lifts away from the floor when prodded.  It is
+barely distinguishable from the rest of it's surroundings, almost as though
+someone wanted to keep it a secret.    
+~
+trapdoor~
+1 0 12909
+S
+#12907
+Inside The Tavern~
+   The noise inside the bar makes it nearly impossible to speak with anyone.  
+The room is filled with a mixture of the enticing aroma of food, and the salty
+stench of sweaty bodies, which combine to make a rather rancid smell.  To your
+right are four tables at which there seem to be a few openings.  This part of
+the tavern is decorated with cracked boards, a smashed stool, and pools of
+green blood.  Although ogres would much rather fight an outsider than one of
+their own, it looks like a few of them recently made an exception.    
+~
+129 8 0 0 0
+D1
+~
+~
+0 0 12908
+D2
+~
+~
+0 0 12905
+D3
+~
+~
+0 0 12902
+S
+#12908
+Inside The Tavern~
+   The noise in the corner of the bar subsides enough that it is no longer
+nescessary to scream in order to be heard.  However, the smell of unbathed
+sweaty bodies is stronger than ever in this corner, which makes this section of
+the tavern just as unpleasant as the rest.  Empty mugs and old scraps of food
+litter tables, as well as the ground, and reminants of a struggle are still
+apparent here.  There is thick crack down the center of the largest table, and
+splinters of wood are scattered about.    
+~
+129 8 0 0 0
+D3
+~
+~
+0 0 12907
+S
+#12909
+A Secret Room!~
+   A rickety wooden ladder provides passage in, and presumably out, of this
+black abyss of a room.  Vague outlines are all that can be made out in the
+eerie light.  The temerature is a refreshing change from the heat of the bar
+above, but the smell does not improve much - the stench of unwashed bodies
+leeches down to the furthest corners of the confines.  In one corner, a large
+box-shaped object can be made out from the rest of the bland surroundings.    
+~
+129 41 0 0 0
+D4
+~
+trapdoor~
+1 0 12906
+S
+#12990
+A Silk-Covered Bedroom in Sanction's Respite~
+   This is the most expensive room in Sanction's Respite.  In this room,
+everything is surrounded by a fine silk.  The bed in this room is unlike the
+beds in the other rooms.  This one has white silk sheets placed on it.  When
+you look at the walls, you see lavender silk hanging from the walls, completely
+covering it.  The ceiling has a lavender silk sheet hanging down in some
+places, almost touching the heads of an average human male.  In other places,
+it connects to the ceiling.  Around the room metal candle holders hang from the
+walls, away from the silk.    
+~
+129 12 0 0 0
+D1
+This sturdy door leads back into the hallway.
+~
+door~
+1 0 12991
+S
+#12991
+End of the Hallway in Sanction's Respite~
+   This is the end of the hallway at Sanction's Respite.  To the east and the
+west are doors leading to some of the bedrooms.  Even though Sanction's Respite
+is not very large, it is obvious that this establishment does make a good
+profit.  The cleanliness and the wonderful paintings are proof of this.  On the
+paintings are scenes of nature, some being a fields of grass, others mountains.
+Mounted on the east and west walls are metal candle holders, each the same
+distance apart from each other.  The candle holders are made from fine silver.
+On the north wall there is a large painting of a lake.    
+~
+129 8 0 0 0
+D1
+   This sturdy door in your way keeps people from seeing what's happening
+inside the bedrooms.    
+~
+door~
+1 0 12992
+D2
+~
+~
+0 0 12994
+D3
+   This sturdy door in your way keeps people from seeing what's happening
+inside the bedrooms.    
+~
+door~
+1 0 12990
+E
+north painting wall lake~
+   Lit by Solinari, this painting is a beautiful scene.  To either side of the
+lake is trees, plants, and wildlife, all painted to near perfection.    
+~
+S
+#12992
+Dark Bedroom in Sanction's Respite~
+   This room seems very out of place when compared to the other rooms in
+Sanction's Respite.  Instead of the usual fancy and clean mood in the rooms,
+this bedroom is different.  The walls are black, and the whole room smells like
+leather.  There is no bed in this room, in it's place is some metal shackles on
+the floor and the northern wall.  Against the eastern wall is various black
+leather items, most of which look menacing.  There are not as many candles in
+this room, only a few, and some of them look like they're torturing tools more
+than light.    
+~
+129 12 0 0 0
+D3
+This sturdy door leads back into the hallway.
+~
+door~
+1 0 12991
+S
+#12993
+A Softly Lit Room in Sanction's Respite~
+   This bedroom appears to be a less expensive room, at least to the customers
+that is.  The walls may not be covered in silk, but they are painted with
+nature scenes.  Iron candle holders are placed on the walls, keeping the room
+well lit.  Against the northern wall is the bed, and against the southern wall
+is an armoire full of clothing and props.  To the east is the door leading back
+to the hallway.    
+~
+129 12 0 0 0
+D1
+This sturdy door leads back into the hallway.
+~
+door~
+1 0 12994
+S
+#12994
+Hallway in Sanction's Respite~
+   This is the hallway at Sanction's Respite.  To the east and the west are
+doors leading to some of the bedrooms.  Even though Sanction's Respite is not
+very large, it is obvious that this establishment does make a good profit.  
+The cleanliness and the wonderful paintings are proof of this.  On the
+paintings are scenes of nature, some being a fields of grass, others lakes.  
+At night, the hallway is lit by many candles.  Mounted on the east and west
+walls are metal candle holders apart from each other.  The candle holders are
+made from silver, and arcs upwards from the wall.  The metal has been twisted
+slightly, to give it a more attractive look.    
+~
+129 8 0 0 0
+D0
+~
+~
+0 0 12991
+D1
+   This sturdy door in your way keeps people from seeing what's happening
+inside the bedrooms.    
+~
+door~
+1 0 12995
+D2
+~
+~
+0 0 12997
+D3
+   This sturdy door in your way keeps people from seeing what's happening
+inside the bedrooms.    
+~
+door~
+1 0 12993
+S
+#12995
+Standard Bedroom in Sanction's Respite~
+   This bedroom appears to be a less expensive room, at least to the customers
+that is.  The walls may not be covered in silk, but they are painted with
+nature scenes.  Iron candle holders are placed on the walls, keeping the room
+well lit.  Agaist the northern wall is the bed, and against the southern wall
+is an armoire full of clothing and props.  To the west is the door leading back
+to the hallway.    
+~
+129 12 0 0 0
+D3
+This sturdy door leads back into the hallway.
+~
+door~
+1 0 12994
+S
+#12996
+The Waiting Room of Sanction's Respite~
+   This is the waiting room of Sanction's Respite.  In here is a few round
+tables made from wood with chairs around them.  Against the western wall is a
+large keg of ale.  Apparently the ale is included in the price of a room.  
+Many of the workers at Sanction's Respite seem to spend their time in here
+between jobs.  While not a very decorative room, the wooden walls have been
+sanded and polished to a nice shine, and a few paintings hang from the walls.
+~
+129 8 0 0 0
+D1
+~
+~
+0 0 12997
+S
+#12997
+Hallway in Sanction's Respite~
+   This is the hallway in Sanction's Respite.  To the east is the entrance to
+the washroom.  To the west is the waiting room, where some of the clients
+choose to wait for their turn.  Even though Sanction's Respite is not very
+large, it is obvious that this establishment does make a good profit.  The
+cleanliness and the wonderful paintings are proof of this.  On the paintings
+are scenes of nature, some being a fields of grass, others lakes.  At night,
+the hallway is lit by many candles.  Mounted on the east wall are metal candle
+holders, each the same distance apart from each other.  The candle holders are
+made from silver, and arcs upwards from the wall.  The metal has been twisted
+slightly, to give it a more attractive look.    
+~
+129 8 0 0 0
+D0
+~
+~
+0 0 12994
+D1
+~
+~
+0 0 12998
+D2
+~
+~
+0 0 12999
+D3
+~
+~
+0 0 12996
+S
+#12998
+Washroom of The Sanction's Respite~
+   This is the washroom of Sanction's Respite.  This room doesn't have as many
+decorations as the other rooms, but it is still a beautiful room.  Almost
+everything in this room is made from marble.  To the west is a door, which
+leads back into the hallway.  On the southern wall is a marble bathtub, which
+has a curtain that can be moved to block the sight of any unwanted or
+accidental lookers.  The eastern wall has a large basin of water, used for
+washing up before, and after, the job is complete.    
+~
+129 8 0 0 0
+D3
+~
+~
+0 0 12997
+S
+#12999
+Entrance to Sanction's Respite~
+   This is the entrance to Sanction's Respite.  Even though Sanction's Respite
+is not very large, it is obvious that this establishment does make a good
+profit.  The cleanliness and the wonderful paintings are proof of this.  In the
+distance a loud male voice can be heard, although it is hard to tell what he's
+saying, it's obvious he's not alone.  When he's not talking, the sounds of
+giggling or gasps of astonishment can be heard.    
+~
+129 12 0 0 0
+D0
+~
+~
+0 0 12997
+D4
+~
+~
+0 0 4967
+S
+$~

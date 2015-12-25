@@ -1,0 +1,299 @@
+#8500
+boy small~
+a small boy~
+A small boy plays here.
+~
+   This young boy is very well dressed for the occasion.  He wears a
+beautifully crafted blue suit, which seems to be covered with more than its
+fair share of dirt.  He claps his hands in delight at seeing some adventurers.
+~
+72 0 0 1000 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 1 0
+Maxmove: 50
+E
+#8501
+girl~
+a girl~
+A girl runs playfully about here.
+~
+   The little girl smiles up at you as you look at her.  Her face is sweet and
+innocent.  Her hair is tied with a pretty pink bow which matches her long pink
+dress.  She looks exhausted from playing all day, but keeps on going.    
+~
+72 0 0 1000 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 2 0
+Maxmove: 50
+E
+#8502
+man elegantly dressed~
+an elegantly dressed man~
+An elegantly dressed man is here enjoying the celebration.
+~
+   This middle-aged man looks very tired.  He is dressed in nice clothes and
+seems exhausted from trying to keep an eye on his children.    
+~
+200 0 0 1000 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 1 0
+Maxmove: 50
+E
+#8503
+woman gown~
+a woman in a finely crafted gown~
+A woman in a finely crafted gown is here looking for her children.
+~
+   This lady is dressed very elegantly and it is quite apparent that she is
+wealthy.  She walks about nervously looking for her children.    
+~
+72 0 0 1000 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 2 0
+Maxmove: 50
+E
+#8504
+servant~
+a servant~
+A servant scurries about here.
+~
+   This young lady is one of the Lord's house servants.  She wears moderate
+clothing and is in a big hurry, scuttling about doing errands for her master.
+~
+72 0 0 1000 E
+3 19 13 1d5+25 1d6+1
+4 25 0
+8 8 2 0
+Maxmove: 50
+E
+#8505
+guard lord~
+one of the Lord's guards~
+One of the Lord's guards is standing here, keeping watch.
+~
+   This middle-aged man stands sternly at his post.  He occasionally checks out
+some of the Lord's guests for weapons and other items that may cause mischief.
+~
+16392 0 0 1000 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+Maxmove: 50
+E
+#8506
+guard commander~
+the commander of the guard~
+The commander of the Lord's guards is resting here.
+~
+   This man is quite large in stature, and he is dressed in impressive, shining
+armour.  He gives you a slight nod as you approach, watching to make sure you
+do not cause any trouble.    
+~
+10 0 0 1000 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+Maxmove: 50
+E
+#8507
+chef~
+the Lord's chef~
+A chef stands here preparing for the next meal.
+~
+   This old chef works very quickly with his hands.  He is covered with grease
+and other nasty looking spills.  His apron looks like it should be changed.  
+He continues to work diligently and ignores your presence.    
+~
+10 0 0 1000 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+Maxmove: 50
+E
+#8508
+gardener~
+the gardener~
+A gardener stands here tending to the plants.
+~
+   As you approach him, he quickly stops what he is doing and smiles warmly at
+you.  He looks extremely dirty and looks like he hasn't bathed in a while.  He
+is dressed in dirty work clothes and seems to be planting some flowers.    
+~
+10 0 0 1000 E
+7 16 9 3d5+85 2d6+1
+50 400 0
+8 8 1 0
+Maxmove: 50
+E
+#8509
+matthias lord~
+Matthias~
+Lord Matthias is standing here enjoying some wine.
+~
+   Dressed in a long, dark blue robe, Matthias warmly greets you as you enter.
+His cheeks are rosy, making you wonder how many sips of wine he has had.  His
+long white hair and slight wrinkles suggest his age even though he seems quite
+young and healthy.    
+~
+10 0 0 1000 E
+8 15 8 5d5+110 2d6+2
+95 800 0
+8 8 1 0
+Maxmove: 50
+E
+#8510
+Katherine wife lady~
+Katherine~
+Lady Katherine is standing here greeting guests.
+~
+   Wearing a pale blue dress, Lady Katherine looks absolutely stunning.  She
+appears much younger than the Lord himself.  Her beauty leaves you in awe.    
+~
+2058 0 0 1000 E
+8 15 8 5d5+110 2d6+2
+75 800 0
+8 8 2 0
+Maxmove: 50
+E
+#8511
+cat small house~
+a small house cat~
+A small house cat sleeps lazily here.
+~
+   This small house cat is covered with soft, silvery-white fur.  It looks well
+fed and quite content as it stretches out lazily on the floor.    
+~
+65544 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#8512
+dog brown large~
+a large brown dog~
+A large brown dog sits here.
+~
+   The dog sniffs the air as you approach.  He has large, sharp teeth but
+appears quite tame.  His coat is brushed smooth, and he has a small red bow
+tied around his neck.    
+~
+65544 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#8513
+guest~
+a guest~
+A guest is here enjoying the celebration.
+~
+   This guest appears to be one of the city's wealthier residents.  He looks as
+though he is having a very good time at the picnic.  He greets you with a warm
+friendly smile and a wave.    
+~
+8 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 0 0
+Maxmove: 50
+E
+#8514
+pony shetland~
+a shetland pony~
+A shetland pony stands here, saddled and awaiting a young rider.
+~
+   This young pony is mostly white but has some large brown splotches on its
+coat.  His long mane has been braided and tied with ribbons for the occasion.
+It is saddled and ready to take a young guest for a ride.    
+~
+16777226 1024 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 1 0
+Maxmove: 400
+E
+#8515
+snake garden~
+a garden snake~
+A long, thin snake slithers along the ground.
+~
+   This long, thin snake scurries to hide as you approach.  It is green with
+narrow yellow and white stripes.  It hisses as its red, pointed tongue flicks
+in and out of its mouth.    
+~
+65544 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 0 0
+Maxmove: 50
+E
+#8516
+boy stable~
+a stable boy~
+A young, stable boy works busily here.
+~
+   This young man is one of the Lord's many stable boys.  He tends to the
+horses and the carriage, ensuring that they are always ready when needed.  He
+looks up briefly as you approach before returning to his work.    
+~
+8388618 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 1 0
+Maxmove: 50
+E
+#8517
+woman pleasant~
+a pleasant woman~
+A pleasant woman circulates through the crowd, being sure to meet everyone.
+~
+   This guest appears to be one of the wealthier women of Karthay.  She wanders
+the picnic enjoying herself as she chatters with other guests.  She greets you
+with a smile and nod as you look at her.    
+~
+8 0 0 0 E
+2 19 14 1d3+12 1d5+1
+5 13 0
+8 8 2 0
+Maxmove: 50
+E
+#8518
+horse majestic white~
+a majestic, white horse~
+A majestic, white horse nibbles on the oats in his trough.
+~
+   This majestic, white horse is one of the four horses that draw the Lord's
+carriage.  The beast is rather tall and muscular, and his long white mane has
+been braided and tied with small, purple bows.    
+~
+16777226 0 0 0 E
+2 19 14 1d3+12 1d5+1
+0 13 0
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 400
+E
+#8519
+minstrel hired~
+a hired minstrel~
+A hired minstrel is here, preparing for the days entertainment.
+~
+   This young man has a bright smile and an enthusiastic expression.  He is
+dressed in brightly colored clothing that looks like something only a kender
+would wear.  He hums a tune to himself as he tunes his harp lovingly.    
+~
+10 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 0 0
+Maxmove: 50
+E
+$

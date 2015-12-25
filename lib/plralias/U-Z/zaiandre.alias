@@ -1,0 +1,395 @@
+4
+hang
+16
+hang wind girdle
+0
+2
+us
+28
+unsheath broadsword scabbard
+0
+2
+ss
+26
+sheath broadsword scabbard
+0
+3
+gbp
+14
+get bread sack
+0
+1
+x
+22
+n ; order fetch k arch
+1
+2
+eb
+9
+eat bread
+0
+1
+2
+17
+put all.bread bag
+0
+1
+1
+12
+buy 10 bread
+0
+2
+ot
+20
+order transparent $*
+1
+2
+ct
+19
+control transparent
+0
+2
+st
+30
+remo bone ; wear serpents ; st
+1
+3
+res
+32
+remo serpents ; wear bone ; rest
+1
+2
+at
+15
+ass transparent
+0
+4
+ping
+30
+tel fetch :P ; tell eyewing :P
+1
+2
+aw
+10
+ass wraith
+0
+2
+ow
+15
+order wraith $*
+1
+2
+cw
+14
+control wraith
+0
+2
+af
+9
+ass fetch
+0
+2
+cf
+13
+control fetch
+0
+3
+lib
+12
+look in belt
+0
+1
+4
+32
+remo hammer ; wear shield shield
+1
+1
+3
+25
+remo shield ; hold hammer
+1
+4
+weak
+9
+c weak $*
+1
+2
+ds
+14
+dismount horse
+0
+2
+md
+16
+st ; mount horse
+1
+2
+dm
+16
+dismount gelding
+0
+1
+;
+11
+chat &M$*&n
+1
+2
+aa
+10
+ass alexis
+0
+2
+ra
+11
+resc alexis
+0
+2
+cs
+14
+control stahnk
+0
+7
+spellup
+79
+c bles $* ; c armor $* ; c prot-fr-und ; c prot-fr-good ; c stren $* ; c prayer
+1
+3
+str
+8
+c str $*
+1
+2
+a2
+13
+ass 2.eyewing
+0
+2
+o2
+18
+order 2.eyewing $*
+1
+2
+cp
+8
+c prayer
+0
+6
+recall
+6
+c word
+0
+4
+word
+6
+c word
+0
+2
+ov
+16
+order vampire $*
+1
+2
+cv
+15
+control vampire
+0
+2
+av
+31
+order followers Assist Zaiandre
+0
+1
+s
+5
+south
+0
+2
+ac
+10
+ass corpse
+0
+2
+oc
+15
+order corpse $*
+1
+2
+cc
+14
+control corpse
+0
+2
+ag
+10
+ass gholor
+0
+2
+og
+15
+order gholor $*
+1
+2
+cg
+14
+control gholor
+0
+2
+wp
+9
+wear sack
+0
+2
+rp
+9
+remo sack
+0
+2
+oe
+16
+order eyewing $*
+1
+2
+ae
+11
+ass eyewing
+0
+2
+ce
+15
+control eyewing
+0
+2
+fl
+9
+c flam $*
+1
+3
+liw
+12
+look in wind
+0
+3
+lip
+16
+look in knapsack
+0
+6
+dispel
+13
+c disp-mag $*
+1
+2
+pg
+13
+c prot-fr-goo
+0
+2
+rf
+9
+resc form
+0
+6
+summon
+73
+remo shield ; hold doorframe ; c summon $* ; remo doorframe ; wear shield
+1
+2
+a3
+12
+ass 3.stahnk
+0
+2
+o3
+17
+order 3.stahnk $*
+1
+4
+wind
+9
+remo wind
+0
+2
+as
+10
+ass stahnk
+0
+2
+os
+15
+order stahnk $*
+1
+2
+of
+18
+order followers $*
+1
+2
+pu
+13
+c prot-fr-und
+0
+2
+de
+14
+c disp-good $*
+1
+2
+dg
+14
+c disp-good $*
+1
+2
+ms
+13
+c mag-ston $*
+1
+2
+bl
+9
+c bles $*
+1
+2
+ca
+10
+c armor $*
+1
+3
+fly
+24
+get faery wind ; q faery
+1
+2
+js
+12
+jawstrike $*
+1
+5
+tiger
+24
+get tiger wind ; q tiger
+1
+6
+unlock
+19
+unlock $* ; open $*
+1
+2
+sk
+11
+skin corpse
+0
+4
+drin
+9
+drin skin
+0
+2
+sc
+4
+scan
+0
+3
+gac
+18
+get all all.corpse
+0

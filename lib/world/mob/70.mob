@@ -1,0 +1,176 @@
+#7000
+Adrian~
+dri Halfelven~
+Adrian~
+aven haired violed eyed girl zan Halfelven~
+8396890 56 0 0 E
+10 14 6 5d4+130 2d6+1
+90 1900 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#7001
+guard man hefty~
+a hefty looking guard~
+A hefty looking man stands guard here to prevent passage of bandits.
+~
+   The man standing before you is hefty and heavily muscled.  His skin is
+tanned and deeply wrinkled, yet he does not appear to be old.  He guards the
+road to Palanthas from the bandits that he knows roam this area.    
+~
+8552523 40 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 1 0
+Maxmove: 50
+E
+#7007
+horse packhorse dun idly pawing~
+a packhorse~
+A dun-colored packhorse is here, idly pawing at the ground.
+~
+   This is an average sized horse with a fine, dun-colored hide.  He is of the
+breed used mainly as packhorses, though he would be quite sufficient for riding
+as well.  He stands here idly pawing at the ground, looking a little sleepy.  
+He is only very basically outfitted, and wears a saddle and bridle.    
+~
+16777226 1024 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 400
+E
+#7010
+bandit man quick masked~
+a masked bandit~
+A quick man in dark clothing jumps out at you from behind a tree.
+~
+   Dark clothing lets this man hide in the sparse set of trees rather easily.
+His eyes are deep set, and he moves quickly.  Knowing the merchant's routes
+helps him rob them more easily when they pass him by.    
+~
+8388734 0 0 -1000 E
+10 14 6 5d4+160 2d7+2
+705 1900 0
+8 8 1 0
+Maxmove: 50
+E
+#7011
+man short quick~
+a short, quick man~
+A short, quick man darts about in the trees.
+~
+   This man is short for a human, yet moves as fast as lightning compared to
+the others of his band.  He acts more the scout, hiding in trees and letting
+others know when someone is coming.    
+~
+236 262144 0 -1000 E
+13 13 3 6d5+240 2d9+2
+201 6625 0
+8 8 1 0
+Maxmove: 50
+E
+#7012
+traveller merchant weary~
+a weary traveller~
+A weary traveller slowly makes his way along the road here.
+~
+   This middle aged man is dressed in the clothing of a travelling merchant.  
+He is probably on his way to one of the great cities of Krynn to sell his
+wares.  He plods along the road seemingly lost in thought, probably thinking
+about how to get the most money for his goods.    
+~
+204 0 0 0 E
+5 17 11 2d5+65 2d5+0
+30 85 0
+8 8 0 0
+Maxmove: 50
+E
+#7051
+kender girl auburn topknot~
+a kender girl with a wild auburn topknot~
+A kender girl with a wild auburn topknot sits by the riverbank with an odd look of astonishment on her face.
+~
+   This kender girl has chosen to rest near the riverbank here.  Her auburn
+topknot is a bit of a mess, splaying in every direction wildly.  You notice she
+is sitting still, staring at the river as it runs by with an odd look of
+astonisment on her face, as though she's never seen anything so profound before
+in her life.    
+~
+16462 33792 0 850 E
+10 14 6 5d4+160 2d7+2
+400 1900 4
+8 8 2 0
+Maxmove: 50
+E
+#7064
+man young sandy blonde~
+a young man with sandy-blonde hair~
+A young man with sandy-blonde hair travels quietly down the road.
+~
+   This young man has sandy-blonde hair which is neatly combed.  He walks
+quietly along the road here, lost in thought.  He doesn't appear to be worried
+about anyone else on the road at all, giving them little or no notice.  He is
+dressed in a simple white tunic and leather breeches, and rather worn looking
+boots.  He wears a belt with several pouches hanging from it.    
+~
+540872 33800 2097177 850 E
+14 12 2 6d8+240 2d8+4
+400 7000 1
+8 8 1 0
+Maxmove: 50
+E
+#7072
+kender smiling bounces~
+a young kender~
+A young kender bounces down the road, smiling to himself.
+~
+   This young kender is smiling widely to himself, seemingly for no reason
+other than to be alive.  He bounces down the road happily, humming and singing
+occasionally.  Everynow and then he stops to examine some curiosity at the
+wayside.  His thick brown topknot looks to be well taken care of.    
+~
+1048653 33792 0 850 E
+16 11 0 3d20+320 3d6+4
+400 11000 4
+8 8 1 6
+BareHandAttack: 15
+Maxmove: 50
+E
+#7098
+hawk whiteplains white wild plains~
+a wild whiteplains hawk~
+A wild, white-feathered hawk screeches loudly as she swoops downwards.
+~
+   The hawk is beautifully plumed with white and gold colored feathers, making
+it easier for her to glide in the skies without being seen by her prey along
+the ground.  She is agressive when it comes to feeding her baby hawks, and
+therefor will attack anything she sees as easy prey.    
+~
+65768 852008 0 0 E
+5 17 11 2d5+65 2d2+0
+0 85 0
+8 8 2 0
+BareHandAttack: 10
+Maxmove: 50
+E
+#7099
+wolverine enraged~
+an enraged wolverine~
+An enraged wolverine leaps about with his teeth bared and growls loudly.
+~
+   The wolverine is smaller than other wolves, and appears to be a cross
+between a wolf and a fox with its dark red fur and viscious snapping.  He hides
+in shadows most of the time, preferring to strike his prey while they are
+sleeping, or when they are by themselves.    
+~
+2280 787496 0 0 E
+5 17 11 2d5+65 2d2+0
+0 85 0
+8 8 1 0
+BareHandAttack: 4
+Maxmove: 50
+E
+$

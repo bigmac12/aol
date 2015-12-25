@@ -1,0 +1,1129 @@
+#12300
+broad bare chested dwarven fighter~
+a bare-chested dwarven fighter~
+A broad, bare-chested dwarven fighter stands here, waiting for opponents.
+~
+   This broad, muscular dwarf is of the Neidar clan.  He stands in the practice
+yard with a smug look on his face, waiting for fellow fighters and mercenaries
+to challenge him.  He is dressed rather sparsely, likely to keep from getting
+too hot while sparring.  He wears a set of earthy brown breeches, and a pair of
+sturdy leather sandals.  A dusty red sash is wrapped around his waist.  His
+curly, sandy-brown beard hangs over his bare chest.  He holds his weapon across
+his shoulders as he stretches.   
+~
+3203098 33719296 0 0 E
+30 1 -12 3d33+2100 4d8+9
+1900 250000 3
+8 8 1 0
+BareHandAttack: 6
+E
+#12301
+mercenary dwarven leather~
+a dwarven mercenary~
+A dwarven mercenary dressed in leather armor stands here awaiting orders.
+~
+   This dwarven mercenary is dressed in dusky leather armor from head to toe.
+He looks like an able warrior, though it's apparent from his actions that he
+has much yet to learn.  Still, he wields his axe with an admirable level of
+skill, and would likely be able to handle any average threat.    
+~
+49178 2130944 0 0 E
+11 14 5 5d4+200 2d8+2
+0 2900 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12302
+mercenary dwarven brigandine~
+a dwarven mercenary~
+A dwarven mercenary dressed in brigandine armor stands, waiting for orders.
+~
+   This dwarven mercenary is dressed in a brigandine vest and studded leather
+leggings, and looks as though he could handle himself in a fight.  Two dwarven
+throwing axes are tucked into his belt, and a dwarven shortsword is sheathed at
+his side.  He stands with a sense of discipline, though a few of his movement
+tell of more yet to learn.    
+~
+1097754 2130944 0 0 E
+16 11 0 3d20+320 3d6+4
+0 11000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12303
+mercenary dwarven plate~
+a dwarven mercenary~
+A dwarven mercenary dressed in half-plate stands here awaiting orders.
+~
+   This dwarven mercenary is dressed in a suit of dented and scratched
+half-plate armor.  Despite the obvious wear, it appears as though he takes good
+care of his equipment.  He stands straight, and with discipline.  The way in
+which he wields the dwarven waraxe in his hands looks as though the weapon was
+made for him.  Truly, this dwarf could handled an ogre or more, one on one.  
+
+~
+1097754 35685376 0 0 E
+21 8 -5 3d33+450 3d8+7
+0 33500 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12304
+reuse~
+Murtaugh Ironchisel~
+Murtaugh Ironchisel, a dwarven physician is here sewing up the wounded.
+~
+   Murtaugh Ironchisel is an aging dwarf with bright eyes and a long white
+beard.  His fingers still move with an expert dexterity as he sews up his
+patients, using the same sewing technique he would use on an injured sow.    
+~
+1581066 1024 1114124 0 E
+30 1 -14 3d33+1700 4d8+9
+1800 250000 2
+6 6 1 0
+BareHandAttack: 16
+E
+#12305
+merchant dwarf dwarven burly~
+a dwarven merchant~
+A burly dwarven merchant stands here, advertising his wares.
+~
+   This burly, broad-shouldered dwarven merchant stands smugly behind his
+stand, yelling for people to come and buy his wares.  His gaudy golden robes
+have seen better days, and he wears several nicked non-precious stones to show
+his "wealth".  He catches your gaze, and grins at you shrewdly.    
+~
+76 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12306
+Threlgad hard working elderly priest~
+Threlgad~
+Threlgad, a hard-working, elderly priest instructs the dwarven children here.
+~
+   This old dwarf looks like he's been a cleric of the Forge for quite some
+time.  He wears aged, yet elegant robes, the colour of shining red outlined
+with slate-grey.  His beard is long and plentiful, but age has cought up to its
+colour and turned it white.  His brown gaze is kind and loving, their depths
+appreciating the children before him showing such keen interest in Reorx.  He
+is definitely proud of them, and looks thankful that he has the time to pass on
+knowledge of the Creator.    
+~
+3731530 33555456 43057156 0 E
+25 5 -9 3d33+1000 4d6+8
+1300 95000 2
+8 8 1 0
+BareHandAttack: 5
+E
+#12307
+dwarf barrel chested elderly~
+a barrel-chested, elderly dwarf~
+A barrel-chested, elderly dwarf shows his students how to forge.
+~
+   Old, but definitely strong, he walks about with care in his eyes.  He often
+stops at each student, showing them a particular way to heft the hammer, or how
+to bring it down to finish their piece of work.  Like the other teacher in the
+temple, he looks to share other passions than simply forging, equally bearing
+the scars of combat.  He wears the basic, tempered steel pendant, but in one of
+his hands looks to be his own, personal forging hammer.    
+~
+1073226 33555456 8667140 0 E
+20 8 -4 3d20+440 3d7+6
+900 30000 3
+8 8 1 0
+BareHandAttack: 5
+E
+T 12322
+#12308
+young humble dwarven acolyte~
+a young, humble dwarven acolyte~
+A young, bright-eyed dwarven acolyte stands here, his head bowed.
+~
+   This young dwarf looks extremely eager to continue his studies.  He stands
+here silently, his head bowed in profound respect for his God.  His hands are
+folded into the long sleeves of his robes in front of him, as he waits
+patiently for the sermon to end.    
+~
+557068 44 9441282 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 2
+8 8 1 0
+BareHandAttack: 5
+E
+#12309
+child dwarven young diligence~
+a young dwarven child~
+A young, dwarven child sits with diligence, listening to the priest.
+~
+   This dwarf is but a child, maybe of a few years and just able to speak/write
+fluently.  He sits cross-legged, quietly moving about to sustain his energy as
+he listens to Threlgad teach him about Reorx.  Because of the child's keen
+interest, it's most likely that Reorx is his idol.    
+~
+138 0 0 0 E
+10 14 6 5d4+160 2d7+2
+50 1900 0
+8 8 1 0
+E
+#12310
+Gweihar Ironhand Trainer Guildmaster~
+Gweihar Ironhand~
+Gweihar Ironhand, a seasoned, battle ready dwarf is here discussing deployment.
+~
+   Gweihar is the head of the Warriors Guild.  He wears a black eye patch over
+his left eye, which barely covers a wicked scar from his forehead down and
+across the bridge of his nose.  His salt and pepper beard hangs just past his
+round belly, which is iron hard despite it's rotund appearance.  His calloused
+hands bear the marks of many battles and victories.    
+~
+7577610 1024 76578824 0 E
+31 0 -15 3d33+5000 4d8+10
+1000 300000 3
+8 8 1 2
+BareHandAttack: 16
+E
+#12311
+huge dwarf~
+the guildmaster~
+A huge dwarf stands here, practicing his axe swing.
+~
+   This huge, grizzled dwarf swings his axe with almost scary accuracy.  He
+notices your arrival, and sizes you up.  He has only one eye, the other is
+covered by a red eyepatch.  He nods at you silently, and welcomes you to
+partake in his knowledge.    
+~
+49178 2130944 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 3
+8 8 1 2
+BareHandAttack: 16
+E
+#12312
+proud dwarf high guardsmen~
+a High Guardsmen of Hillhome~
+A proud-looking dwarf stands at attention here, bearing the Hillhome coat of arms on his breastplate.
+~
+   This muscular dwarf looks very good at this job.  As a High Guardsmen of
+Hillhome, he has been hand-picked by the High Thane himself to uphold the laws
+of the city.  His breastplate gleams in the light, and his hand is continually
+stroking a huge-bladed battleaxe strapped to his back.    
+~
+3340296 32 0 0 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12313
+child dwarven amazement~
+a dwarven child~
+A dwarven child looks at the scene before her with amazement.
+~
+   A young, female dwarf looks with wide, crystalline blue eyes at the scene
+before her.  She can't believe how real it looks.  Occasionally, she looks back
+to Threlgad, afraid that he'll catch her becoming amazed with the scene.  Even
+so, Threlgrad doesn't seem to mind at all.    
+~
+138 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+50 1900 0
+8 8 2 0
+E
+#12314
+young dwarf dwarven boy~
+a playful young boy~
+A young dwarven boy runs about, attacking imaginary foes.
+~
+   This young dwarven boy doesn't even have a beard yet.  His young eyes are
+full of exitement as he runs about, parrying and thrusting a wooden stick at
+imaginary foes.    
+~
+200 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+8 8 1 0
+BareHandAttack: 10
+E
+#12315
+Quellan old regal dwarf~
+Quellan~
+Quellan, an old, regal looking dwarf tends to the library.
+~
+   Quellan looks as though he's been working in libraries for a long time.  
+Even though this settlement is new and far from being as large as it should be,
+he insists on constantly finding more books to set into his tiny library.  
+Like every dwarf, he is wide and stout.  He doesn't appear quite as muscular as
+some of the other dwarves, like the blacksmiths or warriors, but he definitely
+doesn't look like he couldn't hold his own either.    
+~
+1597514 1024 1114116 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 2
+8 8 1 0
+BareHandAttack: 5
+E
+#12316
+guard gateguard gate dwarf dwarven~
+a powerful dwarven gateguard~
+A powerful-looking guard stands by the gate here, eyeing all newcomers suspiciously.
+~
+   This massively muscled dwarven gateguard looks very good at what he does.  
+A masterfully crafted dwarven axe, an Urgrosh is always near at hand, while his
+beautiful breastplate gleams in the light.  He eyes all passerby's with a deep
+look of suspicion.    
+~
+11726862 0 0 0 E
+27 3 -11 3d33+1100 4d7+8
+1600 135000 3
+8 8 1 0
+BareHandAttack: 16
+E
+T 12327
+#12317
+alister dwarf~
+Alister Forkbeard~
+Alister Forkbeard stands here, praying reverently to his deity.
+~
+   Young Alister has been the propieter of this small shop for as long as
+anybody can remember.  He seems not to ever age.  He quietly watches your
+movements with educated eyes, and awaits on you if you need help with any
+purchases.    
+~
+7340042 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2147483647 300000 2
+8 8 1 0
+E
+#12318
+beleicia quillfast dwarf female~
+Beleicia Quillfast~
+Beleicia Quillfast stands here, finishing inking a map.
+~
+   Beleicia has just recently opened this shop, as her father had a very vast
+collection of maps from his adventuring days.  She copied them all, and set up
+her shop to sell them.  She eyes you quietly, a smile on her face, and awaits
+your purchase.    
+~
+10 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2147483647 300000 3
+8 8 2 0
+E
+#12319
+kate diamondeye~
+Kate Diamondeye~
+Kate Diamondeye stands behind the counter, cutting a diamond.
+~
+   This older dwarven lass has been the owner of this shop since her late
+father left it to her.  It would take heaps of platinum coins to buy everything
+in this place, and theres no better jewler around.  But as of late, Kate has
+had some problem with thieves stealing her wares at night.    
+~
+10 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2147483647 300000 4
+8 8 2 0
+BareHandAttack: 11
+E
+#12320
+dwarf mature robust~
+a robust, matured dwarf~
+A robust, matured dwarf silently wanders around, teaching his class.
+~
+   Robust and strong, this dwarf looks like he has more than one passion than
+carpentry.  He has battle-hardened skin, both by the sun and by many scars.  
+Despite his apparent ability in combat, he seems sincere when it comes to
+teaching the students in his shop.  Crafted from wood and most likely by his
+own hands is a study-looking pendant, carved to show his faith in Reorx.  He
+walks about, slowly, looking over what each student is doing.    
+~
+1073226 33555456 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 14
+E
+T 12322
+#12321
+tunkar bluntaxe~
+Tunkar Bluntaxe~
+Tunkar Bluntaxe stands here, tapping a keg with a large hammer.
+~
+   Tunkar Flataxe, owner of the Blazing Keg Tavern, has a reputation of running
+quite a dirty tavern.  Brawls happen nightly, gambling happens dayly, and the
+Blazing Keg is a hangout for the most vilest of villians.  He doesn't seem to
+care, though, as all these things put together spell out good business.    
+~
+10 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2147483647 300000 3
+8 8 1 0
+E
+#12322
+Kellisa Goldenhair barkeep~
+Kellisa Goldenhair~
+Kellisa Goldenhair wanders about here, offering ale to the bar's patrons.
+~
+   Kellisa Goldenhair is a rather fair young dwarf woman.  Like her namesake,
+her hair is a beautiful golden color.  She looks rather strong however, and
+likely has no problem keeping the stray hand from reaching where it shouldn't.
+An oak belaying pin tucked into her belt seems to emphasize this.  She wanders
+about the bar, smiling to the patrons as she takes their orders.    
+~
+7495758 1024 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 2 0
+BareHandAttack: 7
+E
+#12323
+Benjan Sunstone~
+Benjan Sunstone~
+Benjan Sunstone stands here, pounding some dough with a large cudgel.
+~
+   Benjan Sunstone stands behind the counter, enthusiastically pounding some
+dough into submission.  It seems that even a tranquil, no-fighting job such as
+a baker can be warped into something to do with cleaving and bludgeoning.  
+Dwarves sure are skilled.    
+~
+7594010 302121984 0 0 E
+30 1 -14 3d33+10000 4d8+9
+90000 1 3
+8 8 1 0
+E
+#12324
+Dougan Relicforge~
+Dougan Relicforge~
+Dougan Relicforge stands here, shaping a piece of steel into a weapon.
+~
+   Thick-muscled and intimidating, Dougan Relicforge stands here pounding a
+piece of metal, planning to eventually turn it into a masterpiece many humans
+would envy.  One of the few blacksmiths in the city, he has perfected his art
+through years of work and training.  He looks up at you briefly, awaiting your
+purchase.    
+~
+10 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2147483647 300000 3
+8 8 1 0
+E
+#12325
+Kagdar kag~
+Kagdar Mithrilhammer~
+Kagdar Mithrilhammer stands here quietly, engraving a breastplate.
+~
+   No less intimidating then his colleague, Dougan, Kagdar Mithrilhammer runs a
+rousing trade of the best armor any person could ever ask for.  His works are
+unchallenged, and has put every other armor-crafting blacksmith in the city out
+of business.  He looks up at you quietly, and awaits your demands.    
+~
+10 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2147483647 300000 3
+8 8 1 0
+E
+#12326
+Karena Whitestar~
+Karena Whitestar~
+Karena Whitestar stands quietly behind the counter, giving you a shy smile.
+~
+   This mysterious maiden is short, and quite thin, for a dwarf.  She stands
+behind the counter here, busying herself with her current projects.  She looks
+up, smiling shyly as you enter.  She wears standard clothing for the dwarves,
+earth toned blouse and leggings.  She also displays some of her fine work by
+wearing it, as you can see by the hand-tooled leather bracers she wears.    
+~
+7593994 33555456 0 0 E
+30 1 -14 3d33+30000 4d8+9
+90000 1 3
+8 8 2 0
+E
+#12327
+brunder~
+Brunder Ogrebane~
+Brunder Ogrebane absently organizes his wares, oblivious to your entrance.
+~
+   Old Brunder is but a shadow of his former self.  A legendary adventurer in
+his own right, his prime is far behind him.  Using his knowledge of items that
+are useful in the world, he started his shop here, in hopes that a young dwarf
+would come along and follow in his footsteps.    
+~
+10 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+2147483647 300000 3
+8 8 1 0
+E
+#12328
+loud obnoxious dwarf dwarven drunk ~
+an obnoxious dwarven drunk~
+A loud, obnoxious dwarven drunk stands here, singing stupidly.
+~
+   This loud dwarf looks to had at least 10 too many.  He stands upon a table,
+singing loudly to basically nobody, with a strange, glazed look to his eyes.  
+Even as you watch, he staggers and nearly falls, but quickly regains himself
+and breaks into song again.    
+~
+1318922 0 0 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12329
+a well endowed barmaid~
+a flirtatious barmaid~
+A well-endowed barmaid wanders about, taking orders.
+~
+   This stout, well-endowed dwarven barmaid wanders around, taking orders, and
+drawing several loud hoots from the patrons of the bar.  She seems to take it
+all in stride, her whiskered face unhappy, but resolute at the fact that this
+is her job, and she has to deal with it.    
+~
+1048588 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 2 0
+BareHandAttack: 10
+E
+#12330
+drunken dwarven brawler brawl~
+a drunken dwarven brawler~
+A drunken dwarven brawler rolls around on the ground with his opponent.
+~
+   This thick-muscled dwarven male looks quite drunk indeed.  He seems to have
+gotten into an argument with his opponent, an equally drunk dwarf, and now they
+are settling things in the true dwarven matter, pounding the snot out of each
+other.    
+~
+1318922 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12331
+sour dwarf looking extremely~
+a surly dwarven patron~
+An extremely sour-looking dwarf sits here, drinking himself into a stupor.
+~
+   This large and burly dwarf seems particularly sour and foul-tempered.  He
+sits at a table, mug in hand, and peers sullenly around him, scowling at
+everything he can.  Several other large mugs litter his table.  He catches your
+gaze, and snarls at you viciously.    
+~
+1056778 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12332
+well dressed young dwarven dwarf waitress~
+a well-dressed young waitress~
+An well-dressed young dwarven waitress walks about, taking orders.
+~
+   This young dwarven waitress is a far cry from the barmaids, or wenches, at
+the other taverns in Hillhome.  Expensively dressed in a fine silver-stitched
+blouse and wearing a long, extremely modest white skirt, she looks quite
+different then what one would expect from the typical dwarven barmaid.  She
+notices your gaze, and smiles at your warmly.    
+~
+1056778 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+800 17000 3
+8 8 2 0
+BareHandAttack: 7
+E
+#12333
+a pompous overweight dwarf dwarven merchant~
+a pompous, overweight dwarven merchant~
+A pompous, overweight dwarven merchant stands here, bragging about his exploits.
+~
+   This dwarven merchant is absolutely fat.  Rolls of blubber stick out through
+his finely-sewn red silk shirt, and his arms are like wobbly buckets of jelly.
+Despite his appearance, he looks remarkably wealthy.  Fine jewelery and rings
+mark his fingers and neck, nearly hidden from few by his volumous rolls of fat.
+~
+1058826 0 0 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 3
+8 8 1 0
+BareHandAttack: 9
+E
+#12334
+a straight backed dwarf dwarven noble~
+a straight-backed dwarven nobleman~
+A straight-backed dwarven noble stands here, sipping brandy.
+~
+   This taller, straight-backed dwarven noble looks quite emotionless indeed.
+He sips from a glass of brandy every now and then, cordially speaking with an
+overweight merchant.  He doesn't look even slightly pleased, as he constantly
+looks out the window, a look of longing on his face.    
+~
+1058826 0 0 0 E
+22 7 -6 3d33+550 3d8+7
+1000 40000 3
+8 8 1 0
+BareHandAttack: 6
+E
+#12335
+female dwarf dwarven secretary~
+a pretty secretary~
+A female dwarven secretary sits here quietly, writing on a piece of parchment.
+~
+   This young dwarf maiden sits quietly at her desk, writing down an
+appointment on a piece of parchment.  She notices your arrival, pushes her
+glasses up on her nose and smiles at you warmly.    
+~
+8202 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+800 17000 3
+8 8 2 0
+BareHandAttack: 13
+E
+#12336
+tall majestic elf elven warrior~
+a muscular elven bodyguard~
+A tall, majestic elven warrior sits quietly here, his eyes on his ward.
+~
+   Tall and muscular, this elven warrior looks fierce indeed.  His hand is
+constantly on the pommel of his fancy rapier, while his greyish eyes never
+stray far from his ward, the elven emissary Delaniel Quivaen.    
+~
+3354890 0 0 850 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 3
+8 8 1 0
+BareHandAttack: 14
+E
+#12337
+delaniel quivaen quiet white robed elven elf woman~
+Delaniel Quivaen~
+A quiet, white-robed elven woman stands quietly, waiting patiently.
+~
+   Quiet and noble, Delaniel Quivaen stands quietly, awaiting audience with the
+High Thane.  Her beautiful image and calm demeanor give an aura of
+peacefulness, and she wears the white robes of the Order of Solinari.  She
+smiles at her ward, hoping to calm his suspicious behavior.    
+~
+1830922 0 10486064 850 E
+26 4 -10 3d33+950 4d7+7
+1300 115000 1
+8 8 2 0
+BareHandAttack: 11
+E
+#12338
+a disgruntled dwarven merchant dwarf~
+a disgruntled dwarven merchant~
+A disgruntled dwarven merchant stomps around the room, continually glaring around him.
+~
+   This angry dwarven merchant looks as though he thinks hes been ripped off.
+He continually glares at a thin dwarf across the room, who merely smiles back
+at him.  His red beard bristles in anger, and he begins to pace once again.  
+~
+1058826 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+800 17000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12339
+thin sneaky dwarf dwarven smug~
+a thin, sneaky-looking dwarf~
+A thin, sneaky-looking dwarf sits here, a smug grin on his face.
+~
+   This uncharacteristically thin dwarf looks quite smug indeed.  His eyes are
+stuck on the pacing merchant, while he grins ear to ear.  Dressed in loose,
+black clothing, he looks quite sneaky indeed.    
+~
+1056970 0 0 -850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 4
+8 8 1 0
+BareHandAttack: 11
+E
+#12340
+stubborn looking dwarf dwarven~
+a stubborn-looking dwarf~
+A stubborn-looking dwarf stands before the Council, awaiting judgement.
+~
+   This stubborn dwarf stands resolutely before the Council of Thanes, awaiting
+judgement on his case.  His jaw is set firm, and his head held high, refusing
+to show any sign of weakness.  His wrists and ankles are shackled together, and
+his hair and beard look quite unkempt indeed.    
+~
+3153930 0 0 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12341
+young dwarf dwarven maiden weeping~
+a weeping dwarfmaid~
+A young dwarven maiden sits here, weeping softly.
+~
+   This young dwarfmaid sits quietly, her eyes brimming with tears.  She stares
+with sad eyes at the dwarf waiting his sentence, and begins to cry once again.
+Her family around her console her quietly, but she continues to weep
+nonetheless.    
+~
+1056970 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 2 0
+BareHandAttack: 13
+E
+#12342
+Dharzon Roadwarden Innkeeper Innkeep~
+Dharzon Roadwarden~
+Dharzon Roadwarden stands behind the reception desk, greeting new guests.
+~
+   This stout dwarven fellow looks to be in the middle years of his life.  His
+fine auburn hair falls about his shoulders loosely, and his beard is well-kept.
+He stands behind the reception desk, greeting new guests as they arrive.  He is
+dressed in simple, earth-toned breeches and a forest green tunic.  The only
+sign of his financial success are several very expensive looking rings upon his
+fingers.    
+~
+7593994 1024 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000 300000 0
+8 8 1 3
+BareHandAttack: 13
+E
+#12343
+smug dwaf dwarven noble pleased~
+a smug-looking noble~
+A smug dwarven noble stands here, looking quite pleased with himself.
+~
+   This smug dwarven nobleman is grinning ear to ear, looking quite pleased
+with himself indeed.  He watches the judgement with a smile, seemingly holding
+absolutely no remorse or pity for the man about to be sentenced to life
+inprisonment.  One might guess that it is he, in fact, that is responsible for
+the dwarf's judgement.    
+~
+1056778 0 0 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12344
+reuse~
+High Thane Thonnir Redgranite~
+The High Thane Thonnir Redgranite sits here, his eyes gleaming with wisdom.
+~
+   Grim and majestic, the High Thane Thonnir Redgranite has been the leader of
+the Neidar race for many, many years.  His white beard cascades down to nearly
+his feet, and his actions are somewhat stiff, but do not mistake that for
+weakness.  Corded muscles line his body, and he seems more then capable of
+fighting alongside his warriors.  His eyes gleam with a lifetime of wisdom and
+intelligence as he judges the dwarf in front of him.    
+~
+3405898 32 0 0 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12345
+reuse~
+Axel Ogrebane~
+The Captain of the Guard, Axel Ogrebane, stands vigilant watch over the Thanes.
+~
+   Standing straight-backed and proud, Axel Ogrebane would smile as he gave
+every last drop of his blood in protection of the High Thane.  A veteran of a
+thousand battles, Axel Ogrebane is in his prime, many years younger then the
+Thane.  A flaming red beard is braided and tucked into his belt, while his eyes
+search the room for any disturbances of signs of battle.    
+~
+3405834 0 0 0 E
+28 2 -12 3d33+1250 4d7+9
+1700 175000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12346
+reuse~
+reuse~
+A mob waiting to be reused.
+~
+   Old Rask Delvedeep, Thane of the Delvedeep clan, silently watches the trial
+in front of him.  His prime far behind him, his body is still muscled and his
+eyes still reveal a steely glint.  His clan is the prime supplier of steel to
+other cities, and it has made him rich.  His clansmen, though honorable, are
+eagerly waiting his demise so that they may overtake the Thaneship and make
+their fortune.    
+~
+1220618 0 0 0 E
+22 7 -6 3d33+550 3d8+7
+1100 40000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12347
+Reuse me~
+Ollom Hammersong~
+A mob waiting to be reused.
+~
+   Ollom Hammersong, Thane of the Hammersong clan, is quite the jovial fellow.
+Believing that a good joke is far better then a good fight, he and his clan are
+somewhat thought of as insane.  He has a bright yellow beard that has been
+painstakingly braided, and his teeth are white as pearl.  His clan has made
+their fortune and gained their prestige by making ingenius toys, and selling
+them to the world.    
+~
+1237002 0 0 0 E
+23 6 -7 3d33+650 3d8+8
+1200 52000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12348
+Reuse~
+Reuse me~
+Vallan Relicforge, a fierce-looking dwarven Thane, watches the trial with an impatient air.
+~
+   Fierce and mighty, Vallan Relicforge has just recently come into the
+Thaneship of the Relicforge clan.  He taps his foot impatiently, obviously
+wanting to skip this trial and go hunt some ogres.  His beard, a flaming red,
+looks somewhat frizzy, but braided nonetheless.  His clan has made their
+fortune and gained their prestige by making the worlds best weapons.  His
+nephew, Dougan, owns the town weaponshop, and makes a great deal of money for
+his amazing works.    
+~
+1241098 0 0 0 E
+23 6 -7 3d33+650 3d8+8
+1200 52000 3
+8 8 1 0
+BareHandAttack: 10
+E
+#12349
+reuse~
+reuse me~
+Tordek Wisebeard, a red-robed old Thane, watches the trial with bored amusement.
+~
+   Tordek Wisebeard, clad in shining sequined red robes, is a high-ranking
+member of the clergydwarves of Reorx.  Also the Thane of the all-cleric clan of
+the Wisebeards, he has seen so many of these trials that he just doesn't care
+anymore.  His old face is crinkled with a look of bored amusement, and his
+right hand absently fingers his walking cane.    
+~
+714762 0 9506816 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 2
+8 8 1 0
+BareHandAttack: 5
+E
+#12350
+reuse~
+reuse me~
+Ulfgair Lockhelm sits here quietly, his slightly malicious grin on his face.
+~
+   Rather slim for his race, Ulfgair Lockhelm is the Thane of the Lockhelm
+clan.  His clan is rumored to be involved with theft and the selling of illegal
+goods, but they claim that their money comes from the cash collected from
+bounty hunting.  Although nobody believes them, few can dispute them.  
+Ulfgair, quite the sneaky-looking fellow, has a stringy black beard that he
+wears short with small braids.  He watches the ceremony with an evil grin, and
+its no doubt in whose favor he will vote
+~
+1302538 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 4
+8 8 1 0
+BareHandAttack: 11
+E
+#12351
+reuse~
+reuse~
+Toiling endlessly, a worn-out dwarfmaid picks at some weeds.
+~
+   This young dwarfmaid is crouched down, picking out any glaring weeds in the
+gardens.  Her face is flushed red from work, and her skin is tan and weathered.
+Her long hair has been braided and stuck behind a conical hat.    
+~
+8200 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+8 8 2 0
+BareHandAttack: 13
+E
+#12352
+gruff thick bearded dwarven dwarf guard guardsmen~
+a hired guardsman~
+A gruff, thick-bearded dwarven guardsman stands here, watching your every move.
+~
+   This hired guardsman looks shabby compared to the High Guardsmen, but he
+still seems as though he could put up a very good fight.  His grizzled features
+and calloused hands make him look rather imposing, and his unblinking stare at
+your every move is somewhat unnerving.    
+~
+9461770 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12353
+pretty dwarfmaiden dwarf~
+a pretty dwarfmaiden~
+A pretty dwarfmaiden stands by the door, ready to hang your cloak or jacket.
+~
+   This small, young dwarfmaiden has been hired to take the cloaks and jackets
+of the visitors and place them within the closet to the east.  She does her job
+well, smiling cheerfully and talking without hesitation.    
+~
+8202 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 2 0
+BareHandAttack: 13
+E
+#12354
+jovial noble dwarf man casually~
+a laughing nobleman~
+A jovial-looking dwarven nobleman stands here, casually sitting wine.
+~
+   This young dwarven nobleman stands around idly, chatting with the other
+people in the hall.  His hand holds a crystal class filled with some expensive
+wine.  He looks quite comfortably, and has obviously been to many of these
+parties already.    
+~
+8202 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12355
+Relgar Whiteaxe Barkeep~
+Relgar Whiteaxe~
+Relgar Whiteaxe sits behind the bar polishing an engraved metal tankard.
+~
+   Relgar sits behind the bar, polishing one of the tavern's many tankards.  
+He hums a dwarven tune to himself as he works, stopping only to fill customers
+orders.  He is himself a member of the Warrior's Guild, a veteran at that.  
+Age began to catch up with him, so he retired from mercenary work to open this
+bar for his fellow guild members.  Many of the other members look up to him as
+a father figure, and he can often be seen giving advice to younger dwarves.  
+
+~
+7593994 33555456 0 0 E
+30 1 -14 3d33+5000 4d8+9
+1000 250000 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12356
+toukan goldcleaver lord~
+Lord Toukan Goldcleaver~
+Lord Toukan Goldcleaver sits here quietly writing furiously and sipping ale.
+~
+   Lord Toukan Goldcleaver, one of the most influential dwarves in Hillhome, is
+one of the last members of his clan.  Having no children himself, he and his
+wife are the last chance to keep the Goldcleaver line going.  Not having worked
+a day in his life, he had inherited his wealth from his father, which he
+attained when the clan was prosperous and held a spot on the council of Thanes.
+~
+3334154 0 0 0 E
+26 4 -10 3d33+950 4d7+7
+1500 115000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12357
+Murtaugh Ironchisel physician dwarven~
+Murtaugh Ironchisel~
+Murtaugh Ironchisel, a dwarven physician is here sewing up the wounded.
+~
+   Murtaugh Ironchisel is an aging dwarf with bright eyes and a long white
+beard.  His fingers still move with an expert dexterity as he sews up his
+patients, using the same sewing technique he would use on an injured sow.    
+~
+1105930 33555456 9502724 0 E
+30 1 -14 3d33+1700 4d8+9
+1900 250000 2
+8 8 1 0
+BareHandAttack: 5
+E
+#12358
+dwarven cook dwarf~
+a busy-looking dwarven cook~
+A dwarven cook runs madly about, making sure all the meals are ready.
+~
+   Running frantically about, this dwarven cook looks as though he's going to
+faint from exhaustion.  Obviously on a deadline, he sprints from one pot to
+another, checking or tasting its contents.    
+~
+8202 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+E
+#12359
+visiting statesman dwarf states man~
+a visiting statesman~
+Strutting around regally, a visiting statesmen looks around with bored impatience.
+~
+   This visiting dwarven statesmen is undoubtedly from a rival House, as he
+looks around with dry contempt and a critical eye.  He sips his wine, and
+grimaces, as if to show that HIS mansion yields a much better vintage.  He
+talks only out of politeness, even though several local nobles try to engage
+him in conversation.    
+~
+8202 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12360
+dwarven dwarf servant~
+a dwarven servant~
+A dwarven servant walks around quietly, serving drinks.
+~
+   This servant, looking quite trim and proper in a robe of silk, wanders
+around holding a tray of fine wine.  His manner is courteous and polite, but a
+tinge of hatred can be seen on his face every time he is beckoned by one of the
+rich nobles.    
+~
+8202 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 1 0
+BareHandAttack: 13
+E
+#12361
+priestess reorx dwarf dwarfmaiden~
+a wandering priestess of Reorx~
+A priestess of Reorx wanders about here, spreading the word of her god.
+~
+   Humble and plain, this priestess of Reorx wanders around quietly,
+occasionaly stopping to bless a peasant or two.  Her robes are made of white
+and red, with a large forge stitched onto the front of them.  She smiles
+slightly as she catchs your gaze and wanders away again.    
+~
+532488 0 9502720 0 E
+17 10 -1 3d20+340 3d6+5
+600 11800 2
+8 8 2 0
+BareHandAttack: 5
+E
+#12362
+ugly dwarf dwarven warrior~
+a wandering dwarven warrior~
+A ugly dwarven warrior wanders about here, looking for adventure.
+~
+   This dwarven warrior wanders about aimlessly, his squashed face crinkled in
+a sour frown.  His armor is dirty and dented, as is his weapons, and its a good
+guess to say that this dwarf just got back from a very fun trip.    
+~
+1056776 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+1000 25000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12363
+dwarven drunk dwarf~
+a snorning, passed-out drunk~
+A dwarven drunk lies on the ground here, snoring loudly.
+~
+   Snoring loudly, this dwarven drunk looks quite peaceful indeed.  Completely
+oblivious to its surroundings, he rolls around in the dirt and snores loudly.
+Most likely having been cast out of the Blazing Keg, it seems he just fell onto
+the street and passed out.    
+~
+139274 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+800 17000 3
+8 8 1 0
+BareHandAttack: 9
+E
+#12364
+sturdy dwarven gateguard~
+a sturdy dwarven gateguard~
+A sturdy dwarven gateguard stands here, keeping an eye on travelers.
+~
+gateguard
+~
+1110042 33555456 0 0 E
+27 3 -11 3d33+1100 4d7+8
+1400 135000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12365
+stout dwarven gateguard~
+a stout dwarven gateguard~
+A stout dwarven gateguard stands here, keeping an eye on travelers.
+~
+Gateguard.
+~
+3239962 33555456 0 0 E
+27 3 -11 3d33+1100 4d7+8
+1600 135000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12366
+gateguard guard dwarven coal~
+a dwarven gateguard with coal-black eyes~
+A dwarven gateguard with coal-black, stern eyes stands alertly here.
+~
+A dwarven gateguard with coal-black, stern eyes.
+~
+1171482 33555456 0 0 E
+27 3 -11 3d33+1150 4d7+8
+1600 135000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12367
+dwarven gateguard silvery~
+a dwarven gateguard with a silvery beard~
+A dwarven gateguard with a long, silvery beard stands guard here.
+~
+gateguard
+~
+3203098 33555456 0 0 E
+27 3 -11 3d33+1100 4d7+8
+1300 135000 3
+8 8 1 0
+BareHandAttack: 16
+E
+#12397
+Wrenchit gnome~
+Wrenchit the gnome~
+Wrenchit the gnome stands here, attempting to show his latest invention.
+~
+   Wrenchit is a gnome of roughly three and a half feet in height, with a curly
+white beard.  He is holding a large steel contraption of some sort, and beads
+of sweat can be seen on his bald head and dripping off of his bulbous nose from
+the effort.  He shouts to be heard by one of the dwarves in charge of mining
+plans.    
+~
+10 1024 0 0 E
+15 11 1 5d10+300 2d8+4
+800 8400 0
+8 8 1 0
+BareHandAttack: 9
+E
+#12399
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 0 0
+E
+$

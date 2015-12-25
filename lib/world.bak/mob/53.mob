@@ -1,0 +1,340 @@
+#5300
+giant water bug~
+a giant water bug~
+A giant water bug swiftly swims through the water.
+~
+   A huge insect quickly darts around just under the surface of the water.  It
+has a jet black carapace and two large legs which kick out to the back and
+propel it through the swamp.  Tiny black eyes pear out from the small head
+which is dwarfed by is sharp, razor like mandibles.  The waterbug slows to a
+coast and floats to the surface to look around the area, making sharp clicking
+noises as it rubs its front legs together.    
+~
+65544 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 1 0
+BareHandAttack: 4
+E
+#5301
+large grey crocodile croc~
+a large grey crocodile~
+A large grey crocodile glides along under the water.
+~
+   A low mound slowly and smoothly flows through the water, given away only by
+its golden slitted eyes.  The crocodile suddenly lunges up out of the water,
+its mouth wide open and exposing rows of long spiked teeth.  Its skin is rough
+and grey, covered in thick ridges which stand out perpendicular to its body and
+run from its head down to the neck.    
+~
+65544 0 0 0 E
+9 15 7 5d5+130 2d7+1
+0 1300 0
+8 8 0 0
+BareHandAttack: 4
+E
+#5302
+creeping vine~
+a creeping vine~
+A creeping vine waves in the wind.
+~
+   The mass of green and crimson vines hang down between the trees and
+intertwine into a thick web.  They suddenly begin to tremble as they sense the
+proximity of a living being and wave wildly in the air, blindly attempting to
+grasp anything which comes too close.  Their thorny edges are covered in scraps
+of fur and clothing, stuck to the spikes when they succeeded in getting ahold
+of some prey.    
+~
+65544 0 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 0
+8 8 0 0
+BareHandAttack: 2
+E
+#5303
+mud soaked druid~
+a mud soaked druid~
+A mud soaked druid wallows in the muck.
+~
+   A completely filthy man with a long beard and tattered robes splashes around
+in the mud.  He has small bones woven into his thick, tangled hair and there
+appears to be blood and small pieces of flesh sticking out from underneath
+long, chipped fingernails.  He sees a small bug on the surface of the water and
+crushes it with a swift smack.  Laughing, he reveals rotten teeth and a pasty,
+black tongue.    
+~
+8 0 0 0 E
+10 14 6 5d4+160 2d7+2
+93 1900 0
+8 8 1 0
+BareHandAttack: 8
+E
+#5304
+withered old woman~
+a withered old woman~
+A withered old woman crouches on the ground.
+~
+   An old woman crouches down on the ground and slowly scrapes a cracked stone
+against the surface of the bedrock.  What was once an elegant robe has now
+become a torn and dirty rag that barely conceals her ancient form.  She squints
+her opaque, white eyes and begins to drool as a thin smoke arises from the
+stone and flatly pools just above her head.    
+~
+10 0 0 0 E
+13 13 3 6d5+240 2d9+2
+189 6625 0
+8 8 2 0
+BareHandAttack: 4
+E
+#5305
+black cloaked ranger~
+a black cloaked ranger~
+A black cloaked ranger walks about intently.
+~
+   This tall and lanky man lightly steps over the muddy ground barely seeming
+to become soiled.  His clothes are of a deep greenish-black fabric very
+reminiscent of the color of decay and putrified flesh.  Short, cropped hair
+hangs over a face twisted in anger and hatred as the man looks over the
+devastated forest and allows a sickly smile.    
+~
+8 0 0 0 E
+9 15 7 5d5+130 2d7+1
+84 1300 0
+8 8 1 0
+BareHandAttack: 3
+E
+#5306
+tired bruised man druid~
+a tired and bruised man~
+A tired and bruised man kneels and chants.
+~
+   An elderly druid wearing torn and dirty robes sits in the circle of the
+trees and slowly chants.  Wisps of hazy smoke emanate from his body and travel
+out in to the woods, revitalizing everything they touch.  He is obviously
+trying to fight and counteract the negative influence that has been brought
+into and threatens to destroy his forest.    
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+99 2900 0
+8 8 1 0
+E
+#5307
+vigilant druid woman~
+a vigilant druid~
+A vigilant druid stands against all who approach.
+~
+   A tall woman wearing only a loincloth and a thick necklace of flowers stand
+vigilantly within the small opening into a healthy looking section of forest.
+She outstretches her hands and intones a low note, teasing the plant life
+around her to grow and intertwine into a wall to block the passage in which she
+stands and close off travel.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+68 800 0
+8 8 2 0
+BareHandAttack: 10
+E
+#5308
+injured druid~
+an injured druid~
+An injured druid rolls around on the ground.
+~
+   The man lays writhing and moaning on the forest floor, an audible sizzling
+noise coming from his body.  Although not burned, it appears as though his
+flesh is withered and hard, almost dessicated like a mummy.  It is apparent
+that he has partaken of a battle with another druid, has been defeated soundly
+and dragged here to die in peace.    
+~
+10 0 0 0 E
+6 17 10 2d5+70 2d5+2
+34 175 0
+8 8 1 0
+E
+#5309
+druid deep green robes~
+a druid in deep green robes~
+A druid in deep green robes meditates near a tree.
+~
+   A woman in deep green robes lingers nervously but with resolute intention
+near the base of a wide tree.  Her eyes are close and a strong breeze seems to
+be coming from her upturned palms.  The tree is being assaulted by an
+unpleasant, thick fog which is being just barely held in check by the gusts of
+wind.  It appears as though she is beginning to weaken as sweat rolls down her
+cheek.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+69 800 0
+8 8 2 0
+E
+#5310
+creature rock~
+a creature of rock~
+A creature of rock pounds wildly at the ground.
+~
+   A massive and amorphous form which appears to be made of a strange, porous
+stone flails madly at the sides of the sinkhole.  The monstrosity is half
+immersed in the bottom and seems not to have fallen in, but rather is making an
+attempt to climb up from below.  Its thrashings are futile as it lacks any
+facial features save a gaping mouth, rendering it blind and unable to find a
+perch to help claw its way out.    
+~
+10 0 0 0 E
+10 14 6 5d4+160 2d7+2
+86 1900 0
+8 8 0 0
+E
+#5311
+white tailed deer~
+a white tailed deer~
+A white tailed deer trots about the forest.
+~
+   The elegant deer trots back and forth between the clearings in the trees.  
+Its small white tail is raised in fear and warning though it shows no sign of
+attempting to leave this vicinity, apparently preferring to remain here rather
+than venture into the rest of the forest.  It pauses for a moment to graze upon
+some grass then hears a noise and jogs quickly away to another stand of trees.
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+25 175 0
+8 8 0 0
+BareHandAttack: 4
+E
+#5312
+mass animated slime~
+a mass of animated slime~
+A mass of animated slime sloshes about the water.
+~
+   A large, dripping mass of slime raises up from the mud and water of the
+bottom of the swamp.  It takes no particular form but extends tendrils out onto
+the logs sometimes very nearly climbing up, only to slosh back down again.  
+Its pseudopods develop spikes and slam onto the surface of the water, the
+figure of a half decayed man apparent, suspended within the body of the slime.
+  
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+97 2900 0
+8 8 0 0
+BareHandAttack: 5
+E
+#5313
+water viper snake~
+a water viper~
+A water viper skims through the water.
+~
+   A small black and gold snake swims elegantly along the surface of the swamp.
+Perfectly adapted for swimming, it achieves a good speed as it rapidly moves
+by, pausing for a moment only to taste the air with its tongue.  A strange
+bulge appears in its midsection, indicating it has likely had a recent kill,
+however it is always ready to take on an intruder.    
+~
+65544 0 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 0
+E
+#5314
+enraptured druid~
+an enraptured druid~
+An enraptured druid sits frothing at the mouth.
+~
+   A man sits rocking back and forth under a stand of oak trees.  He is
+completely naked save for a thick crust of dried mud as he reaches out to a
+nearby tree.  His fingers seem to penetrate right into the tree and his eyes
+roll back into his head and he froths at the mouth.  A violet haze erupts
+around his body, soaking up a thin smoke forming from the tree.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+72 800 0
+8 8 1 0
+E
+#5315
+stone faced ranger~
+a stone faced ranger~
+A stone faced ranger stands here calmly.
+~
+   Calm and portraying utterly no sense of emotion, a tall ranger with waist
+length hair looks passively out over the swamp.  He appears as though he has
+accepted a terrible fate and will only distantly carry out his duties.  What
+were once fine clothes have been stained over with a thick tar, obscuring their
+former beauty and giving them a menacing appearance.    
+~
+8 0 0 0 E
+9 15 7 5d5+130 2d7+1
+82 1300 0
+8 8 1 0
+BareHandAttack: 3
+E
+#5316
+blood soaked druid~
+a blood soaked druid~
+A blood soaked druid gazes intensely about.
+~
+   A foul looking man in black robes drenched in blood hops around the ground
+clapping his hands together.  Blood drips down from his mouth and little scraps
+of animal flesh stick out between his teeth.  He holds what looks to be half of
+some small animal that has been torn apart and suddenly bursts into a scream
+sending a piece of meat flying out in to the air.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+71 800 0
+8 8 1 0
+E
+#5317
+white salamander~
+a white salamander~
+A white salamander pats along the ground.
+~
+   A low, white salamander slowly crawls along the floor of the caves.  It has
+a milky almost translucent skin which allows a view of its pink organs through
+the soft, thin hide.  The bulbous eyes are closed over permanantly with a thick
+layer of skin, not needing its vision in this dark underground.  Long, splayed
+pads tip fingers accustomed to feeling their way through the stones.    
+~
+65544 0 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 0 0
+BareHandAttack: 4
+E
+#5318
+tattooed thief~
+a tattooed thief~
+A tattooed thief creeps silently through the swamp.
+~
+   A little man deftly picks his way along through the terrain, disturbing
+nothing and not even creating a ripple in the water.  His face is bisected by a
+thick black line stretching from the forehead to the chin, separating one side
+which is covered in tattooed spirals from the blank side.  A long, red scar
+extends down his forearms to his wrists on each side, apparently part of some
+painful initiation ritual.    
+~
+9 0 0 0 E
+11 14 5 5d4+190 2d8+2
+94 2900 0
+8 8 1 6
+E
+#5319
+black hooded thief woman~
+a black hooded thief~
+A black hooded thief walks silently about.
+~
+   This beautiful woman stands quietly in the background, appearing interested
+in some unseen object.  A thick tattoo stretches in a line the width of her
+eyes down her face from beyond the hairline.  Her greying hair beautifully
+compliments the black tattoo and clothing which adorns her body.  A thin red
+scar stretches across her neck from ear to ear.    
+~
+11 0 0 0 E
+13 13 3 6d5+240 2d9+2
+202 6625 0
+8 8 2 6
+BareHandAttack: 11
+E
+$

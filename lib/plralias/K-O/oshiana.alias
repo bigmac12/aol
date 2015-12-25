@@ -1,0 +1,20 @@
+2
+cm
+16
+cast cure-mod $*
+1
+2
+cl
+18
+cast cure-light $*
+1
+1
+g
+7
+gore $*
+1
+2
+eq
+6
+l self
+0

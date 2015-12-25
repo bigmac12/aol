@@ -1,0 +1,1980 @@
+#7400
+Guard House~
+   This is one of two guard houses by the southern gate of the minotaur city of
+Lacynes.  It is sparsely furnished with just a chair for sitting, a desk for
+working, and a rack for storing the taller weapons, such as pole arms.  It has
+windows to keep out the cold during winter, and they open to allow a breeze
+through in summer and spring.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7401
+E
+windows window~
+   The sprawling city can be seen to the north nestled between the sea to the
+east and the hills to the west.  A high wall extends around those parts of the
+city not protected by its natural defenses.    
+~
+S
+#7401
+The Southern Gate of Lacynes~
+   The large gate which stands at the southern entrance to Lacynes is a massive
+structure, stretching about ten feet overhead of even the tallest minotaur.  
+The spikes on the bottom of the gate are massive and appear extremely sharp as
+they glint in the light.  The traffic here is fairly steady, as Lacynes is a
+major port city.  Most of the traffic itself consists of minotaur, but some
+humans, elves, dwarves, and of course, kender can be seen wandering through the
+crowds.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7492
+D1
+~
+~
+0 0 7402
+D2
+~
+~
+0 0 8299
+D3
+~
+~
+0 0 7400
+S
+#7402
+Guard House~
+   This is one of two guard houses by the southern gate of the minotaur city of
+Lacynes.  It is sparsely furnished with just a chair for sitting, a desk for
+working, and a rack for storing the taller weapons, such as pole arms.  It has
+windows to keep out the cold during winter, and they open to allow a breeze
+through in summer and spring.    
+~
+74 0 0 0 0
+D3
+~
+~
+0 0 7401
+E
+windows window~
+   The sprawling city can be seen to the north nestled between the sea to the
+east and the hills to the west.  A high wall extends around those parts of the
+city not protected by its natural defenses.    
+~
+S
+#7403
+Bleeding Sword Lane~
+   Bleeding Sword Lane leads south from the northern city gate into the city's
+main commercial district.  The high towers that guard the northern gate are
+visible to the north, which the bustling sounds of the city can be heard to the
+south.  The street itself is primarily wooden boards, haphazardly strewn on the
+ground.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7499
+D2
+~
+~
+0 0 7410
+S
+#7404
+Street of Sargas~
+   Branching off from the main street, this narrow path leads to the Temple of
+Sargas here in Lacynes.  The temple can be seen up the street a bit, and those
+coming in and out of the temple seem to all be carrying weapons of some sort,
+and wearing heavy, cumbersome armor.  They have the look in their eyes of
+trained warriors.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7437
+D3
+~
+~
+0 0 7405
+S
+#7405
+Street of Sargas~
+   Branching off from the main street, this narrow path leads to the Temple of
+Sargas here in Lacynes.  The temple can be seen up the street a bit, and those
+coming in and out of the temple seem to all be carrying weapons of some sort,
+and wearing heavy, cumbersome armor.  They have the look in their eyes of
+trained warriors.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7408
+D1
+~
+~
+0 0 7404
+S
+#7406
+A Small Altar~
+   A small altar stands off to the side, away from the main portion of the
+temple.  The altar itself is a solid piece of obisidian draped with a blood red
+cloth.  A small rug covers the floor, it too is the deep crimson color of fresh
+blood.  Hanging above the altar is a statue of a condor, holding a small blade
+in its claw.  The torchlight glistens off the blade's sharp edge.    
+~
+74 8 0 0 0
+D1
+~
+~
+0 0 7407
+E
+blade~
+   Despite the worn look of its handle, its blade remains razor sharp.  This
+would seem to indicate both regular use and sharpening.  The handle is a fine
+piece of wood carved into the shape of a small condor.  It has been stained red
+with blood.    
+~
+E
+altar~
+   This tiny altar seems to serve a special purpose which is evidenced by the
+cloth which covers it.  What at first glance appeared to be a piece of red
+cloth, is actually a white cloth stained red by blood.    
+~
+S
+#7407
+A Row of Pews~
+   A narrow aisle runs between the rows of pews that fill the Temple of the
+Destroyer.  The wooden pews have been sanded smooth and highly polished.  
+Several minotaurs have gatheird here to worship.  They kneel in front of the
+pews, there heads bowed in silent prayer.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7413
+D1
+~
+~
+0 0 7408
+D3
+~
+~
+0 0 7406
+S
+#7408
+Entrance to the Temple of the Destroyer~
+   The entrance to the temple is quite grand and far more elaborate than the
+other buildings in the city.  The walls of the room are the deep crimson of
+fresh blood and the trim has been painted gold.  Massive columns support the
+roof and have been painted with battle scenes.  The floor has been covered with
+a large mosaic depicting a giant condor; its wings spread wide.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7414
+D1
+~
+~
+0 0 7409
+D2
+~
+~
+0 0 7405
+D3
+~
+~
+0 0 7407
+S
+#7409
+A Row of Pews~
+   A narrow aisle runs between the rows of pews that fill the Temple of the
+Destroyer.  The wooden pews have been sanded smooth and highly polished.  
+Several minotaurs have gatheird here to worship.  They kneel in front of the
+pews, there heads bowed in silent prayer.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7415
+D3
+~
+~
+0 0 7408
+S
+#7410
+Bleeding Sword Lane~
+   Bleeding Sword Lane leads south from the northern city gate into the city's
+main commercial district.  The high towers that guard the northern gate are
+visible to the north, which the bustling sounds of the city can be heard to the
+south.  The street itself is primarily wooden boards, haphazardly strewn on the
+ground.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7403
+D2
+~
+~
+0 0 7416
+S
+#7411
+The Bloodied Sword~
+   The Bloodied Sword is known throughout this portion of Ansalon for its high
+quality weapons.  Though most weapons displayed are designed specifically for a
+minotuar, there are a few smaller weapons that may be of use to a human of
+great strength.  The entire stock is meticulously maintained and carefully
+displayed.    
+~
+74 12 0 0 0
+D3
+~
+~
+0 0 7464
+S
+#7412
+A Bleak Hallway~
+   The darkness of this hallway is almost oppressive.  It seems to emanate from
+a source of great evil which flows and swirls through the air, like smoke in a
+soft breeze.  A chill in the air permeates the flesh of those who pass,
+stirring something primal and savage deep with in their souls.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7421
+D1
+~
+~
+0 0 7413
+S
+#7413
+A Row of Pews~
+   A narrow aisle runs between the rows of pews that fill the Temple of the
+Destroyer.  The wooden pews have been sanded smooth and highly polished.  
+Several minotaurs have gatheird here to worship.  They kneel in front of the
+pews, there heads bowed in silent prayer.    
+~
+74 8 0 0 0
+D1
+~
+~
+0 0 7414
+D2
+~
+~
+0 0 7407
+D3
+~
+~
+0 0 7412
+S
+#7414
+An Aisle Between the Pews~
+   This aisle stretches between the rows of pews, leading further into the
+temple.  A quiet murmur raises softly from those praying to their dark god.  
+The almost tranquil sound stands in sharp contrast to the images inlaid in the
+floor: huge battles being fought, volcanoes exploding, and acts of unspeakable
+torture.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7423
+D1
+~
+~
+0 0 7415
+D2
+~
+~
+0 0 7408
+D3
+~
+~
+0 0 7413
+S
+#7415
+A Row of Pews~
+   A narrow aisle runs between the rows of pews that fill the Temple of the
+Destroyer.  The wooden pews have been sanded smooth and highly polished.  
+Several minotaurs have gatheird here to worship.  They kneel in front of the
+pews, there heads bowed in silent prayer.    
+~
+74 8 0 0 0
+D2
+~
+~
+0 0 7409
+D3
+~
+~
+0 0 7414
+S
+#7416
+Intersection of Honor Way and Bleeding Sword Lane~
+   Honor Way and Bleeding Sword Lane meet at this crowded intersection.  To the
+south Bleeding Sword Lane, lined with shops, leads through the more commercial
+section of the city.  Honor Way continues east and west through the residential
+area that runs along the northern wall of the city.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7410
+D1
+~
+~
+0 0 7442
+D2
+~
+~
+0 0 7454
+D3
+~
+~
+0 0 7426
+S
+#7417
+A Crowded Intersection~
+   Three main avenues intersect here keeping the area bustling with activity.
+Much of the traffic comes from the docks to the south and east.  Merchants head
+west from the docks toward the shops that line Bleeding Sword Lane.  Sea Lane
+runs south from here toward the main square and the Arena, which is the city's
+main focal point.  Its tall flags visible over the low buildings which line the
+streets.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7481
+D2
+~
+~
+0 0 7418
+D3
+~
+~
+0 0 7427
+S
+#7418
+Sea Lane~
+   Sea Lane is one of the main north-south roads of the ciy of Lacynes.  It
+runs along the rocky coastline of the city.  Unlike many of the smaller,
+mud-covered streets in the city, this road is paved with large stone blocks.  
+A slight breeze blows up from the beach below, bringing with it the salty smell
+of the ocean.  A great many voices, either laughing or fighting, can be heard
+coming from the west.    
+~
+74 4 1 0 0
+D0
+~
+~
+0 0 7417
+D1
+~
+~
+0 0 7622
+D2
+~
+~
+0 0 7419
+D3
+~
+~
+0 0 7420
+S
+#7419
+Sea Lane~
+   Sea Lane is one of the main north-south roads of the ciy of Lacynes.  It
+runs along the rocky coastline of the city.  Unlike many of the smaller,
+mud-covered streets in the city, this road is paved with large stone blocks.  
+A slight breeze blows up from the beach below, bringing with it the salty smell
+of the ocean.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7418
+D2
+~
+~
+0 0 7428
+S
+#7420
+The Roaring Tempest II~
+   Built after several additions to the Roaring Tempest I still failed to
+accommodate the influx of visitors, the Roaring Tempest II is not quite as
+popular as its sister establishment.  Though, it possesses the same fine
+atmosphere and ale, it lacks the grand view of the arena and Great Plaza.  As a
+result, prices are a bit lower in hopes of still attracting a crowd.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7427
+D1
+~
+~
+0 0 7418
+S
+#7421
+A Kitchen~
+   The air in this room is filled with the aroma of boiled cabbage and
+potattoes.  It is a simple room, with wooden chairs surrounding a plain table
+which is covered with wooden bowls and utensils.  A fire place in the corner is
+where the stews and meats are cooked, though it is currently empty.    
+~
+74 8 0 0 0
+D1
+~
+~
+0 0 7422
+D2
+~
+~
+0 0 7412
+S
+#7422
+A Priest's Office~
+   This room is a rather elegantly appointed room.  The desk, made of hardened
+lava with a smooth, wooden top sits in the middle of the room with a chair
+covered by what seems to be leather, stretched tightly over the cushions.  The
+floor is glossy, black marble, polished to a high shine.    
+~
+74 8 0 0 0
+D1
+~
+door~
+1 0 7423
+D3
+~
+~
+0 0 7421
+S
+#7423
+At the Altar~
+   An altar formed from rough lava stands at the center of this room.  
+Underneath the altar, deep grooves have been cut into the floor extending
+behind the pulpit and forming a square around the altar itself.  The floor has
+been covered with unpolished squares of onyx that reflect no light but rather
+seem to absorb any light within the room.    
+~
+74 8 0 0 0
+D2
+~
+~
+0 0 7414
+D3
+~
+door~
+1 0 7422
+S
+#7424
+Northwest Corner of the Circus Square~
+   This large square is the main focal point of the city.  At its center stands
+the great arena or circus.  This entire section of the city is a popular
+gathering place, particularly on days when events are being held in the arena.
+Banners of all colors fly overhead.  Like some of the busier streets, the
+square is paved with square blocks which were once used as ballast on one of
+the many ships that visit this busy port city.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7425
+D2
+~
+~
+0 0 7436
+S
+#7425
+Northern Side of the Central Circus~
+   This large square is the main focal point of the city.  At its center stands
+the great arena or circus.  This entire section of the city is a popular
+gathering place, particularly on days when events are being held in the arena.
+Banners of all colors fly overhead.  Like some of the busier streets, the
+square is paved with square blocks which were once used as ballast on one of
+the many ships that visit this busy port city.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7428
+D1
+~
+~
+0 0 7434
+D3
+~
+~
+0 0 7424
+S
+#7426
+Honor Way~
+   One of the main east-west thruways of the city, Honor Way runs relatively
+close to the northern wall of the city with only a few modest residences
+separating the road from the wall itself.  The great ramparts and guard towers
+are clearly visible over the low homes that line the northern side of the
+street.  Honor Way continues to the eat and west.  A rickety old building lies
+to the south.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7416
+D2
+~
+~
+0 0 7614
+D3
+~
+~
+0 0 7431
+S
+#7427
+Honor Way~
+   One of the main east-west thruways of the city, Honor Way runs relatively
+close to the northern wall of the city with only a few modest residences
+separating the road from the wall itself.  The great ramparts and guard towers
+are clearly visible over the low homes that line the northern side of the
+street.  A great many voices, either laughing or fighting, can be heard coming
+from the south.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7417
+D2
+~
+~
+0 0 7420
+D3
+~
+~
+0 0 7442
+S
+#7428
+Sea Lane~
+   Sea Lane is one the main roads that passes through the city.  It runs right
+along its rocky coastline.  Unlike many of the smaller, mud-covered streets in
+the city, this road is paved with large stone blocks.  The entrance to the Inn
+of the Bloody Horn lies to the east.  A slight breeze blows in from between the
+buildings, bringing with it the salty smell of the ocean.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7419
+D1
+~
+~
+0 0 7448
+D2
+~
+~
+0 0 7425
+S
+#7429
+A Guard House~
+   This is one of the two guard houses by the eastern gate of the minotaur city
+of Laeynes.  It is sparsely furnished with just a chair for sitting, a desk for
+working, and a rack for storing the taller weapons, such as pole arms.  It has
+windows to keep out the cold during winter, and they open to allow a breeze
+through in summer and spring.  Large windows dominate the eastern wall,
+providing an excellent view of the docks and the beach below.    
+~
+74 0 0 0 0
+D0
+~
+~
+0 0 7440
+S
+#7430
+Outside the Eastern Gate~
+   A strong breeze blows up from the beach below.  The rocky ground has been
+covered with wooden planks, making it easier for merchants to pass through here
+with their goods.  The docks lead out over the sea to the east.  To the west
+looms the large city gates.    
+~
+74 4 1 0 0
+D1
+~
+~
+0 0 7479
+D3
+~
+~
+0 0 7440
+S
+#7431
+Intersection of Honor Way and Broken Arrow Road~
+   Honor Way and Broken Arrow Road intersect here in one of the more
+residential areas of the city.  Small homes line both sides of the street.  
+The buildings themselves are not very grand, however each house proudly bears
+the family crest of its residents.  To the west stands the largest home in the
+city.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7426
+D2
+~
+~
+0 0 7432
+D3
+~
+~
+0 0 7611
+S
+#7432
+Broken Arrow Road~
+   Narrower than most of the streets in town, Broken Arrow Road runs through
+the western part of the city, between Honor Way and Shattered Shield Road.  It
+is not paved in any way like many of the busier streets.  Instead it has just
+been left as a dirt road with some light stone which was dragged up from the
+beach thrown on top of it.  The road continues to the north and south.  A
+rickety old building lies to the east.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7431
+D1
+~
+~
+0 0 7614
+D2
+~
+~
+0 0 7433
+S
+#7433
+Broken Arrow Road~
+   Narrower than most of the streets in town, Broken Arrow Road runs through
+the western part of the city, between Honor Way and Shattered Shield Road.  It
+is not paved in any way like many of the busier streets.  Instead it has just
+been left as a dirt road with some light stone which was dragged up from the
+beach thrown on top of it.  Broken Arrow Road continues to the north and south.
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7432
+D2
+~
+~
+0 0 7438
+D3
+~
+~
+0 0 7616
+S
+#7434
+Northeast Corner of the Circus Square~
+   This large square is the main focal point of the city.  At its center stands
+the great arena or circus.  This entire section of the city is a popular
+gathering place, particularly on days when events are being held in the arena.
+Banners of all colors fly overhead.  Like some of the busier streets, the
+square is paved with square blocks which were once used as ballast on one of
+the many ships that visit this busy port city.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7448
+D2
+~
+~
+0 0 7445
+D3
+~
+~
+0 0 7425
+S
+#7435
+The Great Plaza~
+   The Great Plaza stands just before the entrance to the circus.  It is one of
+the main focal points of the city and a popular gathering place, particularly
+on days when events are being held in the arena.  Banners of all colors fly
+overhead.  Like some of the busier streets, the square is paved with square,
+stone blocks which were used in ballast on the trade ships.  Though greatly
+overshadowed by the arena which lies to the north, the square is dominated by a
+rather large fountain.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7451
+D1
+~
+~
+0 0 7447
+D2
+~
+~
+0 0 7452
+D3
+~
+~
+0 0 7446
+S
+#7436
+Western Side of the Central Circus~
+   This large square is the main focal point of the city.  At its center stands
+the great arena or circus.  This entire section of the city is a popular
+gathering place, particularly on days when events are being held in the arena.
+Banners of all colors fly overhead.  Like some of the busier streets, the
+square is paved with square blocks which were once used as ballast on one of
+the many ships that visit this busy port city.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7424
+D2
+~
+~
+0 0 7446
+D3
+~
+~
+0 0 7476
+S
+#7437
+A Busy Intersection~
+   This is one of the busier intersections in the city.  To the east lies
+Shattered Shield Road which leads to the main city square.  The smaller, more
+residential Broken Arrow Road begins to the north.  A heavily travelled road
+leads off to the west, towards the foothills at the edge of the town.    
+~
+74 4 1 0 0
+D0
+~
+~
+0 0 7439
+D1
+~
+~
+0 0 7453
+D3
+~
+~
+0 0 7404
+S
+#7438
+Broken Arrow Road~
+   Narrower than most of the streets in town, Broken Arrow Road runs through
+the western part of the city, between Honor Way and Shattered Shield Road.  It
+is not paved in any way like many of the busier streets.  Instead it has just
+been left as a dirt road with some light stone which was dragged up from the
+beach thrown on top of it.  Broken Arrow Road continues to the north and south.
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7433
+D1
+~
+~
+0 0 7674
+D2
+~
+~
+0 0 7439
+D3
+~
+~
+0 0 7669
+S
+#7439
+Broken Arrow Road~
+   Narrower than most of the streets in town, Broken Arrow Road runs through
+the western part of the city, between Honor Way and Shattered Shield Road.  It
+is not paved in any way like many of the busier streets.  Instead it has just
+been left as a dirt road with some light stone which was dragged up from the
+beach thrown on top of it.  Broken Arrow Road continues to the north, and a
+busy intersection is visible to the south.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7438
+D1
+~
+~
+0 0 7673
+D2
+~
+~
+0 0 7437
+D3
+~
+~
+0 0 7672
+S
+#7440
+Eastern Gate of Lacynes~
+   The large gate which stands at the eastern entrance to the Lacynes is a
+massive structure, stretching about ten feet overhead of even the tallest
+minotaur.  The spikes on the bottom of the gate are massive and appear
+extremely sharp as they glint in the light.  The traffic here is fairly steady,
+as Laeynes is a major port city.  Most of the traffic itself consists of
+minotaur, but some humans, elves, dwarves, and of course, kender can be seen
+wandering through the crowds.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7450
+D1
+~
+~
+0 0 7430
+D2
+~
+~
+0 0 7429
+D3
+~
+~
+0 0 7444
+S
+#7441
+The Roaring Tempest~
+   The roar of the crowd is almost completely overwhelming in this local
+meeting place.  Almost equally overwhelming is the smell of sweat mixed with
+ale that swirls in the air.  The Roaring Tempest, so named for the minotaur's
+love of the ocean, is easily the most successful tavern in town.  Its great
+success is due, at least in part, to its prized location.  The northeastern
+wall of the establishment has been built in hinged sections that fold open onto
+the Central Arena Square.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7446
+D1
+~
+~
+0 0 7452
+S
+#7442
+Honor Way~
+   One of the main east-west thruways of the city, Honor Way runs relatively
+close to the northern wall of the city with only a few modest residences
+separating the road from the wall itself.  The great ramparts and guard towers
+are clearly visible over the low homes that line the northern side of the
+street.  Honor Way continues to the east and west.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7427
+D3
+~
+~
+0 0 7416
+S
+#7443
+Kazar's Supply Shop~
+   This plain, wooden shack serves as the general store and supply shop for the
+city of Laeynes.  It is cluttered with shelves that appear to have just been
+thrown on to the wall and may fall to the floor at any moment.  The shelves are
+overflowing with all sorts of items that would be useful for a well-prepared
+traveller.  A long counter runs along the western wall of the building.    
+~
+74 12 0 0 0
+D1
+~
+~
+0 0 7493
+S
+#7444
+Shattered Shield Road~
+   Shattered Shield Road continues here, leading toward the eastern gate and
+the docks beyond it.  It is lined with small wooden shacks that appear as
+though they would might blow over in the stiff breeze that blows in from the
+coastline.  The street is lined with tall lamp posts.  A oil lantern hangs from
+each post, swinging wildly in the breeze.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7440
+D3
+~
+~
+0 0 7445
+S
+#7445
+Eastern Side of the Central Circus~
+   This large square is the main focal point of the city.  At its center stands
+the great arena or circus.  This entire section of the city is a popular
+gathering place, particularly on days when events are being held in the arena.
+Banners of all colors fly overhead.  Like some of the busier streets, the
+square is paved with square blocks which were once used as ballast on one of
+the many ships that visit this busy port city.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7434
+D1
+~
+~
+0 0 7444
+D2
+~
+~
+0 0 7447
+S
+#7446
+Southwest Corner of the Circus Square~
+   This large square is the main focal point of the city.  At its center stands
+the great arena or circus.  This entire section of the city is a popular
+gathering place, particularly on days when events are being held in the arena.
+Banners of all colors fly overhead.  Like some of the busier streets, the
+square is paved with square blocks which were once used as ballast on one of
+the many ships that visit this busy port city.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7436
+D1
+~
+~
+0 0 7435
+D2
+~
+~
+0 0 7441
+S
+#7447
+Southeast Corner of Circus Square~
+   This large square is the main focal point of the city.  At its center stands
+the great arena or circus.  This entire section of the city is a popular
+gathering place, particularly on days when events are being held in the arena.
+Banners of all colors fly overhead.  Like some of the busier streets, the
+square is paved with square blocks which were once used as ballast on one of
+the many ships that visit this busy port city.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7445
+D3
+~
+~
+0 0 7435
+D9
+~
+~
+0 0 7623
+S
+#7448
+Entrance to the Inn of the Bloody Horn~
+   The entryway to the Inn of the Bloody Horn is a shabby unadorned room.  A
+simple rug has been thrown over the dirty wooden floor.  The rug itself looks
+as though it has seen better days.  It is full of holes that no one has
+bothered to patch.  A few tables sit by the large windows that look out on the
+arena.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7457
+D1
+~
+~
+0 0 7467
+D2
+~
+~
+0 0 7434
+D3
+~
+~
+0 0 7428
+S
+#7450
+A Guard House~
+   This is one of the two guard houses by the eastern gate of the minotaur city
+of Laeynes.  It is sparsely furnished with just a chair for sitting, a desk for
+working, and a rack for storing the taller weapons, such as pole arms.  It has
+windows to keep out the cold during winter, and they open to allow a breeze
+through in summer and spring.  Large windows dominate the eastern wall,
+providing an excellent view of the docks and the beach below.    
+~
+74 0 0 0 0
+D2
+~
+~
+0 0 7440
+S
+#7451
+Entrance to the Circus~
+   This is the grand entryway to the circus arena.  Unlike the majority of the
+buildings in the city, the arena has been magnificently constructed from the
+finest marble around.  All determinations regarding rank and justice are
+handled within the walls of the circus.  The minotaur society is truly
+classless.  Anyone can achieve greatness through physical might and dominance.
+~
+74 12 0 0 0
+D0
+~
+~
+0 0 7461
+D2
+~
+~
+0 0 7435
+S
+#7452
+Sea Lane~
+   Sea Lane runs from the southern gate toward the Central Circus.  Unlike many
+of the smaller, mud-covered streets in the city, this road is paved with large
+stone blocks.  A salty breeze blows in from the east.  No doubt this avenue
+runs near the coastline.  A plain, wooden building stands to the west.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7435
+D2
+~
+~
+0 0 7491
+D3
+~
+~
+0 0 7441
+S
+#7453
+Shattered Shield Road~
+   This portion of Shattered Shield Road is one of the busier areas of the
+city.  It leads westward from the central arena square, past the Academy,
+finally ending near the Temple of Sargas.  Due to the high volume of traffic it
+sees, it has been paved in stone.  However, in many places the road has been
+allowed to fall into disrepair and are a bit uneven.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7463
+D3
+~
+~
+0 0 7437
+S
+#7454
+Bleeding Sword Lane~
+   Bleeding Sword Lane passes through the main commercial district of the city.
+Citizens busily hurry from one shop to the next as they run their daily
+errands.  Visitors to the city are often drawn to this section of time to
+peruse the selections of fine weapons and armor.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7416
+D2
+~
+~
+0 0 7464
+S
+#7455
+Out Of Character Board Room~
+   This small room contains a bulletin board on the north wall of the room,
+written in a strange language you can't place with any race on Krynn.  In the
+center of the room is a sphere wrapped with what looks like a geographical map,
+spinning of its own accord, and radiating a pale blue light that both chills
+and warms your soul.  You feel somehow connected to it...  Yet completely
+incapable of determining how.    
+~
+74 12 0 0 0
+D9
+~
+~
+0 0 7649
+S
+#7456
+The RP Board Room~
+   This board is for the questions, comments, and ideas or suggesstions that
+the mortals may have concerning things such as RP, Quests, Invasions, and minor
+or major situations, historys, backgrounds for characters that might occur, or
+that they wish to do.  Imms may reply as well on this board, to answer or ask
+for ideas about any RP-type situation.    
+~
+74 8 0 0 0
+D2
+~
+~
+0 0 7649
+S
+#7457
+Common Room of the Bloody Horn Inn~
+   This oversized room is one of the busiest meeting places in the city.  It is
+always jammed full of drunken minotaurs, laughing and boasting about their
+physical prowess.  A large fireplace dominates the northern wall of the room.
+Several broken, over-turned tables and broken chairs rest in the corner next to
+the fireplace.  Apparently intended to be used as kindling, they stand as
+silent testimony to the many fights that have occurred here.  A rickety set of
+stairs runs along the eastern wall, leading to the large landing above the
+room.    
+~
+74 8 0 0 0
+D2
+~
+~
+0 0 7448
+D4
+~
+~
+0 0 7649
+E
+up stairs~
+Several broken steps currently make the stairs impassable.    
+~
+S
+#7458
+Local Crime Board Room~
+   This small room with stone walls and a dirt floor is decorated only with a
+small bulletin board on the south wall.  This bulletin board is for posting
+messages about unjust crimes that you have seen or fallen victim to near
+Kalaman.  The city guard occasionally comes here and reads the board, and then
+attempts to solve the crime.    
+~
+74 8 0 0 0
+D8
+~
+~
+0 0 7649
+S
+#7459
+World News Board Room~
+   This small room contains only a bulletin board on the north wall of the
+room.  Pictures of heroes of Krynn and their fantastical deeds have been
+painted on the walls of the room by an excellent artist.  These pictures
+depict, amongst others, Kith-Kanan, Vinas Solamnus, and Huma Dragonbane.    
+~
+74 8 0 0 0
+D1
+~
+~
+0 0 7649
+S
+#7460
+General Seating~
+   These stone bleachers provide the seating for the general populace at all
+events.  They stretch up from the battle floor to the top of the arena.  Each
+long bench is large enough to hold about a dozen adult minotaurs.  Steep
+stairway leads between the benches providing access to the higher levels.  It
+is a dangerous climb since there are no handrails to offer support.    
+~
+74 0 0 0 0
+D0
+~
+~
+0 0 7473
+D1
+~
+~
+0 0 7461
+S
+#7461
+Entrance to the Fighting Floor~
+   During the day this passageway is lit by the bright sunlight that streams
+through the massive arches which open to the surrounding square.  At night it
+is lit by seemingly endless rows of torches which disappear out of sight and
+around the curve of the arena.  The dirt floor is covered with hoof marks
+leading toward the main battle area.  The stale air that fills the archway is
+heavy with the smell of blood and sweat.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7474
+D1
+~
+~
+0 0 7462
+D2
+~
+~
+0 0 7451
+D3
+~
+~
+0 0 7460
+S
+#7462
+General Seating~
+   These stone bleachers provide the seating for the general populace at all
+events.  They stretch up from the battle floor to the top of the arena.  Each
+long bench is large enough to hold about a dozen adult minotaurs.  Steep
+stairway leads between the benches providing access to the higher levels.  It
+is a dangerous climb since there are no handrails to offer support.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7475
+D3
+~
+~
+0 0 7461
+S
+#7463
+Intersection of Shattered Shield Road and Bleeding Sword Lane~
+   Filled with citizens travelling in all directions, this intersection is a
+flurry of activity.  Shattered Shield Road continues to the east toward the
+central arena square and to the west, past the Academy, finally ending near the
+Temple of Sargas.  Due to the high volume of traffic it sees, it has been paved
+in stone.  However, in many places the road has been allowed to fall into
+disrepair and it is a bit uneven.  Bleeding Sword Lane branches off to the
+north, and the Academy grounds lie to the south.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7493
+D1
+~
+~
+0 0 7476
+D2
+~
+~
+0 0 7668
+D3
+~
+~
+0 0 7453
+S
+#7464
+Bleeding Sword Lane~
+   Bleeding Sword Lane passes through the main commercial district of the city.
+Citizens busily hurry from one shop to the next as they run their daily
+errands.  Visitors to the city are often drawn to this section of time to
+peruse the selections of fine weapons and armor.  Rundown structures, that must
+be shops, line both sides of the street.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7454
+D1
+~
+~
+0 0 7411
+D2
+~
+~
+0 0 7478
+D3
+~
+~
+0 0 7615
+S
+#7465
+Bug Board Room~
+   The bulletin board on the south wall of this small room is for pointing out
+bugs.  If you find any bugs anywhere in Krynn, just leave a note here and one
+of the Gods will fix it.  A large mural of Branchala is the only decoration in
+this room, and it fills the entire east wall of the room.    
+~
+74 8 0 0 0
+D3
+~
+~
+0 0 7649
+S
+#7466
+The Trade and Special Events Board Room~
+   A fair sized bulletin board is attached to the east wall of this small room.
+Strange objects from all over Krynn litter the floor of here.  Things such as
+elven gems, dwarven armor, and Qualinesti leather-working are just a few of the
+strange, and valuable, objects to be found here.    
+~
+74 8 0 0 0
+D7
+~
+~
+0 0 7649
+S
+#7467
+The Main Desk of the Bloody Horn~
+   Perhaps the dreariest room in the tavern, the only pleasant thing about it
+is the window in the eastern wall that overlooks the ocean.  A long counter
+runs the entire length of the northern wall.  Behind the counter is a narrow
+hallway which leads toward the guest rooms.    
+~
+74 12 0 0 0
+D3
+~
+~
+0 0 7448
+E
+window ocean~
+   The Bloody Horn sits atop a cliff which juts out over the beach.  This
+vantage point provides an excellent view of the ocean and the waves crashing
+violently on to the beach below.  A few ships can be seen in the distance as
+they prepare to come into port.    
+~
+S
+#7468
+RP Board Room~
+   This small room contains only a large bulletin board on the north wall.  
+The bulletin board actually covers the entire wall, and is itself plastered
+with messages and notes.  The walls of the room are covered in paintings of
+various places in Krynn including The Tower of The Stars in Silvanost, The High
+Clerist's Tower outside of Palanthas, and Vingaard Keep.    
+~
+74 0 0 0 0
+D0
+~
+~
+0 0 7649
+S
+#7469
+Policy Board Room~
+   The board on the southern wall of this room is for discussing the Gods'
+policies as they pertain to the mortals of Krynn.  Discussion topics include
+things such as helping mortals, the healing of mortals, and Gods abusing their
+powers towards mortals.  Pictures of the Gods have been painted on the walls,
+including Chemosh, Lunitari, Branchala, and Gilean.    
+~
+74 8 0 0 0
+D6
+~
+~
+0 0 7649
+S
+#7470
+The Lacynes Customs Office~
+   Every ship bringing goods into Karthay must declare the value of those goods
+here, and pay an appropriate tax on them before they are allowed to sell them
+in the city.  Tall filing cabinets line the walls.  They are filled with
+records of the hundreds of ships that come into port here.  A wooden desk
+stands against the western wall.  It is stacked high with customs declarations
+waiting to be reviewed.    
+~
+74 8 0 0 0
+D0
+~
+~
+0 0 7484
+D1
+~
+~
+0 0 7471
+D2
+~
+~
+0 0 7617
+S
+#7471
+A Massive Warehouse~
+   This massive warehouse is run by a retired merchant who once travelled the
+whole of Krynn.  He rents his warehouse space to merchants needing a location
+to store their goods while securing all the proper documents for customs or
+while scheduling ground transportation to their final destination.  The
+warehouse is also used by those merchants preparing to use Lacynes as their
+port of departure.    
+~
+74 8 0 0 0
+D1
+~
+~
+0 0 7472
+D3
+~
+~
+0 0 7470
+S
+#7472
+A Massive Warehouse~
+   This massive warehouse is run by a retired merchant who once travelled the
+whole of Krynn.  He rents his warehouse space to merchants needing a location
+to store their goods while securing all the proper documents for customs or
+while scheduling ground transportation to their final destination.  The
+warehouse is also used by those merchants preparing to use Lacynes as their
+port of departure.    
+~
+74 8 0 0 0
+D2
+~
+~
+0 0 7619
+D3
+~
+~
+0 0 7471
+S
+#7473
+General Seating~
+   These stone bleachers provide the seating for the general populace at all
+events.  They stretch up from the battle floor to the top of the arena.  Each
+long bench is large enough to hold about a dozen adult minotaurs.  Steep
+stairway leads between the benches providing access to the higher levels.  It
+is a dangerous climb since there are no handrails to offer support.  About
+midway up the stairs are some more lavish box-style seats which belong to the
+more prominent families of Lacynes.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7488
+D2
+~
+~
+0 0 7460
+S
+#7474
+The Battle Field of the Great Circus~
+   Though quiet now, this fighting floor has been the stage for many of the
+greatest battles fought on Krynn.  Countless minotaurs have come here to settle
+their disputes and raise their social standing.  It is a place of great
+significance to all the people of Lacynes.  The battle field itself is little
+more than a large dirt pit.  When the rain comes it turns into a massive field
+of mud, however this does not stop any scheduled battles.  The field is open to
+the heavens above, though completely surrounded by the stadium seating which is
+always filled when a battle is taking place.    
+~
+74 4 0 0 0
+D2
+~
+~
+0 0 7461
+S
+#7475
+General Seating~
+   These stone bleachers provide the seating for the general populace at all
+events.  They stretch up from the battle floor to the top of the arena.  Each
+long bench is large enough to hold about a dozen adult minotaurs.  Steep
+stairway leads between the benches providing access to the higher levels.  It
+is a dangerous climb since there are no handrails to offer support.  About
+midway up the stairs are some more lavish box-style seats which belong to the
+more prominent families of Lacynes.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7490
+D2
+~
+~
+0 0 7462
+S
+#7476
+Shattered Shield Road~
+   This portion of Shattered Shield Road is one of the busier areas of the
+city.  It leads westward from the central arena square, past the Academy,
+finally ending near the Temple of Sargas.  Due to the high volume of traffic it
+sees, it has been paved in stone.  However, in many places the road has been
+allowed to fall into disrepair and are a bit uneven.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7436
+D3
+~
+~
+0 0 7463
+S
+#7477
+The Bloody Mail~
+   It is nearly impossible to move in this cramped building.  Every wall is
+lined with massive wooden cabinets filled with finely crafted armour.  Over the
+doorway hang several coats of arms.  No doubt representing some of the
+armourer's most prestigious customers.  A narrow bench stands next to a counter
+on the eastern wall.  The bench is overflowing with pieces of freshly cut
+leather and the tools of the trade.    
+~
+74 12 0 0 0
+D3
+~
+~
+0 0 7478
+S
+#7478
+Bleeding Sword Lane~
+   Bleeding Sword Lane passes through the main commercial district of the city.
+Citizens busily hurry from one shop to the next as they run their daily
+errands.  Visitors to the city are often drawn to this section of time to
+peruse the selections of fine weapons and armor.  Rundown structures, that must
+be shops, line both sides of the street.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7464
+D1
+~
+~
+0 0 7477
+D2
+~
+~
+0 0 7493
+D3
+~
+~
+0 0 7604
+S
+#7479
+The Docks of Lacynes~
+   Worn wooden planks stretch out here from the rocky coast over the beach
+which lies below.  Large merchant ships bob in the waves, banging gently
+against the side of the docks.  Merchants and sailors walk up and down the
+docks, carrying goods to and from their ships.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7480
+D3
+~
+~
+0 0 7430
+S
+#7480
+The Docks of Lacynes~
+   Worn wooden planks stretch out here from the rocky coast over the beach
+which lies below.  Large merchant ships bob in the waves, banging gently
+against the side of the docks.  Merchants and sailors walk up and down the
+docks, carrying goods to and from their ships.    
+~
+74 0 1 0 0
+D3
+~
+~
+0 0 7479
+S
+#7481
+Maelstrom Way~
+   Maelstrom Way is less a road and more of a dirt path along the rocky
+coastline.  It leads to a monstrous edifice which is built into the cliff face.
+The building itself can be seen to the northeast.  A bright light shines from
+its great tower.  The dirt has been trampled smooth by the great number of
+seafarers who travel it each day, many dragging carts along behind them.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7482
+D2
+~
+~
+0 0 7417
+S
+#7482
+Maelstrom Way~
+   Maelstrom Way is less a road and more of a dirt path along the rocky
+coastline.  It leads to a monstrous edifice which is built into the cliff face.
+The building itself stands to the east.  A bright light shines from its great
+tower.  The dirt has been trampled smooth by the great number of seafarers who
+travel it each day, many dragging carts along behind them.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7483
+D2
+~
+~
+0 0 7481
+S
+#7483
+Before the Temple of the Maelstrom~
+   The Temple of the Maelstrom is of great importance to the city of Lacynes.
+In addition to its obvious religious importance, it serves as a customs house
+and warehousing facility for this port city.  Additionally, it is home to the
+lighthouse which serves as a beacon for those coming into harbor here.  
+Despite its importance, the building itself is rather simplistic.  Its most
+impressive feature being that it was built right onto the edge of the cliff
+side and is supported by massive wooden columns that disappear into the surf
+below.    
+~
+74 0 1 0 0
+D1
+~
+~
+0 0 7484
+D3
+~
+~
+0 0 7482
+S
+#7484
+The Main Entryway of the Temple of the Maelstrom~
+   The ceiling of this vast chamber is lost in the darkness overhead.  The
+walls are lined with torches.  Their light flickers off the walls which have
+been painted a deep, sea-green.  The plank flooring is covered with a simple
+rug woven from sea grasses.  The main portion of the temple is visible to the
+east, stretching out over the ocean, while the business offices branch off to
+the north and south.    
+~
+74 12 0 0 0
+D0
+~
+~
+0 0 7494
+D1
+~
+~
+0 0 7485
+D2
+~
+~
+0 0 7470
+D3
+~
+~
+0 0 7483
+S
+#7485
+An Aisle in the Temple~
+   Lined on both sides with massive, wooden benches, this aisle leads toward
+the altar for Maelstrom.  Sitting on the benches are sailors of all races,
+though mostly minotaur, their heads bowed in silent prayer to the Sea Goddess.
+A thick carpet covers the flooring to quiet the footfalls of those who pass.  
+The carpet has been woven with fibres of all shades of green, giving it the
+appearance of swirling seawater.    
+~
+74 8 0 0 0
+D1
+~
+~
+0 0 7486
+D3
+~
+~
+0 0 7484
+S
+#7486
+An Aisle in the Temple~
+   Lined on both sides with massive, wooden benches, this aisle leads toward
+the altar for Maelstrom.  Sitting on the benches are sailors of all races,
+though mostly minotaur, their heads bowed in silent prayer to the Sea Goddess.
+A thick carpet covers the flooring to quiet the footfalls of those who pass.  
+The carpet has been woven with fibres of all shades of green, giving it the
+appearance of swirling seawater.    
+~
+74 8 0 0 0
+D1
+~
+~
+0 0 7487
+D3
+~
+~
+0 0 7485
+S
+#7487
+A Shrine to Maelstrom~
+   Bathed in a pale green light which pours in through massive panes of glass
+that overlook the ocean stands a great altar to The Sea Queen Zeboim, or
+Maelstrom as she known to the minotaurs.  The altar itself nothing more than a
+large piece of driftwood crudely decorated with seashells.  Before the altar
+rests chest filled with the sacrifices and petitions of seamen wishing good
+weather and safe journeys.    
+~
+74 8 0 0 0
+D3
+~
+~
+0 0 7486
+E
+altar driftwood~
+   Filled with knots and small worm holes, this piece of driftwood has smooth
+edges from being churned in the waves below.  It was brought up from the beach
+to serve as an altar for a shrine to Maelstrom.  It is adorned with several
+seashells that have been carefully placed in the various dents and grooves of
+the wood.  It is draped with a deep, sea-green cloth.    
+~
+S
+#7488
+General Seating~
+   These stone bleachers provide the seating for the general populace at all
+events.  They stretch up from the battle floor to the top of the arena.  Each
+long bench is large enough to hold about a dozen adult minotaurs.  Steep
+stairway leads between the benches providing access to the higher levels.  It
+is a dangerous climb since there are no handrails to offer support.    
+~
+74 0 1 0 0
+D1
+~
+door~
+1 0 7489
+D2
+~
+~
+0 0 7473
+S
+#7489
+A Private Box~
+   Unlike the general seating areas, this private box is sheltered from the hot
+afternoon sun by a bright, purple canopy.  The box is filled with inviting,
+cushioned chairs standing in sharp contrast to the hard, stone benches that
+fill the the rest of the arena.  Low tables stand between the chairs.  During
+events they are laden with food and drinks for the most high-ranking even
+patrons.    
+~
+74 8 0 0 0
+D1
+~
+door~
+1 0 7490
+D3
+~
+~
+1 0 7488
+S
+#7490
+General Seating~
+   These stone bleachers provide the seating for the general populace at all
+events.  They stretch up from the battle floor to the top of the arena.  Each
+long bench is large enough to hold about a dozen adult minotaurs.  Steep
+stairway leads between the benches providing access to the higher levels.  It
+is a dangerous climb since there are no handrails to offer support.    
+~
+74 0 1 0 0
+D2
+~
+~
+0 0 7475
+D3
+~
+door~
+1 0 7489
+S
+#7491
+Sea Lane~
+   Sea Lane runs from the southern gate toward the Central Circus.  Unlike many
+of the smaller, mud-covered streets in the city, this road is paved with large
+stone blocks.  A salty breeze blows in from the east.  No doubt this avenue
+runs close to the coastline.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7452
+D2
+~
+~
+0 0 7492
+S
+#7492
+Sea Lane~
+   Sea Lane runs from the southern gate toward the Central Circus.  Unlike many
+of the smaller, mud-covered streets in the city, this road is paved with large
+stone blocks.  A salty breeze blows in from the east.  No doubt this avenue
+runs close to the coastline.  The guard towers and ramparts of the city wall
+are visible to the south.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7491
+D2
+~
+~
+0 0 7401
+D3
+~
+~
+0 0 7675
+S
+#7493
+Bleeding Sword Lane~
+   Bleeding Sword Lane passes through the main commercial district of the city.
+Citizens busily hurry from one shop to the next as they run their daily
+errands.  Visitors to the city are often drawn to this section of time to
+peruse the selections of fine weapons and armor.  A plain wooden shack stands
+to the east.  Its door hanging precariously on its rusted hinges.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 7478
+D2
+~
+~
+0 0 7463
+D3
+~
+~
+0 0 7443
+S
+#7494
+A Hallway in the Temple~
+   Leading off from the main portion of the temple, this hallway leads to the
+harbormaster's office and the lighthouse.  It is completely unadorned.  Its
+only decoration being the simple sconces that line wall providing light.  A
+long, narrow rug stretches over the floor.  Its edges are frayed and it is worn
+in several places, exposing the wooden floor below.    
+~
+74 8 0 0 0
+D1
+~
+~
+0 0 7495
+D2
+~
+~
+0 0 7484
+S
+#7495
+A Hallway in the Temple~
+   Leading off from the main portion of the temple, this hallway leads to the
+harbormaster's office and the lighthouse.  It is completely unadorned.  Its
+only decoration being the simple sconces that line wall providing light.  A
+long, narrow rug stretches over the floor.  Its edges are frayed and it is worn
+in several places, exposing the wooden floor below.    
+~
+74 12 0 0 0
+D1
+~
+~
+0 0 7496
+D3
+~
+~
+0 0 7494
+S
+#7496
+The Harbormaster's Office~
+   Decorated with pictures of seacraft of every shape and size, the
+harbormaster's office is a comfortable, though plain, room.  An oversized desk
+and chair stand against the northern wall.  Two stools sit facing the desk for
+anyone stopping in on business.  A massive harpoon hangs over the doorway, its
+point stained a dark red.    
+~
+74 8 0 0 0
+D3
+~
+~
+0 0 7495
+D4
+~
+~
+0 0 7601
+S
+#7497
+The Top of the Lighthouse~
+   Looking out over the ocean and the harbor below, the lighthouse serves as a
+beacon for ships coming into port here in Lacynes.  The walls are comprised
+completely of large panes of glass that look out over the ocean to the north,
+east, and south.  A large lantern hangs in the middle of the room.  Mirrors are
+set upon the floor and ceiling.  They are angled so as to reflect the maximum
+amount of light from the lantern out over the water.    
+~
+74 8 0 0 0
+D5
+~
+~
+0 0 7602
+S
+#7498
+A Guard House~
+   This is one of two guard houses by the northern gate of the minotaur city of
+Laeynes.  It is sparsely furnished with just a chair for sitting, a desk for
+working, and a rack for storing the taller weapons, such as pole arms.  It has
+windows to keep out the cold during winter, and they open to allow a breeze
+through in summer and spring.    
+~
+74 0 0 0 0
+D1
+~
+~
+0 0 7499
+S
+#7499
+Northern Gate of Lacynes~
+   The large gate which stands at the northern entrance to Lacynes is a massive
+structure, stretching about ten feet overhead of even the tallest minotaur.  
+The spikes on the bottom of the gate are massive and appear extremely sharp as
+they glint in the light.  The traffic here is fairly steady, as Laeynes is a
+major port city.  Most of the traffic itself consists of minotaur, but some
+humans, elves, dwarves, and of course, kender can be seen wandering through the
+crowds.    
+~
+74 0 1 0 0
+D0
+~
+~
+0 0 8249
+D1
+~
+~
+0 0 7600
+D2
+~
+~
+0 0 7403
+D3
+~
+~
+0 0 7498
+S
+$~

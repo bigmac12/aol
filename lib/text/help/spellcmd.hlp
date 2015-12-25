@@ -1,0 +1,90 @@
+CAST
+
+Usage: cast <spell> [target]
+
+For "magical" people.  If you want to throw a spell at someone or something.
+
+Example:
+
+  > cast burning-hands dog
+
+  Note that spells with multiple words must have the words seperated by a
+dash.  The first space after the spell name begins (in this case, dog) is
+for the targets - some spells will require multiple arguments.  This will
+be given in the spell description.
+
+See also: FORGET, MEMORIZE, SPELLS, and help on each individual spell
+
+Examples:
+
+  > help spell cure light
+  > help spell ventri
+  > help spell energy drain
+#
+EXCHANGE
+
+Usage: exchange <spell 1> <spell 2>
+
+  This command cannot be used without some sort of magical aid which allows
+you to exchange one spell for another.  When used, this spell will switch
+<spell 1>, which you have memorized, for <spell 2>, which is used in the same
+spell slot.  Spell 1 ceases to be memorized, spell 2 becomes memorized, and
+the number of levels you are allowed to exchange drops by the spell level.
+You cannot exchange spells that you do not have memorized, you cannot exchange
+spells that you are currently memorizing, and you cannot exchange spells that
+are of different spell levels.
+
+Example:  (for mages, fireball and teleport are both level 5 spells)
+
+         > exchange fireball teleport
+
+See also: MEMORIZE, FORGET, CAST, SPELLS, "SPELL RECOLLECTION"
+#
+FORGET
+
+  Usage: forget <spell>
+	   forget all
+
+  This command will erase a spell from a spellcaster's memory, or stop that
+spellcaster from memorizing that spell.  If a spellcaster is memorizing
+several copies of the spell in question, the spell that is farthest away
+from being memorized is erased first - or if a spellcaster has several copies
+memorized and is memorizing one more, the one being memorized will be erased
+before the one in memory is. Typing "forget all" will erase all spells the spell
+caster has in memory
+
+  See also: MEMORIZE, CAST, SPELLS
+#
+MEMORIZE
+
+  Usage: memorize <spell>
+         memorize
+
+  Without an argument, this spell will show you the list of the spells that
+you are currently memorizing and that you currently have memorized.  Using
+this command with an argument will begin to memorize that spell instead.
+Keep in mind that one cannot memorize a spell that has never been practiced.
+Note that you will only memorize spells while resting, and spellcasters do
+require a time to gather their thoughts before they begin memorizing - any
+interruption, such as standing up or fighting, will require that spellcaster
+to gather their thoughts again before continuing.
+
+See also: CAST, FORGET, SPELLS
+#
+SPELLS
+
+  Usage: spells
+
+  This spell will show you the list of spells that you are capable of
+casting, and what spell level each of those spells will go into.  Note
+that this does not show how well learned you are in each of those spells,
+and that you will be unable to cast any of those spells that you have not
+yet practiced.
+
+Note that to find out what a particular spell does you have to type
+the following: HELP SPELL <Spell Name>
+
+See also: CAST, MEMORIZE, FORGET, PRACTICE
+#
+$
+

@@ -1,0 +1,140 @@
+#19900
+corpse re-animated~
+a re-animated corpse~
+A re-animated corpse with raggedy, torn clothes limps toward you.
+~
+Bits of clothing and flesh seem to fall off this corpse as it limps toward
+you mindlessly.  An empty look in its eye tells you there is no soul, yet
+it moves and seems to know to kill anything in its path.
+~
+40 0 0 -1000 E
+5 15 5 10d10+0 5d5+5
+0 500 0
+8 8 0 0
+BareHandAttack: 8
+E
+#19901
+corpse cursed ragged~
+a ragged, cursed corpse~
+The corpse of a cursed man dressed in ragged clothing glares mindlessly.
+~
+The corpse of a man dressed in ragged clothing stumbles upon undead feet
+and glares mindlessly at thin air.  The man, apparantly, was cursed as he
+died, to forever wander the graveyard in search of his final resting place.
+~
+40 0 0 -1000 E
+10 10 0 20d20+0 10d10+10
+0 600 0
+8 8 0 0
+BareHandAttack: 13
+E
+#19902
+ghoul pale~
+a pale ghoul~
+A pale ghoul floats listlessly toward you, ready to attack.
+~
+The soulless ghoul floats listlessly as if in constant agony of being undead.
+Its rest disturbed, it attacks the first thing it sees as revenge.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+#19903
+child ghost small spoiled~
+a small, ghostly pale child~
+A small child, dressed in ancient frills and silk, lets out a ghostly whine.
+~
+The child is small, no older than 6 years, and is dressed in old clothing,
+covered with frills, lace and silk.  The child floats less than a foot above
+the ground, and seems to be grabbing for something unseen by living mortals.
+The ghost lets out a pitiful whine, similar to a banshee, yet also like the
+whining of a spoiled child.
+~
+253978 327784 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+E
+#19904
+wraith spirit cold woman~
+a cold eyed wraith~
+The spirit of a cold eyed woman glides toward you with an odd hunger.
+~
+The woman, once beautiful when alive, is now more cold and scary than pretty.
+Her cold eyes burn with an odd fiery hunger, and her skin is icy pale.  She
+glides above the ground toward you, as she licks her undead lips.
+~
+40 0 0 5 E
+5 15 5 10d10+0 5d5+5
+0 0 0
+8 8 0 0
+BareHandAttack: 12
+E
+#19905
+skeleton flesh~
+a flesh covered skeleton~
+Bones creak as a half-rotted body, more bones than flesh, walks stiffly.
+~
+This skeleton appears half flesh half bones, and walks with a stiffness
+of being still for so long.  The clothing is long since rotted away, and
+the empty eye sockets are intimidating.
+~
+40 0 0 10 E
+10 10 0 20d20+0 10d10+10
+0 600 0
+8 8 0 0
+BareHandAttack: 4
+E
+#19951
+man dark skinned charcoal robes~
+a dark skinned man in charcoal robes~
+A dark skinned man, wearing robes stained with charcoal, stands here.
+~
+   Thick robes, stained with black soot and reddish charcoal, covers this man
+from head to foot, with only his thin, delicate hands and part of his darkened
+face be seen.  Upon his wrists can barely be seen a partial tattoo, and the
+hood hides the man's long hair.  Deep set green eyes peer from underneath the
+shadows of the hood, and glare with emotion.    
+~
+524298 0 38912 -800 E
+20 8 -4 3d20+440 3d7+6
+0 25000 2
+8 8 1 0
+E
+#19952
+man tall designed robes darkened~
+a tall man in heavily designed darkened robes~
+A tall man, garbed in heavily designed robes, looks around imposingly.
+~
+   The man stands tall, with an oddly proud stance and a look of satisfaction
+gracing his lean face.  His eyes are a bit sunken in, and dark in color, yet
+are like blazes as they look around with an imposing manner.  His robes show
+his station to be high and well respected.    
+~
+524298 0 16121856 -900 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 2
+8 8 1 0
+E
+#19999
+Solstar Lord lich cloaked figure~
+Lord Solstar, High Lich of Chemosh~
+A cloaked figure with burning red-white eyes seems amused at your bold entrance.
+~
+Lord Solstar, the High Lich of Chemosh, stands before you, a legend in his
+own time.  His eyes are two orbs of burning white-hot flame, tinged with red,
+and seem to be able to see within souls, as well as anything else he desires.
+Nothing can hide from this lich's gaze, like rays of unholy light piercing
+through armor and scales alike.  His cloak covers his magically preserved
+body, giving it less of a emanciated look as it drapes in shadowy hues of
+crimson, charcoal and deep black.
+~
+778331 0 463 -1000 E
+30 -10 -15 30d60+0 30d30+30
+0 0 0
+8 8 1 0
+BareHandAttack: 9
+E
+$

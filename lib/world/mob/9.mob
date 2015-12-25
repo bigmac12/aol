@@ -1,0 +1,78 @@
+#900
+mite small~
+a small mite~
+A small mite buzzes about the room.
+~
+Buzzing madly, the mite drifts in a flurry, dispelling magic all about it.
+~
+40 0 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+BareHandAttack: 1
+E
+#901
+mite large~
+a large mite~
+A large mite circles about the area.
+~
+The mite quickly darts to you and attacks.
+~
+40 0 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 0
+8 8 0 0
+E
+#902
+mite gargantuan proportions~
+a gargantuan mite~
+A mite of gargantuan proportions flies about the area.
+~
+It is amazing to see such a massive beast.
+~
+8 0 0 0 E
+13 13 3 6d5+240 2d9+2
+0 6625 0
+8 8 0 0
+BareHandAttack: 9
+E
+#903
+mite shadowy~
+a large shadowy mite~
+A mite swirls about, leaving trails of shadow in its wake.
+~
+Nothing but a dark patch in reality...
+~
+524328 0 8388608 0 E
+10 16 9 3d5+85 2d6+1
+0 400 1
+8 8 0 0
+E
+#904
+mass flesh writhing~
+the mass of writhing flesh~
+A mass of writhing flesh churns before your eyes, reaching out to grab you.
+~
+It looks unfinished.
+~
+3807274 0 14680066 0 E
+22 7 -6 3d33+550 3d8+7
+0 40000 1
+8 8 0 0
+E
+#905
+slim intense fidgety young~
+a slim, fidgety young man with an intense look in his eyes~
+A slim, fidgety young man with an intense look in his eyes
+~
+   This young man looks eager for something; what exactly, who knows, but
+something.  He is rather fidgety, but his eyes carry a gleam of intelligence,
+and something else...  Fervor, perhaps?  He doesn't seem particularly imposing
+at first glance, but there is something foreboding about him.    
+~
+8101898 235025468 21235016 0 E
+30 5 -5 30d50+150 15d10+15
+0 0 1
+8 8 1 0
+E
+$

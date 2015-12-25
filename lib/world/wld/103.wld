@@ -1,0 +1,1218 @@
+#10300
+A Winding Trail In The Foothills~
+   Several large stones which have fallen from the upper slopes of the mountain
+range to the south cover the area making travel difficult.  To the north the
+road wanders its way among the foothills which run north to the road called by
+some the Plains Highway.  To the south this trail continues to rise steeply
+into the ranging mountains which run off as far as you can see to both the east
+and west.  Above carrion birds circle searching for their next meal.    
+~
+103 0 4 0 0
+D3
+~
+~
+0 0 10301
+D7
+~
+~
+0 0 7154
+S
+#10301
+A Winding Trail In The Foothills~
+   Several large stones which have fallen from the upper slopes of the mountain
+range to the south cover the area making travel difficult.  To the north the
+road wanders its way among the foothills which run north to the road called by
+some the Plains Highway.  To the south this trail continues to rise steeply
+into the ranging mountains which run off as far as you can see to both the east
+and west.  Above carrion birds circle searching for their next meal.    
+~
+103 0 4 0 0
+D1
+~
+~
+0 0 10300
+D8
+~
+~
+0 0 10302
+S
+#10302
+Fork in the Path~
+   Several large stones which have fallen from the upper slopes of the
+mountains which tower over you to the south cover the area making travel
+difficult.  To the north the trail meanders its way down the steep slope into
+the foothills which rest at the foot of the mountains.  To the south this trail
+continues to rise steeply into the ranging mountains, hopefully to a pass of
+some type and not to some deserted mountain peak.  Off to the west a small and
+narrow ledge makes its way straight across the slope.  Above carrion birds
+circle searching for their next meal.    
+~
+103 0 5 0 0
+D2
+~
+~
+0 0 10303
+D3
+~
+~
+0 0 10363
+D7
+~
+~
+0 0 10301
+S
+#10303
+On A Steep Trail~
+   A few large boulders which have falled from the upper slopes of the
+mountains which rise steeply to the south dot the landscape.  To the north this
+trail makes its way down out of the mountains and into a series of hills.  To
+the south lies more mountains and steeper slopes.  Above a few birds circle,
+drifting on the air currents.    
+~
+103 0 5 0 0
+D0
+~
+~
+0 0 10302
+D8
+~
+~
+0 0 10304
+S
+#10304
+On A Steep Trail~
+   A few large boulders which have fallen from the upper slopes of the
+mountains which rise steeply to the south dot the landscape.  To the north this
+trail makes its way down out of the mountains and into a series of hills.  To
+the south lies more mountains and steeper slopes.  Above a few birds circle,
+drifting on the air currents.  Just to the south two slopes come together
+forming a massive v shaped slope that ascends out of sight to both the east and
+west.  To the north it winds its way back to the lower slopes of this range of
+mountains.  The only sounds that reach this area are the weird calls of a few
+birds which drift on the air currents above you.  Off to the southeast a small
+offshoot of this trail leads into a sheltered area which looks as if it was
+once used as a resting stop by those who once traveled this way.    
+~
+103 0 5 0 0
+D2
+~
+~
+0 0 10309
+D7
+~
+~
+0 0 10303
+D9
+~
+~
+0 0 10305
+S
+#10305
+Down into a Campsite~
+   A narrow, unused path winds down from the hills to a clearing that may have
+once been used as a campsite.  The few plants that once grew here have been
+uprooted, perhaps used for building fires at the campsite.    
+~
+103 4 4 0 0
+D6
+~
+~
+0 0 10304
+D9
+~
+~
+0 0 10306
+S
+#10306
+Near the Campsite~
+   A small mound of garbage lies just off the path.  Decayed and rotting,
+nothing appears to have been discarded recently.  Directly east a ring of small
+stones encloses what seems to be a rather meek fire.  Only this close does the
+smell of burning wood become apparent.    
+~
+103 0 2 0 0
+D1
+~
+~
+0 0 10307
+D6
+~
+~
+0 0 10305
+E
+mound garbage~
+Rotting food, empty and torn pouches, broken and rusty weapons, and a punctured
+waterskin make up the bulk of the pile.  A few small bones can also be seen,
+perhaps from small game.    
+~
+S
+#10307
+Around the Campfire~
+   A small campfire burns in this little clearing, giving off only a hint of
+smoke.  A dirt path runs west up into the hills.  A tent is set up just south
+of the fire, out of range of the few sparks that fly.    
+~
+103 0 2 0 0
+D2
+~
+~
+0 0 10308
+D3
+~
+~
+0 0 10306
+S
+#10308
+In a Tent~
+   This small tent is cluttered with debris and junk, strewn about.  Tears and
+holes in the material let the elements in, and the small fire just outside the
+tent flap is providing no warmth.    
+~
+103 8 0 0 0
+D0
+~
+~
+0 0 10307
+S
+#10309
+Cave Entrance~
+   To the north this trail makes its way down out of the mountains and into a
+series of hills.  To the south lies more mountains and steeper slopes.  Above a
+few birds circle, drifting on the air currents.  Just to the south two slopes
+come together forming a massive v shaped slope that ascends out of sight to
+both the east and west.  To the north it winds its way back to the lower slopes
+of this range of mountains.  The only sounds that reach this area are the weird
+calls of a few birds which drift on the air currents above you.  The entrance
+to a deep cavern lies immediately to the southwest.    
+~
+103 8 5 0 0
+D0
+~
+~
+0 0 10304
+D2
+~
+~
+0 0 10310
+D8
+~
+~
+0 0 10315
+S
+#10310
+On A Steep Slope~
+   Here two slopes, one from the east and one from the west, meet to form a V
+shaped slope which rises steeply into the mountains to the south.  On all sides
+but one, to the north, rock closes you in.  If the slope to the south were as
+steep as the others it would be unclimable.  To the north a trail slowly
+emerges from the rock face and begins to meander down out of the mountains.  
+~
+103 0 5 0 0
+D0
+~
+~
+0 0 10309
+D2
+~
+~
+0 0 10311
+S
+#10311
+On A Steep Slope~
+   Here two slopes, one from the east and one from the west, meet to form a V
+shaped slope which rises steeply into the mountains to the south.  On all sides
+but one, to the north, rock closes you in.  If the slope to the south were as
+steep as the others it would be unclimable.  To the north a trail slowly
+emerges from the rock face and begins to meander down out of the mountains.  
+~
+103 0 5 0 0
+D0
+~
+~
+0 0 10310
+D2
+~
+~
+0 0 10312
+S
+#10312
+On A Small Ledge~
+   Here the steep slopes all level out, forming a small ledge.  A wide crack
+burrows its way down into the eastern slope.  To the southwest an ancient
+avalanche has deposited several stones of various sizes.  One large rock seems
+to almost have been carefully placed on top of several smaller ones.  The slope
+remains climable to the southeast.    
+~
+103 4 5 0 0
+D0
+~
+~
+0 0 10311
+D5
+~
+~
+0 0 7165
+D8
+~
+rock~
+1 0 10337
+D9
+~
+~
+0 0 10313
+S
+#10313
+On A Steep Slope~
+   To the north a faint trail makes its way slowly down the steep northern
+slopes of the Dargaard mountains while to the south a narrow, somewhat level
+trail runs between two unclimable rock faces.  A few carrion birds circle
+slowly above this area searching for their next meal.  Small stones litter the
+area and give evidence of an avalanches passage through this area long ago.  
+
+~
+103 0 5 0 0
+D2
+~
+~
+0 0 10314
+D6
+~
+~
+0 0 10312
+S
+#10314
+Entrance to a Pass~
+   To the north this trail falls steeply down the slopes of the Dargaard
+mountains while to the south it runs smoothly between two unclimable rock
+faces.  High up in the sky a few carrion birds drift with their wings wide
+spreed on the air currents.  A brisk, cold wind runs down the slopes on either
+side creating a constantly shifting breeze though this area.    
+~
+103 0 5 0 0
+D0
+~
+~
+0 0 10313
+S
+#10315
+Gloomy Cavern~
+   Large enough to keep quite a few people safe from the elements, this cave is
+approximately twenty feet high, and about thirty feet in diameter.  
+Occasionaly drips of water fall from the ceiling, and it seems rather odd how
+little litter is lying about.  Two large cracks in the northwest and southwest
+parts of the cave open into tunnels.    
+~
+103 45 0 0 0
+D6
+~
+~
+0 0 10316
+D7
+~
+~
+0 0 10309
+D8
+~
+~
+0 0 10330
+S
+#10316
+Along a Narrow Hallway~
+   A narrow hallway runs for a short distance to the west, while a passage
+leads off to the southeast.  Along the northern wall, a few doors can be seen
+to the west, starting directly north of you.  A broken torch bracket can be
+seen dangling from the wall.    
+~
+103 41 0 0 0
+D0
+~
+door~
+1 0 10319
+D3
+~
+~
+0 0 10317
+D9
+~
+~
+0 0 10315
+S
+#10317
+A Narrow Hallway~
+   This narrow hallway runs east and west, with doors along its northern wall.
+It seems especially quiet and still here.  A doorway is directly north from
+here.  Lying on the floor are a few pieces of metal rods, scorched black.    
+~
+103 41 0 0 0
+D0
+~
+door~
+1 0 10320
+D1
+~
+~
+0 0 10316
+D3
+~
+~
+0 0 10318
+S
+#10318
+End of a Narrow Hallway~
+   This is the western end of a narrow hallway.  It is rather quiet and
+peaceful here, even with the weight of the mountain above pressing down.  A
+doorway leads north, while the darkness of the hallway continues to the east.
+~
+103 41 0 0 0
+D0
+~
+door~
+1 0 10321
+D1
+~
+~
+0 0 10317
+S
+#10319
+A Small Sleeping Room~
+   This tiny room appears to be some sort of bedroom.  Two uncomfortable
+looking cots are against the east and west walls, and a small desk is up
+against the far wall.  A small footlocker rests at the end of each cot.    
+~
+103 41 0 0 0
+D2
+~
+door~
+1 0 10316
+S
+#10320
+A Small Sleeping Room~
+   This tiny room appears to be some sort of bedroom.  Two uncomfortable
+looking cots are against the east and west walls, and a small desk is up
+against the far wall.  A small footlocker rests at the end of each cot.    
+~
+103 41 0 0 0
+D2
+~
+door~
+1 0 10317
+S
+#10321
+A Small Sleeping Room~
+   This tiny room appears to be some sort of bedroom.  Two uncomfortable
+looking cots are against the east and west walls, and a small desk is up
+against the far wall.  A small footlocker rests at the end of each cot.    
+~
+103 41 0 0 0
+D2
+~
+door~
+1 0 10318
+S
+#10322
+A Precarious Ledge ~
+   This small ledge runs basically east and west across this slopes face.  
+Looking up one can only see the cliff face continuing on up in a sheer and
+unclimable manner.  Looking down at the dizzying height it is obvious that one
+wrong step here would lead to serious injury if not immediate death.  A large
+boulder from an ancient avalanch rests against the cliff face just to the
+south.    
+~
+103 0 4 0 0
+D1
+~
+~
+0 0 10360
+D2
+~
+boulder~
+1 0 10358
+D3
+~
+~
+0 0 10323
+S
+#10323
+A Precarious Ledge ~
+   The small ledge makes a turn here, giving a view of both the northern and
+western faces of this rather steep cliff.  To the east, a footpath can be seen,
+while to the southwest, only more of this narrow ledge is visible.    
+~
+103 0 4 0 0
+D1
+~
+~
+0 0 10322
+D8
+~
+~
+0 0 10324
+S
+#10324
+A Precarious Ledge ~
+   Clinging to the sheer face of the mountain, this tiny ledge curves around to
+the northern face.  From here, a small opening into the mountain can be seen to
+the southwest - if you can make it that far.    
+~
+103 4 4 0 0
+D7
+~
+~
+0 0 10323
+D8
+~
+~
+0 0 10325
+S
+#10325
+A Precarious Ledge~
+   The ledge feels unstable and loose under your feet, as if it could break
+away from the cliff face at any time.  Just a short distance to the south a
+cave opening can be seen, while a stronger section of ledge stretched back to
+the northeast.    
+~
+103 0 4 0 0
+D2
+~
+~
+0 0 10326
+D5
+~
+hole~
+1 0 10339
+D7
+~
+~
+0 0 10324
+S
+#10326
+A Cave Entrance~
+   A small cave opening leads north onto a dangerous looking ledge, while a
+crudely carved tunnel leads southeast, deeper into the mountain.  A slow,
+swirling wind blows dust and dirt around the cave floor.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10325
+D9
+~
+~
+0 0 10327
+S
+#10327
+A Passage Carved into the Mountain~
+   A rather crudely carved passage way winds through the inside of the
+mountain.  Chips of rock lie scattered all over the floor, but otherwise the
+area seems clean.  Of note, however, is the height of the ceiling here: it is
+twelve feet high even at its lowest point.  To the east and south the passage
+continues.    
+~
+103 41 0 0 0
+D1
+~
+~
+0 0 10328
+D2
+~
+~
+0 0 10329
+D6
+~
+~
+0 0 10326
+S
+#10328
+Top of a Descending Tunnel~
+   The passage opens into this small room, which stores a stack of wooden
+chairs in the corner.  The most prominent feature of this room, however, is the
+downward sloping tunnel.  The entrance to the tunnel has a makeshift doorframe
+surrounding it.    
+~
+103 41 0 0 0
+D3
+~
+~
+0 0 10327
+D5
+~
+tunnel~
+1 10302 10340
+S
+#10329
+A Passage Carved into Rock~
+   The crudely carved passage winds its way deeper into the mountain to the
+south.  Bone fragments and other remains of small animals litter the floor.  
+The slight stench of decay is in the air, along with a mustiness.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10327
+D2
+~
+~
+0 0 10338
+S
+#10330
+A Passage Carved into Rock~
+   The crudely carved passage winds its way deeper into the mountain to the
+west, while a larger room can be seen northeast from here.  An animal hide or
+two lay strewn along the floor, accompanied by a few bone fragments.    
+~
+103 41 0 0 0
+D3
+~
+~
+0 0 10331
+D7
+~
+~
+0 0 10315
+S
+#10331
+A Passage with a Doorway~
+   The crude passage takes a turn here, while a well crafted door has been set
+into the western wall.  The floor before the door seems unusually clean, with
+no dirt, rocks or other debris.    
+~
+103 262185 0 0 0
+D1
+~
+~
+0 0 10330
+D3
+~
+door~
+1 0 10332
+D8
+~
+~
+0 0 10334
+S
+#10332
+Private Office~
+   This chamber appears to have been contructed particularly carefully, as the
+walls are smoother than the outside passages, and the floor is clear of rocks
+and debris.  There is a small desk against the far wall, with a seat behind it,
+along with two chairs in front of the desk.    
+~
+103 41 0 0 0
+D1
+~
+door~
+1 0 10331
+S
+#10333
+A Passage Carved into Rock~
+   The foul stench of decay is strong at this point in the passage.  The cause
+of this sickening odor becomes clear as you nearly step onto the rotting corpse
+of a human male.  Stripped of equipment and most of its flesh, these remains
+are in need of burial.    
+~
+103 41 0 0 0
+D1
+~
+~
+0 0 10334
+D3
+~
+~
+0 0 10338
+S
+#10334
+An Intersection of Passages~
+   Two roughly carved out passages join here, leading off to the west,
+northeast and southeast.  A faint smell of something unpleasant wafts in from
+the west.  The ceiling here, like the rest of the length of the passage, is at
+least twelve feet high.  The passage itself seems to never be narrower than ten
+feet across.    
+~
+103 41 0 0 0
+D3
+~
+~
+0 0 10333
+D7
+~
+~
+0 0 10331
+D9
+~
+~
+0 0 10335
+S
+#10335
+A Passage Carved into Rock~
+   A crudely carved passage burrows through the mountain, heading east and
+northwest.  Bone fragments and animal hides litter the floor, and a musty smell
+fills the air.
+~
+103 41 0 0 0
+D1
+~
+~
+0 0 10336
+D6
+~
+~
+0 0 10334
+S
+#10336
+A Passage Carved into Rock~
+   The twisting passage into the mountain starts to descend slowly here.  The
+faintest sound of wind can be heard in the distance to the east, while a musty
+smell seems to drift in from the west.    
+~
+103 41 0 0 0
+D1
+~
+~
+0 0 10337
+D3
+~
+~
+0 0 10335
+S
+#10337
+Room Behind the Sliding Rock Wall~
+   This large room leads to the outside, as a large sliding rock wall can be
+made out against the eastern wall.  A slight wind seeps through the cracks of
+this semi-hidden door, revealing the fresh air of the outside.  A tall, wide
+passage has been crudely carved into the mountain, leading off to the south.  
+~
+103 41 0 0 0
+D3
+~
+~
+0 0 10336
+D7
+~
+rock~
+1 0 10312
+S
+#10338
+A Passage Carved into Rock~
+   A rather sharp turn in the tunnel causes the passage to become rather narrow
+compared to the rest of its length, but it is still about five feet across at
+its narrowest.  Careful inspection shows scrapes and chips in the wall about
+six to seven feet up from the floor.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10329
+D1
+~
+~
+0 0 10333
+S
+#10339
+Bottom of a Large Hole~
+   This large hole rises some fifteen feet up, covered on the top by a
+makeshift hatch.  A tunnel leads south, out of the hole, and a gate is
+positioned in the southern tunnel.  A slight trickle of water flows down the
+western wall, its source unseen in the darkness above.    
+~
+103 41 0 0 0
+D2
+~
+gate~
+1 10303 10341
+D4
+~
+hole~
+1 0 10325
+S
+#10340
+A Descending Tunnel~
+   This wide hall turns into an equally large tunnel, dug up into the insides
+of the mountain.  An exit to the tunnel can be seen above, seemingly made of
+slabs of stone.  The large hall continues to the north, towards an immense
+door.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10343
+D4
+~
+tunnel~
+1 10302 10328
+S
+#10341
+A Long, Wide Hallway~
+   This is the western end of a long hallway stretching to the east.  There is
+a slight downgrade in the hall, and the unusual width and height seem peculiar.
+Directly north is a huge iron gate, with iron bars as thick as a Kender's legs.
+The gate rises fifteen feet high, and equally wide.    
+~
+103 41 0 0 0
+D0
+~
+gate~
+1 10303 10339
+D1
+~
+~
+0 0 10342
+S
+#10342
+A Long, Wide Hallway~
+   A rather tall, wide hall stretches both east and west, with a slight
+downgrade running east.  A door can be seen further east, just next to a turn
+in the hallway.  The smoothly carved walls seem to have been crafted with care,
+and at least some skill, and the floor seems quite well kept.    
+~
+103 41 0 0 0
+D1
+~
+~
+0 0 10343
+D3
+~
+~
+0 0 10341
+S
+#10343
+Intersection of two Large Hallways~
+   Two large hallways merge here, one from the west, the other from the south.
+An enormous door takes up the entire eastern wall, with large iron hinges and
+foot wide planks of oak.  Scrape marks on the floor show the wear that this
+door has caused on the stone.    
+~
+103 41 0 0 0
+D1
+~
+door~
+1 0 10344
+D2
+~
+~
+0 0 10340
+D3
+~
+~
+0 0 10342
+S
+#10344
+Large Doorway~
+   An enormous door takes up the entire western wall of this space.  Immense
+iron hinges and wooden planks make up the door itself, which measures about
+fifteen feet on a side.  An office can be seen directly east, while a side
+passage heads southeast.  Beyond the door, the large hallway rises slightly to
+the west.    
+~
+103 41 0 0 0
+D1
+~
+~
+0 0 10345
+D3
+~
+door~
+1 0 10343
+D9
+~
+~
+0 0 10346
+S
+#10345
+Elaborate Office~
+   This is an elaborate office of some type.  Remarkable, however, is the size
+of the features and funiture in this office.  A desk and chair large enough to
+hold the largest of Minotaurs lines the eastern wall.  A large torch bracket
+hangs on the wall directly over the desk.    
+~
+103 41 0 0 0
+D3
+~
+~
+0 0 10344
+S
+#10346
+A Balcony above a Vaulted Alcove~
+   A large, vaulted alcove rises up from below.  You are currently on a balcony
+overlooking the alcove below.  A flight of stairs leads down, and a passage
+heads back up to the northwest.    
+~
+103 41 0 0 0
+D5
+~
+~
+0 0 10347
+D6
+~
+~
+0 0 10344
+S
+#10347
+A Vaulted Alcove~
+   This spacious alcove rises some thirty feet and beyond into darkness.  An
+opening with intricate carvings and stonework leads east into a large chamber.
+Smooth and even stairs climb up into the darkness above.    
+~
+103 45 0 0 0
+D1
+~
+~
+0 0 10351
+D4
+~
+~
+0 0 10346
+S
+#10348
+Among the Audience Chamber Seats~
+   Lines of finely carved stone seats fill this chamber.  Larger than most
+seats you've seen, these are at least three feet high at the portion you would
+sit on, requiring anyone less than the size of a human to climb into them.    
+~
+103 41 0 0 0
+D1
+~
+~
+0 0 10349
+D2
+~
+~
+0 0 10351
+S
+#10349
+Among the Audience Chamber Seats~
+   Lines of finely carved stone seats fill this chamber.  Larger than most
+seats you've seen, these are at least three feet high at the portion you would
+sit on, requiring anyone less than the size of a human to climb into them.    
+~
+103 41 0 0 0
+D1
+~
+~
+0 0 10350
+D2
+~
+~
+0 0 10352
+D3
+~
+~
+0 0 10348
+S
+#10350
+Among the Audience Chamber Seats~
+   Lines of finely carved stone seats fill this chamber.  Larger than most
+seats you've seen, these are at least three feet high at the portion you would
+sit on, requiring anyone less than the size of a human to climb into them.    
+~
+103 41 0 0 0
+D2
+~
+~
+0 0 10353
+D3
+~
+~
+0 0 10349
+S
+#10351
+Throne Room Centre Aisle~
+   A large, majestic room opens into the belly of the mountain here.  The
+ceiling is beyond your vision, hidden somewhere in the shadows above.  A wide
+centre aisle continues further east into thus immense room.  On the wall
+immediately to your left, are a metalic plaque and a large painting.  Rows of
+stone-chiseled seats are lined on both sides of this aisle.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10348
+D1
+~
+~
+0 0 10352
+D2
+~
+~
+0 0 10354
+D3
+~
+~
+0 0 10347
+E
+painting~
+   This large painting depicts the crowning of a noble into an apparently
+prestigious position.  Fancy costumes and armours are worn by the attendants,
+and a large crown of some sort is being placed on the head of a large man with
+greyish skin.    
+~
+E
+plaque~
+   This golden plaque measures three feet by four feet, and is inlaid with
+bright gemstones.  There is something clearly written upon it, in large script,
+but the words are of an unknown language.    
+~
+S
+#10352
+Throne Room Centre Aisle~
+   A large, majestic room opens into the belly of the mountain here.  The
+ceiling is beyond your vision, hidden somewhere in the shadows above.  A wide
+centre aisle continues further east into this immense room.  Rows of
+stone-chiseled seats are lined on both sides of this aisle.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10349
+D1
+~
+~
+0 0 10353
+D2
+~
+~
+0 0 10355
+D3
+~
+~
+0 0 10351
+S
+#10353
+Throne Room Centre Aisle~
+   Rows of stone-chiseled seats are lined on both sides of this aisle.  The
+aisle runs to the west, and to the east there is an enormous stone door with
+olden trim and inlaid jewels.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10350
+D1
+~
+door~
+1 0 10357
+D2
+~
+~
+0 0 10356
+D3
+~
+~
+0 0 10352
+S
+#10354
+Among the Audience Chamber Seats~
+   Lines of finely carved stone seats fill this chamber.  Larger than most
+seats you've seen, these are at least three feet high at the portion you would
+sit on, requiring anyone less than the size of a human to climb into them.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10351
+D1
+~
+~
+0 0 10355
+S
+#10355
+Among the Audience Chamber Seats~
+   Lines of finely carved stone seats fill this chamber.  Larger than most
+seats you've seen, these are at least three feet high at the portion you would
+sit on, requiring anyone less than the size of a human to climb into them.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10352
+D1
+~
+~
+0 0 10356
+D3
+~
+~
+0 0 10354
+S
+#10356
+Among the Audience Chamber Seats~
+   Lines of finely carved stone seats fill this chamber.  Larger than most
+seats you've seen, these are at least three feet high at the portion you would
+sit on, requiring anyone less than the size of a human to climb into them.    
+~
+103 41 0 0 0
+D0
+~
+~
+0 0 10353
+D3
+~
+~
+0 0 10355
+S
+#10357
+Makeshift Throne Room~
+   You enter a room strewn with filth and garbage.  Yet this seems fitting even
+for the makeshift throneroom of Prince Grondihl.  A large wooden throne sits in
+one corner of the room, looking like it will fall apart at any point.  Prince
+Grondihl obviously has not used it for some time as if he did you are sure the
+thing would fall apart under his great bulk.  Next to the throne is a smaller
+chair which is covered in strange runes and symbols.    
+~
+103 297 0 0 0
+D3
+~
+door~
+1 0 10353
+S
+#10358
+A Large Entrance~
+   You walk into what appears to be a long and wide corridor leading into the
+mountains.  As you walk further in, you notice the distinct smell of sulfer,
+and feel a crunching underneath your feet.  Closer examination shows that you
+are walking on a floor littered with hundereds of bones of all types.    
+~
+103 8 0 0 0
+D0
+~
+boulder~
+1 0 10322
+D2
+~
+~
+0 0 10359
+S
+#10359
+A Large Cave~
+   You stand in a huge cavern that reaches up beyond your torch light.  The
+room itself circles in what appears to be at least 100 feet in diameter.  The
+smell of death and sulfur is tremendous here and you start feeling sick to your
+stomach.    
+~
+103 40 0 0 0
+D0
+~
+~
+0 0 10358
+S
+#10360
+A Precarious Ledge~
+   This precarious ledge runs west across the slopes face and east back to a
+more gradually descending trail.  To fall from here would result in very
+serious injury if not immediate death.  A fissure to the southeast has been
+widened into a cave of some type by some unknown hand.    
+~
+103 8 0 0 0
+D3
+~
+~
+0 0 10322
+D7
+~
+~
+0 0 10361
+D9
+~
+~
+0 0 10364
+S
+#10361
+A Precarious Ledge~
+   This small ledge runs basically east and west across this slopes face.  
+Looking up one can only see the cliff face continuing on up in a sheer and
+unclimable manner.  Looking down at the dizzying height it is obvious that one
+wrong step here would lead to serious injury if not immediate death.    
+~
+103 8 0 0 0
+D1
+~
+~
+0 0 10362
+D8
+~
+~
+0 0 10360
+S
+#10362
+A Precarious Ledge~
+   This small ledge runs basically east and west across this slopes face.  
+Looking up one can only see the cliff face continuing on up in a sheer and
+unclimable manner.  Looking down at the dizzying height it is obvious that one
+wrong step here would lead to serious injury if not immediate death.    
+~
+103 8 0 0 0
+D3
+~
+~
+0 0 10361
+D9
+~
+~
+0 0 10363
+S
+#10363
+A Precarious Ledge~
+   This precarious ledge runs west across the slopes face and east back to a
+more gradually descending trail.  To fall from here would result in very
+serious injury if not immediate death.  A fissure to the southwest has been
+widened into a cave of some type by some unknown hand.    
+~
+103 12 0 0 0
+D1
+~
+~
+0 0 10302
+D6
+~
+~
+0 0 10362
+D8
+~
+~
+0 0 10365
+S
+#10364
+A Passage Carved Into The Mountain~
+   What was once an ancient time and weather worn fissure in the cliff's face
+has at some time been made into a somewhat wider but darker passage at some
+time in the past.  Marks on the rock here give evidence to the work done by
+those unknown hands.  Although this passage serves no apparent purpose, it must
+have, at one time, been of some importance to someone.    
+~
+103 8 0 0 0
+D1
+~
+~
+0 0 10365
+D6
+~
+~
+0 0 10360
+S
+#10365
+A Passage Carved Into The Mountain~
+   What was once an ancient time and weather worn fissure in the cliff's face
+has at some time been made into a somewhat wider but darker passage at some
+time in the past.  Marks on the rock here give evidence to the work done by
+those unknown hands.  Although this passage serves no apparent purpose, it must
+have, at one time, been of some importance to someone.    
+~
+103 8 0 0 0
+D3
+~
+~
+0 0 10364
+D7
+~
+~
+0 0 10363
+S
+$~

@@ -1,0 +1,120 @@
+1
+a
+7
+ass ria
+0
+4
+door
+67
+rem healer;get doorframe healer;rem worn;hold doorframe;wear healer
+1
+8
+dismount
+174
+dismount horse;dismount warhorse;dismount pony;dismount stallion;dismount donkey;dismount mule;dismount white;dismount brown;dismount black;dismount gelding;dismount warhorse
+1
+7
+remdoor
+70
+rem healer;rem doorframe;hold ancient;put doorframe healer;wear healer
+1
+5
+charm
+55
+rem healer;get crystal healer;hold crystal;wear healer;
+1
+5
+sense
+9
+c sense-l
+0
+7
+conceal
+12
+c conceal-al
+0
+8
+nogweedo
+46
+s;w;s;s;s;s;s;s;s;w;sw;sw;sw;s;sw;sw;w;sw;w;u;
+1
+6
+gweedo
+43
+d;e;ne;e;ne;ne;n;ne;ne;ne;e;n;n;n;n;n;n;e;n
+1
+5
+minor
+12
+c minor-sanc
+0
+1
+0
+2
+up
+0
+1
+9
+2
+ne
+0
+1
+8
+5
+north
+0
+1
+7
+2
+nw
+0
+1
+6
+4
+east
+0
+1
+5
+4
+down
+0
+1
+4
+1
+w
+0
+1
+3
+2
+se
+0
+1
+2
+1
+s
+0
+1
+1
+2
+sw
+0
+4
+tilt
+29
+:tilts his head in curiosity.
+0
+4
+cure
+11
+cast cure-l
+0
+5
+bless
+10
+cast bless
+0
+3
+ban
+9
+bandage $
+1

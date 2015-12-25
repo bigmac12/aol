@@ -1,0 +1,1964 @@
+#6600
+A Barely Perceptible Trail~
+   This dusty path travels through a small wilderness towards the sea.  The
+smell of salt and fish can be faintly caught on the breeze.  To the west is the
+path through the woods, and far off to the east can be heard the faint sounds
+of village life.  The path on the other hand shows few footprints, but many
+hoofprints leading to the east.    
+~
+66 4 0 0 0
+D1
+~
+~
+0 0 6601
+D3
+~
+~
+0 0 8849
+S
+#6601
+A Well Used Trail~
+   This dusty path travels through a small wilderness towards the sea.  The
+smell of salt and fish can be faintly caught on the breeze.  To the west is the
+path through the woods, and far off to the east can be heard the faint sounds
+of village life.  The path on the other hand shows few footprints, but many
+hoofprints leading to the east.    
+~
+66 0 0 0 0
+D3
+~
+~
+0 0 6600
+D7
+~
+~
+0 0 6602
+S
+#6602
+A Well Used Trail~
+   This path is rather dusty, and each wind blows small dust devils around.  
+To the north of here is a muddy stream bed, deeper with mud than water.  To the
+east the faint sounds of village life can be heard.  The salty smell of the sea
+drifts upon the wind, mixed in with the slight smell of fish.  The path seems
+to have many many hoofprints, but not a single footprint along it.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6639
+D1
+~
+~
+0 0 6604
+D8
+~
+~
+0 0 6601
+S
+#6603
+Within the Seating of the Stadium~
+   The seats in this part of the arena are made of hardwood sitting on cement
+blocks.  Though uncomfortable it still allows a place for spectators to sit to
+watch the arena fights.  On the western side of the arena can be seen the
+Lord's Box, which is much more luxurious then these seats prepared for the
+common folk.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6699
+D2
+~
+~
+0 0 6692
+S
+#6604
+Before the Gates of a Village~
+   A large wall stretches across the area to the east.  Large gates bar the way
+to the east, and beyond those can be heard the sounds of village life.  The
+road here is marked with few footprints, but many many hoof prints.  On the air
+is the smell of fish and sea water.  To the east the road continues back
+towards the main highway.    
+~
+66 4 0 0 0
+D1
+~
+gate~
+1 0 6605
+D3
+~
+~
+0 0 6602
+S
+#6605
+Gates of Guthorg~
+   A set of large gates lead out of the village to the west.  To the east is a
+large bustling community with many Minotaurs wandering about, talking in loud
+gutteral voices.  A large wall, still being constructed in places, extends from
+the gate here far to the north and west.  This provides a strong defense to the
+village of Guthorg, but few attempt to attack this village since it's citizens
+are known to be all well trained in combat.    
+~
+66 4 0 0 0
+D1
+~
+~
+0 0 6606
+D3
+~
+gate~
+1 0 6604
+S
+#6606
+Intersection of Main Street and Wall Street~
+   Wall Street and Main Street intersect here in front of the gates of Guthorg.
+Main Street travels to the east towards the center of the village.  
+Cobble-stoned Wall Street runs along the walls to the north and south.  The
+wind blowing along the streets carries the scent of the sea, and fish
+throughout the village.  Minotaurs of all shapes and sizes walk the streets.  
+~
+66 262144 0 0 0
+D0
+~
+~
+0 0 6612
+D1
+~
+~
+0 0 6607
+D2
+~
+~
+0 0 6615
+D3
+~
+~
+0 0 6605
+S
+#6607
+Main Street~
+   Main Street comes from the front gates, and runs in towards the center of
+the village.  During busy seasons at the arena this street can be lined with
+merchants and vendors so thick that it is hard for one to walk down the street
+without being asked to purchase something.  Small shops line the walk, but all
+are closed during this time.  People along the streets sell everything from
+weapons to armor, to various foods and drinks.  To the north of here can be
+seen the house of one of the great heros of Guthorg, Galvrent Ogreslayer.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6671
+D1
+~
+~
+0 0 6608
+D3
+~
+~
+0 0 6606
+D5
+~
+grate~
+1 0 6657
+S
+#6608
+Main Street~
+   Main Street comes from the front gates, and runs in towards the center of
+the village.  During busy seasons at the arena this street can be lined with
+merchants and vendors so thick that it is hard for one to walk down the street
+without being asked to purchase something.  Small shops line the walk, but all
+are closed during this time.  People along the streets sell everything from
+weapons to armor, to various foods and drinks.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6609
+D3
+~
+~
+0 0 6607
+S
+#6609
+Intersection of Main Street and Arena Avenue~
+   Arena Avenue and Main Street intersect here, in front of a large building.
+A sign hanging above the door of the building pictures a minotaur with
+extremely long horns.  To the north can be seen the towering form of the arena,
+and towards the west Main street travels back towards the gates of the village.  
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6610
+D1
+~
+door~
+1 0 6678
+D2
+~
+~
+0 0 6611
+D3
+~
+~
+0 0 6608
+E
+sign~
+   A picture of a minotaur with extremely long horns is drawn upon this sign.
+Below the piture is written: The Longhorn Tavern
+~
+S
+#6610
+Before the Arena~
+   Towering to the north is the largest building in Guthorg, matched only by
+the temples to Kiri-Jolith and Sargonnas.  A large archway opens into the
+arena, allowing entrance for all spectators.  On either side of the entrance
+are tall statues of the two minotaur gods and to the west is a bigger building that
+runs further on to the south.  Minotaurs roam this street, going into and out
+of the busy arena, hoping to get a glimpse of their favorite warrior.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6681
+D2
+~
+~
+0 0 6609
+S
+#6611
+Arena Avenue~
+   Arena Avenue runs north and south through the center of town.  Far to the
+north can be seen the towering arena, one of the largest buildings in Guthorg.
+To the south can be seen the great village walls and to the east is the
+southern half of the Longhorn Tavern.  A breeze blows down the streets carrying
+the distinct aroma of fish and the sea.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6609
+D2
+~
+~
+0 0 6619
+S
+#6612
+Wall Street~
+   This roughly cobbled road runs from north to south, just inside the western
+wall of the village.  The wall itself is almost immediately adjacent to the
+road.  Made of stone and wood, the walls provide for a formidable defensive
+barrier to anyone attempting to invade the village.  Inscribed upon the walls
+are images of minotaur warriors in various scenes of combat.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6613
+D2
+~
+~
+0 0 6606
+E
+lord~
+   As you examine the etching of the Lord, one thing stands out within the
+picture.  Hanging about his neck is a large amulet, which seems odd, when it is
+the only non-essential thing the Lord is wearing.    
+~
+E
+etchings inscriptions wall pictures~
+   Portrayed upon the wall here, shows the story of a battle fought by the Lord
+of Guthorg within the arena.  It shows how he bested a dozen human slaves, and
+then a small group of minotaurs.  In the center of the portrayal is a large
+etching of the Lord standing upon the bodies of his fallen enemies.    
+~
+S
+#6613
+Wall Street~
+   This roughly cobbled road runs from north to south, just inside the western
+wall of the village.  The wall itself is almost immediately adjacent to the
+road.  Made of stone and wood, the walls provide for a formidable defensive
+barrier to anyone attempting to invade the village.  Inscribed upon the walls
+are images of minotaur warriors in various scenes of combat.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6614
+D2
+~
+~
+0 0 6612
+E
+wall etchings inscriptions pictures~
+   The wall here portrays the destruction of what appears to be a human city.
+Legions upon legions of minotaurs march into the city, and laying it to ruins.
+Drawn in great detail, is the chained humans being led out of the city, and
+into the slavery of the minotaurs.
+~
+S
+#6614
+Intersection of Wall Street and Civilian Lane~
+   Wall Street meets here with with Civilian Lane.  Civilian Lane leads to the
+east, into the housing section of Guthorg.  At the end of the street can be
+seen the chieftains house, right below the arena.  Along either side of the street,
+smaller houses are set for the other citizens of the village.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6622
+D2
+~
+~
+0 0 6613
+S
+#6615
+Wall Street~
+   This roughly cobbled road runs from north to south, just inside the western
+wall of the village.  The wall itself is almost immediately adjacent to the
+road.  Made of stone and wood, the walls provide for a formidable defensive
+barrier to anyone attempting to invade the village.  Inscribed upon the walls
+are images of minotaur warriors in various scenes of combat.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6606
+D2
+~
+~
+0 0 6616
+E
+inscriptions wall pictures~
+   The scene shown on this section of the wall depicts an army of minotaurs
+marching beneath the soaring forms of dragons.  Judging by the etchings, it
+seems that this depicts the minotaurs role against Huma.    
+~
+S
+#6616
+Intersection of Wall Street and Gods Walk~
+   The Southern and Western walls of Guthorg intersect here.  Wall Street
+follows the western wall north past the gates of the village and to the east
+travels Gods Walk, where the temples of Sargonnas and Kiri-Jolith reside.  On
+the air can be smelled the sea breeze blowing in from the harbor on the eastern
+side of the city.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6615
+D1
+~
+~
+0 0 6617
+S
+#6617
+Gods Walk~
+   Gods Walk is the name of this southern most street of Guthorg.  It is so
+named because of the two temples that stand majestically on this road, one of
+which is to the south of here, the Temple of the Emperor.  The outside of the
+temple is decorated in reliefs of bison and pictures of great wars, honoring
+Kiri-Jolith.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6618
+D2
+~
+~
+0 0 6668
+D3
+~
+~
+0 0 6616
+S
+#6618
+Gods Walk~
+   Gods Walk stretches along the southern edge of Guthorg.  A low wall blocks
+the way to the north, and to the south stand the tall walls of the village.  
+In either direction down the walk can be seen one of the temples of Guthorg.  
+To the east stands the temple of Sargonnas, the Destroyer, and to the west is
+the temple of Kiri-Jolith, the Emperor.  A few clerics of these gods walk about
+the village, or travel to the arena to bless the warriors before a fight.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6619
+D3
+~
+~
+0 0 6617
+D5
+~
+grate~
+1 0 6654
+S
+#6619
+Intersection of Gods Walk and Arena Avenue~
+   This is where Arena Avenue intersects the southern Street of Gods Walk.  
+Arena street leads towards the north side of town past the market, where it
+finally runs straight up to the front entrance of the arena.  Gods Walk runs
+across the southern side of Guthorg.  To the east lies the Temple of the
+Destroyer, dedicated to Sargonnas, and to the west lies the Temple of the
+Emperor, dedicated to the other god of the minotaurs, Kiri-Jolith.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6611
+D1
+~
+~
+0 0 6620
+D3
+~
+~
+0 0 6618
+S
+#6620
+Gods Walk~
+   Gods Walks is the name of this southern most street of Guthorg, named thus
+because of the two temples upon the road.  One of these lies immediately to the
+south, the Temple of the Destroyer.  Its exterior is decorated with reliefs of
+minotaurs caught in battle, all made to further the glory of the god Sargonnas.
+  
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6621
+D2
+~
+~
+0 0 6667
+D3
+~
+~
+0 0 6619
+S
+#6621
+Intersection of Gods Walk and Harbor Stretch~
+   Gods Walk leads back to the west and away from the harbor here and a wooden
+walkway goes towards the north and travels along the water.  Out to the east
+can be seen the docks and the harbor, including a large minotaur sailing vessel
+in port at the moment.  The sea stretches as far as the eye can see and
+seagulls fly about making lazy circles in the sky.    
+~
+66 4 0 0 0
+D0
+~
+~
+0 0 6624
+D3
+~
+~
+0 0 6620
+S
+#6622
+Civilian Lane~
+   This is the road leading into the civilian part of the village.  At the end of
+the street is the Chieftain's dwelling.  The building is a large one, made of
+solid stone, and on either side of the street are smaller houses.  These other
+houses are made of wood and brick, looking fairly simple but nice enough for
+the occupants.  The street is made of a simple cobblestone, with gutters along
+the edges to keep water out of the streets.  A grate lies in the middle of the
+road.    
+~
+66 0 0 0 0
+D0
+~
+door~
+1 0 6673
+D1
+~
+~
+0 0 6623
+D2
+~
+door~
+1 0 6674
+D3
+~
+~
+0 0 6614
+D5
+~
+grate~
+1 0 6659
+S
+#6623
+Civilian Lane~
+   This is the road leading into the civilian part of the village.  At the end
+of the street is the Chieftain's dwelling.  The building is a large one, made
+of solid stone, and on either side of the street are smaller houses.  These
+other houses are made of wood and brick, looking fairly simple but nice enough
+for the occupants.  The street is made of a simple cobblestone, with gutters
+along the edges to keep water out of the streets.    
+~
+66 0 0 0 0
+D0
+~
+door~
+1 0 6675
+D1
+~
+door~
+1 0 6677
+D2
+~
+door~
+1 0 6676
+D3
+~
+~
+0 0 6622
+S
+#6624
+Harbor Stretch~
+   The road here is made of stone with deep troughs leading to a grate in the
+center of the street.  The grate is in place to keep the streets of Guthorg
+from flooding during high tides, or bad weather.  A rope railing blocks the way
+to the east keeping people from falling into the sea.  Far off on the southern
+docks, a large ship came be seen in one of the berths.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6625
+D2
+~
+~
+0 0 6621
+D5
+~
+grate~
+1 0 6650
+S
+#6625
+Harbor Stretch~
+   The road takes a turn here, leading to the south and east.  Further to the
+south, as well as here, the road is made of stone with troughs to direct water.
+To the east the road is made of wooden planks and to the north of here is a
+small shack with two oars crossed above the doorway likely symbolizing the
+house of the Harbor Master.    
+~
+66 0 0 0 0
+D0
+~
+door~
+1 0 6666
+D1
+~
+~
+0 0 6626
+D2
+~
+~
+0 0 6624
+S
+#6626
+Harbor Stretch~
+   Harbor Stretch curves here to the north and to the west.  The dock here is
+made of thick wooden planks which have been supported by stone pillars to
+provide support during the worst of storms.  To the east can be seen the
+southern docks, where a ship is currently in port.  The docks here are
+extremely cluttered with cargo unloaded from the ship.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6627
+D1
+~
+~
+0 0 6633
+D3
+~
+~
+0 0 6625
+S
+#6627
+Harbor Stretch~
+   Harbor Stretch continues to wind in a north-south direction.  To the north
+lies the nearly abandoned northern docks.  Few ships use that area anymore, and
+it has grown into disrepair.  The southern docks however, seem to be bustling
+with activity as a ship is in port.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6628
+D2
+~
+~
+0 0 6626
+S
+#6628
+Harbor Stretch~
+   Harbor Stretch continues running north and south along the sea here.  To the
+north and south can be seen the two docks in Guthorg.  As far as you can see to
+the east there is nothing but water with seagulls making lazy circles in the
+sky.  The road here is made of the thick wooden planks supported by stone
+pillars.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6629
+D2
+~
+~
+0 0 6627
+S
+#6629
+Harbor Stretch~
+   This is the end of Harbor Stretch, which only leads back to the south.  To
+the east can be seen the northern docks.  They are not quite as large as the
+southern docks, and at the moment happen to be empty of any vessels.  The
+constant calling of shrieking gulls fills the air, as well as the sounds of the
+sea lapping up against the lower reaches of the docks and Harbor Stretch.    
+~
+66 4 0 0 0
+D1
+~
+~
+0 0 6630
+D2
+~
+~
+0 0 6628
+S
+#6630
+Northern Docks~
+   This is the smaller of the two docks in Guthorg, being a narrow and straight
+dock that extends out only into the shallow portions of the harbour.  The wood
+on the deck is showing signs of rot, giving the impression that this dock is
+rarely used.  As people move about over its surface it creaks under their
+weight and groans loudly in protest.  Mold creeps up the wooden pillars that
+provide its foundation and stability.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6631
+D3
+~
+~
+0 0 6629
+S
+#6631
+Northern Docks~
+   A large gap of planks is missing in this dock.  They have either rotted out,
+or someone has purposely pulled them up for another use.  Either way it does
+nothing to enhance the stability of these docks.  The planks creak as birds and
+people walk about them, groaning under even the slightest of weight.  It is no
+wonder that these docks are rarely used anymore.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6632
+D3
+~
+~
+0 0 6630
+S
+#6632
+Northern Docks~
+   This is the smaller of the two docks in Guthorg, being a narrow and straight
+dock that extends out only into the shallow portions of the harbour.  The wood
+on the deck is showing signs of rot, giving the impression that this dock is
+rarely used.  As people move about over its surface it creaks under their
+weight and groans loudly in protest.  Mold creeps up the wooden pillars that
+provide its foundation and stability.  A large coil of unused rope hangs limply
+over the edge of the wood, trailing into the water below.    
+~
+66 0 0 0 0
+D3
+~
+~
+0 0 6631
+S
+#6633
+Southern Docks~
+   The docks here are made of strong wooden planks held up by wooden supports.
+Though this is not as strong as Harbor Stretch, they work well under most
+conditions.  Crates are stacked upon crates on this dock as traders try to
+unload the ship currently in port.  Laborers scurry about making sure all is
+unloaded in an orderly fashion and in one piece.    
+~
+66 4 0 0 0
+D1
+~
+~
+0 0 6634
+D3
+~
+~
+0 0 6626
+S
+#6634
+Southern Docks~
+   The planks of the docks here are kept in excellent condition due to the
+heavy traffic.  Though not as strong as Harbor Stretch, the docks can withstand
+severe storms.  Crates are stacked all about the area as traders try to unload
+the ship currently in port.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6637
+D2
+~
+~
+0 0 6635
+D3
+~
+~
+0 0 6633
+S
+#6635
+Southern Docks~
+   The planks of the docks here are kept in excellent condition due to the
+heavy traffic.  Though not as strong as Harbor Stretch, the docks can withstand
+severe storms.  Crates are stacked all about the area as traders try to unload
+the ship currently in port.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6634
+S
+#6636
+The Crow's Nest~
+   This is the crow's nest of this ship.  From here one can see far out to sea.
+Out upon the water, dolphins and other larger sea creatures breach the water
+leaping up into the air.  In the other direction one can see the forests
+surrounding the village.  Many citizens move about from one destination to
+another.
+~
+66 0 0 0 0
+D5
+~
+~
+0 0 6663
+S
+#6637
+Southern Docks~
+   The docks here are made of strong wooden planks, held up by wooden supports.
+Though this is not as strong as Harbor Stretch, they work well under most
+conditions.  A large ship can be seen anchored just south of here, though it's
+gang plank is farther east.  The ship appears to be a minotaur trading vessel
+judging by it's lack of weaponry, and lack of passenger compartments.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6638
+D3
+~
+~
+0 0 6634
+S
+#6638
+Southern Docks~
+   A ships gang plank has been lowered to the docks here.  The large ship is
+anchored just south of here.  It appears to be a minotaur trading vessel,
+judging by it's lack of weaponry, and lack of passenger compartments.  The gang
+plank to this ship leads directly south, and onto the main deck of the ship.  
+~
+66 0 0 0 0
+D2
+~
+~
+0 0 6663
+D3
+~
+~
+0 0 6637
+S
+#6639
+A Muddy Stream Bed~
+   This shallow stream bed has a slightly stale smell as it flows from the
+north.  Most of the water is dried up, leaving just a very muddy bed with small
+frogs and toads hopping amongst the puddles.  In the mud are tracks of many small
+animals and an occasional boot print left by some person traveling the stream
+bed.  The stream seems to flow from the north and stops just short of the road
+to the south in a large puddle.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6640
+D2
+~
+~
+0 0 6602
+S
+#6640
+A Muddy Stream Bed~
+   The sounds of frogs croaking fills the area.  They all must stay hidden
+within the tall weeds along the stream bed, for none can be seen around.  The
+stream here takes a turn towards the south and east.  Just a thin trickle of
+stagnant water flows towards the south, stopping every once in a while in a
+puddle.
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6641
+D2
+~
+~
+0 0 6639
+S
+#6641
+A Muddy Stream Bed~
+   This shallow stream bed has a slightly stale smell as it flows from the
+north.  Most of the water is dried up, leaving just a very muddy bed with small
+frogs and toads hopping amongst the puddles.  In the mud are tracks of many small
+animals and an occasional boot print left by some person traveling the stream
+bed.  The stream seems to flow from the north and stops just short of the road
+to the south in a large puddle.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6642
+D3
+~
+~
+0 0 6640
+S
+#6642
+Before a Large Gap~
+   The stream seems to come from the large gap in the side of a hill to the
+east of here.  The smell from within is rather unappealing as it appears to be
+the makeshift sewers of the village nearby.  There are tracks of a small person
+leading into the opening evidently trying to find a back way in.  The walls of
+the village extend far above the gap providing a strong defense for most
+attacks.    
+~
+66 4 0 0 0
+D1
+~
+~
+0 0 6643
+D3
+~
+~
+0 0 6641
+S
+#6643
+A Large Opening Leading to Some Tunnels~
+   This is a large natural washout leading in under the town walls of Guthorg.
+The inhabitants of the town use it now as a readily available outlet for their
+sewers.  Light comes in from the west, but looking farther to the east nothing
+but darkness can be seen.  The water here is about ankle deep and flows from
+the west and the rest of the sewers.  Small creatures scamper about, splashing
+in the water.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6644
+D3
+~
+~
+0 0 6642
+S
+#6644
+A Fork in the Sewer~
+   This passageway branches in four different directions.  The flow of water
+seems to be heading towards the west to where light can faintly be seen.  The
+walls of these sewers are made of a moldy colored brick which seems to be in
+major disrepair.  To the north, east and south, more tunnels run farther and
+deeper into the sewers.  The only sounds down here are the running of water
+and the scampering of sewer rats.    
+~
+66 9 0 0 0
+D0
+~
+~
+0 0 6658
+D1
+~
+~
+0 0 6645
+D2
+~
+~
+0 0 6657
+D3
+~
+~
+0 0 6643
+S
+#6645
+Sewers of Guthorg~
+   The water seems to have puddled here, reaching almost to knee level.  
+Within the water, small swirls can be seen as animals move about.  The animals
+themselves cannot be seen, whether that is a good or bad thing, is uncertain.
+It seems almost as though many tiny eyes are all about these caves, watching
+those that pass through.    
+~
+66 9 0 0 0
+D1
+~
+~
+0 0 6646
+D3
+~
+~
+0 0 6644
+S
+#6646
+Sewers of Guthorg~
+   A chill breeze blows through these passage ways.  Carried upon the breeze is
+the salty smell of the ocean, as well as a stale and foul odor.  The breeze
+must come from vents hidden somewhere within the tunnels.  The water here is
+chill and somewhat deeper than in other areas of the tunnels.    
+~
+66 9 0 0 0
+D0
+~
+~
+0 0 6662
+D1
+~
+~
+0 0 6647
+D3
+~
+~
+0 0 6645
+S
+#6647
+Sewers of Guthorg~
+   Small creatures scurry about through the walls and the water.  Rats creeps
+along the edges of the water scavenging for bits of food or other treasures.
+The water ripples as different sewer snakes slither through the water, feasting
+on the rats.  They seem quite comfortable down here in this dampness and glare
+at intruders into their domain.    
+~
+66 9 0 0 0
+D2
+~
+~
+0 0 6648
+D3
+~
+~
+0 0 6646
+S
+#6648
+Sewers of Guthorg~
+   Small bits of dust fall from the overhead ceiling.  The mud seems to be
+crumbling but still forms a sturdy foundation for the city.  Some sections are
+badly cracked, and some places seem like they will give in soon.  Moss grows up
+the walls and some across the ceiling.  The dampness of the sea can be felt
+down here and chills even through the thickest clothing.    
+~
+66 9 0 0 0
+D0
+~
+~
+0 0 6647
+D1
+~
+~
+0 0 6649
+S
+#6649
+Sewers of Guthorg~
+   The water flows through here with an unfavorable scent.  Evidently some of
+this water does not drain out as quickly as it should, such that the water
+down here gets a rather stale and foul smelling.  Small bits of salt crystal
+can be seen along the banks of the water, formed by the water from the sea
+evaporating as it passes through.    
+~
+66 9 0 0 0
+D2
+~
+~
+0 0 6650
+D3
+~
+~
+0 0 6648
+S
+#6650
+Sewers of Guthorg~
+   A chill breeze blows through these passageways.  Carried upon the breeze is
+the salty smell of the ocean, as well as a stale and foul odor.  The breeze
+must come from vents hidden somewhere within the tunnels.  The water here is
+chill and somewhat deeper than in other areas of the tunnels.    
+~
+66 8 0 0 0
+D0
+~
+~
+0 0 6649
+D2
+~
+~
+0 0 6651
+D4
+~
+grate~
+1 0 6624
+S
+#6651
+Sewers of Guthorg~
+   A chill breeze blows through these passage ways.  Carried upon the breeze is
+the salty smell of the ocean, as well as a stale and foul odor.  The breeze
+must come from vents hidden somewhere within the tunnels.  The water here is
+chill and somewhat deeper than in other areas of the tunnels.    
+~
+66 9 0 0 0
+D0
+~
+~
+0 0 6650
+D3
+~
+~
+0 0 6652
+S
+#6652
+Sewers of Guthorg~
+   The water flows through here with an unfavorable scent.  Evidently some of
+this water does not drain out as quickly as it should, such that the water
+down here gets a rather stale and foul smelling.  Small bits of salt crystal
+can be seen along the banks of the water, formed by the water from the sea
+evaporating as it passes through.    
+~
+66 9 0 0 0
+D1
+~
+~
+0 0 6651
+D3
+~
+~
+0 0 6653
+S
+#6653
+Sewers of Guthorg~
+   Small bits of dust fall from the overhead ceiling.  The sections seem to be
+crumbling but still form a sturdy foundation for the city.  Some bricks are
+badly cracked, and some places seem like they will give in soon.  Moss grows up
+the walls and some across the ceiling.  The dampness of the sea can be felt
+down here and chills even through clothing.  Even though the water is only
+ankle deep, most people that come down here leave damp from head to toe.    
+~
+66 9 0 0 0
+D1
+~
+~
+0 0 6652
+D3
+~
+~
+0 0 6654
+S
+#6654
+Sewers of Guthorg~
+   A chill breeze blows through these passage ways.  Carried upon the breeze is
+the salty smell of the ocean, as well as a stale and foul odor.  The breeze
+must come from vents hidden somewhere within the tunnels.  The water here is
+chill and somewhat deeper than in other areas of the tunnels.    
+~
+66 8 0 0 0
+D0
+~
+~
+0 0 6655
+D1
+~
+~
+0 0 6653
+D4
+~
+grate~
+1 0 6618
+S
+#6655
+Sewers of Guthorg~
+   The water flows through here with an unfavorable scent.  Evidently some of
+this water does not drain out as quickly as it should, such that the water
+down here gets a rather stale and foul smelling.  Small bits of salt crystal
+can be seen along the banks of the water, formed by the water from the sea
+evaporating as it passes through.    
+~
+66 9 0 0 0
+D0
+~
+~
+0 0 6656
+D2
+~
+~
+0 0 6654
+S
+#6656
+Sewers of Guthorg~
+   Small creatures scurry about through the walls and the water.  Rats creeps
+along the edges of the water scavenging for bits of food or other treasures.
+The water ripples as different sewer snakes slither through the water, feasting
+on the rats.  They seem quite comfortable down here in this dampness and glare
+at intruders into their domain.    
+~
+66 9 0 0 0
+D2
+~
+~
+0 0 6655
+D3
+~
+~
+0 0 6657
+S
+#6657
+Sewers of Guthorg~
+   A chill breeze blows through these passage ways.  Carried upon the breeze is
+the salty smell of the ocean, as well as a stale and foul odor.  The breeze
+must come from vents hidden somewhere within the tunnels.  The water here is
+chill and somewhat deeper than in other areas of the tunnels.    
+~
+66 8 0 0 0
+D0
+~
+~
+0 0 6644
+D1
+~
+~
+0 0 6656
+D4
+~
+grate~
+1 0 6607
+S
+#6658
+Sewers of Guthorg~
+   Small creatures scurry about through the walls and the water.  Rats creeps
+along the edges of the water scavenging for bits of food or other treasures.
+The water ripples as different sewer snakes slither through the water, feasting
+on the rats.  They seem quite comfortable down here in this dampness and glare
+at intruders into their domain.    
+~
+66 9 0 0 0
+D0
+~
+~
+0 0 6659
+D2
+~
+~
+0 0 6644
+S
+#6659
+Sewers of Guthorg~
+   Water constantly drips from the ceiling, echoing hollowly off the walls.  
+The water all about these tunnels is at least ankle deep, and the old dried mud
+making up the walls is cracking and broken.  The smell of stagnant waste is
+strong here.    
+~
+66 8 0 0 0
+D1
+~
+~
+0 0 6660
+D2
+~
+~
+0 0 6658
+D4
+~
+grate~
+1 0 6622
+S
+#6660
+Sewers of Guthorg~
+   A chill breeze blows through these passage ways.  Carried upon the breeze is
+the salty smell of the ocean, as well as a stale and foul odor.  The breeze
+must come from vents hidden somewhere within the tunnels.  The water here is
+chill and somewhat deeper than in other areas of the tunnels.    
+~
+66 9 0 0 0
+D1
+~
+~
+0 0 6661
+D3
+~
+~
+0 0 6659
+S
+#6661
+Sewers of Guthorg~
+   The water seems to have puddled here, reaching almost to knee level.  
+Within the water, small swirls can be seen as animals move about.  The animals
+themselves cannot be seen, whether that is a good or bad thing, is uncertain.
+It seems almost as though many tiny eyes are all about these caves, watching
+those that pass through.    
+~
+66 9 0 0 0
+D2
+~
+~
+0 0 6662
+D3
+~
+~
+0 0 6660
+S
+#6662
+Sewers of Guthorg~
+   Within these tunnels, the only noises that can be heard are the constant
+dripping of water and the scurrying of small animals.  If one were to listen
+very carefully, in absolute silence, the sounds of the city above might be able
+to be heard.  Even so, they are hard to hear above the noise down here.  The
+water about the ground swirls as small sewer snakes wind their way through the
+sewers, stopping only shortly to glance at you.    
+~
+66 9 0 0 0
+D0
+~
+~
+0 0 6661
+D2
+~
+~
+0 0 6646
+S
+#6663
+Upon a Minotaur Ship~
+   This is the center of this minotaur merchant vessel.  Crew members walk
+about the ship and onto the docks to unload the supplies from the ship.  A
+hatch is in the middle of the vessel leading down to within the hull of the
+ship, where all the cargo is held.  Rope ladders lead up from here, into the
+sails to where the crow's nest is located.  The sail are furled at the moment
+since the ship is in port.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6638
+D1
+~
+~
+0 0 6664
+D3
+~
+~
+0 0 6665
+D4
+~
+~
+0 0 6636
+D5
+~
+hatch~
+1 0 6669
+S
+#6664
+The Bow of a Minotaur Ship~
+   This is the bow of the merchant vessel.  A large figure-head graces the bow
+of the ship carved into the resemblance of Zeboim, the sea queen.  It is
+believed by many of the sailors that having this figure on the front of the
+ship will bring protection and good luck at sea.  In front of the bow of the
+ship, tiny fish leap out of the water, only to quickly splash back down into
+the sea.    
+~
+66 0 0 0 0
+D3
+~
+~
+0 0 6663
+S
+#6665
+The Helm of a Minotaur Ship~
+   A large steering wheel dominates the area of the helm.  This is the station
+from which the ship is controlled when it is out to sea.  From here can be seen
+the whole top of the ship where the crew runs busily about unloading the
+supplies.  The docks about the ship here are filling with the supplies that the
+crew is unloading from crates to boxes, and there is a grat deal of equipment.
+A small table sits beside the helm for a map to lay on so that the helmsman can
+see the approximate location of the ship.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6663
+E
+table map~
+   A large map lays out upon this table.  Pins have been put into the corner of
+the maps to keep it from rolling up, or blowing away in the wind.  The map
+shows sea currents, plots for ships, and even some basic navigations jotted in
+in places.  Many sea port cities are also shown upon the map.    
+~
+S
+#6666
+House of the Harbor Master~
+   This is a small but quaint dwelling.  Fishing nets line the walls, along
+with many stuffed fish and a small desk in the corner which is covered with
+many sheets of paper, all in disarray.  Evidently the harbor master does not
+keep good track of his records.  Hanging upon one wall is a map of currents of
+the ocean, and shipping routes of boats.    
+~
+66 8 0 0 0
+D2
+~
+door~
+1 0 6625
+E
+map~
+   As you gaze closer at this map, it doesn't seem quite as organized.  The
+scribbles and arrows, dates and times, and many other incomprehensible things
+take up most of the map.  This makes it difficult to sea where cities, and even
+where water lines are.  Only the harbor master himself has the abilities of
+skill required to read this map.    
+~
+S
+#6667
+Temple of the Destroyer~
+   A large statue stands here portraying the figure of the Destroyer.  About
+the statue flames leap up to the waist of the statue of Sargonnas.  Etchings
+line the walls showing minotaurs attacking and slaughtering elves and humans.
+The dominant theme appears to be the superiority of minotaurs over the other
+races.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6620
+S
+#6668
+Temple of the Emperor~
+   The back of the temple has a large statue dedicated to the god they refer to
+as The Emperor, also known as Kiri Jolith.  A long stairway leads up to the
+base of the statue, where a small altar is erected for offerings.  Benches are
+arranged in rows for worshippers to come in and rest their tired bones.  The
+walls of the temple depict more reliefs of minotaurs in battle.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6617
+S
+#6669
+Within the Hull of the Ship~
+   This area is rather dark except for the bits of light that come in from the
+outside windows.  Most of the windows are blocked by crates which line all the
+walls here, and a few sitting in piles about the center of the hull.  A ladder
+leads up from the center of this room to a hatch up in the ceiling of the hull.
+Off to the west comes the smell of cooking and a bit more light.    
+~
+66 12 0 0 0
+D3
+~
+~
+0 0 6672
+D4
+~
+hatch~
+1 0 6663
+S
+#6670
+Galvrent's Private Practice Room~
+   This is a small back room hidden behind a panel in the wall.  About the
+walls hang various large weapons that Galvrent has collected.  Standing in the
+middle of the room is a wooden practice dummy.  The dummy is well scarred from
+much use, and yet remains fairly sturdy.    
+~
+66 8 0 0 0
+D3
+~
+panel door~
+1 0 6671
+S
+#6671
+Home of Galvrent Ogreslayer~
+   This is the home of Galvrent Ogreslayer, a well known hero of the minotaurs.
+Now though, he has retired to his home where he spends his time keeping his
+weapons sharp and training other minotaurs.  Upon the walls are heads of
+different animals that Galvrent has fought and slain.  Off to the east, a lions
+lead sits proudly atop a small stand, obviously a trophy of great importance.
+~
+66 4 0 0 0
+D1
+~
+lion~
+1 0 6670
+D2
+~
+~
+0 0 6607
+E
+lion~
+   This lion head is huge, and attached to a wooden panel.  It's mouth is wide
+open, and held in a ferocious roar.    
+~
+E
+heads animals~
+   Lining the walls are many animal heads.  From bears to wild cats.  Even a
+few ogre heads are displayed.  Drawing your attention the most is a large lion
+head, which occupies quite a large area.    
+~
+S
+#6672
+The Ships Galley~
+   This compartment of the ship is reserved for the ships cook.  Shelves line
+the walls holding different ingredients, as well as lots of dried foods.  
+Upon the back wall of this compartment a large keg has been set and tapped.  
+Barrels sit in another corner of the room, containing fruit for the long
+journeys.    
+~
+66 8 0 0 0
+D1
+~
+~
+0 0 6669
+S
+#6673
+Inside a Small House~
+   This house has practically no furniture.  All that is withing the room, is a
+single table and chair, as well as a hammock hanging from rafters in the back.
+The rest of the room is filled with fish hanging from stringers on the ceiling.
+A large fire has been built in the fireplace, and some fragrant logs thrown on
+the fire, to keep the smell of fish from being too strong, and offending any
+visitors.    
+~
+66 8 0 0 0
+D2
+~
+door~
+1 0 6622
+E
+hammock~
+   This hammock looks quite comfortable, as well as large.  The smell of salt
+and the sea though come strongly from the hammock.    
+~
+S
+#6674
+Inside a Small House~
+   This sparsely furnished room is large for most families.  For minotaurs
+however this room could be quite cramped.  Several large beds are upon either
+side wall, and near the back of the room is a large firepit.  The house is made
+of brick and wood and the roof is thatched.  Aside from the beds the only
+other furniture is a large table with a fews chairs around it.    
+~
+66 8 0 0 0
+D0
+~
+door~
+1 0 6622
+S
+#6675
+Inside a Small House~
+   This sparsely furnished room is large for most families.  For minotaurs
+however this room could be quite cramped.  Several large beds are upon either
+side wall, and near the back of the room is a large firepit.  The house is made
+of brick and wood and the roof is thatched.  Aside from the beds the only
+other furniture is a large table with a fews chairs around it.    
+~
+66 8 0 0 0
+D2
+~
+door~
+1 0 6623
+S
+#6676
+Inside a Small House~
+   This house has practically no furniture.  All that is withing the room, is a
+single table and chair, as well as a hammock hanging from rafters in the back.
+The rest of the room is filled with fish hanging from stringers on the ceiling.
+A large fire has been built in the fireplace, and some fragrant logs thrown on
+the fire, to keep the smell of fish from being too strong, and offending any
+visitors.    
+~
+66 8 0 0 0
+D0
+~
+door~
+1 0 6623
+S
+#6677
+Entryway of the Chieftain's Home~
+   This is a large room, furnished with many tapestries and statues.  These
+tapestries hang about the walls, probably taken from castles and dwellings
+during sieges led by the lord of this village.  The statues are of minotaurs in
+full battle gear wielding large axes and spears and are are made of a black
+obsidion stone which gleams in the light.    
+~
+66 8 0 0 0
+D3
+~
+door~
+1 0 6623
+D4
+~
+~
+0 0 6680
+S
+#6678
+The Longhorn Tavern~
+   A long counter covers the back wall of this room.  Behind the counter can be
+seen a simple stove and oven.  Beside the stove is a wall of shelves, holding
+bottle of various liquers.  The oven provides bare light and a dim pallor
+extends out over the room turning all color ruddy and dark.    
+~
+66 8 0 0 0
+D0
+~
+~
+0 0 6679
+D3
+~
+door~
+1 0 6609
+S
+#6679
+A Small Gambling Area~
+   A large counter, too tall for most normal sized people stands in the center
+of the room.  A couple tables sit about the room, where minotaurs sit and play
+cards.  Some of the betting for the arena is done here, and Francor Longhorn is
+in charge of it.  A large safe is in the back wall.    
+~
+66 8 0 0 0
+D2
+~
+~
+0 0 6678
+S
+#6680
+The Lord's Sitting Room~
+   Large plush chairs sit about the room and a bookcase is against the back
+wall.  A window on the eastern wall gives an extraordinary view of a large
+public arena.  It towers over this house and fills the skyline to the east.  
+Paintings hang upon the wall, depicting the lord and a few of his ancestors.  
+Hanging on the walls are also many different weapons gathered by the lord in
+battle, many of which have been brought back from distant lands.    
+~
+66 8 0 0 0
+D5
+~
+~
+0 0 6677
+S
+#6681
+Entryway to the Arena~
+   This is the entrance to the arena.  A large staircase leads up into the
+stadium stands.  Two large statues grace either side of the arena entrance.  
+On the eastern side of the entrance is a statue careved in the visage of
+Kiri-Jolith while on the western side is one carved with the vengeful
+complexion of Sargonnas.  The statues stand watching all those who enter and
+leave the arena.    
+~
+66 12 0 0 0
+D1
+~
+~
+0 0 6682
+D2
+~
+~
+0 0 6610
+D4
+~
+~
+0 0 6689
+S
+#6682
+Before a Barred Gate~
+   A large barred gate blocks the way to the north.  Through the bars the arena
+floor can be seen.  This must be the entrance for the combatants to go into the
+arena and fight.  The arena is open for people to use, if they just pay a small
+deposit to the arena master.  A sign on the eastern wall shows the rules, and
+use of the arena.    
+~
+66 28 0 0 0
+D0
+~
+gate barred~
+2 6681 6683
+D3
+~
+~
+0 0 6681
+S
+#6683
+Southwest Corner of the Arena~
+   This is the southwestern corner of the arena.  A large barred gate blocks
+the way to the south.  Above there are stands where spectators may come and
+watch the fights.  The ground is covered with sand, to make the spilled blood
+easier to clean up.  Many minotaur battles have been fought here in attempts to
+save honor and prove themselves through battle.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6684
+D1
+~
+~
+0 0 6686
+D2
+~
+gate barred~
+2 6681 6682
+D7
+~
+~
+0 0 6685
+S
+#6684
+Northwest Corner of the Arena~
+   This is the northwestern corner of the arena.  The walls about the arena are
+decorated with reliefs of battles, with minotaurs caught in glory and victory.
+The ground about the area is covered by a loose sand providing stable footing.
+Above are the stands where spectators may come and watch the battles.  Above
+and to the west, flags hang from around the Lord's box where the special guests
+are allowed to sit.  To the west of here is a large wooden door.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6685
+D2
+~
+~
+0 0 6683
+D3
+~
+door heavy wood~
+2 6681 6687
+D9
+~
+~
+0 0 6686
+S
+#6685
+Northeast Corner of the Arena~
+   This is the northeastern corner of the arena.  The walls about the arena are
+decorated with reliefs of battles, with minotaurs caught in glory and victory.
+The ground about the area is covered by a loose sand providing stable footing,
+and softer landing.  Above are the stands where spectators may come and watch
+the battles.  Above and to the west, flags hang from around the Lord's box
+where the special guests are allowed to sit.    
+~
+66 0 0 0 0
+D2
+~
+~
+0 0 6686
+D3
+~
+~
+0 0 6684
+D8
+~
+~
+0 0 6683
+S
+#6686
+Southeast Corner of the Arena~
+   This is the southeastern corner of the arena.  To the south is a heavy
+wooden door leading to one of the preparation rooms for the combatants.  The
+ground is covered by loose sand, and in a few places is slightly stained from
+past battles.  Above and to the west is the Lord's box, where the special
+guests sit to watch the battles.  All around are the stands for the spectators
+to watch the battles.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6685
+D2
+~
+door heavy wood~
+2 6681 6688
+D3
+~
+~
+0 0 6683
+D6
+~
+~
+0 0 6684
+S
+#6687
+A Prep Room for Fighters~
+   This is a small chamber providing an area for the fighter to prepare for his
+or her battle.  Two trunks lay upon the floor, one for the fighters clothes
+and one containing armor to be used in the arena.  On the wall is a simple
+weapons rack containing weapons to be used in the arena.  Of course if they so
+decide the combatants may use their own weapons and armor.    
+~
+66 264 0 0 0
+D1
+~
+door heavy wood~
+2 6681 6684
+S
+#6688
+A Prep Room for Fighters~
+   This is a small chamber providing an area for the fighter to prepare for his
+or her battle.  Two trunks lay upon the floor, one for the fighters clothes
+and one containing armor to be used in the arena.  On the wall is a simple
+weapons rack containing weapons to be used in the arena.  Of course if they so
+decide the combatants may use their own weapons and armor.    
+~
+66 264 0 0 0
+D0
+~
+door heavy wood~
+2 6681 6686
+S
+#6689
+Atop the Stairs of the Stadium~
+   A set of wide stairs lead down towards the exit of the arena.  The stands
+for spectators extend to the north and east of here.  A small housing is over
+these stairs, keeping the weather off and providing a small amount of comfort
+to spectators.  The arena appears to have been made from stone, with a wooden
+skeleton.    
+~
+66 8 0 0 0
+D0
+~
+~
+0 0 6693
+D1
+~
+~
+0 0 6690
+D5
+~
+~
+0 0 6681
+S
+#6690
+Within the Seating of the Stadium~
+   The seats in this part of the arena are made of hardwood sitting on cement
+blocks.  Though uncomfortable it still allows a place for spectators to sit to
+watch the arena fights.  On the western side of the arena can be seen the
+Lord's Box, which is much more luxurious then these seats prepared for the
+common folk.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6691
+D3
+~
+~
+0 0 6689
+S
+#6691
+Within the Seating of the Stadium~
+   From these stands spectators can watch the many fights down in the arena.  
+From hand to hand fights to brutal battles with wild animals, all can be seen.
+Many champions have come from this arena; through blood and sweat they have
+fought.  Many spectators have champions that they just come to see, no matter
+what.  It is also rumored that some gambling does occur behind the scenes.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6692
+D3
+~
+~
+0 0 6690
+S
+#6692
+Within the Seating of the Stadium~
+   Long rows of benches encircle the stadium.  These provide seating, though
+not all that comfortable, for the common folk of the city and for visitors.  
+From here the arena can readily be seen below with its sandy floor and scarred
+walls.  Many of the citizens of Guthorg come here to watch the fights and cheer
+on their favorite champions.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6603
+D3
+~
+~
+0 0 6691
+S
+#6693
+The Lord's Private Box~
+   This area is specially set up for the lord of Guthorg and his guests of
+honor.  Red padded seats are set in spacious rows, providing the best overview
+of the arena.  A large canopy goes over the box blocking off weather helping
+to maintain a cool temperature, keeping the occupants quite comfortable.  A
+large platform is in the center of the box, allowing speakers to go forward and
+be seen and heard by all in the arena.    
+~
+66 520 0 0 0
+D0
+~
+~
+0 0 6694
+D2
+~
+~
+0 0 6689
+S
+#6694
+The Lord's Private Box~
+   This area is specially set up for the lord of Guthorg and his guests of
+honor.  Red padded seats are set in spacious rows, providing the best overview
+of the arena.  A large canopy goes over the box blocking off weather helping
+to maintain a cool temperature, keeping the occupants quite comfortable.  A
+large platform is in the center of the box, allowing speakers to go forward and
+be seen and heard by all in the arena.    
+~
+66 520 0 0 0
+D0
+~
+~
+0 0 6698
+D2
+~
+~
+0 0 6693
+S
+#6695
+Within the Seating of the Stadium~
+   Long rows of benches encircle the stadium.  These provide seating, though
+not all that comfortable, for the common folk of the city and for visitors.  
+From here the arena can readily be seen below with its sandy floor and scarred
+walls.  Many of the citizens of Guthorg come here to watch the fights and cheer
+on their favorite champions.    
+~
+66 0 0 0 0
+D2
+~
+~
+0 0 6699
+D3
+~
+~
+0 0 6696
+S
+#6696
+Within the Seating of the Stadium~
+   From these stands spectators can watch the many fights down in the arena.  
+From hand to hand fights to brutal battles with wild animals, all can be seen.
+Many champions have come from this arena; through blood and sweat they have
+fought.  Many spectators have champions that they just come to see, no matter
+what.  It is also rumored that some gambling does occur behind the scenes.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6695
+D3
+~
+~
+0 0 6697
+S
+#6697
+Within the Seating of the Stadium~
+   The seats in this part of the arena are made of hardwood sitting on cement
+blocks.  Though uncomfortable it still allows a place for spectators to sit to
+watch the arena fights.  On the western side of the arena can be seen the
+Lord's Box, which is much more luxurious then these seats prepared for the
+common folk.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6696
+D3
+~
+~
+0 0 6698
+S
+#6698
+Within the Seating of the Stadium~
+   Long rows of benches encircle the stadium.  These provide seating, though
+not all that comfortable, for the common folk of the city and for visitors.  
+From here the arena can readily be seen below with its sandy floor and scarred
+walls.  Many of the citizens of Guthorg come here to watch the fights and cheer
+on their favorite champions.    
+~
+66 0 0 0 0
+D1
+~
+~
+0 0 6697
+D2
+~
+~
+0 0 6694
+S
+#6699
+Within the Seating of the Stadium~
+   From these stands spectators can watch the many fights down in the arena.  
+From hand to hand fights to brutal battles with wild animals, all can be seen.
+Many champions have come from this arena; through blood and sweat they have
+fought.  Many spectators have champions that they just come to see, no matter
+what.  It is also rumored that some gambling does occur behind the scenes.    
+~
+66 0 0 0 0
+D0
+~
+~
+0 0 6695
+D2
+~
+~
+0 0 6603
+S
+$~

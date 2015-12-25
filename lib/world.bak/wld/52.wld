@@ -1,0 +1,1907 @@
+#5200
+A Dark Cavern~
+   This vast chamber appears to have been naturally formed years ago when an
+underground river crashed through these caverns, flowing into the Turbidus
+Ocean.  The cavern walls are smooth, the result of the rushing water that once
+poured through here.  The air is heavy with moisture, and droplets of water
+drip from the ceiling which is lost in the darkness above.    
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5202
+D7
+~
+~
+0 0 5203
+S
+#5201
+A Narrow Tunnel~
+   A narrow tunnel leads between the caverns that have formed naturally beneath
+the city.  Its stone walls are covered with droplets of water and cold to the
+touch.  A damp mixture of gravel and sand cover the ground crunching underfoot
+with each step.  The sound of waves crashing against the coastline echoes in
+the otherwise quiet tunnel.    
+~
+52 268 0 0 0
+D2
+A narrow crevice is visible in the cliff face.
+~
+cliff~
+1 0 7661
+D6
+~
+~
+0 0 5203
+S
+#5202
+A Dark Cavern~
+   The tunnels continue twisting and turning their was undergound, occasionally
+opening up into a larger cavern.  The floor is covered with gravel and small
+pebbles, like a riverbed.  They crunch underfoot with each step.  The ceiling
+is a rather low and the walls close, creating a slight sense of claustrophobia.
+The dank smell of the mosses that grow along the tunnel walls hangs heavily in
+the damp air.    
+~
+52 264 0 0 0
+D2
+~
+~
+0 0 5200
+D6
+~
+~
+0 0 5204
+S
+#5203
+A Dark Cavern~
+   The tunnel opens up to a larger chamber which appears to have been naturally
+formed years ago when an underground river crashed through these caverns,
+flowing into the Turbidus Ocean.  The cavern walls are smooth, the result of
+the rushing water that once poured through here.  The air is heavy with
+moisture, and droplets of water drip from stalactites which have formed on the
+ceiling.    
+~
+52 8 0 0 0
+D8
+~
+~
+0 0 5200
+D9
+~
+~
+0 0 5201
+S
+#5204
+A Dark Cavern~
+   The gravel floor slopes downward as the tunnel to the north.  It is littered
+with larger rocks and some drift wood making navigation a bit tricky.  A few
+stalactites hang down from the ceiling creating further obstacles for those who
+pass through the caverns.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5205
+D6
+~
+~
+0 0 5208
+D9
+~
+~
+0 0 5202
+S
+#5205
+A Dark Cavern~
+   The tunnels continue twisting and turning their was undergound, occasionally
+opening up into a larger cavern.  The floor is covered with gravel and small
+pebbles, like a riverbed.  They crunch underfoot with each step.  The ceiling
+is a rather low and the walls close, creating a slight sense of claustrophobia.
+The dank smell of the mosses that grow along the tunnel walls hangs heavily in
+the damp air.    
+~
+52 264 0 0 0
+D2
+~
+~
+0 0 5202
+D3
+~
+~
+0 0 5204
+D6
+~
+~
+0 0 5209
+D7
+~
+~
+0 0 5211
+S
+#5206
+A Dark Cavern~
+   The winding tunnels open up into a vast chamber here.  Its ceiling is lost
+in the shadows overhead.  A stale breeze blows through from some unknown
+source.  It swirls the otherwise still, fetid air.  Several stalagmites jut up
+from the floor making navigation more difficult.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5207
+D6
+~
+~
+0 0 5211
+S
+#5207
+A Dark Cavern~
+   The uneven floor of the cavern slopes to the north making it difficult to
+keep a sound footing.  The warm air is heavy with moisture which has condensed
+on the cold stone walls.  The droplets fall to the floor creating a monotonous
+rhythm that echoes in the otherwise silent cave.    
+~
+52 8 0 0 0
+D3
+~
+~
+0 0 5206
+D7
+~
+~
+0 0 5212
+S
+#5208
+A Dark Cavern~
+   The tunnels continue twisting and turning their was undergound, occasionally
+opening up into a larger cavern.  The floor is covered with gravel and small
+pebbles, like a riverbed.  They crunch underfoot with each step.  The ceiling
+is a rather low and the walls close, creating a slight sense of claustrophobia.
+The dank smell of the mosses that grow along the tunnel walls hangs heavily in
+the damp air.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5209
+S
+#5209
+A Dark Cavern~
+   The gravel floor slopes downward as the tunnel to the north.  It is littered
+with larger rocks and some drift wood making navigation a bit tricky.  A few
+stalactites hang down from the ceiling creating further obstacles for those who
+pass through the caverns.    
+~
+52 0 0 0 0
+D3
+~
+~
+0 0 5208
+D9
+~
+~
+0 0 5205
+S
+#5210
+A Dark Cavern~
+   The uneven floor of the cavern slopes to the north making it difficult to
+keep a sound footing.  The warm air is heavy with moisture which has condensed
+on the cold stone walls.  The droplets fall to the floor creating a monotonous
+rhythm that echoes in the otherwise silent cave.    
+~
+52 8 0 0 0
+D2
+~
+~
+0 0 5205
+D3
+~
+~
+0 0 5209
+S
+#5211
+A Dark Cavern~
+   The gravel floor slopes downward as the tunnel to the north.  It is littered
+with larger rocks and some drift wood making navigation a bit tricky.  A few
+stalactites hang down from the ceiling creating further obstacles for those who
+pass through the caverns.    
+~
+52 0 0 0 0
+D0
+~
+~
+0 0 5213
+D8
+~
+~
+0 0 5205
+D9
+~
+~
+0 0 5206
+S
+#5212
+A Dark Cavern~
+   The winding tunnels open up into a vast chamber here.  Its ceiling is lost
+in the shadows overhead.  A stale breeze blows through from some unknown
+source.  It swirls the otherwise still, fetid air.  Several stalagmites jut up
+from the floor making navigation more difficult.    
+~
+52 0 0 0 0
+D6
+~
+~
+0 0 5214
+D8
+~
+~
+0 0 5207
+S
+#5213
+A Dark Cavern~
+   The winding tunnels open up into a vast chamber here.  Its ceiling is lost
+in the shadows overhead.  A stale breeze blows through from some unknown
+source.  It swirls the otherwise still, fetid air.  Several stalagmites jut up
+from the floor making navigation more difficult.    
+~
+52 0 0 0 0
+D2
+~
+~
+0 0 5211
+D7
+~
+~
+0 0 5215
+D8
+~
+~
+0 0 5210
+S
+#5214
+A Dark Cavern~
+   The uneven floor of the cavern slopes to the north making it difficult to
+keep a sound footing.  The warm air is heavy with moisture which has condensed
+on the cold stone walls.  The droplets fall to the floor creating a monotonous
+rhythm that echoes in the otherwise silent cave.    
+~
+52 8 0 0 0
+D6
+~
+~
+0 0 5215
+D9
+~
+~
+0 0 5212
+S
+#5215
+A Dark Cavern~
+   The winding tunnels open up into a vast chamber here.  Its ceiling is lost
+in the shadows overhead.  A stale breeze blows through from some unknown
+source.  It swirls the otherwise still, fetid air.  Several stalagmites jut up
+from the floor making navigation more difficult.  One particularly large
+stalagmite sits a little crooked, seeming to have come loose a bit.    
+~
+52 8 0 0 0
+D5
+One particularly large stalagmite seems to have broken loose.    
+~
+stalagmite~
+1 0 5224
+D8
+~
+~
+0 0 5213
+D9
+~
+~
+0 0 5214
+S
+#5216
+A Cell~
+   Formed from a natural cave, this cell is block from the rest of the caverns
+by a heavily-barred door.  The door is quite sturdy and made from copper which
+has since greened from its exposure to the seawater.  The cavern has a low
+ceiling, causing most who enter to hunch over a bit.  This combined with the
+high-level of seawater which fills the cell create a great sense of
+claustrophobia.    
+~
+52 41 0 0 0
+D9
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5222
+S
+#5217
+A Cell~
+   A natural cavern has been partially finish to create a cell of sorts.  The
+cavern's opening has been blocked by a heavily-barred copper door.  The door
+has several dents in it, no doubt the result of being bashed with an incredible
+force.  The deep water swirls in the darkness, bubbling and foaming as though
+it were alive.    
+~
+52 41 0 0 0
+D2
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5222
+S
+#5218
+A Cell~
+   Formed from a natural cave, this cell is block from the rest of the caverns
+by a heavily-barred door.  The door is quite sturdy and made from copper which
+has since greened from its exposure to the seawater.  The cavern has a low
+ceiling, causing most who enter to hunch over a bit.  This combined with the
+high-level of seawater which fills the cell create a great sense of
+claustrophobia.    
+~
+52 41 0 0 0
+D2
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5223
+S
+#5219
+Behind the Altar~
+   Coming around behind the altar, the chaos behind falls once again into eerie
+silence.  The chanting, the shouting, the clang of steel on steel, everything
+has faded, and now only the sounds that a person makes on their own can be
+heard.  This floor is made of smooth, polished marble, and shows only scant
+signs of recent use.  The walls are strangely barren.    
+~
+52 44 0 0 0
+D1
+~
+~
+0 0 5220
+D8
+~
+~
+0 0 5226
+S
+#5220
+Antechamber~
+   The hallway ends abruptly with a large open archway.  A dweomer of magic
+fills the hall, and there is an odd, oppressive feeling emanating from the room
+to the north.  Halting briefly, you can hear a sound, like stone grinding on
+stone.  Standing another moment, a person gets the feeling that they are being
+watched from all around by unseen eyes.  It is a sensation that is as fantastic
+as it is utterly horrifying.    
+~
+52 12 0 0 0
+D0
+~
+~
+0 0 5239
+D3
+~
+~
+0 0 5219
+S
+#5221
+Waist Deep in the Water~
+   Cold seawater fills this natural cavern.  It swirls slowly, driven by a
+current of unknown origins.  The briny smell of the water and its contents hang
+heavily in the air.  Only flooded to about waist-high on the average human, the
+cavern is still navigable by most.  Though, some kender may find it
+challenging.  Several large stalactites hang from the ceiling.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5222
+D8
+~
+~
+0 0 5227
+S
+#5222
+Waist Deep in the Water~
+   Cold seawater fills this natural cavern.  It swirls slowly, driven by a
+current of unknown origins.  The briny smell of the water and its contents hang
+heavily in the air.  Only flooded to about waist-high on the average human, the
+cavern is still navigable by most.  Though, some kender may find it
+challenging.  Several large stalactites hang from the ceiling.    
+~
+52 8 0 0 0
+D0
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5217
+D1
+~
+~
+0 0 5223
+D2
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5229
+D3
+~
+~
+0 0 5221
+D6
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5216
+D8
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5228
+S
+#5223
+Waist Deep in the Water~
+   The seawater laps against the heavily-barred copper doors that stand on both
+sides of the hallway.  The water is driven by a current of unknown origins.  
+The briny smell of the water and its contents hang heavily in the air.  Only
+flooded to about waist-high on the average human, the cavern is still navigable
+by most.  Though, some kender may find it challenging.    
+~
+52 8 0 0 0
+D0
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5218
+D1
+~
+~
+0 0 5224
+D2
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+~
+1 5200 5230
+D3
+~
+~
+0 0 5222
+S
+#5224
+Waist Deep in the Water~
+   The seawater laps against the heavily-barred copper doors that stand on both
+sides of the hallway.  The water is driven by a current of unknown origins.  
+The briny smell of the water and its contents hang heavily in the air.  Only
+flooded to about waist-high on the average human, the cavern is still navigable
+by most.  Though, some kender may find it challenging.    
+~
+52 72 0 0 0
+D3
+~
+~
+0 0 5223
+D4
+A particularly large stalactite seems to be a bit loose.    
+~
+stalactite~
+1 0 5215
+S
+#5226
+Altar~
+   A massive scallop shell sits against the western wall of the cavern.  
+Before it stands a stone slab which has been draped with silks of deep greens
+and purples.  A warm breeze blows through the cavern stirring the seashell
+windchimes that hang above the altar.  Dozens of candles standing in great
+copper candlesticks line the chamber.  Their flickering light creates a warm
+glow that dances over all it touches.    
+~
+52 8 0 0 0
+D5
+~
+~
+0 0 5231
+D7
+~
+~
+0 0 5219
+S
+#5227
+A Stairway Formed of Natural Stone~
+   The stone floor has formed a natural staircase which makes navigation
+through the steep caverns a bit easier.  Though, the water rushing over the
+steps makes them rather treacherous at times.  The cavern seems to go further
+underground as it winds its way to the south.    
+~
+52 8 0 0 0
+D2
+~
+~
+0 0 5233
+D7
+~
+~
+0 0 5221
+S
+#5228
+A Cell~
+   A natural cavern has been partially finish to create a cell of sorts.  The
+cavern's opening has been blocked by a heavily-barred copper door.  The door
+has several dents in it, no doubt the result of being bashed with an incredible
+force.  The deep water swirls in the darkness, bubbling and foaming as though
+it were alive.  A thick, black oil floats on the surface of the water
+completely obscuring any view of the cavern floor.    
+~
+52 41 0 0 0
+D7
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5222
+S
+#5229
+A Cell~
+   Formed from a natural cave, this cell is block from the rest of the caverns
+by a heavily-barred door.  The door is quite sturdy and made from copper which
+has since greened from its exposure to the seawater.  The cavern has a low
+ceiling, causing most who enter to hunch over a bit.  This combined with the
+high-level of seawater which fills the cell create a great sense of
+claustrophobia.    
+~
+52 41 0 0 0
+D0
+A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door barred~
+1 5200 5222
+S
+#5230
+A Cell~
+   A natural cavern has been partially finish to create a cell of sorts.  The
+cavern's opening has been blocked by a heavily-barred copper door.  The door
+has several dents in it, no doubt the result of being bashed with an incredible
+force.  The deep water swirls in the darkness, bubbling and foaming as though
+it were alive.    
+~
+52 41 0 0 0
+D0
+   A heavily-barred door blocks the way.  Several large dents have been made in
+its surface.    
+~
+door heavily-barred~
+1 5200 5223
+S
+#5231
+Before the Altar~
+   The passageway ends at two steps formed from the natural stone floor of the
+cave.  A handrail has been mounted to cavern wall providing support for those
+who pass.  It has been wrapped with cloth of a deep sea-green.  A light breeze
+blows through the cavern carrying on it the briny scent of seaweed and
+saltwater.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5232
+D3
+~
+~
+0 0 5240
+D4
+~
+~
+0 0 5226
+S
+#5232
+A Passageway~
+   Though this passageway appears to have been formed naturally hundreds of
+years ago, it has since undergone some construction to give it a more finished
+look.  Wooden planks form a walkway over the otherwise rocky and uneven floor.
+Torches have been mounted to the stone walls on both sides of the passageway.
+Their light flickers against the wet stone walls creating the illusion of tiny
+creatures writhing on the stone surface.  The silence of the caves is broken by
+a soft, low murmur coming from the west.    
+~
+52 12 0 0 0
+D2
+~
+~
+0 0 5234
+D3
+~
+~
+0 0 5231
+S
+#5233
+A Stairway Formed of Natural Stone~
+   The stone floor has formed a natural staircase which makes navigation
+through the steep caverns a bit easier.  Though, the water rushing over the
+steps makes them rather treacherous at times.  The cavern seems to go further
+underground as it winds its way to the south.    
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5227
+D9
+~
+~
+0 0 5235
+S
+#5234
+A Passageway~
+   Though this passageway appears to have been formed naturally hundreds of
+years ago, it has since undergone some construction to give it a more finished
+look.  Wooden planks form a walkway over the otherwise rocky and uneven floor.
+Torches have been mounted to the stone walls on both sides of the passageway.
+Their light flickers against the wet stone walls creating the illusion of tiny
+creatures writhing on the stone surface.  Only the echo of footfalls can be
+heard in the otherwise silent cave.    
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5232
+D9
+~
+~
+0 0 5236
+S
+#5235
+A Pool of Standing Water~
+   The water comes crashing down the steps to the north into this deep pool of
+standing water.  Seaweed and other debris float on the surface, obscuring a
+view of the floor.  Small pebbles and the occasion rock crunch underfoot.  
+Droplet fall from the stalagtites.  Their monotonous drip drowned by the
+waterfall coming off the stairs.    
+~
+52 8 8 0 0
+D2
+~
+~
+0 0 5238
+D6
+~
+~
+0 0 5233
+D8
+~
+~
+0 0 5237
+S
+#5236
+A Vast Round Cavern~
+   The ceiling of this vast cavern is lost in the darkness overhead.  Its walls
+are primarily just the native stone upon which the city has been built, however
+there are definite signs of humanoid habitation of some sort.  Various symbols
+have been etched into the otherwise smooth surface of the walls and lanterns
+have been hung from sturdy iron hooks which have been anchored to the walls.  
+The cavern is eerily quiet except for the ominous sound of water hitting the
+gravel floor as it drips from above.    
+~
+52 8 0 0 0
+D5
+~
+~
+0 0 5237
+D6
+~
+~
+0 0 5234
+S
+#5237
+A Narrow Ledge~
+   Rising up from a large pool of standing seawater which swirls below, this
+narrow ledge offers one of the few dry location in the caverns.  It is still a
+bit difficult to get a sound footing, though, since the rock which forms the
+natural ledge is damp and covered with moss and seaweed.    
+~
+52 264 0 0 0
+D1
+~
+~
+0 0 5238
+D4
+~
+~
+0 0 5236
+D7
+~
+~
+0 0 5235
+S
+#5238
+A Pool of Standing Water~
+   The water comes crashing down the steps to the north into this deep pool of
+standing water.  Seaweed and other debris float on the surface, obscuring a
+view of the floor.  Small pebbles and the occasion rock crunch underfoot.  
+Droplet fall from the stalagtites.  Their monotonous drip drowned by the
+waterfall coming off the stairs.    
+~
+52 8 8 0 0
+D0
+~
+~
+0 0 5235
+S
+#5239
+A Private Office~
+   This room has been painted black, making it hard to see except by the light
+of a few torches spread throughout.  Long, dark green tapestries line the
+walls.  In the center of the room, a bowl-shaped indentation has been cut in
+the floor, several iron restraints set into it.  A long pipe sprouts from the
+floor, dripping intermittently with water, possibly evidence of a horrific form
+of torture, maybe even human sacrifice.  At the rear of the room is a bed and a
+few other pieces of furniture, marking this as the place of residence of the
+High Priestess of Zeboim.    
+~
+52 262152 0 0 0
+D2
+~
+~
+0 0 5220
+S
+#5240
+A Wide Corridor~
+   The corridor ahead is wide and straight, with an ornate tiled floor, quite
+in contrast to the rest of the place.  Upon the walls hang tapestries,
+depicting terrific scenes of storms and disasters at sea.  Taking a step back,
+the tiles can be seen arranged in the form of a large sea turtle, the holy
+animal of Zeboim.  Rows of marble pillars line the hall, each engraved with the
+form of a different sea creature, set in sharp relief.  Open doorways line the
+north and south walls, through which, voices can be heard.    
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5242
+D1
+~
+~
+0 0 5231
+D2
+~
+~
+0 0 5243
+D3
+~
+~
+0 0 5241
+S
+#5241
+A Wide Corridor~
+   The corridor ahead is wide and straight, with an ornate tiled floor, quite
+in contrast to the rest of the place.  Upon the walls hang tapestries,
+depicting terrific scenes of storms and disasters at sea.  Taking a step back,
+the tiles can be seen arranged in the form of a large sea turtle, the holy
+animal of Zeboim.  Rows of marble pillars line the hall, each engraved with the
+form of a different sea creature, set in sharp relief.  Open doorways line the
+north and south walls, through which, voices can be heard.  To the west lies
+another doorway, and burning incense makes the air heavy with its scent.    
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5244
+D1
+~
+~
+0 0 5240
+D2
+~
+~
+0 0 5245
+D3
+~
+~
+0 0 5246
+S
+#5242
+A Barracks~
+   This barracks looks rather spartan, though comfortable.  The walls are
+smoothly polished, and the floor is covered with a dark green carpet.  A set of
+bunks lies on either side of the room, amounting to four beds altogether.  
+There is a large fireplace at the end of the room, which fills the place with a
+warm glow.  A table sits in the middle of the room, surrounded by four chairs.
+~
+52 8 0 0 0
+D2
+~
+~
+0 0 5240
+E
+table~
+   Looking at the table, you see signs of very recent use.  Hastily prepared
+and eaten meals sit upon simple wooden plates, and mugs sit, partially full of
+strong smelling ale.  The main course, a large bowl of fish stew sits here,
+steaming.    
+~
+S
+#5243
+A Barracks~
+   This barracks looks rather spartan, though comfortable.  The walls are
+smoothly polished, and the floor is covered with a dark green carpet.  A set of
+bunks lies on either side of the room, amounting to four beds altogether.  
+There is a large fireplace at the end of the room, which fills the place with a
+warm glow.  A table sits in the middle of the room, surrounded by four chairs.
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5240
+E
+table~
+   This table has a large map of Kalaman spread out upon it, marked with bright
+red 'X's at various points, which are labeled as guard posts.  The posts that
+have been recently vacated are marked with an additional red circle about the
+'X'.  There are also a few other areas on the map that are circled, including
+the temple of Paladine, the pubs along the waterfront, and the entrances to the
+sewers.  That these marks mean is open to interpretation, though it is
+certainly not a simple coincidence.    
+~
+S
+#5244
+A Barracks~
+   This barracks looks rather spartan, though comfortable.  The walls are
+smoothly polished, and the floor is covered with a dark green carpet.  A set of
+bunks lies on either side of the room, amounting to four beds altogether.  
+There is a large fireplace at the end of the room, which fills the place with a
+warm glow.  A table sits in the middle of the room, surrounded by four chairs.
+  
+~
+52 8 0 0 0
+D2
+~
+~
+0 0 5241
+E
+table~
+   Looking at the table reveals that it has been recently used.  Partially
+eaten meals sit on china plates, and crystal stemware has been upset, spilling
+dark red wine over the simple white tablecloth.  Scattered across the middle of
+the table is a small pile of stone chips and assorted playing cards.    
+~
+S
+#5245
+A Barracks~
+   This barracks looks rather spartan, though comfortable.  The walls are
+smoothly polished, and the floor is covered with a dark green carpet.  A set of
+bunks lies on either side of the room, amounting to four beds altogether.  
+There is a large fireplace at the end of the room, which fills the place with a
+warm glow.  A table sits in the middle of the room, surrounded by four chairs.
+  
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5241
+E
+table~
+   Looking at the table reveals that it has been recently used.  Partially
+eaten meals sit on china plates, and crystal stemware has been upset, spilling
+dark red wine over the simple white tablecloth.  Scattered across the middle of
+the table is a small pile of stone chips and assorted playing cards.  
+~
+S
+#5246
+The Commander's Chambers~
+   This room is larger and much more lavishly decorated than the others.  
+Tapestries and paintings hang upon the smooth walls.  A single large canopy bed
+rests against the near wall, opposite a large, glowing fireplace.  A table lit
+by a half dozen candles sits in the center of the room.  Upon the north wall
+sits a weapon rack, empty.  A few maps and scraps of paper hang all about, but
+any maps that might have had particular use are either safely tucked away, or
+are now currently fueling the large fire...    
+~
+52 72 0 0 0
+D1
+~
+~
+0 0 5241
+E
+weapon weapons rack north~
+   This weapon rack is carved from solid oak, made to hold up to six weapons of
+different sizes and types.  It is currently empty, suggesting that the weapons
+themselves are being used elsewhere.    
+~
+E
+fire fireplace west stone~
+   This crackling fire is fueled by wood, and, upon closer inspection, scraps
+of paper.  Whatever secrets or information that was once written upon them is
+now lost for eternity to the hungry flames.    
+~
+E
+table~
+   This ornate table is covered by a thick, embroidered tablecloth, blood red
+in color.  Bone china plates and fine silverware sit here, with the remaining
+scraps of a meal sitting upon them.  There is also a crystal goblet, drained of
+all but a few drops of red wine.    
+~
+E
+bed canopy~
+   This large, comfortable bed is shielded from above by a fancy canopy.  The
+sheets are an interesting mix of silk and satin, red in color, and pillows of
+muslin and velvet.  The bed is clearly made for one who leads a comfortable
+life, though its unmade state suggests that whoever does sleep here does not
+have the time in their day to make it.  Either that, or the servants have taken
+the day off.    
+~
+S
+#5250
+A Brightly-lit Crimson Hall~
+   This hall appears nothing like the lifeless stone that it was hewn from,
+it's crimson red surface appearing almost serpent-like and hot to the touch.  
+Small braziers hang at even intervals throughout this hallway, angry red-orange
+flames licking out towards the ceiling.  Hot, dry air seems to stagnate in the
+hall, not seeming to come from any certain direction.  The heating affect of
+this corridor is undetectable yet quite strong, causing most that pass through
+it's short length to break out in a mild sweat.    
+~
+52 8 0 0 0
+D3
+~
+~
+0 0 11693
+D7
+~
+~
+0 0 5251
+S
+#5251
+A Brightly-lit Crimson Hall~
+   This hall appears nothing like the lifeless stone that it was hewn from,
+it's crimson red surface appearing almost serpent-like and hot to the touch.  
+Small braziers hang at even intervals throughout this hallway, angry red-orange
+flames licking out towards the ceiling.  Hot, dry air seems to stagnate in the
+hall, not seeming to come from any certain direction.  The heating affect of
+this corridor is undetectable yet quite strong, causing most that pass through
+it's short length to break out in a mild sweat.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5252
+D8
+~
+~
+0 0 5250
+S
+#5252
+A Small, Organized Office~
+   This small, organized office seems to be the head of some security chief or
+overseer of daily operations in this part of the complex.  In the center of the
+office is a large desk formed of obsidian and rougher sections of porous,
+cooled magma.  Upon the desks surface are several duty rosters, plans, and
+other materials carefully arranged and organized.  About the room a large mural
+spralls across the walls of a majestic and powerful red dragon, soaring through
+the volcanic ranges near sanction, bathing the cliffs in fire.    
+~
+52 8 0 0 0
+D3
+~
+~
+0 0 5251
+S
+#5253
+An Obsidian Pathway~
+   This short hallway has an extremely odd texture to it, looking and feeling
+nothing like the surrounding rock formations.  Almost seeming to shimmer like
+the scales of a serpent and feeling somewhat slick to the touch.  Several small
+globes tinted black fill this hallway, each one containing a small, mystical
+wisp of flame, bathing the hall in an odd, purplish light.  Meandering further
+to the south and west, this passage seems to be continually filled with a
+barely audible hissing sound.    
+~
+52 8 0 0 0
+D7
+~
+~
+0 0 11693
+D8
+~
+~
+0 0 5254
+E
+wall scratches deep~
+ Upon closer inspection you see that the nearby chunk of stone was used to
+scrawl a message into the stone of the wall, though it looks as if someone has
+tried to chips parts away.    
+
+                     Turn back from this place.. the fo## serv##ts of
+                      Mo##io# lie below.. turn, or sha## my ####. 
+                                        oo
+~
+S
+#5254
+An Obsidian Pathway~
+   This short hallway has an extremely odd texture to it, looking and feeling
+nothing like the surrounding rock formations.  Almost seeming to shimmer like
+the scales of a serpent and feeling somewhat slick to the touch.  Several small
+globes tinted black fill this hallway, each one containing a small, mystical
+wisp of flame, bathing the hall in an odd, purplish light.  Meandering further
+to the south and west, this passage seems to be continually filled with a
+barely audible hissing sound.    
+~
+52 8 0 0 0
+D2
+~
+~
+0 0 5255
+D7
+~
+~
+0 0 5253
+S
+#5255
+An Obsidian Pathway~
+   This short hallway has an extremely odd texture to it, looking and feeling
+nothing like the surrounding rock formations.  Almost seeming to shimmer like
+the scales of a serpent and feeling somewhat slick to the touch.  Several small
+globes tinted black fill this hallway, each one containing a small, mystical
+wisp of flame, bathing the hall in an odd, purplish light.  Like the rest of
+this hall, this passage seems to be continually filled with a barely audible
+hissing sound.  Ending it's southward lead, the southern wall is masterfully
+painted with a mural of a black dragon, wreaking havoc across a small secluded
+village.    
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5254
+S
+#5256
+A Sapphire Corridor~
+   This corridor is unlike any of the others in the vicinity, appearing nothing
+like the rock that they were carved from.  The corridor here is cool and dry,
+the walls having the texture of a reptile.  Several globes tinted a deep blue
+hang from the walls at regular intervals, bathing the hall in light and
+sparkling like large, glowing sapphires.  The air here seems somehow different,
+as if crisper, cooler, and perhaps a touch thinner.    
+~
+52 8 0 0 0
+D2
+~
+~
+0 0 5257
+D6
+~
+~
+0 0 11693
+S
+#5257
+A Sapphire Corridor~
+   This corridor is unlike any of the others in the vicinity, appearing nothing
+like the rock that they were carved from.  The corridor here is cool and dry,
+the walls having the texture of a reptile.  Several globes tinted a deep blue
+hang from the walls at regular intervals, bathing the hall in light and
+sparkling like large, glowing sapphires.  The air here seems somehow different,
+as if crisper, cooler, and perhaps a touch thinner.    
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5256
+D1
+~
+~
+0 0 5258
+E
+gargoyles leer ruby eyes~
+   Moss hangs from each of these stone gargoyles, which sit in the four corners
+of the ceiling.  Their faces have been carved into horrible, leering visages
+and each ones eyes have been set with rubies.  The dim light from the braziers
+reflects off their eyes making it look as if they were alive, watching..  
+Leering..    
+~
+E
+fountain ornately carved~
+   This large, obsidian fountain has been carved by skilled hands.  Rising from
+the center like some black monolith, are three figures carved from the stone of
+the fountain: A rotting corpse with a snarling, hideous goats head; A muscular
+man wearing an executioners hood; and a roiling black cloud; each set with
+small, delicate rubies for eyes.    
+~
+S
+#5258
+A Sapphire Corridor~
+   This corridor is unlike any of the others in the vicinity, appearing nothing
+like the rock that they were carved from.  The corridor here is cool and dry,
+the walls having the texture of a reptile.  Several globes tinted a deep blue
+hang from the walls at regular intervals, bathing the hall in light and
+sparkling like large, glowing sapphires.  The air here seems somehow different,
+as if crisper, cooler, and perhaps a touch thinner.  Along the walls stretch a
+magnificently painted mural of a large blue dragon, it's scales glittering as
+it perches upon a mountain pass, threatening all that pass by.    
+~
+52 8 0 0 0
+D3
+~
+~
+0 0 5257
+S
+#5259
+The Heart of the Beast~
+   The colors from the halls above swirl and merge in the confines of this
+small, hidden chamber.  Crimson, white, sapphire, onyx, and emerald swirl into
+darkness in the polished stone walls of this chamber.  At the far back corner
+lies cluttered workstation covered in things that most would prefer not to
+recognize.  A large granite desk occupies the center of the chamber, bathed in
+unholy light from some ancient relic that rests upon its surface.  Against the
+walls sit all manner of cabinets and closets, containing more remnants of the
+hideous experiments conducted here.  A large, plush bench rests against the
+east wall accompanied by a small, ornate end table thats black polished surface
+is that of a crescent.  A large prayer book rests upon the end table, a single
+strand of ebony lace marking the page.    
+~
+52 8 0 0 0
+D4
+A large sculpture cleverly conceals the path to the upper reaches.
+~
+sculpture hydra eye eyesocket passage~
+2 11604 11693
+S
+#5260
+A Small, Wilderness Trail~
+   This small trail is rather poorly kept, falling to disrepair and
+obstruction.  Brushy shrubs and small, wispy trees threaten to choke off the
+path, making travel rather difficult and slow here.  The woods off to the edges
+of the trail abound with the sounds of various animals and the droning of a
+multitude of insects.    
+~
+52 0 3 0 0
+D7
+~
+~
+0 0 5261
+D9
+~
+~
+0 0 10495
+S
+#5261
+A Small, Wilderness Trail~
+   This small trail is rather poorly kept, falling to disrepair and
+obstruction.  Brushy shrubs and small, wispy trees threaten to choke off the
+path, making travel rather difficult and slow here.  The woods off to the edges
+of the trail abound with the sounds of various animals and the droning of a
+multitude of insects.    
+~
+52 0 3 0 0
+D0
+~
+~
+0 0 5262
+D8
+~
+~
+0 0 5260
+S
+#5262
+A Small, Wilderness Trail~
+   This small trail is rather poorly kept, falling to disrepair and
+obstruction.  Brushy shrubs and small, wispy trees threaten to choke off the
+path, making travel rather difficult and slow here.  The woods off to the edges
+of the trail abound with the sounds of various animals and the droning of a
+multitude of insects.    
+~
+52 0 3 0 0
+D0
+~
+~
+0 0 5270
+D2
+~
+~
+0 0 5261
+S
+#5270
+At the Base of a Small Camp~
+   A small dirt path winds into a nearby forest.  This forest path is covered
+with small clawed prints and bits of pine comb.  Large towering pine trees
+shoot from the ground, and seem to reach into the clouds.  These trees seem to
+be cleared of all animals, and no birds can be heard chirping.  An occasional
+flying squirrel leaps tree to tree looking for something to eat.    
+~
+52 4 3 0 0
+D0
+~
+~
+0 0 5271
+D2
+~
+~
+0 0 5262
+D7
+~
+~
+0 0 -1
+E
+clawed prints small~
+   These prints are farely fresh.  The prints stick about an inch into the
+ground and appear to be demi-human in nature.  The print bares four marks and a
+wide heel.    
+~
+S
+#5271
+A Smouldering Campfire~
+   A large campfire dominates the campsite.  Large piles of branches and ash
+litter the stone hearth.  Small creatures dance around the fire, that seem to
+be in some kind of ritual.  A skull shaped emblem is imbedded in the center of
+the fire.  The path branches off in all directions from here.    
+~
+52 0 3 0 0
+D0
+~
+~
+0 0 5274
+D2
+~
+~
+0 0 5270
+D6
+~
+~
+0 0 5276
+D7
+~
+~
+0 0 5272
+D9
+~
+~
+0 0 5278
+E
+fire campfire hearth~
+   This huge campfire is made of large gray stones that form a circular
+pattern.  The strangest Every other stone seems to be gray then followed by red
+following around its base.  The fallen ash and braches that outline the hearth
+makes this seem like an alt
+~
+S
+#5272
+Before a Leather Tent~
+   A large leather tent held together with bones dominates the center of this
+campsite.  The ground around this tent has been dug into a large circle,
+resembling a pentagram.  The tent rests easily in the center of the circle.  
+Large skulls dangle from each of the tent poles.  In the center of the tent a
+flap hangs down that allows entry.    
+~
+52 0 3 0 0
+D8
+~
+~
+0 0 5271
+D9
+~
+~
+0 0 5273
+E
+leather tent~
+   This simple tent has been fashioned from strips.  Large poles made of bone
+have been planted into the ground to give this tent support.  The door of the
+tent is made of a single flap of leather, with a symbol of a skull drawn with
+blood.    
+~
+S
+#5273
+Inside a Large Tent~
+   This tent is decorated with various painting and gold tapestries.  The floor
+of the tent is covered with a large bear skin rug.  All around the tent hangs
+various animals skulls and black candles that gives off a dark essence.  A
+throne sits in the back of a tent, where the kobold Chief is busy giving off
+orders to his slaves.    
+~
+52 262156 0 0 0
+D6
+~
+~
+0 0 5272
+E
+tapestries~
+   As with the rest of this encampment, these large gold tapetries have been
+decorated with the symbol of the decaying skull.  The eyes of the skull are
+red and menacing, while a black outline etches the border, creating an aura.  
+
+~
+E
+candle candles~
+   These sinister candles are held up by bronze holders that are adorned by
+small black opals.  The bases of the holders seem to have strange inscriptions
+etched into them.  The candle itself is black, and lets out a deep, dark smell.
+  
+~
+E
+painting paintings~
+   This ornate painting seems to be painted with red and black colours with
+delicate touches of an oil brush.  This painting depicts an enormous castle
+under the siege of a huge black dragon with three heads.    
+~
+E
+throne~
+   This throne has been carved out of polished granite, that has been chisled
+with expert hands.  A sign of a skull can be noticed on the back side of the
+throne written in chalk.  Somehow this throne doesn't fit the lifestyle of a
+kobold.    
+~
+S
+#5274
+Before an Altar~
+   Deeper into the camp this road leads.  Large evergreen pine trees hang over
+the path creating a natural canopy, providing much needed shade.  The path
+itself has been kept up and rock free.  Green eyes watch you from each tree.  
+A cool refreshing breezes pass over the camp.  A large stone altar can be seen
+to the north.    
+~
+52 0 3 0 0
+D0
+~
+~
+0 0 5275
+D2
+~
+~
+0 0 5271
+E
+north altar n ~
+   From where you stand, you notice a black rock altar.  Billows of smoke rise
+from this altar.    
+~
+S
+#5275
+Standing before a Stone Altar~
+   This huge stone altar dominates the rest of this camp.  It seems to be made
+of pure black marble with niches and hole for inserting incense.  The ground
+around the altar appears to burnt, and all rock has been removed.  Also, all
+trees and other plant life are missing.  No animal or bugs sounds can be heard.
+  
+~
+52 131072 2 0 0
+D2
+~
+~
+0 0 5274
+E
+none~
+0
+~
+S
+#5276
+Before a Slave Tent~
+   A large leather tent dominates this campsite.  This leather tent has been
+decorated with strange symbols written in blood.  The ground around the tent
+has been dug up and the tent has been placed in the center of the crevice.  
+Large billows of black smoke escape from within the tents confines.    
+~
+52 0 3 0 0
+D3
+~
+~
+0 0 5277
+D9
+~
+~
+0 0 5271
+E
+tent~
+   This odd leather tent is fashioned from animals hides that have been
+patchworked together.  The straps of leather are held together by little pins
+made of bone and metal.  At the top of the tent is a smoke hole that produces
+forth an awful smell of burning flesh.    
+~
+S
+#5277
+Inside the Slave Tent~
+   A large steel cage dominates the center of this tent.  This cage is filled
+with tortued human slaves, that have been shackled to its steel bars.  The floor
+is dirty and littered with bones and other debris.  The sounds of humans can be
+heard screaming as the slave master whips another victim.    
+~
+52 12 0 0 0
+D1
+~
+~
+0 0 5276
+S
+#5278
+Before a Dark Black Tent~
+   This tent from a distnace appears to be nothing but a bleak shadow.  Large
+beads dangle from a silver spike to create a door way.  The rest of this tent
+seems to be covered, allowing no light other than the door.  The ground has
+been charred away, and dug up for the tent to rest in.    
+~
+52 0 3 0 0
+D3
+~
+~
+0 0 5279
+D6
+~
+~
+0 0 5271
+E
+tent Tent~
+   This bleak black tent seems to be covered in a substance that deflects light
+and hardens the leather.  An earie glow emits from the leather, casting a
+baneful aura around it.  A large warning sign beckons for you to read it!    
+~
+E
+sign warning danger~
+The sign reads:
+
+   Beware of my Dark Magik that I hold.  For the soul that I trap, I use as My
+power!    
+
+Signed,
+The Kobold Shaman
+~
+S
+#5279
+Inside the Darkened Tent~
+   A single black candle illuminates this tent and fills it with an odor of
+hate and decay.  Pictures of souls and demons line each wall.  The floor is
+blacked with ash and other various spell components, while a bear skin rug
+covers the rest.  An aura of hate lingers in the air.    
+~
+52 131084 0 0 0
+D1
+~
+~
+0 0 5278
+E
+demon~
+   This picture depicts a human wizard of the black robes summoning a demon to his
+side.  The mages's face seems lit by an insane desperation, as a group of
+hunters can be seen in the distance.    
+~
+E
+soul~
+   This picture shows one of the more complex spells that a mage can use.  A
+single gem lies on a counter of the shelf in this picture.  Inside the gem a
+soul of a prince can be seen, wondering around lost in a maze.    
+~
+S
+#5280
+REUSE ME~
+   Uneven natural stone makes up the ceiling and walls here.  The floor of
+looks to have been smoothed by water erosion and make travel through the cavern
+fairly easy.  Small crevices in the wall seem to made home to many rodents and
+insects.  Clumps of moss clinging to the walls glow, giving off light to see
+by.  To the northwest and east the cavern continues.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5281
+D6
+~
+~
+0 0 11294
+D7
+~
+~
+0 0 -1
+S
+#5281
+REUSE ME~
+   Uneven natural stone makes up the ceiling and walls here.  The floor of
+looks to have been smoothed by water erosion and make travel through the cavern
+fairly easy.  Small crevices in the wall seem to made home to many rodents and
+insects.  Clumps of moss clinging to the walls glow, giving off light to see
+by.  To the west and southeast the cavern continues.    
+~
+52 8 0 0 0
+D3
+~
+~
+0 0 5280
+D9
+~
+~
+0 0 5282
+S
+#5282
+REUSE ME~
+   Uneven natural stone makes up the ceiling and walls here.  The floor of
+looks to have been smoothed by water erosion and make travel through the cavern
+fairly easy.  Small crevices in the wall seem to made home to many rodents and
+insects.  Clumps of moss clinging to the walls glow, giving off light to see
+by.  To the northwest and southeast the cavern continues.    
+~
+52 8 0 0 0
+D6
+~
+~
+0 0 5281
+D9
+~
+~
+0 0 5283
+S
+#5283
+REUSE ME~
+   Uneven natural stone makes up the ceiling and walls here.  The floor of
+looks to have been smoothed by water erosion and make travel through the cavern
+fairly easy.  Small crevices in the wall seem to made home to many rodents and
+insects.  Clumps of moss clinging to the walls glow, giving off light to see
+by.  To the northwest and east the cavern continues.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5284
+D3
+~
+~
+0 0 -1
+D6
+~
+~
+0 0 5282
+S
+#5284
+REUSE ME~
+   Uneven natural stone makes up the ceiling and walls here.  The floor of
+looks to have been smoothed by water erosion and make travel through the cavern
+fairly easy.  Small crevices in the wall seem to made home to many rodents and
+insects.  Clumps of moss clinging to the walls glow, giving off light to see
+by.  The tunnel ends aburptly and the only way leads west.    
+~
+52 8 0 0 0
+D2
+   A large slab is either been weathered or made to look like part of the
+southern wall.  It seems to almost be too large for one person to manuever.  A
+thin crevice along the one side of the slab would allow you to get a good grip
+on it.    
+~
+slab crevice~
+1 0 5285
+D3
+~
+~
+0 0 5283
+S
+#5285
+Merchant's Tradepost Post Office~
+   This large room has been added on to the tradepost, looking as though it was
+an afterthought.  A long wooden counter seperates the room, and behind it is an
+entire wall filled with labeled shelves and boxes.  Piles of mail and packages
+litter the counter and fill the shelves, overflowing from the boxes as well.  
+It makes one wonder if the mail truly gets delivered, or if they just take it
+and toss it in a box somewhere.  A courier stands just outside, waiting to take
+important letters to their destination.    
+~
+52 12 0 0 0
+D2
+~
+~
+0 0 5294
+S
+#5286
+A Storage Closet~
+   This very small room is a storage closet for the tradeposts cleaning
+supplies and tools.  Someone has left a wet mop lying in a corner to moulder,
+creating a foul smell that seems to cling to everything in this warm, humid
+little room.  A small metal drain placed into the floor lets water escape,
+though the smell of mold emanates from there as well.    
+~
+52 8 0 0 0
+D3
+A wooden door.
+~
+door~
+1 0 5288
+S
+#5287
+The Kitchen~
+   This large, wonderful smelling room is the Tradepost kitchen.  The room is
+filled from one end to the other with all manner of cookware and food supplies,
+and several ovens and stoves can be seen.  Several cooks run here and there,
+checking on the various dishes in preparation.  A long window is set into the
+west wall where finished meals are set, waiting to be served to hungry
+travellers.    
+~
+52 8 0 0 0
+D1
+A wooden door.
+~
+door~
+1 0 5288
+S
+#5288
+The Back Hallway~
+   This hallway is rather sparse, and it is obviously not meant for the average
+traveller but for those who work in the tradepost.  The smell of roasting meats
+and other delicious victuals wafts from the door on the left side of the hall,
+quickly contrasted by the smell of cleaning agents and mold from the right
+side.  A door at the end of this hallway appears to lead outside, to the rear
+of the tradepost.    
+~
+52 8 0 0 0
+D0
+A wooden door, warped from age and humidity.
+~
+door~
+1 0 5289
+D1
+A wooden door.
+~
+door~
+1 0 5286
+D2
+~
+~
+0 0 5292
+D3
+A wooden door.
+~
+door~
+1 0 5287
+S
+#5289
+The Tradepost Refuse Dump~
+   You have entered the rear of the tradepost, much to your regret.  This area
+is obviously used to dispose of everthing from kitchen scraps and smashed
+crockery, to broken and useless trade items.  Most of this mess has been lying
+out in the sun to bake, making the already horrendous smell that much worse.  
+It's likely a good idea to dispose of whatever it is you've come here to get
+rid of and then leave.    
+~
+52 4 2 0 1
+D2
+A wooden door.
+~
+door~
+1 0 5288
+S
+#5290
+Merchant's Tradepost Road~
+   The road here is wide enough for a few merchant's wagons to travel side by
+side as they enter the Tradepost's wagonyard to the northeast.  The road itself
+is rather rough from the constant traffic, and deep wheel ruts can be seen in
+places.  To the north is a small courtyard where weary travelers can stop to
+rest.    
+~
+52 4 2 0 0
+D0
+~
+~
+0 0 5291
+D7
+~
+~
+0 0 5296
+D8
+~
+~
+0 0 7213
+S
+#5291
+Merchant's Tradepost Courtyard~
+   This small courtyard area serves as a resting place for weary travelers and
+millworkers coming in from the Merchant's Highway, though most seem to be
+heading towards the weathered looking building to the north.  A large dusty
+sign with chipped paint hangs from a post outside the entrance.    
+~
+52 0 1 0 0
+D0
+~
+~
+0 0 5292
+D1
+~
+~
+0 0 5296
+D2
+~
+~
+0 0 5290
+E
+sign chipped post dusty paint~
+   A large paint-chipped sign swings gently in the breeze here, faded and
+dusty.  You can just barely make out the words 'Merchant's Highway Tradepost'
+in faded black lettering.    
+~
+S
+#5292
+Merchant's Tradepost Inn~
+   This is the main entrance to the Merchant's Tradepost, and also where
+travelers and merchants pay to rent a room for the night.  A small set of
+stairs next to the counter lead up to the guest and meeting rooms.  The floor
+of this small room is covered in dirt and grime from travelers constantly
+coming and going.  Sounds of laughter and the smell of roasting meat come from
+the room to the west, and a small sign at the counter directs you to the
+tradepost to the east.    
+~
+52 8 0 0 0
+D0
+~
+~
+0 0 5288
+D1
+~
+~
+0 0 5293
+D2
+~
+~
+0 0 5291
+D3
+~
+~
+0 0 5295
+D4
+~
+~
+0 0 5297
+S
+#5293
+Merchant's Tradepost~
+   Originally built by an old trader named Ike, this small tradepost was for
+the merchants who traveled this stretch of highway, offering a place where they
+might stop to rest and trade wares before continuing on their long journey.  
+The increased traffic along the highway and the close proximity of the
+millworkers camp to the southwest has made this spot ideal for all sorts of
+trade, offering a myriad selection of items in his tradepost at any time.  A
+door lies to the east, leading out into the wagonyard and also the tradepost's
+post office.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5294
+D3
+~
+~
+0 0 5292
+S
+#5294
+Merchant's Tradepost Wagonyard~
+   This part of the wagonyard is used by merchants loading or unloading items
+for trade at the tradepost.  A long, wooden plank has been laid out from the
+tradepost's doorway to keep merchants from losing their footing in the mud and
+crisscrossing wheel ruts as the come and go from the shop to the west.  The
+Tradepost Post Office lies to the north, newly added.    
+~
+52 0 1 0 0
+D0
+~
+~
+0 0 5285
+D2
+~
+~
+0 0 5296
+D3
+~
+~
+0 0 5293
+S
+#5295
+Merchant's Tradepost Taproom~
+   The smell of roasted meat and cheap ale assaults your senses as you enter
+this well-lit taproom.  Many different visitors can be seen amongst the tables,
+including a small group of millworkers playing at dice and enjoying a round of
+drinks.  A huge, dark skinned man stands behind a cherry-stained counter
+running the length of the west wall, keeping an eye on the taproom.    
+~
+52 8 0 0 0
+D1
+~
+~
+0 0 5292
+S
+#5296
+Merchant's Tradepost Wagonyard~
+   This area is used as a wagonyard by merchants passing through or staying at
+the Tradepost.  The entire area is filled with deep wheel ruts, and remains
+muddy in places from constant traffic and the occasional rain.  Ike, the
+tradeposts owner, has hired his own guards to keep watch over visiting
+merchants cargo.  The wagonyard continues to the north.    
+~
+52 0 1 0 0
+D0
+~
+~
+0 0 5294
+D3
+~
+~
+0 0 5291
+D8
+~
+~
+0 0 5290
+S
+#5297
+A Small Hallway~
+   This small hallway is lit by low-burning torches attached to the walls on
+either side, and is for the most part plain and unadorned.  Two doors stand
+here opposite one another, each with a small placard hanging by a nail.    
+~
+52 8 0 0 0
+D1
+~
+door~
+1 0 5298
+D3
+~
+door~
+1 5241 5299
+D5
+~
+~
+0 0 5292
+E
+placard nail~
+   A small white placard hangs from a nail in the door here.  On one side it
+reads 'Vacant, and the other 'Occupied'.    
+~
+S
+#5298
+Merchant's Tradepost Meeting Room~
+   This room is used by passing merchants and travelers as a meeting room, and
+is very plain looking.  In the center of the room is a large, wooden table with
+eight high-backed chairs circling it.  At the back of the room is a large,
+stone fireplace fully stocked with logs to keep anyone using this room warm in
+the winter months.    
+~
+52 8 0 0 0
+D3
+~
+door~
+1 0 5297
+S
+#5299
+Merchant's Tradepost Meeting Room~
+   This room is reserved for passing merchants specifically, and is kept in
+good condition by Gadan, the dwarven Innkeeper.  A few bearskin rugs are laid
+out along the floor, and a large liquor cabinet lies against the north wall.  
+At the back of the room, a huge stone fireplace is well stocked with logs to
+keep those meeting in the winter months warm.    
+~
+52 25165832 0 0 0
+D1
+~
+door~
+1 5241 5297
+E
+fireplace stone logs~
+   This huge fireplace is constructed of grey, snug-fitting stonework and is
+blackened in the back from past use.  It is fully stocked with logs, ready for
+the next group of merchants.    
+~
+E
+cabinet liquor~
+   This large cabinet houses a stock of fine liquor for travelling merchants
+who reserve this meeting room.  The cabinet itself is constructed of
+fine-quality oak, and has frosted glass windows.    
+~
+S
+$~

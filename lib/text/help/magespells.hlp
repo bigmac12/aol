@@ -1,0 +1,695 @@
+"SPELL MAGIC MISSILE"
+
+  Usage: cast magic-missile <target>
+  Save : none
+
+  This spell will hurl several magical missiles of force at the designated
+target, causing a small amount of damage.  The number of missiles is
+proportional to the caster's level.  The missiles will strike the target
+unerringly, unless he or she is protected by a shield spell or otherwise
+resistant to damage.
+
+#
+"SPELL DETECT MAGIC"
+
+  Usage: cast detect-magic
+
+  This spell will allow the caster to detect magical auras present in
+objects.
+
+#
+"SPELL ARMOR"
+
+  Usage: cast armor <target>
+
+  This spell will encase the target in a protective field of armor,
+temporarily making him or her harder to hit.
+
+#
+"SPELL MAGIC LIGHT"
+
+  Usage: cast magic-light
+
+  This spell will cause the caster to begin glowing with a faint aura,
+lighting up the area around him or her.
+
+#
+"SPELL SHIELD"
+
+  Usage: cast shield <target>
+
+  This spell will encase the target in a magical shield, temporarily
+increasing his or her resistance to spells.  This spell will also cause
+magical missiles hurled at the targets to miss.
+
+#
+"SPELL CHILL TOUCH"
+
+  Usage: cast chill-touch <target>
+  Save : for half
+
+  This spell will chill the intended victim, doing a minor amount of damage
+and possibly lowering his or her strength.
+
+#
+"SPELL WEB"
+
+  Usage: cast web <target>
+  Save : to negate
+
+  This spell will encase the target in thick webs, preventing him or her
+from leaving the room until the webs decay.
+
+#
+"SPELL BLUR"
+
+  Usage: cast blur <target>
+
+  This spell will blur the victim's body, making him or her harder to hit.
+
+#
+"SPELL BURNING HANDS"
+
+  Usage: cast burning-hands <target>
+  Save : for half
+
+  This spell will shoot a jet of flames at the intended victim, burning him
+or her.
+
+#
+"SPELL INFRAVISION"
+
+  Usage: cast infravision
+
+  This spell will embue the caster with enhanced night vision, allowing him
+or her to see in the dark.  Note that this spell has no effect for characters
+who already possess natural infravision.
+
+#
+"SPELL DETECT INVISIBILITY"
+
+  Usage: cast detect-invisibility
+
+  This spell will allow the caster to see all invisible objects, and will
+reveal to the caster all invisible or otherwise concealed persons within
+the room (with the exception of any possible immortals, of course).
+
+#
+"SPELL MIRROR IMAGE"
+
+  Usage: cast mirror-image
+
+  This spell will surround the caster with a ahimmering array of images.
+Each attack aimed at the caster has a chance of hitting an image, shattering
+it but protecting the caster from harm.
+
+#
+"SPELL SHOCKING GRASP"
+
+  Usage: cast shocking-grasp <victim>
+  Save : for half
+
+  This spell will shock the intended victim, inflicting a moderate amount of
+damage.
+
+#
+"SPELL INVISIBILITY"
+
+  Usage: cast invisibility <target>
+
+  This spell will make the target invisible, and will render him or her
+undetectable to those who cannot detect invisible beings.
+
+#
+"SPELL STRENGTH"
+
+  Usage: cast strength <target>
+
+  This spell will temporarily increase the target's strength, allowing him
+or her to carry heavier items and hit better and harder in combat.
+
+#
+"SPELL GUST OF WIND"
+
+  Usage: cast gust-of-wind <target>
+  Save : to negate
+
+  This spell will blow the target out of the room if he or she fails their
+saving throw.  This spell will even blow the target out of combat, but the
+direction that they are moved is completely random.
+
+#
+"SPELL WEAKNESS"
+
+  Usage: cast weakness <victim>
+  Save : to negate
+
+  This spell will weaken the target, lowering his or her strength.
+
+#
+"SPELL DISPEL MAGIC"
+
+  Usage: cast dispel-magic <target>
+
+  This spell will unaffect many spells from the target character, of both
+beneficial and harmful types.  Not all spells are affected by dispel magic -
+only through trial, error, and research can it be determined which spells
+can be dispelled and which cannot.
+
+#
+"SPELL LOCATE OBJECT"
+
+  Usage: cast locate-object <object>
+
+  This spell will locate one particular object in the world, and give the
+caster a vision of the room where that object happens to be, whether lying
+in the room, within another object, or even carried or worn by another
+player.  Note that if there are multiple objects with the same set of
+keywords, this will locate the first one.  Certain locations will cause
+this spell to fail.
+
+#
+"SPELL LIGHTNING BOLT"
+
+  Usage: cast lightning-bolt <victim>
+  Save : for half
+
+  Upon casting this spell, the caster hurls a bolt of lightning at the
+intended target, causing a great deal of damage.
+
+#
+"SPELL FLIGHT"
+
+  Usage: cast flight <target>
+
+  This spell will cause the target to fly, allowing him or her to enter into
+certain places where flight is necessary for travel.
+
+#
+"SPELL SILENCE"
+
+  Usage: cast silence <victim>
+  Save : to negate
+
+  This spell will silence the intended victim, preventing any speech or
+spellcasting until the spell wears off.  Use of emotes as a method of
+talking to 'get around' the silence spell will be considered an RP
+violation - if your character is silenced, he or she must act like it.
+
+#
+"SPELL ENCHANT WEAPON"
+
+  Usage: cast enchant-weapon <weapon>
+
+  This spell will enchant the targetted weapon, increasing its ability to
+strike an opponent in combat and the damage it does.  This enchantment is
+a permanent one, and there is no known way to dispel it except for the
+destruction of the item in question.
+
+#
+"SPELL WATER BREATHING"
+
+  Usage: cast water-breathing <target>
+
+  This spell will allow the target to breathe underwater, which is useful
+(and necessary) to access certain places.
+
+#
+"SPELL IDENTIFY"
+
+  Usage: cast identify <item>
+
+  This spell will identify one particular item of the caster's choice.  This
+will give the caster a rough approximation of what the item does, but is by
+no means exact, and identify spells are known for missing important facets
+of certain items.
+
+  See also: "SPELL LEGEND LORE"
+
+#
+"SPELL MINOR GLOBE"
+
+  Usage: cast minor-globe
+
+  This spell will encase the caster in a minor globe of invulnerability,
+preventing any low-level offensive spells from directly damaging him or her.
+Note that this protection does not extend to nearby beings, this does not
+affect spells that do not do damage (such as blindness), and the caster's
+spells are in no way impeded by this spell.
+
+#
+"SPELL HASTE"
+
+  Usage: cast haste <target>
+
+  This spell will speed up the intended target, giving him or her a random
+chance for an extra attack every round.  This spell will not decrease any
+lag caused by the use of spells or skills.
+
+#
+"SPELL VAMPIRIC TOUCH"
+
+  Usage: cast vampiric-touch <victim>
+  Save : for half
+
+  This spell will attempt to drain the life force of the intended victim.  A
+successful use of this spell, if the target fails his or her save, will steal
+some of the victim's life and heal the caster by a similar amount.  If the
+saving throw is successful, the target still takes half damage, but the
+caster will gain no life from that casting.
+
+#
+"SPELL CHARM PERSON"
+
+  Usage: cast charm-person <victim>
+  Save : to negate
+
+  If this spell is successful, the intended victim will follow the orders of
+the spellcaster for the spell's duration.  Note that certain mobiles are
+immune to this spell, and the caster and the victim's respective levels play
+a large part in the success of this spell.
+
+#
+"SPELL DANCING SWORD"
+
+  Usage: cast dancing-sword
+
+  This spell will cause a magical sword to appear near the caster's head.
+The sword will aid the caster in combat by attacking the caster's intended
+victim.
+
+#
+"SPELL SLOW"
+
+  Usage: cast slow <victim>
+
+  This spell will slow the intended victim, causing his or her attacks to be
+sluggish.  There is a good chance that each attack by the victim will simply
+be so slow that the person they happen to be attacking can easily ignore
+that particular attack.
+
+#
+"SPELL FIREBALL"
+
+  Usage: cast fireball <victim>
+  Save : for half
+
+  Upon completion of this spell, the caster throws a large ball of fire,
+which hits the victim and explodes, causing a large amount of damage.
+ 
+#
+"SPELL SLEEP"
+
+  Usage: cast sleep <victim>
+  Save : to negate
+
+  If this spell is successful, the victim will immediately drop into a deep
+sleep.  The victim cannot be awakened until either they are attacked or the
+spell wears off.
+
+#
+"SPELL TELEPORT"
+
+  Usage: cast teleport <target>
+
+  This spell will cause the casting mage to teleport to the location of the
+target.  If the caster knows the target's name, there is a small chance that
+he or she will fail the teleport and end up in some random location.  If the
+caster does not know the target's name, the chance of error is much larger,
+and there is a chance that that caster will teleport into solid matter,
+killing him or her instantly.
+
+  Note that 'knowing the target's name' means having their intro.  Without
+having the target's intro, the risks are greater than many mages would take,
+except in the direst of circumstances.
+
+#
+"SPELL STONESKIN"
+
+  Usage: cast stoneskin <target>
+
+  This spell will cause the target's skin to take on the hardness of stone,
+making it very hard to cut.  As a result, the target takes much less damage
+from any edged weapons.  Blunt weapons will still have their normal affects.
+Note that because of the magical energies involved, this spell is not
+cumulative with the protection offered by sanctuary.
+
+#
+"SPELL TELEPORT OBJECT"
+
+  Usage: cast teleport-object <object> <player>
+
+  This spell will teleport the target object to the target player.  This is
+not the wisest way to transport valuable objects, as there is a chance that
+the object will be mis-teleported or even destroyed in the attempt, but it
+is a good way to teleport items in an emergency situation, or even to aid a
+starving friend.
+
+#
+"SPELL CHAIN LIGHTNING"
+
+  Usage: cast chain-lightning
+
+  This spell will cause chains of lightning to emit from the caster.  These
+chains will hit anything not grouped with the caster.  The damage taken per
+link of this spell decreases, but with a limited number of targets the damage
+potential of this spell can be devastating.
+
+#
+"SPELL SCRY"
+
+  Usage: cast scry <target>
+
+  This spell will show the caster the location and general environs of the
+target of this spell, as if he or she was in the target's room and used the
+'look' command.  Note that the target may easily be in an area that the
+caster will not immediately recognize.  The caster does not require the
+target's introduction to cast this spell.
+
+#
+"SPELL CONJURE ELEMENTAL"
+
+  Usage: cast conjure-elemental
+
+  This spell will conjure an elemental from one of the four elemental planes -
+earth, air, water, and fire.  Each elemental has slightly different abilities,
+but all are useful in combat and will serve the caster for the spell's
+duration, at which point they return to their home plane.
+
+#
+"SPELL MAJOR GLOBE"
+
+  Usage: cast major-globe
+
+  This spell will encase the caster in a major globe of invulnerability.  This
+is very similar to a minor globe of invulnerability, but protects the caster
+against higher level spells.  The same restrictions apply to a major globe
+that do to a minor globe.
+
+  See also: "SPELL MINOR GLOBE"
+
+#
+"SPELL BLINK"
+
+  Usage: cast blink
+
+  Upon casting this spell, the caster will begin to blink out of existance.
+This makes it rather difficult for him to be struck by physical attacks, and
+there is a random chance that any such attack on the caster will miss for
+the spell's duration.
+
+#
+"SPELL ARROW OF BONE"
+
+  Usage: cast arrow-of-bone <victim>
+  Save : special (see below)
+
+  When this spell is cast, an arrow shoots out and sticks into the target, who
+is allowed a saving throw, as normal.  If the saving throw is successful, the
+target is slowed and takes half damage from the spell.
+
+  However, if the saving throw is failed, the target not only suffers full
+damage from the spell, but is also paralyzed, with all the normal effects 
+of such.  Upon failing the first saving throw, the target is not allowed an
+additional saving throw to avoid the paralysis effect.
+
+  See also: "SPELL SLOW", "SPELL PARALYZE".
+
+#
+"SPELL FIRE SHIELD"
+
+  Usage: cast fire-shield
+
+  This spell surrounds the caster with a shield of fire.  Anyone who manages
+to physically damage the caster will damage themselves in the process,
+although the attacker will take less damage than the caster does.  The fiery
+aura radiated by this spell cannot be combined with the white aura of any
+form of sanctuary, and trying to combine a thornshield with a shield of fire
+would simply burn it away.
+
+#
+"SPELL FREE ACTION"
+
+  Usage: cast free-action <target>
+
+  This potent enchantment will protect the affected victim from most forms of
+magical paralysis, such as paralyze and hold person.  There are certain forms
+of paralysis that this spell will not prevent, but most of those are quite
+potent spells indeed.
+
+#
+"SPELL STATUE"
+
+  Usage: cast statue
+
+  This spell will turn the caster into a stone statue.  He or she will be
+unable to cast, move, look, fight, or execute any other command while under
+the influence of this spell, but will be completely immune to damage.  To end
+this spell, the caster must type the word 'break', or wait for the spell to
+wear off.
+
+#
+"SPELL CONE OF COLD"
+
+  Usage: cast cone-of-cold <victim>
+  Save : for half
+
+  This spell will strike the target with a blast of searing cold.  If the 
+target fails the saving throw, in addition to taking normal damage he or she
+is slowed.  A saving throw negates the slow effect and reduces damage to half
+normal.
+
+  See also: "SPELL SLOW"
+
+#
+"SPELL BLACKMANTLE"
+
+  Usage: cast blackmantle <victim>
+  Save : special (see below)
+
+  If this spell is successful, any healing magicks on the intended target
+will have a greatly lessened effect.  The target is allowed two saving throws
+against this spell - if both succeed, the spell has full effect, but if only
+one succeeds, the spell has a duration of half normal.  The caster has no way
+of knowing how long the spell will last.
+
+#
+"SPELL MAGICAL SUSCEPTABILITY"
+
+  Usage: cast magical-suscept <victim>
+  Save : to negate
+
+  Designed to reduce a target's resistance to magic, if this spell succeeds,
+the victim will find him or herself a small bit less likely to make any saving
+throw he or she is required to.  However, this spell is not an enchantment at
+all, but a curse.  A target who fails his or her saving throw will also find
+that the spell is permanent, and will remain with them until they can find
+someone to remove this most potent spell for them.  This spell is cumulative
+with itself in effect - the more cursed a target becomes, a worse their saves
+will become.
+
+#
+"SPELL ANTIMAGIC AURA"
+
+  Usage: cast antimagic-aura <victim>
+
+  This spell will prevent the target from casting anything for the duration
+of the spell.  Unlike the silence spell, however, the victim is still able
+to speak, and can converse normally.
+
+#
+"SPELL PRISMATIC SPRAY"
+
+  Usage: cast prismatic-spray <victim>
+  Save : special (see below)
+
+  When this spell is cast, a spray of all of the colors of the rainbow shoots
+out towards the victim.  This spray causes a significant amount of damage, to
+be sure, but it also forces the victim to make several saving throws for other
+abnormal status affects.  There is also a save for half damage.
+
+#
+"SPELL DECEPTIVE IMAGERY"
+
+  Usage: cast deceptive-imagery
+
+  This spell is a combination of blink and mirror image.  Much like mirror
+image, the caster calls into existance a number of images of him or herself.
+However, the actual location of the caster shifts from round to round, and
+whenever any image is struck, there is a chance that instead of shattering,
+it blinks away to a new location.
+
+  See also: "SPELL BLINK", "SPELL MIRROR IMAGE"
+
+#
+"SPELL LEGEND LORE"
+
+  Usage: cast legend-lore <item>
+
+  Much like the identify spell, this spell will tell the casting magi much
+about a target item.  However, legend lore is a much more powerful spell than
+identify, and will tell the caster such things as exact charges and other
+affects, as well as giving a much closer estimate for damage and armor class.
+
+  See also: "SPELL IDENTIFY"
+
+#
+"SPELL MASS CHARM"
+
+  Usage: cast mass-charm
+  Save : to negate
+
+  This spell is much like charm person, except that it affects every character
+in the room except the caster.  Being that the caster is attempting to gain
+control of multiple beings at one time, the levels of the victims and the
+caster have a much larger effect than with the original charm spell.
+
+  See also: "SPELL CHARM PERSON"
+
+#
+"SPELL CRIPPLE"
+
+  Usage: cast cripple <victim>
+  Save : to negate
+
+  This spell will alter the muscles and bones in the target's legs, causing
+them to become very weak.  The victim will be unable to stand nor to take any
+action which requires standing until the spell duration expires.
+
+#
+"SPELL ENERGY DRAIN"
+
+  Usage: cast energy-drain <victim>
+  Save : special (see below)
+
+  One of the most feared spells of the black robes, this powerful invocation
+sucks the life right out of its victim.  If the victim fails his or her saving
+throw, they not only take full damage from the spell, but also lose an amount
+of experience proportional to their level - this is modified by the caster and
+victim's levels only if the caster is attempting to drain someone stronger
+than he or she is.  The damage caused by this spell is great, and the caster
+gains a large amount of that damage back as hitpoints, whether the victim
+failed his saving throw or not.  Note that the experience is lost before any
+damage is taken - thus, the poor victim may lose a level's worth of exp only
+to die to the damage and lose even more.
+
+#
+"SPELL METEOR SWARM"
+
+  Usage: cast meteor-swarm
+  Save : for half
+
+  This spell causes a swarm of meteors to fly out from the sky and from the
+caster's hand, slamming into anyone in the room not grouped with the caster
+and causing a great deal of damage to all present.
+
+#
+"SPELL GREATER ELEMENTAL"
+
+  Usage: cast greater-elemental
+
+  This spell is an improved version of the conjure elemental spell in that
+the elementals summoned are much stronger than normal elementals.  It is
+otherwise functionally identical.
+
+  See also: "SPELL CONJURE ELEMENTAL"
+
+#
+"SPELL PHANTASMAL SNAKE"
+
+  Usage: cast phantasmal-snake
+
+  When this spell is cast, a phantasm of a snake will come into existance
+near the caster.  This snake will attack every round when the caster does,
+and in addition to doing damage has a chance to inflict negative status
+effects on the victim.
+
+#
+"SPELL RECHARGE ITEM"
+
+  Usage: cast recharge-item <item>
+
+  This spell will attempt to place charges back into a magical item.  This
+is an exceptionally risky spell to cast, for there is a chance for each
+failed recharge attempt that the item will be rendered useless, causing a
+small explosion that will minorly damage the caster.  Much worse is the chance
+of overloading a magical item by attempting to charge it when it is already
+close to being full, which can result in a large explosion that can do an
+enormous amount of damage to the caster, in addition to destroying the item.
+The chance of recharging an item is much less if the item has no magical
+power left in it - there is nothing left to regrow, per se - and the chance
+of ruining an item in such an attempt is much higher than normal.  Obviously,
+this spell can only be used on the magical items that contain charges, wands
+and staves - an attempt to recharge any other type of item would be fruitless.
+
+#
+"SPELL SPELL TURNING"
+
+  Usage: cast spell-turning
+
+  Casting this spell allows the caster to 'turn' oncoming offensive spells
+back upon their casters.  Each incoming spell that does damage is instantly
+turned back upon the caster of that spell with full effect.  For the types
+of spells that can be turned by this spell, see the description of minor
+globe, but spell turning can turn spells of any spell level.  Each spell
+turned reduces the duration of the spell turning - hence, each casting can
+only reflect so many spells.  What would happen if a caster protected by
+spell turning were to cast a spell on another caster protected by this
+spell is an event that is as of yet undocumented.
+
+  See also: "SPELL MINOR GLOBE"
+
+#
+"SPELL RECOLLECTION"
+
+  Usage: cast recollection
+
+  The casting of the spell of recollection allows the caster to exchange
+certain spells in his or her memory for other spells of the same level that
+he or she knows, using the exchange command.  It would be possible to exchange
+a fireball for a teleport, for instance, since these are both level five
+spells.  However, this spell's duration is very limited, and the number of
+spell levels that can be exchanged per casting is also limited.
+
+  See also: EXCHANGE
+#
+"SPELL POWER WORD KILL"
+ 
+  Usage: cast power-word-kill
+ 
+   The ultimate weapon for the combat mage. Upon uttering the power word,
+the target will suffer an incredible lash of death energy. Even if the
+hapless victim survives, he or she (or it!) will undoubtedly be worse for
+the wear.
+ 
+#
+"SPELL VAMPIRIC AURA"
+
+  Usage: cast vampiric-aura
+
+  Upon casting this spell, the casting mage becomes surrounded by a black aura
+which oozes out from his or her body.  For the duration of the spell, any
+physical combat damage done by the caster with his or her weaponry is gained
+back as hitpoints, healing the caster up to his or her normal maximum.  Only
+weapon attacks have this effect - not spell damage.
+
+#
+"SPELL POLYMORPH"
+
+Polymorph changes your physique into either cat, wolf, bird, bear or
+rabbit. Which form your body will morph into depends slightly on your
+level. Each creature has certain attributes/ abilities, such as being able
+to fly, see in the dark, and such. When you are in this form, you will be
+not be able to cast spells, or wear clothings/ equipments.
+
+See also : REVEAL
+#
+"SPELL REVEAL ILLUSION"
+
+Usage : c reveal-illusion <target> 
+
+This spell enables the caster to see the true form of the target, should
+they be cloaked in illusions. This is helpful in seeing through characters
+masquerading in the form of creatures such as cats, wolves, bears and the like. 
+#
+$

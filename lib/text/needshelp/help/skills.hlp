@@ -1,0 +1,377 @@
+HIDE
+
+This skill is for certain classes only.
+
+When you type hide there is a chance that you hide in the room.  If hidden
+you can be sensed by the sense life spell, or also by anyone who can detect
+invisible persons.  Hide is broken by pressing return, regardless of whether
+you typed a command or not.
+
+Example:
+
+  > hide
+  Ok.
+  >  (you wait for ex. 5 mins and remain hidden for 5 mins)
+
+  >  (You pressed enter and no longer hide)
+
+See also: SNEAK
+#
+KICK
+
+This skill is for certain classes only.
+
+Usage: kick <victim>
+
+The success of a kick depends upon how well you are learned.  The higher
+level you reach the harder you kick.  There is one small catch -- whenever
+you kick (or miss) you will be unable to type any command for three 
+rounds of 'Violence' -- so be sure that you do not need to flee!
+
+See also: BASH, RESCUE
+#
+"PICK LOCKS" PICK
+
+This skill is only usable by Rogues.
+
+Usage: pick <lock name> [direction]
+
+For picking locks.  Not all locks can be picked.
+
+Examples:
+
+  > pick door south
+  > pick safe
+
+See Also : OPEN, CLOSE, LOCK, UNLOCK
+#
+RESCUE
+
+Warrior classes only.
+
+Usage: rescue <victim>
+
+This command is useful if you want to try and make an attacker hit you
+instead of your poor friend who is being pummeled.  You can only 'turn'
+one monster for each rescue attempt.  This is very useful when playing
+in groups, of course.
+
+Example:
+
+  > rescue Yaina
+#
+SNEAK
+
+Only certain classes have the sneak skill.
+
+Usage: sneak
+
+Used for sneaking (moving in and out of rooms without anyone taking notice).
+When you type sneak, there is no way to know if you're actually sneaking.
+If you successfully sneak, then you'll continue to sneak for a little while.
+
+See also: HIDE
+#
+STEAL
+
+Only Rogues gain this skill.
+
+Usage: steal <item> <victim>
+
+Use steal to steal gold or items from people.  The chance of not getting
+caught depends on how well you have practiced steal, and if the person
+is asleep.
+
+Examples:
+
+  > steal gold drunk
+  > steal sword mercenary
+    (If it's wielded, only possible if he is sleeping)
+
+See also: FLAGS
+#
+TRACK
+
+Usage: track <victim>
+
+Used for finding the first step on the shortest route to a mobile or player.
+
+Example:
+
+  > track horse
+  You sense a trail south from here!
+#
+ASSESS "ASSESS MAGIC"
+
+Usage: assess <item>
+
+Assess
+Gives a general word description of the AC of equipment, or damage of a weapon.
+
+Assess Magic
+Gives a general word description of the charges remaining in magical items.
+
+Example:
+
+	> assess sword
+  	> assess wand
+#
+BACKSTAB
+
+Only Rogues gain use of this skill.
+
+Usage: backstab <victim>
+
+Multiplies damage on first strike if successful. 
+
+Example:
+
+	> backstab chemosh
+  
+#
+BANDAGE
+
+Usage: bandage <victim>
+
+Priests who possess the bandage skill are able to stabilize a mortally
+wounded character - This is particularly handy if said priest happens to
+have no healing spells left memorized to aid the poor soul.
+
+Example:
+
+	> bandage chemosh
+  
+#
+BASH
+
+Only fighter-type classes will gain this skill.
+
+Usage: bash <vitcim>
+
+Attempts to knock the victim down.  Note that if the victim is not knocked
+down, the basher very well might be instead!
+
+Example:
+
+	> bash chemosh
+  
+#
+BREW
+
+(This command is temporarily disabled.)
+
+Usage: brew <item>
+
+Enables the character to make potions, providing they know the spells they
+wish to brew a potion for and possess the necessary components.
+
+Example:
+
+	> brew 
+
+#
+CONTROL UNDEAD
+
+Usage: control <victim>
+
+If successful, undead mobs become 'charmed' and follow the controlling
+priest.  If unsuccessful, the mobs will become quite angry with the caster
+instead.
+
+Example:
+
+	> control zombie 
+  
+#
+FIND TRAPS
+
+(Currently disabled due to the lack of traps.)
+
+Usage: find
+
+If successful, shows all traps that are in room.
+
+See also: DISABLE 
+#
+DISABLE TRAPS
+
+(Currently disabled due to the lack of traps.)
+
+Usage: disable <trap>
+
+If successful, this spell will disarm the specified trap, but be
+forewarned that failure to disable the trap may set it off instead!
+
+Example:  
+
+	> disable fire
+
+See also: DETECT FIND
+#
+DISARM
+
+This is a skill for fighter classes.
+
+Usage: disarm <victim>
+
+If successful, knocks weapon from opponent's hand.
+
+Example:  
+
+	> disarm chemosh 
+
+#
+DISGUISE
+
+(This skill has been disabled.)
+
+#
+DODGE
+
+Usage: automatic
+
+If successful, prevents all damage from one attack.
+
+#
+DUAL WIELD
+
+Usage: automatic once practiced
+
+Allows the use of two weapons for attacking.  Any weapon being
+<held> by the one with this skill will be used to attack in
+addition to the weapon being wielded.
+
+#
+ENVENOM
+
+This is a skill for Rogues.
+
+Usage: envenom
+
+This skill will coat the Rogue's weapon with poison until the skill
+effect ends, the Rogue removes the weapon, or the Rogue first attacks
+someone with the weapon.  If the skill is used successfully, the Rogue's
+target will become violently ill - However, if the weapon was poisoned
+in a poor manner, the rogue may become poisoned instead of the victim.
+
+#
+GUARD
+
+Usage: guard <victim>
+
+This skill allows the fighter using it to guard a victim from potential
+attack.  The next time the victim is attacked, the one using this skill
+will attempt to automatically rescue them.  Note that in order to guard
+someone effectively, the one using this skill must not be in combat.
+
+Example:  
+
+	> guard chemosh 
+
+#
+LAY ON HANDS
+
+Usage: lay <victim>
+
+Once per day, this Paladin skill can heal some damage to a person.  The
+amount of damage healed is directly proportional to the Paladin's level.
+(For purposes of this skill, one game day is approximately 24 ticks, or
+30 minutes in RL.)
+
+Example:  
+
+	> lay chemosh 
+
+#
+READ MAGIC
+
+This skill enables the person to 'recite' scrolls - the better you are at
+reading magic, the better the chance that the scroll will work.
+
+See Also: RECITE
+#
+RETREAT
+
+Usage: retreat <direction>
+
+Allows person to escape combat in specified direction (not flee).
+
+Example:  
+
+	> retreat n 
+
+#
+SCRIBE
+
+Usage: scribe <??>
+
+Enables person to make scrolls (from spells learned).
+
+Example:  
+
+	> scribe fireball 
+
+#
+SECOND ATTACK THIRD ATTACK
+
+Usage: auto
+
+Second attack
+Gives second attack (%/per ? lvls) with wielded weapon.
+
+Third attack
+Gives third attack (%/per ? lvls) with wielded weapon. 
+
+#
+TURN UNDEAD
+
+Usage: turn <victim>
+
+If successful undead mobs flee.
+
+Example:  
+
+	> turn skeleton 
+
+#
+CREATE SALVE
+
+(This skill is currently disabled. There are no plans to
+ offer it any time soon.)
+
+Usage: create minor/moderate/major
+
+This skill allows the druid possessing it to create salves,
+which are a combination of a wand and a potion, if the druid
+happens to possess the necessary components.  Note that the
+different types of salve the druid can create vary depending
+on his or her level.
+
+#
+"DETECT POISON"
+
+Usage: detect poison <person>
+
+If successful, this skill detects poison in a person.
+
+Example:  
+
+	> detect poison sargonnas
+
+See also: "REMOVE POISON" 
+
+#
+"REMOVE POISON" UNPOISON
+
+Usage: unpoison <player>
+
+If successful, usage of the skill 'remove poison' will, in essence,
+unpoison a character, returning him or her to normal status.
+
+Example:  
+
+	> unpoison morgion
+
+See also: DETECT POISON
+#
+$

@@ -1,0 +1,3016 @@
+#6000
+Path's End~
+   The path ends abruptly here at the forest's edge.  The tall pines and oaks
+surround you, enclosing you in the dark hush of the Ellinad Forest.  Forgotten
+foot trails meander off in various directions, their origins and destinations
+uncertain.  Odd sounds from deep within the forest are both inviting and yet
+warning, of dangers unknown.  The ground is covered with a thick, soft layer of
+the reddened needles and cones of the pines, and many fallen acorns.  The
+forest continues to the north and seems to clear to the east.  A newly made
+path has made passage to the west possible through the thick trees.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6001
+D1
+~
+~
+0 0 6014
+D2
+~
+gate~
+1 0 10169
+D3
+~
+~
+0 0 4747
+D9
+~
+~
+0 0 -1
+E
+trees~
+   They are thick-trunked trees.    
+~
+E
+trail trails foot~
+   These old foot trails don't seem to come from or lead anywhere in
+particular.    
+~
+E
+path~
+   The path ends abruptly at the edge of the Ellinad Forest.    
+~
+S
+#6001
+Steep Sided Pass~
+   The tall pines and oaks surround you, enclosing you in the dark hush of the
+Ellinad Forest.  Forgotten foot trails meander off in various directions, their
+origins and destinations uncertain.  Odd sounds from deep within the forest are
+both inviting and yet warning, of dangers unknown.  The ground is covered with
+a thick, soft layer of the reddened needles and cones of the pines, and many
+fallen acorns.  The steep sides of the pass prevent travel to the east or west.
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6002
+D2
+~
+~
+0 0 6000
+E
+trail trails foot~
+   These old foot trails don't seem to come from or lead anywhere in
+particular.    
+~
+S
+#6002
+The Ellinad Forest~
+   The tall pines and oaks surround you, enclosing you in the dark hush of the
+Ellinad Forest.  Forgotten foot trails meander off in various directions, their
+origins and destinations uncertain.  Odd sounds from deep within the forest are
+both inviting and yet warning, of dangers unknown.  The ground is covered with
+a thick, soft layer of the reddened needles and cones of the pines, and many
+fallen acorns.  The forest continues in all directions but the west, where
+several fallen trees block clear passage.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6003
+D1
+~
+~
+0 0 6012
+D2
+~
+~
+0 0 6001
+E
+trail trails foot~
+   These old foot trails don't seem to come from or lead anywhere in
+particular.    
+~
+S
+#6003
+The Ellinad Forest~
+   The tall pines and oaks surround you, enclosing you in the dark hush of the
+Ellinad Forest.  Forgotten foot trails meander off in various directions, their
+origins and destinations uncertain.  Odd sounds from deep within the forest are
+both inviting and yet warning, of dangers unknown.  The ground is covered with
+a thick, soft layer of the reddened needles and cones of the pines, and many
+fallen acorns.  The forest continues in all directions but the west, where
+several fallen trees block clear passage.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6004
+D1
+~
+~
+0 0 6011
+D2
+~
+~
+0 0 6002
+E
+trail trails foot~
+   These old foot trails don't seem to come from or lead anywhere in
+particular.    
+~
+S
+#6004
+Dense Thicket of Trees~
+   The hush of the forest is broken only by the pleasant chirping of the birds.
+Now and then, a break in the branches overhead allows for glimpses of the sky,
+seeming impossibly far up.  A variety of multicolored flowers grows abundantly
+around you, the scent filling your senses.  The closeness of the trees prevents
+further travel to the east or west.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6005
+D2
+~
+~
+0 0 6003
+E
+flowers variety~
+   Among the many flowers growing here are buttercups, forget-me-nots and
+lesser periwinkle, providing an array of yellow, blue, purple and mauve.    
+~
+S
+#6005
+The Ellinad Forest~
+   The hush of the forest is broken only by the pleasant chirping of the birds.
+Now and then, a break in the branches overhead allows for glimpses of the sky,
+seeming impossibly far up.  A variety of multicolored flowers grows abundantly
+around you, the scent filling your senses.  The forest continues in all
+directions except the west, where a path lies leading towards the town of
+Talenrock.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6006
+D1
+~
+~
+0 0 6009
+D2
+~
+~
+0 0 6004
+D3
+~
+~
+0 0 4748
+E
+flowers variety~
+   Among the many flowers growing here are buttercups, forget-me-nots and
+lesser periwinkle, providing an array of yellow, blue, purple and mauve.    
+~
+S
+#6006
+Dense Thicket of Trees~
+   The hush of the forest is broken only by the pleasant chirping of the birds.
+Now and then, a break in the branches overhead allows for glimpses of the sky,
+seeming impossibly far up.  A variety of multicolored flowers grows abundantly
+around you, the scent filling your senses.  The closeness of the trees prevents
+further travel to either the north or west.  The branches of a large tree hang
+overhead.  A few wooden planks that were probably once steps lead up into the
+tree.    
+~
+60 4 2 0 0
+D1
+~
+~
+0 0 6008
+D2
+~
+~
+0 0 6005
+D4
+Nothing.
+~
+hatch~
+1 0 4750
+E
+flowers variety~
+   Among the many flowers growing here are buttercups, forget-me-nots and
+lesser periwinkle, providing an array of yellow, blue, purple and mauve.    
+~
+S
+#6007
+At the Cliff's Edge~
+   The moorland stretches as far as the eye can see, the ground cloaked in a
+profusion of wildflowers and clover.  The air is crisp and clean, and the sky
+wide open above.  The distant snow-capped mountains provide a sharp contrast to
+the immensity of the sky, anchoring you.  A high cliff to the north prevents
+travel in that direction, and a humble looking cabin stands to the west.
+~
+60 0 2 0 0
+D1
+~
+~
+0 0 6022
+D2
+~
+~
+0 0 6008
+E
+flowers wildflowers clover~
+   The abundant clover cloaks the ground in a soft green blanket, interwoven
+with the brilliant colors of many varieties of wildflowers.    
+~
+S
+#6008
+The Ellinad Forest~
+   The hush of the forest is broken only by the pleasant chirping of the birds.
+Now and then, a break in the branches overhead allows for glimpses of the sky,
+seeming impossibly far up.  A variety of multicolored flowers grows abundantly
+around you, the scent filling your senses.  The forest continues in all
+directions, but there seems to be a clearing of some sort to the north.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6007
+D1
+~
+~
+0 0 6021
+D2
+~
+~
+0 0 6009
+D3
+~
+~
+0 0 6006
+E
+flowers variety~
+   Among the many flowers growing here are buttercups, forget-me-nots and
+lesser periwinkle, providing an array of yellow, blue, purple and mauve.    
+~
+E
+clearing~
+   You can't see that far ahead.    
+~
+S
+#6009
+The Ellinad Forest~
+   The hush of the forest is broken only by the pleasant chirping of the birds.
+Now and then, a break in the branches overhead allows for glimpses of the sky,
+seeming impossibly far up.  A variety of multicolored flowers grows abundantly
+around you, the scent filling your senses.  The forest continues in all
+directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6008
+D1
+~
+~
+0 0 6020
+D2
+~
+~
+0 0 6010
+D3
+~
+~
+0 0 6005
+E
+flowers variety~
+   Among the many flowers growing here are buttercups, forget-me-nots and
+lesser periwinkle, providing an array of yellow, blue, purple and mauve.    
+~
+S
+#6010
+Dense Thicket of Trees~
+   The hush of the forest is broken only by the pleasant chirping of the birds.
+Now and then, a break in the branches overhead allows for glimpses of the sky,
+seeming impossibly far up.  A variety of multicolored flowers grows abundantly
+around you, the scent filling your senses.  The closeness of the trees prevents
+further travel to the south or west.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6009
+D1
+~
+~
+0 0 6019
+E
+flowers variety~
+   Among the many flowers growing here are buttercups, forget-me-nots and
+lesser periwinkle, providing an array of yellow, blue, purple and mauve.    
+~
+E
+trees~
+   They are thick-trunked trees that prevent passage to the south or west.    
+~
+S
+#6011
+The Ellinad Forest~
+   The tall pines and oaks surround you, enclosing you in the dark hush of the
+Ellinad Forest.  Forgotten foot trails meander off in various directions, their
+origins and destinations uncertain.  Odd sounds from deep within the forest are
+both inviting and yet warning, of dangers unknown.  The ground is covered with
+a thick, soft layer of the reddened needles and cones of the pines, and many
+fallen acorns.  The trees grow so closely together to the north that travel in
+that direction is prevented.    
+~
+60 0 2 0 0
+D1
+~
+~
+0 0 6018
+D2
+~
+~
+0 0 6012
+D3
+~
+~
+0 0 6003
+E
+trail trails foot~
+   These old foot trails don't seem to come from or lead anywhere in
+particular.    
+~
+E
+trees~
+   They are thick-trunked trees that prevent passage to the north.    
+~
+S
+#6012
+Dense Thicket of Trees~
+   The tall pines and oaks surround you, enclosing you in the dark hush of the
+Ellinad Forest.  Forgotten foot trails meander off in various directions, their
+origins and destinations uncertain.  Odd sounds from deep within the forest are
+both inviting and yet warning, of dangers unknown.  The ground is covered with
+a thick, soft layer of the reddened needles and cones of the pines, and many
+fallen acorns.  The trees grow so closely together to the south that travel in
+that direction is prevented.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6011
+D1
+~
+~
+0 0 6017
+D3
+~
+~
+0 0 6002
+E
+trail trails foot~
+   These old foot trails don't seem to come from or lead anywhere in
+particular.    
+~
+E
+trees~
+   They are thick-trunked trees that prevent passage to the south.    
+~
+S
+#6013
+Dense Thicket of Trees~
+   The tall pines and oaks surround you, enclosing you in the dark hush of the
+Ellinad Forest.  Forgotten foot trails meander off in various directions, their
+origins and destinations uncertain.  Odd sounds from deep within the forest are
+both inviting and yet warning, of dangers unknown.  The ground is covered with
+a thick, soft layer of the reddened needles and cones of the pines, and many
+fallen acorns.  The trees grow so closely together to the north and west that
+travel in those directions is prevented.    
+~
+60 0 2 0 0
+D1
+~
+~
+0 0 6016
+D2
+   There appears to be some sort of clearing here.    
+~
+~
+0 0 6014
+E
+trail trails foot~
+   These old foot trails don't seem to come from or lead anywhere in
+particular.    
+~
+E
+trees~
+   They are thick-trunked trees that prevent passage to the north or west.    
+~
+S
+#6014
+Marshland~
+   The forest gives way here to an open marsh.  The ground is wet and pulls at
+your feet, leaving thick muddy prints in your wake.  Tall cat tails and grasses
+obstruct the path to the south.  Occasional dragonflies and other nameless
+insects buzz by.  A few thin larch trees grow here, their pale blue green
+leaves providing a bit of shade.  The forest closes in to the north and west,
+while the marsh continues to the east.    
+~
+60 64 2 0 0
+D0
+~
+~
+0 0 6013
+D1
+~
+~
+0 0 6015
+D3
+~
+~
+0 0 6000
+E
+trees larch~
+   These relatively short trees have a thin symmetrical appearance, and have
+fanlike branches of pale blue green.    
+~
+S
+#6015
+Marshland~
+   The forest gives way here to an open marsh.  The ground is wet and pulls at
+your feet, leaving thick muddy prints in your wake.  Tall cat tails and grasses
+obstruct the path to the south.  Occasional dragonflies and other nameless
+insects buzz by.  A few thin larch trees grow here, their pale blue green
+leaves providing a bit of shade.    
+~
+60 64 2 0 0
+D0
+~
+~
+0 0 6016
+D1
+~
+~
+0 0 6036
+D3
+~
+~
+0 0 6014
+E
+trees larch~
+   These relatively short trees have a thin symmetrical appearance, and have
+fanlike branches of pale blue green.    
+~
+S
+#6016
+The Ellinad Forest~
+   The tall pines and oaks surround you, enclosing you in the dark hush of the
+Ellinad Forest.  Forgotten foot trails meander off in various directions, their
+origins and destinations uncertain.  Odd sounds from deep within the forest are
+both inviting and yet warning, of dangers unknown.  The ground is covered with
+a thick, soft layer of the reddened needles and cones of the pines, and many
+fallen acorns.  The forest continues in all directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6017
+D1
+~
+~
+0 0 6035
+D2
+   There appears to be a clearing of some sort to the south.    
+~
+~
+0 0 6015
+D3
+~
+~
+0 0 6013
+E
+trail trails foot~
+   These old foot trails don't seem to come from or lead anywhere in
+particular.    
+~
+S
+#6017
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  From somewhere
+nearby comes the sound of the high-pitched voices of children at play.  To the
+east is the side of a small building, the forest continues in all other
+directions.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6018
+D2
+~
+~
+0 0 6016
+D3
+~
+~
+0 0 6012
+E
+path~
+   It is a footpath running alongside the building.    
+~
+E
+building~
+   It is the side of a building.    
+~
+S
+#6018
+The Ellinad Forest~
+   The tall pines and oaks surround you, enclosing you in the dark hush of the
+Ellinad Forest.  Forgotten foot trails meander off in various directions, their
+origins and destinations uncertain.  Odd sounds from deep within the forest are
+both inviting and yet warning, of dangers unknown.  The ground is covered with
+a thick, soft layer of the reddened needles and cones of the pines, and many
+fallen acorns.  The forest continues to the north, south and west.  To the
+east, a clearing of some sort is visible.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6019
+D1
+   There is a stump to the east, surrounded by wood chunks.    
+~
+~
+0 0 6033
+D2
+~
+~
+0 0 6017
+D3
+~
+~
+0 0 6011
+E
+trail trails foot~
+   These old foot trails don't seem to come from or lead anywhere in
+particular.    
+~
+E
+clearing~
+   It's a clearing of some sort.    
+~
+S
+#6019
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  From somewhere
+nearby comes the sound of the high-pitched voices of children at play.  To the
+east is the side of a large building, the forest continues in all other
+directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6020
+D2
+~
+~
+0 0 6018
+D3
+~
+~
+0 0 6010
+E
+path~
+   It is a footpath running alongside the building.    
+~
+E
+building~
+   It is the side of a building.    
+~
+S
+#6020
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  From somewhere
+nearby comes the sound of the high-pitched voices of children at play.  To the
+east is the side of a large building, the forest continues in all other
+directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6021
+D2
+~
+~
+0 0 6019
+D3
+~
+~
+0 0 6009
+E
+path~
+   It is a footpath running alongside the building.    
+~
+E
+building~
+   It is the side of a building.    
+~
+S
+#6021
+Edge of the Forest and Moorland~
+   A small footpath is here at the edges of the Ellinad Forest and the
+moorland.  To the north is a clearing of sorts, to the east a high wooden
+fence.  The high-pitched voices of children at play carry over the fence.  The
+forest stretches to the west and south.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6022
+D2
+~
+~
+0 0 6020
+D3
+~
+~
+0 0 6008
+E
+path~
+   It is a footpath running alongside the fence.    
+~
+E
+clearing~
+   It is a clearing of some sort.    
+~
+E
+fence high wooden~
+   It is a high wooden fence.    
+~
+S
+#6022
+Moorland~
+   The moorland stretches as far as the eye can see, the ground cloaked in a
+profusion of wildflowers and clover.  The air is crisp and clean, and the sky
+wide open above.  The distant snow-capped mountains provide a sharp contrast to
+the immensity of the sky, anchoring you.  The forest's edge is to the south.  
+The moorland extends to the north, west and east.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6023
+D1
+~
+~
+0 0 6028
+D2
+~
+~
+0 0 6021
+D3
+~
+~
+0 0 6007
+E
+flowers wildflowers clover~
+   The abundant clover cloaks the ground in a soft green blanket, interwoven
+with the brilliant colors of many varieties of wildflowers.    
+~
+S
+#6023
+By a High Cliff~
+   The moorland stretches as far as the eye can see, the ground cloaked in a
+profusion of wildflowers and clover.  The air is crisp and clean, and the sky
+wide open above.  The distant snow-capped mountains provide a sharp contrast to
+the immensity of the sky, anchoring you.  A high cliff to the west prevents
+travel in that direction.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6024
+D1
+~
+~
+0 0 6027
+D2
+~
+~
+0 0 6022
+E
+flowers wildflowers clover~
+   The abundant clover cloaks the ground in a soft green blanket, interwoven
+with the brilliant colors of many varieties of wildflowers.    
+~
+E
+cliff~
+   It is a high rocky cliff.    
+~
+S
+#6024
+At the Cliff's Edge~
+   The moorland stretches as far as the eye can see, the ground cloaked in a
+profusion of wildflowers and clover.  The air is crisp and clean, and the sky
+wide open above.  The distant snow-capped mountains provide a sharp contrast to
+the immensity of the sky, anchoring you.  High cliffs border the moors at the
+north and west, preventing travel in those directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 4694
+D1
+~
+~
+0 0 6026
+D2
+~
+~
+0 0 6023
+E
+flowers wildflowers clover~
+   The abundant clover cloaks the ground in a soft green blanket, interwoven
+with the brilliant colors of many varieties of wildflowers.    
+~
+S
+#6025
+At the Cliff's Edge~
+   The moorland stretches as far as the eye can see, the ground cloaked in a
+profusion of wildflowers and clover.  The air is crisp and clean, and the sky
+wide open above.  The distant snow-capped mountains provide a sharp contrast to
+the immensity of the sky, anchoring you.  High cliffs border the moors at the
+north and west, preventing travel in those directions.    
+~
+60 0 2 0 0
+D1
+~
+~
+0 0 6047
+D2
+~
+~
+0 0 6026
+E
+flowers wildflowers clover~
+   The abundant clover cloaks the ground in a soft green blanket, interwoven
+with the brilliant colors of many varieties of wildflowers.    
+~
+S
+#6026
+Abandoned Campsite~
+   Amongst a stand of tall grasses is an abandoned campsite.  A circle of small
+stones surround the long-cooled embers of a fire.  The few belongings left here
+leave the impression that the camper intended to return.  The moorland
+continues in all directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6025
+D1
+~
+~
+0 0 6046
+D2
+~
+~
+0 0 6027
+D3
+~
+~
+0 0 6024
+S
+#6027
+Moorland~
+   The moorland stretches as far as the eye can see, the ground cloaked in a
+profusion of wildflowers and clover.  The air is crisp and clean, and the sky
+wide open above.  The distant snow-capped mountains provide a sharp contrast to
+the immensity of the sky, anchoring you.  A clearing is visible to the east and
+south.  The moors stretch to the north and west.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6026
+D1
+~
+~
+0 0 6045
+D2
+~
+~
+0 0 6028
+D3
+~
+~
+0 0 6023
+E
+clearing~
+   It looks to be some sort of clearing.    
+~
+E
+flowers wildflowers clover~
+   The abundant clover cloaks the ground in a soft green blanket, interwoven
+with the brilliant colors of many varieties of wildflowers.    
+~
+S
+#6028
+Clearing in the Moorland~
+   The moorland ends abruptly here, giving way to a wide open area.  Dirt
+eddies sweep up in graceful arcs.  A narrow dirt road is visible off to the
+east; a fenced in area to the south.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6027
+D1
+~
+~
+0 0 6044
+D2
+~
+~
+0 0 6029
+D3
+~
+~
+0 0 6022
+E
+road dirt~
+   It is a dirt road, just wide enough for a wagon to pass.    
+~
+E
+fenced fence~
+   This appears to be an area cleared of grass and trees, a large building
+further to the south.    
+~
+S
+#6029
+Children's Play Yard~
+   A small area has been cleared for the village children to play in.  Small
+patches of grass attempt, and fail to grow here, trodden down constantly by the
+children in their games.  A high wooden fence stands to the west.  The side of
+a building prevents further travel to the south.  To the north, a clearing in
+the moorland is visible and to the east stands a dirt road.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6028
+D1
+~
+~
+0 0 6043
+E
+building~
+   It is the side of a large log building.    
+~
+S
+#6030
+Arshyle's Trading Post~
+   The trading post consists of a small pine-paneled room, crowded by the many
+items for sale, and by the few villagers looking over the inventory with
+curiousity.  To the east is a door, and a narrow stairway leading up stands
+against one wall.  The sounds of laughter and occasional offkey singing come
+from the adjoining room to the south, through a high archway.    
+~
+60 24 0 0 0
+D1
+~
+~
+0 0 6042
+D2
+   There is a high archway here leading into the adjoining room.    
+~
+archway~
+0 0 6032
+D4
+   There is a narrow stairway here, leading up.    
+~
+stairs staircase~
+0 0 6031
+E
+arch archway~
+   There is a high archway here, leading into the adjoining room.    
+~
+S
+#6031
+Kerneth's Private Living Quarters~
+   Kerneth's private living quarters are spartan, containing only a bed and a
+small table.  A warm fire burns in the fireplace, a fragrant pine branch upon
+the mantle.  The door leads to a small landing and the head of the stairs down.
+~
+60 8 0 0 0
+D5
+   There is a narrow stairway here, leading down.    
+~
+stairs staircase~
+0 0 6030
+E
+stairs~
+   There is a narrow stairway here, leading down.    
+~
+S
+#6032
+The Wyrdna Tavern~
+   The Wyrdna Tavern is apparently the hub of this village, gauging by the
+number of villagers sitting around the tables in this large room.  A huge stone
+fireplace has been artfully built to serve dually as a wall to the west.  A
+small cooking hearth takes a portion of the fire as its own, near the long
+wooden bar.  From there, Jiomak keeps a careful watch on the patrons while
+baking his renowned apple walnut cake.  The only exit from the tavern is
+through the high archway to the north.    
+~
+60 8 0 0 0
+D0
+   There is a high archway here, leading into the adjoining room.    
+~
+arch archway~
+0 0 6030
+E
+fire fireplace hearth huge stone~
+   Built with exceptional skill, this massive fireplace is made of a variety of
+flattened stones.  It tapers gracefully toward the ceiling.  A warm fire is
+burning and the scent of cedar wafts through the room.    
+~
+E
+archway~
+   It is a high archway into the adjoining room.    
+~
+S
+#6033
+Wood Pile~
+   A thick tree stump stands in the center of this clearing alongside a small
+house, a wood axe left in the stump.  Scattered haphazardly about the stump are
+chunks of wood in varying sizes.  The ground is littered with sawdust.  To the
+west, the forest beckons; to the east stands a narrow door.  To the south
+stands an open shed.    
+~
+60 0 2 0 0
+D1
+   There is a narrow door here.    
+~
+door~
+1 0 6040
+D2
+   There is an open shed here.    
+~
+~
+0 0 6034
+D3
+~
+~
+0 0 6018
+E
+stump~
+   It is a thick tree stump, about two feet in diameter.    
+~
+E
+wood chunks~
+   These wood chunks are cut in a variety of shapes, evidently for several
+different purposes.    
+~
+E
+shed~
+   It is a very small, open wooden shed.    
+~
+S
+#6034
+Shed~
+   This tiny shed is full of hunting and woodcrafting gear, and is in complete
+disarray.  A few old moth-eaten mounts lie in one corner.  A rusty hand axe
+hangs on one wall, the nails holding it leaning dangerously toward the floor.
+The woodpile is to the north.    
+~
+60 9 0 0 0
+D0
+   There is a wood pile here.    
+~
+~
+0 0 6033
+E
+mount mounts~
+   These old hunter's trophies have been abandoned and have become fodder for
+the moths.    
+~
+E
+gear hunt hunting wood woodcrafting~
+   All manner of spears, axes, knives, saws and other gear lay scattered about.
+Between the decaying animal mounts and the jumble of gear, there can be little
+doubt this shed is the private domain of a bachelor.    
+~
+S
+#6035
+The Ellinad Forest~
+   The cover of the trees grows thickly here, muffling the sounds of the forest
+and making it difficult to discern their origin.  Looking up through the few
+gaps in the branches of the trees is disorienting, the sheer distance to the
+sky seeming unfathomable.  The deep green of the evergreens provides a dazzling
+contrast against the red backdrop of their fallen needles.  The forest presses
+on to the east and west.  To the north, passage is blocked by the back of a
+small building.  To the south, a clearing of some sort is visible.    
+~
+60 4 2 0 0
+D1
+~
+~
+0 0 6038
+D2
+~
+~
+0 0 6036
+D3
+~
+~
+0 0 6016
+E
+clearing~
+   It's some sort of clearing.    
+~
+E
+building~
+   It is the back of a building.    
+~
+S
+#6036
+Marshland~
+   The forest gives way here to an open marsh.  The ground is wet and pulls at
+your feet, leaving thick muddy prints in your wake.  Tall cat tails and grasses
+obstruct the path to the south.  Occasional dragonflies and other nameless
+insects buzz by.  A few thin larch trees grow here, their pale blue green
+leaves providing a bit of shade.    
+~
+60 68 2 0 0
+D0
+~
+~
+0 0 6035
+D1
+~
+~
+0 0 6037
+D3
+~
+~
+0 0 6015
+E
+trees larch~
+   These relatively short trees have a thin symmetrical appearance, and have
+fanlike branches of pale blue green.    
+~
+S
+#6037
+Marshland~
+   The forest gives way here to an open marsh.  The ground is wet and pulls at
+your feet, leaving thick muddy prints in your wake.  Tall cat tails and grasses
+obstruct the path to the south.  Occasional dragonflies and other nameless
+insects buzz by.  A few thin larch trees grow here, their pale blue green
+leaves providing a bit of shade.  The sound of running water comes distinctly
+from the east.  The forest presses in to the north; the marsh continues to the
+west.    
+~
+60 64 2 0 0
+D0
+~
+~
+0 0 6038
+D1
+~
+~
+0 0 6059
+D3
+~
+~
+0 0 6036
+E
+trees larch~
+   These relatively short trees have a thin symmetrical appearance, and have
+fanlike branches of pale blue green.    
+~
+S
+#6038
+The Ellinad Forest~
+   The cover of the trees grows thickly here, muffling the sounds of the forest
+and making it difficult to discern their origin.  Looking up through the few
+gaps in the branches of the trees is disorienting, the sheer distance to the
+sky seeming unfathomable.  The deep green of the evergreens provides a dazzling
+contrast against the red backdrop of their fallen needles.  The forest presses
+on in all directions, but seems to clear somewhat to the south.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6039
+D1
+~
+~
+0 0 6058
+D2
+   The trees seem to clear a bit, giving way to a marsh.    
+~
+~
+0 0 6037
+D3
+~
+~
+0 0 6035
+S
+#6039
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  From somewhere
+nearby comes the sound of the high-pitched voices of children at play.  To the
+north and west stand the sides of buildings, to the south and east the forest
+continues.    
+~
+60 0 2 0 0
+D1
+~
+~
+0 0 6057
+D2
+~
+~
+0 0 6038
+E
+building buildings~
+   The sides of buildings block passage to the north and west.    
+~
+E
+path~
+   It is a footpath running alongside the buildings.    
+~
+S
+#6040
+Private Home~
+   This small one room home is crowded, leaving little room for visitors.  A
+bed stands against one wall, covered with a warm quilt and a down pillow.  A
+table stands against another wall.  The number of varying sized spears hung on
+the wall above the bed, as well as the wild boar's head mounted above the door,
+give the impression that this home's owner is a skilled hunter.  A narrow door
+stands to the west, the main door to the north.    
+~
+60 9 0 0 0
+D0
+   The main door stands here, a boar's head mounted above it.    
+~
+door~
+1 0 6041
+D3
+   A narrow door stands here.    
+~
+door~
+1 0 6033
+E
+bed~
+   It is a narrow bed with a carved headboard.    
+~
+E
+quilt~
+   This quilt is perhaps a bit too long for the bed, and looks thick and warm.
+It is made of many multicolored squares that have been lovingly sewn together.
+  
+~
+E
+pillow~
+   It is a soft down pillow, a bit lumpy with age.    
+~
+E
+boar boar's head mount~
+   This big boar's head was no doubt the hunter's greatest pride at the time it
+was mounted here, but over time, it has started to decay.  The boar's lips,
+mounted in a snarl, have begun to pull away from its head, leaving it looking
+oddly as if it is smiling.    
+~
+E
+spear spears~
+   This collection of spears would be any hunter's pride.  A variety of short
+and long handled spears are here, each honed to a brilliantly sharp point.    
+~
+S
+#6041
+Narrow Dirt Road~
+   The narrow dirt road ends, or perhaps begins, here at the door of a small
+house to the south.  To the east is a chest-high fence made of wooden posts
+barring entrance to a bordering field.  To the west stands the side of a large
+log building.    
+~
+60 0 1 0 0
+D0
+~
+~
+0 0 6042
+D2
+   There is a door here.    
+~
+door~
+1 0 6040
+E
+fence~
+   It is a fence comprised of waist-high wooden posts, barring entrance to a
+hay field beyond.    
+~
+E
+field~
+   It is a wide hay field.    
+~
+E
+building log large~
+   It is a large log building.    
+~
+E
+house~
+   It is a small house.    
+~
+S
+#6042
+Narrow Dirt Road~
+   The narrow dirt road continues north and south.  To the east a chest-high
+fence fashioned of wooden posts bars entrance to a bordering field.  To the
+west stands a modest log building.  Its door is propped open, as if inviting
+visitors to step inside.    
+~
+60 4 1 0 0
+D0
+~
+~
+0 0 6043
+D1
+   There is a fence there, too high to climb over.    
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 6041
+D3
+~
+~
+0 0 6030
+E
+fence~
+   It is a fence comprised of waist-high wooden posts, barring entrance to a
+hay field beyond.    
+~
+E
+field~
+   It is a wide hay field.    
+~
+E
+building log large~
+   It is a large log building that appears to be some sort of business, judging
+from the number of villagers entering and leaving it.  There is a sign above
+the door.    
+~
+E
+sign red~
+   This small oval sign has a depiction of a snarling grey wolf, and the words,
+"The Wyrdna Trading Post and Tavern" painted in neat red letters.    
+~
+S
+#6043
+Narrow Dirt Road~
+   The narrow dirt road continues north and south.  To the east stands a house
+of roughly hewn logs from the nearby forest.  The sound of children playing
+comes from the west.    
+~
+60 4 1 0 0
+D0
+~
+~
+0 0 6044
+D1
+   A door is here, adorned with a fragrant wreath.    
+~
+door~
+1 0 6052
+D2
+~
+~
+0 0 6042
+D3
+~
+~
+0 0 6029
+E
+house~
+   It is a fairly large sized house, built from roughly hewn logs.  A small
+door is centered here, a leafy wreath adorning it.    
+~
+E
+road~
+   It is a dirt road, barely wide enough to allow the passage of a wagon.    
+~
+S
+#6044
+Narrow Dirt Road~
+   A straight and narrow dirt road starts here and travels south into what
+appears to be a small village.  One must wonder why it seems to start, or
+perhaps end, so abruptly here.  To the east stands the side of a building,
+built with roughly hewn logs from the nearby forest.  There is a sign facing
+you, kitty-corner to the house, its letters painted in white and faded with
+time.    
+~
+60 4 1 0 0
+D0
+~
+~
+0 0 6045
+D1
+   The side of a log house blocks travel in that direction.    
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 6043
+D3
+~
+~
+0 0 6028
+E
+sign~
+   This old sign reads, "Welcome to Wyrdna" in faded white letters.    
+~
+E
+house building~
+   It is a fairly large sized house, built from roughly hewn logs.    
+~
+E
+road~
+   It is a dirt road, barely wide enough to allow the passage of a wagon.    
+~
+S
+#6045
+Clearing in the Moorland~
+   The moorland ends abruptly here, giving way to a wide open area.  Dirt
+eddies sweep up in graceful arcs.  A dirt road is visible to the south.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6046
+D1
+~
+~
+0 0 6050
+D2
+   A dirt road is there.    
+~
+~
+0 0 6044
+D3
+~
+~
+0 0 6027
+E
+road dirt~
+   It is a dirt road, just wide enough for a wagon to pass.    
+~
+S
+#6046
+Moorland~
+   The moorland stretches as far as the eye can see, the ground cloaked in a
+profusion of wildflowers and clover.  The air is crisp and clean, and the sky
+wide open above.  The distant snow-capped mountains provide a sharp contrast to
+the immensity of the sky, anchoring you.  A clearing is visible to the west and
+south.  The forest presses in from the east and the moor extends to the north.
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6047
+D1
+~
+~
+0 0 6049
+D2
+   The moorland clears to the south.    
+~
+~
+0 0 6045
+D3
+   The moorland clears to the west.    
+~
+~
+0 0 6026
+E
+clearing~
+   The moorland clears to the west and south.    
+~
+E
+flowers wildflowers clover~
+   The abundant clover cloaks the ground in a soft green blanket, interwoven
+with the brilliant colors of many varieties of wildflowers.    
+~
+S
+#6047
+By a High Cliff~
+   The moorland stretches as far as the eye can see, the ground cloaked in a
+profusion of wildflowers and clover.  The air is crisp and clean, and the sky
+wide open above.  The distant snow-capped mountains provide a sharp contrast to
+the immensity of the sky, anchoring you.  A high cliff prevents travel further
+to the north.    
+~
+60 0 2 0 0
+D1
+~
+~
+0 0 6048
+D2
+~
+~
+0 0 6046
+D3
+~
+~
+0 0 6025
+E
+flowers wildflowers clover~
+   The abundant clover cloaks the ground in a soft green blanket, interwoven
+with the brilliant colors of many varieties of wildflowers.    
+~
+E
+cliff~
+   It is a high cliff, overlooking the ground far, far below for miles around.
+  
+~
+S
+#6048
+Rocky Ledge~
+   Tall pine trees grow thickly here, their fallen needles along the ground
+softening your steps.  The branches overhead seem to weave together and apart
+in their own silent dance, providing a natural cover from inclement weather.  
+The heavy pine scent, along with occasional bird calls from deep within the
+forest, give this place an overwhelming sense of tranquillity.  Through the
+gaps in the trees, the distant mountain peaks are visible, capped in pure white
+snow.  The forest continues in all directions but north, where a tall rockface
+blocks passage.    
+~
+60 0 2 0 0
+D1
+~
+~
+0 0 6071
+D2
+~
+~
+0 0 6049
+D3
+~
+~
+0 0 6047
+E
+rock rockface tall~
+   It is a tall rocky wall that blocks passage to the north.    
+~
+S
+#6049
+The Ellinad Forest~
+   Tall pine trees grow thickly here, their fallen needles along the ground
+softening your steps.  The branches overhead seem to weave together and apart
+in their own silent dance, providing a natural cover from inclement weather.  
+The heavy pine scent, along with occasional bird calls from deep within the
+forest, give this place an overwhelming sense of tranquillity.  Through the
+gaps in the trees, the distant mountain peaks are visible, capped in pure white
+snow.  The forest continues in all directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6048
+D1
+~
+~
+0 0 6070
+D2
+~
+~
+0 0 6050
+D3
+~
+~
+0 0 6046
+S
+#6050
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  From somewhere
+nearby comes the sound of the high-pitched voices of children at play.  A
+clearing of some sort is visible to the west; the side of a large house is to
+the south.  The forest presses on to the north and east.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6049
+D1
+   You see nothing special.    
+~
+~
+0 0 6069
+D3
+   There is a clearing of some sort visible to the west.    
+~
+~
+0 0 6045
+E
+path~
+   It is a footpath running alongside the house.    
+~
+E
+house~
+   It is the side of a large house.    
+~
+E
+clearing~
+   It is a clearing of some sort.    
+~
+S
+#6051
+Dining Area~
+   The dining room is bright and cheery, centered by a large, beautifully
+carved table.  The table has been set for three people.  The enticing scents
+from the kitchen to the east make your mouth water.  To the south is another
+room.    
+~
+60 8 0 0 0
+D1
+~
+~
+0 0 6068
+D2
+~
+~
+0 0 6052
+S
+#6052
+Living Room~
+   This room has an inviting feel to it, not small yet made cozy by its humble
+furnishings.  A writing desk stands in one corner.  Two soft-looking oversized
+chairs sit facing an equally welcoming couch.  A multicolored braided rug lays
+on the floor between, a carved coffeetable resting on it.  The room is bordered
+on the south by a towering stone fireplace, and on the east by a wooden
+staircase leading up.  To the north is another room, to the west is a door
+leading out of the house.    
+~
+60 8 0 0 0
+D0
+~
+~
+0 0 6051
+D3
+   There is a door here.    
+~
+door~
+1 0 6043
+D4
+   There is a wooden staircase here, leading up.    
+~
+stairs staircase~
+0 0 6053
+E
+chairs couch~
+   These well crafted chairs and couch are overfilled with down and upholstered
+in fine brocade.  They offer luxurious comfort to the owners of this home, and
+to their visitors.    
+~
+E
+fireplace~
+   This towering stone fireplace commands the attention of all who enter this
+home.  The many colored flattened stones from which it is artfully built give
+one to believe a mason may be in residence here.    
+~
+E
+stairs staircase~
+   The steps up are sharply cut and made of a dark wood, possibly cherry, and
+polished to a high sheen.  A thick red carpet runner pads the feet of thosing
+using the stairs.    
+~
+E
+rug braided~
+   It is a braided rag rug, seeming oddly out of place amongst such rich
+belongings.    
+~
+S
+#6053
+Bedroom~
+   The bedroom is dwarfed by a massive stone fireplace, where a fire burns
+cheerily.  A four-poster featherbed stands against one wall.  A chair rests
+beside the bed, a pair of worn leather boots lined up neatly beneath.  The only
+exit is by the stairs down.    
+~
+60 8 0 0 0
+D5
+   There is a wooden staircase here.    
+~
+stairs staircase~
+0 0 6052
+E
+bed four featherbed feather postered~
+   This massive four-poster featherbed is covered with a multitude of
+comforters and pillows.  The posters are of gracefully carved oak, in a rose
+motif.    
+~
+E
+fireplace~
+   This towering stone fireplace dawrfs the room.  The many colored flattened
+stones from which it is so artfully built give one to believe a mason may be in
+residence here.    
+~
+E
+chair~
+   It is a small cushioned chair made of polished oak.    
+~
+E
+stairs staircase~
+   The steps down are sharply cut and made of a dark wood, possibly cherry, and
+are polished to a high sheen.  A thick red carpet runner pads the feet of those
+using the stairs.    
+~
+S
+#6054
+Hay Field~
+   A wide hay field is here, bordered on the west by a waist-high fence of
+wooden posts.  Beyond the fence, a dirt road is visible.  A pitchfork has been
+stuck in a bale of hay, its user apparently called away in the middle of his
+duties.  To the east is a cleared area.  To the south the field continues.    
+~
+60 0 2 0 0
+D1
+   It looks to be a garden.    
+~
+~
+0 0 6065
+D2
+~
+~
+0 0 6055
+E
+fence posts~
+   It is a fence comprised of waist-high wooden posts.    
+~
+E
+road dirt~
+   It is a dirt road, just wide enough for a wagon to pass.    
+~
+E
+hay~
+   It is a bale of hay.    
+~
+S
+#6055
+Hay Field~
+   A wide hay field is here, bordered on the west and south by a waist-high
+fence of wooden posts.  Beyond the fence, a dirt road is visible.  To the east,
+a door stands ajar into a darkened red building.  To the north, the field
+continues.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6054
+D1
+   There is a door here, slightly ajar.    
+~
+door~
+1 0 6064
+E
+fence posts~
+   It is a fence comprised of waist-high wooden slats.    
+~
+E
+dirt road~
+   It is a dirt road, just wide enough for a wagon to pass.    
+~
+E
+field~
+   It is a wide hay field.    
+~
+E
+hay~
+   There are several bales of hay here.    
+~
+E
+building red darkened~
+   It is a large red building.    
+~
+S
+#6056
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  From somewhere
+nearby comes the sound of the high-pitched voices of children at play.  The
+side of a building is to the west; a waist-high fence bordering a field to the
+north.  The forest presses on to the east and south.    
+~
+60 0 2 0 0
+D0
+   There is a fence blocking passage to a hay field there.    
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 6063
+D2
+~
+~
+0 0 6057
+D3
+   The side of a building obstructs your view.    
+~
+~
+0 0 -1
+E
+path~
+   It is a footpath running alongside the building.    
+~
+E
+fence~
+   It is a fence.    
+~
+E
+building~
+   It is the side of a building.    
+~
+S
+#6057
+The Ellinad Forest~
+   The cover of the trees grows thickly here, muffling the sounds of the forest
+and making it difficult to discern their origin.  Looking up through the few
+gaps in the branches of the trees is disorienting, the sheer distance to the
+sky seeming unfathomable.  The deep green of the evergreens provides a dazzling
+contrast against the red backdrop of their fallen needles.  The forest presses
+on in all directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6056
+D1
+~
+~
+0 0 6062
+D2
+~
+~
+0 0 6058
+D3
+~
+~
+0 0 6039
+S
+#6058
+The Ellinad Forest~
+   The cover of the trees grows thickly here, muffling the sounds of the forest
+and making it difficult to discern their origin.  Looking up through the few
+gaps in the branches of the trees is disorienting, the sheer distance to the
+sky seeming unfathomable.  The deep green of the evergreens provides a dazzling
+contrast against the red backdrop of their fallen needles.  The forest presses
+on in all directions, but seems to clear somewhat to the south.  The sound of
+running water comes from that direction.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6057
+D1
+~
+~
+0 0 6061
+D2
+   A river is visible through the trees.    
+~
+~
+0 0 6059
+D3
+~
+~
+0 0 6038
+S
+#6059
+The Edge of the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the south.  A few white willows stand here at the river's edge, their
+branches sweeping gracefully out over the waters.  The forest resumes to the
+north.    
+~
+60 4194304 2 0 0
+D0
+~
+~
+0 0 6058
+D1
+~
+~
+0 0 6060
+D3
+~
+~
+0 0 6037
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6060
+The Edge of the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the south.  A few white willows stand here at the river's edge, their
+branches sweeping gracefully out over the waters.  The forest resumes to the
+north.    
+~
+60 4194308 2 0 0
+D0
+~
+~
+0 0 6061
+D1
+~
+~
+0 0 6082
+D3
+~
+~
+0 0 6059
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6061
+By a Fallen Oak~
+   The cover of the trees grows thickly here, muffling the sounds of the forest
+and making it difficult to discern their origin.  Looking up through the few
+gaps in the branches of the trees is disorienting, the sheer distance to the
+sky seeming unfathomable.  The deep green of the evergreens provides a dazzling
+contrast against the red backdrop of their fallen needles.  The forest presses
+on to the north and west, but further travel to the east is blocked by a large
+uprooted oak.  The sound of running water comes from the south.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6062
+D2
+~
+~
+0 0 6060
+D3
+~
+~
+0 0 6058
+E
+oak uprooted tree~
+   It is a huge, uprooted oak, covered with moss.    
+~
+S
+#6062
+Thicket of Thorn Bushes~
+   The cover of the trees grows thickly here, muffling the sounds of the forest
+and making it difficult to discern their origin.  Looking up through the few
+gaps in the branches of the trees is disorienting, the sheer distance to the
+sky seeming unfathomable.  The deep green of the evergreens provides a dazzling
+contrast against the red backdrop of their fallen needles.  The forest presses
+on in all directions but east, where a thicket of thorn bushes prevents
+passage.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6063
+D1
+   Thorn bushes obstruct your view.    
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 6061
+D3
+~
+~
+0 0 6057
+E
+bushes thorn thicket~
+   It is a thicket of thorny bushes.    
+~
+S
+#6063
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  From somewhere
+nearby comes the sound of the high-pitched voices of children at play.  
+Passage any further to the north is prevented by the back of a large red
+building.    
+~
+60 4 2 0 0
+D0
+   The backside of a large red building obstructs your view.    
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 6079
+D2
+~
+~
+0 0 6062
+D3
+~
+~
+0 0 6056
+E
+path~
+   It is a footpath running alongside the building.    
+~
+E
+building~
+   It is the back of a large red building.    
+~
+S
+#6064
+Stables~
+   This large, darkened building houses several stables, most empty.  The heavy
+equine scent and natural scent of the abundant hay give the stables a welcome
+feeling.  A door stands ajar to the north.  To the west, another door leads out
+to an open field.    
+~
+60 9 0 0 0
+D0
+   There is a door here, slightly ajar, leading toward the garden.    
+~
+door~
+1 0 6065
+D3
+   There is a door here.    
+~
+door~
+1 0 6055
+E
+hay~
+   The hay is scattered to and fro, as if without much thought.  Almost
+accidentilly, some has made its way into the stables for the horses.    
+~
+S
+#6065
+Garden~
+   An area has been cleared and a garden has been cultivated with care here.  
+To the west is an open field.  To the east is a high wooden fence, overgrown
+with delicate pink roses.  A large red building stands to the south, its door
+ajar to the darkness beyond.  To the north is the back porch of a house.    
+~
+60 0 2 0 0
+D0
+   The back porch of a large house is there.    
+~
+~
+0 0 6066
+D2
+   There is a door here, slightly ajar, leading into a darkened building.    
+~
+door~
+1 0 6064
+D3
+~
+~
+0 0 6054
+E
+fence~
+   It is a fence comprised of tall wooden posts, and overgrown with pink roses.
+  
+~
+E
+field~
+   It is a wide hay field.    
+~
+E
+building red large~
+   It is a large red building.    
+~
+E
+house porch~
+   It is the back porch of a large house.    
+~
+S
+#6066
+Back Porch~
+   Looking out on the forest to the east and the garden to the south, this
+shaded porch offers the perfect place to rest a while.  A comfortable looking
+pair of wooden chairs are here, each with a well-worn pillow in its seat.  
+Several baskets of flowering geraniums hang from hooks in the porch roof.  A
+door to the north leads back into the house.    
+~
+60 8 0 0 0
+D0
+   There is a narrow door here, slightly ajar.    
+~
+door~
+1 0 6068
+D1
+~
+~
+0 0 6076
+D2
+~
+~
+0 0 6065
+E
+chair chairs~
+   These Adirondack style chairs are made of wide wooden slats, so skillfully
+joined together that the joints are not visible without careful study.  Soft
+pillows pad the seats of each.    
+~
+E
+pillow pillows~
+   Soft well-worn pillows, faded by time, pad each of the chairs.    
+~
+E
+geraniums flowers~
+   A profusion of red colored blooms droops gravefully from each of these
+hanging potters.  The sweet scent of the flowers and their bright color draw an
+occasional hummingbird.    
+~
+S
+#6067
+Cellar~
+   This small dry cellar is dark and smells vaguely moldy.  Several food stores
+are kept here.  The only exit is up the narrow wooden stairs.  A few little
+spiders make this place home.    
+~
+60 9 0 0 0
+D4
+   Narrow wooden stairs lead up.    
+~
+stairs staircase~
+0 0 6068
+E
+stairs narrow wooden~
+   It is a set of narrow wooden stairs leading up.    
+~
+E
+spiders~
+   Four or five tiny black spiders scuttle about here.    
+~
+S
+#6068
+Kitchen~
+   The kitchen is a large room, filled with light from multiple windows.  The
+air is thick with the scent of spices.  A few mixing bowls sit on the counter
+with various ingredients at the ready.  The eastern wall is filled by a
+corkboard containing many kitchen utensils, neatly organized.  A door stands to
+the south, slightly ajar.  Another room is to the west.  A simple stairwell
+leads down.    
+~
+60 8 0 0 0
+D2
+   A simple door is here, slightly ajar.    
+~
+door~
+1 0 6066
+D3
+~
+~
+0 0 6051
+D5
+   A simple stairwell is here, leading down.    
+~
+stairs stairwell~
+0 0 6067
+E
+bowls mixing ingredients~
+   Several mixing bowls sit on the counter here.  One is filled with sifted
+wheat flour, another with an egg mixture, a third with a milky liquid.    
+~
+E
+cork corkboard utensils~
+   This rack of utensils would be the dream of any homemaker.  There are spoons
+and whisks, spatulas and knives, measuring cups and spoons, colanders and every
+manner of cooking and baking implement one might desire.  All are organized
+neatly together on hooks, and seemingly grouped together by their function.  
+
+~
+E
+stairs stairwell~
+   It is a small set of stairs leading down.    
+~
+S
+#6069
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  From somewhere
+nearby comes the sound of the high-pitched voices of children at play.  Travel
+any further to the south is blocked by the side of a large building.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6070
+D1
+~
+~
+0 0 6074
+D3
+~
+~
+0 0 6050
+E
+path~
+   It is a footpath running alongside the building.    
+~
+E
+building~
+   The side of a building blocks the way to the south.    
+~
+S
+#6070
+The Ellinad Forest~
+   Tall pine trees grow thickly here, their fallen needles along the ground
+softening your steps.  The branches overhead seem to weave together and apart
+in their own silent dance, providing a natural cover from inclement weather.  
+The heavy pine scent, along with occasional bird calls from deep within the
+forest, give this place an overwhelming sense of tranquillity.  Through the
+gaps in the trees, the distant mountain peaks are visible, capped in pure white
+snow.  The forest continues in all directions, except north where fallen trees
+prevent further travel that way.    
+~
+60 0 2 0 0
+D1
+~
+~
+0 0 6073
+D2
+~
+~
+0 0 6069
+D3
+~
+~
+0 0 6049
+S
+#6071
+Steep Sided Pass~
+   Tall pine trees grow thickly here, their fallen needles along the ground
+softening your steps.  The branches overhead seem to weave together and apart
+in their own silent dance, providing a natural cover from inclement weather.  
+The heavy pine scent, along with occasional bird calls from deep within the
+forest, give this place an overwhelming sense of tranquillity.  Through the
+gaps in the trees, the distant mountain peaks are visible, capped in pure white
+snow.  Amongst the rocks at your feet sprout tiny trees, growing amazingly
+strong in such a place.  A clearing has been made and several long flat rocks
+set in a large circle invite one to rest here.  The steep sides of this part of
+the forest leave only the west open.    
+~
+60 0 2 0 0
+D3
+~
+~
+0 0 6048
+S
+#6072
+Steep Sided Pass~
+   Tall pine trees grow thickly here, their fallen needles along the ground
+softening your steps.  The branches overhead seem to weave together and apart
+in their own silent dance, providing a natural cover from inclement weather.  
+The heavy pine scent, along with occasional bird calls from deep within the
+forest, give this place an overwhelming sense of tranquillity.  Through the
+gaps in the trees, the distant mountain peaks are visible, capped in pure white
+snow.  The steep sides of the pass make travel in all directions but south
+impossible.    
+~
+60 0 3 0 0
+D2
+~
+~
+0 0 6073
+S
+#6073
+The Ellinad Forest~
+   Tall pine trees grow thickly here, their fallen needles along the ground
+softening your steps.  The branches overhead seem to weave together and apart
+in their own silent dance, providing a natural cover from inclement weather.  
+The heavy pine scent, along with occasional bird calls from deep within the
+forest, give this place an overwhelming sense of tranquillity.  Through the
+gaps in the trees, the distant mountain peaks are visible, capped in pure white
+snow.  The forest continues in all directions.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6072
+D1
+~
+~
+0 0 6091
+D2
+~
+~
+0 0 6074
+D3
+~
+~
+0 0 6070
+S
+#6074
+The Ellinad Forest~
+   Tall pine trees grow thickly here, their fallen needles along the ground
+softening your steps.  The branches overhead seem to weave together and apart
+in their own silent dance, providing a natural cover from inclement weather.  
+The heavy pine scent, along with occasional bird calls from deep within the
+forest, give this place an overwhelming sense of tranquillity.  Through the
+gaps in the trees, the distant mountain peaks are visible, capped in pure white
+snow.  The forest continues in all directions.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6073
+D1
+~
+~
+0 0 6090
+D2
+~
+~
+0 0 6075
+D3
+~
+~
+0 0 6069
+S
+#6075
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  The high-pitched
+voices of children at play can be heard distantly.  Travel any further to the
+west is blocked by the back of a large building.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6074
+D1
+~
+~
+0 0 6089
+D2
+~
+~
+0 0 6076
+D3
+   The back of a large building obstructs your view.    
+~
+~
+0 0 -1
+E
+path~
+   It is a footpath running alongside the building.    
+~
+E
+building~
+   It is the back of a large building.    
+~
+S
+#6076
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  The high-pitched
+voices of children at play can be heard distantly.  A porch is to the west, in
+all other directions the forest continues.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6075
+D1
+~
+~
+0 0 6088
+D2
+~
+~
+0 0 6077
+D3
+   There is a porch here.    
+~
+~
+0 0 6066
+E
+path~
+   A small footpath makes its way to the back porch.    
+~
+E
+porch~
+   It appears to be the back porch of a house.    
+~
+S
+#6077
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  The high-pitched
+voices of children at play can be heard distantly.  A high fence to the west
+blocks further travel in that direction.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6076
+D1
+~
+~
+0 0 6087
+D2
+~
+~
+0 0 6078
+D3
+   There is a fence here, blocking your way to the garden beyond.    
+~
+~
+0 0 -1
+E
+path~
+   It is a footpath running alongside the fence.    
+~
+E
+fence~
+   It is a fence, blocking your way to a garden beyond.    
+~
+S
+#6078
+Edge of the Ellinad Forest~
+   The forest thins here, giving way to a small footpath.  The high-pitched
+voices of children at play can be heard distantly.  The side of a large red
+building blocks the way to the west.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6077
+D1
+~
+~
+0 0 6086
+D2
+~
+~
+0 0 6079
+D3
+   The side of a large red building obstructs your view.    
+~
+~
+0 0 -1
+E
+path~
+   It is a footpath running alongside the building.    
+~
+E
+building~
+   It is the side of a large red building.    
+~
+S
+#6079
+Thicket of Thorn Bushes~
+   The cover of the trees grows thickly here, muffling the sounds of the forest
+and making it difficult to discern their origin.  Looking up through the few
+gaps in the branches of the trees is disorienting, the sheer distance to the
+sky seeming unfathomable.  The deep green of the evergreens provides a dazzling
+contrast against the red backdrop of their fallen needles.  Passage to the
+south is blocked by a thicket of thorn bushes.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6078
+D1
+~
+~
+0 0 6085
+D2
+   A thicket of thorn bushes obstructs your view.    
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 6063
+E
+thicket thorn bushes~
+   It is a thicket of thorny bushes.    
+~
+S
+#6080
+Thicket of Thorn Bushes~
+   The cover of the trees grows thickly here, muffling the sounds of the forest
+and making it difficult to discern their origin.  Looking up through the few
+gaps in the branches of the trees is disorienting, the sheer distance to the
+sky seeming unfathomable.  The deep green of the evergreens provides a dazzling
+contrast against the red backdrop of their fallen needles.  The forest presses
+on to the south and east.  Further travel to the north and west is prevented by
+a thicket of thorn bushes.    
+~
+60 4 3 0 0
+D0
+   A thicket of thorn bushes obstructs your view.    
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 6084
+D2
+~
+~
+0 0 6081
+D3
+   A thicket of thorn bushes obstructs your view.    
+~
+~
+0 0 -1
+E
+thicket thorn bushes~
+   It is a thicket of thorny bushes.    
+~
+S
+#6081
+The Ellinad Forest~
+   The tall pines and oaks grow less thickly here and the sound of running
+water can be heard coming from the east.  The ground seems spongier at your
+feet.  An occasional butterfly flits by.  Through the gaps in the trees, the
+snow-capped mountains are visible in the distance.  The forest stretches out
+around you, in all directions but west, where fallen trees obstruct further
+travel that way.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6080
+D1
+~
+~
+0 0 6083
+D2
+~
+~
+0 0 6082
+S
+#6082
+Curve in the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the south or east.  A few white willows stand here at the river's edge,
+their branches sweeping gracefully out over the waters.  The forest resumes to
+the north, the river bank continues to the west, and curves gradually toward
+the northeast.    
+~
+60 4194304 2 0 0
+D0
+~
+~
+0 0 6081
+D3
+~
+~
+0 0 6060
+D7
+~
+~
+0 0 6083
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6083
+Curve in the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the east or south.  A few white willows stand here at the river's edge,
+their branches sweeping gracefully out over the waters.  The forest resumes to
+the west and north; the river bank turns gradually to the southwest and
+northeast.    
+~
+60 4194304 2 0 0
+D0
+~
+~
+0 0 6084
+D3
+~
+~
+0 0 6081
+D7
+~
+~
+0 0 6099
+D8
+~
+~
+0 0 6082
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6084
+The Ellinad Forest~
+   The tall pines and oaks grow less thickly here and the sound of running
+water can be heard coming from the east.  The ground seems spongier at your
+feet.  An occasional butterfly flits by.  Through the gaps in the trees, the
+snow-capped mountains are visible in the distance.  The forest stretches out
+around you, in all directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6085
+D1
+~
+~
+0 0 6099
+D2
+~
+~
+0 0 6083
+D3
+~
+~
+0 0 6080
+S
+#6085
+The Ellinad Forest~
+   The tall pines and oaks grow less thickly here and the sound of running
+water can be heard coming from the east.  The ground seems spongier at your
+feet.  An occasional butterfly flits by.  Through the gaps in the trees, the
+snow-capped mountains are visible in the distance.  The forest stretches out
+around you, in all directions.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6086
+D1
+~
+~
+0 0 6098
+D2
+~
+~
+0 0 6084
+D3
+~
+~
+0 0 6079
+S
+#6086
+The Ellinad Forest~
+   The tall pines and oaks grow less thickly here and the sound of running
+water can be heard coming from the east.  The ground seems spongier at your
+feet.  An occasional butterfly flits by.  Through the gaps in the trees, the
+snow-capped mountains are visible in the distance.  The forest stretches out
+around you, in all directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6087
+D1
+~
+~
+0 0 6097
+D2
+~
+~
+0 0 6085
+D3
+~
+~
+0 0 6078
+S
+#6087
+The Ellinad Forest~
+   The tall pines and oaks grow less thickly here and the sound of running
+water can be heard coming from the east.  The ground seems spongier at your
+feet.  An occasional butterfly flits by.  Through the gaps in the trees, the
+snow-capped mountains are visible in the distance.  The forest stretches out
+around you, in all directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6088
+D1
+~
+~
+0 0 6096
+D2
+~
+~
+0 0 6086
+D3
+~
+~
+0 0 6077
+S
+#6088
+The Ellinad Forest~
+   The tall pines and oaks grow less thickly here and the sound of running
+water can be heard coming from the east.  The ground seems spongier at your
+feet.  An occasional butterfly flits by.  Through the gaps in the trees, the
+snow-capped mountains are visible in the distance.  The forest stretches out
+around you, in all directions.    
+~
+60 4 2 0 0
+D0
+~
+~
+0 0 6089
+D1
+~
+~
+0 0 6095
+D2
+~
+~
+0 0 6087
+D3
+~
+~
+0 0 6076
+S
+#6089
+The Ellinad Forest~
+   The tall pines and oaks grow less thickly here and the sound of running
+water can be heard coming from the east.  The ground seems spongier at your
+feet.  An occasional butterfly flits by.  Through the gaps in the trees, the
+snow-capped mountains are visible in the distance.  The forest stretches out
+around you, in all directions.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6090
+D1
+~
+~
+0 0 6094
+D2
+~
+~
+0 0 6088
+D3
+~
+~
+0 0 6075
+S
+#6090
+The Ellinad Forest~
+   Tall pine trees grow thickly here, their fallen needles along the ground
+softening your steps.  The branches overhead seem to weave together and apart
+in their own silent dance, providing a natural cover from inclement weather.  
+The heavy pine scent, along with occasional bird calls from deep within the
+forest, give this place an overwhelming sense of tranquillity.  Through the
+gaps in the trees, the distant mountain peaks are visible, capped in pure white
+snow.  The forest continues in all directions.  The sound of running water
+comes clearly from the east.    
+~
+60 0 2 0 0
+D0
+~
+~
+0 0 6091
+D1
+   A river is visible through the trees.    
+~
+~
+0 0 6093
+D2
+~
+~
+0 0 6089
+D3
+~
+~
+0 0 6074
+S
+#6091
+Steep Sided Pass~
+   Tall pine trees grow thickly here, their fallen needles along the ground
+softening your steps.  The branches overhead seem to weave together and apart
+in their own silent dance, providing a natural cover from inclement weather.  
+The heavy pine scent, along with occasional bird calls from deep within the
+forest, give this place an overwhelming sense of tranquillity.  Through the
+gaps in the trees, the distant mountain peaks are visible, capped in pure white
+snow.  Passage to the north and east is blocked by a steep pass.    
+~
+60 0 3 0 0
+D2
+~
+~
+0 0 6090
+D3
+~
+~
+0 0 6073
+S
+#6092
+High Banks of the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the east.  A few white willows stand here at the river's edge, their
+branches sweeping gracefully out over the waters.  The sharply rising banks on
+all sides prevent travel in any direction but back to the south.  The waters
+flow distantly off to the northeast, where a large body of water is just barely
+discernible.    
+~
+60 4194304 3 0 0
+D2
+~
+~
+0 0 6093
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6093
+The Edge of the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing.
+A wooden bridge has been recenty built across the river.  A few white willows
+stand here at the river's edge, their branches sweeping gracefully out over the
+waters.  The forest resumes to the west; the river bank extends north and
+south.    
+~
+60 4194308 3 0 0
+D0
+~
+~
+0 0 6092
+D1
+~
+~
+0 0 19060
+D2
+~
+~
+0 0 6094
+D3
+~
+~
+0 0 6090
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6094
+The Edge of the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the east.  A few white willows stand here at the river's edge, their
+branches sweeping gracefully out over the waters.  The forest resumes to the
+west; the river bank extends north and south.    
+~
+60 4194304 3 0 0
+D0
+~
+~
+0 0 6093
+D2
+~
+~
+0 0 6095
+D3
+~
+~
+0 0 6089
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6095
+The Edge of the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the east.  A few white willows stand here at the river's edge, their
+branches sweeping gracefully out over the waters.  The forest resumes to the
+west; the river bank extends north and south.    
+~
+60 4194304 3 0 0
+D0
+~
+~
+0 0 6094
+D2
+~
+~
+0 0 6096
+D3
+~
+~
+0 0 6088
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6096
+The Edge of the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the east.  A few white willows stand here at the river's edge, their
+branches sweeping gracefully out over the waters.  The forest resumes to the
+west; the river bank extends north and south.    
+~
+60 4194308 3 0 0
+D0
+~
+~
+0 0 6095
+D2
+~
+~
+0 0 6097
+D3
+~
+~
+0 0 6087
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6097
+The Edge of the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the east.  A few white willows stand here at the river's edge, their
+branches sweeping gracefully out over the waters.  The forest resumes to the
+west; the river bank extends north and south.    
+~
+60 4194304 3 0 0
+D0
+~
+~
+0 0 6096
+D2
+~
+~
+0 0 6098
+D3
+~
+~
+0 0 6086
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6098
+The Edge of the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the east.  A few white willows stand here at the river's edge, their
+branches sweeping gracefully out over the waters.  The forest resumes to the
+west; the river bank extends north and south.    
+~
+60 4194308 3 0 0
+D0
+~
+~
+0 0 6097
+D2
+~
+~
+0 0 6099
+D3
+~
+~
+0 0 6085
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+#6099
+Curve in the Denberra River~
+   The forest thins gradually, leading to the banks of the Denberra River.  
+Occasional sprays from the gently flowing waters pierce the heavy mist.  The
+banks of the river are slippery with mud and leave no possibility of crossing
+to the east or south.  A few white willows stand here at the river's edge,
+their branches sweeping gracefully out over the waters.  The forest resumes to
+the west, the river bank turns gradually to the north and the southwest.    
+~
+60 4194304 3 0 0
+D0
+~
+~
+0 0 6098
+D3
+~
+~
+0 0 6084
+D8
+~
+~
+0 0 6083
+E
+trees willows branches~
+   These beautiful trees grow along the river's edge.  Their strong, silky
+white leafed branches seem to reach out over the waters.  Many a child has
+found a regal seat among these branches over the water.    
+~
+S
+$~

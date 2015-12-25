@@ -1,0 +1,738 @@
+#10800
+boy stableboy young~
+a young stableboy~
+A young stableboy stands here, contemplating the work he has ahead of him.
+~
+   Clothes rumpled and stained with the labors of his work, this young man does
+not look overly enthusiastic to return to his chores.  His dishwater hair has
+been cut short to avoid interfering in his tasks, or more likely, to avoid
+being soiled by them.  Sighing to himself, he grudingly returns to the project
+at hand.    
+~
+8 0 0 850 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+E
+#10801
+boy young~
+a young boy~
+A young boy runs around the stables, pretending that he is one of the great knights.
+~
+   This young man is clad in quite possibly the oddest assortment of junk
+and scraps that he could find.  An old metal water bucket sits atop his head
+and a worn and faded horse blanket trials behind him as if it were the finest
+cape in the realms.  He clomps all about the stables in a pair of boots at
+least three sizes too large for his feet, all the while shouting challenges to
+the 'evil lurkers' he imagines himself to be fighting.    
+~
+264 4 0 850 E
+9 15 7 5d5+130 2d7+1
+80 1300 0
+8 8 1 0
+E
+#10802
+stableboy enthusiastic man young~
+an enthusiastic stableboy~
+A young man with an enthusiastic expression hurries by, quickly going from one task to the next. 
+~
+   Looking very excited to be within the keep in any manner that he can be,
+this young man takes pride in his work and hurries around the stables seeing to
+all of his tasks.  His clothing is straight and well-kept, despite the
+occassional stain from the work that he is currently doing.    
+~
+264 4 0 1000 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 0
+E
+#10803
+archer bowman knight~
+a member of the keep's archers~
+One of the keep's archers, this young man nervously peers out through the arrow slits.
+~
+   Continually shifting from foot to foot, this young man is clearly rather
+nervous at this, his first post.  His person is well-maintained as is his bow,
+which he adjusts in his grip as he figits with the string, awaiting any
+possible need to act.    
+~
+4426 4 0 1000 E
+13 13 3 6d5+240 2d9+2
+200 6625 3
+8 8 1 0
+E
+#10804
+longbowman bowman seasoned knight alert~
+a seasoned longbowman~
+A seasoned longbowman stands his post, his eyes constantly alert and in motion.
+~
+   Seasoned from long years in faithful service of the knighthood, this man
+certainly looks to know his business.  His eyes are narrowed against the
+elements and always in motion, scanning the horizon for signs of trouble.  
+While rather slight of build and not overly intimidating physically, he holds
+his bow by his side with a praticed ease that speaks of years of experience and
+skill.    
+~
+1053002 4 0 1000 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 3
+8 8 1 0
+E
+#10805
+archer bowman longbowman knight~
+an experienced archer of the keep~
+An experienced archer of the keep stands here, keeping vigil over the walls of Thelgaard.
+~
+   Looking quite at ease with his post and his gear, this man has obviously
+spent some time with the Orders here at Thelgaard.  While not large of physique
+or overly intimidating, he has the fluid motion of an experienced bowman and
+eyes that appear as sharp as a hawk's.    
+~
+1053002 4 0 1000 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+E
+#10806
+archer patrolling man~
+a patrolling archer~
+An archer of the keep, this man patrols the walls lending aid where he can.
+~
+   One of the keeps archers, this man is currently making patrols of the walls,
+briefly stopping to peer out of the narrow arrow slits before continuing on.  
+He looks well at ease with life here within the keeps walls, and seems to know
+the area very well.    
+~
+4104 0 0 1000 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+E
+#10807
+knight charger horse cavalry steed~
+a mounted knight~
+A knight is here, directing his magnificent steed along the path to the stables.
+~
+   This knight looks at home astride his magnificent charger, man and beast
+both perfectly matched.  Clad in plate, the knight holds a beautiful lance
+aloft, it's banner snapping crisply in the mountain air.  The warhorse itself
+is a deep, rich chestnut stallion, full of spirit as it paws the ground beneath
+its feet.    
+~
+16777480 4 0 1000 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+E
+#10808
+priest elderly paladine cleric~
+an elderly priest of Paladine~
+An elderly priest stands proudly before the altar, preaching the word of Paladine.
+~
+   While appearing somewhat past his prime years, this older priest yet appears
+to be full of energy and vigor for the praising of the Father of Good.  His
+longer, brown hair has begun to gray, but it is still full and vibrant despite
+the years and hardships, just as this man appears himself.  While he
+continually smiles and speaks in kind, soft words, there is an underlying
+strength and passion from his years aiding the oppressed and spreading the words
+of honor, order, and law.    
+~
+3924314 4268 8503304 850 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 2
+8 8 1 0
+E
+T 2
+#10809
+cleric kiri-jolith middle-aged preaching~
+a middle-aged cleric of Kiri-Jolith~
+A middle-aged cleric stands behind the altar, feverently preaching the word of Kiri-Jolith.
+~
+   While looking to be well into his middle years, this man still looks full of
+life and vigor.  His long black hair is starting to pepper through with silver
+and his short, well-kept goatee is marked by a single streak of silver.  
+Nonetheless, he still holds the appearance of one ready to do his Lord's work,
+even taking back to the fields of battle in support of a righteous cause if
+needs be.    
+~
+1827162 33558716 135872520 850 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 2
+8 8 1 0
+E
+#10810
+priest younger man cleric habbakuk~
+a younger priest of Habbakuk~
+A younger man stands behind the altar, basking in the sounds of his Lord.
+~
+   Appearing rather young for one in such a high position, this young man
+nonetheless seems very confident in his faith and his placement.  While not
+currently giving a sermon, he basks in the sounds of nature that seem oddly
+heightened in this chamber.  He has an open and kind face, willing to hold
+conversations with his congregation on virtually any topic that they feel
+comfortable with, whether it be crisis of faith, or simply the goings on of
+everyday life within the keep.    
+~
+581978 33558588 3227652 850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 2
+8 8 1 0
+E
+#10811
+thinner smaller hair thinning Horst serious man~
+Horst~
+Horst, a smaller man with thinning hair and a serious expression sits here, taking down the names of those who stay within the keep's barracks.
+~
+   Resting behind the desk, he quickly rises to his feet to meet with anyone
+entering his small office here within the keep's barracks.  Well dressed, but
+not of a flamboyant nature, this man appears rather slim for a knight, yet he
+stands with a crispness and precision that speaks of some form of military life
+at one point.  Often, as people come and go from his office, he stops to make
+entries into a large, leather bound book that rests upon his desk.    
+~
+2875466 33690684 3332 850 E
+30 1 -14 3d33+5000 25d2+9
+1900 250000 7
+8 8 1 3
+BareHandAttack: 13
+E
+#10812
+devout warrior knight Archibald arch~
+Archibald~
+Archibald, a devout warrior of Paladine kneels here amoungst the pews, seeking guidance.
+~
+   Before you kneels a man of obvious strength and size, and, judging by the
+fine blade at his side, is likely one of the keep's many defenders.  While
+clearly a warrior by trade, the man seems quite devout and pious, seeking the
+guidance of his patron, Lord Paladine, the Father of Good.  Firmly holding a
+medallion of the Platinum Dragon to his chest, he quietly whispers prayers for
+forgiveness for the souls he has taken in the service of his Lord.    
+~
+2877786 33558588 3332 850 E
+30 1 -14 3d33+8000 4d8+9
+5500 250000 7
+8 8 1 0
+E
+#10813
+knight sword warrior ~
+a proud Knight of the Sword~
+A Sword Knight roams about the courtyard, taking pride in the training of the younger knights.
+~
+   This man shows an obvious zeal for combat as he walks about the courtyard,
+instructing the lesser knights and squires assembled here.  Very large of
+build, this man seems immense, and not an ounce of his body appears to be taken
+to fat or over-indulgence.  While the younger warriors about him occassionally
+show signs of fatigue, he appears nonetheless worse for the execise, in fact
+appearing quite more able-bodied than most half his age.    
+~
+1106248 44 0 850 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 3
+8 8 1 0
+E
+#10814
+squire knight young ~
+a young squire of the knighthood~
+A young squire of the knighthood is here, practicing his swordplay in the courtyard.
+~
+   This young squire looks rather new to the ranks of the knighthood and has
+only begun to undergo his trials.  His face is flushed with exertion as he
+practices his swordplay here in the keep's wide open courtyard.  His eyes yet
+speak of an innocence untainted by battle, yet his skill with his blade appear
+to be ever increasing with his studies.    
+~
+24920 4 0 850 E
+12 13 4 5d6+210 2d8+3
+100 4700 3
+8 8 1 0
+E
+#10815
+page boy young ~
+a young page~
+Rushing by quickly is one of the keep's many young pages, hurrying to deliver a message.
+~
+   This young boy looks rather flushed as he hurries by, obviously in quite a
+rush to deliver some message or other.  Dressed in simple livery, the young
+page appears rather unimportant, likely one of the keep's standard runners,
+carrying only information of day-to-day importance.    
+~
+16456 0 0 200 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 1 0
+BareHandAttack: 13
+E
+#10816
+cleric woman habbakuk wandering~
+a wandering cleric of Habbakuk~
+A young cleric of Habbakuk wanders about the courtyard, seeing to the spiritual well-being of the knights and their squires.
+~
+   This young woman appears rather innocent in the ways of the world, yet her
+faith is stronger than those with twice her experience.  Her complexion would
+be considered quite plain, were it not for the kindness and warth that radiates
+from her eyes.  She wanders though the assembled ranks of knights in training,
+lending her aid when situations tend to get a little out-of-hand.    
+~
+528472 4100 2146308 850 E
+15 11 1 5d10+300 2d8+4
+400 8400 2
+8 8 2 0
+E
+#10817
+seneschal knight warrior~
+the seneschal of Thelgaard~
+The seneschal of Thelgaard Keep is here, rooting through various papers and texts.
+~
+   The seneschal of Thelgaard is here, sifting through various papers and texts
+stored in this small chamber.  He is lean of form and his hair is shot through
+with grey, but he still appears quite capable and his physique is yet well-toned
+from daily exercise.  His sharp eyes cast about from stack to stack, barely
+aware of what is going on outside of his rapidly working mind.    
+~
+7530842 4140 0 850 E
+29 2 -13 3d33+1450 4d7+11
+1800 213000 3
+8 8 1 0
+E
+#10818
+knight errant crown man ~
+an errant knight from the wilderness~
+Wandering slowly about the keep is an errant knight returned from the wilderness.
+~
+   This knight walks slowly about the courtyard, his mind reeling from the
+amount of activity after so long a time spent alone in the wilds.  His long,
+chestnut hair is tangled and somewhat un-kempt, and his eyes cast about almost
+as is wary or nervous.  His once well-trimmed handlebar mustache now grown into
+a long, thick beard that reaches down to his chest.    
+~
+16712 4 0 850 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+E
+#10819
+Knight rose pensive pensive-looking~
+a pensive-looking Knight of the Rose~
+A Knight of the Rose stands here, carefully listening to the words of his companion.
+~
+   This knight is obviously a rather important person about the keep, judging
+by his manner of carriage and the style of his dressing.  Nonetheless, he is
+here, making the rounds just as any other knight, standing his post and keeping
+a sharp eye out for danger.  While his eyes scan the hall for any sign of
+danger, he yet lends a ear to his fellows standing beside him, hearing reports
+and dealing with other matters of import within the keep's walls.    
+~
+11729242 33567036 0 850 E
+29 -2 -13 3d33+6000 4d7+12
+1800 213000 3
+8 8 1 0
+E
+#10820
+mage lady younger woman~
+a lady mage of the white robes~
+A younger looking woman in long white robes stands here, conversing with one of the knights.
+~
+   This woman is clad in the flowing, long robes of a Lady of the White Robes,
+her long raven hair standing out in sharp comparison.  At first glance she
+appears rather young, actually quite so for the manner in which she carries
+herself and the knowledge she appears to contain about the workings of magiks
+and the ways of the world.  Upon closer inspection, several fine lines may be
+discerned, especially around the eyes and mouth, lending her a sense of some
+age that did not before exist.    
+~
+1767434 33698108 8389024 850 E
+29 2 -13 3d33+1450 4d7+9
+1500 213000 1
+8 8 2 0
+E
+#10821
+blacksmith short brawny man~
+the keep's blacksmith~
+A short, brawny man works the grinding wheel, sending a shower of sparks against the wall.
+~
+   This man is not overly tall, but he is quite large nonetheless, his brawny
+form concealing most of the grinding wheel as he leans over it.  He wears the
+simple garb of a blacksmith and carries all of the tools of the trade, yet
+there is no doubt that he was once as fine a knight as any.  The traces of his
+long, handlebar mustache can still be seen, although somewhat singed and worse
+for wear from the constant exposure to the hot sparks.    
+~
+2285898 4100 0 850 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 3
+8 8 1 0
+E
+#10822
+knight sword serious~
+a serious looking Knight of the Sword~
+A Knight of the Sword stands at attention here, clearly taking his post very seriously.
+~
+   Armor polished and gleaming, this knight stands at almost parade-ground
+attention.  His face is stern, both tanned by long days afield in training and
+weathered by the elements.  Eyes slightly narrowed, he seems to follow the
+movements of everyone about him with practiced ease.  Watching this man, there
+can be no doubt to his skill and deadliness were it necessary for him to repel
+an attack.    
+~
+1055066 4140 0 1000 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#10823
+knight sword grinning~
+a widely grinning Sword Knight~
+A Sword Knight returns from the armory, a wide smile spreading across his features.
+~
+   This man looks as though his face might split with the great, hearty smile
+spreading across his features.  He looks down lovingly upon the new axe he has
+just recently retrieved from the keep's armory, almost cradling it in reverence
+and awe.  His light green eyes are alight at the prospect of combat against the
+forces of the Dark Queen and her remaining allies.    
+~
+1630536 4228 3074 850 E
+28 2 -12 3d33+1250 4d7+9
+1700 175000 7
+8 8 1 0
+E
+#10824
+priest kiri-jolith ~
+a warrior-like priest of Kiri-jolith~
+A priest of Kiri-jolith surveys the area, looking for a test of arms that might be of interest.
+~
+   This man is very large of build and quite robust of health as it would seem.
+He wears not the robes of the Clergy, but armor that could more likely be seen
+around him in the courtyard upon one of the knights.  His warm brown eyes hold
+a glint that speaks of a sharp intelligence and, perhaps, an odd sense of
+mirth.  His eyes stop their wandering and a great smile spreads across his face
+as he takes a particular interest in a sparring.    
+~
+1110346 33558716 8994820 850 E
+22 7 -6 3d33+550 3d8+7
+1100 40000 2
+8 8 1 0
+E
+#10825
+knight crown young~
+a young Crown Knight~
+A young Knight of the Crown wanders about the courtyard, enjoying the day and the weather.
+~
+   This man looks rather young and is obviously one of the newer knights to be
+stationed here, judging by the way he still looks at everything as though for
+the first time.  His eyes are constantly moving around the courtyard, trying to
+take in all the sights and lessons that the elder knights have to offer.    
+~
+16712 4 0 850 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+E
+#10826
+knight keep~
+a knight of the keep~
+A knight of the keep is stationed here, aiding in the defense of the keep's archers.
+~
+   His sharp eyes scanning the passageways for signs of trouble, this
+experienced knight is stationed here to aid in the defense of the archers
+should anyone manage to breach the outer walls.  Wandering up and down the
+corridors, he stops frequently to peer out the arrow slits and to hear the
+reports of the archers manning their positions.    
+~
+1077576 4100 0 850 E
+24 6 -8 3d33+750 4d6+8
+1500 68000 3
+8 8 1 0
+E
+#10827
+knight younger watching~
+a youthful looking knight~
+One of the younger knights is here, watching and waiting for his chance to prove himself.
+~
+   This young knight looks anxiously about the courtyard, watching and waiting
+for his chance to prove himself to both his peers and the elder knights.  He
+listens to the other knights tell tales of battle and victory with a great
+sense of excitement and interest.  His eyes sparkle with his enthusiasm and his
+eagerness to learn, and he speaks of his desire to sally forth and do justice
+in the name of Solamnia and the Orders.    
+~
+1069386 4100 0 850 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+E
+#10828
+boy young excitedly~
+a young farm boy~
+A young boy walks excitedly along the road to the keep, gawking at the battlements and grinning.
+~
+   This young man is barely more than a boy, yet with his head full of tales of
+great knights and grand battles, he has determined that he will join the ranks
+of Thelgaard.  His armor hangs loosely upon him, appearing easily two sizes too
+large for his slight frame and the battered scabbard at his side yet hangs
+empty.  None of this seems to detract from his enthusiasm as he constantly
+prattles on to any of the passersby about the deeds he shall do for Solamnia.
+  
+~
+16456 0 0 700 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+E
+#10829
+man farmhand young~
+a young man dressed like a farmhand~
+A young man walks along the roadway, nodding as you pass him by.
+~
+   This young man looks as though he is perhaps most at home upon a farm or
+ranch, but his eyes sparkle with a dream for something more.  His dirty
+blondish hair has been recently cut, and rather poorly, as though done hastily
+and with a dull knife.  While he does not yet appear to be much of a traveler
+or adventurer, his musculature is well-toned from regular exercise, likely the
+result of some tenure as a local farmhand.    
+~
+16456 0 0 850 E
+12 13 4 5d6+210 2d8+3
+100 4700 3
+8 8 1 0
+E
+#10830
+knight younger sword~
+a Sword Knight in training~
+A younger Knight of the Sword is here, practicing and honing his skills.
+~
+   This young knight appears very dedicated as he spends most of his days here
+in the courtyard, honing his skills and preparing for a time when he will need
+to ride out to defend Solamnia.  His eyes are alert, and hold a firm edge of
+steel to them, as though they were a window to his inner strength of will.  He
+proudly wears a medallion of Kiri-Jolith, god of Righteous Warfare, about his
+neck and often mutters silent prayers both before, and after, his sparring
+sessions.    
+~
+4426 4100 2050 850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 7
+8 8 1 0
+E
+#10831
+members man garrison regular~
+a member of the keep's garrison~
+One of the members of the keep's regular garrison stands here, sparring with the other knights.
+~
+   While not truly one of the Knights of Solamnia, this man is a proud defender
+of Thelgaard, taking his place amoung the well-trained garrison contained
+within these walls.  Not to be underestimated, he often comes out to pratice
+with the other knights and is indeed a fine warrior in his own right.  His keen
+eyes show a pride in what he does and a great love for Solamnia and her
+peoples.    
+~
+1065288 4 0 850 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 3
+8 8 1 0
+E
+#10832
+knight rose proud proudly man~
+a proud Rose Knight~
+A Knight of the Rose stands here, proudly watching the younger knights as they train.
+~
+   This man appears to be one of the ranking knights here within Thelgaard,
+judging by the deferment and respect many of his fellows show to him.  His long
+black hair, as well as the tips of his handle-bar mustache, have begun to go to
+silver and wrinkles form at the corners of his eyes as he surveys the training
+of the younger knights.  Yet those eyes still hold the flash of a brilliant and
+clear mind and his body appears easily as fit as any of the younger knights
+about him.    
+~
+3338570 33558572 0 850 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 3
+8 8 1 0
+E
+#10833
+Captain knight archer lithe man~
+the Captain of the keep's archers~
+A lithe man is here making his rounds of the keep's walls, checking in with the archers.
+~
+   This man is much slighter of build than many of the other knights that
+surround him here within the walls of the keep.  Nonetheless, he appears rather
+wiry and moves with a practiced grace and skill that speaks of his years of
+training.  His eyes are sharp and serious, and while he wanders about the walls
+with an aire of nonchalance, you have no doubt that those same eyes take in
+everything that happen within his domain.    
+~
+3334472 33558572 0 850 E
+27 3 -11 3d33+1100 4d7+8
+1600 135000 3
+8 8 1 0
+E
+#10834
+knight sword seasoned man~
+a seasoned Sword Knight~
+A knight watches the activities here, unconsciously fiddling with a horn-shaped symbol.
+~
+   As this man wanders about the courtyard his keen eyes watch each of the
+sparring pairs in turn, lending advice and demenstrating various combat
+techniques for the benefit of the younger knights.  His voice is strong and
+sure, easily carrying over the ring of steel on steel as he aids in the
+instruction of the martial tactics of the knighthood.  Dangling from about his
+neck is a small symbol of a horn, which he absentmindedly adjusts as he
+observes and critiques the various stances and forms.    
+~
+3203400 4140 0 850 E
+24 6 -8 3d33+750 4d6+8
+1500 68000 3
+8 8 1 0
+E
+#10835
+knight rose teaching man~
+a Knight of the Rose~
+A Knight of the Rose is here teaching the importance of strategy and preserving life.
+~
+   This knight is here to teach the younger knights of his Order the value of
+keen strategy and the importance of preserving every life in a combat
+situation.  As he looks around himself, he reminds all present that no life
+should be wasted in vain and that every soul lost in combat must know that it
+has passed for a noble and just purpose.    
+~
+3400010 33689628 0 850 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 3
+8 8 1 0
+E
+#10836
+missionary cleric priest wandering~
+a wandering missionary~
+A wandering missionary roams about the area, seeking refuge for the night.
+~
+   Dressed in heavy robes and a thick travelling cloak to help ward off the
+cold mountain air, little can be seen of this man from a distance.  Looking out
+from the hood of his robes is a kind face, lit by his warm, brown eyes and his
+ever-present smile of serenity.  As you pass him by he gives you a hearty
+greeting as you approach and wishes you safe journeys when you depart his
+company.    
+~
+1695816 33558716 1654792 850 E
+24 6 -8 3d33+750 4d6+8
+1500 68000 2
+8 8 1 0
+E
+#10837
+knight man observing~
+a knight of some standing~
+A knight of some standing is here observing his fellows, occassionally lending advice.
+~
+   This man stands here, casually observing the rest of the activity around
+him.  Obviously he is a man of some standing or rank within the Orders, judging
+by his manner and the deferment that his fellows seem to give him.  His hair is
+long and left free, wavering in the mountain air and, as he surveys the
+courtyard of Thelgaard, he twists the tip of his long, handle-bar in his
+fingers thoughtfully.    
+~
+7397706 4140 0 850 E
+24 6 -8 3d33+750 4d6+8
+1700 68000 3
+8 8 1 0
+E
+#10838
+squire young man wanders~
+a young squire-in-training~
+A young man wanders about the area, just beginning his training as a squire of the Orders.
+~
+   This young man appears to have just arrived at the keep to begin his
+training in the ways of the knighthood.  He wanders about the area, his eyes
+wide as he takes in all of the scenes for the first time.  As he looks about
+himself, his face becomes bright and his eyes shine with his pride at being
+accepted into the Orders.    
+~
+16712 4 0 850 E
+12 13 4 5d6+210 2d8+3
+100 4700 3
+8 8 1 0
+E
+#10839
+knight crown proudly proud man smiling~
+a Knight of the Crown~
+A Knight of the Crown proudly walks about the courtyard, smiling and greeting his fellows.
+~
+   This knight wanders about the keep, stopping to greet his comrades in arms
+and aiding with any assistance that he can provide.  While he still appears
+rather young of age, he yet seems wise and skilled in the ways of the Orders.
+After doing all that he can to aid the others in this area, he then continues
+about his circuit of the keep.    
+~
+1065288 4100 0 850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+E
+#10840
+warrior garrison training~
+a warrior from the ranks of the garrison~
+A warrior from the ranks of the garrison is here, training side by side with the other knights.
+~
+   This man hails not from the ranks of the Solamnic Knights themselves, but
+rather from the garrison of the keep itself.  While not swearing the same oaths
+as the knights about him, he appears to be dedicated to the cause of goodness
+and justice, nonetheless, and has sworn to defend the Solamnia as best he can.
+For now he is here, practicing with the others of the keep, honing his skills
+until the day comes that he needs employ them in the protection of his
+homelands and his people.    
+~
+1048904 4 0 850 E
+17 10 -1 3d20+340 3d6+5
+600 11800 3
+8 8 1 0
+E
+#10841
+squire keep's man squires~
+an older squire of the keep~
+One of the keep's squires is here, practicing and learning for the day when he becomes a knight.
+~
+   This squire appears somewhat older than many of the others encountered
+throughout the keep, possibly nearing the end of his squireship and approaching
+his knighting.  His eyes appear sharper and better trained than most, but
+watching his actions he still appears to require a bit more guidance before his
+goal is attained.    
+~
+16712 4 0 850 E
+15 11 1 5d10+300 2d8+4
+400 8400 3
+8 8 1 0
+E
+#10842
+knight templar holy warrior paladin ~
+a knight templar~
+A wandering holy warrior strolls about the courtyard, in turns both teaching and being taught.
+~
+   This man wanders about the courtyard, stopping to both listen to the
+teachings of the elder knights present and aiding the younger knights in honing
+there skills and devotion.  His manner is very respectful and somber and his
+clean-shaven face and short, well-groomed hair match his aire of dignity and
+seriousness.  His armor is well-kept and cared for and his shield bares a
+beautiful embossing of a great bison's head, the symbol of the Lord of
+Rightious Warfare, Kiri-Jolith.    
+~
+1577288 4140 3076 850 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 7
+8 8 1 0
+E
+#10843
+courier knight solamnic postmaster~
+a solamnic courier rider~
+A knight leads his horse to the gates, preparing to make the long courier run to Palanthas.
+~
+   This young knights light brown hair is worn quite short, so as to not impede
+him or tangle during his many long rides between Thelgaard Keep and the
+Solamnic city of Palanthas.  He fills his saddlebags and pouches with various
+documents destined for the lands outside of Thelgaard.  As you approach he
+looks up briefly inquiring as to whether or not you have any messages that you
+desire him to carry to the postmaster of Palanthas.    
+~
+7594074 33567800 0 0 E
+30 1 -14 3d33+10000 4d8+9
+0 250000 0
+8 8 1 1
+E
+$

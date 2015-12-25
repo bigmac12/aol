@@ -1,0 +1,1995 @@
+#1400
+A Roadside Campsite~
+   To the north, the Merchant's Highway wanders its way across the land.  To
+the south, a few tents have been arranged in a clearing around a camp fire
+which glows brightly.  Several loud voices can also be heard coming from the
+south.  A few tree stumps litter the area surrounded by grass which has been
+trodden down apparently by the campers to the south.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 7219
+D2
+~
+~
+0 0 1402
+D8
+~
+~
+0 0 1401
+D9
+~
+~
+0 0 1403
+S
+#1401
+A Roadside Campsite~
+   To the north, the Merchant's Highway wanders its way across the land while
+just to the southwest a large fire glows brightly.  Several figures are
+standing and sitting around the fire and their loud and riotous voices fill the
+area.  The grass here has been trodden down by the feet of those camping here
+as they walk from tent to tent or from the tent to the fire.  To the south, a
+few small tents surround the campfire.    
+~
+14 32768 0 0 0
+D1
+~
+~
+0 0 1402
+D2
+~
+~
+0 0 1405
+D7
+~
+~
+0 0 1400
+D9
+~
+~
+0 0 1406
+S
+#1402
+A Roadside Campsite~
+   To the north, the Merchant's Highway wanders its way across the land while
+just to the south a large fire glows brightly.  Several figures are standing
+and sitting around the fire and their loud and riotous voices fill the area.  
+The grass here has been trodden down by the feet of those camping here as they
+walk from tent to tent or from the tent to the fire.  A shabby, half colapsed
+tent to the east constrasts badly with the other tents that surround the fire.
+  
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1400
+D1
+~
+~
+0 0 1403
+D2
+~
+~
+0 0 1406
+D3
+~
+~
+0 0 1401
+D8
+~
+~
+0 0 1405
+D9
+~
+~
+0 0 1407
+S
+#1403
+A Roadside Campsite~
+   To the north, the Merchant's Highway wanders its way across the land while
+just to the southwest a large fire glows brightly.  Several figures are
+standing and sitting around the fire and their loud and riotous voices fill the
+area.  The grass here has been trodden down by the feet of those camping here
+as they walk from tent to tent or from the tent to the fire.  A shabby, half
+colapsed tent to the east constrasts badly with the other tents that surround
+the fire.    
+~
+14 32768 0 0 0
+D1
+~
+~
+0 0 1418
+D2
+~
+~
+0 0 1407
+D3
+~
+~
+0 0 1402
+D6
+~
+~
+0 0 1400
+D8
+~
+~
+0 0 1406
+S
+#1404
+Inside a Small Tent~
+   The inside of this tent is very clean even though it has seen a lot of use
+during it's owners stay here evident by the fact that the grass that once grew
+here has been worn away to bare dirt.  A small bundle of blankets have been
+neatly folded and placed against the back wall of the tent right beside a low
+table which apparently also serves as a bed.    
+~
+14 32768 0 0 0
+D1
+~
+flaps~
+1 0 1405
+S
+#1405
+A Roadside Campsite~
+   To the east a fire glows brightly as several figures stand and sit around
+it.  Their loud voices fill the area.  A small stump slowly rotting away gives
+evidence of the forests that once covered this area.  To the west a small,
+white tent stands silently with its flaps securely tied.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1401
+D1
+~
+~
+0 0 1406
+D2
+~
+~
+0 0 1410
+D3
+~
+flaps~
+1 0 1404
+D7
+~
+~
+0 0 1402
+D9
+~
+~
+0 0 1411
+S
+#1406
+Center of the Campsite~
+   A sweltering heat fills this area from the large campfire burning here.  
+Roaring flames quickly consume the large chunks of wood which are occasionally
+thrown into the fire.  Several bottles litter the area and looking into the
+flames, you notice a few more slowly being blackened by soot and ash.  To the
+west, east and south, white tents have been arranged in a horseshoe shape
+around this fire.    
+~
+14 32772 0 0 0
+D0
+~
+~
+0 0 1402
+D1
+~
+~
+0 0 1407
+D2
+~
+~
+0 0 1411
+D3
+~
+~
+0 0 1405
+D6
+~
+~
+0 0 1401
+D7
+~
+~
+0 0 1403
+D8
+~
+~
+0 0 1410
+D9
+~
+~
+0 0 1412
+S
+#1407
+A Roadside Campsite~
+   To the west a fire glows brightly as several figures stand and sit around
+it.  Their loud voices fill the area.  A small stump slowly rotting away gives
+evidence of the forests that once covered this area.  To the east a small,
+white tent stands silently with its flaps securely tied.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1403
+D1
+~
+flaps~
+1 0 1408
+D2
+~
+~
+0 0 1412
+D3
+~
+~
+0 0 1406
+D6
+~
+~
+0 0 1402
+D8
+~
+~
+0 0 1411
+S
+#1408
+Inside a Small Tent~
+   The inside of this tent is very clean even though it has seen a lot of use
+during it's owners stay here evident by the fact that the grass that once grew
+here has been worn away to bare dirt.  A small bundle of blankets have been
+neatly folded and placed against the back wall of the tent right beside a low
+table which apparently also serves as a bed.    
+~
+14 32768 0 0 0
+D3
+~
+flaps~
+1 0 1407
+S
+#1409
+Inside a Small Tent~
+   The inside of this tent is very clean even though it has seen a lot of use
+during it's owners stay here evident by the fact that the grass that once grew
+here has been worn away to bare dirt.  A small bundle of blankets have been
+neatly folded and placed against the back wall of the tent right beside a low
+table which apparently also serves as a bed.    
+~
+14 32768 0 0 0
+D1
+~
+flaps~
+1 0 1410
+S
+#1410
+A Roadside Campsite~
+   To the northeast a fire glows brightly as several figures stand and sit
+around it.  Their loud voices fill the area.  A small stump slowly rotting away
+gives evidence of the forests that once covered this area.  To the west and
+south a small, white tent stands silently with its flaps securely tied.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1405
+D1
+~
+~
+0 0 1411
+D2
+~
+flaps~
+1 0 1414
+D3
+~
+flaps~
+1 0 1409
+D7
+~
+~
+0 0 1406
+S
+#1411
+A Roadside Campsite~
+   To the north a large campfire glows brightly.  Several figures can be seen
+from here standing and sitting.  Their loud voices fill the area.  Directly to
+the south is a white tent which is a bait larger then the other tents that
+surround the campfire.  The grass here has been nearly worn away by the
+constant traffic to and from this tent.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1406
+D1
+~
+~
+0 0 1412
+D2
+~
+~
+0 0 1415
+D3
+~
+~
+0 0 1410
+D6
+~
+~
+0 0 1405
+D7
+~
+~
+0 0 1407
+S
+#1412
+A Roadside Campsite~
+   To the northwest a fire glows brightly as several figures stand and sit
+around it.  Their loud voices fill the area.  A small stump slowly rotting away
+gives evidence of the forests that once covered this area.  To the east and
+south a small, white tent stands silently with its flaps securely tied.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1407
+D1
+~
+flaps~
+1 0 1413
+D2
+~
+flaps~
+1 0 1416
+D3
+~
+~
+0 0 1411
+D6
+~
+~
+0 0 1406
+S
+#1413
+Inside a Small Tent~
+   The inside of this tent is very clean even though it has seen a lot of use
+during it's owners stay here evident by the fact that the grass that once grew
+here has been worn away to bare dirt.  A small bundle of blankets have been
+neatly folded and placed against the back wall of the tent right beside a low
+table which apparently also serves as a bed.    
+~
+14 32768 0 0 0
+D3
+~
+flaps~
+1 0 1412
+S
+#1414
+Inside a Small Tent~
+   The inside of this tent is very clean even though it has seen a lot of use
+during it's owners stay here evident by the fact that the grass that once grew
+here has been worn away to bare dirt.  A small bundle of blankets have been
+neatly folded and placed against the back wall of the tent right beside a low
+table which apparently also serves as a bed.    
+~
+14 32768 0 0 0
+D0
+~
+flap~
+1 0 1410
+S
+#1415
+Inside a Large Tent~
+   A large image of The World Tree dominates this area of the tent.  Candles
+surround it and cover it in a soft white glow.  Fresh flowers fill the air with
+a pleasant aroma.  A few small wooden benches have been set in rows before the
+image of The Tree of Life.  Apparently these worshippers use this area as a
+small temple and meeting hall while they try to convince their guardsmen that
+it is time to be moving onwards towards their destination.  Judging by the
+activity here it appears that a ceremony is about to get under way.    
+~
+14 32772 0 0 0
+D0
+~
+~
+0 0 1411
+D2
+~
+~
+0 0 1417
+S
+#1416
+Inside a Small Tent~
+   The inside of this tent is very clean even though it has seen a lot of use
+during it's owners stay here evident by the fact that the grass that once grew
+here has been worn away to bare dirt.  A small bundle of blankets have been
+neatly folded and placed against the back wall of the tent right beside a low
+table which apparently also serves as a bed.    
+~
+14 32768 0 0 0
+D0
+~
+flaps~
+1 0 1412
+S
+#1417
+Inside a Large Tent~
+   This is where the priests gather before their ceremonies to prepare to
+spread the words of wisdom to their disciples.  It is also where the highest
+ranking preist among the group stays so that he is constantly near the symbols
+of his god to protect and care for them.  The smell of fresh cut flowers slowly
+fills the area from the north.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1415
+S
+#1418
+In Front of a Shabby Tent~
+   The smoke from a small fire drifts in here from the east where a shabby tent
+stands.  The grass that once covered this patch of ground has been worn away
+until nothing but bare dirt is left.  Several loud voices reach your ears from
+off in the distance but you are unable to make out what they are saying.    
+~
+14 32768 0 0 0
+D1
+~
+~
+0 0 1419
+D3
+~
+~
+0 0 1403
+S
+#1419
+At the Entrance to a Shabby Tent~
+   Standing here you can see that the tent to the east is covered with dirt.  
+A loud snore and foul odor emminate from it.  A small cooking fire glows dimly
+off to one side adding the stench of its smoke to almost overwhelming smell
+that permeates the area.    
+~
+14 32768 0 0 0
+D1
+~
+flaps~
+1 0 1420
+D3
+~
+~
+0 0 1418
+S
+#1420
+Inside a Shabby Tent~
+   The interior of this tent is covered with half empty bottles and smells of
+stale alcohol, urine and vomit.  Several articles of stained clothes cover the
+ground looking as if their owner just removed them and tossed them onto the
+ground.  A small cot in the center of the tent is covered by a pile of blankets
+and it seems that most of the foul smell is coming from them along with a loud
+snore.    
+~
+14 32768 0 0 0
+D3
+~
+flaps~
+1 0 1419
+S
+T 1420
+#1421
+The Morning Dew Chamber of Commerce~
+   The Morning Dew Chamber of Commerce is refreshingly cool compared to the
+heat of the sun outside.  Large windows on the northern and southern walls
+allow a welcome breeze to cool the building.  The advertisements and posters
+that line the wall blow softly in the breeze, looking as though they may fall
+to the ground.  A long counter runs along the back of the building.  It is
+covered with pamphlets from local businesses.    
+~
+14 32776 0 0 0
+D3
+~
+~
+0 0 4103
+S
+#1422
+A Townhouse~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+14 32780 0 0 0
+D3
+~
+~
+0 0 4104
+S
+#1423
+A Townhouse~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+14 32780 0 0 0
+D1
+~
+~
+0 0 4104
+S
+#1424
+A Townhouse~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+14 32780 0 0 0
+D3
+~
+~
+0 0 4106
+S
+#1425
+A Townhouse~
+   This modest dwelling has all the basic amenities required for city living.
+A large fireplace in the corner provides heat and light as well as a convenient
+place to cook.  Situated near the fire are a comfortable looking couch and a
+few wooden chairs.  A round table stands on the other side of the room.  The
+plank flooring is covered with a homespun rug of various colors that helps to
+keep them home warm during the winter months.  The sleeping quarters are
+located in a loft that is visible overhead.    
+~
+14 32780 0 0 0
+D1
+~
+~
+0 0 4106
+S
+#1428
+The Haveanna Post Office~
+   The post office here in Haveanna is a small, cramped room.  A small table
+has been placed at the back of the room to serve as a counter.  It overflows
+with piles of mail and brown paper packages tied up with string.  Several sets
+of wooden shelves, divided into mail slots, line the eastern and western walls.
+~
+14 32780 0 0 0
+D2
+~
+~
+0 0 1429
+S
+#1429
+The Haveanna Chamber of Commerce~
+   The Haveanna Chamber of Commerce was founded by the local merchants in the
+hopes of increasing the revenues of the city.  The Chamber has become
+increasingly busy as adventurers travel south through this region.  The walls
+are cluttered with bulletins and posters of every kind.  One large poster is
+for the local tavern, The Charging Boar Inn.    
+~
+14 32776 0 0 0
+D0
+~
+~
+0 0 1428
+D1
+~
+~
+0 0 2818
+E
+poster Charging Boar Inn~
+   The Charging Boar Inn currently has vacant rooms available.  Please see Kell
+if you are interested in an offer.    
+~
+S
+#1430
+A Recklessly Cut Trail~
+   This is a trail leading deeper into the forest.  It seems very recklessly
+cut, as though a giant went crashing through it.  Trees are hacked off all
+around, and strung out in every direction.  What kind of beast could cause such
+a mass of destruction such as this?  Along either side of the trail are deep
+ditches or ruts that continue to follow the trail from the road deeper into the
+forest.    
+~
+14 32768 2 0 0
+D7
+~
+~
+0 0 1431
+D8
+~
+~
+0 0 8335
+S
+#1431
+A Recklessly Cut Trail~
+   This is a trail leading deeper into the forest.  It seems very recklessly
+cut, as though a giant went crashing through it.  Trees are hacked off all
+around, and strung out in every direction.  What kind of beast could cause such
+a mass of destruction such as this?  Along either side of the trail are deep
+ditches or ruts that continue to follow the trail from the road deeper into the
+forest.    
+~
+14 32768 2 0 0
+D1
+~
+~
+0 0 1432
+D8
+~
+~
+0 0 1430
+S
+#1432
+A Deeply Shadowed Area~
+   The trail seems to end abruptly here, and the area is covered by a deeper
+shadow.  The area around has large wheels, and then the wheels connect to what
+is causing the shadow.  Above is a massive steel contraption, with spinning
+blades.  This could only be the work of those busy bodies of Krynn...  Gnomes.
+In the bottom of this contraption is a small hatch.    
+~
+14 32768 2 0 0
+D3
+~
+~
+0 0 1431
+D4
+A massive contraption of some sort looms above you, it appears to be made of solid steel, and many whirling gears and other pieces.  Right above you is a hatch cut into the body of the contraption.
+~
+hatch~
+1 0 1433
+S
+#1433
+Inside the Hulking Contraption~
+   The sound of machinery at work here is deafening.  All around are spinning
+gears and twisting cranks.  The gear works all around are powering the massive
+machine.  Then from a far corner of this contraption you hear, a loud 'BANG!  
+' Gears and pulleys go flying in all directions, and the ship is once more
+silent.    
+~
+14 32808 0 0 0
+D1
+~
+~
+0 0 1434
+D5
+~
+hatch~
+1 0 1432
+S
+#1434
+Outside of the Cockpit~
+   The craft is still at the moment, and all is quiet.  Except for the rapid
+muttering and yelling across the machine.  Then a gear in the corner starts
+spinning, and jumps out of it's place.  The ship tremors, and then is quiet
+again.  From behind the door to the east you hear loud shouting and cursing.  
+
+~
+14 32808 0 0 0
+D0
+~
+~
+0 0 1435
+D1
+~
+door~
+1 0 1439
+D2
+~
+~
+0 0 1437
+D3
+~
+~
+0 0 1433
+S
+#1435
+A Large Furnace~
+   The heat is extreme here, and makes you sweat through your clothes.  A large
+furnace is glowing red, and shoots flames out every few moments, scorching
+everthing in the room.  What ever these gnomes are using for fuel, you can
+guess it is of their own making.  The entire room is scorched black from these
+shooting flames.    
+~
+14 32808 0 0 0
+D2
+~
+~
+0 0 1434
+D3
+~
+~
+0 0 1436
+S
+#1436
+A Small Compartment Filled With Chests~
+   This is a large compartment of this machine, where the walls are lined with
+large complex looking chests, stacked from floor to ceiling.  These boxes look
+extremely strange and almost impossible to figure out which side is the lid.  
+What could possibly fill these chests is almost impossible to figure out.  A
+lone box sits in the middle of the room, evidently there wasn't enough room in
+the rest of the stacks.    
+~
+14 32808 0 0 0
+D1
+~
+~
+0 0 1435
+S
+#1437
+A Passageway with Gears and Cords All About~
+   This entire passageway is filled with with gears, springs, and cords.  
+Cables run from one end to another, and then back across diagonally.  There
+seems to be no real order to this room.  It is hard to tell, whether this stuff
+was just flung here, or actually serves a purpose, but hopefully the ones who
+run this machine do know.    
+~
+14 32808 0 0 0
+D0
+~
+~
+0 0 1434
+D3
+~
+~
+0 0 1438
+S
+#1438
+A Dead End of Pipes and Tubes~
+   Pipes and tubes run across the ceiling, and down the walls all around here.
+They seem to go without reason or purpose.  One glass pipe on the wall seems to
+be trasporting raisens about the machine.  All of a sudden an ear-piercing
+whistle sounds from above, covering all other noises.    
+~
+14 32808 0 0 0
+D1
+~
+~
+0 0 1437
+S
+#1439
+Cockpit of this Gnomish Contraption~
+   A four-paned glass give you a clear view of the forest about this machine.
+A dashboard encircles the entire room, with multiple buttons, dial, levers, and
+three steering wheels.  Each device is labled with a tag, that seems to contain
+a half-page message on it's effects, how to operate it, and who installed it.
+On the floor in front of the dash board are a half-dozen foot pedals.    
+~
+14 32808 0 0 0
+D3
+~
+door~
+1 0 1434
+S
+#1440
+The Entrance Foyer~
+   This room is rather plain and humble, yet warming to both the body and the
+eyes.  The worn wooden floor has seen much traffic but is nonetheless
+well-oiled and polished, giving testament to a loving caretaker.  A large,
+cast-iron box contains a pile of hot coals and burning embers that provides the
+heat source for this room.  A small sign near the entrance welcomes all to
+enter and share in the warmth and shelter of this building.    
+~
+14 32780 0 0 0
+D0
+~
+~
+0 0 1441
+D2
+~
+~
+0 0 2060
+S
+#1441
+Alms To The Poor~
+   This room is quite similar to the foyer in its appearance and warmth.  Many
+large trunks and chests line the walls here, apparently containing all of the
+donations that have accumulated and await re-distribution.  Acolytes of several
+various gods of light circulate throughout the room, greeting the newcomers and
+collecting coin or other donations for the impoverished of the realms.  A small
+sign details the process through which donations are made and where they are
+taken.    
+~
+14 32776 0 0 0
+D0
+~
+~
+0 0 1444
+D1
+~
+~
+0 0 1443
+D2
+~
+~
+0 0 1440
+D3
+~
+~
+0 0 1442
+E
+sign~
+   All donations may be placed anywhere on the floor in this room and once they
+are offered to Angelina, she or one of her assistants will take care of them.
+All items left in this room will be considered to be a contribution, so be sure
+that you only donate that which you can spare when you make the <offer>.  Thank
+you, and may the Gods shine upon you in your generosity.    
+~
+S
+#1442
+The Soup Kitchen~
+   The first thing that you notice as you walk into this room is the aroma of
+food cooking.  A line of somewhat haggard men and women wraps its way around
+the room, passing by the entrance to a small kitchen in the back.  At the head
+of the line stands a smiling chef that serves up today's fare, free of charge.
+A perhaps too boisterous acolyte of Mishakal circulates about the room, seeing
+to everyones needs and trying to help raise the people's spirits.  Stealing a
+look at a passing plate, you don't recognize the dish, but it smells
+suprisingly quite delicious.    
+~
+14 32776 0 0 0
+D1
+~
+~
+0 0 1441
+S
+#1443
+A Communal Sleeping Area~
+   One of the largest rooms contained within the building is the sleeping area.
+This room is cluttered with cots and large piles of clean blankets.  People's
+belongings occupy the spaces underneath the cots, and, for a few coppers a day,
+an entire family may stay the night.  Privacy is almost non-existant, but no
+one seems to mind, as at least they have a dry, warm place to stay away from
+the elements.    
+~
+14 32776 0 0 0
+D3
+~
+~
+0 0 1441
+S
+#1444
+Hallway Of The Gods~
+   This is a long hallway, full of warm tones and quite cheerfully lit.  The
+light merrily dances off bright splashes of color that adorn the walls here.  
+Murals depicting the gods of light cover the walls, the ceiling, and even the
+floors in places.  As you look at these murals, it becomes obvious that most of
+these have been done by the hands of children.  Skills in artistry range from
+that of the indistinctly simple and joyous to amazingly beautiful and surreal.
+~
+14 32776 0 0 0
+D0
+~
+~
+0 0 1445
+D2
+~
+~
+0 0 1441
+S
+#1445
+The Well Of Wishes~
+   Perhaps the largest room in this structure, this room is dominated by
+breathtaking wall murals and an elaborately tiered wishing well.  This immense
+room contains murals depicting all of the gods of good, each one skillfully
+merging into and through the next.  The platinum dragon, Paladine, dominates
+the east wall and blends throughout all of the others, gently curling His tail
+about the legs of the skymistress, Mishakal, on the opposite wall.  Numerous
+stone and wooden benches are placed in this area to allow people to have a
+quiet place for peaceful contemplation.  A bronze plaque is affixed to the
+wishing well, giving thanks to the many contributors who helped make this
+shelter a reality.    
+~
+14 32776 0 0 0
+D1
+~
+~
+0 0 1447
+D2
+~
+~
+0 0 1444
+D3
+~
+~
+0 0 1446
+S
+#1446
+The Blue Lady~
+   A beautifully built room filled with warm wood tones marks a small shrine to
+the Lady of Healing, Mishakal.  The room seems to gather its name from the
+priestess of Mishakal that drifts about the place, always appearing to be lit by
+the soft, blue light that shines down from above.  As you look to the ceiling
+of this room, you can see a dazzling stained-glass skylight of blue, shaped to
+the form of the infinity loop of Mishakal's celestial body.    
+~
+14 32776 0 0 0
+D1
+~
+~
+0 0 1445
+S
+#1447
+The Walk Of The Knight~
+   The murals on the walls in this hallway depict the birth of the Knights of
+Solamnia.  As you first enter the hallway the murals are dark and brooding.  
+In this area they feature a haggard and weary warrior that takes shelter from a
+tempest behind the cover of a massive spire of black granite.  As you proceed
+through the hall, so does the mural, gradually telling a tale.  As the sky in
+the scene is split by lightning, the constellations of the platinum dragon, the
+bison, and the phoenix, flare brightly over the head of the warrior, as though
+acting to guide him.  In the last scene, the same haggard warrior, Vinas
+Solamnus, rejoices in the warm glow of the black granite turned white by the
+presence of the Triumverate, as they impart the formation of the Knighthood unto
+him.    
+~
+14 32776 0 0 0
+D1
+~
+~
+0 0 1448
+D3
+~
+~
+0 0 1445
+S
+#1448
+Est Sularus Oth Mithas~
+   The walls in this room are lined with tapestries and an assortment of family
+crests denoting some of the more prevalent families of Solamnia.  The largest
+and highest quality of these is a tapestry featuring a crown, kingfisher, a
+sword, and a rose, the standard of the Knights of Solamnia.  A large tome that
+chronicles the history and purpose of the Knighthood rests upon an ornate table
+that is fashioned with supports made to resemble the three gods of the Solamnic
+Triumverate.    
+~
+14 32776 0 0 0
+D0
+A tapestry hangs here, moving slightly in a breeze.
+~
+tapestry~
+1 0 1449
+D3
+~
+~
+0 0 1447
+S
+#1449
+Knightly Council Chambers~
+   This chamber appears quite similar to its counterpart in the temple of
+Paladine in Kalaman.  A large, circular table of oak dominates the center of
+the room and is surrounded by several simple wooden chairs.  Unlike its twin in
+Kalaman, this room appears to be more cramped and sparse, featuring much less
+attention on its occupants.  Maps of both geological and tactical import can be
+seen strewn about the table and hanging on the walls.    
+~
+14 32776 0 0 0
+D2
+A tapestry hangs here, moving slightly in a breeze.
+~
+tapestry~
+1 0 1448
+S
+#1450
+A Tiny Clearing by the Side of the Road~
+   This tiny clearing is barely big enough for a resting human to stretch out
+their legs in front of them.  However, it seems plenty big enough to play host
+to its diminutive creator.  The hundreds of tiny footprints going in all
+directions which made this small clearing can only belong to a kender.  Bright
+ribbons of every color, some tied with bells, hang from the lowest of the tree
+limbs surrounding the clearing.  They blow gaily in the breeze creating a
+cheerful chiming sound.    
+~
+14 32768 2 0 0
+D1
+~
+~
+0 0 8600
+S
+#1451
+A Wide Cave Dug Into Rock~
+   The cave widens out considerably here, and spans out in all directions.  
+The area is absolutely crawling with humanoid life!  Hobgoblins inhabit the
+area, with a few goblins dashing around for cover from their abusive hobgoblin
+overlords.  The area smells heavily of smoke, and is lit by torches clamped
+onto the cave walls.  There is a little community here, with certain areas of
+the caves leading off into other living quarters.  The most activity seems to
+be centered around the passageway to the southeast.  In the middle of the cave
+floor is a large iron cage, which covers a small tunnel leading down into
+darkness.  Passageways dug into the stone move from here to the northwest and
+southeast, as well as back toward the southwest.    
+~
+14 294920 1 0 0
+D1
+~
+~
+0 0 1456
+D5
+~
+pit cage iron bars trap trapdoor~
+1 0 1452
+D6
+~
+~
+0 0 1453
+D8
+~
+~
+0 0 4676
+D9
+~
+~
+0 0 1454
+S
+#1452
+The Beast Pit~
+   This hole in the ground has been dug for one purpose alone: to house
+creatures which the hobgoblins keep as "pets" for their own amusement.  
+Several piles of bones which have been picked clean lie about in the dark
+corners of this pit, the leftovers of previous kills.  When one of the tribe
+becomes too old, weak, or disobedient, it is likely that they are thrown down
+here to the beasts.  The only way back up is the way you came.    
+~
+14 365 1 0 0
+D4
+~
+cage iron bars trap trapdoor~
+1 0 1451
+S
+#1453
+A Smelly Barracks in the Cave~
+   The smell in here is terrible.  It does not take long to find the source of
+the odor.  The walls of the cave are lined with bunks, which are all very
+poorly taken care of, stained, and horrid-smelling.  There are some chests
+lying at the bases of the beds, which likely contain the hobgoblins' belongings
+and personal effects, though there is very little here of worth.  Hobgoblins of
+all shapes and sizes and ranks are constantly moving in and out of the area,
+most of them wondering what you are doing here.  The passage to the southeast
+leads back into the main cave.    
+~
+14 32776 1 0 0
+D9
+~
+~
+0 0 1451
+S
+#1454
+A Rough Audience Chamber~
+   This particular section of cave seems to serve as the main audience chamber
+of the Hobgoblin Chieftain.  This is where hobgoblins come when they want to be
+graced with their fearless leader's presence.  The walls are lined with
+torches, lighting the room up considerably.  The floor has been swept clean,
+and the smell here is slightly preferrable to that of the rest of the complex.
+There is a door at the southern end of the room.  The passageway to the
+northwest leads back into the main area of the Hobgoblin settlement.    
+~
+14 32776 1 0 0
+D2
+~
+door~
+1 0 1455
+D6
+~
+~
+0 0 1451
+S
+#1455
+The Chamber of the Hobgoblin Chieftain~
+   You have entered the room that the Hobgoblin Chieftain claims as his own.  
+There is a good reason for this too, as out of all the rooms and nooks you have
+thus far seen in the rancid settlement, this one is the least squalid.  
+Though, not by a fair stretch.  There is filth lying in the corners of the
+room, but as anyone of nimble wit will point out, it is "a better class of
+filth".  The room is dominated by a single large stone throne, where the
+Hobgoblin Chieftain spends most of his time sitting, trying to impress loyalty
+into his underlings.  Hobgoblins come in and out of the room, offering tribute,
+then carefully backing out the door to the north.    
+~
+14 32776 1 0 0
+D0
+~
+door~
+1 0 1454
+S
+#1456
+A Large Room with a High Ceiling~
+   You stand in the center of a more or less circular room.  There is one exit,
+to the west.  The room is dominated by a crackling fire, which is where the
+hobgoblins cook their food, and warm up on cold nights.  There are a few things
+cooking in the fire, giving off a not-so-unpleasant odor.  The floor is swept
+clean, which is likely more of a step to prevent accidental fires than it is a
+gesture of cleanliness.    
+~
+14 32776 1 0 0
+D3
+~
+~
+0 0 1451
+S
+#1460
+Entrance to the Grotto~
+   The forest thins to reveal a tranquil and beautiful grotto surrounded by
+manicured ornamental trees.  Although professionally kept and well maintained
+in the past it now seems to have returned to a state of natural disorder.  A
+lightly used cobblestone path leads away towards the distant sounds of falling
+water.  The only disturbance to the scene is caused by an airy breeze wafting
+through the leaves.    
+~
+14 4 0 0 0
+D7
+~
+~
+0 0 1461
+S
+#1461
+A Garden Lined Path~
+   The pathway winds through the forest amidst the the fragrant scent of
+blooming flowers and the chatter of woodland animals.  The canopies of ancient,
+tall oak trees overhang the path providing shade and refuge from the weather.
+A few of the flowers have begun to sprout between the seems of the cobbles and
+stretch towards the light while others appear withered from lack of attention.
+Insects dart from blossom to blossom, spreading pollen.    
+~
+14 0 0 0 0
+D0
+~
+~
+0 0 1462
+D8
+~
+~
+0 0 1460
+S
+#1462
+A Turn in the Path~
+   The path here turns towards the sound of falling water and creaking
+branches.  In another direction, an iron gate pushed by the breeze clangs
+against its latch.  Beyond, a small house is apparent standing atop a hill
+overlooking the surrounding area.  Away from the oaks and with less shade
+here, footprints tinged with blood are visible leading from the house leading
+to the water.    
+~
+14 0 0 0 0
+D2
+~
+~
+0 0 1461
+D3
+~
+~
+0 0 1463
+D7
+~
+gate~
+1 0 1464
+E
+gate~
+   The heavy, black gate swings freely in the wind.  It is not locked or
+even latched properly.  Beyond, up a short hill, is a small house with its
+door swung wide open.
+~
+S
+#1463
+A Beautiful Fountain~
+   The footprints stop at the base of a fountian far too large for its
+environment.  Although sculpted well it is obviously the work of an amateur,
+abstractly depicting a strange and fanciful creature spouting warm water onto
+successive tiny forests and villages as it cascades down.  There are no animals
+nearby, the only sounds other than the tinkling of the water being the creaking
+if the trees and a curious gurgling sound near the base of the fountain in its
+collection pool.    
+~
+14 0 0 0 0
+D1
+~
+~
+0 0 1462
+D5
+~
+grate~
+1 0 1465
+E
+gurgling base grate~
+   A small grate appears to be the exit for the water which collects in the
+base of the pool.  The water pours down an opening large enough to enter if
+carefully opened.    
+~
+S
+#1464
+The House on the Hill~
+   What would have once been a quaint and peaceful home has been torn apart by
+some recent struggle.  Nothing appears to have been spared and everything is upended.
+Books and drawings associated with the construction of water systems are
+strewn about the room.  Everything is coated in a layer of water which still drips
+from the ceiling, forming pools tinged red from combination with the dried
+blood on the floor.
+~
+14 8 0 0 0
+D8
+~
+gate~
+1 0 1462
+S
+#1465
+Under the Foutain~
+   Water drains down from overhead into a catch basin on the floor of this dim
+and humid room.  Two sets of cast iron pipes run through here, one going up to
+the center base of the fountain and the second leading away from the basin at
+your feet.  The sound of the deluge of falling water is overpowering as it
+crashes down the ladder leading up to the fountains drain.  The pipes lead away
+down a lit corridor which then braches off into darkness.    
+~
+14 8 0 0 0
+D4
+~
+grate~
+1 0 1463
+D6
+~
+~
+0 0 1466
+D7
+~
+~
+0 0 1468
+E
+grate~
+   A large grate is placed just above the top of the ladder.  It is old and
+rusted but will likely still operate well.
+~
+S
+#1466
+A Network of Pipes~
+   The pipes follow beside the edges of the walls along this low, undergound
+corridor.  Water condenses on the inflow pipe and drips into small rivulets
+which have eroded the clay floor.  Here and there are footprints, but also
+there appear to be scratch marks in the mud as if something had been dragged
+through.  The temperatures feel warmer and the distand sound like muffled thumping
+emanates from the earthen walls.
+~
+14 8 0 0 0
+D7
+~
+~
+0 0 1467
+D9
+~
+~
+0 0 1465
+S
+#1467
+The Pipe Junction~
+   The pipes make a graceful turn into a small panel beside a thick wooden door
+and disappear through the wall.  The corridor rejoins at this point forming a
+loop around the room behind this door.  Small half-sized tools lay strewn about
+and numerous patches have been placed on the pipe at this spot.  The sound of
+the thumping is readily apparent now coming form behind the door, as successive
+pools of water leak out from underneath.    
+~
+14 8 0 0 0
+D2
+~
+door~
+1 1460 1469
+D8
+~
+~
+0 0 1466
+D9
+~
+~
+0 0 1468
+E
+door~
+   There is a small lock on the door that appears as though it would take a
+key.    
+~
+S
+#1468
+A Dark Access Corridor~
+   A faint stench comes out from a small burrow chewed into the wall of the
+corridor.  Bones and the fur of small animals flow out onto the floor from the
+nest within the den.  Inside, the sound of piercing wails and constant
+screeching can be heard.  The temperature feels warmer here and a distant sound
+like muffled thumping emanates from the earthen walls.    
+~
+14 0 0 0 0
+D6
+~
+~
+0 0 1467
+D8
+~
+~
+0 0 1465
+E
+burrow den~
+   Small scratches similar to tooth marks form a semi circle up from the floor.
+It appears as though some small animal has taken up residence within this dark
+corridor and has made its nest.    
+~
+S
+#1469
+A Deep Well~
+   A large stone well with a heavy steel lid bolted over its opening sits in
+the middle of the room.  The pipes lead from the outside panel and into the
+lid, forming a perfect seal for the circulation of water.  It is obvious the
+source of the heat and thumping is coming from within the well.  Water is
+pooling everywhere, dripping from the ceiling and from cracks within the stones
+that make up the body of the well, formed by years of apparent abuse from
+within.    
+~
+14 8 0 0 0
+D0
+~
+door~
+1 0 1467
+S
+#1470
+A Recently Hewn Pathway~
+   What appears to be a natural thinning of the trees has been widened and
+expanded quite recently.  The stumps of trees hewn no more than a few days past
+lie to each side forming a small pathway that leads deeper into the woods.  
+The scent of sap and pine lingers heavy in the air as you move forward, carried
+to you by a breeze winding its way softly through the forest on each side of
+you.  The highway lies to your north.    
+~
+14 32768 3 0 0
+D0
+~
+~
+0 0 8821
+D9
+~
+~
+0 0 1471
+S
+#1471
+A Passage Through The Pines~
+   The path continues to wind its way southeast through the woods.  Marks from
+booted feet and the iron-shod passage of horses has smoothed the ground beneath
+you.  Occasional ruts from wagon wheels can be seen in the hard packed dirt,
+exposed roots splintered in their wake.  The breeze whistles through the
+branches, a pinecone dropping to rattle into the brush.  In between gusts the
+murmur of voices can be heard, intermittent snatches of conversation
+unintelligible at this distance.    
+~
+14 32768 3 0 0
+D6
+~
+~
+0 0 1470
+D9
+~
+~
+0 0 1472
+S
+#1472
+A Passage Through The Pines~
+   The trees increase in size as you move deeper into the woods, the path less
+even as it is forced to wind its way between larger stumps.  Pines and fir
+trees stretch some fifty feet into the air on each side of you, branches
+intermingling overhead as they vie for sunlight.  The sound of voices grows
+louder as you round a curve and a large clearing is visible further in.  You
+can see a small pavilion with a gathering of figures arrayed before it further
+south.    
+~
+14 32768 3 0 0
+D2
+~
+~
+0 0 1473
+D6
+~
+~
+0 0 1471
+D9
+~
+~
+0 0 -1
+S
+#1473
+A Small Clearing Amongst The Pines~
+   A natural clearing in the forest has been expanded and brushed clean forming
+a smooth area reminiscent of a triangle in shape.  A square pavilion lies
+immediately south, its canvas roof formed of alternating stripes of red and
+black.  A pennant bearing the red condor of Sargonnas, the Lord of Vengeance,
+snaps in the wind atop it.  Both humans and minotaur bearing his symbol move
+about here.  Though a tension can be felt in the air between the two races an
+accord has been reached for the time due to their shared faith.  Braziers line
+the area, their fires dancing to and fro.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1472
+D1
+~
+~
+0 0 1475
+D2
+~
+~
+0 0 1478
+D3
+~
+~
+0 0 1474
+S
+#1474
+A Small Clearing Amongst The Pines~
+   A wagon has been tucked to the side here.  A pile of crates lies within,
+some opened, most still nailed shut, presumably supplies for the camp.  The din
+of voices is quieter here and the forest stretches out in dense thickets to
+your north and west.  The the south a campfire surrounded by humans can be seen
+and the pavilion lies to your southeast.    
+~
+14 32768 0 0 0
+D1
+~
+~
+0 0 1473
+D2
+~
+~
+0 0 1476
+D9
+~
+~
+0 0 1478
+S
+#1475
+A Small Clearing Amongst The Pines~
+   This corner of the clearing is very level and devoid of debris.  It appears
+even any small rocks have been removed and placed aside, one pile can be seen
+lying in the woods to the north.  The minotaurs have taken to using this area
+as a practice ground and sparring circle.  The passing humans studiously ignore
+it, trying to appear casual as they give it a wide berth.  To the south the
+minotaurs have set up a small campsite and the pavilion lies to your southwest.
+~
+14 32768 0 0 0
+D2
+~
+~
+0 0 1477
+D3
+~
+~
+0 0 1473
+D8
+~
+~
+0 0 1478
+S
+#1476
+A Campsite In The Clearing~
+   The humans have chosen this side of the clearing to lay their camp.  All
+gathered bear the markings of Sargonnas, either in dress or the heavy
+medallions which weight their necks emblazoned with the symbol of the condor or
+the fist.  A campfire blazes intensely, heat reflecting off the large stones
+that ring the flames.  Bedrolls are scattered about near the fire, conversation
+low and whispered as the humans steal glances at the minotaurs that move about.
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1474
+D1
+~
+~
+0 0 1478
+D9
+~
+~
+0 0 1479
+S
+#1477
+A Campsite In The Clearing~
+   This side of the camp has been claimed by the minotaurs.  A fire in the
+center burns low, embers glowing softly, minotaur eyes being more accustomed to
+night than their human counterparts.  The camp is sparse and open, most of the
+minotaurs out wandering the clearing or in the pavilion to the west.  An empty
+spit stands over the fire, bits of blackened char showing recent use.  Bones
+from the last meal are piled off to the side, the size of the stack a testament
+to the minotaurs' appetite.  The pavilion lies to the west, the clearing
+extending north and southwest.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1475
+D3
+~
+~
+0 0 1478
+D8
+~
+~
+0 0 1479
+S
+#1478
+The Pavilion~
+   The pavilion is erected here, a large rectangle at the center of the
+clearing.  It's canvas roof reaches some twenty feet into the air.  Human
+priests of Sargonnas stand her lecturing to the gathered humans and minotaurs.
+Both races stand shoulder to shoulder listening quietly.  Though the air is
+charged with tense emotions all gathered seem focused on the priests.  A small
+stone altar rests towards the back layered in black and red silk that flaps in
+the breeze.  Braziers stand at each corner sending black smoke lazily upward to
+be scattered by the wind.    
+~
+14 32776 0 0 0
+D0
+~
+~
+0 0 1473
+D1
+~
+~
+0 0 1477
+D2
+~
+~
+0 0 1479
+D3
+~
+~
+0 0 1476
+D6
+~
+~
+0 0 1474
+D7
+~
+~
+0 0 1475
+S
+#1479
+Behind The Pavilion~
+   The clearing closes in on itself here behind the pavilion.  Voices drift out
+from behind you then fade into echoes in the forest beyond.  The woods are
+dense and overgrown defying further intrusion.  Off back towards the clearing
+separate campsites lie to each side of the pavilion.  A few crates have been
+disposed of here, left to the touch of the elements.  A small spider, pleased
+by his luck, has spun a web between two boxes.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1478
+D6
+~
+~
+0 0 1476
+D7
+~
+~
+0 0 1477
+S
+#1480
+Knee-Deep in Lake Istar~
+   The crystal blue waters of Lake Istar are teeming with all types of sealife.
+Most of the creatures that find their way this close to the shore, however, are
+relatively small and not at all shy.  They swim alongside the smaller boats,
+seeming to have no fear of the inhabitants of this area despite that fact that
+many of them make their livelihood as fisherman.    
+~
+14 4227072 6 0 0
+D3
+~
+~
+0 0 4399
+D7
+~
+~
+0 0 1481
+S
+#1481
+Knee-Deep in Lake Istar~
+   The shallows along the edge of Lake Istar are home to a great deal of marine
+life.  Swimming alongside several different species of fish are small turtles
+and harmless water snakes.  The high concentration of creature makes this an
+ideal area for fishing, and it comes as no surprise that a great many of the
+areas residents make their fortunes doing just that.    
+~
+14 4227072 6 0 0
+D0
+~
+~
+0 0 1483
+D1
+~
+~
+0 0 1482
+D8
+~
+~
+0 0 1480
+S
+#1482
+Knee-Deep in Lake Istar~
+   The crystal blue waters of Lake Istar are teeming with all types of sealife.
+Most of the creatures that find their way this close to the shore, however, are
+relatively small and not at all shy.  They swim alongside the smaller boats,
+seeming to have no fear of the inhabitants of this area despite that fact that
+many of them make their livelihood as fisherman.    
+~
+14 4227072 6 0 0
+D0
+~
+~
+0 0 1484
+D3
+~
+~
+0 0 1481
+S
+#1483
+Knee-Deep in Lake Istar~
+   The crystal blue waters of Lake Istar are teeming with all types of sealife.
+Most of the creatures that find their way this close to the shore, however, are
+relatively small and not at all shy.  They swim alongside the smaller boats,
+seeming to have no fear of the inhabitants of this area despite that fact that
+many of them make their livelihood as fisherman.    
+~
+14 4227072 6 0 0
+D1
+~
+~
+0 0 1484
+D2
+~
+~
+0 0 1481
+D7
+~
+~
+0 0 1485
+S
+#1484
+Knee-Deep in Lake Istar~
+   The shallows along the edge of Lake Istar are home to a great deal of marine
+life.  Swimming alongside several different species of fish are small turtles
+and harmless water snakes.  The high concentration of creature makes this an
+ideal area for fishing, and it comes as no surprise that a great many of the
+areas residents make their fortunes doing just that.    
+~
+14 4227072 6 0 0
+D0
+~
+~
+0 0 1485
+D2
+~
+~
+0 0 1482
+D3
+~
+~
+0 0 1483
+S
+#1485
+Knee-Deep in Lake Istar~
+   The crystal blue waters of Lake Istar are teeming with all types of sealife.
+Most of the creatures that find their way this close to the shore, however, are
+relatively small and not at all shy.  They swim alongside the smaller boats,
+seeming to have no fear of the inhabitants of this area despite that fact that
+many of them make their livelihood as fisherman.    
+~
+14 4227072 6 0 0
+D1
+~
+~
+0 0 1486
+D2
+~
+~
+0 0 1484
+D8
+~
+~
+0 0 1483
+S
+#1486
+Knee-Deep in Lake Istar~
+   The shallows along the edge of Lake Istar are home to a great deal of marine
+life.  Swimming alongside several different species of fish are small turtles
+and harmless water snakes.  The high concentration of creature makes this an
+ideal area for fishing, and it comes as no surprise that a great many of the
+areas residents make their fortunes doing just that.    
+~
+14 4227072 6 0 0
+D1
+~
+~
+0 0 1487
+D3
+~
+~
+0 0 1485
+S
+#1487
+Waist-Deep in Lake Istar~
+   The crystal blue waters of Lake Istar are teeming with all types of sealife.
+Most of the creatures that find their way this close to the shore, however, are
+relatively small and not at all shy.  They swim alongside the smaller boats,
+seeming to have no fear of the inhabitants of this area despite that fact that
+many of them make their livelihood as fisherman.    
+~
+14 4227072 6 0 0
+D1
+~
+~
+0 0 1488
+D3
+~
+~
+0 0 1486
+S
+#1488
+Waist-Deep in Lake Istar~
+   Bands of light peek through the gaps in the wooden planks overhead.  The
+sound of heavily-booted footsteps can be heard as people pass on the docks
+above.  The blue waters of Lake Istar lap at its stone covered edge creating a
+soothing rhythm.  A few tiny fish circle the area, seemingly undaunted by the
+presence of boats or humanoids.    
+~
+14 4227084 6 0 0
+D3
+~
+~
+0 0 1487
+D4
+   The water is too deep to reach what appears to be a trapdoor overhead.    
+~
+~
+0 0 -1
+S
+#1489
+A Private Room~
+   This room is closed off from the rest of the temple which is otherwise open
+and airy.  It appears to have once been a pleasant meeting room.  Now, however,
+it is quite dirty and dusty.  A table sits under the window in the western
+wall.  The stone floor is covered with an old carpet which is now little more
+than a rag.    
+~
+14 32776 0 0 0
+D0
+~
+~
+0 0 -1
+D2
+~
+door~
+1 1494 1497
+E
+window~
+   Out the window an endless plain of tall grasses dance in the breeze.  Some
+buildings are visible in the distance.    
+~
+S
+#1490
+An Overgrown Path~
+   A path is barely visible beneath the tall grass and bushes.  It appears to
+have been well used in days gone by.  What looks like a crumbling staircase can
+be seen under the growth.  The Merchant's Highway can be seen to the south.  
+~
+14 32768 2 0 0
+D0
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 7268
+D4
+~
+~
+0 0 1491
+S
+#1491
+A Crumbling Staircase~
+   Time, use and weather have taken their toll on this now crumbling staircase.
+The stones are loose and wobble when tread upon.  Green mosses grow over the
+steps adding to the danger of climbing them.  Nearly every inch of stone
+visible between the moss and mold is completely covered with cracks.    
+~
+14 32768 2 0 0
+D2
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 1492
+D5
+~
+~
+0 0 1490
+D7
+~
+~
+0 0 -1
+S
+#1492
+Temple Entrance~
+   This is the entrance of what appears to be an ancient temple.  The temple
+looks abandoned, as though no one has used it for years.  The stone floor is
+filled with cracks but still intact.  Tall stone columns rise up from the floor
+and support the roof of the temple.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1496
+D1
+~
+~
+0 0 1498
+D3
+~
+~
+0 0 1493
+D5
+~
+~
+0 0 1491
+E
+column~
+The columns are ornately carved.
+~
+S
+#1493
+Inside an Ancient Temple~
+   This is the southwest corner of the temple.  The outer wall of the temple is
+formed by large columns that support the roof.  The temple is in a terrible
+state of disrepair.  The ornate carvings on the columns would seem to indicate
+that this temple was once a place of great importance.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1494
+D1
+~
+~
+0 0 1492
+S
+#1494
+Inside an Ancient Temple~
+   Standing in the northwestern corner of the temple it is difficult not to
+feel a tinge of sorrow when imagining the grandeur it once possessed.  The
+high-arched roof is still supported by the massive columns that must have stood
+here for centuries.  They are filled with spidery cracks that call the
+integrity of this structure into question.  A wooden door stands in he northern
+wall of the temple which is more solid.    
+~
+14 32768 0 0 0
+D0
+~
+door~
+1 0 1495
+D1
+~
+~
+0 0 1496
+D2
+~
+~
+0 0 1493
+S
+#1495
+A Private Room~
+   This cramped, quaint room appears to be the sleeping quarters of the
+temple's caretaker.  The wall coverings and rugs are worn and dirty but still
+in decent condition.  A small cot sits in one corner.  Straw has been placed
+atop its canvas to provide additional comfort.    
+~
+14 32776 0 0 0
+D2
+~
+door~
+1 0 1494
+S
+#1496
+Before an Altar~
+   This part of the temple contains what appears to have been the altar.  
+There are ancient carvings in the stone wall which seem to portray some
+important historical event but are too worn away to decipher.  The torn cloth
+hanging from the opposite wall still bears various pigments under its more
+recent stains.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 1497
+D2
+~
+~
+0 0 1492
+D3
+~
+~
+0 0 1494
+E
+carving carvings wall~
+   The scenes depicted here have been largely worn away by time and weather.  
+However it is still possible to distinguish the form of a massive warrior
+dressed in full plate armor.    
+~
+S
+#1497
+Inside an Ancient Temple~
+   Standing in the northeastern corner of the temple it is difficult not to
+feel a tinge of sorrow when imagining the grandeur it once possessed.  The
+high-arched roof is still supported by the massive columns that must have stood
+here for centuries.  They are filled with spidery cracks that call the
+integrity of this structure into question.  A wooden door stands in he northern
+wall of the temple which is more solid.    
+~
+14 32768 0 0 0
+D0
+~
+door~
+1 1494 1489
+D2
+~
+~
+0 0 1498
+D3
+~
+~
+0 0 1496
+S
+#1498
+Inside an Ancient Temple~
+   This is the southeast corner of the temple.  The outer wall of the temple is
+formed by large columns that support the roof.  The temple is in a terrible
+state of disrepair.  The ornate carvings on the columns would seem to indicate
+that this temple was once a place of great importance.    
+~
+14 32768 0 0 0
+D0
+~
+~
+0 0 1497
+D3
+~
+~
+0 0 1492
+S
+$~

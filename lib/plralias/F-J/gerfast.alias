@@ -1,0 +1,50 @@
+2
+fs
+12
+fill skin $*
+1
+2
+cm
+11
+c cure-m $*
+1
+2
+ls
+4
+look
+0
+1
+f
+4
+flee
+0
+2
+cw
+17
+c create-water $*
+1
+2
+ms
+18
+cast magical-st $*
+1
+2
+ds
+10
+drink skin
+0
+2
+cl
+11
+c cure-l $*
+1
+1
+m
+3
+mem
+0
+1
+t
+17
+get all $*.corpse
+1

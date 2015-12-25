@@ -1,0 +1,90 @@
+2
+hl
+18
+cast healing-light
+0
+4
+heal
+12
+cast heal $*
+1
+2
+cs
+19
+cast cure-severe $*
+1
+2
+cc
+21
+cast cure-critical $*
+1
+2
+cm
+21
+cast cure-moderate $*
+1
+2
+cl
+18
+cast cure-light $*
+1
+1
+1
+9
+as willow
+0
+1
+6
+6
+as man
+0
+1
+5
+18
+order fol k bandit
+0
+4
+pray
+51
+emote whispers a soft prayer in &BElvish&N,'&W$*&N'
+1
+1
+2
+25
+cast healing-light grevan
+0
+1
+3
+16
+cast heal grevan
+0
+1
+4
+25
+cast cure-critical grevan
+0
+1
+7
+22
+cast cure-light grevan
+0
+2
+eq
+9
+look self
+0
+3
+say
+49
+emote says softly in a &Bmelodic&n voice,'&W$*&N'
+1
+7
+prayer1
+336
+emote whispers a soft prayer in &BElvish&N,'&WQuen Illumini hear this prayer, please aid my hands to do your blessings of healing. Open my eyes to see what work you wish of me. Bless the residents of the cities of light, grant them the vision of your calming peace. Help guide my every movement to reflect your radiance beauty..Amen&N.'
+0
+9
+sayelvish
+40
+emote says softly in &BElvish&N,'&W$*&N'
+1

@@ -1,0 +1,853 @@
+#5600
+Light Forest~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  The forest appears
+to end to the west.  Travel to the north is blocked by a high embankment.  The
+forest continues to the east and south.    
+~
+56 0 3 0 0
+D1
+~
+~
+0 0 5607
+D2
+~
+~
+0 0 5601
+E
+embankment bank~
+   The embankment is a sheer ten foot wall of damp clay.  Clumps of sturdy
+grass grow from intermittent points.  There is no way to scale the embankment.
+  
+~
+S
+#5601
+Light Forest~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  The forest appears
+to end to the west.  The forest continues to the north, south, and to the east,
+where it appears to grow slightly darker.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5600
+D1
+~
+~
+0 0 5608
+D2
+~
+~
+0 0 5602
+S
+#5602
+Light Forest~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  The forest appears
+to end to the west.  The forest continues to the north, south, and to the east,
+where it appears to grow slightly darker.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5601
+D1
+~
+~
+0 0 5609
+D2
+~
+~
+0 0 5603
+S
+#5603
+Light forest~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  The forest appears
+to end to the west.  The forest continues to the north, south, and to the east,
+where it appears to grow slightly darker.    
+~
+56 0 0 0 0
+D0
+~
+~
+0 0 5602
+D1
+~
+~
+0 0 5610
+D2
+~
+~
+0 0 5604
+S
+#5604
+Light Forest~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  The forest appears
+to end to the west.  The forest continues to the north, south, and to the east,
+where it appears to grow slightly darker.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5603
+D1
+~
+~
+0 0 5611
+D2
+~
+~
+0 0 5605
+S
+#5605
+Light Forest~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  The sound of
+running water filters in from the south.  The forest appears to end to the
+west, but continues to the north, south, and east.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5604
+D1
+~
+~
+0 0 5612
+D2
+~
+~
+0 0 5606
+S
+#5606
+Light Forest Near a Stream~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  The forest appears
+to end to the west while to the south a wide stream flows.  The forest
+continues to the north and east.    
+~
+56 4194304 3 0 0
+D0
+~
+~
+0 0 5605
+D1
+~
+~
+0 0 5613
+S
+#5607
+Light Forest~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  Travel to the
+north is blocked by a large embankment.  To the west the forest remains
+relatively open and light, to the south and east, however, it seems darker and
+more dense.    
+~
+56 0 3 0 0
+D1
+~
+~
+0 0 5614
+D2
+~
+~
+0 0 5608
+D3
+~
+~
+0 0 5600
+E
+embankment bank~
+   The embankment is a sheer ten foot wall of damp clay.  Clumps of sturdy
+grass grow from intermittent points.  There is no way to scale the embankment.
+  
+~
+S
+#5608
+Dense Forest~
+   The forest has grown thicker and darker here, although the animals seem just
+as lively as before judging from the noise.  The trees grow closer in this part
+of the forest, their branches interweaved so that very little light reaches the
+forest floor, which is covered in a layer of damp, decomposing leaves.  The
+forest continues in all cardinal directions, and seems more open to the north
+and west.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5607
+D1
+~
+~
+0 0 5615
+D2
+~
+~
+0 0 5609
+D3
+~
+~
+0 0 5601
+S
+#5609
+Dense Forest~
+   The forest has grown thicker and darker here, although the animals seem just
+as lively as before judging from the noise.  The trees grow closer in this part
+of the forest, their branches interweaved so that very little light reaches the
+forest floor, which is covered in a layer of damp, decomposing leaves.  One of
+the trees here appears to have some writing carved into the side.  The forest
+continues in all cardinal directions, and seems more open to the west.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5608
+D1
+~
+~
+0 0 5616
+D2
+~
+~
+0 0 5610
+D3
+~
+~
+0 0 5602
+E
+tree writing~
+   Most of the writing has been worn away with the passage of time.  The only
+discernable word is "Silandria".    
+~
+S
+#5610
+Dense Forest~
+   The forest has grown thicker and darker here, although the animals seem just
+as lively as before judging from the noise.  The trees grow closer in this part
+of the forest, their branches interweaved so that very little light reaches the
+forest floor, which is covered in a layer of damp, decomposing leaves.  The
+forest continues in all cardinal directions, and seems more open to the west.
+  
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5609
+D1
+~
+~
+0 0 5617
+D2
+~
+~
+0 0 5611
+D3
+~
+~
+0 0 5603
+S
+#5611
+Dense Forest~
+   The forest has grown thicker and darker here, although the animals seem just
+as lively as before judging from the noise.  The trees grow closer in this part
+of the forest, their branches interweaved so that very little light reaches the
+forest floor, which is covered in a layer of damp, decomposing leaves.  The
+forest continues in all cardinal directions, and seems more open to the south
+and west.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5610
+D1
+~
+~
+0 0 5618
+D2
+~
+~
+0 0 5612
+D3
+~
+~
+0 0 5604
+S
+#5612
+Light Forest~
+   While slightly more crowded than the areas to the west and south, this area
+is still very open.  Birds and animals continuely make noise and the sound of
+running water filters in from the south.  The dark soil here is damp, filling
+the air with its earthy sent.  The forest continues in all cardinal directions,
+although to the north it appears somewhat darker.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5611
+D1
+~
+~
+0 0 5619
+D2
+~
+~
+0 0 5613
+D3
+~
+~
+0 0 5605
+S
+#5613
+Light Forest Near a Stream~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  To the south a
+wide stream flows, blocking travel, but the forest continues to the north,
+west, and northeast along the edge of the stream.    
+~
+56 4194304 3 0 0
+D0
+~
+~
+0 0 5612
+D3
+~
+~
+0 0 5606
+D7
+~
+~
+0 0 5619
+S
+#5614
+Dense forest~
+   The forest has grown thicker and darker here, although the animals seem just
+as lively as before judging from the noise.  The trees grow closer in this part
+of the forest, their branches interweaved so that very little light reaches the
+forest floor, which is covered in a layer of damp, decomposing leaves.  The
+forest continues to the south, east, and to the west where it appears lighter.
+To the north a large embankment impedes travel.    
+~
+56 0 3 0 0
+D1
+~
+~
+0 0 5620
+D2
+~
+~
+0 0 5615
+D3
+~
+~
+0 0 5607
+E
+embankment bank~
+   The embankment is a sheer ten foot wall of damp clay.  Clumps of sturdy
+grass grow from intermittent points.  There is no way to scale the embankment.
+  
+~
+S
+#5615
+Dense Forest~
+   The forest has grown thicker and darker here, although the animals seem just
+as lively as before judging from the noise.  The trees grow closer in this part
+of the forest, their branches interweaved so that very little light reaches the
+forest floor, which is covered in a layer of damp, decomposing leaves.  There
+seems to be some sort of clearing to the east, from which some sort of running
+water can be heard.  The forest continues in all cardinal directions.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5614
+D1
+~
+~
+0 0 5621
+D2
+~
+~
+0 0 5616
+D3
+~
+~
+0 0 5608
+S
+#5616
+Dense Forest~
+   The forest has grown thicker and darker here, although the animals seem just
+as lively as before judging from the noise.  The trees grow closer in this part
+of the forest, their branches interweaved so that very little light reaches the
+forest floor, which is covered in a layer of damp, decomposing leaves.  There
+seems to be some sort of clearing to the east, from which some sort of running
+water can be heard.  The forest continues in all cardinal directions.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5615
+D1
+~
+~
+0 0 5622
+D2
+~
+~
+0 0 5617
+D3
+~
+~
+0 0 5609
+S
+#5617
+Dense Forest~
+   The forest has grown thicker and darker here, although the animals seem just
+as lively as before judging from the noise.  The trees grow closer in this part
+of the forest, their branches interweaved so that very little light reaches the
+forest floor, which is covered in a layer of damp, decomposing leaves.  There
+seems to be some sort of clearing to the east, from which some sort of running
+water can be heard.  The forest continues to the north, west, and south.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5616
+D1
+~
+~
+0 0 5623
+D2
+~
+~
+0 0 5618
+D3
+~
+~
+0 0 5610
+S
+#5618
+Dense Forest~
+   The forest has grown thicker and darker here, although the animals seem just
+as lively as before judging from the noise.  The trees grow closer in this part
+of the forest, their branches interweaved so that very little light reaches the
+forest floor, which is covered in a layer of damp, decomposing leaves.  The
+forest continues in all cardinal directions, but running water can be heard to
+the south and east.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5617
+D1
+~
+~
+0 0 5624
+D2
+~
+~
+0 0 5619
+D3
+~
+~
+0 0 5611
+S
+#5619
+Light Forest Near a Stream~
+   This light, open forest area is punctuated every so often by the sounds of
+various animals and birds.  Light filters easily through the tree tops and in
+some places open sky is visible.  The area smells slightly of the trees, and
+more heavily of the rich, dark soil which is slightly damp.  To the south a
+wide stream blocks travel.  The forest to the north appears somewhat darker
+than to the east and west.  Travel is also possible to the southwest along the
+stream's edge.    
+~
+56 4194304 3 0 0
+D0
+~
+~
+0 0 5618
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 5612
+D7
+~
+~
+0 0 5624
+D8
+~
+~
+0 0 5613
+S
+#5620
+Before a Dark Cave in the Forest~
+   The thick forest breaks apart just slightly here.  A dark cave opens in the
+embankment to the north.  Slight echos can be heard from somewhere within the
+cave, but nothing definitive can be made out.  Mountain tops can be seen to
+both the north and south, and appear to circle around this area, although mists
+obscure them to the east and west.  The forest continues in all directions from
+the cave entrance.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5650
+D2
+~
+~
+0 0 5621
+D3
+~
+~
+0 0 5614
+S
+#5621
+Edge of a Forest Pond~
+   The trees break apart to reveal a large clearing containing a pond.  This
+area, the north-western edge of the pond, is covered in reeds and filled with
+the noise of insects and frogs.  A small waterfall, leading in from the
+southwest, fills the pond to the south.  A strange shimmering can be seen near,
+or perhaps underneath, the waterfall.  The pond circles to the south and east,
+while the forest encloses the land to the north and west.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5620
+D2
+~
+~
+0 0 5622
+D3
+~
+~
+0 0 5615
+S
+#5622
+Edge of a Forest Pond~
+   The trees break apart to reveal a large clearing containing a pond.  This
+area, the north-western edge of the pond, is covered in reeds and filled with
+the noise of insects and frogs.  A small waterfall, leading in from the
+southwest, fills the pond to the south.  A strange shimmering can be seen near,
+or perhaps underneath, the waterfall.  The pond edge continues to the north and
+south while the forest continues to the west.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5621
+D2
+~
+~
+0 0 5623
+D3
+~
+~
+0 0 5616
+S
+#5623
+A Waterfall on the Edge of a Forest Pond~
+   A small waterfall feeds into the pond here.  A sparkling accompanied by some
+sort of ethereal music seem to be coming from underneath the waterfall.  A
+small ridge, which forms the waterfall, blocks travel directly to the south,
+but it looks like there is a cave or alcove behind the waterfalls.  The edge of
+the pond continues to the north, and there is forest to the west.    
+~
+56 0 3 0 0
+D0
+~
+~
+0 0 5622
+D2
+~
+~
+0 0 5649
+D3
+~
+~
+0 0 5617
+S
+#5624
+A Stream in the Forest~
+   A stream flows through the thick forest here ending in a small waterfall
+that empties into a pond to the north.  The waterfall is loud enough to block
+out most of the normal forest sounds.  A ghostly sort of humming seems to float
+just on the edge of hearing.  Nothing particular can be made out but every so
+often a note seems to float in.  The stream can be waded through to the east.
+The waterfall blacks passage directly north, but the forest continues to the
+west and southwest along the edge of the stream.    
+~
+56 0 3 0 0
+D3
+~
+~
+0 0 5618
+D8
+~
+~
+0 0 5619
+S
+#5648
+In an Alcove Near a Waterfall~
+   This alcove lies underneath a waterfall, which falls in front of the western
+side.  The noise is near overwhelming; although conversation is still possible
+by yelling.  To the north is the edge of a pond that circles back around to the
+east.  This alcove continues to the west, where it is directly underneath the
+waterfall.    
+~
+56 0 0 0 0
+D3
+~
+~
+0 0 5649
+S
+#5649
+In an Alcove Behind a Waterfall~
+   The waterfall descends to the north and over this small alcove.  The noise,
+which echo's and multiplies off of the walls, is near deafening here.  To the
+east the alcove continues, although it moves out from under the waterfall.  A
+sparkling light comes from a cave opening to the south.  The light shimmers and
+shifts colors constantly and no source can be pinpointed for it.    
+~
+56 0 0 0 0
+D0
+~
+~
+0 0 5623
+D1
+~
+~
+0 0 5648
+D2
+~
+~
+0 0 5651
+S
+#5650
+Inside a Cave Entrance~
+   The sounds of the forest are faint from within the mouth of the cave.  The
+air here is a strange mingling of the the dead, musty air from deeper within
+the cave and the fresh forest air outside.  Dull, formless echos can be heard
+from deeper within, but they all sound the alike and nothing of import is
+distinguishable.  The cave floor is gritty, and covered in a powdery, sandy
+substance that crunches lightly when walked upon.  The cave continues to the
+north, moving at a slightly downward angle.    
+~
+56 4 0 0 0
+D2
+~
+~
+0 0 5620
+S
+#5651
+Cave Behind a Waterfall~
+   The cave is fairly small, wide enough for two men to walk abreast and barely
+tall enough for a man to stand up.  The sound of water falling comes from the
+north, and its echos dominate the cave making it difficult to hear anything
+else.  Some sort of shimmering, multicolored light comes from what looks to be
+a cavern to a ways to the south.  The cave continues directly to the south and
+it opens up to the north.    
+~
+56 0 0 0 0
+D0
+~
+~
+0 0 5649
+D2
+~
+~
+0 0 5652
+S
+#5652
+Within a Strangely Lit Cave~
+   Distorted echos of what could be falling water come from the north, while to
+the south some sort of strange music can be made out.  It has a haunting melody
+that seems somehow familiar and at the same time totally foriegn.  A strange,
+shimmering light emenates from a cavern of some sort to the south.  The cave
+itself is fairly small, being wide enough for two men to walk side by side and
+just tall enough for an average man to stand without hunching.  The cave
+continues to the north and south.    
+~
+56 8 0 0 0
+D0
+~
+~
+0 0 5651
+D2
+~
+~
+0 0 3656
+S
+#5653
+Within a Strangely Lit Cave~
+   The cave is wider here than to north.  It is about 7 feet across and perhaps
+10 feet high.  A formless echo comes from the north, while a soulful, yet
+wordless song comes from the south in a soft, very feminine voice.  Along with
+the song is a soft, shimmering light of many colors that extends far down the
+cave to the north.  To the south is a large cavern and the cave continues to
+the north.  There appears to a sort of crack in the cave wall to the south
+west.  It appears large enough to squeeze through, but just barely.    
+~
+56 8 0 0 0
+D0
+~
+~
+0 0 5652
+D2
+~
+~
+0 0 5654
+D8
+~
+~
+0 0 5655
+S
+#5654
+A Cavern with Gem Encrusted Walls~
+   This roughly dome shaped cavern looks to be about 15 feet high at its center
+point and is about 30 feet across.  The walls are studded with gems of all
+colors and sizes, all of which are glowing softly.  The intensity with which
+each stone glows changes slowly, causing an almost hallucinatory shimmering
+effect that makes it difficult to concentrate.  A strange melody in a haunting
+female voice echos throughout the cavern but no source can be pinpointed.  Two
+strange stone formations rise on either side of a small area of water.  At the
+bottom of the pond appears to be a glowing object.    
+~
+56 8 0 0 0
+D0
+~
+~
+0 0 5653
+S
+#5655
+A Shadowy Cave~
+   The cave is dark here, but enough light filters through a crack to the north
+east to see by.  The floor is rough and covered in numerouse, small pebbles,
+making the footing somewhat hazardous.  A couple of small stalactites and
+stalagmites have formed here over the long years, with water dripping
+monotonously from the stalactites.  The cave continues to the west in darkness.
+To the northeast there is some sort of passageway that can be seen through the
+large crack, but, due to the downward angling of the crack, cannot be reached
+from here.    
+~
+56 8 0 0 0
+D3
+~
+~
+0 0 5656
+S
+#5656
+A Dark Cave~
+You are in an unfinished room.
+~
+56 9 0 0 0
+D1
+~
+~
+0 0 5655
+D3
+~
+~
+0 0 5657
+S
+#5657
+A Dark Cave~
+You are in an unfinished room.
+~
+56 9 0 0 0
+D1
+~
+~
+0 0 5656
+D2
+~
+~
+0 0 5658
+S
+#5658
+A Dark Cave~
+You are in an unfinished room.
+~
+56 9 0 0 0
+D0
+~
+~
+0 0 5657
+D9
+~
+~
+0 0 5659
+S
+#5659
+A Shadowy Cave~
+You are in an unfinished room.
+~
+56 8 0 0 0
+D6
+~
+~
+0 0 5658
+D9
+~
+~
+0 0 5660
+S
+#5660
+A Dead-End Cave Filled With Glowing Moss~
+You are in an unfinished room.
+~
+56 8 0 0 0
+D6
+~
+~
+0 0 5659
+S
+#5699
+A Cave Entrance~
+You are in an unfinished room.
+~
+56 0 0 0 0
+S
+$~

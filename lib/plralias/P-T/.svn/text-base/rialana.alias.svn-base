@@ -1,0 +1,215 @@
+2
+as
+11
+assist fire
+0
+7
+conjure
+22
+cast conjure-elemental
+0
+3
+aid
+11
+cast aid $*
+1
+3
+par
+19
+recite parchment $*
+1
+4
+rune
+20
+get parchment deluxe
+0
+7
+conceal
+25
+cast conceal-alignment $*
+1
+1
+w
+4
+west
+0
+1
+e
+4
+east
+0
+3
+gre
+25
+cast greater-sanctuary $*
+1
+4
+weak
+16
+cast weakness $*
+1
+3
+sum
+14
+cast summon $*
+1
+4
+mace
+17
+cast adamant-mace
+0
+4
+heal
+12
+cast heal $*
+1
+6
+hammer
+21
+cast spiritual-hammer
+0
+4
+tele
+16
+cast teleport $*
+1
+6
+fblade
+16
+cast flame-blade
+0
+2
+cc
+21
+cast cure-critical $*
+1
+6
+recall
+22
+cast word-of-recall $*
+1
+3
+str
+16
+cast strength $*
+1
+7
+wrinkle
+32
+emote wrinkles her nose at that.
+0
+3
+min
+23
+cast minor-sanctuary $*
+1
+5
+flame
+19
+cast flamestrike $*
+1
+5
+water
+22
+cast create-water skin
+0
+5
+emtoe
+8
+emote $*
+1
+4
+chin
+33
+emote taps her chin thoughtfully.
+0
+3
+ban
+10
+bandage $*
+1
+2
+ws
+9
+wear sack
+0
+2
+cs
+19
+cast cure-severe $*
+1
+5
+light
+19
+cast magic-light $*
+1
+2
+cm
+21
+cast cure-moderate $*
+1
+2
+cl
+18
+cast cure-light $*
+1
+2
+eb
+13
+examine board
+0
+1
+p
+3
+pra
+0
+1
+x
+3
+sco
+0
+1
+t
+7
+tell $*
+1
+5
+stone
+21
+cast magical-stone $*
+1
+5
+bread
+16
+cast create-food
+0
+2
+ga
+7
+get all
+0
+2
+ds
+10
+drink skin
+0
+3
+gac
+14
+get all corpse
+0
+4
+chat
+11
+chat &R$*&n
+1
+3
+wiz
+11
+chat &R$*&n
+1
+5
+bless
+13
+cast bless $*
+1

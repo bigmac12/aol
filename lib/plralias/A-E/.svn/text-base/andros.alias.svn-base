@@ -1,0 +1,30 @@
+2
+as
+15
+cast armor self
+0
+3
+cms
+23
+cast cure-moderate self
+0
+4
+food
+16
+cast create-food
+0
+3
+gac
+22
+get all corpse; sco; l
+1
+2
+bs
+15
+cast bless self
+0
+2
+cl
+20
+cast cure-light self
+0

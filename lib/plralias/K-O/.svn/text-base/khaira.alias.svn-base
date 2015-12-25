@@ -1,0 +1,110 @@
+2
+@t
+8
+track $1
+1
+4
+@mst
+6
+mst $1
+1
+3
+@mr
+8
+mrest $1
+1
+3
+@dm
+11
+dismount $1
+1
+2
+@m
+8
+mount $1
+1
+6
+raiser
+26
+:raises her right eyebrow.
+0
+6
+raisel
+25
+:raises her left eyebrow.
+0
+4
+@dem
+14
+c detect-magic
+0
+4
+@as2
+21
+c animal-summoning-II
+0
+6
+@intro
+94
+'I am Lady Khaira Stormwhisper, Representitive of the Stormwhisper Family of Qualinost Forest.
+0
+3
+@bs
+6
+c bark
+0
+3
+@ff
+11
+c faerie $1
+1
+3
+@ct
+10
+cast thorn
+0
+4
+@as1
+18
+c animal-summoning
+0
+3
+@gb
+11
+c goodberry
+0
+3
+@cs
+15
+c create-spring
+0
+7
+putboot
+32
+:puts her boots up on the table.
+0
+3
+gcc
+20
+get chicken rucksack
+0
+5
+sitat
+35
+:sits with her back against a tree.
+0
+2
+@k
+7
+kick $1
+1
+4
+skco
+11
+Skin corpse
+0
+4
+sitt
+36
+:sits down at a table in the corner.
+0

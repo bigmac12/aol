@@ -1,0 +1,25 @@
+4
+skin
+11
+skin corpse
+0
+1
+f
+6
+as sku
+0
+1
+j
+18
+get all all corpse
+0
+1
+g
+7
+gore $*
+1
+2
+eq
+6
+l self
+0

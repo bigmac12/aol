@@ -1,0 +1,723 @@
+#7532
+phoenix majestic bird fiery plumes~
+a majestic phoenix~
+A majestic bird with fiery plumes roosts among the rocks.
+~
+   A majestic bird with fiery plumes rests among the rocks.  The air around it
+seems to shimmer from the heat given off from the phoenix.  Its eyes are like
+two piercing flames that bore into you with fiery intensity.  It moves its head
+gracefully as it turns its attention to you.  It regards you silently, waiting
+to see if you mean it any harm.  Its sharp claws and even sharper beak should
+be enough deterrent to any sane person.    
+~
+1828890 268435584 525344 0 E
+28 2 -12 3d33+1250 4d7+12
+0 175000 1
+8 8 0 0
+BareHandAttack: 11
+SkinData0: 7531
+E
+#7560
+Helgrin Dunnahar Brewmaster Bitter Rock~
+Helgrin Dunnahar, Brewmaster of Bitter Rock~
+Helgrin Dunnahar paces back and forth behind the bar, serving drinks to the patrons.
+~
+   Helgrin Dunnahar is a middle-aged dwarf and one of the most respected in the
+community of Bitter Rock.  His is the office of Brewmaster, which also makes
+him mayor and unofficial Lord Protector of the dwarves who live here.  He has a
+full, bristling grey beard, and a hard set to his eyes, though when he is truly
+happy, his laughter rumbles like thunder in the skies.  He enjoys his work, and
+takes pride in the ales that he personally prepares.    
+~
+7594075 33555456 0 0 E
+31 0 -15 3d33+8000 4d8+10
+0 300000 3
+8 8 1 0
+BareHandAttack: 7
+E
+T 7560
+#7561
+Ilgra Dunnahar dwarf robust little dwarven woman~
+Ilgra Dunnahar~
+A robust dwarven woman stands by her husband's side, seeing to everyone's comfort.
+~
+   Ilgra and her husband, who is now Brewmaster of Bitter Rock, came to be
+together through the tradition amongst some dwarven clans of arranged marriage.
+At first, she was glad to have landed such a powerful and influencial husband,
+but later she came to love him dearly and now remains loyal, ever at his side.
+They are growing old together, but the love still shines in her bright blue
+eyes.  She is a short dwarven female of robust build, with iron-grey hair.    
+~
+7594075 33554432 0 0 E
+31 0 -15 3d33+8000 4d8+10
+0 300000 3
+8 8 2 3
+BareHandAttack: 5
+E
+#7562
+Breslin Axehand very old mountain dwarf~
+Breslin Axehand~
+A very old mountain dwarf leans on his staff, nodding sagely at you.
+~
+   Breslin Axehand is very, very, very old, even by mountain dwarf standards.
+Every day he stands here upon the path that leads into the community of Bitter
+Rock, awaiting visitors.  These visitors have not come with any regularity for
+some time, but he awaits them all the same.  His clothes are a dull grey, and
+his fuzzy white beard and eyebrows make it hard to see his face.    
+~
+1073242 32828 0 0 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+8 8 1 0
+BareHandAttack: 7
+E
+T 7562
+#7563
+Vengilliam Ven shady-looking gnome tight green hood curio dealer~
+Vengilliam the Curio Dealer~
+A shady-looking gnome wearing a tight green hood tries to lure you toward his cart.
+~
+   Vengilliam would have you believe that he is known throughout Ansalon for
+the quality of the goods he sells.  This is in fact a half-truth.  This runty,
+bearded little gnome with an impossibly huge nose is known throughout Ansalon,
+however his notoriety is of the criminal sort.  He is wanted in most major
+cities for burglary, breaking and entering, and resisting arrest.  He has
+sought political asylum here, claiming anti-Gnome persecution.  This asylum has
+been grudgingly granted.    
+~
+7594203 33719356 0 -850 E
+31 0 -15 3d33+8000 4d8+10
+40000 300000 4
+8 8 1 2
+BareHandAttack: 14
+E
+T 7563
+#7564
+Mardif bard extraordinaire travelling fiddle~
+Mardif, bard extraordinaire~
+A travelling bard gleefully plays dwarven jigs on his fiddle.
+~
+   Tall and willowy, this man appears quite out of place here amongst so many
+stout, hairy dwarves.  He is dressed very flashily, in bright reds and greens,
+with tassles tastefully adorning his boots, cuffs, and the hem of his jacket.
+He has a jolly smile upon his face as he plays his five-string fiddle.  Upon
+his head sits a green cap, a bright yellow feather sticking out of it.  He
+brags that he can play any tune, though the audience here only have a few songs
+that they truly want to hear.    
+~
+1073162 1056 0 850 E
+16 11 0 3d20+320 3d6+4
+500 11000 4
+8 8 1 0
+BareHandAttack: 11
+E
+T 7565
+#7565
+Felzaard Fel Stoneweaver surly foul-tempered dwarf~
+Felzaard Stoneweaver~
+A surly, foul-tempered dwarf gives lessons on ore extraction to other dwarves.
+~
+   Felzaard is not the oldest dwarf in Bitter Creek, but in his years, he has
+extracted more iron from the stones than any of the other dwarves combined,
+which has given him his nickname, "The Magnet".  If there is iron to be found
+in a shaft, it is certain that he will find it.  He is dressed drably, save for
+the bright blue sash which marks him as a master miner.  He teaches classes on
+mining to some younger dwarves, who hang on his every word.    
+~
+7594075 33554432 0 0 E
+31 0 -15 3d33+6000 4d8+10
+0 300000 3
+8 8 1 2
+BareHandAttack: 6
+E
+#7566
+Derfred Axelrod ancient dwarf~
+Derfred Axelrod~
+Derfred Axelrod, an ancient dwarf sits here, clutching his axe and grumbling.
+~
+   Defred Axelrod is somewhere around four hundred years old.  An age not
+unheard-of amongst the dwarves, but still considered quite venerable.  He has a
+long, curly beard of slate gray, with eyes to match.  His arms and legs appear
+stout and sturdy despite his age, though when he moves, you can almost hear his
+joints creaking in protest.  It has been too long since this dwarf took to the
+battlefield, though it looks as if his skills are still there.    
+~
+7594075 33685504 0 0 E
+31 0 -15 3d33+7000 10d8+10
+0 300000 0
+8 8 1 2
+BareHandAttack: 3
+E
+T 7566
+#7567
+Warl Nog smallish dwarf~
+Warl Nog~
+A smallish dwarf rushes about, making sure that everything is neat and tidy.
+~
+   "Crazy Warl" they call him, and perhaps justifiably so.  Warl performs his
+duty with an almost fanatical fervor.  He rushes about, dusting off perfectly
+clean pickaxes and making certain that everything is as it should be.  He opens
+a cabinet, nods, and closes it again.  He is dressed in clean white coveralls,
+and wears his red beard short and clean.  He seems in a rush, but doesn't seem
+to be accomplishing anything.    
+~
+190479 1024 0 0 E
+18 11 -2 3d20+380 3d6+6
+500 14000 0
+8 8 1 5
+BareHandAttack: 7
+E
+T 7567
+#7568
+Breslin Axehand very old mountain dwarf farewell~
+Breslin Axehand~
+A very old mountain dwarf leans on his staff, nodding sagely at you.
+~
+   Breslin Axehand is very, very, very old, even by mountain dwarf standards.
+Every day he stands here upon the path that leads into the community of Bitter
+Rock, awaiting visitors.  These visitors have not come with any regularity for
+some time, but he awaits them all the same.  His clothes are a dull grey, and
+his fuzzy white beard and eyebrows make it hard to see his face.    
+~
+1105946 32828 0 0 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+8 8 1 0
+BareHandAttack: 5
+E
+T 7561
+#7569
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+T 7596
+#7570
+dwarf curate Shinare dignified elegant silk robes~
+a curate of Shinare~
+A dignified dwarf in elegant silk robes wanders slowly, his jewellery glittering.
+~
+   This dwarf is no taller than any other dwarves, but the dignity and pride
+which which he carries himself make him appear to be.  He has a long, black
+beard which trails down his chest to his belt.  Every finger is adorned with a
+ring, and many gold chains adorn his neck, shoulders, and waist.  His silk
+robes are immaculate, dark burgundy in colour.  He smiles when he sees you, a
+smile which quickly fades as he resumes a business-like glower.    
+~
+1630296 33852 8454148 0 E
+21 8 -5 3d33+450 3d8+7
+1200 33500 2
+8 8 1 0
+BareHandAttack: 7
+E
+#7571
+dwarven dwarf warrior old battle-scarred~
+an old dwarven warrior~
+An old and battle-scarred dwarf sits smugly behind his cards.
+~
+   This dwarf is as old as the others in the guildhall, and looks to have seen
+his share of battles, though those days are no doubt long behind him.  He sits
+in one of the comfortable chairs arrayed about the tables, playing cards with
+his friends.  He has a bit of a smug look upon his stern face, indicating
+perhaps that he thinks he's got a winning hand.  An ancient dwarven axe sits
+unused at his side.    
+~
+1073162 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+8 8 1 0
+BareHandAttack: 3
+E
+#7572
+dwarf restless dwarves impatient one~
+a restless dwarf~
+One of the dwarves paces about impatiently, glaring around every now and then.
+~
+   This dwarf looks to be waiting for something very, very impatiently.  He
+paces about with a scowl on his face, staring mostly at the ground, but
+occasionally looking up at you.  He is wearing simple leather clothing, and
+heavy hobnailed boots that make his every agitated step audible.  He mutters
+when he sees you looking at him, but you can't make out what he said.    
+~
+24584 1024 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 1 0
+BareHandAttack: 5
+E
+#7573
+dwarf dwarven miner off-duty dirty mining coveralls~
+an off-duty dwarven miner~
+A dwarf in dirty mining coveralls sits here, enjoying a pint of dark ale.
+~
+   This middle-aged dwarf has finished his shift in the mines, and is now
+relaxing over a pint of warm, dark ale.  Some of the froth of the ale sits
+unheeded in his moustache.  He glances around the place, and if he knows about
+the ale in his facial hair, he seems to be unconcerned.  His coveralls are
+covered with dust.  A mining pick sits at his side.    
+~
+24586 0 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 0
+8 8 1 0
+BareHandAttack: 13
+E
+#7574
+girl chubby dwarven blue~
+a little dwarven girl in a blue dress~
+A chubby dwarven girl in a bright blue dress stops in her tracks to stare at you.
+~
+   This chubby little child has dark brown hair done up in ringlets.  She wears
+a bright blue dress with ruffles and ribbons.  She trots along happily
+engrossed in her own little world, but when she sees you, she stops everything
+to stare at you.  It is apparent she's never seen anything quite like you
+before.    
+~
+8328 1024 0 0 E
+6 17 10 2d5+70 2d5+2
+50 175 0
+8 8 2 0
+E
+#7575
+dwarf dwarven warrior stout scarred~
+a stout, scarred dwarven warrior~
+A stout dwarf glares about, scanning for danger.
+~
+   This is the moment this old dwarf has been waiting for for many years.  The
+citizens of Bitter Rock have been threatened, and he has been forced into
+action.  He moves with an ease that belies his rather hefty size, and the years
+have not dulled the warrior's instincts.  He glances about for what poses a
+threat, stopping himself from attacking you on sight when he notices you aren't
+the threat he seeks, though he watches you with suspicion.    
+~
+1239128 33792 0 0 E
+20 8 -4 3d20+440 3d7+6
+400 25000 3
+8 8 1 0
+BareHandAttack: 3
+E
+T 7575
+#7576
+dwarf villager dwarven~
+a dwarven villager~
+A villager wanders about, taking care of her daily chores.
+~
+   This dwarven woman looks rather cheerful as she wanders about the tiny
+settlement of Bitter Rock.  The basket on her arm is covered with a thin grey
+cloth and could contain any number of things.  She wanders about, wherever she
+is going, she seems to be in somewhat of a hurry.    
+~
+24584 1024 0 0 E
+8 15 8 5d5+110 2d6+2
+60 800 0
+8 8 2 0
+E
+#7577
+dwarf dwarven villager~
+a dwarven villager~
+A male dwarf wanders about the small underground village with his family.
+~
+   A large beard partially obscures the rather contented-looking face of this
+dwarf.  He seems to be on his day off, and is enjoying wandering in the town
+with his family.  He has spent a week working very hard in the mines, and is
+now enjoying some well-earned time off.  He nods at you in passing.    
+~
+24584 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+75 1900 0
+8 8 1 0
+E
+#7578
+dwarf young younger~
+a young dwarf~
+A younger dwarf is seated here, learning about mining with great interest.
+~
+   This dwarf looks to be fairly young, his beard still short and thin.  He is
+seated at one of the tables before the lecturing dwarf.  He isn't taking notes,
+but is listening very intently to every word that is spoken.  His coveralls are
+immaculately clean, and it may be safe to judge that he has not yet gone into
+the mines for the first time.  He looks strong and capable.    
+~
+24586 1024 0 0 E
+14 12 2 6d8+240 2d8+4
+100 7000 0
+8 8 1 0
+BareHandAttack: 5
+E
+#7579
+dwarf dwarven sleepy-eyed old~
+a sleepy-eyed dwarf~
+An old dwarf leans back in his chair on the verge of sleep.
+~
+   This dwarf leans back in a comfortable wooden chair.  His beard is long and
+grey, and he appears to be quite aged.  He is dressed in coveralls bearing the
+symbol of the warriors guildhall, but looks like he hasn't seen battle in
+decades.  He lies back nearly falling asleep, though upon closer inspection one
+of his eyes is still open, and is trained steadily on you.    
+~
+57370 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+0 11800 3
+8 8 1 0
+BareHandAttack: 3
+E
+#7580
+dwarven dwarf miner stout~
+a stout dwarven miner~
+A stout dwarven miner chips at the wall with his pickaxe.
+~
+   Your gaze is met with a look of complete stoicism, and a small nod.  The
+dwarf is fairly young, with a beard of rich umber.  Sweat pours down his
+forehead, causing the suet that covers his face to run.  He wears dusty
+coveralls, working with his sturdy iron pickaxe to mine more iron from the rock
+around him.  He then goes right back to work with renewed vigor.    
+~
+24652 1024 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 0
+8 8 1 0
+BareHandAttack: 14
+E
+#7581
+dwarf gruff dwarven foreman~
+a gruff dwarven foreman~
+A gruff dwarf stands here looking over a piece of paper and scowling.
+~
+   This dwarf is a little taller and brawnier than the others, and the
+cleanliness of his garb would seem to indicate he is some sort of overseer in
+the mines.  He holds in his hands a crumpled piece of parchment, and as he
+looks at it, he frowns.  When he sees you looking at him, he looks ready to
+order you back to work, but seeing who you are not who he expected, the words
+die on his lips, and he simply frowns all the more fiercely.    
+~
+1077340 1024 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 1 0
+BareHandAttack: 10
+E
+#7582
+Damwarth Hardaxe Dam powerfully built dwarf dwarven fancy leather armor guard~
+Damwarth Hardaxe~
+A powerfully built dwarf in fancy leather armor guards one of the downward passages.
+~
+   Damwarth stands just at the mouth of the tunnel, where the path splits in
+two.  There are two paths here, one on the right, and one on the left.  He
+guards the one on the right, and only allows authorized dwarven personnel to
+enter.  He is gruff and stern, with an eyepatch over his left eye.  He seems
+more than capable of taking care of himself in battle.  When he sees you
+approach, he stiffens his stance a little, keeping his good eye on you.    
+~
+7462938 33555512 0 0 E
+31 0 -15 4d50+6000 4d22+10
+0 300000 0
+8 8 1 0
+BareHandAttack: 3
+E
+T 7582
+T 7583
+#7583
+xyz~
+a spark~
+A spark sparkles here.
+~
+See how I sparkle?  That's because I'm a spark!
+~
+8 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 0 0
+8 8 0 0
+E
+#7584
+slime bubbling yyyy~
+a bubbling slime~
+A bubbling slime scuttles about the corridor in search of food.
+~
+   This wretched creature is made up of living slime, constantly oozing and
+bubbling, propelling itself forward by changing its amoebic shape, always in
+search of more food.  Bubbling slimes are often the bi-product of the death of
+larger slime creatures, proof indeed that they remain a threat, even after
+death.    
+~
+65592 33588256 0 0 E
+10 14 4 5d4+90 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 1
+E
+T 7588
+#7585
+wubbawubba~
+a bolt of lightning~
+A bolt of lightning strikes down from the sky!
+~
+   A bolt of lightning strikes down from the sky.  It is amazing that you've
+been able to glimpse it.    
+~
+1302538 0 0 0 E
+28 -8 -20 3d33+1 7d7+10
+0 1 0
+8 8 0 0
+BareHandAttack: 1
+E
+#7586
+Zilgar dwarf old white beard~
+an old dwarf with a white beard~
+An old dwarf walks up after the fall of the demon to congratulate you.
+~
+   This dwarf is truly of venerable age, with a long white beard.  He walks up
+to you, a look of profound respect twinkling in his eyes.  His face shows the
+gratitude of the entire dwarven community, for having saved them from the
+menace that now lies dead at your feet.    
+~
+7593994 33554432 0 0 E
+31 0 -20 3d33+6000 4d8+10
+0 1 3
+8 8 1 0
+BareHandAttack: 3
+E
+T 7586
+#7587
+spider hatchling zpider~
+a hatchling spider~
+A hatchling spider crawls amongst the webs and cracks in the walls.
+~
+   This spider is newly hatched from an egg, though it has already reached
+impressive size, much larger than any domestic spider usually grows.  It moves
+quickly, and silently, always ready to feed on the remains of whatever thing
+the larger spiders manage to entrap.  It creeps in and out of the shadows,
+slipping into cracks in the wall or into the maze of webs.    
+~
+90121 263200 0 0 E
+7 16 5 3d5+55 2d6+1
+0 400 0
+8 8 0 9
+BareHandAttack: 4
+E
+#7588
+spider giant zpider~
+a giant spider~
+A giant spider lurks in the corridor, awaiting the arrival of some fresh meat.
+~
+   The giant spider is almost the size of a man, though its body structure
+makes it much lighter.  Though they do not crawl upon webs, they set clever
+traps in abandoned places and wait for unwary prey to stumble into them.  Once
+prey is trapped, the spider mercilessly attacks, poisoning them with a
+paralytic venom, and then sucking the hapless creature's juices from its body.
+This spider looks as though it has eaten very well in the past.    
+~
+4121 263200 0 0 E
+13 13 3 6d5+240 2d9+2
+0 6625 0
+8 8 0 8
+BareHandAttack: 4
+E
+#7589
+spider huge blue-black zpider~
+a huge spider~
+A huge blue-black spider crawls along in search of prey.
+~
+   This spider is easily the size of a large dog.  It crawls along very slowly,
+stopping occasionally to search for prey.  Suddenly as you watch, it lunges at
+a small mouse with incredible ferocity and speed, and within moments, the mouse
+is trapped, stung, webbed, and dragged away.  The sider's fangs drip with a
+horrible green venom.    
+~
+4253 853024 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 9
+BareHandAttack: 4
+E
+#7590
+Cydratha Cyd Summoner dark seductive young priestess~
+Cydratha the Summoner~
+A dark, seductive young priestess lounges here, waiting for you.
+~
+   Cydratha has dedicated her life to the summoning of monstrosities from the
+demiplane of slime to crawl within Krynn's shadowy underground.  Loose curls of
+glistening black hair cascade playfully down her slender, nude torso.  She is
+naked from the waist up, save for mysterious red designs painted upon her
+smooth skin.  She relaxes against the slimy wall of the cave, seeming to be
+entirely at home.  She sees you looking at her, and she grins menacingly.  She
+has been expecting visitors like you.    ~
+12181594 42172 189792256 -1000 E
+26 4 -10 3d33+1950 4d7+7
+1500 115000 2
+8 8 2 0
+BareHandAttack: 12
+E
+T 7591
+T 7597
+#7591
+slime olive disgusting coloured dripping yyyy~
+an olive slime~
+A disgusting olive-coloured slime drips from the ceiling.
+~
+   Olive slime is a strain of monstrous plant life, closely related to the
+green slime, that grows while clinging to ceilings.  To mistake an olive slime
+for the more common green slime is a deadly mistake, for they are much more
+dangerous.  They like to attach themselves to the spinal region of humanoid
+creatures, and spread a numbing poison from there, eventually overtaking the
+hapless creature's free will and reducing it to a zombie-like state.    
+~
+761882 101483560 33554432 0 E
+14 12 2 6d12+180 2d8+4
+0 7000 2
+8 8 0 0
+BareHandAttack: 1
+E
+T 7592
+#7592
+jelly mustard monstrous amoeboid creature yyyy~
+a mustard jelly~
+A monstrous amoeboid creature creeps along in the shadows in search of prey.
+~
+   The mustard jelly is similar to other slime and mold creatures that roam the
+forgotten underground passages of the world, but is different in one important
+regard: The mustard jelly is intelligent and malicious.  It is a very difficult
+creature to harm, and is capable of doing much damage before it is slain.  It
+preys upon the living, though will gladly attempt to eat anything that it
+finds.    
+~
+1286269 168559656 0 0 E
+20 8 -10 3d20+440 3d7+6
+0 25000 0
+8 8 0 9
+BareHandAttack: 12
+E
+T 7592
+#7593
+jelly transparent yyyy~
+a transparent jelly~
+You barely notice a transparent jelly slipping amonst the rocks.
+~
+   It doesn't look like much.  It is comprised of a thin and cohesive mass of
+transparent jelly, and might be mistaken for simple, inanimate slime.  You,
+however, having sharper eyes than most have seen it moving and so have been
+alerted to its presence.  It starts to slither away in search of less lively
+prey.    
+~
+169 34373632 0 0 E
+18 11 -2 3d20+240 3d9+6
+0 14000 0
+8 8 0 9
+BareHandAttack: 4
+E
+T 7592
+#7594
+cube gelatinous shimmering nearly-transparent jelly yyyy~
+a gelatinous cube~
+A shimmering, nearly-transparent cube of jelly fills the entire passageway.
+~
+   Gelatinous cubes are almost infamous amongst dungeon crawlers, not for their
+common frequency, but rather for their tendancy to eat unwary adventurers and
+absorb their belongings into their mass.  The gelatinous cube engulfs its pray,
+which is slowly digested inside of it.  Armor, weapons, and other belongings
+are often left behind, immune to the full effect of the cube's digestion.    
+~
+8642589 33817640 0 0 E
+19 9 -3 3d20+810 3d4+6
+0 17000 0
+8 8 0 8
+BareHandAttack: 1
+E
+T 7594
+T 7592
+#7595
+monster slime horrific mass animated yyyy~
+a horrific slime monster~
+A horrific mass of animated slime sloshes out of the darkness.
+~
+   A mass of slime crawls at you from out of the darkness, giving off a foul
+stench.  It is an amorphous blob of goo, but seems to possess some kind of
+basic animal intelligence.  It smells that it's next meal has just arrived, and
+doesn't intend to wait for appetizers.    
+~
+253994 33554432 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 0
+8 8 0 0
+BareHandAttack: 6
+E
+T 7595
+#7596
+dwarf dying bleeding~
+a dying dwarf~
+A dwarf lies here, bleeding to death.
+~
+   This unfortunate dwarf is sitting at death's door.  His eyes are widened and
+slightly crazed, his face contorted in pain.  He is mortally wounded, and his
+life pours out before you.  There is no saving him.  Within moments, he will be
+dead.  He sees you approach and lifts his hand, entreating a moment of your
+time.    
+~
+253962 0 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 3
+8 8 1 0
+E
+T 7596
+#7597
+poisonous mist purple swirling~
+a poisonous mist~
+A swirling purple mist fills the room!
+~
+   This purplish mist seems alive as it swirls and eddies.  Brought forth by
+foul magic, poisonous mists seem attracted by the warmth of living flesh, and
+seep into the pores of the victim, killing them slowly, and painfully.    
+~
+7594104 885822 0 0 E
+10 14 0 5d4+60 1d2+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 1
+E
+#7598
+spider Queen gigantic huge black~
+a gigantic Queen spider~
+A huge black spider lurks here, served by her brood of lesser spiders.
+~
+   The size of a large carriage, with legs each the length of a man, the
+dreaded Queen spider is a magnificent and terrifying sight to behold.  Her
+spindly body serves to help her easily maneuver herself through her tangled web
+nest, and she is covered with a hard black carapace, lined with thick, wiry
+hairs.  Her jaws drip with green venom.  There is an almost intelligent gleam
+in each of her many glistening black eyes.  There are bright green stripes on
+her abdomen.    
+~
+1075067 34374696 0 0 E
+25 3 -13 3d33+750 4d8+8
+0 87000 1
+8 8 2 9
+BareHandAttack: 4
+E
+#7599
+Kharasz mold Demon rotting winged horror shroud filth~
+Kharasz, the Mold Demon~
+A rotting, winged horror stands amidst a shroud of filthy air, roaring with unholy rage.
+~
+   This creature has sprung fully from your worst nightmares.  Its skin is
+black and rough, covered with a thick layer of grey-green mold.  Two
+razor-sharp wings sprout from its back, and each of its four arms ends in
+powerful, razor-sharp talons.  Its evil face is dominated by seven glowing red
+eyes.  It has no mouth, but instead a set of insect-like mandibles.  It emits a
+powerful roar that rings out with mind-buggering volume, shaking you to your
+very soul.    
+~
+8122138 33596476 9503744 -1000 E
+30 1 -14 3d33+5700 4d8+9
+0 250000 5
+8 8 1 0
+BareHandAttack: 12
+E
+T 7597
+T 7590
+$

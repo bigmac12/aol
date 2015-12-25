@@ -1,0 +1,395 @@
+1
+2
+21
+put all.chicken cloak
+0
+3
+fly
+48
+remo belt ; get faery belt ; wear belt ; q faery
+1
+2
+di
+54
+remo belt ; get bubbling belt ; wear belt ; q bubbling
+1
+2
+mm
+64
+remo belt ; get parchment belt ; wear belt ; recite parchment $*
+1
+2
+eb
+11
+eat chicken
+0
+3
+gbp
+18
+get chicken cowled
+0
+2
+st
+27
+remo pearl ; wear claw ; st
+1
+3
+res
+29
+remo claw ; wear pearl ; rest
+1
+2
+ds
+14
+dismount horse
+0
+2
+md
+16
+st ; mount horse
+1
+2
+am
+9
+asse mask
+0
+2
+wc
+11
+wear cowled
+0
+2
+rc
+11
+remo cowled
+0
+2
+wp
+9
+wear belt
+0
+2
+rp
+9
+remo belt
+0
+8
+laughing
+65
+remo mask ; put all.mask hole ; get laughing hole ; wear laughing
+1
+5
+faery
+49
+remo belt ; get faery belt ; wear belt ; q faery 
+1
+3
+lib
+12
+look in belt
+0
+4
+hang
+16
+hang wind girdle
+0
+4
+wind
+9
+remo wind
+0
+3
+lic
+14
+look in cowled
+0
+3
+liw
+12
+look in wind
+0
+2
+ms
+15
+st ; mount mare
+1
+2
+tm
+8
+track me
+0
+1
+1
+12
+buy 10 steak
+0
+2
+sk
+11
+skin corpse
+0
+2
+dd
+12
+detectdis $*
+1
+2
+ko
+11
+knockout $*
+1
+2
+js
+11
+jawstrik $*
+1
+2
+dk
+11
+dirtkick $*
+1
+5
+quert
+42
+:tilts her head questioningly to the side.
+0
+2
+sc
+4
+scan
+0
+4
+user
+3
+who
+0
+4
+frow
+18
+:narrows her eyes.
+0
+5
+invis
+24
+get milky belt ; q milky
+1
+9
+porcelain
+67
+remo mask ; put all mask hole ; get porcelain hole ; wear porcelain
+1
+1
+x
+160
+:appears right behind you.  Without looking down, you can immediately tell that there is a blade at your throat, and another pointing at the small of your back.
+0
+4
+drin
+9
+drin skin
+0
+5
+woven
+59
+remo mask ; put all mask hole ; get woven hole ; wear woven
+1
+3
+say
+22
+fuck off, you bastard.
+0
+5
+query
+42
+:tilts her head to the side questioningly.
+0
+7
+lacynes
+11
+track durak
+0
+4
+rofl
+80
+:closes her eyes as she doubles-over with peals of delicate, bird-like laughter.
+0
+4
+home
+14
+track yxtphrar
+0
+5
+tiger
+24
+get tiger belt ; q tiger
+1
+3
+wax
+20
+get wax belt ; q wax
+1
+6
+cackle
+59
+:cackles hoarsely, a sound remniscent of a predatory raven.
+0
+5
+smile
+46
+:has a positively giddy look in her dark eyes.
+0
+4
+curt
+29
+:curtseys with inhuman grace.
+0
+6
+tribal
+61
+remo mask ; put all.mask hole ; get tribal hole ; wear tribal
+1
+6
+butter
+67
+remo mask ; put all.mask hole ; get butterfly hole ; wear butterfly
+1
+9
+butterfly
+67
+remo mask ; put all.mask hole ; get butterfly hole ; wear butterfly
+1
+4
+bird
+59
+remo mask ; put all.mask hole ; get raven hole ; wear raven
+1
+5
+skull
+59
+remo mask ; put all.mask hole ; get skull hole ; wear skull
+1
+4
+clay
+57
+remo mask ; put all.mask hole ; get clay hole ; wear clay
+1
+5
+raven
+59
+remo mask ; put all.mask hole ; get raven hole ; wear raven
+1
+5
+steel
+59
+remo mask ; put all.mask hole ; get steel hole ; wear steel
+1
+3
+lip
+12
+look in hole
+0
+5
+chirp
+19
+:chirps pleasantly.
+0
+5
+thank
+21
+:nods at$* in thanks.
+1
+1
+y
+88
+:looks like she's making a yawning motion, waving her hand before the mouth of her mask.
+0
+6
+unlock
+19
+unlock $* ; open $*
+1
+9
+solanthus
+11
+track alden
+0
+3
+bat
+31
+:bats her eyelashes innocently.
+0
+3
+smi
+31
+:bats her eyelashes innocently.
+0
+3
+li2
+18
+look in voluminous
+0
+8
+sanction
+12
+track korman
+0
+5
+laugh
+61
+:makes quiet, chirping sounds which are almost like laughter.
+0
+7
+guthorg
+15
+track sargonnas
+0
+3
+yxt
+208
+:tosses you an odd, half-copper coin.  On one side of it is depicted a bird in flight before a crescent moon.  Upon the other is a strange series of characters in the common language, spelling out, 'Y-X-P-L'.
+0
+5
+istar
+12
+track horace
+0
+8
+havaenna
+10
+track thom
+0
+9
+palanthas
+13
+track longday
+0
+7
+kalaman
+13
+track stanley
+0
+7
+karthay
+12
+track baeran
+0
+3
+bas
+7
+trip $*
+1
+4
+grin
+23
+:grins behind her mask.
+0
+3
+gac
+18
+get all all.corpse
+0
+1
+;
+11
+chat &m$*&n
+1

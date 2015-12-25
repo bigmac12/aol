@@ -1,0 +1,740 @@
+#4700
+Cyrill Cyr synadryn innkeeper~
+Cyrill~
+Cyrill groans and rises from his seat to offer you a room.
+~
+   Cyrill is a very large man, whose bones creak under his own weight.  He is
+past middle age, and his large weight accounts for the most part for his
+failing health.  Still, he does try to create a hospitable atmosphere, but as
+his health goes, so to do his manners.  He is gruff and curt, but on a good
+day, he is rather pleasant to be around.    
+~
+7593995 1032 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 3
+E
+#4701
+kender glum~
+a glum-looking kender~
+A glum-looking kender stands here, kicking at a rock half-heartedly.
+~
+   This kender male shuffles about, kicking at a rock dejectedly.  He looks
+rather glum and depressed, as though someone's just taken away his pouches and
+told him he'd never see them again.  Other than that, he looks like an average
+kender male.  He is dressed in bright orange leggings and a yellow tunic.    
+~
+24587 33792 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 4
+8 8 1 6
+E
+#4702
+Saren militia female guard~
+Saren, a female militia-man~
+Saren, a female militia-man of Talenrock stands guard at the gate.
+~
+   This young lady is a member of the Talenrock militia.  She looks to be about
+eighteen, perhaps a year or two older.  She stands to one side of the gate to
+the cemetary, her face a mask of stoicism.  She has long blonde hair, pulled
+back into a neat pony-tail.  She holds a short spear in one hand, and a small
+shield with the heraldry of Talenrock upon it in the other.    
+~
+18458 33792 0 0 E
+15 11 1 5d10+300 2d8+4
+500 8400 3
+8 8 2 0
+BareHandAttack: 15
+E
+T 4755
+#4708
+terrace Tadrian barkeep~
+Tadrian, the Barkeep~
+Tadrian makes occasional notes in his ledger as he serves drinks.
+~
+   Tadrian is a scholar at heart.  Though he gets paid to sling drinks, he has
+turned this into an opportunity to study people, his true passion.  When people
+aren't looking, he'll write down a few things in his little ledger about the
+customers who come through.  When asked if he has really learned a lot about
+people tending bar, he simply laughs and nods vigorously.    
+~
+7593994 1064 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 0
+E
+#4710
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d33+3000 30d99+50
+0 1 0
+8 8 2 3
+BareHandAttack: 6
+E
+#4714
+larenda kindly retired merchant~
+Larenda, the Treasurer~
+A kindly, retired merchant rests behind the counter, serving as the treasury.
+~
+   Larenda seems almost grandmotherly with her graying silvery hair that wisps
+across her face at times, and her kind, gently manner and tone of voice she
+uses on all the people who come here.  As a merchant she did well, and now she
+has retired, to serve as the town's treasurer, with this place serving as the
+bank.  She seems happy to just help others, without asking for something in
+return for her services.    
+~
+7593995 40 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 2 4
+E
+#4715
+curate coppery hair~
+a curate of Sirrion~
+A curate with coppery-colored hair stands here, greeting visitors.
+~
+   This man is a curate of the temple, and he stands here greeting visitors
+with a smile and a prayer.  His is middle aged, and his coppery-colored hair is
+worn short.  He is dressed in red robes, trimmed in yellow.  He wears red,
+linen wrappings about his wrists and ankles, and even his sandals are a deep
+red color.    
+~
+1597450 67110016 1114114 0 E
+21 8 -5 3d33+450 3d8+7
+800 33500 2
+8 8 1 0
+BareHandAttack: 5
+E
+#4716
+kitney apprentice young girl~
+Kitney, a young apprentice~
+A young girl, serving her apprenticeship in the temple, smiles as you shop.
+~
+   The girl is very young to be an apprenticed to a priest, yes she seems to
+love the idea of helping others through her faith in her god, Sirrion.  She is
+neatly dressed in simple clerical robes in shades of red, and her smile is
+warm, gentle and friendly.    
+~
+7593994 1064 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000 300000 0
+8 8 2 0
+E
+#4717
+tyfan aging high priest flames~
+Tyfan, the High Priest of Sirrion~
+The high priest, dressed in robes decorated with flames, waits to teach others.
+~
+   This high priest is a bit old, with his graying hair barely covering his
+head.  He doesn't move around well, preferring to either stand in one place, or
+sit and rest his tired bones.  His robes though, are in the best of shape -
+pure white from the collar to the hem, where tiny glittering flames have been
+embroidered with golden and sparkling red and yellow threads.  His life's wish
+is to teach everyone everything he can, which is why he is spending the rest of
+his life in this small town.    
+~
+7593994 1064 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 2
+E
+#4720
+Scrib Aghar gully dwarf grungy~
+Scrib, the grungy Aghar~
+Scrib, a grungy-looking gully dwarf, snoozes against the glassy well.
+~
+   Scrib sits with his back against the glassy-looking well, sound asleep.  
+Like all of his race he smells something awful, and you can't quite decide if
+he's got a nice tan, or he's been wallowing in a dirt patch.  His chin rests on
+his chest, making his already frizzled beard splay out in all directions.  The
+greying hair on the top of his head is sparse, though what he does have is
+matted and ratty.  A half-empty bottle rests in one of his hands.    
+~
+138 1024 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 3
+8 8 1 0
+BareHandAttack: 4
+E
+#4721
+Tian exotic pretty flowers~
+Tian, the Flower-Girl~
+Tian, a pretty young woman with an exotic look, stands here selling flowers.
+~
+   This short, younger looking woman is clearly half-elven.  She is fairly
+pretty, and her dark brown almond-shaped eyes and tanned complexion lend her a
+slightly exotic look.  Her lips are thin, and seem to curl at the edge as if
+she were enjoying a private joke.  Her hair is dark brown, and falls loosely
+about her shoulders.  She wears simple, but attractive commoners clothing, and
+holds a basket of various wildflowers for sale at her side.    
+~
+57422 1032 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 2 0
+E
+#4722
+Jevare grungy rough~
+Jevare, the grungy, rough-looking furrier~
+Jevare, the grungy, rough-looking furrier stands behind the counter here.
+~
+   This man is quite grungy, though it's mostly on his clothes.  He appears to
+spend a great deal of time outside, travelling through the woods or other
+outdoor areas.  His skin is tanned, and shows many scars.  He sits idly behind
+the counter, mending together a cloak made of pelts.  He notices your glance
+and gives you a short, pert nod before returning to his work.    
+~
+188494 1032 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 1 0
+8 8 1 0
+E
+#4723
+man militia talenrock serious~
+a young Talenrock militia-man~
+A young Talenrock militia-man stands guard here, looking serious.
+~
+   This young man is a member of the Talenrock militia.  He looks to be just
+barely of age, perhaps eighteen or so.  He stands here guarding the road into
+town with a solemn look upon his face, looking slighlty comical.  Even though
+guarding the road into town usually only consists of running off annoying
+forest animals, he still seems to take his position quite seriously.    
+~
+1064970 1024 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 3
+8 8 1 0
+BareHandAttack: 15
+E
+#4724
+form shadowed emerald green~
+a shadowed form with emerald green eyes~
+A pair of emerald green eyes peer from the shadows of a tall shelf.
+~
+   A pair of emerald green eyes seem to appear and disappear within the shadows
+of the high bookshelf, giving it the appearance of being disembodied eyes.  
+The form does move, however, yet the form is so dark in color that it cannot be
+detected as to what type of creature it actually is.  It seems to enjoy being
+perched up as high as possible, giving it a good view of the store.  It's easy
+to assume the form is just a black cat - most mages have cats as a familiar.  
+
+~
+3399690 33797176 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 4
+8 8 1 0
+BareHandAttack: 8
+E
+T 4727
+#4725
+Samantha Sam armorer shopkeeper shopkeep young man dirty overalls~
+Samantha, the armorer~
+A young man in dirty overalls stands by a counter, waiting to help customers.
+~
+   A man stands here on first glance, but upon closer inspection it seems to be
+a woman wearing men's clothes with her hair cut short.  Her face actually is
+very feminine, with big hazel eyes and full red lips.  She stands looking
+through her inventory, but looks up as you approach.    
+~
+253962 1064 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000 300000 0
+8 8 2 0
+E
+#4726
+nephew finely young man armorer's~
+the armorer's nephew~
+A finely dressed young man helps the customers under his uncle's stare.
+~
+   The young man resembles the older one in most respects, from the thin nose
+to the lopsided smile, to the finely made clothes.  However, the younger of the
+two looks uncomfortable as he helps the customers, being a bit intimidated as
+his uncle watches over him, making sure he does a good job in selling items.  
+He hides his feelings well, for his uncle never notices.    
+~
+253962 1064 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000 300000 0
+8 8 1 0
+E
+#4727
+jonyam sir owner burly~
+Sir Jonyam the Ninth~
+The burly owner takes a break as he watches his nephew take care of customers.
+~
+   The owner is a large, burly man, yet closely resembles the young man at the
+counter.  His thin nose and lopsided smile mark them as close relatives, and
+the fine clothes tend to make them look almost like father and son.  This man,
+however, has a tendancy to make the younger one feel uncomfortable as he boasts
+to the customers about how he fought dragons and won lady's hearts with his
+dashing good looks and royal blood.    
+~
+253962 1064 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 0
+E
+T 4727
+#4728
+Henrietta hen baker flour plump~
+Henrietta~
+The plump baker, covered in flour, stands behind her counter ready to help you.
+~
+   The plump baker has been busy making breads, cookies, pies and pastries
+since the early morning, which is evident by the amount of flour that covers
+her and her apron.  She almost bounces from the ovens to the counter as she
+helps her customers - a bit of an odd sight to see considering her weight.    
+~
+253962 1064 0 0 E
+31 20 10 1d1+0 1d1+0
+10000 0 0
+8 8 2 0
+E
+#4729
+Relyn glasswind young woman slight colorful~
+Relyn Glasswind~
+A young woman of slight build, and dressed in colorful robes watches the store.
+~
+   This young woman at most times can be found sitting behind the counter as
+she watches the store with feigned disinterest.  A large, dusty book sits in
+her lap opened, yet she seems to be only glancing at it.  Her robes are
+colorfully dyed in shades of coppery red, making her hair look darker than its
+normal mousy brown.    
+~
+253962 1064 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000 300000 0
+8 8 2 0
+E
+#4730
+Lherro man slim velvets silks jeweler~
+Lherro, a slim, well-dressed man~
+Lherro, a slim man in velvets and silks, fusses over his gemstones and jewelry.
+~
+   The man is almost impossibly thin and tall, reaching a bit more than six
+feet tall, and moves around as if he was as light as a feather.  His clothes
+are mostly rich velvets, lace and silks, and many different types of gems
+decorate his clothing, from buttons to clasps.  His rings are well made too,
+and he fusses over his clothes and his gems as much as he does over his store.
+  
+~
+253962 1064 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000 300000 0
+8 8 1 0
+E
+#4731
+tabby red large cat~
+a large tabby~
+A large red tabby pads quietly about the area, looking for prey.
+~
+   This large cat pads about quietly, until it finds something of interest at
+which point it pounces upon it with almost exaggerated energy.  Its fur is what
+is known as 'tabby', which is a mixed color.  This tabby in particular has
+vibrant coppery-orange fur, streaked with white.  The color, combined with the
+medium length of its fur creates an image much akin to flame.  An image which
+is reflected in the energy of its emerald green eyes.    
+~
+65546 263168 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 8
+E
+#4732
+gentleman elderly~
+an elderly gentleman~
+An elderly gentleman walks down the road leisurely, smoking a pipe.
+~
+   This elderly fellow seems to be out for a leisurely walk through town.  He
+is dressed in simple commoners clothing, and wears a thin, brown leather coat.
+He seems to be lost in thought, looking at the sky, the houses, and nothing in
+particular while he puffs away on his smoking pipe.    
+~
+16394 0 0 0 E
+8 15 8 5d5+110 2d6+2
+200 800 0
+8 8 0 0
+E
+#4740
+postmistress tired woman~
+a tired looking postmistress~
+A tired looking woman stands behind the counter, ready to help with the mail.
+~
+   A small smile can still be found upon this lady's face, even though her
+children run her ragged, and she has barely enough energy left to do her work
+here as the postmistress.  The townsfolk are rather surprised that the mail is
+still sent and received as fast as it does, but the tired looking woman has a
+few surprises of her own, that keeps the children from getting underfoot and
+disturbing her work.    
+~
+253963 1064 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 2 1
+E
+#4748
+man militia bored talenrock~
+a Talenrock militia-man~
+A Talenrock militia-man stands guard here with a bored look upon his face.
+~
+   This young man is a member of the Talenrock militia, and he stands here
+guarding the road into town proper.  He has a rather bored look on his face, as
+guarding the road into town usually consists of little more than keeping away
+annoying forest animals.  Occasionally though, something dangerous does manage
+to find its way here, and though he looks bored, he remains alert for those
+rare occasions.    
+~
+1064986 1024 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 3
+8 8 1 0
+BareHandAttack: 15
+E
+#4757
+ranger female auburn luxurious~
+a female ranger with auburn hair~
+A female ranger with luxurious auburn hair relaxes nearby.
+~
+   This woman is dressed in the garb of a ranger, and her finely tanned skin
+only further compliments the image.  Her hair is a rich auburn color, and falls
+about her shoulders loosely.  Her eyes are a crystal color, and stand out well
+against her complexion and hair.  A few thin scars can be seen on her arms and
+hands, likely from travelling in the wilderness.  She seems to be relaxing,
+lost in thought.    
+~
+1589274 1024 2064 0 E
+18 11 -2 3d20+380 3d6+6
+689 14000 6
+8 8 2 0
+BareHandAttack: 3
+E
+#4758
+ferret curious ball fur~
+a curious little ball of fur~
+A curious little ball of fur skitters about here.
+~
+   This curious little ball of fur is actually a ferret.  He skitters about
+here getting into what mischief he can.  He has soft, sandy brown fur and small
+black whiskers.  A touch of white graces his nose, and he has curious, black
+beady eyes.    
+~
+65547 1064 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 6
+BareHandAttack: 4
+E
+T 4794
+#4760
+ghoul mottled decaying~
+a ghoul with mottled, decaying flesh~
+A ghoul with mottled, decaying flesh is hunched over gnawing upon a bone.
+~
+   &KIt senses you looking at it, and raises its dessicated head to gaze at you
+with sunken, &rsmouldering&K eyes.  The flesh of this vile creature is rotted
+and thin, hanging from its bones in places and taught in others.  Its mouth is
+filled with sharp blood-stained teeth, and bits of decayed flesh hang limply
+from them.  Its hands are twisted, and the fingers end in dirty, but lethal
+looking claws.  It holds a bone with a bit of flesh still hanging from it in
+one hand.  &n
+~
+557164 1576 33554432 -850 E
+11 14 5 2d12+190 2d8+2
+100 2900 9
+8 8 0 0
+BareHandAttack: 4
+E
+#4761
+ghast taut decaying flesh reeking~
+a ghast with taut, decaying flesh~
+A ghast with taut, decaying flesh lurks nearby reeking of death.
+~
+   &KAs if sensing your eyes upon it, the fell creature raises its head to gaze
+upon you with undisguised hatred.  Its eyes &Rburn like hot coals&K in their
+sunken sockets.  It looks much like a regular ghoul, with skin decayed and
+pulled taut over clearly visible bones.  Unlike ghouls however, it seems to
+have some minor intelligence gleaming in its hate-filled eyes.  The heavy,
+rancid stench of death hangs about this creature, enough to cause most people
+to gag uncontrollably.  &n
+~
+557132 1576 37752832 -850 E
+14 12 2 4d12+240 2d8+4
+300 7000 9
+8 8 0 0
+BareHandAttack: 8
+E
+#4762
+zombie decayed~
+a half-decayed zombie~
+A half-decayed zombie shambles about mindlessly, smelling of death.
+~
+   This creature is a near-mindless, undead husk of its former self.  It looks
+to have been a human male at one time, though now its body is half-decayed.  
+Bones poke out from various places in its body, and the skin has hardened and
+become grey and leathery.  It is actually missing its left hand, all that
+remains is a tattered, bony stump.    
+~
+32840 33555968 0 -850 E
+8 15 8 2d12+110 2d6+2
+70 900 10
+8 8 0 0
+BareHandAttack: 7
+E
+#4763
+wight leathery dessicated flesh~
+a wight with leathery, dessicated flesh~
+A wight with leathery, dessicated flesh lurks in the shadows here.
+~
+   &KIn ages past, the term "wight" meant simply "man".  As the years went by,
+however, the word came to be associated with these dark undead.  This creature
+seems to bear a twisted reflection of the form it had in life.  Its eyes are
+wild and frantic, and &rburn&K with malevolence.  Its leathery, dessicated
+flesh is drawn tight across its bones, and the teeth have grown into sharp,
+jagged needles.  &n &KIts bony fingers end in sharp claws, and shredded
+clothing hangs from its body.  &n
+~
+1744910 525864 71303168 -850 E
+18 11 -2 5d10+380 3d6+6
+700 14000 9
+8 8 0 0
+BareHandAttack: 8
+E
+T 4763
+#4764
+woman spectral sorrowful~
+a spectral woman~
+A spectral woman floats in the air nearby, looking sorrowful.
+~
+   &cThis is the spectral image of a middle-aged woman who might have been
+pretty in life, but now is an image from a charnel house.  Her throat has been
+torn out by something, and she bears claw marks and deep gashes all over her
+body.  She wears a simple white dress, though it hangs in tatters about her.  
+On her face is a look of utter sorrow and unending pain.  &n
+~
+688200 263720 2048 -600 E
+6 17 10 2d5+70 2d5+2
+35 175 9
+8 8 2 0
+BareHandAttack: 12
+E
+#4765
+man spectral~
+a spectral man~
+A spectral man floats in the air nearby, bearing an aura of anger.
+~
+   &cThis is the spectral image of a villager from the town of Talenrock.  He
+wears peasant's clothing, now hanging in tatters about his body.  Claw marks
+and deep gashes cover his arms, chest and face.  He bears a look of pure rage
+on his face, and his fists are balled up tightly.  He wanders about, looking
+for something, anything to vent his unending pain on.  &n
+~
+688200 263720 2048 -600 E
+6 17 10 2d5+70 2d5+2
+35 175 9
+8 8 1 0
+BareHandAttack: 12
+E
+#4766
+skeleton eyes blazing~
+a skeleton~
+A skeleton stalks the area, its eyes blazing brightly.
+~
+   This is a normal skeleton animated by some unknown, vile force.  Most of the
+flesh has long since decayed from its bones, and all that is left now are small
+clumps of dirt.  It stalks the area mindlessly, tearing at the surroundings
+occasionally with its clawed hands.  Pinpoints of &Rred light&n smolder in its
+empty eye sockets.    
+~
+172104 1536 0 -750 E
+4 18 12 1d5+45 1d8+1
+20 50 10
+8 8 0 0
+BareHandAttack: 8
+E
+#4767
+bodak thin muscular~
+a thin, muscular bodak~
+A thin, muscular bodak stands here gazing upon you with hatred in its eyes.
+~
+   &KBodaks are the undead remnants of those who have been destroyed by the
+touch of absolute evil.  This one is tall and thin, though muscular, and looks
+to have been human at one time.  Its leathery grey skin is more like a tough,
+hairless hide of sorts.  Its head and face are longer than a normal humans, and
+it looks to be missing its jaw.  The flesh hangs limply from its face, and the
+mouth hangs open as if it were perpetually howling.  Its eyes are an eerie,
+&Wmilky white&K color.  &n
+~
+1744970 168560168 73408512 -850 E
+22 7 -6 3d33+550 3d8+7
+1076 40000 9
+8 8 0 0
+BareHandAttack: 7
+E
+T 4756
+#4768
+wight leathery dessicated flesh~
+a wight with leathery, dessicated flesh~
+A wight with leathery, dessicated flesh lurks in the shadows here.
+~
+   &KIn ages past, the term "wight" meant simply "man".  As the years went by,
+however, the word came to be associated with these dark undead.  This creature
+bears a twisted resemblance to the form it had in life.  Its eyes are wild and
+frantic, and &rburn &Kwith malevolence.  Its leathery, dessicated flesh is
+drawn tight across its bones, and the teeth have grown into sharp, jagged
+needles.  Its bony fingers end in sharp claws, and shredded clothing hangs from
+its body.  &n
+~
+1744910 135038504 71303168 -850 E
+18 11 -2 3d20+400 3d6+6
+700 14000 9
+8 8 0 0
+BareHandAttack: 8
+E
+T 4763
+#4769
+stirges murder rust colored batlike~
+a murder of stirges~
+A murder of rust-colored, batlike stirges swoop from above to attack you!
+~
+   Stirges are batlike creatures that feed on the blood of living beings.  
+They resemble a cross between a bat and a mosquito.  It has membranous wings, a
+short furry body, eight jointed legs that end in sharp pincers, and a
+needle-like proboscis.  These are a rust color with a dirty yellow underside,
+and appear to be quite hungry.    
+~
+3235898 34309160 0 0 E
+4 18 12 1d5+45 2d8+1
+0 90 0
+8 8 0 0
+BareHandAttack: 11
+E
+#4770
+guardian warrior spectral armored image~
+a spectral guardian~
+The spectral image of a lightly armored warrior stands here, guarding passage.
+~
+   This is the image of a young warrior, clad in studded leather armor.  A
+tabard bearing the heraldry of Talenrock is draped over his shoulders, and he
+grasps a longspear, looking ready for battle.  The look on his face is not one
+of sorrow, but of determination and responsibility.  He remains stationary,
+barely even wavering except to move to block any that would try and pass
+further into the crypt.    
+~
+8644698 134255786 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 3
+8 8 0 0
+BareHandAttack: 15
+E
+#4779
+Liralee prefect mishakal~
+Liralee~
+Liralee, a prefect of Mishakal relaxes here, studying a holy text.
+~
+   This woman sits here relaxing, studying a holy text.  She is a prefect of
+Mishakal, denoted by her sky-blue robes and medallion of faith.  She came to
+Talenrock during the years of trouble with the lycanthropy disease, which
+nearly destroyed the small town.  Having aided those she could in those dark
+times, she decided to stay in Talenrock as its resident healer.    
+~
+540682 1064 24 850 E
+18 11 -2 3d20+380 3d6+6
+400 14000 2
+8 8 2 0
+E
+T 4745
+T 4746
+T 4747
+T 4753
+T 4754
+#4780
+dog brown large~
+a large brown dog~
+A large brown dog lies curled up next to the rocking chair.
+~
+   This large brown dog appears to be healthy and young, and alittle sleepy.  
+He looks strong, the muscles of his legs clearly showing.  Even though he is
+dozing next to the rocking chair, he seems to be fairly alert.  He raises his
+head occasionally at this noise or that, making sure all is well.    
+~
+88074 132136 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 0
+8 8 1 0
+BareHandAttack: 4
+E
+#4783
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 2 0
+E
+#4785
+spiritor shinare~
+a spiritor of Shinare~
+A spiritor of Shinare is here, tidying up the room for visiting merchants.
+~
+   This woman is a spiritor of Shinare.  She moves about the room, quietly
+tidying up the place.  She is dressed very austerely.  Long, onyx locks of hair
+fall loosely from a simple brown hood, and a simple, yet functional brown robe
+serves to hide her figure from view.  She wears a silver necklace, from which
+hangs the symbol of a griffon's wing.    
+~
+1597450 1152 9437186 0 E
+21 8 -5 3d33+450 3d8+7
+800 33500 2
+8 8 2 0
+BareHandAttack: 5
+E
+#4793
+kingfisher royal blue~
+a kingfisher~
+A kingfisher soars majestically in the skies above you.
+~
+   &WThis is a kingfisher, symbol of the Knights of the Crown, and of the god
+Habbakuk.  Its plumage is a deep, beautiful &Broyal blue&W, and its underside
+is a white or silvery color.  It has a long beak, the top half of which is red,
+the lower half black.  It soars in the sky above majestically, seeming to take
+its time.    
+&n
+~
+65546 99360 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 0
+8 8 0 0
+BareHandAttack: 4
+E
+#4799
+dryad guardian ancient oak~
+an ancient guardian dryad~
+An ancient guardian of the grove is barely visible as she watches from an oak.
+~
+   This tree spirit is as ancient as the oaks themselves, and has been
+appointed guardian of this circle of trees since they were saplings.  Warm
+brown eyes twinkle with old knowledge, and although usually aloof, will show
+herself if she deems it necessary.  It was her blessing, with the other faeries
+of the forest, that kept this grove intact when the old earthquake hit.    
+~
+778378 995370 41952256 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 5
+8 8 2 0
+BareHandAttack: 1
+E
+T 2
+$

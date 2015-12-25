@@ -1,0 +1,226 @@
+#13400
+village watchman~
+the village watchman~
+A village watchman patrols this busy street.
+~
+   This well built, middle-aged man has very prominent features that
+intimidates you as he stares at you.  Hanging on his leather belt is a sturdy
+club.  He gives the villagers a nod, and very rarely a faint smile, as he
+patrols the village.    
+~
+4172 0 0 0 E
+7 16 9 3d5+85 2d6+1
+52 400 3
+8 8 1 0
+BareHandAttack: 6
+E
+#13401
+young boy~
+the young boy~
+A young boy runs around the village with a stick in his hand.
+~
+   This boy is barely ten years old.  He is clad in old, torn clothes but he
+seems rather comfortable in them.  His face is streaked with dirt and he is
+soaked in sweat.    
+~
+76 0 0 0 E
+5 17 11 2d5+65 2d5+0
+21 85 0
+8 8 1 0
+BareHandAttack: 13
+E
+#13402
+housewife~
+the housewife~
+A housewife looks tired after attending to her chores.
+~
+   The woman looks pale and tired.  She does not seems to have enough rest,
+waking up at the crack of dawn and only retiring after midnight.    
+~
+10 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 2 0
+E
+#13403
+old lady~
+the old lady~
+An old lady sits here reading a book.
+~
+   The woman is sitting comfortably on her rocking chair.  Her greying hair is
+neatly combed and tied up.  She is wearing a pair of reading glasses as she
+struggles to make out the words in the book.    
+~
+14 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 2 0
+E
+#13404
+old man~
+the old man~
+An old man stands here with a walking stick in his hand.
+~
+   The man is about sixty, maybe seventy years old.  He looks tired as he
+struggles to get to the village square.  On his right hand is a miserable
+walking stick that doesn't look reliable to support even a child's weight.    
+~
+76 0 0 0 E
+5 17 11 2d5+65 2d5+0
+22 85 0
+8 8 1 0
+E
+#13405
+girl youthful~
+the youthful looking girl~
+A youthful looking girl skips along the street, humming to herself.
+~
+   She seems to be enjoying her time on the street.  Stopping to tidy up her
+hair, she smiles as you.  Her prominent dimples brightens her face as she
+giggles and runs away.    
+~
+12 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 0 0
+E
+#13406
+light brown hare~
+the light brown hare~
+A light brown hare dashes in front of you.
+~
+   Its fur is a light shade of brown with occasional spots of white.  Its hind
+legs and ears are much longer than the common rabbit.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 0 0
+BareHandAttack: 4
+E
+#13407
+small child~
+the small child~
+A small child wanders the street in search of her mother.
+~
+   She is sobbing as she cries out her mother's name.  Holding her little bear
+with her tiny hands, she tries to search for her mother amongst the many
+strange faces on this busy street.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 2 0
+E
+#13408
+bushy-tailed chipmunk~
+the bushy-tailed chipmunk~
+A bushy-tailed chipmunk runs across the field.
+~
+   The chipmunk has a long, bushy tail.  A white strip of white runs along its
+body, starting from the head and ending just before the tip of the tail.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+6 25 0
+8 8 0 0
+BareHandAttack: 4
+E
+#13409
+black snake~
+the black snake~
+A black snake slithers between the wheat.
+~
+   The snake is rather short for its size.  Its skin is ebony black with very
+fine yellow spots.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+3 25 0
+8 8 0 0
+E
+#13410
+weary trader~
+the weary trader~
+A weary trader pushes his wagon along the street.
+~
+   He looks tired from a day of trading.  Sweat trickles down his tan face as
+he slowly pushes an empty wagon along the busy street.    
+~
+12 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 1 0
+BareHandAttack: 13
+E
+#13411
+large drunk~
+the large drunk~
+A large drunk stumbles and falls to the ground.
+~
+   His hair is overgrown and his chin is covered in overnight stubbles.  He
+mutters to himself as he tries in vain to get up from the filthy ground.    
+~
+10 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 1 0
+BareHandAttack: 13
+E
+#13412
+villager~
+the villager~
+A villager laughs as she gossips with the others.
+~
+   You see a woman with short auburn hair.  She is wearing a hat to block out
+the piercing sunlight.  On her right hand is a basket of vegetables and fruits.
+  
+~
+12 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 2 0
+E
+#13413
+village healer~
+the village healer~
+The village healer gives you a nod as you walk into the shack.
+~
+   She wears a plain, rather dull looking green scarf on her head to pull her
+long hair away from her face.  An apron is hung on her neck and it seems rather
+dirty with stains.    
+~
+526350 0 1 0 E
+8 15 8 5d5+110 2d6+2
+70 800 2
+8 8 2 0
+BareHandAttack: 7
+E
+#13414
+large black brown cow~
+the large black and brown patched cow~
+A large black and brown patched cow chews slowly on his cud.
+~
+   The cow is rather large with dark brown eyes.  It looks up at you as it
+continues to chew on her cud.    
+~
+10 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 2 0
+E
+#13415
+tired woman~
+the tired looking woman~
+A tired looking woman is attending to her chores.
+~
+   She is a petite middle-aged woman with dark brown curly hair.  She sighs in
+exhaustion as she continues to sweep the house.  Her eyes shows signs of
+fatigue and it seems that she hasn't had a good rest for a while.    
+~
+14 0 0 0 E
+5 17 11 2d5+65 2d5+0
+22 85 0
+8 8 2 0
+E
+$

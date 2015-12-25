@@ -1,0 +1,1920 @@
+#11700
+A Sandy Trail~
+   This road immediately heads towards the northwest into a small grove of
+trees.  Tall overwhelming palm trees create a natural canopy that shades this
+path.  Small sand washed pebbles reflect the suns sparkles and provides a much
+pleasant environment.    
+~
+117 4 2 0 0
+D1
+~
+~
+0 0 7361
+D6
+~
+~
+0 0 11701
+E
+palm tree~
+   These tall massive trees provide much needed fruit and juice the many nearby
+villages.  The bark of this particular palm tree has been neatly trimmed and
+its fruit is barren.    
+~
+S
+#11701
+Following the Sandy Trail~
+   This serene winding path continues to head westward into a small thicket of
+trees.  The sounds of various birds can be heard, as they fly from tree to tree
+chasing each other.  The path is made of sand and tiny little rocks.  Large
+trees hang overhead, which provide some shade from the harsh sun.    
+~
+117 0 2 0 0
+D6
+~
+~
+0 0 11702
+D9
+~
+~
+0 0 11700
+S
+#11702
+Before a Small Forest~
+   The sandy trails hastily turn into a small forest.  In the distance you can
+see smoke rising from the nearby town, perhaps from the chimneys.  The ground
+the leads into the forest is soft and moist and covered with shiny rocks and
+twigs from the surrounding trees.    
+~
+117 0 2 0 0
+D6
+~
+~
+0 0 11703
+D9
+~
+~
+0 0 11701
+S
+#11703
+Inside a Small Forest~
+   This small forest winds north and west before branching out into the open
+again.  Through the trees you can see a small village.  The smell of fire is
+now evident, as some of the trees have caught on fire.  Directly to the
+northwest of you is a small bridge that leads over a creek.  Hopefully the
+bridge has not collapsed due to the scorching flames.    
+~
+117 1 3 0 0
+D0
+~
+~
+0 0 11704
+D9
+~
+~
+0 0 11702
+E
+village~
+   From this distance: You notice many of the tiny building are dancing with
+fire.  Some soft muffled screams can just barely be heard.    
+~
+S
+#11704
+On a Flame Swept Bridge~
+   Huge flames engulf this tiny wooden bridge.  Hundreds of ashes pour into the
+stream below.  Smoke streaks into the sky making visibility low.  The large
+wooden stakes that hold the bridge to the ground are giving away, causing the
+bridge to sway.    
+~
+117 524288 3 5 0
+D2
+~
+~
+0 0 11703
+D6
+~
+~
+0 0 11705
+E
+bridge~
+   This once stable bridge now lies in ruins.  Pieces of the foundation float
+in the shallow creek.  The ropes that support the bridge have also been badly
+burned and the risk of the bridge collapsing into the creek is reality.  You
+notice some bodies at the end of this bridge.    
+~
+S
+#11705
+Before a Small Village~
+   Flames dancing around the trees, making the heat almost unbearable.  A
+single wooden sign has been dug into the ground.  The sign has also caught on
+fire making what appears to be lettering unreadable.  A few corpses litter the
+ground, their bodies disfigured and heavily gored
+~
+117 0 3 0 0
+D0
+~
+~
+0 0 11706
+D9
+~
+~
+0 0 11704
+E
+sign~
+The Sign reads:
+
+                   Welcome to Shady Creek.    
+~
+S
+#11706
+At the Gates of Shady Creek~
+   This old-style wood gate is made of simple wooden planks bolted together.  
+The gate has been pounded deep into the soil.  Two large steel hinges allow
+this gate to be swing both inwards and outwards.  The overwhelming scent of
+fire is obvious.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11707
+D2
+~
+~
+0 0 11705
+E
+gate~
+   When you take a closer examination of the fence two large claw marks are
+noticeable.  These claw marks are dug a least an inch into the wood.  
+Bloodstains paint the wood a grotesque red color.    
+~
+S
+#11707
+A Cobblestone Road~
+   This basic road is paved with cobblestones.  Colorful stones intermix with
+the dirt and plain cobblestons for decoration.  The stones color varies from a
+dark rustic brown to a dull red.  Large palm trees line each side of the road
+providing much shade.  Strangely, the sounds of children and dogs barking
+cannot be heard.  Only muffled screams and growling in all directions can be
+noticed.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11708
+D2
+~
+~
+0 0 11706
+E
+stone stones~
+   When taking a closer look at the stones: They actually appear to be a dull
+gray texture.  The red coloration comes from bits of blood and flesh that has
+been mixed into the stones
+~
+S
+#11708
+A Crossing of Paths~
+   The road branches off in four directions from here.  To the west is seems to
+lead to a dead end.  To the far east a group of buildings or shops can be seen.
+The south exit will take you out of town, and to the north will lead you deeper
+into town, and eventually to the housing district.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11723
+D1
+~
+~
+0 0 11709
+D2
+~
+~
+0 0 11707
+D3
+~
+~
+0 0 11715
+S
+#11709
+RoseWood Street~
+   This street is lined with rose bushes.  The color of the roses ranges from a
+deep violet, to snow white.  The grasses around the rose are smooth and
+perfectly trimmed.  The sweet smell of each rose fills your senses with wonder,
+even though the smell of smoke drowns it out.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11735
+D1
+~
+~
+0 0 11710
+D3
+~
+~
+0 0 11708
+E
+rose~
+   These roses are exceptionally beautiful.  Each stem is about six inches long
+and is topped with a bright colorful rose.  The keeper of this street has
+blended deep violet and light red roses together to create a perfect texture
+and beauty.    
+~
+S
+#11710
+RoseWood Street~
+   This street is lined with beautiful long stemmed roses.  The roses range in
+color from a soft white to a deep red.  A small brick walkway guides you around
+the roses to prevent any damage to them.  On a normal day you could see a noble
+walking to there home on this street.  Far to the west lies the Citadel of the
+Phoenix, and continuing down this road leading east will take you to the local
+shops.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11711
+D3
+~
+~
+0 0 11709
+S
+#11711
+RoseWood Market Square~
+   Large picnic tables dominate the market square.  The picnic tables are made
+of oak and have been carved with an expert hand.  A large clay vase filled with
+a variety of sweet smelling flowers sits on each of the table's corners.  A
+large wooden sign leads to each of the shops that make up Market Square.  The
+only thing odd about the market square is the lack of people and noise.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11712
+D1
+~
+~
+0 0 11714
+D2
+~
+~
+0 0 11713
+D3
+~
+~
+0 0 11710
+E
+sign~
+   The simple sign consists of a large iron pole that has be pounded into the
+soil and three large wooden arrows that point to the intented shop.    
+
+
+               To the North:  The Dented Helm
+               To the South:  The Perfect Cut
+               To the East :  The Basic Needs
+~
+S
+#11712
+The Dented Helm~
+   Broken and dented pieces of armor litter the floor.  Large wooden shelves
+lie in ruin and scattered along the floor.  Pieces of glass and tile clutter
+what remains of an oak counter.  Splatters of blood coat the walls and decorate
+the floor.  Large beautiful pictures have fallen to the floor and only the
+screws remain on the barren stonewalls of this shop.  Huge claw prints can be
+seen dug into the floor.    
+~
+117 8 1 0 0
+D2
+~
+~
+0 0 11711
+S
+#11713
+The Perfect Cut~
+   This room is cluttered with various broken weapons ranging from a simple
+dagger to the powerful two-handed sword.  A plush red carpet covers up the
+floor where a marble counter sits.  Large wooden weapon racks lay in ruin and
+large iron shelves are toppled over.  A large bronze candleholder that once
+help a white wax candle lays on the ground, and red hot flames overcome this
+room.    
+~
+117 8 1 0 0
+D0
+~
+~
+0 0 11711
+S
+#11714
+The Basic Need~
+   What remains of this shop is nothing but ash and soot.  The once pure oak
+counters now lay toppled on the floor in a neat pile of ash.  The walls have
+been scorched black as midnight, and the floors are a slick dark gray due to
+the many layers of ash that bury it.  Pieces of water skins and baked bread can
+be seen mixed in with the ash.  This room appears to be empty now.  The flames
+have left this room have spread there chaos elsewhere.    
+~
+117 8 1 0 0
+D3
+~
+~
+0 0 11711
+S
+#11715
+RoseWood Steet~
+   This section of the street leads into the second-rate side of town.  Bodies
+of peasants and bums litter the streets filling the air with a horrid stench.
+Trash cans are overfilled with debris and other pollutants.  Oddly, not even a
+living soul can be seen.  RoseWood Street continues to the east and west from
+here.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11708
+D3
+~
+~
+0 0 11716
+S
+#11716
+RoseWood and Church~
+   The sounds of a loud church bells and chimes can be heard leading to the
+north.  This well paved road has been made of shiny stones and black rocks that
+make a red and black palette.  A row of long-stem roses line each side this
+street until it branches to the north.  Small weeds sprout out of the pavement
+due to lack of proper care.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11718
+D1
+~
+~
+0 0 11715
+D3
+~
+~
+0 0 11717
+S
+#11717
+A Dead End~
+   A dozen or more corpses lay strewn on the ground.  The bodies of these
+mutilated corpses fill the room with a vile stench.  Maggots and corpses flies
+swarm the corpses threatening to devour them whole.  The walls of the
+surrounding buildings have been decorated with splattered blood and flesh.  
+Pieces of broken weapons and armor litter the floor as well.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11716
+S
+#11718
+Church Street~
+   Fields of golden flowers decorate the path on each side of the road.  The
+sounds of church bells drown out the low roar of this town.  Bodies litter the
+ground.  Each of the bodies is badly disfigured.  A large church can bee seen
+far to the north.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11719
+D2
+~
+~
+0 0 11716
+S
+#11719
+Church Street~
+   Fields of golden flowers decorate the path on each side of the road.  The
+sounds of church bells drown out the low roar of this town.  Bodies litter the
+ground.  Each of the bodies is badly disfigured.  A large church can bee seen
+far to the north.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11726
+D2
+~
+~
+0 0 11718
+D7
+~
+~
+0 0 11720
+S
+#11720
+The Golden Chapel~
+   Huge golden tapestries decorate the walls of the Chapel.  Massive carpets of
+golden threads line the floor giving the room a peaceful feeling.  Rows of
+marble pews line the walls allowing just enough room for a walkway.  A large
+crystal chandelier with a gold base hangs from the ceiling on a chain link
+fashioned from reinforced silver and gold.  A large altar sits in the back of
+the room directly to the north.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11721
+D8
+~
+~
+0 0 11719
+E
+tapestry~
+   This massive gold threaded tapestry depicts a huge flaming phoenix in
+battle.  Its large feathery wings a compass of fire and heat spreads out on the
+picture engulfing the whole artwork.  The rest of the picture has been blended
+in with black and red coloration as the phoenix defends the town from an attack
+from a group of mature red dragons.    
+~
+S
+#11721
+The Altar Room~
+   A large pipe organ spills out melodic tunes through this room.  A rich red
+carpet coats the floor giving this room a feeling of wealth on royalty.  A huge
+altar crafted from gold dominates this room.  A large book crafted from gold
+sits on the altar.  A large glass light fixture hangs above your head and casts
+a warm glow through the church.    
+~
+117 8 0 0 0
+D2
+~
+~
+0 0 11720
+D5
+~
+Altar~
+2 11715 11722
+E
+pipe organ~
+   This pure oak pipe organ appears to be ages old.  This ancient oak style
+organ has a base that stands about six feet off the ground.  Two dozen ivory
+keys sits on the plain face of the organ.    
+~
+S
+#11722
+Chamber of the Phoenix~
+   This large non-furnished room appears to be some kind of a sanctuary.  The
+walls of this room glow with a dull white that seems to counteract any magic
+and keep any noise from leaving this room.  A large central glass container
+sits in the center of the room.  It emits a strange golden glow that spreads a
+warm glow through this chamber.  In a far corner a small baby phoenix looks at
+you with gleaming wisdom.    
+~
+117 44 0 0 0
+D4
+   You are staring at the bottom of a moveable stone slab.  Strange indentions
+or key holes are made into the slab.    
+~
+altar~
+1 11715 11721
+S
+#11723
+Phoenix Street~
+   Each of the red brick slaps has an intricate phoenix design on their
+surface.  A line a tall palm trees form a column of each side of this street.
+Corpses lay scattered on this street, blotting out the Phoenix design.  Pieces
+of armor and weapons litter the ground also each rusted and covered in dirt and
+debris.  Oddly, also you notice a green claw or arm wiggling on the floor.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11724
+D2
+~
+~
+0 0 11708
+S
+#11724
+Pheonix Street~
+   Each of the red brick slaps has an intricate phoenix design on their
+surface.  A line a tall palm trees form a column of each side of this street.
+Corpses lay scattered on this street, blotting out the Phoenix design.  Pieces
+of armor and weapons litter the ground also each rusted and covered in dirt and
+debris.  Oddly, also you notice a green claw or arm wiggling on the floor.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11725
+D2
+~
+~
+0 0 11723
+S
+#11725
+Crossing of Paths~
+   This is another crossing of paths.  To the southwest lies Church Street and
+the fabled Golden Church.  To the east lies Golden Street that will take you to
+the Shady Creek Stables.  Following this street north will lead into the
+Residential area and further north lays the Citadel of the Phoenix.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11737
+D1
+~
+~
+0 0 11728
+D2
+~
+~
+0 0 11724
+D3
+~
+~
+0 0 11729
+S
+#11726
+Corner of Church and Golden~
+   Church Street takes a sudden turn, leading into Rose Street that goes strait
+east until it ends up at the local stables.  This road is kept up fairly well
+with the exception of corpses littering the ground.  The smell of rotting flesh
+is overwhelming.  Pieces of armor and weapons lie in ruin.  Large hunch-backed
+creatures stare at you with hungry eyes.    
+~
+117 0 1 0 0
+D2
+~
+~
+0 0 11719
+D3
+~
+~
+0 0 11727
+S
+#11727
+Golden Street~
+   This street receives its name from the color of the stones that fill up this
+road.  Each stone glimmers brightly with a different shade of gold.  This
+pavement runs east and west from here.  To the far west lies the Shady Creek
+Stables and closer to the east is Church Street.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11726
+D3
+~
+~
+0 0 11728
+S
+#11728
+Within a Whirlwind~
+   All chaos breaks free at Golden Street.  Large golden colored stones are
+sent flying into the air and hurled at you like tiny daggers.  The air lingers
+of death and decay.  It is almost as if Zeboim, the Goddess of storms, has come
+on land to smite this town.  Dozens of corpses are also tossed violently
+against the brick houses of this noble street.  Villagers run around in a
+panicked state.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11727
+D2
+~
+~
+0 0 11736
+D3
+~
+~
+0 0 11725
+S
+#11729
+Golden Street~
+   This street leads east and west from here joining with two major streets
+that include Church Street to the far east and Phoenix Street.  This Street if
+continued to the west will lead to the stables.  This street is also known of
+the Street of Nobles.  At one time this street crowded with busy nobles.  The
+road is made up of many different color stones that give it a strange golden
+hue.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11725
+D3
+~
+~
+0 0 11730
+S
+#11730
+Golden Street~
+   This street leads east and west from here joining with two major streets
+that include Church Street to the far east and Phoenix Street.  This Street if
+continued to the west will lead to the stables.  This street is also known of
+the Street of Nobles.  At one time this street crowded with busy nobles.  The
+road is made up of many different color stones that give it a strange golden
+hue.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11729
+D3
+~
+~
+0 0 11731
+S
+#11731
+Before the Shady Creek Stables~
+   A large wooden stable stands to the west.  Its large wooden door slowly
+swings in and out with creaky hinges.  A layer of fine dirt and gravel makes a
+path leading into the stables.  A smell of death and decay lingers.  A shallow
+whisper of cry can be heard inside the stables.  Oddly, the rest of the area
+seems peaceful enough.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11730
+D6
+~
+~
+0 0 11732
+E
+door~
+   As you take a closer look at the door you suddenly realize there are tiny
+bloody prints dug into the wood suface.  The hinges creek because they are
+drenched in blood and caused the metal to rust.    
+~
+S
+#11732
+Inside the Shady Creek Stables~
+   The corpse of the stable master lies in a tangled mess on the floor.  Large
+piles of hay now lay scattered on the floor.  A large pitchfork has been stuck
+into the ground, its blade covered in rust and blood.    
+~
+117 12 0 0 0
+D0
+~
+secret~
+1 0 11733
+D1
+~
+~
+0 0 11734
+D9
+~
+~
+0 0 11731
+S
+#11733
+A Dark Room~
+   This room conceals all light.  A single wood table can be seen in the center
+of the room.  An old bronze lantern hangs from a single large steel nail on the
+eastern wall.  The floor has been covered with straw and hay to give comfort.
+The rest of the room is colorless and bleak.    
+~
+117 77 0 0 0
+D2
+~
+secret~
+1 0 11732
+S
+#11734
+The Stables~
+   This room is littered with the remains of various horses.  The coloration of
+the fur ranges from a dark fine black to a snow white.  The strong legs of
+these horses have been twisted and mutilated and some have been ripped off the
+torso.  Each corpse has a long claw mark that has been dug into flesh.  The
+floor has been caked with blood and various prints are noticeable on the floor.
+Perhaps a clue to this massacre.    
+~
+117 8 2 0 0
+D3
+~
+~
+0 0 11732
+E
+claw mark~
+   These strange marks are long and slim.  Green ooze bubbles up from the
+wounds caused from infection.  The finger spacing of the marks is two wide to
+be human or any other race.    
+~
+E
+prints~
+   These prints glow and eerie green color.  In fact they seem to be ethereal
+or ghost like in nature.  Perhaps, ghosts troll or a spectral troll made these,
+but it is nowhere to be seen.    
+~
+S
+#11735
+A Dark Alley~
+   The air in this dark, forbidding alley lingers with the scent of death.  
+The walls of the surrounding building have been covered with splashes of blood
+and flesh that almost resemble a pentagram.  Bodies litter the ground each
+horribly mutilated and desecrated.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11736
+D2
+~
+~
+0 0 11709
+E
+bodies~
+   These corpses resemble members of the local thieves den.    
+~
+S
+#11736
+Ambush Point~
+   This alley is cluttered with bones and corpses.  The screams of the dead can
+be heard echoing through out the stonewalls of this alley.  Blood Stains and
+pieces of flesh stick to the side of the walls.  Dozens of corpses litter the
+floor each missing limbs or other pieces of their body.    
+~
+117 1 1 0 0
+D0
+~
+~
+0 0 11728
+D2
+~
+~
+0 0 11735
+S
+#11737
+Phoenix Street~
+   This is the main street the runs through Shady Creek.  If you follow it all
+the way north it will take you to Citadel of the Phoenix.  This street is much
+like the others of this town.  Corpses and body fragments lay scattered on the
+road.  South will take you Golden Street and eventually out of town.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11738
+D2
+~
+~
+0 0 11725
+S
+#11738
+Phoenix Street~
+   This is the main street the runs through Shady Creek.  If you follow it all
+the way north it will take you to Citadel of the Phoenix.  This street is much
+like the others of this town.  Corpses and body fragments lay scattered on the
+road.  South will take you Golden Street and eventually out of town.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11739
+D2
+~
+~
+0 0 11737
+S
+#11739
+A Crossing of Paths~
+   This road branches off in four directions.  Phoenix Street continues to the
+north and south.  To the east is Common Street and to the west is Noble Street.
+This street, like many others, has been littered with corpses and human debris.
+The walls of the surrounding buildings appear to be painted in human blood.  
+~
+117 0 0 0 0
+D0
+~
+~
+0 0 11746
+D1
+~
+~
+0 0 11740
+D2
+~
+~
+0 0 11738
+D3
+~
+~
+0 0 11743
+S
+#11740
+Common Street~
+   This street has been destroyed much like the rest of this town.  Corpses
+have been strewn across the floor, each badly mutilated and torn.  The walls of
+the houses are covered with splattered blood and windows and doors seem to be
+bashed in.  The tiny building that make up this street has been set ablaze and
+now mostly remain in ruins.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11741
+D3
+~
+~
+0 0 11739
+S
+#11741
+Common Street~
+   A huge statue dominates this street.  This statue has been carved from
+marble and would glimmer it wasn't covered in blood.  The clear waters of this
+fountain have been dyed red with bloodstains, and flesh floats in its murky
+waters.  Oddly, the statue seems to be missing an arm.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11742
+D3
+~
+~
+0 0 11740
+E
+fountain~
+   A huge marble statue sits inside of this marble fountain.  The waters of
+this fountain has been turned a crimson red due to the excessive blood that now
+fills its basin.  Oddly, this statue seems to be missing an arm.    
+~
+S
+#11742
+A Streets End~
+   This dead end street is covered with human remains.  Arms, legs that have
+been torn from their torso lay scattered on the ground.  A thick layer of blood
+forms puddles on the ground that seem to stick to your boots.  In fact, the
+blood seems to have eyes and threaten to devour you.    
+~
+117 9 1 0 0
+D3
+~
+~
+0 0 11741
+S
+#11743
+Noble Street~
+   Large glass buildings lay in ruin.  Their bronze and brass frames smothered
+in a dark red blood.  The street is littered with bones and flesh.  Glass
+shards and other trash blanket the street making it dangerous to walk on.  A
+scent of death lingers in the air causing you to choke.  Flames can be seeing
+leading to the west.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11739
+D3
+~
+~
+0 0 11744
+S
+#11744
+Noble Street~
+   Large glass buildings lay in ruin.  Their bronze and brass frames smothered
+in a dark red blood.  The street is littered with bones and flesh.  Glass
+shards and other trash blanket the street making it dangerous to walk on.  A
+scent of death lingers in the air causing you to choke.  Flames can be seeing
+leading to the west.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11743
+D3
+~
+~
+0 0 11745
+S
+#11745
+A Streets End~
+   A huge granite statue of a man holding a gold torch dominates this street.
+The torch is made of a rich dark gold that glimmer magnificently when hit by
+the sun, but now it is layered in blood.  The base of the statue is chiseled
+granite.  The man seems to have havoc wreaked face as he holds his torch to the
+sun, almost if praying.  Corpses lay on the ground before you each has been
+demolished much like the others in this town.  Oddly, one of the hands of this
+granite statue appears to be missing.    
+~
+117 0 1 0 0
+D1
+~
+~
+0 0 11744
+D5
+   A large granite statue.    
+~
+statue~
+2 11741 11783
+E
+statue~
+   Awesome statue has been carved from a single black of chisled granite.  The
+statue seems to have more then a dozen tiny symbols or desings etched on its
+smooth surface.  The torch when examine closer actuall appears to be a small
+gold Phoenix which is about to fly off from his palm.    
+~
+S
+#11746
+Phoenix Street~
+   This is the main street that runs north and south.  To the northwest lies
+the Town Hall.  All the way to the north is the Citadel of the Phoenix.  South
+will take you some of the other smaller streets and eventually out of town.  
+The street acquires its name from the small designs on the clay blocks.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11747
+D2
+~
+~
+0 0 11739
+S
+#11747
+Before the Town Hall~
+   Wo large bronzed doors stand to the northwest of you.  A silver plaque hangs
+from each door with some words etched onto their surface.  A heavy fur mat
+drenched in blood sits on the ground.  A small steel oil based lantern hangs
+from a rusty bolt.  The walls of the town hall are also covered with bits of
+flesh and blood.  Bodies lay scattered at the foot of this place.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11751
+D2
+~
+~
+0 0 11746
+D6
+~
+~
+0 0 11748
+E
+plaque~
+This simple silver plague seems to be melded into the foundation of the door. It reads:
+
+                  Welcome to the Shady Creek Town Hall!
+~
+S
+#11748
+Town Hall~
+   A large red carpet bearing the words "Welcome" dominates the floor.  Small
+paintings and other artwork decorate this room.  The ceiling has been furnished
+with a small globe that emits a bright light that emits no heat.  The floor
+itself is a shiny rock base.  Each of the rocks is about three feet long and
+wide and is oval in shape.  A small wooden table sits in the middle of the room
+where the Secretary takes down your information.    
+~
+117 12 0 0 0
+D0
+~
+~
+0 0 11749
+D9
+~
+~
+0 0 11747
+S
+#11749
+The Lobby~
+   This room has been decorated with many paintings and other artwork.  Each of
+pieces of artwork seems to be of the finest quality.  Two large wooden
+bookshelves stand on each side of the west and northern walls.  These
+bookshelves appear to empty.  The floor has been carpeted with a delicate soft
+brown carpet.  A small globe emits a bright light around this room.  To the
+east is Mayor's Kaaba's office and to the south is the Secretaries office.    
+~
+117 8 0 0 0
+D1
+~
+~
+0 0 11750
+D2
+~
+~
+0 0 11748
+S
+#11750
+Mayor's Office~
+   This well furnished office has many ornate paintings adorning its walls.  A
+solid oak desk dominates the center of this office.  The floor has been
+carpeted with a royal lush red carpet that has been stained with blood.  An old
+oil lamp hangs from a bolt on the side of the wall.  To the west lies the exit
+out of the office and into the lobby
+~
+117 262152 0 0 0
+D3
+~
+~
+0 0 11749
+S
+#11751
+Before the Citadel of the Phoenix~
+   A huge golden citadel spirals into the sky.  The base of the foundation is
+covered with precious gems and ancient marking.  At the peak of the citadel is
+a huge golden statue of a Phoenix in flight two large wooden doors lead into
+the Citadel.    
+~
+117 0 1 0 0
+D0
+~
+~
+0 0 11752
+D2
+~
+~
+0 0 11747
+S
+#11752
+The Golden Halls~
+   Two rows of gold braziers line a strait path leading deep into the citadel.
+Each brazier has a candle lit, and the flame casts a dark shadow on the walls.
+The floor has been blanketed with a thick rich golden carpet.  Each of the
+walls is covered with artwork.  The sounds of humming echo throughout these
+sacred halls.  The golden halls continue to the north.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11753
+D2
+~
+~
+0 0 11751
+E
+brazier~
+   This golden brazier stand about ten feet off the ground and is topped with a
+round platform for a candle to rest in.  These brazier have been decorated with
+tiny pictuctures and lettering.    
+~
+S
+#11753
+The Golden Halls~
+   Large golden tapestries embellish the walls of this long hall.  The floor
+has been blanketed with a soft red carpet.  Rows of golden braziers stand on
+each side of you.  The braziers fill this room with a soft sweet odor.  A large
+crystal chandelier hangs from the ceiling.  Each of the of the chandelier slots
+are filled with a deep red incense.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11754
+D1
+~
+~
+0 0 11776
+D2
+~
+~
+0 0 11752
+D3
+~
+~
+0 0 11769
+E
+tapestries tapestry~
+   This large tapestry dominates the wall.  The color of the yarn used to make
+this ranges from bright red to deep black.  The detail of this tapestry is
+unbelievable.  This tapestries features a dozen of angels within a circle of
+light singing to Phoenix.    
+~
+S
+#11754
+The Golden Halls~
+   This room carries a scent of a thousand braziers.  The room is foggy and the
+candles look likes a thousand little dancing flames.  The floor is barley
+visible due to the smoke of the braziers.  Large pictured depicting the birth
+of the Phoenix can be seen hanging from the walls.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11755
+D2
+~
+~
+0 0 11753
+E
+tapestries~
+   This tapestry has been woven into a design of a huge phoenix.  The
+coloration of the tapestry is unbelievable.  The out edge of the tapestry has
+two different shades of blade thread.  The wings of the phoenix have been
+threaded with light red and outlined with a deeper red to create an image of
+fire.  The body of the phoenix has been threaded in a gold thread and outlined
+with a deep yellow to give it a life like realism.    
+~
+E
+brazier~
+   This brazier has been crafted from hardened gold.  The long base of the
+brazier bears strange inscriptions and marking.  The top of the brazier is a
+round cup that holds incense.    
+~
+E
+chandelier~
+   This large crystal chandelier hangs from a steel chain that is connected to
+the wood ceiling.  The base of the chandelier is brass.  Six large crystal
+candleholders have been placed inside the base into a star pattern.  A large
+steel plate sticks out of the far end of the chain.  This plate attaches to the
+woodwork of the Citadel.    
+~
+E
+carpet~
+Nothing.
+~
+S
+#11755
+The Golden Chamber~
+   This ornate chamber has been glorified with rich tapestries and artwork.  
+Lying against the western wall is a throne.  This throne appears to be made out
+of gold and decorated with precious gems.  A huge picture of a great Phoenix
+hangs on the wall above the throne.  Two brass braziers sit on each side of the
+throne.  The braziers are filled with relaxing incenses.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11756
+D2
+~
+~
+0 0 11754
+E
+throne~
+   This large heavily decorate throne is made of gold.  The base of the throne
+has been padded with a large leather cushion.  This cushion has been strapped
+to the back of the chair by two cloth ropes.  The seat of the throne also has a
+leather cushion.  Two arms rests stand on each side of the person who sits on
+the chair.  The right armrest has a rather large holder that is meant to hold
+the kings scepter.  Both armrests are padded with a leather cushion as well.  
+
+~
+S
+#11756
+The Golden Halls~
+   To the north a large arched-doorway opens up.  A faint glow can be seen
+sprouting from some candles.  This room is also lined with gold braziers and
+rich artwork.  The floor has been covered with a thick rich carpet that has
+been kept up and clean.  The sounds of humming can also be heard echoing though
+out these halls.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11757
+D2
+~
+~
+0 0 11755
+S
+#11757
+Citadel of the Phoenix - Northern Halls~
+   This large room seems to be the central chamber of the Citadel.  The halls
+branch off to the northwest and northeast from here.  A large bronze plague
+with deep red lettering can be seen.  The rest of this room seems normal for
+the standards of the Citadel.  A large crystal chandelier hangs above casting a
+glow upon this room.    
+~
+117 8 0 0 0
+D2
+~
+~
+0 0 11756
+D6
+~
+~
+0 0 11758
+D7
+~
+~
+0 0 11764
+S
+#11758
+Hall of the Phoenix~
+   This small hall is surrounded in mystery.  Strange sigils written in deep
+red ink decorate the walls.  Strange balls of fire illuminate the darkness.  
+The floor seems to vibrate and your shadows come alive.  The ceiling appears to
+be nothing more then a mass of gray clouds and shadows.    
+~
+117 8 0 0 0
+D6
+~
+~
+0 0 11759
+D9
+~
+~
+0 0 11757
+S
+#11759
+Hall of the Phoenix~
+   The walls of this room burst with a cold flame causing the room temperature
+to drop considerably.  The floor becomes like ice and the air becomes sparse.
+The strange sigils on the wall glow bright.  Perhaps, this is some warding in
+this hall.    
+~
+117 8 0 0 0
+D6
+~
+~
+0 0 11760
+D9
+~
+~
+0 0 11758
+S
+#11760
+Before a Fire Sealed Door~
+   A large double steel door is here.  This huge door has strange runes that
+glow deep red like fire.  The floor around this door seems to be burned.  
+Oddly enough this door has no handle or hinges so it can be swung open or
+pushed in.  Perhaps closer examination will provide more answers.    
+~
+117 8 1 0 0
+D3
+~
+portal~
+1 0 11761
+D9
+~
+~
+0 0 11759
+E
+runes~
+   These ancient elven runes are unlike any that have been seen before.  Their
+design seems to be melted into one, like a huge spiderweb.  The design itself
+slowly spins on the doors surface creating a portal.    
+~
+S
+#11761
+Chamber of Fire~
+   This strange room seems to be bathed in a dark crimson fire.  This fire
+oddly enough produces no heat.  A large bookshelf stands against the northern
+wall.  A black rock fireplace releases a rancid smelling smoke into the air.  
+The floor is made of black marble bricks.  Each of the bricks has tiny red
+flames etched on their surface.    
+~
+117 262152 0 0 0
+D0
+~
+~
+0 0 11762
+D1
+   This strange portal seems to swirl with the bright colours of flames.  Red,
+orange and deep violets meet together.    
+~
+portal~
+1 0 11760
+D2
+~
+~
+0 0 11763
+S
+#11762
+The Lady's Room~
+   This large furnished room glows with an intense heat.  The flames seem to
+form a protective circle around the center of this room.  Large bookshelves
+filled with ancient tomes and writings line each wall of this chamber.  Oddly,
+nothing appears to be burned or damage due to the flames.    
+~
+117 8 0 0 0
+D2
+~
+~
+0 0 11761
+S
+#11763
+The Lord's Room~
+   This room is consumed in dark red flames.  A chair of some sort lies against
+the walls.  Each of the four walls in this chamber bears the sign of the
+Phoenix.  A large bearskin rug decorates the cold marble floor.  A large iron
+chest sits in the center of the room.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11761
+S
+#11764
+The Servant Halls~
+   This simple undecorated room seems unnaturally cold.  The air has a strange
+blue tint to it.  The walls are made of polished quartz.  A single sphere
+spreads an eerie light throughout this hall.  Large suits of armor form a row
+of columns.  Small wood framed paintings also decorate the walls giving this
+hall a more lively feeling.    
+~
+117 8 0 0 0
+D7
+~
+~
+0 0 11765
+D8
+~
+~
+0 0 11757
+E
+sphere~
+   This strange glowing ball resembles a large quartz ball.  Inside this ball a
+small red file glows.  The ball is held up with a iron chain and the chain is
+bolted to the ceiling.    
+~
+S
+#11765
+The Servant Halls~
+   A strange blue glow illuminates this room.  The floor is made of a cold hard
+stone that reflects no light and gives off no heat.  The walls are barren
+except for nail holes the once held up paintings.  The only thing that
+decorates this hall is large rows of suits of armor.    
+~
+117 0 0 0 0
+D1
+~
+~
+0 0 11766
+D8
+~
+~
+0 0 11764
+S
+#11766
+Chamber of Ice~
+   This room's wall resembles large bricks of glowing ice.  Strange runes and
+markings adorn these walls.  The floor radiate with a strange magic.  Large oak
+framed pictured hang from the walls.  Each of the pictures depicts a huge
+phoenix.    
+~
+117 140 0 0 0
+D0
+~
+~
+0 0 11767
+D2
+~
+~
+0 0 11768
+D3
+~
+~
+0 0 11765
+S
+#11767
+The Chancellor's Room~
+   Dark and horrid tapestries decorate this room.  The floor has been littered
+with various trashes.  A large oak desk sits in the middle of the room.  Large
+vials filled with dark liquid sit on its smooth surface.  A single gold
+candleholder has been bolted to the side of the eastern wall.  A dark and
+menacing flame spews from its black candle.    
+~
+117 8 0 0 0
+D2
+~
+~
+0 0 11766
+S
+#11768
+The High Priest's Room~
+   Elaborate paintings and golden tapestries, stretching from floor to ceiling,
+decorate this high priest's chamber.  A large golden brazier filled with deep
+black insense fills the room with its pungent aroma.  A great silk woven rug
+shaped like a Phoenix sits in the center of the room.  On the left wall a tall
+oak bookshelf can be seen.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11766
+S
+#11769
+The Silver Halls~
+   This wall of this hall has painted with a dull silver paint.  On each wall
+strange black runes can be seen.  They are woven into a moon shape.  The carpet
+that covers the floor also has tiny little moons that have been cut into the
+fabric.  A single silver torch holder has been bolted into the wall.  Two rows
+of smooth brick columns make up a direct walking path.    
+~
+117 8 0 0 0
+D1
+~
+~
+0 0 11753
+D3
+~
+~
+0 0 11770
+S
+#11770
+The Silver Halls~
+   This dimly lit hall is barren except from the strange black runes that glow
+on each wall.  The floor is jet black with spots of silver.  No furnishings or
+plants decorate the empty spaces.  No paintings decorate the walls either.    
+~
+117 8 0 0 0
+D1
+~
+~
+0 0 11769
+D7
+~
+~
+0 0 11771
+S
+#11771
+A Rune Covered Hallway~
+   Large black moon shaped runes decorate this hall.  The faded blue light from
+the runes are so intense it nearly blinds you.  The floor you stand on seems to
+be a sturdy glass plate.  Silver runes adorn the plate as well.  A glowing
+sphere hangs from the ceiling casting a dull silver light across the room.    
+~
+117 8 0 0 0
+D7
+~
+~
+0 0 11772
+D8
+~
+~
+0 0 11770
+S
+#11772
+A Rune Covered Hallway~
+   The floor is covered with a thick silver paint that glows with an eerie
+light.  The silver painted bears sign of tiny little moon shaped runes that
+form a spiral pattern.  Glass windows offer a breathtaking view of the beach
+and what remains of the town.    
+~
+117 0 0 0 0
+D3
+~
+~
+0 0 11773
+D8
+~
+~
+0 0 11771
+S
+#11773
+Before a Strange Glowing Door~
+   This silver door has been chiseled into a shape of a moon.  Two large
+handprints glow in the middle of the moon.  The floor is ice cold, and a fine
+layer cold steam rises from the ground.  The walls are barren except for the
+strange blue runes the decorate each of the walls in this hallway.    
+~
+117 8 0 0 0
+D0
+~
+Moon Door~
+1 0 11774
+D1
+~
+~
+0 0 11772
+S
+#11774
+The Moon Chamber~
+   This room glows with an eerie blue light.  All the furnishings are a light
+blue color.  The floor is made of a light blue marble and is set into a moon
+pattern.  A small oak rocking chair sits in the corner of the room.  A small
+glowing ball cast a dim light across the room.    
+~
+117 8 0 0 0
+D2
+~
+~
+0 0 11773
+D4
+~
+~
+0 0 11775
+S
+#11775
+A Glass Dome~
+   This dome is in the shape of a moon.  Thousand of tiny holes have been
+punctured into the base.  When either of the moon rises above the light
+will be sent to the center of the dome where a strange blue pedestal rests.  
+This pedestal has a large crescent shaped hole in the center of it, the right
+size for a dagger.    
+~
+117 0 0 0 0
+D5
+~
+~
+0 0 11774
+S
+#11776
+A Marble Hallway~
+   This marble hall is simple and undecorated.  The floor is made of hard round
+marble stones.  The walls are cold and undecorated.  Only a few simple wax
+candles light this hall.  There flame causes the shadows to dance strangely
+against the surrounding walls.    
+~
+117 8 0 0 0
+D1
+~
+~
+0 0 11777
+D3
+~
+~
+0 0 11753
+S
+#11777
+A Marble Hallway~
+   The walls of this hallway have been decorated with many paintings.  Each of
+the paintings shows a different stage of the life of the Phoenix.  The picture
+hanging on the northern wall shows a small golden egg.  This picture also shows
+the egg surrounded by an aura of flame.  The second picture, which hangs from
+the southern wall shows a small bird.  Its wings are made of fire, even though
+it is still young.  Its majestic face is proud and its eyes are colored to
+reflect wisdom.    
+~
+117 8 0 0 0
+D3
+~
+~
+0 0 11776
+D6
+~
+~
+0 0 11778
+S
+#11778
+A Shimmering Hallway~
+   A thousand twinkling lights dance around glass walls of this hallway.  The
+floor is nearly transparent, as you look down into what seems to be an abyss.
+The floor is made of a study black transparent glass.  The walls strangely are
+also made of a clear white glass that seems to bounce tiny light around it.  
+Due to the natural light from the walls, no torches or other light source can
+be seen.    
+~
+117 131240 0 0 0
+D6
+~
+~
+0 0 11779
+D9
+~
+~
+0 0 11777
+S
+#11779
+A Shimmering Hallway~
+   This room falls to silence.  The walls are glass and cast a thousand dancing
+lights around the room.  Strange gold runes that are warm to the touch decorate
+the glass walls and floors.  Through each wall another chamber or what appears
+to be a chamber can be seen.  The floor is also transparent as below appears to
+be a flaming prison or an abyss.  Every so often a bright flash of light blinks
+and an image a phoenix can be seen on each wall and the floor.    
+~
+117 131240 0 0 0
+D6
+~
+~
+0 0 11780
+D9
+~
+~
+0 0 11778
+S
+#11780
+Before a Marble Door~
+   A large gold slab marble door leads to the west.  This strange door has a
+large sun carved into the center of it.  The sun design seems to constantly
+glow an eerie red and flare up.  The handle of the door appears to be made of a
+black gold.  The handle is cold to the touch.  Tiny holes have been drilled
+into circle around the sun that go all the way through the door and allows
+vision inside the room.  The floor is made of carved bricks.  Each of the
+bricks seems to have a different design or rune to them.    
+~
+117 8 0 0 0
+D3
+~
+marble door~
+1 0 11781
+D9
+~
+~
+0 0 11779
+S
+#11781
+Chamber of the Sun~
+   The room is unusually bright.  Sun shaped runes decorate this chamber.  A
+large glowing fire dominates the center of this chamber.  Strangely the fire
+only produces light but no heat.  The walls of this room looks to be a large
+sun dial, with each second it turns providing a strange fuel to the fire.  The
+floor is made of a dark black marble that reflects light dimly around this
+chamber.    
+~
+117 8 0 0 0
+D1
+~
+door marble~
+1 0 11780
+S
+#11782
+Inside a Glass Dome~
+You are in an unfinished room.
+~
+117 0 0 0 0
+D5
+~
+~
+0 0 11781
+S
+#11783
+A Stone Stairway~
+   With each step a piece of this stairway crumbles to the floor.  These old
+stone steps looks to older the city built around them.  Strange carvings of
+skulls decorate the walls.  An age-old scent lingers around making it hard to
+breathe.    
+~
+117 8 0 0 0
+D4
+~
+statue~
+2 11741 11745
+D5
+~
+~
+0 0 11784
+S
+#11784
+A Stone Stairway~
+   With each step a piece of this stairway crumbles to the floor.  These old
+stone steps looks to older the city built around them.  Strange carvings of
+skulls decorate the walls.  An age-old scent lingers around making it hard to
+breathe.    
+~
+117 8 0 0 0
+D2
+~
+~
+0 0 11785
+D4
+~
+~
+0 0 11783
+S
+#11785
+A Dark Room~
+   This chamber is filled with an eerie darkness.  The floor creaks with each
+step made, and the wall seems to glow with lights that resemble tiny faces.  
+The floor is made of black bricks, with thousand of gray speckles.  There
+appears to be no light source in this room, but this room is filled with a
+strange orange glow.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11784
+D2
+~
+~
+0 0 11786
+S
+#11786
+Inside the Labortory~
+   A strange scent lingers in the air.  The odors of many failed experiments
+fill the rooms with an eerie haze.  The walls have been stripped of paint.  
+The floor is made of a hard gray stone.  A strange green light seems to be
+coming from the south.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11785
+D2
+~
+~
+0 0 11787
+S
+#11787
+The Main Chamber~
+   The walls of this room are made of glass.  To the east and west there is a
+glass cage.  A strange green glow surrounds the outer edge of the cage.  A
+large indented handprint sets in each of the glass doors.  The floor is made of
+a transparent black glass that allows you to see deep underground.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11786
+D1
+~
+cell door~
+1 0 11788
+D2
+~
+~
+0 0 11790
+D3
+~
+cell door~
+1 0 11789
+S
+#11788
+A Glass Cell~
+   This large circular cell has an eerie glow to it.  The walls of this cell
+are warm to the touch, and large steel body clamps are magically held to the
+frame.  Strange tools of torture clutter the floor, and other devices used for
+experiments sit neatly on a stone shelf.    
+~
+117 131756 0 0 0
+D3
+~
+cell door~
+1 0 11787
+S
+#11789
+A Glass Cell~
+   This large circular cell has an eerie glow to it.  The walls of this cell
+are warm to the touch, and large steel body clamps are magically held to the
+frame.  Strange tools of torture clutter the floor, and other devices used for
+experiments sit neatly on a stone shelf.    
+~
+117 131212 0 0 0
+D1
+~
+cell door~
+1 0 11787
+S
+#11790
+A Small Corridor~
+   This side hallway is nothing more then a link in between chambers.  The
+walls of this room have been painted a dark gray and the paint releases a
+strange glow into this hall.  The floor is made of the same transparent glass
+as the room before.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11787
+D2
+~
+~
+0 0 11791
+S
+#11791
+A Small Chamber~
+   This small room is kept clean and dust free.  The only thing that clutters
+these walls are cryptic black runes.  This tiled floor is made of black
+transparent marble.  The runes of the walls cause light to dancing wildly
+around the room, and seem to make the shadows come alive.  There are two small
+cells to the east and west.    
+~
+117 8 0 0 0
+D0
+~
+~
+0 0 11790
+D1
+~
+prison door~
+1 0 11792
+D2
+~
+~
+0 0 11794
+D3
+~
+prison door~
+1 0 11793
+E
+runes~
+   These somewhat ancient runes resmebles tiny skulls that has been twisted and
+distorted.  They are arranged into a ciruclar pattern over a warped star.    
+~
+S
+#11792
+A Glass Prison~
+   This strange glass prison has no furnishings, just a central incased glowing
+center.  This center radiates with a dark heat that spreads waves of this
+energy through out this prison.  The floor is made of overlapping metal plates
+that collect heat.  Bursts of random electricity flow through the air.    
+~
+117 655368 0 5 0
+D3
+   This strange glowing glass door radiates with a black magic.  Strange green
+covered runes decorates it smooth surface.    
+~
+west door prison glass~
+1 0 11791
+S
+#11793
+A Glass Prison~
+   This strange glass prison has no furnishings, just a central incased glowing
+center.  This center radiates with a dark heat that spreads waves of this
+energy through out this prison.  The floor is made of overlapping metal plates
+that collect heat.  Bursts of random electricity flow through the air.    
+~
+117 524296 0 5 0
+D1
+~
+prison door~
+1 0 11791
+S
+#11794
+Within the Darkness~
+   This hushed room is filled with darkness.  Every inch is smothered in
+silence.  Tiny red eyes dart from the shadows menacingly.  A cold stagnant
+breeze lingers also, it putrid smell perverts health.  The walls are barely
+visible through these shadows.  What can be seen it black glowing runes, each
+of these runes appear to be different, and they seem to be ancient as well.  
+~
+117 131337 0 0 0
+D0
+~
+~
+0 0 11791
+D8
+~
+~
+0 0 11795
+E
+runes~
+   Carefully written in black ink these runes are in reminescent of some
+ancient language, long since lost.  It is impossible to deduce their exact
+meaning.    
+~
+S
+#11795
+A Quiet Waiting Room~
+   This waiting room is unusually quiet.  The only sounds that can be heard are
+a low moaning.  The furniture that dresses this room is rustic and ancient.  
+Small pictures decorate the walls.  Each is gruesome and forbidding.  The floor
+has been carpeted with a thick black carpet that glows with an eerie black
+light.    
+~
+117 12 0 0 0
+D3
+~
+~
+0 0 11796
+D7
+~
+~
+0 0 11794
+S
+#11796
+Chamber of Twilight~
+   This room is filled with a hushed darkness.  The walls glitter like a
+thousand twinkling stars.  Strange vials fill the oak cabinets.  Many large oak
+bookshelves line the walls of this hushed room.  The floor is made of a strange
+black marble that reflects no light.  The only light that casts a shadow is a
+mysterious black candle that boils over a red beaker.    
+~
+117 393256 0 0 0
+D1
+~
+~
+0 0 11795
+E
+candle~
+   This strange black candle is made of a slick black wax.  The wick is made of
+intertwined human flesh that is held up by a splinter from a bone.  The base of
+the candle has many dark runes, each being encircled by the symbol of a skull.
+The holder itself is gold that has been painted black to match the candle.    
+~
+S
+$~

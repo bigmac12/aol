@@ -1,0 +1,90 @@
+1
+r
+10
+retreat $*
+1
+4
+food
+11
+cast create
+0
+3
+asd
+21
+cast animal-summoning
+0
+1
+f
+7
+as sean
+0
+1
+2
+10
+wear boots
+0
+1
+k
+7
+bash $*
+1
+1
+j
+4
+bash
+0
+5
+kneel
+117
+emote gently kneels down in reverence, with her hands together and her head gently bowed she offeres a simple prayer.
+0
+1
+3
+2
+st
+0
+1
+4
+16
+disarm baltorius
+0
+4
+skin
+11
+skin corpse
+0
+1
+t
+17
+get all $*.corpse
+1
+1
+9
+10
+retreat se
+0
+1
+8
+30
+unsheath shortsword 2.scabbard
+0
+1
+7
+28
+sheath shortsword 2.scabbard
+0
+1
+6
+27
+unsheath longsword scabbard
+0
+1
+5
+25
+sheath longsword scabbard
+0
+2
+eq
+6
+l self
+0

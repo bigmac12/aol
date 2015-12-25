@@ -1,0 +1,209 @@
+#800
+A large platform~
+   A large platform floats in the air.  Nothing but shadow and mist can be seen
+around it.  The mist swirls, moved by undetectable breezes, and the platform is
+lit by an unseen light source.  This is the building platform of Reorx, where
+wonderful objects and mobiles loaded with complex scripts are prototyped.  An area
+of mysterious creation and inexplicable mud crashes.  On reflection it would
+probably be safer to not explore this zone at all.    
+~
+8 0 1 0 0
+D0
+~
+~
+0 0 804
+S
+T 819
+#801
+Outside of the Prison~
+Nothing.
+~
+8 4 1 0 0
+S
+#802
+Prison Reception~
+Nothing.
+~
+8 131320 0 0 0
+S
+#803
+Prison~
+Nothing.
+~
+8 131320 0 0 0
+S
+#804
+A Street~
+Nothing.
+~
+8 0 1 0 0
+D0
+~
+~
+0 0 801
+S
+#805
+Clinging To Some Wreckage~
+   Wreckage from a ship floats on the calm water.  Clinging to the large pieces
+of wood helps keep you afloat and scanning the horizon reveals nothing.  The
+hull of the ship can be seen deep below and the fate of the crew is unknown,
+though it is safe to assume they have all perished in the storm.    
+~
+8 0 6 0 0
+D0
+~
+~
+0 0 806
+D1
+~
+~
+0 0 806
+D2
+~
+~
+0 0 806
+D3
+~
+~
+0 0 806
+D5
+~
+~
+0 0 807
+D6
+~
+~
+0 0 806
+D7
+~
+~
+0 0 806
+D8
+~
+~
+0 0 806
+D9
+~
+~
+0 0 806
+S
+#806
+Struggling Against The Current~
+   Strong underwater currents threaten to drag you down into the murky depths
+below.  Struggling against them becomes disorienting and the direction you had
+been swimming no longer seems relevant.  Gasping for breath, the waves threaten
+to pull you under once and for all.    
+~
+8 0 8 0 0
+D0
+Nothing.
+~
+~
+0 0 805
+D1
+~
+~
+0 0 805
+D2
+~
+~
+0 0 805
+D3
+~
+~
+0 0 805
+D6
+~
+~
+0 0 805
+D7
+~
+~
+0 0 805
+D8
+~
+~
+0 0 805
+D9
+~
+~
+0 0 805
+S
+#807
+Beneath the waves~
+   Swimming downwards you struggle to overcome the current and make any headway
+towards the wreck.  Light filters down from the surface and myriads of colorful
+fish swim in groups around the hull.    
+~
+8 0 8 0 0
+D4
+~
+~
+0 0 806
+S
+#808
+Deck of the Kalaman Drifter~
+   The Kalaman Drifters deck feels sturdy and strong.  Sun-bleached boards
+creak occasionally with the ships incessant movement.  A large hatch leads
+beneath the decks, off limits to mere passengers, the bulk of the ship is used
+to transport goods to and from Kalaman.  It would seem that ten platinum does
+not cover the price of a room and the voyage will be made without cover from
+the elements.    
+~
+8 8 0 0 0
+S
+#809
+street~
+You are in an unfinished room.
+~
+8 8192 0 0 0
+D1
+~
+~
+0 0 812
+D3
+~
+~
+0 0 810
+S
+#810
+House Room 1~
+You are in an unfinished room.
+~
+8 2048 0 0 0
+D1
+~
+~
+0 0 809
+D3
+~
+~
+0 0 811
+S
+#811
+House Room 2~
+You are in an unfinished room.
+~
+8 0 0 0 0
+D1
+~
+~
+0 0 810
+S
+#812
+Tax Office~
+You are in an unfinished room.
+~
+8 0 0 0 0
+D3
+~
+~
+0 0 809
+S
+#898
+Mock 1998 test room~
+You are in an unfinished room.
+~
+8 0 0 0 0
+S
+$~

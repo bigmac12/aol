@@ -1,0 +1,168 @@
+CircleMUD v3.0 Shop File~
+#7411~
+7427
+7428
+7429
+7433
+7431
+7432
+-1
+1.00
+0.60
+5
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+7415
+0
+7411
+-1
+0
+28
+0
+0
+1
+38
+#7420~
+7437
+7438
+7442
+7443
+7444
+-1
+1.00
+0.60
+19
+17whiskey
+17ale
+17wine
+17beer
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+7409
+0
+7420
+-1
+0
+28
+0
+0
+1
+38
+#7441~
+7438
+7439
+7440
+7441
+7442
+7443
+7445
+7446
+-1
+1.00
+0.60
+17ale
+17wine
+17whiskey
+19
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+7410
+0
+7441
+-1
+0
+28
+0
+0
+1
+38
+#7443~
+7417
+7418
+7419
+7420
+7408
+-1
+1.00
+0.50
+15
+17
+1
+19
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+7411
+0
+7443
+-1
+0
+28
+0
+0
+1
+38
+#7477~
+7421
+7422
+7423
+7424
+7425
+7426
+-1
+1.00
+0.60
+8nose
+9
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+7412
+0
+7477
+-1
+0
+28
+0
+0
+1
+38
+$~

@@ -1,0 +1,2749 @@
+#1600
+Before the Gates of Vingaard~
+   As you make your way along the road, a shallow path can be seen heading
+north.  A massive Keep is unmistakeable, even from this distance.  You
+recognize the archetecture immediately as the fortress of Vingaard Keep.  Tall
+watchtowers rise over the inpenetrable walls.  Up ahead, you seem to have
+already attracted notice.  The knights at the gate immediately snap to
+attention and watch as you approach.  One signals to the gate wardens, though
+the meaning of the signal is unclear.  The path continues north to the keep,
+and south towards the highway.    
+~
+16 0 2 0 0
+D0
+~
+~
+0 0 1601
+D2
+~
+~
+0 0 7184
+S
+#1601
+The Gates of Vingaard Keep~
+   You stand before the massive gates of Vingaard Keep.  The walls rise up
+about twenty feet above you.  The stone used to make the gate is new and almost
+sparkles in the light of day.  The portcullis is closed, and no less than two
+guards are posted here at all times for protection.  Looking up, you can see
+bright white and purple flags fluttering from the battlements, bearing the
+standard of the Knights of Solamnia.  Vingaard has stood for centuries and
+despite various attempts, it has never fallen to assault.  It stands here near
+the mountains, a mighty bulwark of goodness and virtue.  It serves primarily as
+a training ground and fortress for the Knights, though over the years, a number
+of civilians have also made it their home, primarily serving the needs of those
+posted here: the knights and their families.  As you stand looking, the guards
+at the gate begin to eye you.    
+~
+16 0 0 0 0
+D0
+   The great iron portcullis can be raised at the proper signal, or by great
+effort by many men.    
+~
+portcullis gate gates~
+1 0 1602
+D2
+~
+~
+0 0 1600
+S
+#1602
+The Gates of Vingaard Keep~
+   The wide courtyard is paved by rose-coloured, interlocking bricks.  The
+streets are free of any sort of trash or dirt.  A few commoners can be seen
+here and there running about with brooms and dustpans keeping things neat and
+clean.  To the north is a great set of gates, watched over by solemn-looking
+Knights of Solamnia.  The courtyard also continues along an open lane to the
+east and west.  Knights and guards can be seen all about, marching around on
+patrol to see that nothing is here that should not be.  To the south, a great,
+high wall obscures most of your view.  The gates to the south stay closed
+except when a newcomer is being welcomed into the city.  The two gatewardens
+stand guard to see to it no undesirables are given entry.    
+~
+16 0 0 0 0
+D0
+~
+gate door~
+1 0 1665
+D1
+~
+~
+0 0 1603
+D2
+   The iron portcullis to the south can be opened at the proper signal, or by
+great effort by many men.    
+~
+portcullis gate gates~
+1 0 1601
+D3
+~
+~
+0 0 1636
+S
+#1603
+Approaching the Marketplace~
+   The courtyard ahead of you is an open marketplace with many buyers and
+sellers haggling over various goods.  Even from this distance, the commotion is
+nearly overwhelming.  A few knights march past you to the west on patrol.  To
+the west, you can see the great gates and portcullis of Vingaard Keep.  A ways
+to the east, you can see a guard tower, and more walls.  The paving stones are
+rose-red.  The keep rises up to your north, an impressive sight, especially
+this close-up.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1604
+D3
+~
+~
+0 0 1602
+S
+#1604
+The Marketplace of Vingaard Keep~
+   At first, Vingaard was exclusively a military outpost.  However, in recent
+years, the number of knights stationed here has grown, and so too has the
+multitude of support personnel necessary.  Some knights have brought their
+families to live here with them, and with that came a boom in population.  Now
+there are many civilians living in Vingaard Keep, and this is where they go to
+do their daily shopping.  It is an open-air market, which allows many
+out-of-town vendors to come here and set up shop, selling their goods to the
+locals before moving on.  To the west, the lane narrows a bit as it moves past
+the gates of the Keep.  To the east, the market sprawls out around you.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1655
+D1
+~
+~
+0 0 1605
+D2
+~
+~
+0 0 1660
+D3
+~
+~
+0 0 1603
+S
+#1605
+The Marketplace of Vingaard Keep~
+   The square is centered around a large platform, upon which stands the statue
+of a knight of Solamnia, mounted upon a horse.  Next to this platform are
+several benches upon which weary shoppers can rest, and a few people are doing
+precisely that.  You are right in the thick of the commotion of the
+marketplace, and the sounds of people all around you are rather pleasant and
+friendly.  There are some flowers in planters located at each corner of the
+statue, mostly red and white carnations, though there are a few other flowers
+as well.  The market square spreads out around you in all directions.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1656
+D1
+~
+~
+0 0 1606
+D2
+~
+~
+0 0 1659
+D3
+~
+~
+0 0 1604
+D6
+~
+~
+0 0 1655
+D7
+~
+~
+0 0 1657
+D8
+~
+~
+0 0 1660
+D9
+~
+~
+0 0 1658
+S
+T 1605
+#1606
+The Marketplace of Vingaard Keep~
+   At first, Vingaard was exclusively a military outpost.  However, in recent
+years, the number of knights stationed here has grown, and so too has the
+multitude of support personnel necessary.  Some knights have brought their
+families to live here with them, and with that came a boom in population.  Now
+there are many civilians living in Vingaard Keep, and this is where they go to
+do their daily shopping.  It is an open-air market, which allows many
+out-of-town vendors to come here and set up shop, selling their goods to the
+locals before moving on.  The lane narrows a bit to the east where it turns off
+to the north.  To the west, the marketplace widens significantly.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1657
+D1
+~
+~
+0 0 1607
+D2
+~
+~
+0 0 1658
+D3
+~
+~
+0 0 1605
+S
+#1607
+A Wide Lane Beside the Tower~
+   Nearby, you can hear the sounds of daily life going on as usual in Vingaard
+Keep.  To the west, the lane widens into a bustling marketplace.  To the east,
+the lane narrows a bit and turns north around the inner keep.  Not too far away
+to the east, the lane passes by one of the guard towers of the keep.  It is
+rather quiet here, and there are few people around you.  It gives one a chance
+to admire in complete silence the beauty of the archetecture here.  The paving
+stones are rose-red in colour and are completely new.  The walls of the keep
+are made of clean white stone.  You can still smell mortar and plaster that has
+been used in the recent reconstruction.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1608
+D3
+~
+~
+0 0 1606
+S
+#1608
+A Turn in the Keeps Walls~
+   The bustling activity of the market to the west is lost behind you.  You
+have entered a part of the keep that is usually rather quiet and meditative in
+mood.  This is the corner where, to the north, Honour Row stretches out before
+you.  The newly christened Honour Row has become a place where the most
+knightly families of Solamnia can display their coats of arms.  The paving
+stones are smooth beneath your feet.  Despite being positioned between the
+inner and outer walls, it remains well-lit at most hours of the day.  The first
+coat of arms you notice is hanging on the wall to your east.  It is the
+heraldic device of the Wistan family.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1609
+D3
+~
+~
+0 0 1607
+D4
+~
+~
+0 0 1661
+E
+Wistan heraldic device~
+   &MThe heraldic device of the Wistan family is the figure of a silver dragon
+in mid-flight upon a violet field.  The three corners of the shield each bear a
+symbol.  The upper left-hand corner bears the symbol of the Rose.  The upper
+right-hand corner bears the symbol of the Sword, and the lower point of the
+shield bears the symbol of a golden crown.  &n
+~
+S
+#1609
+East Honour Row~
+   The lane continues to the north and south from here.  This lane which passes
+between the keep and its eastern wall has been renamed Honour Row.  This is the
+place where the heraldry of Solamnia's proudest noble families is hung proudly.
+The pavingstones are smooth and clean beneath your feet.  You stand sheltered
+between a wall to your east and another to your west.  The lane here is about
+fifteen feet wide.  Despite the walls on either side, the place is usually
+fairly well-lit, except at the absolute darkest hours of the day.  To the west
+hangs the heraldry of the Dorsey family.  To the east, a shield depicting the
+coat of arms of the Valcic family hangs upon the wall.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1610
+D2
+~
+~
+0 0 1608
+E
+heraldry family Dorsey~
+   &rThe heraldry of the Dorsey family hangs here.  The shield is a deep
+burgundy colour, divided by a diagonal silver stripe.  Upon the upper left-hand
+corner of the shield are three silver crowns.  Upon the lower right-hand corner
+of the shield are three silver lions.  Crossed behind the shield are a pair of
+broadswords, both of which are polished to a high shine and appear
+battle-worthy.  &n
+~
+E
+coat arms Valcic~
+   &gThe shield bearing the Valcic coat of arms is forest green in colour.  
+The center of the sword bears a large silver sword, held aloft by a single
+mailed fist.  Underneath that is a small symbol depicting a kingfisher in
+flight.  Hanging underneath the shield is a white banner, which reads, in
+Solamnic, "Mortus dunda Arrestus oth Obranath" which translates as, "Death
+Shall not Interfere with our Duty".  &n
+~
+S
+#1610
+East Honour Row~
+   The lane continues to the north and south from here.  This lane which passes
+between the keep and its eastern wall has been renamed Honour Row.  This is the
+place where the heraldry of Solamnia's proudest noble families is hung proudly.
+The pavingstones are smooth and clean beneath your feet.  You stand sheltered
+between a wall to your east and another to your west.  The lane here is about
+fifteen feet wide.  Despite the walls on either side, the place is usually
+fairly well-lit, except at the absolute darkest hours of the day.  To your
+west, you can see the shield of the Soltharus family proudly displayed.  On the
+opposite side hangs the heraldic device of the Matar family.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1611
+D2
+~
+~
+0 0 1609
+E
+shield soltharus~
+   &W The shield of the Soltharus family appears somehow different from the
+rest.  Its colour scheme is mostly black and silver, and it looks somehow dark.
+Still there are signs of the great honour this name still carries in Solamnia.
+The shield is black.  Upon it is a picture of a mighty silver dragon.  In one
+of its four clawed paws, it carries the unmistakeable dragonlance.  The other
+three rest upon the ground.  Looking closer, you can see that the dragon's
+features are shaped into a feral snarl.  &n
+~
+E
+Matar heraldic device~
+   The Matar family is one of the newer families to earn a place along Honour
+Row.  The shield is half black, and half white.  The symbol dominating it is a
+large eagle with wings spread.  The half of the eagle that is on the black half
+is white, and the half of the eagle on the white side is black, presenting an
+impressive visual image.  Atop the shield is a helm wreathed with red laurels.
+Beneath the shield is a red banner with gold letters.  It reads "Est Solarus
+oth Mithas", the motto of the Knights of Solamnia.    
+~
+S
+#1611
+East Honour Row~
+   The lane continues to the north and south from here.  This lane which passes
+between the keep and its eastern wall has been renamed Honour Row.  This is the
+place where the heraldry of Solamnia's proudest noble families is hung proudly.
+The pavingstones are smooth and clean beneath your feet.  You stand sheltered
+between a wall to your east and another to your west.  The lane here is about
+fifteen feet wide.  Despite the walls on either side, the place is usually
+fairly well-lit, except at the absolute darkest hours of the day.  Hanging on
+the west wall is the heraldry of the Brightblade family.  Opposite, on the
+eastern wall sits the crest of the Di Caela family.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1612
+D2
+~
+~
+0 0 1610
+E
+Brightblade heraldry~
+   &BThe heraldry of the Brightblade family hangs here.  It is a blue shield
+with a white chevron, and upon it is the symbol of a Sword.  The sword is
+wreathed by vines and roses, and atop it sits a small golden crown.  Crossed
+behind the shield are two staves, each bearing a red flag.  Below the shield is
+a banner bearing the motto of the knighthood, "Est Solarus oth Mithas", My
+Honour is my Life.  &n
+~
+E
+di caela crest~
+&b   The crest of the Di Caela fa&wmily is painted &bonto a large shield here.
+The shield is dark blue in colo&wur, divided in &bhalf by a single, wide vertical
+white stripe.  In the center of &wthe shield is &ba large red rose with two small
+crossed swords below it.  On ea&wch blue stripe &bon the outer edges of the shield
+is a silver vine bearing many r&woses.&n
+~
+S
+#1612
+East Honour Row~
+   The lane continues to the north and south from here.  This lane which passes
+between the keep and its eastern wall has been renamed Honour Row.  This is the
+place where the heraldry of Solamnia's proudest noble families is hung proudly.
+The pavingstones are smooth and clean beneath your feet.  You stand sheltered
+between a wall to your east and another to your west.  The lane here is about
+fifteen feet wide.  Despite the walls on either side, the place is usually
+fairly well-lit, except at the absolute darkest hours of the day.  To the east
+hangs the heraldic device of the Nightsbane family.  To the west, the Waydolson
+family heraldry is displayed.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1614
+D2
+~
+~
+0 0 1611
+E
+waydolson family heraldry~
+    &GThe waydolson family crest is act&wually rather simple.  It is a shield,
+&Gdivided into four equal parts.  Each &wsquare diagonal one another is either
+&Ggreen or white.  Upon it is the symbo&wl of a bird, its wings outstretched.
+Underneath is a banner with the famil&Gy motto, which reads, "Ilpoth
+&wHeonpeaehocctb Mbi Popboa".  Nearby i&Gs a plaque which provides the translation:
+&w"Against Uncertainty We Struggle".&n
+~
+E
+Nightsbane heraldic device~
+   &KThe heraldic device of the Nightsbane family is hanging here.  The shield
+has a field of black, and upon it is a broad silver chevron across the middle
+of the shield.  There is a crescent moon on each of the upper quarters, both
+also silver.  Below the chevron is the symbol of a sword, pointed downward.  
+&n
+~
+S
+#1613
+Courtyard of Vingaard Keep~
+   The sounds of combat are now very close to your east.  You pass between the
+inner and outer walls of the keep, a lane that is narrower than the rest and
+more shady.  The sounds of life are all around you, though they are muted from
+here.  All you can hear clearly are the sounds of your own footsteps on the
+rose-red paving stones.  The walls of the keep are massive, and an impressive
+sight to behold especially at this distance.  The lane continues a short way to
+the west.  To the east, you can see knights training in the art of combat.  In
+the wide open courtyard, the knights practice many different things: one-on-one
+combat with swords, archery, and even some training on how to deal with an
+ambush.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1618
+D3
+~
+~
+0 0 1619
+S
+#1614
+A Turn in the Keeps Walls~
+   To the south lies the newly christened Honour Row.  It is a place where the
+most honoured knightly families can display their coats of arms.  To the west
+opens up a wide courtyard, in which you can see knights practicing combat with
+one another.  The shouts of commanding officers berate their squires, telling
+them when to duck, or when to thrust or parry.  The lane narrows a bit to the
+south, where it passes between the inner keep, and the outer walls.  On the
+eastern wall, displayed proudly, is the crest of the Ehrling family.    
+~
+16 0 0 0 0
+D2
+~
+~
+0 0 1612
+D3
+~
+~
+0 0 1615
+D4
+~
+~
+0 0 1662
+E
+Ehrling crest family~
+&m   The crest of the Ehrling family &wis a &mpurple shield with a white cross.
+Upon this cross can be seen the sym&wbol o&mf the Rose, with a thorned stem.
+&wBehind this shield are two crossed weapons: a longsword and a battle-axe.
+&mBelow the shield is a banner, on wh&wich i&ms written the motto, "Est Solarus oth
+Mithas", the motto of the Knights o&wf Sol&mamnia.&n
+~
+S
+#1615
+Courtyard of Vingaard Keep~
+   Nearby, you can hear the sounds of daily life going on as usual in Vingaard
+Keep.  To the west, the lane widens into a bustling marketplace.  To the east,
+the lane narrows a bit and turns north around the inner keep.  Not too far away
+to the east, the lane passes by one of the guard towers of the keep.  It is
+rather quiet here, and there are few people around you.  It gives one a chance
+to admire in complete silence the beauty of the archetecture here.  The paving
+stones are rose-red in colour and are completely new.  The walls of the keep
+are made of clean white stone.  You can still smell mortar and plaster that has
+been used in the recent reconstruction.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1614
+D3
+~
+~
+0 0 1616
+S
+#1616
+Courtyard of Vingaard Keep~
+   You are standing amid the northeast courtyard of Vingaard Keep.  To the east
+of you is a narrow lane which passes around the corner of the keep and near the
+outer walls.  In all other directions, you can see men in the midst of their
+training.  Immediately in front of you, you notice a trio of archers nock some
+arrows and then fire them at targets to the north.  A commander, standing
+behind them, appears pleased with their progress, and gives them a round of
+applause.  You could likely leave unnoticed, though to enter into the middle of
+all this commotion is to invite the attention and possibly the ire of the
+practicing knights.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1649
+D1
+~
+~
+0 0 1615
+D2
+~
+~
+0 0 1654
+D3
+~
+~
+0 0 1617
+S
+#1617
+Courtyard of Vingaard Keep~
+   It takes a lot of quick stepping and careful ducking to stay out of the way
+of some of the knights sparring here in the center of the courtyard.  All
+around you, you hear the sounds of mock combat carrying on, punctuated now and
+then by the occasional shout, or the sound of an arrow being loosed from a bow.
+You are almost bowled over by a pair of knights fighting ferociously with
+blunted swords.  They stop, and one of them places his fingers in his mouth,
+sounding out a loud whistle.  Everyone stops what they are doing and now you
+have a large number of very irate knights staring at you, wondering what you
+are doing here.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1650
+D1
+~
+~
+0 0 1616
+D2
+~
+~
+0 0 1653
+D3
+~
+~
+0 0 1618
+D6
+~
+~
+0 0 1651
+D7
+~
+~
+0 0 1649
+D8
+~
+~
+0 0 1652
+D9
+~
+~
+0 0 1654
+S
+#1618
+Courtyard of Vingaard Keep~
+   You stand in the northeast courtyard of Vingaard Keep.  This area serves
+around the clock as a practice and exercise facility for the knights stationed
+at the keep.  You can see all around you the assorted knights who practice
+various skills, trying to become the best warriors they can possibly be.  Some
+are sparring one-on-one, others are practicing swordfighting against multiple
+opponents, and a few are shooting with bows and arrows at a set of targets to
+the northeast.  The courtyard widens to the east, and narrows to the west as it
+passes between the walls of the keep, and the keep itself.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1651
+D1
+~
+~
+0 0 1617
+D2
+~
+~
+0 0 1652
+D3
+~
+~
+0 0 1613
+S
+#1619
+A Narrow Lane in Vingaard Keep~
+   You pass between the inner and outer walls of the keep, a lane that is
+narrower than the rest and more shady.  The sounds of life are all around you,
+though they are muted from here.  All you can hear clearly are the sounds of
+your own footsteps on the rose-red paving stones.  The walls of the keep are
+massive, and an impressive sight to behold especially at this distance.  The
+lane continues a short way to the west.  To the east, you can see knights
+training in the art of combat.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1613
+D3
+~
+~
+0 0 1620
+S
+#1620
+Courtyard of Vingaard Keep~
+   A stone skips down the lane as you accidentally kick it.  You pass between
+the inner and outer walls of the keep, a lane that is narrower than the rest
+and more shady.  The sounds of life are all around you, though they are muted
+from here.  All you can hear clearly are the sounds of your own footsteps on
+the rose-red paving stones.  The walls of the keep are massive, and an
+impressive sight to behold especially at this distance.  The lane continues on
+a short way to the east, between the walls.  A short way to the west, you can
+see a few knights milling about, getting weapons repaired at the blacksmith's,
+or visiting the stables.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1619
+D3
+~
+~
+0 0 1621
+S
+#1621
+Courtyard of Vingaard Keep~
+   You stand in the northwest courtyard of Vingaard Keep, an area used mostly
+by the knights.  This area contains the stables, armory, blacksmiths, and vault
+for the keep.  Most services are reserved for knights alone.  The common
+marketplace takes care of the needs of most of the civilian population of the
+Keep.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1645
+D1
+~
+~
+0 0 1620
+D2
+~
+~
+0 0 1646
+D3
+~
+~
+0 0 1623
+D8
+~
+~
+0 0 1647
+S
+#1622
+In the Stables of Vingaard Keep~
+   There is no mistaking the smell that wafts from the stalls all around you.
+It is the smell of horse manure mixed with hay, and it is definitely an
+acquired taste.  Eventually, someone who spent all day working here might not
+notice it, but it certainly is unpleasant for someone walking in here for the
+first time.  There are stalls lined up against the north and south walls, and a
+small window in each stall allows the sun to come in and the horses to peek
+out.  A young stablehand runs back and forth, tending to the horses' needs.  
+The entrance to the west and to the south leads back to the northwest courtyard
+of Vingaard Keep.    
+~
+16 8 0 0 0
+D3
+~
+~
+0 0 1645
+S
+#1623
+Courtyard of Vingaard Keep~
+   The sounds of activity are all around you, from all directions.  You stand
+in the northwest courtyard of Vingaard Keep, an area used mostly by the
+knights.  This area contains the stables, armory, blacksmiths, and vault for
+the keep.  Most services are reserved for knights alone.  The common
+marketplace takes care of the needs of most of the civilian population of the
+Keep.  To the north, you can see into the smithy, where a lone, dark figure
+pounds away at something.  To the south, east, and southeast, you can see
+people wandering around in the open courtyard, including a few mounted knights,
+riding to and from the stable to the northeast.  To the west, you can see a
+couple more buildings.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1644
+D1
+~
+~
+0 0 1621
+D2
+~
+~
+0 0 1647
+D3
+~
+~
+0 0 1624
+D9
+~
+~
+0 0 1646
+S
+#1624
+Courtyard of Vingaard Keep~
+   You stand in the northwest courtyard of Vingaard Keep, an area used mostly
+by the knights.  This area contains the stables, armory, blacksmiths, and vault
+for the keep.  Most services are reserved for knights alone.  The common
+marketplace takes care of the needs of most of the civilian population of the
+Keep.  To the north is the Vingaard Armory, a military depot, and to the south
+is the Vingaard Vault, considered by most to be the safest in all of Solamnia.
+The courtyard widens a bit to the east and south.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1643
+D1
+~
+~
+0 0 1623
+D2
+~
+~
+0 0 1648
+D3
+~
+~
+0 0 1625
+S
+#1625
+Courtyard of Vingaard Keep~
+   Nearby, you can hear the sounds of daily life going on as usual in Vingaard
+Keep.  To the east, this lane widens into one of the great Courtyards of the
+keep.  To the west, the lane narrows a bit and turns south around the inner
+keep.  Not too far away to the west, the lane passes by one of the guard towers
+of the keep.  It is rather quiet here, and there are few people around you.  
+It gives you a chance to admire for the first time in complete silence the
+beauty of the archetecture here.  The paving stones are rose-red in colour and
+are completely new.  The walls of the keep are made of clean, white stone.  
+You can still smell mortar and plaster that has been used in the recent
+reconstruction.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1624
+D3
+~
+~
+0 0 1626
+S
+#1626
+A Turn in the Keeps Walls~
+   To the south lies the newly christened Honour Row.  It is a place where the
+most honoured knightly families can display their coats of arms.  The great
+outer walls of Vingaard rise up to your west.  To the east, the lane opens into
+a wide courtyard, in which you can see knights practicing combat with one
+another.  The shouts of commanding officers can be heard, berating their
+squires.  They shout out simple commands which the squires are learning to
+obey.  The lane narrows a bit to the south, where it passes between the inner
+keep and the outer walls.  On the western wall, displayed proudly, is the crest
+of the Crownguard family.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1625
+D2
+~
+~
+0 0 1627
+D4
+~
+~
+0 0 1663
+S
+#1627
+Western Honour Row~
+   The lane that passes between the inner and outer walls has been newly
+renamed as Honour Row.  It is the place where, upon the walls, sit enshrined
+the heraldic devices and coats of arms of Solamnia's most noble families.  The
+lane extends north and south of you from here.  The paving stones are smooth
+and clean beneath your feet, and the area has, overall, a very reflective,
+meditative mood.  Up atop the keep's walls, you can see a few knights milling
+about on patrol.  To the east hangs the coat of arms of the Steiner family.  
+On the western wall hangs the coat of arms of the Jeoffrey family.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1626
+D2
+~
+~
+0 0 1628
+E
+coat arms steiner~
+   &B The Steiner family coat of arms is rather quite elegant and detailed.  
+It is a blue shield, crossed by a diagonal band of white.  The symbol upon the
+shield is that of a mailed fist, held upright, closed upon three arrows.  
+Sitting above the fist is a golden crown representing royalty.  Underneath the
+fist is a gold laurel.  Behind the shield are two crossed halberds, and below
+it is a banner which reads, "Gott, Lehensherr, Heimatland".  Nearby is a plaque
+which explains that those words, in a distant foreign language, mean "God,
+King, Country".  &n
+~
+S
+#1628
+Western Honour Row~
+   The lane that passes between the inner and outer walls has been newly
+renamed as Honour Row.  It is the place where, upon the walls, sit enshrined
+the heraldic devices and coats of arms of Solamnia's most noble families.  The
+lane extends north and south of you from here.  The paving stones are smooth
+and clean beneath your feet, and the area has, overall, a very reflective,
+meditative mood.  Up atop the keep's walls, you can see a few knights milling
+about on patrol.  Upon the western wall sits the crest of the Lacenor family.
+To the east hangs the heraldic device of the Ellersford family.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1627
+D2
+~
+~
+0 0 1629
+E
+Lacenor Lace lac~
+   &KThe Lacenor family coat-of-arms is a shield of midnight black, adorned
+across the top with &Wthree silver stars.  &KThe center &Wstar &Kis slightly
+larger than the rest, and a horizontal band of &Wsilver &Kcrosses just beneath
+them.  The main symbol on the shield is that of a &ycopper dragon &Kcoiled
+around the length of a &Wlongsword.  &KBehind the shield are two crossed
+weapons, &Wa footman's mace &Kand a &Wwarhammer&K.  Just below the shield lies
+a banner which reads, "&wVigilente et Audax&K".  Placed nearby is a &ycopper
+plaque&K, which explains that those words, in a distant cousin language to
+Solamnic, reads "&wVigilance and Courage&K".  &n
+~
+S
+#1629
+Western Honour Row~
+   The lane that passes between the inner and outer walls has been newly
+renamed as Honour Row.  It is the place where, upon the walls, sit enshrined
+the heraldic devices and coats of arms of Solamnia's most noble families.  The
+lane extends north and south of you from here.  The paving stones are smooth
+and clean beneath your feet, and the area has, overall, a very reflective,
+meditative mood.  Up atop the keep's walls, you can see a few knights milling
+about on patrol.  On the western wall, you see the coat of arms of the Markenin
+family.  To the east is the crest of the Maccecht family.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1628
+D2
+~
+~
+0 0 1630
+S
+#1630
+Western Honour Row~
+   The lane that passes between the inner and outer walls has been newly
+renamed as Honour Row.  It is the place where, upon the walls, sit enshrined
+the heraldic devices and coats of arms of Solamnia's most noble families.  The
+lane extends north and south of you from here.  The paving stones are smooth
+and clean beneath your feet, and the area has, overall, a very reflective,
+meditative mood.  Up atop the keep's walls, you can see a few knights milling
+about on patrol.  Upon the western wall here hangs the coat of arms of the
+Thildesparan family.  To the east hangs the banner bearing the Fenton family
+crest.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1629
+D2
+~
+~
+0 0 1631
+E
+thildesparan coat arms~
+   &r The &RThildesparan&r coat of arms is a &Rred shield&r, crossed diagonally
+by &Rtwo white bands&r.  In front of the &Rshield&r sits the figure of a
+&Rgolden griffon&r.  In &Rthe griffon's right claw&r is held a &Rquiver of
+arrows&r, and in its &Rleft&r is a &Rthorned rose&r.  Crossed below the
+&Rshield&r are a &Rpair of longswords&r.  A &Rbanner&r below the coat of arms
+reads "&RMis Solarus et Ritan Comme Situ&r" which, in Solamnic means "&RWith
+Honour and Wisdom Comes Strength&r".  &n
+~
+S
+#1631
+A Turn in the Keep's Walls~
+   The bustling activity of the square to the east is lost behind you.  You
+have entered a part of the keep that is usually rather quiet and meditative in
+mood.  This is the corner where, to the north, Honour Row stretches out before
+you.  The newly christened Honour Row has become a place where the most
+knightly families of Solamnia can display their coats of arms.  The paving
+stones are smooth beneath your feet.  Despite being positioned between the
+inner and outer walls, it remains well-lit at most hours of the day.  The first
+coat of arms you notice is hanging on the wall to your west.  It is the coat of
+arms of the Soth family.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1630
+D1
+~
+~
+0 0 1632
+D4
+~
+~
+0 0 1664
+E
+shield coat arms Soth~
+   &KThe coat of arms of the Soth family is displayed proudly at the very
+entrance to Honour way, and it seems fitting that it should occupy such a place
+here.  The Soth family is one of the most honoured in Solamnia, renouned for
+the bravery and purity of the knights it produces.  The symbol is that of a red
+rose wrapped around a glimmering silver broadsword.  The shield is dark maroon,
+with a white cross.  Upon closer inspection, the top right-hand corner of the
+shield appears slightly scratched.  &n
+~
+S
+T 1631
+#1632
+A Wide Lane Near the Courtyard~
+   Nearby, you can hear the sounds of daily life going on as usual in Vingaard
+Keep.  To the east, this lane widens into the great Courtyard.  To the west,
+the lane narrows a bit and turns north around the inner keep.  Not too far away
+to the west, the lane passes by one of the guard towers of the keep.  It is
+rather quiet here, and there are few people around you.  It gives you a chance
+to admire for the first time in complete silence the beauty of the archetecture
+here.  The paving stones are rose-red in colour and are completely new.  The
+walls of the keep are made of clean white stone.  You can still smell mortar
+and plaster that has been used in the recent reconstruction.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1633
+D3
+~
+~
+0 0 1631
+S
+#1633
+Courtyard of Vingaard Keep~
+   You stand within the courtyard of Vingaard keep.  All around there are signs
+of life as people bustle back and forth on their daily errands.  Here and there
+in the crowd you can spot an armored knight, mingling with the population.  It
+is a stark reminder of the fortress' primary purpose: it is first and foremost
+a military outpost for the Knights of Solamnia.  Nearby, a woman carrying too
+many parcels trips and falls, but is immediately helped to her feet by two
+knights while a third helps to pick up her belongings.  To live here is to live
+in peace and protection, and there is no doubt why many civilians have decided
+to make Vingaard Keep their home.  To the west, the courtyard narrows into a
+single, wide lane.  To the east, north, and south, more of the courtyard and
+its thriving activities can be seen.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1639
+D1
+~
+~
+0 0 1634
+D2
+~
+~
+0 0 1642
+D3
+~
+~
+0 0 1632
+S
+#1634
+Courtyard of Vingaard Keep~
+   You stand in the center of life in the keep.  This is where knights often
+congregate to relax after a long day on duty.  A few trees here and there in
+the square are planted to offer some shade.  Benches upon which to sit are
+located conveniently near a few of these trees.  As well as the sounds of life
+carrying on as usual in the thriving Keep, you can hear the constant trickle of
+cold, clear water in the fountain here.  Not far away, a knight sits, wiping
+dust from his armor.  He looks up at you and does not smile, but something
+about his looks is welcoming.  Looking at the symbol on his breastplate, you
+notice that he is a knight of the Rose, the highest order of Knights in
+Solamnia.  The courtyard spreads out in all directions from here.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1638
+D1
+~
+~
+0 0 1635
+D2
+~
+~
+0 0 1641
+D3
+~
+~
+0 0 1633
+D6
+~
+~
+0 0 1639
+D7
+~
+~
+0 0 1637
+D8
+~
+~
+0 0 1642
+D9
+~
+~
+0 0 1640
+S
+T 1634
+#1635
+Courtyard of Vingaard Keep~
+   The lane widens out into the large central courtyard of Vingaard Keep.  The
+knights in this area seem a little more relaxed as they wander about, mixing
+with the civilians who also live at the keep.  Not far away, you see a younger
+knight of the crown, helping an old lady make her way to the fountain, much to
+the pride of his officer, who watches, nodding, and smiling slightly.  The
+bricks that pave the street provide a nice, smooth surface for walking, and,
+weather permitting, perhaps a chance to rest and get some sunlight.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1637
+D1
+~
+~
+0 0 1636
+D2
+~
+~
+0 0 1640
+D3
+~
+~
+0 0 1634
+S
+#1636
+Approaching the Courtyard~
+   You find yourself strolling through the main avenue of Vingaard Keep.  It is
+difficult not to feel safe here.  Not only are you surrounded by patrols of
+brave Solamnic Knights keeping an eye out for trouble, but you are in possibly
+the safest construct on Ansalon.  To the south rises the great wall which has
+sealed out invaders for centuries.  To the north lies the keep itself, a
+monument to what Solamnic masons have accomplished with the help of the
+dwarves.  The streets are paved with rose-coloured bricks that are clean and
+free of debris.  The lane continues east and west of here.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1602
+D3
+~
+~
+0 0 1635
+S
+#1637
+Courtyard of Vingaard Keep~
+   You stand in the Courtyard of Vingaard keep.  Strolling back and forth are
+an assorted mix of characters, both the knights who patrol the keep, and the
+civilians who live here under their protection.  From somewhere nearby, you can
+hear a crowd of people "oo"-ing and "ah"-ing at something.  The rose-red
+cobbling bricks that pave the road make for smooth travel.  Not far to the
+west, you see a knight on horseback, riding through the crowd.  He has stopped
+his horse so that two young children may run up and pet it.  The horse whinnies
+softly at the children's attention.  The knight tries unsuccessfully to hide a
+smile behind a wall of stoicism.  The Courtyard continues west and south of
+here.  To the north lies the walls of the keep itself.    
+~
+16 0 0 0 0
+D2
+~
+~
+0 0 1635
+D3
+~
+~
+0 0 1638
+D8
+~
+~
+0 0 1634
+S
+#1638
+Courtyard of Vingaard Keep~
+   You stand at the northernmost side of the Courtyard, with a substantial view
+of all the goings on around you.  You can see the scores of people who stroll
+back and forth down the lane, doing their daily chores.  To the west, you can
+hear a bit of a commotion.  A short distance away, you see a line of knights
+marching to the beat of a drummer marching in front of them.  Their armor is
+clean and their faces nearly bereft of any sort of facial hair.  Obviously, new
+recruits.  The Courtyard spreads out all around you.  To the north of you, the
+stout walls of the keep rise, sturdy and reassuring.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1637
+D2
+~
+~
+0 0 1634
+D3
+~
+~
+0 0 1639
+S
+#1639
+Courtyard of Vingaard Keep~
+   You stand in the northwest corner of Vingaard Keep.  You are at the apex of
+a great inner wall, which rises above you to the north and west.  In all other
+directions, you can see people moving about, though there is a little less
+human traffic here.  To the southeast, you catch a glimpse of a fountain,
+further evidenced by the sound of trickling water.  People all around you walk
+about doing their daily chores, under the watchful eye of those knights posted
+here.  It is a reassuring feeling for many to live among those so dedicated to
+their protection.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1638
+D2
+~
+~
+0 0 1633
+D9
+~
+~
+0 0 1634
+S
+#1640
+Courtyard of Vingaard Keep~
+   The courtyard of Vingaard keep has become a little more busy in this area,
+and then it is apparent why.  A travelling bard has set up a little stage, and
+is entertaining Knights and civilians alike with his juggling skill.  First
+hoops, then swords, and even flaming torches.  Each trick the man performs is
+greeted by a smattering of applause, and the sounds of money being tossed into
+a hat on the ground before him.  Taking time for entertainment is no excuse for
+a lack of vigilance, however.  You notice that the knights in this crowd stay
+alert.  Looking around from time to time to see that nothing evil is happening.
+The courtyard spreads out to the north and west of you.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1635
+D3
+~
+~
+0 0 1641
+D6
+~
+~
+0 0 1634
+S
+#1641
+Courtyard of Vingaard Keep~
+   The wall to the south rises up twenty feet above, most of the day blocking
+out the sun.  On hot days, this is a place that many who travel about on the
+keep's rose-red brickwork might find a bit of comfort in the shade.  People
+walk about with no fear, purses hanging at their waists.  This would be easy
+pickings for even the laziest and clumsiest of thieves except for one factor:
+the presence of knights milling about with the general population most of the
+time.  Most of these men are eagle-eyed and stern-looking, making a rise in the
+crime rate here unlikely.  The Courtyard opens up to the north.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1634
+D1
+~
+~
+0 0 1640
+D3
+~
+~
+0 0 1642
+S
+#1642
+Courtyard of Vingaard Keep~
+   You stand now in the shadow of one of the huge, round towers of Vingaard
+keep.  You can see some knights entering and leaving this tower up a series of
+stone steps.  The civilians here seem content to let the knights carry out
+their business.  It does however seem strange that in a place that is centered
+upon a military encampment, there would be so many civilians carrying on with
+their daily chores.  They mingle easily however with the armed knights who make
+their rounds here.  The walls of Vingaard here are twenty feet high, and rise
+up to the south and west of you.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1633
+D1
+~
+~
+0 0 1641
+D7
+~
+~
+0 0 1634
+S
+#1643
+The Vingaard Armory~
+   The walls of this building are lined with safely locked weapons and a few
+suits of armor, kept behind the counter.  Here is one of the places the knights
+of Vingaard Keep can pick up arms and supplies.  The quartermaster here takes
+his job very seriously, and only deals with the warriors of the keep.  The
+weapons made in the Keep are not intended for outsiders, and none of the
+civilians here have any need for weapons, as they live under the watchful
+protection of the Knights of Solamnia.  There is an open door to the south
+which leads back out the way you came in.    
+~
+16 12 0 0 0
+D2
+~
+~
+0 0 1624
+S
+#1644
+A Smithy~
+   This is the place the arms and equipment utilized by the knights of Vingaard
+Keep is made.  The smells and sights of the smithy are all around you as you
+enter this building.  There are three walls, to the north, east, and west, but
+the wall to the south has been left open.  This is good, since if the place had
+a closeable door, the heat and humidity in here would likely be unbearable.  A
+lone man pounds away at a piece of iron, apparently trying to make a horseshoe.
+The resounding clangs of his hammer on the iron make for an unusual symphony.
+He looks up briefly at your entrance, but then resumes working.  There are no
+exits apart from the way you came in, to the south.    
+~
+16 12 0 0 0
+D2
+~
+~
+0 0 1623
+S
+#1645
+Entering the Stables of Vingaard Keep~
+   The smell of the stables is carried by a breeze from the east.  The stables
+have been built so as to fit inside the northern wall of the keep.  There is
+about a twelve-foot overhead clearance to the east, which would allow horses
+carrying mounted knights to pass through easily.  To the east, you can see and
+hear a few horses in their stalls, neighing plaintively at their servitude.  
+Every now and then, a passing stablehand will give you a friendly nod or a pat
+on the back.  To the south, more knights patrol back and forth, carrying out
+their duties.    
+~
+16 12 0 0 0
+D1
+~
+~
+0 0 1622
+D2
+~
+~
+0 0 1621
+S
+#1646
+Courtyard of Vingaard Keep~
+   You stand in the northwest courtyard of Vingaard Keep, an area used mostly
+by the knights.  This area contains the stables, armory, blacksmiths, and vault
+for the keep.  Most services are reserved for knights alone.  The common
+marketplace takes care of the needs of most of the civilian population of the
+Keep.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1621
+D3
+~
+~
+0 0 1647
+D6
+~
+~
+0 0 1623
+S
+#1647
+Courtyard of Vingaard Keep~
+   You stand in the northwest courtyard of Vingaard Keep, an area used mostly
+by the knights.  This area contains the stables, armory, blacksmiths, and vault
+for the keep.  Most services are reserved for knights alone.  The common
+marketplace takes care of the needs of most of the civilian population of the
+Keep.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1623
+D1
+~
+~
+0 0 1646
+D7
+~
+~
+0 0 1621
+S
+#1648
+The Vingaard Vault~
+   Many of the knights posted at Vingaard are quite wealthy, and while they are
+not likely to be robbed while here, one can never be too safe.  So many of them
+keep part of their fortunes locked up here.  The Vingaard Vault is considered
+by many to be the safest in all of Solamnia.  First of all, it is located in
+the very heart of Vingaard Keep, an inpenetrable forest.  Second, to test the
+vault, the Knights let four kender stay the night, and not one of them was able
+to get inside.  That test alone is something that few other vaults could stand
+up to.  There is an exit to the north.    
+~
+16 12 0 0 0
+D0
+~
+~
+0 0 1624
+S
+#1649
+Courtyard of Vingaard Keep~
+   You stand in the northeast courtyard of Vingaard Keep.  This area serves
+around the clock as a practice and exercise facility for the knights stationed
+at the keep.  You can see all around you the assorted knights who practice
+various skills, trying to become the best warriors they can possibly be.  Some
+are sparring one-on-one, others are practicing swordfighting against multiple
+opponents, and a few are shooting with bows and arrows at a set of targets to
+the northeast.    
+~
+16 0 0 0 0
+D2
+~
+~
+0 0 1616
+D3
+~
+~
+0 0 1650
+D8
+~
+~
+0 0 1617
+S
+#1650
+An Archery Range~
+   This area is dedicated to those who protect the keep.  This area in
+particular would appear to be part of an archery range.  This indication is
+only strengthened by the presence of a row of large targets attached to the
+northern wall.  Walking by here is a little nerve-wracking, but after a few
+moments, you decide that no one seems to be practicing on these targets today.
+You continue to walk, and it is only then that a loud "thok!" followed by
+angry shouting tells you that perhaps this is not the best place to loiter.  
+You can go almost anywhere east, south, or west of this spot.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1649
+D2
+~
+~
+0 0 1617
+D3
+~
+~
+0 0 1651
+S
+#1651
+Courtyard of Vingaard Keep~
+   You stand in a corner of the courtyard, well out of the way of all those
+knights around you who are practicing their skills in the art of combat.  
+There are a few benches here where knights rest between sessions, and it
+appears as though you would not be unwelcome in sitting down there.  The walls
+here are wide and high, providing some much welcome shelter from the sun.  The
+courtyard spreads out south and east of you, though it may take some careful
+stepping to stay out of everyone's way.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1650
+D2
+~
+~
+0 0 1618
+D9
+~
+~
+0 0 1617
+S
+#1652
+Courtyard of Vingaard Keep~
+   You stand in a corner of the courtyard, well out of the way of all those
+knights around you who are practicing their skills in the art of combat.  
+There are a few benches here where knights rest between sessions, and it
+appears as though you would not be unwelcome in sitting down there.  The walls
+here are wide and high, providing some much welcome shelter from the sun.  The
+courtyard extends north and east of you, though it will take some careful
+stepping to stay out of everyone's way.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1618
+D1
+~
+~
+0 0 1653
+D7
+~
+~
+0 0 1617
+S
+#1653
+Courtyard of Vingaard Keep~
+   You stand in the northeast courtyard of Vingaard Keep.  This area serves
+around the clock as a practice and exercise facility for the knights stationed
+at the keep.  You can see all around you the assorted knights who practice
+various skills, trying to become the best warriors they can possibly be.  Some
+are sparring one-on-one, others are practicing swordfighting against multiple
+opponents, and a few are shooting with bows and arrows at a set of targets to
+the northeast.  To the south, Vingaard Keep itself rises up, making this area
+well-shaded at most times of the day.  The courtyard spreads out in all
+directions around you.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1617
+D1
+~
+~
+0 0 1654
+D3
+~
+~
+0 0 1652
+S
+#1654
+Courtyard of Vingaard Keep~
+   You stand in a corner of the courtyard, well out of the way of all those
+knights around you who are practicing their skills in the art of combat.  
+There are a few benches here where knights rest between sessions, and it
+appears as though you would not be unwelcome in sitting down there.  The walls
+here are wide and high, providing some much welcome shelter from the sun.  The
+courtyard extends north and west of you, though it will take some careful
+stepping to avoid getting in anyone's way.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1616
+D3
+~
+~
+0 0 1653
+D6
+~
+~
+0 0 1617
+S
+#1655
+The Marketplace of Vingaard Keep~
+   The market is particularly busy here, as both buyers and sellers are eager
+to find a well-shaded place near the walls to stay out of the hot sunlight.  
+The merchants here offer all kinds of goods, everything from food to common
+household supplies, to clothing, to drinks, to nearly anything else you could
+name.  However, no weapons are sold here, as the commoners who frequent the
+marketplace would have no need of them.  They live in the protection of the
+Knights of Solamnia, and they sleep well at night knowing that.  The
+marketplace stretches out to the south and east.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1656
+D2
+~
+~
+0 0 1604
+D9
+~
+~
+0 0 1605
+S
+T 1655
+#1656
+The Marketplace of Vingaard Keep~
+   At first, Vingaard was exclusively a military outpost.  However, in recent
+years, the number of knights stationed here has grown, and so too has the
+multitude of support personnel necessary.  Some knights have brought their
+families to live here with them, and with that came a boom in population.  Now
+there are many civilians living in Vingaard Keep, and this is where they go to
+do their daily shopping.  It is an open-air market, which allows many
+out-of-town vendors to come here and set up shop, selling their goods to the
+locals before moving on.  The keep itself rises up to your north, and the
+marketplace lies in all other directions from here.    
+~
+16 0 0 0 0
+D1
+~
+~
+0 0 1657
+D2
+~
+~
+0 0 1605
+D3
+~
+~
+0 0 1655
+S
+#1657
+The Marketplace of Vingaard Keep~
+   The market is particularly busy here, as both buyers and sellers are eager
+to find a well-shaded place near the walls to stay out of the hot sunlight.  
+The merchants here offer all kinds of goods, everything from food to common
+household supplies, to clothing, to drinks, to nearly anything else you could
+name.  However, no weapons are sold here, as the commoners who frequent the
+marketplace would have no need of them.  They live in the protection of the
+Knights of Solamnia, and they sleep well at night knowing that.  The
+marketplace stretches out to the south and west from here.    
+~
+16 0 0 0 0
+D2
+~
+~
+0 0 1606
+D3
+~
+~
+0 0 1656
+D8
+~
+~
+0 0 1605
+S
+T 1657
+#1658
+The Marketplace of Vingaard Keep~
+   The market is particularly busy here, as both buyers and sellers are eager
+to find a well-shaded place near the walls to stay out of the hot sunlight.  
+The merchants here offer all kinds of goods, everything from food to common
+household supplies, to clothing, to drinks, to nearly anything else you could
+name.  However, no weapons are sold here, as the commoners who frequent the
+marketplace would have no need of them.  They live in the protection of the
+Knights of Solamnia, and they sleep well at night knowing that.  A juggler
+performs here on a small stage, and judging by the hat full of coins in front
+of him, he has been pleasing the crowds of the marketplace all day.  The
+marketplace stretches to the north and west from here.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1606
+D3
+~
+~
+0 0 1659
+D6
+~
+~
+0 0 1605
+S
+T 1658
+#1659
+The Marketplace of Vingaard Keep~
+   At first, Vingaard was exclusively a military outpost.  However, in recent
+years, the number of knights stationed here has grown, and so too has the
+multitude of support personnel necessary.  Some knights have brought their
+families to live here with them, and with that came a boom in population.  Now
+there are many civilians living in Vingaard Keep, and this is where they go to
+do their daily shopping.  It is an open-air market, which allows many
+out-of-town vendors to come here and set up shop, selling their goods to the
+locals before moving on.  The walls of the keep rise up to your south.  The
+marketplace stretches in all other directions from here.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1605
+D1
+~
+~
+0 0 1658
+D3
+~
+~
+0 0 1660
+S
+T 1659
+#1660
+The Marketplace of Vingaard Keep~
+   The market is particularly busy here, as both buyers and sellers are eager
+to find a well-shaded place near the walls to stay out of the hot sunlight.  
+The merchants here offer all kinds of goods, everything from food to common
+household supplies, to clothing, to drinks, to nearly anything else you could
+name.  However, no weapons are sold here, as the commoners who frequent the
+marketplace would have no need of them.  They live in the protection of the
+Knights of Solamnia, and they sleep well at night knowing that.  The
+marketplace stretches out to the north and east.    
+~
+16 0 0 0 0
+D0
+~
+~
+0 0 1604
+D1
+~
+~
+0 0 1659
+D7
+~
+~
+0 0 1605
+S
+T 1660
+#1661
+In the Tower~
+   This room near the top of this stone tower is round, and would be cold and
+barren if it weren't for a few rustic touches here and there.  There is a large
+bearskin rug spread out on the floor in front of a crackling fire.  There is a
+lone desk sitting against the southern wall.  There are better towers in the
+keep from which to keep an eye out, so naturally this is not a lookout tower.
+In times of war, some archers might be poised here.  This is evidenced by the
+presence of murder holes on all sides of the tower.  Currently, it is serving
+as the office of a Knight of the Sword, who sits and pores over papers.  He
+does not look happy to be here, and perhaps he irked one of his commanders to
+be assigned to desk duty.  A set of stone steps leads back down from here.    
+~
+16 8 0 0 0
+D5
+~
+~
+0 0 1608
+S
+#1662
+In the Tower~
+   This room near the top of this stone tower is round, and would be cold and
+barren if it weren't for a few rustic touches here and there.  There is a large
+bearskin rug spread out on the floor in front of a crackling fire.  There is a
+lone desk sitting against the southern wall.  There are better towers in the
+keep from which to keep an eye out, so naturally this is not a lookout tower.
+In times of war, some archers might be poised here.  This is evidenced by the
+presence of murder holes on all sides of the tower.  Currently, it is serving
+as the office of a Knight of the Sword, who sits and pores over papers.  He
+does not look happy to be here, and perhaps he irked one of his commanders to
+be assigned to desk duty.  A set of stone steps leads back down from here.    
+~
+16 8 0 0 0
+D5
+~
+~
+0 0 1614
+S
+#1663
+In the Tower~
+   This room near the top of this stone tower is round, and would be cold and
+barren if it weren't for a few rustic touches here and there.  There is a large
+bearskin rug spread out on the floor in front of a crackling fire.  There is a
+lone desk sitting against the southern wall.  There are better towers in the
+keep from which to keep an eye out, so naturally this is not a lookout tower.
+In times of war, some archers might be poised here.  This is evidenced by the
+presence of murder holes on all sides of the tower.  Currently, it is serving
+as the office of a Knight of the Sword, who sits and pores over papers.  He
+does not look happy to be here, and perhaps he irked one of his commanders to
+be assigned to desk duty.  A set of stone steps leads back down from here.    
+~
+16 8 0 0 0
+D5
+~
+~
+0 0 1626
+S
+#1664
+In the Tower~
+   This room near the top of this stone tower is round, and would be cold and
+barren if it weren't for a few rustic touches here and there.  There is a large
+bearskin rug spread out on the floor in front of a crackling fire.  There is a
+lone desk sitting against the southern wall.  There are better towers in the
+keep from which to keep an eye out, so naturally this is not a lookout tower.
+In times of war, some archers might be poised here.  This is evidenced by the
+presence of murder holes on all sides of the tower.  Currently, it is serving
+as the office of a Knight of the Sword, who sits and pores over papers.  He
+does not look happy to be here, and perhaps he irked one of his commanders to
+be assigned to desk duty.  A set of stone steps leads back down from here.    
+~
+16 8 0 0 0
+D5
+~
+~
+0 0 1631
+S
+#1665
+The Base of the Stairs~
+   The gates to the keep rise behind you.  When they close, they don't even
+admit the tiniest of breezes, let alone any unwanted visitors.  The knights
+mostly patrol the outside of the keep, coming inside to participate in
+Religious celebrations, festivals, or Knightly Councils.  You can hear precious
+few foosteps from here, which echo in the emptiness of the hallway.  The
+grandioseness of the hallway would go all but unnoticed here, as they are
+overshadowed by a magnificent set of marble steps that spiral upwards to the
+upper floors of the keep.  The hallway itself forms a "T", which the cross
+being right where you are standing.  There is faint chanting somewhere, but the
+echo makes it almost impossible to discern where it could be coming from.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1666
+D1
+~
+~
+0 0 1678
+D2
+~
+gate door~
+1 0 1602
+D3
+~
+~
+0 0 1673
+D4
+~
+~
+0 0 1707
+S
+#1666
+The Halls of Vingaard Keep~
+   This hallway stretches a ways off to the north, towards a large door.  You
+cannot really discern from here what this door looks like, or what it leads
+too, but the archetecture of this hall leads you to believe that something
+important lies beyond it.  The walls are decorated with various tapestries and
+paintings, depicting the past glories of the Knights of Solamnia.  There are
+few guards seen in this area making their rounds.  It is assumed that anyone
+dangerous would not have made it this far, and those that are not dangerous
+would be a waste of time to follow around.  You can still hear footsteps
+echoing in the hallway in the distance, so you have not been left completely
+alone.  However, being alone in such a large, echoing hallway tends to leave
+one feeling rather lonely.  There is a large curving stairway to the south.  
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1667
+D2
+~
+~
+0 0 1665
+S
+#1667
+The Halls of Vingaard Keep~
+   The wide hallway stretches north and south of you, seeming to go on for
+miles in either direction, at least, that is how the archetecture seems
+designed to make you feel.  Arches line the upper walls and support the high
+ceiling.  The walls are decorated with tapestries and paintings, depicting the
+glory of the Knighthood of Solamnia.  You are, for the most part, alone in this
+part of the keep, as few unwanted visitors ever get this far.  Footsteps die
+away to the south.  To the north a ways, a massive, decorated door can be seen.
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1668
+D2
+~
+~
+0 0 1666
+S
+#1668
+Before the Massive Doors~
+   You stand before a set of massive wooden doors.  A pair of great dragons are
+carved onto the doors, and inlaid with gold.  Up above the doors is carved the
+symbol of the Bison, which represents Kiri-Jolith.  Kiri-Jolith is the god of
+righteous warfare, and is the patron god of the Order of the Sword.  The
+hallway continues south of here, its high ceiling presenting an impressive work
+of archetecture.  Light filters in through windows up near the ceiling.  There
+are no knights present here, as most of the garrison is stationed outside of
+the keep.  The knights that are here are normally in the chapel, engaged in the
+worship of Kiri-Jolith.    
+~
+16 8 0 0 0
+D0
+   Bison.  Massive, silver-inlaid golden doors each bear the symbol of the
+Bison: The Symbol of Kiri-Jolith.    
+~
+doors massive oak~
+1 0 1669
+D2
+~
+~
+0 0 1667
+E
+plaque wooden large above up~
+The plaque above the door reads:
+&R
+
+                     The Wing of Kiri-Jolith
+
+     Enter ye weary travellers and find solace from the road.
+
+   Enter ye righteous warriors and find strength for the field.
+
+&n
+~
+S
+#1669
+The Wing of Kiri-Jolith~
+   You have entered the wing of Kiri-Jolith.  Kiri-Jolith is held in high
+regard by warriors aligned with the forces of righteousness, in particular
+those who belong to the Solamnic Order of the Sword.  This is where many Sword
+Knights spend their off-hours, engaged in the worship of he who is called the
+Sword of Justice.  At the far north end of the wing is an altar to Kiri-Jolith.
+Between you and it lie many rows of pews.  As well, there are some long tables
+with chairs sitting far off to the east and west ends of the wing.  After a few
+moments of silence, you can hear the sound of one man, nearly shouting.  His
+voice is alive with passion and fervor, and it rings out like a trumpet from
+the north.  To the south lie the doors which lead out of the wing and back into
+the main hallway.    
+~
+16 12 0 0 0
+D0
+~
+~
+0 0 1670
+D1
+~
+~
+0 0 1703
+D2
+~
+doors massive~
+1 0 1668
+D3
+~
+~
+0 0 1704
+S
+#1670
+Among the Pews~
+   You stand in the midst of rows and rows of oak pews.  Some knights sit or
+kneel all around you, listening to the words of the cleric.  At the front of
+the congregation, to the north, a man in clerical robes delivers a firey sermon
+to the listeners.  Even those knights not here for worship, standing by the
+east and west walls, stand and listen to every word the cleric says.  The aisle
+you are in continues north and south, though there are smaller aisles that go
+off in all directions from here.  To the north lies the altar of Kiri-Jolith.
+  
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1671
+D1
+~
+~
+0 0 1699
+D2
+~
+~
+0 0 1669
+D3
+~
+~
+0 0 1700
+D6
+~
+~
+0 0 1701
+D7
+~
+~
+0 0 1702
+D8
+~
+~
+0 0 1704
+D9
+~
+~
+0 0 1703
+S
+#1671
+Approaching the Altar~
+   You stand in the midst of rows and rows of oak pews.  Some knights sit or
+kneel all around you, listening to the words of the cleric.  At the front of
+the congregation, to the north, a man in clerical robes delivers a firey sermon
+to the listeners.  Even those knights not here for worship, standing by the
+east and west walls, stand and listen to every word the cleric says.  The aisle
+you are in continues north and south.  Directly to the north is the altar of
+Kiri-Jolith, where the cleric delivers his sermon.  To the east and west, there
+are spaces near the pews where some knights stand.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1672
+D1
+~
+~
+0 0 1702
+D2
+~
+~
+0 0 1670
+D3
+~
+~
+0 0 1701
+S
+#1672
+The Altar of Kiri-Jolith~
+   You are now standing directly in front of the altar of Kiri-Jolith.  A
+large, well-built man stands here, dressed in robes that indicate he is the
+ranking cleric of Kiri-Jolith present.  He gesticulates wildly with his hands,
+delivering his sermon with passion and fervor.  He is a very charismatic
+speaker, and many of the knights present remain respectfully silent as he
+talks.  The walls here are made of stone, and rise up perhaps twenty feet to a
+domed ceiling.  There are stained-glass windows near the top of the walls that
+let in the daylight, giving the area a worshipful aura.  There is also the
+smell of incense coming from two censers nearby.  To the south, the Knights are
+gathered, listening to every word of the cleric, who seems unmoved by your
+presence.    
+~
+16 8 0 0 0
+D2
+~
+~
+0 0 1671
+S
+#1673
+Before the Massive Doors~
+   You stand before a set of massive wooden doors.  A pair of great dragons are
+carved on the doors and inlaid with copper.  Up above the doors is carved the
+symbol of a Kingfisher, which represents Habbakuk, patron god of the Knights of
+the Crown.  The hallway continues east from here, towards a huge marble
+staircase that climbs up.  Light filters in through windows up near the
+ceiling.  The high ceiling has the effect of making those who stand here feel
+rather small.  There are few if any knights present here, as most of the
+garrison is stationed outside of the keep.  The knights that are here are
+normally in the chapel, engaged in the worship of Habbakuk.    
+~
+16 8 0 0 0
+D1
+~
+~
+0 0 1665
+D3
+~
+door~
+1 0 1674
+S
+#1674
+The Wing of Habbakuk~
+   You have entered the wing of Habbakuk.  Habbakuk is most revered by the
+Knights of the Crown, as well as the god of the heights and depths, those
+creatures that fly above the ground or swim in the depths of the sea.  This is
+where many Crown Knights spend much of their off-hours.  At the far west end of
+the wing is an altar to Habbakuk.  Between you and it lie many rows of pews.  
+As well, some long tables with chairs sit far off to the north and south ends
+of the wing.  There is a quiet murmur throughout the hall which indicates that
+you are far from alone here.  The entire place has been decorated in subtle
+ways to reflect the nature of the god worshipped herein.  Wherever you look you
+can see relief carvings of birds and fish along many of the surfaces here.  
+The doors east lead back out into the main hallway.    
+~
+16 12 0 0 0
+D0
+~
+~
+0 0 1694
+D1
+~
+door~
+1 0 1673
+D2
+~
+~
+0 0 1695
+D3
+~
+door massive doors~
+1 0 1675
+S
+#1675
+The Central Aisle~
+   The west wing of Vingaard keep is dedicated to the worship of Habbakuk.  
+Knights of the Crown are all around you, conversing with one another as you
+pass by.  Mass has not yet begun, though preparations are well underway.  You
+stand between two rows of pews, to your north and south.  In this aisle, you
+see a large basin filled with holy water, used in the blessings the priests
+here give to the knights.  To the west, you can see the ranking priest of
+Habbakuk, preparing the day's mass for the knights.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1691
+D1
+~
+door massive doors~
+1 0 1674
+D2
+~
+~
+0 0 1692
+D3
+~
+~
+0 0 1676
+D7
+~
+~
+0 0 1694
+D9
+~
+~
+0 0 1695
+S
+#1676
+Approaching the Altar~
+   You are standing in the space before the altar of Habbakuk.  To the west, a
+lone priest prepares the daily mass for the Knights who are just now starting
+to assemble in the chapel.  To your north and south, the stone walls are
+punctuated by stained-glass windows, mostly blue and green in colour.  They
+allow the sun to stream in, filling the area with a soft, blue light.  The
+carpet upon the floor continues east, through the rows of pews, and west, right
+up to the altar.    
+~
+16 8 0 0 0
+D1
+~
+~
+0 0 1675
+D3
+~
+~
+0 0 1677
+S
+#1677
+Before the Altar of Habbakuk~
+   You stand before an altar to Habbakuk.  The altar itself is draped with
+sea-green cloth.  Sitting upon the altar are a pair of brass candelabras and a
+chalice.  A priest is here, conducting daily mass.  He busily moves about,
+performing the intricate rituals that constitute the service.  The walls here
+appear to be made of marble, and are carved with relief sculptures of sea and
+air creatures swimming and flying about.  The stained glass windows up above
+you are largely blue and green in colour, and fill the area with a soft glow.
+To the east, the knights are gathering for the mass among the various pews.  
+Up above, you see a domed ceiling, painted with more creatures of air and sea.
+It is a stunning effect.    
+~
+16 12 0 0 0
+D1
+~
+~
+0 0 1676
+S
+#1678
+Before the Massive Doors~
+   You stand before a set of massive wooden doors.  A pair of great dragons are
+carved on the doors and inlaid with shining silver.  Up above the doors is
+carved the symbol of The Platinum Dragon, which represents Paladine.  Paladine
+is the patron god of the Order of the Rose, and the King of the gods of good.
+The hallway continues west of here, towards a huge marble staircase leading
+upwards.  Light filters in through windows up near the ceiling.  The high
+ceiling has the effect of making those who stand here feel rather small.  
+There are few if any knights present here, as most of the garrison are
+stationed outside of the keep.  The knights that are here are normally in the
+chapel, engaged in the worship of Paladine.    
+~
+16 8 0 0 0
+D1
+~
+door massive~
+1 0 1679
+D3
+~
+~
+0 0 1665
+S
+#1679
+The Wing of Paladine~
+   You have entered the wing of Paladine.  Paladine is the most revered of the
+gods of good, particularly amongst the honoured Knights of the Rose.  This is
+where many Rose Knights spend much of their off-hours.  At the far east end of
+the wing is an altar to Paladine.  Between you and it lie many rows of pews, as
+well as a few tables with many chairs off to the north and south.  The sound of
+quiet chanting can be heard, which gives the whole area a very relaxing,
+meditative feeling.  The large door that exits the wing lies to your west,
+through a large stone archway.    
+~
+16 12 0 0 0
+D0
+~
+~
+0 0 1685
+D1
+~
+~
+0 0 1680
+D2
+~
+~
+0 0 1686
+D3
+~
+door massive~
+1 0 1678
+D7
+~
+~
+0 0 1684
+S
+#1680
+The Central Aisle~
+   Knights have begun lining up here, and proceed in an orderly and deliberate
+fashion towards the altar to the east.  It has become something of a ceremony
+that every week, Knights of the Rose of every rank come here and one by one
+give their tithe before receiving a blessing from the priest.  Many of the
+knights are older ranking officers, though you do see the odd young face in the
+crowd.  The stained-glass windows cast the entire area in a soft light.  Below
+your feet is a rich red carpet which goes east and west of here.  To the north
+and to the south are rows of pews.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1684
+D1
+~
+~
+0 0 1681
+D2
+~
+~
+0 0 1687
+D3
+~
+~
+0 0 1679
+D6
+~
+~
+0 0 1685
+D7
+~
+~
+0 0 1683
+D8
+~
+~
+0 0 1686
+D9
+~
+~
+0 0 1688
+S
+#1681
+The Central Aisle~
+   You stand between two rows of pews in the Wing of Paladine.  Here there is a
+great stone basin filled with holy water that the priests use for blessing the
+Knights.  Every day here, a service is held.  Almost every Rose Knight in the
+keep attends, not so much out of obligation as out of devotion.  There is a
+soft red carpet beneath your feet that spreads west and east of here.  There
+are a few Knights already beginning to line up before the altar, ready to tithe
+and receive a blessing from the priest of Paladine.  The stained-glass windows
+fill the area with a soft light.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1683
+D1
+~
+~
+0 0 1682
+D2
+~
+~
+0 0 1688
+D3
+~
+~
+0 0 1680
+D8
+~
+~
+0 0 1687
+S
+#1682
+The Altar of Paladine~
+   You stand before the altar dedicated to the god, Paladine.  A lone priest
+stands here, leading the knights in prayer.  It is here that the Knights of the
+Rose come to pay tribute.  There are marble columns to either side of the altar
+that climb up to the ceiling.  To the east hangs a large tapestry.  Each of the
+walls to the north and south have a stained-glass window in them.  These
+windows each depict the symbol of Paladine: the platinum dragon.  To the west,
+some Rose Knights are beginning to line up to offer their weekly tithes.  The
+sound of chanting fills the air with a sweet, melodic sound.    
+~
+16 8 0 0 0
+D3
+~
+~
+0 0 1681
+S
+#1683
+The Wing of Paladine~
+   You stand not far from the altar which dominates the east side of the wing.
+To your immediate east, there are high stone walls.  Near the tops of them are
+stained-glass windows which allow a soft light to filter through into the
+chapel.  The ceiling is high and arched, supported by curved wooden beams.  
+The floor is made of stone, but has been swept clean and smooth under your
+feet.  Looking to the west from here, you can see rows of pews, some of which
+contain Knights, their heads bowed in prayer.  There is a slight murmur as some
+Knights of the Rose begin lining up to pay their weekly tithes and receive
+blessings.  The line begins forming to the west.    
+~
+16 8 0 0 0
+D2
+~
+~
+0 0 1681
+D3
+~
+~
+0 0 1684
+D6
+~
+~
+0 0 1690
+D8
+~
+~
+0 0 1680
+S
+#1684
+Among the Pews~
+   You stand in the midst of the rows of pews in the Wing of Paladine.  Though
+they are currently mostly empty, soon it will not be so.  Already many knights
+of the Rose have begun gathering here for the service that is about to
+commence.  To the south, the central aisle of the chapel moves east and west.
+A ways to the east, you can see a lone cleric of Paladine preparing the mass
+that is about to be conducted.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1690
+D1
+~
+~
+0 0 1683
+D2
+~
+~
+0 0 1680
+D3
+~
+~
+0 0 1685
+D8
+~
+~
+0 0 1679
+S
+#1685
+Among the Pews~
+   You stand in the midst of the rows of pews in the Wing of Paladine.  Though
+they are currently mostly empty, soon it will not be so.  Already many knights
+of the Rose have begun gathering here for the service that is about to
+commence.  To the south, the central aisle of the chapel moves east and west.
+A ways to the east, you can see a lone cleric of Paladine preparing the mass
+that is about to be conducted.    
+~
+16 8 0 0 0
+D1
+~
+~
+0 0 1684
+D2
+~
+~
+0 0 1679
+D7
+~
+~
+0 0 1690
+D9
+~
+~
+0 0 1680
+S
+#1686
+Among the Pews~
+   You stand in the midst of the rows of pews in the Wing of Paladine.  Though
+they are currently mostly empty, soon it will not be so.  Already many knights
+of the Rose have begun gathering here for the service that is about to
+commence.  To the north, the central aisle of the chapel moves east and west.
+The central aisle is lined with a thick red carpet.  The floor where you are
+standing is made of stone which is clean and smooth.  A ways to the east, you
+can see a lone cleric of Paladine preparing the mass that is about to be
+conducted.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1679
+D1
+~
+~
+0 0 1687
+D7
+~
+~
+0 0 1680
+D9
+~
+~
+0 0 1689
+S
+#1687
+Among the Pews~
+   You stand in the midst of the rows of pews in the Wing of Paladine.  Though
+they are currently mostly empty, soon it will not be so.  Already many knights
+of the Rose have begun gathering here for the service that is about to
+commence.  To the north, the central aisle of the chapel moves east and west.
+The central aisle is lined with a thick red carpet.  The floor where you are
+standing is made of stone which is clean and smooth.  A ways to the east, you
+can see a lone cleric of Paladine preparing the mass that is about to be
+conducted.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1680
+D1
+~
+~
+0 0 1688
+D2
+~
+~
+0 0 1689
+D3
+~
+~
+0 0 1686
+D7
+~
+~
+0 0 1681
+S
+#1688
+The Wing of Paladine~
+   You stand not far from the altar which dominates the east side of the wing.
+To your immediate east, there are high stone walls.  Near the tops of them are
+stained-glass windows which allow a soft light to filter through into the
+chapel.  The ceiling is high and arched, supported by curved wooden beams.  
+The floor is made of stone, but has been swept clean and smooth under your
+feet.  Looking to the west from here, you can see rows of pews, some of which
+contain Knights, their heads bowed in prayer.  There is a slight murmur as some
+Knights of the Rose begin lining up to pay their weekly tithes and receive
+blessings.  The line begins forming to the west.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1681
+D3
+~
+~
+0 0 1687
+D6
+~
+~
+0 0 1680
+D8
+~
+~
+0 0 1689
+S
+#1689
+The Wing of Paladine~
+   You stand at the far southern corner of the wing of Paladine.  There are a
+number of tables here, with chairs arrayed around them.  A ways up on the wall
+to the north is a stained-glass window which sheds a warm light upon the area.
+The smell of incense is in the air.  A few knights mill about, preparing for
+daily mass.  Some of them are discussing their achievements during the week,
+and anticipating making their tithes and receiving their blessings.  To your
+north, you can see rows and rows of pews, many of which are occupied by the
+knights gathering here.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1687
+D6
+~
+~
+0 0 1686
+D7
+~
+~
+0 0 1688
+S
+#1690
+The Wing of Paladine~
+   You stand at the northern end of the Wing of Paladine.  There are a number
+of tables here, with chairs arrayed around them.  A ways up on the wall to the
+north is a stained-glass window which sheds a warm light upon the area.  The
+smell of incense is in the air.  A few knights mill about, preparing for daily
+mass.  Some of them are discussing their achievements during the week, and
+anticipating making their tithes and receiving their blessings.  To your south,
+you see rows of pews, and more knights milling about.    
+~
+16 8 0 0 0
+D2
+~
+~
+0 0 1684
+D8
+~
+~
+0 0 1685
+D9
+~
+~
+0 0 1683
+S
+#1691
+Among the Pews~
+   You stand amidst the pews that fill the chapel of Habbakuk.  Around you,
+knights have begun to file into the chapel for the daily mass.  They do not
+appear to be inconvenienced or bored, instead, they are coming in with smiles
+on their faces, ready to engage in their daily worship of the Fisher King.  
+The pews are made of soft pine, and are light in colour.  Each of them are
+marked on both ends with the symbol of the Kingfisher.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1697
+D1
+~
+~
+0 0 1694
+D2
+~
+~
+0 0 1675
+D3
+~
+~
+0 0 1693
+S
+#1692
+Among the Pews~
+   You stand amidst the pews that fill the chapel of Habbakuk.  Around you,
+knights have begun to file into the chapel for the daily mass.  They do not
+appear to be inconvenienced or bored, instead, they are coming in with smiles
+on their faces, ready to engage in their daily worship of the Fisher King.  
+The pews are made of soft pine, and are light in colour.  Each of them are
+marked on both ends with the symbol of the Kingfisher.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1675
+D1
+~
+~
+0 0 1695
+D2
+~
+~
+0 0 1698
+D3
+~
+~
+0 0 1696
+S
+#1693
+A Quiet Alcove~
+   This is a quiet corner of the chapel of Habbakuk.  There are a trio of
+chairs here which would appear to be a place where priests may converse in
+peace with the knights who come to them.  The area is shadowy, but rather than
+a sense of dread, a sense of immense calm prevails here.  Around you, you can
+hear the sounds of knights beginning to gather in the chapel for the service,
+but here the commotion is muffled by clever archetecture, which allows you for
+a few moments to be alone with your thoughts.  After a moment, a lone knight of
+the crown approaches you, concern in his eyes.    
+~
+16 8 0 0 0
+D1
+~
+~
+0 0 1691
+D7
+~
+~
+0 0 1697
+S
+#1694
+The Wing of Habbakuk~
+   You stand in a corner of the west wing of Vingaard Keep.  This side of the
+fortress has been dedicated to Habbakuk.  Knights of the Crown mill about,
+waiting for the daily service to begin.  To the west, you can see rows of pews
+that will soon be filled with knights.  To the east, there is a stone column
+that supports the roof and the floors above.  Nearby is the exit that leads out
+into the main Hallway of Vingaard keep.  There is a soft blue light that shines
+in through stained glass windows to the north, south, and west.    
+~
+16 8 0 0 0
+D2
+~
+~
+0 0 1674
+D3
+~
+~
+0 0 1691
+D6
+~
+~
+0 0 1697
+D8
+~
+~
+0 0 1675
+S
+#1695
+The Wing of Habbakuk~
+   You stand in a corner of the west wing of Vingaard Keep.  This side of the
+fortress has been dedicated to Habbakuk.  Knights of the Crown mill about,
+waiting for the daily service to begin.  To the west, you can see rows of pews
+that will soon be filled with knights.  To the east, there is a stone column
+that supports the roof and the floors above.  Nearby is the exit that leads out
+into the main Hallway of Vingaard keep.  There is a soft blue light that shines
+in through stained glass windows to the north, south, and west.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1674
+D3
+~
+~
+0 0 1692
+D6
+~
+~
+0 0 1675
+D8
+~
+~
+0 0 1698
+S
+#1696
+The Wing of Habbakuk~
+   This is a quiet corner of the chapel of Habbakuk.  There are a trio of
+chairs here which would appear to be a place where priests may converse in
+peace with the knights who come to them.  The area is shadowy, but rather than
+a sense of dread, a sense of immense calm prevails here.  Around you, you can
+hear the sounds of knights beginning to gather in the chapel for the service,
+but here the commotion is muffled by clever archetecture, which allows you for
+a few moments to be alone with your thoughts.  After a moment, a knight comes
+around the corner, looking concerned.    
+~
+16 8 0 0 0
+D1
+~
+~
+0 0 1692
+D9
+~
+~
+0 0 1698
+S
+#1697
+The Wing of Habbakuk~
+   You stand near the north wall of the Wing of Habbakuk.  There is a tapestry
+hanging upon the wall here.  There are a few benches here which allow one to
+sit seperately from the knights who are beginning to fill the pews to the
+south.  Up above, light streams in through a blue stained-glass window, filling
+the area with a soft, blue light.  The scent of incense burning is
+intoxicating.  The walls around you are stone, but the odd stone bears a
+carving of a Kingfisher, the symbol of Habbakuk to whom this chapel belongs.  
+The chapel opens up to the south.    
+~
+16 8 0 0 0
+D2
+~
+~
+0 0 1691
+D8
+~
+~
+0 0 1693
+D9
+~
+~
+0 0 1694
+S
+#1698
+The Wing of Habbakuk~
+   You stand near the south wall of the Wing of Habbakuk.  There is a tapestry
+hanging upon the wall here.  There are a few benches here which allow one to
+sit seperately from the knights who are even now beginning to file into the
+chapel, sitting in the pews to the north.  Up above, light streams in through a
+blue stained-glass window, filling the area with a soft, blue light.  The scent
+of incense burning is intoxicating.  The walls around you are stone, but the
+odd stone bears a carving of a Kingfisher, the symbol of Habbakuk to whom this
+chapel belongs.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1692
+D6
+~
+~
+0 0 1696
+D7
+~
+~
+0 0 1695
+S
+#1699
+The Wing of Kiri-Jolith~
+   You walk between pews, occasionally having yo sidestep around a knight
+kneeling reverently in prayer as he listens to the cleric's sermon.  The floor
+is carpeted, so your footfalls can be nearly silent.  There is a row of columns
+which are spaced regularly, lined north to south along the central aisle.  To
+the east, you can see a few knights standing at a table, discussing something
+quietly amongst themselves.  To the west is the central aisle of the chapel.  
+Light streams in through stained-glass windows.  There are more pews to the
+north and south.  A lone knight kneeling in prayer looks up at you silently,
+then returns to his prayers.    
+~
+16 8 0 0 0
+D0
+~
+~
+0 0 1702
+D1
+~
+~
+0 0 1705
+D2
+~
+~
+0 0 1703
+D3
+~
+~
+0 0 1670
+S
+$~

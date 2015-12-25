@@ -1,0 +1,30 @@
+#3800
+golem marble azure~
+the azure golem~
+A gargantuan being of azure marble hulks above you.
+~
+    A head taller than anyone in the room and twice as wide, marble golems 
+are a rarity on their own right. Yet the azure golems are but wisps of 
+legends told over campfires in the winter chill. Chisled muscles ripple
+trunklike limbs. Three fingered hands hang by its sides like marble
+bludgeons. Deepset eyes starely intelligently at you.
+~
+1052680 0 0 0 E
+25 10 0 1d1+800 15d2+3
+0 0 0
+8 8 0 0
+BareHandAttack: 9
+E
+#3801
+booboo~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+1 1d1+0
+0 100000 0
+8 8 0 0
+E
+$

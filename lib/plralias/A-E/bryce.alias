@@ -1,0 +1,75 @@
+5
+cloak
+23
+remove cloak;wear cloak
+1
+1
+0
+11
+track tyrin
+0
+4
+back
+99
+remove rapier;remove damascus;wield damascus;backstab $*;remove damascus;wield rapier;hold damascus
+1
+5
+invis
+37
+remove pelt;get cloak wind;wear cloak
+1
+1
+2
+13
+assist sollas
+0
+9
+disguises
+49
+bard, beggar, courier, cleric, knight, mage, monk
+0
+1
+1
+10
+assist fel
+0
+4
+chat
+11
+chat &y$*&n
+1
+1
+4
+38
+remove rapier;unsheath damascus sheath
+1
+1
+5
+35
+sheath damascus sheath;wield rapier
+1
+1
+3
+14
+assist felicia
+0
+4
+path
+21
+n;n;n;e;e;s;e;e;n;w;w
+1
+4
+moss
+68
+remove stone;hold moss;use moss $*;remove moss;drop moss;hold dagger
+1
+1
+9
+13
+track Lyndara
+0
+3
+gac
+14
+get all corpse
+0

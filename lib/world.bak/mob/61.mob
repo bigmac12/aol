@@ -1,0 +1,47 @@
+#6100
+delete me~
+delete me~
+delete me
+~
+delete me
+~
+8 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 0
+8 8 0 0
+E
+#6131
+novice~
+a novice~
+A novice wanders the area, apparently deep in thought.
+~
+   This novice wanders the area not really caring where her feet take her.  
+Lost in her thoughts, it's a wonder that she doesn't walk into a wall or even
+other people for that matter.  What may be distracting her so is only known to
+herself, and until she has figured it out it is doubtful that her wandering
+will cease anytime soon.    
+~
+524296 1032 3 850 E
+16 11 0 3d20+320 3d6+4
+500 11000 1
+8 8 2 0
+BareHandAttack: 14
+E
+#6139
+novice young~
+a young novice~
+A young novice wanders the area here, going about his business.
+~
+   This novice wanders the area, seeming to enjoy his surroundings.  He doesn't
+appear to be doing anything in particular, though you never know with a mage.
+He is dressed in a set of simple novice's robes, and carries the basic primer
+given to most young initiates of magic.  Were it not for his clothing, he might
+look like any ordinary young man going about his daily business.    
+~
+524296 1032 11 -850 E
+16 11 0 3d20+320 3d6+4
+500 11000 1
+8 8 1 0
+BareHandAttack: 14
+E
+$

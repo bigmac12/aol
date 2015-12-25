@@ -1,0 +1,762 @@
+#10100
+Zhan-xung Zhan xung mage~
+Zhan-Xung the mage~
+Zhan-Xung the mage stands here inspecting a magical scroll.
+~
+   Zhan-Xung is a man of immeasureable years, wearing a long moustache, an
+unreadable face, and a thin layer of dust upon his red robes.  He remains
+almost completely motionless, but then when you enter, he is suddenly holding a
+spellbook.  You quickly decide that he must have pulled it out of thin air,
+rather than accept that this ancient man could have moved to the shelf, gotten
+the book, and returned so quickly.    
+~
+8118363 33685504 49 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 1
+8 8 1 2
+BareHandAttack: 12
+Maxmove: 50
+E
+T 13508
+T 13509
+#10101
+korvan thief thieving cook shopkeeper~
+the thieves guild cook~
+Korvan, a thieving cook is busy preparing some dish.
+~
+   The cook is wearing a cheap white apron over a solid black set of tunic and
+leggings.  His hands and face are smeared with flour, sugar and some other
+unknown substance.    
+~
+57359 262144 0 0 E
+30 1 -14 3d33+1700 4d8+9
+10000 250000 4
+8 8 1 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#10102
+Tertius trainer kalaman~
+Tertius~
+Tertius, the trainer of the Thieve's Guild in Kalaman, stands here.
+~
+   Tertius is the trainer, as well as the head of the Thieve's Guild here in
+Kalaman.  He is dark skinned, and fairly muscular; perhaps Ergothian in
+background.  He is dressed in light, airy clothing of dark colors, and several
+daggers can be seen sheathed about his body.  He stands here quietly,
+practicing moves and waiting to instruct any newcomers.    
+~
+254043 1032 0 0 E
+31 0 -15 3d33+9999 4d8+10
+10000 300000 4
+8 8 1 2
+BareHandAttack: 14
+Maxmove: 50
+E
+T 10110
+#10103
+Erven carok jewelry dealer shopkeep shopkeeper~
+Erven, the jewelry dealer~
+Erven squints as he appraises the quality of a very small diamond.
+~
+   Erven is a wrinkled, bald old man in the autumn of his years.  His face is
+covered with a long beard, and many wrinkles, particularly around his eye.  He
+has spent years squinting through a jeweller's glass at jewelry, and it is
+quite apparent when one looks into his eyes.  He wears rather fine clothing
+that hangs loosely off his emaciated frame.    
+~
+7594079 0 0 0 E
+31 0 -15 3d33+2000 4d8+20
+1000000 300000 0
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#10104
+Pender Brightblade Eblis~
+Pender Brightblade~
+Pender Brightblade stands here solemnly.
+~
+   Pender Brightblade was a fine knight in his time.  When he became too old to
+regularly patrol his routes, he retired with honours from the knighthood.  
+After the death of his father, he took up this dwelling, in his family for the
+past four hundred years, and took over the family trade of teaching new
+warriors the ways of battle, and honour.  Pictures and arms representative of
+his ancestors line the walls and sit upon shelves, and he takes care of each
+and every one, honouring his family.    
+~
+254041 4096 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 2
+BareHandAttack: 10
+Maxmove: 50
+E
+#10105
+Vendikar Ven Ledborgian Led armor dealer keeper shopkeep shopkeeper~
+Vendikar, the armor dealer~
+Vendikar, the armor dealer, casually looks up at your approach.
+~
+   Vendikar took over this shop ten years ago as it was on the verge of
+bankruptcy.  With a small investment, Vendikar came to rely on his ingenuity
+and talent at crafting armor and brought the shop back to respectability.  His
+face is clean-shaven, and even his apron is kept rather clean.  He crafts most
+of the armor in a small stone building to the west, and has a reputation as a
+fine, honest armorer.    
+~
+3399707 0 0 0 E
+31 0 -15 3d33+5000 25d1+10
+1000000 300000 0
+8 8 1 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#10106
+guerin bartender barkeep barkeeper~
+Guerin, the bartender~
+Guerin, the Dragon's Head Tavern bartender, pours drinks here.
+~
+   A strong young man, the bartender is wearing a dark brown apron covered with
+stains over his street clothing.  You would probably prefer not to tangle with
+him.    
+~
+253978 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1000000 300000 0
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#10107
+Edmund river riverquist dragonbane dealer shopkeep shopkeeper~
+Edmund Dragonbane~
+Edmund Dragonbane sits at his desk, going over some documents.
+~
+   Edmund, a portly man, sits at his desk, ready to assist you with your
+purchase.  His clothing is rich in design, red velvet with gold buttons up the
+front.  Black hairs, finely combed, make up a beard and moustache that decorate
+his lower face.  He grins widely as you enter his place of business, always
+willing to be of assistance.    
+~
+254047 4104 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1000000 300000 0
+6 6 1 0
+BareHandAttack: 14
+Maxmove: 50
+E
+#10108
+squire Strave~
+the Squire~
+Squire Strave polishes a breastplate.
+~
+   The young Squire is dressed in hose and doublet.  His clothes are expensive
+but not flamboyant.  The young nobles job is to keep the armory in order and
+attend to the Knight's needs.  Strave enthusiastically polishes a breastplate
+that already gleams brightly.    
+~
+1302554 40 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1000000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#10109
+cook~
+a cook~
+A cook is busy preparing meals for the Knights.
+~
+   The cook is wearing a white apron and she is busy preparing the meals for
+the Knights garrisoned here.  Her hair is tied up into a neat bun and she works
+in an efficient manner.    
+~
+3399706 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000 1 0
+8 8 2 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#10110
+messenger runner squire~
+the Squire~
+A young squire waits here to act as a messenger runner.
+~
+   The Squire is dressed in a tabard with the orders heraldic symbol
+embroidered on it.  His duties today are to deliver mail to and from the
+Knights.  He stands proudly to attention awaiting his next task.    
+~
+1065050 33554472 0 0 E
+15 11 1 5d10+300 2d8+4
+0 1 3
+8 8 1 1
+BareHandAttack: 13
+Maxmove: 50
+E
+#10111
+knight crown Maerla~
+a female Knight~
+Maerla, a Knight of the Crown organizes where everyone will sleep.
+~
+   Hard to believe that this beautiful woman is a toughened veteran of many
+campaigns.  Resplendent in gleaming armor, her beauty is only marred by her
+stern visage.  Maerla works hard to create order out of the chaos of troop
+movements and billeting.    
+~
+3399770 33554472 0 0 E
+31 18 12 1d5+45 1d8+1
+10 50 0
+8 8 2 3
+BareHandAttack: 4
+Maxmove: 50
+E
+#10112
+guard knight~
+a Knight~
+A young Knight guards the entrance to the garrison.
+~
+   While rather young in appearance, this man's eyes speak of years of soldiery
+and shine with a deep pride in the things he has accomplished.  Clad in armor
+bearing the symbol of the kingfisher, known as the mark of the Order of the
+Crown, this knight has likely been dispatched from Vingaard Keep in order to
+help maintain law and order here in Kalaman.  At the sound of commotion his
+quick, sharp eyes scan the vicinity even as his hand drops to the pommel of the
+blade at his side.    
+~
+15988810 33554488 0 500 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 3
+8 8 1 0
+Maxmove: 50
+E
+T 10119
+#10113
+Gillian Gill Gil Horus Barmaid barkeep barkeeper~
+Gillian, the barmaid~
+Gillian, barmaid of the Dripping Dagger, carries a tray of mugs from table to table.
+~
+   Gillian is a very attractive woman, a mix of great beauty, and warm-hearted
+hospitality.  She flounces around the bar, serving almost all of the customers
+personally.  Her winning smile and friendly demeanor often garner her large
+tips.  She dresses in a manner that would be considered by some to be immodest,
+but there can be no denying; she does have the body to wear it.    
+~
+3399690 33685504 0 0 E
+31 0 -15 3d33+5000 25d1+10
+1000000 300000 0
+8 8 2 0
+Maxmove: 50
+E
+#10114
+cook~
+a cook~
+A cook from the Dripping Dagger Inn is fixing one of the Inn's specialties.
+~
+   The cook is an elderly man, and has been preparing meals here for decades.
+As such, he is an expert at cooking all of the dishes served at the Dripping
+Dagger Inn.  When you approach him, you note an odd odour: that of some
+unidentifiable but strong liquor.  His stance is unsteady, and his eyes are
+bloodshot.  He is currently at work, but nowhere near as sober as the
+proverbial Priest on Paladine Day.    
+~
+10 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#10115
+mercenary fighter adventurer~
+a mercenary~
+A mercenary relaxes here at the Inn.
+~
+   This mercenary has been hardened by years of fighting in massive wars
+amongst great armies.    
+~
+72 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 3
+8 8 1 0
+Maxmove: 50
+E
+#10116
+belmonder thamor cleaver butcher~
+Thamor Belmonder~
+Thamor Belmonder stands here packing fresh meat.
+~
+   Thamor "Cleaver" Belmonder, is a burly, hearty man with a strong stomach and
+a good eye for meat.  The people of Kalaman love his shop, and he is by far the
+most popular butcher in the city.    
+~
+253978 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1000000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#10117
+Sven randor weaponsmith shopkeep shopkeeper~
+Sven the weaponsmith~
+Sven the weaponsmith stands here, straightening out his display cases.
+~
+   Sven moved here a short while ago from the far south, near Tarsis.  As a
+result, his common is not as good as one would expect of a native of Solamnia,
+but he does try.  He was apprentice to the old weaponsmith, but when he
+retired, Sven took over the entire business.  The quality of his weapons is
+rather fine.  Rumour has it that he knows the lost art of forging the
+frostreaver, though he will neither confirm nor deny this.    
+~
+3399771 0 0 0 E
+31 0 -15 3d33+5000 25d1+10
+1000000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#10118
+Sal pepe fat jolly grocer shopkeep shopkeeper~
+Sal, the grocer~
+Sal, a fat, jolly grocer, stands here smiling broadly.
+~
+   Sal is an incredible sight to see.  He is not overly tall, but is nearly as
+wide.  Most estimate his weight at somewhere near five hundred pounds.  He is a
+happy gentleman, who always wears a clean, white apron.  His cherubic face has
+rosy cheeks, and a thick black moustache.  His hair is as well-oiled as a fine
+set of armor.    
+~
+3399771 0 0 0 E
+31 0 -15 3d33+5000 25d1+10
+1000000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#10119
+Daenar daen dae orlena teller bank vault keeper~
+Daenar, the Vault Keeper~
+Daenar stands here, a large key hanging from a chain on his neck.
+~
+   A number of years back, a robbery was pulled at the Kalaman Vault.  As such,
+there is much higher security here these days.  Daenar is a former city guard
+with some basic skill at mathematics who gladly accepted the posting here.  
+Occasionally he makes a mistake in the accounts, but he does an excellent job
+at keeping the money where it is supposed to be, and out of the hands of
+ne'er-do-wells.
+~
+7594011 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000 300000 0
+8 8 1 4
+Maxmove: 50
+E
+#10120
+Barrett owner shop keeper Leo~
+Barrett, the shop keeper~
+Barrett stands sternly, glaring at all who enter his store.
+~
+   Barrett is a large bear of a man who looks rather out of place in this small
+store.  He seems more the type that would be out fighting in wars or sailing on
+the waves, and that, actually, is not far from the truth.  Barrett, before he
+settled down and bought this store, was a sailor by trade, who ran shipments
+from Karthay to Istar to Palanthas and back.  His hair is greying at the
+temples in a dignified manner.    
+~
+3399706 0 0 0 E
+31 0 -15 3d33+5000 25d1+10
+1000000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#10121
+Galaralas gal maerados clothing shopkeep shopkeeper~
+Galaralas~
+Galaralas the clothing store owner turns up his nose at your approach.
+~
+   Galaralas is something of a strange man.  His limp-wristed manner and
+high-pitched voice have made him the butt of jokes on numerous occasions.  
+However, his flamboyant fashions and superb eye for what looks good have made
+him very popular with his clientele.  His face is handsome, but rather
+aloof-looking, and he never really looks at people.  He looks at what they are
+wearing.  Usually, he has some sort of acerbic remark on the tip of his tongue.
+  
+~
+3399770 0 0 0 E
+31 0 -15 3d33+5000 25d1+10
+100000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#10122
+guard captain~
+the captain of the guard~
+The Captain of the City Guard casually watches your every move.
+~
+   This man has been in charge of protecting the city from all disturbances,
+internal and external, for more than a decade now.  He is certainly quite
+skilled at what he does, as well as being a superb fighter.    
+~
+3399706 128 0 0 E
+29 0 -13 3d33+3300 30d1+9
+40332 213000 3
+8 8 1 0
+Maxmove: 50
+E
+T 10106
+#10123
+sailor retired~
+a retired sailor~
+A retired sailor relaxes here.
+~
+   This sailor has been to nearly every port city on Ansalon, but that was long
+ago, more than a decade.  Now he spends his time relaxing in his small, but
+comfortable home here in Kalaman.    
+~
+10 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 3
+8 8 1 0
+Maxmove: 50
+E
+#10124
+guard gate north~
+a gate guard~
+A gate guard eyes you suspiciously.
+~
+   The gate guards of Kalaman are the best of the city guards, chosen to be the
+first line of defense between the city and the outside world.  An elite group
+of nine guards, they work in eight hour shifts, one guarding each of the three
+city gates.    
+~
+3203082 0 0 0 E
+28 2 -12 3d33+1250 4d7+9
+1700 175000 3
+8 8 1 0
+Maxmove: 50
+E
+#10125
+Stanley innkeeper keeper innkeep stella sten stan~
+Stanley, the innkeeper~
+Stanley, a balding man with a thick beard, works as keeper of the Kalaman Inn.
+~
+   This man seems to take his job seriously, but not without some joy.  He is
+more than glad to be working as the keeper of the busiest inn in Solamnia.  
+However, he also knows that with the high amount of traffic that passes
+through, he gets more than his fair share of trouble.  Usually it is nothing he
+cannot handle.  He seems very vain about his remaining hair, constantly
+re-arranging it in the mirror on the wall.  He wears a thick brown beard, and a
+warm, if rehearsed smile.    
+~
+7596059 13372 0 0 E
+30 -10 -20 3d33+10000 30d3+30
+0 300000 0
+8 8 1 3
+Maxmove: 50
+E
+#10126
+postmaster mailman man master~
+the postmaster~
+The old greying postmaster sorts mail with a shaky hand here.
+~
+   This happy old man is in charge of making sure everyone gets their mail, and
+that nobody gets someone else's mail.    
+~
+7594011 33566760 0 0 E
+31 0 -15 3d33+2000 25d25+10
+2300 0 0
+8 8 1 1
+Maxmove: 50
+E
+#10127
+Grover aphonse al alph baker~
+Grover, the baker~
+Grover, the baker, carefully arranges his pastries for sale.
+~
+   Grover has plied his trade all over Ansalon, and has gained a reputation as
+a vendor of succulent pastries and fine breads.  Nobles from all over make a
+point of stopping at his shops to get a sample of his baking.  He has been
+running this shop for quite a long time now, and the residents of Kalaman hope
+he will remain here for some time yet to come.    
+~
+3399706 0 0 0 E
+31 0 -15 3d33+5000 25d1+10
+1000000 300000 0
+8 8 1 0
+Maxmove: 50
+E
+#10128
+Bry Brytte Arien shopkeeper keeper shopkeep~
+Brytte, the shopkeeper~
+Brytte stands here, waiting to assist with your purchase.
+~
+   A tall, overly skinny woman, Brytte wears a simple robe of white, and a long
+cape that serves only to accentuate her height.  She has the sort of face that
+seems to be perpetually frowning, with a long, slender nose that serves to make
+her appear all the more conceited.  She pretends not to watch you, picking lint
+specks off her robe with her long, slender, claw-like fingers.  Her long black
+hair is pulled back in a ponytail, restrained with a white ribbon.    
+~
+3399775 24 2 0 E
+31 0 -15 3d33+5000 25d1+10
+1000000 300000 0
+8 8 2 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#10129
+man black cloaked tall~
+a tall, black-cloaked man~
+A tall, black-cloaked man stands here looking over the potions.
+~
+   This man's features are not visible, as his cloak hides all but his hands,
+which are a ghastly white indicative of ill health.  He stands slightly
+crouched and appears intent on his purchases, yet something in his stance and
+quiet, raspy voice assures you he is quite aware of your presence and not the
+least alarmed.    
+~
+778330 24 16 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 1
+8 8 1 0
+BareHandAttack: 11
+Maxmove: 50
+E
+#10130
+Cecil assistant keeper shopkeep shopkeeper~
+Cecil, Galaralas' assistant~
+Cecil, Galaralas' beleaguered assistant sits with his feet up, watching your every move.
+~
+   Cecil has been put in the back room along with the old clothing and heavy
+cloaks, away from the front of the store, and really, he doesn't mind it too
+much.  When he becomes bored of Galaralas' ceaseless swanning about, he can
+simply sit here in the quiet shade and read, his true pastime.  In truth, he
+cares little for the affairs of the store, but it provides him a steady source
+of pay and something to do during the week.    
+~
+3399711 0 0 0 E
+31 0 -15 3d33+5000 25d1+10
+100000 300000 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#10131
+Galyn cobbler~
+Galyn, the cobbler~
+Galyn is here, studying you thoughtfully over his spectacles.
+~
+   Galyn is a kindly old gentleman who finds his joy in life in the creation of
+quality footwear.  He is a short man with grey hair that is frequently unruly,
+as he tends to forget the more mundane parts of daily life, such as personal
+hygeine.  His clear blue eyes spark with lively interest whenever some kind
+soul brings him the latest gossip from across town.  He speaks quickly, with a
+heavy brogue that isn't quite placeable.    
+~
+253983 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1000000 300000 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#10132
+gate guard west~
+a gate guard~
+A gate guard eyes you suspiciously.
+~
+   The gate guards of Kalaman are the best of the city guards, chosen to be the
+first line of defense between the city and the outside world.  An elite group
+of nine guards, they work in eight hour shifts, one guarding each of the three
+city gates.
+~
+3203082 0 0 0 E
+28 2 -12 3d33+1250 4d7+9
+1700 175000 0
+8 8 1 0
+Maxmove: 50
+E
+T 10107
+#10133
+gate guard south~
+a gate guard~
+A gate guard eyes you suspiciously.
+~
+   The gate guards of Kalaman are the best of the city guards, chosen to be the
+first line of defense between the city and the outside world.  An elite group
+of nine guards, they work in eight hour shifts, one guarding each of the three
+city gates.
+~
+3203082 0 0 0 E
+28 2 -12 3d33+1250 4d7+9
+1700 175000 0
+8 8 1 0
+Maxmove: 50
+E
+T 10105
+#10134
+chest iron heavy innkeep innkeeper~
+a large, heavy iron chest~
+A large, heavy iron chest is placed infront of the bunk here.
+~
+   Huge, by any means, and no doubt capable of holding a ton, this chest is
+quite obviously used to hold the equipment and garments that an occupying
+knight might have.  It has seen some age, but the durable lock and iron casing
+around it is incredibly strong.  Four, large iron bolts hold it pinned to the
+ground, but with its material of make, who could pick it up anyway?    
+~
+7561226 33685504 0 0 E
+31 -30 -15 30d99+2000 30d99+50
+0 0 0
+8 8 0 3
+BareHandAttack: 6
+Maxmove: 100
+E
+#10157
+gnish gnome tinkerer~
+Gnishomatrobtheth the Tinkerer~
+Gnishomatrobtheth the Tinkerer is here, cataloging his treasures.
+~
+   A small gnome clad in a mouse brown robes hurries about his shop, a large
+tome held tightly in his tiny hands, a look of complete contentment on his
+face.  Occasionally he pauses to make some sort of entry into the book, or to
+examine one of the many treasures he has collected over the years.  As he hears
+you approach he looks up, squinting slightly, and breaks into a broad smile.  
+
+~
+7340042 0 0 0 E
+30 1 -20 3d33+4000 4d20+20
+1000000 250000 0
+8 8 1 0
+Maxmove: 50
+E
+T 10126
+#10190
+housekeeper innkeep house keeper~
+a weary housekeeper~
+The housekeeper welcomes you home, looking ready to help you up to your room.
+~
+   The housekeeper looks up from her chores to offer a welcoming smile.  She
+looks a bit weary from her workload yet still maintains a pleasant demeanor.  
+She is always, regardless of time or day, eager to escort you to your room and
+help you put your things away for the night.    
+~
+7593994 33685504 0 0 E
+30 -30 -14 30d99+1700 4d8+50
+0 1 0
+8 8 2 3
+BareHandAttack: 6
+Maxmove: 50
+E
+#10191
+Gilgor cook bald hairy~
+the prison cook~
+Gilgor the prison cook stands at the stove.
+~
+   A large, bald, man stands at the stove stirring a pot of gruel.  Massive
+hairy arms make light work of mixing the thick substance.  The once white apron
+that he wears is covered in stains of various color and his hands look filthy.
+  
+~
+16394 32768 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 3
+8 8 1 0
+Maxmove: 50
+E
+#10192
+postmaster Driddle~
+the prison postmaster~
+Driddle the prison postmaster paces here.
+~
+   Driddle paces the room, uneasy with his present surroundings.  His pale skin
+and sunken cheeks reveal that he is not best suited for this job.  His unkempt
+priestly robes are creased and his eyes hold a look of depression and futility.
+As he paces he stares distractedly at a painting hanging on the wall and a
+brief gleam of hope shines in his eyes.    
+~
+8120346 32808 11665416 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 2
+8 8 1 1
+Maxmove: 50
+E
+#10193
+rat diseased~
+the diseased rat~
+A diseased looking rat scampers around here.
+~
+   The rat has a diseased, unhealthy, look about it.  Red eyes stare back
+defiantly and flecks of foam can be seen on it's mouth.  It's fur is black and
+patchy where mange has irritated it into scratching the fur away.    
+~
+156 294952 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+Maxmove: 50
+E
+#10194
+gaoler murton~
+the gaoler~
+Murton the Gaoler inspects the padlock.
+~
+   Dressed in black leather, Murton the Gaoler is an imposing sight.  Enormous
+muscles try to bulge round ill fitting clothes and his gap tooth grin is
+unsettling.  Capable of handling the most troublesome of prisoners, he appears
+confident and at ease in his place of work.    
+~
+7600154 33718312 0 0 E
+31 -30 -15 30d99+10000 30d99+50
+0 300000 0
+8 8 1 3
+Maxmove: 50
+E
+T 10018
+#10195
+Fitchly banker~
+the prison banker~
+Fitchly the prison banker looks over a money transfer form.
+~
+   Fitchly peers down his bespectacled nose at the form in his hands.  His
+robes are clean and appear starched.  His brown hair has been neatly combed and
+appears shiny from whatever substance he uses to keep it meticulously in place.
+  
+~
+8120346 32808 110624808 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 2
+8 8 1 4
+Maxmove: 50
+E
+#10196
+Khrinus dwarf dwarven smith~
+the dwarven smith~
+A dwarven smith pounds a length of steel.
+~
+   The dwarven smith pounds on a length of steel.  Sweat covers his brow and
+the muscles on his neck and shoulders strain with the effort.  His large chest
+is bare except for the long beard that hangs over his stomach.    
+~
+1828890 128 4098 0 E
+15 11 1 5d10+300 2d8+4
+500 8400 2
+8 8 1 0
+Maxmove: 50
+E
+#10198
+Lendala Len Shormaine Shopkeep~
+Lendala Shormaine~
+Lendala stands regally by a small wardrobe, awaiting your purchase.
+~
+   Lendala Shormaine is a tall woman with a long and lean build.  Her soft
+features give her a pleasant appearance, and she watches you with a friendly
+smile as you sort through her goods.  She is quick to help with any questions
+of quality or of fitting that you may have, and she is efficient and polite.  
+Lendala is the daughter of a wealthy man living here in Kalaman, and she
+carries herself with dignity within her white woolen robes.    
+~
+8118282 33685504 64 0 E
+30 0 -14 3d33+1700 20d8+20
+99999 250000 1
+8 8 2 0
+Maxmove: 50
+E
+$

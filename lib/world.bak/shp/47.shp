@@ -1,0 +1,315 @@
+CircleMUD v3.0 Shop File~
+#4708~
+4751
+4752
+4753
+4754
+4755
+4756
+4757
+4758
+4759
+4760
+-1
+1.00
+1.00
+-1
+%s Pardon? I may have heard you wrong.  What was it you wanted?~
+%s ~
+%s Sorry - I don't buy anything - I only sell food and drink.~
+%s ~
+%s Bah! I don't run a charity.  Go beg somewhere else for food or drink.~
+%s Good choice!  %s.  Enjoy.~
+%s ~
+0
+0
+4708
+0
+4708
+-1
+0
+28
+0
+0
+1
+38
+#4716~
+4761
+4762
+4763
+4764
+4765
+-1
+1.25
+0.50
+1
+9holy
+9clerical
+11holy
+11clerical
+-1
+%s What are you trying to buy?~
+%s What are you trying to sell me?~
+%s I'm sorry, I don't buy that kind of stuff.~
+%s I'm sorry, I have no more money to buy it.~
+%s I'm not allowed to give out stuff for free.~
+%s Here, %s for that, thank you!~
+%s I can pay you %s for it, okay?~
+0
+0
+4716
+0
+4716
+-1
+0
+28
+0
+0
+1
+20
+#4724~
+4730
+4731
+4732
+4733
+4734
+4735
+-1
+1.00
+1.00
+19sunflower
+8flower
+8flowers
+8lavender
+8firewheel
+8lily
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+4721
+0
+4724
+-1
+0
+28
+0
+0
+1
+38
+#4725~
+4766
+4767
+4768
+4769
+4770
+4729
+-1
+1.25
+0.50
+5
+-1
+%s Um, I don't have that.~
+%s Well, um.. what were you selling?~
+%s Sorry - I only buy what Burrett tells me I can.~
+%s I.. ahh.  don't have enough money to buy that.~
+%s Ahhmm, you can't pay for it.~
+%s Yeah, here - %s for it, thanks.~
+%s Sure. I can pay you %s for that.~
+0
+0
+4725
+0
+4725
+-1
+0
+28
+0
+0
+1
+16
+#4726~
+4771
+4772
+4773
+4774
+4775
+-1
+1.25
+0.50
+9
+-1
+%s I'm sorry, I don't have that here, anywhere.~
+%s But you don't have that to sell me?~
+%s My Uncle doesn't let me buy such items.~
+%s Ah! I can't buy that from you! It's too expensive.~
+%s You don't have enough money to buy that!~
+%s Here you are.  %s please.~
+%s I can give you %s for that item.~
+0
+0
+4726
+0
+4726
+-1
+0
+28
+0
+0
+1
+18
+#4728~
+4780
+4781
+4782
+4783
+4784
+4748
+4749
+-1
+1.25
+0.50
+15
+17
+19
+1
+-1
+%s Sorry, I dunnot have that to sell ye.~
+%s You dunnot seem to have that fer me to buy.~
+%s I dunnot buy such things.~
+%s I'm broke!  I cannot afford to buy that.~
+%s You haven't enough money to buy it!~
+%s Aye, here ye go.  %s, and thank ye.~
+%s Aye, I can give ye %s fer that.~
+0
+0
+4728
+0
+4728
+-1
+0
+28
+0
+0
+1
+38
+#4729~
+4785
+4786
+4787
+4788
+4789
+4722
+4723
+4724
+4721
+-1
+1.25
+0.50
+2
+3
+4
+10
+16
+21
+9robes
+11robes
+11cloak
+-1
+%s I do not stock that item.~
+%s You do not seem to have that.~
+%s I do not buy such items.~
+%s I cannot afford to buy that.~
+%s You do not have enough money for that.~
+%s That will cost you %s.~
+%s I can pay you %s for that.~
+0
+0
+4729
+0
+4729
+-1
+0
+28
+0
+0
+1
+16
+#4730~
+4790
+4791
+4792
+4793
+4725
+4726
+4727
+4728
+-1
+1.25
+0.50
+8
+-1
+%s Oh, well, I don't *have* that to sell.~
+%s Now how can I buy something you don't have?~
+%s Oh, so sorry, but I can't buy that sort of thing.~
+%s Oh, no.  I can't.  Too expensive.  I'm broke.~
+%s But you don't have enough to pay me for it!~
+%s Oh, thank you!  The price shall be %s for that.~
+%s How lovely!  I will give you %s in trade.~
+0
+0
+4730
+0
+4730
+-1
+0
+28
+0
+0
+1
+18
+#4756~
+4736
+4737
+4738
+4739
+4740
+4776
+4777
+4778
+4779
+-1
+1.00
+1.00
+11pelts wolf wolves beaver fur
+9fur wolf wolves beaver pelts saddle leather
+5dagger knife bow longbow shortbow
+1lantern torch
+17canteen waterskin hide
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+4722
+0
+4756
+-1
+0
+28
+0
+0
+1
+38
+$~

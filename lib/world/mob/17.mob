@@ -1,0 +1,298 @@
+#1700
+keeper barracks large sturdy stern stern-faced~
+the keeper of the barracks~
+A large, sturdy, stern-faced man guards the barracks to the east.
+~
+   This knight is of particularly wide girth.  It has been a joke among many
+knights that he was posted here because no horse would carry him.  Despite this
+though, he carries out his duties with quiet dignity that befits a man of his
+station.  He looks at you and twirls his long moustache around his finger
+thoughtfully.  He does not appear ready to move out of the way to allow anyone
+entry.    
+~
+11659530 5132 0 850 E
+24 6 -8 3d33+750 4d6+8
+0 68000 3
+8 8 1 0
+Maxmove: 50
+E
+#1701
+knight sleeping Solamnia ~
+a sleeping knight~
+A knight of Solamnia lies here, sleeping up on a bunk.
+~
+   A good knight's sleep is the hard day's reward, it is sometimes joked.  
+This fellow has taken that advice to heart and seems to be thoroughly enjoying
+every minute of somnabulance he can get.  Every now and then he'll stir in his
+sleep, leading one to wonder what sort of dreams this young man is having.    
+~
+57418 0 0 850 E
+18 11 -2 3d20+380 3d6+6
+0 14000 3
+4 4 1 0
+Maxmove: 50
+E
+#1702
+knight venerable patrolling~
+a venerable knight~
+A venerable knight patrols the barracks, keeping a watchful eye on the sleepers.
+~
+   This distinguished gentleman of a knight appears to be in his late fifties,
+and bears the scars of more than his share of battles.  It is quite likely that
+those battles had a permanent effect on him, as he gazes about, his hand flying
+to the hilt of his sword at the first sign of danger.  Meanwhile, he paces in a
+measured fashion back and forth in the hallway, watching to see no mischief
+goes on.    
+~
+1077512 1028 0 850 E
+21 8 -5 3d33+450 3d8+7
+0 33500 0
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1703
+knight sword talking hushed~
+a knight of the sword~
+A knight of the sword talks in hushed tones to his colleague.
+~
+   This knight stands hunched over a table, talking quietly to one of his
+fellow knights.  They are looking over some papers, and appear to be debating a
+few things.  Though, since they speak in low whispers, it is almost impossible
+to discern exactly what they might be discussing.  Feeling your presence, this
+knight looks up for a moment, and nods in quiet greeting before returning to
+his conversation.    
+~
+24858 4 0 850 E
+16 11 0 3d20+320 3d6+4
+0 11000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1704
+acolyte Kiri-Jolith young girl~
+a young acolyte of Kiri-Jolith~
+A young girl wanders about, dressed in the robes of an acolyte.
+~
+   This girl does not look to be more than eighteen years of age.  She wanders
+about quietly, collecting tithes from those knights present, and tending to the
+everyday business of the chapel.  Her duties include cleaning, setting up the
+altar for the daily mass, and occasionally assisting in the service itself.  
+She looks at you and smiles.    
+~
+552968 4096 4098 850 E
+12 13 4 5d6+210 2d8+3
+250 4700 2
+8 8 2 0
+Maxmove: 50
+E
+#1705
+Keeper Hostel Innkeeper Jarin~
+Jarin, the Keeper of the Hostel~
+Jarin stands here, waiting to help you to your room.
+~
+   Jarin is a trusting soul, which in some professions would prove a decided
+drawback.  However, it does not hinder him here.  No one can remember the last
+time that anyone of a dishonourable or evil nature decided to spend the night
+at Vingaard Keep, thus no one has taken advantage of his good nature yet.  He
+is a young man, perhaps in his thirties, with thinning blonde hair and bright
+blue eyes.    
+~
+7593994 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+0 300000 0
+8 8 1 3
+Maxmove: 50
+E
+#1710
+Solamnic Knight flustered~
+a flustered Solamnic Knight~
+A flustered Solamnic Knight tries to restore some order to the proceedings.
+~
+   This man appears to be the one moderating the meeting, and hasn't done very
+well.  He knows it too.  The look of frustration is plain on his face as he
+stands between the feuding dwarves and elves.  While not wanting to take sides,
+he does not want his hours of negotiations wiped out in the blinking of an eye.
+He looks back at you, perhaps hoping you can help him calm the situation down.
+  
+~
+1110026 12 0 850 E
+20 8 -4 3d20+440 3d7+6
+1000 25000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1711
+dwarf enraged~
+an enraged dwarf~
+An enraged dwarf has knocked his chair over and drawn his axe.
+~
+   This dwarf's face is beet-red with anger.  His beard bristles slightly as he
+shouts several threats, hopefully idle, at the elves standing across from him.
+In his rage, his hand has flown to the axe at his belt and drawn it in a
+threatening manner.  He looks like he is ready to take the head of the first
+elf who comes close enough unless something is done immediately to calm him
+down.    
+~
+96266 1024 0 850 E
+18 11 -2 3d20+380 3d6+6
+0 14000 3
+8 8 1 0
+BareHandAttack: 16
+Maxmove: 50
+E
+#1712
+dwarf dwarven diplomat frothing~
+a dwarven diplomat~
+A dwarven diplomat shouts angrily at the elves, frothing angrily.
+~
+   Dressed in the gaudy garb of a dwarven diplomat, this fellow debates angrily
+at the top of his lungs.  Among the more intelligible of his rantings are
+several derogitory remarks towards elves in general.  This seems to do little
+to alleviate the tension of the situation.  He appears calm and assured that he
+and his friends outnumber the elves five to three, and if the knight stays out
+of it, he knows he has the numerical edge.  He's irritated by your
+interruption.    
+~
+24586 1024 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 3
+8 8 1 0
+Maxmove: 50
+E
+#1713
+dwarf argumentative~
+an argumentative dwarf~
+An argumentative dwarf pounds his fist on the table angrily.
+~
+   The shouting in the room has reached a crescendo, and this dwarf tries to
+make his points heard.  When you listen, it appears that unlike his dwarven
+brethren, he is trying to calm everyone down, but the noise he makes fails to
+achieve that end.  He has a bright, fire-red beard which matches his hair, and,
+at this moment, his face.  He sees you, and takes a deep breath, either
+preparing to yell more, or hoping you'll do something.    
+~
+1077258 1024 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 0
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1714
+dwarf combatative narrowed eyes~
+a combatative dwarf~
+A combatative dwarf narrows his eyes as his fist tightens around his warhammer.
+~
+   This dwarf appears ready for combat, should it break out.  He stares at the
+elves, his eyes seething with unspoken anger.  His large muscles tense
+noticeably as his hand clenches the handle of his warhammer.  His knuckles have
+gone white.  Should violence break out, there is no doubt that this muscular,
+white-haired dwarf will be at the thick of it.    
+~
+1175562 1024 0 0 E
+21 8 -5 3d33+450 3d8+7
+0 33500 0
+8 8 1 0
+Maxmove: 50
+E
+#1715
+dwarf dwarven bodyguard armored~
+a dwarven bodyguard~
+An armored dwarven bodyguard stands ready to defend his brethren.
+~
+   Armed to the proverbial teeth, this black-bearded dwarf was clearly brought
+along lest something should go wrong.  Unfortunately for the others in the
+room, something has gone wrong, and now this dwarf is ready for battle.  
+Rather than overflowing with rage like many of his brethren currently are, he
+is the consumate professional, standing there calmly until the moment he knows
+his aid in battle will be needed.  He looks at you briefly with an impassive
+glare.    
+~
+3207178 1024 0 0 E
+21 8 -5 3d33+450 3d8+7
+0 33500 0
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1716
+elf haughty maiden glaring~
+a haughty elf~
+A haughty elf maiden stands her ground, glaring coolly at the dwarves.
+~
+   If looks could kill, every dwarf in this room would be quite dead right now.
+This young woman has made a clear point not to become visibly angry or
+unsettled, but her gaze is that of one whose patience is at an end.  She is
+unspeakably beautiful, but at the moment, that beauty is cold and angry.  
+Fortunately, it seems that her anger is directed exclusively at the dwarves.  
+She does not acknowledge your presence, keeping her eyes on the dwarven
+diplomats.    
+~
+712842 33920 12582920 850 E
+18 11 -2 3d20+380 3d6+6
+0 14000 2
+8 8 2 0
+Maxmove: 50
+E
+#1717
+elf elven diplomat wet~
+an elven diplomat~
+An elven diplomat with a wet face stands here fuming angrily.
+~
+   It would appear that the moment before you walked in, this elf had some kind
+of drink thrown into his face, and he is none to happy about it.  He is
+standing fully upright, his skin reddening with rage, and his every word is a
+curse breathed against dwarves and dwarvenkind.  He is an elf who has
+completely lost his cool, something that is rather unsettling to see.  He looks
+like he may become violent at any moment, but is trying without success to
+restrain himself.    
+~
+1110026 1024 0 850 E
+20 8 -4 3d20+440 3d7+6
+0 25000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1718
+elf elven bodyguard~
+an elven bodyguard~
+An elven bodyguard, sword drawn, prepares to protect his friends.
+~
+   A face of chiseled marble stares coolly ahead.  His long blonde hair is tied
+back in a ponytail.  He wears the armor of an elven bodyguard, and it is
+fortunate in this case, because it appears that his services are going to be
+called upon at last.  He has slowly drawn an exquisite longsword from its
+scabbard, and is preparing to use it against these dwarven ruffians.  His eyes
+are cold and cool.  He is keeping calm, but he leaves no doubt that he is
+prepared to fight today.    
+~
+3174410 33555456 0 850 E
+22 7 -6 3d33+550 3d8+7
+0 40000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#1761
+chest innkeeper innkeep heavy~
+a large, heavy iron chest~
+A large, heavy iron chest is placed infront of the bunk here.
+~
+   Huge, by any means, and no doubt capable of holding a ton, this chest is
+quite obviously used to hold the equipment and garments that an occupying
+knight might have.  It has seen some age, but the durable lock and iron casing
+around it is incredibly strong.  Four, large iron bolts hold it pinned to the
+ground, but with its material of make, who could pick it up anyway?    
+~
+7593994 33685504 0 0 E
+31 -30 -15 30d99+2000 30d99+50
+0 1 0
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 100
+E
+$

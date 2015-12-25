@@ -1,0 +1,178 @@
+CircleMUD v3.0 Shop File~
+#8000~
+8012
+8023
+8024
+8038
+8104
+8084
+8085
+-1
+1.25
+0.50
+1
+13
+12
+15
+17
+19
+16
+21
+-1
+%s Hmm...  no, we don't carry any of those.  Sorry.~
+%s I can't buy it unless you have it!~
+%s I sell nearly everything here, but I'm afraid I won't buy that.~
+%s I'm sorry, but it seems I'm a bit low on funds...~
+%s Oh, I'm sorry.  It seems you're a few coppers short.~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+8030
+0
+8071
+-1
+4
+12
+13
+22
+1
+25
+#8001~
+8028
+8029
+8030
+8031
+8032
+8033
+-1
+1.25
+0.50
+5
+-1
+%s All I have is what you see before you.~
+%s Unless you can show it to me, I won't buy it.~
+%s I will not buy that.~
+%s My funds aren't sufficient to buy that item.~
+%s Come back when your purse receives Shinare's blessing.~
+%s Here you are.  That will be %s.~
+%s About %s should cover that.  Here you are.~
+0
+3
+8031
+0
+8099
+-1
+4
+12
+13
+22
+1
+25
+#8002~
+8025
+8026
+8027
+-1
+1.25
+0.50
+10
+11cooling salve
+11pungent herbs
+11bandage
+-1
+%s I'm fresh out of those.~
+%s Sorry, but you don't seem to have that on hand...~
+%s Sorry, but I only trade in herbs, potions, and curiosities.~
+%s I can't afford to buy that this month -- perhaps next?~
+%s It seems that you're a little low on money.~
+%s That is %s.  Thank you for your business.~
+%s I will give you %s for that.  Here you are.~
+0
+2
+8006
+0
+8013
+-1
+4
+12
+13
+22
+1
+25
+#8013~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+0
+0
+-1
+4
+12
+13
+22
+1
+38
+#8071~
+8038
+-1
+1.00
+1.00
+9
+11
+15
+17
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+0
+0
+-1
+0
+28
+0
+0
+1
+23
+#8099~
+-1
+1.00
+1.00
+5
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+0
+0
+-1
+0
+28
+0
+0
+1
+38
+$~

@@ -1,0 +1,70 @@
+2
+ec
+53
+remove sack; get chicken sack; eat chicken; wear sack
+1
+2
+un
+23
+unsheath sword scabbard
+0
+2
+sh
+21
+sheath sword scabbard
+0
+2
+ba
+14
+bash $*; stand
+1
+2
+sk
+37
+skin corpse; skin corpse; skin corpse
+1
+2
+ga
+14
+get all corpse
+0
+4
+flee
+22
+flee; flee; flee; flee
+1
+1
+g
+7
+gore $*
+1
+2
+ki
+7
+kick $*
+1
+2
+df
+14
+drink fountain
+0
+2
+dw
+15
+drink waterskin
+0
+2
+fw
+23
+fill waterskin fountain
+0
+3
+gac
+14
+get all corpse
+0
+1
+;
+7
+chat $*
+1

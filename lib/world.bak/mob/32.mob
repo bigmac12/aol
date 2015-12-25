@@ -1,0 +1,80 @@
+#3200
+mob unfinished~
+archer for lookout posts~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+26650 1024 0 800 E
+19 9 -3 3d20+410 3d6+6
+0 17000 6
+8 8 1 0
+BareHandAttack: 13
+E
+#3236
+Halededanten Hal ferryman~
+Halededanten~
+Halededanten, Captain of the Grand Tortoise Ferry, is here.
+~
+   Halededanten has been navigating the waters of the Lord's River for decades.
+He is of average height and build for a Silvanesti elf.  His light brown hair
+falls to just above his shoulders.  He wears it pulled back in a leather thong
+to keep it from getting in his way when the winds blow across the river.    
+~
+7594074 33685504 0 400 E
+30 -30 -14 30d99+1700 30d99+50
+0 1 0
+8 8 1 0
+BareHandAttack: 6
+E
+#3292
+Sylva Archmagus woman elven brocaded robes mage~
+Archmagus Sylva~
+An elven woman in brocaded white robes stands here consulting a spellbook.
+~
+   This slender elven mage is standing here, carefully looking through an old,
+dusty spellbook.  Barely legible on the cover, are embossed characters, in the
+ancient language of magic known as Magius.  She has long, lustrous golden hair
+that falls in waves over her white robes, down to her lower back.  Her emerald
+green eyes are focused on the inscribed runes within the book, and she appears
+to be completely oblivious to your presence.    
+~
+1632266 5128 14680112 850 E
+25 5 -9 3d33+850 4d6+8
+1600 87000 1
+8 8 2 0
+E
+#3293
+apprentice elven wandering mage~
+a wandering elven apprentice~
+A young apprentice wanders through the Grove of Learning, his face buried in a book.
+~
+   Wandering into random hallways, and often people, makes this apprentice hard
+to ignore.  His face, almost completely hidden in his book, has some very
+distinguished elven characteristics, though his chin seems broader than most.
+He is dressed in the appropriate novice apparel, a non-descript robe and gray
+rimmed spectacles.    
+~
+548872 5120 1 700 E
+9 15 7 5d5+130 2d7+1
+195 1300 1
+8 8 1 0
+E
+#3299
+Elariel Ela Archmagus shopkeeper~
+Archmagus Elariel~
+Archmagues Elariel stands behind a counter piled with scrolls and other strange items.
+~
+   Archmagus Elariel is a striking example of the beauty and grace
+characteristic of her race.  She stands behind the counter reviewing a scroll
+which she quickly tucks into a hidden pocket in her robe as she notices your
+attention.  She folds her hands neatly in her sleeves, returning you gaze as if
+to say, 'Is there something you needed?  '
+~
+7594058 33685504 0 0 E
+30 -30 -14 30d99+1700 30d99+50
+99999 250000 0
+8 8 2 0
+BareHandAttack: 6
+E
+$

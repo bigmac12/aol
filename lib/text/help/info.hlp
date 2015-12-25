@@ -1,0 +1,590 @@
+AREA AREAS
+
+Here at Age of Legends, we have tried to implement areas (or zones)
+which replicate some of the famous landmarks in Pre-Cataclysm Ansalon.
+We have also put in areas which conform to the map of Pre-Cataclysm
+Ansalon. Thus, you will find Palanthas and other cities, as well
+as the Dargaard Mountains and Vingaard Keep. We are constantly putting
+in new zones to keep you the player interested in the mud. Read the
+boards on a frequent basis for information as to new zones.
+
+See also: DRAGONLANCE
+#
+WARNING
+
+WARNING:
+The Surgeon General has determined that Mudding can cause Cancer, Liver and
+Lung Disease, Miscarriages, Unwanted Pregnancies, Low Sperm Counts, Brain
+Tissue Damage, Muscular Dystrophy, Forgetfulness, Left-Leg Paralysis, Internal
+Hemorrhaging, Geekiness, Carbohydrates Deficiency, Negligence, Slow Motioness,
+Bureaucracy, Deforestation, Sexual Atrocities, Lack of Personality, Inflation,
+Heavy Machinery Malfunction, Anaphora, Plagiarism, Lying-to-Congress Disease,
+Gerrymandering, Incrimination, Schwa Deletion, Non-Confirmation Syndrome,
+Defenestration, Illiteracy, Sarcasm, Broccoli Overcooking, Frequent Defecation,
+Gossiping, Getting-Laid-on-the-First-Date Syndrome, Mass Extinction, Ozone
+Depletion, Global Warming, Gas Leaks, Hailstorms, Arms Race, Legs Race, Gender
+Confusion, Transexualism, Misunderstandings, Gibberish, Boredom, Nausea,
+Vomiting, Hyperbation, Hyperbole, Manuscript Loss, Anarchism, Liposuction,
+Unsuccessful Barbecuing, Gargling, BONKing, Mavisms, Talking-in-Third-Person
+Syndrome, Limosine Overcrowding, Elevator Stalling, Messianism, Low Scoring on
+Standardized Tests, PBS Pledging, PTA Joining, PTL Propaganda, S&L Bailouts,
+Deficit Spending, BL&T Indigestion, Armpit Enlargement, Proletarianization,
+Antidisestablismenterianism, Panic, Disillusionment, Asymmetrical Twins,
+Appointment Cancellation, Foreplay Disruption, Stuttering, Dogmatism, Bath Tub
+Clogging, Eviction, Infant Mortality, Cryptorchitis, Shistosomaisis, Nepotism,
+Baldness, Bad Spelling, Maximum Verbosity, and General Failure in Life.
+#
+BOARDS BOARD
+
+Bulletin boards are the forum of inter-player communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+an out of character board, a trade board for people wanting to buy and 
+sell items, a bug board to report bugs, etc.
+
+Type "LOOK BOARD" to see the messages already posted on a board.  Type
+"WRITE <subject>" to post a message to a board. Type "READ <number>" to
+read a post, and type "REMOVE <number>" to remove your own messages.
+
+NOTE: When you are finished writing your message on the board and you
+want to save it type /s.
+
+Example:
+
+  > look at board
+  > write Am I using these boards correctly?
+  > look at board
+  > read 6
+  > remove 6
+
+See also: MAIL, READ, WRITE
+#
+CLAN CLANS
+
+Clans on Age of Legends are player run. We have the traditional Dragonlance
+clans including the Knights of Solamnia as well as the Conclave of Wizards.
+Should you choose to join one of these organizations, simple make a post
+on the Main Board in any city or ask a passing player. Please also note that
+it is possible to start your own clan as long as the idea fits within the
+Dragonlance environment. For example, the Forest Warriors have been formed
+which is open to Druids and Rangers.
+
+See also: ROLEPLAY, DRAGONLANCE
+#
+CLASSES CLASS
+
+At Age of Legends we have implemented most of the popular Dragonlance classes.
+These incude mages, clerics, druids, rogues, rangers, paladins, fighters
+and knights. FOr more information on classes here at Age of Legends, visit
+our website at http://agelegends.planetmud.com/.
+
+See also: KNIGHT, MAGE, CLERIC, RANGER, DRUID, WARRIOR, FIGHTER, PALADIN, ROGUE
+#
+CLERIC CLERICS
+
+Clerics have an ancient belief in not carrying sharp weapons.  Hence, they can
+only wield bludgeoning weapons.  This class gives you the wisdom of peace,
+blessing and healing, though it is possible to learn more violent spells.
+
+All clerics in the Dragonlance setting (and hence, on this MUD) are actually
+priests and priestesses of a specific god or goddess.  The spells that any
+priest may cast is a power that their god has granted them - hence, priests
+of different gods and goddesses will have a different spell selection, which
+depends mainly on their god's beliefs and standard duties.
+
+NOTE: All dieties grant at least minor access to the spheres of healing and
+creation - although this may not be necessarily be true to the diety's beliefs,
+we understand that it can exceptionally hard to play a priest character without
+these spells, which are generally well-recognized as the cleric's forte.  This
+does not mean that all dieties grant major access to these spheres.
+
+See also: PRACTICE, SPELLS
+#
+DRAGONLANCE DL
+
+It is a world of epic heroes, of perilous passages, unimaginable dangers
+and unparalleled beauty.  On the continent of Ansalon the traveler will 
+meet bold Knights of Solamnia, sworn to defend goodness and right, and
+to uphold the Oath and the Measure. The unwary may be confronted by
+a company of Knights of Takhisis, pledged to the service of the Dark 
+Queen. The forests hold perils and promise at the hands of the elven
+nations: the proud Qualinesti and Silvanesti, as well as their 
+mysterious cousins the wild Kagonesti. 
+
+Beneath the mountains delve the dwarves--gruff and solitary. And along
+the roads and byways wander the kender: perpetually curious, endearingly
+childlike--and scrupulously avoided by the inhabitants of Ansalon for 
+their tendency to "borrow" things. 
+
+Above all, Dragonlance is a world of dragons. The evil chromatic dragons
+are willing servants of Takhisis, while the metallic dragons--gold, 
+silver, bronze, copper and brass--have sided with the forces of goodness
+and light. To the people of Ansalon no sound is more terrifying than the
+thunderous roar of dragon wings. The history of Krynn has been wracked 
+with confrontations between the gods of good and evil,played out on the
+great chessboard of Ansalon.
+
+See also: ROLEPLAY
+#
+DRUID 
+
+Druids are the protectors of Nature, believing in the sanctity of the natural 
+world.  Although they worship Gods of several faiths and alignments, they all 
+have a similar goal for the most part in the defense of nature.  Druids receive 
+a wide variety of spells from their patron God.  They may only use weapons and
+armor of the natural materials, save for a few select items used in ceremonies. 
+Druids must possess above average wisdom and social skills.
+
+See also: PRACTICE, SPELLS, CAST, MEM
+#
+EXPERIENCE XP
+
+Whenever you kill a monster or a player, you earn experience points.  When
+enough experience points are earned, you raise a level.
+Things you should know about experience points:
+
+  * When damaging a monster, you get experience points.
+
+  * If you kill a monster of higher level than yourself, you get bonus
+    experience points.  If killing a monster of lower level you'll gain
+    less experience points
+
+See also: GROUP, SCORE
+#
+FLAGS
+
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+
+  FLAG        MEANING
+  ----------- ---------------------------------------------------------
+  (invis)     Player is invisible; you can see him/her because you are
+              sensitive to the presence of invisible things.
+  (writing)   Player is writing on the board; do not disturb.
+  (mailing)   Player is writing mail; do not disturb.
+  (deaf)      Player has chosen not to hear shouts.
+  (notell)    Player has chosen not to accept tells.
+  (quest)     Player is participating in a quest currently being run by
+              the Gods.
+
+See also: NOSHOUT, NOTELL, QUEST, STEAL, VISIBLE
+#
+GUILD GUILDS
+
+Guilds are places where people come to learn and practice the skills and spells
+of their particular trade.  Note that guilds are not exclusive - ie, a rogue can
+train in the mage's guild, and a priest could learn from the fighte's guild, 
+providing the character can get there in the first place.
+
+See also: PRACTICE
+#
+HOUSES HOUSE
+
+Rules and Procedures for Townhouses on Age of Legends
+
+To request a townhouse, simply email majere@ageoflegends.com. Include your character name and the location of the house you'd like to purchase. Also, if you see Majere on, you can send him a tell asking for one. 
+
+To request a Guild Hall, e-mail majere@ageoflegends.com. 
+
+To request a custom house, email majere@ageoflegends.com. Include the following information with your request. Incomplete requests cannot be processed. 
+
+1. The name of the character purchasing the house as well as the name of any guest that you wish to allow to full access to the house (currently, you may have up to one guest). 
+
+2. The housing option you wish to purchase (Option I, II, or III). 
+
+3. Room descriptions for each room that you are purchasing. The descriptions are subject to approval, but, we are rather liberal with what is allowed. 
+
+4. Object descriptions for each object you wish to purchase (remember that you will see information when you look at an object, so be sure to include how you would like this to read). The descriptions are subject to approval, but we are rather liberal with what is allowed. 
+
+5. A preferred location for your house. This, like the descriptions, are subject to final approval. We try to reasonably accommodate all requests, but you may be denied your first choice. Custom housing cannot be put into a city and needs to fit into the area specified. If you aren't sure exactly where you would like it, just indicate that you would like a few options and include a little information about your character so that we might make a helpful suggestion or two. Please note that your house must be at least 20 rooms away from a city with townhouses in it. At this time that includes: Kalaman, Karthay, Lacynes, and Morning Dew. 
+
+You will be mailed if there is a problem with any of the descriptions or your preferred location. Again, we do try to make every effort to meet your requests while working to maintain consistency in our world.
+
+Below are the options and pricing available for housing on Age of Legends. 
+
+Townhouse (subject to availability) 
+
+Purchase Cost = 20p 
+Monthly Taxes = 14p
+
+------------------------------------ 
+
+Option I - Two rooms 
+Includes a maximum of 2 objects. 
+
+Purchase Cost = 50p 
+Monthly Taxes = 44p 
+
+------------------------------------ 
+
+Option II - Three rooms 
+Includes a maximum of 3 objects. 
+
+Purchase Cost = 55p 
+Monthly Taxes = 52p 
+
+------------------------------------ 
+
+Option III - Four rooms 
+Includes a maximum of 4 objects. 
+
+Purchase Cost = 60p 
+Monthly Taxes = 60p 
+
+------------------------------------ 
+
+Each custom house has to consist of at least two rooms. If a player only wants one room, then you may get a townhouse, if one is available. 
+
+A maximum of four rooms is allowed for custom housing. This includes if you have a guest in your house. 
+
+You may include, with your request, one item for each room, one of which may be a wear item. This includes things like furniture, paintings, rugs, tapestries, fireplaces, food, drink, etc. Any food items will be placed in a pantry in the kitchen for retrieval. If you would like a lockable door/entryway, the key count as one of the objects for your house. All worn items will have no stats and be level one, they are purely for show. 
+
+Monthy rent is calculated by what option you select. The building cost is only needed when the house is first bought, after that, you only have to pay the monthly taxes. 
+
+A few things to note: 
+-No items made for a house will be sellable. 
+-Locks on houses will be pickable. 
+-You can allow chars into your house to visit, but they will not have access to the area where items can be dropped or where you can rent. 
+-New houses will be added to the world as soon as we can. To gain access to the house you must get it paid for. 
+-Townhouses can be purchased at any time, however the cost and a full month's taxes are still payable upon purchase (we do not prorate the monthly taxes). 
+
+Rules (Please read since violation of the rules can result in loss of the house): 
+-Owners of the house are responsible for all associated costs and payments. 
+-Rent/Taxes are due at the beginning of the month (using the RL calendar). It is the primary owners responsibility to make sure that their taxes are paid in time. They must make every effort to get the fees to the designated imm in charge of housing. 
+-Players may drop/store one object for each wear location within their house. Drop items ONLY in the room where you have been told they will be saved. This will be the room that only you and/or your guest have access to. Any additional items (extra clothing, food, potions, etc) must be rented. There will be a housekeeper available so that you may rent within your house. 
+-Any excess items dropped (more than one item for each wear location slot) will be purged, starting with the most expensive/powerful/rare item. Repeat offenders may have the whole room purged or lose their house. Dropping any key other than your own house key will result in the entire contents of the room being purged. 
+
+Wear Locations: 
+Above 
+Head 
+Face 
+Two (2) Ear 
+Two (2) Neck 
+About 
+On 
+Arms 
+Two (2) Wrist 
+Hands 
+Two (2) Finger 
+Shield 
+Wield 
+Waist 
+Legs 
+Two (2) Ankle 
+Shoulders 
+Nose (Minotaur only)
+
+Guild halls are similar to Option III custom houses. 
+
+-Guild halls can have locked doors, but they will still be pickable.
+-There can be multiple drop rooms. Drop rooms after the first have their own room. This means that Guild halls can have more than four rooms. Pricing for these rooms is the same as a townhouse.
+-For food items, Guild halls can have either the innkeeper or another mobile be a shopkeeper to sell food. They will only buy food items.
+
+Age of Legends Clan Housing Options 
+
+A member of a clan can get housing in a clan building. The housing is one room only (like a townhouse) and follows the townhouse pricing. These rooms will be available on a first come, first serve basis as with the townhouses. Only a limited number (4) will be created in each area. 
+
+1. Study/Barrack rooms will be added to the Keeps. Only a member of the KoS (someone with that flag set) will be allowed to purchase one of the rooms. 
+
+2. Study/Sleeping rooms will be added to the Towers. Only a member of the Conclave (someone with the flag set) will be allowed to purchase one of these rooms. 
+
+3. Other clans formed by the players can have similar housing made available under in the following manner. (Definition/Approval/etc for player formed clans is done by the social department.) - The clan building will be initially handled as a 4 room custom house with one room being the drop room for one person, most likely the founding member. All the rules and benefits of the 4 room custom house apply here (pricing, obj allowance, location selection, etc). - Once a clan building is created members of the clan can add barrack type rooms that follow the townhouse guidelines. So for each additional member one barrack/bedroom (a drop room) can be added and will follow the townhouse pricing. The key difference is that it will be part of the clan house, not on a city street. 
+- A maximum of two of the objects created for the clan house can be wearable. 
+- Clan houses can have a shopkeeper mob to provide access to items, if desired. 
+
+ex: Takhisis forms the Evil Pantheon clan. She pays 60p for a four room house. Her four rooms consist of a kitchen, a meeting room, a lounge/living room, and her bedroom. With her purchase she can get no more than 4 objects. She chooses a key for the entrance in the shape of a crescent-shaped medallion, kender steak, and a glass of red wine (which must be stored in a pantry, her fourth object) as her objects. The monthly costs taxes cost her 60p. She can elect to charge any members she gets dues to cover the costs for maintaining the common areas. That's between the players. 
+
+Chemosh comes from chaos to join her Evil Pantheon clan. He buys a bedroom for 20p (the townhouse rate) and it is added to the clan building. His monthly cost is 14p. 
+
+Sargonnas comes along and does the same. 2op to add his room, 14p per month. Zeboim and Nuitari are born. To save money Takhisis proposes they share a room. That will never work, so they each need their own room. Yes, that's right. Only one char per drop/bedroom. Morgion and Hiddukel also join and get their rooms. Hiddukel tries to strike a deal, but alas the rules are the rules. 
+
+Members of the clan enjoy access to the building's common areas. They can all grab a kender steak and/or some wine from the pantry. And they can all get a key. 
+
+-If clan members do not want their own drop room, they can still be given access to the main clan areas and the innkeep mob so that they may rent at the clan house. 
+
+
+NOTE: The same location restrictions/rules apply. Which means that custom clan housing (#4 above) wouldn't be able to be added to the city or within 20 rooms of a start city. All locations are subject to approval.
+
+#
+IMPLEMENTOR IMP IMMORTAL IMM
+
+The most powerful beings in existence.  Treat them with respect, for they
+have worked hard on making the mud.
+#
+INN INNS RECEPTION
+
+Inns are places where the weary traveler may rest while the innkeeper looks
+after his equipment and treasure.
+
+Specifically, the game will save your equipment while you are logged out.
+There is a daily cost for renting, based on your equipment.  Each item has
+a per diem charge.  The per diem charge is calculated to the nearest second,
+however -- if you rent at the rate of 2400 coins per day, and you come back
+39 hours later, you will be charged 3900 coins.
+
+Rent files are deleted if you run out of money to pay the per diem charges
+or after 30 days.  
+
+See also: OFFER, RENT
+#
+KNIGHT
+
+Knights are a class that believe in chivalry and honor.  They are unparalleled 
+in there ability to fight on horseback, and have superior skills while on foot.  
+They possess no skill for magic however, and in fact distrust it severely.  
+Knights will use all but the crudest forms of weaponry and armor.  Most 
+Knights enter combat using either a large two-handed weapon, or sword and 
+shield. Knights must be well rounded in areas both physical and mental.
+
+See also: PRACTICE
+#
+LINK
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+#
+MAGE WIZARD
+
+Mages are beings who use the power of the magical weave to cast spells.  Most
+of a mage's spells are offensive in nature, from the well-known magic missile
+spell to the explosive fireball and the deadly meteor swarm - mages are not
+known for their healing abilities in general.
+
+All mages draw their power from the moons of Krynn - Solinari, the White Moon,
+Lunitari, the Red Moon, and Nuitari, the Black Moon.  Each of the three gods
+of the moon oversees a particular alignment of mage - as a result of this, a
+mage's spells, especially at high levels, will differ greatly depending on that
+mage's alignment.
+
+See also: PRACTICE, SPELLS, CAST, MEM
+#
+NEWBIE
+
+For those who are entering the World of Krynn for the first time:
+
+Please note that we are, at this moment, still in Alpha Testing.
+We hope to move from this stage shortly, as soon as we can work
+out a few more bugs, update and add more help files, and stabilize
+our MUD.  There are still a few more changes being put in, and we
+thank you in advance for your patience in letting us make this
+MUD a better, and more fun place to be!
+
+There are a few commands that one may need to know when playing
+our MUD - some are unique commands, and some are more advanced
+commands for our codebase.  The following are a few listings, 
+and are either in current helpfiles, or will be placed there soon.
+
+**NOTE:** Alot of useful information is to be found on your map, which is
+in your inventory. You can look at it by typing "Look map". It will tell you
+where shops and guild trainers are, as well as the Inn.
+
+NEWBIE COMMANDS:  Some commands are necessary for a newbie to know
+how to get started in playing our MUD.  Some of these commands are
+similar to other muds, but we will list a few here for you as well. Type
+COMMANDS to get a list of commands available to you. Type HELP
+“command name” to get help on that command.
+
+AUTOEXIT (will automatically list the exits in your current room)
+
+PROMPT ALL or DISPLAY ALL (will let you see your hitpoints and moves)
+
+We have an Introduction System here at Age of Legends. Please type HELP INTRO
+to find out more about this system. HELP WHO is also a good place for 
+information.
+
+OOC (command used to talk out-of-character.  This should be used sparingly,
+as there are ways to talk in-character at times instead of using OOC.)
+
+RENT (you need to rent at an inn to save your equipment on your character
+instead of quitting out.  Otherwise you will drop everything on the ground.)
+
+OFFER (command at the innkeeper, to check how much the rent will cost.
+This also shows how much each item rents for and how long you can rent.)
+
+BOARDS (boards, such as policy board, ooc board, and rp board are the
+out-of-character boards.  Main boards, trade boards, crime boards are for
+in-character use.  These are located at the inns of most towns - and should
+be read regularly for updates, especially policies.)
+
+MAIL (some inns will also have a postmaster service - place where you can
+get and send mail. Good for private messages.)
+
+When you type WHO, you will see a list of all the people who have introduced
+themselves to you. At the bottom of the screen will be a number which tells you
+the total number of people on-line.
+
+Other help files that might be useful:
+
+help practice (tells you how to practice your skills and spells)
+help spells (tells you how to cast spells if you have the ability to)
+help mem (tells you how to memorize your spells if you are a caster)
+help spell *spellname* (describes the spell)
+help cast (tells you how to cast spells.  Some may need a hyphen)
+#
+PALADIN
+
+Paladins are the holy and unholy warriors of the Gods.  They hold similar 
+views of honor as knights and cavaliers, and in fact many of them are just 
+that.  They will fight solely and fiercely for there beliefs and causes of 
+their God, with little thought for there own desires.  Paladins will use all 
+but the most crude forms of armor and weaponry.  Those who have reached the 
+highest statures are granted some minor spells by there God.  Paladins must 
+possess decent physical attributes, and must also have an above average 
+clarity of thinking as well as excellent social skills.
+
+See also: PRACTICE
+#
+PRACTICE
+
+Typing "practice" or "prac" will show you what skills you have and to what 
+level they have been practiced.
+#
+RANGER
+
+Rangers are the men and women of the wilderness, striving for the defense and
+flourishing of nature.  They are superb woodsmen and excel at such skills of 
+the wild.  Also able warriors, rangers will use most weapons, save the most 
+cumbersome and intricate, preferring the subtlety of nature.  They will wear 
+no armor heavier than chain mail, and even then usually prefer the lightest 
+mesh possible.  Rangers are, like paladins, holy warriors although of a 
+different sort.  The most adept of there kind receive some spells from their 
+patron God.  Rangers must have above average physical skills and must possess
+more wisdom and worldliness than the normal person.
+
+See also: PRACTICE
+#
+ROGUE THIEF ASSASSIN
+
+Rogues are masters of deception. They excel at moving about silently and 
+concealing themselves in a variety of ways from others. They are also expert
+hunters, with a number of abilities that allow them to follow their prey 
+virtually anywhere. Although some rogues are light-hearted fellows who use 
+their deceptive abilities for pranks, many walk the darker paths of life 
+and use their skills only to bring about personal gain and the downfall of 
+others. This class is a combination of the former thief and assassin classes.
+
+See also: PRACTICE
+#
+RACE RACES
+
+Here at Age of Legends we have the major Dragonlance races. 
+
+See also: KENDER, BARBARIAN, HUMAN, ELF, DWARF, GNOME, MINOTAUR
+#
+ROLEPLAY  RP
+
+Age of Legends is a Role-Playing mud.  What this means in 
+practice is that you should act "in character" at all times, if possible.
+For those of you who have played any role-playing games, you should
+be somewhat familiar with this.  For those of you who are not, think
+of it as acting out the part of your character.  Pretend you really
+are the race you chose, with the attitudes and impressions of others
+that would be appropriate for that character concept.
+
+If you must talk out of character (ooc), please use the OOC command.
+As a new player, we understand you might have questions that you cannot
+phrase in an appropriate in-character context - that's what OOC is for.    
+
+What does this mean?  It means you should never discuss
+things like hp/hit points, stats, levels, experience, real life issues,
+or anything a "character" would not be aware of.  Directions should be
+given in paces - for instance, the Post Office is one pace south and
+one pace east from the Town Square.  You can talk about the knowledge
+or life experience a character has, especially in relation to other
+characters, but shouldn't give these experiences a numeric value.
+
+Here's a brief list of common mud phrases and good rp-equivalents:
+
+afk - asleep, daydreaming, napping
+linkdead - unconscious, blacked out
+skills - just say something about "trying to become more skilled in x's use"
+levels - again, you can say "I'm more knowledgeable than X" or "I feel as
+though I have learned something", etc.
+I'm a newbie - I'm new to Kalaman
+
+Feel free to create whatever background you like for your character, and
+flesh this out as much as you are comfortable with.
+
+If you have further questions, feel free to ask any of the immortals here. 
+
+See also: DRAGONLANCE
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his quests,
+and where he may sell his treasure if he should manage to survive the perils
+with his life and sanity intact.  Many shops trade only in a specific type of
+merchandise.  Thus, a baker may well refuse to buy your armor, even if it is
+of high quality!
+
+To some people, the prospect of obtaining the entire inventory of a shop by
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable people; roughened by years of trading and, indeed, 
+surviving in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+WARRIOR FIGHTER
+
+Warriors are known to have more strength than the average player.  This makes 
+them better at hand-to-hand combat, as they possess skills of violence and 
+fighting unequaled by the members of any other class.  However, they lack 
+the ability to use magic of any sort.  As they often have a need to use 
+versatility and resourcefulness in there travels, fighters will use virtually 
+any item they come across.  Warriors must possess at least an average 
+strength for the use of the heavy weapons and armor that are commonly used 
+in combat.
+
+See also: PRACTICE
+#
+CIRCLE CIRCLEMUD 
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink and George Greer, for submitting a veritable mountain of
+     excellent code.
+  -- Chris Epler and Chris Herringshaw for extensive beta-testing and bug
+     reporting.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Jean-Jack Riethoven for porting the code to the Amiga, David Carver
+     for porting it to OS/2, and Jack Patton and Steffen Haeuser for the
+     Amiga port.
+  -- Bill Bogstad and Tim Stearns for allowing Circle to exist at JHU.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- Sharon, Ben, Erica, Aly, and Josh, for keeping me sane.
+  -- Jules (hamotek sheli) for being the greatest.
+
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+
+  Anonymous FTP:  ftp.circlemud.org or ftp2.circlemud.org in pub/CircleMUD
+Author's E-Mail:  jelson@circlemud.org
+            URL:  http://www.circlemud.org/
+   Mailing List:  listserv@post.queensu.ca (write "subscribe circle")
+#
+$

@@ -1,0 +1,2049 @@
+#13400
+RECYCLE, REUSE, RESTORE~
+   You have stumbled upon a room brightly bathed in sky blue light.  The walls
+are made of pure, immaculate white marbles.  A pedestal encircled in a ring of
+slender pillars lies in the middle of this enormous chamber.  Silky white
+cloths are draped on the pillars, granting this chamber a soft and calming
+effect.  Dancing above the pedestal is a symbol of a blue infinity and it seems
+to be the only source of light in this room.  You realise that you have entered
+the chamber of the Skyblue Mistress, Mishakal.    
+~
+134 1048 0 0 0
+S
+#13401
+Village Square~
+   You are standing in the busiest part of the village.  The villagers are all
+occupied with their chores to give you any attention.  A small well is built in
+the middle of the square, and seems to be the only source of water for the
+people in this small town.    
+~
+134 32772 1 0 0
+D0
+~
+~
+0 0 13414
+D1
+~
+~
+0 0 13416
+D2
+~
+~
+0 0 13418
+D3
+~
+~
+0 0 13420
+S
+T 13401
+#13402
+A Narrow Street~
+   The street is filled with people even though it seems to be a small street
+in this village.  Traders set up their stalls along the side of the street,
+shouting on top of their voices to attract the attention of the people.  Most
+of them seem to be farmers, selling a variety of vegetables and fruits.    
+~
+134 32768 1 0 0
+D0
+~
+door~
+1 0 13407
+D1
+~
+~
+0 0 13421
+D2
+~
+door~
+1 0 13440
+D3
+~
+~
+0 0 13404
+S
+#13403
+A Narrow Street~
+   The street is filled with people even though it seems to be a small street
+in this village.  Traders set up their stalls along the side of the street,
+shouting on top of their voices to attract the attention of the people.  Most
+of them seem to be farmers, selling a variety of vegetables and fruits.    
+~
+134 40960 1 0 0
+D0
+~
+~
+0 0 13405
+D1
+~
+~
+0 0 13486
+D2
+~
+~
+0 0 13415
+D3
+~
+door~
+1 0 13479
+S
+#13404
+A Narrow Street~
+   This part of the village is less crowded, with small dwellings on either
+side.  Empty wagons are left on the sides of the street while barrels are
+stacked up at the corners.  Children are running about, playing with whatever
+they can lay their hands on.    
+~
+134 32768 1 0 0
+D0
+~
+~
+0 0 13430
+D1
+~
+~
+0 0 13402
+D2
+~
+door~
+1 0 13412
+D3
+~
+door~
+1 0 13438
+S
+#13405
+A Narrow Street~
+   This part of the village is less crowded, with small dwellings on either
+side.  Empty wagons are left on the sides of the street while barrels are
+stacked up at the corners.  Children are running about, playing with whatever
+they can lay their hands on.    
+~
+134 32768 0 0 0
+D0
+~
+door~
+1 0 13413
+D1
+~
+door~
+1 0 13406
+D2
+~
+~
+0 0 13403
+D3
+~
+~
+0 0 13436
+S
+#13406
+A Small Dwelling~
+   The house is a little cramped, with farming tools and straw baskets neatly
+arranged at the corner.  A small fireplace is built into the northern wall,
+providing little warmth on this cold day.  A wooden, rocking chair is set
+beside the fireplace with a small footstool at the side.    
+~
+134 32776 0 0 0
+D3
+~
+door~
+1 0 13405
+S
+#13407
+A Small Dwelling~
+   The house is a little cramped, with farming tools and straw baskets neatly
+arranged at the corner.  A small fireplace is built into the northern wall,
+providing little warmth on this cold day.  A wooden, rocking chair is set
+beside the fireplace, with a small footstool at the side.    
+~
+134 32776 0 0 0
+D2
+~
+door~
+1 0 13402
+S
+#13408
+A Dirty Alley~
+   The alley is barely two armlengths wide and seems to be the dump of this
+village.  The walls are cracking with obvious crevices.  As you squeeze your
+way through the narrow passage, you notice beggars squating at the sides of
+this alley, scavaging for any remnants of food from the trash.  A strong stench
+of rotting flesh fills your nostrils as you stand in this filthy place.    
+~
+134 33029 0 0 0
+D0
+~
+~
+0 0 13409
+D2
+~
+~
+0 0 13411
+S
+#13409
+A Village Path~
+   A sudden gush of wind swirls the sand and dust on the ground into the air.
+You attempt to cover your face with your hands as you continue along this
+street.  Children can be seen running about, giggling and laughing as they
+chase the cats with sticks and buckets of water.  A small alley lies to your
+south.    
+~
+134 32768 1 0 0
+D1
+~
+~
+0 0 13436
+D2
+~
+~
+0 0 13408
+D3
+~
+~
+0 0 13435
+S
+#13410
+A Village Path~
+   A sudden gush of wind swirls the sand and dust on the ground into the air.
+You attempt to cover your face with your hands as you continue along this
+street.  Children can be seen running about, giggling and laughing as they
+chase the cats with sticks and buckets of water.    
+~
+134 32768 1 0 0
+D1
+~
+~
+0 0 13435
+D3
+~
+~
+0 0 13434
+S
+#13411
+A Dirty Alley~
+   The alley is barely two armlengths wide and seems to be the dump of this
+village.  The walls are cracking with obvious crevices.  As you squeeze your
+way through the passage, you notice beggars squating at the sides of this
+alley, scavaging for any remnants of food from the trash.  A strong stench of
+rotting flesh fills your nostrils as you stand in this filthy place.    
+~
+134 33025 0 0 0
+D0
+~
+~
+0 0 13408
+D3
+~
+~
+0 0 13478
+S
+#13412
+A Cozy House~
+   The house, eventhough small, is very cozily set up.  Drapes are hung on the
+windows, while the dull floor is covered with a handmade mat.  A small
+crackling fireplace provides the house with minimal warmth.  A hand drawn
+portrait of a family is displayed on the wall.    
+~
+134 32776 0 0 0
+D0
+~
+door~
+1 0 13404
+S
+#13413
+A Cozy House~
+   The house even though small, is very cosily set up.  Drapes are hung on the
+windows, while the dull floor is covered with a handmade mat.  A small
+crackling fireplace provides the house with minimal warmth.  A hand drawn
+portrait of a family is displayed on the wall.    
+~
+134 32776 0 0 0
+D2
+~
+door~
+1 0 13405
+S
+#13414
+Main Street of the Village~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.  To the south is the village square.    
+~
+134 32768 1 0 0
+D1
+~
+~
+0 0 13415
+D2
+~
+~
+0 0 13401
+S
+#13415
+Main Street of the Village~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.    
+~
+134 40960 1 0 0
+D0
+~
+~
+0 0 13403
+D1
+~
+~
+0 0 13487
+D2
+~
+~
+0 0 13416
+D3
+~
+~
+0 0 13414
+S
+#13416
+Main Street of the Village~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.  To the west is the village square.    
+~
+134 40960 1 0 0
+D0
+~
+~
+0 0 13415
+D1
+~
+~
+0 0 13488
+D2
+~
+~
+0 0 13417
+D3
+~
+~
+0 0 13401
+S
+#13417
+Main Street of the Village~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.    
+~
+134 40960 1 0 0
+D0
+~
+~
+0 0 13416
+D1
+~
+~
+0 0 13489
+D3
+~
+~
+0 0 13418
+S
+#13418
+Main Street of the Village~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.  To the north is the village square.  Back south is the gate
+leading out of the village.    
+~
+134 32768 1 0 0
+D0
+~
+~
+0 0 13401
+D1
+~
+~
+0 0 13417
+D2
+~
+gate~
+1 0 13480
+D3
+~
+~
+0 0 13419
+S
+#13419
+Main Street of the Village~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.    
+~
+134 32768 1 0 0
+D0
+~
+~
+0 0 13420
+D1
+~
+~
+0 0 13418
+D3
+~
+~
+0 0 13421
+S
+#13420
+Main Street of the Village~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.  To the east is the village square.    
+~
+134 32768 1 0 0
+D1
+~
+~
+0 0 13401
+D2
+~
+~
+0 0 13419
+S
+#13421
+Main Street of the Village~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.  Entrance to a large building to the north is barred by a rosewood
+door carved with runes.    
+~
+134 32768 1 0 0
+D0
+   A large rosewood door, covered with various runes, bars entrance to the
+building.    
+~
+door rosewood~
+1 0 13490
+D1
+~
+~
+0 0 13419
+D3
+~
+~
+0 0 13402
+S
+#13422
+An Herb Shack~
+   You walk into a small hut filled with all kinds of dried plants and roots.
+A rather old brewing pot is set in the middle of the shack, emitting a distinct
+and unique aroma.  Small candles are placed intermittently along the walls,
+providing precious little useful light.  Villagers come here when they are ill,
+to seek cure from these medicinal plants.    
+~
+134 32768 0 0 0
+D0
+~
+door~
+1 0 13423
+S
+#13423
+A Garden~
+   Lush green vines cover the wooden fences that borders this small courtyard.
+Exotic white flowers carpet the ground, creating a flower bed that brightens
+this garden.  Various kinds of roots and leaves are spread out on a mat to be
+sundried.  A small shack lies to your south.    
+~
+134 32768 1 0 0
+D2
+~
+door~
+1 0 13422
+D3
+~
+~
+0 0 13424
+S
+#13424
+A Garden~
+   Lush green vines cover the wooden fences that borders this small courtyard.
+Exotic, white flowers carpet the ground, creating a flower bed that brightens
+this garden.  Various kinds of roots and leaves are spreaded out on a mat to be
+sundried.  A small gate lies to your west.    
+~
+134 32768 0 0 0
+D1
+~
+~
+0 0 13423
+D3
+~
+gate~
+1 0 13431
+S
+#13425
+An Old Barn~
+   You step into a rather old and dilapidating barn.  The barn is partitioned
+to separate the different cattles and animals that are kept here.  Stacks of
+hays are arranged at one end of the barn, while what seems to be bags of
+harvest are kept at another end.    
+~
+134 32768 0 0 0
+D0
+~
+~
+0 0 13428
+D3
+~
+~
+0 0 13426
+S
+#13426
+An Old Barn~
+   You step into a rather old and dilapidating barn.  The barn is partitioned
+to separate the different cattles and animals that are kept here.  Stacks of
+hays are arranged at one end of the barn, while what seems to be bags of
+harvest are kept at another end.    
+~
+134 32772 0 0 0
+D0
+~
+~
+0 0 13427
+D1
+~
+~
+0 0 13425
+D2
+~
+door~
+1 0 13434
+S
+#13427
+An Old Barn~
+   You step into a rather old and dilapidating barn.  The barn is partitioned
+to separate the different cattles and animals that are kept here.  Stacks of
+hays are arranged at one end of the barn, while what seems to be bags of
+harvest are kept at another end.    
+~
+134 32768 0 0 0
+D1
+~
+~
+0 0 13428
+D2
+~
+~
+0 0 13426
+S
+#13428
+An Old Barn~
+   You step into a rather old and dilapidating barn.  The barn is partitioned
+to separate the different cattles and animals that are kept here.  Stacks of
+hays are arranged at one end of the barn, while what seems to be bags of
+harvest are kept at another end.    
+~
+134 32768 0 0 0
+D2
+~
+~
+0 0 13425
+D3
+~
+~
+0 0 13427
+S
+#13429
+A Village Path~
+   A sudden gush of wind swirls the sand and dust on the ground into the air.
+You attempt to cover your face with your hands as you continue along this
+street.  Children can be seen running about, giggling and laughing as they
+chase the cats with sticks and buckets of water.    
+~
+134 32768 0 0 0
+D0
+~
+~
+0 0 13434
+D1
+~
+door~
+1 0 13439
+D2
+~
+~
+0 0 13433
+S
+#13430
+A Village Path~
+   A sudden gust of wind swirls the sand and dust on the ground into the air.
+You attempt to cover your face with your hands as you continue along this
+street.  Children can be seen running about, giggling and laughing as they
+chase the cats with sticks and buckets of water.    
+~
+134 32768 0 0 0
+D0
+~
+~
+0 0 13433
+D2
+~
+~
+0 0 13404
+S
+#13431
+A Stone Path~
+   The stone path is lined on both sides by thick, but neatly trimmed bushes.
+Walking along this path, you feel the freshness of the air as a light breeze
+gently slaps on your face.  The calmness of this area is a contrast from the
+hustle and bustle of town.  A small gate lies to your east.    
+~
+134 32768 0 0 0
+D1
+~
+gate~
+1 0 13424
+D2
+~
+~
+0 0 13432
+S
+#13432
+A Stone Path~
+   The stone path is lined on both sides by thick, but neatly trimmed bushes.  
+Walking along this path, you feel the freshness of the air as a light breeze
+gently slaps on your face.  The calmness of this area is a contrast from the
+hustle and bustle of town.    
+~
+134 32768 0 0 0
+D0
+~
+~
+0 0 13431
+D2
+~
+~
+0 0 13435
+S
+#13433
+A Village Path~
+   You continue to stroll along this path, stopping occasionally to examine the
+goods traded by the villagers.  You feel you are being scrutinized by some of
+them, mainly because of your strange attire and clothing.  Their attention
+spans are not long though, as they return to their gossip after a quick glance
+and a comment or two.  A wooden gate lies to your west.    
+~
+134 32768 0 0 0
+D0
+~
+~
+0 0 13429
+D1
+~
+door~
+1 0 13477
+D2
+~
+~
+0 0 13430
+D3
+~
+gate~
+1 0 13452
+S
+#13434
+A Village Path~
+   You continue to stroll along this path, stopping occasionally to examine the
+goods traded by the villagers.  You feel you are being scrutinized by some of
+them, mainly because of your strange attire and clothing.  Their attention
+spans are not long though, as they return to their gossip after a quick glance
+and a comment or two.  An old building lies to the north.    
+~
+134 32768 0 0 0
+D0
+~
+door~
+1 0 13426
+D1
+~
+~
+0 0 13410
+D2
+~
+~
+0 0 13429
+S
+#13435
+A Village Path~
+   You continue to stroll along this path, stopping occasionally to examine the
+goods traded by the villagers.  You feel you are being scrutinized by some of
+them, mainly because of your strange attire and clothing.  Their attention
+spans are not long though, as they return to their gossip after a quick glance
+and a comment or two.  The local tavern lies to the south.    
+~
+134 32768 1 0 0
+D0
+~
+~
+0 0 13432
+D1
+~
+~
+0 0 13409
+D2
+~
+door ~
+1 0 13437
+D3
+~
+~
+0 0 13410
+S
+#13436
+A Village Path~
+   You continue to stroll along this path, stopping occasionally to examine the
+goods traded by the villagers.  You feel you are being scrutinized by some of
+them, mainly because of your strange attire and clothing.  Their attention
+spans are not long though, as they return to their gossip after a quick glance
+and a comment or two.    
+~
+134 32768 0 0 0
+D1
+~
+~
+0 0 13405
+D3
+~
+~
+0 0 13409
+S
+#13437
+Tavern~
+   You walked into the local tavern of this small village.  There are a few
+barrels of ale located behind the bar, just enough for the minute amount of
+patrons.  Tables are scattered around the room, most of them empty at this time
+of the day.  A bartender stands behind the bar, filling the mugs with ale.    
+~
+134 32780 0 0 0
+D0
+~
+door~
+1 0 13435
+D2
+~
+door~
+1 0 13478
+S
+#13438
+A Dwelling~
+   You step into a comfortable, little cottage.  It is very nicely furnished,
+with a short legged table sitting in the middle, surrounded by finely carved
+wooden chairs.  Atop a stove at one end is a clay pot, emitting a tantalising
+aroma that reminds you of home cooked food.    
+~
+134 32776 0 0 0
+D1
+~
+door~
+1 0 13404
+S
+#13439
+A Dwelling~
+   You step into a comfortable, little cottage.  It is very nicely furnished,
+with a short legged table sitting in the middle, surrounded by finely carved
+wooden chairs.  Atop a stove at one end is a clay pot, emitting a tantalizing
+aroma that reminds you of home cooked food.    
+~
+134 32776 0 0 0
+D3
+~
+door~
+1 0 13429
+S
+#13440
+A Dwelling~
+   You step into a comfortable, little cottage.  It is very nicely furnished,
+with a short legged table sitting in the middle, surrounded by finely carved
+wooden chairs.  Atop a stove at one end is a clay pot, emitting a tantalising
+aroma that reminds you of home cooked food.    
+~
+134 32776 0 0 0
+D0
+~
+door~
+1 0 13402
+S
+#13441
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13452
+D3
+~
+~
+0 0 13462
+S
+#13442
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13454
+D1
+~
+~
+0 0 13452
+D2
+~
+~
+0 0 13462
+D3
+~
+~
+0 0 13461
+S
+#13443
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13455
+D1
+~
+~
+0 0 13454
+D2
+~
+~
+0 0 13461
+D3
+~
+~
+0 0 13456
+S
+#13444
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13475
+D1
+~
+~
+0 0 13455
+D2
+~
+~
+0 0 13456
+D3
+~
+~
+0 0 13457
+S
+#13445
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13457
+D1
+~
+~
+0 0 13456
+D2
+~
+~
+0 0 13459
+D3
+~
+~
+0 0 13458
+S
+#13446
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13458
+D1
+~
+~
+0 0 13459
+D2
+~
+~
+0 0 13451
+D3
+~
+~
+0 0 13469
+S
+#13447
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13459
+D1
+~
+~
+0 0 13460
+D3
+~
+~
+0 0 13451
+S
+#13448
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13476
+D2
+~
+~
+0 0 13463
+D3
+~
+~
+0 0 13464
+S
+#13449
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13466
+D1
+~
+~
+0 0 13457
+D2
+~
+~
+0 0 13458
+D3
+~
+~
+0 0 13474
+S
+#13450
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13456
+D1
+~
+~
+0 0 13461
+D2
+~
+~
+0 0 13460
+D3
+~
+~
+0 0 13459
+S
+#13451
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13446
+D1
+~
+~
+0 0 13447
+D3
+~
+~
+0 0 13473
+S
+#13452
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.  A wooden gate lies to the east.    
+~
+134 32772 2 0 0
+D0
+~
+~
+0 0 13463
+D1
+~
+gate~
+1 0 13433
+D2
+~
+~
+0 0 13441
+D3
+~
+~
+0 0 13442
+S
+#13453
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13461
+D1
+~
+~
+0 0 13462
+D3
+~
+~
+0 0 13460
+S
+#13454
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13464
+D1
+~
+~
+0 0 13463
+D2
+~
+~
+0 0 13442
+D3
+~
+~
+0 0 13443
+S
+#13455
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13467
+D1
+~
+~
+0 0 13464
+D2
+~
+~
+0 0 13443
+D3
+~
+~
+0 0 13444
+S
+#13456
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13444
+D1
+~
+~
+0 0 13443
+D2
+~
+~
+0 0 13450
+D3
+~
+~
+0 0 13445
+S
+#13457
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13471
+D1
+~
+~
+0 0 13444
+D2
+~
+~
+0 0 13445
+D3
+~
+~
+0 0 13449
+S
+#13458
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13449
+D1
+~
+~
+0 0 13445
+D2
+~
+~
+0 0 13446
+D3
+~
+~
+0 0 13465
+S
+#13459
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13445
+D1
+~
+~
+0 0 13450
+D2
+~
+~
+0 0 13447
+D3
+~
+~
+0 0 13446
+S
+#13460
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13450
+D1
+~
+~
+0 0 13453
+D3
+~
+~
+0 0 13447
+S
+#13461
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13443
+D1
+~
+~
+0 0 13442
+D2
+~
+~
+0 0 13453
+D3
+~
+~
+0 0 13450
+S
+#13462
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly winds slap
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13442
+D1
+~
+~
+0 0 13441
+D3
+~
+~
+0 0 13453
+S
+#13463
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13448
+D2
+~
+~
+0 0 13452
+D3
+~
+~
+0 0 13454
+S
+#13464
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13472
+D1
+~
+~
+0 0 13448
+D2
+~
+~
+0 0 13454
+D3
+~
+~
+0 0 13455
+S
+#13465
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13474
+D1
+~
+~
+0 0 13458
+D2
+~
+~
+0 0 13469
+S
+#13466
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D1
+~
+~
+0 0 13471
+D2
+~
+~
+0 0 13449
+D3
+~
+~
+0 0 13470
+S
+#13467
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 32768 2 0 0
+D1
+~
+~
+0 0 13472
+D2
+~
+~
+0 0 13455
+D3
+~
+~
+0 0 13475
+S
+#13468
+Wheat Field~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+134 0 2 0 0
+S
+#13469
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13465
+D1
+~
+~
+0 0 13446
+D2
+~
+~
+0 0 13473
+S
+#13470
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D1
+~
+~
+0 0 13466
+D2
+~
+~
+0 0 13474
+S
+#13471
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D1
+~
+~
+0 0 13475
+D2
+~
+~
+0 0 13457
+D3
+~
+~
+0 0 13466
+S
+#13472
+Wheat Field~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+134 32768 2 0 0
+D1
+~
+~
+0 0 13476
+D2
+~
+~
+0 0 13464
+D3
+~
+~
+0 0 13467
+S
+#13473
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13469
+D1
+~
+~
+0 0 13451
+S
+#13474
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13470
+D1
+~
+~
+0 0 13449
+D2
+~
+~
+0 0 13465
+S
+#13475
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D1
+~
+~
+0 0 13467
+D2
+~
+~
+0 0 13444
+D3
+~
+~
+0 0 13471
+S
+#13476
+Wheat Field~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+134 32768 2 0 0
+D2
+~
+~
+0 0 13448
+D3
+~
+~
+0 0 13472
+S
+#13477
+A Small Dwelling~
+   The house is a little cramped, with farming tools and straw baskets neatly
+arranged at the corner.  A small fireplace is built into the northern wall,
+providing little warmth on this cold day.  A wooden, rocking chair is set
+beside the fireplace, with a small footstool at the side.    
+~
+134 32776 0 0 0
+D3
+~
+door~
+1 0 13433
+S
+#13478
+A Dirty Alley~
+   The alley is barely two armlengths wide and seems to be the dump of this
+village.  The walls are cracking with obvious crevices.  As you squeeze your
+way through the passage, you notice beggars squating at the sides of this
+alley, scavaging for any remnants of food from the trash.  A strong stench of
+rotting flesh fills your nostrils as you stand in this filthy place.    
+~
+134 32769 0 0 0
+D0
+~
+door~
+1 0 13437
+D1
+~
+~
+0 0 13411
+S
+#13479
+A Cozy House~
+   The house eventhough small, is very cosily set up.  Drapes are hung on the
+windows, whild the dull floor is covered with a handmade mat.  A small
+crackling fireplace provides the house with minimal warmth.  A hand drawn
+portrait of a family is displayed on the wall.    
+~
+134 32776 0 0 0
+D1
+~
+door~
+1 0 13403
+S
+#13480
+Entrance to the Village~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard from the north.  A low wall surrounds the
+village which lies immediately to the north.    
+~
+134 32772 1 0 0
+D0
+~
+gate~
+1 0 13418
+D2
+~
+~
+0 0 13481
+S
+#13481
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be closeby.    
+~
+134 32772 2 0 0
+D0
+~
+~
+0 0 13480
+D8
+~
+~
+0 0 13482
+S
+#13482
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be closeby.    
+~
+134 32768 2 0 0
+D2
+~
+~
+0 0 13483
+D7
+~
+~
+0 0 13481
+S
+#13483
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be closeby.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13482
+D9
+~
+~
+0 0 13484
+S
+#13484
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be closeby.    
+~
+134 32768 2 0 0
+D2
+~
+~
+0 0 13485
+D6
+~
+~
+0 0 13483
+S
+#13485
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be closeby.    
+~
+134 32768 2 0 0
+D0
+~
+~
+0 0 13484
+D9
+~
+~
+0 0 8801
+S
+#13486
+A Small One Room Cottage~
+   This small, one room cottage is sturdily made to withstand years of abuse by
+whoever inhabits it.  A series of stones has been arranged in the center of the
+room, upon which a fire can be built for cooking or for heat.  A small hammock
+hangs across one corner of the room, giving the cottage's sole occupant a place
+to sleep.  A hole in the center of the roof allows the smoke or any odors that
+accumulate in this cottage a way out.    
+~
+134 33589772 0 0 0
+D3
+~
+~
+0 0 13403
+S
+#13487
+A Small One Room Cottage ~
+   This small, one room cottage is sturdily made to withstand years of abuse by
+whoever inhabits it.  A series of stones has been arranged in the center of the
+room, upon which a fire can be built for cooking or for heat.  A small hammock
+hangs across one corner of the room, giving the cottage's sole occupant a place
+to sleep.  A hole in the center of the roof allows the smoke or any odors that
+accumulate in this cottage a way out.    
+~
+134 33589772 0 0 0
+D3
+~
+~
+0 0 13415
+S
+#13488
+A Small One Room Cottage ~
+   This small, one room cottage is sturdily made to withstand years of abuse by
+whoever inhabits it.  A series of stones has been arranged in the center of the
+room, upon which a fire can be built for cooking or for heat.  A small hammock
+hangs across one corner of the room, giving the cottage's sole occupant a place
+to sleep.  A hole in the center of the roof allows the smoke or any odors that
+accumulate in this cottage a way out.    
+~
+134 33589772 0 0 0
+D3
+~
+~
+0 0 13416
+S
+#13489
+A Small One Room Cottage ~
+   This small, one room cottage is sturdily made to withstand years of abuse by
+whoever inhabits it.  A series of stones has been arranged in the center of the
+room, upon which a fire can be built for cooking or for heat.  A small hammock
+hangs across one corner of the room, giving the cottage's sole occupant a place
+to sleep.  A hole in the center of the roof allows the smoke or any odors that
+accumulate in this cottage a way out.    
+~
+134 33589772 0 0 0
+D3
+~
+~
+0 0 13417
+S
+#13490
+Entrance to the Three Moons Academy~
+   The threshold of the academy is elaborately decorated with tapestries that
+hang along the walls.  The entrace is kept lit by the magical globes of light
+that float just below the ceiling.  The faint glow emitted by the light casts a
+pleasing luminescence over the room.  A rosewood door leading back out to the
+village is situated to the south while the rest of the academy awaits to the
+north.    
+~
+134 32780 0 0 0
+D0
+~
+~
+0 0 13491
+D2
+   A rosewood door to the south leads back out to the village.    
+~
+rosewood door~
+1 0 13421
+E
+tapestry~
+   Among the other works of art hanging on the walls of the entrance, this one
+catches your eyes immediately.  It depicts a powerful robed figure standing
+under a night sky.  The figure is bathed from the light of the three aligned
+moons in the heavens.  The figure has its hands raised towards the heavens in
+what seems to be a gesture of supplication, as if offering itself to be used as
+an instrument by the moons.  Embroidered letters on the bottom of the tapestry
+reveals the phrase, 'For Magic Alone'.    
+~
+S
+#13491
+A Wide Hallway Within the Three Moons Academy~
+   The hallway is very wide, allowing four or five people to walk abreast down
+its length.  The floor is carpeted in royal blue that muffles the sounds of
+footsteps.  Overhead, small globes of light float freely under the ceiling.  A
+wooden door set into the east wall leads into the classroom as the sign above
+the doorway indicates.  The walls are bare save for a framed piece of parchment
+hanging in the middle of the west wall.    
+~
+134 32776 0 0 0
+D0
+~
+~
+0 0 13493
+D1
+~
+door rosewood~
+1 0 13492
+D2
+~
+~
+0 0 13490
+E
+framed parchment~
+Scrawled neatly on the parchment in glowing silver ink are these words:
+
+The gods of magic bestowed these three laws unto us:
+
+Solinari's Law: All wizards are brothers and sisters in their Order. All orders
+               are brothers and sisters in power.
+Lunitari's Law: The places of High Sorcery are held in common among all orders
+              and no sorcery is to e used there in anger against fellow 
+              wizards.
+Nuitari's Law: The world beyond the walls of the towers may bring brother
+              against sister and order against order, but such is the way of
+               the universe.
+
+The Academy will observe Lunitari's Law to full effect within its walls
+~
+S
+#13492
+The Classroom~
+   The classroom is a large room filled with desks and chairs.  Three rows of
+desks fill the majority of the room as well as a table in located in front of
+the class.  A large skeleton of a manticore has been placed off to the side for
+study.  Shelves laden with jars containing magical components as well as
+ingredients line the walls.  A large tome bound in dark leather lies closed on
+top of the desk in front.  A rosewood door placed into the western wall, leads
+back out into the hallway.    
+~
+134 32776 0 0 0
+D3
+~
+door rosewood~
+1 0 13491
+D8
+~
+~
+0 0 -1
+E
+tome~
+   The large leather-bound tome remains closed despite your best efforts at
+trying to open it.  The owner only knows the secrets that lie within the book.
+The cover reveals nothing of what is inside nor does it offer a clue as to who
+the owner is.    
+~
+E
+skeleton manticore~
+   The skeleton is a fine specimen of the fearsome creatures known as
+manticores.  It measures a little over ten feet long, possessing a human like
+skull and a tail that ends in a mass of bone spikes.  It stands on four legs
+and possesses large bat like wings.  The skeleton seems to be rather new, as
+the bones haven't been allowed to yellow yet.    
+~
+S
+#13493
+A Wide Hallway Within the Three Moons Academy~
+   The wide hallway stretches off to the north and south.  The air is dry and
+carries the scent of rose petals among some other unpleasant odors.  Royal blue
+carpeting covers the floor of the hallway, offering a splash of color upon the
+rather drab gray colors of the walls.  The walls speak of the skill of the
+academy's builder, as it is smooth to the touch.  Low murmuring can be heard
+coming from all directions as students practice their spells and conduct their
+experiments.  An opening to the west leads into the library.    
+~
+134 32776 0 0 0
+D0
+~
+~
+0 0 13496
+D2
+~
+~
+0 0 13491
+D3
+~
+~
+0 0 13494
+S
+#13494
+The Library of the Three Moons Academy~
+   The soft radiance of candlelight brightens the normally dark library.  
+Books of arcane lore are neatly stacked upon wooden bookshelves that dominate a
+large part of the room.  A row of tables covered in blank and partially written
+parchments can be seen extending to the southern end of the library.  The
+windows are covered by thick red curtains to protect the precious tomes of
+knowledge from the harsh sunlight.  Students are expected to create their own
+source of light should they require a higher level of visibility.    
+~
+134 32776 0 0 0
+D1
+~
+~
+0 0 13493
+D2
+~
+~
+0 0 13495
+S
+#13495
+The Library of the Three Moons Academy~
+   The air carries the musty order of aging sheets of parchment as well as the
+heady scent of dried rose petals.  The room is lit by soft and soothing
+candlelight.  Tomes filled with magical spells and theories fill every shelf.
+The floor is covered by a soft rug so as to not disturb the heavy silence that
+prevails in this sanctuary of the arcane.  The library extends to the north
+where the exit to the rest of the academy lies.    
+~
+134 32768 0 0 0
+D0
+~
+~
+0 0 13494
+S
+#13496
+A Hallway Within the Three Moons Academy~
+   The powerful scent of dried rose petals and spices lay thick in the air.  
+Though to some the odor may be almost overwhelming, the students here don't
+seem to pay any heed to it at all.  Smooth stone walls meet the royal blue
+carpeting that covers the floor.  The temperature within the academy is
+slightly warmer than average which is probably due to the more dangerous spells
+performed by the students.  Magic is a powerful presence within the academy,
+its influence can almost be physically felt.    
+~
+134 32776 0 0 0
+D0
+~
+~
+0 0 13497
+D2
+~
+~
+0 0 13493
+S
+#13497
+A Hallway Within the Three Moons Academy~
+   The one and only hallway of the academy comes to an end here, before the
+door of the Headmaster.  To many of the students that attend the academy, this
+is one of the most feared places to be, as fear and guilt wash over them before
+entering the office to face whatever fate lies in store for them.  The hallway
+itself is kept very clean due to the misbehaving students who were given
+janitorial duties as punishment for their behavior.  Floating overhead, are
+small globes of light that keep the hallway lit.    
+~
+134 32776 0 0 0
+D1
+~
+door~
+1 0 13498
+D2
+~
+~
+0 0 13496
+S
+#13498
+The Office of Headmaster Mercullius~
+   Headmaster Mercullius's office is a simple room devoid of the frivolties
+found within the school.  A plain wooden desk set before a modest chair made of
+pine wood inhabits the center of the office.  A long shelf of books occupies
+the wall directly behind the desk, filled with books bound in red leather.  A
+tapestry hangs upon the northern wall, depicting one of the Towers of High
+Sorcery.  A door to the west leads back into the academy.    
+~
+134 32780 0 0 0
+D0
+~
+tapestry~
+1 0 13499
+D3
+~
+door~
+1 0 13497
+E
+tapestry~
+   The tapestry is a beautiful piece of art, depicting the Tower of High
+Sorcery in Daltigoth.  The Tower is bathed in the red and white moonlight of
+Lunitari and Solinari.  Surrounding the Tower is the Grove of Daltigoth which
+puts any who walks through the Grove unannounced into a deep slumber.  The
+tapestry was placed in the office as a momento of Headmaster Mercullius's
+hometown.  Small ripples, barely even seen, appear upon the fabric as if there
+was air blowing from behind it.    
+~
+S
+#13499
+Headmaster Mercullius's Private Study~
+   The study of Headmaster Mercullius is a cozy room that possesses no windows.
+A candle lights the room with its everlasting flame.  A bookshelf is located in
+one corner of the room, its shelves laden with ancient tomes and glass jars
+filled with mundane spell components.  A table made of oak is piled with rolls
+of parchment and various vials of multicolored liquids.  Scrolls with minor
+enchantments scribed onto them hang from the walls.  An opening to the south is
+covered by a tapestry depicting the red moon, Lunitari.    
+~
+134 32776 0 0 0
+D2
+~
+tapestry~
+1 0 13498
+S
+$~

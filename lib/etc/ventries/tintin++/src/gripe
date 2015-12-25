@@ -1,0 +1,47 @@
+#!/bin/sh
+#
+# Send email to the tintin++ development team: use this for
+# bug reports, questions, pleas for help, or anything, really.
+#
+
+# Our email address -- hopefully this won't change too soon.
+DEVTEAM=reiss@ritchie.acomp.usf.edu
+
+TMP=/tmp/gripe.$$
+FORMFEED=""
+
+echo "Please type your question, complaint, or comment now."
+echo "Type control-D alone on a line when you are finished."
+echo " "
+
+cat - >$TMP
+
+echo " "
+echo "Thank you!  We will try to answer your email as soon as possible."
+echo "--The tintin++ development team"
+
+# Get some extra information the sender might forget to include.
+
+echo " "		>>$TMP
+echo "$FORMFEED"	>>$TMP
+echo " "		>>$TMP
+echo "This is a program-generated gripe.  Output follows:"	>>$TMP
+echo " "		>>$TMP
+uname -a		>>$TMP
+echo "$FORMFEED"	>>$TMP
+grep VERSION tintin.h	>>$TMP
+echo "$FORMFEED"	>>$TMP
+cat /etc/motd		>>$TMP
+echo "$FORMFEED"	>>$TMP
+ls -C			>>$TMP
+echo "$FORMFEED"	>>$TMP
+# Just send the configurable section of the Makefile
+LINES=`grep -n GREP-FOR-ME Makefile | cut -d: -f1`
+head -$LINES Makefile	>>$TMP
+
+# Send the email and be done with it already!
+
+mail -s 'A tintin++ gripe' $DEVTEAM <$TMP
+rm -f $TMP
+exit 0
+

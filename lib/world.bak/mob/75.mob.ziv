@@ -1,0 +1,356 @@
+#7500
+badger z75mob~
+a badger~
+A little beady-eyed badger sniffs the air.
+~
+   This creature has a thick coat of gray fur streaked with black.  Its eyes
+are beady and it twitches its nose as it sniffs the air.  Even though it is not
+a large animal, its sharp claws and equally sharp teeth help it find and defeat
+its prey, mostly burrowing animals and snakes.    
+~
+200 1024 0 0 E
+8 15 8 5d5+110 2d6+2
+150 800 0
+8 8 0 0
+E
+#7501
+dog wild z75mob~
+a wild dog~
+A wild dog trots by, looking much like a small wolf.
+~
+   This dog's round eyes are brown with speckles of blue.  His coat is light gray,
+moving to white at his chest.  He seems unconcerned with your presence, which
+may be just as well.  You can catch a glimpse of his fangs as he trots by, holding
+his tail in a neutral, "I'm taking care of my own business" position.
+~
+72 1056 0 0 E
+9 15 7 5d5+130 2d7+1
+177 1300 0
+8 8 1 0
+BareHandAttack: 4
+E
+#7502
+pony frisky spirited z75mob~
+a frisky pony~
+A spirited pony with a tawny mane pauses to nibble some leaves.
+~
+   This spirited pony looks just the right size to provide transportation for a
+gnome or kender.  Her tail switches back and forth as she pulls off some leaves
+from a small plant.  She seems to keep at least one eye on you as she nibbles.
+Her pale cream-colored coat and tawny mane stand out against the dark colors of
+the forest backdrop.    
+~
+72 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+185 1865 0
+8 8 2 0
+BareHandAttack: 16
+E
+#7503
+nymph wood z75mob~
+a wood nymph~
+An incredibly lovely nymph stands motionless, blending in with the trees.
+~
+   Once you see her, it is hard not to become transfixed upon her amazing
+beauty.  Her hair is long and thick, framing a perfectly molded face with
+glowing skin, full lips and gentle eyes.  Her youthful form is sleek and
+sensuous, and she has a most intoxicating sweet, fresh scent.    
+~
+1065098 33802 0 0 E
+13 12 3 6d5+240 2d4+2
+400 6675 0
+8 8 2 0
+BareHandAttack: 11
+E
+#7504
+unicorn mystical z75mob~
+a mystical unicorn~
+A shimmering white unicorn stamps the ground softly with its hoof.
+~
+   This stunning white creature resembles a small horse, except for the single
+swirled horn projecting from its forehead.  Its coat, mane and tail are all a
+pristine white color.  Its hooves appear silvered, and fine crystal beads have
+been braided into its mane.  What is more astonishing, however, are its large
+soft eyes of liquid umber - they seem to reach into your own orbs and touch the
+truth of your soul.    
+~
+81930 1160 0 800 E
+16 11 0 3d20+220 3d6+4
+550 12000 0
+8 8 0 0
+BareHandAttack: 11
+E
+#7505
+crow curious z75mob~
+a curious crow~
+A crow with blue-black feathers cocks its head and peers at you.
+~
+   A large crow alights here, examining its surroundings first with one eye,
+and then turning its head, the other eye.  It has feathers so black they shine
+a midnight blue in the pale light.  Its deep yellow beak looks sharp, and its
+feet end in small talon-like claws.    
+~
+76 66560 0 0 E
+10 14 6 5d4+160 2d7+2
+191 1875 0
+8 8 0 0
+BareHandAttack: 14
+E
+#7506
+lynx spotted z75mob~
+a spotted lynx~
+A spotted lynx prowls the forest, slinking low to the ground.
+~
+   Here crouches a cat-like creature with powerful legs and a short bobbed
+tail.  Tufts of fur surround her ears and puff out from her cheeks.  Her body
+is muscular and her limbs end in large paws with visibly sharp claws.  She
+moves silently and swiftly, with seeming purpose and intelligence.    
+~
+88 263200 0 -355 E
+11 14 5 5d6+180 2d8+2
+210 2900 0
+8 8 2 0
+BareHandAttack: 8
+E
+#7507
+spider gargantuan z75mob~
+a gargantuan spider~
+An enormous spider dangles here from a silken thread as big as a rope.
+~
+   The spider's relatively tiny head turns slowly atop a huge round body
+covered with what looks like coarse short hair.  Her multi-faceted eyes glitter
+slightly, shining red.  She bears two gray stripes on her abdomen, but the rest
+of her body is black.  She hangs from a thick strand attached to a giant web up
+above her in the tree.    
+~
+133130 1056 0 -400 E
+12 13 4 5d6+210 2d8+3
+255 4770 0
+8 8 2 0
+BareHandAttack: 4
+E
+#7508
+spider brown fur-covered furry z75mob~
+a fur-covered spider~
+A large, brown furry spider clings to the bark of an immense tree.
+~
+   Covered with brown hair, this spider has large jointed legs that extend a
+good three feet from its body.  It crawls rapidly up the bark of a tree as it
+hunts for other insects to satisfy its enormous appetite.  Twin claw-like tubes
+project from the sides of its mouth, most likely used to inject venom into its
+prey.    
+~
+72 1024 0 0 E
+9 15 7 5d5+130 2d7+1
+163 1300 0
+8 8 0 0
+BareHandAttack: 1
+E
+#7509
+bat bats swarm z75mob~
+a swarm of bats~
+A small swarm of bats swoops through the air.
+~
+   Moving swiftly in unison, a small swarm of bats circle and dip in the air.
+Each one has dark grey fur, bony skinned wings and small clawed feet.  They fly
+nearly noiselessly and with remarkable agility, avoiding the obstructions
+presented by low branches or the mosses that hang from the trees.    
+~
+7340120 1024 0 0 E
+10 14 6 5d4+160 1d3+2
+178 2000 0
+8 8 0 0
+BareHandAttack: 10
+E
+#7510
+ettercap z75mob~
+an ettercap~
+An ettercap, arms trailing on the ground, is making chittering noises.
+~
+   This creature stands about six feet tall even though he is hunched over.  
+His legs are short, but his arms are very long and spindly with three fingers
+and a thumb.  His features are ugly, to put it kindly.  He has a mottled
+covering of patchy spotted fur, large dark glassy eyes, a pair of gray fangs,
+and ears that stick up like small cones with tufts of fur at the top.  He looks
+dim-witted but also seems protective of the spiders who inhabit this part of
+the forest.    
+~
+4168 1024 0 0 E
+13 13 3 6d5+240 3d6+2
+383 6700 0
+8 8 1 0
+E
+#7511
+frog giant z75mob~
+a giant frog~
+A frog of large proportions sits here, croaking.
+~
+   Here sits a very large frog with smooth light green skin, banded by stripes
+of much darker green on its back and hind legs.  It rests at the edge of the
+pond, taking up about 3 to 4 feet of space on the ground.  Once in a while its
+eyelids meet bottom to top.  Once it gets comfortable with your presence, it
+puffs out its huge throat bladder and begins croaking a deep forest song.    
+~
+10 134218752 0 0 E
+9 15 7 5d5+130 2d7+1
+160 1300 0
+8 8 0 0
+BareHandAttack: 6
+E
+#7512
+kirre cat striped z75mob~
+a striped kirre~
+A brown and gray striped kirre stands cat-like upon its eight legs.
+~
+   Nearly eight feet long, this cat-like creature twitches his tail as you
+approach.  His body is covered in fur and striped like a tiger, only the
+coloration is gray and brown.  Each of his eight legs end in clawed pads, but
+his teeth are canine in appearance, and he seems to regard you as something
+that might make a good meal.    
+~
+280650 1056 0 0 E
+15 11 1 5d10+300 2d8+4
+500 8400 0
+8 8 1 0
+BareHandAttack: 8
+E
+#7513
+centaur leader z75mob~
+a centaur leader~
+The leader of a centaur band takes a protective stance at your presence.
+~
+   This centaur is clearly the leader of his small band.  His human torso
+ripples with muscles and he wields a finely polished oaken club in one hand,
+and carries a shield in the other.  His coat is reddish brown and glossy, and
+he walks pulling each hooved leg up high and proud.  His tail is wrapped with
+braided leather strips.    
+~
+6236 5120 0 400 E
+14 12 2 6d8+240 2d8+4
+200 7000 3
+8 8 1 0
+BareHandAttack: 5
+E
+T 7502
+#7514
+centaur female z75mob~
+a centaur female~
+A centaur female twitches her tail proudly.
+~
+   A young centaur female watches you with curiousity.  Her soft blue eyes give
+her a gentle look.  She has long light brown hair that tumbles around her
+shoulders, and wears a flowery wreath around her neck.  Her pale golden coat is
+set off by more tiny blue flowers woven into her braided tail.    
+~
+74 1024 0 400 E
+12 13 4 5d6+210 2d8+3
+420 4700 6
+8 8 2 0
+BareHandAttack: 16
+E
+T 7501
+#7515
+centaur stallion young z75mob~
+a centaur stallion~
+A young centaur stallion with a flowing tail prances happily.
+~
+   He holds a spear made of hardwood, and his glistening chestnut coat is
+unmarked yet from any battles.  His tail is undecorated, a further indication
+of his relative youth.  However, he looks very fit with powerful muscles
+supporting his torso, strong arms, and well-developed hindquarters.  He has
+shoulder-length deep brown hair, and steel gray eyes that gleam with
+innocence.    
+~
+10 1024 0 400 E
+10 14 6 5d4+160 2d7+2
+300 1950 3
+8 8 1 0
+BareHandAttack: 15
+E
+T 7500
+#7516
+sundew giant tendrils sticky z75mob~
+a giant sundew~
+A syrupy smell surrounds a mound of grayish-green sticky tendrils.
+~
+   Flies buzz continuously around the sundew's mass of gray-green thick
+tendrils.  It seems to slumber in the shade of the forest floor.  On closer
+examination you can see hair-like roots that anchor it only lightly in place.
+It exudes sticky gobs of sap that account for the sickly-sweet odor in the air.
+~
+10 0 0 0 E
+11 14 5 5d4+190 2d8+2
+245 2900 0
+8 8 0 0
+BareHandAttack: 2
+E
+#7517
+treant young z75mob~
+a young treant~
+A treant with tough, barklike skin watches over this section of forest.
+~
+   At first glance, this treant looks just like a gnarled hardwood tree.  It
+has a trunk-like body and its arms are like twisted branches.  Above its eyes,
+and along its head, are dozens of small branches hung with large green leaves.
+As it stands, its legs mold together perfectly, completing the impression.  It
+observes you with an intelligent gaze, as if to say, "I will tolerate no
+malicious activity here."
+~
+88092 791592 0 750 E
+15 11 1 5d10+300 2d8+4
+460 8600 0
+8 8 0 0
+BareHandAttack: 5
+E
+#7518
+thornslinger spidery plant z75mob~
+a carnivorous thornslinger~
+A spidery white plant with pale yellow blossoms lies close to the ground.
+~
+   Lying next to a stone wall, this thornslinger covers an area about eight
+feet in diameter.  Its leaves form a sworl that radiate out from its central
+stem, and buried within is a large number of thorns that can fly out in a
+stinging shower.  Its lemon-colored blooms are covered with dew and wave gently
+at the end of spidery stalks.    
+~
+10 0 0 0 E
+13 13 3 6d5+240 2d9+2
+330 6625 0
+8 8 0 0
+BareHandAttack: 11
+E
+#7519
+ranger vivacious z75mob~
+a vivacious ranger~
+A vivacious ranger strides briskly among the huge trees.
+~
+   This lass seems spirited and energetic, demonstrating the boyuancy of one
+still relatively young.  She wears no metal or chain, just natural fibers and
+skins, but she is armed with both a bow and a blade.  Her rusty brown hair is
+shoulder-length which she tames by wearing a headband across her brow.  She
+seems quite at home amid the animals and plant-life of this forest, as if this
+area were under her guardianship.    
+~
+528460 1024 288 0 E
+11 14 5 5d4+190 2d8+2
+275 3100 6
+8 8 2 0
+E
+#7599
+tree oak large~
+the oak tree~
+A large oak tree, grown from a special pine cone, has been named Ye Kesseltop.
+~
+   This large oak tree soars up into the sky here.  Its topmost branches reach
+out above the highest buildings in the area while its lower ones cover and
+shade the plaza.  One of its lower branches has a thin rope hanging from it
+with a loop at the end of it.  It almost looks like someone has tried to make a
+swing.  There are plump oranges growing from some of the limbs.    
+~
+254042 235155496 0 0 E
+31 0 -15 1d176+1662 1d5+20
+0 0 0
+8 8 0 0
+BareHandAttack: 6
+E
+$

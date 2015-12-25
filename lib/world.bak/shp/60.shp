@@ -1,0 +1,78 @@
+CircleMUD v3.0 Shop File~
+#6030~
+6024
+6025
+6026
+6027
+6028
+6029
+6031
+6032
+6033
+6034
+6035
+-1
+1.10
+0.70
+2& magic
+4& magic
+8
+10
+11
+21
+12
+3
+-1
+%s I ain't got no more 'o 'dem.~
+%s Ye ain't got dat! What, ye tink I be stupid or somethin'?~
+%s Hey, dis is a quality 'stablishment, I don' buy crud like dat.~
+%s Dat be costin' too much fer me.~
+%s Yeah, yeah, come back when ye can pay fer it, ye idiot!~
+%s Ye owe me %s and I'll be countin' it just so's ye know.~
+%s I'll give ye %s and not one coin more fer dat.~
+0
+3
+6030
+0
+6030
+-1
+0
+28
+0
+0
+1
+18
+#6032~
+6043
+6044
+6045
+6046
+6047
+6048
+6049
+-1
+1.10
+0.50
+17
+19
+-1
+%s Hmm, I don't think I have any of that.~
+%s Umm, I don't think you have that.~
+%s Sorry, I don't buy those here.~
+%s I'm a simple man, I can't afford such things.~
+%s I'm sorry, but you're a bit low on coin for that.~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+3
+6032
+0
+6032
+-1
+0
+28
+0
+0
+1
+38
+$~

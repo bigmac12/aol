@@ -1,0 +1,531 @@
+#1200
+Bug Board Room~
+   This room is surrounded by massive granite columns, placed in a perfect
+circle around a massive pile of notes.  Humble gods arrive occationally to add
+a note to the pile.  If you are lucky, you will see a dark shadow arrive once
+in a while to pick up the pile.  He then drops a note announcing wondrous new
+additions to the mud.....  And is gone in the blink of an eye.    
+~
+12 8 0 0 0
+D0
+The Immortal Board Room can be seen to the north.
+~
+~
+0 -1 1204
+D1
+~
+~
+0 0 1207
+D3
+~
+~
+0 0 1208
+S
+#1201
+Immortal Acres Sanitarium~
+   Since you would have to be certifiably insane to be up here, this once cozy
+inn has been transformed.  The walls are heavily padded, as is the floor, in
+order to keep deeply frustrated immortals from bashing their head into them.  
+So if you are having a bad day or are ready to play the random disconnect game,
+take a small retreat to Immortal Acres.  After a short break and a few hundred
+deep breaths, you should start to feel better (we hope).    
+~
+12 8 0 0 0
+D0
+~
+~
+0 0 1209
+D2
+~
+~
+0 0 1204
+S
+#1202
+The Abyssal Prison~
+   Frail bars of swirling etherial mist rise up from the infinity above and
+below you, reaching claw-like into the churning mass of deep grey clouds.  The
+only light that can be seen is from brief, streaked flashes of forked blue
+lightning as it courses across the void, with a rumble to follow like the groan
+of the earth itself.  You have angered the gods, and are thus in prison.  
+Please type POLICY to review the MUD's policies.  You may inquire as to which
+policies you have broken, and how long you will be serving in prison for your
+crimes against the MUD by writing to chemosh@ageoflegends.planetmud.com.  In
+the meantime, have a pleasant stay.    
+~
+12 184 0 0 0
+S
+#1203
+Mortal's Main Board~
+   This is the Mortal's Main Board, set up here for quick access by the gods.
+In the eastern hallway, the Mortal's boards float in midair, waiting for
+perusal by omniscient minds.  The Groovy Pad of the Gods lies through an
+archway to the west.    
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1220
+D3
+~
+~
+0 0 1204
+S
+#1204
+Sanctuary of the Gods~
+   Do you hear that?  Silence.  No sign of any morts.  You've come to the
+sanctuary of the gods; a place where each god can just sit back in his or her
+own private corner and relax.  You're free to do almost anything, whether it be
+drowning yourself in Zivilyn's Fountain, or throwing darts at pinned up mortals
+using Lunitari's darts.  Majere's cat girls lie unattended off to one corner,
+while the Tobril has been cast aside by Gilean in favour of a bottle of
+Tequila.  Chemosh fawns over his cars while Takhisis stands close by, listening
+rather inattentively to his incessant prattle about engines and exhausts.  
+Mishakal is off in the world spreading her healing, while Paladine falls prey
+to Square Enix's new plot for world domination.  Kiri-Jolith is off somewhere
+with Sargonnas doing gods-know-what with gods-know-whom, while Chislev and
+Hiddukel prance around wondering if it's time they should check in for work
+yet.  Nuitari goes about the area putting up posters which depict a powerful
+message. 
+~
+12 8 0 0 0
+D0
+~
+~
+0 0 1201
+D1
+~
+~
+0 0 1203
+D2
+The Gods' Meeting Room is located to the south.
+~
+~
+0 -1 1200
+D3
+The Gods' Post Office is just to the west.
+~
+~
+0 -1 1205
+D4
+There is a small stair in the corner leading up to the social room of
+the Gods.
+~
+~
+0 -1 1206
+D5
+~
+~
+0 0 1998
+E
+poster~
+   A picture can be seen of a god smiting a mortal.  The caption reads *Nike
+Swoop* &WJust do it&n.
+~
+S
+#1205
+The Post Office Of The Gods~
+   The Post Office Of The Gods is the same as most Post Offices except that
+it is not as slow.  Even the Postal service knows not to anger the Gods.
+Piles of junk mail line the walls.  I guess even Gods get on mailing lists.
+The Immortal Board Room is to the east.
+~
+12 8 0 0 0
+D0
+~
+~
+0 0 1217
+D1
+The Immortal Board Room is just to the east.
+~
+~
+0 -1 1204
+D2
+~
+~
+0 0 1218
+D3
+~
+~
+0 0 1219
+S
+#1206
+The Idea Room~
+   Racks of books rest against the walls, most empty and without titles, ready
+to be filled with the ingenius ideas of the gods of Krynn.  A small but very
+clear sign in the corner reads "Please keep ideas to 8 lines or less, or you
+will be hunted down and strung naked from a tree, left to be eaten by forest
+animals.  Thank you".  You make sure to heed this before immortalizing your
+idea in one of the many books.    
+~
+12 8 0 0 0
+D5
+The Immortal Board Room is just down through the floor.  Funny how you
+didn't notice that exit before isn't it?
+~
+~
+0 -1 1204
+S
+#1207
+Builders Board Room~
+   You've walked into a room littered with papers of various sizes and shapes.
+Looking closely at the papers you've determined that they are maps of Krynn,
+with detailed plans written on the edges, arrows pointing around them wildly.
+This room is a place where builders may gather to discuss and gain ideas from
+one another in what things to be added to this world.  Helpful guidelines are
+also posted to aid newer builders in their plight.    
+~
+12 8 0 0 0
+D3
+~
+~
+0 0 1200
+S
+#1208
+Imps Board Room~
+   You stumble into a room.  A board lies here waiting to be read.  Strong
+magical energy comes from the board.    
+~
+12 1032 0 0 0
+D1
+~
+~
+0 0 1200
+S
+#1209
+The Meeting Room~
+   You are in a cozy parlor, warmed by a gentle magical fire that blazes
+merrily in the fireplace and yet cooled by a window at the opposite end of
+the room, lit by the light of the fire yet at the same time darkened by
+things unknown.  There are no doors out, but clearly, those who would meet
+here do not need them.  It seems almost as if whatever climate one would
+prefer is one that they have, even for multiple persons at the same time with
+varying interests and areas of control.  You feel very at peace here.
+~
+12 28 0 5 0
+D2
+~
+~
+0 0 1201
+S
+#1210
+A Huge Walk-in Closet~
+   You walk into a room that is used for hanging clothes.  It is large enough
+that it has several dressers in it and still has room to walk around.  The
+dressers are made of marble and elegantly crafted undoubtedly by the hands of
+some of the best Dwarven artisans on Krynn.  The carpet is plush, deep, and
+black, but very soft and comforting against your feet.    
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1211
+D9
+~
+~
+0 0 1212
+S
+#1211
+A Bathing Room~
+   You stand in a large bathing room that is elegantly designed, and seems like
+it would be at home in one of the wealthy mansions in Palanthas.  There is a
+large bay window in the wall facing out, over looking the Forest of Wayreth,
+with closeable blinds on either side of the window.  There is a large bathing
+tub sitting infront of the window, but it is likely that no one can see up in
+the window at the top of the tower, so the curtains are normally left hanging
+open.    
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1213
+D2
+~
+~
+0 0 1212
+D3
+~
+~
+0 0 1210
+S
+#1212
+A Large Bedroom~
+   A beautiful, and incredibly large bedroom is what you have walked into.  It
+soars high above your head, and the soft, black carpet seems to sink three
+inches each time you step on it.  There are vanity mirrors for those who like
+to primp themselves before leaving, as well as trays of scented water and
+perfumes.  The walls are a soft white, made to seem all the more white by the
+black rug.    
+~
+12 6668 0 0 0
+D0
+~
+~
+0 0 1211
+D1
+~
+~
+0 0 1214
+D2
+~
+~
+0 0 6048
+D6
+~
+~
+0 0 1210
+D7
+~
+~
+0 0 1213
+S
+#1213
+A Dining Room~
+   This room is what servs as a dining and sitting room.  The outer part of the
+room is a wall that is taken up by a huge bay window overlooking the Forest of
+Wayreth.  The carpet in here is a soft red, while the walls are typically
+white.  The carpet is soft, seeming to sink around your feet as if trying to
+comfort them as much as possible.  Trays of candies rest on the many small
+tables in the room as well as pitchers of water, ale, wine and other drinks
+from far away lands.    
+~
+12 8 0 0 0
+D2
+~
+~
+0 0 1214
+D3
+~
+~
+0 0 1211
+D8
+~
+~
+0 0 1212
+S
+#1214
+A Kitchen~
+   You step into a large kitchen and pantry.  It has in it many chopping blocks
+as well as a huge place that can be lit with a fire to cook many dinners at
+once and a smaller place to cook less dinners.  There is a box filled with ice
+that keeps food frozen until it is needed with a box above that keeps it
+chilled instead of frozen for drinks and such.  The walls are white, and the
+floor is a white marble.  There are cooking utensils hanging neatly from the
+walls and pans stacked properly in several corners.    
+~
+12 0 0 0 0
+D0
+~
+~
+0 0 1213
+D3
+~
+~
+0 0 1212
+S
+#1215
+A Humble Cabin~
+   You stand in a spacious, yet sparsely furnished one-room log cabin.  The
+walls are free of adornment, save for one ink rendition of the goddess
+Mishakal, surrounded in a soft blue light.  There is a cooking fire and table
+on the west side of the room, and a small pantry nearby.  To the east is a soft
+featherbed, hidden by a thin curtain hung from the rafters.  The center of the
+room is furnished simply with two comfortable chairs and a low table containing
+several books and parchment scrolls.  The cabin is lit by several candles of
+various colors that offer a soft light and cast warm shadows in the corners.  
+~
+12 48 0 0 0
+S
+#1216
+Darkness~
+   Nothing is visible in any direction.  Darkness is all encompassing.  A
+chilling breeze is in the air, carrying on it a strong sense of forboding.    
+~
+12 138316 0 2 0
+S
+#1217
+The Immortal Game Room~
+   This room reminds one of an M.  C.  Escher painting.  There are too many
+corners within this room, as well as angles and perspectives that hurt the
+eyes.  In each corner can be found either a board game in play, or a sketch or
+model of either a creature, object or even an area of the world.  In the midst
+of the room, almost invisible in the chaos of the lines and walls, is a board,
+showing the gods' views and ideas for quests, invasions, rp issues, as well as
+other social aspects.    
+~
+12 8 0 0 0
+D2
+~
+~
+0 0 1205
+S
+#1218
+The Immortal Chamber of Rule Enforcement~
+   This room has taken on the appearance of a supreme court judgement chamber,
+with its long oak table and the line of tall chairs setting behind it.  The
+face of the table is actually a large immortal board, upon which the immortals
+can write posts to the general gods' assembly of the problem players, as well
+as other such possible rule enforcement issues.
+~
+12 8 0 0 0
+D0
+~
+~
+0 0 1205
+S
+#1219
+An Immortal Policy Room~
+   The room is dark and appears to have no walls, ceiling or floor - just a
+thin veil of curtain that comes and goes to determine the boundaries.  This
+room is like a room within rooms - inbetween fantasy and reality, held bound
+only by the object that glows suspended in the center of the room.    
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1205
+S
+#1220
+Mortal OOC Board~
+   This is the Mortal Out of Character board.  West leads back to the Main
+Mortal Board, while East leads to the Mortal Bug Board.  Go down at any time to
+return to the Groovy Pad of the Gods.    
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1221
+D3
+~
+~
+0 0 1203
+D5
+~
+~
+0 0 1204
+S
+#1221
+Mortal Bug Board~
+   This is the Mortal Bug Board.  West leads to the Mortal OOC Board, while
+east is the Mortal Crime Board.  Go down at any time to return to the Groovy
+Pad of the Gods.    
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1222
+D3
+~
+~
+0 0 1220
+D5
+~
+~
+0 0 1204
+S
+#1222
+Mortal Crime Board~
+   This is the Mortal Crime Board.  West leads back to the Mortal Bug Board,
+while east is the Mortal Trade Board.  Go down at any time to return to the
+Groovy Pad of the Gods.    
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1223
+D3
+~
+~
+0 0 1221
+D5
+~
+~
+0 0 1204
+S
+#1223
+Mortal Trade and Special Events Board~
+   This is the Mortal Trade Board.  West leads back to the Mortal Crime Board,
+while east is the Mortal World News Board.  Go down at any time to return to
+the Groovy Pad of the Gods.    
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1224
+D3
+~
+~
+0 0 1222
+D5
+~
+~
+0 0 1204
+S
+#1224
+Mortal RP Board Room~
+   This board is for the questions, comments, and ideas or suggesstions that
+the mortals may have concerning things such as RP, Quests, Invasions, and minor
+or major situations, historys, backgrounds for characters that might occur, or
+that they wish to do.  Imms may reply as well on this board, to answer or ask
+for ideas about any RP-type situation.    
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1225
+D3
+~
+~
+0 0 1223
+D5
+~
+~
+0 0 1204
+S
+#1225
+Mortal Policy Board~
+   This is the Mortal Policy Board.  West leads back to the Mortal World News
+Board, while to the east is a portal that will take you back to the Groovy Pad
+of the Gods.  As in the other rooms, you can also go down to reach the Pad.  
+~
+12 8 0 0 0
+D1
+~
+~
+0 0 1204
+D3
+~
+~
+0 0 1224
+D5
+~
+~
+0 0 1204
+S
+#1226
+delete me~
+   The sheer immensity of this room is breathtaking, its walls seeming to waver
+as your mind grapples to comprehend their heights.  Along the walls are thick
+tapestries in warm tones of red, green and brown, their edges finished in thin
+loosely braided tassels.  These perhaps account for the almost unnerving lack
+of echo so natural in a space this size.  At the front of the cathedral stands
+not an altar, but rather a tremendous pool, its waters hot to the touch and
+possessing a mirror-like calm.  There is a sense of flux here that defies
+explanation, an overwhelming feeling that despite the apparent age of the
+tapestries and pool, this cathedral is indeed, still being built.  Still more
+daunting to the logical mind, is the complete lack of a ceiling and the
+recently installed roof shingles upon the floor.  There is an inexpressible
+peace here which causes one to hold their breath unconsciously, not wishing to
+disturb this sacred place.    
+~
+12 28 0 0 0
+S
+$~

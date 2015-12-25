@@ -1,0 +1,30 @@
+5
+bless
+139
+emote declares in a clear voice "Lord of Vengance, grant your servant power that he may bring Your Wrath upon those before me!"; cast bless
+1
+2
+cm
+23
+cast cure-moderate self
+0
+2
+ms
+18
+cast magical-stone
+0
+3
+gac
+22
+get all corpse; sco; l
+1
+5
+cause
+16
+cast cause-light
+0
+2
+cl
+20
+cast cure-light self
+0

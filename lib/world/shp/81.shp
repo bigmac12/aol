@@ -1,0 +1,354 @@
+CircleMUD v3.0 Shop File~
+#8100~
+8100
+8102
+8103
+8013
+8086
+-1
+1.25
+0.50
+3
+6
+24
+4
+10
+26
+25
+27
+2
+14
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+8100
+0
+8100
+-1
+4
+12
+13
+22
+1
+25
+#8101~
+8040
+8041
+8042
+8043
+8044
+8045
+8046
+8047
+8048
+8049
+8050
+8051
+8010
+8011
+43
+-1
+1.25
+0.50
+8
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+8101
+0
+8101
+-1
+4
+12
+13
+22
+1
+25
+#8103~
+5101
+5102
+5103
+5104
+5108
+5109
+-1
+1.25
+0.40
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+8103
+0
+8103
+-1
+0
+28
+0
+0
+1
+38
+#8104~
+8111
+8112
+8113
+8114
+8115
+-1
+1.25
+0.50
+18brass
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+8104
+0
+8104
+-1
+0
+28
+0
+0
+1
+38
+#8114~
+8117
+-1
+1.00
+0.70
+12map
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+3
+8106
+0
+8114
+-1
+0
+28
+0
+0
+1
+38
+#8126~
+8076
+8077
+8078
+8079
+8080
+8081
+8082
+8083
+8007
+8008
+8014
+-1
+1.05
+0.80
+15scabbard
+15sheath
+9wooden
+9wood
+5wooden
+5wood
+11
+9buckler
+-1
+%s Umm, I don't have that item.  Perhaps you're looking for something else?~
+%s You don't seem to have that.~
+%s I'm sorry, but I don't buy things like that.  Check with the other vendors.~
+%s I don't have enough money for that right now.~
+%s You don't have that much money with you right now.~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+8126
+0
+8126
+-1
+4
+12
+13
+22
+1
+25
+#8127~
+9903
+10035
+10018
+10052
+10034
+10089
+8058
+8057
+8056
+8055
+8054
+8053
+8052
+-1
+1.15
+0.65
+11paladine
+11mishakal
+11majere
+11kiri-jolith
+11habbakuk
+11branchala
+16deities
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+8127
+0
+8127
+-1
+4
+12
+13
+22
+1
+25
+#8128~
+8066
+8067
+8068
+8069
+8070
+8071
+8072
+8073
+8074
+8009
+8006
+-1
+1.20
+0.65
+11
+7
+-1
+%s I'm sorry, but I do not have anything like that.~
+%s Excuse me, but you don't seem to have that.~
+%s Try selling that to Calvin or another vendor please.~
+%s I seem to be out of money, it's been a slow day.~
+%s p~
+%s It costs %s, I hope it fits perfectly!~
+%s I'll buy that for %s.~
+0
+0
+8128
+0
+8128
+-1
+4
+12
+13
+22
+1
+25
+#8129~
+8059
+8060
+8061
+8062
+8063
+8064
+8065
+-1
+1.20
+0.70
+9
+7
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+8129
+0
+8129
+-1
+4
+12
+13
+22
+1
+25
+#8191~
+8190
+8191
+8192
+8193
+-1
+1.10
+0.85
+19
+17
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+8191
+0
+8191
+-1
+0
+28
+0
+0
+1
+38
+$~

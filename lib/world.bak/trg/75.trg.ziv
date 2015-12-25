@@ -1,0 +1,24 @@
+#7500
+Follow_the_Leader~
+0 g 100
+~
+if (%actor.vnum% == 7513)
+wait 1s
+follow leader
+end
+~
+#7501
+Follow_the_Leader_2~
+0 d 0
+Greetings stallion, and m'lady.  Follow me.~
+wait 1s
+follow leader
+~
+#7502
+Leader_invites_female_centaur~
+0 e 0
+A centaur stallion starts following you.~
+wait 1s
+say Greetings stallion, and m'lady.  Follow me.
+~
+$~

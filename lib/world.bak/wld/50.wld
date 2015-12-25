@@ -1,0 +1,2253 @@
+#5000
+Richwater Street~
+   There is no gate guarding the entrance to the city, only a large fence-type
+structure with curled iron bars decorating each side of the road.  The road
+itself glitters strangely - made of tiny crushed shells bonded by sandstone,
+creating a smooth walk, or ride, for travellers and merchants alike.
+~
+50 4 0 0 0
+D1
+~
+~
+0 0 5001
+D3
+~
+~
+0 0 10479
+S
+#5001
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels west, out of the city and along the coast, and west,
+toward the main center of Karthay.  Buildings line either side of the street,
+serving as home to some the businesses which call this city home.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5098
+D1
+~
+~
+0 0 5002
+D2
+~
+~
+0 0 5197
+D3
+~
+~
+0 0 5000
+S
+#5002
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels west, out of the city and along the coast, and east,
+toward the main center of Karthay.  An oddly colored building lies to the north
+of this road, its entrance a bit more eastwards.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5003
+D3
+~
+~
+0 0 5001
+S
+#5003
+Intersection of Richwater and Sandstone~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels west, out of the city and along the coast, and east,
+toward the main center of Karthay.  Another road intersects here, heading
+south.  To the north lies an oddly coloured building, with an outdoor
+courtyard.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5100
+D1
+~
+~
+0 0 5004
+D2
+~
+~
+0 0 5069
+D3
+~
+~
+0 0 5002
+E
+plaque carved building~
+   The plaque hanging from this oddly coloured building is carved into a huge
+oval, and garishly painted with bright greens, yellows and blues.  The sea
+kraken in the middle of the plaque has its mouth opened wide, and seems to be
+spewing forth frothy water the color of ale, as well as bits of wood, most
+likely from a ship.  Underneath is another smaller plaque with the words:
+                        Welcome to the Seasick Kraken
+~
+E
+sign large road street~
+                 North ----  Seasick Kraken Inn
+                             Seasick Kraken Bar and Grill
+                 East -----  Richwater Street
+                 West -----  Richwater Street
+                 South ----  Sandstone Lane
+~
+S
+#5004
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels west, out of the city and along the coast, and east,
+toward the main center of Karthay.  To the north is an oddly coloured building,
+its entrance a bit westwards.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5005
+D3
+~
+~
+0 0 5003
+S
+#5005
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels west and east, and a small building lies to the south.
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5006
+D2
+~
+~
+0 0 5179
+D3
+~
+~
+0 0 5004
+E
+plaque carved building~
+The plaque upon the side of this building is painted the color of red clay.
+Upon it is the carved design of full suit of leather armor, complete with
+leggings, breastplate, and helm.  Underneath the picture are the words:
+                      Cinnabar's Leatherworking Shop
+~
+S
+#5006
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels west and east.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5007
+D3
+~
+~
+0 0 5005
+S
+#5007
+Intersection of Richwater and Seraco~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels west, and turns to the north, and a second, smaller
+road starts here and heads southeast into the heart of the city.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5008
+D3
+~
+~
+0 0 5006
+D9
+~
+~
+0 0 5070
+E
+sign large road street~
+                      North ----- Richwater Street
+                      West ------ Richwater Street
+                      Southeast - Seraco Way
+~
+S
+#5008
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels east, and turns to the south.  Towards the north is a
+large stately mansion near the edge of the city.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5096
+D1
+~
+~
+0 0 5009
+D2
+~
+~
+0 0 5007
+S
+#5009
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The smell of the sea is strong but does not overpower the scent of
+cured pine and oak which exudes from the doorways of the many buildings along
+the road.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5010
+D3
+~
+~
+0 0 5008
+S
+#5010
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels west and east, with a large building to the south.  
+~
+50 4 0 0 0
+D1
+~
+~
+0 0 5011
+D2
+~
+~
+0 0 5118
+D3
+~
+~
+0 0 5009
+E
+plaque carved building~
+   The plaque hanging from this building is trimmed in gold and silver - making
+this an expensive sign.  A few small pictures are carved into this plaque,
+mostly small items like lanterns or coins.  The words below this sign read:
+-------------------------Shahara's Treasury-------------------------
+~
+S
+#5011
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The traffic in the road begins to pick up somewhat and the people
+around seem to be travelling in a purposeful manner.  This close to the
+mercantile district of the city it is unavoidable that the wealthy begin to
+emerge.  The road travels west and east.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5012
+D3
+~
+~
+0 0 5010
+S
+#5012
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels west and turns to the north.  A small, narrow alley
+lies to the southeast, it is rarely used by most travellers.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5013
+D3
+~
+~
+0 0 5011
+D9
+~
+~
+0 0 5083
+S
+#5013
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels south and north.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5014
+D2
+~
+~
+0 0 5012
+S
+#5014
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  Strange smells eminate from the window of a nearby building,
+something like the smell of hot metal still under the forge and spilling out
+sulfer.  The road continues south and north.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5015
+D2
+~
+~
+0 0 5013
+S
+#5015
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road continues south and turns to the east.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5016
+D2
+~
+~
+0 0 5014
+S
+#5016
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels east and west, and a small building lies to the south.
+~
+50 4 0 0 0
+D1
+~
+~
+0 0 5017
+D2
+~
+~
+0 0 5171
+D3
+~
+~
+0 0 5015
+E
+plaque carved building~
+The plaque hanging from above the door of this building is painted in shades of
+silvery blue, black and green, with an ornately detailed picture of the hilt of
+a sword.  Bright, bold words in white paint have been carved within the hilt:
+                            Arashi Weaponry
+~
+S
+#5017
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The shells have been purchased from the merchants off the docks who
+routinely used to dump tons of the material into the water just off shore,
+forming a huge mound that started to become a navigational hazard to the many
+ships that come in and out of Karthay harbour.  The road continues east and
+west.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5018
+D3
+~
+~
+0 0 5016
+S
+#5018
+Richwater Street~
+   This is one of the two main roads into Karthay - a wide, smooth road made of
+tiny crushed shells mixed with sandstone.  This odd composition actually makes
+the road smooth to travel upon, making it easier for travellers and merchants
+alike.  The road travels east and west, and a large building can be seen to the
+east, where this road ends and another crosses it.
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5022
+D3
+~
+~
+0 0 5017
+S
+#5019
+Shores Road~
+   There is only a gate keeper guarding the entrance to this city, but a large
+fence-type structure with curled iron bars decorating each side of the road.  
+The road also changes - from packed dirt and clay to the north, outside of the
+city to a pebbles, rocks, clay and sand mixture baked into bricks, that leads
+south into the city of Karthay.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 7399
+D2
+~
+~
+0 0 5020
+S
+#5020
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road travels north, out of town and along the beach, and south,
+into the main part of Karthay.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5019
+D2
+~
+~
+0 0 5021
+S
+#5021
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road travels north, out of town and along the beach, and south,
+into the main part of Karthay.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5020
+D2
+~
+~
+0 0 5022
+S
+#5022
+Intersection of Richwater and Shore~
+   This is the intersection of the two main roads of Karthay.  To the west is
+Richwater Street, the road of the merchants.  To the north and south is Shore
+Road, the road of the sailors.  A large building, with great white pillars on
+each side of the double doors, lies to the east.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5021
+D1
+~
+~
+0 0 5122
+D2
+~
+~
+0 0 5023
+D3
+~
+~
+0 0 5018
+E
+sign large street~
+                       North --------- Shore Road
+                       South --------- Shore Road
+                       West ---------- Richwater Street
+                       East ---------- Guild of the Warrior
+~
+E
+plaque building carved~
+This plaque has been carved into the shape of a shield, and hangs at the side
+of the door.  Upon this shield has been painted various weapons, surrounding
+a figure shrouded in rays of light.  The letters underneath the picture reads:
+                            Guild of the Warrior
+~
+S
+#5023
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road continues north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5022
+D2
+~
+~
+0 0 5024
+S
+#5024
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  Washed up over the road is a thin layer of salty weeds and a thin
+film of crystalline white, evidence of a recent high tide that exceeded the
+breakwater in place below the extensive docks present in Karthay.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5023
+D2
+~
+~
+0 0 5025
+S
+#5025
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  Washed up over the road is a thin layer of salty weeds and a thin
+film of crystalline white, evidence of a recent high tide that exceeded the
+breakwater in place below the extensive docks present in Karthay.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5024
+D2
+~
+~
+0 0 5026
+S
+#5026
+Intersection of Shore and Seraco~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road continues north and turns to the east, and a smaller road
+starts here, leading southwest into the heart of the city.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5025
+D1
+~
+~
+0 0 5027
+D8
+~
+~
+0 0 5073
+E
+sign large street road~
+                         North ------- Shores Road
+                         East -------- Shores Road
+                         Southwest --- Seraco Way
+~
+S
+#5027
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The rich smell of the sea overpowers the senses as a full gust of air
+from the water blows in from the direction of the docks.  The road continues west
+and turns to the south.    
+~
+50 4 0 0 0
+D1
+~
+~
+0 0 5094
+D2
+~
+~
+0 0 5028
+D3
+~
+~
+0 0 5026
+S
+#5028
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The rich smell of the sea overpowers as a gust of air from the water
+blows in from the docks.  The road travels west and turns to the south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5027
+D1
+~
+~
+0 0 5093
+D2
+~
+~
+0 0 5029
+S
+#5029
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road leads north and south, with a large, open-sided building to
+the west, where the pungent smell of fish - cooked and uncooked - drifts by
+with even the slightest breeze.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5028
+D1
+~
+~
+0 0 5092
+D2
+~
+~
+0 0 5030
+D3
+~
+~
+0 0 5182
+E
+plaque carved building~
+This plaque is carved in the shape of a huge fish and painted in blues and
+golds and reds.  Underneath the fish, on its belly, are painted the words:
+                       Karthay Fish Market
+~
+S
+#5030
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road leads to the north and south, and a large building lies to
+the west, its windows wide open to let out the overwhelming smell of fish.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5029
+D1
+~
+~
+0 0 5091
+D2
+~
+~
+0 0 5031
+D3
+~
+~
+0 0 5183
+S
+#5031
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road leads north, and turns to the east.  A small alleyway lies
+to the southwest, dark and rarely used.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5030
+D1
+~
+~
+0 0 5032
+D8
+~
+~
+0 0 5085
+S
+#5032
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road continues to the east and west.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5033
+D3
+~
+~
+0 0 5031
+S
+#5033
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road continues east and west.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5034
+D3
+~
+~
+0 0 5032
+S
+#5034
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road leads west, and turns to the south.    
+~
+50 0 0 0 0
+D2
+~
+~
+0 0 5035
+D3
+~
+~
+0 0 5033
+S
+#5035
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road leads north and south, and to the west is a small building.
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5034
+D2
+~
+~
+0 0 5036
+D3
+~
+~
+0 0 5191
+E
+plaque carved building~
+A large plaque hangs alongside the door of this building.  The picture on this
+plaque is of a small cross inside a faintly glowing circle, with an image of a
+large pearled shell creating an illusionistic background.   Upon the bottom of
+the shell are glittering words, painted in a neat, flowing script:
+                            The Holy Shell
+~
+S
+#5036
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road continues to the north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5035
+D2
+~
+~
+0 0 5037
+S
+#5037
+Shore Road~
+   The composition of this road seems to be leftover from all the other roads.
+Pebbles and rocks mixed with clay and sand, and baked altogether into large
+bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
+roadway.  The road continues to the north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5036
+D2
+~
+~
+0 0 5038
+S
+#5038
+Intersection of Shore and Calere~
+   Here is the interesection of Calere Lane and Shore Road, meeting at the
+entrance to the magnificient temple of Zeboim.  The courtyard of the temple
+lies to the southeast, with the shining white sandstone structure surrounding
+it on all sides.  To the north is the pebble, clay and sand brick road of
+Shore, and to the east lies Calere, an odd road made of a light colored clay.
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5037
+D3
+~
+~
+0 0 5039
+D9
+~
+~
+0 0 5130
+E
+plaque building carved~
+The plaque hanging upon this building is done in intricately carved designs
+and painted in shades of blue, white, and grey.  The designs portray a
+stormy sea, with rolling waves crashing and splashing all around.  Deep
+black letters surrounded by dark blue is done in a flowing script, reading:
+                 Ye Temple of the Great Sea Goddess, Zeboim
+~
+E
+sign street large~
+                  North ----------- Shore Road
+                  West ------------ Calere Lane
+                  Southeast ------ Temple of Zeboim
+~
+S
+#5039
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The road ends to the east at the
+entrance to the magnificient temple of Zeboim, and continues west.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5038
+D3
+~
+~
+0 0 5040
+S
+#5040
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  Sounds of sea birds swirl
+overhead as their vauge shapes slowly glide down towards the docks to the east.
+Far in the distance rings the sound of a ship's bell.  The road travels west
+and east.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5039
+D3
+~
+~
+0 0 5041
+S
+#5041
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The road continues to the west
+and east, and a small building with brightly coloured windows of painted glass
+lies to the north.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5195
+D1
+~
+~
+0 0 5040
+D3
+~
+~
+0 0 5042
+E
+plaque carved building~
+This plaque is done in brightly painted golds, silvers, reds, and greens,
+with sparkling gemstones and glittering rings covering the plaque.  Bright
+blue and white letters are even decorated with tiny rubies, and reads:
+                         Shandra's Gems and Jewelry
+~
+S
+#5042
+Intersection of Calere and Seraco~
+   This road is formed from an oddly colored light clay, somewhat resembling a
+marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The road continues to the east
+and turns southwards, and another smaller road branches off from here, heading
+northwest into the heart of the city.  Hanging over the road is a long wire
+that traverses between the opposing buildings of the streets.  Large banners of
+the Karthay navy are hung from this denoting a long since past festival
+celebrating one of their victories.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5041
+D2
+~
+~
+0 0 5043
+D6
+~
+~
+0 0 5076
+E
+sign street large~
+                    Northwest ---- Seraco Way
+                    East --------- Calere Lane
+                    South -------- Calere Lane
+~
+S
+#5043
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The road turns to the north, and
+travels to the west towards what appears to be a low building down the street
+with a hazy fog lifting out off its roof.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5042
+D3
+~
+~
+0 0 5044
+S
+#5044
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The high peak of roof casts a
+sharp shadow down across the road and causes mold to grow up against the wall.
+The road travels east and west.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5043
+D3
+~
+~
+0 0 5045
+S
+#5045
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  A narrow length of wood extends
+across the rooves as a precarious walkway between homes at a high height.  The
+road leads east and west.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5044
+D3
+~
+~
+0 0 5046
+S
+#5046
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling a
+marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The road leads east and west, and
+to the north is a marbled building of red, white and black stones, creating
+patterns of moons and stars with the stones.  A strange odor like that of
+burning hair permeates the street in this area.  It is difficult to determine
+exactly where the scent is coming from but a wispy, dark smoke streams out of a
+nearby doorway and encircles the ankles.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5196
+D1
+~
+~
+0 0 5045
+D3
+~
+~
+0 0 5047
+E
+plaque carved building sign~
+The plaque upon this building almost blends in with the patterend stones.
+It is in the shape of a six pointed star, with a shimmering white disk
+at the top of the star, a clear red disk in the upper left part of the
+star, and a gleaming black disk in the upper right.  Blue words read:
+                      Under the Moonglow
+~
+S
+#5047
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The road leads east and turns to
+the south, and a small alley branches off to the northwest.  Oddly, the sounds
+of rowdy laughing can be heard from within the alley.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5046
+D2
+~
+~
+0 0 5048
+D6
+~
+~
+0 0 5087
+S
+#5048
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  Small leaves of pale grass grow
+up through the cobbles, straining in the dim and dry alley.  The road leads
+north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5047
+D2
+~
+~
+0 0 5049
+S
+#5049
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling a
+marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  A narrow length of wood extends
+across the tops of the buildings as a precarious walkway between homes at a
+high height.  The road leads north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5048
+D2
+~
+~
+0 0 5050
+S
+#5050
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The road continues to the north
+and turns westwards away from a large cluster of run down shacks at the edge of
+the city.  Pieces of torn fabric hang out of roughly formed windows in the
+stone buildings.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5049
+D3
+~
+~
+0 0 5051
+S
+#5051
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The high peak of roof casts a
+sharp shadow down across the road and causes mold to grow up against the wall.
+The road travels east and west.    
+~
+50 8192 0 0 0
+D0
+~
+~
+0 0 5175
+D1
+~
+~
+0 0 5050
+D3
+~
+~
+0 0 5052
+S
+#5052
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  The road turns to the north, and
+travels to the west towards what appears to be a low building down the street
+with a hazy fog lifting out off its roof.    
+~
+50 8192 0 0 0
+D0
+~
+~
+0 0 5174
+D1
+~
+~
+0 0 5051
+D3
+~
+~
+0 0 5053
+S
+#5053
+Calere Lane~
+   This road is formed from an oddly colored light clay, somewhat resembling
+a marbled cream and light charcoal grey.  The large bricks have been baked to a
+dull shine, turning them almost transparent.  Small leaves of pale grass grow
+up through the cobbles, straining in the dim and dry alley.  The road leads
+east and west.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5052
+D3
+~
+~
+0 0 5054
+S
+#5054
+Intersection of Sandstone and Calere~
+   A great tower of obsidian looms over this intersection, its outer walls
+right next to the road.  The entrance to this tower is to the southwest - no
+iron bars or gates appear, but a hint of a shimmering can be detected if
+watched closely.  This is the tower of the lady mage who resides in Karthay.  
+To the north is Sandstone Lane, and to the east is Calere Lane.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5055
+D1
+~
+~
+0 0 5053
+D8
+~
+~
+0 0 5155
+E
+sign street large~
+                           North -------- Sandstone Lane
+                           East --------- Calere Lane
+                           Southwest ---- SeaMist Tower
+~
+E
+plaque building carved~
+This plaque is elegantly done in the same shimmering black as the rest
+of the walls, and the tower, is done in.  Deeply etched silver and gold
+lettering can be seen within the plaque, shimmering to catch your eye.
+                  SeaMist Tower - Home of Lady Rubina
+                 You will do well to not enter without
+                 the Lady's Permission.  However, she
+                 does make exceptions at times, these
+                 being those of her profession seeking
+                 the Lady's knowledge, and others who
+                 follow a course more along the lines
+                 of Nature - wishing to find knowledge
+                 in herbs, flowers, and other plants.
+
+                        Beware of Dragon
+~
+S
+#5055
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the north, and ends south at an intersection.    
+~
+50 8192 0 0 0
+D0
+~
+~
+0 0 5056
+D1
+~
+~
+0 0 5172
+D2
+~
+~
+0 0 5054
+S
+#5056
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the north and south.    
+~
+50 8192 0 0 0
+D0
+~
+~
+0 0 5057
+D1
+~
+~
+0 0 5173
+D2
+~
+~
+0 0 5055
+S
+#5057
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5058
+D2
+~
+~
+0 0 5056
+S
+#5058
+Intersection of Sandstone and Seraco~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the south and turns westwards.  Another road branches off
+here, leading northeast into the heart of the city.    
+~
+50 0 0 0 0
+D2
+~
+~
+0 0 5057
+D3
+~
+~
+0 0 5059
+D7
+~
+~
+0 0 5079
+E
+sign large street~
+                     West ---------- Sandstone Lane
+                     South --------- Sandstone Lane
+                     Northeast ----- Seraco Way
+~
+S
+#5059
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the north and turns to the east.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5060
+D1
+~
+~
+0 0 5058
+S
+#5060
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5061
+D2
+~
+~
+0 0 5059
+D6
+~
+~
+0 0 5189
+S
+#5061
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5062
+D2
+~
+~
+0 0 5060
+S
+#5062
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the north and south, and to the east is a brightly
+coloured building.  The sounds of tinkling and chimes come from within.    
+~
+50 4 0 0 0
+D0
+~
+~
+0 0 5063
+D2
+~
+~
+0 0 5061
+E
+plaque building carved~
+This plaque is brightly colored and even cluttered with dozens of tiny
+pictures of different things, ranging from hair clips, buttons, pins -
+usually things most others wouldn't buy.  Sometimes, though, this store
+has something interesting or useful to sell.  The bright lettering reads:
+                        Tinsel's Stuff
+~
+S
+#5063
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues south and turns to the west. A small darkened alley
+branches off to the northeast.    
+~
+50 0 0 0 0
+D2
+~
+~
+0 0 5062
+D3
+~
+~
+0 0 5064
+D7
+~
+~
+0 0 5090
+S
+#5064
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filled with
+hard packed red clay, giving the impression of small red veins within the
+yellow white road.  An occasional chip in the road causes it to be a bit
+rougher for those who tend to ride in luxury, and is therefore less traveled by
+the rich.  The road continues to the east and west.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5063
+D3
+~
+~
+0 0 5065
+S
+#5065
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+fitted tightly together.  The tiny cracks in between each piece are filledwith hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the east and west.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5064
+D3
+~
+~
+0 0 5066
+S
+#5066
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+tightly fit together.  The tiny cracks in between each piece is filled with hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the east and turns to the north.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5067
+D1
+~
+~
+0 0 5065
+D9
+~
+~
+0 0 5186
+S
+#5067
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+tightly fit together.  The tiny cracks in between each piece is filled with hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5068
+D2
+~
+~
+0 0 5066
+S
+#5068
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+tightly fit together.  The tiny cracks in between each piece is filled with hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the north and south.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5069
+D2
+~
+~
+0 0 5067
+S
+#5069
+Sandstone Lane~
+   Great chunks of flattened sandstone line this road, each one polished and
+tightly fit together.  The tiny cracks in between each piece is filled with hard
+packed red clay, giving the impression of small red veins within the yellow
+white road.  An occasional chip in the road causes it to be a bit rougher for
+those who tend to ride in luxury, and is therefore less traveled by the rich.  
+The road continues to the south, and intersects with one of the main roads of
+Karthay, and at the entrance to an oddly colored building.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5003
+D2
+~
+~
+0 0 5068
+S
+#5070
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.    
+~
+50 0 0 0 0
+D6
+~
+~
+0 0 5007
+D9
+~
+~
+0 0 5071
+S
+#5071
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, with a crystal statue emerging from it.
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5116
+D6
+~
+~
+0 0 5070
+D8
+~
+~
+0 0 5089
+D9
+~
+~
+0 0 5072
+S
+#5072
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.  As you approach
+the center of the city the high rooves begin to part and allow an unobstructed
+view of the beautiful sky above, as well as the strange dark shapes which
+circle overhead.    
+~
+50 0 0 0 0
+D6
+~
+~
+0 0 5071
+D9
+~
+~
+0 0 5082
+S
+#5073
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.    
+~
+50 0 0 0 0
+D3
+~
+~
+0 0 5176
+D7
+~
+~
+0 0 5026
+D8
+~
+~
+0 0 5074
+E
+plaque sign building carved painted~
+   Carved across the face of the simple wooden board is the symbol of
+a large hammer striking an anvil.
+~
+S
+#5074
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.    
+~
+50 0 0 0 0
+D6
+~
+~
+0 0 5084
+D7
+~
+~
+0 0 5073
+D8
+~
+~
+0 0 5075
+S
+#5075
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.  The sound of a
+gentle fountain underscores and draws the attention against the everyday noise
+of the city.    
+~
+50 0 0 0 0
+D7
+~
+~
+0 0 5074
+D8
+~
+~
+0 0 5082
+S
+#5076
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.    
+~
+50 0 0 0 0
+D6
+~
+~
+0 0 5077
+D9
+~
+~
+0 0 5042
+S
+#5077
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.    
+~
+50 0 0 0 0
+D6
+~
+~
+0 0 5078
+D7
+~
+~
+0 0 5086
+D9
+~
+~
+0 0 5076
+S
+#5078
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.  As you approach
+the center of the city the high rooves begin to part and allow an unobstructed
+view of the beautiful sky above, as well as the strange dark shapes which
+circle overhead.    
+~
+50 0 0 0 0
+D6
+~
+~
+0 0 5082
+D9
+~
+~
+0 0 5077
+S
+#5079
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.  The nearby
+sounds of a bar filter out into the street and disturb an otherwise quiet walk.
+~
+50 0 0 0 0
+D7
+~
+~
+0 0 5080
+D8
+~
+~
+0 0 5058
+S
+#5080
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.  Although
+similar to the majority of the streets in the city, it seems here as if some
+level of effort has been left out.  The buildings seem old and run down and
+refuse lines the edges of the roadway.    
+~
+50 0 0 0 0
+D7
+~
+~
+0 0 5081
+D8
+~
+~
+0 0 5079
+D9
+~
+~
+0 0 5088
+S
+#5081
+Seraco Way~
+   The bricks that make up this road are bleached white and are speckled with
+bits of brown, black and red, creating a odd looking road.  All around are
+different types of buildings - some larger than others, some more brightly
+painted, and some in more need of repair - yet all have a spacious feel to
+them.  Toward the heart of the city, where it is most crowded, lies a great
+fountain, complete with an amazingly realistic crystal statue.  The sound of a
+gentle fountain underscores and draws the attention against the everyday noise
+of the city.    
+~
+50 0 0 0 0
+D7
+~
+~
+0 0 5082
+D8
+~
+~
+0 0 5080
+S
+#5082
+Seraco Crossing~
+   This is a large intersection as it is the heart of the city of Karthay.  
+The bricks are bleached white, and some are painted in beautiful designs,
+creating a mosaic pattern of a giant sea turtle - with the fountain residing
+upon the turtle's back.  Each leg points to the smaller road of Seraco Way -
+and its head points southwards.  A constant humming sound surrounds this
+intersection, most likely from the dozens of people who come and go.    
+~
+50 0 0 0 0
+D6
+~
+~
+0 0 5072
+D7
+~
+~
+0 0 5075
+D8
+~
+~
+0 0 5081
+D9
+~
+~
+0 0 5078
+E
+basin fountain~
+   Within the shallow basin of the fountain can be seen the glimmer of coins,
+mostly gold - but a few silver and copper can be seen as well.  It is the
+superstition of the people of Karthay to never pass by the fountain without
+giving an offer of coin to the maiden who resides above it.  Their belief is
+that by giving these offerings of coin, the maiden will show mercy when the sea
+tries to claim a Karthaian sailor.  It is also believed that the maiden is
+actually the Great Zeboim herself, and the offerings might appease her tempers
+long enough to avoid a disaster at sea.    
+~
+E
+statue crystal maiden sea~
+   A graceful figure made of pure, clear crystal stands upon a platform in the
+middle of the fountain, her lithe body standing in a seductive pose.  Wavy hair
+falls past her shoulders, barely covering the front of her, and weaves around
+her body until it reaches her ankles - where the base of the statue is carved
+to resemble ocean waves.  The statue glimmers in the sun and you can hear an
+odd tinkling, similar to a sea nymph's laugh, as the waters cascade below her.
+~
+S
+#5083
+An Alley~
+   The composition of the road wears down to bare earth and stone, unkept by
+the maintenance workers of the city.  A few tracks are apparent here and there,
+but it seems to be largely void of any presence.  From a nearby shadow comes
+the snarl of a dog, ill fed and looking for a quick meal.  Odd sounds filter
+down from above you, but it is impossible to discern their nature or origin.
+  
+~
+50 0 0 0 0
+D2
+~
+~
+0 0 5084
+D6
+~
+~
+0 0 5012
+S
+#5084
+An Alley~
+   The composition of the road wears down to bare earth and stone, unkept by
+the maintenance workers of the city.  A few tracks are apparent here and there,
+but it seems to be largely void of any presence.  From a nearby shadow comes
+the snarl of a dog, ill fed and looking for a quick meal.  Odd sounds filter
+down from above you, but it is impossible to discern their nature or origin.
+  
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5083
+D9
+~
+~
+0 0 5074
+S
+#5085
+An Alley~
+   No attention has been paid here to the condition of the buildings' exterior
+as the mortar and stone seems to crumble away into small piles against the
+sides of the alley.  Scratchings in chalk and charcoal mar what is left with
+the only visible windows more than a story up and away from ground level.    
+~
+50 4 0 0 0
+D3
+~
+~
+0 0 5086
+D7
+~
+~
+0 0 5031
+S
+#5086
+An Alley~
+   No attention has been paid here to the condition of the buildings' exterior
+as the mortar and stone seems to crumble away into small piles against the
+sides of the alley.  Scratchings in chalk and charcoal mar what is left with
+the only visible windows more than a story up and away from ground level.  A
+dark palor extends down into the street, the sky barely visible beyond the high
+building and the narrow passage.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5085
+D8
+~
+~
+0 0 5077
+S
+#5087
+An Alley~
+   The alley is dark and filthy, filled with broken glass and refuse.  It is
+difficult to see up to the sky as the buildings here crowd so close together
+that they leave only a small sliver between their ramshackle rooves.  A loud
+and rowdy party seems to be taking place someplace nearby, the noise only
+stopping momentarily when a large bang like a mug off a table is heard.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5088
+D9
+~
+~
+0 0 5047
+S
+#5088
+An Alley~
+   The alley is dark and filthy, filled with broken glass and refuse.  It is
+difficult to see up to the sky as the buildings here crowd so close together
+that they leave only a small sliver between their ramshackle rooves.  A loud
+and rowdy party seems to be taking place someplace nearby, the noise only
+stopping momentarily when a large bang like a mug off a table is heard.  Soft
+light pours out onto the street from a nearby door only halfway closed.    
+~
+50 4 0 0 0
+D2
+~
+~
+0 0 5087
+D3
+~
+~
+0 0 5148
+D6
+~
+~
+0 0 5080
+E
+plaque sign building carved painted~
+   The sign is old and the paint is peeling but the readable portions seem to
+indicate the presence of a bar of some sort nearby.  Below the text is the
+symbol of a set of tools.    
+~
+S
+#5089
+An Alley~
+   The dim light is barely enough to navigate through this narrow corridor
+between the high buildings.  A thin, linear depression runs down the center
+of the alley carrying water and filth run off from the main roads to storm
+grates.  Homeless citizens of the city lie to the sides causing constant
+obstacles as they hold out their hands and beg for a copper.
+~
+50 0 0 0 0
+D3
+~
+~
+0 0 5090
+D7
+~
+~
+0 0 5071
+S
+#5090
+An Alley~
+   The dim light is barely enough to navigate through this narrow corridor
+between the high buildings.  A thin, linear depression runs down the center
+of the alley carrying water and filth run off from the main roads to storm
+grates.  Homeless citizens of the city lie to the sides causing constant
+obstacles as they hold out their hands and beg for a copper.
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5089
+D8
+~
+~
+0 0 5063
+S
+#5091
+The Docks of Karthay~
+   The docks of Karthay are busy with all manner of activity, from local
+fisherman coming in and out of the bay to offload their catches, to merchant
+ships loaded with goods transporting their merchandize to the local merchant's
+guild.  The docks are constructed of heavy wooden planks, with large posts
+driven into the seabed at various intervals, holding the whole thing above the
+water.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5092
+D3
+~
+~
+0 0 5030
+D5
+~
+~
+0 0 13080
+S
+#5092
+The Docks of Karthay~
+   The docks of Karthay are busy with all manner of activity, from local
+fisherman coming in and out of the bay to offload their catches, to merchant
+ships loaded with goods transporting their merchandize to the local merchant's
+guild.  The docks are constructed of heavy wooden planks, with large posts
+driven into the seabed at various intervals, holding the whole thing above the
+water.  A ship laden down with goods straight from Kalaman is docked alongside,
+a constant flow of longshoreman travelling back and forth inloading the
+valuable cargo.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5093
+D2
+~
+~
+0 0 5091
+D3
+~
+~
+0 0 5029
+S
+#5093
+The Docks of Karthay~
+   The docks of Karthay are busy with all manner of activity, from local
+fisherman coming in and out of the bay to offload their catches, to merchant
+ships loaded with goods transporting their merchandize to the local merchant's
+guild.  The docks are constructed of heavy wooden planks, with large posts
+driven into the seabed at various intervals, holding the whole thing above the
+water.  A ship laden down with goods straight from Kalaman is docked alongside,
+a constant flow of longshoreman travelling back and forth inloading the
+valuable cargo.    
+~
+50 0 0 0 0
+D0
+~
+~
+0 0 5094
+D2
+~
+~
+0 0 5092
+D3
+~
+~
+0 0 5028
+S
+#5094
+The Docks of Karthay~
+   The docks of Karthay are busy with all manner of activity, from local
+fisherman coming in and out of the bay to offload their catches, to merchant
+ships loaded with goods transporting their merchandize to the local merchant's
+guild.  The docks are constructed of heavy wooden planks, with large posts
+driven into the seabed at various intervals, holding the whole thing above the
+water.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 5095
+D2
+~
+~
+0 0 5093
+D3
+~
+~
+0 0 5027
+S
+#5095
+The Docks of Karthay~
+   The docks of Karthay are busy with all manner of activity, from local
+fisherman coming in and out of the bay to offload their catches, to merchant
+ships loaded with goods transporting their merchandize to the local merchant's
+guild.  The docks are constructed of heavy wooden planks, with large posts
+driven into the seabed at various intervals, holding the whole thing above the
+water.  Just off in the distance are the elegant and powerful ships of the
+Karthay navy, anchored and waiting for their orders.    
+~
+50 0 0 0 0
+D1
+~
+~
+0 0 6300
+D3
+~
+~
+0 0 5094
+S
+#5096
+Private Walkway~
+   An immaculately groomed pathway turns away from Richwater Street to the
+south and proceeds north up a shallow incline towards a large private home
+constructed of granite and polished, white alabaster.  Red shale tiles
+interlock to form the roof of this house surrounded by greenery and a low,
+wooden fence.  Judging from the expense of the materials, this appears to
+be the home of someone of great means in the city.
+~
+50 8192 0 0 0
+D0
+~
+~
+0 0 5097
+D2
+~
+~
+0 0 5008
+D3
+~
+~
+0 0 5178
+S
+#5097
+Private Walkway~
+   An immaculately groomed pathway turns away from Richwater Street to the
+south and proceeds east up a shallow incline towards a large private home
+constructed of granite and polished, white alabaster.  Red shale tiles
+interlock to form the roof of this house surrounded by greenery and a low,
+wooden fence.  Judging from the expense of the materials, this appears to
+be the home of someone of great means in the city.
+~
+50 8196 0 0 0
+D1
+~
+~
+0 0 8534
+D2
+~
+~
+0 0 5096
+D3
+~
+~
+0 0 5177
+S
+#5098
+The Karthay Chamber of Commerce~
+   The Chamber Office is large and spacious.  Bulletin boards covered with
+postings hang neatly on the wall.  Windchimes made of shells hang in the
+windowing, creating a pleasant melody as they blow in the breeze.  A long
+counter runs across the back wall of the room.  It is covered with pamphlets
+and scrolls from the local merchants.    
+~
+50 8 0 0 0
+D1
+   A large map of the city dominates the wall.    
+~
+map panel wall~
+1 0 11299
+D2
+~
+~
+0 0 5001
+S
+#5099
+The Karthay Wagonyard and Stables~
+   This large wooden building lies just outside the city of Karthay, and is
+utilized by the local merchants and citizens as a wagonyard and stables area.
+The common smells of a stableyard float through the air; horses, hay, and other
+less pleasant scents.  Several wagons lie around the yard out front, closed up
+and waiting for their owners to return.  The stables lie further in, roofed to
+shelter the ponies and stallions which commonly occupy the various stalls.    
+~
+0 0 2 0 0
+D1
+~
+~
+0 0 7398
+D3
+~
+~
+0 0 4565
+S
+$~

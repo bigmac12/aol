@@ -1,0 +1,125 @@
+5
+bread
+49
+remove sack; get bread sack; eat bread; wear sack
+1
+4
+meat
+47
+remove sack; get meat sack; eat meat; wear sack
+1
+2
+br
+49
+remove sack; get bread sack; eat bread; wear sack
+1
+2
+rw
+12
+retreat west
+0
+3
+rse
+10
+retreat se
+0
+3
+rne
+10
+retreat ne
+0
+3
+rnw
+10
+retreat nw
+0
+3
+rsw
+10
+retreat sw
+0
+2
+rd
+12
+retreat down
+0
+2
+ru
+10
+retreat up
+0
+2
+rs
+13
+retreat south
+0
+2
+rn
+13
+retreat north
+0
+2
+re
+12
+retreat east
+0
+3
+dis
+9
+disarm $*
+1
+2
+dp
+10
+drink pump
+0
+1
+;
+11
+chat &c$*&n
+1
+2
+fp
+19
+fill waterskin pump
+0
+2
+sc
+4
+scan
+0
+2
+ki
+4
+kick
+0
+4
+flee
+28
+flee; flee; flee; flee; flee
+1
+2
+dw
+15
+drink waterskin
+0
+2
+fw
+23
+fill waterskin fountain
+0
+2
+df
+14
+drink fountain
+0
+3
+gac
+14
+get all corpse
+0
+4
+chat
+11
+chat &y$*&n
+1

@@ -1,0 +1,605 @@
+#7800
+tall oak~
+a tall oak~
+A tall oak lowers its branches to block the way.
+~
+   Although seemingly only part of the normal part of the forest, this tree has
+been infused with enough magical energy to have become aware of its
+surroundings.  Not liking the presence of intruders amongst the trees, it
+attempts to block you way by lowering several of its branches and preventing
+further forward motion.  It is firmly fixed to the ground but displays
+incredible flexibility in its ability to sway its trunk.    
+~
+9691162 40 0 0 E
+20 8 -4 3d20+440 3d7+6
+32 25000 0
+8 8 0 0
+E
+T 7801
+#7801
+wood sprite~
+a wood sprite~
+A wood sprite darts quickly though the trees.
+~
+   Moving almost to fast to get a close look, the tiny sprite quickly flits
+between the trunks of the trees, pausing only slightly on occasion to get a
+close assay of you before it moves away again out of range.  Usually friendly,
+this sprite seems very unhappy at anyones presence and begins to move closer
+and closer although never yet getting within striking distance.  It wears a
+simple little set of clothes around its body and maintains a faint glow.    
+~
+1048712 0 0 0 E
+16 11 0 3d20+320 3d6+4
+510 11000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#7802
+branch nearby tree~
+the branch of a nearby tree~
+The branch of a nearby tree swings down towards you.
+~
+   One of the nearby trees has seemingly come alive and has moves one of its
+massive branches down in a slow but well placed strike against you.  It misses
+by only a slight margin and it groans heavily as it reaches the deep apex of
+the swing.  The thick, brown bark that covers it surface is beginning to break
+away from the fresh wood within as the motion disturbs its integrity.    
+~
+1222698 0 0 0 E
+16 11 0 3d20+320 3d6+4
+49 11000 0
+8 8 0 0
+E
+T 7802
+#7803
+thick root~
+a thick root~
+A thick root begins to separate from the ground.
+~
+   One of the many roots that cover the floor of the forest, it slowly and
+painfully seems to break itself away and move towards you location.  Likely
+that or one of the nearby elms, it is thick but still flexible enough to assume
+a slightly curled form, likely in an attempt to create a shape suitable to grab
+anything that passes too closely.  Dirt flies off its surface as it stuntingly
+pulls away from the ground, breaking its smaller rootlets as it goes.    
+~
+1288234 0 0 0 E
+16 11 0 3d20+320 3d6+4
+13 11000 0
+8 8 0 0
+E
+#7804
+massive moose~
+a massive moose~
+A massive moose stands silently chewing on some grass.
+~
+   This huge animal is rarely seen up so closely as it usually will dart away
+from any sound.  Its shoulders are taller than the average height of a human
+and is even longer from the tip of its antlers to its tail.  It pauses
+momentarily to take a bite of some bark off a local conifer and slowly chew.  
+A thick brown coat of coarse hairs protects it from the elements and its
+massive hind legs bulge with sinewy muscle.    
+~
+1116168 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+668 14000 0
+8 8 0 0
+E
+#7805
+large panther~
+a large panther~
+A large panther steps out from some bushes.
+~
+   The epidomy of sleekness and speed, a black panther cautiously steps out
+from some bushes, seemingly to inspect the noise that you have caused while
+passing through the underbrush.  Beneath the jet black, glistening coat are
+strong muscles that demonstrate its great hazard to its prey.  It curls its
+mouth back into a menacing snarl and crouches down onto its haunches, ready to
+strike.    
+~
+1050680 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+720 14000 0
+8 8 0 0
+BareHandAttack: 3
+E
+#7806
+small brown bear~
+a small brown bear~
+A small brown bear paws at the ground.
+~
+   The brown bear digs away at the ground, likely looking for some small meal.
+Many grubs and insects, favorites of the bear, have nests just below the
+surface of the forest and are an easy source of food though it would often
+prefer to have a decent feed of meat.  Its legs are stubby but strong and long
+claws protrude out from beyond the short toes.  It probes the dirt with its
+agile lips then notices your presence.    
+~
+1048616 0 0 0 E
+16 11 0 3d20+320 3d6+4
+511 11000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#7807
+huge black bear~
+a huge black bear~
+A huge black bear sharpens its claws against a nearby tree. 
+~
+   Standing as tall as a minotaur when erect, the black bear stretches out and
+slowly drags its long claws down against the bark of a tree, now almost devoid
+of bark from the abuse.  It lets out a long howl and snorts loudly as it sets
+back down on all fours to the ground.  Deep, black eyes scan out around the
+forest for an intruder into its territory and it sniffs the air.    
+~
+1114152 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+827 17000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#7808
+tightly knit pack wolves~
+a tightly knit pack of wolves~
+A tightly knit pack of wolves circles slowly around you.
+~
+   A number of wolves have caught scent of your presence and have arrived in
+order to determine whether you are adequate prey.  The alpha male, and largest
+of the group sticks one paw towards you and stops momentarily.  It is covered
+in scars and torn fur across its face, evidence of its battle to retain
+supremacy in this tough pack.  They let out short barks and howl, communicating
+their attack plans with each other.    
+~
+1253384 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+571 11800 0
+8 8 0 0
+BareHandAttack: 4
+E
+T 7804
+#7809
+short mule deer~
+a short mule deer~
+A short mule deer stops suddenly and stares.
+~
+   A curious animal that appears to be somewhat a cross between a deer and a
+moose digs its large hooves into the ground in the search of something to eat.
+It has a thick reddish-brown coat and a dull white chest patch, enough to
+offset the appearance of its overly large ears.  Although much smaller than the
+moose it is still a substantial animal with two tined antlers larger than an
+arm length.    
+~
+17825800 0 0 0 E
+16 11 0 3d20+320 3d6+4
+509 11000 0
+8 8 0 0
+BareHandAttack: 10
+E
+#7810
+brown warthog~
+a brown warthog~
+A brown warthog snorts and trots about a bush.
+~
+   A short but powerful looking animal comes out of a high bush and stands
+nearby.  It has two large, curved tusks extending out from the corners of its
+mouth and well as two smaller protuberances just below the eyes.  It has a
+coarsely hairy chest and a long mane down the back of its neck though its
+haunches are almost bare.  It bristles its hair and lays its ears low as its
+notices you, pawing at the ground.    
+~
+1048616 0 0 0 E
+16 11 0 3d20+320 3d6+4
+446 11000 0
+8 8 0 0
+E
+#7811
+young dwarf short brown hair~
+a young dwarf with short brown hair~
+A young dwarf with short brown hair looks about and smiles.
+~
+   It seems as though this young dwarf has seen her share of tough battles but
+has not let the experience deteriorate her enthusiasm and friendliness.  Her
+hair is cropped short in order to keep away from her face though there is a
+small braid that hangs down the back of her neck.  A broad smile and bright
+eyes show her confidence and skill.    
+~
+8328 0 0 0 E
+16 11 0 3d20+320 3d6+4
+562 11000 0
+8 8 0 0
+E
+#7812
+rock mole~
+a rock mole~
+A rock mole sniffs and peers about blankly.
+~
+   Likely come out from the depths below the forest, the giant mole has
+searched out the fresh air streaming down in from the caverns created by the
+erosion of the washout above.  Its paws are extremely short and tipped in
+large, chipped claws coated in dirt and flecks of stone.  Although its eyes are
+huge, they are nearly blinded by even the faint light within the cave and it
+sits sniffing the air.    
+~
+1048584 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+722 14000 0
+8 8 0 0
+BareHandAttack: 6
+E
+#7813
+grotesquely army ant~
+a grotesquely enlarged army ant~
+A grotesquely enlarged army ant defends its nest.
+~
+   Appearing as though some sort of nightmare creature, an ant that has grown
+far beyond its normal size sits atop a small hill.  Its mouthparts work
+feverishly behind a massive set of mandibles that are larger than its head.  
+The tri-segmented body is pitch black with wisps of faint red curling though.
+It scratches against the ground and begins to quickly advance.    
+~
+1095724 0 0 0 E
+16 11 0 3d20+320 3d6+4
+501 11000 0
+8 8 0 0
+BareHandAttack: 4
+E
+T 7803
+#7814
+blind salamander~
+a blind salamander~
+A blind salamander struggles through the mud. 
+~
+   One of the creatures usually left buried under the ground has been exposed
+by the washout.  A large, soft fleshed salamander wallows in a small mudpit in
+an attempt to escape the direct sunlight of the open sky during the day.  Its
+feet have large, splayed toes and its skin glistens faintly, now largely dried
+out.  A series of bright yellow spots move down the length of an otherwise
+black body.    
+~
+8 1 0 0 E
+15 11 1 5d10+300 2d8+4
+384 8400 0
+8 8 0 0
+BareHandAttack: 7
+E
+#7815
+tall oak~
+a tall oak~
+A tall oak lowers its branches to block the way.
+~
+   Although seemingly only part of the normal part of the forest, this tree has
+been infused with enough magical energy to have become aware of its
+surroundings.  Not liking the presence of intruders amongst the trees, it
+attempts to block you way by lowering several of its branches and preventing
+further forward motion.  It is firmly fixed to the ground but displays
+incredible flexibility in its ability to sway its trunk.    
+~
+9674778 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+32 25000 0
+8 8 0 0
+E
+T 7801
+#7816
+tall oak~
+a tall oak~
+A tall oak lowers its branches to block the way.
+~
+   Although seemingly only part of the normal part of the forest, this tree has
+been infused with enough magical energy to have become aware of its
+surroundings.  Not liking the presence of intruders amongst the trees, it
+attempts to block you way by lowering several of its branches and preventing
+further forward motion.  It is firmly fixed to the ground but displays
+incredible flexibility in its ability to sway its trunk.    
+~
+9674778 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+32 25000 0
+8 8 0 0
+E
+T 7801
+#7817
+tall oak~
+a tall oak~
+A tall oak lowers its branches to block the way.
+~
+   Although seemingly only part of the normal part of the forest, this tree has
+been infused with enough magical energy to have become aware of its
+surroundings.  Not liking the presence of intruders amongst the trees, it
+attempts to block you way by lowering several of its branches and preventing
+further forward motion.  It is firmly fixed to the ground but displays
+incredible flexibility in its ability to sway its trunk.    
+~
+9674762 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+32 25000 0
+8 8 0 0
+E
+T 7801
+#7818
+wood sprite~
+a wood sprite~
+A wood sprite darts quickly though the trees.
+~
+   Moving almost to fast to get a close look, the tiny sprite quickly flits
+between the trunks of the trees, pausing only slightly on occasion to get a
+close assay of you before it moves away again out of range.  Usually friendly,
+this sprite seems very unhappy at anyones presence and begins to move closer
+and closer although never yet getting within striking distance.  It wears a
+simple little set of clothes around its body and maintains a faint glow.    
+~
+1048712 0 0 0 E
+16 11 0 3d20+320 3d6+4
+510 11000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#7819
+branch nearby tree~
+the branch of a nearby tree~
+The branch of a nearby tree swings down towards you.
+~
+   One of the nearby trees has seemingly come alive and has moves one of its
+massive branches down in a slow but well placed strike against you.  It misses
+by only a slight margin and it groans heavily as it reaches the deep apex of
+the swing.  The thick, brown bark that covers it surface is beginning to break
+away from the fresh wood within as the motion disturbs its integrity.    
+~
+1288234 0 0 0 E
+16 11 0 3d20+320 3d6+4
+49 11000 0
+8 8 0 0
+E
+T 7802
+#7820
+branch nearby tree~
+the branch of a nearby tree~
+The branch of a nearby tree swings down towards you.
+~
+   One of the nearby trees has seemingly come alive and has moves one of its
+massive branches down in a slow but well placed strike against you.  It misses
+by only a slight margin and it groans heavily as it reaches the deep apex of
+the swing.  The thick, brown bark that covers it surface is beginning to break
+away from the fresh wood within as the motion disturbs its integrity.    
+~
+1288234 0 0 0 E
+16 11 0 3d20+320 3d6+4
+49 11000 0
+8 8 0 0
+E
+T 7802
+#7821
+branch nearby tree~
+the branch of a nearby tree~
+The branch of a nearby tree swings down towards you.
+~
+   One of the nearby trees has seemingly come alive and has moves one of its
+massive branches down in a slow but well placed strike against you.  It misses
+by only a slight margin and it groans heavily as it reaches the deep apex of
+the swing.  The thick, brown bark that covers it surface is beginning to break
+away from the fresh wood within as the motion disturbs its integrity.    
+~
+1288234 0 0 0 E
+16 11 0 3d20+320 3d6+4
+49 11000 0
+8 8 0 0
+E
+T 7802
+#7822
+thick root~
+a thick root~
+A thick root begins to separate from the ground.
+~
+   One of the many roots that cover the floor of the forest, it slowly and
+painfully seems to break itself away and move towards you location.  Likely
+that or one of the nearby elms, it is thick but still flexible enough to assume
+a slightly curled form, likely in an attempt to create a shape suitable to grab
+anything that passes too closely.  Dirt flies off its surface as it stuntingly
+pulls away from the ground, breaking its smaller rootlets as it goes.    
+~
+1288234 0 0 0 E
+16 11 0 3d20+320 3d6+4
+13 11000 0
+8 8 0 0
+E
+#7823
+thick root~
+a thick root~
+A thick root begins to separate from the ground.
+~
+   One of the many roots that cover the floor of the forest, it slowly and
+painfully seems to break itself away and move towards you location.  Likely
+that or one of the nearby elms, it is thick but still flexible enough to assume
+a slightly curled form, likely in an attempt to create a shape suitable to grab
+anything that passes too closely.  Dirt flies off its surface as it stuntingly
+pulls away from the ground, breaking its smaller rootlets as it goes.    
+~
+1288234 0 0 0 E
+16 11 0 3d20+320 3d6+4
+13 11000 0
+8 8 0 0
+E
+#7824
+massive moose~
+a massive moose~
+A massive moose stands silently chewing on some grass.
+~
+   This huge animal is rarely seen up so closely as it usually will dart away
+from any sound.  Its shoulders are taller than the average height of a human
+and is even longer from the tip of its antlers to its tail.  It pauses
+momentarily to take a bite of some bark off a local conifer and slowly chew.  
+A thick brown coat of coarse hairs protects it from the elements and its
+massive hind legs bulge with sinewy muscle.    
+~
+1116168 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+668 14000 0
+8 8 0 0
+E
+#7825
+large panther~
+a large panther~
+A large panther steps out from some bushes.
+~
+   The epidomy of sleekness and speed, a black panther cautiously steps out
+from some bushes, seemingly to inspect the noise that you have caused while
+passing through the underbrush.  Beneath the jet black, glistening coat are
+strong muscles that demonstrate its great hazard to its prey.  It curls its
+mouth back into a menacing snarl and crouches down onto its haunches, ready to
+strike.    
+~
+1050680 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+720 14000 0
+8 8 0 0
+BareHandAttack: 3
+E
+#7826
+warrior spirit ghost~
+a spirit warrior~
+A spirit warrior haunts the forest.
+~
+   The warrior seems to be a large corpeal shape that bares only the basic
+resemblance of a man.  His armour and clothes are something from an age gone
+by, and the sword that is sheathed at his side is of a material that is
+unrecognizable.    
+~
+3164552 134316066 0 0 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 10
+8 8 0 0
+BareHandAttack: 13
+E
+#7827
+ball light will o'wisp~
+a will o'wisp~
+A ball of light dances in the distance.
+~
+   The ball of light is a faint glow against the shadows of the surrounding
+underbrush and foliage of the trees.  It dances in and out of your sight as if
+inticing you to follow.    
+~
+1108140 67993696 0 -280 E
+22 7 -6 3d33+550 3d8+7
+1100 40000 4
+8 8 0 0
+BareHandAttack: 1
+E
+#7828
+plant carnivorous flowers~
+a carnivorous plant~
+A massive plant with several large red flowers grows in the shade here.
+~
+   The plant stands about three foot tall and has several red blossoms that
+surround a large purple blossom in the middle of the plant.  The leaves seem to
+spread themselves out until they are in a large circle.  The small stalks in
+the center of each flower wave back and forth as if trying to draw something in
+closer for a better look.    
+~
+1183790 67272744 0 0 E
+22 7 -6 3d33+550 3d8+7
+1000 40000 3
+8 8 0 0
+BareHandAttack: 4
+E
+#7829
+gypsy female dancer~
+a female gypsy dancer~
+A female gypsy dances seductively about the camp.
+~
+   The dancer looks lost in thought as if the dance is all she lives for.  The
+concentration is etched upon her brow as she twirls to and fro.  Her skirt
+twirls and spins as if the garment had a life of its own in the multi-hued
+pattern woven and sewn upon it.    
+~
+552988 134676480 27262976 -400 E
+19 9 -3 3d20+410 3d6+6
+0 17000 1
+8 8 2 0
+BareHandAttack: 8
+E
+#7830
+male gypsy musician~
+a gypsy musician~
+A male gypsy plays the drums for the dancer.
+~
+   The drummer is a stocky male with long a handlebar mustache.  The lower part
+of his face is covered by a pointed goatee and his clothes seem to have as much
+color in them as the dancers do.  His wide billowing pants are held on by a
+multi colored sash that is knotted at his side.  A small curved dagger is stuck
+into the sash by his left hand.    
+~
+1079438 434176 0 0 E
+21 8 -5 3d33+450 3d8+7
+0 33500 4
+8 8 1 0
+BareHandAttack: 13
+E
+#7831
+leader king gypsy~
+the gypsy king~
+A rugged looking gypsy smokes his pipe by the fire watching the dancers.
+~
+   The gypsy hums contentedly as his hand taps in beat with the music.  A
+fragarant smoke curls about his head with each puff on the pipe.  Not to be
+outdone by the dancers this gypsies clothes are as colorful as any others and
+yet is somehow different, his sash is a bright purple and a matching cloak is
+slung over his left shoulder.    
+~
+3428382 172160 0 0 E
+25 5 -9 3d33+850 4d6+8
+1500 87000 3
+8 8 1 0
+BareHandAttack: 6
+E
+#7832
+warg wolf dog~
+a warg~
+A large canine growls and bristles at you.
+~
+   The warg is a large dog that stands close to four and a half feet at the
+shoulder.  His fur is a brindle color and seems to blend in with the shadows
+that he lurks in.  His eyes are yellowed and dripping a slight stream of puss
+from the corners,making him seem as if something is wrong with him.    
+~
+1296424 394272 0 -900 E
+20 8 -4 3d20+440 3d7+6
+900 25000 6
+8 8 0 0
+BareHandAttack: 4
+E
+#7833
+gremlin small demon being webbed~
+a small gremlin~
+A small being with pointed ears and webbed fingers stands here.
+~
+   The gremlin is smaller than even a kender and has pointed ears and webbing
+between his fingers.  His skin is a putrid color of green and the hair that is
+on his head is matted and filled with leaves and twigs.  The only clothes to be
+seen is a small loincloth that barely covers what it is suppose to.  His greedy
+little eyes look you over as he rubs his hands together eagerly.    
+~
+1179340 33989664 0 -500 E
+22 7 -6 3d33+550 3d8+7
+1100 40000 4
+8 8 1 0
+BareHandAttack: 8
+E
+#7834
+bees killer swarm~
+a swarm of killer bees~
+A swarm of killer bees hovers loudly here.
+~
+   This swarm is comprised of dozens of killer bees.  Each is small and agile
+and covered in black and yellow splotches giving them a rather strange look.  
+The stinger protruding from the bulbous appendage at their tails is large and a
+small drop of venom glistens in the light.  The more someone stares at it the
+swarm the closer the bees seem to get, buzzing menacingly.    
+~
+3498152 0 0 0 E
+22 7 -6 3d33+550 3d8+7
+0 40000 3
+8 8 0 0
+BareHandAttack: 1
+E
+$

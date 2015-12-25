@@ -1,0 +1,75 @@
+4
+coal
+65
+remove eyepatch;put eyepatch hole;get charcoal hole;wear charcoal
+1
+5
+patch
+65
+remove charcoal;put charcoal hole;get eyepatch hole;wear eyepatch
+1
+1
+o
+10
+retreat $*
+1
+4
+wake
+10
+wake;stand
+1
+3
+jaw
+12
+jawstrike $*
+1
+2
+th
+8
+throw $*
+1
+4
+skin
+11
+skin corpse
+0
+1
+i
+13
+bash $*;stand
+1
+1
+k
+7
+kick $*
+1
+4
+smug
+13
+kill smuggler
+0
+1
+0
+11
+lo smuggler
+0
+3
+say
+10
+say &K$*&n
+1
+1
+5
+24
+flee;flee;flee;flee;flee
+1
+1
+2
+24
+get all.coins all.corpse
+0
+1
+1
+18
+get all all.corpse
+0

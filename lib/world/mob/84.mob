@@ -1,0 +1,139 @@
+#8400
+mountain goat horns~
+a mountain goat~
+A mountain goat with rounded horns stands on top of a rock.
+~
+   A large mountain goat jumps up onto the top of a rock resting beside
+the road.  It has bleached white fur and a set of massive, curved horns
+which loop back from its forehead onto the nape of its neck.  A long
+beard of hair extends down from its chin and it makes loud snorting
+noises as it looks up and down the road.
+~
+168 525312 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+BareHandAttack: 15
+Maxmove: 50
+E
+#8401
+black raptor~
+a black raptor~
+A black raptor swoops down onto the road and lands.
+~
+   A black bird with oily looking feathers quickly swoops onto the roadway and
+lands.  Its beady, black eyes look into yours at it tries to decide whether you
+are food.  Long talons scrape against the ground as it pauses to warily try to
+pick out vermin crawling over its skin.  It sends out a birdcall to try to
+summon a few more of its kind.    
+~
+168 525312 0 0 E
+5 17 11 2d5+65 2d2+0
+0 85 0
+8 8 0 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#8402
+mercenary wandering merc~
+a wandering mercenary~
+A wandering mercenary stands blocking the road south.
+~
+   This man has recently returned from a journey into the lands to the south
+where he suffered many hardships and torments.  Scars crisscross his body, some
+old, some much much newer.  In an effort to protect others from having to go
+through the pain and hardship he endured in the southlands, he has chosen to
+stand here and block all those who seek to go south that cannot best him in a
+test of arms.    
+~
+8388618 0 0 0 E
+9 15 7 5d5+130 2d7+1
+120 1300 3
+8 8 1 0
+Maxmove: 50
+E
+#8403
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+Maxmove: 50
+E
+#8406
+young man Son1~
+an exasperated young man~
+A young man in travelling clothes wanders the road, slowly leading a grey mare.
+~
+   This young man appears no worse for wear physically from his travels, yet
+you can plainly see that much stress appears to be welling up within him as the
+days and miles pass.  He looks about himself slowly, one moment looking
+slightly puzzled, then the next nodding as though regaining his bearings.    
+~
+16458 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 1 0
+Maxmove: 50
+E
+#8407
+aged wrinkled crone1~
+an aged and wrinkled crone~
+A wrinkled crone of quite some years rests atop a grey mare, both being led by a younger man.
+~
+   This woman appears quite old, her years being easily told in her longish,
+greying hair and well-wrinkled visage.  She dresses in loose garments that are
+clearly not well suited to travel, particularly over any great distance.  
+Resting atop a dappled, grey mare, she allows herself to be led along by the
+young man accompanying her.  She seems to be constantly talking, rather
+complaining, and the subjects often many and varied, yet all seem directed to
+the poor soul that travels alongside her.    
+~
+16458 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 2 0
+Maxmove: 50
+E
+#8412
+merchant grumbling fart tattered~
+a grumbling merchant in tattered clothes~
+A merchant in tattered clothes trudges along the road here, grumbling to himself as his goes.
+~
+   This old merchant has obviously had better days.  He trudges along the path
+before him wearily, his once fine clothes now hanging about his body in rags.
+His once lusterous blond hair now hangs limpy about his shoulders, dull and
+knotted with snarls and tangles from long days on the road.  He appears quite
+bereft of any belongings or goods, aside from a long branch that he now uses as
+a walking staff.    
+~
+16456 1024 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+Maxmove: 50
+E
+#8497
+wolf timberwolf grey~
+a large, grey timberwolf~
+A large, grey timberwolf lurks about the area, drifting across the road and back into the woods.
+~
+   This large, grey wolf drifts out of the woods quietly, padding out onto the
+road for only the briefest of moments.  While its body is large and powerfully
+muscled, its eyes drift nervously towards you as it hastily makes for the woods
+upon the far side of the pass.  It seems well-fed and more than eager to give
+you and your party wide berth.    
+~
+74 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+$

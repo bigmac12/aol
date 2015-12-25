@@ -1,0 +1,30 @@
+2
+cm
+16
+cast cure-mod $*
+1
+4
+skin
+11
+skin corpse
+0
+1
+j
+6
+as ari
+0
+2
+gg
+18
+get all all.corpse
+0
+2
+cl
+18
+cast cure-light $*
+1
+2
+eq
+6
+l self
+0

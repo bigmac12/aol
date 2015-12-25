@@ -1,0 +1,140 @@
+2
+ls
+4
+look
+0
+2
+to
+11
+c t-o $* $*
+1
+6
+bardil
+22
+title &WB&gardilu&Wn&n
+0
+7
+trouble
+43
+title &WBranchala: 50% Bran, 100% Trouble&n
+0
+6
+trivia
+56
+title &WBranchala, the Song of Life {&wTrivia time!&W}&n
+0
+4
+calm
+6
+c calm
+0
+1
+o
+6
+ooc $*
+1
+2
+pk
+10
+c p-w-k $*
+1
+4
+bran
+37
+title &WBranchala, the Song of Life&n
+0
+7
+passist
+61
+title &WBranchala, the Song of Life {&wAssisting Players&W}&n
+0
+3
+app
+109
+approve $*; force $* display all; force $* autoexit; force $* color complete; force $* intro; force $* subdue
+1
+3
+hip
+58
+title &WBranchala, Putting the "Hip" back into "Hip Hop"&n
+0
+5
+brick
+74
+send $* You reel in shock as Branchala hits you with a giant rubber brick!
+1
+4
+pcup
+27
+load obj 1009; c t-o cup $*
+1
+8
+conclave
+9
+goto 6147
+0
+6
+cookie
+30
+load obj 8190; c t-o cookie $*
+1
+2
+dm
+13
+c dispel-m $*
+1
+2
+li
+17
+look in $*.corpse
+1
+2
+af
+3
+aff
+0
+1
+t
+18
+take all $*.corpse
+1
+4
+loaf
+26
+title &WMusical Meatloaf&n
+0
+5
+elton
+39
+title &WThe Bard King, Sir Elton John&n
+0
+2
+sn
+5
+sneak
+0
+3
+mch
+12
+vstat mob $*
+1
+5
+mfind
+11
+vnum mob $*
+1
+2
+ch
+12
+vstat obj $*
+1
+4
+find
+11
+vnum obj $*
+1
+4
+home
+9
+goto 1020
+0

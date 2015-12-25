@@ -1,0 +1,886 @@
+
+help available on the following:
+
+action                  alias                   all
+antisubstitute          bell                    boss
+char                    cr                      echo
+end                     gag                     help
+highlight               history                 if
+ignore                  info                    killall
+log                     loop                    map
+mark                    math                    message
+nop                     path                    pathdir
+presub                  read                    redraw
+retab                   return                  savepath
+session                 showme                  snoop
+speedwalk               split                   substitute
+suspend                 system                  tabadd
+tabdelete               tablist                 textin
+tick                    tickoff                 tickset
+ticksize                tolower                 togglesubs
+toupper                 unaction                unalias
+unantisubstitute        ungag                   unhighlight
+unpath                  unsplit                 unsubstitute
+unvariable              variable                verbatim
+version                 wildcard                wizlist
+write                   writesession            zap
+
+~ALIAS
+
+format:     #alias [{word}] [{command(s)}]
+            #alias [word] [command]
+
+the [] signify optional arguments.
+
+Define a word that actually means a longer string.  Useful for commands 
+repeated often, or commands that are very lengthy.  You can have multiple
+commands aliased to a single word, if you enclose the alias in {}.
+
+If the command(s) include variables %0-9, these are substituted as part
+of the parsing.  %0 is set to all text after the word was input, %1 is set
+to the first word following the aliased word, and %2 is the second, and so on.
+
+If the #alias command is typed without any arguments, all aliases defined will
+be listed.
+
+If the #alias command is typed with only 1 argument, occurrences matching the
+input string are shown.  The * character is valid in this word to act as a
+'wildcard'.  See help wildcard.
+
+examples:
+#alias gb get bread bag
+typing gb at the prompt would be sent as 'get bread bag'.
+#alias ws {wake;stand}
+since ws aliases a multiple command, you must use the braces.
+#alias heal cast 'heal' %1
+typing 'heal valgar' at the prompt would be sent as 'cast 'heal' valgar' since
+it will put the word valgar into %1
+#alias
+list all aliases
+#alias he*
+list all aliases that start with the letters 'he'
+ 
+~ACTION
+
+format:     #action [{string}] [{command(s)}] [{priority}]
+
+The [] signify optional arguments.
+
+Have the client search for a certain string of text from the mud, if the 
+client receives that string, it will execute the command(s).  Variables
+%0-9 are substituted from the input string, and can be used in the command(s)
+side of the command. Previously, all actions were stored alphabetically in the
+list, which meant that some of the important actions could exist at the end
+of the list (which could result in slow reaction times for those actions).
+Priorities have been added to actions now.  The third parameter of the command
+will tell how important tintin should reguard this action (0 most important, 
+9 least important).  If no priority is given, a default value of 5 is assigned.
+
+if the string to be searched for starts with a ^, only the beginning of the 
+line will be searched.
+
+If #action is type with no arguments, all actions defined are listed.
+
+If #action is typed with only one argument, actions defined that match that
+argument are displayed.  The * character is valid in this case to use
+as a 'wildcard'.  See help wildcard.
+
+examples:
+#action {Grimmy has arrived} {smile grimmy} {2}
+If Grimmy enters the room, you will automatically smile at her.  The priority
+setting of two, means that it should be stored close to the top of the list.
+(all actions with 1 and 0 set for priorities will be checked before this one).
+ 
+#action {^TICKCOUNTER: 5 seconds} {sleep} {0}
+Since this string is 'anchored', it will only be triggered if it starts at
+the beginning of a line.  If your mud has a tickcounter set up like this, 
+this action will make you sleep at 5 seconds to tick.
+
+#action 
+list all actions
+
+#action *tell*
+list all actions with the word 'tell' in them.
+
+~ALL
+
+format:      #all {string}
+             #all string
+
+Send a command to all active sessions.
+
+example:
+#all {shout I'm multicharing!}
+
+~ANTISUBSTITUTE
+
+format:      #antisubstitute {string}
+             #antisubstitute string
+
+Will cause any line that contains the string specified to not be checked for
+substitutes and gags.  The ^ char starting a string will tell the client to
+only antisubstitute lines that START with the string specified.
+
+examples:
+#antisub {^You}
+any line starting with 'You' will not be checked for subs.
+#antisub {^You%0hit.}
+lines that start with 'You', and also contain 'hit.' will not be subbed.
+#antisub {annihilate}
+any line that contains the word 'annihilate' will not be subbed.
+
+~BELL
+
+format:       #bell
+
+sends a beep to your terminal.
+
+example:
+#action {tells you} {#bell}
+will chime any time anyone tells you anything.
+
+~BOSS
+
+format:       #boss
+
+puts some fake text on your screen so nobody knows you're mudding.
+
+~CHAR
+
+format:       #char character
+
+lets you redefine your tintin_character, the character that starts all commands.
+
+example:
+#char /
+all commands must then start with a /, instead of a #.  
+
+The default tintin char can be set in tintin.h, and if you load a coms file, the
+first character it sees is set to your tintin char.
+
+~CR
+
+format:	      #cr
+
+Sends a carriage return to the session.  Useful for aliases that nees carriage
+returns.
+
+~ECHO
+
+format:       #echo
+
+Echo is used to see what actions are being triggered.  #echo toggles this
+feature on and off.
+
+~END
+
+format:       #end
+
+terminate tintin++ and return to unix.  On most systems, ctrl-C has the same 
+effect.
+
+~HELP
+
+format:       #help [command]
+
+get a listing of commands, or get help and a specific command.
+
+~HIGHLIGHT
+
+format:       #highlight [{type}] [{string}]
+              #highlight [type] [{string}]
+
+The [] signify optional arguments.
+
+The higlight command is used to allow you to highlight strings of text from
+the mud.  The possible types are bold, reverse, faint, italic, blink, or
+a number between 1 and 8.  The numbers correspond to colors 1 through 8
+of your color pallette.
+
+New to v1.5, you can now use the color names as well as the old convention of
+#'s for colors.  Valid color names include:
+
+red, blue, cyan, green, yellow, magenta, white, grey, black, brown, charcoal,
+light red, light blue, light cyan, light magenta, light green, b red, b blue, 
+b cyan, b green, b yellow, b magenta, b white, b grey, b black, b brown, 
+b charcoal, b light red, b light blue, b light cyan, b light magenta, 
+b light green, bold, faint, blink, italic, reverse
+
+The %0-9 variables can be used as 'wildcards' that will match with any text.
+They are useful for highlighting a complete line.
+You may start the string to highlight with a ^ to only highlight text
+if it begins the line.
+
+Note: This command is only compatible with ANSI/VT100 terminals or emulators.
+
+examples:
+#high {reverse} {Valgar}
+print every occurrence of 'Valgar' in reverse video
+#high {6} {%0tells you%1}
+print every complete line that contains 'tells you' in color 6
+#high bold {^You}
+boldface any 'You' that starts a line
+#high {red, blink} {Grimne} 
+each time the word Grimne appeared, it's be shown in a blinking red color.
+
+~HISTORY
+
+format:        #history
+
+The history command will display a listing of the most recent keyboard
+input.
+
+~IF
+
+format:        #if {conditional} {command(s)}
+
+The if command is one of the most powerful commands added since TINTINv3.
+It works similar to an if statement in other languages, and is loosely based
+on the way C handles its conditional statements.  When an if command
+is encountered, the conditional statement is evaluated, and if TRUE
+(any non-zero result) the command(s) are executed.  The if statement is
+only evaluated if it is read, so you must nest the if statement inside 
+another statement (most likely an action command).  The conditional is 
+evaluated exactly the same as in the math command, only instead of storing
+the result, the result is used to determine whether to execute the
+command(s).  '#help math' for more information.
+
+*!* Warning *!*:  #if can only compare numerical values at this time.  It can't 
+be used to compare a set of strings (as of yet at least).
+
+examples:
+#action {%0 gives you %1 gold coins} {#if {%%1>5000} {thank %%0}}
+if someone gives you more than 5000 coins, thank them.
+the %%1 and %%0 belong to the action, and not to the if, and that is why
+the double % are needed.
+#action {^<hp:%0 } {#if {%%0<100} {flee}}
+If your status prompt is of the form <hp:100 ma:50 mo:100>, this action
+will get your hit points, compare them to 100, if less than 100, flee
+
+~IGNORE
+
+format:        #ignore 
+
+Toggle actions on and off. If off, no actions will be checked for.
+
+~INFO
+
+format:		#info
+
+Displays the number of actions, aliases, variables, substitues, 
+antisubstitutes, and highlights for the current session.  If no session
+is active, then the statistics on the defaults are given.
+
+~KILLALL
+
+format:		#killall
+
+Killall deletes all aliases, actions, subs, antisubs, highlights, variables
+in one fell swoop.  Useful now, so you don't have to exit tintin++ to 
+load up a new coms file.
+
+~LOG
+
+format:        #log {filename}
+
+Log session to a file.
+
+~LOOP
+
+format:        #loop {start,finish} {command(s)}
+
+Like a for-next loop, will loop from start to finish incrementing or
+decrementing by 1 each time through.  The value of the loop variable is 
+places in %0, and can be used in the command(s).  If start>finish, it will 
+loop backwards.
+
+examples:
+#loop {1,3} {get all %0.corpse} 
+equivalent to the following:
+  get all 1.corpse;get all 2.corpse;get all 3.corpse
+#loop {3,1} {drop %0.key}
+equivalent to
+  drop 3.key;drop 2.key;drop 1.key
+
+~MAP
+
+format:        #map {direction}
+
+Will add a direction to the end of the current path.  Useful for mapping
+while following someone.
+
+example:
+
+#action {$leader leaves %0.} {#map {%%0}}
+if the person stored in $leader leaves the room, the direction is added
+to the end of the path.
+
+~MARK
+
+format:        #mark
+
+Clear the path list and start the new path at your current location.
+
+~MATH
+
+format:        #math {variable} {expression}
+
+Performs math functions and stored the result in a variable.  The math 
+follows a C-like precedence, as follows, with the top of the list having 
+the highest priority.
+
+Operators                    Function
+------------------------------------------------
+!                            logical not
+*                            integer multiply
+/                            integer divide
++                            integer addition
+-                            integer subtraction
+>                            greater than (result is non-zero or zero)
+>=                           greater than or equal (result is non-zero or zero) 
+<                            less than (result is non-zero or zero)
+<=                           less than or equal (result is non-zero or zero)
+= or ==                      equals (result is non-zero or zero)
+!=                           not equal (result is non-zero or zero)
+& or &&                      logical and (result is non-zero or zero)
+| or ||                      logical or (result is non-zero or zero)
+
+True is any non-zero number, and False is zero.  In the expression, you may
+use T and F as true and false.  Parentheses () have highest precedence, 
+so inside the parentheses is always evaluated first.
+
+examples:
+#math {heals} {$mana/40}
+Assuming there is a variable $mana, divide its value by 40 and store the 
+result in $heals.
+#action {^You receive %0 experience} {updatexp %0}
+#alias updatexp {#math {xpneed} {$xpneed-%%0}
+Let's say you have a variable which stores xp needed for your next 
+level.  The above will modify that variable after every kill, showing
+the amount still needed.
+
+~MESSAGE
+
+format:        #message {type}
+
+This will toggle off and on the messages dealing with a certain type of
+command.  The possible message types are alias, action, antisub, sub
+variable, and highlight.  This is very helpful if you are using 
+#math and #if, and setting a lot of variables, so you don't keep getting
+the Variable Set messages.
+
+example:
+#message {variable}
+toggles whether messages dealing with variables will be shown.
+
+~NOP
+
+format:        #nop [string]
+
+A null operation, is ignored by the client.  It is useful for commenting
+in your coms file, any text after the nop and before a semicolon or 
+end of line is ignored.
+
+example:
+#nop This is the start of my autoactions
+
+~PATH
+
+format:        #path
+
+Show your current path.
+
+~PATHDIR
+
+format:	       #pathdir {odd_dir} {what speedwalk should interpret it as}
+
+New for v1.5, this command will allow those player who play on muds that
+have diag./odd directions to use speedwalk. 
+
+example:
+#pathdir {nw} {nw} 
+each time {nw} is excountered in the speedwalk, tintin++ will send a {nw} to 
+the mud.
+
+~PRESUB
+
+format:        #presub
+
+Toggle whether actions are processed before substitutes, or after.  With
+presub on, actions are performed on the substituted buffer, and if 
+you are gagging heavily, it will increase the speed of execution.  
+There are also many times you don't want to check for actions on 
+lines you have gagged, and this will allow that.
+
+~REDRAW
+
+format:        #redraw
+
+If redraw is on, and you're not in split mode, the input 
+line will be redrawn when any text arrives, or tintin++ prints any
+messages.  This helps you avoid your input being spread out and 
+unreadable when there is heavy text flow from the mud.  In split mode, 
+this variable is ignored.
+
+~RETAB
+
+format:		#retab
+
+New for v1.5.  #retab allows you to re-load the tab completion file.
+
+~RETURN
+
+format:        #return
+
+Pop the last move off the top of the path, and move the opposite direction.
+
+~READ
+
+format:        #read {filename}
+            or #read filename
+
+Reads a coms file into memory.  The coms file is merged in with the
+currently loaded commands.  Duplicate commands are overwritten.
+
+~SAVEPATH
+
+format:        #savepath {alias name}
+
+Save the current path to an alias, which can then be saved to a coms file.
+The alias name provided will be the new name of the alias to represent
+that path.  Useful for after mapping to be able to get back to the place 
+again.
+
+~SHOWME
+
+format:        #showme {string}
+
+Display the string to the terminal, do not send to the mud.  Useful for
+status, warnings, etc.  
+
+example:
+#action {%0 ultraslays you} {#showme {###### argh! we were ultraslayed ######}}
+
+~SNOOP
+
+format:        #snoop {session name}
+
+If there are multiple sessions active, this command allows you to see what
+is going on the the sessions that are not currently active.  The lines
+of text from other sessions will be prefixed by 'session name%'.
+
+~SPEEDWALK
+
+format:        #speedwalk
+
+Toggle speedwalking on and off.  Speedwalking allows you to type multiple
+directions not seperated by semicolons, and now it lets you prefix a 
+direction with a number, to signify how many times to go that direction.
+
+example:
+without speedwalk:
+s;s;w;w;w;w;w;s;s;s;w;w;w;n;n;w
+with speedwalk:
+2s5w3s3w2nw
+
+~SPLIT
+
+format:        #split {line #}
+               #split line #
+
+New for 1.2, with a vt100 or ANSI emulator, this will allow you to set up
+a split screen.  The keyboard input will be displayed in the bottom window, 
+while mud text is displayed in the upper window.  This requires a fairly
+decent emulator, but works on most I have tested.  The screen will be split
+at the line indicated by line #, and should be around 3 lines above the 
+bottom of the screen.  When the enter key is pressed, the text will
+be sent to the mud, and also be echoed to the upper window.
+
+If a line # isn't specified, the screen is split at line 21.
+
+example:
+#split 35
+split the screen at line 35.
+
+~SUBSTITUTE
+
+format:        #substitute [{text}] [{new text}]
+
+The [] signify optional arguments.
+
+Allows you to replace original text from the mud with different text, or 
+delete it altogether.  This is helpful for if you have a slow modem, or 
+there is a lot of text sent during battles, and the like.  the %0-9
+variables can be used to capture text and use it as part of the new output, 
+and the ^ char is valid to only check the beginning of the line for the 
+text specified.
+
+If a . is the only character in the new text argument, if the line is
+matched, it will be deleted.
+
+If only one argument is given, all subs that match the string are displayed.
+The * char is valid in this instance.  See help wildcard.
+
+If no argument is given, all subs are displayed.
+
+examples:
+#sub {leaves} {.} 
+gag any line that has the word 'leaves' in it.
+#sub {^Zoe%0} {ZOE%0}
+any line that starts with the name Zoe will be replaced by a line that
+starts with 'ZOE'
+#sub {%0massacres%1} {%0MASSACRES%1}
+replace all occurrences of 'massacres' with 'MASSACRES'
+
+~GAG
+
+format:        #gag {string}
+
+Just like substitute, but the . is added for you.  Removes any line that 
+contains the string.
+
+~SYSTEM
+
+format:        #system {command}
+
+Executes the command specified as a shell command.  The name of the system
+command can be changed in tintin.h for your security.  
+
+~TABADD
+
+format:	       #tabadd {word}
+
+Adds a word to the end of the tab completion list.
+
+~TABDELETE
+
+format:	       #tabdelete {word}
+
+Deletes a word from the tab completion list.
+
+~TABLIST
+
+format:	       #tablist
+
+Displays all words in the tab completion list.
+
+~TEXTIN
+
+format:		#textin {filename}
+
+Textin now allows the user to read in a file, and send its contents directly 
+to the mud.  Useful for doing online creation, or message writting.
+
+~TICK
+
+format:        #tick
+
+Show seconds until next tick.
+
+~TICKOFF
+
+format:        #tickoff
+
+Turn off the tintin++ built in tick counter.
+
+~TICKSET
+
+format:        #tickset
+
+Turn on the tintin++ tickcounter, and set time until next tick equal 
+to tick size.
+
+~TICKSIZE
+
+format:        #ticksize number
+
+Set a new time, in seconds,  between ticks for the tintin++ tickcounter.
+
+~TOLOWER
+
+format:        #tolower var text
+
+Just like the #variable command, only it converts the text
+to lowercase before assigning it to the variable.
+
+~TOGGLESUBS
+
+format:        #togglesubs
+
+Toggle whether substitutes should be ignored.  If subs are ignored, 
+text will not be checked for subs, but highlights will still be 
+checked for.
+
+~TOUPPER
+
+format:        #toupper var text
+
+Just like the #variable command, only it converts the text
+to uppercase before assigning it to the variable.
+
+~UNACTION
+
+format:        #unaction {string}
+               #unaction string
+
+Remove action(s) from the action list which match {string}.  The
+'*' character will act as a wildcard and will match any text.
+See help wildcard.
+
+examples:
+#unaction {%0tells you%1}
+remove the action that is triggered by '%0tells you%1'
+#unaction *
+remove all actions
+#unaction {*massacre*}
+remove all actions that contain the word 'massacre'
+
+~UNALIAS
+
+format:        #unalias {word}
+               #unalias word
+
+Remove alias(es) from the alias list which match {word}.  The
+'*' character will act as a wildcard and will match any text.
+See help wildcard.
+
+examples:
+#unalias {bbb}
+remove the alias 'bbb'
+#unalias *
+remove all aliases
+#unalias {*go*}
+remove all aliases that contain the fragment 'go'
+
+~UNANTISUBSTITUTE
+
+format:        #unantisubstitute {string}
+               #unantisubstitute string
+
+Remove antisub(s) from the antisub list which match {string}.  The
+'*' character will act as a wildcard and will match any text.
+See help wildcard.
+
+examples:
+#unantisub {%0tells you%1}
+remove the antisub for '%0tells you%1'
+#unantisub *
+remove all antisubs
+#unantisub {^You*}
+remove all antisubs that start with '^You'
+
+~UNGAG
+
+format:        #ungag {string}
+               #ungag string
+
+Exactly the same as #unsubstitute, '#help unsubstitute' for info.
+
+~UNSUBSTITUTE
+
+format:        #unsubstitute {string}
+               #unsubstitute string
+
+Remove substitute(s) from the substitute list which match {string}.  The
+'*' character will act as a wildcard and will match any text.
+See help wildcard.
+
+examples:
+#unsub {%0tells you%1}
+remove the sub for '%0tells you%1'
+#unsub *
+remove all subs
+#unsub {^You*}
+remove all subs that start with '^You'
+
+~UNHIGHLIGHT
+
+format:        #unhighlight {string}
+               #unhighlight string
+
+Remove highlight(s) from the highlight list which match {string}.  The
+'*' character will act as a wildcard and will match any text.
+See help wildcard.
+
+examples:
+#unhigh {%0tells you%1}
+remove the highlight for '%0tells you%1'
+#unhigh *
+remove all highlights
+#unhigh {^You*}
+remove all highlights that start with '^You'
+
+~UNPATH
+
+format:        #unpath
+
+Remove the most recent move from the current path.
+
+~UNSPLIT
+
+format:        #unsplit
+
+Exit split mode, and set the screen back to its default terminal settings.
+
+~UNVARIABLE
+
+format:        #unvariable {variable name}
+               #unalias variable name
+
+Remove variable(s) from the variable list which match {variable name}.  The
+'*' character will act as a wildcard and will match any text.
+See help wildcard.
+
+examples:
+#unvar {hp}
+remove the variable $hp
+#unvar *
+remove all variables
+#unvariable {xx*}
+remove all variables that start with 'xx'
+
+~VARIABLE
+
+format:        #variable {<variable_name>} {<text to fill variable>}
+
+Since these are completely new to tintin, and act differently
+than anything else, I feel should spend some time on them.
+These variables differ from the %0-9 in the fact that you could
+specify a full word as a variable name, and they stay in memory for
+the full session, unless they are changed, and they can be saved in
+the coms file, and can be set to different values if you have 2 or
+more sessions running at the same time.  One of the best uses for
+variables I think is for spellcasters.
+
+Currently, you would set up a bunch of aliases like the following.
+
+#alias {flame} {cast 'flame strike' %0}
+#alias {flash} {cast 'call lightning' %0}
+#alias {harm} {cast 'harm' %0}
+
+With the new variables you can do the following:
+
+#alias {targ} {#var target %0}
+#alias {flamet} {flame $target}
+#alias {flasht} {flash $target} 
+#alias {harmt} {harm $target}
+
+these aliases will be  defined just as they are written, the variables
+are not substituted  for until the  alias is found  in your input  and
+executed.
+
+so, if before a battle, you do a:
+targ donjonkeeper
+then $target is set to donjonkeeper, and any alias you set up with
+$target in it will substitute donjonkeeper for every instance of
+$target.  Let's say your leader has the following alias set up.
+
+#alias {setttarg} {#var {target} {%0};gt target=%0}
+
+if he did a settarg lich, it would set his $target to lich, and
+would send a:
+
+<name> tells your group 'target=lich'
+
+you could then set an action like so.
+
+#action {^%0 tells your group 'target=%1'} {targ %1}
+
+then when your leader executed his alias, it would also set your
+variable to the target.
+
+Another use for variables would be to set a variable $buffer to
+whoever the current buffer is.  This would be useful in fights
+where the mob switches, or where many rescues are needed.  You
+could set up healing aliases with $buffer in them, and set the
+$buffer variable in an action that is triggered by each switch,
+and each rescue, or just rescues, or whatever.  Then in a
+confusing battle, you will have a better shot at healing the
+right person.
+
+************   Variables for now, have to be alpha-only
+*** NOTE ***   You cannot use variable names like:
+************   text1, text2.  Support for this will be in v2.0
+
+~VERBATIM
+
+format:        #verbatim
+
+New for 1.2
+
+Toggle verbatim mode on and off.  When in verbatim mode, text will not be
+parsed, and will be sent 'as is' to the mud.  Tab completion and history
+scrolling are still available in verbatim mode.  It is helpful for writing
+messages, doing online creation, and the like.
+
+~VERSION
+
+format:        #version
+
+Show the version number of tintin++ that you are currently running.
+
+~WIZLIST
+
+format:        #wizlist
+
+Lists the names of people who helped with with mudding, and with the client.
+If you feel your name should be here, let me know, so many people have
+contributed, and it's hard to name everyone.
+
+~WRITE
+
+format:        #write {filename}
+               #write filename
+
+Writes all current actions, aliases, subs, antisubs, highlights, and
+variables to a coms file, specified by filename.  
+
+~WRITESESSION
+
+format:        #writesession {filename}
+               #writesession filename
+
+Write all current actions, aliases, subs, antisubs, highlights, and
+variables that are specific to your current session to a file.  This 
+means actions that were not defined when there was no session active.
+
+~ZAP
+
+format:        #zap
+
+Kill your current session.  If there is no current session, it will cause
+the program to terminate.
+
+~SUSPEND
+
+format:        #suspend
+
+Temporarily suspends tintin++ and returns you to your shell.  The
+effect of this command is exactly as if you had typed control-z.
+To return to tintin++, type "fg" at the shell prompt.
+
+~WILDCARD
+
+format:		#command {regexp}
+
+You may use wildcards with certain commands such as #alias, #action,
+#substitute, #unalias, etc.  In commands like #alias, wildcards are
+only valid when you use exactly one argument.  Wildcards are always
+valid for commands like #unalias.  The only wildcard currently
+supported is *, which matches any string 0 or more characters long.
+The wildcard meaning of * may be escaped using the backslash, \.
+
+Examples:
+
+#action {*miss*}
+	shows all actions which contain the word miss in them
+#unaction {*miss*}
+	removes all actions which contain the word miss in them
+#unaction {\*\*\* PRESS RETURN:}
+	removes the action which triggers on the line *** PRESS RETURN:
+
+Many thanks to Spencer Sun for letting me steal some code for this...
+If anyone is interested in having full ls-style regexps, email me
+and maybe it'll be included in 2.0.
+
+~*EOF* 

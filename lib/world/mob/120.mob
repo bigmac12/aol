@@ -1,0 +1,48 @@
+#12000
+Dvarish captain~
+Dvarish~
+Dvarish, Captain of the Kalaman Drifter stands here.
+~
+   Dvarish looks around himself and mutters.  His clothing is dirty and creased
+and what once would have been a fine ruffled shirt is now reduced to rags.  A
+silver earring dangles from his left ear and his gaunt face looks weary.    
+~
+7596122 33685544 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 4
+8 8 1 0
+E
+T 12001
+T 12002
+T 12004
+#12001
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+#12002
+Forden captain~
+Forden~
+Forden, Captain of the Palanthian Coaster stands here.
+~
+   On seeing your interest, Forden's face lights up in anticipation.  Rubbing
+his bloated hands together, his face beams an impressive smile.  His fine
+doublet and hose look freshly laundered, though slightly too tight for his
+plump build.    
+~
+7596122 33685544 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 0
+E
+T 12005
+T 12006
+T 12008
+$

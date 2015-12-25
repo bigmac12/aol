@@ -1,0 +1,404 @@
+    1. ID:     1 (F) [35 Mu] Solinari            647212g         0b
+    2. ID:     3 (F) [38 Mu] Lunitari              2805g         0b
+    3. ID:    10 (M) [38 Mu] Chemosh                  0g       900b
+    4. ID:     8 (M) [37 Wa] Reorx                  378g 100000000b
+    5. ID:   674 (M) [38 Wa] Zivilyn                  1g     90000b
+    6. ID:    14 (M) [25 Th] Melad                10694g    136952b
+    7. ID:    15 (M) [25 Mu] Grodyn                1950g    288495b
+    8. ID:    22 (M) [30 Mu] Rishandal             3118g         0b
+    9. ID:    23 (M) [38 Mu] Nuitari            3501360g         0b
+   10. ID:    30 (M) [11 Mu] Ashen                    0g      4285b
+   11. ID:    40 (F) [28 Cl] Onyx                  1205g    168100b
+   12. ID:    41 (F) [ 7 Th] Kesseltop              109g      3713b
+   13. ID:    42 (M) [37 Mu] Hiddukel          98325710g        10b
+   14. ID:    44 (F) [23 Ra] Mira                  1100g     23828b
+   15. ID:    60 (M) [ 9 Mu] Llanwar                250g      4499b
+   16. ID:    67 (F) [16 Th] Karlia                 559g      2070b
+   17. ID:    72 (M) [ 8 Wa] Bargas                 269g         0b
+   18. ID:    80 (M) [34 Th] Morgion                100g         0b
+   19. ID:    81 (F) [22 Pa] Zandra                1810g     42639b
+   20. ID:    82 (M) [30 Wa] Apharot               2814g         0b
+   21. ID:    96 (F) [17 Mu] Geostria               230g     15000b
+   22. ID:   132 (M) [ 7 Wa] Bazul                    0g        37b
+   23. ID:   134 (M) [10 Mu] Snipplehop             100g      4028b
+   24. ID:   135 (F) [11 Th] Kilana                 913g    886497b
+   25. ID:   152 (M) [ 9 Kn] Derek                 1206g        53b
+   26. ID:   165 (M) [13 Mu] Winter                1855g     36928b
+   27. ID:   166 (M) [34 Wa] Sirrion                100g         0b
+   28. ID:   167 (M) [14 Ra] Torin                 1857g      3607b
+   29. ID:   509 (M) [ 9 Mu] Adrian                2107g     10000b
+   30. ID:   211 (M) [37 Pa] Paladine             21458g   8886102b
+   31. ID:   247 (M) [ 9 Th] Kichkinet             1402g     30785b
+   32. ID:  1571 (M) [24 Pa] Gavin                 1918g    200614b
+   33. ID:   312 (M) [10 Wa] Kringel               1301g        26b
+   34. ID:   339 (F) [36 Dr] Zeboim                 421g         0b
+   35. ID:   356 (M) [ 8 Mu] Rjah                   108g       972b
+   36. ID:   358 (M) [ 9 Wa] Brasilio              4605g      3000b
+   37. ID:   544 (F) [ 8 Wa] Katja                  504g         0b
+   38. ID:  3130 (M) [14 Wa] Brock                  200g     53269b
+   39. ID:  2143 (F) [ 7 Th] Aloriia                115g       362b
+   40. ID:   463 (M) [ 9 Wa] Barak                  403g         0b
+   41. ID:   461 (M) [ 3 Mu] Camiroon                10g         6b
+   42. ID:   493 (M) [ 8 Ra] Varik                   25g         0b
+   43. ID:  1230 (M) [17 Wa] Orin                   498g     81704b
+   44. ID:   569 (F) [37 Dr] Chislev               1322g         0b
+   45. ID:   581 (F) [22 Wa] Spade                 1160g     53423b
+   46. ID:   596 (M) [22 Kn] Kemet                  481g    123514b
+   47. ID:   633 (M) [ 7 Dr] Umihana                  0g         0b
+   48. ID:   638 (M) [ 8 Cl] Maec                   150g       825b
+   49. ID:   683 (F) [18 Ra] Liadhan               1275g     40000b
+   50. ID:   717 (M) [ 9 Cl] Drax                   130g         0b
+   51. ID:   729 (M) [30 Mu] Chemoshav             1442g         0b
+   52. ID:   738 (F) [37 Mu] Takhisis              6365g         0b
+   53. ID:   751 (M) [16 Dr] Andon                  469g         0b
+   54. ID:   755 (F) [18 Kn] Shinorah              1154g     26421b
+   55. ID:   762 (M) [ 6 Pa] Oneinda                898g         0b
+   56. ID:   763 (M) [ 7 Th] Flik                   310g       100b
+   57. ID:   783 (F) [29 Th] Gringle               2853g    612693b
+   58. ID:   808 (M) [30 Kn] Kalidor               3340g    830685b
+   59. ID:   846 (M) [ 9 Wa] Link                   160g      7308b
+   60. ID:   874 (F) [25 Cl] Terralyn              2000g    570035b
+   61. ID:  1028 (M) [ 8 Cl] Dynan                  889g      1500b
+   62. ID:   988 (F) [16 Mu] Wren                  1100g     47116b
+   63. ID:  1040 (M) [ 7 Cl] Jorge                    5g         0b
+   64. ID:  1075 (M) [ 7 Ra] Soryn                  100g         0b
+   65. ID:  1073 (M) [ 6 Wa] Binabik                 39g         0b
+   66. ID:  1080 (M) [ 9 Wa] Obsidian             10750g         4b
+   67. ID:  1091 (F) [ 6 Dr] Reanna                  82g      4917b
+   68. ID:  1131 (M) [19 Dr] Loric                    0g     19445b
+   69. ID:  1249 (M) [ 7 Ra] Lanzidi                476g      1079b
+   70. ID:  1227 (F) [ 5 Cl] Renata                  83g      4160b
+   71. ID:  1236 (M) [26 Cl] Skoredalahedelun      2000g    442132b
+   72. ID:  1267 (M) [10 Wa] Fenny                    0g         0b
+   73. ID:  1261 (M) [34 Kn] Kiri-Jolith            100g         0b
+   74. ID:  1312 (M) [ 8 Mu] Roken                  510g      2919b
+   75. ID:  1352 (M) [27 Mu] Corran                2208g    870000b
+   76. ID:  1465 (M) [20 Pa] Solist                1579g     61000b
+   77. ID:  1437 (M) [22 Th] Ada                   3632g     16856b
+   78. ID:  1450 (M) [ 6 Cl] Tavlir                  71g         0b
+   79. ID:  1454 (M) [ 9 Wa] Khariax                470g      3279b
+   80. ID:  2010 (M) [15 Cl] Korynth                200g    988872b
+   81. ID:  1551 (F) [15 Th] Lyta                   100g         0b
+   82. ID:  1567 (M) [29 Pa] Stefan                2500g   1747610b
+   83. ID:  1568 (F) [29 Cl] Synthelle             4326g   1749753b
+   84. ID:  1578 (F) [ 6 Cl] Alyra                  113g      2270b
+   85. ID:  1583 (M) [28 Wa] Jorg                  1400g    491370b
+   86. ID:  1588 (M) [15 Kn] Meric                  100g         0b
+   87. ID:  1634 (F) [15 Cl] Ranne                  197g 100000000b
+   88. ID:  1639 (M) [ 8 Wa] Jessiah                200g         0b
+   89. ID:  1662 (M) [ 5 Mu] Richard                207g         0b
+   90. ID:  1691 (F) [ 8 Mu] Neoleana               695g      6970b
+   91. ID:  1695 (F) [20 Cl] Erisia                   0g     12459b
+   92. ID:  1727 (M) [15 Wa] Alaric               11291g         0b
+   93. ID:  2162 (F) [12 Mu] Alanna                 160g     11407b
+   94. ID:  1745 (M) [ 7 Wa] Asotin                 250g        40b
+   95. ID:  1774 (M) [34 Cl] Majere                8844g         0b
+   96. ID:  1864 (M) [22 Cl] Amra                  1800g     89439b
+   97. ID:  1778 (M) [ 3 Wa] Ivan                     0g       159b
+   98. ID:  1777 (F) [35 Pa] Shinare              52662g         0b
+   99. ID:  1779 (M) [35 Cl] Gilean                 100g         0b
+  100. ID:  1783 (M) [34 Mu] Messiah                  0g         0b
+  101. ID:  1784 (M) [35 Ra] Habbakuk              6724g    410370b
+  102. ID:  2139 (M) [12 Pa] Draken                2666g     38644b
+  103. ID:  1801 (M) [ 6 Mu] Aconite                387g       408b
+  104. ID:  1811 (M) [15 Wa] Borric               11400g         0b
+  105. ID:  1813 (M) [18 Th] Olan                  1379g     45014b
+  106. ID:  1976 (M) [10 Wa] Talanvor               857g     44000b
+  107. ID:  1875 (F) [ 7 Cl] Ceradiam               100g     13230b
+  108. ID:  1876 (F) [19 Mu] Tyara                 1782g    338063b
+  109. ID:  1890 (M) [ 5 Mu] Kazmir                 100g        50b
+  110. ID:  1891 (F) [ 5 Mu] Sayadina               235g         0b
+  111. ID:  1897 (M) [16 Cl] Nykah                  700g     61578b
+  112. ID:  1903 (M) [ 6 Kn] Justinius              350g        33b
+  113. ID:  1910 (F) [ 6 Th] Silveration            136g      8509b
+  114. ID:  1928 (M) [ 4 Mu] Duros                  123g      1000b
+  115. ID:  1943 (M) [ 6 Ra] Leto                   544g         0b
+  116. ID:  1945 (M) [ 8 Th] Ghelard                  4g      1614b
+  117. ID:  1974 (M) [ 3 Mu] Tigran                 262g       607b
+  118. ID:  1985 (M) [ 7 Wa] Stonefalls             231g         0b
+  119. ID:  2008 (M) [ 7 Pa] Ophidon                440g         0b
+  120. ID:  2009 (F) [ 7 Ra] Verdre                 100g      6649b
+  121. ID:  2013 (M) [ 6 Th] Kieghchelet            163g       862b
+  122. ID:  2018 (M) [ 7 Kn] Werral                 648g      2429b
+  123. ID:  2022 (M) [ 4 Mu] Kadesh                 138g       402b
+  124. ID:  2027 (F) [ 8 Mu] Llaroydia             1413g      8000b
+  125. ID:  2056 (F) [ 6 Cl] Diana                  122g      2373b
+  126. ID:  2096 (M) [ 6 Wa] Rankor                  45g         0b
+  127. ID:  2078 (F) [ 7 Th] Zyali                  100g      2426b
+  128. ID:  2077 (M) [ 7 Cl] Pyual                  246g      2000b
+  129. ID:  2080 (F) [23 Mu] Belanna               2500g   1391142b
+  130. ID:  2120 (M) [24 Cl] Johorel               2624g   1375158b
+  131. ID:  2121 (F) [12 Cl] Aelia                  300g     11952b
+  132. ID:  2140 (F) [ 6 Cl] Imani                  531g       320b
+  133. ID:  2145 (M) [ 7 Kn] Crizen                 460g      8652b
+  134. ID:  2160 (M) [ 8 Wa] Rannilas              1197g      6133b
+  135. ID:  2181 (F) [33 Mu] Geo                    100g         0b
+  136. ID:  2191 (M) [ 8 Wa] Tirrock                  0g      1592b
+  137. ID:  2196 (M) [ 2 Mu] Aryinon                217g         0b
+  138. ID:  2201 (M) [ 5 Wa] Shankar                256g         0b
+  139. ID:  2225 (M) [16 Pa] Stromdus              3005g      7913b
+  140. ID:  2226 (M) [ 7 Th] Reagus                1619g     28067b
+  141. ID:  2230 (M) [ 5 Wa] Krag                   242g         0b
+  142. ID:  2234 (M) [ 4 Kn] Azrax                    0g       285b
+  143. ID:  2241 (M) [ 8 Cl] Ladon                  200g      3058b
+  144. ID:  2256 (M) [ 5 Dr] Feldin                 662g         0b
+  145. ID:  2258 (M) [ 5 Wa] Sidious                352g       192b
+  146. ID:  2277 (M) [ 3 Th] Wingi                  179g       845b
+  147. ID:  2332 (F) [ 9 Cl] Jadi                   771g         0b
+  148. ID:  2291 (F) [ 3 Cl] Halie                   87g         0b
+  149. ID:  2304 (M) [ 5 Pa] Markus                 281g      1957b
+  150. ID:  2320 (F) [15 Wa] Alysha                2175g     53183b
+  151. ID:  2325 (M) [ 8 Pa] Kaizm                  219g        40b
+  152. ID:  2338 (F) [ 2 Ra] Simowen                382g       100b
+  153. ID:  2364 (M) [ 8 Kn] Holgt                  497g      2820b
+  154. ID:  2358 (M) [ 5 Cl] Damus                  203g         0b
+  155. ID:  2377 (M) [ 3 Cl] Tocurr                  68g         0b
+  156. ID:  2397 (F) [ 6 Wa] Rhynne                 296g         0b
+  157. ID:  2401 (M) [ 3 Ra] Gilan                    0g         0b
+  158. ID:  2403 (M) [ 7 Ra] Amergin                433g         0b
+  159. ID:  2431 (F) [ 9 Ra] Kelandra                62g      1769b
+  160. ID:  2434 (M) [ 1 Mu] Eskevar                 66g         0b
+  161. ID:  2443 (M) [ 8 Th] Tibbur                 376g      2545b
+  162. ID:  2448 (M) [ 5 Mu] Langston               435g       207b
+  163. ID:  2457 (M) [ 4 Wa] Zagar                    0g         0b
+  164. ID:  2470 (M) [ 8 Cl] Ekinas                 253g      3000b
+  165. ID:  2478 (M) [ 6 Ra] Ketro                  886g         0b
+  166. ID:  2479 (M) [ 9 Mu] Dalizar                188g     37049b
+  167. ID:  2488 (M) [ 6 Cl] Duach                  171g         0b
+  168. ID:  2500 (F) [ 1 Th] Liana                   81g       240b
+  169. ID:  2503 (F) [10 Pa] Rakeiza                571g        98b
+  170. ID:  2516 (M) [ 5 Mu] Caostar                136g         0b
+  171. ID:  2550 (M) [14 Th] Kras                   540g    106000b
+  172. ID:  2528 (M) [ 7 Kn] Senbotsu               191g      3500b
+  173. ID:  2533 (M) [10 Mu] Nwalmaer               439g     12000b
+  174. ID:  2537 (F) [ 2 Th] Iliana                 342g         0b
+  175. ID:  2538 (M) [ 5 Ra] Taran                  408g      1400b
+  176. ID:  2543 (F) [ 3 Mu] Melantha               143g       520b
+  177. ID:  2551 (M) [ 6 Th] Daelis                  30g       185b
+  178. ID:  2554 (M) [ 2 Th] Korin                   83g         0b
+  179. ID:  2563 (M) [ 7 Mu] Rizam                  451g      1473b
+  180. ID:  2564 (M) [30 Mu] Indaran               2000g    904089b
+  181. ID:  2575 (M) [ 2 Th] Argent                  15g         0b
+  182. ID:  2587 (M) [ 1 Mu] Kashaman               199g         0b
+  183. ID:  2600 (M) [ 1 Th] Tarrick                  0g       200b
+  184. ID:  2605 (F) [33 Cl] Querthra                 0g       820b
+  185. ID:  2618 (F) [ 5 Mu] Shamina                205g      1371b
+  186. ID:  2699 (M) [ 8 Wa] Rodan                  268g      7100b
+  187. ID:  2648 (M) [ 2 Wa] Caedwen                286g         0b
+  188. ID:  2650 (F) [ 4 Pa] Natasha                 50g         0b
+  189. ID:  2670 (M) [ 6 Kn] Belaur                 397g      1049b
+  190. ID:  2671 (M) [ 3 Kn] Zakar                   53g         0b
+  191. ID:  2672 (M) [ 7 Wa] Batar                    4g      1023b
+  192. ID:  2676 (M) [ 6 Mu] Kyetan                 308g       500b
+  193. ID:  2682 (M) [ 1 Mu] Drevanir                 0g         0b
+  194. ID:  3137 (M) [ 0 Cl] Librasulus               0g         0b
+  195. ID:  2691 (M) [ 4 Mu] Euedean                268g         0b
+  196. ID:  2698 (F) [ 3 Cl] Cyvanna                375g         0b
+  197. ID:  2700 (M) [ 1 Wa] Kroandar                65g         0b
+  198. ID:  2701 (M) [ 5 Pa] Ageris                 278g         0b
+  199. ID:  2704 (F) [ 9 Dr] Talia                  334g      2867b
+  200. ID:  2709 (M) [ 6 Wa] Snorey                   0g         0b
+  201. ID:  2711 (F) [ 1 Dr] Dray                   138g         0b
+  202. ID:  2712 (M) [ 1 Ra] Jesh                   200g         0b
+  203. ID:  2714 (F) [ 7 Dr] Eilandareth           1067g      8000b
+  204. ID:  2718 (F) [ 5 Cl] Katilyna               347g      1090b
+  205. ID:  2720 (F) [ 1 Pa] Celethien              172g         0b
+  206. ID:  2722 (M) [ 7 Dr] Dachem                 200g      6692b
+  207. ID:  2724 (M) [ 1 Pa] Elar                     0g         0b
+  208. ID:  2725 (M) [ 1 Ra] Macker                  27g         0b
+  209. ID:  2728 (M) [ 1 Mu] Nemoreth               201g         0b
+  210. ID:  2735 (M) [ 1 Mu] Axien                    0g         0b
+  211. ID:  2737 (M) [ 2 Pa] Madefen                 40g         0b
+  212. ID:  2738 (M) [ 1 Dr] Drarik                 200g         0b
+  213. ID:  2741 (M) [ 2 Mu] Waimuke                121g         0b
+  214. ID:  2742 (M) [ 1 Mu] Waim                    78g         0b
+  215. ID:  2743 (F) [ 1 Wa] Eca                      0g         0b
+  216. ID:  2744 (M) [ 7 Cl] Utren                    0g         0b
+  217. ID:  2748 (M) [13 Mu] Jirai                 1883g     55700b
+  218. ID:  2749 (M) [ 6 Th] Rajak                  163g     15861b
+  219. ID:  2750 (M) [ 1 Cl] Cadin                  200g         0b
+  220. ID:  2752 (M) [ 1 Pa] Rufius                  18g         0b
+  221. ID:  2753 (F) [ 4 Cl] Whistlebee              65g       310b
+  222. ID:  2763 (M) [ 1 Mu] Arkias                   0g         0b
+  223. ID:  2769 (M) [ 3 Wa] Vlak                   268g       692b
+  224. ID:  2771 (F) [ 4 Dr] Sylvia                 432g         0b
+  225. ID:  2774 (M) [ 1 Th] Marius                 222g         0b
+  226. ID:  2778 (M) [ 1 Th] Taffymacmaffy          178g         0b
+  227. ID:  2781 (M) [ 9 Dr] Helveccio             1433g      6113b
+  228. ID:  2782 (M) [ 4 Pa] Kendric                107g       594b
+  229. ID:  2787 (M) [ 4 Wa] Lothyk                 488g      2000b
+  230. ID:  2792 (M) [ 1 Wa] Ragnor                   0g         0b
+  231. ID:  2793 (F) [28 Mu] Neroli               10841g  14385018b
+  232. ID:  2796 (M) [ 1 Pa] Mullagan               200g         0b
+  233. ID:  2797 (M) [ 2 Cl] Tillamar               217g         0b
+  234. ID:  2804 (F) [ 7 Cl] Elestriel              269g      1000b
+  235. ID:  2807 (M) [ 1 Ra] Emiril                 200g         0b
+  236. ID:  2834 (F) [ 1 Th] Umeko                  332g         0b
+  237. ID:  2813 (F) [ 1 Th] Faeylynn               200g         0b
+  238. ID:  2816 (M) [ 1 Dr] Dalkaar                200g         0b
+  239. ID:  2818 (M) [ 4 Th] Mobius                 159g         0b
+  240. ID:  2858 (M) [ 1 Kn] Garen                  242g         0b
+  241. ID:  2824 (M) [ 7 Wa] Arryle                 440g         0b
+  242. ID:  2826 (M) [ 1 Mu] Gerret                   0g         0b
+  243. ID:  2828 (M) [ 1 Mu] Tramshed               198g         0b
+  244. ID:  2829 (M) [ 1 Dr] Teralonian              64g         0b
+  245. ID:  2835 (F) [ 1 Wa] Zilarianna             135g         0b
+  246. ID:  2837 (M) [ 1 Dr] Zafez                  235g         0b
+  247. ID:  2838 (M) [ 1 Mu] Varamir                 87g         0b
+  248. ID:  2839 (M) [ 3 Wa] Nakrak                 253g         0b
+  249. ID:  2872 (F) [ 2 Cl] Carelina               125g         0b
+  250. ID:  2843 (M) [ 7 Dr] Osiah                  168g      2576b
+  251. ID:  2844 (M) [ 1 Th] Olgart                 200g         0b
+  252. ID:  2846 (F) [ 1 Wa] Tarieana                50g         0b
+  253. ID:  2848 (M) [ 1 Cl] Turel                  200g         0b
+  254. ID:  2869 (M) [ 1 Ra] Kaleth                 210g         0b
+  255. ID:  2876 (M) [ 1 Dr] Tobias                 202g         0b
+  256. ID:  2883 (M) [ 1 Dr] Davern                 145g         0b
+  257. ID:  2887 (M) [ 1 Wa] Jedite                   0g         0b
+  258. ID:  2896 (M) [ 1 Cl] Zark                    68g         0b
+  259. ID:  2891 (M) [ 1 Kn] Bandelan               200g         0b
+  260. ID:  2898 (M) [ 1 Th] Venturi                 77g         0b
+  261. ID:  2911 (M) [ 1 Ra] Rashtar                525g         0b
+  262. ID:  2915 (F) [ 1 Pa] Zanniati                 0g         0b
+  263. ID:  2918 (F) [ 1 Cl] Amaranta               100g         0b
+  264. ID:  2919 (M) [25 Dr] Jenrodan               100g         0b
+  265. ID:  2924 (M) [ 4 Wa] Draeg                  184g         0b
+  266. ID:  2928 (M) [ 4 Kn] Goodral                  0g       295b
+  267. ID:  2931 (M) [ 6 Wa] Aranthor               348g       809b
+  268. ID:  2935 (F) [ 1 Th] Elnora                   0g         0b
+  269. ID:  2934 (F) [ 4 Dr] Rozynia                283g         0b
+  270. ID:  2937 (M) [ 5 Wa] Aranthor               400g         0b
+  271. ID:  2963 (M) [ 4 Th] Coven                  412g         0b
+  272. ID:  2950 (M) [ 3 Th] Triter                  52g      1672b
+  273. ID:  2954 (M) [12 Wa] Hebordic               704g         0b
+  274. ID:  2967 (M) [ 9 Mu] Katra                  710g     13579b
+  275. ID:  2968 (F) [ 1 Mu] Nailia                   0g         0b
+  276. ID:  2969 (M) [ 1 Wa] Grizzen                 21g         0b
+  277. ID:  2971 (M) [ 1 Wa] Eldan                  200g         0b
+  278. ID:  2974 (M) [ 3 Wa] Lamari                   0g         0b
+  279. ID:  2975 (M) [ 2 Th] Talo                    35g         0b
+  280. ID:  2979 (M) [ 1 Wa] Thelkar                  3g         0b
+  281. ID:  2978 (F) [ 1 Wa] Ilona                  200g         0b
+  282. ID:  2980 (M) [ 4 Kn] Darin                  697g         0b
+  283. ID:  3003 (M) [ 1 Cl] Cryss                    0g       700b
+  284. ID:  2991 (F) [20 Pa] Madeline              1104g    155231b
+  285. ID:  3000 (M) [ 1 Kn] Teris                  200g         0b
+  286. ID:  3001 (M) [ 3 Ra] Geeg                   106g       444b
+  287. ID:  3002 (M) [ 7 Wa] Tymothy                300g     17744b
+  288. ID:  3005 (F) [ 5 Dr] Rozylaria             1178g      3000b
+  289. ID:  3006 (M) [ 1 Pa] Talkar                  98g         0b
+  290. ID:  3008 (M) [ 7 Cl] Kain                   714g         0b
+  291. ID:  3014 (M) [ 7 Wa] Giluk                  444g      1138b
+  292. ID:  3015 (M) [ 3 Wa] Dire                   127g         0b
+  293. ID:  3016 (F) [ 1 Wa] Kylawyn                200g         0b
+  294. ID:  3017 (M) [ 5 Kn] Beik                   331g         0b
+  295. ID:  3018 (M) [ 1 Wa] Elghinn                200g         0b
+  296. ID:  3020 (M) [ 1 Kn] Medelo                 103g         0b
+  297. ID:  3021 (M) [ 2 Mu] Retain                  46g       401b
+  298. ID:  3040 (M) [ 0 Mu] Morkia                   0g         0b
+  299. ID:  3041 (M) [ 1 Mu] Lathandus              200g         0b
+  300. ID:  3024 (M) [ 1 Mu] Tolem                  144g         0b
+  301. ID:  3032 (M) [ 0 Mu] Lathanus                 0g         0b
+  302. ID:  3033 (M) [ 0 Mu] Gevauldin                0g         0b
+  303. ID:  3034 (M) [ 0 Th] Zouik                    0g         0b
+  304. ID:  3035 (M) [ 0 Mu] Bloodnose                0g         0b
+  305. ID:  3036 (M) [ 0 Mu] Pytor                    0g         0b
+  306. ID:  3038 (M) [ 7 Cl] Angus                  909g         0b
+  307. ID:  3039 (M) [ 1 Mu] Teclis                 104g         0b
+  308. ID:  3042 (M) [ 0 Kn] Aranus                   0g         0b
+  309. ID:  3043 (M) [ 0 Kn] Reignfire                0g         0b
+  310. ID:  3044 (M) [ 1 Cl] Erik                    18g         0b
+  311. ID:  3045 (M) [ 0 Kn] Araym                    0g         0b
+  312. ID:  3046 (M) [ 0 Pa] Boltar                   0g         0b
+  313. ID:  3047 (M) [ 0 Mu] Blaez                    0g         0b
+  314. ID:  3048 (F) [ 1 Th] Hindra                 151g         0b
+  315. ID:  3050 (M) [ 0 Wa] Kitar                    0g         0b
+  316. ID:  3051 (M) [ 0 Kn] Thanas                   0g         0b
+  317. ID:  3053 (M) [ 1 Wa] Urestin                231g         0b
+  318. ID:  3054 (M) [ 0 Wa] Ashier                   0g         0b
+  319. ID:  3055 (F) [ 6 Mu] Lydani                 244g       436b
+  320. ID:  3056 (M) [ 5 Wa] Lurkin                 715g      4456b
+  321. ID:  3075 (F) [ 0 Cl] Kalash                   0g         0b
+  322. ID:  3059 (M) [ 0 Kn] Arikan                   0g         0b
+  323. ID:  3061 (M) [ 5 Kn] Peregorn               964g         0b
+  324. ID:  3062 (M) [ 0 Ra] Trinin                   0g         0b
+  325. ID:  3063 (M) [ 0 Mu] Tristan                  0g         0b
+  326. ID:  3065 (M) [ 0 Wa] Atropos                  0g         0b
+  327. ID:  3066 (M) [ 0 Wa] Maruinida                0g         0b
+  328. ID:  3067 (M) [ 0 Th] Ishmael                  0g         0b
+  329. ID:  3068 (M) [ 0 Wa] Thorfinn                 0g         0b
+  330. ID:  3069 (F) [ 0 Wa] Teresa                   0g         0b
+  331. ID:  3070 (M) [ 0 Th] Doffin                   0g         0b
+  332. ID:  3071 (M) [ 0 Ra] Fergis                   0g         0b
+  333. ID:  3073 (M) [ 1 Mu] Akafta                 418g         0b
+  334. ID:  3076 (M) [ 0 Wa] Kallash                  0g         0b
+  335. ID:  3077 (M) [ 0 Kn] Hanz                     0g         0b
+  336. ID:  3078 (M) [ 0 Cl] Bobo                     0g         0b
+  337. ID:  3079 (M) [ 0 Th] Tand                     0g         0b
+  338. ID:  3083 (M) [ 5 Ra] Troah                  277g         0b
+  339. ID:  3081 (M) [ 2 Mu] Arelas                   0g         0b
+  340. ID:  3084 (M) [ 3 Cl] Haakon                  72g         0b
+  341. ID:  3086 (M) [ 0 Th] Marlon                   0g         0b
+  342. ID:  3087 (M) [ 0 Ra] MysterX                  0g         0b
+  343. ID:  3088 (M) [ 0 Wa] LunMo                    0g         0b
+  344. ID:  3089 (M) [ 0 Wa] Bunholeo                 0g         0b
+  345. ID:  3090 (M) [ 0 Wa] JetLee                   0g         0b
+  346. ID:  3091 (M) [ 0 Wa] Jedi                     0g         0b
+  347. ID:  3093 (M) [ 1 Kn] Demol                    0g         0b
+  348. ID:  3094 (M) [ 0 Wa] Orlon                    0g         0b
+  349. ID:  3095 (M) [ 4 Mu] Marloun                  0g         0b
+  350. ID:  3096 (M) [ 0 Wa] Dantrag                  0g         0b
+  351. ID:  3097 (M) [ 0 Wa] Dantrang                 0g         0b
+  352. ID:  3098 (M) [ 1 Kn] Scyld                    0g         0b
+  353. ID:  3102 (F) [30 Cl] Twilight               981g         0b
+  354. ID:  3100 (M) [ 0 Wa] Motorola                 0g         0b
+  355. ID:  3103 (M) [ 0 Ra] Zefirus                  0g         0b
+  356. ID:  3104 (M) [ 0 Th] Rakarth                  0g         0b
+  357. ID:  3105 (M) [ 0 Th] Chog                     0g         0b
+  358. ID:  3107 (M) [ 2 Wa] Chogg                    0g         0b
+  359. ID:  3108 (M) [ 0 Dr] Angel                    0g         0b
+  360. ID:  3109 (M) [ 0 Ra] Dreifort                 0g         0b
+  361. ID:  3111 (M) [ 0 Th] Jamison                  0g         0b
+  362. ID:  3112 (M) [ 0 Wa] Lyster                   0g         0b
+  363. ID:  3113 (M) [ 0 Kn] Morgana                  0g         0b
+  364. ID:  3114 (M) [ 2 Kn] Mecretese              155g         0b
+  365. ID:  3115 (M) [ 0 Cl] Vincent                  0g         0b
+  366. ID:  3116 (M) [ 0 Th] SithSpawn                0g         0b
+  367. ID:  3117 (M) [ 1 Pa] Syrius                   0g         0b
+  368. ID:  3118 (M) [ 0 Mu] Dendybar                 0g         0b
+  369. ID:  3119 (M) [ 0 Cl] Iggy                     0g         0b
+  370. ID:  3120 (M) [ 5 Cl] Medarke                  0g       979b
+  371. ID:  3121 (M) [ 0 Mu] Argon                    0g         0b
+  372. ID:  3122 (M) [ 0 Wa] Drag-oon                 0g         0b
+  373. ID:  3123 (M) [ 0 Wa] Squall                   0g         0b
+  374. ID:  3124 (M) [ 0 Wa] Toreno                   0g         0b
+  375. ID:  3128 (M) [ 0 Th] Marlyn                   0g         0b
+  376. ID:  3127 (M) [ 0 Wa] Levin                    0g         0b
+  377. ID:  3129 (M) [ 0 Ra] IfICouldBeLikeZeboimToo         0g         0b
+  378. ID:  3154 (M) [ 5 Wa] Talos                 1076g         0b
+  379. ID:  3132 (M) [ 0 Wa] Diego                    0g         0b
+  380. ID:  3133 (M) [ 0 Wa] Pyrex                    0g         0b
+  381. ID:  3134 (M) [ 0 Mu] Akar                     0g         0b
+  382. ID:  3135 (M) [ 0 Mu] Kessel                   0g         0b
+  383. ID:  3136 (M) [ 2 Mu] Saryon                 289g         0b
+  384. ID:  3138 (M) [ 0 Cl] Skewer                   0g         0b
+  385. ID:  3139 (M) [ 0 Cl] Entropy                  0g         0b
+  386. ID:  3140 (M) [ 0 Pa] Antioch                  0g         0b
+  387. ID:  3141 (M) [ 0 Pa] Dredge                   0g         0b
+  388. ID:  3157 (M) [ 1 Cl] Ryoss                   30g         0b
+  389. ID:  3143 (M) [ 0 Wa] Lomak                    0g         0b
+  390. ID:  3145 (M) [ 1 Pa] Taloh                   55g         0b
+  391. ID:  3146 (M) [ 0 Mu] Martrix                  0g         0b
+  392. ID:  3147 (M) [ 0 Ra] Terran                   0g         0b
+  393. ID:  3148 (M) [ 0 Wa] Scyth                    0g         0b
+  394. ID:  3149 (M) [ 0 Dr] Orion                    0g         0b
+  395. ID:  3150 (M) [ 0 Wa] Scynth                   0g         0b
+  396. ID:  3151 (M) [ 1 Mu] Zhouyu                 149g         0b
+  397. ID:  3152 (M) [ 1 Wa] Draxon                  84g         0b
+  398. ID:  3153 (M) [ 1 Th] Tryn                    52g         0b
+  399. ID:  3158 (M) [ 0 Th] Ryll                     0g         0b
+  400. ID:  3159 (M) [ 1 Mu] Thraxon                217g         0b
+  401. ID:  3160 (M) [ 1 Wa] Kaiel                   29g         0b
+  402. ID:  3161 (M) [ 0 Wa] Gimpsta                  0g         0b
+  403. ID:  3162 (M) [ 0 Wa] Wendol                   0g         0b
+  404. ID:  3163 (M) [ 0 Ra] Jaxon                    0g         0b

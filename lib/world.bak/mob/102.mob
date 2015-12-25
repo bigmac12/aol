@@ -1,0 +1,381 @@
+#10200
+hound wild baying fog~
+a wild hound~
+The fog seems to part as a wild hound comes into view, baying mournfully.
+~
+   The wild hound before you seems almost etheral in nature as the fog drifts
+around him.  His coat of fur is similar color to the fog, letting him blend in
+well.  He lets out a soulful howl, enough to chill you to the bone.
+~
+184 263200 0 -1000 E
+6 17 10 2d5+70 2d5+2
+0 175 10
+8 8 1 0
+BareHandAttack: 4
+Maxmove: 50
+E
+T 20
+#10201
+beetles swarm loctus cloud insects~
+a swarm of loctus beetles~
+A cloud of insects makes a horrendously menacing noise as it swarms toward you.
+~
+   The loctus beetles have hard, shiny backed shells and large pinchers, and
+have been known to easily swarm an entire cow, devoring it in mere minutes.  
+The menacing noise they make tend to warn the wary of their approach.    
+~
+196648 197632 0 -1000 E
+4 18 12 1d5+45 1d8+1
+0 50 10
+8 8 0 0
+BareHandAttack: 12
+Maxmove: 50
+E
+T 21
+#10202
+maggots hoarde~
+a hoarde of maggots~
+A slithering hoarde of maggots come from nowhere to devour anything it can.
+~
+   The hoarde of maggots resembles a moving, slithering brown mass, and makes a
+terrible, clickety munching sound as they move like one being across the
+ground.  The hoarde seems to smell its prey from afar, and comes from nowhere
+to devour what it seeks - fresh blood and meat.    
+~
+61 132104 0 -1000 E
+3 19 13 1d5+25 1d6+1
+0 25 10
+8 8 0 8
+BareHandAttack: 10
+Maxmove: 50
+E
+#10203
+creature demon serpent serpentine~
+a demon serpent~
+A serpentine creature with the head and wings of a demon hisses menacingly.
+~
+   Most of the body is serpentine, with black oily scales ending in a
+scorpion's tail.  The demon serpent has wings, enabling it to fly, however
+awkward it may seem to be, and the head is of a demon, resembling a cross
+between a snake, a wolf, and a rat with hollow fangs, a snarling muzzle, and
+beady, hate filled eyes.    
+~
+8552458 66568 0 -700 E
+5 17 11 2d5+65 2d5+0
+0 85 10
+8 8 1 9
+BareHandAttack: 4
+Maxmove: 50
+E
+#10204
+bat red cave~
+a red eyed cave bat~
+A pair of small red eyes blink in and out near the cavern ceiling.
+~
+   A red eyed cave bat hangs from the ceiling.  As you approach, its eyes
+spring open malevolently and it screechs.  Spreading its wings, the creature
+prepares to take flight.    
+~
+135194 66568 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 10
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#10205
+fire salamander sala~
+a fire salamander~
+A fire salamander crawls across the ground.
+~
+   A fire salamander crwals across the ground.  Large black eyes peer at you as
+you cross its path and it hurries to get out of the way, least you step on it.
+Bright red dots cover the creature in an effort to ward off its enemies.
+~
+10 67240960 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+BareHandAttack: 2
+Maxmove: 50
+E
+#10206
+nymph corrupted tree twisted~
+a corrupted tree nymph~
+A twisted tree moves in an unfelt wind, its leaves rustling as if in pain.
+~
+   The tree standing before you is twisted and bent at an odd angle, as if it
+was in pain.  The wilting leaves in its branches rustle in an unfelt wind, and
+you can almost hear it moaning in pain.  The tree is obviously corrupted, and
+the spirit within the tree has been affected as well.    
+~
+42 721920 0 0 E
+4 18 12 1d5+45 1d8+1
+0 50 5
+8 8 0 0
+BareHandAttack: 15
+Maxmove: 50
+E
+T 10206
+#10207
+demon humanoid disfigured winged lesser~
+a lesser winged demon~
+A disfigured humanoid body with large wings howls insanely.
+~
+   The demon stands before you, his wings unfurled and ready to fly at a
+moment's notice.  He is very disfigured with horns protruding from his head and
+fangs dripping saliva.  His thick skin is the color of dried blood and frothy
+green poison, and he howls with a high pitched scream.    
+~
+696366 66568 524292 -1000 E
+10 14 6 5d4+160 2d7+2
+0 1900 8
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#10208
+bat red cave~
+a red eyed cave bat~
+A pair of small red eyes blink in and out near the cavern ceiling.
+~
+   A red eyed cave bat hangs from the ceiling.  As you approach, its eyes
+spring open malevolently and it screechs.  Spreading its wings, the creature
+prepares to take flight.    
+~
+135194 66568 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 10
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+T 10208
+#10209
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+524298 0 12291 0 E
+7 16 9 3d5+85 2d6+1
+0 400 8
+8 8 2 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#10210
+female beautiful human~
+a beautiful human like female~
+A beautiful human like female bathes in the dark waters.
+~
+   Scantly clad a beautiful human-like figure stands here.  Her natural
+radiance is almost over whelming.  Long silver hair dangles freely over her
+toned green body.  Her movements, quick and agile.  Dark eyes look at you
+tempting you to draw closer, for a better look.    
+~
+8912906 1032 3145731 0 E
+8 17 11 2d5+65 2d5+0
+20 85 9
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 50
+E
+#10211
+undead cleric~
+an undead cleric~
+An undead cleric moves around aimlessly, searching for something in the rubble.
+~
+   Before you are the charred remains of what seems to have once been human.  
+Robes once white now scorched black, smolder away.  The only item left is a
+small metallic symbol of an unrecognizable deity.  The dead body, still moving
+draws closer.    
+~
+528394 1032 1 0 E
+3 19 13 1d5+25 1d6+1
+50 25 9
+8 8 1 0
+BareHandAttack: 8
+Maxmove: 50
+E
+#10219
+priest high undead corpse charred~
+an undead high priest~
+The charred corpse of what was once a high priest prevents anyone from leaving.
+~
+   The charred and mutilated corpse ambles near anything else that moves and
+appears to be still alive, for in his moment of death, he only knew someone had
+betrayed him, and he needed to take his revenge upon that one person.  
+Unfortunately, he never did find out who it was that destroyed his beloved
+temple, and vowed to never let anyone else leave until he found him.    
+~
+9076746 1066 4194304 0 E
+10 15 8 5d5+110 2d6+2
+0 800 9
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#10220
+spirit warrior great~
+the spirit of a once great warrior~
+The spirit of a great warrior rises from his crypt, with an unearthly wail.
+~
+   The spirit takes on the form of the warrior and what he looked like before
+he died.  His armor is ghostly, and shines with an unearthly glow, and his
+sword gleams with unholy light.  He does not speak, but appears to be angry
+about his death.    
+~
+131114 1024 0 -600 E
+10 14 6 5d4+160 2d7+2
+0 1900 10
+8 8 1 0
+Maxmove: 50
+E
+#10285
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#10286
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#10287
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#10288
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#10289
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#10290
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#10291
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#10292
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+Maxmove: 50
+E
+#10299
+Ursanne Ursa shopkeep shopkeeper~
+Ursanne~
+Ursanne sits behind the counter quietly reading a large tome.
+~
+   As she notices you looking in her direction, Ursanne closes the book she was
+reading and rises gracefully to her feet.  She smoothes her sandy-brown hair
+back from her face and turns to greet you with a slight smile.  Her features
+are rather plain but her pleasant smile lends a warmth to her countenance.    
+~
+8120474 33993768 16 800 E
+30 -30 -14 30d99+1700 30d99+50
+99999 1 1
+8 8 2 0
+BareHandAttack: 6
+Maxmove: 50
+E
+$

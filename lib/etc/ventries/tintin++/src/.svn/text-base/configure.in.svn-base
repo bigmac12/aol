@@ -1,0 +1,47 @@
+AC_INIT(tintin.h)
+AC_PROG_CC
+AC_PROG_CPP
+AC_ISC_POSIX
+AC_AIX
+AC_MINIX
+
+OLD_CFLAGS="$CFLAGS"
+CFLAGS="$CFLAGS -pipe"
+
+echo "Do you want the helpfile to be compressed (yes/no)? "
+read YESNO
+if test $YESNO; then
+  if echo "$YESNO"|grep -i "no" >/dev/null; then
+    DEFS="$DEFS -DCOMPRESSED_HELP=0"
+  else
+    DEFS="$DEFS -DCOMPRESSED_HELP=1"
+    COMPRESSED_HELP="Ok"
+  fi
+fi
+
+AC_COMPILE_CHECK(-pipe,
+  	[ ],
+	[ exit(0); ],
+	PIPE=-pipe,
+	[CFLAGS="$OLD_CFLAGS" ; PIPE="" ]
+	)
+
+AC_GCC_TRADITIONAL
+AC_DYNIX_SEQ
+AC_IRIX_SUN
+AC_XENIX_DIR
+AC_SCO_INTL
+AC_HAVE_HEADERS(strings.h string.h stdlib.h time.h sys/termio.h)
+AC_HEADER_EGREP(tcflag_t, sys/termio.h, DEFS="$DEFS -DHAVE_TCFLAG_T=1")
+AC_COMPILE_CHECK(which method to use to turn keyboard echo on/off,
+	[ #include <sys/termio.h> 
+	  #include <sgtty.h> ],
+	[ CBREAK ],
+	DEFS="$DEFS -DBSD_ECHO=1", 
+	[ ])
+AC_HAVE_LIBRARY(socket, [LIBS="$LIBS -lsocket"])
+AC_HAVE_LIBRARY(nsl, [LIBS="$LIBS -lnsl"])
+AC_HAVE_FUNCS(bcopy)
+AC_SUBST(PIPE)
+AC_OUTPUT(Makefile)
+

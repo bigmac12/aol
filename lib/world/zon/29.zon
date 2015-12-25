@@ -1,0 +1,31 @@
+#29
+Kalaman (Sewers)~
+2999 10 2
+* ZoneState 4 -NONE- 000000000000000
+D 0 2900 4 1 	(A Pool of Muck)
+M 0 2900 15 2941 	(a giant rat)
+M 0 2900 9 2962 	(a giant rat)
+M 0 2902 6 2952 	(a giant bat)
+M 0 2900 9 2949 	(a giant rat)
+M 0 2903 4 2945 	(a slig)
+M 0 2901 6 2942 	(a giant lizard)
+M 0 2902 6 2937 	(a giant bat)
+M 0 2901 6 2933 	(a giant lizard)
+M 0 2900 9 2931 	(a giant rat)
+M 0 2902 6 2930 	(a giant bat)
+M 0 2902 6 2921 	(a giant bat)
+M 0 2903 4 2920 	(a slig)
+M 0 2900 9 2917 	(a giant rat)
+M 0 2902 6 2913 	(a giant bat)
+M 0 2902 6 2907 	(a giant bat)
+M 0 2900 9 2905 	(a giant rat)
+M 0 2901 6 2903 	(a giant lizard)
+R 0 2928 2901 -1 	(a dead mouse)
+O 0 2901 10000 2928 	(a dead mouse)
+R 0 2902 2900 -1 	(a skull)
+O 0 2900 10000 2902 	(a skull)
+D 0 2957 4 1 	(A Pool of Muck)
+D 0 2918 4 1 	(A Pool of Muck)
+D 0 2911 4 1 	(A Pool of Muck)
+S
+$

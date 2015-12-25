@@ -1,0 +1,1608 @@
+#3600
+REUSE ME!~
+   You have stumbled upon a room brightly bathed in sky blue light.  The walls
+are made of pure, immaculate white marbles.  A pedestal encircled in a ring of
+slender pillars lies in the middle of this enormous chamber.  Silky white
+cloths are draped on the pillars, granting this chamber a soft and calming
+effect.  Dancing above the pedestal is a symbol of a blue infinity and it seems
+to be the only source of light in this room.  You realise that you have entered
+the chamber of the Skyblue Mistress, Mishakal.    
+~
+36 24 0 0 0
+S
+#3601
+A Decimated Village Square~
+   You are standing in a flattened area, which was once the hub of the Village
+of Mista.  A gaping hole in the middle of the square is all that remains of the
+village well, and the broken cobblestones around it are slowly sinking in
+towards the middle.  A layer of dust and ash swirls up into the air as you
+explore the area, making your vision slightly hazy.  A high-pitched keening
+sound is echoing throughout the square in a most irritating manner, creating an
+eerie, mournful atmosphere.    
+~
+36 4 1 0 0
+D0
+~
+~
+0 0 3614
+D2
+~
+~
+0 0 3618
+E
+dust ash hazy~
+   A thick layer of ash and dust covers the grond like a blanket and no matter
+how carefully you trod, you end up kicking up some of the ash into the air.  
+
+~
+S
+#3602
+A Bazaar Thoroughfare Reduced to Rubble~
+   Shattered articles and the occasional intact building are all that remain of
+this once bustling village.  Oddly, there are no people in sight, and it is
+unusually quiet.  The ground is still covered in ash and dust from what looks
+like a great disturbance, and the wide road in front of you to the east and
+west is all that remains of main street.  The cobblestones no longer fit
+together properly, making a rough and jagged path to walk on.  Northwards
+stands an largely intact bakery.  The front door is kicked in, and all you can
+see is darkness within it from this position.    
+~
+36 0 1 0 0
+D0
+~
+~
+0 0 3607
+D1
+~
+~
+0 0 3621
+D3
+~
+~
+0 0 3604
+S
+#3603
+An Abandoned Row of Scorched Homes~
+   The street is filled with people even though it seems to be a small street
+in this village.  Traders set up their stalls along the side of the street,
+shouting on top of their voices to attract the attention of the people.  Most
+of them seem to be farmers, selling a variety of vegetables and fruits.    
+~
+36 0 1 0 0
+D0
+~
+~
+0 0 3605
+D2
+~
+~
+0 0 3615
+D3
+~
+~
+0 0 -1
+S
+#3604
+A Bazaar Thoroughfare Reduced to Rubble~
+   The road curves downwards towards a series of broken down stalls, which once
+held various wares for sale.  Jagged beams of wood are leaning at odd angles,
+and torn scraps of colourful canvas lay here and there.  Rats scurry beneath
+the cloth collecting leftovers, but they scurry away at your approach.  A lone
+raven perches on the tallest wooden beam, glaring down at you balefully.    
+~
+36 0 1 0 0
+D0
+~
+~
+0 0 3630
+D1
+~
+~
+0 0 3602
+D2
+~
+~
+0 0 -1
+E
+raven lone~
+   A jet-black raven with carefully groomed feathers glares down at you through
+its narrow black eyes.  A thin gold chain is wrapped about its neck, bearing a
+metal tag.    
+~
+E
+tag metal~
+The tag reads '&rAvorlyn of Coral Grove&n'
+~
+S
+#3605
+A Twisted Street of Cracked Cobblestones~
+   The street in front of you is little more than a row of crooked, cracked
+cobblestones arranged in a jagged path.  A pair of bandoned homes, now a
+familiar sight, are located to the north and east of you.    
+~
+36 0 0 0 0
+D0
+~
+door~
+0 0 3613
+D1
+~
+~
+0 0 3606
+D2
+~
+~
+0 0 3603
+D3
+~
+~
+0 0 3636
+S
+#3606
+An Abandoned, Raided Home~
+   At the edge of the property stands a one-story dilapidated home.  The
+windows have been shattered, and now the glass pieces are embedded into the
+rose-coloured tile inside of the building.  The battered door is ajar and is
+just barely hanging onto the rotting doorframe by one metal hinge near the
+bottom.  The roof is sagging and missing several tiles, and the outer walls are
+slowly crumbling.  A few storage boxes lie broken and scavenged to your left,
+and a stray alley cat peers back at you from beneath one of the split crates.
+~
+36 8 0 0 0
+D3
+~
+~
+0 0 3605
+E
+boxes crate box crate~
+   Several boxes lie on the ground to your left, all of which have been broken
+open by the town's scavengers.  A few articles remain such as a comb, a shirt,
+a scattering of buttons, a shovel, and a few other small trinkets, but nothing
+seems to be of much use to you.    
+~
+E
+cat alley stray~
+   The alley cat starts to hiss as you stare at him, his disheveled grey fur
+standing on end in alarm.    
+~
+S
+#3607
+A Bakery Oven Room~
+   As you step through the doorway, you first notice two large earthenware
+baking ovens mounted across the back wall of the bakery.  The left oven is
+ajar, and the stench coming from inside is worse than a failed gnomish cooking
+experiment.  A mixture of red blood and green ichor drips through the grating
+of the oven to the right into a small pool on the floor.  In front of the ovens
+is a countertop which is lightly dusted with spilt flour and dust, and at the
+back of the room is a broken door.  Along the west wall several bags of flour
+and wheat have deteriorated, spilling their contents across the scuffed
+hardwood flooring.  Several large rats huddle together in the midst of the
+wheat, too busy gorging themselves to do more than glance at you.    
+~
+36 13 0 0 0
+D0
+~
+~
+0 0 3608
+D2
+~
+~
+0 0 3602
+E
+rat~
+   As you gaze at the rat, she turns to face you with her eyes flashing, and
+her teeth bared.    
+~
+S
+#3608
+Backroom of a Bloodstained Bakery~
+   The backroom of the bakery is dark and dank, and a noxious odor of rotting
+flesh fills the room.  The long countertop along the back wall, previously used
+for rolling and kneading dough, is now empty and covered in dark red stains.  
+A dripping ebony blade is embedded in the wall behind the counter, and beside
+the dagger is a rusted exit.  Spidery words are scrawled across the door,
+written crudely in blood.    
+~
+36 5 0 0 0
+D0
+~
+door~
+1 0 3669
+D2
+~
+~
+0 0 3607
+E
+words word blood writing message~
+     &r tUrn bAcK.&n
+
+&R tHiS  be  OUr  cIty...&n
+
+    &r and&n &RMY&n&r aLLeY&n
+~
+S
+#3609
+A Twisted Street of Cracked Cobblestones~
+   A sudden gush of wind swirls the sand and dust on the ground into the air.
+You attempt to cover your face with your hands as you continue along this
+street.  Children can be seen running about, giggling and laughing as they
+chase the cats with sticks and buckets of water.  A small alley lies to your
+south.    
+~
+36 0 1 0 0
+D1
+~
+~
+0 0 3636
+D3
+~
+~
+0 0 3635
+S
+#3610
+A Twisted Street of Cracked Cobblestones~
+   A sudden gush of wind swirls the sand and dust on the ground into the air.
+You attempt to cover your face with your hands as you continue along this
+street.  Children can be seen running about, giggling and laughing as they
+chase the cats with sticks and buckets of water.    
+~
+36 0 1 0 0
+D1
+~
+~
+0 0 3635
+D3
+~
+~
+0 0 3634
+S
+#3611
+Unused~
+   The alley is barely two armlengths wide and seems to be the dump of this
+village.  The walls are cracking with obvious crevices.  As you squeeze your
+way through the passage, you notice beggars squating at the sides of this
+alley, scavaging for any remnants of food from the trash.  A strong stench of
+rotting flesh fills your nostrils as you stand in this filthy place.    
+~
+36 256 0 0 0
+S
+#3612
+Unused~
+   The house, eventhough small, is very cozily set up.  Drapes are hung on the
+windows, while the dull floor is covered with a handmade mat.  A small
+crackling fireplace provides the house with minimal warmth.  A hand drawn
+portrait of a family is displayed on the wall.    
+~
+36 8 0 0 0
+D0
+~
+~
+0 0 -1
+S
+#3613
+A House Reduced to Rubble~
+   A square foundation of stone, visible under a pile of ash and rubble, marks
+the frame of a house where a villager once lived.  Lying to the north of the
+square is a charred black stove, its cooking grate open and creaking eerily in
+the breeze.  A small rose bush to the left side of the foundation struggles up
+through the rock towards the light, but the heart-shaped leaves are thin and
+malnourished.  A pile of sharpened garden tools lies near the broken door.    
+~
+36 8 0 0 0
+D2
+~
+~
+0 0 3605
+E
+stove iron charred black~
+   An old wrought iron stove lies here on its side in sad disrepair.  The grate
+swings open and closed repeatedly in the breeze, creating a high-pitched
+screeching sound which echoes unnervingly throughout the area.  A malnourished
+ivy plant struggles to wind its way around the legs without much success, and a
+nest of beetles now lives inside the grill.    
+~
+E
+tools garden tool~
+   These tools have been freshly sharpened.  Listening to the howls outside,
+and examining the bloodstains and remnants of fur on the blades, you suspect
+these tools are used for self-defense rather than for gardening.    
+~
+S
+#3614
+Main Street of a Ravaged Village~
+   Crumbling buildings, broken carts, and scattered piles of debris form a
+hazardous obstacle course through which you must navigate.  The ground is
+covered in a thick layer of ash and dust, and a skeletonized dog lies to your
+left under a thin film of dirt.  Tortured howls and high-pitched shrieks
+emanate from the village square to the south.    
+~
+36 0 1 0 0
+D0
+~
+~
+0 0 3679
+D2
+~
+~
+0 0 3601
+E
+dog skeletonized~
+   A large dog rests here in eternal slumber.  His skin is stretched over his
+bones tightly as if he were dehydrated forcefully by unnatural means.  Insects
+crawl across his back in lazy lines, using his carcass for shelter.    
+~
+S
+#3615
+An Abandoned Row of Scorched Homes~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.    
+~
+36 0 1 0 0
+D0
+~
+~
+0 0 3603
+D2
+~
+~
+0 0 3616
+S
+#3616
+An Abandoned Row of Scorched Homes~
+   The street beneath you is scorched black, as it if were blasted violently by
+unnatural means.  A film of ash still hangs in the air, and the acrid stench of
+a past fire burns your nostrils.  Formerly a cheery residential section of
+Mista, there is now very little left of the homes here except skeletal beams
+and charred wood.  A quiet sense of loss and despair seem to emanate from the
+blackened stones and piles of debris as you pick your way through the blasted
+area.  Rats and other vermin scurry out of the ruins at your approach.    
+~
+36 0 1 0 0
+D0
+~
+~
+0 0 3615
+D2
+~
+~
+0 0 3617
+S
+#3617
+An Abandoned Row of Scorched Homes~
+   The street to the north is scorched black, as it if were blasted violently
+by unnatural means.  A film of ash still hangs in the air, and the acrid stench
+of a past fire burns your nostrils.  Formerly a cheery residential section of
+Mista, there is now very little left of the homes here except skeletal beams
+and charred wood.  Rats and other vermin scurry out of the ruins at your
+approach.  The scorched street continues northwards, and the main path to the
+village gates is westward.    
+~
+36 0 1 0 0
+D0
+~
+~
+0 0 3616
+D3
+~
+~
+0 0 3618
+S
+#3618
+Main Street of a Ravaged Village~
+   A scene of horror is revealed around you.  Broken, charred buildings are all
+that remain of this once bustling village.  Oddly, there are no people in
+sight, and it is unusually quiet.  The ground is still covered in ash and dust
+from what looks like a great disturbance, and the wide road in front of you to
+the north, east, and west is all that remains of main street.  The cobblestones
+no longer fit together properly, making a rough and jagged path to walk on.  
+To the north is the village square, to the east is the site of a recent fire,
+and to the south is a twisted gate leading out of this ravaged village.    
+~
+36 0 1 0 0
+D0
+~
+~
+0 0 3601
+D1
+~
+~
+0 0 3617
+D2
+~
+gate~
+1 0 3680
+D3
+~
+~
+0 0 3619
+S
+#3619
+A Bazaar Thoroughfare Reduced to Rubble~
+   Shattered articles and the occasional intact building are all that remain of
+this once bustling village.  Oddly, there are no people in sight, and it is
+unusually quiet.  The ground is still covered in ash and dust from what looks
+like a great disturbance, and the wide road in front of you to the east and
+west is all that remains of main street.  The cobblestones no longer fit
+together properly, making a rough and jagged path to walk on.    
+~
+36 0 1 0 0
+D1
+~
+~
+0 0 3618
+D3
+~
+~
+0 0 3621
+S
+#3620
+Blank~
+   This street is the main street of the village.  It is crowded with people,
+stalls, and wagons.  Farmers and other traders set up their stalls on this
+street to sell their harvest and goods to outsiders and nearby villagers.  You
+can hear the constant haggling and bargaining of price by the villagers for a
+fair trade.  To the east is the village square.    
+~
+36 0 1 0 0
+S
+#3621
+A Bazaar Thoroughfare Reduced to Rubble~
+   Shattered articles and the occasional intact building are all that remain of
+this once bustling village.  Oddly, there are no people in sight, and it is
+unusually quiet.  The ground is still covered in ash and dust from what looks
+like a great disturbance, and the wide road in front of you to the east and
+west is all that remains of main street.  The cobblestones no longer fit
+together properly, making a rough and jagged path to walk on.  A stray dog
+stares at you from the shadows, appearing frightened.    
+~
+36 0 1 0 0
+D1
+~
+~
+0 0 3619
+D3
+~
+~
+0 0 3602
+E
+dog stray stares frightened~
+   A mangy, spotted black dog is curled up in the shadows, staring at you with
+haunted eyes.  His skin-and-bone body jerks in alarm to every sound.    
+~
+S
+#3622
+An Herb Shack~
+   You walk into a small hut filled with all kinds of dried plants and roots.
+A rather old brewing pot is set in the middle of the shack, emitting a distinct
+and unique aroma.  Small candles are placed intermittently along the walls,
+providing precious little useful light.  Villagers come here when they are ill,
+to seek cure from these medicinal plants.    
+
+Potted herb blocking way into the tunnels?
+~
+36 0 0 0 0
+D0
+~
+door~
+1 0 3623
+D5
+~
+~
+0 0 3678
+S
+#3623
+A Garden~
+   Lush green vines cover the wooden fences that borders this small courtyard.
+Exotic white flowers carpet the ground, creating a flower bed that brightens
+this garden.  Various kinds of roots and leaves are spread out on a mat to be
+sundried.  A small shack lies to your south.    
+~
+36 0 1 0 0
+D2
+~
+door~
+1 0 3622
+D3
+~
+~
+0 0 3624
+S
+#3624
+A Garden~
+   Lush green vines cover the wooden fences that borders this small courtyard.
+Exotic, white flowers carpet the ground, creating a flower bed that brightens
+this garden.  Various kinds of roots and leaves are spreaded out on a mat to be
+sundried.  A small gate lies to your west.    
+~
+36 0 0 0 0
+D1
+~
+~
+0 0 3623
+D3
+~
+gate~
+1 0 3631
+S
+#3625
+Before a Rickety, Crumbling Windmill~
+   The murky stream flows underneath a two-story windmill and flows away
+towards the north among the trees.  Faint sounds can be heard from within, and
+the withered trees bordering the left and right sides of the windmill scrape
+against the wooden walls in an irritating manner.  A set of crooked wooden
+steps lead up inside the dark building.    
+~
+36 0 0 0 0
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 3662
+D8
+~
+~
+0 0 3628
+S
+#3626
+A Slick, Downward Path~
+   Away from Mista proper, this narrow path winds downward into a wide river
+basin lined with trees and low lying plants.  The going is slick and muddy, but
+the occasional large stone or blasted piece of brick provides just enough
+traction so that you do not slide all the way down.  Nearby, you hear the
+sounds of rushing water getting louder and louder.    
+~
+36 4 5 0 0
+D1
+~
+~
+0 0 -1
+D6
+~
+~
+0 0 3666
+D9
+~
+~
+0 0 3634
+S
+#3627
+A Putrid River Basin Among Withered Trees~
+   You step into a small glade, where a narrow stream runs through it.  The
+water is turbid and foul-smelling from pollution.  Judging from the few stray
+articles in the area- a lone sock, a button, a small blue ball, and a
+washboard- this stream was formerly used as the town's recreation and washing
+area.    
+~
+36 0 0 0 0
+D1
+~
+~
+0 0 3628
+D3
+~
+~
+0 0 3664
+D5
+~
+~
+0 0 -1
+D8
+~
+~
+0 0 3667
+S
+#3628
+A Putrid River Basin Among Withered Trees~
+   You step into a small glade, where a narrow stream runs through it.  The
+water is turbid and foul-smelling from pollution.  Judging from the few stray
+articles in the area- a lone sock, a button, a small blue ball, and a
+washboard- this stream was formerly used as the town's recreation and washing
+area.  The foul stream winds northeastwards, towards the village windmill.    
+~
+36 0 0 0 0
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 3627
+D7
+~
+~
+0 0 3625
+S
+#3629
+A Bazaar Thoroughfare Reduced to Rubble~
+   A sudden gush of wind swirls the sand and dust on the ground into the air.
+You attempt to cover your face with your hands as you continue along this
+street.  Children can be seen running about, giggling and laughing as they
+chase the cats with sticks and buckets of water.    
+~
+36 0 0 0 0
+D0
+~
+~
+0 0 3634
+D2
+~
+~
+0 0 3633
+S
+#3630
+A Bazaar Thoroughfare Reduced to Rubble~
+Nothing.
+~
+36 0 0 0 0
+D0
+~
+~
+0 0 3633
+D2
+~
+~
+0 0 3604
+S
+#3631
+A Stone Path~
+   The stone path is lined on both sides by thick, but neatly trimmed bushes.
+Walking along this path, you feel the freshness of the air as a light breeze
+gently slaps on your face.  The calmness of this area is a contrast from the
+hustle and bustle of town.  A small gate lies to your east.    
+~
+36 0 0 0 0
+D1
+~
+gate~
+1 0 3624
+D2
+~
+~
+0 0 3632
+S
+#3632
+A Stone Path~
+   The stone path is lined on both sides by thick, but neatly trimmed bushes.  
+Walking along this path, you feel the freshness of the air as a light breeze
+gently slaps on your face.  The calmness of this area is a contrast from the
+hustle and bustle of town.    
+~
+36 0 0 0 0
+D0
+~
+~
+0 0 3631
+D2
+~
+~
+0 0 3635
+D3
+~
+~
+0 0 -1
+S
+#3633
+A Bazaar Thoroughfare Reduced to Rubble~
+Nothing.
+~
+36 0 0 0 0
+D0
+~
+~
+0 0 3629
+D2
+~
+~
+0 0 3630
+D3
+~
+~
+0 0 -1
+S
+#3634
+An Important Intersection~
+   A narrow path lies to your left, and you can hear a trickling of water to
+the north.    
+~
+36 0 0 0 0
+D1
+~
+~
+0 0 3610
+D2
+~
+~
+0 0 3629
+D3
+~
+~
+0 0 3661
+D6
+~
+~
+0 0 3626
+S
+#3635
+A Twisted Street of Cracked Cobblestones~
+   You continue to stroll along this path, stopping occasionally to examine the
+goods traded by the villagers.  You feel you are being scrutinized by some of
+them, mainly because of your strange attire and clothing.  Their attention
+spans are not long though, as they return to their gossip after a quick glance
+and a comment or two.  The local tavern lies to the south.    
+~
+36 0 1 0 0
+D0
+~
+~
+0 0 3632
+D1
+~
+~
+0 0 3609
+D3
+~
+~
+0 0 3610
+S
+#3636
+A Twisted Street of Cracked Cobblestones~
+   You continue to stroll along this path, stopping occasionally to examine the
+goods traded by the villagers.  You feel you are being scrutinized by some of
+them, mainly because of your strange attire and clothing.  Their attention
+spans are not long though, as they return to their gossip after a quick glance
+and a comment or two.    
+~
+36 0 0 0 0
+D1
+~
+~
+0 0 3605
+D2
+~
+0~
+0 0 3679
+D3
+~
+~
+0 0 3609
+S
+#3637
+A Dingy Tavern Infested with Insects~
+   You walked into the local tavern of this small village.  There are a few
+barrels of ale located behind the bar, just enough for the minute amount of
+patrons.  Tables are scattered around the room, most of them empty at this time
+of the day.  A bartender stands behind the bar, filling the mugs with ale.    
+
+Here can be 2 or three 'gang mobs' or ghosts.
+~
+36 41 0 0 0
+D5
+~
+~
+0 0 3673
+S
+#3638
+A Statue of Mishakal Carved in Mourning~
+   Carved into white stone is the figure of the great healing goddess,
+Mishakal.  The statue is only partially finished, and roughly carved, as if it
+were done in a great hurry.  Somehow, a sense of peace seems to fill the glade,
+and amazingly, tears drip out of the statue's eyes to fall into a small basin
+in her arms.    
+~
+36 4 0 0 0
+D2
+~
+~
+0 0 3642
+S
+#3639
+Dead End~
+   You step into a comfortable, little cottage.  It is very nicely furnished,
+with a short legged table sitting in the middle, surrounded by finely carved
+wooden chairs.  Atop a stove at one end is a clay pot, emitting a tantalising
+aroma that reminds you of home cooked food.    
+~
+36 8 0 0 0
+D1
+~
+~
+0 0 3640
+S
+#3640
+A Graveyard Maze of Headstones and Rubble~
+   You step into a comfortable, little cottage.  It is very nicely furnished,
+with a short legged table sitting in the middle, surrounded by finely carved
+wooden chairs.  Atop a stove at one end is a clay pot, emitting a tantalising
+aroma that reminds you of home cooked food.    
+~
+36 8 0 0 0
+D2
+~
+~
+0 0 3644
+D3
+~
+~
+0 0 3639
+S
+#3641
+Dead End~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+36 0 2 0 0
+D2
+~
+~
+0 0 3645
+S
+#3642
+A Graveyard Maze of Headstones and Rubble~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+36 4 2 0 0
+D0
+~
+~
+0 0 3638
+D1
+~
+~
+0 0 3643
+S
+#3643
+A Graveyard Maze of Headstones and Rubble~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+36 0 2 0 0
+D2
+~
+~
+0 0 3648
+D3
+~
+~
+0 0 3642
+S
+#3644
+An Intersection in the Graveyard Maze~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3640
+D1
+~
+~
+0 0 3645
+D9
+~
+~
+0 0 3650
+S
+#3645
+A Graveyard Maze of Headstones and Rubble~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3641
+D3
+~
+~
+0 0 3644
+S
+#3646
+A Graveyard Maze of Headstones and Rubble~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+36 0 2 0 0
+D1
+~
+~
+0 0 3647
+D2
+~
+~
+0 0 3651
+S
+#3647
+An Intersection in the Graveyard Maze~
+   The utter vastness of this field is incomprehensible to the eyes, stretching
+indefinately in all directions.  Narrow pathways have been made on the ground
+to give farmer the access to their harvest when the season arrives.  You slowly
+trudge your way through the field, stopping to catch your breath.    
+~
+36 0 2 0 0
+D1
+~
+~
+0 0 3648
+D3
+~
+~
+0 0 3646
+D9
+~
+~
+0 0 3653
+S
+#3648
+A Graveyard Maze of Headstones and Rubble~
+Room description.
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3643
+D3
+~
+~
+0 0 3647
+S
+#3649
+An Intersection in the Graveyard Maze~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+36 0 2 0 0
+D1
+~
+~
+0 0 3650
+D2
+~
+~
+0 0 3654
+D8
+~
+~
+0 0 3653
+S
+#3650
+An Intersection in the Graveyard Maze~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+36 0 2 0 0
+D2
+~
+~
+0 0 3655
+D3
+~
+~
+0 0 3649
+D6
+~
+~
+0 0 3644
+S
+#3651
+Dead End~
+Description.
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3646
+S
+#3652
+Dead End~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.  A wooden gate lies to the east.    
+~
+36 4 2 0 0
+D2
+~
+~
+0 0 3656
+S
+#3653
+A Graveyard Maze of Headstones and Rubble~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+36 0 2 0 0
+D6
+~
+~
+0 0 3647
+D7
+~
+~
+0 0 3649
+S
+#3654
+An Intersection in the Graveyard Maze~
+   The path eases off its sharp incline, dipping more gradually now into a wide
+river basin surdeeped by skeletal trees.  The ground is still slick and muddy,
+and a few odd-shaped deep impressions are spaced in the mud in uneven
+intervals.  It seems that some large creature of unknown origin passed through
+here recently.    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3649
+D2
+~
+~
+0 0 3658
+D9
+~
+~
+0 0 3659
+S
+#3655
+A Graveyard Maze of Headstones and Rubble~
+   Through the darkness, you can make out vague shapes.  Toppled headstones,
+shattered bricks and broken caskets lay scattered haphazardly in front of you.
+Only two clear paths are available to you-...    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3650
+D1
+~
+~
+0 0 3660
+D2
+~
+~
+0 0 3659
+S
+#3656
+A Graveyard Maze of Headstones and Rubble~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3652
+D1
+~
+~
+0 0 3657
+S
+#3657
+A Graveyard Maze of Headstones and Rubble~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+36 0 2 0 0
+D1
+~
+~
+0 0 3658
+D3
+~
+~
+0 0 3656
+S
+#3658
+A Graveyard Maze of Headstones and Rubble~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3654
+D3
+~
+~
+0 0 3657
+S
+#3659
+A Graveyard Maze of Headstones and Rubble~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3655
+D6
+~
+~
+0 0 3654
+S
+#3660
+Graveyard Way~
+A twisted path leads westward towards a destination which appears dark.
+~
+36 0 2 0 0
+D1
+~
+~
+0 0 3661
+D3
+~
+~
+0 0 3655
+S
+#3661
+Graveyard Way~
+Room description.
+~
+36 0 2 0 0
+D1
+~
+~
+0 0 3634
+D3
+~
+~
+0 0 3660
+S
+#3662
+A Rickety, Crumbling Windmill~
+   Inside the abandoned windmill, the floorboards are cracked and well-trod,
+and they creek eerily as you walk across them.  The floor is covered in a thick
+layer of dust, and deep scratches on the floor evidence recent animal
+occupation.  In the center of the room is a spiral staircase that leads to the
+upper floor of the windmill.    
+~
+36 0 2 0 0
+D4
+~
+~
+0 0 3663
+D5
+~
+~
+0 0 3625
+S
+#3663
+Second Floor of a Rickety, Crumbling Windmill~
+   A few piercing sunrays penetrate the cracked roof, warming your skin
+pleasantly after travelling through the cold, dank river basin.  As you walk
+about the upper floor, the floorboards creak and crack ominously, and your
+movements kick up dust and debris.  A wood framed window faces to the north,
+and through it you can see picturesque mountains running along the horizon,
+which serve to hint at the beauty which was once present in Mista.  As you gaze
+through the small, south-facing window, the intermittent shade cast by the
+overhanging roof makes each windmill blade look like a wooden skeleton, with
+tattered fabric draping across the beams like shredded flesh.    
+~
+36 0 2 0 0
+D5
+~
+~
+0 0 3662
+S
+#3664
+A Putrid River Basin Among Withered Trees~
+   A row of private cabins once stood on both sides of the river, and a small
+rope-bridge crosses the center of the foul river, linking to the cabins across
+the river.  Now, however, all that remains of this cluster of cabins is a few
+scattered and scorched oak boards, straw clumps, crushed brick, and scattered
+pieces of metal.    
+~
+36 0 2 0 0
+D1
+~
+~
+0 0 3627
+D6
+~
+~
+0 0 3665
+S
+#3665
+A Rope Swing over a Fetid Pool~
+   The river forms a large pool here, before meandering northwestward, towards
+the picturesque mountain range of Vingaard.  A somewhat chewed, frayed rope
+made of twine hangs invitingly off a tree to your left, which leans overtop of
+the pool.  Unfortunately, the pool itself is just as turbid and foul as the
+rest of the river that flows through here.  Stray socks, girl's beads, and
+stick swords lay half buried in the sludge around the pool.    
+~
+36 0 2 0 0
+D9
+~
+~
+0 0 3664
+S
+#3666
+A Slick Downward Path~
+   This downward path was once pleasant and beautiful in the fall with
+multicolored leaves blazing the way to the town's windmill and river pools.  
+However, now the skeletons of Engleman Spruce and Balsam fir trees almost seem
+to reach out and claw and snag your clothing with a life of their own.  
+Nature's creatures seem to have abandoned the forest, and the beautiful
+trilling of Finches and Redpoles have now been replaced by eerie keening sounds
+of unknown origin.    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3667
+D9
+~
+~
+0 0 3626
+S
+#3667
+A Slick Downward Path~
+   The path eases off its sharp incline, dipping more gradually now into a wide
+river basin surdeeped by skeletal trees.  The ground is still slick and muddy,
+and a few odd-shaped deep impressions are spaced in the mud in uneven
+intervals.  It seems that some large creature of unknown origin passed through
+here recently.    
+~
+36 0 2 0 0
+D2
+~
+~
+0 0 3666
+D7
+~
+~
+0 0 3627
+S
+#3668
+Unused~
+Room description.
+~
+36 0 2 0 0
+S
+#3669
+Ghost Alley~
+   Partially collapsed buildings lean precariously against each other, forming
+the long, dark tunnel which is in front of you.  In some places, there is
+barely enough room for yourself, while in others, a party of two can fit
+through easily side-by side.  Refuse, mud, and small animal bones litter the
+ground, and the stench of the passageway is rather like rotting oranges.  The
+narrow alley continues eastward, and a blackened brick building with a rusted
+door is to the south.    
+~
+36 297 0 0 0
+D1
+~
+~
+0 0 3670
+D2
+~
+door~
+1 0 3608
+S
+#3670
+Ghost Alley~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+36 297 0 0 0
+D2
+~
+~
+0 0 3671
+D3
+~
+~
+0 0 3669
+S
+#3671
+Ghost Alley~
+Nothing.
+~
+36 297 0 0 0
+D0
+~
+~
+0 0 3670
+D2
+~
+~
+0 0 3672
+S
+#3672
+Ghost Alley~
+   The wheat sways involuntarily as a strong wind picks up from the north.  
+Above, the clear blue sky extents expansively to the horizon.  As you scan the
+area, you notice the large variety of animals that have inhabited this flat,
+dull field.    
+~
+36 297 0 0 0
+D0
+~
+~
+0 0 3671
+D1
+~
+~
+0 0 3673
+S
+#3673
+Ghost Alley~
+   The piercing ray of the sun penetrates the thin clouds, scorching your skin.
+As you continue to walk on this field, you notice the ground is packed dry.  
+You feel refreshed and rejuvenated by nature as the strong northerly wind slaps
+on your face.  Far ahead of you is the picturesque mountains running along the
+horizon.    
+~
+36 297 0 0 0
+D0
+~
+~
+0 0 3674
+D3
+~
+~
+0 0 3672
+D4
+~
+~
+0 0 3637
+S
+#3674
+Ghost Alley~
+Nothing.
+~
+36 297 0 0 0
+D0
+~
+~
+0 0 3675
+D2
+~
+~
+0 0 3673
+S
+#3675
+Ghost Alley~
+Nothing.
+
+Dead End.  A grating in the floor leads onwards though..
+~
+36 297 0 0 0
+D2
+~
+~
+0 0 3674
+D5
+~
+~
+0 0 3676
+S
+#3676
+Beneath Ghost Alley~
+Nothing.
+~
+36 41 0 0 0
+D0
+~
+~
+0 0 3677
+D4
+~
+~
+0 0 3675
+S
+#3677
+Beneath Ghost Alley~
+Nothing.
+~
+36 41 0 0 0
+D2
+~
+~
+0 0 3676
+D7
+~
+~
+0 0 3678
+S
+#3678
+Beneath Ghost Alley~
+   The alley is barely two armlengths wide and seems to be the dump of this
+village.  The walls are cracking with obvious crevices.  As you squeeze your
+way through the passage, you notice beggars squating at the sides of this
+alley, scavaging for any remnants of food from the trash.  A strong stench of
+rotting flesh fills your nostrils as you stand in this filthy place.    
+~
+36 41 0 0 0
+D4
+~
+~
+0 0 3622
+D8
+~
+~
+0 0 3677
+S
+#3679
+Main Street of a Ravaged Village~
+This is part of Main Street.
+~
+36 8 0 0 0
+D0
+~
+~
+0 0 3636
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 3614
+S
+#3680
+Entrance to a Ravaged Village~
+   Through the twisted bars of this charred and crumbling gate, all you can see
+is ash and ruin.  Nothing remains save for a few stray articles, the odd
+charred building, and a few ruined merchant's carts.  There is a small space
+between the twisted fencing for you to slip into the village, but the eerie
+sounds emanating from the area make you think twice.  The pathway leads back to
+the south, away from the village.    
+~
+36 4 1 0 0
+D2
+~
+~
+0 0 3681
+D3
+~
+~
+0 0 19030
+S
+#3681
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be close by.  
+
+~
+36 4 2 0 0
+D0
+~
+~
+0 0 3680
+D8
+~
+~
+0 0 3682
+S
+#3682
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be close by.  
+
+~
+36 0 2 0 0
+D2
+~
+~
+0 0 3683
+D7
+~
+~
+0 0 3681
+S
+#3683
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be closeby.    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3682
+D9
+~
+~
+0 0 3684
+S
+#3684
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be closeby.    
+~
+36 0 2 0 0
+D2
+~
+~
+0 0 3685
+D6
+~
+~
+0 0 3683
+S
+#3685
+Clearing in the Forest~
+   The dense forest has been cleared in this small area.  In the distance are
+faint billowing black smokes that rise to the clear blue sky.  Soft, muffled
+noise of laughter can be heard not too far away from here.  These signs greater
+confirm your speculation that some kind of civilization has to be closeby.    
+~
+36 0 2 0 0
+D0
+~
+~
+0 0 3684
+D2
+~
+~
+0 0 7159
+S
+#3686
+Unused~
+You are in an unfinished room.
+~
+36 0 0 0 0
+S
+$~

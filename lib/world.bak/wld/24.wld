@@ -1,0 +1,2362 @@
+#2400
+Winding Trail~
+   The narrow trail continues to wind through the trees in a mostly north-south
+direction.  The quiet sounds of the forest - leaves rustling, birds chirping,
+and the like - make for a relaxing journey.  Everyonce in awhile, though, a
+jingle can be heard.  The sound is like that made by metal lightly striking
+metal.    
+~
+24 4 3 0 0
+D0
+~
+~
+0 0 8369
+D2
+Nothing.
+~
+~
+0 0 2401
+S
+#2401
+Winding Trail~
+   The narrow trail continues to wind through the trees in a mostly north-south
+direction.  The quiet sounds of the forest - leaves rustling, birds chirping,
+and the like - make for a relaxing journey.  Everyonce in awhile, though, a
+jingle can be heard.  The sound is like that made by metal lightly striking
+metal.  This noise is quickly drowned out, however, by an odd giggling sound.
+The bushes to either side of the path could be hiding someone or something,
+however a quick scan of them reveals nothing.    
+~
+24 64 0 0 0
+D0
+~
+~
+0 0 2400
+D2
+~
+~
+0 0 2402
+E
+bushes bush~
+   The thick bushes on either side of the path rustle slightly.  They are large
+and dense enough to easily hide a small animal or perhaps a small person.    
+~
+S
+T 2401
+#2402
+The Entrance~
+   You look around and suddenly, with great alarm, you realize where you are
+at.  Kendermore.  Letting out a groan you grip your valuables as you try to
+decide what you are going to do next.    
+~
+24 64 0 0 0
+D0
+~
+~
+0 0 2401
+D2
+Nothing.
+~
+~
+0 0 2403
+S
+#2403
+The Entrance~
+   Well...  Here you stand, the entrance to Kendermore.  Leave...  Stay..  
+Leave..  Stay..  ARGH!!  TOO LATE!!  They saw you and are heading for you.  
+You let out an audible sigh as you clutch your belongings tightly.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2402
+D2
+~
+~
+0 0 2409
+S
+T 2403
+#2404
+Story Teller's Area~
+   As you look around, you notice an older man sitting in a corner telling
+stories.  The Kender have arranged themselves around him in a semi-circle and
+seem to be totally enjoying the stories of this man in mouse colored robes with
+a floppy, brimmed, pointed hat.  The periodical Oooo, Ahhh, and WOW inform you
+of how well this man is doing in telling his stories to these little story
+makers.    
+~
+24 64 2 0 0
+D1
+Nothing.
+~
+~
+0 0 2405
+D2
+~
+~
+0 0 2414
+D9
+~
+~
+0 0 2415
+S
+#2405
+The Mage's Show~
+   Here there is a mage who is using his magic to entertain the kender.
+You look around and notice that they are raptly paying attention and
+wouldn't even notice if someone walked by stark naked with maps and purple
+glass hanging from them.  Off to one side is a rather singed Kender who is
+watching with a large grin, and you notice he has the smell of sulfur
+about him.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2406
+D2
+~
+~
+0 0 2415
+D3
+~
+~
+0 0 2404
+D8
+~
+~
+0 0 2414
+D9
+~
+~
+0 0 2416
+S
+#2406
+Open Area~
+   You stand in a large open area.  You notice there seem to be quite a few of
+these in this, um...  Town?  To the east is an open area, to the west you see a
+huge stage with a magic show, and what appears to be a puppet show and story
+telling show as well.  The Kender there are paying rapt attention to the show
+and probably wouldn't notice if you walked by with a pet dragon.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2407
+D2
+~
+~
+0 0 2416
+D3
+~
+~
+0 0 2405
+D8
+~
+~
+0 0 2415
+D9
+~
+~
+0 0 2417
+S
+#2407
+An Open Field~
+   You stand in an open field and gaze around at this odd place.  Kender flow
+around you like water around a rock in its riverbed.  You can only imagine how
+much of your stuff you are losing as they walk by you, jabbering to each other
+and patting you in a friendly way.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2408
+D2
+~
+~
+0 0 2417
+D3
+~
+~
+0 0 2406
+D8
+~
+~
+0 0 2416
+D9
+~
+~
+0 0 2418
+S
+#2408
+An Open Field~
+   You stand in an open field as you desperately try to keep clutching
+fingers and patting little hands away from your belongings.  You decide on
+the most important pieces of equipment and keep your hands, arms, and eyes
+glued to them as you try to navigate your way around without using your
+eyes to look.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2409
+D2
+~
+~
+0 0 2418
+D3
+~
+~
+0 0 2407
+D8
+~
+~
+0 0 2417
+D9
+~
+~
+0 0 2419
+S
+#2409
+The Gateway to Kendermore~
+   Here you stand in the gateway to the fabled city of Kendermore.  Gateway 
+is hardly the correct term for it as it has no gateway except that which
+is created by the trees.  Suddenly you realize you are standing still in a
+city full of borrowers and handlers, and realize your mistake as you
+clutch at your belongings and at several kender who are making off with
+your belongings.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2403
+D1
+~
+~
+0 0 2410
+D2
+~
+~
+0 0 2419
+D3
+~
+~
+0 0 2408
+D8
+~
+~
+0 0 2418
+D9
+~
+~
+0 0 2420
+S
+#2410
+An Open Field~
+   You stand in an open field.  Looking about you notice you have found a brief
+respite from all the poking, prodding, and touching, but you have a feeling
+that you won't have this respite for long.  To your east is the wall to what
+looks like a guild.  To your west is the gateway to Kendermore.    
+~
+24 0 2 0 0
+D2
+~
+~
+0 0 2420
+D3
+~
+~
+0 0 2409
+D8
+~
+~
+0 0 2419
+S
+#2411
+The Thieves' Guild~
+   You are in the practice room of the Thieves' Guild here in Kendermore.  
+Around the walls are different Kendersized weapons as well as actual Kender
+weapons such as the hoopak.  You look at what must be the guildmaster and see a
+Kender dressed in a green tunic with bright blue, baggy pants.    
+~
+24 8 0 0 0
+D2
+~
+~
+0 0 2421
+S
+#2412
+The End of the Alley~
+   You are at the end of an alley between the Fighters Guild and the Thieves
+Guild.  You hope that a group of kender doesn't walk down here or you are
+trapped and will surely lose all of your possessions.    
+~
+24 4 2 0 0
+D1
+~
+~
+0 0 2495
+D2
+~
+~
+0 0 2422
+S
+#2413
+The Practice Room of the Fighters Guild~
+   Entering this room, you see a Kender dressed in leather armor that
+fits him quite well, though he still resembles a rainbow in color.  There
+are swords and shields covering the walls and all are suited for a
+Kender's size.  There is also the famous Kender hoopak.
+~
+24 8 0 0 0
+D2
+~
+~
+0 0 2423
+S
+#2414
+The Puppet Show~
+   You walk on to part of the huge stage that has the puppet show.
+Kenders laugh and giggle around you as the puppets dance and trip and
+fight on the stage.  This seems to be a safe area for you to walk as the
+Kender here are more occupied with the show, but you aren't sure about
+kenders that may walk over from other areas.    
+~
+24 0 2 0 0
+D0
+Nothing.
+~
+~
+0 0 2404
+D1
+~
+~
+0 0 2415
+D2
+~
+~
+0 0 2424
+D7
+~
+~
+0 0 2405
+D9
+~
+~
+0 0 2425
+S
+#2415
+At the base of the stage~
+   You stand at the base of the stage for the show that is currently
+playing here in Kendermore.  Kenders have gathered here in what seems like
+the hundreds in an endless sea of topknots and mismatched armor and a
+rainbow of colors, of which not one Kender has any colors that match.  You
+sigh as you grab your valuables and head through the crowd.
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2405
+D1
+~
+~
+0 0 2416
+D2
+~
+~
+0 0 2425
+D3
+~
+~
+0 0 2414
+D6
+~
+~
+0 0 2404
+D7
+Nothing.
+~
+~
+0 0 2406
+D8
+~
+~
+0 0 2424
+D9
+~
+~
+0 0 2426
+S
+#2416
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here, but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2406
+D1
+~
+~
+0 0 2417
+D2
+~
+~
+0 0 2426
+D3
+~
+~
+0 0 2415
+D6
+~
+~
+0 0 2405
+D7
+~
+~
+0 0 2407
+D8
+~
+~
+0 0 2425
+S
+#2417
+An Open Area~
+   Standing in another open area, you look around, dodging the patting
+and prodding hands and keeping an eye on your valuables and hands on your
+most valuable things.  South of you is a wall to a one level dwelling and
+all other directions lead to more open spots with kenders lounging in some
+areas or sleeping in others or trading valuables in others spots.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2407
+D1
+~
+~
+0 0 2418
+D3
+~
+~
+0 0 2426
+D6
+~
+~
+0 0 2406
+D7
+~
+~
+0 0 2408
+D8
+~
+~
+0 0 2426
+D9
+~
+~
+0 0 2428
+S
+#2418
+Open Area~
+   Here is another open area, but with three trees growing in it.  You wonder
+what those kender are doing up in them...    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2408
+D1
+~
+~
+0 0 2419
+D2
+~
+~
+0 0 2428
+D3
+~
+~
+0 0 2417
+D6
+~
+~
+0 0 2407
+D7
+~
+~
+0 0 2409
+D9
+~
+~
+0 0 2429
+S
+T 2418
+#2419
+Towel Area~
+   Here you see many people who are wet, drying off.  The wet people are
+coming from the west as the dry ones from other areas all look at them
+curiously as they proceed west.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2409
+D1
+~
+~
+0 0 2420
+D2
+~
+~
+0 0 2429
+D3
+~
+~
+0 0 2418
+D6
+~
+~
+0 0 2408
+D7
+~
+~
+0 0 2410
+D8
+~
+~
+0 0 2428
+D9
+~
+~
+0 0 2430
+S
+#2420
+A Field~
+   As you walk around this part of the field, you notice that there are
+several piled lumps on the ground.  Closer inspection shows it to be a
+bunch of kender piled on or around one another asleep!    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2410
+D2
+~
+~
+0 0 2430
+D3
+~
+~
+0 0 2419
+D6
+Nothing.
+~
+~
+0 0 2409
+D8
+~
+~
+0 0 2429
+S
+T 2420
+#2421
+Entrance to the Practice Room~
+   You have reached the entrance to the Thieves guild in Kendermore.  A guard
+stands here, but being that it's a kender he doesn't seem very threatening
+until you try to get by and his hoopak soundly and deftly smacks your hands and
+head.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2411
+D2
+~
+~
+0 0 2431
+S
+#2422
+An Alley~
+   You stand halfway down an alley.  You look around, thankful that
+there are no kender here.  The alley goes a little deeper or you can
+return to the entrance.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2412
+D2
+~
+~
+0 0 2432
+S
+#2423
+Entrance to the Practice Room~
+   You stand at the entrance to the practice room for the Warriors' Guild in
+Kendermore.  The guard is a kender in leather armor that fits, but is severely
+mismatched in color.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2413
+D2
+~
+~
+0 0 2433
+S
+#2424
+An Open Field~
+   Here you stand at the base of the stairs that leads to the puppet show.  
+Kenders march in a virtual army up the stairs to see the show, almost ignoring
+you, but not quite as you feel pokes, prods, and pats, and your belt feels
+lighter.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2414
+D1
+~
+~
+0 0 2425
+D7
+~
+~
+0 0 2415
+S
+#2425
+Animal Pen~
+   You stand in an area that holds an animal pen.  It actually seems more like
+a petting zoo, with kender children petting sheep and riding little ponies and
+petting ducks and chickens.  The adult kender seem to be having as much fun as
+the children in this area.    
+~
+24 0 0 0 0
+D0
+~
+~
+0 0 2415
+D1
+~
+~
+0 0 2426
+D3
+~
+~
+0 0 2424
+D6
+~
+~
+0 0 2414
+D7
+~
+~
+0 0 2416
+D9
+~
+~
+0 0 2436
+S
+#2426
+Open Area~
+   You stand next to the petting farm here in Kendermore.  You are also next to
+a wall of what appears to be a one level dwelling for a kender.  But from what
+you have seen so far, you wouldn't be surprised if it held two or three kender
+families.    
+~
+24 0 0 0 0
+D0
+~
+~
+0 0 2416
+D2
+~
+~
+0 0 2436
+D3
+~
+~
+0 0 2425
+D6
+~
+~
+0 0 2415
+D7
+~
+~
+0 0 2417
+D8
+~
+~
+0 0 2435
+D9
+~
+~
+0 0 2437
+S
+#2427
+A Kender House~
+   You enter the house of a kender.  It appears to belong to Earwig
+Lockpicker, so the sign above the door said.  It's neatly arranged, as
+Kender are neat, but it is packed, as Kender are also packrats.  The
+furniture and carpets don't match, the furniture being blue pink and
+orange and the carpet being brown.   The drapes are white with rose
+prints.    
+~
+24 8 0 0 0
+D1
+~
+~
+0 0 2428
+S
+#2428
+An Open Field~
+   You stand outside a kender's house.  The large sign above the door reads,
+"Home of Earwig Lockpicker, Welcome all!".
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2418
+D1
+~
+~
+0 0 2429
+D2
+~
+~
+0 0 2438
+D3
+~
+~
+0 0 2427
+D6
+~
+~
+0 0 2417
+D7
+~
+~
+0 0 2419
+D8
+~
+~
+0 0 2437
+D9
+~
+~
+0 0 2439
+S
+#2429
+An Open Field~
+   You stand in the middle of an open field.  Lots of Kender walk by.
+Lots of your stuff is disappearing.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2419
+D1
+~
+~
+0 0 2430
+D2
+~
+~
+0 0 2439
+D3
+~
+~
+0 0 2428
+D6
+~
+~
+0 0 2418
+D7
+~
+~
+0 0 2420
+D8
+~
+~
+0 0 2438
+D9
+~
+~
+0 0 2440
+S
+#2430
+An Open Area~
+   You stand in an open area next to a wall.  It seems to be a wall that
+belongs to some kind of guild as it is rather gaily decorated, but that doesn't
+always mean anything - after all, this is Kendermore.  They may decorate their
+houses with signs and paint just because they want to.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2420
+D2
+~
+~
+0 0 2440
+D3
+~
+~
+0 0 2429
+D6
+~
+~
+0 0 2419
+D8
+~
+~
+0 0 2439
+D9
+~
+~
+0 0 2441
+S
+#2431
+Entrance to the Thieves' Guild~
+   You stand in the entrance to the Thieves' Guild, the Kendermore chapter.  
+You look around and see Kender sprawled all over, either sleeping, talking, or
+playing games, or just relaxing and talking.  Several humans are in here as
+well, coming to the Kendermore guild to learn from the best thieves on Krynn,
+though if the kender heard the humans call them thieves, they would be highly
+offended.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2421
+D2
+~
+~
+0 0 2441
+S
+#2432
+Entrance to an Alley~
+   You stand at the entrance to an alley between the Thieves' Guild and the
+Fighters' Guild.  It seems to be quiet, but you have sudden images of a horde
+of Kender suddenly appearing at the entrance, trapping you at the end and
+bombarding you with a million questions while walking off with everything down
+to the shirt on your back.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2422
+D2
+~
+~
+0 0 2442
+D8
+~
+~
+0 0 2441
+D9
+~
+~
+0 0 2443
+S
+#2433
+Entrance to the Fighters' Guild~
+   This is the Fighters' Guild.  Whereas Kender aren't very big or strong,
+their incredible dexterity and aim makes them fairly good fighters.  It is
+rumored that Kender are from the dwarf family - that would further explain
+their fighting skills.  Thr scere here is one of some pandemonium as some
+Kender lie sleeping while others talk, and others practice fighting with each
+other, occasionally stepping on one of the sleeping ones.  This generally
+results in a yelp, and lots of laughter from the other Kender.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2423
+D2
+~
+~
+0 0 2443
+S
+#2434
+Wanderlust Inn~
+   You have found the Wanderlust Inn.  The innkeeper stands here awaiting you.
+You are very tired and feel you could use a good rest after the long day of
+walking around and avoiding Kender.  However, you aren't sure if you want to
+sleep in an inn that is run by a Kender - you can just imagine waking up with
+all of your armor missing.    
+~
+24 8 0 0 0
+D1
+~
+~
+0 0 2435
+D2
+~
+~
+0 0 2444
+S
+#2435
+Entrance to the Wanderlust Inn~
+   You have entered the Wanderlust Inn.  The first room seems to be some
+kind of dining room or common room, with a fireplace for the chilly
+nights, and plenty of ale and brandy to go around.  The food doesn't look
+that bad, but the noise here is incredible as at least fifty Kender spout off
+about "Uncle Trapspringer this" and "Uncle Trapspringer that".  You are
+getting the odd impression that either Trapspringer is a common Kender
+name, or that this Trapspringer had a lot of kids.    
+~
+24 8 0 0 0
+D1
+~
+~
+0 0 2436
+D2
+~
+~
+0 0 2445
+D3
+~
+~
+0 0 2434
+D7
+~
+~
+0 0 2426
+S
+#2436
+An Open Area~
+   You are standing in another of the many open areas here in Kendermore.  
+Kender wander about you doing whatever it is that kender do.  Many smile at
+you, but you have learned to not let them get go close.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2426
+D1
+~
+~
+0 0 2437
+D3
+~
+~
+0 0 2435
+D6
+~
+~
+0 0 2425
+D9
+~
+~
+0 0 2447
+S
+#2437
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here, but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2438
+D2
+~
+~
+0 0 2447
+D3
+~
+~
+0 0 2436
+D6
+~
+~
+0 0 2426
+D7
+~
+~
+0 0 2428
+S
+#2438
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here, but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2428
+D1
+~
+~
+0 0 2439
+D3
+~
+~
+0 0 2437
+D7
+~
+~
+0 0 2429
+D8
+~
+~
+0 0 2447
+S
+#2439
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here, but then again,
+the houses and buildings seem rather crowded together.  To the south there is
+some kind of a shop.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2429
+D1
+~
+~
+0 0 2440
+D2
+~
+~
+0 0 2449
+D3
+~
+~
+0 0 2438
+D6
+~
+~
+0 0 2428
+D7
+~
+~
+0 0 2430
+D9
+~
+~
+0 0 2450
+S
+#2440
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings, and more
+open areas.  Open areas seem to be the majority of what's here, but then again,
+the houses and buildings seem rather crowded together.
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2430
+D1
+~
+~
+0 0 2441
+D2
+~
+~
+0 0 2450
+D3
+~
+~
+0 0 2439
+D6
+~
+~
+0 0 2429
+D9
+~
+~
+0 0 2451
+S
+#2441
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here, but then again,
+the houses and buildings seem rather crowded together.  To the north is what
+appears to be a guild.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2431
+D1
+~
+~
+0 0 2442
+D2
+~
+~
+0 0 2451
+D3
+~
+~
+0 0 2440
+D6
+~
+~
+0 0 2430
+D7
+~
+~
+0 0 2432
+D8
+~
+~
+0 0 2450
+D9
+~
+~
+0 0 2452
+S
+#2442
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here, but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2432
+D1
+~
+~
+0 0 2443
+D2
+~
+~
+0 0 2452
+D3
+~
+~
+0 0 2441
+D8
+~
+~
+0 0 2451
+S
+#2443
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here, but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2433
+D3
+~
+~
+0 0 2442
+D6
+~
+~
+0 0 2432
+D8
+~
+~
+0 0 2452
+S
+#2444
+In-Character Board Room~
+   This room has in it a large piece of vellum stretched on one wall and you
+see many writings from people on it.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2434
+D1
+~
+~
+0 0 2445
+S
+#2445
+Out of Character Board Room~
+   Before you is a large piece of Vellum.  It is a bit warn, and you see all
+sorts of kender drawing and other sorts of marks on it.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2435
+D2
+~
+~
+0 0 2453
+D3
+~
+~
+0 0 2444
+S
+#2446
+Kender House~
+   You stand in the house of another kender.  The sign above the door read that
+this house belongs to one Tumbledown Topknot.  It merely adds to your feeling
+that kender either have no fashion sense or are color blind.    
+~
+24 8 0 0 0
+D1
+~
+~
+0 0 2447
+S
+#2447
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2437
+D3
+~
+~
+0 0 2446
+D6
+~
+~
+0 0 2436
+D7
+~
+~
+0 0 2438
+D8
+~
+~
+0 0 2454
+S
+#2448
+A Room in a Shop~
+   This part of the shop houses all the weapons.  Swords, hoopaks, whipaks all
+adorn the walls.  You see many fine looking weapons as you browse around.  Out
+of curiosity you pick up a long plain looking stick that doesn't seem to be any
+particular weapon, when a little child runs up, grabs the stick and charges out
+the door with a giggle.    
+~
+24 8 0 0 0
+D1
+~
+~
+0 0 2449
+D2
+~
+~
+0 0 2456
+D9
+~
+~
+0 0 2457
+S
+#2449
+Entrance to a Shop~
+   You stand in the entrance to a nice shop.  It is well organized, but you
+wonder how the person can stay in business in Kendermore!  There is a sign on
+the wall and several Kender stand around you gawking at the cases of purple
+glass, candy, and, most importantly to them, maps.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2439
+D2
+~
+~
+0 0 2457
+D3
+~
+~
+0 0 2448
+D8
+~
+~
+0 0 2456
+S
+#2450
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2440
+D1
+~
+~
+0 0 2451
+D2
+~
+~
+0 0 2458
+D6
+~
+~
+0 0 2439
+D7
+~
+~
+0 0 2441
+S
+#2451
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2441
+D1
+~
+~
+0 0 2452
+D2
+~
+~
+0 0 2459
+D3
+~
+~
+0 0 2450
+D6
+~
+~
+0 0 2440
+D7
+~
+~
+0 0 2442
+D8
+~
+~
+0 0 2458
+D9
+~
+~
+0 0 2460
+S
+#2452
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2442
+D2
+~
+~
+0 0 2460
+D3
+~
+~
+0 0 2451
+D6
+~
+~
+0 0 2441
+D7
+~
+~
+0 0 2443
+S
+#2453
+Crime Board Room~
+   You see before you a large piece of vellum stretched from ceiling to wall.
+On it you see many accused wrongs.  Though you notice the only posts about
+thievery come from Humans, not Kender.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2445
+D2
+~
+~
+0 0 2462
+S
+#2454
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2455
+D7
+~
+~
+0 0 2447
+D9
+~
+~
+0 0 2464
+S
+#2455
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D2
+~
+~
+0 0 2464
+D3
+~
+~
+0 0 2454
+S
+#2456
+A Room in a Shop~
+   In this room you see armor prominatly displayed on the walls.  There is
+armor that will fit all sizes from Dwarf to Kender to Elf to Human.  It ranges
+from regular leather armor to shiny platemail, there are cloaks and hoods and
+helms all over and more than one Kender has been attracted by the platemail,
+though it probably weighs as much as two of them.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2448
+D1
+~
+~
+0 0 2457
+D7
+~
+~
+0 0 2449
+S
+#2457
+Checkout Counter~
+   Here you stand at the counter to purchase your items.  The line has finally
+gone down and you wonder how this Kender can keep so much purple glass in
+stock, not to mention maps and candy.  Though, you must admit..  The candy did
+look good.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2449
+D3
+~
+~
+0 0 2456
+D6
+~
+~
+0 0 2448
+S
+#2458
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2450
+D2
+~
+~
+0 0 2467
+D7
+~
+~
+0 0 2451
+D8
+~
+~
+0 0 2466
+D9
+~
+~
+0 0 2468
+S
+#2459
+A Kender House~
+   You step into another Kender house, nearly blinding yourself with the bright
+rainbow of colors.  You see something simmering over an open pot, and your
+stomach rumbles at it's delightful smell.  The colors blinding you, however,
+make you want to leave more than eat.    
+~
+24 0 0 0 0
+D0
+~
+~
+0 0 2451
+S
+#2460
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again,
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2452
+D1
+~
+~
+0 0 2461
+D2
+~
+~
+0 0 2469
+D6
+~
+~
+0 0 2451
+D8
+~
+~
+0 0 2468
+S
+#2461
+A Large Kender House~
+   You stand inside of a large house.  There is a crest on one wall, with a
+crossed hoopak and whipak underneath and a chapak above it.  From the kender
+houses you have seen already, this one is rather plush with stained purple
+glass windows and bright orange couches taht look rather comfortable.  To the
+south is another room that looks a bit like an office.    
+~
+24 8 0 0 0
+D2
+~
+~
+0 0 2470
+D3
+~
+~
+0 0 2460
+S
+#2462
+Bug Room~
+   Before you is a large piece of vellum stretched across one wall.  Above it
+on a sign in large black letters, are the words "Bug Board".  The edges of this
+board have been decorated by kender as well.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2453
+S
+#2463
+A Kender Home~
+   Here is a Kender house.  You see a bed and on it sits a hoopak but rather
+than lay on the bed, the kender seems to be laying on the floor for some
+reason.  Odd little creatures.    
+~
+24 8 0 0 0
+D1
+~
+~
+0 0 2464
+S
+#2464
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2455
+D1
+~
+~
+0 0 2465
+D3
+~
+~
+0 0 2463
+D6
+~
+~
+0 0 2454
+D8
+~
+~
+0 0 2473
+D9
+~
+~
+0 0 2475
+S
+#2465
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 0 0 0
+D1
+~
+~
+0 0 2466
+D2
+~
+~
+0 0 2475
+D3
+~
+~
+0 0 2464
+D9
+~
+~
+0 0 2476
+S
+#2466
+An Open Area~
+   You stand in an open area.  You see scattered htus and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2467
+D2
+~
+~
+0 0 2476
+D3
+~
+~
+0 0 2465
+D7
+~
+~
+0 0 2458
+D8
+~
+~
+0 0 2475
+S
+#2467
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2458
+D1
+~
+~
+0 0 2468
+D3
+~
+~
+0 0 2466
+D8
+~
+~
+0 0 2476
+D9
+~
+~
+0 0 2478
+S
+#2468
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 0 0 0
+D1
+~
+~
+0 0 2469
+D2
+~
+~
+0 0 2478
+D3
+~
+~
+0 0 2467
+D6
+~
+~
+0 0 2458
+D7
+~
+~
+0 0 2460
+D9
+~
+~
+0 0 2479
+S
+#2469
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2460
+D2
+~
+~
+0 0 2479
+D3
+~
+~
+0 0 2468
+D8
+~
+~
+0 0 2478
+D9
+~
+~
+0 0 2480
+S
+#2470
+An Office~
+   Well.  This was one thing you never expected to see.  A place of what
+appears to be respectable work, here in Kendermore.  The name plate on the desk
+reads "Mayor Fiddlestick Lightfingers".  You struggle with that as you have a
+hard time believing that Kendermore has a mayor.    
+~
+24 0 0 0 0
+D0
+~
+~
+0 0 2461
+S
+#2471
+A Room~
+   You are in the third room of this kender house, and in here you see more
+stuff than any other house.  Purple glass and maps abound, as well as a large
+selection of candy.  You see one small window in this room, but it is very well
+lit due to all the shinny articles strewn about.    
+~
+24 8 0 0 0
+D2
+~
+~
+0 0 2481
+S
+#2472
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2473
+D2
+~
+~
+0 0 2482
+D9
+~
+~
+0 0 2483
+S
+#2473
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D2
+~
+~
+0 0 2483
+D3
+~
+~
+0 0 2472
+D7
+~
+~
+0 0 2464
+D8
+~
+~
+0 0 2482
+D9
+~
+~
+0 0 2484
+S
+#2474
+Kender House~
+   You walk into this house and interupt a kender who has emptied the contents
+of his pouches on the floor and is going through them.  He looks up and spots
+you and begin regaling you with stories of how he found this, or how he came
+across that, or how someone gave this to him or the likes.  All of which, you
+decide to take with a grain of salt.    
+~
+24 8 0 0 0
+D1
+~
+~
+0 0 2475
+S
+#2475
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2465
+D1
+~
+~
+0 0 2476
+D2
+~
+~
+0 0 2485
+D3
+~
+~
+0 0 2474
+D6
+~
+~
+0 0 2464
+D7
+~
+~
+0 0 2466
+D8
+~
+~
+0 0 2484
+D9
+~
+~
+0 0 2486
+S
+#2476
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2466
+D1
+~
+~
+0 0 2477
+D2
+~
+~
+0 0 2486
+D3
+~
+~
+0 0 2475
+D6
+~
+~
+0 0 2465
+D7
+~
+~
+0 0 2467
+D8
+~
+~
+0 0 2485
+D9
+~
+~
+0 0 2487
+S
+#2477
+A Kenders Home~
+   You stand in the home of a Kender, it's furniture arrayed neatly, but with
+many little trinkets and items scattered about.  Purple glass inhabits the
+window frames, while maps litter the floor, bed, and chairs.    
+~
+24 8 0 0 0
+D3
+~
+~
+0 0 2476
+S
+#2478
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2468
+D1
+~
+~
+0 0 2479
+D2
+~
+~
+0 0 2488
+D6
+~
+~
+0 0 2467
+D7
+~
+~
+0 0 2469
+D8
+~
+~
+0 0 2487
+D9
+~
+~
+0 0 2489
+S
+#2479
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2469
+D1
+~
+~
+0 0 2480
+D2
+~
+~
+0 0 2489
+D3
+~
+~
+0 0 2478
+D6
+~
+~
+0 0 2468
+D8
+~
+~
+0 0 2488
+S
+#2480
+An Alley~
+   You stand in a shallow alley way, with a group of trees to your east and two
+buildings, one to your north and one to your south.  It is more peaceful here
+than the rest of this place, as there is nothing interesting here for the
+Kender to do or get into.    
+~
+24 0 2 0 0
+D2
+~
+~
+0 0 2490
+D3
+~
+~
+0 0 2479
+D6
+~
+~
+0 0 2469
+D8
+~
+~
+0 0 2489
+S
+#2481
+The Second Room~
+   This is the second room in the house.  It isn't really well lit, but you can
+see a slight glow coming from the north, and the south is lit by the open door
+and many windows.    
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2471
+D2
+~
+~
+0 0 2491
+S
+#2482
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2472
+D1
+~
+~
+0 0 2483
+D2
+~
+~
+0 0 2492
+D7
+~
+~
+0 0 2473
+S
+#2483
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2473
+D1
+~
+~
+0 0 2484
+D3
+~
+~
+0 0 2482
+D6
+~
+~
+0 0 2472
+D8
+~
+~
+0 0 2492
+S
+#2484
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2485
+D3
+~
+~
+0 0 2483
+D6
+~
+~
+0 0 2473
+D7
+~
+~
+0 0 2475
+S
+#2485
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2475
+D1
+~
+~
+0 0 2486
+D3
+~
+~
+0 0 2484
+D7
+~
+~
+0 0 2476
+S
+#2486
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2476
+D1
+~
+~
+0 0 2487
+D3
+~
+~
+0 0 2485
+D6
+~
+~
+0 0 2475
+S
+#2487
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D1
+~
+~
+0 0 2488
+D3
+~
+~
+0 0 2486
+D6
+~
+~
+0 0 2476
+D7
+~
+~
+0 0 2478
+S
+#2488
+A Crowded Open Area~
+   You stand in what is normally an open area, but the Kender that have
+congregated here make it not so open.  You push and prod and feel fingers poke,
+pry, and borrow.  You reach out, snatching Kender, and taking your belongings
+back.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2478
+D1
+~
+~
+0 0 2489
+D3
+~
+~
+0 0 2487
+D7
+~
+~
+0 0 2479
+S
+#2489
+An Open Area~
+   You stand in an open area.  You see scattered huts and buildings and more
+open areas.  Open areas seem to be the majority of what's here but then again
+the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2479
+D3
+~
+~
+0 0 2488
+D6
+~
+~
+0 0 2478
+D7
+~
+~
+0 0 2480
+S
+#2490
+The Tumbler~
+   You stand in a room in this large shop, It is probably almost as large as
+some of the shops in some of the major cities on Ansalon.  Small wonder,
+considering it's a lockpick shop and you are standing in downtown Kendermore.
+  
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2480
+S
+#2491
+Entrance to a House~
+   You enter a home, the sign hanging over the door reads, "Welcome to the
+Burrfoot's House".  You see that this house is like any other Kender house
+expect maybe it has a few more trinkets and the items appear to be nicer.  You
+wonder how long it will be before another Kender borrows one of the chairs.  
+~
+24 8 0 0 0
+D0
+~
+~
+0 0 2481
+D1
+~
+~
+0 0 2492
+S
+#2492
+An Open Area~
+   Nothing.  You stand in an open area.  You see scattered huts and buildings
+and more open areas.  Open areas seem to be the majority of what's here but
+then again the houses and buildings seem rather crowded together.    
+~
+24 0 2 0 0
+D0
+~
+~
+0 0 2482
+D1
+~
+~
+0 0 2493
+D3
+~
+~
+0 0 2491
+D7
+~
+~
+0 0 2483
+S
+#2493
+Clerics Training Room~
+   You stand in a room that is colored white, crimson, and black.  On each
+color are the symbols of the gods who's alignments match that color.  In the
+middle of the room stands a figure dressed in robes.    
+~
+24 8 0 0 0
+D3
+~
+~
+0 0 2492
+S
+#2495
+The Kendermore Chamber of Commerce~
+   The Kendermore Chamber of Commerce was founded as part of an intercity
+initiative to increase trade.  The Kender have been thrilled to participate
+since their bulging pouches are largely responsible for the transport of goods
+from one city to the next.  The walls of the Chamber are cluttered with
+hundreds of postings, most of which are written on small scraps of paper.  The
+floor is littered with dozens of items that have been found by kender just
+recently returned from other cities.    
+~
+24 8 0 0 0
+D3
+~
+~
+0 0 2412
+S
+$~

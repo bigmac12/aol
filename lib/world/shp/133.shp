@@ -1,0 +1,65 @@
+CircleMUD v3.0 Shop File~
+#13381~
+13381
+13382
+13383
+13384
+-1
+1.33
+0.67
+11leather
+9leather
+9hide
+11hide
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+13381
+0
+13381
+-1
+0
+28
+0
+0
+1
+38
+#13382~
+13387
+13388
+13389
+13390
+13391
+-1
+1.20
+0.90
+11silk
+11silken
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+13382
+0
+13382
+-1
+0
+28
+0
+0
+1
+38
+$~

@@ -1,0 +1,400 @@
+#10000
+guard city~
+a city guard~
+A member of the City Guard patrols this area.
+~
+   The guardsmen of Kalaman are willing to give their lives to quell
+disturbances to the peace of the city, both from within and without.    
+~
+1482760 40 0 0 E
+16 11 0 3d20+320 3d6+4
+603 11000 3
+8 8 1 0
+E
+#10001
+citizen kalaman~
+a citizen of Kalaman~
+A citizen of Kalaman goes about its business.
+~
+   The citizens of Kalaman go about their business daily, shopping, working,
+and just wandering.    
+~
+76 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 1 0
+E
+#10002
+child kid~
+a child~
+A child is playing here.
+~
+   A small child from Kalaman bats its eyelashes at you innocently.    
+~
+72 0 0 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 1 0
+E
+#10003
+drunk~
+a drunk~
+A drunk lays here in a stupor.
+~
+   This dirty, unshaven, drunk has obviously been lying here like this for a
+while.    
+~
+232 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+5 5 1 0
+E
+#10004
+beggar~
+a beggar~
+A beggar asks you to spare a copper.
+~
+   This poor beggar has been living on the street since he lost his job and was
+evicted.  He is clothed in ragged, dirty tunic and leggings.  His shoes look as
+though they could fall apart at any moment.  All he asks of you is a copper or
+two so that he might not starve.    
+~
+236 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 1 0
+E
+T 10000
+T 10001
+#10005
+dog mutt stray~
+a stray dog~
+A stray dog is resting here.
+~
+   This poor dog has been living on the street its whole life, digging through
+trash piles for food, sleeping in alleys, and avoiding brutal drunks and mean
+sailors.    
+~
+72 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 0 0
+BareHandAttack: 4
+E
+#10006
+thief~
+a thief~
+A thief sneaks around here.
+~
+   The thief is difficult to see; hiding in the shadows, and moving so quickly
+you can't really get a good look at it.    
+~
+237 786432 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 4
+8 8 2 6
+E
+#10007
+cleric majere~
+a cleric of Majere~
+A cleric is praying to Majere here.
+~
+   This cleric serves one of the gods of good, known as Majere.  Majere is the
+god of organization, industry and control, as well as meditation, faith and
+dreams.  As a worshipper of Majere this cleric seeks a simple life, devoid of
+luxurious trappings but filled with meditation, self-discipline and deep
+thought.    
+~
+524360 0 1 850 E
+4 18 12 1d5+45 1d8+1
+10 50 2
+8 8 1 10
+E
+#10008
+merchant~
+a merchant~
+A merchant hawks his wares here.
+~
+   This merchant is from another land has come in on a ship, planning on
+selling what he can in a few days, then travelling onward to the next port.  
+~
+72 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 1 0
+E
+#10009
+elf warrior elven fighter~
+an elven warrior~
+An elven warrior stands here.
+~
+   The elf has long blonde hair, pointy ears, and almond shaped green eyes, all
+of the traits elves have, particularly those from Silvanesti, which this elf
+obviously is.    
+~
+72 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 3
+8 8 1 0
+E
+#10010
+dwarf warrior fighter dwarven~
+a dwarven warrior~
+A dwarven warrior stands here stubbornly.
+~
+   This dwarf is from Thorbardin, and is of the Hylar clan.  It bears all of
+the traits of a typical Hylar, including light brown skin, smooth cheeks, and
+bright eyes.    
+~
+72 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 3
+8 8 1 0
+E
+#10011
+cat alley~
+an alley cat~
+An alley cat purrs quietly.
+~
+   This poor cat lives in the back alleys of Kalaman, spending its time
+searching for food and avoiding the stray dogs that wander the streets.    
+~
+72 0 0 0 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 0 0
+BareHandAttack: 8
+E
+#10012
+noble man nobleman~
+a noble~
+A nobleman wanders the city.
+~
+   This noble is a member of one of the families that have ruled Kalaman and
+the surrounding area since its founding.  He is out greeting the public today.
+~
+72 0 0 0 E
+4 18 12 1d5+45 1d8+1
+13 50 0
+8 8 1 0
+E
+#10013
+kender thief handler~
+a kender~
+A kender looks around curiously.
+~
+   Good thing you're keeping your eye on the kender, you never know what these
+short, pointy-eared, little rascals are up to.  Make sure nothing of yours
+'falls' into its pockets.    
+~
+73 32768 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 4
+8 8 1 6
+E
+#10014
+bert bertold Bertinfalzigramshingadingledangledongol short funny gnome~
+Bertinfalzigramshingadingledangledongol, a short, funny gnome~
+Bertinfalzigramshingadingledangledongol, the Chamber director, stands here happily.
+~
+   Bertinfalzigramshingadingledangledongol (Bert to the impatient) is a short
+gnome with a nose that even gnomes would find large and comical.  He gives you
+a welcoming smile as you look at him, and he prepares to offer you a hearty
+greeting.  He seems to never grow tired of his job, despite the fact that every
+day he must greet all the newcomers to Kalaman.    
+~
+7340042 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1300 250000 0
+8 8 1 0
+E
+T 10126
+#10015
+knight somber-looking somber garrison~
+a somber-looking knight~
+A somber-looking knight patrols the streets of Kalaman, lending his aid to the local garrison.
+~
+   While rather young in appearance, this man's eyes speak of years of soldiery
+and shine with a deep pride in the things he has accomplished.  Clad in armor
+bearing the symbol of the kingfisher, known as the mark of the Order of the
+Crown, this knight has likely been dispatched from Vingaard Keep in order to
+help maintain law and order here in Kalaman.  At the sound of commotion his
+quick, sharp eyes scan the vicinity even as his hand drops to the pommel of the
+blade at his side.    
+~
+3172360 33555460 0 850 E
+22 7 -6 3d33+550 3d8+7
+350 1 3
+8 8 1 0
+BareHandAttack: 3
+E
+T 10010
+T 10011
+T 10012
+#10016
+knight sword patroling garrison~
+a patrolling Knight of the Sword~
+A Sword Knight patrols the streets and businesses here, seeing to their safety and well-being.
+~
+   This knight is clad in armor etched with the patterns of the sword and the
+kingfisher, marking him as a Knight of the Sword Order, one of the three
+branches of the Solamnic Knighthood.  His long brown hair flips about in the
+breeze as does the tips of his long, handle-bar mustache.  Strapped to his arm
+is a small, metal buckler that allows him a modicum of defense while still
+allowing for the optimum usage of the fine bastard sword he wears at his hip.
+~
+813064 5124 3074 850 E
+24 6 -8 3d33+750 4d6+8
+450 1 7
+8 8 1 0
+BareHandAttack: 3
+E
+T 10011
+T 10010
+T 10012
+#10017
+knight rose ~
+a Knight of the Rose~
+A Knight of the Rose is here, pouring over reports and documents filed by the constabulary.
+~
+   This knight is by far older than his compatriots, with several small
+wrinkles creasing his face and silver shot through his black hair.  He still
+proudly sports the mustache so famous of the knighthood to which he belongs and
+his breastplate is marked with the symbols of the kingfisher, the sword, and
+the rose, denoting him as being of the Order of the Rose.  Pacing about the
+office, he quickly sorts through and reads the reports as they come to him.  
+~
+7534602 33690668 0 850 E
+24 6 -8 3d33+750 4d6+8
+900 1 3
+8 8 1 0
+BareHandAttack: 3
+E
+T 10010
+T 10011
+T 10012
+#10018
+meri merideth dignified watchful knight lady~
+Merideth~
+A dignified lady-knight scans the area with watchful eyes.
+~
+   Regal in her stance, this majestic woman keeps a watchful eye on her
+surroundings.  She has chestnut-colored hair which is tied back at the base of
+her neck with a simple golden clip.  Her body is extremely well-muscled and
+bears the scars that evidence her vast experience.  She is clad in full plate
+armor and keeps one hand ready on the hilt of her sword.    
+~
+8118298 33836 0 600 E
+30 1 -14 6d33+1700 8d16+9
+20000 250000 0
+8 8 2 7
+E
+#10019
+herald kalaman dibble~
+the Kalaman Herald~
+The Kalaman Herald takes a deep breath and prepares to make an announcement.
+~
+   Resplendent in a tabard, embroidered with the Kalaman coat of arms, Dibble
+makes a fine and impressive sight.  His chubby face and scarlet cheeks make him
+look like an overgrown schoolboy.  His commitment to the city is legendary and
+he can even be found standing in the square during the worst weather.    
+~
+3401758 32808 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 1 0
+BareHandAttack: 13
+E
+T 10017
+#10020
+guard city~
+a city guard~
+A member of the City Guard patrols the area.
+~
+   The guardsmen of Kalaman are willing to give their lives to quell
+disturbances to the peace of the city, both from within and without.    
+~
+1224713 40 0 0 E
+16 11 0 3d20+320 3d6+4
+276 11000 3
+8 8 1 7
+E
+#10057
+acolyte mishakal~
+an acolyte of Mishakal~
+An acolyte of Mishakal smiles as she walks past on some errand.
+~
+   An acolyte, this young lady has just begun her service to the goddess of
+healing.  She brushes aside a rogue strand of hair and smiles at you as she
+walks by, and in that smile can be seen the warmth and caring that the servants
+of Mishakal are known for.    
+~
+540680 5120 1 850 E
+6 17 10 2d6+80 2d5+2
+35 175 2
+8 8 2 0
+BareHandAttack: 5
+E
+#10058
+priest habbakuk~
+a priest of Habbakuk~
+A priest of Habbakuk strolls along the docks, offering prayers for the sailors.
+~
+   This young priest walks along the docks, smiling at those he passes.  He
+walks from ship to ship, offering prayers and blessings for the safe passage of
+their crews.  Many of the sailors greet him as though he were a close friend.
+~
+524296 5120 1 850 E
+6 17 10 2d1+80 2d6+2
+35 175 2
+8 8 1 0
+BareHandAttack: 5
+E
+#10059
+adept terin elven branchala~
+Terin, the elven adept~
+Terin, the elven adept of Branchala sits here playing a melodic tune.
+~
+   This young fellow sits in the center of the room, decked out in greens and
+golds.  Handsome as they come, he smiles warmly at the patrons and plays a
+melodic, almost entrancing tune upon his flute.  A mandolin sits at his side,
+and he wears the symbol of Branchala about his neck.    
+~
+24586 4096 1 850 E
+6 17 10 2d6+80 2d5+2
+35 175 2
+8 8 1 0
+BareHandAttack: 5
+E
+T 10059
+#10060
+monk athletic thought~
+a wandering monk~
+A monk strolls down the street here, lost in thought.
+~
+   This athletic young man walks down the street, lost in thought.  He has no
+facial hair, and his head is shaven adding to his youthful appearance.  He
+wears very simple clothing, as though he might have fallen on hard times.  He
+bears a small tattoo in the shape of a copper spider upon his left arm.    
+~
+8 0 0 850 E
+6 17 10 2d6+80 2d8+2
+30 175 3
+8 8 1 0
+E
+#10061
+priestess plain~
+a plain-looking priestess of Kiri-Jolith~
+A plain-looking priestess of Kiri-Jolith wanders about here, preaching.
+~
+   This young priestess looks very plain, like any other woman you may have
+come across.  The only distinctive feature is her steel-grey eyes, which hold a
+sense of stern resolve.  She wanders about the area preaching the word of
+Kiri-Jolith to any who will listen.    
+~
+8 4096 0 850 E
+6 17 10 2d6+80 2d8+2
+30 175 2
+8 8 2 0
+E
+$

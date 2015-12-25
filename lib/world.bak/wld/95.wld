@@ -1,0 +1,1961 @@
+#9500
+Before the Gates~
+   The tall trees of the forest part here to reveal an immense wall.  The top
+of the wall has no battlements, yet no creature has ever passed over them
+uninvited.  In the middle of the wall stands a small, delicate gate.  Looming
+overhead stand two large towers made of highly polished black obsidian.  A
+smaller foretower is visible to the north through the gates.    
+~
+95 4 3 0 0
+D0
+   The gates are made of silver and gold and are nearly as thin as a cob web.
+They appear quite delicate, as though they would provide little protection,
+however a strong aura of magic surrounds them.    
+~
+gate gates~
+1 0 9503
+E
+gate gates~
+   The gates are made of silver and gold and are nearly as thin as a cob web.
+They appear quite delicate as though they would provide little protection,
+however the aura of magic that surrounds them could make even the bravest
+warrior think twice before attempting to open them.    
+~
+S
+#9501
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D0
+~
+~
+0 0 9506
+D1
+~
+~
+0 0 9502
+S
+#9502
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D0
+~
+~
+0 0 9507
+D1
+~
+~
+0 0 9503
+D3
+~
+~
+0 0 9501
+S
+#9503
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D0
+~
+~
+0 0 9508
+D1
+~
+~
+0 0 9504
+D2
+   The gates are made of silver and gold and are nearly as thin as a cob web.
+They appear quite delicate, as though they would provide little protection,
+however a strong aura of magic surrounds them.    
+~
+gate gates~
+1 0 9500
+D3
+~
+~
+0 0 9502
+S
+#9504
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D0
+~
+~
+0 0 9509
+D1
+~
+~
+0 0 9505
+D3
+~
+~
+0 0 9503
+S
+#9505
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D0
+~
+~
+0 0 9510
+D3
+~
+~
+0 0 9504
+S
+#9506
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D1
+~
+~
+0 0 9507
+D2
+~
+~
+0 0 9501
+E
+gate~
+The gate is quite large and is decorated in gold and silver.
+~
+S
+#9507
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D1
+~
+~
+0 0 9508
+D2
+~
+~
+0 0 9502
+D3
+~
+~
+0 0 9506
+S
+#9508
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D0
+~
+~
+0 0 9511
+D1
+~
+~
+0 0 9509
+D2
+~
+~
+0 0 9503
+D3
+~
+~
+0 0 9507
+S
+#9509
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D1
+~
+~
+0 0 9510
+D2
+~
+~
+0 0 9504
+D3
+~
+~
+0 0 9508
+S
+#9510
+The Courtyard~
+Stuff
+~
+95 0 3 0 0
+D2
+~
+~
+0 0 9505
+D3
+~
+~
+0 0 9509
+S
+#9511
+A Narrow Hallway~
+stuff
+~
+95 4 3 0 0
+D0
+~
+~
+0 0 9512
+D2
+~
+~
+0 0 9508
+S
+#9512
+A Small Chamber~
+stuff
+~
+95 0 3 0 0
+D2
+~
+~
+0 0 9511
+D6
+~
+~
+0 0 9513
+D7
+~
+~
+0 0 9514
+S
+#9513
+A Narrow Hallway~
+stuff
+~
+95 0 3 0 0
+D6
+~
+~
+0 0 9515
+D9
+~
+~
+0 0 9512
+S
+#9514
+A Narrow Hallway~
+stuff
+~
+95 12 3 0 0
+D0
+~
+~
+0 0 9544
+D7
+~
+~
+0 0 9521
+D8
+~
+~
+0 0 9512
+S
+#9515
+A Narrow Hallway~
+stuff
+~
+95 0 0 0 0
+D9
+~
+~
+0 0 9513
+S
+#9516
+Hall of Mages~
+   Entrance to this room is permitted only when the Conclave is meeting and
+then by invitation only.  This vast chamber is so wide that its perimeter is
+lost in shadow, so high that its ceiling is obscured by shadow.  No pillars
+support it, no lights light it.  Yet the room is filled with a pale, white
+light.  There are not doors or windows to the outside world.  Magical means of
+transportation are the only manner in which this room can be entered.    
+~
+95 0 2 0 0
+S
+#9517
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+fragrant smell fills the air.  The tower looms to the north, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 0 0 0
+D0
+~
+~
+0 0 9522
+D3
+~
+~
+0 0 9516
+D7
+~
+~
+0 0 9523
+S
+#9518
+Shoikan Grove~
+   The tall oak trees sway slowly in the breeze as they stretch toward the sky.
+The leaves rustle quietly, drowning out the noise of the city.  Through the
+trees, a towering stone structure is barely visible to the northwest.  A tall
+stone wall lies to the north.    
+~
+95 0 3 0 0
+D2
+~
+~
+0 0 9513
+S
+#9519
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+fragrant smell fills the air.  The tower looms to the north, its smooth white
+stone walls shimmering in the light.    
+~
+95 0 0 0 0
+D0
+~
+~
+0 0 9525
+D1
+~
+~
+0 0 9520
+D6
+~
+~
+0 0 9524
+D9
+~
+~
+0 0 9515
+S
+#9520
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+fragrant smell fills the air.  The tower looms to the north, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 0 0 0
+D2
+~
+~
+0 0 9515
+D3
+~
+~
+0 0 9519
+S
+#9521
+Main Foyer of the Tower of High Sorcery~
+   The entryway to the tower is a large vast foyer.  The ceiling is so high
+that it is lost in the shadows above.  A profound silence fills the entryway.
+The only sound is the echo of soft footsteps hitting the stone floor.  The room
+is lit by candles which hang on the wall in large, ornate sconces.    
+~
+95 12 0 0 0
+D0
+~
+~
+0 0 9527
+D2
+A rune carved door.
+~
+door rune~
+1 0 9516
+D3
+~
+~
+0 0 9544
+D8
+~
+~
+0 0 9514
+S
+#9522
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+fragrant smell fills the air.  The tower looms to the north, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 0 0 0
+D1
+~
+~
+0 0 9523
+D2
+~
+~
+0 0 9517
+S
+#9523
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+fragrant smell fills the air.  The tower looms to the north, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 0 0 0
+D0
+~
+~
+0 0 9529
+D3
+~
+~
+0 0 9522
+D7
+~
+~
+0 0 9530
+D8
+~
+~
+0 0 9517
+S
+#9524
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+smell fills the air.  The tower looms to the north, its smooth white stone
+walls shimmering in the light.    
+~
+95 0 2 0 0
+D0
+~
+~
+0 0 9532
+D1
+~
+~
+0 0 9525
+D6
+~
+~
+0 0 9531
+D9
+~
+~
+0 0 9519
+S
+#9525
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+fragrant smell fills the air.  The tower looms to the north, its smooth white
+stone walls shimmering in the light.    
+~
+95 0 0 0 0
+D2
+~
+~
+0 0 9519
+D3
+~
+~
+0 0 9524
+S
+#9526
+A Large Foyer~
+   The entryway to the tower is a large vast foyer.  The ceiling is so high
+that it is lost in the shadows above.  A profound silence fills the entryway.
+The only sound is the echo of soft footsteps hitting the stone floor.  The room
+is lit by candles which hang on the wall in large, ornate sconces.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9534
+D1
+~
+~
+0 0 9527
+S
+#9527
+A Large Foyer~
+   The entryway to the tower is a large vast foyer.  The ceiling is so high
+that it is lost in the shadows above.  A profound silence fills the entryway.
+The only sound is the echo of soft footsteps hitting the stone floor.  The room
+is lit by candles which hang on the wall in large, ornate sconces.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9535
+D1
+~
+~
+0 0 9528
+D2
+~
+~
+0 0 9521
+D3
+~
+~
+0 0 9526
+S
+#9528
+A Large Foyer~
+   The entryway to the tower is a large vast foyer.  The ceiling is so high
+that it is lost in the shadows above.  A profound silence fills the entryway.
+The only sound is the echo of soft footsteps hitting the stone floor.  The room
+is lit by candles which hang on the wall in large, ornate sconces.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9536
+D3
+~
+~
+0 0 9527
+S
+#9529
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+fragrant smell fills the air.  The tower looms to the north, it smooth white
+stone wall shimmering in the light.    
+~
+95 0 0 0 0
+D1
+~
+~
+0 0 9530
+D2
+~
+~
+0 0 9523
+S
+#9530
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+fragrant smell fills the air.  The tower looms to the north, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 2 0 0
+D0
+~
+~
+0 0 9538
+D3
+~
+~
+0 0 9529
+D7
+~
+~
+0 0 9539
+D8
+~
+~
+0 0 9523
+S
+#9531
+The White Garden~
+   This garden glows with a silvery light which reflects from the torches that
+line its perimeter.  The air is perfumed with the scent of the gardenias and
+jasmine that grows throughout the garden.  White robed apprentices wander
+through the garden.  They speak very little, seemingly lost in thought as they
+memorize their spells.    
+~
+95 0 2 0 0
+D0
+~
+~
+0 0 9540
+D1
+~
+~
+0 0 9532
+D3
+~
+~
+0 0 9660
+D9
+~
+~
+0 0 9524
+S
+#9532
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surrond the tower.  Flower boxes overflow with colorful blooms.  Their
+smell fills the air.  The tower, looms to the north, its smooth white stone
+walls shimmering in the light.    
+~
+95 4 2 0 0
+D2
+~
+~
+0 0 9524
+D3
+~
+~
+0 0 9531
+S
+#9533
+A Classroom~
+   Designed to allow for maximum concentration, the classroom is quiet and has
+very little decoration.  A large instructor's desk sits at the front of the
+room.  Rows of smaller desks for the students fill the room.  Beakers and books
+cover the instructors desk.  A large skeleton stands in the back of the room.
+The windows are covered with heavy curtains to block out any distractions from
+the outside world.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9542
+S
+#9534
+A Large Foyer~
+   The entryway to the tower is a large vast foyer.  The ceiling is so high
+that it is lost in the shadows above.  A profound silence fills the entryway.
+The only sound is the echo of soft footsteps hitting the stone floor.  The room
+is lit by candles which hang on the wall in large, ornate sconces.
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9543
+D1
+~
+~
+0 0 9535
+D2
+~
+~
+0 0 9526
+S
+#9535
+A Large Foyer~
+   The entryway to the tower is a large vast foyer.  The ceiling is so high
+that it is lost in the shadows above.  A profound silence fills the entryway.
+The only sound is the echo of soft footsteps hitting the stone floor.  The room
+is lit by candles which hang on the wall in large, ornate sconces.  A staircase
+is visible to the north.    
+~
+95 8 0 0 0
+D1
+~
+~
+0 0 9536
+D2
+~
+~
+0 0 9527
+D3
+~
+~
+0 0 9534
+S
+#9536
+A Large Foyer~
+   The entryway to the tower is a large vast foyer.  The ceiling is so high
+that it is lost in the shadows above.  A profound silence fills the entryway.
+The only sound is the echo of soft footsteps hitting the stone floor.  The room
+is lit by candles which hang on the wall in large, ornate sconces.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9545
+D2
+~
+~
+0 0 9528
+D3
+~
+~
+0 0 9535
+S
+#9537
+A Dining Hall~
+   This dining hall serves all the those that visit the tower.  Large table
+fill the room.  Black, red, and white robed mages sit and eat their meals,
+sharing knowledge and experience with eachother.  A large serving table sits at
+the front of the room.  It is covered with bottles of wine, bread, and cheese.
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9546
+S
+#9538
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the gardens
+that surround the tower.  Flower boxes overflow with colorful blooms.  Their
+fragrant smell fills the air.  The tower looms to the north, its smooth white
+stone wall shimmering in the light.    
+~
+95 4 2 0 0
+D1
+~
+~
+0 0 9539
+D2
+~
+~
+0 0 9530
+S
+#9539
+The Black Garden~
+   The sun does not seem to reach this garden, yet the flowers still grow.  
+Large torches line the perimeter, casting light across the blooms.  Despite the
+beauty of the black orchids and roses that grow here, the garden lacks any
+warmth.  However, the young black robed apprentices seem to find this an
+amenable place to study.  They wander through the garden completely lost in
+thought.    
+~
+95 1 2 0 0
+D0
+~
+~
+0 0 9548
+D1
+~
+~
+0 0 9652
+D3
+~
+~
+0 0 9538
+D8
+~
+~
+0 0 9530
+S
+#9540
+The White Garden~
+   This garden glows with a silvery light which reflects from the torches that
+line its perimeter.  The air is perfumed with the scent of the gardenias and
+jasmine that grows throughout the garden.  White robed apprentices wander
+through the garden.  They speak very little, seemingly lost in thought as they
+memorize their spells.    
+~
+95 0 2 0 0
+D0
+~
+~
+0 0 9549
+D2
+~
+~
+0 0 9531
+D3
+~
+~
+0 0 9659
+S
+#9541
+A Classroom~
+   Designed to allow for maximum concentration, the classroom is quiet and has
+very little decoration.  A large instructor's desk sits at the front of the
+room.  Rows of smaller desks for the students fill the room.  Beakers and books
+cover the instructors desk.  A large skeleton stands in the back of the room.
+The windows are covered with heavy curtains to block out any distractions from
+the outside world.    
+~
+95 8 0 0 0
+D1
+~
+~
+0 0 9542
+S
+#9542
+A Hallway~
+   This hallway is richly decorated with carpeting and a large tapestry which
+depicts Magius, the great red robed wizard, fighting side by side with his
+friend Huma.  Small torches hang on the wall lighting the way.  The hall
+continues to the east.  Doorways are visible to the north, south, and west.  
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9551
+D1
+~
+~
+0 0 9543
+D2
+~
+~
+0 0 9533
+D3
+~
+~
+0 0 9541
+E
+tapestry~
+   The tapestry illustrates the battle of Huma and Magius fought against the
+Queen of Darkness.    
+~
+S
+#9543
+A Hallway~
+   This hallway is richly decorated with carpeting and a large tapestry which
+depicts the constellations of the gods shining in the night sky.  Small torches
+hang on the wall lighting the way.  A set of large doors lies to the north.  
+The foyer of the tower is visible to the south.    
+~
+95 12 0 0 0
+D0
+~
+~
+0 0 9552
+D2
+~
+~
+0 0 9534
+D3
+~
+~
+0 0 9542
+S
+#9544
+At the Bottom of the Staircase~
+   A spiral staircase begins here, winding its way up as far as the eye can
+see.  The stone steps can be difficult to climb as they are worn in the center
+from the countless mages who have tread upon them.  The stairs cling to the
+wall around the open, hollow center of the tower.    
+~
+95 12 0 0 0
+D1
+~
+~
+0 0 9521
+D2
+~
+~
+0 0 9514
+D4
+~
+~
+0 0 9573
+D5
+a hatch
+~
+hatch~
+1 0 9662
+S
+#9545
+A Hallway~
+   This hallway is richly decorated with carpeting and a large tapestry which
+displays the three moons as they circle the world of Krynn.  Small torches hang
+on the wall lighting the way.  A set of large doors lies to the north.  The
+foyer of the tower is visible to the south.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9554
+D1
+~
+~
+0 0 9546
+D2
+~
+~
+0 0 9536
+S
+#9546
+A Hallway~
+   This hallway is richly decorated with carpeting and a large tapestry which
+depicts the outside of the tower and its surrounding gardens.  Small torches
+hang on the wall lighting the way.  The hallway continues to the west.  A
+doorway is visible to the north and south.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9555
+D1
+A large wooden door.
+~
+door large wooden~
+2 9647 9547
+D2
+~
+~
+0 0 9537
+D3
+~
+~
+0 0 9545
+S
+#9547
+A Large Meeting Room~
+   Entrance to this room is permitted only when the Conclave is meeting.  This
+vast chamber is so wide that its perimeter is lost in shadow, so high that its
+ceiling is obscured by shadow.  No pillars support it, no lights light it.  
+Yet the room is filled with a pale, white light.  Heavy curtains cover the
+windows, closing off the outside world.    
+~
+95 131324 0 0 0
+D3
+A large wooden door.
+~
+door large wooden~
+2 9647 9546
+S
+#9548
+The Black Garden~
+   The sun does not seem to reach this garden, yet the flowers still grow.  
+Large torches line the perimeter, casting light across the blooms.  Despite the
+beauty of the black orchids and roses that grow here, the garden lacks any
+warmth.  However, the young black robed apprentices seem to find this an
+amenable place to study.  They wander through the garden completely lost in
+thought.    
+~
+95 1 2 0 0
+D0
+~
+~
+0 0 9557
+D1
+~
+~
+0 0 9651
+D2
+~
+~
+0 0 9539
+S
+#9549
+The White Garden~
+   This garden glows with a silvery light which reflects from the torches that
+line its perimeter.  The air is perfumed with the scent of the gardenias and
+jasmine that grows throughout the garden.  White robed apprentices wander
+through the garden.  They speak very little, seemingly lost in thought as they
+memorize their spells.    
+~
+95 0 2 0 0
+D1
+~
+~
+0 0 9550
+D2
+~
+~
+0 0 9540
+D3
+~
+~
+0 0 9658
+D7
+~
+~
+0 0 9558
+S
+#9550
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 4 2 0 0
+D0
+~
+~
+0 0 9558
+D3
+~
+~
+0 0 9549
+S
+#9551
+A Classroom~
+   Designed to allow for maximum concentration, the classroom is quiet and has
+very little decoration.  A large instructor's desk sits at the front of the
+room.  Rows of smaller desks for the students fill the room.  Beakers and books
+cover the instructors desk.  A large skeleton stands in the back of the room.
+The windows are covered with heavy curtains to block out any distractions from
+the outside world.    
+~
+95 8 0 0 0
+D2
+~
+~
+0 0 9542
+S
+#9552
+A Library~
+   The walls of the library are made up entirely of bookshelves, from floor to
+ceiling.  A ladder hangs from each wall, allowing access to the higher shelves
+which would otherwise be out of reach.  This central library has books of all
+topics.  Red, white, and black robed mages study side by side in, brought
+together by the love of their art.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9560
+D1
+~
+~
+0 0 9553
+D2
+~
+~
+0 0 9543
+S
+#9553
+A Library~
+   The walls of the library are made up entirely of bookshelves, from floor to
+ceiling.  A ladder hangs from each wall, allowing access to the higher shelves
+which would otherwise be out of reach.  This central library has books of all
+topics.  Red, white, and black robed mages study side by side in, brought
+together by the love of their art.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9561
+D1
+~
+~
+0 0 9554
+D3
+~
+~
+0 0 9552
+S
+#9554
+A Library~
+   The walls of the library are made up entirely of bookshelves, from floor to
+ceiling.  A ladder hangs from each wall, allowing access to the higher shelves
+which would otherwise be out of reach.  This central library has books of all
+topics.  Red, white, and black robed mages study side by side in, brought
+together by the love of their art.    
+~
+95 12 0 0 0
+D0
+~
+~
+0 0 9562
+D2
+~
+~
+0 0 9545
+D3
+~
+~
+0 0 9553
+S
+#9555
+A Meeting Room~
+   This is one of many meeting rooms in the tower.  Mages of all orders are
+able to put their differences aside and meet here, bound together by their
+shared love of their art.  A large round table sits in the middle of the room.
+Other than the chairs that surround the table, there are no other furnishings.
+A large window in the northern wall looks out at the gardens which surround the
+tower.    
+~
+95 8 0 0 0
+D2
+~
+~
+0 0 9546
+S
+#9556
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 4 2 0 0
+D0
+~
+~
+0 0 9564
+D1
+~
+~
+0 0 9557
+S
+#9557
+The Black Garden~
+   The sun does not seem to reach this garden, yet the flowers still grow.  
+Large torches line the perimeter, casting light across the blooms.  Despite the
+beauty of the black orchids and roses that grow here, the garden lacks any
+warmth.  However, the young black robed apprentices seem to find this an
+amenable place to study.  They wander through the garden completely lost in
+thought.    
+~
+95 1 2 0 0
+D1
+~
+~
+0 0 9650
+D2
+~
+~
+0 0 9548
+D3
+~
+~
+0 0 9556
+D6
+~
+~
+0 0 9564
+S
+#9558
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 2 0 0
+D1
+~
+~
+0 0 9559
+D2
+~
+~
+0 0 9550
+D7
+~
+~
+0 0 9565
+D8
+~
+~
+0 0 9549
+S
+#9559
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 2 0 0
+D0
+~
+~
+0 0 9565
+D3
+~
+~
+0 0 9558
+S
+#9560
+A Library~
+   The walls of the library are made up entirely of bookshelves, from floor to
+ceiling.  A ladder hangs from each wall, allowing access to the higher shelves
+which would otherwise be out of reach.  This central library has books of all
+topics.  Red, white, and black robed mages study side by side in, brought
+together by the love of their art.  A large window in the northern wall
+provides a lovely view of the gardens which surround the tower.    
+~
+95 8 0 0 0
+D1
+~
+~
+0 0 9561
+D2
+~
+~
+0 0 9552
+S
+#9561
+A Library~
+   The walls of the library are made up entirely of bookshelves, from floor to
+ceiling.  A ladder hangs from each wall, allowing access to the higher shelves
+which would otherwise be out of reach.  This central library has books of all
+topics.  Red, white, and black robed mages study side by side in, brought
+together by the love of their art.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9567
+D1
+~
+~
+0 0 9562
+D2
+~
+~
+0 0 9553
+D3
+~
+~
+0 0 9560
+S
+#9562
+A Library~
+   The walls of the library are made up entirely of bookshelves, from floor to
+ceiling.  A ladder hangs from each wall, allowing access to the higher shelves
+which would otherwise be out of reach.  This central library has books of all
+topics.  Red, white, and black robed mages study side by side in, brought
+together by the love of their art.  A large window in the northern wall
+provides a lovely view of the gardens which surround the tower.    
+~
+95 8 0 0 0
+D2
+~
+~
+0 0 9554
+D3
+~
+~
+0 0 9561
+S
+#9563
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 2 0 0
+D0
+~
+~
+0 0 9569
+D1
+~
+~
+0 0 9564
+S
+#9564
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 2 0 0
+D2
+~
+~
+0 0 9556
+D3
+~
+~
+0 0 9563
+D6
+~
+~
+0 0 9569
+D9
+~
+~
+0 0 9557
+S
+#9565
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 2 0 0
+D1
+~
+~
+0 0 9566
+D2
+~
+~
+0 0 9559
+D7
+~
+~
+0 0 9570
+D8
+~
+~
+0 0 9558
+S
+#9566
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 4 0 0 0
+D0
+~
+~
+0 0 9570
+D3
+~
+~
+0 0 9565
+S
+#9567
+A Library~
+   The walls of the library are made up entirely of bookshelves, from floor to
+ceiling.  A ladder hangs from each wall, allowing access to the higher shelves
+which would otherwise be out of reach.  This central library has books of all
+topics.  Red, white, and black robed mages study side by side in, brought
+together by the love of their art.  A large window in the northern wall
+provides a lovely view of the gardens which surround the tower.    
+~
+95 8 0 0 0
+D2
+~
+~
+0 0 9561
+S
+#9568
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 4 2 0 0
+D0
+~
+~
+0 0 9572
+D1
+~
+~
+0 0 9569
+S
+#9569
+Inside the Wall~
+   A small path runs along the outer wall, winding its way through the many
+gardens that surround the tower.  Flower boxes overflow with colorful blooms.
+Their fragrant smell fills the air.  The tower looms overhead, its smooth white
+stone wall shimmering in the light.    
+~
+95 0 2 0 0
+D2
+~
+~
+0 0 9563
+D3
+~
+~
+0 0 9568
+D6
+~
+~
+0 0 9572
+D9
+~
+~
+0 0 9564
+S
+#9570
+The Red Garden~
+   This garden bursts with color and light.  The red roses and snapdragons
+provide a cheerful setting.  The flowers themselves almost appear to be
+smiling.  Young apprentices of the red robes wander through the garden
+practicing their art.    
+~
+95 0 2 0 0
+D0
+~
+~
+0 0 9654
+D1
+~
+~
+0 0 9571
+D2
+~
+~
+0 0 9566
+D8
+~
+~
+0 0 9565
+S
+#9571
+The Red Garden~
+   This garden bursts with color and light.  The red roses and snapdragons
+provide a cheerful setting.  The flowers themselves almost appear to be
+smiling.  Young apprentices of the red robes wander through the garden
+practicing their art.    
+~
+95 0 2 0 0
+D0
+~
+~
+0 0 9655
+D1
+~
+~
+0 0 9572
+D3
+~
+~
+0 0 9570
+S
+#9572
+The Red Garden~
+   This garden bursts with color and light.  The red roses and snapdragons
+provide a cheerful setting.  The flowers themselves almost appear to be
+smiling.  Young apprentices of the red robes wander through the garden
+practicing their art.    
+~
+95 0 2 0 0
+D0
+~
+~
+0 0 9656
+D2
+~
+~
+0 0 9568
+D3
+~
+~
+0 0 9571
+D9
+~
+~
+0 0 9569
+S
+#9573
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+95 8 0 0 0
+D4
+~
+~
+0 0 9574
+D5
+~
+~
+0 0 9544
+S
+#9574
+A Small Landing~
+   The staircase continues on in both directions as far as the eye can see.  
+This small landing allows access to the second floor of the tower.  A narrow
+hallway extends to the east, and a small room lies to the west.    
+~
+95 8 0 0 0
+D1
+~
+~
+0 0 9638
+D3
+~
+~
+0 0 9636
+D4
+~
+~
+0 0 9575
+D5
+~
+~
+0 0 9573
+S
+#9575
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+95 8 0 0 0
+D4
+~
+~
+0 0 9581
+D5
+~
+~
+0 0 9574
+S
+#9576
+A Small Hallway~
+   Unlike the other cold and barren hallways in the tower, this hallway is
+richly decorated with carpeting and tapestries.  Small torches hang on the wall
+lighting the way.  A doorway lies to the east.  The main stairwell of the tower
+is visible to the west.    
+~
+95 12 0 0 0
+D1
+A large wooden door.
+~
+door wooden~
+1 0 9579
+D3
+~
+~
+0 0 9581
+S
+#9577
+A Private Study~
+   The study is comfortably appointed.  Large plush chairs of the best fabric
+and finest construction stand upon hand-woven carpets only the wealthiest
+people in Krynn can afford to own.  Decorated with woven pictures of fanciful
+beasts and colorful flowers, they draw the eye, tempting the viewer to lose
+themself for long hours in their beauty.  Carved wooden tables stand at the
+edge of the room.  Objects both rare and beautiful ornament the room.  The
+room's predominant feature are the books that cover the shelves lining each
+wall.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9579
+D1
+~
+~
+0 0 9578
+S
+#9578
+A Private Study~
+   The study is comfortably appointed.  Large plush chairs of the best fabric
+and finest construction stand upon hand-woven carpets only the wealthiest
+people in Krynn can afford to own.  Decorated with woven pictures of fanciful
+beasts and colorful flowers, they draw the eye, tempting the viewer to lose
+themself for long hours in their beauty.  Carved wooden tables stand at the
+edge of the room.  Objects both rare and beautiful ornament the room.  The
+room's predominant feature are the books which fill the many shelves that line
+the walls.  A large fireplace dominates the northern wall, casting a warm glow
+around the room.    
+~
+95 8 0 0 0
+D3
+~
+~
+0 0 9577
+E
+fireplace~
+   This large fireplace takes up the entire wall.  It opens through to the
+bedroom to the north, providing heat for both rooms.    
+~
+S
+#9579
+A Sleeping Chamber~
+   The sleeping chamber is quite comfortable and inviting.  Decorated with
+plush carpets and beautiful tapestries.  A small table stands to one side of
+the room.  Undoubtedly used by its owner for long hour of study.  The room is
+very quiet, the plush carpeting hushing the footseps of any who enter.  A faint
+smell of rose petals fills the air.    
+~
+95 12 0 0 0
+D0
+~
+~
+0 0 9582
+D1
+~
+~
+0 0 9580
+D2
+~
+~
+0 0 9577
+D3
+A large wooden door.
+~
+door wooden~
+1 0 9576
+S
+#9580
+A Sleeping Chamber~
+   The sleeping chamber is quite comfortable and inviting.  Decorated with
+plush carpets and beautiful tapestries.  The room is very quiet, the plush
+carpeting hushing the footsteps of all who enter.  A large fireplace dominates
+the southern wall, casting its warm light throughout the room.  A large chair
+and a small end table sit near the fireplace.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9583
+D3
+~
+~
+0 0 9579
+E
+fireplace~
+   This fireplace takes up the entire wall.  It opens through to the study to
+the south, providing heat for both rooms.    
+~
+S
+#9581
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+95 8 0 0 0
+D1
+~
+~
+0 0 9576
+D4
+~
+~
+0 0 9584
+D5
+~
+~
+0 0 9575
+S
+#9582
+A Sleeping Chamber~
+   The sleeping chamber is quite comfortable and inviting.  Decorated with
+plush carpets and beautiful tapestries.  A small table stands to one side of
+the room.  Undoubtedly used by its owner for long hour of study.  The room is
+very quiet, the plush carpeting hushing the footseps of any who enter.  A faint
+smell of rose petals fills the air.    
+~
+95 8 0 0 0
+D1
+~
+~
+0 0 9583
+D2
+~
+~
+0 0 9579
+S
+#9583
+A Sleeping Chamber~
+   The sleeping chamber is quite comfortable and inviting.  Decorated with
+plush carpets and beautiful tapestries.  The large, ornately carved bed
+standing in the corner would seem to indicate that this room is reserved for a
+mage of great importance.  The room is very quiet, the plush carpeting hushing
+the footsteps of all who enter.  A faint smell of rose petals fills the air.  
+~
+95 8 0 0 0
+D2
+~
+~
+0 0 9580
+D3
+~
+~
+0 0 9582
+S
+#9584
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+95 8 0 0 0
+D4
+~
+~
+0 0 9585
+D5
+~
+~
+0 0 9581
+S
+#9585
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+95 8 0 0 0
+D4
+~
+~
+0 0 9590
+D5
+~
+~
+0 0 9584
+S
+#9586
+A Bunkroom~
+   This bunkroom is for visiting mages who travel to the tower to further their
+studies.  The room is not as elegantly decorated as some of the other rooms in
+the tower.  The furnishings are rather plain but still comfortable.  A cot sits
+against each wall with a small trunk at its foot to allow for the storage of
+personal items.    
+~
+95 8 0 0 0
+D2
+~
+~
+0 0 9592
+S
+#9587
+A Bunkroom~
+   This bunkroom is for visiting mages who travel to the tower to further their
+studies.  The room is not as elegantly decorated as some of the other rooms in
+the tower.  The furnishings are rather plain but still comfortable.  A cot sits
+against each wall with a small trunk at its foot to allow for the storage of
+personal items.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9592
+S
+#9588
+A Bunkroom~
+   This bunkroom is for visiting mages who travel to the tower to further their
+studies.  The room is not as elegantly decorated as some of the other rooms in
+the tower.  The furnishings are rather plain but still comfortable.  A cot sits
+against each wall with a small trunk at its foot to allow for the storage of
+personal items.    
+~
+95 8 0 0 0
+D2
+~
+~
+0 0 9688
+S
+#9589
+A Bunkroom~
+   This bunkroom is for visiting mages who travel to the tower to further their
+studies.  The room is not as elegantly decorated as some of the other rooms in
+the tower.  The furnishings are rather plain but still comfortable.  A cot sits
+against each wall with a small trunk at its foot to allow for the storage of
+personal items.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9688
+S
+#9590
+A Landing~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.  A hallway branches off to the
+east and west.    
+~
+95 8 0 0 0
+D1
+~
+~
+0 0 9591
+D3
+~
+~
+0 0 9689
+D4
+~
+~
+0 0 9596
+D5
+~
+~
+0 0 9585
+S
+#9591
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  The
+hallway continues to the east.  The central stairwell lies to the west.    
+~
+95 8 0 0 0
+D1
+~
+~
+0 0 9592
+D3
+~
+~
+0 0 9590
+S
+#9592
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  The
+hallway continues on to the east and west.  A doorway is visible to the north
+and south.    
+~
+95 8 0 0 0
+D0
+~
+~
+0 0 9586
+D1
+~
+~
+0 0 9593
+D2
+~
+~
+0 0 9587
+D3
+~
+~
+0 0 9591
+S
+#9593
+A Hallway~
+   The hallway is barren, cold, and empty.  There are no decorations of any
+kind, no tapestries hung on the walls, no carpets cover the stone floor.  The
+hallway continues on to the east and west.    
+~
+95 0 0 0 0
+D1
+~
+~
+0 0 9594
+D3
+~
+~
+0 0 9592
+S
+#9594
+At the Bottom of a Staircase~
+   A spiral staircase begins here, winding its way up through one of the
+smaller towers.  The stone steps can be difficult to climb as they are worn in
+the center from the countless mages who have tread upon them.  The stairs cling
+to the wall around the open, hollow center of this tower.    
+~
+95 8 0 0 0
+D3
+~
+~
+0 0 9593
+D4
+~
+~
+0 0 9597
+S
+#9595
+On a Narrow Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open hollow center of this small tower.    
+~
+95 8 0 0 0
+D4
+~
+~
+0 0 9598
+D5
+~
+~
+0 0 9686
+S
+#9596
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+95 8 0 0 0
+D4
+~
+~
+0 0 9599
+D5
+~
+~
+0 0 9590
+S
+#9597
+A Narrow Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open hollow center of this small tower.    
+~
+95 8 0 0 0
+D4
+~
+~
+0 0 9600
+D5
+~
+~
+0 0 9594
+S
+#9598
+On a Narrow Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open hollow center of this small tower.    
+~
+95 8 0 0 0
+D3
+~
+~
+0 0 9681
+D4
+~
+~
+0 0 9601
+D5
+~
+~
+0 0 9595
+S
+#9599
+A Spiral Staircase~
+   The staircase continues on in both directions as far as the eye can see.  
+The stone steps can be difficult to climb as they are worn in the center from
+the countless mages who have tread upon them.  The stairs cling to the wall
+around the open, hollow center of the tower.    
+~
+95 8 0 0 0
+D4
+~
+~
+0 0 9604
+D5
+~
+~
+0 0 9596
+S
+$~

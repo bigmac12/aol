@@ -1,0 +1,587 @@
+#6500
+large snarling hound~
+a large snarling hound~
+A large hound bares his teeth at you and snarls.
+~
+   This large hound seems to not belong to anyone, but rather itself.  It seems
+as though at one time (a very long time ago) it might have belonged to someone.
+Now though it is wild, it's eyes are bloodshot, and his teeth are bright.  
+From the back of his throat a deep snarl echos.    
+~
+65544 32 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 0
+8 8 1 0
+BareHandAttack: 8
+E
+#6501
+wandering assassin~
+wandering assassin assasin~
+A wandering assassin lurks in the shadows here.
+~
+   An assassin roams the forest, preying upon the lost travelers.  He is part
+of the thieves guild kept hidden somewhere within this forest, and is their
+first line of defence, as well as a source of profit.  As he shifts through the
+trees he watches you, waiting for just the right moment when you turn your
+back.    
+~
+24 819232 0 0 E
+12 13 4 5d6+210 2d8+3
+135 4700 4
+8 8 1 0
+E
+#6510
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+262152 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+#6520
+large burly guard~
+a burly door guard~
+A large, burly man stands alertly here, guarding the door.
+~
+   An extremely large man stands here leaning against the multiple pullies on
+the wall.  Evidently it is his job to open the door and also to make sure that
+those who are unwanted stay out.  Judging by his size this should be a very
+easy job to him, and by the look in his eyes, he doesn't miss much of what goes
+on.    
+~
+1286682 8 0 0 E
+18 11 -2 3d20+380 3d6+6
+756 14000 4
+8 8 0 0
+E
+#6521
+celine clayfore bartender~
+Celine Clayfore~
+Celine Clayfore, the bartender, mixes drinks behind the counter.
+~
+   Celine Clayfore is a tall slim young woman.  Her only flaw is that she is
+wanted in most cities for somewhat unpleasant acts to past husbands.  Now she
+works here mixing drinks for the patrons of this small community.  She is quite
+beautiful, and new rogues who do not know of her past are drawn to her, even
+some who do know her well wonder whether she is worth it.    
+~
+3401754 40 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1350 300000 0
+8 8 2 0
+BareHandAttack: 13
+E
+#6522
+woman flowing amber snoring~
+a naked woman~
+A woman with flowing hair of amber lies sprawled across the bed, snoring.
+~
+   The first quite notable fact about this woman is that she is completely
+naked.  She lies sprawled across the mahogany bed, sheets tossed aside.  
+Needless to say, this leaves her sleek, muscular physique, as well as her more
+'womanly' features bare for all to see.  Long, amber-colored hair falls about
+her shoulders, framing a face of stoic beauty.  Adding to the humorous position
+in which she has fallen asleep, she also snores quite loudly.  One would be
+safe to hazard a guess at a rough night of debauchery being the cause for her
+obliviousness to the world.    
+~
+1073290 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+500 25000 4
+8 8 2 0
+BareHandAttack: 13
+E
+T 6570
+#6523
+Traynor short greasy fellow~
+Traynor~
+Traynor, a short, greasy little fellow stands here, ready to attend you.
+~
+   This man is rather small and greasy.  He was once a high class thief till
+the city guards got a look at him, now he cannot go near any city for fear of
+losing his head.  Boris gave him a job down here to buy other people's items
+that they need to get rid of, now he is almost as good a judge of craftsmenship
+and value then most shop owners.    
+~
+3145738 1064 0 0 E
+31 0 -15 3d33+9999 4d8+10
+1500 300000 0
+8 8 1 0
+E
+#6524
+young rogue~
+a young rogue~
+A young rogue leans casually up against the wall here.
+~
+   This young man looks fairly cocky, as he leans up against the wall, playing
+with his dagger.  By the way he seems to ignore you, you guess that he is
+either very new to his profession, or very good.  Then he drops his dagger on
+the floor.  He glances towards you, then picks up his dagger and fiddles with
+it once more.    
+~
+2074 0 0 0 E
+7 16 9 3d5+85 2d6+1
+55 400 0
+8 8 1 0
+E
+#6525
+young rogue~
+a young rogue~
+A young rogue crouches in the shadows watching.
+~
+   This young rogue crouches in the shadows, watching the area.  He sits ready
+to pounce on an unsuspecting victim.  He does not appear to be someone that is
+used to working alone either.    
+~
+4122 786432 0 0 E
+11 14 5 5d4+190 2d8+2
+95 2900 0
+8 8 1 0
+BareHandAttack: 13
+E
+#6526
+scoundrel dirty~
+a dirty scoundrel~
+A dirty scoundrel lurks in the shadows.
+~
+   This scoundrel is dirty and ragged, and wanders through the shadows, waiting
+for an unwary traveller.  His hands constantly fidgit, as though waiting to get
+into somebody's purse.  He lurks about the caves, ready to sound the alarm if
+any unwanted visitors get near things they shouldn't.    
+~
+168 786432 0 0 E
+8 15 8 5d5+110 2d6+2
+73 800 4
+8 8 1 6
+BareHandAttack: 3
+E
+#6530
+scrawny diseased rat~
+a scrawny diseased rat~
+A scrawny diseased rat crawls about the caverns.
+~
+   This rat is so scrawny that you can see it's rib cage poking at it's skin.
+It's eyes are a bright red, and it's ear seems to have been bitten off.  You
+can practically see the fleas jumping off of it.  It's mouth seems to be
+foaming, and it screeches agrily at you.    
+~
+65548 262144 0 0 E
+6 17 10 2d5+70 2d5+2
+0 175 0
+8 8 0 0
+BareHandAttack: 4
+E
+#6531
+lost confused thief~
+a lost and confused thief~
+A thief wanders these caverns, as though he were lost and confused.
+~
+   This thief wanders about the caves, it seems as though he has lost his way.
+He isn't even trying to hide or sneak around, in fact the only way you can tell
+he is a thief, is by the large bag he holds in one hand.  He seems to be
+searching the walls or the caverns for some reason, as though he expects a door
+to appear to him.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+60 800 0
+8 8 0 0
+E
+#6532
+small brown bat~
+a small brown bat~
+A small brown bat hangs from the ceiling here.
+~
+   A small brown bat hangs upside down from the ceiling.  As you move about the
+caverns its head turns, following your direction and watching your moves.  It
+seems harmless, more curious than anything.  Occasionaly it chirps in a high
+pitch, and is soon answered from somewhere else far off in the caves.    
+~
+65544 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+E
+#6540
+dark cloaked figure~
+a dark cloaked figure~
+A dark cloaked figure sits here in the shadows.
+~
+   This person sits far back in the corner of the bar, watching customers as
+they come and go.  He is covered by a cloak, so it is extremely hard to tell
+anything about him.  His hands rest upon the table before him, in good view of
+all who look his direction.    
+~
+8218 1024 0 0 E
+14 12 2 6d8+240 2d8+4
+400 7000 4
+6 6 1 0
+BareHandAttack: 3
+E
+#6541
+Hok runty goblin little~
+Hok~
+Hok, a runty little goblin crawls around looking for table scraps.
+~
+   To most it may seem strange to let a goblin hang around for leisure, let
+alone employing one for common tasks.  Looking at this goblin, one might wonder
+why doubly so.  He is runty, and judging from the way he speaks and acts, a
+half-wit as well.  His true name was lost, left behind with the clan that cast
+him out.  He has been given the nickname 'Hok' by the regulars of the Thieves
+Respite, so named for the strange sound he occasionally emits when choking down
+some scrap or other.  Rumor among the community is that the little runt saved
+Boris' life, and thus has been given a place here.  For this reason, most just
+choose to ignore his presence.  Despite his 'drawbacks' he seems to do a fairly
+decent job of keeping the place clean, even if his methods are a bit odd.  He
+crawls under the tables, looking for scraps of food or other items to eat or
+discard.    
+~
+140 1024 0 0 E
+12 13 4 5d6+210 2d8+3
+100 4700 4
+8 8 1 0
+BareHandAttack: 4
+E
+T 6541
+#6542
+Dunkarga daegar bank teller scowling Banker~
+Dunkarga~
+Dunkarga, the daegar bank teller stands behind the window, scowling at you.
+~
+   This dwarf is unmistakeable as a daegar, sometimes labeled 'Dewar' by his
+nobler kin.  He is from one of the clans of dark dwarves, looked down upon even
+by his own kind.  He is fair-skinned, unusual for a dwarf.  His hair is coal
+black, and he has a large, bushy beard of the same color.  His eyes are cold,
+and seem to glare at anything they can.  The Theiwar and Daegar are notoriously
+untrustworthy, thus finding one running other peoples monetary affairs is quite
+a surprise.  He must have done something substantial to earn the trust of
+whoever runs this place.  He stands behind the barred window, scowling at you.
+~
+7989274 1064 536 0 E
+31 0 -15 3d33+9999 4d8+10
+34568 300000 1
+8 8 1 4
+E
+#6543
+rogue shady fellow thin~
+a shady rogue~
+A thin, shady-looking fellow leans against the wall here.
+~
+   This thin, shady-looking fellow leans against the wall of the hallway,
+half-shrouded in darkness.  He wears simple clothing; a dark leather vest,
+baggy linen leggings, and soft black shoes.  Several daggers can be seen tucked
+in the black sash at his waist.  He seems to ignore anyone passing him by in
+the hall, though you get the feeling you're being watched despite it.    
+~
+1073162 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 4
+8 8 1 0
+BareHandAttack: 14
+E
+#6544
+Murt loquacious mouth man regaling~
+Murt the Mouth~
+Murt, a loquacious man is here, regaling his fellows with rumors and tales.
+~
+   This handsome young man's name is Murt, and he bears a bit of inherent charm
+in his personality.  Of course, this is offset by his obvious love of words, or
+perhaps the sound of his own voice.  Amongst the patrons of the Respite, this
+has garnered him the nickname 'Mouth'.  Either way, he speaks at great length
+to the fellows around him, describing great adventures and heists or simply
+spreading the latest rumors.  He seems to bear no apparent weapons of any kind,
+though one would be a fool to frequent a place like this without them.    
+~
+1048586 1032 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 4
+8 8 1 0
+BareHandAttack: 14
+E
+#6545
+woman tomboy tomboyish features~
+a tomboy~
+A woman of tomboyish features sits here, listening to Murt with interest.
+~
+   This woman seems rather tomboyish in nature, from her clothing to her
+actions.  Indeed, if it weren't for her decidedly 'feminine' features, one
+might assume she was just 'one of the boys'.  She sits here listening to Murt's
+news and tales, occasionally laughing rather boisterously.  Despite her
+seemingly masculine attitude, she has an alluring air to her.    
+~
+1073162 1024 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 4
+8 8 2 0
+BareHandAttack: 14
+E
+#6565
+Taman Storm~
+Taman the Storm~
+The man known throughout Khur as Taman the Storm sits here, enjoying a drink.
+~
+   This man is swathed in tan and ivory-colored clothing from head to toe.  
+From what can be seen of him, he is extremely muscular and quite tall.  He is
+deeply-tanned, a complexion garnered from long days amidst the rolling dunes of
+the desert.  His hair is coal black, and what is visible of his face is quite
+handsome indeed.  Taman is a plainsman of Khur, and he is known amongst his
+people as Taman, the Storm.  He leads one of the largest groups of bandits in
+the Khur desert.  He sits here enjoying a drink, relaxing while discussing
+matters with another plainsman nearby.    
+~
+3174426 33792 0 0 E
+25 5 -9 3d33+850 4d6+8
+2300 95000 3
+8 8 1 0
+BareHandAttack: 14
+E
+T 6565
+#6566
+plainsman Khur muscular~
+a muscular plainsman~
+A muscular desert plainsman of Khur sits here speaking with Taman.
+~
+   This desert plainsman sits near Taman, relaxing and discussing matters of
+interest.  He is dressed in a similar fashion to Taman himself; swathed in
+cloth of ivory and tan.  This man shares Taman's muscular physique as well,
+though unlike his leader this man is rather ugly.  A jagged scar cuts across
+his face from the left eyebrow to the right side of his chin.  Tribal tattoos
+of black and deep magenta can be seen on his wrists, peeking out from under his
+sleeves.    
+~
+1073162 33792 0 0 E
+24 6 -8 3d33+750 4d6+8
+2100 74000 3
+8 8 1 0
+BareHandAttack: 14
+E
+T 6566
+#6567
+Taina Shaman~
+Taina the Shaman~
+Taina the Shaman lazes here next to Taman, looking a bit bored.
+~
+   This bronze-skinned plainswoman is lithe, muscular, and holds an exotic
+beauty which escapes explanation.  Long, raven-colored hair falls about her
+shoulders, framing a face of strong features.  Her eyes are a deep azure blue,
+and seem to hold some hidden knowledge within their depths.  She is dressed
+rather lightly; a simple brassiere and baggy linen leggings.  Her heavier
+garments such as the Khurnish cloak have been cast aside in a pile next to her.
+This leaves much of her skin bare; revealing perhaps her most intriguing
+quality.  Swirling tribal tattoos of midnight black and deep magenta cover
+nearly her entire body.  They seem to convey some sort of pattern rather than
+randomness, though what that may be is impossible to tell.    
+~
+1601546 1024 5308424 0 E
+24 6 -8 3d33+750 4d6+8
+1400 68000 2
+8 8 2 0
+BareHandAttack: 3
+E
+T 6567
+#6568
+brute oafish swilling~
+an oafish brute~
+An oafish-looking brute sits here, swilling booze and leering at the barmaid.
+~
+   This large, ugly, and oafish looking fellow sits at a table swilling booze
+in great quantity.  It doesn't seem to be improving his temperament any.  He
+leers at the barmaid without restraint, snapping at her whenever she's too slow
+to get his drinks.  He's dressed like a common thug; dark leather armor, dark
+clothing.  A mean looking set of brass knuckles lies on the table before him.
+~
+1073162 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 3
+8 8 1 0
+BareHandAttack: 13
+E
+#6570
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 3
+8 8 1 0
+E
+#6574
+barmaid comely blonde young woman~
+the barmaid~
+A comely, blonde-haired young woman is here, serving drinks to thirsty patrons.
+~
+   This young lady is fairly attractive, by human standards.  She wears her
+curly blonde hair up in a ponytail, to keep it out of the way while working.  
+Working in such a place, it is likely that she is familiar with the darker
+professions as well.  Judging from her lithe, toned figure and somewhat
+graceful movements, she probably knows how to care for herself.  She walks
+about the room with a tray in hand, serving drinks to the patrons.    
+~
+24584 0 0 0 E
+16 11 0 3d20+320 3d6+4
+500 11000 4
+8 8 2 0
+E
+T 6542
+T 6543
+T 4902
+T 6544
+#6580
+cleric mishakal female~
+a female cleric of Mishakal~
+A female cleric of Mishakal runs about tending the ill.
+~
+   This woman looks old beyond her years, her age is probably closer to thirty,
+but by the way she looks you would guess fifty.  She runs about tending the
+ill trying to make them comfortable, and trying to keep them hopeful.  She
+tries all she can to find a way to heal them.    
+~
+188424 4096 0 0 E
+14 12 2 6d8+240 2d8+4
+275 7000 0
+8 8 2 0
+BareHandAttack: 8
+E
+#6581
+dummy practice wooden~
+a wooden, practice dummy~
+A wooden, practice dummy is set up here.
+~
+   This is a simple wooden practice dummy, sit up for any fighter or wizard to
+test their skills on.  It is made of a simple swivel stand, so it will swing
+around and hit the unwary fighter every now and then.  Also on this dummy is a
+pegboard head, so that those who need extra incentive, may tack a picture of
+their least favorite person there.    
+~
+712714 33567744 24 0 E
+31 19 -15 3d33+2000 0d0+1
+5 300000 9
+8 8 0 0
+E
+#6582
+wild disheveled man~
+a wild, disheveled man~
+A wild, disheveled man frantically scans the area.
+~
+   This man scans the area frantically, his eyes are constantly moving back and
+forth.  He appears as though he may not be mentally stable.  His eyes are
+glazed and hungry looking, as his glance passes by you and his hair and clothes
+are dirty and disheveled.  Whatever illness this man suffers from it is more
+mental than physical.    
+~
+40 0 0 0 E
+12 13 4 5d6+210 2d8+3
+95 4700 0
+8 8 1 0
+BareHandAttack: 8
+E
+#6583
+boy small crippled~
+a small, crippled boy~
+a small crippled boy limps around the area.
+~
+   This boy looks severly crippled, he is unable to use the entire right side
+of his body.  He limps about, using the walls for support.  He looks extremely
+thin and underfed, it seems a struggle just for this boy to make it through
+one more day of his miserable existance.
+~
+8 0 0 0 E
+4 18 12 1d5+45 1d8+1
+7 50 0
+8 8 1 0
+E
+#6584
+girl dying~
+a dying girl~
+A dying girl lies upon another table here.
+~
+   This girl seems to be very young.  She is as thin as a corpse, with a sunken
+stomach and and cheeks.  Her breathing is in gasps and wheezes and even those
+breaths don't come to often.  That this girl is alive even now would either be
+considered a miracle or a curse.    
+~
+10 2048 0 0 E
+1 20 15 1d2+5 1d4+0
+0 1 0
+4 4 2 0
+E
+#6585
+man decaying face~
+a man with a decaying face~
+A man with a decaying face paces the area.
+~
+   This man's eyes look young, and yet the rest of his face appears to be long
+dead.  Yet he walks about these halls, hoping the cleric will be able to heal
+him.  You can see through the side of his face and see his teeth.  His nose is
+almost completely gone and the rest of his face is quickly decaying.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+65 800 0
+8 8 1 0
+E
+#6586
+woman mangled young~
+a mangled young woman~
+A mangled young woman sits here, staring into space.
+~
+   This young woman is badly mangled, she looks as though she were eaten by a
+large animal and then spit back out.  Her flesh hangs from her bones, and in
+places you can even see the bones.  She stares at you with a vacant look as she
+seems to have closed herself off from her pain and those around her.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+66 800 0
+6 6 2 0
+E
+#6587
+man gape toothed old~
+a gape toothed old man~
+A gape toothed, old man wanders the area aimlessly
+~
+   This old man looks as though he has seem better days.  All but very few of
+his teeth are gone and he is constantly hacking and coughing.  He wanders
+about aimlessly not really looking where he is going, every now and then he
+bounces off a wall then continues walking in another direction.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+30 800 0
+8 8 1 0
+E
+#6588
+dark shadow~
+a dark shadow~
+A dark shadow watches the room.
+~
+   A dark shadow watches over this room, seemingly the embodiment of death
+itself.  As his gaze turns towards you, you seem to see a portal to the very
+Abyss through his eyes.  He looks at you uncaring, as though saying, it is not
+your time.    
+~
+256030 235516970 0 0 E
+31 0 -15 3d33+2000 4d8+10
+1989 0 0
+8 8 0 8
+E
+#6599
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+E
+$

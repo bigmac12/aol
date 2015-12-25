@@ -1,0 +1,35 @@
+1
+t
+15
+take all corpse
+0
+5
+bread
+37
+rem pack ; get bread pack ; eat bread
+1
+1
+f
+88
+flee ; flee ; flee ; flee ; flee ; flee ; flee ; flee ; flee ; flee ; flee ; flee ; flee
+1
+1
+b
+10
+bandage $*
+1
+2
+bl
+13
+cast bless $*
+1
+2
+cl
+18
+cast cure-light $*
+1
+2
+sc
+4
+scan
+0

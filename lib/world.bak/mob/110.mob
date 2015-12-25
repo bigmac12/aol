@@ -1,0 +1,773 @@
+#11000
+Ewalg middle-aged man black robes~
+Ewalg~
+A middle-aged man dressed in black robes walks through the tower.
+~
+   Ewalg has been serving Master Xerxes for a great many years.  While still a
+novice, Ewalg studied under Xerxes in preparation for his Tests.  After their
+completion, he decided to remain in service and further his studies by working
+under a skilled mage such as Xerxes.  He appears to be about middle-aged and is
+dressed in black robes which hang neatly about his sturdy, though slender,
+frame.    
+~
+1599576 33554440 134218272 0 E
+25 5 -9 3d33+850 4d6+8
+0 87000 1
+8 8 1 0
+BareHandAttack: 13
+E
+#11001
+Alrai newt~
+Alrai, the newt~
+Alrai, a monstrously-sized newt, wanders about the area.
+~
+   Alrai looks a lot like the average newt, however he is about ten times the
+size of one.  His other distinguishing characteristic is his eyesockets, which
+are completely empty.  Despite this fact, which you might imagine would leave
+him at a bit of a disadvantage, he appears to be quite aware of his
+surroundings.    
+~
+555032 1024 67108864 0 E
+17 10 -1 3d20+340 3d6+5
+0 11800 1
+8 8 1 0
+BareHandAttack: 8
+E
+#11002
+vulture bird~
+a vulture~
+A vulture circles in the rising air currents that swirl overhead.
+~
+   This rather large, black bird floats effortlessly overhead, making lazy
+circles in the air currents that rise up alongside the cliffs.  Its massive
+beak and talons are visible even from the ground.  Every now and then they
+catch the light, giving the bird a somewhat intimidating appearance.    
+~
+65544 65536 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 0
+8 8 0 0
+BareHandAttack: 8
+E
+#11003
+a young woman in gray robes~
+a young woman clad in gray robes~
+A young woman, clad in gray robes, makes her way along the path.
+~
+   Despite her lovely features, this young woman seems highly un approachable.
+She keeps her gaze focused on the path in front of her as she makes her way
+toward her destination.  Her deep, green eyes seem rather set in their purpose,
+and she barely returns your glance upon noticing your attention.  Without so
+much as a nod of greeting, she continues on her way.    
+~
+549080 1024 1 0 E
+11 14 5 5d4+190 2d8+2
+0 2900 1
+8 8 2 0
+BareHandAttack: 8
+E
+#11004
+woman mage elderly silvery silver-haired~
+an elderly mage with silvery hair~
+An silver-haired mage sits by the fire as she reviews the scroll of a young student.
+~
+   The lines on this woman's face evidence her age.  However, her eyes still
+possess the alert brightness of youth.  She sits in a chair by the fire,
+carefully reviewing the scrolls prepared by her young student.  Noticing your
+stare, she glances up a moment.  A slight frown indicates that the interruption
+is not appreciated.    
+~
+1601626 33554440 33554688 -500 E
+26 4 -10 3d33+950 4d7+7
+1492 115000 1
+6 6 2 0
+BareHandAttack: 8
+E
+#11005
+student mage novice young eager~
+an eager young student~
+An young novice paces quietly as his mistress reviews his work.
+~
+   Though he tries his best to hide it, the nervousness in this young man's
+manner is rather evident.  He paces quietly across the back of the room.  His
+hands are folded neatly into the sleeves of his novice robes, which he wears
+with great pride.  His eyes are cast down toward the floor and his mouth is
+moving repeatedly as though he may be speaking words which only he can hear.  
+~
+553034 8 2 -100 E
+12 13 4 5d6+210 2d8+3
+121 4700 1
+8 8 1 0
+BareHandAttack: 13
+E
+#11006
+eyes pair disembodied~
+a pair of disembodied eyes~
+A pair of disembodied eyes floats above the ground.
+~
+   Two disembodied eyes return your gaze, which is just a tad disturbing to say
+the least.  They float effortlessly above the ground at (where else) eye level.
+Their irises are a strange amber color which emit an eerie glow even in the
+darkness of night.    
+~
+8470554 9216 0 0 E
+8 15 8 5d5+110 2d6+2
+0 800 10
+8 8 0 0
+BareHandAttack: 12
+E
+T 11000
+#11007
+mage ash-covered ash covered eyebrows frustrated~
+a mage with no eyebrows and ash on his face~
+A mage with an ash-covered face and a frustrated expression paces the room.
+~
+   This young mage is doing very little to hide his frustration.  He shakes his
+hand, as though it is in pain, as he paces the room.  The awful looking scowl
+upon his face is worsened by black smudges on his cheeks and the fact that he
+has no eyebrows!  His hair is sticking straight up, giving him the appearance
+of a mad scientist.    
+~
+548874 1032 8 -100 E
+16 11 0 3d20+320 3d6+4
+495 11000 1
+8 8 1 0
+E
+#11008
+mage still statue expressionless~
+an expressionless mage~
+A mage stands in the middle of the room. He is as still as a statue.
+~
+   This young man is clad in the black robes of the Order of Nuitari.  He
+stands perfectly still; his face completely expressionless.  It does not seem
+as though he is even aware of your presence or your scrutiny.  His arms hang
+motionless at his sides.  It appears as though there may be something gripped
+in his left hand.    
+~
+1597450 33554432 0 -100 E
+18 11 -2 3d20+380 3d6+6
+611 14000 1
+8 8 1 0
+E
+#11009
+mage clad dark robes young~
+a mage clad in dark robes~
+A young mage, clad in dark robes, moves quietly through the tower.
+~
+   This young initiate has recently completed his Test.  Since he is standing
+before you, and quite alive, you can only assume he has passed.  He walks
+quietly through the tower, proudly wearing his newly aquired robes: the black
+robes of the order of Nuitari.  His face is somewhat handsome.  Though his
+constant scowling does nothing for this young man's charisma.    
+~
+548936 8200 12 0 E
+13 13 3 6d5+240 2d9+2
+131 6625 1
+8 8 1 0
+E
+#11010
+form shadowy clad guardian liche~
+a shadowy form clad in dark robes~
+A shadowy form hovers above the ground continuing its service to Xerxes, even in death.
+~
+   Hovering just above the ground this shadowy form appears to once have been
+human.  It is clad in dark robes which appear to have been damaged by heat or
+some sort of flame.  Its face is sunken and sallow with cold, gray eyes that
+have an almost vacant look to them.  It becomes very alert to your presence and
+grips something tightly in its skeletal hand.    
+~
+10215450 9242 67108872 -600 E
+24 6 -8 3d33+750 4d6+8
+0 68000 8
+8 8 0 0
+BareHandAttack: 6
+E
+#11011
+elemental air cloud funnel~
+an air elemental~
+Oddly enough, a light fluffy cloud hangs in the air.
+~
+   As you look at this cloud of air it begins to transform.  The intrusion has
+greatly effected its mood and, therefore, its appearance.  It rumbles angrily
+as the swirling currents of air shift into a dark funnel.  Summoned from beyond
+this plane of existence, it is here for one purpose: to stand guard in for
+Xerxes in his absence.    
+~
+3235850 66560 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 0
+8 8 0 0
+BareHandAttack: 2
+E
+#11012
+elemental fire~
+a fire elemental~
+A wall of fire, nearly ten feet tall, fills the hallway.
+~
+   A wall of fire fills the entire hallway, blocking passage.  Though it
+appears to be nothing more than a massive tower of flame, you sense some level
+of awareness and intelligence.  Summoned from another plane of existence, this
+fire elemental has been called to our world to fulfill some purpose.    
+~
+11788314 167773192 0 0 E
+20 8 -4 3d20+440 3d7+6
+0 25000 3
+8 8 0 0
+BareHandAttack: 12
+E
+#11013
+hands disembodied undead~
+a pair of disembodied hands~
+A pair of disembodied hands floats above the ground.
+~
+   What seems to be the skeletal remains of someone's hands is now floating in
+midair.  As if this were not odd enough, the hands seem to be fully aware of
+their surroundings and your unwelcome presence.  Each bony finger is tipped
+with a razor sharp nail which is still affixed to the skinless form.    
+~
+94216 0 0 0 E
+12 13 4 5d6+210 2d8+3
+0 4700 10
+8 8 0 0
+E
+#11030
+black mage del'thalas~
+Del'Thalas~
+A black-robed mage peers at you in annoyance.
+~
+   Del'Thalas, a truly powerful mage of the Black Robes, seems perturbed by
+your arrival.  His shimmering black robes are lined with runes of warding, and
+in his thin delicate hand lies one of the many quills from his desk.  Near him
+lies a large, night-black staff, with an orb on the top.    
+~
+74 0 0 -700 E
+11 14 5 5d4+190 2d8+2
+95 2900 1
+6 6 1 0
+E
+#11031
+huge ogre~
+a huge ogre~
+A huge, slobbering ogre stands on guard here.
+~
+   This huge, drooling ogre seems to have the intelligence of a 2 year old.  
+Although he seems to be dumb, he wields a large, two-handed vallenwood club.  
+His large, wiry muscles bulge out of his arms.  Perhaps it isnt a good idea to
+call him stupid to his face...    
+~
+8 0 0 -200 E
+9 15 7 5d5+130 2d7+1
+80 1300 3
+8 8 1 0
+BareHandAttack: 5
+E
+#11032
+huge hooded goblin~
+the torture master~
+A wiry, hooded goblin cackles at your arrival.
+~
+   This huge, hooded goblin looks to be the torturer.  His beady eyes are
+blood-red, and his wiry muscles twitch in anticipation.  His lips curl into a
+smile of excitement as you wander in, and he wields his whip menacingly...    
+~
+10 0 0 -850 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+E
+#11033
+insane blood surgeon~
+the surgeon~
+A cackling, blood-covered surgeon waves at you mockingly.
+~
+   This insane human peers at you blearily.  His white jacket and white gloves
+are soaked with blood, while in his right had he clutches one of his many
+cleavers.  He glares at you, and cackles.    
+~
+10 0 0 -850 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+E
+#11034
+happy woman female~
+the happy woman~
+A laughing, happy woman smiles your way.
+~
+   This woman, strangely enough, looks happy.  Every now and then, she looks up
+at one of the many white globes, and laughs again.  She dances around to
+unheard music, and seems quite jovial.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 3
+8 8 2 0
+E
+#11050
+scribe quiet studious~
+a quiet, studious scribe~
+A quiet, studious scribe sits at the desk, not looking up from his work.
+~
+   The scribe seems intent on his work, not looking up at you as you watch him.
+He wears a small pair of glasses and dresses in drab colors of a style many
+years old.  He is somewhat overweight, and carries a frown on his face, though
+he seems he'd be a kind enough man.    
+~
+10 0 3 450 E
+7 16 9 3d5+85 2d6+1
+53 400 0
+8 8 1 0
+BareHandAttack: 14
+E
+#11051
+student busy attentive~
+a busy, attentive student~
+A busy, attentive student sits here, taking notes on a piece of parchment.
+~
+   This student seems very involved in his work, scribbling everything that he
+hears down on a piece of thin parchment.  He is wearing the beige robes that
+all students are issued upon entering the school.    
+~
+10 0 0 200 E
+6 17 10 2d5+70 2d5+2
+43 175 0
+8 8 1 0
+E
+#11052
+pupil quiet silent~
+a quiet pupil~
+One pupil sits here alone, remaining utterly silent.
+~
+   This girl does not seem to fit in with the others, like many of her sex
+having some difficulty breaking into the field of magic.  She seems very intent
+on the lecture, however, and absorbs all that she hears.    
+~
+10 0 0 -100 E
+7 16 9 3d5+85 2d6+1
+67 400 0
+8 8 2 0
+E
+#11053
+elf loud boisterous young~
+a loud, boisterous young elf~
+A loud, boisterous young elf sits at his desk, joking with friends.
+~
+   This young elf seems to be paying little attention to the lecture at hand,
+and is much more interested in talking with his friends.  Loudly.  Those around
+him don't seem very pleased at it.    
+~
+10 0 0 0 E
+7 16 9 3d5+85 2d6+1
+52 400 0
+8 8 1 0
+E
+#11054
+scruffy student pungent~
+a scruffy student with a pungent odor~
+A scruffy student, emtting a pungent odor, is sleeping at his desk.
+~
+   Aside from the horrid smell, few people seem to notice this student, as he
+is always somewhere sleeping.  His hair is scruffy, his face is dirty, and it
+looks like he has not bathed in several months.  Despite all that, his
+Academy-issued robes are fairly spotless, as he does not have to see to washing
+them.    
+~
+10 0 0 0 E
+5 17 11 2d5+65 2d5+0
+28 85 0
+4 4 1 0
+E
+#11055
+wizard aged old red~
+an aged old wizard~
+An aged old wizard with a sleeping problem rests himself against his desk.
+~
+   This old wizard seems to have a bit of difficulty staying awake in his own
+lectures.  He is resting in his chair with only his arms that are propping his
+head up keeping him from falling fast asleep.  In between short naps, he tries
+to stay on topic, though usually doesn't meet with success.    
+~
+550922 8 13 0 E
+17 10 -1 3d20+340 3d6+5
+674 11800 1
+8 8 1 0
+BareHandAttack: 11
+E
+T 11053
+#11056
+child small lazy city~
+a small, lazy child in city clothing~
+A small, lazy child, dressed in clothing of the city, relaxes on his bunk.
+~
+   This child seems to be enjoying himself, not doing a thing except relaxing
+on his bunk bed.  He doesn't seem to have any classes today, as he is in
+clothing of the city, a rare sighting in the Academy, as it is generally
+discouraged.    
+~
+10 0 0 0 E
+6 17 10 2d5+70 2d5+2
+45 175 0
+8 8 1 0
+E
+#11057
+student rushed rumpled~
+a rushed student in rumpled attire~
+A rushed student in rumpled attire quickly makes her way out.
+~
+   This determined student looks to be headed somewhere in a hurry, cutting
+past whomever she comes by.  Her clothing is wrinkled and mashed as though
+she'd been sleeping in it.    
+~
+524296 0 1 0 E
+8 15 8 5d5+110 2d6+2
+76 800 1
+8 8 2 0
+BareHandAttack: 13
+E
+#11058
+young man blue astute~
+a young man with blue eyes and an astute bearing~
+A young man with blue eyes and an astute bearing surveys the area.
+~
+   Looking to be one of the elder students of the Academy, this young man is
+handsome, neatly-dressed, and has a shrewd look about him not found in his
+younger, less mature peers.  His blue eyes cross with yours for a moment, and
+he takes you in, then returns to his own wanderings.    
+~
+524296 0 12 0 E
+11 14 5 5d4+190 2d8+2
+102 2900 1
+8 8 1 0
+E
+#11059
+hungry talkative boy~
+a hungry, talkative boy~
+A hungry, talkative boy sits at one of the tables, eating away.
+~
+   This human boy could be no older than 8 or 9 years old, probably one of the
+younger children in the Academy.  In his Academy-issued pale brown robes, he
+devours the food in front of him hungrily, and talks with his friends in
+between mouthfuls.    
+~
+10 0 0 0 E
+6 17 10 2d5+70 2d5+2
+36 175 0
+8 8 1 0
+E
+#11060
+overweight academy instructor grey greying~
+an overweight Academy instructor with greying hair~
+An overweight Academy instructor with greying hair sits by himself, pondering.
+~
+   This old instructor, overweight by a hundred pounds or more, seems to be
+lost in thought.  He sits by himself, pushing the food on his plate around with
+a fork, not noticing the passing of time.  His robes are of higher quality than
+the students', though he does not wear a color.    
+~
+524442 0 8193 0 E
+13 13 3 6d5+240 2d9+2
+0 6625 1
+8 8 1 0
+BareHandAttack: 14
+E
+#11061
+man young smiling simple~
+a simple, smiling young man~
+A simple, smiling young man sits at the bench, spooning food into his mouth.
+~
+   This young man of no more than 16 or 17 sits at the table, smiling simply to
+himself.  He does not seem to fit in with the rest of those studying at the
+Academy, as he seems more inclined to a less complex life.  Unlike most at the
+tables, he is wearing clothes of the farmlands instead of his robes.    
+~
+26 0 0 450 E
+8 15 8 5d5+110 2d6+2
+76 800 3
+8 8 1 0
+BareHandAttack: 13
+E
+#11062
+cook head~
+the Academy's head cook~
+The Academy's head cook smiles patiently, waiting for any who wish for food.
+~
+   This man is quite young for his position, but the high quality of his food
+reflects the decision to hire him despite his age.  He wears all white, which
+distinguishes him in great contrast from the mages and students of the Academy.
+He carries himself with pride, knowing that his position, while not the most
+elegant, is a respected one.    
+~
+4110 0 0 200 E
+14 12 2 6d8+240 2d8+4
+121 7000 0
+8 8 1 5
+E
+T 11051
+T 11055
+T 11056
+#11063
+weary busy haired custodian middle~
+a weary, bushy-haired custodian~
+A weary, bushy-haired custodian in his middle years slowly cleans the area.
+~
+   From this man's sunken brown eyes, it seems like he has seen better times.
+He carries with him an unrestful weariness that must cling to him even after he
+is done with his cleaning shift.  Though he could be no more than 40 years old,
+his wild, bushy hair is shot white from root to tip.    
+~
+12 0 0 50 E
+9 15 7 5d5+130 2d7+1
+78 1300 0
+8 8 1 5
+E
+#11064
+fervent green apprentice~
+a fervent green-eyed apprentice~
+A fervent green-eyed apprentice slips through the halls to assist a mage.
+~
+   This young man rushes by on his way to his studies, a worn book grasped in
+his hands.  As he passes the smell of herbs and other spell components drifts
+your way.  He barely pays attention to you, walking quickly past with an
+excited look in his green eyes.    
+~
+530440 0 6 0 E
+10 14 6 5d4+160 2d7+2
+93 1900 1
+8 8 1 0
+E
+#11065
+master letterer~
+the Master Letterer~
+The Master Letterer sits at her desk, perfecting her craft on a piece of parchment.
+~
+   The Master Letterer is a woman of some years, with greying hair and crow's
+feet around her pale blue eyes.  She seems strict and exacting as the letters
+she pens.  Her hands, moving with quick, precise strokes, are still splotched
+with marks of ink, all the way to her wrists.  She wears the robes of a red
+mage, though to assume such a position teaching in an Academy, even one such as
+this, would imply that she did not go far in her studies, other than the craft
+of pen and ink.    
+~
+8 0 0 0 E
+11 14 5 5d4+185 2d8+2
+102 2900 0
+8 8 2 0
+E
+#11066
+pupil diligent~
+a diligent pupil~
+A diligent pupil sits at a table, carefully lettering away.
+~
+   This student is working away at a piece of parchment, occasionally dipping
+the quill in his hand into a pot of ink on the center of the table.  His hands
+are covered with ink, and the lettering is sloppy, but he continues his work in
+hopes of one day becoming a mage.    
+~
+10 0 0 0 E
+9 15 7 5d5+130 2d7+1
+81 1300 0
+8 8 1 0
+E
+#11067
+cryptic cheerless elf~
+a cryptic, cheerless elf~
+A cryptic, cheerless elf sits at the table here, awash in darkness.
+~
+   This elf remains silent as you look him over.  He wears a mask of apathy
+over his face, making him completely unreadable, and does not regard your
+presence with even a glance.  A feeling of distrust seems to come from him, and
+you feel as though you may be making him nervous.    
+~
+524318 32808 2097152 -400 E
+12 13 3 6d6+230 2d9+4
+131 5500 1
+8 8 1 0
+BareHandAttack: 8
+E
+#11068
+perky red boy~
+a perky red-headed boy~
+A perky red-headed boy snickers openly at the painting on the wall.
+~
+   Seeming to have a wonder of a time laughing at the amusing depiction of a
+mage on the north wall, this boy rests in one of the chairs in the room.  He
+dons the brown robes of the uninitiated, and has bright red hair not of the
+area.    
+~
+16394 0 0 0 E
+8 15 8 5d5+110 2d6+2
+72 800 0
+8 8 1 0
+E
+#11069
+older student curious~
+an older student with a curious smile~
+An older student rests in a chair here, a curious smile on his face.
+~
+   This young man looks idly at the portrait on the wall, a smile crossing his
+face from time to time at the joke of the entire Academy.  He is tall and
+lanky, with almost no muscle, but has an aire of genius about him that
+certainly would make up for anything lacking physically.    
+~
+524298 0 1 0 E
+10 14 6 5d4+160 2d7+2
+96 1900 1
+8 8 1 0
+E
+#11070
+massive domineering figure~
+a massive domineering figure~
+A massive domineering figure guards the alcove.
+~
+   Over six and a half feet tall and with enough muscle in him to rival an ox,
+this man's very presence here seems to disturb some of the patrons of the
+library.  He guards the books in the area, and helps mind the rest of the
+library, as well.  Under his clothing, a bulge of armor can be seen, and at his
+side, he wears a sword sheath.    
+~
+9504794 32 0 0 E
+19 9 -3 3d20+450 3d6+7
+870 18000 0
+8 8 1 0
+BareHandAttack: 3
+E
+#11071
+visitor library~
+a visitor to the library~
+A visitor wanders around the library, looking over the multitude of tomes.
+~
+   The visitor wanders through the shelves with no real purpose in mind, but
+seems to be impressed at the sheer quantity of books amassed in one room.  
+Occasionally the visitor touches a tome, opens it, and soon returns it to its
+place.    
+~
+8 0 0 0 E
+9 15 7 5d5+130 2d7+1
+85 1300 0
+8 8 1 0
+E
+#11072
+inquisitive student brown~
+an inquistive student in brown robes~
+An inquisitive student in brown robes tries to find a book on the shelves.
+~
+   This young girl seems to be searching for a specific volume on the shelves
+of the library, moving quickly over the titles to find what she needs.  Her
+eyes have some urgency to them, as though she may need to finish something
+quickly or face the consequences of finishing her research late.    
+~
+8 0 0 0 E
+8 15 8 5d5+110 2d6+2
+81 800 0
+8 8 2 0
+E
+#11073
+thin gangly adolescent~
+a thin and gangly adolescent~
+A thin and gangly adolescent sits at a table, looking through several volumes.
+~
+   This thin young man looks to be undernourished, though it is more likely
+just the build of his body.  With bags under his eyes formed from long hours
+reading and little sleeping, he continues his work, though half-heartedly.    
+~
+10 0 2 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 1
+8 8 0 0
+E
+#11074
+delusen master~
+Delusen, Master of the Academy~
+Delusen, Master of the Academy, sits behind his desk, lost in thought.
+~
+   An archmagus is a rare sight indeed, and this man is no exception.  His
+greyed hair hangs down to his elegant, brocaded white robe, and a warm, cracked
+smile fills his shining blue eyes as much as it touches his lips.  With great
+majesty he speaks, though his voice is no more than a murmur at times, and his
+outward appearance is utterly compassionate, so much that it could be taken --
+although foolishly so -- for weakness.    
+~
+587786 4136 92275008 0 E
+21 7 -5 3d35+470 3d8+6
+1210 34100 1
+8 8 1 0
+BareHandAttack: 12
+E
+#11075
+aaral tainted shade cloud black~
+the tainted shade of Aaral~
+Billowing like a cloud of pure black, the shade of the Necromancer Aaral emerges!
+~
+   The dark cloud in front of you gives off an insidious, black light that
+bathes all around it in shadow.  Swirling about as if to absorb your very soul,
+it has no other purpose in mind other than to see your life end here in utter
+pain, a pain which cannot begin to match the unimaginable terrors the shade
+endures each passing moment as its torture, held between life and death.    
+~
+1826874 73770 186647040 0 E
+27 3 -11 3d33+1100 4d7+8
+1734 145000 1
+8 8 0 0
+BareHandAttack: 11
+E
+#11076
+idle mage~
+an idle mage tending the garden~
+An idle mage tends the garden, smiling as he takes in the heavy air.
+~
+   This mage looks tired after a day of teaching, but thorougly enjoying his
+time in the Academy's small conservatory.  He is older than most, even the
+Master, and looks as though he may retire soon.  He smiles briefly as you look
+at him, then returns to the plants he so loves.    
+~
+10 0 4100 300 E
+13 13 3 6d5+240 2d9+2
+221 6680 1
+8 8 1 0
+E
+#11077
+vehement middle man~
+a vehement middle-aged man~
+A vehement middle-aged man argues with his colleagues enthusiastically.
+~
+   This man seems very involved in a discussion he is having with the others
+around him.  Pointing his hands wildly, he speaks with a loud voice that booms
+against the walls.  The others seem somewhat intimidated by his movements, and
+also strangely amused.    
+~
+10 0 0 -100 E
+11 14 5 5d4+190 2d8+2
+101 2900 0
+8 8 1 0
+E
+#11078
+silent magi irritated~
+a silent magi with an irritated look~
+A silent magi with an irritated look sits at her desk, writing with quick strokes.
+~
+   This woman's cold blue eyes flash with irritation at the loud discussion in
+the room.  She pauses a moment to push her dark hair back with one quick
+movement and give a disapproving glance about the room, unnoticed by the rest.
+Pursing her lips tightly, she returns unwillingly to her work at hand.    
+~
+10 0 8388608 -400 E
+12 13 4 5d6+210 2d8+3
+167 4700 1
+8 8 2 0
+E
+#11099
+wanderer soulless~
+a soulless wanderer~
+A soulless wanderer shivers with the force exerted in maintaining its existence.
+~
+   This dark entity must surely be from some other plane.  Its faint,
+translucent appearance is terrifying to look upon, and even as its form holds
+itself together, it rips itself in two and reforms again like a mist.    
+~
+1230872 42 0 -850 E
+20 8 -4 3d20+440 3d7+6
+0 25000 10
+8 8 0 0
+BareHandAttack: 9
+E
+$

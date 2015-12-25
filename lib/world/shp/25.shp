@@ -1,0 +1,60 @@
+CircleMUD v3.0 Shop File~
+#2535~
+2012
+2503
+-1
+1.00
+0.60
+10monastery
+19tomato corn
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+1
+2507
+0
+2540
+-1
+1
+28
+0
+0
+1
+38
+#2540~
+2525
+2524
+2523
+2503
+-1
+1.00
+1.00
+10
+2
+19
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+0
+0
+-1
+0
+28
+0
+0
+1
+38
+$~

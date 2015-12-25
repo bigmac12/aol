@@ -1,0 +1,2238 @@
+#10000
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  One of the largest buildings is the city towers
+to the east.  It is apparently a large apartment complex, with many small
+windows looking out over the city's walls.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10001
+D1
+~
+~
+0 0 10185
+D2
+~
+~
+0 0 10014
+S
+#10001
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  One of Kalaman's great stone walls lies directly
+to the west of you, the wall is an average of ten feet tall, with notched
+ramparts on the outer face of the wall.  Guards roam along the top of the wall,
+watching over the city and protecting it from a surprise attack.    
+~
+100 8192 1 0 0
+D0
+~
+~
+0 0 10002
+D1
+~
+~
+0 0 10184
+D2
+~
+~
+0 0 10000
+S
+#10002
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10003
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 10001
+S
+#10003
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  One of Kalaman's great stone walls lies directly
+to the west of you, the wall is an average of ten feet tall, with notched
+ramparts on the outer face of the wall.  Guards roam along the top of the wall,
+watching over the city and protecting it from a surprise attack.  --A metal
+grate sits in the middle of the road here occasionally giving off noxious
+vapors and collecting rain water.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10004
+D1
+~
+~
+0 0 10162
+D2
+~
+~
+0 0 10002
+D5
+~
+grate~
+1 0 2944
+S
+#10004
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  One of Kalaman's great stone walls lies directly
+to the west of you, and at this point in the wall a great stone tower reaches
+towards the sky.  The top of this tower is one of the highest points in
+Kalaman, matched only by its fellows at the north and south gates, and dwarfed
+by the Temple of Paladine's great tower to the north of Turbidus Square.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10005
+D2
+~
+~
+0 0 10003
+S
+#10005
+Intersection of Dargaard Road and Huma Lane~
+   You stand at the intersection of the western most road of Kalaman, Dargaard
+Road, and the central road, Huma Lane.  Directly to the west a great gate looms
+ominously, guarding the western entrance of the city.  A short way down Huma
+Lane, to the east, you can barely make out Turbidus Square, the focal point of
+the city.  Guards roam the walls around and above the gate, watching over the
+city.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10006
+D1
+~
+~
+0 0 10071
+D2
+~
+~
+0 0 10004
+D3
+~
+~
+0 0 10170
+S
+#10006
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  One of Kalaman's great stone walls lies directly
+to the west of you, the wall is an average of ten feet tall, with notched
+ramparts on the outer face of the wall.  Guards roam along the top of the wall,
+watching over the city and protecting it from a surprise attack.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10007
+D2
+~
+~
+0 0 10005
+D3
+~
+~
+0 0 10186
+S
+#10007
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  One of Kalaman's great stone walls lies directly
+to the west of you, the wall is an average of ten feet tall, with notched
+ramparts on the outer face of the wall.  Guards roam along the top of the wall,
+watching over the city and protecting it from a surprise attack.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10008
+D2
+~
+~
+0 0 10006
+S
+#10008
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  One of Kalaman's great stone walls lies directly
+to the west of you, the wall is an average of ten feet tall, with notched
+ramparts on the outer face of the wall.  Guards roam along the top of the wall,
+watching over the city and protecting it from a surprise attack.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10009
+D2
+~
+~
+0 0 10007
+S
+#10009
+Intersection of Dargaard Road and Sword Street~
+   This is the intersection of Kalaman's western most walkway, Dargaard Road,
+and a road known as Sword Street, named for the order of Knights of Solamnia.
+Sword Street travels east for a short distance before it ends in a small group
+of buildings housing, among other things, an outpost of The Knights of
+Solamnia.  To the west a ten foot tall wall protects the city from roaming
+rogues and barbarians.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10010
+D1
+~
+~
+0 0 10051
+D2
+~
+~
+0 0 10008
+S
+#10010
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  One of Kalaman's great stone walls lies directly
+to the west of you, the wall is an average of ten feet tall, with notched
+ramparts on the outer face of the wall.  Guards roam along the top of the wall,
+watching over the city and protecting it from a surprise attack.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10011
+D2
+~
+~
+0 0 10009
+S
+#10011
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  A gap in the buildings to the east is a dark,
+narrow, alley.  Occaisionally a drunk stumbles forth from it, but oddly mages
+enter it far more often.  No one is quite sure why mages are constantly
+entering the alley, perhaps the have a secret meeting place hidden off of it.
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10012
+D1
+~
+~
+0 0 10091
+D2
+~
+~
+0 0 10010
+S
+#10012
+Dargaard Road~
+   You are walking along Dargaard Road on the western side of Kalaman.  The
+streets of this seaport city are made of ground sea shells pressed into stone
+mortar.  Many different and beautiful colors of shell are dispersed throughout
+the city streets, sometimes they are formed into wondrous designs of sea
+creatures and sailing ships.  One of Kalaman's great stone walls lies directly
+to the west of you, the wall is an average of ten feet tall, with notched
+ramparts on the outer face of the wall.  Guards roam along the top of the wall,
+watching over the city and protecting it from a surprise attack.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10013
+D2
+~
+~
+0 0 10011
+S
+#10013
+Intersection of Dargaard Road and Caergoth Lane~
+   This is the northwestern corner of the city, at the intersection of Dargaard
+Road, the western most street in Kalaman, and the winding, northern, Caergoth
+Lane.  The northern wall of the city, unlike the others, is a winding wall,
+with an inward dip towards the middle of the city.  Guards walk slowly along
+it, protecting the city from dangerous outsiders.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10050
+D2
+~
+~
+0 0 10012
+S
+#10014
+Intersection of Dargaard Road and Garnet Street~
+   This is the southwestern corner of Kalaman, at the intersection of Dargaard
+Road and Garnet Street.  This is actually a rather drab and boring portion of
+the city, being located far to the west of the docks, and south of market
+square.  The southwest district consists mostly of homes of it's typical
+citizens, just normal people going about their lives, without the worries of
+great adventurers and seafaring traders.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10000
+D1
+~
+~
+0 0 10015
+S
+#10015
+Garnet Street~
+   This is the southern most street in Kalaman, stretching from Dargaard Road
+along the western wall to Crown Street and the docks.  To the south is a great
+ten foot tall wall that guards patrol constantly, keeping a steady eye on the
+city and the surrounding area.  This southern road is named after the dwarven
+province of Garnet that considers itself a sovereign province, but is strongly
+loyal to Solamnia.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10016
+D3
+~
+~
+0 0 10014
+S
+#10016
+Garnet Street~
+   This is the southern most street in Kalaman, stretching from Dargaard Road
+along the western wall to Crown Street and the docks.  To the south is a great
+ten foot tall wall that guards patrol constantly, keeping a steady eye on the
+city and the surroundings.
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 10017
+D3
+~
+~
+0 0 10015
+S
+#10017
+Garnet Street~
+   This is the southern most street in Kalaman, stretching from Dargaard Road
+along the western wall to Crown Street and the docks.  To the south is a great
+tower, looking out over the plains to the south of the city.  The tower is,
+along with its fellows at the north and west gates, almost as tall as the tower
+from the Temple of Paladine in the center of the city.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10018
+D2
+~
+~
+0 0 10181
+D3
+~
+~
+0 0 10016
+S
+#10018
+Intersection of Rose Avenue and Garnet Street~
+   This is the intersection of the southern most street of Kalaman and the
+central north-south street of the city, Rose Avenue, named after the order of
+Solamnic Knights.  To the north Rose Street travels through Turbidus Square,
+the central point of Kalaman.  To the south one of the city's great gates
+stands strong against any threat from the outside.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10070
+D1
+~
+~
+0 0 10019
+D2
+~
+~
+0 0 10171
+D3
+~
+~
+0 0 10017
+S
+#10019
+Garnet Street~
+   This is the southern most street in Kalaman, stretching from Dargaard Road
+along the western wall to Crown Street and the docks.  To the south is a great
+ten foot tall wall that guards patrol constantly, keeping a steady eye on the
+city and the surrounding area.  This southern road is named after the dwarven
+province of Garnet that considers itself a sovereign province, but is strongly
+loyal to Solamnia.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10020
+D3
+~
+~
+0 0 10018
+S
+#10020
+Garnet Street~
+   This is the southern most street in Kalaman, stretching from Dargaard Road
+along the western wall to Crown Street and the docks.  To the south is a great
+ten foot tall wall that guards patrol constantly, keeping a steady eye on the
+city and the surrounding area.  This southern road is named after the dwarven
+province of Garnet that considers itself a sovereign province, but is strongly
+loyal to Solamnia.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10021
+D3
+~
+~
+0 0 10019
+S
+#10021
+Garnet Street~
+   This is the southern most street in Kalaman, stretching from Dargaard Road
+along the western wall to Crown Street and the docks.  To the south is a great
+ten foot tall wall that guards patrol constantly, keeping a steady eye on the
+city and the surrounding area.  This southern road is named after the dwarven
+province of Garnet that considers itself a sovereign province, but is strongly
+loyal to Solamnia.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10022
+D3
+~
+~
+0 0 10020
+S
+#10022
+Garnet Street~
+   This is the southern most street in Kalaman, stretching from Dargaard Road
+along the western wall to Crown Street and the docks.  To the south is a great
+ten foot tall wall that guards patrol constantly, keeping a steady eye on the
+city and the surrounding area.  This southern road is named after the dwarven
+province of Garnet that considers itself a sovereign province, but is strongly
+loyal to Solamnia.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10084
+D1
+~
+~
+0 0 10023
+D3
+~
+~
+0 0 10021
+S
+#10023
+Garnet Street~
+   This is the southern most street in Kalaman, stretching from Dargaard Road
+along the western wall to Crown Street and the docks.  To the south is a great
+ten foot tall wall that guards patrol constantly, keeping a steady eye on the
+city and the surrounding area.  To the north lies what once could have been an
+inn, but now proudly displays the heraldic symbol of the Knights of Solamnia
+over the door.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10122
+D1
+~
+~
+0 0 10024
+D3
+~
+~
+0 0 10022
+S
+#10024
+Intersection of Crown Street and Garnet Street~
+   This is the southeastern corner of the city proper, but the docks stretch
+from here all the way east to the bay.  Garnet Street stretches all the way
+west to the western wall of Kalaman.  Crown Street, named after the primary
+order of the Solamnic Knights, leads northward, ending in Market Square.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10025
+D3
+~
+~
+0 0 10023
+S
+#10025
+Crown Street~
+   Crown Street is the eastern border of Kalaman proper, to the east of it the
+docks and their respective warehouses, taverns, and inns, fill the area up to
+the bay.  Crown Street ends in the north at Market Square, and to the south in
+Garnet Street.  A balcony from the building to the west, extends out over the
+street and a dilapidated sign hangs from the wall.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10026
+D2
+~
+~
+0 0 10024
+E
+dilapidated sign~
+   A dilapidated advertising board hangs from the building to the west.  The
+paint has flaked and faded from the sign but it still readable on close
+inspection.  The sign says, 'Welcome to the Gentle Sea-elf'.    
+~
+S
+#10026
+Crown Street~
+   Crown Street is the eastern border of Kalaman proper, to the east of it the
+docks and their respective warehouses, taverns, and inns, fill the area up to
+the bay.  Crown Street ends in the north at Market Square, and to the south in
+Garnet Street.  A narrow passage between two large buildings lies to the west.
+This dark alley, known to citizens of Kalaman as 'Cat Alley', is regularly
+walked by large patrols of the city guard, in order to keep the gangs of street
+toughs that once ran it from taking over again.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10027
+D2
+~
+~
+0 0 10025
+S
+#10027
+Crown Street~
+   Crown Street is the eastern border of Kalaman proper, to the east of it the
+docks and their respective warehouses, taverns, and inns, fill the area up to
+the bay.  Crown Street ends in the north at Market Square, and to the south in
+Garnet Street.  No wall stands to the east of the city, citizens rely on the
+bay itself to protect them from attack, but fear attack by water.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10029
+D2
+~
+~
+0 0 10026
+S
+#10028
+Crown Street~
+   Crown Street is the eastern border of Kalaman proper, to the east of it the
+docks and their respective warehouses, taverns, and inns, fill the area up to
+the bay.  Crown Street ends in the north at Market Square, and to the south in
+Garnet Street.  No wall stands to the east of the city, citizens rely on the
+bay itself to protect them from attack, but fear attack by water.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10032
+D2
+~
+~
+0 0 10031
+S
+#10029
+Crown Street~
+   Crown Street is the eastern border of Kalaman proper, to the east of it the
+docks and their respective warehouses, taverns, and inns, fill the area up to
+the bay.  Crown Street ends in the north at Market Square, and to the south in
+Garnet Street.  No wall stands to the east of the city, citizens rely on the
+bay itself to protect them from attack, but fear attack by water.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10030
+D2
+~
+~
+0 0 10027
+S
+#10030
+Crown Street~
+   Crown Street is the eastern border of Kalaman proper, to the east of it the
+docks and their respective warehouses, taverns, and inns, fill the area up to
+the bay.  Crown Street ends in the north at Market Square, and to the south in
+Garnet Street.  A massive building lies to the west, with a large set of oak
+doors painted bright blue.  It is apparently a warehouse, where one can rent
+space to store goods for extended periods of time.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10031
+D2
+~
+~
+0 0 10029
+D3
+~
+~
+0 0 10166
+S
+#10031
+Intersection of Crown Street and Huma Lane~
+   This intersection of Crown Street, which leads north to Market Square or
+south to Garnet Street, and Huma Lane, which leads through Turbidus Square to
+Dargaard Road to the west and east into the docks, is one of Kalaman's main
+intersections.  Through this meeting of roads travel all goods coming into the
+city through the docks and all goods leaving the city through the docks.  Most
+goods brought into the city are taken north from here, to be sold in Market
+Square to land dwelling merchants.  A large grate here in the middle of the
+road collects rainwater and redirects it into the sewers under Kalaman.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10028
+D1
+~
+~
+0 0 9812
+D2
+~
+~
+0 0 10030
+D3
+~
+~
+0 0 10076
+D5
+~
+grate~
+1 0 2910
+S
+#10032
+Crown Street~
+   Crown Street is the eastern border of Kalaman proper, to the east of it the
+docks and their respective warehouses, taverns, and inns, fill the area up to
+the bay.  Crown Street ends in the north at Market Square, and to the south in
+Garnet Street.  The small non-descript building to the west is known to be the
+home of a retired sailor, one who is willing to pass on his knowledge to those
+who are willing to learn.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10033
+D2
+~
+~
+0 0 10028
+D3
+~
+~
+0 0 10167
+S
+#10033
+Crown Street~
+   Crown Street is the eastern border of Kalaman proper, to the east of it the
+docks and their respective warehouses, taverns, and inns, fill the area up to
+the bay.  Crown Street ends in the north at Market Square, and to the south in
+Garnet Street.  No wall stands to the east of the city, citizens rely on the
+bay itself to protect them from attack, but fear attack by water.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10034
+D2
+~
+~
+0 0 10032
+S
+#10034
+Crown Street~
+   Crown Street is the eastern border of Kalaman proper, to the east of it the
+docks and their respective warehouses, taverns, and inns, fill the area up to
+the bay.  Crown Street ends in the north at Market Square, and to the south in
+Garnet Street.  No wall stands to the east of the city, citizens rely on the
+bay itself to protect them from attack, but fear attack by water.  The road
+begins to widen here, opening gradually into the great market square, where
+most of the goods brought into Kalaman through the docks are bought and sold,
+and sometimes stolen.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10035
+D2
+~
+~
+0 0 10033
+S
+#10035
+Southeastern Corner of Market Square~
+   The Market Square of Kalaman is in the city's northeastern corner, near the
+docks.  Goods and coins fly from owner to owner constantly through this jumbled
+array of brightly colored tents and merchants booths.  Silks, carvings,
+weapons, gems, spices nearly anything you could possibly want can be found here
+in northern Solamnia's main port city.  Crown Street leads south from here,
+travelling all the way to the south wall of Kalaman.  A tantalizing aroma wafts
+out of the open door of the small bakery to the east.  The bakery's glass
+window displays many wonderful looking baked goods, including pies, cakes,
+breads, and a strange little cake shaped like a ring.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10037
+D1
+~
+~
+0 0 10180
+D2
+~
+~
+0 0 10034
+D3
+~
+~
+0 0 10036
+S
+#10036
+Southwestern Corner of Market Square~
+   The Market Square of Kalaman is in the city's northeastern corner, near the
+docks.  Goods and coins fly from owner to owner constantly through this jumbled
+array of brightly colored tents and merchants booths.  Silks, carvings,
+weapons, gems, spices nearly anything you could possibly want can be found here
+in northern Solamnia's main port city.  Two signs hang from heavy steel chains
+here.  The one to the south has a painting of two crossed swords on it while
+the one to the west has a painting of a large shield.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10038
+D1
+~
+~
+0 0 10035
+D2
+~
+~
+0 0 10157
+D3
+~
+~
+0 0 10115
+S
+#10037
+Eastern Side of Market Square~
+   The Market Square of Kalaman is in the city's northeastern corner, near the
+docks.  Goods and coins fly from owner to owner constantly through this jumbled
+array of brightly colored tents and merchants booths.  Silks, carvings,
+weapons, gems, spices nearly anything you could possibly want can be found here
+in northern Solamnia's main port city.  Guards cautiously eye a small group of
+kender wandering through the market, making certain nothing 'falls into their
+pockets'.  Traders jump out of the group's path, grabbing whatever they can of
+their merchandise with them.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10039
+D1
+~
+~
+0 0 10158
+D2
+~
+~
+0 0 10035
+D3
+~
+~
+0 0 10038
+S
+#10038
+Western Side of Market Square~
+   The Market Square of Kalaman is in the city's northeastern corner, near the
+docks.  Goods and coins fly from owner to owner constantly through this jumbled
+array of brightly colored tents and merchants booths.  Silks, carvings,
+weapons, gems, spices nearly anything you could possibly want can be found here
+in northern Solamnia's main port city.  Quill Lane follows a westward course in
+its path to Kalaman's west wall from here.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10040
+D1
+~
+~
+0 0 10037
+D2
+~
+~
+0 0 10036
+D3
+~
+~
+0 0 10041
+S
+#10039
+Northeastern Corner of Market Square~
+   The Market Square of Kalaman is in the city's northeastern corner, near the
+docks.  Goods and coins fly from owner to owner constantly through this jumbled
+array of brightly colored tents and merchants booths.  Silks, carvings,
+weapons, gems, spices nearly anything you could possibly want can be found here
+in northern Solamnia's main port city.  To the east Caergoth Lane travels
+cautiously into the city's docks, where course sailors and dockhands prowl at
+night.  A sign hanging off the store to the north shows a lantern resting on
+top of a backpack.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10160
+D1
+~
+~
+0 0 9800
+D2
+~
+~
+0 0 10037
+D3
+~
+~
+0 0 10040
+S
+#10040
+Northwestern Corner of Market Square~
+   The Market Square of Kalaman is in the city's northeastern corner, near the
+docks.  Goods and coins fly from owner to owner constantly through this jumbled
+array of brightly colored tents and merchants booths.  Silks, carvings,
+weapons, gems, spices nearly anything you could possibly want can be found here
+in northern Solamnia's main port city.  To the north Caergoth Lane leads to
+Kalaman's north gate, and through that into the wilds beyond the city walls.  
+The door of the building to the west bears a beautiful painting of a lady
+wearing a finely made gown, and a man looking dashing in a well tailored suit.
+~
+100 4 1 0 0
+D0
+~
+~
+0 0 10098
+D1
+~
+~
+0 0 10039
+D2
+~
+~
+0 0 10038
+D3
+~
+~
+0 0 10161
+S
+#10041
+Quill Lane~
+   Quill lane runs from market square to the east to Dargaard Road on the west.
+Several buildings and shops line both sides of it raising up like stone walls
+puntuated by the occasional door.  Recently a few mages and scholars have taken
+over some of the buildings for use as places to sell their magical wares and
+scholarly skills.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10038
+D3
+~
+~
+0 0 10042
+S
+#10042
+Quill Lane~
+   Quill lane runs from market square to the east to Dargaard Road on the west.
+Several buildings and shops line both sides of it raising up like stone walls
+puntuated by the occasional door.  Recently a few mages and scholars have taken
+over some of the buildings for use as places to sell their magical wares and
+scholarly skills.  The imposing steel doors of Kalaman Gaol are firmly set into
+the southern wall and a bell chain hangs next to them.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10041
+D2
+   Two large steel doors, embossed with the symbol of the city, are set into
+the southern wall.    
+
+ Visitors should ring the bell for assistance.
+~
+doors~
+2 0 10150
+D3
+~
+~
+0 0 10043
+S
+T 10016
+#10043
+Quill Lane~
+   Quill lane runs from market square to the east to Dargaard Road on the west.
+Several buildings and shops line both sides of it raising up like stone walls
+punctuated by the occasional door.  Recently a few mages and scholars have
+taken over some of the buildings for use as places to sell their magical wares
+and scholarly skills.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10042
+D3
+~
+~
+0 0 10045
+S
+#10044
+A Small Plaza~
+   When a fire burned down the buildings which used to stand here the city
+decided to make a small plaza for people to rest in.  Large stones cover the
+area, each one decorated with intricate geometrical carvings spiraling in
+towards the center of the plaza to a small grate.  A fountain sits just off to
+the west side of the plaza.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10047
+D2
+~
+~
+0 0 10054
+D5
+~
+grate~
+1 0 2965
+S
+#10045
+Quill Lane~
+   Quill lane runs from market square to the east to Dargaard Road on the west.
+Several buildings and shops line both sides of it raising up like stone walls
+puntuated by the occasional door.  Recently a few mages and scholars have taken
+over some of the buildings for use as places to sell their magical wares and
+scholarly skills.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10043
+D3
+~
+~
+0 0 10054
+S
+#10046
+Caergoth Lane~
+   Caergoth Lane is a winding road running alongside the northern wall of
+Kalaman.  In the east it ends in Market Square, then it dodges Rose Avenue on
+it's way to it's end in Dargaard Road along the western wall of the city.  
+This road is named after Kalaman's southern counterpart, the great port town
+capital of Southlund.  Guards casually saunter along the ten foot high wall to
+the north of Caergoth Lane.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10189
+D1
+~
+~
+0 0 10087
+D3
+~
+~
+0 0 10047
+S
+#10047
+Caergoth Lane~
+   Caergoth Lane is a winding road running alongside the northern wall of
+Kalaman.  In the east it ends in Market Square, then it dodges Rose Avenue on
+it's way to it's end in Dargaard Road along the western wall of the city.  
+This road is named after Kalaman's southern counterpart, the great port town
+capital of Southlund.  Guards casually saunter along the ten foot high wall to
+the north of Caergoth Lane.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10046
+D2
+~
+~
+0 0 10044
+D3
+~
+~
+0 0 10048
+S
+#10048
+The Grove of Harian~
+   Caergoth Lane is a winding road running alongside the northern wall of
+Kalaman.  The road widens a bit here, to make room for a small grove of walnut
+trees right in the middle of it.  This grove, known as the Grove of Harian, is
+where a stoic knight of the Empire of Ergoth bravely fought off the onslaught
+of a tribe of barbarians from the east, long before Kalaman was built here.  
+The builders of this city decided to leave the grove here, in his honor.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10047
+D3
+~
+~
+0 0 10049
+S
+#10049
+Caergoth Lane~
+   Caergoth Lane is a winding road running alongside the northern wall of
+Kalaman.  In the east it ends in Market Square, then it dodges Rose Avenue on
+it's way to it's end in Dargaard Road along the western wall of the city.  
+This road is named after Kalaman's southern counterpart, the great port town
+capital of Southlund.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10195
+D1
+~
+~
+0 0 10048
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 10050
+S
+#10050
+Caergoth Lane~
+   Caergoth Lane is a winding road running alongside the northern wall of
+Kalaman.  In the east it ends in Market Square, then it dodges Rose Avenue on
+it's way to it's end in Dargaard Road along the western wall of the city.  
+This road is named after Kalaman's southern counterpart, the great port town
+capital of Southlund.  Guards casually saunter along the ten foot high wall to
+the north of Caergoth Lane.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10194
+D1
+~
+~
+0 0 10049
+D3
+~
+~
+0 0 10013
+S
+#10051
+Sword Street~
+   Sword Street is a short street stretching from Dargaard Road to Rose Avenue.
+The road itself is named after the secondary order of the Knights of Solamnia,
+who are led by The High Clerist himself.  Many roads in Kalaman were renamed
+after the city became allied with the honorable knights, to reflect the
+citizen's gratitude Vinas Solamnus and his knights for freeing them from the
+opression of the Emporer of Ergoth.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10052
+D3
+~
+~
+0 0 10009
+S
+#10052
+Sword Street~
+   Sword Street is a short street stretching from Dargaard Road to Rose Avenue.
+The road itself is named after the secondary order of the Knights of Solamnia,
+who are led by The High Clerist himself.  A sign hanging over the door to the
+south is painted with a pile of glimmering gold coins, obviously this is the
+Kalaman Branch of The First Federal Bank of Northern Solamnia.  A large
+residence, its front door wide open, sits to the north.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 9828
+D1
+~
+~
+0 0 10053
+D2
+~
+~
+0 0 10159
+D3
+~
+~
+0 0 10051
+S
+#10053
+Sword Street~
+   Sword Street is a short street stretching from Dargaard Road to Rose Avenue.
+The road itself is named after the secondary order of the Knights of Solamnia,
+who are led by The High Clerist himself.  Many roads in Kalaman were renamed
+after the city became allied with the honorable knights, to reflect the
+citizen's gratitude Vinas Solamnus and his knights for freeing them from the
+opression of the Emporer of Ergoth.    
+~
+100 32768 1 0 0
+D1
+~
+~
+0 0 10056
+D2
+~
+~
+0 0 10114
+D3
+~
+~
+0 0 10052
+S
+#10054
+Intersection of Quill Lane and Rose Avenue~
+   Quill Lane's east to west path is intersected here by Rose Avenue.  Just to
+the north is a small plaza where weary travelers can rest or local scholars
+sometimes meet for debates or discussions.  To the south the temple of Paladine
+raises its spire up towards the heavens.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10044
+D1
+~
+~
+0 0 10045
+D2
+~
+~
+0 0 10055
+D3
+~
+~
+0 0 10101
+S
+#10055
+Rose Avenue~
+   This majestic road, Rose Avenue, stretches from Caergoth Lane in the north
+to Garnet Street in the south, travelling directly through Turbidus Square, at
+the very heart of the city.  Rose Avenue passes by the city's main Temple,
+which is devoted to the great god Paladine.  Rose Avenue itself is named after
+the greatest order of the Knights of Solamnia, an order that is grounded in
+honor guided by justice and wisdom, the Knights of The Rose.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10054
+D2
+~
+~
+0 0 10056
+S
+#10056
+Rose Avenue~
+   This majestic road, Rose Avenue, stretches from Caergoth Lane in the north
+to Garnet Street in the south, travelling directly through Turbidus Square, at
+the very heart of the city.  Rose Avenue passes by the city's main Temple,
+which is devoted to the great god Paladine.  Rose Avenue itself is named after
+the greatest order of the Knights of Solamnia, an order that is grounded in
+honor guided by justice and wisdom, the Knights of The Rose.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10055
+D2
+~
+~
+0 0 10057
+D3
+~
+~
+0 0 10053
+S
+#10057
+Rose Avenue~
+   This majestic road, Rose Avenue, stretches from Caergoth Lane in the north
+to Garnet Street in the south, travelling directly through Turbidus Square, at
+the very heart of the city.  Rose Avenue passes by the city's main Temple,
+which is devoted to the great god Paladine.  A small staircase is set into the
+temple wall here, leading up to the second floor of the temple, where the
+priests care for the homeless of Kalaman.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10056
+D2
+~
+~
+0 0 10058
+D4
+~
+~
+0 0 9961
+S
+#10058
+Rose Avenue~
+   This majestic road, Rose Avenue, stretches from Caergoth Lane in the north
+to Garnet Street in the south, travelling directly through Turbidus Square, at
+the very heart of the city.  Rose Avenue passes by the city's main Temple,
+which is devoted to the great god Paladine.  A large wooden gate looms to the
+west, guarding the entrance to the Temple of Paladine in case of an attack on
+the city.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10057
+D2
+~
+~
+0 0 10060
+D3
+~
+~
+0 0 9901
+S
+#10059
+Northwest Corner of Turbidus Square~
+   Turbidus Square is the focal point of Kalaman.  It is named after the great
+Turbidus Ocean, which lies to the north and west of Ansalon.  The seafaring
+merchants of this port city owe their livelihood to the grace of the Ocean, and
+so they honor it as the focal point of their city.  The square itself is paved
+in white seashells, unlike the rest of the city's multi-colored pavement.  A
+grand fountain stands in the center of the square, and it is said that those
+who drink from it before journeying upon Turbidus Ocean will be safe on their
+journey.  The grand temple to Paladine lies immediately to the north.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 9900
+D1
+~
+~
+0 0 10060
+D2
+~
+~
+0 0 10064
+S
+#10060
+North Side of Turbidus Square~
+   Turbidus Square is the focal point of Kalaman.  It is named after the great
+Turbidus Ocean, which lies to the north and west of Ansalon.  The seafaring
+merchants of this port city owe their livelihood to the grace of the Ocean, and
+so they honor it as the focal point of their city.  The square itself is paved
+in white seashells, unlike the rest of the city's multi-colored pavement.  A
+grand fountain stands in the center of the square, and it is said that those
+who drink from it before journeying upon Turbidus Ocean will be safe on their
+journey.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10058
+D1
+~
+~
+0 0 10061
+D2
+~
+~
+0 0 10063
+D3
+~
+~
+0 0 10059
+S
+#10061
+Northeastern Corner of Turbidus Square~
+   Turbidus Square is the focal point of Kalaman.  It is named after the great
+Turbidus Ocean, which lies to the north and west of Ansalon.  The seafaring
+merchants of this port city owe their livelihood to the grace of the Ocean, and
+so they honor it as the focal point of their city.  The square itself is paved
+in white seashells, unlike the rest of the city's multi-colored pavement.  A
+grand fountain stands in the center of the square, and it is said that those
+who drink from it before journeying upon Turbidus Ocean will be safe on their
+journey.    
+~
+100 32768 1 0 0
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 10062
+D3
+~
+~
+0 0 10060
+S
+#10062
+Eastern Side of Turbidus Square~
+   Turbidus Square is the focal point of Kalaman.  It is named after the great
+Turbidus Ocean, which lies to the north and west of Ansalon.  The seafaring
+merchants of this port city owe their livelihood to the grace of the Ocean, and
+so they honor it as the focal point of their city.  The square itself is paved
+in white seashells, unlike the rest of the city's multi-colored pavement.  A
+grand fountain stands in the center of the square, and it is said that those
+who drink from it before journeying upon Turbidus Ocean will be safe on their
+journey.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10061
+D1
+~
+~
+0 0 10073
+D2
+~
+~
+0 0 10089
+D3
+~
+~
+0 0 10063
+S
+#10063
+Center of Turbidus Square~
+   Turbidus Square is the focal point of Kalaman.  It is named after the great
+Turbidus Ocean, which lies to the north and west of Ansalon.  The seafaring
+merchants of this port city owe their livelihood to the grace of the Ocean, and
+so they honor it as the focal point of their city.  The square itself is paved
+in white seashells, unlike the rest of the city's multi-colored pavement.  A
+grand fountain stands in center of the square, and it is said that those who
+drink from it before journeying upon Turbidus Ocean will be safe on their
+journey.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10060
+D1
+~
+~
+0 0 10062
+D2
+~
+~
+0 0 10066
+D3
+~
+~
+0 0 10064
+S
+#10064
+Western Side of Turbidus Square~
+   Turbidus Square is the focal point of Kalaman.  It is named after the great
+Turbidus Ocean, which lies to the north and west of Ansalon.  The seafaring
+merchants of this port city owe their livelihood to the grace of the Ocean, and
+so they honor it as the focal point of their city.  The square itself is paved
+in white seashells, unlike the rest of the city's multi-colored pavement.  A
+grand fountain stands in the center of the square, and it is said that those
+who drink from it before journeying upon Turbidus Ocean will be safe on their
+journey.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10059
+D1
+~
+~
+0 0 10063
+D2
+~
+~
+0 0 10065
+D3
+~
+~
+0 0 10072
+S
+#10065
+Southwest Corner of Turbidus Square~
+   Turbidus Square is the focal point of Kalaman.  It is named after the great
+Turbidus Ocean, which lies to the north and west of Ansalon.  The seafaring
+merchants of this port city owe their livelihood to the grace of the Ocean, and
+so they honor it as the focal point of their city.  The square itself is paved
+in white seashells, unlike the rest of the city's multi-colored pavement.  A
+grand fountain stands in the center of the square, and it is said that those
+who drink from it before journeying upon Turbidus Ocean will be safe on their
+journey.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10064
+D1
+~
+~
+0 0 10066
+D3
+~
+~
+0 0 -1
+S
+#10066
+South Side of Turbidus Square~
+   Turbidus Square is the focal point of Kalaman.  It is named after the great
+Turbidus Ocean, which lies to the north and west of Ansalon.  The seafaring
+merchants of this port city owe their livelihood to the grace of the Ocean, and
+so they honor it as the focal point of their city.  The square itself is paved
+in white seashells, unlike the rest of the city's multi-colored pavement.  A
+grand fountain stands in the center of the square, and it is said that those
+who drink from it before journeying upon Turbidus Ocean will be safe on their
+journey.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10063
+D1
+~
+~
+0 0 10089
+D2
+~
+~
+0 0 10067
+D3
+~
+~
+0 0 10065
+S
+#10067
+Rose Avenue~
+   This majestic road, Rose Avenue, stretches from Caergoth Lane in the north
+to Garnet Street in the south, travelling directly through Turbidus Square, at
+the very heart of the city.  Rose Avenue passes by the city's main Temple,
+which is devoted to the great god Paladine.  One of the city's more dangerous
+alleys, Cat Alley, looms darkly between the buildings to the east.  It is not
+recomended that the unwary venture into this dark alley at night.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10066
+D1
+~
+~
+0 0 10078
+D2
+~
+~
+0 0 10068
+S
+#10068
+Rose Avenue~
+   This majestic road, Rose Avenue, stretches from Caergoth Lane in the north
+to Garnet Street in the south, travelling directly through Turbidus Square, at
+the very heart of the city.  Rose Avenue passes by the city's main Temple,
+which is devoted to the great god Paladine.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10067
+D2
+~
+~
+0 0 10069
+D3
+~
+~
+0 0 -1
+S
+#10069
+Rose Avenue~
+   This majestic road, Rose Avenue, stretches from Caergoth Lane in the north
+to Garnet Street in the south, travelling directly through Turbidus Square, at
+the very heart of the city.  Rose Avenue passes by the city's main Temple,
+which is devoted to the great god Paladine.  Rose Avenue itself is named after
+the greatest order of the Knights of Solamnia, an order that is grounded in
+honor guided by justice and wisdom, the Knights of The Rose.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10068
+D2
+~
+~
+0 0 10070
+D3
+~
+~
+0 0 10102
+S
+#10070
+Rose Avenue~
+   This majestic road, Rose Avenue, stretches from Caergoth Lane in the north
+to Garnet Street in the south, travelling directly through Turbidus Square, at
+the very heart of the city.  Rose Avenue passes by the city's main Temple,
+which is devoted to the great god Paladine.  Rose Avenue itself is named after
+the greatest order of the Knights of Solamnia, an order that is grounded in
+honor guided by justice and wisdom, the Knights of The Rose.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10069
+D2
+~
+~
+0 0 10018
+S
+#10071
+Huma Lane~
+   This road, the main east-west path of Kalaman, is named after the legendary
+Solamnic Knight, Huma Dragonbane.  Huma led a group of heroes to destroy the
+evil dragons and drive them from Solamnia.  During their great battle with
+Takhisis, Huma was slain and laid to rest in a great tomb shaped like a silver
+dragon.  Huma Lane travels from the western gate of the city and Dargaard Road
+through the docks on the eastern side of the city.  On it's way through the
+city it passes through Turbidus Square, the center of Kalaman.  To the north
+lies the newly created Kalaman Bath House.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 9970
+D1
+~
+~
+0 0 10072
+D3
+~
+~
+0 0 10005
+S
+#10072
+Huma Lane~
+   This road, the main east-west path of Kalaman, is named after the legendary
+Solamnic Knight, Huma Dragonbane.  Huma led a group of heroes to destroy the
+evil dragons and drive them from Solamnia.  During their great battle with
+Takhisis, Huma was slain and laid to rest in a great tomb shaped like a silver
+dragon.
+~
+100 32768 1 0 0
+D1
+~
+~
+0 0 10064
+D3
+~
+~
+0 0 10071
+S
+#10073
+Huma Lane~
+   This road, the main east-west path of Kalaman, is named after the legendary
+Solamnic Knight, Huma Dragonbane.  Huma led a group of heroes to destroy the
+evil dragons and drive them from Solamnia.  During their great battle with
+Takhisis, Huma was mortally wounded and laid to rest in a great tomb shaped
+like a silver dragon.  The small dwelling to the north is known to be the home
+of a retired Solamnic Knight, one who is willing to teach younger Knights the
+way of honor and justice.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10111
+D1
+~
+~
+0 0 10074
+D3
+~
+~
+0 0 10062
+S
+#10074
+Huma Lane~
+   This road, the main east-west path of Kalaman, is named after the legendary
+Solamnic Knight, Huma Dragonbane.  Huma led a group of heroes to destroy the
+evil dragons and drive them from Solamnia.  During their great battle with
+Takhisis, Huma was slain and laid to rest in a great tomb shaped like a silver
+dragon.  Huma Lane travels from the western gate of the city and Dargaard Road
+through the docks on the eastern side of the city.  On it's way through the
+city it passes through Turbidus Square, the center of Kalaman.    
+~
+100 32768 1 0 0
+D1
+~
+~
+0 0 10075
+D3
+~
+~
+0 0 10073
+S
+#10075
+Huma Lane~
+   This road, the main east-west path of Kalaman, is named after the legendary
+Solamnic Knight, Huma Dragonbane.  Huma led a group of heroes to destroy the
+evil dragons and drive them from Solamnia.  During their great battle with
+Takhisis, Huma was slain and laid to rest in a great tomb shaped like a silver
+dragon.  A row of iron and glass lamps run along the front of the building to
+the north, illuminating the hanging dripping dagger signboard and the entry
+door, which is covered with many bloodstains and weapon scars.  The owner used
+to leave all the weapons that had sunken into it in place as a grisly,
+bristling adornment, but they started proving too handy for those wishing to
+snatch up a weapon and work a little mayhem, and the city watch asked him to
+remove them.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10138
+D1
+~
+~
+0 0 10076
+D2
+~
+~
+0 0 10085
+D3
+~
+~
+0 0 10074
+S
+#10076
+Huma Lane~
+   This road, the main east-west path of Kalaman, is named after the legendary
+Solamnic Knight, Huma Dragonbane.  Huma led a group of heroes to destroy the
+evil dragons and drive them from Solamnia.  During their great battle with
+Takhisis, Huma was slain and laid to rest in a great tomb shaped like a silver
+dragon.  Huma Lane travels from the western gate of the city and Dargaard Road
+through the docks on the eastern side of the city.  On it's way through the
+city it passes through Turbidus Square, the center of Kalaman.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10031
+D3
+~
+~
+0 0 10075
+S
+#10077
+On A Cloud~
+   You find yourself resting comfortably on a large cloud high in the air.  
+Random, jagged, gaps in the cloud allow you to see through it.  A breathtaking
+view of Krynn assails your eyes.  You see the gigantic mountain ranges, the
+great forests, and the expansive plains.  Great rivers flow down from the
+mountains, and the light filtering down from the sun above you glints off of
+them, reflecting up to you.  Great cities can be seen as darker dots upon the
+soft natural colors.  You feel a strange urge to jump down into this great
+world.    
+~
+100 180 2 0 0
+S
+#10078
+Cat Alley~
+   Winding through the interior of the city block bounded by Huma Lane, Rose
+Avenue, Watch Alley, and Garnet Street, this narrow passage has many twists and
+turns.  Many a visitor to the city has become lost in its mud and dark corners.
+Traditionally gangs of street youths have battled for control of this winding
+passage, but in recent years, heavy guard patrols have ended the battles and
+made this a fairly safe place to walk.    
+~
+100 32768 1 0 0
+D1
+~
+~
+0 0 10079
+D3
+~
+~
+0 0 10067
+S
+#10079
+Cat Alley~
+   Winding through the interior of the city block bounded by Huma Lane, Rose
+Avenue, Watch Alley, and Garnet Street, this narrow passage has many twists and
+turns.  Many a visitor to the city has become lost in its mud and dark corners.
+Traditionally gangs of street youths have battled for control of this winding
+passage, but in recent years, heavy guard patrols have ended the battles and
+made this a fairly safe place to walk.    
+~
+100 32768 1 0 0
+D1
+~
+~
+0 0 10080
+D3
+~
+~
+0 0 10078
+S
+#10080
+Cat Alley~
+   Winding through the interior of the city block bounded by Huma Lane, Rose
+Avenue, Watch Alley, and Garnet Street, this narrow passage has many twists and
+turns.  Many a visitor to the city has become lost in its mud and dark corners.
+Traditionally gangs of street youths have battled for control of this winding
+passage, but in recent years, heavy guard patrols have ended the battles and
+made this a fairly safe place to walk.    
+~
+100 0 1 0 0
+D2
+~
+~
+0 0 10081
+D3
+~
+~
+0 0 10079
+D5
+~
+grate~
+1 0 2900
+S
+#10081
+Cat Alley~
+   Winding through the interior of the city block bounded by Huma Lane, Rose
+Avenue, Watch Alley, and Garnet Street, this narrow passage has many twists and
+turns.  Many a visitor to the city has become lost in its mud and dark corners.
+Traditionally gangs of street youths have battled for control of this winding
+passage, but in recent years, heavy guard patrols have ended the battles and
+made this a fairly safe place to walk.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10080
+D1
+~
+~
+0 0 10082
+S
+#10082
+Intersection of Watch Alley and Cat Alley~
+   Although the alley is fairly clean and well kept it has a shady reputation
+and rumors abound about the thieves guild's activities on it.  Here it meets
+with Cat Alley which slowly winds its way to the west.  It is also rumoured
+that it used to be a favorite haunt of the city watch, who used it to keep an
+eye on the infamous Gentle Sea-elf Brothel.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10086
+D2
+~
+~
+0 0 10083
+D3
+~
+~
+0 0 10081
+D8
+~
+door~
+1 0 10104
+S
+#10083
+Watch Alley~
+   Although the alley is fairly clean and well kept it has a shady reputation
+and rumors abound about the thieves guild's activities on it.  To the north it
+meets with Cat Alley which slowly winds its way to the west.  It is also
+rumoured that it used to be a favorite haunt of the city watch, who used it to
+keep an eye on the infamous Gentle Sea-elf Brothel.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10082
+D2
+~
+~
+0 0 10084
+S
+#10084
+Watch Alley~
+   Although the alley is fairly clean and well kept it has a shady reputation
+and rumors abound about the thieves guild's activities on it.  To the north it
+meets with Cat Alley which slowly winds its way to the west.  It is also
+rumoured that it used to be a favorite haunt of the city watch, who used it to
+keep an eye on the infamous Gentle Sea-elf Brothel.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10083
+D2
+~
+~
+0 0 10022
+S
+#10085
+Watch Alley~
+   Although the alley is fairly clean and well kept it has a shady reputation
+and rumors abound about the thieves guild's activities on it.  To the south it
+meets with Cat Alley which slowly winds its way to the west.  It is also
+rumoured that it used to be a favorite haunt of the city watch, who used it to
+keep an eye on the infamous Gentle Sea-elf Brothel.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10075
+D2
+~
+~
+0 0 10086
+S
+#10086
+Watch Alley~
+   Although the alley is fairly clean and well kept it has a shady reputation
+and rumors abound about the thieves guild's activities on it.  To the south it
+meets with Cat Alley which slowly winds its way to the west.  It is also
+rumoured that it used to be a favorite haunt of the city watch, who used it to
+keep an eye on the infamous Gentle Sea-elf Brothel.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10085
+D2
+~
+~
+0 0 10082
+S
+#10087
+Caergoth Lane~
+   Caergoth Lane is a winding road running alongside the northern wall of
+Kalaman.  In the east it ends in Market Square, then it dodges Rose Avenue on
+it's way to it's end in Dargaard Road along the western wall of the city.  
+This road is named after Kalaman's southern counterpart, the great port town
+capital of Southlund.  Guards casually saunter along the ten foot high wall to
+the north of Caergoth Lane.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10190
+D1
+~
+~
+0 0 10088
+D3
+~
+~
+0 0 10046
+S
+#10088
+Caergoth Lane~
+   Caergoth Lane is a winding road running alongside the northern wall of
+Kalaman.  In the east it ends in Market Square, then it dodges Rose Avenue on
+it's way to it's end in Dargaard Road along the western wall of the city.  
+This road is named after Kalaman's southern counterpart, the great port town
+capital of Southlund.  Guards casually saunter along the ten foot high wall to
+the north of Caergoth Lane.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10099
+D3
+~
+~
+0 0 10087
+S
+#10089
+Southeast Corner of Turbidus Square~
+   Turbidus Square is the focal point of Kalaman.  It is named after the great
+Turbidus Ocean, which lies to the north and west of Ansalon.  The seafaring
+merchants of this port city owe their livelihood to the grace of the Ocean, and
+so they honor it as the focal point of their city.  The square itself is paved
+in white seashells, unlike the rest of the city's multi-colored pavement.  A
+grand fountain stands in the center of the square, and it is said that those
+who drink from it before journeying upon Turbidus Ocean will be safe on their
+journey.    
+~
+100 32768 1 0 0
+D0
+~
+~
+0 0 10062
+D2
+~
+~
+0 0 10097
+D3
+~
+~
+0 0 10066
+S
+#10090
+unused~
+   This narrow alley runs through the easternmost block of the city proper,
+emptying into Caergoth Lane at it's northern end.  A famous inn, the House of
+The Flying Kender, once backed onto this alley.  The inn was used by smugglers
+as a clearinghouse for fencing stolen goods and was ultimately shut down by the
+city guard and rebuilt into a more proper establishment.  A treasure of
+unclaimed smuggler's loot is still said to be hidden somewhere around or under
+this alley, which got its name from the number of times smugglers ran full tilt
+down it to escape the city guard in the jumble of Market Square.    
+~
+100 0 1 0 0
+D9
+~
+~
+0 0 -1
+S
+#10091
+Quill Lane~
+   Quill lane runs from market square to the east to Dargaard Road on the west.
+Several buildings and shops line both sides of it raising up like stone walls
+puntuated by the occasional door.  Recently a few mages and scholars have taken
+over some of the buildings for use as places to sell their magical wares and
+scholarly skills.    
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10092
+D3
+~
+~
+0 0 10011
+S
+#10092
+Quill Lane~
+   Quill lane runs from market square to the east to Dargaard Road on the west.
+Several buildings and shops line both sides of it raising up like stone walls
+puntuated by the occasional door.  Recently a few mages and scholars have taken
+over some of the buildings for use as places to sell their magical wares and
+scholarly skills.  Wooden doors stand open to both the north and south here.  
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10199
+D1
+~
+~
+0 0 10101
+D2
+~
+~
+0 0 10121
+D3
+~
+~
+0 0 10091
+S
+#10093
+The Prowl~
+Nothing.
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#10094
+The Prowl~
+Nothing.
+~
+100 0 1 0 0
+D1
+~
+~
+0 0 10093
+D2
+~
+~
+0 0 10095
+D3
+~
+~
+0 0 10097
+S
+#10095
+The Prowl~
+Nothing.
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10094
+D2
+~
+~
+0 0 10096
+S
+#10096
+The Prowl~
+Nothing.
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10095
+D2
+~
+~
+0 0 10016
+S
+#10097
+The Kalaman Chamber of Commerce~
+   The merchants and citizens of Kalaman founded the chamber due to the ever
+increasing number of visitors to the city.  The chamber office is always quite
+busy as new arrivals stop in to get themselves better acquainted with the city.
+The walls are covered with dozens of postings, including a rather large picture
+of a striking kender.  A long counter runs the entire length of the back wall.
+A plaque boasting the history of the city hangs proudly behind the counter.  
+~
+100 32776 0 0 0
+D0
+~
+~
+0 0 10089
+E
+plaque history~
+   The city of Kalaman is considered to be the northeastern jewel of Solamnia.
+Our lovely port town is nestled between Nordmaar and the Estwilde, and on the
+mouth of the Vingaard river.  Our vast trade sea trade rivals all the other
+port cities of Ansalon.    
+~
+E
+picture kender striking~
+The caption below the picture reads, 'Watch out for Trouble!'
+~
+S
+#10098
+Caergoth Lane~
+   Caergoth Lane is a winding road running alongside the northern wall of
+Kalaman.  In the east it ends in Market Square, then it dodges Rose Avenue on
+it's way to it's end in Dargaard Road along the western wall of the city.  
+This road is named after Kalaman's southern counterpart, the great port town
+capital of Southlund.  Guards casually saunter along the ten foot high wall to
+the north of Caergoth Lane.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10191
+D2
+~
+~
+0 0 10040
+D3
+~
+~
+0 0 10099
+S
+#10099
+Caergoth Lane~
+   Caergoth Lane is a winding road running alongside the northern wall of
+Kalaman.  In the east it ends in Market Square, then it dodges Rose Avenue on
+it's way to it's end in Dargaard Road along the western wall of the city.  
+This road is named after Kalaman's southern counterpart, the great port town
+capital of Southlund.  Guards casually saunter along the ten foot high wall to
+the north of Caergoth Lane.    
+~
+100 0 1 0 0
+D0
+~
+~
+0 0 10169
+D1
+~
+~
+0 0 10098
+D3
+~
+~
+0 0 10088
+S
+$~

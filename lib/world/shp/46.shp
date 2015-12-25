@@ -1,0 +1,48 @@
+CircleMUD v3.0 Shop File~
+#4601~
+-1
+1.00
+0.60
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s 0~
+0
+0
+0
+0
+-1
+0
+28
+0
+0
+1
+38
+#4604~
+-1
+1.00
+0.60
+-1
+%s What you see is what we have, I am afraid.~
+%s Check again, I don't believe you have that.~
+%s Ugh, get it away.  I will not buy that.~
+%s I... umm... seem to have run out of change.~
+%s There is no sin in charity, however, you must pay.~
+%s That will be %s.  Enjoy!~
+%s I will give you %s for that item.~
+0
+0
+0
+42
+-1
+0
+28
+0
+0
+1
+18
+$~

@@ -1,0 +1,2122 @@
+#9800
+Caergoth Lane~
+   This part of Caergoth Lane isn't really in the city proper, so most citizens
+don't count it as part of the Caergoth Lane that begins on the far side of
+Market Square and leads all of the way to the west wall of Kalaman.  The road
+is, however, recorded in all public records, and is, for all practical purposes
+a part of Caergoth Lane.  The road follows the north wall of the city until it
+reaches the steep cliff at the edge of the docks.  The cliff dives twenty or so
+feet to the sandy beaches below the city, which are unprotected from outside
+assault.    
+~
+98 4 1 0 0
+D1
+~
+~
+0 0 9801
+D3
+~
+~
+0 0 10039
+S
+#9801
+Caergoth Lane~
+   This part of Caergoth Lane isn't really in the city proper, so most citizens
+don't count it as part of the Caergoth Lane that begins on the far side of
+Market Square and leads all of the way to the west wall of Kalaman.  The road
+is, however, recorded in all public records, and is, for all practical purposes
+a part of Caergoth Lane.  You can faintly hear the shouts and singing from the
+small tavern to the south, The Sleeping Minotaur is one of the most notorious
+taverns in Kalaman.    
+~
+98 0 1 0 0
+D1
+~
+~
+0 0 9802
+D2
+~
+~
+0 0 9841
+D3
+~
+~
+0 0 9800
+S
+#9802
+Caergoth Lane~
+   This part of Caergoth Lane isn't really in the city proper, so most citizens
+don't count it as part of the Caergoth Lane that begins on the far side of
+Market Square and leads all of the way to the west wall of Kalaman.  The road
+is, however, recorded in all public records, and is, for all practical purposes
+a part of Caergoth Lane.  The road follows the north wall of the city until it
+reaches the steep cliff at the edge of the docks.  The cliff dives twenty or so
+feet to the sandy beaches below the city, which are unprotected from outside
+assault.    
+~
+98 0 1 0 0
+D1
+~
+~
+0 0 9803
+D3
+~
+~
+0 0 9801
+S
+#9803
+Intersection of Seawatch Avenue and Caergoth Lane~
+   From this corner of the city you can look out over the sandy beaches below
+you, at the bottom of a steep cliff, and into the vast blue reaches of the sea.
+To the west Caergoth Lane leads to Market Square, where merchants from all over
+Krynn trade the goods they bring in through these docks.  To the south Seawatch
+Avenue winds it's way down the cliff's edge, ending in a small group of
+buildings.    
+~
+98 0 1 0 0
+D2
+~
+~
+0 0 9804
+D3
+~
+~
+0 0 9802
+S
+#9804
+Seawatch Avenue~
+   Seawatch Avenue winds its way along a steep cliff, overlooking the sandy
+beaches below, on its path from the end of the north wall of the city down to a
+small group of buildings at the southern edge of the docks.  Two large piers
+stretch out from this road into the sea, and many kinds of seafaring vessels
+have anchored themselves alongside or near to these piers, unloading goods from
+all over Krynn into Kalaman.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9803
+D2
+~
+~
+0 0 9805
+S
+#9805
+Seawatch Avenue~
+   Seawatch Avenue winds its way along a steep cliff, overlooking the sandy
+beaches below, on its path from the end of the north wall of the city down to a
+small group of buildings at the southern edge of the docks.  The smaller
+nothern pier lies directly to the east, leading to a few large trading vessels,
+and one ship belonging to the Solamnic Navy.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9804
+D1
+~
+~
+0 0 9822
+D2
+~
+~
+0 0 9806
+D3
+~
+~
+0 0 9838
+S
+#9806
+Seawatch Avenue~
+   Seawatch Avenue winds its way along a steep cliff, overlooking the sandy
+beaches below, on its path from the end of the north wall of the city down to a
+small group of buildings at the southern edge of the docks.  The door of the
+small building to the west is painted with the symbol of the Kalaman Customs
+Office, which you have seen on the coats of the guards roaming the docks.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9805
+D2
+~
+~
+0 0 9871
+D3
+~
+~
+0 0 9843
+S
+#9807
+Seawatch Avenue~
+   Seawatch Avenue winds its way along a steep cliff, overlooking the sandy
+beaches below, on its path from the end of the north wall of the city down to a
+small group of buildings at the southern edge of the docks.  A massive
+warehouse cast its shadow over you from the west, and to the east lies a
+dangerous drop over the cliff to the beach below.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9871
+D2
+~
+~
+0 0 9808
+D3
+~
+~
+0 0 9845
+S
+#9808
+Seawatch Avenue~
+   Seawatch Avenue winds its way along a steep cliff, overlooking the sandy
+beaches below, on its path from the end of the north wall of the city down to a
+small group of buildings at the southern edge of the docks.  Two large piers
+stretch out from this road into the sea, and many kinds of seafaring vessels
+have anchored themselves alongside or near to these piers, unloading goods from
+all over Krynn into Kalaman.  To the east the larger southern pier stretches
+out a great distance, and many merchants, traders, and other seamen move by you
+quickly, transporting things to and from the large ships anchored near the
+pier.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9807
+D1
+~
+~
+0 0 9825
+D2
+~
+~
+0 0 9809
+S
+#9809
+Intersection of Seawatch Avenue and Huma Lane~
+   This corner is where the main road of the docks meets Huma Lane, the city's
+main route of travel.  Huma Lane actually stretches all the way from here,
+through Turbidus Square at the center of Kalaman, and reaches all the way to
+Kalaman's western gate.  A large flight of stairs is carved into the side of
+the cliff to the east, reaching down to the beach roughly twenty feet below
+street level.  These stairs are the only way into the city from the undefended
+beach, and you decide that you certainly wouldn't want to lead an attacking
+army up their vulnerable course.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9808
+D2
+~
+~
+0 0 9840
+D3
+~
+~
+0 0 9810
+D5
+~
+~
+0 0 9846
+S
+#9810
+Huma Lane~
+   This road, the main east-west path of Kalaman, is named after the legendary
+Solamnic Knight, Huma Dragonbane.  Huma led a group of heroes to destroy the
+evil dragons and drive them from Solamnia.  During their great battle with
+Takhisis, Huma was slain and laid to rest in a great tomb shaped like a silver
+dragon.  Huma Lane travels from the western gate of the city and Dargaard Road
+through these docks on the eastern side of the city.  On its way through the
+city it passes through Turbidus Square, the center of Kalaman.    
+~
+98 0 1 0 0
+D1
+~
+~
+0 0 9809
+D3
+~
+~
+0 0 9811
+S
+#9811
+Huma Lane~
+   This road, the main east-west path of Kalaman, is named after the legendary
+Solamnic Knight, Huma Dragonbane.  Huma led a group of heroes to destroy the
+evil dragons and drive them from Solamnia.  During their great battle with
+Takhisis, Huma was slain and laid to rest in a great tomb shaped like a silver
+dragon.  A chill runs down your spine as you look into a dark gap between two
+looming buildings to the south, you sense that the alley there was once a place
+of great evil.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9817
+D1
+~
+~
+0 0 9810
+D2
+~
+~
+0 0 9818
+D3
+~
+~
+0 0 9812
+S
+#9812
+Huma Lane~
+   This road, the main east-west path of Kalaman, is named after the legendary
+Solamnic Knight, Huma Dragonbane.  Huma led a group of heroes to destroy the
+evil dragons and drive them from Solamnia.  During their great battle with
+Takhisis, Huma was slain and laid to rest in a great tomb shaped like a silver
+dragon.  Huma Lane travels from the western gate of the city and Dargaard Road
+through these docks on the eastern side of the city.  On its way through the
+city it passes through Turbidus Square, the center of Kalaman.    
+~
+98 4 1 0 0
+D1
+~
+~
+0 0 9811
+D3
+~
+~
+0 0 10031
+S
+#9813
+Seawind Alley~
+   Curving from Crown Street down to Huma Lane in the docks, this alleyway
+offers rear access the the buildings in it's city block, mostly taverns and
+warehouses.  Usually shrouded in sea mist, it once led to a now-vanished inn on
+Huma Lane.  The inn was destroyed, nearly half a century ago, after everyone
+inside it was found dead of someone unkown, possibly magical, cause.  Their
+restless spirits are still said to huant the alley, though few have seen
+anything eerie in recent years.    
+~
+98 0 1 0 0
+D1
+~
+~
+0 0 9814
+D3
+~
+~
+0 0 10035
+S
+#9814
+Seawind Alley~
+   Curving from Crown Street down to Huma Lane in the docks, this alleyway
+offers rear access to the buildings in its city block, mostly taverns and
+warehouses.  Usually shrouded in sea mist, it once led to a now-vanished inn on
+Huma Lane.  The inn was destroyed nearly half a century ago, after everyone
+inside it was found dead of some unknown, possibly magical, cause.  Their
+restless spirits are still said to haunt the alley, though few have seen
+anything eerie in recent years.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9841
+D1
+~
+~
+0 0 9838
+D2
+~
+~
+0 0 9870
+D3
+~
+~
+0 0 -1
+S
+#9815
+Seawind Alley~
+   Curving from Crown Street down to Huma Lane in the docks, this alleyway
+offers rear access the the buildings in it's city block, mostly taverns and
+warehouses.  Usually shrouded in sea mist, it once led to a now-vanished inn on
+Huma Lane.  An absolutely horrid smell flows from a large grate in the center
+of the alley, looking through the bars you think you can see creatures moving
+in the shadows below.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9870
+D2
+~
+~
+0 0 9816
+D5
+~
+grate~
+1 0 2911
+S
+#9816
+Seawind Alley~
+   Curving from Crown Street down to Huma Lane in the docks, this alleyway
+offers rear access the the buildings in it's city block, mostly taverns and
+warehouses.  Usually shrouded in sea mist, it once led to a now-vanished inn on
+Huma Lane.  The inn was destroyed, nearly half a century ago, after everyone
+inside it was found dead of someone unkown, possibly magical, cause.  Their
+restless spirits are still said to haunt the alley, though few have seen
+anything eerie in recent years.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9815
+D1
+~
+~
+0 0 9845
+D2
+~
+~
+0 0 9817
+S
+#9817
+Seawind Alley~
+   Curving from Crown Street down to Huma Lane in the docks, this alleyway
+offers rear access the the buildings in it's city block, mostly taverns and
+warehouses.  Usually shrouded in sea mist, it once led to a now-vanished inn on
+Huma Lane.  The inn was destroyed, nearly half a century ago, after everyone
+inside it was found dead of someone unkown, possibly magical, cause.  Their
+restless spirits are still said to haunt the alley, though few have seen
+anything eerie in recent years.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9816
+D2
+~
+~
+0 0 9811
+S
+#9818
+Shadows Alley~
+   This narrow alley is named for the undead that haunted it in days past,
+before a determined effort was made to root them out and destroy them (and
+block the sewer connection they retreated into whenever priests and Knights
+came looking for them).  No shadows have been seen in Shadows Alley for almost
+twenty years now, and today the alley is known today for the (illegal) duels
+often fought in it's wide curving region at night here by diplomats or young
+nobles who both think they'll win.
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9811
+D2
+~
+~
+0 0 9819
+S
+#9819
+Shadows Alley~
+   This narrow alley is named for the undead that haunted it in days past,
+before a determined effort was made to root them out and destroy them (and
+block the sewer connection they retreated into whenever priests and Knights
+came looking for them).  No shadows have been seen in Shadows Alley for almost
+twenty years now, and today the alley is known today for the (illegal) duels
+often fought in it's wide curving region at night here by diplomats or young
+nobles who both think they'll win.
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9818
+D2
+~
+~
+0 0 9820
+S
+#9820
+Shadows Alley~
+   This narrow alley is named for the undead that haunted it in days past,
+before a determined effort was made to root them out and destroy them (and
+block the sewer connection they retreated into whenever priests and Knights
+came looking for them).  The very sewer connection that they used is spews
+forth noxious fumes into the area where you are standing now.    
+~
+98 0 1 0 0
+D0
+~
+~
+0 0 9819
+D1
+~
+~
+0 0 9821
+D5
+~
+grate~
+1 0 2918
+S
+#9821
+Shadows Alley~
+   This narrow alley is named for the undead that haunted it in days past,
+before a determined effort was made to root them out and destroy them (and
+block the sewer connection they retreated into whenever priests and Knights
+came looking for them.  A strange sigil has been painted on the door of the
+building to the east, it slightly resembles a crude drawing of a turtle.  You
+think, for a moment, that you heard a scream from the building.    
+~
+98 4 1 0 0
+D1
+~
+~
+0 0 9844
+D3
+~
+~
+0 0 9820
+S
+#9822
+The North Pier~
+   You are walking along the northern pier of Kalaman's twin piers.  It
+stretches from Seawatch Avenue, off of a twenty foot cliff, over a sandy beach,
+and out into the sea.  All sorts of seafaring vessels are docked along side the
+pier or have dropped anchor somewhere nearby in the water.  The great wooden
+pylons holding the pier aloft are made of solid oak, cut from trees brought
+from deep in the forests on the slops of the vast Khalkist mountains, and have
+withstood the elements for as long as Kalaman has stood on this site.    
+~
+98 8 1 0 0
+D1
+~
+~
+0 0 9823
+D3
+~
+~
+0 0 9805
+S
+#9823
+The North Pier~
+   You are walking along the northern pier of Kalaman's twin piers.  It
+stretches from Seawatch Avenue, off of a twenty foot cliff, over a sandy beach,
+and out into the sea.  All sorts of seafaring vessels are docked along side the
+pier or have dropped anchor somewhere nearby in the water.  The great wooden
+pylons holding the pier aloft are made of solid oak, cut from trees brought
+from deep in the forests on the slopes of the vast Khalkist mountains, and have
+withstood the elements for as long as Kalaman has stood on this site.    
+~
+98 0 1 0 0
+D1
+~
+~
+0 0 9824
+D3
+~
+~
+0 0 9822
+S
+#9824
+The North Pier~
+   You are walking along the northern pier of Kalaman's twin piers.  It
+stretches from Seawatch Avenue, off of a twenty foot cliff, over a sandy beach,
+and out into the sea.  All sorts of seafaring vessels are docked along side the
+pier or have dropped anchor somewhere nearby in the water.  The great wooden
+pylons holding the pier aloft are made of solid oak, cut from trees brought
+from deep in the forests on the slopes of the vast Khalkist mountains, and have
+withstood the elements for as long as Kalaman has stood on this site.    
+~
+98 0 1 0 0
+D1
+~
+~
+0 0 9872
+D3
+~
+~
+0 0 9823
+S
+#9825
+The South Pier~
+   You are walking along the southern pier of Kalaman's twin piers.  It
+stretches from Seawatch Avenue, off of a twenty foot cliff, over a sandy beach,
+and out into the sea.  All sorts of seafaring vessels are docked along side the
+pier or have dropped anchor somewhere nearby in the water.  The great wooden
+pylons holding the pier aloft are made of solid oak, cut from trees brought
+from deep in the forests on the slops of the vast Khalkist mountains, and have
+withstood the elements for as long as Kalaman has stood on this site.    
+~
+98 0 1 0 0
+D1
+~
+~
+0 0 9826
+D3
+~
+~
+0 0 9808
+S
+#9826
+The South Pier~
+   You are walking along the southern pier of Kalaman's twin piers.  It
+stretches from Seawatch Avenue, off of a twenty foot cliff, over a sandy beach,
+and out into the sea.  All sorts of seafaring vessels are docked along side the
+pier or have dropped anchor somewhere nearby in the water.  The great wooden
+pylons holding the pier aloft are made of solid oak, cut from trees brought
+from deep in the forests on the slopes of the vast Khalkist mountains, and have
+withstood the elements for as long as Kalaman has stood on this site.    
+~
+98 0 1 0 0
+D1
+~
+~
+0 0 9827
+D3
+~
+~
+0 0 9825
+S
+#9827
+The South Pier~
+   You are walking along the southern pier of Kalaman's twin piers.  It
+stretches from Seawatch Avenue, off of a twenty foot cliff, over a sandy beach,
+and out into the sea.  All sorts of seafaring vessels are docked along side the
+pier or have dropped anchor somewhere nearby in the water.  The great wooden
+pylons holding the pier aloft are made of solid oak, cut from trees brought
+from deep in the forests on the slops of the vast Khalkist mountains, and have
+withstood the elements for as long as Kalaman has stood on this site.    
+~
+98 0 1 0 0
+D1
+~
+~
+0 0 9842
+D2
+~
+~
+0 0 12006
+D3
+~
+~
+0 0 9826
+S
+#9828
+A Room Filled with Wondrous Antiquities~
+   An antique desk carved from a single piece of vallenwood sits at the center
+of this crowded room.  Atop the desk is a thick journal which is used to
+catalog all the items that Betancourt has collected over the years.  A few of
+his favorite pieces are on display here, but most of collection is quickly
+whisked upstairs for his staff to clean, restore, or prepare for storage.    
+~
+98 32780 0 0 0
+D2
+~
+~
+0 0 10052
+D4
+~
+~
+0 0 9873
+S
+#9829
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds soft and soothing sounds of the surf would make this a nice and relaxing
+spot to spend your time, if it weren't for the undead wandering these once calm
+beaches.  None of the normal sea creatures can be found here, leaving only
+piles of dried driftweed and small clumps of reed and sea grass among the sand.
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9852
+D2
+~
+~
+0 0 9830
+S
+#9830
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds soft and soothing sounds of the surf would make this a nice and relaxing
+spot to spend your time, if it weren't for the undead wandering these once calm
+beaches.  None of the normal sea creatures can be found here, leaving only
+piles of dried driftweed and small clumps of reed and sea grass among the sand.
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9829
+D2
+~
+~
+0 0 9831
+S
+#9831
+The Beach~
+   This dark area of the beach lies underneath the northen pier of Kalaman.  
+The cliff face the west is hidden in shadows, and the sea to the west is a maze
+of large oak pylons supporting the pier.  A large number of holes gouge the
+sand, the homes of homeless beggars who spend their days seeking the copper
+pieces of the citizens in the city.  A bonfire made of driftwood provides light
+when the sun goes down.  Fairly recent changes have gone on here.  The once
+quiet beach now has members of holy clergies protecting the homeless and
+ensuring that the undead do not make it any closer to Kalaman.    
+~
+98 12 0 0 0
+D0
+~
+~
+0 0 9830
+D2
+~
+~
+0 0 9832
+S
+T 9831
+#9832
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9831
+D2
+~
+~
+0 0 9833
+S
+#9833
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9832
+D2
+~
+~
+0 0 9834
+S
+#9834
+Beneath The South Pier~
+   This dark area is littered with garbage thrown over the pier and the cliff
+to the west.  Piles of rotting food give off a stench that makes your eyes
+water and forces you to gag.  Piles of bricks and stones can be found amongst
+the other garbage, as well as mountains of broken logs and other pieces of
+wood.  Dangerous shards of broken glass are hiding under a loose layer of sand,
+ready to slice the feet of those who dare to venture down here without the
+proper footwear.    
+~
+98 0 0 0 0
+D0
+~
+~
+0 0 9833
+D2
+~
+~
+0 0 9835
+S
+#9835
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+staircase is carved into the face of the cliff, climbing up to Seawatch Avenue.
+To the east the clear blue sea water splashes rhythmically against the sand.  
+The sounds of the surf are soft and soothing, making you wish for a warm bed
+and a hot shower.  Small sand crabs and other crustaceans crawl randomly along
+the sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9834
+D2
+~
+~
+0 0 9836
+D4
+~
+~
+0 0 9846
+S
+#9836
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9835
+D2
+~
+~
+0 0 9837
+S
+#9837
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9836
+D2
+~
+~
+0 0 9839
+S
+#9838
+Northern Solamnia Mercantile Exchange~
+   This vast warehouse, as well as all material cotained herein, is the
+exclusive property of the Northern Solamnia Mercantile Exchange.  All thieves
+will be prosecuted to the full extent of the law, which allows for their
+execution.  Shelf upon shelf, reaching up to the thirty foot ceiling, is filled
+with goods brought here from all over Krynn.  Weapons forged in Thorbardin,
+jewelry wrought in Silvanost, bows made in Qualinost, and many more exotic
+goods keep the shelves overflowing.    
+~
+98 0 0 0 0
+D1
+~
+~
+0 0 9805
+D3
+~
+~
+0 0 9814
+S
+#9839
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9837
+D2
+~
+~
+0 0 9847
+S
+#9840
+The Bloody Fist~
+   This notorious dive is a good example of just how bad a tavern can possibly
+be.  Repeated breaking of furniture has resulted in only wall benches and a
+stand-up elbow bar in the center of the room being left.  Wooden mugs have
+replaced metal, ceramic, and glass vessels, and the beer barrels are chained
+down to prevent their easy use as missiles.  Bullies and angry people come here
+to pick fights, and snarling, belching, and fights are almost constant.    
+~
+98 12 0 0 0
+D0
+~
+~
+0 0 9809
+S
+#9841
+The Sleeping Minotaur~
+   This rowdy place is furnished in hastily mended furniture.  The dockhands
+who drink here have spent a lot of time breaking it over each others' heads.  
+There are rumors that a fence of stolen goods can be contacted here- if you can
+do any business above the howls, and hoots that ring out as human, half-elven,
+and even dwarven wenches dance on the tables, some even attempting to sing.  
+There is a brutal punishment for hitting a dancer with any hurled object,
+enacted by the patrons of the bar.  The standing joke goes that any minotaur
+able to sleep through all this must be very, very dead.  A stairway in the
+western wall leads down to a recently dug basement.    
+~
+98 12 0 0 0
+D0
+~
+~
+0 0 9801
+D2
+~
+~
+0 0 9814
+D5
+~
+~
+0 0 9895
+S
+#9842
+The South Pier~
+   You are walking along the southern pier of Kalaman's twin piers.  It
+stretches from Seawatch Avenue, off of a twenty foot cliff, over a sandy beach,
+and out into the sea.  All sorts of seafaring vessels are docked along side the
+pier or have dropped anchor somewhere nearby in the water.  The great wooden
+pylons holding the pier aloft are made of solid oak, cut from trees brought
+from deep in the forests on the slopes of the vast Khalkist mountains, and have
+withstood the elements for as long as Kalaman has stood on this site.    
+~
+98 0 1 0 0
+D3
+~
+~
+0 0 9827
+S
+#9843
+Kalaman Customs Office~
+   Every ship bringing goods into Kalaman must declare the value of those goods
+here, and pay an appropriate tax on them before they are allowed to sell them
+in the city.  Armed customs officials guard the piers, and are actually in
+charge of maintaing order in the whole region of the docks, which is left alone
+by the city guard, except in emergency situations.    
+~
+98 8 0 0 0
+D1
+~
+~
+0 0 9806
+S
+#9844
+The Temple of Zeboim~
+   This hidden temple is dedicated to the evil god Zeboim, the Sea Queen.  As
+creator of the sea, tempests, and weather, Zeboim receives petitions and
+sacrifices from seamen wishing good weather and safe journey.  Though some
+manage to avoid her rage, others who displease her through some real or
+imagined slight never see harbor again.  The temple is small, with a smell of
+death hovering in the air.  A short black altar stands against the east wall,
+which is really not a wall, but more a window looking out over the sea.  The
+dark altar is covered with darker stains, you don't even want to know what the
+stains are from.    
+~
+98 8 0 0 0
+D3
+~
+~
+0 0 9821
+S
+#9845
+Merchant Storage Co.~
+   This small warehouse is run by a merchant who once travelled all over Krynn,
+but has since retired and bought it.  Merchant Storage Co. rents out large
+spaces to merchants for storing their goods here in Kalaman.  Merchants can
+store products here, travel to anywhere in Krynn, and always return to find
+their goods safely sitting on the shelves where they left them.    
+~
+98 8 0 0 0
+D1
+~
+~
+0 0 9807
+D3
+~
+~
+0 0 9816
+S
+#9846
+On A Staircase~
+   You are on a long, narrow, staircase carved into the side of the twenty foot
+cliff on the east side of Kalaman.  This staircase is the only way to reach the
+beach below from Kalaman, through Seawatch Avenue.  The wind coming off of the
+sea whips around you, threatening to toss you onto the beach below.  You cling
+to the cliff face, praying to the gods that you make it to the end of the
+staircase alive.    
+~
+98 260 5 0 0
+D4
+~
+~
+0 0 9809
+D5
+~
+~
+0 0 9835
+S
+#9847
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9839
+D2
+~
+~
+0 0 9848
+S
+#9848
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9847
+D2
+~
+~
+0 0 9849
+S
+#9849
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9848
+D2
+~
+~
+0 0 9850
+S
+#9850
+The Beach~
+   A small river of dark, murky, putrid water cuts its course through the soft
+sand of the beach here.  It pours out of a small opening in the cliff face ten
+feet above the sand, cascades downward in a short waterfall, then winds its way
+out into the sea.  A shoddily constructed bridge of wooden planks crosses the
+small river, but you certainly wouldn't want the bridge to collapse and throw
+you into that foul stream.    
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9849
+D2
+~
+~
+0 0 9851
+D4
+~
+~
+0 0 2924
+S
+#9851
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 4 2 0 0
+D0
+~
+~
+0 0 9850
+D1
+~
+~
+0 0 9857
+S
+#9852
+Before a Cavern~
+   You are walking along the soft wet sand of the beach.  To the east the clear
+blue sea water splashes rhythmically against the sand.  The sounds soft and
+soothing sounds of the surf would make this a nice and relaxing spot to spend
+your time, if it weren't for the undead wandering these once calm beaches.  
+None of the normal sea creatures can be found here, leaving only piles of dried
+driftweed and small clumps of reed and sea grass among the sand.  To the west,
+there seems to be a cavern where all of the undead seem to be pouring out of.
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9853
+D2
+~
+~
+0 0 9829
+D3
+~
+~
+0 0 9882
+S
+#9853
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds soft and soothing sounds of the surf would make this a nice and relaxing
+spot to spend your time, if it weren't for the undead wandering these once calm
+beaches.  None of the normal sea creatures can be found here, leaving only
+piles of dried driftweed and small clumps of reed and sea grass among the sand.
+~
+98 0 2 0 0
+D0
+~
+~
+0 0 9854
+D2
+~
+~
+0 0 9852
+S
+#9854
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds soft and soothing sounds of the surf would make this a nice and relaxing
+spot to spend your time, if it weren't for the undead wandering these once calm
+beaches.  None of the normal sea creatures can be found here, leaving only
+piles of dried driftweed and small clumps of reed and sea grass among the sand.
+~
+98 0 2 0 0
+D2
+~
+~
+0 0 9853
+D6
+~
+~
+0 0 9855
+S
+#9855
+Before A Cave On The Beach~
+   You are standing on the soft, warm, sand of the beach north of Kalaman.  A
+cave is barely visible on the face of the cliff to your west.  The darkness
+within the cave is so complete that you can't see anything past its gaping
+entrance.  The sand here is oddly well trodden.  Strangely, the footprints lead
+from the mouth of the cave, across the beach, and then disappear mysteriously
+in the water.  A weather beaten old sign hangs from a rusty nail in the soft
+sandstone.    
+~
+98 4 2 0 0
+D0
+~
+~
+0 0 9856
+D3
+~
+~
+0 0 9746
+D9
+~
+~
+0 0 9854
+E
+sign weather beaten~
+BEWARE!
+
+Dangerous creatures lurk in the caves beyond.
+~
+S
+#9856
+The Beach~
+   You are walking along the soft wet sand of the beach.  To the west a steep
+cliff, at least twenty feet high, bars your entry to the city of Kalaman.  To
+the east the clear blue sea water splashes rhythmically against the sand.  The
+sounds of the surf are soft and soothing, making you wish for a warm bed and a
+hot shower.  Small sand crabs and other crustaceans crawl randomly along the
+sand, among the piles of dried driftweed and small clumps of reed and sea
+grass.    
+~
+98 0 2 0 0
+D2
+~
+~
+0 0 9855
+S
+#9857
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+Water is clear, and extremely salty, rising and falling methodically and
+unceasingly.  The pylons supporting the North Pier make this region of the sea
+extremely dangerous.  One wrong stroke and you could be smashed up against the
+massive pylons, and doubtless be killed instantly.    
+~
+98 2097216 6 0 0
+D1
+~
+~
+0 0 9858
+D2
+~
+~
+0 0 9859
+D3
+~
+~
+0 0 9851
+S
+#9858
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D2
+~
+~
+0 0 9860
+D3
+~
+~
+0 0 9857
+S
+#9859
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9857
+D1
+~
+~
+0 0 9860
+D2
+~
+~
+0 0 9861
+S
+#9860
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9858
+D2
+~
+~
+0 0 9862
+D3
+~
+~
+0 0 9859
+S
+#9861
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9859
+D1
+~
+~
+0 0 9862
+D2
+~
+~
+0 0 9863
+S
+#9862
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9860
+D2
+~
+~
+0 0 9864
+D3
+~
+~
+0 0 9861
+S
+#9863
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9861
+D1
+~
+~
+0 0 9864
+D2
+~
+~
+0 0 9865
+S
+#9864
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9862
+D2
+~
+~
+0 0 9866
+D3
+~
+~
+0 0 9863
+S
+#9865
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9863
+D1
+~
+~
+0 0 9866
+D2
+~
+~
+0 0 9867
+S
+#9866
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9864
+D2
+~
+~
+0 0 9868
+D3
+~
+~
+0 0 9865
+S
+#9867
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9865
+D1
+~
+~
+0 0 9868
+S
+#9868
+In The Water~
+   You have gotten yourself into the sea that lies to the east of Kalaman.  
+The blue water is clear, and extremely salty, rising and falling methodically
+and unceasingly.  Large boats are anchored in the water of the harbor, and
+numerous smaller craft manuever swiftly between them.  Beneath you many
+brightly colored sea creatures swim around, completely oblivious to your
+presence.    
+~
+98 2097216 6 0 0
+D0
+~
+~
+0 0 9866
+D3
+~
+~
+0 0 9867
+S
+#9870
+Seawind Alley~
+   Curving from Crown Street down to Huma Lane in the docks, this alleyway
+offers rear access the the buildings in it's city block, mostly taverns and
+warehouses.  Usually shrouded in sea mist, it once led to a now-vanished inn on
+Huma Lane.  The inn was destroyed, nearly half a century ago, after everyone
+inside it was found dead of some unkown, possibly magical, cause.  Their
+restless spirits are still said to haunt the alley, though few have seen
+anything eerie in recent years.    
+~
+98 0 0 0 0
+D0
+~
+~
+0 0 9814
+D2
+~
+~
+0 0 9815
+S
+#9871
+Seawatch Avenue~
+   Seawatch Avenue winds its way along a steep cliff, overlooking the sandy
+beaches below, on its path from the end of the north wall of the city down to a
+small group of buildings at the southern edge of the docks.  Two large piers
+stretch out from this road into the sea, and many kinds of seafaring vessels
+have anchored themselves alongside or near to these piers, unloading goods from
+all over Krynn into Kalaman.    
+~
+98 0 0 0 0
+D0
+~
+~
+0 0 9806
+D2
+~
+~
+0 0 9807
+S
+#9872
+End of the Pier~
+   Here, at the very end of the dock, seems to be where the Kalaman citizens do
+their garbage dumping.  The water is murky below, with small bits of debris
+floating in the frothy seawater.  A stench rises up, making it unpleasant to
+stand there for long, and most who come toss their garbage then leave.    
+~
+98 4 1 0 1
+D3
+~
+~
+0 0 9824
+S
+T 9899
+#9873
+A Vast, Dark Attic~
+   Every eave and gable of this vast attic is stocked full of boxes and chests
+simply overflowing with items from all over the face of Krynn.  Every few
+minutes a small shadow moves quickly through the attic, passing out of sight in
+an instant.  It probably would not be wise to set anything down in this area,
+as it would no doubt be swept off and stored with the collector's inventory.  
+~
+98 32776 0 0 1
+D5
+~
+~
+0 0 9828
+S
+#9874
+Deep Within the Cavern~
+   An eerie glow is the only light in this dim cavern.  It seems to come from
+all around but yet has no obvious source.  The sand which covers the ground is
+dry and seems to stick to everything it touches.  Ghostly howls accompanied by
+the soft clicking of bones create a strange melody which is occasionally
+interrupted by the sound of a bone snapping underfoot.  Many skeletons wander
+around, paying no attention to their surroundings.  The only exit appears to be
+to the east; cavern walls surround every other direction.    
+~
+98 8 0 0 0
+D1
+~
+~
+0 0 9875
+S
+#9875
+Deep Within the Cavern~
+   A soft and eerie glow seems to come from all around this part of the cavern.
+The sand beneath your feet is dry and seems to get into your boots, under your
+clothing, and in your hair, no matter what.  The ghostly howls and soft
+clicking of bones is occasionally broken by the sound of a bone being broken
+beneath your feet.  Many skeletons wander around you, paying no attention to
+you.  To the north the cavern wall can be seen.    
+~
+98 8 0 0 0
+D1
+~
+~
+0 0 9876
+D2
+~
+~
+0 0 9877
+D3
+~
+~
+0 0 9874
+S
+#9876
+Deep Within the Cavern~
+   An eerie glow is the only light in this dim cavern.  It seems to come from
+all around but yet has no obvious source.  The sand which covers the ground is
+dry and seems to stick to everything it touches.  Ghostly howls accompanied by
+the soft clicking of bones create a strange melody which is occasionally
+interrupted by the sound of a bone snapping underfoot.  Many skeletons wander
+around, paying no attention to their surroundings.  To the north and east the
+cavern wall can be seen.    
+~
+98 8 0 0 0
+D2
+~
+~
+0 0 9878
+D3
+~
+~
+0 0 9875
+S
+#9877
+Deep Within the Cavern~
+   An eerie glow is the only light in this dim cavern.  It seems to come from
+all around but yet has no obvious source.  The sand which covers the ground is
+dry and seems to stick to everything it touches.  Ghostly howls accompanied by
+the soft clicking of bones create a strange melody which is occasionally
+interrupted by the sound of a bone snapping underfoot.  Many skeletons wander
+around, paying no attention to their surroundings.  To the south and west the
+cavern wall can be seen.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9875
+D1
+~
+~
+0 0 9878
+S
+#9878
+Just Outside of the Small Tunnel~
+   A soft and eerie glow seems to come from all around this part of the cavern.
+The sand beneath your feet is dry and seems to get into your boots, under your
+clothing, and in your hair, no matter what.  The ghostly howls and soft
+clicking of bones is occasionally broken by the sound of a bone being broken
+beneath your feet.  Many skeletons wander around you, paying no attention to
+you.  To the east, the cramped tunnel offers you an exit, and to the south the
+cavern wall can be seen.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9876
+D1
+~
+~
+0 0 9879
+D3
+~
+~
+0 0 9877
+S
+T 9878
+#9879
+A Small Tunnel~
+   Whatever or whoever uncovered this once-buried tunnel did not do a very good
+job of it.  The northern and southern walls are covered in dirt and rocks, and
+they are so close together that you can barely move through them.  A strange
+light comes from both the east and west, providing a limited ability to see the
+surrounding area.  Soft clicking and creaking sounds echo throughout the
+tunnel.    
+~
+98 268 0 0 0
+D1
+~
+~
+0 0 9886
+D3
+~
+~
+0 0 9878
+S
+#9880
+The Northwest Corner of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  There is a rocky wall to the north and the west.    
+~
+98 8 0 0 0
+D1
+~
+~
+0 0 9881
+D2
+~
+~
+0 0 9883
+S
+#9881
+The Northern Wall of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  There is a rocky wall to the north.    
+~
+98 8 0 0 0
+D1
+~
+~
+0 0 9882
+D2
+~
+~
+0 0 9884
+D3
+~
+~
+0 0 9880
+S
+#9882
+The Northeast Corner of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  To the north is the wall of the cave.  On the eastern side, the
+pile of rocks and boulders that sealed the natural entrance to the cavern have
+been scattered around.  While it is alarming that the undead now have access to
+the beach, there is another thing that catches your eye.  There are small
+pieces of metal mixed in with the rocks.  It's hard to tell what the metal was
+without taking a closer look.    
+~
+98 8 0 0 0
+D1
+~
+~
+0 0 9852
+D2
+~
+~
+0 0 9885
+D3
+~
+~
+0 0 9881
+E
+metal small~
+   Most of the metal on the ground are very small, less than the size of a
+coin.  Many of them appear to be broken off of something larger, but it's hard
+to tell what.  One piece of metal in particular catches your eye.  It looks
+like a cog, like something found in a gnomish invention, but what would a cog
+be doing here?    
+~
+S
+#9883
+The Western Wall of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  To the west, the wall of the cavern slants to the ground,
+eventually reaching the sand.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9880
+D1
+~
+~
+0 0 9884
+D2
+~
+~
+0 0 9886
+S
+#9884
+Before a Marked Grave~
+   The ground here is a soggy wet sand that clings to your feet.  Some mounds
+of sand are scattered across the ground, most likely shallow graves.  Creaking
+bones and ghostly howls can be heard in every direction.  The strange ghostly
+glow is no longer behind you, but now centered on the only grave marker here, a
+broken wooden plank.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9881
+D1
+~
+~
+0 0 9885
+D2
+~
+~
+0 0 9887
+D3
+~
+~
+0 0 9883
+S
+#9885
+The Eastern Wall of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  To the east, the wall of the cavern slants to the ground,
+eventually reaching the sand.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9882
+D2
+~
+~
+0 0 9888
+D3
+~
+~
+0 0 9884
+S
+#9886
+Before a Small Tunnel~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  To the west a fairly large portion of the wall seems to have
+been destroyed.  Pieces of metal and cavern wall litter the ground all over.  
+A small tunnel leads further to the west.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9883
+D1
+~
+~
+0 0 9887
+D2
+~
+~
+0 0 9889
+D3
+~
+~
+0 0 9879
+S
+#9887
+The Center of the Cemetary~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction.  Some mounds of
+sand are scattered across the ground, most likely shallow graves.  A strange
+glow seems to come from behind you, but always just out of sight.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9884
+D1
+~
+~
+0 0 9888
+D2
+~
+~
+0 0 9890
+D3
+~
+~
+0 0 9886
+S
+#9888
+The Eastern Wall of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  To the east, the wall of the cavern slants to the ground,
+eventually reaching the sand.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9885
+D2
+~
+~
+0 0 9891
+D3
+~
+~
+0 0 9887
+S
+#9889
+The Western Wall of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  To the west, the wall of the cavern slants to the ground,
+eventually reaching the sand.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9886
+D1
+~
+~
+0 0 9890
+D2
+~
+~
+0 0 9892
+S
+#9890
+Near the Center of the Cemetary~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction.  Some mounds of
+sand are scattered across the ground, most likely shallow graves.  A strange
+glow seems to come from behind you, but always just out of sight.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9887
+D1
+~
+~
+0 0 9891
+D2
+~
+~
+0 0 9893
+D3
+~
+~
+0 0 9889
+S
+#9891
+The Eastern Wall of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  To the east, the wall of the cavern slants to the ground,
+eventually reaching the sand.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9888
+D2
+~
+~
+0 0 9894
+D3
+~
+~
+0 0 9890
+S
+#9892
+The Southwest Corner of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  There is a rocky wall to the south and the west.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9889
+D1
+~
+~
+0 0 9893
+S
+#9893
+The Southern Wall of the Cavern~
+   The ground here is a soggy wet sand that clings to your feet.  Creaking
+bones and ghostly howls can be heard in almost every direction, echoing off of
+the cave walls.  A strange glow seems to come from behind you, but always just
+out of sight.  There is a rocky wall to the south.    
+~
+98 8 0 0 0
+D0
+~
+~
+0 0 9890
+D1
+~
+~
+0 0 9894
+D3
+~
+~
+0 0 9892
+S
+#9894
+Beyond the Gate~
+   The ground here is a soggy wet sand that clings to your feet.  The sound of
+creaking bones and ghostly howls can be heard every direction except south.  A
+soft glow comes from the south, lighting a small area.  A large gate stands at
+the entrance of this underground cemetary.  To the east, a cavern wall prevents
+any further traveling.    
+~
+98 12 0 0 0
+D0
+~
+~
+0 0 9891
+D2
+   A rusty iron gate barely hangs on its hinges.    
+~
+gate iron~
+1 0 9895
+D3
+~
+~
+0 0 9893
+S
+#9895
+Inside the Basement~
+   This is the basement that was being dug out for the inn on the docks.  
+Large kegs of ale sit down here, accompanied by extra sausages.  The basement
+looks normal, until you see the northern wall.  The wall has been dug out, from
+the other side.  There are claw marks on the wall near the hole.  A large gate
+covers the hole, preventing what dug the hole out from roaming the docks.    
+~
+98 12 0 0 0
+D0
+   A rusted iron gate barely hangs on its hinges.    
+~
+gate~
+1 -1 9894
+D4
+~
+~
+0 0 9841
+S
+#9897
+By the Fireplace~
+   Renovation work at the Dripping Dagger has permitted the use of this once
+dormant fireplace.  A bit of masonry work and a lot of cleaning has created a
+wonderful focal point for this corner of the inn.  High-backed booths to the
+north and south make it a cozy nook for a private meeting.  Above the mantle,
+which has been crafted from a single piece of polished vallenwood, are several
+pairs of horns: most likely Stanley's hunting trophies.    
+~
+98 264 0 0 0
+D3
+~
+~
+0 0 10156
+S
+#9898
+A Private Booth in the Bar~
+   This booth is against the wall, and away from the regular tables.  High
+walls right behind each of its booth seats helps provide a sense of privacy.  
+The two seats face each other, with a table in the middle.  Other than
+supporting food and ale, the candle, the only source of light in the booth,
+sits on the table also.  Each seat has a lightly padded seat, to help people
+feel more comfortable.    
+~
+98 264 0 0 0
+D8
+~
+~
+0 0 10156
+E
+table counter~
+   This table is a decent size.  It is more than enough to hold two large
+plates and a couple mugs, plus the candle that sits on the table.  Around the
+edges, a pattern of leaves has been carved into the wood.  The table stands on
+it's four decorative legs.  At the bottom of each leg, there is a dragon's claw
+grasping a white painted wooden orb.    
+~
+E
+carving kender dragon~
+   On the back of one the benches here is a fairly simple looking carving.  On
+the left side of the carving, there is a small dragon.  Although most of it's
+body can't be seen, it looks like it is either young, or just really small.  
+To the right, a kender is standing next to the dragon.  The kender, for some
+reason, doesn't appear to be at all interested in the dragon, despite all the
+magic the dragon could cast.  The kender is just sitting on the ground, not
+even looking at the dragon.  The artist of this carving had quite a strange
+imagination.    
+~
+E
+seat bench chair seats benches~
+   The two seats are crafted out of a hard wood.  They're shaped like benches,
+but they're not much wider than a normal chair.  The backs of the chair have
+different carvings.  Some have legendary creatures like dragons.  Others have
+mythological creatures, such as a calm looking kender who doesn't appear to be
+at all interested in the dragon standing right beside him.  Although most the
+carvings are odd, the one with the kender and a dragon on it is by far the
+weirdest.    
+~
+S
+#9899
+A Private Booth in the Bar~
+   This booth is against the wall, and away from the regular tables.  High
+walls right behind each of its booth seats helps provide a sense of privacy.  
+The two seats face each other, with a table in the middle.  Other than
+supporting food and ale, the candle, the only source of light in the booth,
+sits on the table also.  Each seat has a lightly padded seat, to help people
+feel more comfortable.    
+~
+98 264 0 0 0
+D6
+~
+~
+0 0 10156
+E
+table counter~
+   This table is a decent size.  It is more than enough to hold two large
+plates and a couple mugs, plus the candle that sits on the table.  Around the
+edges, a pattern of leaves has been carved into the wood.  The table stands on
+it's four decorative legs.  At the bottom of each leg, there is a dragon's claw
+grasping a white painted wooden orb.    
+~
+E
+carving kender dragon~
+   On the back of one the benches here is a fairly simple looking carving.  On
+the left side of the carving, there is a small dragon.  Although most of it's
+body can't be seen, it looks like it is either young, or just really small.  
+To the right, a kender is standing next to the dragon.  The kender, for some
+reason, doesn't appear to be at all interested in the dragon, despite all the
+magic the dragon could cast.  The kender is just sitting on the ground, not
+even looking at the dragon.  The artist of this carving had quite a strange
+imagination.    
+~
+E
+seat bench chair seats benches~
+   The two seats are crafted out of a hard wood.  They're shaped like benches,
+but they're not much wider than a normal chair.  The backs of the chair have
+different carvings.  Some have legendary creatures like dragons.  Others have
+mythological creatures, such as a calm looking kender who doesn't appear to be
+at all interested in the dragon standing right beside him.  Although most the
+carvings are odd, the one with the kender and a dragon on it is by far the
+weirdest.    
+~
+S
+$~

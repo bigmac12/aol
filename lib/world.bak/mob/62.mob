@@ -1,0 +1,533 @@
+#6200
+mage black robe Xerxes~
+Xerxes~
+A mage in black velvet robes stands here.
+~
+   Xerxes stops whatever it is he was doing before your interruption and peers
+back at you.  The look in his dark eyes sends chills through your body, letting
+you know tht your presence here is rather unwelcome.  Without so much of a nod
+he returns his attention to his previous task, hoping that you will just go
+away before he has to stop his work again and make you leave.    
+~
+598088 33554432 2097696 -850 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 1
+8 8 1 0
+E
+T 2
+#6201
+man white robes gold Zuriel~
+Zuriel~
+A man in white robes trimmed with gold stands here.
+~
+   An old man dressed in beautiful white robes stands before you.  His face is
+old and wrinkled.  His hair and beard are long and white.  He looks up at you
+and gives you a slight nod as you look at him.    
+~
+598104 0 14680096 850 E
+26 4 -10 3d33+950 4d7+7
+1500 115000 1
+8 8 1 0
+E
+T 2
+#6202
+tall young man black robes mage~
+a tall, young man wearing black robes~
+A tall, young man wearing black robes sits here memorizing his spells.
+~
+   The young man lifts his head slightly as you enter.  He gives you a slight
+nod before returning to his work.  His face is rather young, but his eyes have
+an intensity about them that reveals his intelligence.    
+~
+600138 0 33 -850 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 1
+6 6 1 0
+E
+#6203
+woman mage robes red flowing Kyna~
+Kyna~
+A woman in flowing red robes stands here staring out over the city.
+~
+   Staring out over the city, this woman barely seems to notice your presence.
+The breeze blows her hair and robes about her.  A smile spreads across her face
+as she looks out over the city.    
+~
+598088 8 4202528 0 E
+27 3 -11 3d33+1100 15d1+8
+1600 135000 1
+8 8 2 0
+BareHandAttack: 8
+E
+T 2
+#6204
+squirrel small grey~
+a small grey squirrel~
+A small grey squirrel scurries across the ground.
+~
+   The small squirrel scurries around your feet.  His fur is think and grey.  
+Looking at his round belly, it is obvious that these oak trees provide him with
+ample food.    
+~
+65544 0 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+E
+#6206
+form black robes tattered~
+a form in tattered black robes~
+A form in tattered black robes floats here.
+~
+   The form seems to materialize and dematerialize before your eyes.  His body
+is nearly transparent, but his eyes can be clearly seen.  They are cold and
+filled with anger and hatred.    
+~
+599562 33555460 4194400 -850 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 8
+8 8 1 0
+E
+#6210
+middle-aged middle aged dark robes~
+a middle-aged man in dark robes~
+A middle-aged man clad in dark robes stands on a narrow landing.
+~
+   This mage appears to be about middle-aged.  His dark hair is streaked with a
+several strands of silvery-gray hair which gives him a distinguished look.  He
+stands on a narrow landing next to the main staircase, his hands folded neatly
+in his robes.  He returns your gaze with a slight smirk.    
+~
+8937482 8 32 -400 E
+20 8 -4 3d20+440 3d7+6
+800 25000 1
+8 8 1 0
+BareHandAttack: 13
+E
+#6216
+rabbit large brown~
+a large brown rabbit~
+A large brown rabbit hops through the garden.
+~
+   The rabbit is covered with soft brown fur and has long floppy ears.  It hops
+around the garden, from flower bed to flower bed.  Its little nose sniffing
+around for food.    
+~
+65544 0 0 0 E
+3 19 13 1d5+25 1d6+1
+0 25 0
+8 8 0 0
+E
+#6219
+groundskeeper keeper grounds~
+the tower groundskeeper~
+The groundskeeper is here tending to the gardens.
+~
+   Wandering through the gardens, the groundskeeper seems to enjoy his work.  
+He has a pleasant smile on his face, and his clothing is covered with dirt and
+grass stains.    
+~
+76 0 0 0 E
+11 14 5 5d4+190 2d8+2
+222 2900 0
+8 8 1 0
+E
+#6220
+janitor~
+a janitor~
+A janitor wanders through the tower, keeping everything tidy.
+~
+   The janitor wanders through the halls of the tower making sure that nothing
+is left around.  He looks exhausted from constantly walking up and down all the
+stairs in the tower.    
+~
+12 0 0 0 E
+12 13 4 5d6+210 2d8+3
+333 4700 0
+8 8 1 5
+BareHandAttack: 13
+E
+#6221
+falcon peregrine~
+a peregrine falcon~
+A peregrine falcon circles overhead.
+~
+   The Peregrine falcon has long pointed wings and a long tail.  Its back is
+slate grey, and its belly is grey and white.  It is a very fast and
+maneuverable bird, circling overhead and then swooping down when it sees its
+prey.    
+~
+65610 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 0 0
+BareHandAttack: 8
+E
+#6222
+librarian~
+a librarian~
+A librarian is here putting books on the shelves.
+~
+   The librarian walks though the library making sure that the vast collection
+of books is reshelved properly.  She handles each book with great care.  As you
+look at her, she raises a finger to her lips to remind you to keep quiet.    
+~
+72 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 0
+8 8 2 0
+BareHandAttack: 13
+E
+#6227
+mage white robed~
+a white robed mage~
+A white robed mage stands here.
+~
+   This woman has a peaceful look on her face as she wanders about the tower.
+She has no doubt achieved great power in her order.  She sees you looking at
+her and gives you a smile.    
+~
+532488 0 24 850 E
+19 9 -3 3d20+410 3d6+6
+800 17000 1
+8 8 2 0
+BareHandAttack: 8
+E
+#6228
+mage red robed~
+a red robed mage~
+A red robed mage stands here.
+~
+   This man has a pleasant look on his face as he wanders through the tower.  
+He has an air about him that leads you to believe that he has achieved great
+power in his order.    
+~
+532552 0 8388628 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 1
+8 8 1 0
+E
+#6229
+mage black robed~
+a black robed mage~
+A black robed mage is standing here.
+~
+   This man has a cold calculating look on his face.  He seems completely
+unaware of the world around him.  Lost in his thoughts.    
+~
+532488 0 2097172 -850 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 1
+8 8 0 0
+E
+#6237
+cook~
+the cook~
+The cook wanders around preparing for the next meal.
+~
+   This woman is responsible for preparing all the meals in the tower.  Quite a
+large task considering the number of mages that are within the walls at any
+given time.  She wanders through the dining hall, hurriedly preparing for the
+next meal.    
+~
+10 0 0 0 E
+12 13 4 5d6+210 2d8+3
+444 4700 0
+8 8 2 0
+BareHandAttack: 16
+E
+#6239
+apprentice black robed~
+a black robed apprentice~
+A black robed apprentice wanders through the gardens.
+~
+   The apprentice appears quite lost in his thoughts as he wanders through the
+garden.  He does not seem to notice you as you look at him.  His mouth moves
+slowly, as though he is preparing a spell in his head.    
+~
+8200 0 5 -850 E
+12 13 4 5d6+210 2d8+3
+275 4700 1
+8 8 1 0
+E
+#6240
+apprentice white robes~
+an apprentice in white robes~
+An apprentice in white robes wanders through the gardens.
+~
+   The apprentice appears quite lost in his thoughts as he wanders through the
+garden.  He gives you a nod to acknowledge your presense as you look at him.  
+His mouth moves slowly, as though he is preparing a spell in his head.    
+~
+532488 0 6291458 850 E
+11 14 5 5d4+190 2d8+2
+222 2900 1
+8 8 1 0
+E
+#6241
+pupil young~
+a young pupil~
+A young pupil sits here reading quietly.
+~
+   Completely engrossed in his studies, the pupil barely raises his eyes to
+acknowledge you.  His eyes look tired from endless hours of reading and
+practice.    
+~
+524296 0 1 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 1
+6 6 1 0
+E
+#6247
+eyewing eye wing~
+an eyewing~
+An eyewing hovers above the ground.
+~
+   The eyewing's body is a fat, egg-shaped ball covered with matted black fur.
+Its wide body is supported by a pair of long leathery wings.  Each wing is
+tipped with a set of three razor sharp talons.  Its body is dominated by a
+single, bulging eye.    
+~
+90122 524290 0 0 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 0
+8 8 0 0
+E
+#6250
+initiate plain robes~
+an initiate in plain robes~
+An initiate in plain robes stands here.
+~
+   Having not yet taken the Test, this young initiate has yet to formally
+declare his alignment.  He is most likely here to study under a Master Mage and
+further his knowledge of his art.    
+~
+532488 0 9 0 E
+15 11 1 5d10+300 2d8+4
+555 8400 1
+8 8 0 0
+E
+#6257
+apprentice red robed mage~
+a red robed apprentice~
+A red robed apprentice wanders through the gardens.
+~
+   The apprentice appears quite lost in her thoughts as she wanders through the
+garden.  She gives you a quick smile, before returning to her studies.  He
+mouth moves slowly, as though she is preparing a spell in her head.    
+~
+532488 0 12 0 E
+10 14 6 5d4+160 2d7+2
+195 1900 1
+8 8 2 0
+E
+#6266
+form transparent~
+a transparent form~
+A transparent form floats above the ground.
+~
+   This form seems to materialize and dematerialize before your eyes.  Its body
+is transparent and difficult to see.  Its clothing is tattered and torn but
+appears to be the robes of a magic-user.    
+~
+598024 1024 8388752 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 8
+8 8 0 0
+E
+#6269
+eye wing eyewing~
+an eyewing~
+An eyewing hovers above the ground.
+~
+   The eyewing's body is a fat, egg-shaped ball covered with matted black fur.
+Its wide body is supported by a pair of long leathery wings.  Each wing is
+tipped with a set of three razor sharp talons.  The body is dominated by a
+single, bulging eyeball.    
+~
+3153930 0 0 -850 E
+24 4 -8 3d33+750 4d6+10
+1300 68000 10
+8 8 0 0
+BareHandAttack: 8
+E
+#6274
+master dungeon~
+the dungeon master~
+The dungeon master stands here looking over his implements of torture.
+~
+   This man has huge bulging muscles and appears to take great pride in his
+work.  He looks over his torture devices and grins evilly.  He wears a black
+mask which hides most of his face.    
+~
+3153928 0 0 0 E
+28 2 -12 3d33+1250 4d7+9
+1700 175000 0
+8 8 1 0
+E
+#6275
+prisoner~
+a prisoner~
+A prisoner is chained to the wall.
+~
+   The prisoner barely lifts his head as you walk in.  His body is thin and
+dirty.  It appears that he has been here for quite sometime.  Several scars
+cover his body, leading you to believe that he has been tortured.    
+~
+1048650 0 0 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 0
+8 8 0 0
+E
+#6279
+mage renegade~
+a renegade mage~
+A renegade mage is chained to the wall.
+~
+   As you enter, the man raises his head slowly to look at you.  His dirty body
+looks weakened and tormented.  However, the glint in his eyes tell you that he
+is still a formidable opponent.    
+~
+598026 0 4195456 0 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 1
+8 8 1 0
+E
+#6280
+cat white large~
+a large white cat~
+A large white cat stretches out lazily on the floor.
+~
+   The cat opens one eye slightly as you approach.  He looks at you briefly
+before closing his eye and continuing his nap.  Although, in appearance he is
+much like an ordinary housecat.  You sense something different about him.    
+~
+69640 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+500 14000 0
+8 8 1 0
+BareHandAttack: 8
+E
+#6281
+Archard innkeeper innkeep~
+Archard~
+Archard stands quietly in the corner, waiting to be of service.
+~
+   Archard is the former shopkeeper here at the Tower of Palanthas.  After
+years of service in that capacity, he has moved to this room to assist any
+mages staying in finding an empty bed.  For a modest fee, he will help you find
+a vacant guest room which should meet your needs.    
+~
+12312586 33685504 4194848 0 E
+30 0 -14 3d33+5000 20d1+20
+99900 250000 1
+8 8 1 3
+E
+#6282
+Ort Ortensia shopkeeper shopkeep~
+Ortensia~
+Ortensia stands behind the counter, crushing some dried herbs with a pestle.
+~
+   In one hand Ortensia holds a white marble mortar.  In her other, a matching
+pestle.  She stops grinding herbs as she notices your attention, waiting to see
+if you have come simply to browse or to purchase a few items.  Her features are
+plain, and her white robes are completely unadorned.  She wears her auburn hair
+pulled back into a tight bun.  Her hazel eyes hold a friendly warmth which
+softens her overall appearance.    
+~
+1826842 33685504 16 600 E
+30 -30 -14 30d99+1700 30d99+50
+999999 1 1
+8 8 2 0
+BareHandAttack: 6
+E
+#6283
+cat black large~
+a large black cat~
+A large black cat stretches lazily on the floor.
+~
+   The cat opens one eye slightly as you approach.  He looks at you briefly
+before closing his eye and continuing his nap.  Although, in appearance he is
+much like an ordinary housecat.  You sense something different about him.    
+~
+69640 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+500 14000 0
+8 8 1 0
+BareHandAttack: 8
+E
+#6289
+visitor woman mage~
+a visitor to the tower~
+A visitor to the tower is here unpacking her things.
+~
+   This young woman looks tired from a long journey.  She carefully takes her
+personal items from her pack and places them carefully in the chest.  From the
+looks of things, it would seem she is planning a long visit.    
+~
+524302 0 12 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 1
+8 8 2 0
+E
+#6291
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+E
+#6292
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+E
+#6293
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+E
+#6294
+housekeeper weary innkeeper~
+a weary housekeeper~
+The housekeeper busies herself with chores while waiting to help you to your room.
+~
+   Looking up from her chores, the housekeeper offers a quick smile before
+continuing with her work.  Her demeanor is pleasant despite her obvious
+fatigue.  She moves through the home cleaning and tidying, always ready to help
+you take your things up to the loft when you are ready to retire.    
+~
+7593994 33685528 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 0 0
+8 8 2 3
+E
+$

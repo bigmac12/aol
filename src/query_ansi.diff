@@ -1,0 +1,193 @@
+diff -c stock_src/comm.c src/comm.c
+*** stock_src/comm.c	Mon Dec 16 05:19:56 1996
+--- src/comm.c	Mon Dec 16 12:32:34 1996
+***************
+*** 976,982 ****
+    struct descriptor_data *newd;
+    struct sockaddr_in peer;
+    struct hostent *from;
+!   extern char *GREETINGS;
+  
+    /* accept the new connection */
+    i = sizeof(peer);
+--- 976,982 ----
+    struct descriptor_data *newd;
+    struct sockaddr_in peer;
+    struct hostent *from;
+!   extern char *ANSI;
+  
+    /* accept the new connection */
+    i = sizeof(peer);
+***************
+*** 1034,1040 ****
+  
+    /* initialize descriptor data */
+    newd->descriptor = desc;
+!   newd->connected = CON_GET_NAME;
+    newd->idle_tics = 0;
+    newd->wait = 1;
+    newd->output = newd->small_outbuf;
+--- 1034,1040 ----
+  
+    /* initialize descriptor data */
+    newd->descriptor = desc;
+!   newd->connected = CON_QANSI;
+    newd->idle_tics = 0;
+    newd->wait = 1;
+    newd->output = newd->small_outbuf;
+***************
+*** 1049,1055 ****
+    /* prepend to list */
+    descriptor_list = newd;
+  
+!   SEND_TO_Q(GREETINGS, newd);
+  
+    return 0;
+  }
+--- 1049,1055 ----
+    /* prepend to list */
+    descriptor_list = newd;
+  
+!   SEND_TO_Q(ANSI, newd);
+  
+    return 0;
+  }
+diff -c stock_src/config.c src/config.c
+*** stock_src/config.c	Mon Dec 16 05:19:56 1996
+--- src/config.c	Mon Dec 16 12:27:30 1996
+***************
+*** 185,190 ****
+--- 185,191 ----
+  
+  int nameserver_is_slow = NO;
+  
++ char *ANSI = "Do you support the ANSI color standard (Yn)? ";
+  
+  char *MENU =
+  "\r\n"
+diff -c stock_src/interpreter.c src/interpreter.c
+*** stock_src/interpreter.c	Mon Dec 16 11:51:26 1996
+--- src/interpreter.c	Mon Dec 16 12:59:04 1996
+***************
+*** 1246,1267 ****
+    extern sh_int r_immort_start_room;
+    extern sh_int r_frozen_start_room;
+    extern const char *class_menu;
+    extern int max_bad_pws;
+    sh_int load_room;
+  
+    int load_char(char *name, struct char_file_u *char_element);
+    int parse_class(char arg);
+  
+    skip_spaces(&arg);
+  
+    switch (STATE(d)) {
+!   case CON_GET_NAME:		/* wait for input of name */
+!     if (d->character == NULL) {
+!       CREATE(d->character, struct char_data, 1);
+!       clear_char(d->character);
+!       CREATE(d->character->player_specials, struct player_special_data, 1);
+!       d->character->desc = d;
+      }
+      if (!*arg)
+        close_socket(d);
+      else {
+--- 1246,1288 ----
+    extern sh_int r_immort_start_room;
+    extern sh_int r_frozen_start_room;
+    extern const char *class_menu;
++   extern const char *ANSI;
++   extern const char *GREETINGS;
+    extern int max_bad_pws;
+    sh_int load_room;
++   int color = 0;
+  
+    int load_char(char *name, struct char_file_u *char_element);
+    int parse_class(char arg);
+  
+    skip_spaces(&arg);
+  
++   if (d->character == NULL) {
++     CREATE(d->character, struct char_data, 1);
++     clear_char(d->character);
++     CREATE(d->character->player_specials, struct player_special_data, 1);
++     d->character->desc = d;
++   }
++ 
+    switch (STATE(d)) {
+!   case CON_QANSI:
+!     if (!*arg || LOWER(*arg) == 'y') {
+!       SET_BIT(PRF_FLAGS(d->character), PRF_COLOR_1 | PRF_COLOR_2);
+!       SEND_TO_Q("Color is on.\r\n", d);
+!       // SEND_TO_Q(ANSI_GREETINGS, d);
+!       SEND_TO_Q(GREETINGS, d);
+!     } else if (LOWER(*arg) == 'n') {
+!       REMOVE_BIT(PRF_FLAGS(d->character), PRF_COLOR_1 | PRF_COLOR_2);
+!       SEND_TO_Q("Color is off.\r\n", d);
+!       SEND_TO_Q(GREETINGS, d);
+!     } else {
+!       SEND_TO_Q("That is not a proper response.\r\n", d);
+!       SEND_TO_Q(ANSI, d);
+!       return;
+      }
++     STATE(d) = CON_GET_NAME;
++     break;
++   case CON_GET_NAME:		/* wait for input of name */
+      if (!*arg)
+        close_socket(d);
+      else {
+***************
+*** 1273,1278 ****
+--- 1294,1302 ----
+  	return;
+        }
+        if ((player_i = load_char(tmp_name, &tmp_store)) > -1) {
++         if (PRF_FLAGGED(d->character, PRF_COLOR_1))
++           color = 1;
++       
+  	store_to_char(&tmp_store, d->character);
+  	GET_PFILEPOS(d->character) = player_i;
+  
+***************
+*** 1285,1290 ****
+--- 1309,1320 ----
+  	  CREATE(d->character->player.name, char, strlen(tmp_name) + 1);
+  	  strcpy(d->character->player.name, CAP(tmp_name));
+  	  GET_PFILEPOS(d->character) = player_i;
++ 	  
++ 	  if (color) 
++ 	    SET_BIT(PRF_FLAGS(d->character), PRF_COLOR_1 | PRF_COLOR_2);
++ 	  else
++ 	    REMOVE_BIT(PRF_FLAGS(d->character), PRF_COLOR_1 | PRF_COLOR_2);
++ 	    
+  	  sprintf(buf, "Did I get that right, %s (Y/N)? ", tmp_name);
+  	  SEND_TO_Q(buf, d);
+  	  STATE(d) = CON_NAME_CNFRM;
+***************
+*** 1292,1297 ****
+--- 1322,1332 ----
+  	  /* undo it just in case they are set */
+  	  REMOVE_BIT(PLR_FLAGS(d->character),
+  		     PLR_WRITING | PLR_MAILING | PLR_CRYO);
++ 
++           if (color)
++             SET_BIT(PRF_FLAGS(d->character), PRF_COLOR_1 | PRF_COLOR_2);
++           else
++             REMOVE_BIT(PRF_FLAGS(d->character), PRF_COLOR_1 | PRF_COLOR_2);
+  
+  	  SEND_TO_Q("Password: ", d);
+  	  echo_off(d);
+diff -c stock_src/structs.h src/structs.h
+*** stock_src/structs.h	Mon Dec 16 11:51:27 1996
+--- src/structs.h	Mon Dec 16 12:26:27 1996
+***************
+*** 219,224 ****
+--- 219,225 ----
+  #define CON_CHPWD_VRFY   14		/* Verify new password		*/
+  #define CON_DELCNF1	 15		/* Delete confirmation 1	*/
+  #define CON_DELCNF2	 16		/* Delete confirmation 2	*/
++ #define CON_QANSI	 17		// Ask for ANSI support
+  
+  
+  /* Character equipment positions: used as index for char_data.equipment[] */
+Common subdirectories: stock_src/util and src/util

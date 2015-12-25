@@ -1,0 +1,313 @@
+#4200
+Fa-Ranal shadow~
+Fa-ranal~
+A shadow of a man with pale, taunt skin is lying here.
+~
+   Fa-ranal rises to his feet as you enter, quite angered by the disturbance.
+His face is deathly thin and pale.  His eyes, however, are alert and menacing.
+Just looking at this man sends a wave of terror through your body, urging you
+to run.    
+~
+1648394 33563820 525696 -850 E
+29 2 -13 4d33+1450 4d7+9
+2000 213000 8
+8 8 1 0
+BareHandAttack: 6
+E
+T 2
+#4201
+servant~
+a servant~
+A servant wanders about, checking for items in need of repair.
+~
+   This servant wanders about quietly, making sure that all the rooms and
+grounds remain in good condition.  He is extremely pale and looks as though he
+rarely sees the light of day.  His eyes are dark and sunken into his thin face.
+He does not seem to notice your presence at all.    
+~
+8 0 0 0 E
+15 11 1 5d10+300 2d8+4
+400 8400 0
+8 8 0 0
+E
+#4202
+fetch creature~
+a fetch~
+A nearly invisible creature moves quickly in and out sight.
+~
+   This creature looks as though it has been dragged straight from the Abyss.
+It appears haggard and deathly pale, yet inspires a chilling combination of
+fear and awe.  Its dull and lifeless eyes meet yours as an eerie grin spreads
+across its face.    
+~
+1583114 525354 67109506 -850 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 8
+8 8 0 0
+E
+T 4238
+#4203
+creature wraith dream corpse rotting dreamwraith~
+a dreamwraith~
+A creature resembling a rotting, human corpse stares out from the shadows.
+~
+   This horrible and frightening form looks as though it has been summoned from
+your worst nightmare.  Its form fades in and out of existence as it feeds off
+of your fears.  Appearing in the form of a rotting corpse, it looks somewhat
+familiar yet you cannot quite remember if you have seen it before.    
+~
+7343626 1036 0 -850 E
+28 2 -12 3d33+1250 4d7+9
+2800 175000 3
+8 8 0 0
+E
+#4204
+cleric Nightlord~
+the Nightlord of Takhisis~
+A cleric is here praying to his Dark Queen.
+~
+   His head bowed in solemn prayer to his Dark Queen, the Nightlord of Takhisis
+does not even look up to acknowledge your presence.  He emanates an aura of
+power which would seem to indicate that he has served his Queen well.    
+~
+598538 9348 71835652 -850 E
+29 2 -13 3d33+1450 4d7+9
+1800 213000 2
+8 8 1 0
+E
+T 2
+#4205
+dreamshadow dreamy shadowy figure~
+a dreamshadow~
+A shadowy figure wanders about the area.
+~
+   As you study the dreamshadow you cannot help but wonder if it is merely an
+illusion.  It seems to fade in and out of existence, and its form appears to
+shift.  One moment it is nothing more than a swirling mist, the next it
+appears somewhat familiar.  Its eyes stare at you, revealing an awareness and
+intelligence that is frightening.    
+~
+1049096 1028 0 -850 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 0
+8 8 0 0
+E
+#4206
+rabbit bunny small~
+a rabbit~
+A small bunny rabbit with a big fluffy tail hops around.
+~
+   As you look closely at the rabbit, the illusion is shattered.  What appeared
+to be a cute cuddly creature, is in fact a large fierce looking animal.  It
+looks back at you and snarls, bearing large sharp teeth.  Its fur is matted and
+caked with blood.    
+~
+8 0 0 0 E
+18 11 -2 3d20+380 3d6+6
+700 14000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#4207
+unicorn noble~
+a unicorn~
+A magnificent, white unicorn wanders through the field.
+~
+   When you look at the unicorn the illusion is broken.  No longer a
+magnificent white beast, the unicorn now appears to be a horrible black beast.
+It snarls at you as you approach, lowering its head to point its deadly black
+horn in your direction.    
+~
+10 0 0 0 E
+24 6 -8 3d33+750 4d6+8
+1300 68000 0
+8 8 2 0
+BareHandAttack: 11
+SkinData0: 4209
+E
+#4208
+elfmaid elf maid~
+an elfmaid~
+A lovely elfmaid wanders through the meadow picking wildflowers.
+~
+   When you look at the elfmaid the illusion is shattered.  Her beautiful face
+contorts into something dark and evil.  Her eyes are cold and filled with
+anger.  Her long hair is wild and caked with the blood of her previous victims.
+~
+1056778 1024 0 -850 E
+27 3 -11 3d33+1100 4d7+8
+1600 135000 0
+8 8 2 0
+BareHandAttack: 8
+E
+#4209
+butterfly fly butter~
+a butterfly~
+A butterfly flits through the air.
+~
+   When you look at the butterfly, the illusion is broken.  What appeared to be
+a butterfly is actually a vile, winged creature.  It has a black body with two
+spiked horns.  Its wings are black and covered with spines.  It swoops toward
+you as you look at it.    
+~
+73736 0 0 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 0
+8 8 0 0
+BareHandAttack: 4
+E
+#4210
+stahnk beast large~
+a stahnk~
+A large beast barely covered with rotting flesh paces back and forth.
+~
+   The size of a small dragon, the stahnk's bones protrude from its rotting
+flesh.  It has a great horned head, and its ribs are bare and barbed forming a
+nasty cage.  It walks on all fours, occasionally rearing on its hind legs,
+balancing with its stubby tail.    
+~
+1052680 1024 0 0 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 10
+8 8 0 0
+BareHandAttack: 8
+E
+#4211
+gholor beast large~
+a gholor~
+A large beast rests here.
+~
+   The gholor glares at you with cold, piercing eyes.  It has no hind legs and
+does not appear mobile, however it has massive claws at the end of each of its
+twenty-foot long arms.  It grins evilly, exposing its sharp teeth.    
+~
+262154 1024 0 0 E
+23 6 -7 3d33+650 3d8+8
+1200 52000 10
+8 8 0 0
+BareHandAttack: 8
+E
+#4212
+horax insect long~
+a horax~
+A long black insect crawls along the floor.
+~
+   This insectoid creature appears ferocious yet mindless.  It is very long and
+low to the ground.  It has twelve legs that end in strong grippers, able to
+hold firmly to nearly any surface.  It is very dark blue-black and seems to
+blend in with the floor.    
+~
+65544 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+0 11800 0
+8 8 0 0
+BareHandAttack: 4
+E
+#4213
+disir creature slimy~
+a disir~
+A hunched over, slimy creature lurks in the shadows.
+~
+   This disir stands about seven feet tall, although it walks hunched over.  
+Parts of its body is covered with a natural armor, while other areas show
+exposed rubbery flesh.  Its skin is a pasty green-white, and its pores exude a
+thick coating of slimy gel.  An aura of stench and decay hangs around it.    
+~
+1049096 1068 0 -850 E
+19 9 -3 3d20+410 3d6+6
+800 17000 0
+8 8 0 0
+BareHandAttack: 8
+E
+#4214
+fireshadow fiery figure~
+a fireshadow~
+A fiery, green figure fills the room.
+~
+   The fireshadow is a creature that must have been summoned from the Abyss by
+a dark cleric.  It is composed of a cold, green flame and stands nearly thirty
+feet tall.  It is surrounded by an aura of pale, green fire.    
+~
+3154440 1068 0 -850 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 0
+8 8 0 0
+E
+#4215
+cleric figure black hooded~
+a dark cleric~
+A hooded figure in black robes stands here, his head bowed in silent prayer.
+~
+   This man looks up at you as you approach, his eyes looking right through
+you.  A wicked, knowing smile spreads across his face.  His face appears old
+and is covered with the lines of age, yet he is quite alert and deliberate in
+his movements.    
+~
+598538 9376 8724488 -850 E
+27 3 -11 3d33+1100 4d7+8
+1600 135000 2
+8 8 0 0
+E
+#4216
+guardian spectral large~
+a spectral guardian~
+A large guardian stands ready to fight.
+~
+   This spirit floats slightly above the ground.  It still wears the armor that
+it wore in life.  It seems to materialize and dematerialize before your eyes.
+Its form is large and strong, and its eyes are fierce and cold.    
+~
+3158536 1038 0 -850 E
+26 4 -10 3d33+950 4d7+7
+1500 115000 0
+8 8 0 0
+E
+#4217
+corpse mangled~
+a mangled corpse~
+A mangled corpse lies on the table, oozing blood and gore.
+~
+   It is impossible to distinguish what this creature was.  Presently, it is
+nothing more than a heap of flesh and bone.  It is entirely covered with blood
+and gore, indicating a rather unpleasant demise.  It moves slightly as you look
+away from it.    
+~
+3146250 1028 0 0 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 10
+8 8 0 0
+E
+T 4200
+#4219
+rat bloated~
+a bloated rat~
+A bloated rat with beady eyes runs across the ground scavenging for food.
+~
+   This rat scurries across the floor as quickly as it can, slowed by its
+bloated belly.  It would seem that the rats here are able to find quite a bit
+of food.  Its fur is brown and dirty, and it stares back at you with beady red
+eyes.    
+~
+65548 0 0 0 E
+16 11 0 3d20+320 3d6+4
+0 11000 0
+8 8 0 0
+BareHandAttack: 4
+E
+#4220
+keeper crypt man nervous~
+the crypt keeper~
+A nervous looking man with bags under his eyes wanders around inspecting the place.
+~
+   This man appears very nervous and paranoid.  His skin is pale and his eyes
+are sunken, with large bags under them.  He looks back at you but does not seem
+surprised to see you.  He raises his hand to his chest as you approach and
+mutters something unintelligible.    
+~
+1056776 0 0 0 E
+25 5 -9 3d33+850 4d6+8
+1400 87000 0
+8 8 1 0
+E
+T 4220
+$

@@ -1,0 +1,146 @@
+    @@    @@@@ @@@@   @@@   @@@@  @     @@@@  @@@@ @@@@ @   @ @@@   @@@@
+   @  @  @     @     @   @  @     @     @    @     @    @@  @ @  @  @
+  @@@@@@ @  @@ @@@   @   @  @@@   @     @@@  @  @@ @@@  @ @ @ @   @ @@@@
+  @    @ @   @ @     @   @  @     @     @    @   @ @    @  @@ @  @     @ 
+  @    @  @@@  @@@@   @@@   @     @@@@  @@@@  @@@  @@@@ @   @ @@@   @@@@
+  ----------------------------------------------------------------------
+                         @   @ @@@@ @   @ @@@@ 
+                         @@  @ @    @   @ @    
+                         @ @ @ @@@  @ @ @ @@@@ 
+                         @  @@ @    @ @ @    @  
+                         @   @ @@@@ @@@@@ @@@@ 
+                         ---------------------
+
+                      NEW SPELL-CASTING LANGUAGE!
+
+Majere was able to get the existing code compiled without much effort.
+As a result we will be fixing bugs and adding small content from
+time-to-time, as the administration allows.
+
+Implemented here and now is an adjustment to the existing method of
+encrypting spells.  The dragonlance list of spell-words posted by
+Kassilis was implemented by Majere.  The post can be found here:
+
+http://www.ageoflegends.com/phpBB2/index.php/topic,190.0.html
+
+The new system uses dragonlance words for spells where there is
+a match, and the current system of alphabetic encryption elsewhere.
+For example the word 'light' translates to 'shirak'.  However the
+word 'bubble' has no translation and simply uses the regular
+letter-to-letter encryption and so would simply come out as
+garbled text.
+
+A second change to this system removes all other spell casting classes
+from the whole encryption process.  Thus only mages will have their
+spells encrypted.  Other classes, clerics for example, speak their
+spells in the form of prayers, and so would be understandable by any
+who can speak their language.  As a result when they cast a spell it
+is shown in plain text to all (at least until languages are implemented).
+
+The thread for comments and questions can be found at:
+
+http://www.ageoflegends.com/phpBB2/index.php/topic,254.0.html
+
+
+
+        NEW EXPERIENCE TO NEXT LEVEL DISPLAY IN SCORE!
+
+
+Majere has implemented a new system to display experience.  Please do not
+be alarmed if your Exp To Next Level % in your score is different.  This
+% value is now the actual % of experience that you have achieved to rise
+to the next level.  Previously this % value was a comparison of the total
+experience you had from all your levels compared to the total you needed
+for the upcoming level.  The new value is the actual percent of what you
+have against how much you need.  Here's an example:
+
+Old System:
+A) Total Exp:                    7,500
+B) Exp Required for Nexr Level: 10,000
+C) Percent Value to Next Level:    75%
+
+New System:
+A) Total Exp:                           7,500
+B) Exp Required for Last Level:         5,000
+C) Exp Required for Next Level:        10,000
+D) Actual Exp Required for Next Level:  5,000 ( (C) 10,000 - (B) 5,000 = (D) 5,000)
+E) Actual Exp Achieved for Next Level:  2,500 ( (A) 7,500 - (B) 5,000 = (E) 2,500)
+F) Actual Percent Value to Next Level:    50% ( (E) 2,500 / (D) 5,000 = (F) 50%)
+
+The official thread for questions and comments can be found here:
+
+http://www.ageoflegends.com/phpBB2/index.php/topic,255.0.html
+
+                    NEW ROLE-PLAYING TOOLS!
+
+Majere has added some nice new things to help the whole role playing process happen
+with a little less technical effort.
+
+First of all, in response to requests by players, the maximum long description
+length has been increased dramatically.  The maximum length is now 2,000 characters,
+which is approximately 20 lines at 80 characters each.  This should be more than
+enough for even the most desc-happy of players.
+
+Secondly the sayto command has been implemented, allowing characters to target
+specific individuals (even themselves) in the room with their verbal communication,
+be it in or out of character.
+
+Thirdly, we have added the ability to put emotes in your say and sayto strings.  To enable
+this, all you have to do is enclose the emoted text within two asterixes ('*').  The stated
+syntax for this feature says that the enclosed emote string must be before the say string,
+but in truth, it can be anywhere in the string (though after the sayto target in the case
+of the sayto command).  In the case that there is more than one string enclosed in asterixes
+only the first will be considered an emote.  If no closing asterix is added to the emote string
+then the entire string will be considered an emote, and thus there will be no say string,
+resulting in a syntax error, and the command will not go through.
+
+
+Syntax:
+
+say <*emote*> <say text>
+
+Example: 
+
+Input: 'say *Looking around the room curiously* Hmm, anyone here?'
+Output: 'Looking around the room curiously, you say, 'Hmm, anyone here?'.'
+
+sayto <*emote*> <say text>
+
+Example:
+
+Input: 'sayto dibbles *Staring him straight in the eyes* who do you think you are?'
+Output: 'Staring him straight in the eyes, you say to Dibbles, 'Who do you think you are?'.'
+
+The <*emote*> is entirely optional.  Omitting it will simply make the string appear as it
+does currently.
+
+Examples:
+
+Input: 'say Hmm, anyone here?'
+Output: 'You say, 'Hmm, anyone here?'.'
+
+Input: 'sayto dibbles Who do you think you are?'
+Output: You say to Dibbles, 'Who do you think you are?'.'
+
+Finally on an unrelated, but entirely positive note, players will no longer suffer the
+frusteration of watching a mob die of bloodlack and thus loosing all their hard-fought-for
+exp from that fight.  The mob will remain incapacitated, mortally wounded, or
+what-have-you, and will not lose any hp whatsoever, unless it is from a direct hit from
+a player character or other mob.  Tick-damage rooms are the exception to this rule.  Mobs
+can still die in a tick-damage room, thus 'stealing' the exp from players.
+
+Any and all questions ort comments about the say or sayto command, the extra long 
+description length, or the bloodlack mob death fix can be posted at the following thread:
+
+http://www.ageoflegends.com/phpBB2/index.php/topic,257.0.html
+
+    
+                         COMING SOON!
+
+We will be adjusting the spells for certain clerics and paladins (for
+example: Paladins of Kiri-Jolith will not be stuck with silly spells
+that do them little to no good).
+
+Adding a new zone in soon that will help you from level 5-10, as well
+as offer monks a bit more equipment and possibly weapons.
+

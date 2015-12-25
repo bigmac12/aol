@@ -1,0 +1,316 @@
+#5500
+speaker chamber~
+the speaker of the chamber~
+The speaker of the chamber looks out over the crowd.
+~
+   A loud and booming voice resonates from an old and grisled man wearing a
+long set of pale red robes.  His hands are clenched together and large veins
+protrude out from the sides of his temples as he strains to make his voice
+heard out to the far edges of the chamber.  He turns slowly, addressing each
+member of the congregation with his eyes.    
+~
+3893258 128 272 0 E
+25 5 -9 3d33+850 4d6+8
+1435 89500 1
+8 8 1 0
+E
+T 2
+#5501
+tear filled woman cleric~
+a tear filled cleric~
+A tear filled cleric steps lightly around the corpses.
+~
+   A woman walks and paces back and forth among the bodies and decayed remains
+of the fallen mages.  She slowly shakes her head back and forth while quietly
+weeping at the loss of life.  Pausing for a moment at the body of someone who
+has recently fallen, she checks for some sign of life before quickly glancing
+up to the high ledge above.    
+~
+524424 4096 32769 0 E
+17 10 -1 3d20+340 3d6+5
+635 11800 2
+8 8 2 0
+E
+#5502
+mage third order~
+a mage of the third order~
+A mage of the third order looks down to the stage.
+~
+   A young elven mage stands quietly at the edge of the viewing platform with
+his hands on the rail and gazes intensely down to the stage to try hear the
+voice of the speaker.  He is wearing a set of simple red robes without any
+adornment and is likely a new addition to the order, recently promoted from his
+apprenticeship.    
+~
+8 0 0 0 E
+15 11 1 5d10+300 2d8+4
+385 8400 0
+8 8 1 0
+BareHandAttack: 13
+E
+#5503
+mage second order~
+a mage of the second order~
+A mage of the second order contemplates a brilliant light.
+~
+   Completely taken aside and absorbed by his own thoughts, a mage wearing red
+robes with a single silver line around the wrists stares up into the brilliant
+white light which emits down from the ceiling of the chamber.  Although
+apparently only listening to the speaker abstractly, he nods his head
+emphatically at a certain phrase and mumbles incomprehensibly.    
+~
+8 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+595 11800 0
+8 8 1 0
+BareHandAttack: 13
+E
+#5504
+woman deep crimson robes mage~
+a woman in deep crimson robes~
+A woman in deep crimson robes patiently obeserves the proceedings.
+~
+   This woman strides confidently around the viewing ledges, diligently
+monitoring the mages of the lower orders as they listen to their lessons.  Her
+long hair is tied back into a tight ball behind her head and though her skin
+appears somewhat wrinkled, her eyes blaze in a youthful and luminescent light
+that displays her power and intelligence.    
+~
+524296 0 8192 0 E
+20 8 -4 3d20+440 3d7+6
+902 25000 1
+8 8 2 0
+E
+#5505
+attendant man~
+an attendant of the speaker~
+An attendant of the speaker runs about intently.
+~
+   A short man with sharp and elongated features rushes about the hallways of
+the speakers private rooms.  Apparently picked at a young age from the lower
+orders he lacks the fine robes of the mages and wears only a simple tunic and
+pants.  Although currently completing housekeeping tasks, this man also serves
+as guard and protector for his master.    
+~
+8 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+790 17000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#5506
+man coated dust mage~
+a man coated in fine dust~
+A man coated in fine dust examines the stairs.
+~
+   Fine dust blows up from all around a tall and slender man wearing a thick
+leather apron over his dirt stained robes.  Apparently one of the interiors'
+workmen, a narrow beam of hot flame projects from his palm onto the stone
+floor, smoothing and shaping it.  He coughs hoarsely before continuing, his
+lungs filled with years of inhaled dust.    
+~
+524296 0 4 0 E
+16 11 0 3d20+320 3d6+4
+487 12200 1
+8 8 1 0
+BareHandAttack: 7
+E
+#5507
+kender frozen awe~
+a kender frozen in awe~
+A kender frozen in awe stares at the orb.
+~
+   A little kender wearing dark brown clothes sits frozen in terror and awe at
+the sight of the illuminated globe.  Unlike anyone else here, it seems as
+though she has snuck in in an attempt to borrow the light but was overcome
+before she could complete the task.  Although still alive, she remains
+immobile, overcome by the brilliant beauty of the magical orb.    
+~
+10 0 0 0 E
+15 11 1 5d10+300 2d8+4
+422 8400 0
+8 8 2 0
+BareHandAttack: 3
+E
+#5508
+aprrentice mage frayed~
+an apprentice mage in frayed robes~
+An apprentice mage in frayed robes walks about cleaning the floor.
+~
+   As one of the lowest ranking members of this conclave, this apprentice is
+required to perform the most mundane of tasks in order to ensure a position
+later on.  He carefully by hand picks up any small piece of dirt he sees and
+places it in a small metal container which hangs about his neck.  Apparently
+pleased with his progress he pauses for a moment to lean up against the wall.
+~
+8 0 0 0 E
+16 11 0 3d20+320 3d6+4
+448 11000 0
+8 8 1 0
+E
+#5509
+head librarian~
+the head librarian~
+The head librarian carries an armload of books.
+~
+   An ancient looking woman walks slowly about the library carrying various
+books to be reshelved.  Her eyes seem to be almost completely glazed over with
+a thin white film caused by decades of reading books in some of the libraries
+dim corners.  She recites magical verse as she walks, likely re-reading the
+text of some memorized book she can no longer recheck.    
+~
+1572872 0 44040192 0 E
+23 6 -7 3d33+650 3d8+8
+1235 52000 1
+8 8 2 0
+E
+#5510
+young elf bloodshot eyes~
+a young elf with bloodshot eyes~
+A young elf with blood shot eyes scans through the shelves.
+~
+   Pouring over the innumerable titles of books on the shelves is a young elf
+who is conducting some sort of research.  His eyes are red and it appears as
+though he has been working non stop on some problem for days.  It is obvious
+the thirst for magical knowledge has consumed him and is unable to stop the
+work that will increase his power.    
+~
+69644 0 0 0 E
+19 9 -3 3d20+410 3d6+6
+830 17000 0
+8 8 1 0
+E
+#5511
+tired researcher~
+a tired researcher~
+A tired researcher wearing stained white robes.
+~
+   An overly fatigued man with gnarled hands still manages to show a lot of
+enthusiasm as he rapidly thumbs through the pages of one of the many old and
+arcane books in front of him.  His once white robes have been tarnished yellow
+from smoke and inattention.  Although intensely focused on the task he still
+manages a smile as you approach.    
+~
+8 0 0 0 E
+16 11 0 3d20+320 3d6+4
+545 11000 0
+8 8 1 0
+BareHandAttack: 13
+E
+#5512
+frightened injured bird~
+a frightened and injured bird~
+A frightened and injured bird thrashes on the floor.
+~
+   A bird with black and red feathers has apparently accidently flown in
+through the opening in the wall to the outside and landed heavily on the stone
+floor within the library.  It hops around flopping side to side as it favors a
+wing which it holds outstretched.  Not allowing anyone to come too close, it
+hisses and snaps and points long, sharp talons.    
+~
+10 0 0 0 E
+17 10 -1 3d20+340 3d6+5
+463 11800 0
+8 8 0 0
+BareHandAttack: 8
+E
+#5513
+heavily built cleric~
+a heavily built cleric~
+A heavily built cleric kneels by the opening.
+~
+   A fat and jolly looking man has set aside his books momentarily to come over
+and try to see what the source of the noise is near the opening to the library
+from the outside cliff.  Spotting that something seems to have come in from the
+freezing cold outside he kneels down near the opening and begins to recite some
+unknown words in a calm monotone.    
+~
+1572874 0 262160 0 E
+21 8 -5 3d33+450 3d8+7
+974 33500 2
+8 8 1 0
+E
+#5514
+large grey cat~
+a large grey cat~
+A large grey cat stalks some unseen prey.
+~
+   Walking stealthily through the halls is a large grey cat with huge fringed
+ears and keen copper colored eyes.  This animal is likely the mages easy fix
+for the constant pest problem within the interior of the cliff.  The cat lays
+down just long enough to get a good smell from the edge of the floor before
+standing up again and looking ready to continue the hunt.    
+~
+8 0 0 0 E
+15 11 1 5d10+300 2d8+4
+374 8400 0
+8 8 0 0
+BareHandAttack: 4
+E
+#5515
+valet man speakers~
+the speakers valet~
+The speaker's valet and assistant waits patiently.
+~
+   A man with immaculately groomed hair and cleanly pressed clothes quietly
+folds clothing off to the side of the room.  Chosen as valet for the speaker he
+is responsible for the personal image of the speaker and to ensure his schedule
+is maintained.  Although likely not paid for his services, he receives the
+benefit of the old mages experience and skill.    
+~
+10 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+910 25000 0
+8 8 1 0
+BareHandAttack: 6
+E
+#5516
+conclave astronomer mage~
+the conclave astronomer~
+The conclave astronomer looks out through a telescope.
+~
+   The woman responsible for the research of the observatory sits patiently
+looking through a long, brass cylinder at the dark sky.  She furiously
+scribbles down notes on the movement of the stars and their importance on the
+magical forces that control the spheres.  She rubs her eyes deeply for a moment
+before returning to an intense squint through the eyepiece.    
+~
+524298 33554432 32 0 E
+22 7 -6 3d33+550 3d8+7
+1110 48000 1
+8 8 2 0
+E
+#5517
+woman robes symbols~
+a woman in decorated robes~
+A woman wearing a robes covered in astrological symbols works around the room.
+~
+   A curiously tall woman with a severe tic in one eye steps back and forth
+between the piles of books and papers that litter the floor of this small
+chamber.  Newly constructed, she is responsible for the organizing and
+recataloguing these written resources which have been incautiously dumped on
+the floor.  In frustration she throws the papers down and fumes at her
+impossible task.    
+~
+1048584 0 0 0 E
+20 8 -4 3d20+440 3d7+6
+880 25000 0
+8 8 2 0
+E
+#5518
+blind slug form~
+a blind, slug like form~
+A blind, slug like form crawls along the stone.
+~
+   A strange looking animal that resembles a slug or a worm seems to have
+worked its way up from down below.  Not suited to the environment of the cliffs
+it seems to have only come this far in a desperate attempt to search for food.
+The soft and glistening body appears pale and shrunken from the increasing cold
+and its movements are slow and deliberate.    
+~
+8 33 0 0 E
+15 11 1 5d10+300 2d8+4
+377 8400 0
+8 8 0 0
+E
+$

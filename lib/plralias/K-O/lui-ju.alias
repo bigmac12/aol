@@ -1,0 +1,85 @@
+2
+no
+10
+track self
+0
+4
+back
+7
+kill $*
+1
+4
+skin
+11
+skin corpse
+0
+5
+skinn
+21
+wield sai;skin corpse
+1
+6
+awaken
+7
+wake $*
+1
+2
+ga
+9
+group all
+0
+1
+c
+6
+chakra
+0
+4
+wake
+10
+wake;stand
+1
+4
+door
+27
+unlock door $*;open door $*
+1
+1
+o
+13
+trip $*;stand
+1
+1
+i
+9
+disarm $*
+1
+1
+t
+8
+throw $*
+1
+1
+9
+32
+retreat $*;retreat $*;retreat $*
+1
+1
+5
+29
+flee;flee;flee;flee;flee;flee
+1
+1
+k
+7
+kick $*
+1
+1
+2
+24
+get all.coins all.corpse
+0
+1
+1
+18
+get all all.corpse
+0

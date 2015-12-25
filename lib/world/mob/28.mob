@@ -1,0 +1,809 @@
+#2800
+merchant grey grey-haired haggard old~
+a haggard, grey-haired merchant~
+A haggard, grey-haired merchant plods his way towards the village.
+~
+   This bedraggled old fellow seems to have seen far to many bad years.  His
+face looks like a map of twisting rivers, deep age marks mar his brow and face.
+  
+~
+14 0 0 0 E
+7 16 9 3d5+85 2d6+1
+0 400 0
+8 8 1 0
+E
+#2801
+mule weary slow~
+a weary mule~
+A weary mule follows its master, no apparent haste in his duties.
+~
+   A weary mule follows its master, no apparent haste in his movement.  Fat and
+old, the mule swats flys from his dull grey hide with his long bushy, yet
+ragged tail.  His eyes display the weary simple-mindedness of his breed as they
+scan the road around him for obstacles.    
+~
+16777226 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 1 0
+E
+#2802
+squirrel grey-tailed grey small eating nibbiling~
+a small, grey-tailed squirrel~
+A small, grey-tailed squirrel sits here nibbling on a walnut.
+~
+   A small, grey-tailed squirrel sits here nibbling on a walnut.  It scatters
+endlessly at those creatures which dare to enter its space, its eyes blazing
+with challenge.  Finishing the walnut, the squirrel scampers about looking for
+bits of food.    
+~
+136 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 0 0
+BareHandAttack: 4
+E
+#2803
+deer buck young sniffing sniffs~
+a young male deer~
+A young buck sniffs the air, seemingly unaware of your prescence.
+~
+   A young buck sniffs the air, seemingly unaware of your presense.  Despite
+its youth, the buck has a full set of antlers, giving it a regal and slightly
+imposing look.  Havings satified itself there is no danger in the area, the
+buck goes back to eating the
+~
+2058 0 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 1 0
+E
+#2804
+gate guardsman guard man young shaggy idle bored surveying~
+an idle gatesman~
+An idle gate guardsman stands here surveying into the forest beyond.
+~
+   This fellow looks quite young to be a guardsman, especially for the main
+gates.  A shaggy stubbled beard hangs from his chin and a less impressive
+moustache pretends to hide his upper lip.  He turns to you, and gives you a
+quick nod.    
+~
+1054730 0 0 0 E
+16 11 0 3d20+320 3d6+4
+456 11000 3
+8 8 1 0
+E
+#2805
+drunk drunken sot ~
+a drunken sot~
+A drunken sot waddles about telling outrageous tales of his adventures.
+~
+   As you take a better look at this particular drunk he runs up, throws his
+arm around you and looks you in the eyes as though he were going to say
+something urgent.  'I took his eye you know!  ' he exhales a deep breath of
+moonshine into your face, 'I did!  Took it with my sword!  '.  He waves a table
+knife in your face, pretending to parry and dodge, he stumbles into a table
+which rises angry grumbles from its inhabitants.    
+~
+10 0 0 0 E
+5 17 11 2d5+65 2d5+0
+25 85 0
+8 8 1 0
+E
+#2806
+wench barmaid woman girl busty~
+a busty bar wench~
+A busty barmaid stands here cooing and tittering at the tales of her patrons.
+~
+   This girl seems to be far too young to be working in this type of
+enviornment.  Her gleaming blue eyes seem to soak in everything around her.  A
+bun of mouse-brown tangles pinned up on her head where stray strands play
+across her brow to be quickly batted aside.    
+~
+142 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 2 0
+E
+#2807
+mag magara tanned well-muscled muscular woman ~
+Magara Skez-Reth~
+A tanned, well-muscled woman dominates the room from her lounging position.
+~
+   A coy grin seems to play across her blood red lips as she listens to the
+mindless banter of her 'partners'.  Her scarlet locks restrained by a thick
+leather cord.  Her glance turns to you, and her nose wrinkles.    
+~
+1052682 0 0 0 E
+16 11 1 5d10+300 2d8+4
+560 8400 3
+8 8 2 0
+E
+#2808
+mercenary merc shrewd dark black beady-eyed beady~
+a dark-skinned mercenary~
+A shrewd, beady-eyed dark-skinned mercenary leans up against the eastern wall.
+~
+   A shrewd beady-eyed dark-skinned mercenary leans up against the eastern
+wall.  He peers around occassionally, flashing a wide lop-sided grin at any
+passersby, displaying a mounth full of rotten teeth.    
+~
+4110 0 0 0 E
+10 14 6 5d4+160 2d7+3
+90 1900 3
+8 8 1 0
+E
+#2809
+merchant wiry plump nervous~
+a nervous-looking merchant~
+A wiry merchant sits on one of the crates, sweat running down his plump face.
+~
+   This man looks less than comfortable having to deal with the darker side of
+his business.    
+~
+138 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+E
+#2810
+motherly female hefty cook~
+a hefty female cook~
+A motherly-looking, hefty female cook chops away at a large chunk of venison.
+~
+   The kind of cook you would write home to mother about.  Her plumps fingers
+crush a handful of herbs into a large bowl of venison slabs.  Her large warm
+brown eyes turn to you and a oddly high-pitched voice pips 'Hungry?  '
+~
+11 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+4000000 1 0
+8 8 2 0
+E
+#2811
+corded soot covered figure man blacksmith~
+the blacksmith~
+A corded, soot-covered figure pounds away forcefully at a lump of steel ore.
+~
+   The man that stands before you is no less than imposing.  His fiery red hair
+is full of ash and soot, but it barely dulls its colour.  A pair of striking
+emerald green orbs dot his long flat nose.  His physique is superb from long
+days in the forge, corded muscle lining every inch of his body.    
+~
+7593994 0 235 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 1 0
+E
+#2812
+old lady woman little grey frail smiling witch pale blue~
+a frail, grey-haired little old lady~
+A frail-looking, grey-haired little old woman stands here, smiling at you.
+~
+   The woman that stands before you seems to have seen the wear of the seasons
+and enjoyed it greatly.  Not the type to be bitter about being old.  Her pale
+blue eyes glitter with the innocence and love of life of a small child.    
+~
+47258 201339908 750 0 E
+17 10 -1 3d20+340 3d6+5
+750 11800 0
+8 8 2 0
+E
+#2813
+beggar bedraggled ~
+a bedraggled old beggar~
+A bedraggled looking beggar sits here, wrapped in a thin patched blanket.
+~
+   You get the impression that this man has seen a very hard life, besides the
+obvious signs.  Tiny worry lines criss-cross his face, though he looks to be no
+older than thirty something.  Grey hilights streak the sides of his unwashed
+nutmeg mane.    
+~
+142 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 1 0
+E
+#2814
+child small scruffy waiting ~
+a small, scruffy-looking child~
+A scruffy child stands here, awaiting his turn to play.
+~
+   This particular child doesn't seem to have missed too many meals.  His eyes
+seem unaffected by his enviornment, they gleam innocently as he turns to plunge
+into the game.    
+~
+142 0 150 0 E
+1 20 15 1d2+5 1d4+0
+1 7 0
+8 8 1 0
+E
+#2815
+mother worried worry paranoid~
+a concerned-looking mother~
+A worry-faced mother looks concerned to see her child playing so wildly.
+~
+   This woman does not appear to be happy at all that her child is running
+around in this dangerous area playing so foolish a game.    
+~
+4110 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 2 0
+E
+#2816
+wild crazy man slums prophet~
+a crazy-looking old man~
+The slums prophet sits here, fortelling the destruction of all.
+~
+   This man is obviously insane.  His hair is tangled in knotted in a grey mass
+while his eyes dart about as though looking for someone.  His gaze turns to
+you.  'It will happen I say!  That fat baron will see his death!  The fool
+exiled the witch!  She will turn him into a toad!  She did me!  ' He begins to
+hop around on all fours, making poorly immitated frog noises.    
+~
+14 0 0 0 E
+6 17 10 2d5+70 2d5+2
+25 175 0
+8 8 1 0
+E
+#2817
+woman huddling wailing weeping crying~
+a wailing beggar woman~
+A woman huddles in the southwestern corner of the room weeping into her hands.
+~
+   'My son..  My poor son...  The sickness took him!  ' she wails.  'That
+bastard baron and his taxes got us thrown out of our homes, children should not
+sleep in cold damp streets!!  ' she returns to wailing.    
+~
+4238 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 2 0
+E
+#2818
+plump woman Ayara Man'Daez~
+Ayara Man'Daez~
+A plump woman with streaked silver hair stands behind the counter tending shop.
+~
+   A narrow grim lays heavily on this well-feed woman's lips.  She dresses in
+odd taste, a pale blue robe tied with a bright green cord covered with silver
+bells.  A heavy yellow shawl hangs on her shoulders which seem to sag slightly
+under the weight.    
+~
+10 33554432 350 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 2 0
+E
+#2819
+fellow slender frosted beard thom~
+Thom Madrain~
+A slender-looking fellow with a frosted beard sits behind the counter.
+~
+   A hearty man, though not apparently stocky.  His hair is mostly black though
+hilighted by a frosting of white.  He fusses with a leather vest, attaching
+small iron studs to it.    
+~
+26 33554432 0 0 E
+30 1 -14 3d33+1700 4d8+9
+1000000 250000 0
+8 8 1 0
+E
+#2820
+gatesman guard sturdy surveying intent~
+a sturdy-looking gatesman~
+A sturdy-looking gatesman stands here, his eyes intently surveying the forest.
+~
+   This fellow seems to have had a few too many bowls of mutton stew.  His
+round belly looks as though you might be able to pop it with a pin.  A
+short-cut mane of brown locks hang about his head while a bushy beard cascades
+down his chest.    
+~
+1054730 0 0 0 E
+16 11 0 3d20+320 3d6+4
+350 11000 3
+8 8 1 0
+E
+#2821
+rabbit small brown nestle nestli~
+a small brown rabbit~
+A small brown rabbit nestles itself under the leaves of a green fern. 
+~
+   A small brown rabbit nestles itself under the leaves of a green fern.  It
+turns its head slightly as you approach, its ears pricking up.  Constantly on
+the lookout for danger the rabbit twicthes its nose in irritation, its meal
+having been disturbed.    
+~
+138 0 0 0 E
+2 19 14 1d3+12 1d5+1
+2 13 0
+8 8 0 0
+BareHandAttack: 4
+E
+#2822
+blackbird bird scampering scampers hungry~
+a hungry blackbird~
+A blackbird scampers about here searching for something to eat.
+~
+   A hungry blackbird scampers about, searching for something to eat.  It caws
+loudly as you approach and takes flight.  Circling around you hungrily, the
+bird screeeches in hunger.    
+~
+138 0 0 0 E
+3 19 13 1d5+25 1d6+1
+5 25 0
+8 8 0 0
+BareHandAttack: 1
+E
+#2823
+vibrant scarlet forester ranger saireh jade~
+Saireh-Jade~
+A vibrant, scarlet-haired forester leans up against a large oak here.
+~
+   By the looks of her you would guess this girl to be half-elven.  Her
+slightly tilted pale green eyes glimmer in the light.  A mane of fiery
+flame-coloured locks frame her delicately featured face.  She flashes you a
+benevolent grin.    
+~
+3194906 659456 0 1000 E
+24 5 -8 3d33+1100 4d6+9
+2315 68000 3
+8 8 2 0
+E
+#2824
+troll gnarled chewinf~
+a gnarled troll~
+A gnarled troll sits in the corner of the room chewing on a human arm.
+~
+   Blood runs off his pointy teeth and down his chin as he chews.  With a
+glance he jumps to his feet and rushes at you.    
+~
+46 1056 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 0 0
+E
+#2825
+bat cave enormous~
+an enormous cave bat~
+An enormous cave bat hangs from a stalagcite here.
+~
+You seem to have disturbed it.....
+~
+42 524288 0 0 E
+2 20 8 25d1+10 1d3+1
+0 15 0
+8 8 0 0
+E
+#2826
+black widow overgrown weaving~
+an overgrown black widow~
+An overgrown black widow weaves a web around what looks like a body.
+~
+Nothing.
+~
+10 1024 0 0 E
+5 16 7 1d1+70 1d5+2
+0 85 0
+8 8 0 0
+E
+#2827
+hired guard guardsmen guardsman manchara~
+a house Manchara gatesmen~
+A hired guardsmen stands here watching the gates to house Manchara.
+~
+   A stout fellow with dark curly hair stands before you.  His appearance
+overall seems benevolent, though the rapier bouncing at his side says
+otherwise.  He flashes you a toothy grin and makes some indistinguishable
+grunt.    
+~
+4110 0 0 0 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 1 0
+E
+#2828
+noble woman blonde leaning inhaling~
+a blonde noble woman~
+A blonde-haired noble woman leans over a rose bush inhaling deeply.
+~
+   This woman is no less than stunning.  Her long golden locks hang loosely
+around her shoulders and her cool blues eyes command your attention.  Though
+she makes no eye contact with you, you have a feeling that she would rather you
+not be in her garden.    
+~
+136 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 2 0
+E
+#2829
+maid homely~
+a homely-looking maid~
+A homely-looking maid carrying a large basket stops to drink from the fountain.
+~
+   Far too old to still be actively serving the oldies of the house this maid
+has taken to doing small tasks for her mistresses, such as picking roses or
+fetching wine.    
+~
+142 0 0 150 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 2 0
+E
+#2830
+servant nervous tray-laiden laiden~
+a tray-laiden servant~
+A nervous-looking servant attempts to balance two trays as he strolls on.
+~
+   Much like the rest of the servants in this estate this gent seems to be
+working himself to the bone.    
+~
+138 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 1 0
+E
+#2831
+portly noble~
+a portly noble~
+A portly noble stands here sipping from a pewter brandy sniffer.
+~
+   It doesn't seem this gent has missed any meals recently, or ever.  In his
+right hand, he holds an enormous brandy snifter, filled to the brim with dark
+cherry red brandy.  The smell of alhocol eminates from him in waves.  It is
+obvious he is quite drunk.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+E
+#2832
+assassin raven-haired woman slender shadows~
+a raven-haired assassin~
+A slender raven-haired woman blends into the shadows.
+~
+   A fair-skinned personification of beauty stands before you.  A tight leather
+cord pulls her raven mane back into a thick braid whiler her violet orbs dart
+about as though she was just waiting to be caught.    
+~
+1073176 263170 0 0 E
+17 10 -1 3d20+340 3d6+5
+704 11800 4
+8 8 2 0
+E
+#2833
+woman old gray-haired haired ~
+a gray-haired old woman~
+A gray-haired old woman chops herbs with a dull ceramic knife at the table.
+~
+   Occasionally wincing as her eyes fail and she nicks her finger the old woman
+constantly chops away at her block, seemingly without a care in the world.    
+~
+138 0 0 0 E
+6 17 10 2d5+70 2d5+2
+35 175 0
+8 8 2 0
+E
+#2844
+cook man hulking flipping~
+a hulking cook~
+A hulking man hunches over the stove flipping some panned concoction.
+~
+   A heavy frame draped with layers of fat and muscle makes up an overall
+enormously hulking man.  He seems to be the head cook around the manor, though
+watching him rather turns your stomach.    
+~
+10 0 0 0 E
+8 15 8 5d5+110 2d6+2
+70 800 0
+8 8 1 0
+E
+#2845
+weary nanny old silvery~
+a weary nanny~
+A weary nanny sits on the bed here running a brush through her silvery mane.
+~
+   A few good steps from utterly exhausted this woman seems to have seen a good
+day's work.  She vainly attempts to brush her knotted recently un-braided
+silvery mane.    
+~
+10 0 0 400 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 2 0
+E
+#2846
+woman large thick armed mother~
+a large, thick-armed woman~
+A large, thick-armed woman leans over the craddle tickling her baby's chin.
+~
+   Soot and ash cover this womans cloths and seem to have stained her hair.  
+She looks to be an ash-maid of some sort, perhaps the chimney sweep.  A gleam
+of hope seems to twinkle in her eye, then slowly dies.    
+~
+4110 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 2 0
+E
+#2847
+baby bundle small gigg coo~
+a little tiny baby girl~
+A small bundle lays on the bed giggling and cooing.
+~
+   This seems to be the cutest baby you could ever imagine, a little smudge of
+soot from her mother's hands dots her tiny little nose.    
+~
+10 0 0 1000 E
+1 20 15 1d2+5 1d4+0
+0 7 0
+8 8 2 0
+E
+#2848
+elderly woman ~
+an elderly woman~
+An elderly woman stands here leaning on a slender birch cane.
+~
+   A walking skeleton only a few steps from death, perhaps that's why she has
+these chambers.  Yet, at the same time, there is a gentleness about her which
+draws you to her.  She seems almost matronly.  She glances up at you and
+smiles.    
+~
+10 0 0 150 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 2 0
+E
+#2849
+aged woman middle wiry ~
+the head maid~
+A wiry-looking middle aged woman stands here half dressed undoing her hair.
+~
+   A rather attractive woman stands here undressing for her bath.  Startled at
+your entrance she reaches for some clothes and hurriedly covers herself.  She
+looks at you in extreme irritation.  If you do not leave soon, she may call for
+the guards.    
+~
+10 0 0 120 E
+10 14 6 5d4+160 2d7+2
+90 1900 0
+8 8 2 0
+E
+#2850
+berzerker honey leaning stalwart~
+a stalwart female berzeker~
+A stalwart, honey-haired berzerker stands here leaning on a moon-bladed axe.
+~
+   The woman standing before you is intensely impressive.  Her hair is tightly
+braided and pinned under her helmet.  A long narrow scar runs over her left eye
+to her right cheek.  She seems as experienced as any of the other battle
+mongers raging about her.    
+~
+10 0 0 125 E
+10 14 6 5d4+160 2d7+2
+90 1900 3
+8 8 2 0
+E
+#2851
+urchin scruffy shifty~
+a scruffy-looking urchin~
+A scruffy-looking urchin with a shifty gaze creeps in and out of the shadows.
+~
+   A deep-set pair of auburn eyes peers back at you as you take in the urchin.
+Small inklings of a beard dancing over his chin, and a mane of dirty brownish
+hair cut short and sloppily.    
+~
+140 786432 0 -250 E
+8 16 4 30d1+65 1d4+4
+70 1000 0
+8 8 1 0
+E
+#2852
+weathered forest crusader peppered silver~
+a weathered forest-crusader~
+A weathered forest-crusader with peppered silver hair oversees the cadets here.
+~
+   Delicate features indicate an elf on sight.  And this fellow is no
+exception.  Further inspection shows that he has seen his fair share of years,
+even for an elf.  His silvery mane is restrained by a leather cord which
+encircles his head.    
+~
+26 0 0 450 E
+15 10 1 5d10+300 2d8+4
+500 8400 3
+8 8 1 0
+E
+#2853
+Sonya Laurala troubled wizened half-elf hazel~
+Sonya Laurala~
+A troubled-looking wizened half-elf with hazel eyes paces back and fourth here.
+~
+   Like most of her cousins this one seems to be rather against the sort of
+goings on of her work.  She constantly runs her fingers through tangled crimson
+hair and paces back and forth muttering to herself.  Occasionally she kneels at
+the feet of an injured cadet and shakes her head.    
+~
+1056794 4224 650 800 E
+23 5 -7 3d33+650 3d8+8
+2345 52000 3
+8 8 2 0
+E
+#2854
+guard clad crimson stout temple ~
+a crimson-clad temple guard~
+A stout temple guard clad in a suit of heavy crimson armour stands here.
+~
+   A stout temple guard stands here calmly observing all visitors to the
+temple.  He has an odd look to him, it almost seems like he is not quite human.
+Odd completely black eyes stare back at you sternly as you gaze upon him.  He
+wears a suit of heavy crimson armor designed to indicate he guards those who
+pursue the neutral course.    
+~
+1052682 40 0 0 E
+24 6 -8 3d33+880 4d6+8
+1000 68000 0
+8 8 1 0
+E
+#2855
+midnight clad temple guard stout~
+a midnight-clad temple guard~
+A stout temple guard clad in a suit of heavy midnight armour stands here.
+~
+   A stout temple guard stands here calmly observing all visitors to the
+temple.  He has an odd look to him, it almost seems like he is not quite human.
+Odd completely black eyes stare back at you sternly as you gaze upon him.  He
+wears a suit of heavy midnight armor designed to indicate he guards those of
+the darker pursuits.    
+~
+1063434 8232 0 -1000 E
+24 6 -8 3d33+750 4d8+8
+1250 68000 0
+8 8 1 0
+E
+#2856
+guard temple ivory stout~
+an ivory-clad temple guard~
+A stout temple guard clad in a suit of heavy ivory armour stands here.
+~
+   A stout temple guard stands here calmly observing all visitors to the
+temple.  He has an odd look to him, it almost seems like he is not quite human.
+Odd completely black eyes stare back at you sternly as you gaze upon him.  He
+wears a suit of heavy ivory armor designed to indicate he guards those of
+goodness.    
+~
+1192202 9256 0 1000 E
+22 6 -6 3d33+700 3d10+7
+800 40000 3
+8 8 1 0
+E
+#2857
+savant golden youthful emerald gael lenoir~
+Gael Lenoir~
+A youthful, emerald-eyed golden-haired savant walks by you without a glance.
+~
+   A very handsome man who appears to be around twenty some years of age stands
+before you.  His deep set emerald eyes give you a quick calculating glance from
+under the shadows of his deep black cloak and he snorts, continuing by.    
+~
+24584 33562664 983 -675 E
+22 7 -6 3d33+550 3d8+7
+2300 40000 3
+8 8 1 0
+E
+#2858
+anayare pale honey woman black emaciated~
+Anayare Egdrauthe~
+A pale, emaciated honey maned woman in black robes leers here behind her desk.
+~
+   A sad sight to see such a lovely face wasted in the studies and libraries.
+Delicate features accentuate the poor health of this woman, though she seems as
+though she is ready to spring into action from where she stands.    
+~
+1581082 139272 10486048 -750 E
+26 4 -10 3d33+1600 4d7+9
+1350 115000 1
+8 8 2 0
+E
+T 2
+#2859
+bardoes treyare steely scholar pristine robes~
+Bardoes Treyare~
+A steely-eyed scholar in pristine robes sits behind the desk.
+~
+   A frail-looking man in white robes peers down his long narrow nose at a book
+then casually throws it aside reaching for another.  He doesn't even seem to
+notice your presence.    
+~
+532490 4104 2097184 1000 E
+25 5 -9 3d33+850 4d6+8
+3021 87000 1
+8 8 1 0
+E
+T 2
+#2860
+rutre furuiw balding man skinny ~
+Rutre Furuiw~
+A skinny, balding man in blood-toned robes floats in midair.
+~
+   This man seems to fade in and out of existence as you look at him....  As
+such, you cannot get a good look at him.  However, you can see he is dressed in
+blood red robes of some sort.  Also, his eyes are closed as if he is
+concentrating extremely hard on something.    
+~
+532490 77826 23068704 0 E
+25 4 -9 3d33+1050 4d6+9
+2345 87000 1
+8 8 1 0
+E
+T 2
+#2861
+merchaant visiting~
+a visiting merchant~
+A visiting merchant roams the streets of Havaenna, purse in hand.
+~
+   Havaenna has been known for its high quality steel products, many are
+interested in trading for crude steel and finished materials.    
+~
+200 0 0 132 E
+5 17 11 2d5+65 2d5+0
+20 85 0
+8 8 1 0
+E
+#2862
+lich sorian archmage bones~
+the Lich of Sorian Nadakar, Archmage of the Black Robes~
+Hands poised in spellcasting a pile of bones and decayed flesh arises to attack!
+~
+You stand in the presence of a lich. Your soul seems to cower in fear in
+the darkest corner of your being.
+~
+16426 9224 835 -1000 E
+31 0 -15 30d1+2000 2d4+20
+10000 400000 0
+8 8 0 0
+BareHandAttack: 8
+E
+#2863
+Festus director~
+Festus~
+Festus, the director of the Chamber, stands behind the counter waiting to greet visitors.
+~
+   Festus is a rather short, rotund man.  He smiles happily as you look at him,
+eager to assist in anyway.  He leans over the counter, busily reviewing all the
+documents which are delivered to him by local merchants.    
+~
+7340042 0 0 0 E
+30 1 -14 4d33+1700 4d8+9
+1700 250000 0
+8 8 0 0
+E
+#2864
+Daishiki postmaster~
+Daishiki~
+Daishiki, the postmaster, peers out from behind a large stack of mail.
+~
+   Daishiki is a dark skinned man, with chestnut-colored hair and eyes.  He
+smiles wearily as you enter, glancing at the stacks of unsorted mail that cover
+the small table and floor.    
+~
+7593994 0 0 0 E
+30 1 -14 3d33+1700 4d8+9
+0 250000 0
+8 8 0 1
+E
+#2899
+dolphin undead mutilated~
+the undead dolphin~
+A mutilated undead dolphin lays on its side here, snarling.
+~
+Nothing.
+~
+260126 33763456 0 0 E
+1 20 15 1d2+5 1d4+0
+2147483647 7 0
+8 8 0 0
+E
+$

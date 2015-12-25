@@ -1,0 +1,95 @@
+1
+l
+11
+sneak; l $*
+1
+2
+dw
+15
+drink waterskin
+0
+4
+flee
+22
+flee; flee; flee; flee
+1
+2
+fw
+23
+fill waterskin fountain
+0
+2
+df
+14
+drink fountain
+0
+2
+ba
+70
+remove hoopak; wield dagger; backstab $* ; remove dagger; wield hoopak
+1
+2
+ki
+4
+kick
+0
+3
+gac
+14
+get all corpse
+0
+1
+e
+17
+sneak; east; hide
+1
+2
+sw
+22
+sneak; southwest; hide
+1
+2
+se
+22
+sneak; southeast; hide
+1
+2
+ne
+22
+sneak; northwest; hide
+1
+2
+nw
+22
+sneak; northwest; hide
+1
+1
+d
+17
+sneak; down; hide
+1
+1
+u
+15
+sneak; up; hide
+1
+1
+w
+17
+sneak; west; hide
+1
+1
+n
+18
+sneak; north; hide
+1
+1
+s
+18
+sneak; south; hide
+1
+2
+sc
+4
+scan
+0

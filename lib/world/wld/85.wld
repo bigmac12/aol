@@ -1,0 +1,1838 @@
+#8500
+The Entryway~
+   The entryway of the Lord's mansion is quite large and ornately decorated.  
+The walls are made of a beautiful white stone, and the floor is covered with
+plush, deep blue carpeting.  A large chandelier hangs overhead, casting a warm
+glow throughout the room.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8502
+D1
+~
+~
+0 0 8501
+D2
+~
+~
+0 0 8504
+D3
+A large wooden door.
+~
+door large wooden~
+1 0 8536
+S
+#8501
+The Main Hallway~
+   The deep plush carpet quiets the footsteps of all who pass through the main
+hallway.  Various paintings line the walls, giving the room a peaceful aura.  
+Ornate wall sconces hang between the paintings, lighting the hallway.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8506
+D1
+~
+~
+0 0 8507
+D3
+~
+~
+0 0 8500
+S
+#8502
+A Hallway Leading to the Servant's Quarters~
+   This hallway leads north towards the servant's quarters.  There is much
+activity in this area of the mansion, as servants scuttle about in every
+direction making sure that everything is done to their master's specifications.
+The Lord must be a very demanding man.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8503
+D2
+~
+~
+0 0 8500
+S
+#8503
+Servant's Quarters~
+   These are the sleeping quarters for the servants.  Small bunks line the
+walls of the cramped room.  The room is sparsely decorated, in sharp contrast
+to the rest of the mansion.  The smell of sweat fills the air, as the servants
+run around preparing for their daily tasks.    
+~
+85 8 0 0 0
+D2
+~
+~
+0 0 8502
+S
+#8504
+A Hallway Leading to the Guard's Quarters~
+   This hallway runs between the main entryway of the mansion and the guard's
+quarters.  The sound of voices can be heard to the south, it must be the guards
+enjoying some time off.  The walls are lined with expertly crafted swords and
+shields, readily available for use at a moment's notice.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8500
+D2
+~
+~
+0 0 8505
+S
+#8505
+Guard's Quarters~
+   More spacious than the servant's quarters, this room provides the guards
+with a quiet retreat after a day's work.  A few tables line the wall to the
+south, and a card table has been set up in the middle of the room.  The table
+is strewn with playing cards and chips, as though the game has been
+interrupted.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8504
+S
+#8506
+Stairway to the Wine Cellar~
+   This small stairway leads down to the basement of the mansion, which houses
+the Lord's wine collection.  To the south is the main hallway of the mansion.
+A cold breeze rises up from the basement below.    
+~
+85 12 0 0 0
+D2
+~
+~
+0 0 8501
+D5
+~
+~
+0 0 8514
+S
+#8507
+The Main Hallway~
+   The deep plush carpet quiets the footsteps of all who pass though the main
+hallway.  Various paintings line the walls, giving the room a peaceful aura.  
+People dressed in festive clothing are everywhere in the mansion.  It must be
+the Lord's annual picnic today.  Children playing tag run through the hallway,
+almost knocking the pictures from the walls.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8508
+D1
+~
+~
+0 0 8512
+D2
+~
+~
+0 0 8509
+D3
+~
+~
+0 0 8501
+S
+#8508
+The Kitchen~
+   The appetizing smell of cooking food fills the air.  Servants are busily
+running in and out of the kitchen with large silver trays piled high with food
+for the Lord and his guests.  To the north is a doorway leading out to a small
+garden.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8510
+D2
+~
+~
+0 0 8507
+S
+#8509
+The Dining Room~
+   This large dining room is lavishly decorated with rich wood furnishings.  A
+brightly polished long table runs the entire length of the room.  Servants are
+running about frantically, trying to prepare for the Lord's next meal.  A
+beautifully carved clock stands in the corner of the room, chiming softly.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8507
+S
+#8510
+The Chef's Vegetable Garden~
+   This small vegetable garden is conveniently located just next to the
+mansion's kitchen, providing the chef with easy access to fresh vegetables for
+use in his creations.  Small rows of corn, carrots, onions and other vegetables
+line the garden.  The rows are perfectly straight and the crops are in superb
+health.  It is obvious that these gardens are very well tended.    
+~
+85 0 1 0 0
+D0
+~
+~
+0 0 8511
+D2
+~
+~
+0 0 8508
+S
+#8511
+The Chef's Herb Garden~
+   The gravel path cuts through a small garden here.  This herb garden provides
+the chef with fresh herbs for use in his culinary masterpieces.  Parsley, sage,
+rosemary, thyme, and other herbs grow in neat little rows filling the air with
+the fragrance.  A small watering can rests at the edge of the garden.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8542
+D2
+~
+~
+0 0 8510
+D3
+~
+~
+0 0 8540
+S
+#8512
+The End of the Hallway~
+   A large painting hangs on the wall that ends the hallway.  Looking to the
+south a stairway can be seen that leads to the upper floors of the mansion.  
+To the west, the hallway continous towards the entrance of the mansion.  It
+must be the Lord's annual picnic today.  Children playing tag run through the
+hallway, almost knocking the pictures from the walls.    
+~
+85 8 0 0 0
+D1
+   Leaded glass doors.    
+~
+door glass doors~
+1 0 8550
+D2
+~
+~
+0 0 8513
+D3
+~
+~
+0 0 8507
+S
+#8513
+At the Base of a Stairway~
+   This stairway lead to the upper floors of the mansion.  The stairs are
+covered with thick red carpeting.  An ornately carved wooden handrail runs
+along the stairway.  To the north lies the main hallway which leads back to the
+entrance of the mansion.    
+~
+85 12 0 0 0
+D0
+~
+~
+0 0 8512
+D4
+~
+~
+0 0 8518
+S
+#8514
+The Tasting Room~
+   By far the most popular room in the cellar, this tasting room is where the
+Lord brings his priveleged guests to sample his most treasured wines.  The room
+is beautifully decorated.  Dried grape vines hang along the walls, and ornate
+wall sconces provide light for the Lord's guests.  A long tasting table rests
+in the middle of the room.  Tall stools stand around the table, inviting all
+who enter to sit and have a sip of wine.    
+~
+85 9 0 0 0
+D1
+~
+~
+0 0 8515
+D2
+~
+~
+0 0 8517
+D4
+~
+~
+0 0 8506
+S
+#8515
+Wine Cellar~
+   The room is rather dark.  No sunlight, which can be harmful to the wines
+aging process, penetrates the cellar.  Large oaken barrels line the walls.  
+They are no doubt filled with wines that are continuing to age before being
+bottled for use at the mansion.  The air is filled with the welcome scent of
+the wine mixed with oak.    
+~
+85 9 0 0 0
+D2
+~
+~
+0 0 8516
+D3
+~
+~
+0 0 8514
+S
+#8516
+Wine Cellar~
+   The room is rather dark.  No sunlight, which can be harmful to the wines
+aging process, penetrates the cellar.  Large oaken barrels line the walls.  
+They are no doubt filled with wines that are continuing to age before being
+bottled for use at the mansion.  The air is filled with the welcome scent of
+the wine mixed with oak.    
+~
+85 9 0 0 0
+D0
+~
+~
+0 0 8515
+D3
+~
+~
+0 0 8517
+S
+#8517
+Wine Cellar~
+   By far the most popular room in the cellar, this tasting room is where the
+Lord brings his privilaged guests to sample his most treasured wines.  This
+room houses the Lord's vast collection of fine wines.  Large wooden racks,
+filled with bottles of the wine, line the walls.  A small table sits against
+the wall.  It is covered with empty bottles and corks.    
+~
+85 9 0 0 0
+D0
+~
+~
+0 0 8514
+D1
+~
+~
+0 0 8516
+D3
+   A small crack can be faintly seen in the mortar behind one of the Lord's
+well-stocked wine racks.    
+~
+rack crack door passage wall secret~
+1 0 8594
+S
+#8518
+Entrance to the Second Floor~
+   This landing leads to the second floor of the mansion.  The stairs are
+covered with thick red carpeting.  An ornately carved wooden handrail runs
+along the stairway.  To the north is a hallway.  The stairs continue up to the
+third floor and down to the main floor of the mansion.    
+~
+85 12 0 0 0
+D0
+~
+~
+0 0 8519
+D4
+~
+~
+0 0 8526
+D5
+~
+~
+0 0 8513
+S
+#8519
+A Hallway~
+   This hallway leads to the more public quarters of the Lord's mansion.  The
+north there is a bedroom for his guests which stay here from time to time.  To
+the south is the stairway that leads to the top floor, or back to the main
+floor.  The hallway continues on to the west.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8520
+D2
+~
+~
+0 0 8518
+D3
+~
+~
+0 0 8521
+S
+#8520
+Guest Bedroom~
+   This bedroom is decorated in various shades of green.  A large bed with a
+deep green covering stands in the middle of the room.  A window on the north
+wall is opened to let the light breeze cool the room, filling it with the scent
+of the herbs from the gardens below.    
+~
+85 8 0 0 0
+D2
+~
+~
+0 0 8519
+S
+#8521
+A Hallway~
+   The walls of the hallway are almost completely covered by several large
+paintings.  The floor is covered with thick blue carpeting that hushes the
+footsteps of those who pass.  The hallway continues to the east and west.  The
+sound of laughter can be heard from the south.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8519
+D2
+~
+~
+0 0 8522
+D3
+~
+~
+0 0 8523
+S
+#8522
+Game Room~
+   This large game room is where the Lord spends much of his leisure time.  A
+chess board is set up on the table in the corner with two overstuffed chairs
+beside it.  A gaming table stands in the middle of the room.  Various other
+games are neatly stored away on the shelves that line the walls.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8521
+S
+#8523
+A Hallway~
+   The walls of the hallway are almost completely covered by several large
+paintings.  The floor is covered with thick blue carpeting that hushes the
+footsteps of those who pass.  The hallway continues to the east.  A comfortable
+room with a rather large fireplace is visible to the north.  The fireplace is
+so large that the heat from it can be felt while standing in the hallway.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8524
+D1
+~
+~
+0 0 8521
+D3
+~
+~
+0 0 8525
+S
+#8524
+The Living Room~
+   This room is warm and inviting.  The perfect place for the Lord and his
+family to welcome honored guests on a cold winter night.  An enormous fireplace
+fills the entire northern wall of the room.  Comfortable, richly decorated
+furniture fills the room.    
+~
+85 8 0 0 0
+D2
+~
+~
+0 0 8523
+S
+#8525
+A Trophy Room~
+   The walls of this room are completely covered with the mounted heads of
+animals.  The Lord must enjoy a good hunt and has obviously been successful in
+his past endeavors.  On the northern wall there is a bow and quiver of arrows,
+ready for use at the Lord's convenience.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8523
+S
+#8526
+Entrance to the Top Floor~
+   This landing provides access to the top floor of the Lord's mansion.  This
+is the more private section of the home, where the Lord and his family spend
+their personal time.  To the north, a hallway leads through the second floor.
+The stairway leads down to the second and ground floors of the mansion.    
+~
+85 12 0 0 0
+D0
+~
+~
+0 0 8527
+D5
+~
+~
+0 0 8518
+S
+#8527
+A Hallway~
+   This hallway leads to the Lord's private quarters.  It is the most lavishly
+decorated part of the mansion.  Very few outside visitors are invited into this
+area.  An office is visible to the north, and to the south is the stairway
+which leads down to the lower levels of the mansion.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8528
+D2
+~
+~
+0 0 8526
+D3
+~
+~
+0 0 8529
+S
+#8528
+The Lord's Office~
+   This large room appears to serve as the Lord's private office and library.
+Bookshelves line the walls, overflowing with hundreds of different books.  A
+large wooden desk stands in the middle of the room cluttered with paperwork.  
+A small fireplace in the corner casts a warm glow throughout the room.    
+~
+85 8 0 0 0
+D2
+~
+~
+0 0 8527
+S
+#8529
+A Hallway~
+   This hallway leads through the private quarters of the Lord and his family.
+It is the most lavishly decorated hall in the mansion.  Very few outside
+visitors are invited into this area.  The hallway continues to the east and
+west.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8527
+D3
+~
+~
+0 0 8530
+S
+#8530
+A Hallway~
+   This hallway leads through the private quarters of the Lord and his family.
+It is the most lavishly decorated hall in the mansion.  Very few outside
+visitors are invited into this area.  Large statues stand on each side of the
+hallway, adding to the Lord's impressive art collection.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8531
+D1
+~
+~
+0 0 8529
+D3
+~
+~
+0 0 8532
+S
+#8531
+The Children's Room~
+   This room serves as the sleeping quarters for the Lord's children.  The
+walls are painted a bright yellow and the rug is a beautiful shade of blue.  
+The whole room is decorated cheerfully.  Beautifully crafted dolls sit on the
+shelves that hand from the walls, and a large toy box, overflowing with toys,
+sits in the corner.    
+~
+85 8 0 0 0
+D2
+~
+~
+0 0 8530
+S
+#8532
+End of the Hallway~
+   This hallway leads through the private quarters of the Lord and his family.
+It is the most lavishly decorated hall in the mansion.  Very few outside
+visitors are invited into this area.  A large bedroom is visible to the south.
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8530
+D2
+~
+~
+0 0 8533
+S
+#8533
+The Master Bedroom~
+   This room is decorated with a regal shade of blue.  Large banners hang from
+the walls on all sides.  A huge canopy bed stands in the middle of the room.  
+The Lord has obviously spared no expense in furnishing his bedroom.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8532
+S
+#8534
+A Brick Path~
+   This brick path winds its was through beautifully maintained gardens.  The
+flower boxes overflow with roses and gardenias.  The sweet fragrance fills the
+air.  Small butterflies dance about the blooms.  A large stately mansion is
+visible to the east.  Dozens of small lanterns line the path, providing light
+during the nighttime hours.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8582
+D1
+~
+~
+0 0 8536
+D3
+~
+~
+0 0 5097
+S
+#8535
+A Elegant Garden~
+   This lavish garden, was obviously carefully planned.  The boxwood hedges
+that line the perimeter are all perfectly trimmed.  A lovely statue stands in
+the center of the garden surrounded by flowering topiaries, draped with ivy.  
+Small birds fly amongst the blooms, sipping their sweet nectar.    
+~
+85 0 1 0 0
+D0
+~
+~
+0 0 8538
+D2
+~
+~
+0 0 8536
+S
+#8536
+A Brick Path~
+   This brick path winds its was through beautifully maintained gardens.  The
+flower boxes overflow with roses and gardenias.  The sweet fragrance fills the
+air.  Small butterflies dance about the blooms.  The entryway to a large
+stately mansion is visible to the east.  Light from within pours out through
+the large windows on either side of the door.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8535
+D1
+A large wooden door.
+~
+door large wooden~
+1 0 8500
+D2
+~
+~
+0 0 8537
+D3
+~
+~
+0 0 8534
+S
+#8537
+An Elegant Garden~
+   This lavish garden, was obviously carefully planned.  The boxwood hedges
+that line the perimeter are all perfectly trimmed.  A lovely statue stands in
+the center of the garden surrounded by flowering topiaries, draped with ivy.  
+Small birds fly amongst the blooms, sipping their sweet nectar.    
+~
+85 0 1 0 0
+D0
+~
+~
+0 0 8536
+S
+#8538
+A Garden Path~
+   This narrow path continues from the front of the mansion to the back patio
+and grounds.  The path itself is composed of small stones and crushed
+seashells.  It is bordered on one side with flower boxes which are carefully
+tended by the gardeners.  Ivy creeps up the stone wall of the mansion, which
+lies to the east.  Oil lanterns line the path, providing light during the
+evening hours.    
+~
+85 8 0 0 0
+D2
+~
+~
+0 0 8535
+D3
+~
+~
+0 0 8583
+D7
+~
+~
+0 0 8539
+S
+#8539
+A Garden Path~
+   This narrow path continues from the front of the mansion to the back patio
+and grounds.  The path itself is composed of small stones and crushed
+seashells.  It is bordered on one side with flower boxes which are carefully
+tended by the gardeners.  Ivy creeps up the stone wall of the mansion, which
+lies to the south.  Oil lanterns line the path, providing light during the
+evening hours.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8540
+D8
+~
+~
+0 0 8538
+S
+#8540
+A Garden Path~
+   This narrow path continues from the front of the mansion to the back patio
+and grounds behind it.  The path itself is composed of small stones and crushed
+seashells.  It is bordered on both sides with flower boxes which are carefully
+tended by the gardeners.  Oil lanterns line the path, providing light during
+the evening hours.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8511
+D3
+~
+~
+0 0 8539
+S
+#8542
+A Garden Path~
+   This narrow path continues from the front of the mansion to the back patio
+and grounds.  The path itself is composed of small stones and crushed
+seashells.  It is bordered on both sides with flower boxes which are carefully
+tended by the gardeners.  Oil lanterns line the path, providing light during
+the evening hours.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8543
+D3
+~
+~
+0 0 8511
+D9
+~
+~
+0 0 8546
+S
+#8543
+Under a Large Canopy~
+   A large, white canopy has been set up in the gardens for the picnic.  A long
+banquet table overflows with food.  Several different meats as well as fruits
+and vegetables have been set out for the Lord's guests.  A small fountain has
+been placed atop a table in the center of the tent.  It flows with a rich, red
+wine.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8544
+D2
+~
+~
+0 0 8546
+D3
+~
+~
+0 0 8542
+S
+#8544
+The Dance Floor~
+   Wooden flooring has been put down over the lawn here to create a dance floor
+for the guests.  Candelabras stand at each of the four corners of the dance
+floor.  Bright flowers encircle the base of each of the candles.  A stage
+stands at the eastern side of the dancefloor.  A white canopy is visible to the
+west.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8545
+D3
+~
+~
+0 0 8543
+S
+#8545
+On a Small Stage~
+   This small stage was built for the picnic.  It rises a few feet above the
+danceflooor.  Hired minstrels have setup their musical instruments to provide
+entertainment and music for dancing.  Banners have been hung over the stage.  
+One bears the Lord's coat of arms.  The dancefloor lies immediately to the
+west.    
+~
+85 8 0 0 0
+D3
+~
+~
+0 0 8544
+S
+#8546
+A Garden Path~
+   This narrow path continues from the front of the mansion to the back patio
+and grounds.  The path itself is composed of small stones and crushed
+seashells.  It is bordered on both sides with flower boxes which are carefully
+tended by the gardeners.  Oil lanterns line the path, providing light during
+the evening hours.    
+~
+85 12 0 0 0
+D0
+~
+~
+0 0 8543
+D1
+~
+~
+0 0 8547
+D2
+~
+~
+0 0 8549
+D6
+~
+~
+0 0 8542
+S
+#8547
+The Children's Playground~
+   This section of the grounds has been set aside for the Lord's children.  
+Wooden swings have been hung from the large shade trees that grow here.  A
+small flowerbed has been planted here by the children, and they tend to it
+themselves.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8548
+D3
+~
+~
+0 0 8546
+S
+#8548
+The Children's Play Area~
+   This section of the grounds has been set aside for the Lord's children.  
+Wooden swings have been hung from the large shade trees that grow here.  A
+small flowerbed has been planted here by the children, and they tend to it
+themselves.  Ponies have been brought up from the stables to provide
+entertainment for the children during the picnic.    
+~
+85 8 0 0 0
+D3
+~
+~
+0 0 8547
+S
+#8549
+A Garden Path~
+   This narrow path continues from the front of the mansion to the back patio
+and grounds.  The path itself is composed of small stones and crushed
+seashells.  It is bordered on both sides with flower boxes which are carefully
+tended by the gardeners.  Oil lanterns line the path, providing light during
+the evening hours.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8546
+D2
+~
+~
+0 0 8550
+S
+#8550
+A Brick Patio~
+   This large, brick patio extends across the back of the mansion.  A low,
+brick fence wraps around the patio, with benches built right into it.  The
+perimeter is lined with oil lanterns which provide light as well as help to
+drive away bugs.  Glass doors to the west provide access to the main house, and
+a path to the east leads toward the guest house.    
+~
+85 12 0 0 0
+D0
+~
+~
+0 0 8549
+D1
+~
+~
+0 0 8551
+D2
+~
+~
+0 0 8562
+D3
+   Leaded glass doors.    
+~
+door glass~
+1 0 8512
+S
+#8551
+A Gravel Path~
+   This short path runs from the main house to the guest house.  The path
+itself is composed of small stones and crushed seashells.  It is bordered on
+both sides with flower boxes which are carefully tended by the gardeners.  Oil
+lanterns line the path, providing light during the evening hours.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8552
+D2
+~
+~
+0 0 8563
+D3
+~
+~
+0 0 8550
+S
+#8552
+Before the Guesthouse~
+   The gravel path which winds its way around the mansion ends here before a
+charming little building which serves as a guest house.  Two steps lead up to
+the stately front door of the dwelling.  Though much smaller than the mansion
+itself, the guest house has been built in the same fashion and possesses an
+inviting charm.    
+~
+85 8 0 0 0
+D1
+   A heavy wooden door with a small window.    
+~
+door heavy wooden~
+1 0 8553
+D3
+~
+~
+0 0 8551
+S
+#8553
+The Entry Foyer~
+   The foyer of the guest house has high, vaulted ceiling which stretch up the
+roof of the dwelling.  The wooden flooring is covered with a richly woven
+carpet of deep violet.  Two large candelabras decorated with prisms hang on
+either side of the front door.  An open staircase, which leads to the landing
+above, clings to the northern wall.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8554
+D2
+~
+~
+0 0 8557
+D3
+   A heavy wooden door with a small window.    
+~
+door wooden heavy~
+1 0 8552
+D4
+~
+~
+0 0 8555
+S
+#8554
+A Pleasant Kitchen~
+   The kitchen of the guest house is quite spacious.  Though most of the
+cooking is done by servants in the main house, this kitchen enables guests to
+prepare meals for themselves, if they so desire.  A large stone fireplace
+dominates the eastern wall.  Iron pots, filled with simmering stews, hang on
+hooks over the warm coals.    
+~
+85 8 0 0 0
+D2
+~
+~
+0 0 8558
+D3
+~
+~
+0 0 8553
+S
+#8555
+A Small Landing~
+   This small landing leads to the bedrooms.  It is open to the foyer and
+sitting room below.  A small, wooden table sits in the corner between the two
+doorways.  Tall candlesticks rest on the table providing light.  A long, narrow
+rug stretches across the floor from the top of the stairs to the doorway to the
+south.    
+~
+85 12 0 0 0
+D1
+~
+~
+0 0 8556
+D2
+~
+~
+0 0 8559
+D5
+~
+~
+0 0 8553
+S
+#8556
+A Bedroom~
+   This bedroom is smaller than the master bedroom of the guest house but still
+provides ample room for its occupants.  Two beds stand against the northern
+wall with a simple nightstand between them.  An oil lamp has been placed upon
+the night stand to provide light.  Opposite the beds is large dresser.  Atop
+the dresser are three porcelain dolls.  Each is dressed in a silken gown with
+matching hairbow.    
+~
+85 8 0 0 0
+D3
+~
+~
+0 0 8555
+S
+#8557
+A Comfortable Sitting Room~
+   The vaulted ceilings in this room combine with the lavish furnishings to
+create an elegant sitting room for those fortunate enough to be invited to stay
+as the Lord's guests.  The wood flooring is covered with a large rug which
+helps to create a comfortable feeling in this spacious room.  Two large couches
+sit opposite eachother providing comfortable seating for the guests.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8553
+D1
+~
+~
+0 0 8558
+S
+#8558
+The Breakfast Nook~
+   This spacious room opens to both the kitchen and the sitting room of the
+guest house.  Large windows which look out onto the gardens flood the room with
+light during the daytime hours.  A table with four chairs sits in the middle of
+the room atop a handsomely woven rug.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8554
+D2
+~
+~
+0 0 8560
+D3
+~
+~
+0 0 8557
+S
+#8559
+A Stately Bedroom~
+   The sheer size of this bedroom is overwhelming, however the room is not
+cold.  Its oversized furnishings and plush carpeting provide an elegant warmth
+and charm.  A massive, canopy bed is centered on the eastern wall.  Two small
+nightstands rest on eitherside of the bed.  Atop each is a white scarf with a
+lantern resting upon it.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8555
+D2
+~
+~
+0 0 8561
+S
+#8560
+A Private Terrace~
+   Tall lattice work surrounds this small terrace creating a private setting
+for the Lord's guests.  Morning glories wind their way up the lattice filling
+it with their lovely, pale blue blooms each day.  Their light scent is carried
+on the gentle breeze that blows across the terrace.  A large hammock woven from
+soft roping hangs between to wooden poles along the edge of the terrace, adding
+to the relaxing atmosphere of this private retreat.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8558
+S
+#8561
+A Balcony~
+   Looking out over the gardens, this balcony provides one of the loveliest
+views in Karthay.  Some of the taller buildings in the city can be seen beyond
+the green lawns of the Lord's estate.  The balcony is sparsely furnished, with
+two lounge chairs and a small table providing all that is needed for a relaxing
+retreat.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8559
+S
+#8562
+A Brick Patio~
+   This large, brick patio extends across the back of the mansion.  A low,
+brick fence wraps around the patio, with benches built right into it.  The
+perimeter is lined with oil lanterns which provide light as well as help to
+drive away bugs.  A tall arbor is visible to the south.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8550
+D1
+~
+~
+0 0 8563
+D2
+~
+~
+0 0 8564
+S
+#8563
+By the Reflecting Pool~
+   A large pool of water has been added to this section of the grounds.  Its
+mirror-like surface reflects the mansion which lies to the west.  A narrow path
+circles around the pool.  Wooden benches have been positioned along the path.
+Ceramic planters on either side of each bench overflow with large, colorful
+blooms.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8551
+D3
+~
+~
+0 0 8562
+S
+#8564
+Under an Arbor~
+   Extending out from the side of the mansion over the gardens, this tall arbor
+provides welcome shade from the hot afternoon sun.  Lush grape vines weave
+their way through the lattice work.  The vines are laden with deep purple fruit
+that grows well in this sandy soil.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8562
+D1
+~
+~
+0 0 8565
+D2
+~
+~
+0 0 8568
+S
+#8565
+Under an Arbor~
+   Extending out from the side of the mansion over the gardens, this tall arbor
+provides welcome shade from the hot afternoon sun.  Lush grape vines weave
+their way through the lattice work.  The vines are laden with deep purple fruit
+that grows well in this sandy soil.    
+~
+85 12 0 0 0
+D2
+~
+~
+0 0 8569
+D3
+~
+~
+0 0 8564
+S
+#8566
+A Boxwood Maze~
+   The boxwood bushes that create the walls of this maze have been allowed to
+grow taller than a man's head.  They are carefully tended so that their thick
+foliage prohibits anyone from peeking through the hedge walls they create.  
+Footprints leading in various directions cover the dirt path that winds through
+the labyrinth.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8567
+D2
+~
+~
+0 0 8570
+S
+#8567
+A Boxwood Maze~
+   The tall hedges that make up the maze grow much taller than the average
+man's head.  They have been carefully tended and trimmed to form smooth walls.
+Their foliage is so dense that it is impossible to see through their branches.
+Footsteps in the dirt path seem to lead in all directions at once.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8568
+D2
+~
+~
+0 0 8571
+D3
+~
+~
+0 0 8566
+S
+#8568
+A Boxwood Maze~
+   The boxwoods that grow here have been allowed to grow tall but have been
+carefully pruned to form a labyrinth.  Their dense foliage makes it impossible
+to see through the hedge walls.  The dirt path that seems to wander endlessly
+amongst the bushes has several footprints in it, all leading in different
+directions.    
+~
+85 12 0 0 0
+D0
+~
+~
+0 0 8564
+D3
+~
+~
+0 0 8567
+S
+#8569
+A Boxwood Maze~
+   The tall hedges that make up the maze grow much taller than the average
+man's head.  They have been carefully tended and trimmed to form smooth walls.
+Their foliage is so dense that it is impossible to see through their branches.
+Footsteps in the dirt path seem to lead in all directions at once.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8565
+D2
+~
+~
+0 0 8573
+S
+#8570
+A Boxwood Maze~
+   The boxwoods that grow here have been allowed to grow tall but have been
+carefully pruned to form a labyrinth.  Their dense foliage makes it impossible
+to see through the hedge walls.  The dirt path that seems to wander endlessly
+amongst the bushes has several footprints in it, all leading in different
+directions.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8566
+D2
+~
+~
+0 0 8574
+S
+#8571
+A Boxwood Maze~
+   The boxwoods that grow here have been allowed to grow tall but have been
+carefully pruned to form a labyrinth.  Their dense foliage makes it impossible
+to see through the hedge walls.  The dirt path that seems to wander endlessly
+amongst the bushes has several footprints in it, all leading in different
+directions.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8567
+S
+#8572
+A Boxwood Maze~
+   The boxwoods grow tall and thick making it nearly impossible to determine
+which way is which.  All the hedges have been carefully tended and neatly
+trimmed making each part of the labyrinth look much like that last.  
+Footprints leading in all directions cover the dirt path the weaves in and
+amongst the boxwoods.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8573
+D2
+~
+~
+0 0 8576
+S
+#8573
+A Boxwood Maze~
+   The boxwoods that grow here have been allowed to grow tall but have been
+carefully pruned to form a labyrinth.  Their dense foliage makes it impossible
+to see through the hedge walls.  The dirt path that seems to wander endlessly
+amongst the bushes has several footprints in it, all leading in different
+directions.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8569
+D2
+~
+~
+0 0 8577
+D3
+~
+~
+0 0 8572
+S
+#8574
+A Boxwood Maze~
+   The tall hedges that make up the maze grow much taller than the average
+man's head.  They have been carefully tended and trimmed to form smooth walls.
+Their foliage is so dense that it is impossible to see through their branches.
+Footsteps in the dirt path seem to lead in all directions at once.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8570
+D1
+~
+~
+0 0 8575
+D2
+~
+~
+0 0 8578
+S
+#8575
+A Boxwood Maze~
+   The boxwood bushes that create the walls of this maze have been allowed to
+grow taller than a man's head.  They are carefully tended so that their thick
+foliage prohibits anyone from peeking through the hedge walls they create.  
+Footprints leading in various directions cover the dirt path that winds through
+the labyrinth.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8576
+D3
+~
+~
+0 0 8574
+S
+#8576
+A Boxwood Maze~
+   The tall hedges that make up the maze grow much taller than the average
+man's head.  They have been carefully tended and trimmed to form smooth walls.
+Their foliage is so dense that it is impossible to see through their branches.
+Footsteps in the dirt path seem to lead in all directions at once.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8572
+D2
+~
+~
+0 0 8580
+D3
+~
+~
+0 0 8575
+S
+#8577
+A Boxwood Maze~
+   The boxwoods grow tall and thick making it nearly impossible to determine
+which way is which.  All the hedges have been carefully tended and neatly
+trimmed making each part of the labyrinth look much like that last.  
+Footprints leading in all directions cover the dirt path the weaves in and
+amongst the boxwoods.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8573
+S
+#8578
+A Boxwood Maze~
+   The boxwood bushes that create the walls of this maze have been allowed to
+grow taller than a man's head.  They are carefully tended so that their thick
+foliage prohibits anyone from peeking through the hedge walls they create.  
+Footprints leading in various directions cover the dirt path that winds through
+the labyrinth.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8574
+D1
+~
+~
+0 0 8579
+S
+#8579
+A Boxwood Maze~
+   The boxwoods that grow here have been allowed to grow tall but have been
+carefully pruned to form a labyrinth.  Their dense foliage makes it impossible
+to see through the hedge walls.  The dirt path that seems to wander endlessly
+amongst the bushes has several footprints in it, all leading in different
+directions.    
+~
+85 8 0 0 0
+D3
+~
+~
+0 0 8578
+S
+#8580
+A Boxwood Maze~
+   The boxwood bushes that create the walls of this maze have been allowed to
+grow taller than a man's head.  They are carefully tended so that their thick
+foliage prohibits anyone from peeking through the hedge walls they create.  
+Footprints leading in various directions cover the dirt path that winds through
+the labyrinth.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8576
+D1
+~
+~
+0 0 8581
+S
+#8581
+A Boxwood Maze~
+   The boxwoods grow tall and thick making it nearly impossible to determine
+which way is which.  All the hedges have been carefully tended and neatly
+trimmed making each part of the labyrinth look much like that last.  
+Footprints leading in all directions cover the dirt path the weaves in and
+amongst the boxwoods.    
+~
+85 8 0 0 0
+D3
+~
+~
+0 0 8580
+S
+#8582
+A Wide Path~
+   This path is wide enough to allow for the passage of the Lord's carriage.  
+Grass covers the path between the two large wheel ruts that have been made in
+the dirt.  Lamp posts have been placed on either side of the path.  A lantern
+hangs from each post, providing light.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8583
+D2
+~
+~
+0 0 8534
+S
+#8583
+A Wide Path~
+   This path is wide enough to allow for the passage of the Lord's carriage.  
+Grass covers the path between the two large wheel ruts that have been made in
+the dirt.  Lamp posts have been placed on either side of the path.  A lantern
+hangs from each post, providing light.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8584
+D1
+~
+~
+0 0 8538
+D2
+~
+~
+0 0 8582
+S
+#8584
+A Wide Path~
+   This path is wide enough to allow for the passage of the Lord's carriage.  
+Grass covers the path between the two large wheel ruts that have been made in
+the dirt.  Lamp posts have been placed on either side of the path.  A lantern
+hangs from each post, providing light.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8585
+D2
+~
+~
+0 0 8583
+S
+#8585
+Entrance to the Carriage House~
+   The carriage house is home to the Lord's fine carriage and the proud steeds
+who pull it.  The dirt floor is covered with straw and has two deep ruts in it
+from the large wheels of the carriage.  The beams which support the roof are
+high overhead to accommodate the height of the carriage.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8588
+D1
+~
+~
+0 0 8586
+D2
+~
+~
+0 0 8584
+S
+#8586
+The Tack Room~
+   This room is wear the gear for the horses is stored.  Wooden pegs have been
+placed on the wall to allow the bridles to be neatly hung on them.  Specially
+designed racks stand along the southern wall to support the horses massive
+saddles.  A long table runs along the eastern wall.  Its top is covered with
+horse shoes and the small nails which are used to attach the shoes to the
+horses hooves.    
+~
+85 8 0 0 0
+D3
+~
+~
+0 0 8585
+S
+#8587
+A Stall~
+   This massive stall is home to one of the mighty horses which draws the
+Lord's carriage.  Two troughs stand against the back wall.  One contains fresh
+water while the other is filled with oats.  Two large bales of hay are stacked
+in the corner some of the hay has also been strewn across the dirt floor of the
+stall.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8588
+S
+#8588
+The Carriage House~
+   The carriage house is home to the Lord's fine carriage and the proud steeds
+who pull it.  The dirt floor is covered with straw and has two deep ruts in it
+from the large wheels of the carriage.  The beams which support the roof are
+high overhead to accommodate the height of the carriage.  Horse stalls are
+visible to the east and west.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8591
+D1
+~
+~
+0 0 8589
+D2
+~
+~
+0 0 8585
+D3
+~
+~
+0 0 8587
+S
+#8589
+A Stall~
+   This massive stall is home to one of the mighty horses which draws the
+Lord's carriage.  Two troughs stand against the back wall.  One contains fresh
+water while the other is filled with oats.  Two large bales of hay are stacked
+in the corner some of the hay has also been strewn across the dirt floor of the
+stall.    
+~
+85 0 0 0 0
+D3
+~
+~
+0 0 8588
+S
+#8590
+A Stall~
+   This massive stall is home to one of the mighty horses which draws the
+Lord's carriage.  Two troughs stand against the back wall.  One contains fresh
+water while the other is filled with oats.  Two large bales of hay are stacked
+in the corner some of the hay has also been strewn across the dirt floor of the
+stall.    
+~
+85 8 0 0 0
+D1
+~
+~
+0 0 8591
+S
+#8591
+The Carriage House~
+   The carriage house is home to the Lord's fine carriage and the proud steeds
+who pull it.  The dirt floor is covered with straw and has two deep ruts in it
+from the large wheels of the carriage.  The beams which support the roof are
+high overhead to accommodate the height of the carriage.  Horse stalls are
+visible to the east and west.  The carriage stands to the north.    
+~
+85 8 0 0 0
+D0
+~
+~
+0 0 8593
+D1
+~
+~
+0 0 8592
+D2
+~
+~
+0 0 8588
+D3
+~
+~
+0 0 8590
+S
+#8592
+A Stall~
+   This massive stall is home to one of the mighty horses which draws the
+Lord's carriage.  Two troughs stand against the back wall.  One contains fresh
+water while the other is filled with oats.  Two large bales of hay are stacked
+in the corner some of the hay has also been strewn across the dirt floor of the
+stall.    
+~
+85 8 0 0 0
+D3
+~
+~
+0 0 8591
+S
+#8593
+Inside the Lord's Carriage~
+   The interior of the Lord's carriage is quite elegant and comfortable.  The
+benches are overstuffed for added comfort and have been covered with plush
+purple velvet.  Brocaded drapes hang over the windows and can be easily drawn
+back if desired.  The ceiling is a bit low, however is is more spacious than
+most carriages.    
+~
+85 12 0 0 0
+D2
+~
+~
+0 0 8591
+S
+#8594
+A Cramped, Stone Passage~
+   Tucked safetly away from the prying eyes of the average household staff and
+various passing visitors, this cramped hall does not appear to have been a part
+of the mansion's original floorplans.  The walls here are thick, cushioned in
+thick layers of black velvet that almost seem to take the sound from the air.
+While an old, slightly tarnished wall sconce is located within this dark hall,
+it is barren of torch, and seems as though it may have been for some time, as
+light could serve to illuminate this quiet passage in more ways than one.  
+Clearly this is a pass that is meant to be undisturbed.    
+~
+85 269 0 0 0
+D0
+~
+~
+0 0 8595
+D1
+A small crack can be faintly seen in the mortar of the eastern wall.
+~
+wall rack crack door passage secret~
+1 0 8517
+S
+#8595
+A Cramped, Stone Passage~
+   Tucked safetly away from the prying eyes of the average household staff and
+various passing visitors, this cramped hall does not appear to have been a part
+of the mansion's original floorplans.  The walls here are thick, cushioned in
+thick layers of black velvet that almost seem to take the sound from the air.
+While an old, slightly tarnished wall sconce is located within this dark hall,
+it is barren of torch, and seems as though it may have been for some time, as
+light could serve to illuminate this quiet passage in more ways than one.  
+Clearly this is a pass that is meant to be undisturbed.    
+~
+85 265 0 0 0
+D2
+~
+~
+0 0 8594
+D3
+   One of the velvet curtains hangs slightly askew on the western wall allowing
+a brief glimpse of a thin crack in the wall.    
+~
+wall door crack curtain tapestry~
+1 0 8596
+S
+#8596
+A Small, Lavashly Appointed Foyer~
+   This small foyer is well-concealed from the casual eye, lurking as it is
+beneath the boards of the manor above.  Well-appointed and decorated with an
+almost simple extravagance, this chamber has managed a look of lavishness
+without decadence, as though to make a point of wealth and power without truly
+flaunting it.  To the east lies a secret door set to the cramped passage
+beyond, to the west end lies a beautifully polished mahogany door, its handle a
+engraved and glimmering affair in the form of a crescent moon.    
+~
+85 8 0 0 0
+D1
+   A slight crack in the mortared stone and a large brass ring belies the
+presence of a secret door, not so secret from this vantage.    
+~
+door wall secret tapestry crack~
+1 0 8595
+D3
+A highly polished door of beautiful mahogany adorned with a crescent-shaped handle.
+~
+door mahogany~
+1 8594 8597
+S
+#8597
+A Well-Appointed Study of Dark Grace~
+   This study is surprizingly spacious compared to its immediate surroundings,
+containing many of the ammenities that would commonly be associated with any
+other study or den.  Prominant in the center of the room lies an ornate table,
+crafted by expert hands of the finest dark woods to the elegant form of a
+crescent moon.  A handful of matching chairs ring the table, lined in the
+finest black velvet, the backings embroidered in the image of rampaging
+dragons.  A large sofa of elegant black leather rests to a side, the arms
+capped in polished silver crescents, a short ottoman lounging unattended before
+it.  Dangling from the ceiling, a chandelier of dark colored glass lights the
+room, fueled by some form of magical light.    
+~
+85 25165832 0 0 0
+D0
+~
+~
+0 0 8598
+D1
+A highly polished door of beautiful mahogany adorned with a crescent-shaped handle.
+~
+door mahogany~
+1 8594 8596
+D3
+~
+~
+0 0 8599
+S
+#8598
+A Darkly Lit Library~
+   This small room contains what appears to be the lord's private library.  
+Draped in thick, black velvet like the rest of the chamber about it, this
+corner of the lord's study is somewhat dark and cramped.  Fine mahogany shelves
+hold texts and parchments on a wide array of topics, ranging the wide spectrum
+of the occult, although most deal in specific with She of Many Faces, the Dark
+Queen, Takhisis.  A small desk of simple design rests quietly in one corner, a
+small lamp overhanging it from a twisting, wrought iron stand.    
+~
+85 25165832 0 0 0
+D2
+~
+~
+0 0 8597
+S
+#8599
+Before A Small, Obsidian Shrine~
+   Here, in the tightest corner of the lord's study, rests the focus of the
+entire room.  Placed and lit so as to be viewed from anywhere in the adjoining
+study, a small shrine of obsidian rests in a place and fashion of much
+reverence.  This room itself is quite narrow, likely being reserved for the
+lord alone and perhaps one or two of his most trusted servants or emissaries.
+An ornate brass brazier rests at the foot of the shrine, stained with years of
+burnt offerings and what appears to be a thin layer of blood.  Just before the
+brazier rests a small cushion of fine, black velvet, well-worn from use.    
+~
+85 25166088 0 0 0
+D1
+~
+~
+0 0 8597
+S
+$~

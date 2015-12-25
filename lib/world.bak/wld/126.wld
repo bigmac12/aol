@@ -1,0 +1,861 @@
+#12600
+A Hidden Room~
+Nothing.
+~
+126 4 3 0 0
+S
+#12601
+An Old Path~
+You are in an unfinished room.
+~
+0 0 3 0 0
+D0
+~
+~
+0 0 12602
+S
+#12602
+An Old Path~
+You are in an unfinished room.
+~
+0 0 3 0 0
+D0
+~
+~
+0 0 12603
+D2
+~
+~
+0 0 12601
+S
+#12603
+An Old Path~
+You are in an unfinished room.
+~
+0 0 3 0 0
+D2
+~
+~
+0 0 12602
+S
+#12604
+South East Corner Of The Yard~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12609
+D3
+~
+~
+0 0 12605
+D6
+~
+~
+0 0 12610
+S
+#12605
+A Dead Lawn~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12610
+D1
+~
+~
+0 0 12604
+D3
+~
+~
+0 0 12606
+D6
+~
+~
+0 0 12611
+D7
+~
+~
+0 0 12609
+S
+#12606
+A Dead Lawn~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12611
+D1
+~
+~
+0 0 12605
+D3
+~
+~
+0 0 12607
+D6
+~
+~
+0 0 12612
+D7
+~
+~
+0 0 12610
+S
+#12607
+A Dead Lawn~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12612
+D1
+~
+~
+0 0 12606
+D3
+~
+~
+0 0 12608
+D6
+~
+~
+0 0 12613
+D7
+~
+~
+0 0 12611
+S
+#12608
+South West Corner of the Yard~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12613
+D1
+~
+~
+0 0 12607
+D7
+~
+~
+0 0 12612
+S
+#12609
+South East Corner of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12614
+D2
+~
+~
+0 0 12604
+D3
+~
+~
+0 0 12610
+D8
+~
+~
+0 0 12605
+S
+#12610
+South Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D1
+~
+~
+0 0 12609
+D2
+~
+~
+0 0 12605
+D3
+~
+~
+0 0 12611
+D8
+~
+~
+0 0 12606
+D9
+~
+~
+0 0 12604
+S
+#12611
+Door to the Manor House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D1
+~
+~
+0 0 12610
+D2
+~
+~
+0 0 12606
+D3
+~
+~
+0 0 12612
+D8
+~
+~
+0 0 12607
+D9
+~
+~
+0 0 12605
+S
+#12612
+South Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D1
+~
+~
+0 0 12611
+D2
+~
+~
+0 0 12607
+D3
+~
+~
+0 0 12613
+D8
+~
+~
+0 0 12608
+D9
+~
+~
+0 0 12606
+S
+#12613
+South West Corner of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12615
+D1
+~
+~
+0 0 12612
+D2
+~
+~
+0 0 12608
+D9
+~
+~
+0 0 12607
+S
+#12614
+East Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12616
+D2
+~
+~
+0 0 12609
+S
+#12615
+West Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12617
+D2
+~
+~
+0 0 12613
+S
+#12616
+East Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12618
+D2
+~
+~
+0 0 12614
+S
+#12617
+West Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12619
+D2
+~
+~
+0 0 12615
+S
+#12618
+East Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12620
+D2
+~
+~
+0 0 12616
+S
+#12619
+West Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12624
+D2
+~
+~
+0 0 12617
+S
+#12620
+North East Corner of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12627
+D2
+~
+~
+0 0 12618
+D3
+~
+~
+0 0 12621
+D6
+~
+~
+0 0 12628
+S
+#12621
+North Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12628
+D1
+~
+~
+0 0 12620
+D3
+~
+~
+0 0 12622
+D6
+~
+~
+0 0 12629
+D7
+~
+~
+0 0 12627
+S
+#12622
+Entrance to the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12629
+D1
+~
+~
+0 0 12621
+D3
+~
+~
+0 0 12623
+D6
+~
+~
+0 0 12630
+D7
+~
+~
+0 0 12628
+S
+#12623
+North Side of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12630
+D1
+~
+~
+0 0 12622
+D3
+~
+~
+0 0 12624
+D6
+~
+~
+0 0 12631
+D7
+~
+~
+0 0 12629
+S
+#12624
+North West Corner of the House~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12631
+D1
+~
+~
+0 0 12623
+D2
+~
+~
+0 0 12619
+D3
+~
+~
+0 0 12625
+D7
+~
+~
+0 0 12630
+S
+#12625
+Before the Stables~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D1
+~
+~
+0 0 12624
+D3
+~
+~
+0 0 12626
+D7
+~
+~
+0 0 12631
+S
+#12626
+Before the Stables~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D1
+~
+~
+0 0 12625
+D3
+~
+~
+0 0 12641
+D6
+~
+~
+0 0 12632
+S
+#12627
+A Dead Lawn~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D2
+~
+~
+0 0 12620
+D3
+~
+~
+0 0 12628
+D8
+~
+~
+0 0 12621
+S
+#12628
+A Dead Lawn~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D1
+~
+~
+0 0 12627
+D2
+~
+~
+0 0 12621
+D3
+~
+~
+0 0 12629
+D8
+~
+~
+0 0 12622
+D9
+~
+~
+0 0 12620
+S
+#12629
+A Dead Lawn~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D1
+~
+~
+0 0 12628
+D2
+~
+~
+0 0 12622
+D3
+~
+~
+0 0 12630
+D6
+~
+~
+0 0 12633
+D8
+~
+~
+0 0 12623
+D9
+~
+~
+0 0 12621
+S
+#12630
+A Dead Lawn~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12633
+D1
+~
+~
+0 0 12629
+D2
+~
+~
+0 0 12623
+D3
+~
+~
+0 0 12631
+D6
+~
+~
+0 0 12634
+D8
+~
+~
+0 0 12624
+D9
+~
+~
+0 0 12622
+S
+#12631
+East of the Stables~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12634
+D1
+~
+~
+0 0 12630
+D2
+~
+~
+0 0 12624
+D7
+~
+~
+0 0 12633
+D8
+~
+~
+0 0 12625
+D9
+~
+~
+0 0 12623
+S
+#12632
+West of the Stables~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12635
+D2
+~
+~
+0 0 12641
+D9
+~
+~
+0 0 12626
+S
+#12633
+Dense Bushes and Undergrowth~
+You are in an unfinished room.
+~
+0 0 3 0 0
+D0
+~
+~
+0 0 12636
+D2
+~
+~
+0 0 12630
+D3
+~
+~
+0 0 12634
+D6
+~
+~
+0 0 12637
+D8
+~
+~
+0 0 12631
+D9
+~
+~
+0 0 12629
+S
+#12634
+East of the Stables~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12637
+D1
+~
+~
+0 0 12633
+D2
+~
+~
+0 0 12631
+D7
+~
+~
+0 0 12636
+D9
+~
+~
+0 0 12630
+S
+#12635
+West of the Barn~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12638
+D2
+~
+~
+0 0 12632
+S
+#12636
+Bushes and Dense Undergrowth~
+You are in an unfinished room.
+~
+0 0 3 0 0
+D0
+~
+~
+0 0 12639
+D2
+~
+~
+0 0 12633
+D3
+~
+~
+0 0 12637
+D6
+~
+~
+0 0 12640
+D8
+~
+~
+0 0 12634
+S
+#12637
+East of the Stables~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12640
+D1
+~
+~
+0 0 12636
+D2
+~
+~
+0 0 12634
+D7
+~
+~
+0 0 12639
+D9
+~
+~
+0 0 12633
+S
+#12638
+A Dead End~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D2
+~
+~
+0 0 12635
+S
+#12639
+Bushes and Thick Undergrowth~
+You are in an unfinished room.
+~
+0 0 3 0 0
+D2
+~
+~
+0 0 12636
+D3
+~
+~
+0 0 12640
+D8
+~
+~
+0 0 12637
+S
+#12640
+Edge of the Property~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D1
+~
+~
+0 0 12639
+D2
+~
+~
+0 0 12637
+D9
+~
+~
+0 0 12636
+S
+#12641
+South West of the Stables~
+You are in an unfinished room.
+~
+0 0 2 0 0
+D0
+~
+~
+0 0 12632
+D1
+~
+~
+0 0 12626
+S
+$~

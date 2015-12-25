@@ -1,0 +1,130 @@
+4
+hang
+14
+hang wind belt
+0
+1
+f
+9
+as akriam
+0
+8
+vestment
+24
+cast magical-vestment $*
+1
+5
+minor
+13
+cast minor $*
+1
+6
+hammer
+14
+cast spiritual
+0
+2
+mv
+21
+cast magical-vestment
+0
+2
+gt
+9
+gt &M$*&n
+1
+4
+word
+9
+cast word
+0
+5
+flame
+19
+cast flamestrike $*
+1
+1
+t
+23
+recite parchment bandit
+0
+1
+j
+16
+order fol as xel
+0
+2
+cs
+19
+cast cure-severe $*
+1
+3
+ccs
+20
+cast cause-severe $*
+1
+1
+h
+24
+recite parchment student
+0
+3
+ccm
+17
+cast cause-mod $*
+1
+3
+ccl
+19
+cast cause-light $*
+1
+1
+g
+81
+rem quarterstaff;hold moss;use moss devotee;rem moss;drop moss;wield quarterstaff
+1
+2
+cm
+16
+cast cure-mod $*
+1
+2
+cl
+18
+cast cure-light $*
+1
+4
+curt
+54
+emote curtsies deeply, with her head reverently bowed.
+0
+7
+curtsey
+54
+emote curtsies deeply, with her head reverently bowed.
+0
+2
+ms
+18
+cast magical-stone
+0
+5
+light
+16
+cast magic-light
+0
+4
+food
+11
+cast create
+0
+4
+chat
+11
+chat &m$*&n
+1
+2
+eq
+6
+l self
+0

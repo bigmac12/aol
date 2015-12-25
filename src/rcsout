@@ -1,0 +1,25 @@
+#!/bin/sh
+get_lockname()
+{ 
+read line
+read line
+read line
+read line
+read line
+if [ -n "`echo $line | grep strict`" ]
+then
+    echo "`echo $1 |awk -F, -- '{print $1}'` -  $line"
+fi
+}
+
+if [ ! -d RCS/. ]
+then
+   echo "Goto a directory with RCS buttmunch!"
+    exit 1
+fi
+
+cd RCS
+for x in *
+do
+get_lockname $x < $x
+done

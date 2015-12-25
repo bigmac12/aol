@@ -1,0 +1,1943 @@
+#2500
+A Small Brick Path~
+   This small brick path leads off the Wayward Highway which is visible to the
+east.  The deep red bricks are set firmly in the ground making the path easy to
+tread upon.  Small green bushes bearing miniature pink rose buds line the path
+on both sides.  Their fragrance swirls in the air.  The path continues to the
+northwest and south.    
+~
+25 4 2 0 0
+D0
+~
+~
+0 0 2540
+D1
+~
+~
+0 0 8305
+D2
+~
+~
+0 0 2501
+S
+#2501
+A Small Brick Path~
+   The path makes a turn here as it winds its way toward the large stone
+structure that lies to the south.  The deep red bricks are set firmly in the
+ground making the path easy to tread upon.  Small green bushes bearing
+miniature pink rose buds line the path on both sides.  The path continues to
+the north and southwest.    
+~
+25 0 0 0 0
+D0
+~
+~
+0 0 2500
+D8
+~
+~
+0 0 2503
+S
+#2502
+Office~
+   The large chamber serves as the main business office for the monastery.  
+All visitors must first register here before wandering the buildings and
+grounds.  A stately, wooden desk rest in the corner of the room next to a large
+fireplace.  Tall bookshelves line the walls and are filled with freshly inked
+volumes.    
+~
+25 8 0 0 0
+D2
+~
+~
+0 0 2504
+S
+#2503
+A Small Brick Path~
+   The brick path ends here in front of a large stone building.  Its large
+wooden door lies immediately to the south.  Two large topiaries stand on either
+side of the doorway.  Each bears bright pink rose blooms.  With ivy winding its
+way from the large clay planters up the stone wall, almost reaching the copper
+roof.    
+~
+25 0 0 0 0
+D2
+   A large wooden door with a single rose carved into its surface.    
+~
+door wooden large~
+1 0 2506
+D7
+~
+~
+0 0 2501
+S
+#2504
+An Alcove~
+   This hallway runs across the front of the monastery providing access to its
+public areas.  The lovely tiled floor lends an air of elegant simplicity to the
+hall, which is complimented by the simple wall sconces that line the northern
+wall.  The monastery's main office lies to the north.  All visitors must check
+at this office before exploring the building and grounds.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2502
+D1
+~
+~
+0 0 2505
+D2
+~
+~
+0 0 2510
+S
+#2505
+A Hallway~
+   This hallway runs across the front of the monastery providing access to its
+public areas.  Large windows line the southern wall providing a view of the
+courtyard.  The lovely tiled floor lends an air of elegant simplicity to the
+hall, which is complimented by the simple wall sconces that line the northern
+wall.  The hallway continues to the west.  The main entryway to the monastery
+lies to the east.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2506
+D3
+~
+~
+0 0 2504
+S
+#2506
+The Entry Hall~
+   The entryway to the monastery is simple, yet still quite inviting.  Light
+streams through the glass doors that open out to the courtyard which lies to
+the south.  The tiled floor is covered with a rich rug, woven of red fibers.  
+The monastery has been quite busy lately, as more and more clergy members
+travel to this area to visit the city of Istar.  A hallway branches off to the
+east and west.    
+~
+25 12 0 0 0
+D0
+   A large wooden door with a single rose carved into its surface.    
+~
+door wooden large~
+1 0 2503
+D1
+~
+~
+0 0 2507
+D2
+   Glass double doors with white lattice.    
+~
+door doors glass~
+1 0 2512
+D3
+~
+~
+0 0 2505
+S
+#2507
+A Hallway~
+   This hallway runs across the front of the monastery providing access to its
+public areas.  Large windows line the southern wall providing a view of the
+courtyard.  The lovely tiled floor lends an air of elegant simplicity to the
+hall, which is complimented by the simple wall sconces that line the northern
+wall.  The hallway continues to the east.  The main entryway to the monastery
+lies to the west.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2508
+D3
+~
+~
+0 0 2506
+S
+#2508
+An Alcove~
+   This alcove marks the northeast corner of the monastery.  The main hallway
+continues to the south and west.  The alcove is dominated by a marble statue
+which stands in the corner.  The statue depicts a man whose face appears to be
+hundreds of years old.  His body is stooped, and he wears simple robes.  The
+statues face is warm and serene yet somewhat unnerving to those who are not
+truthful with themselves.  His head is completely bald.    
+~
+25 8 0 0 0
+D2
+~
+~
+0 0 2514
+D3
+~
+~
+0 0 2507
+S
+#2509
+The Kitchen~
+   This kitchen is a very busy place.  Several monks clad in starched white
+aprons run around busily preparing for the next meal.  Large piles of dishes
+the stove burners cooking tonight's meal.  The lids of the pots rattle as their
+contents bubble and boil.  The pungent smell of herbs hangs heavily in the air.
+  
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2516
+D2
+   A simple wooden door with a large glass window.    
+~
+door glass window~
+1 0 2579
+S
+#2510
+A Hallway~
+   The main hall of the monastery continues here, running north toward the
+entryway and south toward the chapel.  The hallway itself is decorated in a
+simple yet elegant fashion.  The eastern wall is made up entirely of windows
+which look out into the courtyard and gardens.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2504
+D2
+~
+~
+0 0 2517
+S
+#2511
+The Courtyard~
+   The sound of birds chirping in the trees adds to the overall feeling of
+peace and serenity making it an excellent place for the monks to sit and
+reflect on their thoughts.  Plain wooden benches are placed in and amongst the
+many shrubs that grow throughout the garden.  A few small trees have been
+planted throughout the courtyard to provide welcome shade from the afternoon
+sun.    
+~
+25 0 2 0 0
+D1
+~
+~
+0 0 2512
+D2
+~
+~
+0 0 2518
+S
+#2512
+The Courtyard~
+   The courtyard of the monastery is an excellent place to sit and reflect.  
+Its design is simplistic yet still quite lovely.  A flagstone path leads south
+from the entryway through the gardens.  The tranquil sound of bubbling water
+can be heard echoing peacefully throughout the courtyard.    
+~
+25 0 2 0 0
+D0
+   Glass double doors with white lattice.    
+~
+door doors white~
+1 0 2506
+D1
+~
+~
+0 0 2513
+D2
+~
+~
+0 0 2519
+D3
+~
+~
+0 0 2511
+S
+#2513
+The Courtyard~
+   The peaceful serenity of this garden has a calming effect on all who enter.
+Tall shrubs neatly trimmed into a pointed cone shape line the flagstone path.
+A narrow gravel path leads off from the main path to two small benches which
+sit facing eachother, providing an excellent place to sit and discuss
+philosophy, politics, or any other of the many topics often explored by the
+monks.    
+~
+25 0 2 0 0
+D2
+~
+~
+0 0 2520
+D3
+~
+~
+0 0 2512
+S
+#2514
+A Hallway~
+   The main hall of the monastery continues here, running north toward the
+entryway and south toward the chapel.  The hallway itself is decorated in a
+simple yet elegant fashion.  Two wall sconces, providing light, hang on either
+side of the doorway in the eastern wall.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2508
+D1
+~
+~
+0 0 2515
+D2
+~
+~
+0 0 2521
+S
+#2515
+A Large Library~
+   The library is one of the busiest rooms at the monastery.  Monks stroll in
+and out of the room borrowing and returning some of the many books that are
+stored here.  The northern southern walls are covered from floor to ceiling
+with large wooden bookshelves that are completely filled with books.  A small
+tile fireplace sits in the center of the western wall.  Its warm glow filling
+the room.  Two wooden tables stand in the center of the room, an oil lantern
+sits in the center of each, providing light.    
+~
+25 8 0 0 0
+D3
+~
+~
+0 0 2514
+S
+#2516
+The Dining Hall~
+   This is the only dining hall for the entire monastery.  All of the monks and
+any visiting guests dine here together for all meals.  Three rows of large
+wooden tables fill the room.  A stone fireplace fills the entire western wall
+providing warmth and light for the room.  One single table sits away from the
+others along the southern wall of the dining hall.  Only one chair is set at
+this table.  Unlike the other bare tables, it is draped with a deep red table
+cloth.    
+~
+25 12 0 0 0
+D1
+~
+~
+0 0 2530
+D2
+~
+~
+0 0 2509
+S
+#2517
+A Hallway~
+   This portion of the hallway is plainly decorated.  No rug covers the tile
+floor, causing the footsteps of those who pass to echo throughout.  Simple
+torchieres hang on the wall providing light.  The noise of many voices,
+including those of children, can be hear coming from the west.    
+~
+25 12 0 0 0
+D0
+~
+~
+0 0 2510
+D2
+~
+~
+0 0 2522
+D3
+~
+~
+0 0 2529
+S
+#2518
+The Courtyard~
+   This lovely courtyard is always crowded during the daytime.  Many of the
+monks come here to sit and reflect on their thoughts.  Plain wooden benches are
+placed in and amongst the many shrubs that grow throughout the garden.  A few
+small trees have been planted throughout the courtyard to provide welcome shade
+from the afternoon sun.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2511
+D1
+~
+~
+0 0 2519
+D2
+~
+~
+0 0 2523
+S
+#2519
+The Center of the Courtyard~
+   The fountain which stands here is the primary focus of the monastery's
+courtyard.  In the center of the fountain, a large copper sculpture of a spider
+sits atop a marble pedestal.  The water in the fountain bubbles softly, filling
+the entire courtyard with its soothing melody.  Several benches encircle the
+fountain providing a place to sit and reflect.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2512
+D1
+~
+~
+0 0 2520
+D2
+~
+~
+0 0 2524
+D3
+~
+~
+0 0 2518
+S
+#2520
+The Courtyard~
+   This lovely courtyard is always crowded during the daytime.  Many of the
+monks come here to sit and reflect on their thoughts.  Plain wooden benches are
+placed in and amongst the many shrubs that grow throughout the garden.  A few
+small trees have been planted throughout the courtyard to provide welcome shade
+from the afternoon sun.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2513
+D2
+~
+~
+0 0 2525
+D3
+~
+~
+0 0 2519
+S
+#2521
+At the Bottom of the Stairs~
+   The hallway continues on to the north and south.  A staircase hugs the
+western wall, allowing access to the second floor of the monastery.  A plush
+blue runner covers the wooden steps making them easier to climb.  A iron hand
+rail hangs on the wall along the side of the staircase.    
+~
+25 12 0 0 0
+D0
+~
+~
+0 0 2514
+D2
+~
+~
+0 0 2526
+D4
+~
+~
+0 0 2580
+S
+#2522
+A Hallway~
+   The main hall of the monastery continues here, running north toward the
+entryway and south toward the chapel.  The hallway itself is decorated in a
+simple yet elegant fashion.  The eastern wall is made up entirely of windows
+which look out into the courtyard and gardens.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2517
+D2
+~
+~
+0 0 2530
+S
+#2523
+The Courtyard~
+   The peaceful serenity of this garden has a calming effect on all who enter.
+Small shrubs neatly trimmed into perfect circles line the flagstone path.  A
+narrow gravel path leads off from the main path to two small benches which sit
+facing eachother, providing an excellent place to sit and discuss philosophy,
+politics, or any other of the many topics often explored by the monks.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2518
+D1
+~
+~
+0 0 2524
+S
+#2524
+The Courtyard~
+   The courtyard of the monastery is an excellent place to sit and reflect.  
+Its design is simplistic yet still quite lovely.  A flagstone path leads south
+into the hallway before the chapel.  The tranquil sound of bubbling water can
+be heard echoing peacefully throughout the courtyard.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2519
+D1
+~
+~
+0 0 2525
+D2
+   Glass double doors with white lattice.    
+~
+door doors white~
+1 0 2532
+D3
+~
+~
+0 0 2523
+S
+#2525
+The Courtyard~
+   The sound of birds chirping in the trees adds to the overall feeling of
+peace and serenity making it an excellent place for the monks to sit and
+reflect on their thoughts.  Plain wooden benches are placed in and amongst the
+many shrubs that grow throughout the garden.  A few small trees have been
+planted throughout the courtyard to provide welcome shade from the afternoon
+sun.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2520
+D3
+~
+~
+0 0 2524
+S
+#2526
+A Hallway~
+   The main hall of the monastery continues here, running north toward the
+entryway and south toward the chapel.  The hallway itself is decorated in a
+simple yet elegant fashion.  Two wall sconces, providing light, hang on either
+side of the doorway in the eastern wall.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2521
+D1
+~
+~
+0 0 2527
+D2
+~
+~
+0 0 2534
+S
+#2527
+Meeting Room~
+   The tile floor of the meeting room is covered with a plush rug that quiets
+the footsteps of those who enter.  A massive, round wooden table sits in the
+center of the room, surrounded by chairs with high straight backs.  A tall
+white pedestal bearing a vase of fresh flowers stands in each corner of the
+room.  A fire burns in the fireplace which sits in the center of the eastern
+wall.  The intricately carved wooden mantle is decorated with various items of
+religious significance.    
+~
+25 8 0 0 0
+D3
+~
+~
+0 0 2526
+E
+mantle fireplace~
+   The mantle of the fireplace is made from a large piece of oak.  It has been
+highly polished and is carved with symbols of spiders and roses.  The polish of
+the honey-yellow wood reflects the warm glow of the fire.    
+~
+S
+#2528
+A Small Bunkroom~
+   Not all citizens of this region have benefitted from its growth.  Many of
+the small farmers have found themselves without the means to support their
+family.  As a result, the monks set aside a small corner of their monastery to
+allow these people a place to stay in exchange for working the monastery's
+land.  Bunks stacked three high line each of the walls, yet there never seems
+to be quite enough space to comfortably house all of those in need.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2529
+S
+#2529
+Sitting Room~
+   This small sitting room is where those staying at the monastery can relax
+after performing their various duties.  The room is decorated simply but is
+still comfortable.  Two small couches sit against the walls inviting all who
+enter to rest a bit.  A small, roughly woven carpet rests in the middle of the
+room.  A few simple toys are stacked in the corner of the room, awaiting the
+children's playtime.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2517
+D3
+~
+~
+0 0 2528
+S
+#2530
+An Alcove~
+   This portion of the hallway is plainly decorated.  No rug covers the tile
+floor, causing the footsteps of those who pass to echo throughout.  Simple
+lanterns hang on the wall providing light.  A slight breeze from the west
+carries with it the sound of several conversations and the welcoming aroma of
+food.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2522
+D1
+~
+~
+0 0 2531
+D3
+~
+~
+0 0 2516
+S
+#2531
+A Hallway~
+   The main hallway of the monastery continues here to the east and west.  
+Large windows dominate the northern wall providing views of the central
+courtyard.  The tile floor is covered with a thick red carpet that quiets the
+footfalls of those who pass through the hall.  Small torches hang on the
+southern wall providing a soft peaceful light.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2532
+D3
+~
+~
+0 0 2530
+S
+#2532
+Before the Chapel~
+   The main hallway of the monastery continues here to the east and west.  
+Large doors dominate the northern wall providing access to the central
+courtyard.  The tile floor is covered with a thick red carpet that quiets the
+footfalls of those who pass through the hall.  Small torches hang on the
+southern wall providing a soft peaceful light.  The monastery's chapel lies to
+the south.    
+~
+25 12 0 0 0
+D0
+   Glass double doors with white lattice.    
+~
+door doors glass~
+1 0 2524
+D1
+~
+~
+0 0 2533
+D2
+~
+~
+0 0 2537
+D3
+~
+~
+0 0 2531
+S
+#2533
+A Hallway~
+   The main hallway of the monastery continues here to the east and west.  
+Large windows dominate the northern wall providing views of the central
+courtyard.  The tile floor is covered with a thick red carpet that quiets the
+footfalls of those who pass through the hall.  Small torches hang on the
+southern wall providing a soft peaceful light.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2534
+D3
+~
+~
+0 0 2532
+S
+#2534
+An Alcove~
+   This alcove marks the southeast corner of the monastery.  The main hallway
+continues to the north and west.  A large glass door stands in the center of
+the southern wall.  The alcove is dominated by a marble statue which stands in
+the corner.  The statue depicts a lovely, young woman.  She has a thin, sloping
+nose and full lips.  Despite her otherwise youthful appearance, she is utterly
+bald.  The statues eyes are two glass orbs that have a strange emptiness about
+them.    
+~
+25 12 0 0 0
+D0
+~
+~
+0 0 2526
+D2
+A large glass door.
+~
+door glass~
+1 0 2539
+D3
+~
+~
+0 0 2533
+S
+#2535
+MOVE ME AGAIN~
+MOVE ME AGAIN
+~
+25 0 2 0 0
+D1
+~
+~
+0 0 2500
+S
+#2536
+A Private Prayer Room~
+   This is one of two private prayer rooms in the chapel.  These rooms provide
+visitors with a place to meet privately to discuss any questions or problems
+they may have.  Some of the newer monks also come here to reflect on their
+questions and discuss them with their superiors The room is simply decorated.
+A small altar sits at the front of the room and is faced by plain, wooden
+benches.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2537
+E
+altar~
+   This small altar is simply a narrow table draped with deep burgundy fabric.
+Two, small incense burners sit on the either side of the table top which is
+covered in rose petals.    
+~
+S
+#2537
+The Central Aisle of the Chapel~
+   This chapel serves as the primary place of worship for the monastery.  
+Although many of the monks pray individually throughout the building and
+grounds, the chapel provides a central location for mass worship.  This central
+aisle leads to the main altar of the chapel.  Small, private prayer rooms are
+visible to the east and west.  A deep burgundy carpet runs down the aisle,
+quieting the footsteps of those who enter the chapel.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2532
+D1
+~
+~
+0 0 2538
+D2
+~
+~
+0 0 2542
+D3
+~
+~
+0 0 2536
+S
+#2538
+A Private Prayer Room~
+   This is one of two private prayer rooms in the chapel.  These rooms provide
+visitors with a place to meet privately to discuss any questions or problems
+they may have.  Some of the newer monks also come here to reflect on their
+questions and discuss them with their superiors The room is simply decorated.
+A small altar sits at the front of the room and is faced by plain, wooden
+benches.    
+~
+25 8 0 0 0
+D3
+~
+~
+0 0 2537
+E
+altar~
+   This small altar is simply a narrow table draped with deep burgundy fabric.
+Two, small incense burners sit on either side of the table top which is covered
+in rose petals.    
+~
+S
+#2539
+A Path Through the Gardens~
+   A small brick path winds its way from the inside of the monastery out into
+its lush gardens.  Large flower boxes line both sides of the path, filled with
+rose bushes.  Each bush is completely covered with blooms, nearly hiding all
+its greenery.  The lovely scent of the roses fills the air as a soft breeze
+blows through the gardens.    
+~
+25 4 2 0 0
+D0
+A large glass door.
+~
+door glass~
+1 0 2534
+D2
+~
+~
+0 0 2544
+S
+#2540
+A Roadside Stand~
+   This patch of land has been neatly cleared to allow travellers to stop and
+rest.  Wooden picnic tables stand off to one side under a tall shade tree.  A
+large cart dominates the clearing.  It is filled with fruits, vegetables, and
+some strange looking salves and potions.  A brick path runs from the cart to
+the southeast.  The Wayward Highway lies due east.    
+~
+25 4 2 0 0
+D1
+~
+~
+0 0 8304
+D2
+~
+~
+0 0 2500
+S
+#2541
+The Chapel~
+   This section of the chapel is filled with rows of simple, wooden benches.  
+The monks fill these benches for weekly group prayer sessions or on special
+occasions.  However, it is not unusual to see monks in here praying at anytime.
+Small torches hang on the walls providing a soft, peaceful light.  The air is
+perfumed with the pleasant fragrance of rose petals and incense.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2542
+S
+#2542
+The Central Aisle of the Chapel~
+   The plush burgundy runner continues to make its way toward the main altar of
+the chapel.  The central aisle is surrounded with rows of simple, wooden
+benches.  Tall, brass candlestick holders run along the edge of the aisle,
+casting a warm soft glow throughout the room.  The main altar is visible to the
+south.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2537
+D1
+~
+~
+0 0 2543
+D2
+~
+~
+0 0 2545
+D3
+~
+~
+0 0 2541
+S
+#2543
+The Chapel~
+   This section of the chapel is filled with rows of simple, wooden benches.  
+The monks fill these benches for weekly group prayer sessions or on special
+occasions.  However, it is not unusual to see monks in here praying at anytime.
+Small torches hang on the walls providing a soft, peaceful light.  The air is
+perfumed with the pleasant fragrance of rose petals and incense.    
+~
+25 8 0 0 0
+D3
+~
+~
+0 0 2542
+S
+#2544
+A Path Through the Gardens~
+   A small brick path winds its way from the inside of the monastery out into
+its lush gardens.  The flower beds that line the path are neatly trimmed and
+burst forth with large, fragrant blooms.  Tall trees, their limbs laden with
+fruit, are visible in the distance.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2539
+D2
+~
+~
+0 0 2546
+S
+#2545
+The Main Altar~
+   The main altar of the chapel is raised up on a wooden platform.  The altar
+itself stretches from across the entire length of the southern wall of the
+chapel.  It is draped with a rich velvet cloth of the deepest red.  The cloth
+is decorated with copper stitching that creates a pattern which resembles a
+spider's web.  Two large vases sit atop the altar, each filled with red, long
+stem roses from the monastery's gardens.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2542
+E
+altar~
+   The altar is draped with a rich, velvet cloth.  The fabric has been
+embroidered with copper threads forming a spider's web.  Large glass vases sit
+atop the altar, overflowing with red roses.  The stone floor behind the altar
+bears some odd scratches.    
+~
+S
+T 2501
+#2546
+A Path Through the Gardens~
+   The brick path continues to wind its way through the lovely gardens.  
+Flower boxes overflowing with vibrant blooms line both sides of the path.  
+Large pink and red peonies fill the air with their sweet scent as they sway
+slightly in the light breeze that blows through the garden.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2544
+D2
+~
+~
+0 0 2550
+S
+#2547
+A Fork in the Path~
+   The path that runs through the gardens splits here.  To the south it leads
+toward the barn.  Tall sunflowers grow in rows along the side of the path,
+stretching off far to the east.  The rows of sunflowers end just short of the
+low hills that rise into the distant mountains that encircle the lake which
+lies to the south of the city of Istar.    
+~
+25 0 2 0 0
+D1
+~
+~
+0 0 2548
+D2
+~
+~
+0 0 2551
+D6
+~
+~
+0 0 2589
+S
+#2548
+A Path Through the Garden~
+   The brick path continues to wind through the garden passing among the many
+flower boxes and bushes that line it.  Small trees also grow along the path
+providing shade for the plants as well as the dozens of monks that pass through
+the garden each day.  To the north a beautiful rose bush climbs its way up the
+stone wall of the monastery.  Its green leaves almost completely hidden by
+large red blooms.    
+~
+25 0 2 0 0
+D1
+~
+~
+0 0 2549
+D3
+~
+~
+0 0 2547
+S
+#2549
+A Path Through the Gardens~
+   The brick path continues to wind through the garden passing among the many
+flower boxes and bushes that line it.  Small trees also grow along the path
+providing shade for the plants as well as the dozens of monks that pass through
+the garden each day.  The trees sway gently as a breeze blows through, making a
+soothing rustling sound.    
+~
+25 0 2 0 0
+D1
+~
+~
+0 0 2550
+D3
+~
+~
+0 0 2548
+S
+#2550
+A Fork in the Path~
+   The path that runs through the gardens splits here.  To the south it leads
+into the vegetable garden and continues through the flower gardens to the north
+and west.  Small flower boxes run along both sides of the path, bursting forth
+with rose blossoms.  To the south, beyond the grounds of the monastery, a vast,
+open plain is visible as far as the eye can see.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2546
+D2
+~
+~
+0 0 2552
+D3
+~
+~
+0 0 2549
+S
+#2551
+Before the Barn~
+   The small path ends here before the large red barn that houses the livestock
+which is kept by the monks.  The wooden wall bard is painted a pleasant color
+of red and stands out in sharp contrast with the rest of the countryside.  A
+tall grain silo towers over the roof of the barn, providing storage during the
+off season.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2547
+D2
+~
+~
+0 0 2556
+S
+#2552
+A Large Vegetable Garden~
+   This large garden supplies the monastery's kitchen with fresh vegetables.  
+Some of the produce is sold by the monks to finance the monastery.  Long rows
+of corn, wheat, tomatoes and peppers stretch far off toward the horizon.  The
+plants grow strong and tall, evidencing the great care that the monks must take
+in tending them.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2550
+D1
+~
+~
+0 0 2553
+S
+#2553
+A Large Vegetable Garden~
+   This large garden supplies the monastery's kitchen with fresh vegetables.  
+Some of the produce is sold by the monks to finance the monastery.  Long rows
+of barley, oats, watermelon, and squash stretch far off toward the horizon.  
+The plants appear quite healthy and strong, evidencing the great care that the
+monks must take in tending them.    
+~
+25 0 2 0 0
+D3
+~
+~
+0 0 2552
+S
+#2554
+A Grain Silo~
+   This large round silo extends far above the roofline of the rest of the
+barn.  The very top gets lost in the darkness above.  The air is thick with
+dust from all of the grain that is stored here during the winter months.  The
+silo is rather empy at this time, but its floor is covered with dried corn
+kernals making it difficult to walk without slipping.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2555
+S
+#2555
+The Barn~
+   This large barn houses the monks livestock and horse stables.  The open
+rafters are high overhead, providing a convenient place to hang items which
+need to be kept handy.  Several bunches of herbs hang from the rafters as they
+dry for use in cooking.  Their sweet and pungent aroma permeates the air,
+mixing with the scent of hay and dust.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2556
+D2
+~
+~
+0 0 2558
+D3
+~
+~
+0 0 2554
+S
+#2556
+The Barn~
+   This large barn houses the monks livestock and horse stables.  The open
+rafters are high overhead, providing a convenient place to hang items which
+need to be kept handy.  A wheelbarrow stands off to one corner.  A shovel and
+some gardening gloves sit inside it, ready and waiting to be used.  The simple
+wooden plank floor is swept clean with only a few stray pieces of hay littering
+its surface.    
+~
+25 12 0 0 0
+D0
+~
+~
+0 0 2551
+D2
+~
+~
+0 0 2559
+D3
+~
+~
+0 0 2555
+S
+#2557
+The Barn~
+   Unlike the rest of the barn, a low ceiling extends over this area blocking
+the rafters.  This section of the barn is used primarily for storage.  Wooden
+buckets sit in neat tall stacks ready to be used for watering the gardens or
+the livestock.  Several rakes and a large pushbroom hang against the wall.  
+Small bits of hay and dust swirl in the air.  A wooden ladder rests against the
+western wall.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2558
+D4
+   A simple wooden hatch.    
+~
+hatch wooden simple~
+1 0 2563
+S
+#2558
+The Stables~
+   This portion of the barn is set aside to serve as a horse stable.  There are
+several stalls lining each wall.  The horses are able to wander in and out from
+their stalls to their pasture.  Large bails of hay and a small trough of water
+sit at the back end of each stall, providing food and water for the horses.  
+Finely crafted leather saddles rest in the corner of the room along with riding
+hats and bridles.    
+~
+25 12 0 0 0
+D0
+~
+~
+0 0 2555
+D2
+~
+~
+0 0 2560
+D3
+~
+~
+0 0 2557
+S
+#2559
+The Animal Pen~
+   This corner of the barn is penned off for the live stock when they are
+indoors.  The animals spend much of their time out in the barnyard, but this
+pen provides them with shelter from the foul weather or the hot sun.  A long
+wooden trough filled with water runs along the eastern wall.  A similar trough
+on the western wall, provides a place for the animals food.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2556
+D2
+~
+~
+0 0 2561
+S
+#2560
+The Horse Pasture~
+   Leading out from the stables, this pasture allows the horses to get their
+exercize.  The green meadow stretchs out as far as the eye can see.  A low
+wooden fence runs along the perimeter of the meadow.  The barnyard lies on the
+otherside of the fence to the west.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2558
+D2
+~
+~
+0 0 2564
+S
+#2561
+The Barnyard~
+   The barnyard is filled with the noise of the different animals that live
+here.  This pen houses many of the smaller animals: pigs, goats, and chickens.
+The animals wander about the pen searching the ground for a forgotten piece of
+food.  The ground is rather soft underfoot and is filled with the footprints of
+the various animals as well as those of their caretakers.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2559
+D1
+~
+~
+0 0 2562
+D2
+~
+~
+0 0 2565
+S
+#2562
+The Barnyard~
+   The barnyard is filled with the noise of the different animals that live
+here.  This pen houses many of the smaller animals: pigs, goats, and chickens.
+The animals wander about the pen searching the ground for a forgotten piece of
+food.  The ground is rather soft underfoot and is filled with the footprints of
+the various animals as well as those of their caretakers.    
+~
+25 0 2 0 0
+D2
+~
+~
+0 0 2566
+D3
+~
+~
+0 0 2561
+S
+#2563
+The Loft~
+   This small loft covers the southwest corner of the barn.  The wooden plank
+floor is almost entirely covered with hay.  The ceiling is low, making it
+difficult for anyone taller than the average kender to stand up straight.  A
+small door in the northern wall enables the monks to peek into the barn's silo
+and check their current grain supply.  A wooden ladder leads down to the barn
+itself.    
+~
+25 8 0 0 0
+D5
+   A simple wooden hatch.    
+~
+hatch wooden simple~
+1 0 2557
+E
+door wall~
+   This small door slides open to reveal the inside of the grain silo.  From
+this vantage point the curret grain supply can easily be checked.    
+~
+S
+#2564
+The Horse Pasture~
+   Leading out from the stables, this pasture allows the horses to get their
+exercize.  The green meadow stretchs out as far as the eye can see.  A low
+wooden fence runs along the perimeter of the meadow.  The barnyard lies on the
+otherside of the fence to the west.  Off in the distance a group of young colts
+can be seen running and playing as they get accustommed to their long, awkward
+legs.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2560
+S
+#2565
+The Barnyard~
+   The barnyard is filled with the noise of the different animals that live
+here.  This pen houses many of the smaller animals: pigs, goats, and chickens.
+The animals wander about the pen searching the ground for a forgotten piece of
+food.  Beyond the fence that houses the smaller animals lies a rolling meadow
+which serves as a pasture for the larger animals.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2561
+D1
+~
+~
+0 0 2566
+S
+#2566
+The Barnyard~
+   The barnyard is filled with the noise of the different animals that live
+here.  This pen houses many of the smaller animals: pigs, goats, and chickens.
+The animals wander about the pen searching the ground for a forgotten piece of
+food.  Beyond the fence that borders this pen lies a rolling meadow which
+serves as a pasture for the large animals.    
+~
+25 0 2 0 0
+D0
+~
+~
+0 0 2562
+D3
+~
+~
+0 0 2565
+S
+#2567
+A Guest Room~
+   The monastery is often visited by people of both religious and political
+importance.  The large guest rooms, like this one, are more sumptuously
+decorated than the rest of the monastery, providing a welcome retreat for
+visitors.  A richly woven rug covers the hardwood floor and the walls are
+covered with fine cloth.  A large marble fireplace with an ornately carved
+mantle fills the western wall.    
+~
+25 12 0 0 0
+D2
+~
+~
+0 0 2571
+S
+#2568
+A Lavishly Decorated Sleeping Chamber~
+   This sleeping chamber is more lavishly decorated than any other part of the
+monastery.  A ornately carved wooden desk stands next to the large fireplace on
+the northern wall.  A stately bed fills most of the room.  It is draped with
+brocaded fabric of the deepest burgundy.  The wood floors are covered with a
+hand-woven rug depicting a lovely garden setting.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2569
+D2
+~
+~
+0 0 2573
+E
+fireplace~
+   This large brick fireplace fills most of the wall.  Its mantle is made of
+solid wood and is intricately carved.  A small fire burns within it, casting a
+warm glow throughout the room.    
+~
+S
+#2569
+A Balcony~
+   Looking out across the countryside, this small balcony provides a location
+to sit and rest, away from the daily business of the monastery.  A large,
+comfortable looking chair rests off to one side of the balcony.  Next to the
+chair stands a small end table.  It is stacked with books and folders which
+would seem to indicate that this balcony is used as much for work as it is for
+rest.    
+~
+25 0 2 0 0
+D3
+~
+~
+0 0 2568
+S
+#2570
+Hallway~
+   The hallway's wooden plank floor is covered by a handsomely woven carpet.  
+Its multicolored fibers are woven to form images of vines and flowers which
+stretch the entire length of the hall.  Large windows dominate the southern
+wall, looking out over the courtyard below.  The tranquil sound of the fountain
+below can be faintly heard echoing through the hallway which continues to the
+east and south.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2571
+D2
+~
+~
+0 0 2576
+S
+#2571
+Hallway~
+   The hallway's wooden plank floor is covered by a handsomely woven carpet.  
+Its multicolored fibers are woven to form images of vines and flowers which
+stretch the entire length of the hall.  Large windows dominate the southern
+wall, looking out over the courtyard below.  The tranquil sound of the fountain
+below can be faintly heard echoing through the hallway which continues to the
+east and west.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2567
+D1
+~
+~
+0 0 2573
+D3
+~
+~
+0 0 2570
+S
+#2572
+The Ice House~
+   The stone walls of this small building are designed to maintain its cool
+temperature.  Its high ceilings allow all the hot air to rise, further cooling
+the building.  Two large blocks of ice, each as tall as a kender and equally as
+wide, sit in the middle of the room.  Several storage shelves have been built
+into the stone wall.  Beads of condensation drip from the shelves disappearing
+in the swirling fog that hides the floor.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2579
+S
+#2573
+Hallway~
+   The hallway's wooden plank floor is covered by a handsomely woven carpet.  
+Its multicolored fibers are woven to form images of vines and flowers which
+stretch the entire length of the hall.  Large windows dominate the southern
+wall, looking out over the courtyard below.  The tranquil sound of the fountain
+below can be faintly heard echoing through the hallway which continues to the
+west and south.    
+~
+25 12 0 0 0
+D0
+~
+~
+0 0 2568
+D2
+~
+~
+0 0 2577
+D3
+~
+~
+0 0 2571
+S
+#2574
+The Smoke House~
+   The smell of hickory overpowers this small building.  A stone pit sits in
+the middle of the floor.  It is filled with wood and hickory chips which is
+still smoking as if the fire has been recently extinguished.  The ceiling is
+open allowing meats to be hung from its exposed beams to be salted and cured
+before being stored.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2579
+S
+#2575
+A Sleeping Chamber~
+   This large sleeping chamber houses several of the monks who live at the
+monastery.  Its furnishings are simple yet funtional.  Wooden bunks, stacked
+two high, sit against the northern and southern walls.  A large armoire stands
+against the western wall, resting between the two large windows that overlook
+the countryside.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2576
+S
+#2576
+Hallway~
+   The hallway's wooden plank floor is covered by a handsomely woven carpet.  
+Its multicolored fibers are woven to form images of vines and flowers which
+stretch the entire length of the hall.  A small, arched window in the eastern
+wall, offers a view of the courtyard below.  The hallway continues to the north
+and south.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2570
+D2
+~
+~
+0 0 2582
+D3
+~
+~
+0 0 2575
+S
+#2577
+Hallway~
+   The carpeting in this section of the hallway is a bit more worn than that of
+the rest of the monastery.  There appears to be a great deal of traffic between
+the two scribe rooms as the monks work tirelessly on their precious volumes.  
+Windows on the western wall offer a lovely view of the garden.  Small torches
+hang on either side of the doorway on the eastern wall.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2573
+D1
+~
+~
+0 0 2578
+D2
+~
+~
+0 0 2580
+S
+#2578
+A Scribe Room~
+   This is one of two scribe rooms at the monastery.  Monks who serve as
+scribes work here tirelessly transcribing books on history, philosophy,
+religion, and many other topics.  Although the gnomes have experimented with
+printing presses, the monks still believe in hand scribing their works.  The
+perimeter of the room is lined with shelves stacked with volumes that are still
+works in progress.  Two long table run the length of the room.  Each has
+several workstations set with ink wells and quills.    
+~
+25 8 0 0 0
+D3
+~
+~
+0 0 2577
+S
+#2579
+A Path Through the Gardens~
+   A small brick path winds its way from the inside of the monastery out into
+its lush gardens.  This portion of the garden is devoted mostly to herbs and
+spices which are used for cooking.  Their aroma fills the air as a light breeze
+blows by.  Two small buildings lie to the south and west.    
+~
+25 0 2 0 0
+D0
+   A simple wooden door with a large glass window.    
+~
+door glass window~
+1 0 2509
+D2
+~
+~
+0 0 2574
+D3
+~
+~
+0 0 2572
+D9
+~
+~
+0 0 2589
+S
+#2580
+Top of the Stairs~
+   The hallway continues on to the north and south.  A staircase hugs the
+western wall, allowing access to the first floor of the monastery.  A plush
+blue runner covers the wooden steps making them easier to climb.  A iron hand
+rail hangs on the wall along the side of the staircase.  The carpeting that
+runs through the hallway is a bit more worn than that of the rest of the
+monastery.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2577
+D2
+~
+~
+0 0 2584
+D5
+~
+~
+0 0 2521
+S
+#2581
+A Sleeping Chamber~
+   This large sleeping chamber houses several of the monks who live at the
+monastery.  Its furnishings are simple yet funtional.  Wooden bunks, stacked
+two high, sit against the northern and southern walls.  A large armoire stands
+against the western wall, resting between the two large windows that overlook
+the countryside.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2582
+S
+#2582
+Hallway~
+   The hallway's wooden plank floor is covered by a handsomely woven carpet.  
+Its multicolored fibers are woven to form images of vines and flowers which
+stretch the entire length of the hall.  A small, arched window in the eastern
+wall, offers a view of the courtyard below.  The hallway continues to the north
+and south.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2576
+D2
+~
+~
+0 0 2586
+D3
+~
+~
+0 0 2581
+S
+#2583
+A Balcony~
+   This small balcony extends out over the courtyard.  Two comfortable chairs
+rest on either side of a small table providing a welcome place to rest and get
+some fresh air.  Below in the courtyard, monks wander through the gardens or
+sit on one of the many benches reading and talking with eachother.  The balcony
+provides an excellent view of the courtyard's focal point, the large fountain.
+As the water flows through the fountain, its tranquil melody drifts up to the
+balcony.    
+~
+25 0 2 0 0
+D2
+~
+~
+0 0 2588
+S
+#2584
+Hallway~
+   The carpeting in this section of the hallway is a bit more worn than that of
+the rest of the monastery.  There appears to be a great deal of traffic between
+the two scribe rooms as the monks work tirelessly on their precious volumes.  
+Windows on the western wall offer a lovely view of the garden.  Small torches
+hang on either side of the doorway on the eastern wall.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2580
+D1
+~
+~
+0 0 2585
+D2
+~
+~
+0 0 2590
+S
+#2585
+A Scribe Room~
+   This is one of two scribe rooms at the monastery.  Monks who serve as
+scribes work here tirelessly transcribing books on history, philosophy,
+religion, and many other topics.  Although the gnomes have experimented with
+printing presses, the monks still believe in hand scribing their works.  The
+perimeter of the room is lined with shelves stacked with volumes that are still
+works in progress.  Two long table run the length of the room.  Each has
+several workstations set with ink wells and quills.    
+~
+25 8 0 0 0
+D3
+~
+~
+0 0 2584
+S
+#2586
+Hallway~
+   The floor of the hallway is covered with simple mats woven from reeds which
+grow behind the monastery.  The mats are coarse but thick enough to quiet the
+footfalls of those who pass.  The walls are painted a light shade of beige that
+reflects the light from the torches that hang on the walls.  The hallway
+continues to the east and north.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2582
+D1
+~
+~
+0 0 2587
+S
+#2587
+Hallway~
+   The floor of the hallway is covered with simple mats woven from reeds which
+grow behind the monastery.  The mats are coarse but thick enough to quiet the
+footfalls of those who pass.  The walls are painted a light shade of beige that
+reflects the light from the torches that hang on the walls.  The hallway
+continues to the east and west.  A training room lies to the south.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2588
+D2
+~
+~
+0 0 2591
+D3
+~
+~
+0 0 2586
+S
+#2588
+Hallway~
+   The floor of the hallway is covered with simple mats woven from reeds which
+grow behind the monastery.  The mats are coarse but thick enough to quiet the
+footfalls of those who pass.  The walls are painted a light shade of beige that
+reflects the light from the torches that hang on the walls.  The hallway
+continues to the east and west.  A small balcony is visible to the north, and a
+stairway lies to the south.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2583
+D1
+~
+~
+0 0 2590
+D2
+~
+~
+0 0 2592
+D3
+~
+~
+0 0 2587
+S
+#2589
+A Path Through the Gardens~
+   The bring path bends here as it continues through the gardens.  Lush green
+foliage lines the walkway.  The plants are short and bushy with shiny,
+heart-shaped leaves.  A monk wanders amongst the greenery harvesting leaves
+after giving them a close inspection.  He looks at each leaf and smiles as he
+places them in his leather satchel.    
+~
+25 4 2 0 0
+D6
+~
+~
+0 0 2579
+D9
+~
+~
+0 0 2547
+S
+#2590
+Hallway~
+   The floor of the hallway is covered with simple mats woven from reeds which
+grow behind the monastery.  The mats are coarse but thick enough to quiet the
+footfalls of those who pass.  The walls are painted a light shade of beige that
+reflects the light from the torches that hang on the walls.  The hallway
+continues to the north and west.    
+~
+25 12 0 0 0
+D0
+~
+~
+0 0 2584
+D3
+~
+~
+0 0 2588
+S
+#2591
+The Training Room~
+   This large training room is used by those monks interested in learning the
+martial arts.  It is sparsely decorated with only those items which are
+essential for the training process.  The wooden plank floor is covered with
+several large, canvas mats.  A large piece of parchment hangs on the front wall
+of the room.  The parchment has been painted with a picture depicting a large
+mantis gracefully poised on a small branch.    
+~
+25 8 0 0 0
+D0
+~
+~
+0 0 2587
+S
+#2592
+A Narrow Staircase~
+   The carpeting from the hallway ends here at the bottom of a narrow
+stairwell.  This wooden staircase climbs high above the monastery to the top of
+the bell tower.  The narrow stairs cling to the outside wall of the square
+tower.  A wooden handrail runs along the side of the stairs providing much need
+support for those climbing the steep narrow steps.    
+~
+25 12 0 0 0
+D0
+~
+~
+0 0 2588
+D4
+~
+~
+0 0 2593
+S
+#2593
+A Narrow Staircase~
+   This wooden staircase climbs high above the monastery to the top of the bell
+tower.  The narrow stairs cling to the outside wall of the square tower.  A
+wooden handrail runs along the side of the stairs providing much need support
+for those climbing the steep narrow steps.    
+~
+25 8 0 0 0
+D3
+~
+~
+0 0 2594
+D4
+~
+~
+0 0 2595
+D5
+~
+~
+0 0 2592
+S
+#2594
+A Small Sleeping Chamber~
+   This room is the home of the young man who rings the bell for the monks.  
+It would appear that he spends much of his time in his room reading, as
+evidenced by the large stacks of books which cover the floor.  The room is
+simply decorated and is quite small but still provides for all the basic
+necessities.  The walls are bare as is the wood plank floor.  A wooden cot sits
+in one corner of the room.  It is covered with hay to provide a small level of
+comfort.  A plain wooden bureau stands opposite the bed providing storage.    
+~
+25 8 0 0 0
+D1
+~
+~
+0 0 2593
+S
+#2595
+A Narrow Staircase~
+   This wooden staircase climbs high above the monastery to the top of the bell
+tower.  The narrow stairs cling to the outside wall of the square tower.  A
+wooden handrail runs along the side of the stairs providing much need support
+for those climbing the steep narrow steps.  The sounds of birds cooing can be
+heard coming from the rafters above.    
+~
+25 12 0 0 0
+D4
+~
+~
+0 0 2597
+D5
+~
+~
+0 0 2593
+S
+#2596
+A Vast, Brilliant Chamber~
+   The entire chamber is illuminated with an intense brilliance that is nearly
+blinding.  The floor and walls are formed from shining, white marble that
+appears to glow.  The room is completely unadorned, no rug covers the floors
+and nothing hangs on the walls.  The only furniture is a white, marble desk and
+chair which stand in the center of the room.    
+~
+25 8 0 0 0
+D3
+   A secret panel is hidden in the wall.    
+~
+wall secret panel~
+2 2518 2598
+S
+#2597
+Top of the Bell Tower~
+   The bell tower is open at the top, allowing the sound of the chiming bell to
+carry across the countryside.  Two large beams run across the low ceiling,
+supporting the gargantuan bell that calls the monks to prayer.  A thick rope
+extends down from the top of the bell to a small platform where the ringer
+stands.  Overhead, the cooing of doves who make their home here can be heard
+echoing through the rafters.    
+~
+25 0 0 0 0
+D5
+~
+~
+0 0 2595
+S
+#2598
+A Dark Cellar~
+   The cellar is almost completely dark.  The room would be pitch black if not
+for the bright light the streams in from under the eastern wall.  Although this
+cellar seems forgotten, not a single foot print mars the smooth surface of the
+dirt floor, there is a strange peacefulness that permeates it.    
+~
+25 8 2 0 0
+D1
+   A secret panel is hidden in the wall.    
+~
+wall secret panel~
+2 2518 2596
+D4
+~
+~
+0 0 2599
+S
+#2599
+A Dark, Narrow Stairway~
+   This narrow staircase winds its way below the monastery.  The ceiling is
+rather low, causing most who pass to stoop their head as they climb the stairs.
+The wooden stairs are damaged in some areas and wobble precariously.  It would
+seem as though they are not used often.    
+~
+25 12 0 0 0
+D4
+~
+~
+0 0 2545
+D5
+~
+~
+0 0 2598
+S
+$~

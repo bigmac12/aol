@@ -1,0 +1,70 @@
+#6700
+man male elf archer guard~
+a Qualinesti archer~
+A Qualinesti archer paces here, eyes scanning the horizon.
+~
+   The young male paces back and forth along the outer edges of Qualinost, ever
+vigilant for any signs of trouble.  He has thick, auburn hair pulled back into
+a queue and held out of his almond-shaped green eyes by a thin band of leather
+around his forehead.  His face is narrow and tanned, with finely chiseled
+features, and delicately pointed ears clearly indicate his Qualinesti heritage.
+  
+~
+280 0 2 250 E
+21 8 -5 3d33+450 3d8+7
+500 33500 6
+8 8 1 7
+BareHandAttack: 11
+E
+#6701
+woman elf guard archer female ~
+a Qualinesti archer~
+A Qualinesti archer guards the city, her eyes alert and vigilant.
+~
+   This athletic woman is one of the Qualinesti archers, protecting the city
+from invasion or attack.  She has reddish-gold hair, streaked with blonde
+highlights and woven into a thick braid that hangs down her back.  Large golden
+eyes scan the woods, looking for any sign of trouble.  Her face is quite
+pretty, dusted with freckles and very angular, as most other Qualinesti.    
+~
+264456 0 2 250 E
+21 8 -5 3d33+450 3d8+7
+1000 33500 6
+8 8 2 7
+BareHandAttack: 11
+E
+#6702
+man male elf qualinesti guard~
+a Qualinesti guard~
+A Qualinesti guard paces back and forth, his halberd held at the ready.
+~
+   The elven man slowly paces back and forth throughout the city, patrolling it
+and keeping it safe.  His skin is tanned from years out-of-doors, and he wears
+a simple helm over his head to protect him from harm.  Dark green eyes look out
+at you from below the helm pensively, as if trying to discern your intentions.
+  
+~
+2099464 0 0 350 E
+22 7 -6 3d33+550 3d8+7
+1000 40000 3
+8 8 1 7
+BareHandAttack: 16
+E
+#6703
+woman elf qualinesti guard~
+a Qualinesti guard~
+A Qualinesti guard walks back and forth, her halberd held at the ready.
+~
+   The woman stands proudly, her chin held up and both arms clasped firmly on
+her halberd's staff.  Her long honey-blonde hair is pulled back into a neat
+roll at the base of her neck, and a metal helm protects her head.  Deep blue
+eyes look out over the city and beyond, carefully searching for any signs of
+trouble.    
+~
+2097432 8 0 350 E
+22 7 -6 3d33+550 3d8+7
+0 40000 3
+8 8 2 7
+BareHandAttack: 16
+E
+$

@@ -1,0 +1,80 @@
+2
+ml
+16
+c magic-light $*
+1
+1
+1
+9
+as fenris
+0
+2
+ln
+285
+em jitters out a blurb of rambled words, '&CYou may address me as the one and only Gnimishrumagonersitterstandernutribertsonrighterdowninalgoforaseer, Official Representative from the Department of Medical Science, Third Division, Out-patient Services Branch in the Fourth District.&n'
+0
+2
+cf
+5
+c c-f
+0
+2
+rr
+16
+recite scroll $*
+1
+2
+cw
+17
+c create-water $*
+1
+1
+2
+9
+as reznor
+0
+2
+tt
+19
+take all all.corpse
+0
+2
+wb
+9
+wear belt
+0
+2
+cm
+18
+c cure-moderate $*
+1
+4
+bril
+119
+em throws up his hands, expressing his triumph through gesture before he makes the loud exclamation of "&CBRILLIANT!&n"
+0
+2
+ms
+18
+c magical-stone $*
+1
+1
+t
+18
+take all $*.corpse
+1
+2
+cl
+15
+c cure-light $*
+1
+2
+fs
+27
+pour skin out; fill skin $*
+1
+2
+gn
+57
+em speaks in a long-winded, unbreaking sentence, '&C$*&n'
+1

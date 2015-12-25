@@ -1,0 +1,176 @@
+#8700
+farmer tenant~
+a tenant farmer~
+A tenant farmer makes his way towards the city to trade his produce.
+~
+   This farmer makes his way toward the city to trade his produce.  He drags a
+small cart behind him with a few items that he hopes will fetch a decent price.
+His skin is tanned and leathery from spending hours out working what little
+land he has.    
+~
+12 0 0 100 E
+11 14 5 5d4+190 2d8+2
+23 2900 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#8701
+knight travelling~
+a travelling knight~
+A Knight of Solamnia, dressed for travel, makes his way between the Keeps.
+~
+   Though he is dressed for travelling, this young knight is still rather well
+armored.  His alert hazel eyes scan the surrounding area always watchful for
+any sign of trouble.  He instinctively keeps one hand on the hilt of his sword
+as he bows in greeting.    
+~
+1073160 0 0 400 E
+16 11 0 3d20+320 3d6+4
+400 11000 0
+8 8 1 0
+BareHandAttack: 7
+Maxmove: 50
+E
+#8702
+Knight sword young~
+a young Knight~
+A young Knight of the Sword has stopped to rest and water his steed.
+~
+   This young Knight of the Sword has stopped to rest on his journey between
+Keeps, as well as give his mount a chance to drink from the river here.  He is
+dressed in what is considered medium armor; Solamnic chainmail, light greaves
+and bracers, helm and shield.  He wears a white tabard which, of course bears
+the symbol of the Order of the Sword.  He stands here, breathing in the fresh
+air and looking after his steed.    
+~
+1603594 1024 10240 850 E
+21 8 -5 3d33+450 3d8+7
+900 33500 7
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#8703
+warhorse barded chestnut~
+a warhorse~
+A lightly barded warhorse with a glistening, chestnut-colored coat stands here.
+~
+   This mare is a magnificent specimen, and is obviously one of the rare breeds
+used by Solamnics as warhorses.  It is outfitted in light barding, and where
+visible powerful muscles ripple under it's glistening chestnut-colored coat.  
+It stands here calmly, twitching an ear or stamping a hoof occasionally.    
+~
+17825818 1064 0 0 E
+18 11 -2 3d20+380 3d6+6
+0 14000 0
+8 8 0 0
+BareHandAttack: 6
+Maxmove: 50
+E
+#8750
+courier young~
+a young courier~
+A young courier is here, running messages to their destinations.
+~
+   This young gentleman looks to be a courier.  He has effectively tailored his
+hair, so as not to tangle or impede himself during his many long rides between
+destinations.  He wears a heavy riding cloak to keep out any wind he might
+encounter along his travels.  His satchels and pouches are filled with various
+documents destined for many different lands.    
+~
+1048586 1024 0 0 E
+18 11 -2 3d20+380 3d6+6
+600 14000 4
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+#8751
+barbarian tall tanned~
+a tall, deeply-tanned plains barbarian~
+A tall, deeply-tanned plains barbarian avoids your gaze, continuing along the road.
+~
+   This tall, deeply-tanned plainsman appears very much like most of his
+people, dress in furs and hides, and feathers amidst his raven-black hair.  As
+most plainsman, he is fairly handsome by human standards, though his eyes seem
+cold.  He seems to be in a hurry, and avoids your curious gaze as he passes
+you.    
+~
+1048668 33792 0 0 E
+20 8 -4 3d20+440 3d7+6
+400 25000 3
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 50
+E
+#8752
+pony dusky white strong~
+a dusky-white pony~
+A strong, dusky-white pony stands here swishing away insects with his tail.
+~
+   This pony looks quite healthy, and very-well cared for.  His hide is a dusky
+white color, and his mane is a soft hay-colored blonde.  Though young, he looks
+strong; rippling muscles can already be seen in along his flanks and shoulders.
+He looks like he could bear a decent sized load, and likely has already been
+made accustomed to overland travel.    
+~
+17825930 1064 0 0 E
+16 11 0 3d20+320 3d6+4
+0 11000 0
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 400
+E
+#8777
+squire older~
+an exuberant squire~
+An older squire sits his horse with skill, bearing his lord's colors.
+~
+   While still rather young, this is an older squire, his body showing the
+definition and tone of one used to execise and training.  His eyes are sharp
+and rapidly follow the combat between his lord and the brigands, eager to lend
+aid where he can, yet obviously fearing his lord's reprisal should he run
+afoul.    
+~
+16458 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 3
+8 8 1 0
+Maxmove: 50
+E
+#8778
+knight heavily armored Sword~
+a heavily armored knight on horseback~
+A heavily armored Knight of the Sword rests atop his mighty steed, seeking to subdue a passing brigand.
+~
+   This knight rests lightly atop his steed, his sword in hand, flashing in
+precision strokes to parry the attacking brigand.  His armor, while sullied
+from travel and combat, is well-kept and cared for, marked with the symbols of
+the Order of the Sword.  His eyes warily trace his opponent, his serious mouth
+framed by a wide, handlebar moustache.    
+~
+81994 1024 0 0 E
+10 14 6 5d4+160 2d7+2
+0 1900 3
+8 8 1 0
+Maxmove: 50
+E
+#8779
+thief bandit ragged ragged-looking dark~
+a ragged man garbed in dark colors~
+A ragged-looking man dressed all in dark colors lurks here, his eyes wild as he brandishes a wicked sword.
+~
+   This man is large and powerfully built, his skin darkened from exposure and
+criss-crossed with many an old scar.  His dark eyes drift back and forth
+restlessly, raking across those about him with wicked gleam.  He smiles
+briefly, brandishing his blade wildly, a feral grin splitting his face.    
+~
+74 1024 0 0 E
+5 17 11 2d5+65 2d5+0
+0 85 0
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 50
+E
+$
