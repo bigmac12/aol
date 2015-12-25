@@ -949,37 +949,21 @@ int mag_savingthrow_new(struct char_data * caster, struct char_data * victim, in
 }
 
 int mag_savingthrow(struct char_data * ch, int type)
-
 {
-
   int save;
 
-
-
   /* negative apply_saving_throw values make saving throws better! */
-
-
-
   if (IS_NPC(ch)) /* NPCs use warrior tables according to some book */
-
     save = saving_throws[(int)CLASS_WARRIOR][type][GET_LEVEL(ch)];
-
   else
-
     save = saving_throws[(int)GET_CLASS(ch)][type][GET_LEVEL(ch)];
-
     save += GET_SAVE(ch, type);
 
   /* throwing a 0 is always a failure */
-
   if (MAX(1, save) < number(0, 99))
-
     return TRUE;
-
   else
-
     return FALSE;
-
 }
 
 /* affect_update: called from comm.c (causes spells to wear off) */
@@ -1033,18 +1017,10 @@ void affect_update(void)
  * heal spell which requires a rare herb or some such.)
 
 */
-
-
-
 int mag_materials(struct char_data *ch, int item0, int extract, int position)
-
 {
-
   struct obj_data *tobj;
-
   struct obj_data *obj0 = NULL;
-
-
 
 if (position == CMP_INV) {
 
@@ -1504,7 +1480,7 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
      af[i].location = APPLY_NONE;
   }
 
-  if ((factor = mag_savingthrow_new(ch, victim, aggressive, savetype, spellnum)) <50 ) 
+  if ((factor = mag_savingthrow_new(ch, victim, aggressive, savetype, spellnum)) < 50 )
   {
     if (!aggressive) 
     {
@@ -2493,68 +2469,38 @@ for (i = 0; i < NUM_WEARS; i++)
 
     next_target = target->next_in_room;
 
-if (target == ch) {
-
-   sprintf(buf2, "You have transformed yourself into %s!", buf);
-
-  send_to_char(buf2, ch);
-
-}
-
-else {
-
- GET_NAME_II(ch, target, chname);
-
- sprintf(buf2, "%s has transformed $mself into a %s!", chname, buf);
-
- FREE_NAME(chname);
-
- act(buf2, FALSE, ch, 0, target, TO_VICT);
-
-
-
-}
-
-}
+    if (target == ch) {
+        sprintf(buf2, "You have transformed yourself into %s!", buf);
+        send_to_char(buf2, ch);
+    } else {
+        GET_NAME_II(ch, target, chname);
+        sprintf(buf2, "%s has transformed $mself into a %s!", chname, buf);
+        FREE_NAME(chname);
+        act(buf2, FALSE, ch, 0, target, TO_VICT);
+    }
+  }
 
   break;
 
-
-
   case SPELL_ARMOR:
-
     if (affected_by_spell(victim, SPELL_BARKSKIN) ||
-
         affected_by_spell(victim, SPELL_MAGIC_VEST))
-
     {
-
       send_to_char("Nothing seems to happen.\r\n", ch);
-
       return;
-
     }
 
     af[0].location = APPLY_AC;
-
     af[0].modifier = -10;
-
     af[0].duration = 24;
-
     accum_duration = FALSE;
-
     to_vict = "You feel someone protecting you.";
 
     break;
 
-
-
   case SPELL_AID:
-
     af[2].location = APPLY_HIT;
-
     af[2].modifier = dice(10, 2) + 10;
-
     af[2].duration = 6;
 
     /*  Aid also affects with bless - therefore, no break for this case  */
@@ -5947,22 +5893,14 @@ void mag_points(int level, struct char_data * ch, struct char_data * victim,
 
 
 
-void mag_unaffects(int level, struct char_data * ch, struct char_data * victim,
-
-		        int spellnum, int type)
-
+void mag_unaffects(int level, struct char_data * ch, struct char_data * victim, int spellnum, int type)
 {
-
   int spell=0, spell2=0, spell3=0, spell4=0, spell5=0;
-
   char *to_vict = NULL, *to_room = NULL;
-
   int tot_unaffects = 0;
-
   int factor = 0, aggressive = spell_info[spellnum].violent;
 
   if (ch == NULL)
-
     return;
 
   if ((factor = mag_savingthrow_new(ch, victim, aggressive, type, spellnum)) <50 ) {
@@ -5973,157 +5911,86 @@ void mag_unaffects(int level, struct char_data * ch, struct char_data * victim,
   }
 
   if (victim == NULL)
-
     return;
-
-
 
   switch (spellnum) {
-
-  case SPELL_CURE_BLIND:
-
-  case SPELL_HEAL:
-
-    spell = SPELL_BLINDNESS;
-
-    break;
-
-  case SPELL_NEUTRALIZE_POISON:
-
-    spell = SPELL_POISON;
-
-    to_room = "$n looks better.";
-
-    break;
-
-  case SPELL_CURE_DEAFNESS:
-
-    spell = SPELL_DEAFENING_WIND;
-
-    break;
-
-  case SPELL_CURE_DISEASE:
-
-    spell = SPELL_DISEASE;
-
-    break;
-
-  case SPELL_REMOVE_PARALYSIS:
-
-    spell = SPELL_PARALYZE;
-
-    spell2 = SPELL_HOLD_PERSON;
-
-    break;
-
-  case SPELL_REGENERATION:
-
-    spell = SPELL_WITHER;
-
-    break;
-
-  case SPELL_REMOVE_CURSE:
-
-    spell = SPELL_BESTOW_CURSE;
-
-    spell2 = SPELL_MAGICAL_SUSCEPT;
-
-    break;
-
-
-
-  case SPELL_FREE_ACTION:
-
-    spell = SPELL_PARALYZE;
-
-    spell2 = SPELL_HOLD_PERSON;
-
-    spell3 = SPELL_ENTANGLE;
-
-    spell4 = SPELL_WEB;
-
-    break;
-
-
-
-  case SPELL_REMOVE_FEAR:
-
-    spell = SPELL_INSPIRE_FEAR;
-
-    break;
-
-
-
-  case SPELL_IMPERVIOUS_MIND:
-
-    spell = SPELL_CHARM;
-
-    spell = SPELL_CHARM;
-
-    spell2 = SPELL_HOLD_PERSON;
-
-    spell3 = SPELL_PARALYZE;
-
-    spell4 = SPELL_INSPIRE_FEAR;
-
-    spell5 = SPELL_SLEEP;
-
-    break;
-
-
-
-  case SPELL_BREATH_OF_LIFE:
-
-    spell = SPELL_BLACK_PLAGUE;
-
-    break;
-
-
-
-  case SPELL_SLOW:
-
-    spell = SPELL_HASTE;
-
-    break;
-
-
-
-  case SPELL_HASTE:
-
-    spell = SPELL_SLOW;
-
-    break;
-
-
-
-  case SPELL_BRAVERY:
-
-    spell = SPELL_INSPIRE_FEAR;
-
-    break;
-
-
-
-  case SPELL_RESTORATION:
-
-    spell = SPELL_SOUL_DRAIN;
-
-    break;
-
-
-
-  default:
-
-    sprintf(buf, "SYSERR: unknown spellnum %d passed to mag_unaffects",
-
-	    spellnum);
-
-    mudlog(buf, BRF, LVL_GRGOD, TRUE);
-
-    return;
-
-    break;
-
+    case SPELL_CURE_BLIND:
+    case SPELL_HEAL:
+        spell = SPELL_BLINDNESS;
+        break;
+
+    case SPELL_NEUTRALIZE_POISON:
+        spell = SPELL_POISON;
+        to_room = "$n looks better.";
+        break;
+
+    case SPELL_CURE_DEAFNESS:
+        spell = SPELL_DEAFENING_WIND;
+        break;
+
+    case SPELL_CURE_DISEASE:
+        spell = SPELL_DISEASE;
+        break;
+
+    case SPELL_REMOVE_PARALYSIS:
+        spell = SPELL_PARALYZE;
+        spell2 = SPELL_HOLD_PERSON;
+        break;
+
+    case SPELL_REGENERATION:
+        spell = SPELL_WITHER;
+        break;
+
+    case SPELL_REMOVE_CURSE:
+        spell = SPELL_BESTOW_CURSE;
+        spell2 = SPELL_MAGICAL_SUSCEPT;
+        break;
+
+    case SPELL_FREE_ACTION:
+        spell = SPELL_PARALYZE;
+        spell2 = SPELL_HOLD_PERSON;
+        spell3 = SPELL_ENTANGLE;
+        spell4 = SPELL_WEB;
+        break;
+
+    case SPELL_REMOVE_FEAR:
+        spell = SPELL_INSPIRE_FEAR;
+        break;
+
+    case SPELL_IMPERVIOUS_MIND:
+        spell = SPELL_CHARM;
+        spell = SPELL_CHARM;
+        spell2 = SPELL_HOLD_PERSON;
+        spell3 = SPELL_PARALYZE;
+        spell4 = SPELL_INSPIRE_FEAR;
+        spell5 = SPELL_SLEEP;
+        break;
+
+    case SPELL_BREATH_OF_LIFE:
+        spell = SPELL_BLACK_PLAGUE;
+        break;
+
+    case SPELL_SLOW:
+        spell = SPELL_HASTE;
+        break;
+
+    case SPELL_HASTE:
+        spell = SPELL_SLOW;
+        break;
+
+    case SPELL_BRAVERY:
+        spell = SPELL_INSPIRE_FEAR;
+        break;
+
+    case SPELL_RESTORATION:
+        spell = SPELL_SOUL_DRAIN;
+        break;
+
+    default:
+        sprintf(buf, "SYSERR: unknown spellnum %d passed to mag_unaffects", spellnum);
+        mudlog(buf, BRF, LVL_GRGOD, TRUE);
+        return;
+        break;
   }
 
 
