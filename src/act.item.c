@@ -350,7 +350,7 @@ void perform_get_from_container(struct char_data * ch, struct obj_data * obj, st
 
       if (GET_OBJ_LEVEL(obj) - GET_LEVEL(ch) > 5) {
         GET_NAME(ch, chname);
-        sprintf(buf, "%s retrieved a powerful item (%d) from %d.", chname, obj->item_number, cont->item_number);
+        sprintf(buf, "%s retrieved a powerful item (%s) from %s.", chname, obj->short_description, cont->short_description);
         FREE_NAME(chname);
         mudlog(buf, BRF, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);
       }
@@ -409,7 +409,7 @@ int perform_get_from_room(struct char_data * ch, struct obj_data * obj)
 
     if (GET_OBJ_LEVEL(obj) - GET_LEVEL(ch) > 5) {
       GET_NAME(ch, chname);
-      sprintf(buf, "%s has picked up a powerful item (%d).", chname, obj->item_number);
+      sprintf(buf, "%s has picked up a powerful item (%s).", chname, obj->short_description);
       FREE_NAME(chname);
       mudlog(buf, BRF, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);
     }
