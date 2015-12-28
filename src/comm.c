@@ -901,12 +901,10 @@ void heartbeat(int pulse)
   }
 
   if (!(pulse % PULSE_MOBILE)) {
-      log("mobile_activity");
-      //mobile_activity();
+      mobile_activity();
   }
 
   if (!(pulse % PULSE_VIOLENCE)) {
-    log("Pulse");
     perform_violence();
     perform_pulse_damage();
     perform_area_magic();
