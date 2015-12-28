@@ -340,14 +340,21 @@ void get_check_money(struct char_data * ch, struct obj_data * obj)
 }
 
 
-void perform_get_from_container(struct char_data * ch, struct obj_data * obj,
-                                     struct obj_data * cont, int mode)
+void perform_get_from_container(struct char_data * ch, struct obj_data * obj, struct obj_data * cont, int mode)
 {
   if (mode == FIND_OBJ_INV || can_take_obj(ch, obj)) {
     if (IS_CARRYING_N(ch) >= CAN_CARRY_N(ch)) {
       act("$p: you can't hold any more items.", FALSE, ch, obj, 0, TO_CHAR);
     } else if (get_otrigger(obj, ch)) {
       obj_from_obj(obj);
+
+      if (GET_OBJ_LEVEL(obj) - GET_LEVEL(ch) > 5) {
+        GET_NAME(ch, chname);
+        sprintf(buf, "%s retrieved a powerful item from %s.", chname, obj->name);
+        FREE_NAME(chname);
+        mudlog(buf, BRF, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);
+      }
+
       obj_to_char(obj, ch);
       act("You get $p from $P.", FALSE, ch, obj, cont, TO_CHAR);
       act("$n gets $p from $P.", TRUE, ch, obj, cont, TO_ROOM);
@@ -357,9 +364,7 @@ void perform_get_from_container(struct char_data * ch, struct obj_data * obj,
 }
 
 
-void get_from_container(struct char_data * ch, struct obj_data * cont,
-			     char *arg, int mode)
-{
+void get_from_container(struct char_data * ch, struct obj_data * cont, char *arg, int mode) {
   struct obj_data *obj, *next_obj;
   int obj_dotmode, found = 0;
 
@@ -401,6 +406,14 @@ int perform_get_from_room(struct char_data * ch, struct obj_data * obj)
 {
   if (can_take_obj(ch, obj) && get_otrigger(obj, ch)) {
     obj_from_room(obj);
+
+    if (GET_OBJ_LEVEL(obj) - GET_LEVEL(ch) > 5) {
+      GET_NAME(ch, chname);
+      sprintf(buf, "%s has picked up a powerful item (%s).", chname, obj->name);
+      FREE_NAME(chname);
+      mudlog(buf, BRF, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);
+    }
+
     obj_to_char(obj, ch);
     act("You get $p.", FALSE, ch, obj, 0, TO_CHAR);
     act("$n gets $p.", TRUE, ch, obj, 0, TO_ROOM);
