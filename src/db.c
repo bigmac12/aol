@@ -1915,9 +1915,8 @@ void zone_update(void)
     if (zone_table[update_u->zone_to_reset].reset_mode == 2 ||
 	is_empty(update_u->zone_to_reset)) {
       reset_zone(update_u->zone_to_reset);
-      sprintf(buf, "Auto zone reset: %s",
-	      zone_table[update_u->zone_to_reset].name);
-      /* mudlog(buf, CMP, LVL_GOD, FALSE); */
+      sprintf(buf, "Auto zone reset: %s", zone_table[update_u->zone_to_reset].name);
+      mudlog(buf, CMP, LVL_GOD, FALSE);
       /* dequeue */
       if (update_u == reset_q.head)
 	reset_q.head = reset_q.head->next;
