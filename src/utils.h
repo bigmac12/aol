@@ -479,8 +479,6 @@ int known_player(const struct char_data *ch, struct char_data *who);
 #define GET_WAIT_STATE(ch) ((ch)->wait)
 
 /* object utils **********************************************************/
-
-
 #define GET_OBJ_TYPE(obj)	((obj)->obj_flags.type_flag)
 #define GET_OBJ_COST(obj)	((obj)->obj_flags.cost)
 #define GET_OBJ_RENT(obj)	((obj)->obj_flags.cost_per_day)
