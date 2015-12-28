@@ -745,7 +745,9 @@ void perform_give(struct char_data * ch, struct char_data * vict, struct obj_dat
    */
   //if (GET_OBJ_LEVEL(obj) > GET_LEVEL(vict)) {
   if (GET_OBJ_LEVEL(obj) - GET_LEVEL(vict) > 5) {
-    act("$N seems to have $S level low.", FALSE, ch, 0, vict, TO_CHAR);
+    //act("$N seems to have $S level low.", FALSE, ch, 0, vict, TO_CHAR);
+    act("You are not allowed to give $N this item.", FALSE, ch, 0, vict, TO_CHAR);
+    sprintf(buf, "%s attempted to give a powerful item to %s.", ch->player.name, vict->player.name);
     return;
   }
 
@@ -803,11 +805,8 @@ struct char_data *give_find_vict(struct char_data * ch, char *arg)
 }
 
 
-void perform_give_gold(struct char_data * ch, struct char_data * vict,
-		            struct money_data amount)
-{
+void perform_give_gold(struct char_data * ch, struct char_data * vict, struct money_data amount) {
   int coins;
-
 
   if ( money_to_copper(amount) <= 0) {
     send_to_char("Heh heh heh ... we are jolly funny today, eh?\r\n", ch);
@@ -943,9 +942,7 @@ ACMD(do_give)
 }
 
 
-
-void weight_change_object(struct obj_data * obj, int weight)
-{
+void weight_change_object(struct obj_data * obj, int weight) {
   struct obj_data *tmp_obj;
   struct char_data *tmp_ch;
 
@@ -965,9 +962,7 @@ void weight_change_object(struct obj_data * obj, int weight)
 }
 
 
-
-void name_from_drinkcon(struct obj_data * obj)
-{
+void name_from_drinkcon(struct obj_data * obj) {
   int i;
   char *new_name;
   extern struct obj_data *obj_proto;
@@ -986,9 +981,7 @@ void name_from_drinkcon(struct obj_data * obj)
 }
 
 
-
-void name_to_drinkcon(struct obj_data * obj, int type)
-{
+void name_to_drinkcon(struct obj_data * obj, int type) {
   char *new_name;
   extern struct obj_data *obj_proto;
   extern char *drinknames[];
@@ -1004,9 +997,7 @@ void name_to_drinkcon(struct obj_data * obj, int type)
 }
 
 
-
-ACMD(do_drink)
-{
+ACMD(do_drink) {
   struct obj_data *temp;
   struct affected_type af;
   int amount, weight;
@@ -1129,9 +1120,7 @@ ACMD(do_drink)
 }
 
 
-
-ACMD(do_eat)
-{
+ACMD(do_eat) {
   struct obj_data *food;
   struct affected_type af;
   int amount, luck;
@@ -1224,8 +1213,7 @@ ACMD(do_eat)
 }
 
 
-ACMD(do_pour)
-{
+ACMD(do_pour) {
   char arg1[MAX_INPUT_LENGTH];
   char arg2[MAX_INPUT_LENGTH];
   struct obj_data *from_obj = NULL, *to_obj = NULL;
@@ -1363,9 +1351,7 @@ ACMD(do_pour)
 }
 
 
-
-void wear_message(struct char_data * ch, struct obj_data * obj, int where)
-{
+void wear_message(struct char_data * ch, struct obj_data * obj, int where) {
   char *wear_messages[][2] = {
     {"$n lights $p and holds it.",
     "You light $p and hold it."},
@@ -1501,8 +1487,8 @@ void wear_message(struct char_data * ch, struct obj_data * obj, int where)
   act(wear_messages[where][1], FALSE, ch, obj, 0, TO_CHAR);
 }
 
-int hands_full(struct char_data * ch)
-{
+
+int hands_full(struct char_data * ch) {
   int free_hands = 2;
   struct affected_type *af;
 
@@ -1533,8 +1519,7 @@ int hands_full(struct char_data * ch)
   return (free_hands < 1);
 }
 
-void lose_arm(struct char_data * ch)
-{
+void lose_arm(struct char_data * ch) {
   int free_hands = 1;
 
   if (GET_EQ(ch, WEAR_HOLD))
@@ -1964,8 +1949,6 @@ if  (where == WEAR_WAIST_1) {
 
   return;
 }
-
-
 
 
 int find_eq_pos(struct char_data * ch, struct obj_data * obj, char *arg)
