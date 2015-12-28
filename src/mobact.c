@@ -145,12 +145,6 @@ void mobile_activity(void)
     if (MOB_FLAGGED(ch, MOB_SPEC) && !no_specials) {
       log("mobile_activity->spec_proc->rnum");
       log("%hd", ch->nr);
-      log("Do stuff");
-      log("Do stuff");
-      log("Do stuff");
-      log("Do stuff");
-      log("Do stuff");
-      log("Do stuff");
       log("%d", mob_index[GET_MOB_RNUM(ch)]);
       mob_index[GET_MOB_RNUM(ch)].func;
       if (mob_index[GET_MOB_RNUM(ch)].func == NULL) {
