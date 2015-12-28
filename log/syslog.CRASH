@@ -1,30 +1,30 @@
-Dec 25 09:32:50 :: mobile_activity->perform_move->riding
-Dec 25 09:32:50 :: Can't go that way.
-Dec 25 09:32:51 :: Pulse
-Dec 25 09:32:52 :: mobile_activity->perform_move
-Dec 25 09:32:52 :: mobile_activity->perform_move->fishing
-Dec 25 09:32:52 :: mobile_activity->perform_move->fighting
-Dec 25 09:32:52 :: mobile_activity->perform_move->riding
-Dec 25 09:32:52 :: mobile_activity->perform_move
-Dec 25 09:32:52 :: mobile_activity->perform_move->fishing
-Dec 25 09:32:52 :: mobile_activity->perform_move->fighting
-Dec 25 09:32:52 :: mobile_activity->perform_move->riding
-Dec 25 09:32:52 :: Can't go that way.
-Dec 25 09:32:53 :: Pulse
-Dec 25 09:32:53 :: mobile_activity->perform_move
-Dec 25 09:32:53 :: mobile_activity->perform_move->fishing
-Dec 25 09:32:53 :: mobile_activity->perform_move->fighting
-Dec 25 09:32:53 :: mobile_activity->perform_move->riding
-Dec 25 09:32:53 :: mobile_activity->perform_move
-Dec 25 09:32:53 :: mobile_activity->perform_move->fishing
-Dec 25 09:32:53 :: mobile_activity->perform_move->fighting
-Dec 25 09:32:53 :: mobile_activity->perform_move->riding
-Dec 25 09:32:54 :: mobile_activity->perform_move
-Dec 25 09:32:54 :: mobile_activity->perform_move->fishing
-Dec 25 09:32:54 :: mobile_activity->perform_move->fighting
-Dec 25 09:32:54 :: mobile_activity->perform_move->riding
-Dec 25 09:32:55 :: Pulse
-Dec 25 09:32:55 :: mobile_activity->perform_move
-Dec 25 09:32:55 :: mobile_activity->perform_move->fishing
-Dec 25 09:32:55 :: mobile_activity->perform_move->fighting
-Dec 25 09:32:55 :: mobile_activity->perform_move->riding
+Dec 27 21:46:20 :: Pulse
+Dec 27 21:46:22 :: Pulse
+Dec 27 21:46:24 :: Pulse
+Dec 27 21:46:26 :: Pulse
+Dec 27 21:46:28 :: mobile_activity
+Dec 27 21:46:28 :: Pulse
+Dec 27 21:46:30 :: Pulse
+Dec 27 21:46:32 :: Pulse
+Dec 27 21:46:34 :: Pulse
+Dec 27 21:46:36 :: Pulse
+Dec 27 21:46:38 :: mobile_activity
+Dec 27 21:46:38 :: Pulse
+Dec 27 21:46:40 :: Pulse
+Dec 27 21:46:42 :: Pulse
+Dec 27 21:46:44 :: Pulse
+Dec 27 21:46:46 :: Pulse
+Dec 27 21:46:48 :: mobile_activity
+Dec 27 21:46:48 :: Pulse
+Dec 27 21:46:50 :: Pulse
+Dec 27 21:46:50 :: (GC) Shutdown by Sirrion.
+Dec 27 21:46:50 :: SYSERR: Requesting exp for invalid level!
+Dec 27 21:46:50 :: SYSERR: Requesting exp for invalid level!
+Dec 27 21:46:50 :: Closing all sockets.
+Dec 27 21:46:50 :: Closing link to: Lunitari.
+Dec 27 21:46:50 :: Closing link to: Sirrion.
+Dec 27 21:46:50 :: Normal termination of game.
+Quick boot mode -- rent check supressed.
+SYSERR: Unknown option -p in argument string.
+Loading player objects from secondary (ascii) files.
+Using file descriptor for logging.
