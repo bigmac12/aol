@@ -901,7 +901,7 @@ void heartbeat(int pulse)
   }
 
   if (!(pulse % PULSE_MOBILE)) {
-      mobile_activity();
+      //mobile_activity();
   }
 
   if (!(pulse % PULSE_VIOLENCE)) {
