@@ -727,9 +727,7 @@ for (af = ch->affected; af; af = next)
 }
 
  
-void perform_give(struct char_data * ch, struct char_data * vict,
-		       struct obj_data * obj)
-{
+void perform_give(struct char_data * ch, struct char_data * vict, struct obj_data * obj) {
   if (IS_OBJ_STAT(obj, ITEM_NODROP)) {
     if (GET_LEVEL(ch) < LVL_IMMORT)
     {
@@ -742,14 +740,14 @@ void perform_give(struct char_data * ch, struct char_data * vict,
     return;
   }
 
-  /*  PDH  3/20/99
-   *  no longer have Eq Level restrictions
-   *
-  if (GET_OBJ_LEVEL(obj) > GET_LEVEL(vict)) {
+  /* If an item is more than five item levels higher than
+   * the intended recipient, prevent it from being given.
+   */
+  //if (GET_OBJ_LEVEL(obj) > GET_LEVEL(vict)) {
+  if (GET_OBJ_LEVEL(obj) - GET_LEVEL(vict) > 5) {
     act("$N seems to have $S level low.", FALSE, ch, 0, vict, TO_CHAR);
     return;
   }
-  */
 
   if (GET_OBJ_WEIGHT(obj) + IS_CARRYING_W(vict) > CAN_CARRY_W(vict)) {
     act("$E can't carry that much weight.", FALSE, ch, 0, vict, TO_CHAR);
@@ -915,9 +913,11 @@ ACMD(do_give)
 
   } else {
     one_argument(argument, buf1);
+
     if (!(vict = give_find_vict(ch, buf1)))
       return;
     dotmode = find_all_dots(arg);
+
     if (dotmode == FIND_INDIV) {
       if (!(obj = get_obj_in_list_vis(ch, arg, ch->carrying))) {
 	sprintf(buf, "You don't seem to have %s %s.\r\n", AN(arg), arg);
