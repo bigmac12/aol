@@ -599,6 +599,61 @@ poison-filled saliva dripping from its hungry mouth.
 BareHandAttack: 4
 Maxmove: 50
 E
+#5240
+stallion brown quarter-horse horse~
+a tall, sturdy Karthalian quarter horse~
+A tall, sturdy Karthalian quarter horse stands here.
+~
+   Robust, tall, and proud is all words one can describe the Karthalian breed
+of quarter horse.  Standing around 15.  4 hands high, this beautiful horse is
+known for its ability to outdistance other horse breeds in short distance
+spiriting.  This stallion has a rich, chestnut color coat which has been so
+well taken care of; it nearly shimmers as testament of its health and luster.
+  
+~
+16850952 1073741824 0 0 E
+18 19 -2 3d20+380 1d2+1
+0 1 0
+8 8 1 0
+BareHandAttack: 4
+Maxmove: 500
+E
+#5241
+stallion horse appaloosa spotted~
+a black and white spotted appaloosa stallion~
+A black and white spotted appaloosa stallion, stands here patiently.
+~
+   Black speckles cover the beautiful, rich coat of this appaloosa body.  Not
+overly tall in stature, this stallion's breed however is known for its
+endurance over long distances and their ability to carry heavy loads.    
+~
+16850952 1073741824 0 0 E
+11 18 10 2d14+300 3d4+4
+0 1 0
+8 8 1 0
+BareHandAttack: 4
+Maxmove: 500
+E
+#5242
+mare tall powerful spirited friesian~
+&Ka tall, spirited friesian mare&n~
+&KA tall, spirited friesian mare fidgets while she stands here.&n
+~
+   Lively and spirited does not even begin to describe this mare.  Rich in
+black ethereal beauty with a long, thick mane of hair, this mare is quiet the
+suitable mount for any person in armor.  Standing tall at almost 16 hands, this
+mare has a long, arched neck and well-chiseled, short-eared head and a
+powerful, sloping shoulders to round off her compact, muscular body.  This
+Friesian mare has great presence in the way she carries herself, and anyone
+else riding upon her back with elegance.    
+~
+16842760 1073741824 0 0 E
+11 18 -2 2d2+200 2d2+2
+0 1 0
+8 8 2 0
+BareHandAttack: 4
+Maxmove: 400
+E
 #5250
 rat red dim~
 a large, savage-looking rat~

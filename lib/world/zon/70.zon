@@ -1,7 +1,8 @@
 #70
 Roads (pal-kal)~
 7099 10 2
-* ZoneState 4 -NONE_ 000000000000000
+* ZoneState 1 unowned 000000000000000
+M 0 7099 10 7000 	(an enraged wolverine)
 R 0 7007 5245 -1 	(a large merchant's wagon)
 O 0 5245 2 7007 	(a large merchant's wagon)
 O 0 7002 20 7051 	(Vingaard River)
@@ -12,8 +13,6 @@ E 1 7064 2 3 	(&Wan engraved ivory disc, hanging from a silver chain&n)
 M 0 7072 1 7072 	(a young kender)
 E 1 7072 3 16 	(an ironwood hoopak, carved with many designs)
 O 0 7026 1 7026 	(a wooden sign)
-M 0 7099 10 7000 	(an enraged wolverine)
-D 0 7000 0 1 	(Mountain Pass Road)
 O 0 7002 20 7040 	(Vingaard River)
 O 0 7002 20 7050 	(Vingaard River)
 O 0 7002 20 7059 	(Vingaard River)

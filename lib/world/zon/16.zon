@@ -1,7 +1,7 @@
 #16
 Vingaard Keep I~
-1699 30 2
-* ZoneState 4 -NONE- 000011111111100
+1699 60 1
+* ZoneState 1 unowned 000000000000000
 M 0 1623 1 1622 	(a young stablehand)
 M 0 1635 1 1622 	(a sturdy mare with a braided white mane)
 M 0 1636 1 1622 	(a huge, black Solamnic warhorse)
@@ -115,7 +115,7 @@ E 1 1603 10 12 	(&ra blood-red, velvet sash&n)
 M 0 1617 1 1672 	(a priest of Kiri-Jolith)
 G 1 29 20 -1 	(a figurine of a sword)
 M 0 1610 6 1680 	(an older Knight of the Rose)
-E 1 1604 10 8 	(a pair of mailed boots)
+E 1 1604 10 8 	(a heavy pair of steel sollerets)
 M 0 1610 6 1680 	(an older Knight of the Rose)
 M 0 1605 3 1653 	(a careless knight)
 E 1 1601 4 16 	(a bastard sword)

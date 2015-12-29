@@ -920,16 +920,13 @@ D1
 ~
 0 0 5241
 E
-weapon weapons rack north~
-   This weapon rack is carved from solid oak, made to hold up to six weapons of
-different sizes and types.  It is currently empty, suggesting that the weapons
-themselves are being used elsewhere.    
-~
-E
-fire fireplace west stone~
-   This crackling fire is fueled by wood, and, upon closer inspection, scraps
-of paper.  Whatever secrets or information that was once written upon them is
-now lost for eternity to the hungry flames.    
+bed canopy~
+   This large, comfortable bed is shielded from above by a fancy canopy.  The
+sheets are an interesting mix of silk and satin, red in color, and pillows of
+muslin and velvet.  The bed is clearly made for one who leads a comfortable
+life, though its unmade state suggests that whoever does sleep here does not
+have the time in their day to make it.  Either that, or the servants have taken
+the day off.    
 ~
 E
 table~
@@ -939,13 +936,16 @@ scraps of a meal sitting upon them.  There is also a crystal goblet, drained of
 all but a few drops of red wine.    
 ~
 E
-bed canopy~
-   This large, comfortable bed is shielded from above by a fancy canopy.  The
-sheets are an interesting mix of silk and satin, red in color, and pillows of
-muslin and velvet.  The bed is clearly made for one who leads a comfortable
-life, though its unmade state suggests that whoever does sleep here does not
-have the time in their day to make it.  Either that, or the servants have taken
-the day off.    
+fire fireplace west stone~
+   This crackling fire is fueled by wood, and, upon closer inspection, scraps
+of paper.  Whatever secrets or information that was once written upon them is
+now lost for eternity to the hungry flames.    
+~
+E
+weapon weapons rack north~
+   This weapon rack is carved from solid oak, made to hold up to six weapons of
+different sizes and types.  It is currently empty, suggesting that the weapons
+themselves are being used elsewhere.    
 ~
 S
 #5250
@@ -1110,20 +1110,20 @@ D1
 ~
 0 0 5258
 E
-gargoyles leer ruby eyes~
-   Moss hangs from each of these stone gargoyles, which sit in the four corners
-of the ceiling.  Their faces have been carved into horrible, leering visages
-and each ones eyes have been set with rubies.  The dim light from the braziers
-reflects off their eyes making it look as if they were alive, watching..  
-Leering..    
-~
-E
 fountain ornately carved~
    This large, obsidian fountain has been carved by skilled hands.  Rising from
 the center like some black monolith, are three figures carved from the stone of
 the fountain: A rotting corpse with a snarling, hideous goats head; A muscular
 man wearing an executioners hood; and a roiling black cloud; each set with
 small, delicate rubies for eyes.    
+~
+E
+gargoyles leer ruby eyes~
+   Moss hangs from each of these stone gargoyles, which sit in the four corners
+of the ceiling.  Their faces have been carved into horrible, leering visages
+and each ones eyes have been set with rubies.  The dim light from the braziers
+reflects off their eyes making it look as if they were alive, watching..  
+Leering..    
 ~
 S
 #5258
@@ -1321,11 +1321,17 @@ D6
 ~
 0 0 5272
 E
-tapestries~
-   As with the rest of this encampment, these large gold tapetries have been
-decorated with the symbol of the decaying skull.  The eyes of the skull are
-red and menacing, while a black outline etches the border, creating an aura.  
-
+throne~
+   This throne has been carved out of polished granite, that has been chisled
+with expert hands.  A sign of a skull can be noticed on the back side of the
+throne written in chalk.  Somehow this throne doesn't fit the lifestyle of a
+kobold.    
+~
+E
+painting paintings~
+   This ornate painting seems to be painted with red and black colours with
+delicate touches of an oil brush.  This painting depicts an enormous castle
+under the siege of a huge black dragon with three heads.    
 ~
 E
 candle candles~
@@ -1335,17 +1341,11 @@ etched into them.  The candle itself is black, and lets out a deep, dark smell.
   
 ~
 E
-painting paintings~
-   This ornate painting seems to be painted with red and black colours with
-delicate touches of an oil brush.  This painting depicts an enormous castle
-under the siege of a huge black dragon with three heads.    
-~
-E
-throne~
-   This throne has been carved out of polished granite, that has been chisled
-with expert hands.  A sign of a skull can be noticed on the back side of the
-throne written in chalk.  Somehow this throne doesn't fit the lifestyle of a
-kobold.    
+tapestries~
+   As with the rest of this encampment, these large gold tapetries have been
+decorated with the symbol of the decaying skull.  The eyes of the skull are
+red and menacing, while a black outline etches the border, creating an aura.  
+
 ~
 S
 #5274
@@ -1443,12 +1443,6 @@ D6
 ~
 0 0 5271
 E
-tent Tent~
-   This bleak black tent seems to be covered in a substance that deflects light
-and hardens the leather.  An earie glow emits from the leather, casting a
-baneful aura around it.  A large warning sign beckons for you to read it!    
-~
-E
 sign warning danger~
 The sign reads:
 
@@ -1457,6 +1451,12 @@ power!
 
 Signed,
 The Kobold Shaman
+~
+E
+tent Tent~
+   This bleak black tent seems to be covered in a substance that deflects light
+and hardens the leather.  An earie glow emits from the leather, casting a
+baneful aura around it.  A large warning sign beckons for you to read it!    
 ~
 S
 #5279
@@ -1472,57 +1472,55 @@ D1
 ~
 0 0 5278
 E
-demon~
-   This picture depicts a human wizard of the black robes summoning a demon to his
-side.  The mages's face seems lit by an insane desperation, as a group of
-hunters can be seen in the distance.    
-~
-E
 soul~
    This picture shows one of the more complex spells that a mage can use.  A
 single gem lies on a counter of the shelf in this picture.  Inside the gem a
 soul of a prince can be seen, wondering around lost in a maze.    
 ~
+E
+demon~
+   This picture depicts a human wizard of the black robes summoning a demon to his
+side.  The mages's face seems lit by an insane desperation, as a group of
+hunters can be seen in the distance.    
+~
 S
 #5280
-REUSE ME~
-   Uneven natural stone makes up the ceiling and walls here.  The floor of
-looks to have been smoothed by water erosion and make travel through the cavern
-fairly easy.  Small crevices in the wall seem to made home to many rodents and
-insects.  Clumps of moss clinging to the walls glow, giving off light to see
-by.  To the northwest and east the cavern continues.    
+A Wide Dirt Road~
+   Well-packed dirt and stones form a wide, often used road.  Wooden fences
+line either side of the road, and from time to time one can see the group of
+horses that pasture here.  Further to the east, a large stone stable with a
+tiny house attached to the south side can be seen.  Above the large white
+stable doors a sign reads 'Karthay's Wagon and Horse Rentals'.    
 ~
-52 8 0 0 0
+52 0 1 0 0
 D1
 ~
 ~
 0 0 5281
-D6
+D3
 ~
 ~
-0 0 11294
+0 0 7398
 D7
 ~
 ~
 0 0 -1
 S
 #5281
-REUSE ME~
-   Uneven natural stone makes up the ceiling and walls here.  The floor of
-looks to have been smoothed by water erosion and make travel through the cavern
-fairly easy.  Small crevices in the wall seem to made home to many rodents and
-insects.  Clumps of moss clinging to the walls glow, giving off light to see
-by.  To the west and southeast the cavern continues.    
+Inside Karthay's Stone Stable~
+   The large expanse of this single story stables is quiet impressive.  To the
+right is a tiny room where one goes to check out one of the illustrious steeds,
+or suitable carriages.  Further down the cobblestones on either side, are clean
+wooden stalls with today's horses waiting to be saddled or harnessed.  The
+range in size, breed, and color all differs depending on the renter's needs.  
+On the rump of each mount however is a detailed brand of Karthay's ownership
+should any mount be stolen, or failed to be returned.    
 ~
 52 8 0 0 0
 D3
 ~
 ~
 0 0 5280
-D9
-~
-~
-0 0 5282
 S
 #5282
 REUSE ME~
@@ -1892,16 +1890,16 @@ D1
 door~
 1 5241 5297
 E
-fireplace stone logs~
-   This huge fireplace is constructed of grey, snug-fitting stonework and is
-blackened in the back from past use.  It is fully stocked with logs, ready for
-the next group of merchants.    
-~
-E
 cabinet liquor~
    This large cabinet houses a stock of fine liquor for travelling merchants
 who reserve this meeting room.  The cabinet itself is constructed of
 fine-quality oak, and has frosted glass windows.    
+~
+E
+fireplace stone logs~
+   This huge fireplace is constructed of grey, snug-fitting stonework and is
+blackened in the back from past use.  It is fully stocked with logs, ready for
+the next group of merchants.    
 ~
 S
 $~

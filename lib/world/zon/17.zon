@@ -1,7 +1,7 @@
 #17
 Vingaard Keep II~
-1799 30 2
-* ZoneState 4 -NONE- 000011111111100
+1799 60 2
+* ZoneState 1 unowned 000000000000000
 M 0 1761 3 1761 	(a large, heavy iron chest)
 M 0 1761 3 1763 	(a large, heavy iron chest)
 M 0 1761 3 1765 	(a large, heavy iron chest)
@@ -20,7 +20,7 @@ E 1 1716 2 5 	(&Ka blackened suit of dwarven platemail&n)
 M 0 1714 1 1718 	(a combatative dwarf)
 E 1 1715 1 16 	(an antique dwarven warhammer)
 M 0 1712 1 1718 	(a dwarven diplomat)
-E 1 1714 2 25 	(a wide red shoulder sash with silver embroidery)
+E 1 1714 2 25 	(&Ra wide red shoulder sash with silver embroidery&n)
 M 0 1711 1 1718 	(an enraged dwarf)
 E 1 1713 2 16 	(a sturdy dwarven battleaxe)
 M 0 1713 1 1718 	(an argumentative dwarf)

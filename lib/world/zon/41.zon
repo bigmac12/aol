@@ -1,14 +1,14 @@
 #41
 City of Morning Dew~
 4199 60 2
-* ZoneState 4 -NONE- 000001111000000
+* ZoneState 1 unowned 000000000000000
 D 0 4140 2 1 	(The Dew Drop Inn)
 M 0 4105 1 4140 	(Veluna the Inn Keeper)
 M 0 4125 1 4140 	(a black cat)
 M 0 4124 3 4103 	(a common crow)
 M 0 4109 15 4106 	(a citizen)
 M 0 4123 1 4106 	(a female mercenary)
-E 1 4150 3 10 	(&ya pair of decorated bronze armlets&n)
+E 1 4150 3 10 	(&ya pair of decorated, solid bronze armlets&n)
 D 0 4142 0 1 	(From Dusk Until Dawn Tavern)
 D 0 4142 5 1 	(From Dusk Until Dawn Tavern)
 M 0 4108 1 4142 	(Pileus the tavern owner)
@@ -21,7 +21,7 @@ G 1 4141 200 -1 	(a plate of spiced tiger steak)
 G 1 4142 200 -1 	(a sandwich of shredded steak and cheese)
 G 1 4143 200 -1 	(a basket of spicy chicken wings)
 G 1 4144 200 -1 	(a loaf of spiced cheesebread)
-M 0 4112 1 4162 	(maruader leader)
+M 0 4112 1 4162 	(the Marauder Leader)
 G 1 4134 2 -1 	(a small bronze key)
 E 1 4136 1 14 	(a silver bracer of small sharp razors)
 E 1 4139 1 1 	(&Ka black signet ring&n)

@@ -1,9 +1,9 @@
 #5
 NonDL Clans~
-599 30 2
-* ZoneState 1 -NONE- 000000000000000
-O 0 598 1 599 	(a large vallenwood chest)
+599 50 2
+* ZoneState 1 unowned 000000000000000
 M 0 500 1 500 	(Brutanus)
+O 0 598 1 599 	(a large vallenwood chest)
 M 0 598 1 598 	(a tiny wood sprite)
 M 0 503 1 507 	(Slate)
 G 1 4613 40 -1 	(a silver dagger with a serrated edge)

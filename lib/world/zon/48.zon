@@ -1,7 +1,7 @@
 #48
 academy~
-4899 30 2
-* ZoneState 4 -NONE- 111000000000000
+4899 60 2
+* ZoneState 1 unowned 000000000000000
 M 0 4856 2 4829 	(an apprentice druid)
 M 0 4867 2 4846 	(an academy fighter)
 M 0 4857 2 4846 	(a worn out apprentice)
@@ -43,7 +43,7 @@ M 0 4850 1 4808 	(a sucker blossom)
 M 0 4849 1 4808 	(a blood red mantrap)
 G 1 4805 50 -1 	(a sticky globe of honey)
 M 0 4848 1 4808 	(choking vines)
-G 1 4804 50 -1 	(a odd, round purple fruit)
+G 1 4804 50 -1 	(&man odd, round purple fruit&n)
 M 0 4821 1 4808 	(a tiny green tree spider)
 M 0 4813 2 4808 	(a teatree beetle)
 M 0 4812 3 4808 	(a mosquito)

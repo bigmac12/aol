@@ -1,3 +1,0 @@
-rm -rf /home/aol/testing/bin/circle
-cp ../bin/circle /home/aol/testing/bin
-echo Binary successfully copied to classic testing port.

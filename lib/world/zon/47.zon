@@ -1,7 +1,8 @@
 #47
 TalenRock~
-4799 36 2
-* ZoneState 4 -NONE- 111000000000000
+4799 60 2
+* ZoneState 1 unowned 000000000000000
+M 0 4700 1 4700 	(Cyrill)
 M 0 4731 1 4789 	(a large tabby)
 M 0 4710 5 4791 	(a weary housekeeper)
 M 0 4710 5 4790 	(a weary housekeeper)
@@ -22,7 +23,7 @@ M 0 4722 1 4756 	(Jevare, the grungy, rough-looking furrier)
 G 1 4736 5 -1 	(a tooled, leather saddle)
 G 1 4737 5 -1 	(a ferocious-looking bear's head)
 G 1 4738 5 -1 	(&Ka pair of black, ratskin gloves&n)
-G 1 4739 5 -1 	(a pile of thick, beautiful wolves pelts)
+G 1 4739 5 -1 	(&Wa pile of thick, beautiful wolves pelts&n)
 G 1 4740 5 -1 	(&ya pile of thick, soft beaver pelts&n)
 G 1 4776 999 -1 	(a deerhide waterskin)
 G 1 4777 999 -1 	(a deerskin backpack)
@@ -97,7 +98,6 @@ O 0 4703 2 4703 	(the out-of-character board)
 R 0 4704 4704 -1 	(a bug board)
 O 0 4704 2 4704 	(a bug board)
 D 0 4750 5 1 	(The Remnants of an Old Treehouse)
-M 0 4700 1 4700 	(Cyrill)
 O 0 4715 1 4782 	(a small silver plaque)
 R 0 4754 4799 -1 	(a circle of ancient oaks)
 O 0 4799 1 4754 	(a circle of ancient oaks)

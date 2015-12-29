@@ -1264,3 +1264,51 @@ ACMD(do_prayer)
 
 }
 
+
+void garble_text(char *string, int percent) {
+    char letters[] = "aeiousthpwxyz";
+    int i;
+
+    for (i = 0; i < strlen(string); i++) {
+        if (isalpha(string[i] && number(0, 1) && number(0, 100) > percent) {
+            string[i] = letters[number(0, 12)];
+        }
+    }
+}
+
+ACMD(do_lang_say) {
+    extern char *languages[];
+    char ibuf[MAX_INPUT_LENGTH];
+    char obuf[MAX_INPUT_LENGTH];
+    int ofs = 190;
+    struct char_data *tch;
+
+    skip_spaces(&argument);
+
+    if(!*argument) {
+        send_to_char("What do you want to say?\r\n", ch);
+        return;
+    }
+
+    strcpy(ibuf, argument);
+
+    garble_text(ibuf, GET_SKILL(ch, SPEAKING(ch)));
+
+    for (tch = world[ch->in_room].people; tch; tch = tch->next_in_room) {
+        if (tch != ch && AWAKE(tch) && tch->desc) {
+            strcpy(obuf, ibuf);
+
+            garble_text(obuf, GET_SKILL(tch, SPEAKING(ch)));
+
+            if (GET_SKILL(tch, SPEAKING(ch)) < 1) {
+                sprintf(buf, "$n says, in an unfamiliar language, '%s'", obuf);
+            } else {
+                sprintf(buf, "$n says, in %s, '%s'", languages[(SPEAKING(ch) - ofs)], obuf);
+            }
+            act(buf, TRUE, ch, 0, tch, TO_VICT);
+        }
+    }
+
+    sprintf(buf, "You say, in %s, '%s'", languages[(SPEAKING(ch) - ofs)], argument);
+    act(buf, TRUE, ch, 0, 0, TO_CHAR);
+}

@@ -1,3 +1,0 @@
-rm -rf /home/aol/classic/bin/circle
-cp ../bin/circle /home/aol/classic/bin
-echo Binary successfully copied to classic production port.

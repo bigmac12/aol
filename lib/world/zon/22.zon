@@ -1,11 +1,11 @@
 #22
 Zivilyn's Temple~
-2299 35 1
-* ZoneState 4 -NONE- 000001110111011
+2299 60 1
+* ZoneState 1 unowned 000000000000000
+M 0 2210 6 2200 	(a wandering druid)
+E 1 2205 100 5 	(&ga mottled green robe&n)
 M 0 2210 6 2205 	(a wandering druid)
 E 1 2206 100 14 	(&ga bracer made of leaves&n)
-M 0 2210 6 2200 	(a wandering druid)
-E 1 2205 100 5 	(a mottled green robe)
 M 0 2285 1 2295 	(a presence)
 M 0 2286 1 2292 	(a strange old man)
 M 0 2221 1 2288 	(a statue of a great tree)
@@ -20,7 +20,7 @@ M 0 2213 4 2277 	(a tired and mud splattered druid)
 M 0 2213 4 2272 	(a tired and mud splattered druid)
 M 0 2212 4 2270 	(a travel weary ranger)
 M 0 2205 1 2286 	(Encil Longshanks)
-E 1 2245 3 17 	(a sharpened white claw)
+E 1 2245 3 17 	(&Wa sharpened white claw&n)
 M 0 2203 4 2251 	(a priest of Zivilyn)
 E 1 2209 4 13 	(a green and gold woven belt)
 M 0 2203 4 2223 	(a priest of Zivilyn)

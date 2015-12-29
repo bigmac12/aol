@@ -1,10 +1,10 @@
 #46
 The Tree King's Grove~
-4699 30 1
-* ZoneState 4 -NONE- 000111111111111
-M 0 4625 1 4687 	(a rugged woodsman)
+4699 60 1
+* ZoneState 1 unowned 000000000000000
 O 0 4664 1 4600 	(a beautifully gleaming altar of golden hues)
 M 0 4661 1 4600 	(the Grand Centaur)
+M 0 4625 1 4687 	(a rugged woodsman)
 M 0 4613 1 4689 	(a pegasus rider)
 M 0 4612 2 4602 	(a centaur)
 O 0 4652 2 4605 	(a vine fence)
@@ -112,7 +112,7 @@ M 0 4604 2 4617 	(a stag beetle)
 O 0 4641 4 4617 	(&ga small pinch of bloodroot&n)
 O 0 4630 1 4648 	(a burning tree)
 M 0 4630 1 4648 	(a druid)
-E 1 4608 4 13 	(a soft adustable belt)
+E 1 4608 4 13 	(a soft, adjustable belt)
 M 0 4631 1 4648 	(a worry-faced druid)
 E 1 4600 4 8 	(shoes woven from vines)
 O 0 4649 4 4630 	(&Ra red rose bush&n)
@@ -169,7 +169,7 @@ M 0 4660 1 4626 	(a shadow assassin)
 E 1 4622 1 16 	(&Ka sai formed of dark energy&n)
 M 0 4699 1 4659 	(a wyvern)
 M 1 4617 1 4659 	(the Black Knight)
-E 1 4695 1 5 	(a suit of black dragonscale armor)
+E 1 4695 1 5 	(&Ka suit of black dragonscale armor&n)
 E 1 4696 1 16 	("Nature's Ruin", a sword carved from bone)
 S
 $

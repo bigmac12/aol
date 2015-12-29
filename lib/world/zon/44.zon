@@ -1,9 +1,9 @@
 #44
 Ogre Outpost~
-4499 30 2
-* ZoneState 4 -NONE- 000000111111100
+4499 60 2
+* ZoneState 1 unowned 000000000000000
 M 0 4490 1 4490 	(the village chieftain)
-E 1 4490 1 8 	(a pair of heavy black boots)
+E 1 4490 1 8 	(&Ka pair of heavy black boots&n)
 M 0 4446 10 4446 	(a kobold scavenger)
 M 0 4447 10 4446 	(a large rat)
 D 0 4433 3 2 	(Jail Masters Quarters)
@@ -41,9 +41,9 @@ D 0 4431 1 1 	(The Guard House)
 D 0 4431 3 1 	(The Guard House)
 D 0 4431 0 1 	(The Guard House)
 O 0 4412 1 4412 	(a bloody corpse)
-O 1 4411 1 4412 	(the ring of the raven)
+O 1 4411 1 4412 	(&Kthe ring of the raven&n)
 M 0 4472 1 4472 	(an ogre shaman)
-E 1 4472 1 16 	(the blackened wood staff)
+E 1 4472 1 16 	(&Ka blackened wooden staff&n)
 M 0 4481 1 4447 	(a kobold leader)
 E 1 4447 1 16 	(a scorpion on a stick)
 M 0 4488 1 4488 	(an ogre woman)
@@ -54,7 +54,7 @@ O 0 4486 1 4486 	(a large fountain)
 M 0 4486 7 4486 	(a villager)
 M 0 4430 2 4480 	(a small child)
 M 0 4413 1 4413 	(an enraged minotaur)
-E 1 4413 1 16 	(an ebony blade)
+E 1 4413 1 16 	(&Kan ebony blade&n)
 G 1 4414 1 -1 	(a brass key)
 M 0 4410 4 4410 	(a dark figure)
 O 1 4410 1 4410 	(a wooden chest)
