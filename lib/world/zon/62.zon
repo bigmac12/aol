@@ -1,7 +1,8 @@
 #62
 Palanthas Tower of Sorcery~
-6299 40 1
-* ZoneState 4 -NONE- 000000111110001
+6299 60 1
+* ZoneState 1 unowned 000000000000000
+M 0 6280 4 6200 	(a large white cat)
 D 0 6280 1 2 	(A Crypt)
 M 0 6206 1 6280 	(a form in tattered black robes)
 E 1 6206 1 16 	(a gnarled wooden staff)
@@ -52,7 +53,6 @@ M 0 6202 6 6249 	(a tall, young man wearing black robes)
 E 1 6249 1 2 	(&Ya shiny golden ring&n)
 M 0 6210 1 6210 	(a middle-aged man in dark robes)
 D 0 6210 1 1 	(A Small Landing)
-M 0 6280 4 6200 	(a large white cat)
 M 0 6229 6 6239 	(a black robed mage)
 M 0 6202 6 6263 	(a tall, young man wearing black robes)
 G 1 6299 10 -1 	(&Ya yellow potion&n)

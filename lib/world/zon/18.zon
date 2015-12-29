@@ -1,7 +1,8 @@
 #18
 MiniZones~
-1899 30 2
-* ZoneState 4 -NONE- 000000000000000
+1899 60 2
+* ZoneState 1 unowned 000000000000000
+O 0 1808 1 1800 	(a lilac bush)
 M 0 1886 1 1885 	(a rugged, earthy-looking druid)
 E 1 1886 5 16 	(&Ka wooden cudgel crafted of blackthorn, '&nShillelagh&K'&n)
 M 0 1896 2 1896 	(a spectral knight)
@@ -22,7 +23,6 @@ M 0 1893 2 1898 	(a sleeping acolyte)
 M 0 1890 1 1893 	(a fat cook)
 M 0 1880 1 1888 	(a glowering hill giant)
 E 1 1881 10 16 	(a heavy, double-fisted war maul)
-O 0 1808 1 1800 	(a lilac bush)
 D 0 1824 3 1 	(A Small Alcove in the Grove)
 M 0 1830 1 1830 	(a young druid)
 E 1 1830 5 3 	(an obsidian rats claw on a silver chain)

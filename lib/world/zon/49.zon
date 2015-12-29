@@ -1,10 +1,10 @@
 #49
 Sanction~
-4999 30 2
-* ZoneState 4 -NONE- 000000000000000
-R 0 4955 4955 -1 	(a crate marked with a crest of three rosettes)
-O 0 4955 1 4955 	(a crate marked with a crest of three rosettes)
-P 1 97 12 4955 	(a shield with three identical rosette patterns, likely a heraldric device)
+4999 60 2
+* ZoneState 1 unowned 000000000000000
+R 0 4955 4955 -1 	(a crate marked with a crest bearing three crowns)
+O 0 4955 1 4955 	(a crate marked with a crest bearing three crowns)
+P 1 97 12 4955 	(a shield decorated with three crowns, likely a heraldric device)
 M 0 4904 1 4955 	(a well-dressed man)
 R 0 4901 4908 -1 	(a bubbling spring)
 O 0 4908 1 4901 	(a bubbling spring)

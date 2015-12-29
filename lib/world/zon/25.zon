@@ -1,7 +1,7 @@
 #25
 Monastery~
-2599 30 2
-* ZoneState 4 -NONE- 000111111100110
+2599 60 2
+* ZoneState 1 unowned 000000000000000
 M 0 2526 1 2519 	(Arsla)
 O 0 2504 1 2519 	(a fountain of marble and copper)
 M 0 2513 10 2519 	(a young acolyte)
@@ -96,7 +96,7 @@ M 0 2517 1 2509 	(an elderly cook)
 E 1 2511 4 6 	(a simple, woolen bonnet)
 D 0 2509 2 1 	(The Kitchen)
 M 0 2514 1 2502 	(the receptionist)
-E 1 2508 4 13 	(&Ra linen girdle&n)
+E 1 2508 4 13 	(&Ran unadorned crimson girdle made of coarse linen&n)
 M 0 2512 2 2529 	(a quiet, young boy)
 M 0 2508 6 2550 	(a shrew)
 M 0 2508 6 2548 	(a shrew)

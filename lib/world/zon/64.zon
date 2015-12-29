@@ -1,7 +1,8 @@
 #64
 Silvanesti Outpost (Mini)~
-6499 10 2
-* ZoneState 4 -NONE- 000011010000000
+6499 60 2
+* ZoneState 1 unowned 000000000000000
+M 0 6402 1 6400 	(a wraith)
 O 0 6402 1 6403 	(a marble fountain filled with a red liquid)
 R 0 6403 6428 -1 	(a rudely defaced statue of a sad, old man)
 O 0 6428 1 6403 	(a rudely defaced statue of a sad, old man)
@@ -25,7 +26,6 @@ O 0 6495 2 6470 	(a broken pickaxe)
 O 0 6496 3 6467 	(a sturdy shovel)
 O 0 6496 3 6469 	(a sturdy shovel)
 D 0 6471 5 1 	(In a Deep, Dark Hole)
-M 0 6402 1 6400 	(a wraith)
 O 0 6422 10 6447 	(a bar of quith-pa)
 M 0 6422 1 6446 	(a white robed elven wizard)
 E 1 6423 2 21 	(&gan anklet of interwoven pine needles&n)

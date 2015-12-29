@@ -1,7 +1,9 @@
 #50
 City of Karthay I~
-5099 30 2
-* ZoneState 4 -NONE- 111100000011000
+5099 60 2
+* ZoneState 1 unowned 000000000000000
+M 0 5158 2 5000 	(a gate keeper of Karthay)
+E 1 5116 4 12 	(&ya bronze breastplate adorned with gloss black cresent moons&n)
 M 0 5004 5 5095 	(a weary traveller)
 E 1 5169 100 12 	(a heavy travelling cloak)
 M 0 5013 1 5095 	(a painted sea turtle)
@@ -9,8 +11,6 @@ M 0 5020 1 5095 	(a priestess of zeboim)
 E 1 5028 10 12 	(&ga long, hooded robe of deep green&n)
 M 0 5011 4 5027 	(a seagull)
 M 0 5014 2 5027 	(a blue feathered parrot)
-M 0 5158 2 5000 	(a gate keeper of Karthay)
-E 1 5116 4 12 	(&ya bronze breastplate adorned with gloss black cresent moons&n)
 O 0 5006 1 5082 	(a three-tiered basin)
 O 0 5005 1 5082 	(a fountain of Zeboim)
 O 0 5130 1 5082 	(a large flag bearing the symbol of a black crescent)

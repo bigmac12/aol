@@ -2104,3 +2104,10 @@ const char *skill_affect_mesg[] = {
   "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!",   /* 245 */
   "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!", "!UNUSED!"	/* 250 */
 };
+
+const char *languages[] = {
+    "silvanesti",
+    "qualinesti",
+    "dwarven",
+    "kothian"
+}

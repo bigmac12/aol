@@ -1,7 +1,11 @@
 #52
 More Mini/Roadside Zones~
-5299 30 2
-* ZoneState 4 -NONE- 000000000000000
+5299 60 2
+* ZoneState 1 unowned 000000000000000
+M 0 5222 3 5200 	(a green slime)
+M 0 5240 2 5281 	(a tall, sturdy Karthalian quarter horse)
+M 1 5241 2 5281 	(a black and white spotted appaloosa stallion)
+M 1 5242 2 5281 	(&Ka tall, spirited friesian mare&n)
 D 0 5259 4 2 	(The Heart of the Beast)
 M 0 11609 1 5259 	(One of the High Priest's personal guardsmen)
 M 0 11608 1 5259 	(a hideous monstrosity)
@@ -51,7 +55,6 @@ D 0 5288 3 1 	(The Back Hallway)
 D 0 5288 0 1 	(The Back Hallway)
 D 0 5288 1 1 	(The Back Hallway)
 D 0 5289 2 1 	(The Tradepost Refuse Dump)
-M 0 5222 3 5200 	(a green slime)
 M 0 11623 2 5251 	(a dark clad priestess)
 M 0 11623 2 5255 	(a dark clad priestess)
 M 0 11622 2 5257 	(a wandering priest clad in dark garments)
@@ -71,7 +74,6 @@ M 0 5270 3 5271 	(a small kobold)
 E 1 5270 3 18 	(an ancient leather tribal mask decorated with gems)
 D 0 5284 2 1 	(REUSE ME)
 M 0 5280 3 5283 	(a mangy rat)
-M 0 5280 3 5281 	(a mangy rat)
 M 0 5226 3 5229 	(a sea imp)
 G 1 5219 6 -1 	(a tiny golden statue of a mermaid)
 D 0 5229 0 2 	(A Cell)
@@ -118,7 +120,7 @@ E 1 5204 10 5 	(&Ka chain mail vest, bearing the symbol of Zeboim&n)
 M 0 5202 2 5231 	(an acolyte of Zeboim)
 E 1 5214 12 6 	(&ma deep purple zuchetto&n)
 M 0 5203 2 5231 	(an acolyte of Zeboim)
-E 1 5212 12 5 	(a long, hooded robe of deep green)
+E 1 5212 12 5 	(&ga long, hooded robe of deep green&n)
 M 0 5215 1 5227 	(a banshee)
 E 1 5209 12 4 	(a rusted, rattling chain attached to an iron collar)
 M 0 5214 2 5222 	(a female dargonesti)

@@ -1,3 +1,0 @@
-rm -rf /home/aol/building/bin/circle
-cp ../bin/circle /home/aol/building/bin
-echo Binary successfully copied to building port.

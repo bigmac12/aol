@@ -1,7 +1,7 @@
 #60
 The Village of Wyrdna~
-6099 30 2
-* ZoneState 4 -NONE- 111000000000000
+6099 60 2
+* ZoneState 1 unowned 000000000000000
 M 0 6042 1 6009 	(a snow-white owl)
 R 0 6070 6071 -1 	(a pile of dry, forest brushwood)
 O 0 6071 100 6070 	(a pile of dry, forest brushwood)
@@ -16,7 +16,7 @@ G 1 6046 10000 -1 	(a slice of apple walnut cake)
 G 1 6047 10000 -1 	(a bowl of potato and leek soup)
 G 1 6048 10000 -1 	(a loaf of wheat bread)
 G 1 6049 10000 -1 	(a dish of berries and cream)
-E 1 10198 10000 5 	(&ya brown tunic&n)
+E 1 10198 10000 5 	(&ya simple brown tunic with a high neckline&n)
 M 0 6031 1 6032 	(a tall, dark-haired man)
 E 1 10153 10000 7 	(a pair of thick leather leggings)
 M 0 6033 1 6032 	(a broad-shouldered, blue-eyed man)

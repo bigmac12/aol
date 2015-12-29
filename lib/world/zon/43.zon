@@ -1,25 +1,25 @@
 #43
 Woods/Wharf Across from Istar~
-4399 30 2
-* ZoneState 4 -NONE- 000111110000000
+4399 60 2
+* ZoneState 1 unowned 000000000000000
 M 0 4320 1 4320 	(a singing druid)
-E 1 4320 4 16 	(a tall, intricately carved staff of ash)
+E 1 4320 4 16 	(a tall, simple staff crafted of ashwood)
 M 0 4304 4 4395 	(a young pirate)
 M 0 4314 1 4395 	(a young priestess of Zeboim)
 E 1 4314 5 3 	(&man oversized, violet-colored hood&n)
 D 0 4399 4 1 	(Below the Boathouse)
 D 0 4381 5 1 	(A Boathouse)
 M 0 4308 10 4313 	(a druid)
-E 1 4390 8 5 	(burlap robes the color of tree bark)
+E 1 4390 8 5 	(&yburlap robes the color of tree bark&n)
 M 0 4308 6 4338 	(a druid)
-E 1 4390 8 5 	(burlap robes the color of tree bark)
+E 1 4390 8 5 	(&yburlap robes the color of tree bark&n)
 M 0 4304 4 4394 	(a young pirate)
 E 1 4389 6 7 	(&Ka pair of loose-fitting, black silk pants&n)
 M 0 4306 1 4365 	(a pirate wench)
 E 1 4333 8 7 	(a ruffled skirt with wide stripes of white and blue)
 R 0 4397 4313 -1 	(a muddy old boot)
 O 1 4313 4 4397 	(a muddy old boot)
-P 1 4307 1 4313 	(a strand of large gemstones)
+P 1 4307 1 4313 	(&Ba strand of large gemstones&n)
 M 0 4302 1 4380 	(Polly, the pirate)
 E 1 4304 6 18 	(&Ka black eyepatch&n)
 G 1 27 40 -1 	(a fragment of an ancient map)
