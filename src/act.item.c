@@ -761,7 +761,9 @@ void perform_give(struct char_data * ch, struct char_data * vict, struct obj_dat
     //act("$N seems to have $S level low.", FALSE, ch, 0, vict, TO_CHAR);
     act("You are not allowed to give $N this item.", FALSE, ch, 0, vict, TO_CHAR);
     GET_NAME(ch, chname);
-    sprintf(buf, "%s attempted to give a powerful item to %s.", chname, vict->player.name);
+    GET_NAME(vict, victname);
+    sprintf(buf, "%s attempted to give a powerful item to %s.", chname, victname);
+    FREE_NAME(victname);
     FREE_NAME(chname);
     mudlog(buf, BRF, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);
     return;
