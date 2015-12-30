@@ -259,7 +259,7 @@ const char *preference_bits[] = {
   "HUNTED",
   "RMFLG",
   "&RAFK&n",
-  "UNUSED_7",
+  "BUILDWALK",
   "QUEST",
   "LEVEL_FLAGS",
   "AFK",

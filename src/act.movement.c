@@ -231,232 +231,106 @@ int do_simple_move(struct char_data *ch, int dir, int need_specials_check) {
 
   /* move points needed is avg. move loss for src and destination sect type */
 
-  need_movement = (movement_loss[SECT(ch->in_room)] +
-
-		   movement_loss[SECT(EXIT(ch, dir)->to_room)]) >> 1;
-
-
+  need_movement = (movement_loss[SECT(ch->in_room)] + movement_loss[SECT(EXIT(ch, dir)->to_room)]) >> 1;
 
   if (riding) {
-
     if (GET_MOVE(RIDING(ch)) < need_movement) {
-
       send_to_char("Your mount is too exhausted.\r\n", ch);
-
       return 0;
-
     }
-
   }
-
-
 
   if (IS_AFFECTED(ch, AFF_FLIGHT))
-
     need_movement = (need_movement+1)/2;
-
-
 
   if(IS_RANGER(ch) || IS_DRUID(ch))
-
     need_movement = (need_movement+1)/2;
 
-
-
   if (GET_MOVE(ch) < need_movement && !IS_NPC(ch) && !riding) {
-
     if (need_specials_check && ch->master) {
-
       send_to_char("You are too exhausted to follow.\r\n", ch);
-
     } else {
-
       send_to_char("You are too exhausted.\r\n", ch);
-
     }
 
-
-
     return 0;
-
   }
-
-
 
  if (riding && !use_skill(ch, percent, SKILL_RIDING) && (GET_SKILL(ch, SKILL_RIDING) <= number(1, 55))) { 
-
     act("$N rears backwards, throwing you to the ground! Ouch!", FALSE, ch, 0, RIDING(ch), TO_CHAR);
-
     act("You rear backwards, throwing $n to the ground. Ouch!", FALSE, ch, 0, RIDING(ch), TO_VICT);
-
     act("$N rears backwards, throwing $n to the ground. Ouch!", FALSE, ch, 0, RIDING(ch), TO_NOTVICT);
-
     dismount_char(ch);
-
     GET_POS(ch) = POS_SITTING;
-
     damage(ch, ch, dice(1,6), -1);
-
     return 0;
-
   }
-
-
-
-
 
   /*  PDH  3/16/99 - PCs can't enter GODROOMs  */
-
-  if (ROOM_FLAGGED(EXIT(ch, dir)->to_room, ROOM_GODROOM) &&
-
-     (GET_LEVEL(ch) < LVL_IMMORT))
-
-  {
-
+  if (ROOM_FLAGGED(EXIT(ch, dir)->to_room, ROOM_GODROOM) && (GET_LEVEL(ch) < LVL_IMMORT)) {
     send_to_char("You are not Godly enough to go there.\r\n", ch);
-
     return 0;
-
   }
-
-
-
-
 
   /*  PDH  4/ 1/99 - TEST char can't enter Open zone, and vice versa  
-
   if ( PLR_FLAGGED(ch, PLR_TESTCHAR) &&
-
        zone_table[world[EXIT(ch, dir)->to_room].zone].zone_status ==
-
        ZONE_OPEN ) {
-
     send_to_char("You are merely for test purposes.  Stick to non-open zones.\r\n", ch);
-
     return 0;
-
   } */
-
-
 
   /*  PDH  4/12/99 - char can oly enter Open zone  
-
   if ( ! PLR_FLAGGED(ch, PLR_TESTCHAR) &&
-
        zone_table[world[EXIT(ch, dir)->to_room].zone].zone_status !=
-
        ZONE_OPEN &&
-
        GET_LEVEL(ch) < LVL_IMMORT ) {
-
     send_to_char("You are attempting to enter an area that is not open for play:\r\n", ch);
-
     send_to_char("Please contact an Immortal.\r\n", ch);
-
     return 0;
-
   } */
 
-
-
-
-
   if (IS_SET(ROOM_FLAGS(ch->in_room), ROOM_ATRIUM)) {
-
     if (!House_can_enter(ch, world[EXIT(ch, dir)->to_room].number)) {
-
       send_to_char("That's private property -- no trespassing!\r\n", ch);
-
       return 0;
-
     }
-
   }
-
-
 
 if ((riding || ridden_by) && IS_SET(ROOM_FLAGS(EXIT(ch, dir)->to_room), ROOM_TUNNEL)) {
-
     send_to_char("There isn't enough room there, while mounted.\r\n", ch);
-
     return 0;
-
   } else {
-
   if (IS_SET(ROOM_FLAGS(EXIT(ch, dir)->to_room), ROOM_TUNNEL) &&
-
       num_pc_in_room(&(world[EXIT(ch, dir)->to_room])) > 1) {
-
     send_to_char("There isn't enough room there for more than one person!\r\n",
-
 		 ch);
-
     return 0;
-
   }
-
 }
 
-
-
   /*   The check for sentry mobs - Soli, 8/6/99   */
-
-  if (IS_SET(ROOM_FLAGS(EXIT(ch, dir)->to_room), ROOM_GUARDED))
-
-  {
-
-    for (sentry = world[ch->in_room].people; sentry;
-
-         sentry = sentry->next_in_room)
-
-    {
-
-      if (IS_NPC(sentry) && MOB_FLAGGED(sentry, MOB_SENTRY) && (GET_POS(sentry) != POS_SLEEPING && !AFF_FLAGGED(sentry, AFF_KNOCKOUT)))
-
-      {
-
-        act("$N steps in front of you and blocks your way.", FALSE, ch, 0,
-
-             sentry, TO_CHAR);
-
-        act("$N steps in front of $n and blocks $s way.", FALSE, ch, 0, sentry,
-
-             TO_ROOM);
-
+  if (IS_SET(ROOM_FLAGS(EXIT(ch, dir)->to_room), ROOM_GUARDED)) {
+    for (sentry = world[ch->in_room].people; sentry; sentry = sentry->next_in_room) {
+      if (IS_NPC(sentry) && MOB_FLAGGED(sentry, MOB_SENTRY) && (GET_POS(sentry) != POS_SLEEPING && !AFF_FLAGGED(sentry, AFF_KNOCKOUT))) {
+        act("$N steps in front of you and blocks your way.", FALSE, ch, 0, sentry, TO_CHAR);
+        act("$N steps in front of $n and blocks $s way.", FALSE, ch, 0, sentry, TO_ROOM);
         return 0;
-
       }
-
     }
-
   }
-
-
 
   if (GET_LEVEL(ch) < LVL_IMMORT && !IS_NPC(ch) && !(riding || ridden_by)) {
-
     GET_MOVE(ch) -= need_movement;
-
-  }
-
-
-
-   else if (riding)
-
+  } else if (riding)
     GET_MOVE(RIDING(ch)) -= need_movement;
 
     else if (ridden_by)
-
-    GET_MOVE(RIDDEN_BY(ch)) -= need_movement;
-
-
+        GET_MOVE(RIDDEN_BY(ch)) -= need_movement;
 
 if (riding) {
-
         sprintf(buf2, "$n rides $N %s.", dirs[dir]);
-
         act(buf2, TRUE, ch, 0, RIDING(ch), TO_NOTVICT);
-
  } else if (ridden_by) {
 
     if (!AFF_FLAGGED(ch, AFF_TAMED)) {
@@ -739,23 +613,20 @@ if(IS_SET(ROOM_FLAGS(ch->in_room), ROOM_DEATH) && ridden_by && GET_LEVEL(RIDDEN_
 
 
 int perform_move(struct char_data *ch, int dir, int need_specials_check) {
-    log("mobile_activity->perform_move");
     int was_in;
     struct follow_type *k, *next;
+    int buildwalk(struct char_data *ch, int dir);
 
-    log("mobile_activity->perform_move->fishing");
     if (GET_POS(ch) == POS_FISHING) {
         send_to_char("But you are fishing!\r\n", ch);
         return 0;
     }
 
-    log("mobile_activity->perform_move->fighting");
     if (GET_POS(ch) == POS_DIGGING) {
         send_to_char("But you are digging!\r\n", ch);
         return 0;
     }
 
-    log("mobile_activity->perform_move->riding");
     if (RIDING(ch)) {
         if (GET_POS(RIDING(ch)) == POS_RESTING || GET_POS(RIDING(ch)) == POS_SITTING) {
             send_to_char("But your mount is resting!\r\n", ch);
@@ -767,7 +638,7 @@ int perform_move(struct char_data *ch, int dir, int need_specials_check) {
         log("Null char or invalid direction.");
         return 0;
 
-    } else if (!EXIT(ch, dir) || EXIT(ch, dir)->to_room == NOWHERE) {
+    } else if (!EXIT(ch, dir) && !buildwalk(ch, dir) || EXIT(ch, dir)->to_room == NOWHERE) {
         log("Can't go that way.");
         send_to_char("Alas, you cannot go that way...\r\n", ch);
 
