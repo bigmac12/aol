@@ -2071,17 +2071,26 @@ D3
 S
 #1998
 The Beginning~
-Please remember that you will be unable to level past level 10 until you
-have completed your custom descriptions and have had them approved
-by a staff member.  Also we require a written summary of each character
-describing their history and personality.  Even a few simple sentences are
-enough.  Please send these to @ageoflegends.com.
+   Welcome.  Now that you are here, we wanted to tell you a little bit about
+Age of Legends and our philosophies.  We define ourselves as an RP-enforced
+MUD, but what exactly do we mean by that?  We are a MUD.  As such there are
+levels, skills, and equipment.  We are not a MUSH.  Please remember that you
+will be unable to level past level 10 until you have completed your custom
+descriptions and have had them approved by a staff member.  Also we require a
+written summary of each character describing their history and personality.  
+Even a few simple sentences are enough.    
 
-If you would like to start in Kalaman go West.
+Once you start in a city, you will find the equipment vendor. By typing
+the word &RKIT&n the mob will load the appropriate class gear for your toon.
 
-If you would like to start in Karthay go East.
 
-Kalaman is usually where the majority of the players are.
+If you would like to start in Kalaman (Good and Neutral Align) go &BWest&N.
+
+If you would like to start in Karthay (Evil and Neutral Align) go &mEast&n.
+
+If you are brand new to the mud, please travel &gNorth&N for newbie assistance.
+
+
 
 ~
 19 156 1 0 2
@@ -3582,43 +3591,6 @@ D2
 ~
 0 0 1998
 E
-mission~
-
-Below is our Mission statement as Immortals here at Age of Legends.
-
-Our world is a world of adventurers.  We seek to create an environment where
-characters can embrace their wanderlust and explore our more than 8,000 rooms.
-Sure, everyone has a home and a family, but our world is made up of those who,
-for whatever reason, were driven to leave home and family behind and go out
-into a world of new places/faces/and taverns.  It is this driving force that
-makes them interesting and makes them who they are.    
-
-A vital component of our Dragonlance world is ensuring that the players
-properly assume their roles as a specific race or class. It is this patchwork
-of individuals that drives our dynamic world. We, in our roles as immortals,
-are here to offer information, examples and opportunities for players to
-actively assume their roles and make our world the best it can be.  We are
-also here to ensure that the guidelines and rules of the mud are followed in
-order to provide for a level playing field.
-~
-E
-Dragonlance~
-
-   Dragonlance is a Campaign setting for Advance Dungeons and Dragons.  It is a
-wondrous world of heroes and villains.  If you are not familiar with the world
-of Krynn, take a look at the wealth of information that is available online.  
-It is important to note that we are in a Pre-Cataclysm Dragonlance setting.  
-
-
-   Visit our website at ageoflegends.planetmud.com for more information as
-well as a Dragonlance timeline (in the Help Dragonlance section of the site).
-
-
-   Type 'look laws' to view the Dragonlance Law of Consequence which 
-contains important information for properly roleplaying your alignment.
-
-~
-E
 law laws consequence~
 
 The Law of Consquence - Each of the three alignments in the univers of Krynn
@@ -3650,6 +3622,43 @@ to rule over all other laws. For every law and rule that is obeyed there is
 a reward and blessing; for every law transgressed there is a punishment.
 Blessings and punishments may not come about immediately, but they occur
 eventually.
+~
+E
+Dragonlance~
+
+   Dragonlance is a Campaign setting for Advance Dungeons and Dragons.  It is a
+wondrous world of heroes and villains.  If you are not familiar with the world
+of Krynn, take a look at the wealth of information that is available online.  
+It is important to note that we are in a Pre-Cataclysm Dragonlance setting.  
+
+
+   Visit our website at ageoflegends.planetmud.com for more information as
+well as a Dragonlance timeline (in the Help Dragonlance section of the site).
+
+
+   Type 'look laws' to view the Dragonlance Law of Consequence which 
+contains important information for properly roleplaying your alignment.
+
+~
+E
+mission~
+
+Below is our Mission statement as Immortals here at Age of Legends.
+
+Our world is a world of adventurers.  We seek to create an environment where
+characters can embrace their wanderlust and explore our more than 8,000 rooms.
+Sure, everyone has a home and a family, but our world is made up of those who,
+for whatever reason, were driven to leave home and family behind and go out
+into a world of new places/faces/and taverns.  It is this driving force that
+makes them interesting and makes them who they are.    
+
+A vital component of our Dragonlance world is ensuring that the players
+properly assume their roles as a specific race or class. It is this patchwork
+of individuals that drives our dynamic world. We, in our roles as immortals,
+are here to offer information, examples and opportunities for players to
+actively assume their roles and make our world the best it can be.  We are
+also here to ensure that the guidelines and rules of the mud are followed in
+order to provide for a level playing field.
 ~
 S
 T 1090
