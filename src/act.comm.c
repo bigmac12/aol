@@ -504,7 +504,7 @@ ACMD(do_say)
       say = " out of character";
     }
 	
-	sprintf(buf2, "&W%s$n &Gsays%s, &W'&C%s&W'.&n", 
+	sprintf(buf2, "&W%s$n &Gsays%s, &W'&C%s&W'&n",
 	        oEmote ? oEmote : "", say ? say : "", sayString ? sayString : "");
     act(buf2, FALSE, ch, 0, 0, TO_ROOM|DG_NO_TRIG);
 	  
@@ -514,7 +514,7 @@ ACMD(do_say)
  
         REMOVE_BIT(AFF_FLAGS(ch), AFF_HIDE | AFF_SNEAK);
 
-	  sprintf(buf2, "&W%sYou &Gsay%s, &W'&C%s&W'.&n", 
+	  sprintf(buf2, "&W%sYou &Gsay%s, &W'&C%s&W'&n",
 	        sEmote ? sEmote : "", say ? say : "", sayString ? sayString : "");
       act(buf2, FALSE, ch, 0, 0, TO_CHAR|DG_NO_TRIG);	  
 	}
