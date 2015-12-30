@@ -22,7 +22,7 @@
 
 #include "dg_scripts.h"
 #include "spells.h"
-#include "util/structs.h"
+//#include "util/structs.h"
 
 /* extern variables */
 extern int level_can_shout;
