@@ -28,6 +28,7 @@
 #include "house.h"
 #include "dg_scripts.h"
 #include "constants.h"
+#include "genwld.h"
 
 /* external vars  */
 extern struct room_data *world;
