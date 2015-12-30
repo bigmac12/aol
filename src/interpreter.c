@@ -199,7 +199,7 @@ ACMD(do_jawstrike);
 ACMD(do_kick);
 ACMD(do_knockout);
 ACMD(do_kill);
-ACMD(do_lang_say);
+//ACMD(do_lang_say);
 ACMD(do_lay_hands);
 ACMD(do_last);
 ACMD(do_leave);
@@ -570,7 +570,7 @@ const struct command_info cmd_info[] = {
   { "knockout" , "knock",   POS_FIGHTING, do_knockout , 1, 0 },
   { "kiss"     , "kiss",    POS_RESTING , do_action   , 1, 0 },
   { "look"     , "l",       POS_RESTING , do_look     , 0, SCMD_LOOK },
-  { "lsay"     , "lsay",    POS_RESTING , do_lang_say , 0, 0 },
+  //{ "lsay"     , "lsay",    POS_RESTING , do_lang_say , 0, 0 },
   { "laugh"    , "laugh",   POS_RESTING , do_action   , 1, 0 },
   { "last"     , "last",    POS_DEAD    , do_last     , LVL_DEPTHEAD, 0 },
   { "lay"      , "lay",     POS_STANDING, do_lay_hands, 1, 0 },
