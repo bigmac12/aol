@@ -22,6 +22,7 @@
 
 #include "dg_scripts.h"
 #include "spells.h"
+#include "util/structs.h"
 
 /* extern variables */
 extern int level_can_shout;
@@ -1292,7 +1293,7 @@ ACMD(do_lang_say) {
 
     strcpy(ibuf, argument);
 
-    garble_text(ibuf, GET_SKILL(ch, SPEAKING(ch)));
+    garble_language_text(ibuf, GET_SKILL(ch, SPEAKING(ch)));
 
     for (tch = world[ch->in_room].people; tch; tch = tch->next_in_room) {
         if (tch != ch && AWAKE(tch) && tch->desc) {
