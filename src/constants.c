@@ -2110,4 +2110,4 @@ const char *languages[] = {
     "qualinesti",
     "dwarven",
     "kothian"
-}
+};
