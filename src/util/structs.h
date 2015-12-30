@@ -1224,7 +1224,7 @@ struct player_special_data_saved {
   int notself;
   int memLevelFlag;
   int exp_multiplier;
-  int speaking;
+  int subClassOne;
   int subClassTwo;
   int subClassThree;
   long	timeOnline;
