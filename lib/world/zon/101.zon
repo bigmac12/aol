@@ -1,7 +1,9 @@
 #101
 Kalaman (Buildings)~
 10199 30 2
-* ZoneState 1 Lunitari 000000000000000
+* ZoneState 1 unowned 000000000000000
+M 0 10125 1 10172 	(Stanley, the innkeeper)
+M 1 10172 1 10172 	(a short elderly man with a kind smile)
 M 0 10103 1 10114 	(Erven, the jewelry dealer)
 E 1 10005 10000 5 	(&Ra red silk tunic&n)
 E 1 10004 10000 7 	(&Ra pair of red leggings&n)
@@ -176,7 +178,6 @@ R 0 10177 1995 -1 	(mortal bug board)
 O 0 1995 3 10177 	(mortal bug board)
 O 0 10075 2 10175 	(the trade and special events board)
 M 0 10102 1 10106 	(Tertius)
-M 0 10125 1 10172 	(Stanley, the innkeeper)
 M 0 10130 1 10197 	(Cecil, Galaralas' assistant)
 G 1 10042 10000 -1 	(&ba long navy blue cape&n)
 G 1 10053 10000 -1 	(a hooded black cloak)
