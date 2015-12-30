@@ -417,7 +417,7 @@ int perform_get_from_room(struct char_data * ch, struct obj_data * obj)
     if (GET_OBJ_LEVEL(obj) - GET_LEVEL(ch) > 5) {
       GET_NAME(ch, chname);
 
-      sprintf(buf, "%s (%d) has picked up a powerful item (%s&g(%d)).",
+      sprintf(buf, "%s (%d) has picked up a powerful item (%s&g (%d)).",
               chname,
               GET_LEVEL(ch),
               obj->short_description,
