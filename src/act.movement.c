@@ -124,248 +124,110 @@ int has_lung(struct char_data *ch)
 }                       
 
 
-
 /* do_simple_move assumes
-
  *    1. That there is no master and no followers.
-
  *    2. That the direction exists.
-
  *
-
  *   Returns :
-
- *   1 : If succes.
-
+ *   1 : If success.
  *   0 : If fail
-
  */
-
-int do_simple_move(struct char_data *ch, int dir, int need_specials_check)
-
-{
-
+int do_simple_move(struct char_data *ch, int dir, int need_specials_check) {
   int was_in = 0;
-
   int need_movement = 0;
-
   struct char_data *sentry, *tmpch;
-
   int success, same_room = 0, riding = 0, ridden_by = 0, percent;
-
   char buf2[MAX_STRING_LENGTH];
-
-  
-
-
-
   int special(struct char_data *ch, int cmd, char *arg);
 
-
-
   /*
-
    * Check for special routines (North is 1 in command list, but 0 here) Note
-
    * -- only check if following; this avoids 'double spec-proc' bug
-
    */
 
-
-
   percent = number(1,101);
-
   success = number(1,10);
 
-
-
   if (need_specials_check && special(ch, dir + 1, "")) {
-
     return 0;
-
   }
 
-
-
   if (RIDING(ch))
-
     riding = 1;
 
   if (RIDDEN_BY(ch))
-
     ridden_by = 1;
 
-
-
- 
-
   /* if they're mounted, are they in the same room w/ their mount(ee)? */
-
   if (riding && RIDING(ch)->in_room == ch->in_room)
-
     same_room = 1;
 
   else if (ridden_by && RIDDEN_BY(ch)->in_room == ch->in_room)
-
     same_room = 1;
 
-
-
   /* tamed mobiles cannot move about (DAK) */
-
-  if (ridden_by && same_room && AFF_FLAGGED(ch, AFF_TAMED))
-
- {
-
+  if (ridden_by && same_room && AFF_FLAGGED(ch, AFF_TAMED)) {
     send_to_char("You've been tamed. Now act it!\r\n", ch);
-
     return 0;
-
-  } 
-
-
-
-
+  }
 
   /* charmed? */
-
-  if (IS_AFFECTED(ch, AFF_CHARM) &&
-
-      ch->master && ch->in_room == ch->master->in_room) {
-
+  if (IS_AFFECTED(ch, AFF_CHARM) && ch->master && ch->in_room == ch->master->in_room) {
     send_to_char("The thought of leaving your master makes you weep.\r\n", ch);
-
     act("$n bursts into tears.", FALSE, ch, 0, 0, TO_ROOM);
-
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_HOLD_PERSON))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_HOLD_PERSON)) {
     send_to_char("You are magically held immobile!\r\n", ch);
-
     act("$n tries to leave, but is held immobile.", FALSE, ch, 0, 0, TO_ROOM);
-
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_PARALYZE))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_PARALYZE)) {
     send_to_char("You cannot leave while your body is paralyzed.\r\n", ch);
-
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_ENTANGLE))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_ENTANGLE)) {
     send_to_char("The vines and roots entangling you stop movement.\r\n", ch);
-
-    act("$n tries to break free of the entangling vines and roots, but fails.",
-
-         FALSE, ch, 0, 0, TO_ROOM);
-
+    act("$n tries to break free of the entangling vines and roots, but fails.", FALSE, ch, 0, 0, TO_ROOM);
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_WEB))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_WEB)) {
     send_to_char("You fail to break though the thick webs.\r\n", ch);
-
-    act("$n tries to break through the thick webs, but fails.",
-
-         FALSE, ch, 0, 0, TO_ROOM);
-
+    act("$n tries to break through the thick webs, but fails.", FALSE, ch, 0, 0, TO_ROOM);
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_MIRE))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_MIRE)) {
     send_to_char("The mire still holds you fast.\r\n", ch);
-
-    act("$n tries to leave, but is still stuck in the mire.",
-
-         FALSE, ch, 0, 0, TO_ROOM);
-
+    act("$n tries to leave, but is still stuck in the mire.", FALSE, ch, 0, 0, TO_ROOM);
     return 0;
-
   }
-
-
 
  if (GET_POS(ch) == POS_DIGGING) {
-
     send_to_char("But you are digging!\r\n", ch);
-
     return 0;
-
    }
 
-
-
   /* if this room or the one we're going to needs a boat, check for one 
-
-  if ((SECT(ch->in_room) == SECT_WATER_NOSWIM) ||
-
-      (SECT(EXIT(ch, dir)->to_room) == SECT_WATER_NOSWIM)) {
-
-if ((riding && !has_boat(RIDING(ch))) || !has_boat(ch)) {      
-
-send_to_char("You need a boat to go there.\r\n", ch);
-
-      return 0;
-
+  if ((SECT(ch->in_room) == SECT_WATER_NOSWIM) || (SECT(EXIT(ch, dir)->to_room) == SECT_WATER_NOSWIM)) {
+    if ((riding && !has_boat(RIDING(ch))) || !has_boat(ch)) {
+        send_to_char("You need a boat to go there.\r\n", ch);
+        return 0;
     }
-
   } */
-
-
 
   /* if this room or the one we're going to needs fly, check for one */
 
-  if ((SECT(ch->in_room) == SECT_FLYING) ||
-
-      (SECT(EXIT(ch, dir)->to_room) == SECT_FLYING))
-
-  {
-
-    if (!can_fly(ch))
-
-    {
-
+  if ((SECT(ch->in_room) == SECT_FLYING) || (SECT(EXIT(ch, dir)->to_room) == SECT_FLYING)) {
+    if (!can_fly(ch)) {
       send_to_char("You're going to need to learn how to fly first.\r\n", ch);
-
       return 0;
-
     }
-
   }
-
-
 
   /* move points needed is avg. move loss for src and destination sect type */
 
@@ -841,71 +703,33 @@ if(IS_SET(ROOM_FLAGS(ch->in_room), ROOM_DEATH) && ridden_by && GET_LEVEL(RIDDEN_
 
   }
 
-
-
-
-
-
-
   if (!greet_mtrigger(ch, dir)) {
-
     char_from_room(ch);
-
     char_to_room(ch, was_in);
-
     look_at_room(ch, 0);
-
   }
 
-
-
-  for (tmpch = world[ch->in_room].people; tmpch; tmpch = tmpch->next_in_room)
-
-  {
-
-    if (affected_by_spell(tmpch, SPELL_MIRE))
-
-    {
-
+  for (tmpch = world[ch->in_room].people; tmpch; tmpch = tmpch->next_in_room) {
+    if (affected_by_spell(tmpch, SPELL_MIRE)) {
       struct affected_type new_af;
-
       struct affected_type *af;
-
       int duration = 0;
 
-      for (af = tmpch->affected; af; af = af->next)
-
-      {
-
+      for (af = tmpch->affected; af; af = af->next) {
         if (af->type == SPELL_MIRE)
-
           duration = af->duration;
-
       }
 
       send_to_char("You find that this room has become a mire.\r\n", ch);
-
       new_af.type = SPELL_MIRE;
-
       new_af.bitvector = 0;
-
       new_af.duration = duration;
-
       new_af.modifier = 0;
-
       new_af.location = APPLY_NONE;
-
-
-
       affect_to_char(ch, &new_af);
-
       break;
-
     }
-
   }
-
-
 
   if (HUNTING(ch) && !IS_NPC(ch))
     continue_track(ch);

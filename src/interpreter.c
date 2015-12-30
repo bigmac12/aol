@@ -424,6 +424,7 @@ const struct command_info cmd_info[] = {
   { "break"    , "bre",     POS_DEAD    , do_break    , 1, 0 },
   { "brief"    , "bri",     POS_DEAD    , do_gen_tog  , 1, SCMD_BRIEF },
   { "brew"     , "brew",    POS_SITTING , do_brew     , 1, 0 },
+  { "buildwalk", "buildwalk", POS_STANDING, do_gen_tog, LVL_GOD, SCMD_BUILDWALK },
   { "burp"     , "burp",    POS_RESTING , do_action   , 1, 0 },
   { "bug"      , "bug",     POS_DEAD    , do_gen_write, 1, SCMD_BUG },
   { "cast"     , "c",       POS_SITTING , do_cast     , 1, 0 },
@@ -3588,6 +3589,8 @@ void nanny(struct descriptor_data *d, char *arg)
       }
 
       d->has_prompt = 0;
+
+      REMOVE_BIT(PRF_FLAGS(d->character), PRF_BUILDWALK);
       break;
     }
 

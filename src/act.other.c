@@ -1265,8 +1265,8 @@ ACMD(do_gen_tog)
     "Autoexits enabled.\r\n"},
    {"AFK flag is now off.\r\n",
     "AFK flag is now on.\r\n"},
-   {"\r\n",
-    "\r\n"},
+   {"Buildwalk disabled.\r\n",
+    "Buildwalk enabled.\r\n"},
    {"\r\n",
     "\r\n"},
    {"You will not see levels on eq.\r\n",
@@ -1344,16 +1344,20 @@ ACMD(do_gen_tog)
     break;
 		
   case SCMD_XAP_OBJS:
- /* I guess we'll have interesing results if xap objs aren't 1 or 0 */
+ /* I guess we'll have interesting results if xap objs aren't 1 or 0 */
     result = (xap_objs = !xap_objs);  		
 
-case SCMD_AFK:
-  result = PRF_TOG_CHK(ch, PRF_AFK);
-  if (PRF_FLAGGED(ch, PRF_AFK))
-    act("$n has gone AFK.", TRUE, ch, 0, 0, TO_ROOM);
-  else
-    act("$n has come back from AFK.", TRUE, ch, 0, 0, TO_ROOM);
-  break;
+  case SCMD_AFK:
+      result = PRF_TOG_CHK(ch, PRF_AFK);
+      if (PRF_FLAGGED(ch, PRF_AFK))
+      act("$n has gone AFK.", TRUE, ch, 0, 0, TO_ROOM);
+      else
+      act("$n has come back from AFK.", TRUE, ch, 0, 0, TO_ROOM);
+      break;
+
+  case SCMD_BUILDWALK:
+    result = PRF_TOG_CHK(ch, PRF_BUILDWALK);
+    break;
 
   case SCMD_DETECT:
     if(!PLR_FLAGGED(ch, PLR_IMMCHAR) && (GET_LEVEL(ch) < 31))
@@ -1770,7 +1774,7 @@ ACMD(do_chakra)
     return;
   }
 
-  //ft = GET_MOVE(ch);
+  ft = GET_MOVE(ch);
   GET_MOVE(ch) = GET_MOVE(ch) / 2;
  
   //amount = ft * 2;

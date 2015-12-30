@@ -289,7 +289,7 @@
 #define PRF_HUNTED      (1 << 20)
 #define PRF_ROOMFLAGS	(1 << 21) /* Can see room flags (ROOM_x)	*/
 #define PRF_AFK		(1 << 22) /* AFK flag :)			*/
-#define PRF_UNUSED_7    (1 << 23)
+#define PRF_BUILDWALK    (1 << 23)
 #define PRF_QUEST       (1 << 24)
 #define PRF_LEVEL_FLAGS (1 << 25) /* so imm\imps can see level eq flags */
 #define PRF_INTRO	(1 << 26) /* PC for intro toggle                */

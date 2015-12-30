@@ -263,7 +263,7 @@ const char *preference_bits[] = {
   "QUEST",
   "LEVEL_FLAGS",
   "AFK",
-  "UNUSED_7",
+  "BWLK",
   "QUEST",
   "LEVEL_FLAGS",
   "INTRO",

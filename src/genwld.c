@@ -17,6 +17,9 @@
 #include "genwld.h"
 #include "genzon.h"
 #include "dg_olc.h"
+#include "oasis.h"
+#include "screen.h"
+#include "constants.h"
 
 extern struct room_data *world;
 extern struct zone_data *zone_table;
@@ -511,3 +514,67 @@ int free_room_strings(struct room_data *room)
   return TRUE;
 }
 
+
+room_vnum redit_find_new_vnum(zone_rnum zone) {
+  room_vnum vnum;
+  room_rnum rnum = real_room((vnum = zone_table[zone].number * 100));
+
+  if (rnum != NOWHERE) {
+    for(;;) {
+      if (vnum > zone_table[zone].top)
+        return NOWHERE;
+      if (rnum > top_of_world || world[rnum].number > vnum)
+        break;
+      rnum++;
+      vnum++;
+    }
+  }
+
+  return(vnum);
+}
+
+
+int buildwalk(struct char_data *ch, int dir) {
+  struct room_data *room;
+  room_vnum vnum;
+  room_rnum rnum;
+
+  if (!IS_NPC(ch) && PRF_FLAGGED(ch, PRF_BUILDWALK) && GET_LEVEL(ch) >= LVL_GRGOD) {
+    if (zone_table[world[ch->in_room].zone].number != GET_OLC_ZONE(ch) && GET_LEVEL(ch) < LVL_IMPL) {
+      send_to_char("You do not have build permissions in this zone.\r\n", ch);
+    } else if ((vnum = redit_find_new_vnum(world[ch->in_room].zone)) == NOWHERE) {
+      send_to_char("No free vnums are available in this zone!\r\n", ch);
+    } else {
+      // Set up data for add_room function
+      CREATE(room, struct room_data, 1);
+
+      room->name = str_dup("New Buildwalk Room");
+      sprintf(buf, "This room looks unfinished.");
+      room->description = str_dup(buf);
+      room->number = vnum;
+      room->zone = world[ch->in_room].zone;
+
+      // Add the room
+      add_room(room);
+
+      // Link the rooms
+      CREATE(EXIT(ch, dir), struct room_direction_data, 1);
+      EXIT(ch, dir)->to_room = (rnum = real_room(vnum));
+      CREATE(world[rnum].dir_option[rev_dir[dir]], struct room_direction_data, 1);
+      world[rnum].dir_option[rev_dir[dir]]->to_room = ch->in_room;
+
+      // GC
+      free(room->name);
+      free(room->description);
+      free(room);
+
+      // Report creation to user
+      sprintf(buf, "Room #%d created.\r\n", vnum);
+      send_to_char(buf, ch);
+
+      return(1);
+    }
+  }
+
+  return(0);
+}

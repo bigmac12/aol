@@ -1176,39 +1176,39 @@ char *make_prompt(struct descriptor_data *d)
    int int_xp = 0;
    int int_percent;
    float percent = 0.0;
-   float xp = (((float) GET_EXP(d->character)) - ((float) level_exp(GET_CLASS(d->character), 
+   float xp = (((float) GET_EXP(d->character)) - ((float) level_exp(GET_CLASS(d->character),
 	            GET_LEVEL(d->character)))) /
               (((float) level_exp(GET_CLASS(d->character), (GET_LEVEL(d->character) + 1)) -
               (float) level_exp(GET_CLASS(d->character), GET_LEVEL(d->character))));
-	
-   if (((float) GET_EXP(d->character) - (float) level_exp(GET_CLASS(d->character), 
+
+   if (((float) GET_EXP(d->character) - (float) level_exp(GET_CLASS(d->character),
 	              GET_LEVEL(d->character))) < 0)	{
-	
-	  xp = (((float) level_exp(GET_CLASS(d->character), GET_LEVEL(d->character))) - 
+
+	  xp = (((float) level_exp(GET_CLASS(d->character), GET_LEVEL(d->character))) -
 		     (float) GET_EXP(d->character)) /
 	     ((float) level_exp(GET_CLASS(d->character), (GET_LEVEL(d->character) + 1)) -
               (float) level_exp(GET_CLASS(d->character), GET_LEVEL(d->character)));
-    
+
 	  xp *= (float) 1000.0;
 	  percent = (int) xp % 10;
 	  xp /= (float) 10;
 	  int_xp = MAX(0, (int) xp);
 	  int_percent = MAX(0, MIN((int) percent, 99));
-	  
+
 	  int_xp = int_xp - (int_xp * 2);
-	
+
    }
    else {
 	   xp *= (float) 1000.0;
 	   percent = (int) xp % 10;
 	   xp /= (float) 10;
 	   int_xp = MAX(0, (int) xp);
-	   int_percent = MAX(0, MIN((int) percent, 99));   
-   }			
-			
+	   int_percent = MAX(0, MIN((int) percent, 99));
+   }
+
   if (!FIGHTING(d->character))
     count += sprintf(prompt, "%s[%d%% Tnl] ", prompt, int_xp);
-      
+
 
     strcat(prompt, fightProm);
     strcat(prompt, "> ");

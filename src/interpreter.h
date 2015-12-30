@@ -125,6 +125,7 @@ struct alias_data {
 #define SCMD_SLOWNS	    14
 #define SCMD_AUTOEXIT	15
 #define SCMD_AFK	    16
+#define SCMD_BUILDWALK  17
 #define SCMD_LEVEL_FLAGS 19
 #define SCMD_INTRO       20
 #define SCMD_NOOOC	    21

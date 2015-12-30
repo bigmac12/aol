@@ -425,10 +425,19 @@ void list_one_pc(struct char_data * i, struct char_data * ch)
     strcat(buf, " (invisible)");
   if (AFF_FLAGGED(i, AFF_HIDE) && (!check_skill(i, 101, SKILL_HIDE) || AFF_FLAGGED(ch, AFF_SENSE_LIFE)))
     strcat(buf, " (hidden)");
-  if (!IS_NPC(i) && !i->desc)
-    strcat(buf, " (linkless)");
-  if (PLR_FLAGGED(i, PLR_WRITING))
-    strcat(buf, " (writing)");
+//  if (!IS_NPC(i) && !i->desc)
+//    strcat(buf, " (linkless)");
+//  if (PLR_FLAGGED(i, PLR_WRITING))
+//    strcat(buf, " (writing)");
+
+  if (!IS_NPC(i)) {
+      if (!i->desc)
+          strcat(buf, " (linkless)");
+      if (PLR_FLAGGED(i, PLR_WRITING))
+          strcat(buf, " (writing)");
+      if(PRF_FLAGGED(i, PRF_BUILDWALK))
+          strcat(buf, " (buildwalk)");
+  }
 
 if (RIDING(i) && RIDING(i)->in_room == i->in_room) {
  strcat(buf, " is here, mounted upon ");
@@ -1689,6 +1698,8 @@ GET_LEVEL(wch) < LVL_IMMORT))
       strcat(buf, " &W(&Rnotell&W)&n");
     if (PRF_FLAGGED(wch, PRF_QUEST))
       strcat(buf, " &B(&Mquest&B)&n");
+    if (PRF_FLAGGED(wch, PRF_BUILDWALK))
+        strcat(buf, " &W(&Rbuildwalk&W)&n");
     if ( (PLR_FLAGGED(wch, PLR_THIEF)) && (GET_LEVEL(ch) > LVL_IMMORT) )
     {
       if (GET_RACE(wch) == RACE_KENDER)
