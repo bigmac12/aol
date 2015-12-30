@@ -12,12 +12,12 @@ D1
 ~
 0 0 10102
 E
-west door~
-   A door with no handles.  There is a button set into the wall.    
-~
-E
 button~
    'PRESS'
+~
+E
+west door~
+   A door with no handles.  There is a button set into the wall.    
 ~
 S
 T 10120
@@ -61,16 +61,16 @@ D3
 ~
 0 0 10100
 E
-table~
-   This small stone table was brought to Kalaman from the Khalkist mountain
-range.  It was brought down from a great peak, and carved by the dwarves, who
-sold it to Alkamar at a reasonable price.    
-~
-E
 bookshelf~
    This small wooden bookshelf looks it could hold at most fifty tomes, and
 currently it is only holding twenty-five.  Titles include "An Expository Review
 of The Magical Properties of Lodestone" and "Amazing Rocks".    
+~
+E
+table~
+   This small stone table was brought to Kalaman from the Khalkist mountain
+range.  It was brought down from a great peak, and carved by the dwarves, who
+sold it to Alkamar at a reasonable price.    
 ~
 S
 #10103
@@ -90,9 +90,10 @@ D3
 ~
 0 0 10199
 E
-bookshelf bookshelves~
-   These bookshelves are made out of a strong, dark, wood.  They cover every
-inch of the walls except for the area occupied by the door in the north wall.
+tables~
+   These two small wooden tables are covered with books, and you can barely see
+the actual tables.  From what you can see of them, they appear to be the same
+dark wood as the bookshelves.    
 ~
 E
 chair red white black~
@@ -103,10 +104,9 @@ belongs; white for the good order of white robed wizards; and black for the
 evil order of black robed wizards.    
 ~
 E
-tables~
-   These two small wooden tables are covered with books, and you can barely see
-the actual tables.  From what you can see of them, they appear to be the same
-dark wood as the bookshelves.    
+bookshelf bookshelves~
+   These bookshelves are made out of a strong, dark, wood.  They cover every
+inch of the walls except for the area occupied by the door in the north wall.
 ~
 S
 T 10199
@@ -130,14 +130,14 @@ D7
 door~
 1 0 10082
 E
+chair~
+   This small chair sits behind the desk.    
+~
+E
 desk~
    This small desk littered with papers is where a secretary for this guild
 handles the paperwork involved with the guild's front operations, fencing
 operations, and money laundering operations.    
-~
-E
-chair~
-   This small chair sits behind the desk.    
 ~
 S
 #10105
@@ -213,8 +213,9 @@ D2
 ~
 0 0 10109
 E
-table~
-   The tables are nothing special, just large, extremely heavy, oak tables.  
+fireplace~
+   A warm fire is burning in this small fireplace.  The fireplace itself is
+made out of a dark slate, and is covered in soot.    
 ~
 E
 chair~
@@ -223,9 +224,8 @@ standing upright, but a large number of others are laying on the ground
 sideways.    
 ~
 E
-fireplace~
-   A warm fire is burning in this small fireplace.  The fireplace itself is
-made out of a dark slate, and is covered in soot.    
+table~
+   The tables are nothing special, just large, extremely heavy, oak tables.  
 ~
 S
 #10108
@@ -416,14 +416,6 @@ sign has been nailed above the buttons.
 ~
 101 8 0 0 0
 E
-door~
-   A door with no handles.    
-~
-E
-buttons button~
-   They are numbered 1, 2, 3 and 4.    
-~
-E
 sign~
 Movepeopletootherfloors (tm) Device
 Designed by Scrombisherllydonelots
@@ -436,6 +428,14 @@ timethoughnoneofthemworkedhewasson
 ofjaeergon....
 
 It appears he ran out of space to complete his sign.
+~
+E
+buttons button~
+   They are numbered 1, 2, 3 and 4.    
+~
+E
+door~
+   A door with no handles.    
 ~
 S
 T 10121
@@ -460,15 +460,12 @@ western wall.
 ~
 101 8 0 0 0
 E
-painting~
-   On closer inspection the painting is not of a mountain at all, but a extinct
-looking volcano.  One could surmise that this is Mt.  Nevermind the ancestral
-home of the Gnomes.    
+button~
+   'PRESS'
 ~
 E
-window~
-   The window overlooks the street.  It would seem that a small crowd has
-gathered outside the shop, probably wondering what all the noise is.    
+door~
+   A door with no handles.  There is a button set into the wall.    
 ~
 E
 scroll scrolls~
@@ -477,12 +474,15 @@ What these drawings represent is a mystery as they seem to relate to several
 different inventions.    
 ~
 E
-door~
-   A door with no handles.  There is a button set into the wall.    
+window~
+   The window overlooks the street.  It would seem that a small crowd has
+gathered outside the shop, probably wondering what all the noise is.    
 ~
 E
-button~
-   'PRESS'
+painting~
+   On closer inspection the painting is not of a mountain at all, but a extinct
+looking volcano.  One could surmise that this is Mt.  Nevermind the ancestral
+home of the Gnomes.    
 ~
 S
 T 10122
@@ -498,12 +498,12 @@ western wall.
 ~
 101 524296 0 1 0
 E
-door~
-   A door with no handles.  There is a button set into the wall.    
-~
-E
 button~
    'PRESS'
+~
+E
+door~
+   A door with no handles.  There is a button set into the wall.    
 ~
 S
 T 10124
@@ -1158,6 +1158,30 @@ D3
 ~
 0 0 10153
 E
+padlock~
+   A massive padlock bars the northern door.  Constructed of thick steel it
+looks unbreakable.    
+~
+E
+desk~
+   The large desk that sits in the corner of the room appears to be made of
+ancient oak.  No doubt it was once a magnificent piece of furniture, now it is
+a sorry state of repair and is covered by mounds of paperwork.    
+~
+E
+paperwork~
+   Invoices for gruel and requisitions for more staff.  The paperwork looks
+like it has been ignored for a long time.  Obviously whoever has the
+responsibility of dealing with it is either too busy or can not be bothered.  
+
+~
+E
+windows bars window~
+   The windows are set high into the walls.  Thick steel bars prevent anyone
+entering or leaving through them.  The glass is discolored, from age and dirt,
+and little light passes into the room below.    
+~
+E
 sign~
       NOTICE TO ALL NEW INMATES
 
@@ -1173,30 +1197,6 @@ be hunted down by the authorities.
 
 Visitors should ring the bell when they
 are ready to leave.
-~
-E
-windows bars window~
-   The windows are set high into the walls.  Thick steel bars prevent anyone
-entering or leaving through them.  The glass is discolored, from age and dirt,
-and little light passes into the room below.    
-~
-E
-paperwork~
-   Invoices for gruel and requisitions for more staff.  The paperwork looks
-like it has been ignored for a long time.  Obviously whoever has the
-responsibility of dealing with it is either too busy or can not be bothered.  
-
-~
-E
-desk~
-   The large desk that sits in the corner of the room appears to be made of
-ancient oak.  No doubt it was once a magnificent piece of furniture, now it is
-a sorry state of repair and is covered by mounds of paperwork.    
-~
-E
-padlock~
-   A massive padlock bars the northern door.  Constructed of thick steel it
-looks unbreakable.    
 ~
 S
 #10151
@@ -1219,8 +1219,10 @@ D2
 ~
 0 0 10154
 E
-sign doorfram~
-   Governor Trombild
+desk seats seat~
+   The small desk is uncluttered and tidy.  Four chairs surround the desk and
+it would appear that this is where the credit exchange staff hold financial
+meetings with prisoners.    
 ~
 E
 safe~
@@ -1229,10 +1231,8 @@ forced open and heavy enough to stop anyone moving it.  Though where a thief
 would be able to take it is an other matter.    
 ~
 E
-desk seats seat~
-   The small desk is uncluttered and tidy.  Four chairs surround the desk and
-it would appear that this is where the credit exchange staff hold financial
-meetings with prisoners.    
+sign doorfram~
+   Governor Trombild
 ~
 S
 #10152
@@ -1251,21 +1251,21 @@ D3
 ~
 0 0 10150
 E
-debris~
-   The debris that covers the floor is rotting food.    
-~
-E
-cockroaches~
-   Too many of them to count.    
+pots pot range iron~
+   Large pots sit boiling on a large iron range.  Clouds of steam billow forth
+from them accompanied by the nauseating stench.    
 ~
 E
 message scrawled wall~
    'Abandon hope all ye that eat here!  '
 ~
 E
-pots pot range iron~
-   Large pots sit boiling on a large iron range.  Clouds of steam billow forth
-from them accompanied by the nauseating stench.    
+cockroaches~
+   Too many of them to count.    
+~
+E
+debris~
+   The debris that covers the floor is rotting food.    
 ~
 S
 #10153
@@ -1282,9 +1282,15 @@ D1
 ~
 0 0 10150
 E
-sack sacks mail parcels~
-   Sacks of mail and parcels lie heaped behind the counter.  Covered in dust,
-they have not been disturbed in a long time.    
+painting southern~
+   On the southern wall hangs a beautiful oil painting of a tranquil valley.  
+A river flows through the valley and is surrounded by magnificent pine trees.
+Though well done it looks like the work of an amateur, possibly an ex-prisoner.
+The painting is signed by an artist called Karlia.    
+~
+E
+candles~
+   Little more than stubs, they cast limited light into the room.    
 ~
 E
 counter~
@@ -1292,15 +1298,9 @@ counter~
 half.  Behind it lies sacks of mail and parcels.    
 ~
 E
-candles~
-   Little more than stubs, they cast limited light into the room.    
-~
-E
-painting southern~
-   On the southern wall hangs a beautiful oil painting of a tranquil valley.  
-A river flows through the valley and is surrounded by magnificent pine trees.
-Though well done it looks like the work of an amateur, possibly an ex-prisoner.
-The painting is signed by an artist called Karlia.    
+sack sacks mail parcels~
+   Sacks of mail and parcels lie heaped behind the counter.  Covered in dust,
+they have not been disturbed in a long time.    
 ~
 S
 #10154
@@ -1317,14 +1317,13 @@ D0
 ~
 0 0 10151
 E
-window bars~
-   The large window overlooks a well kept courtyard garden.  The thick steel
-bars are a practical way of stopping escapes.    
+desk~
+   The beautiful mahogany desk has been polished so much that it reflects the
+light.  However someone has scratched some grafitti into the corner.    
 ~
 E
-carpet~
-   Red in color and very plush, the carpet gives the room a homely feeling.  
-
+grafitti scratch scratched mark~
+   Kheldar an' Lerog wis 'ere
 ~
 E
 drapes curtains~
@@ -1332,13 +1331,14 @@ drapes curtains~
   
 ~
 E
-grafitti scratch scratched mark~
-   Kheldar an' Lerog wis 'ere
+carpet~
+   Red in color and very plush, the carpet gives the room a homely feeling.  
+
 ~
 E
-desk~
-   The beautiful mahogany desk has been polished so much that it reflects the
-light.  However someone has scratched some grafitti into the corner.    
+window bars~
+   The large window overlooks a well kept courtyard garden.  The thick steel
+bars are a practical way of stopping escapes.    
 ~
 S
 #10155
@@ -1552,31 +1552,9 @@ D0
 ~
 0 0 10157
 E
-sign~
-   The poorly painted sign reads, 'Khrinus's Forge, Best Armor and Weapons in
-a' the Worlde'.    
-~
-E
-tool tools hooks~
-   Hammers and tongs of various sizes hang from hooks in the wall.  On closer
-inspection the hooks are actually long nails that have been hammered in to the
-wall with great force.    
-~
-E
-strips metal~
-   Long strips of expensive steel lie carefully stacked alongside the forge.  
-The steel is obviously waiting to be folded and beaten into weapons and armor.
-  
-~
-E
-forge~
-   The forge emanates a comforting warmth.  Then, as air is fed into it, a
-blast of intense heat briefly fills the courtyard.    
-~
-E
-canopy~
-   The canopy appears to have been built in a hurry.  The guttering is loose
-and holes can be seen in the roof.    
+crate crates~
+   The large crates are made from a thick wood and are banded by bands of
+steel.  A small label is on each crate.    
 ~
 E
 label~
@@ -1585,9 +1563,31 @@ inside.  Aye and send it back tae me when yer done cause ye pay fer the
 contents nae the box'
 ~
 E
-crate crates~
-   The large crates are made from a thick wood and are banded by bands of
-steel.  A small label is on each crate.    
+canopy~
+   The canopy appears to have been built in a hurry.  The guttering is loose
+and holes can be seen in the roof.    
+~
+E
+forge~
+   The forge emanates a comforting warmth.  Then, as air is fed into it, a
+blast of intense heat briefly fills the courtyard.    
+~
+E
+strips metal~
+   Long strips of expensive steel lie carefully stacked alongside the forge.  
+The steel is obviously waiting to be folded and beaten into weapons and armor.
+  
+~
+E
+tool tools hooks~
+   Hammers and tongs of various sizes hang from hooks in the wall.  On closer
+inspection the hooks are actually long nails that have been hammered in to the
+wall with great force.    
+~
+E
+sign~
+   The poorly painted sign reads, 'Khrinus's Forge, Best Armor and Weapons in
+a' the Worlde'.    
 ~
 S
 #10166
@@ -1700,6 +1700,8 @@ room.  Behind the counter a large shelf is filled with books containing the
 Inn's financial records, dating back more than half a century.  The counter is
 littered with papers that the Innkeeper is currently working on, as well as the
 current log book.    
+
+  (New players please type &mKIT&n here.)
 ~
 101 8 0 0 0
 D2
