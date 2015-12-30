@@ -1270,9 +1270,9 @@ void garble_language_text(char *string, int percent) {
     int i;
 
     for (i = 0; i < strlen(string); i++) {
-        if (isalpha(string[i] && number(0, 1) && number(0, 100) > percent) {
-            string[i] = letters[number(0, 12)];
-        }
+        if (isalpha(string[i]) && number(0, 1) && number(0, 100) > percent) {
+			string[i] = letters[number(0, 12)];
+		}
     }
 }
 
