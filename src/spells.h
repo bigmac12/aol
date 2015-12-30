@@ -219,10 +219,10 @@
 #define SPELL_SK_CHALLENGE          177
 #define SPELL_DONTUSEME		    178    /*Must always be the 2nd last spell*/
 
-#define LANG_QUALINESTI 190
-#define LANG_SILVANESTI 191
-#define LANG_DWARVEN    192
-#define LANG_KOTHIAN    193
+//#define LANG_QUALINESTI 190
+//#define LANG_SILVANESTI 191
+//#define LANG_DWARVEN    192
+//#define LANG_KOTHIAN    193
 
 
 /* Insert new spells here, up to MAX_SPELLS */
