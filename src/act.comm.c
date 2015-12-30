@@ -1265,7 +1265,7 @@ ACMD(do_prayer)
 }
 
 
-void garble_text(char *string, int percent) {
+void garble_language_text(char *string, int percent) {
     char letters[] = "aeiousthpwxyz";
     int i;
 
@@ -1298,7 +1298,7 @@ ACMD(do_lang_say) {
         if (tch != ch && AWAKE(tch) && tch->desc) {
             strcpy(obuf, ibuf);
 
-            garble_text(obuf, GET_SKILL(tch, SPEAKING(ch)));
+            garble_language_text(obuf, GET_SKILL(tch, SPEAKING(ch)));
 
             if (GET_SKILL(tch, SPEAKING(ch)) < 1) {
                 sprintf(buf, "$n says, in an unfamiliar language, '%s'", obuf);
