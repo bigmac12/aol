@@ -332,7 +332,7 @@ int known_player(const struct char_data *ch, struct char_data *who);
    (ch->desc && ch->desc->original ? GET_LEVEL(ch->desc->original) : \
     GET_LEVEL(ch))
 
-#define SPEAKING(ch)        ((ch)->player_specials->saved.speaking)
+// #define SPEAKING(ch)        ((ch)->player_specials->saved.speaking)
 
 #define GET_CLASS(ch)     ((ch)->player.class)
 #define GET_SPEC(ch)      (IS_NPC(ch) ? (ch)->mob_specials.spec : 0)

@@ -1276,7 +1276,7 @@ void garble_language_text(char *string, int percent) {
 		}
     }
 }
-
+/*
 ACMD(do_lang_say) {
     extern char *languages[];
     char ibuf[MAX_INPUT_LENGTH];
@@ -1313,3 +1313,4 @@ ACMD(do_lang_say) {
     sprintf(buf, "You say, in %s, '%s'", languages[(SPEAKING(ch) - ofs)], argument);
     act(buf, TRUE, ch, 0, 0, TO_CHAR);
 }
+ */
