@@ -817,22 +817,22 @@ void init_spell_levels(void)
   spell_level(SKILL_TAME, CLASS_KNIGHT, 2, 0);
   spell_level(SKILL_RESCUE, CLASS_KNIGHT, 3, 0);
   spell_level(SKILL_COOK, CLASS_KNIGHT, 4, 0);
-
   spell_level(SKILL_ASSESS, CLASS_KNIGHT, 5, 0);
-  spell_level(SKILL_BUILD_FIRE, CLASS_KNIGHT, 6, 0);
 
+  spell_level(SKILL_BUILD_FIRE, CLASS_KNIGHT, 6, 0);
   spell_level(SKILL_BASH, CLASS_KNIGHT, 7, 0);
   spell_level(SKILL_GUARD, CLASS_KNIGHT, 9, 0);
   spell_level(SKILL_ARMOR_MASTERY, CLASS_KNIGHT, 10, 0);
+
   spell_level(SKILL_SHIELD_MASTERY, CLASS_KNIGHT, 11, 0);
   spell_level(SKILL_DUAL_WIELD, CLASS_KNIGHT, 12, 0);
   spell_level(SKILL_CHARGE, CLASS_KNIGHT, 13, 0);
   spell_level(SKILL_CHALLENGE, CLASS_KNIGHT, 14, 0);
   spell_level(SKILL_DISARM, CLASS_KNIGHT, 15, 0);
-  spell_level(SKILL_IMPROVED_ARMOR_MASTERY, CLASS_KNIGHT, 9, 0);
-  spell_level(SKILL_IMPROVED_SHIELD_MASTERY, CLASS_KNIGHT, 10, 0);
   spell_level(SKILL_SECOND_ATTACK, CLASS_KNIGHT, 18, 0);
   spell_level(SKILL_RETREAT, CLASS_KNIGHT, 19, 0);
+  spell_level(SKILL_IMPROVED_ARMOR_MASTERY, CLASS_KNIGHT, 19, 0);
+  spell_level(SKILL_IMPROVED_SHIELD_MASTERY, CLASS_KNIGHT, 20, 0);
   spell_level(SKILL_DODGE, CLASS_KNIGHT, 22, 0);
   spell_level(SKILL_IMPROVED_CHARGE, CLASS_KNIGHT, 23, 0);
   spell_level(SKILL_ADVANCED_ARMOR_MASTERY, CLASS_KNIGHT, 24, 0);
@@ -853,7 +853,7 @@ void init_spell_levels(void)
   spell_level(SKILL_BUILD_FIRE, CLASS_PALADIN, 6, 0);
 
   spell_level(SKILL_ASSESS, CLASS_PALADIN, 6, 0);
-  spell_level(SKILL_BASH, CLASS_PALADIN, 8, 0);
+  spell_level(SKILL_BASH, CLASS_PALADIN, 7, 0);
   spell_level(SKILL_GUARD, CLASS_PALADIN, 11, 0);
   spell_level(SKILL_DISARM, CLASS_PALADIN, 14, 0);
   spell_level(SKILL_SECOND_ATTACK, CLASS_PALADIN, 18, 0);
@@ -1335,7 +1335,7 @@ void init_spell_levels(void)
   //spell_level(SKILL_SNEAK, CLASS_MONK, 8, 0);
   spell_level(SKILL_THROW, CLASS_MONK, 8, 0);
 
-  //spell_level(SKILL_DISARM, CLASS_MONK, 11, 0);
+  spell_level(SKILL_DISARM, CLASS_MONK, 11, 0);
   spell_level(SKILL_TRIP, CLASS_MONK, 12, 0);
   spell_level(SKILL_DETECTDISGUISE, CLASS_MONK, 13, 0);
   spell_level(SKILL_IMPROVED_UNARMED_DEFENSE, CLASS_MONK, 14, 0);

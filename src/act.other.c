@@ -1770,10 +1770,11 @@ ACMD(do_chakra)
     return;
   }
 
-  ft = GET_MOVE(ch);
+  //ft = GET_MOVE(ch);
   GET_MOVE(ch) = GET_MOVE(ch) / 2;
  
-  amount = ft * 2;
+  //amount = ft * 2;
+  amount = GET_MAX_HIT(ch) / 2;
  
   GET_HIT(ch) = MIN(GET_HIT(ch) + amount, GET_MAX_HIT(ch));
  
