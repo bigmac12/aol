@@ -3813,8 +3813,7 @@ ACMD(do_approve)
 
       GET_NAME(ch, chname);
       GET_NAME(victim, victname);
-      sprintf(buf, "%s (lev %d) approved by %s.",
-	      victname, GET_LEVEL(victim), chname);
+      sprintf(buf, "%s (lev %d) approved by %s.", victname, GET_LEVEL(victim), chname);
       FREE_NAME(victname);
       FREE_NAME(chname);
       mudlog(buf, NRM, LVL_IMMORT, TRUE);

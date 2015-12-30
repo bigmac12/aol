@@ -350,7 +350,14 @@ void perform_get_from_container(struct char_data * ch, struct obj_data * obj, st
 
       if (GET_OBJ_LEVEL(obj) - GET_LEVEL(ch) > 5) {
         GET_NAME(ch, chname);
-        sprintf(buf, "%s retrieved a powerful item (%s) from %s.", chname, obj->short_description, cont->short_description);
+
+        sprintf(buf, "%s (%d) retrieved a powerful item (%s (%d)) from %s.",
+                chname,
+                GET_LEVEL(ch),
+                obj->short_description,
+                GET_OBJ_LEVEL(obj),
+                cont->short_description);
+
         FREE_NAME(chname);
         mudlog(buf, BRF, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);
       }
@@ -409,7 +416,13 @@ int perform_get_from_room(struct char_data * ch, struct obj_data * obj)
 
     if (GET_OBJ_LEVEL(obj) - GET_LEVEL(ch) > 5) {
       GET_NAME(ch, chname);
-      sprintf(buf, "%s has picked up a powerful item (%s).", chname, obj->short_description);
+
+      sprintf(buf, "%s (%d) has picked up a powerful item (%s&g(%d)).",
+              chname,
+              GET_LEVEL(ch),
+              obj->short_description,
+              GET_OBJ_LEVEL(obj));
+
       FREE_NAME(chname);
       mudlog(buf, BRF, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);
     }
@@ -762,7 +775,15 @@ void perform_give(struct char_data * ch, struct char_data * vict, struct obj_dat
     act("You are not allowed to give $N this item.", FALSE, ch, 0, vict, TO_CHAR);
     GET_NAME(ch, chname);
     GET_NAME(vict, victname);
-    sprintf(buf, "%s attempted to give a powerful item to %s.", chname, victname);
+
+    sprintf(buf, "%s (%d) attempted to give a powerful item (%s (%d)) to %s (%d).",
+            chname,
+            GET_LEVEL(ch),
+            obj->short_description,
+            GET_OBJ_LEVEL(obj),
+            victname,
+            GET_LEVEL(vict));
+
     FREE_NAME(victname);
     FREE_NAME(chname);
     mudlog(buf, BRF, MAX(LVL_GOD, GET_INVIS_LEV(ch)), TRUE);

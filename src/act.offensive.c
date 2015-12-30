@@ -812,16 +812,17 @@ ACMD(do_disarm)
   else
     eq_pos = WEAR_WIELD;
 
-  percent = number(1, 101) + GET_DEX(vict) - GET_DEX(ch);
+  if (GET_CLASS(ch) == CLASS_MONK) {
+    percent = 30;
+  } else {
+    percent = number(1, 101) + GET_DEX(vict) - GET_DEX(ch);
+  }
 
   if (!use_skill(ch, percent, SKILL_DISARM))
   {
-    if(GET_CLASS(ch) == CLASS_MONK)
-    {
-      send_to_char("Be careful! You almost lost a hand there!\r\n", ch);
-    }
-    else
-    {
+    if(GET_CLASS(ch) == CLASS_MONK) {
+      send_to_char("Be careful!  You almost lost a hand there!\r\n", ch);
+    } else {
       send_to_char("Be careful!  You almost lost your own weapon.\r\n", ch);
     }
   }
@@ -830,14 +831,22 @@ ACMD(do_disarm)
     obj = unequip_char(vict, eq_pos);
     sprintf(buf, "You knock $p from $N's hands!");
     act(buf, FALSE, ch, obj, vict, TO_CHAR);
+
     sprintf(buf, "$n knocks $p from your hands!");
     act(buf, FALSE, ch, obj, vict, TO_VICT);
+
     sprintf(buf, "$n knocks $p from $N's hands!");
     act(buf, TRUE, ch, obj, vict, TO_NOTVICT);
+
+    // Disarmed weapons should go to the char's inventory, not the room.
+    obj_to_char(obj, vict);
+
+    /*
     if (IS_NPC(vict))
       obj_to_char(obj, vict);
     else
       obj_to_room(obj, vict->in_room);
+    */
   }
 
   WAIT_STATE(ch, PULSE_VIOLENCE * 2);
