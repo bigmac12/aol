@@ -6,7 +6,7 @@ hum with a strage power.  Some of the jars and pouches are filled with
 disgusting looking bugs and other things even worse.  Books and parchments fill
 a rack behind the counter where the storekeep stands.    
 ~
-81 32796 0 0 0
+81 28 0 0 0
 D2
 ~
 ~
@@ -19,11 +19,21 @@ the walls and sparkle with the brilliant dazzle of gemstones.  The bright light
 of the shop gleams on every edge of each of the beautiful gems making them look
 ablaze with fire.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D1
 ~
 ~
 0 0 8031
+E
+gems~
+   The gems seem to be on fire as the bright light of the shop gleams off of
+every edge and corner.    
+~
+E
+cases~
+   The glass casses are filled with the most beautiful sparking gems you have
+ever seen.    
+~
 E
 plaque sign sedit~
    A small plaque behind the counter bears the establishment's merchant number
@@ -32,16 +42,6 @@ Tower.
 
                            #8101
 
-~
-E
-cases~
-   The glass casses are filled with the most beautiful sparking gems you have
-ever seen.    
-~
-E
-gems~
-   The gems seem to be on fire as the bright light of the shop gleams off of
-every edge and corner.    
 ~
 S
 #8102
@@ -55,7 +55,7 @@ financial records, some curling yellow at the hands of time, have been
 meticulously arranged in piles so as to cover every possible inch of the small
 office without impeding any potential customers.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D1
 ~
 ~
@@ -71,7 +71,7 @@ a long road trip.  A large stairway on the east wall leads to the rooms above.
 Around the doorway leading outside are some deeply cut runes, the runes seem to
 glow.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D2
 ~
 ~
@@ -89,7 +89,7 @@ here and catch a much needed nap before adventuring on.  Paintings of the city
 and of the inn itself as well as some of the country side line the wood paneled
 walls.  A hall leads to some rooms to the north.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D0
 ~
 ~
@@ -106,7 +106,7 @@ covered with the same rich paneling as the rest of the inn.  The doors of the
 hall are all numbered with a large brass number.  The doors look to be very
 strong and formidable, reinforced with brass and iron.    
 ~
-81 32776 0 0 0
+81 8 0 0 0
 D0
 ~
 ~
@@ -234,7 +234,7 @@ exactly which street you are on, but anything has to be better than the musty
 smell of this tunnel, and the rats scurrying around on the ground below you.  
 
 ~
-81 32776 0 0 0
+81 8 0 0 0
 D4
 ~
 manhole~
@@ -267,7 +267,7 @@ fresh flowers.  Along the side walls are large bulletin boards with
 advertisements hung neatly on them.  The most predominate post, mentions the
 building of a great temple.    
 ~
-81 32904 0 0 0
+81 136 0 0 0
 D0
 ~
 ~
@@ -293,7 +293,7 @@ entire length of the northern wall.  It is stacked high with piles of mail that
 is currently being sorted.  Wooden shelves divided into mail slots line the
 eastern and western walls.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D2
 ~
 ~
@@ -303,15 +303,20 @@ S
 Before the Gates of Istar~
    Looming just to the west, like a great pillar of light, are the gates to the
 City of Istar.  The city wall stretches northward from the lake which bears the
-city's name.  The massive gates to the southwest, which currently stand open,
-are the only means of entering the city proper by land.  Great torches stand on
-either side of the roadway, blending with the city's luminescence.    
+city's name.  The massive gates to the north, which currently stand open, are
+the only means of entering the city proper by land.  Great torches stand on
+either side of the roadway, blending with the city's luminescence.  To the east
+is a well-used cobblestone path which leads to the stables of Istar.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D0
 ~
 ~
 0 0 8000
+D1
+~
+~
+0 0 8160
 D2
 ~
 ~
@@ -381,7 +386,7 @@ will pass by in a carriage, some handing out alms but most not taking notice of
 the common people of Istar.  To the south stands Istar's great amphitheater
 which is host to concerts and plays.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D0
 ~
 ~
@@ -399,7 +404,7 @@ doors has handles, and the usher is by that door.  The rest of the doors appear
 to be exit only.  The road here has been cleaned off, the owners probably pay
 people to pick up litter.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D1
 ~
 ~
@@ -416,7 +421,7 @@ will pass by in a carriage, some handing out alms but most not taking notice of
 the common people of Istar.  To the west stands Istar's great amphitheater
 which is host to concerts and plays.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D1
 ~
 ~
@@ -439,7 +444,7 @@ diligently working on their daily tasks.  Once in awhile a noble of the city
 will pass by in a carriage, some handing out alms but most not taking notice of
 the common people of Istar.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D3
 ~
 ~
@@ -494,7 +499,7 @@ discover that this room provided enough entertainment for males to give their
 female companions more time to try on clothing, and often, more clothing to
 buy.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D2
 ~
 ~
@@ -511,7 +516,7 @@ ceramic disc over the entrance, in the center of it, a silver triangle, the
 symbol of Paladine.  Although, it doesn't look so much like a tribute to the
 great god of light as it does a decoration.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D2
 ~
 ~
@@ -528,7 +533,7 @@ may have the latest trends, but Dana is known to have a heart of gold and will
 buy many clothing items and put them up for sell in that corner, even if they
 are no where near the quality of her normal wares.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D0
 ~
 ~
@@ -549,7 +554,7 @@ The glow from the forging fires keeps this place well lit, even at night, but
 due to popular demand, the shop has to close so nearby people can get some
 sleep.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D0
 ~
 ~
@@ -563,7 +568,7 @@ the colors of the lake.  A breakwater, appearing to be nearly a mile long, is
 visible outside the main harbor area.  It serves to keep the waters calm and
 peaceful.    
 ~
-81 32772 1 0 0
+81 4 1 0 0
 D1
 ~
 ~
@@ -585,7 +590,7 @@ the colors of the lake.  A breakwater, appearing to be nearly a mile long, is
 visible outside the main harbor area.  It serves to keep the waters calm and
 peaceful.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D1
 ~
 ~
@@ -601,7 +606,7 @@ Gold Street~
 is rather crowded as the masses make their way into the glorious gates of
 Istar.  Gold runes have been scribed into the pavements.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D7
 ~
 ~
@@ -621,7 +626,7 @@ of the visitors who are coming and going.  Unlike many port cities, Istar does
 not have any warehouses near its harbor.  Such buildings would only clutter the
 lovely lakefront and were deemed unnecessary eyesores.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D0
 ~
 ~
@@ -644,7 +649,7 @@ which serve this busy port.  During all the daylight hours and well into the
 evening the longshoreman are unloading or loading goods while remaining clear
 of the visitors who are coming and going.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D0
 ~
 ~
@@ -662,7 +667,7 @@ which serve this busy port.  During all the daylight hours and well into the
 evening the longshoreman are unloading or loading goods while remaining clear
 of the visitors who are coming and going.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D0
 ~
 ~
@@ -680,7 +685,7 @@ west, is visible on the horizon.  A few small crafts are approaching the docks,
 no doubt ferrying passengers from large luxury yachts which are moored
 offshore.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D0
 ~
 ~
@@ -694,7 +699,7 @@ south, is visible on the horizon.  A few small crafts are approaching the
 docks, no doubt ferrying passengers from large luxury yachts which are moored
 offshore.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D1
 ~
 ~
@@ -708,7 +713,7 @@ which serve this busy port.  During all the daylight hours and well into the
 evening the longshoreman are unloading or loading goods while remaining clear
 of the visitors who are coming and going.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D1
 ~
 ~
@@ -728,7 +733,7 @@ of the visitors who are coming and going.  Unlike many port cities, Istar does
 not have any warehouses near its harbor.  Such buildings would only clutter the
 lovely lakefront and were deemed unnecessary eyesores.    
 ~
-81 32768 1 0 0
+81 0 1 0 0
 D1
 ~
 ~
@@ -800,6 +805,12 @@ D3
 ~
 0 0 8140
 E
+plaque polished brass~
+Gunther Melargo
+Head Jailer of Istar
+Serving proudly for 20 years
+~
+E
 award wooden carved~
 Asst. Jailer of the Year Award
 This plain piece of wood is carved with the following inscription:
@@ -809,12 +820,6 @@ Asst. Jailer of the Year Award
 
 It seems to have been hung in this particular spot to try to cover a large
 crack in the wall but is not doing a good job at it.
-~
-E
-plaque polished brass~
-Gunther Melargo
-Head Jailer of Istar
-Serving proudly for 20 years
 ~
 S
 #8143
@@ -1107,6 +1112,41 @@ D4
 trapdoor~
 1 0 8096
 S
+#8160
+Wide Cobblestone Pathway~
+   This large wooden building lies just outside the city of Istar, and is
+utilized by the local merchants and citizens as a wagon yard and stables area.
+The common smells of a stable yard float through the air; horses, hay, and
+other less pleasant scents.  Several wagons lie around the yard out front,
+closed up and waiting for their owners to return.  The stables lie further in,
+roofed to shelter the ponies and stallions which commonly occupy the various
+stalls.    
+~
+0 0 1 0 0
+D1
+~
+~
+0 0 8161
+D3
+~
+~
+0 0 8116
+S
+#8161
+A Brightly Lit Boarding Stable~
+   This is a fair-sized stables, with many enclosed stalls for holding ponies
+and stallions.  Travelers, as well as the citizens and merchants of Istar
+utilize these stables for just such a purpose.  The smell of animals, hay, and
+other less pleasant odors floats through the air.  All in all it is
+well-maintained, and most folk would find these stables a more than adequate
+place to stable their mounts.    
+~
+0 25165824 0 0 0
+D3
+~
+~
+0 0 8160
+S
 #8180
 A Townhome~
    This simple home has all the amenities required by city dwellers.  It is
@@ -1117,7 +1157,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-81 33589772 0 0 0
+81 33557004 0 0 0
 D0
 ~
 ~
@@ -1133,7 +1173,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-81 33589772 0 0 0
+81 33557004 0 0 0
 D2
 ~
 ~
@@ -1149,7 +1189,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-81 33589772 0 0 0
+81 33557004 0 0 0
 D0
 ~
 ~
@@ -1165,7 +1205,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-81 33589772 0 0 0
+81 33557004 0 0 0
 D0
 ~
 ~
@@ -1181,7 +1221,7 @@ a gathering spot for those in need.  The decor is simple yet nice with all the
 basic needs of a tavern patron taken into account.  Double doors of sturdy oak
 which stand in the center of the eastern wall open out to Beggar's Alley.    
 ~
-81 32780 0 0 0
+81 12 0 0 0
 D1
 ~
 ~
@@ -1205,7 +1245,7 @@ not flourishing.  It is these people that seem to always find their way here,
 to the Laughing Spirits.  They come in the hopes of finding a champion to
 assist them in their cause, whatever it may be.    
 ~
-81 32776 0 0 0
+81 8 0 0 0
 D0
 ~
 ~
@@ -1228,7 +1268,7 @@ the hearth and the chimney which disappears into the lofts overhead.  The
 wooden mantle is adorned with stuffed birds which are no doubt hunting trophies
 of the owner and his regulars.    
 ~
-81 33032 0 0 0
+81 264 0 0 0
 D0
 ~
 ~
@@ -1241,7 +1281,7 @@ It is frequented by those looking to spend a quiet evening or to conduct
 private business.  A single candle burns in a pewter candlestick on the table
 adding to the intimacy.    
 ~
-81 33288 0 0 0
+81 520 0 0 0
 D0
 ~
 ~
@@ -1255,7 +1295,7 @@ bit of privacy.  The large, square tables are absolutely covered with graffiti,
 mostly the carved initials of those who frequent the booth.  A pewter candle
 sits in the middle of the table, providing a bit of ambiance.    
 ~
-81 32776 0 0 0
+81 8 0 0 0
 D2
 ~
 ~

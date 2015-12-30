@@ -1,7 +1,13 @@
 #47
 TalenRock~
-4799 60 2
-* ZoneState 1 unowned 000000000000000
+4799 15 2
+* ZoneState 3 unowned 000000000000000
+R 0 4754 4799 -1 	(a circle of ancient oaks)
+O 0 4799 1 4754 	(a circle of ancient oaks)
+P 1 4798 500 4799 	(a few acorns)
+P 1 4798 500 4799 	(a few acorns)
+P 1 4798 500 4799 	(a few acorns)
+M 0 4799 1 4754 	(an ancient guardian dryad)
 M 0 4700 1 4700 	(Cyrill)
 M 0 4731 1 4789 	(a large tabby)
 M 0 4710 5 4791 	(a weary housekeeper)
@@ -75,7 +81,7 @@ G 1 4790 1000 -1 	(a charm necklace set with gems)
 G 1 4725 2 -1 	(&Wa delicate porcelain mask, set with a small ruby teardrop&n)
 G 1 4726 2 -1 	(&ga beautiful leaf-shaped brooch, made of jasper and silver&n)
 G 1 4727 4 -1 	(&Ba heart-shaped earring, made from deep blue sapphire&n)
-G 1 4728 1 -1 	(a circlet crafted of silver, set with a teardrop sapphire)
+G 1 4728 1 -1 	(&wa circlet crafted of silver, set with a &Bteardrop sapphire&n)
 M 0 4724 1 4729 	(a shadowed form with emerald green eyes)
 M 0 4729 1 4729 	(Relyn Glasswind)
 G 1 4789 10000 -1 	(&Ka set of charcoal black novice robes&n)
@@ -99,12 +105,6 @@ R 0 4704 4704 -1 	(a bug board)
 O 0 4704 2 4704 	(a bug board)
 D 0 4750 5 1 	(The Remnants of an Old Treehouse)
 O 0 4715 1 4782 	(a small silver plaque)
-R 0 4754 4799 -1 	(a circle of ancient oaks)
-O 0 4799 1 4754 	(a circle of ancient oaks)
-P 1 4798 500 4799 	(a few acorns)
-P 1 4798 500 4799 	(a few acorns)
-P 1 4798 500 4799 	(a few acorns)
-M 0 4799 1 4754 	(an ancient guardian dryad)
 M 0 4727 1 4726 	(Sir Jonyam the Ninth)
 M 0 4726 1 4726 	(the armorer's nephew)
 G 1 4775 10000 -1 	(a pair of waterproof travelling boots)
