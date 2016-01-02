@@ -1550,7 +1550,10 @@ int hands_full(struct char_data * ch) {
   if (GET_EQ(ch, WEAR_WIELD))
   {
     if (IS_OBJ_STAT(GET_EQ(ch, WEAR_WIELD), ITEM_TWO_HANDED))
-      free_hands -= 2;
+      if (GET_RACE(ch) == RACE_MINOTAUR && GET_STR(ch) >= 19)
+        free_hands--;
+      else
+        free_hands -= 2;
     else
       free_hands--;
   }
