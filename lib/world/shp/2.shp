@@ -1,0 +1,238 @@
+CircleMUD v3.0 Shop File~
+#201~
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+-1
+2.00
+1.00
+-1
+%s Sorry, I do not sell that sort of thing.~
+%s You want to sell me what?~
+%s Now, why on Krynn would I want something like that?!~
+%s Your price is too high for my taste.~
+%s This is not a charity wagon, come back again when you can afford it.~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+201
+0
+201
+-1
+0
+28
+0
+0
+1
+38
+#202~
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+-1
+2.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+202
+0
+202
+-1
+0
+28
+0
+0
+1
+38
+#203~
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+-1
+2.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+203
+0
+203
+-1
+0
+28
+0
+0
+1
+38
+#204~
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+-1
+2.00
+1.00
+-1
+%s Sorry, I do not sell that sort of thing.~
+%s You don't seem to have that.~
+%s Sorry love, I am not interested in that sort of thing.~
+%s I am unable to buy at that high of price.~
+%s Hate to say, but you are shy a few coins.~
+%s For that cloak, it will be %s. Keep warm now.~
+%s I'll give you %s for that.~
+0
+2
+204
+0
+204
+-1
+0
+28
+0
+0
+1
+38
+#205~
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+-1
+2.50
+1.00
+11
+-1
+%s What part of "I only sell hoods", don't you understand?~
+%s They call me crazy, but clearly you are if you think you have that to sell.~
+%s You think I want that sort of junk?!~
+%s Oh look, its my dinner time.~
+%s You think this is a charity? Come back when you have the right coinage.~
+%s Huh... oh oh, give me %s and we will call it good.~
+%s Breaking my back will you, gah.. I'll give you %s for that.~
+0
+0
+205
+0
+205
+-1
+0
+28
+0
+0
+1
+38
+#206~
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+-1
+2.00
+1.00
+11
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+206
+0
+206
+-1
+0
+28
+0
+0
+1
+38
+$~

@@ -33,7 +33,7 @@ to the west of you, the wall is an average of ten feet tall, with notched
 ramparts on the outer face of the wall.  Guards roam along the top of the wall,
 watching over the city and protecting it from a surprise attack.    
 ~
-100 8192 1 0 0
+100 0 1 0 0
 D0
 ~
 ~
@@ -2178,15 +2178,15 @@ D0
 ~
 0 0 10089
 E
+picture kender striking~
+The caption below the picture reads, 'Watch out for Trouble!'
+~
+E
 plaque history~
    The city of Kalaman is considered to be the northeastern jewel of Solamnia.
 Our lovely port town is nestled between Nordmaar and the Estwilde, and on the
 mouth of the Vingaard river.  Our vast trade sea trade rivals all the other
 port cities of Ansalon.    
-~
-E
-picture kender striking~
-The caption below the picture reads, 'Watch out for Trouble!'
 ~
 S
 #10098
