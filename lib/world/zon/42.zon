@@ -1,8 +1,9 @@
 #42
 Tomb of Fa-ranal~
-4299 60 2
-* ZoneState 1 unowned 000000000000000
+4299 15 2
+* ZoneState 3 unowned 000000000000000
 D 0 4200 5 1 	(A Small Clearing)
+M 0 4212 12 4213 	(a horax)
 M 0 4211 8 4277 	(a gholor)
 M 0 4211 8 4279 	(a gholor)
 M 0 4210 8 4271 	(a stahnk)
@@ -13,7 +14,6 @@ E 1 4215 1 3 	(&Ya yellow, skull-shaped amulet hanging on a flawless golden chai
 D 0 4253 6 1 	(A Dirt Path)
 M 0 4214 1 4244 	(a fireshadow)
 G 1 4219 10 -1 	(&Wa well crafted ivory whistle&n)
-M 0 4212 12 4213 	(a horax)
 D 0 4204 5 1 	(Altar Ruins)
 M 0 4212 12 4204 	(a horax)
 M 0 4205 6 4283 	(a dreamshadow)

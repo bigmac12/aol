@@ -1,7 +1,8 @@
 #71
 Roads (kal-thor, extras)~
 7199 30 2
-* ZoneState 4 -NONE- 000000000000000
+* ZoneState 1 unowned 000000000000000
+O 0 4 6 7124 	(a merchant vendor sign)
 M 0 7107 1 7107 	(a traveling bard)
 E 1 7107 5 6 	(&ga checkered jester's cap of &Ggreen&g and &Ygold&n)
 M 0 7117 1 7117 	(an errant Knight of the Crown)
@@ -18,7 +19,7 @@ P 1 7102 100 7100 	(a few unripe wildberries)
 P 1 7101 10000 7100 	(a handful of wildberries)
 P 1 7101 10000 7100 	(a handful of wildberries)
 M 0 7102 1 7162 	(a priestess of Mishakal)
-E 1 7105 10 12 	(&Ca set of sky blue clerical robes&n)
+E 1 7105 10 12 	(&Ca set of sky-blue clerical robes with billowing sleeves&n )
 M 0 7199 2 7120 	(a wild black wolf)
 M 0 7100 4 7120 	(a lumberjack)
 M 0 7199 2 7130 	(a wild black wolf)
