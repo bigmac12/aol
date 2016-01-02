@@ -1,13 +1,14 @@
 #73
 Roads (is-kar)~
 7399 30 2
-* ZoneState 4 -NONE- 000000000000000
+* ZoneState 1 unowned 000000000000000
+O 0 4 6 7398 	(a merchant vendor sign)
 M 0 7306 1 7302 	(a female crusader)
 E 1 7306 3 4 	(a thin silver chain bearing a purity seal)
 R 0 7305 7302 -1 	(a thin, fast flowing river)
 O 0 7302 1 7305 	(a thin, fast flowing river)
 M 0 7320 1 7320 	(a large minotaur with ivory horns)
-E 1 7320 2 7 	(a skirt of Kothian studded leather)
+E 1 7320 2 7 	(&ya thick skirt of Kothian studded leather&n)
 O 0 7301 4 7306 	(a weathered road sign)
 M 0 7302 1 7306 	(an enthusiastic young kender girl)
 E 1 7303 6 16 	(a battak ornamanted with dozens of bells and chimes)
