@@ -482,7 +482,7 @@ ACMD(do_bash)
     {
       vict = FIGHTING(ch);
     } else {
-      send_to_char("Bash who?\r\n", ch);
+      send_to_char("Bash whom?\r\n", ch);
       return;
     }
   }
@@ -680,13 +680,13 @@ ACMD(do_kick)
     if (FIGHTING(ch)) {
       vict = FIGHTING(ch);
     } else {
-      send_to_char("Kick who?\r\n", ch);
+      send_to_char("Kick whom?\r\n", ch);
       return;
     }
 
   } else {
     if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM))) {
-      send_to_char("Kick who?\r\n", ch);
+      send_to_char("Kick whom?\r\n", ch);
       return;
     }
   }
