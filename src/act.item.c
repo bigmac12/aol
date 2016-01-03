@@ -1953,12 +1953,11 @@ if  (where == WEAR_WAIST_1) {
 
 
 /*  Check for two-handers before checking to see if something's wielded.  */
-  if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
-      (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
-    send_to_char("You need both hands to wield this.\r\n", ch);
-    return;
-  }
-
+//  if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
+//      (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
+//    send_to_char("You need both hands to wield this.\r\n", ch);
+//    return;
+//  }
 
   if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
           (GET_RACE(ch) == RACE_MINOTAUR) && GET_STR(ch) >= 19) {
