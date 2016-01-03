@@ -355,7 +355,7 @@ the day.  Small animals can be seen and heard chattering in the undergrowth,
 darting from place to place.  There is no shortage of entertainment on this
 road, which seems to continue forever.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D0
 ~
 ~
@@ -375,7 +375,7 @@ by the hands of mortals.  The road itself is still pitted and deeply rutted in
 places, but is nevertheless more than passable.  Overhead, in the places you
 can see the sky, birds fly about lazily.    
 ~
-73 32772 2 0 0
+73 4 2 0 0
 D0
 ~
 ~
@@ -399,7 +399,7 @@ by the hands of mortals.  The road itself is still pitted and deeply rutted in
 places, but is nevertheless more than passable.  Overhead, in the places you
 can see the sky, birds fly about lazily.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D2
 ~
 ~
@@ -419,7 +419,7 @@ by the hands of mortals.  The road itself is still pitted and deeply rutted in
 places, but is nevertheless more than passable.  Overhead, in the places you
 can see the sky, birds fly about lazily.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D0
 ~
 ~
@@ -438,7 +438,7 @@ someone.  However, you detect no signs of people or dwellings anywhere near
 you.  Fortunately travel is somewhat easier here as the forest streches out for
 miles on all sides.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D2
 ~
 ~
@@ -457,7 +457,7 @@ someone.  However, you detect no signs of people or dwellings anywhere near
 you.  Fortunately travel is somewhat easier here as the forest streches out for
 miles on all sides.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D0
 ~
 ~
@@ -477,7 +477,7 @@ by the hands of mortals.  The road itself is still pitted and deeply rutted in
 places, but is nevertheless more than passable.  Overhead, in the places you
 can see the sky, birds fly about lazily.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D2
 ~
 ~
@@ -1926,6 +1926,10 @@ hills rise up into a mountain range whose peaks are enshrouded in clouds.
 Several large marker stones line the edges of this wide road.    
 ~
 73 0 2 0 0
+D0
+~
+~
+0 0 204
 D2
 ~
 ~

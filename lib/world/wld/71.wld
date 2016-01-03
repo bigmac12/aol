@@ -496,6 +496,10 @@ highway provide shades for travellers who stop occasionally due to the
 strenuously long journey between the two cities.
 ~
 71 32768 3 0 0
+D0
+~
+~
+0 0 202
 D1
 ~
 ~
@@ -1170,15 +1174,15 @@ D2
 ~
 0 0 7156
 E
-granite boulder~
-   This huge stone has blackened rough surface, with strange ancient characters
-engraved on it.    
-~
-E
 tree strange twisted~
    This tree grows in a peculiar way.  Its bark seems to be wider at different
 parts, while the branches are very orderly spread out, as if trimmed by an
 invisible hand.    
+~
+E
+granite boulder~
+   This huge stone has blackened rough surface, with strange ancient characters
+engraved on it.    
 ~
 S
 #7158
@@ -1791,13 +1795,13 @@ D9
 ~
 0 0 7191
 E
-old wooden chair~
-   Made from some old wood, it gently rocks back and forth in the breeze.    
-~
-E
 roof ~
    Rotting and full of holes, it looks like it could collapse at any moment.  
 
+~
+E
+old wooden chair~
+   Made from some old wood, it gently rocks back and forth in the breeze.    
 ~
 S
 #7191
