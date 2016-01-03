@@ -1954,26 +1954,27 @@ if  (where == WEAR_WAIST_1) {
 
 /*  Check for two-handers before checking to see if something's wielded.  */
 //  if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
-//      (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
+//          (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
 //    send_to_char("You need both hands to wield this.\r\n", ch);
 //    return;
 //  }
 
-  if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
-          (GET_RACE(ch) == RACE_MINOTAUR) && GET_STR(ch) >= 19) {
-    wear_message(ch, obj, where);
-    obj_from_char(obj);
-    equip_char(ch, obj, where);
-    wear_spells(ch, obj);
-    return;
-  }
-  else if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
-      (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
-    send_to_char("You need both hands to wield this.\r\n", ch);
-    return;
+  if (GET_RACE(ch) == RACE_MINOTAUR) {
+    if (GET_STR(ch) >= 19) {
+      wear_message(ch, obj, where);
+      obj_from_char(obj);
+      equip_char(ch, obj, where);
+      wear_spells(ch, obj);
+      return;
+    } else {
+      send_to_char("You are too weak to wield this weapon with one hand.\r\n", ch);
+    }
   } else {
-    send_to_char("You need both hands to wield this.\r\n", ch);
-    return;
+    if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
+              (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
+        send_to_char("You need both hands to wield this.\r\n", ch);
+        return;
+    }
   }
 
   if (GET_EQ(ch, where)) {
@@ -1983,6 +1984,7 @@ if  (where == WEAR_WAIST_1) {
 
 
   /*  Let's not let people have three hands.  Soli, 8/12/99  */
+
   if (((where == WEAR_HOLD) || (where == WEAR_SHIELD) || (where == WEAR_WIELD)) && hands_full(ch)) {
     send_to_char("But your hands are full!\r\n", ch);
     return;
