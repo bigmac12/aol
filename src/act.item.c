@@ -1968,6 +1968,7 @@ if  (where == WEAR_WAIST_1) {
       return;
     } else {
       send_to_char("You are too weak to wield this weapon with one hand.\r\n", ch);
+      return;
     }
   } else {
     if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
