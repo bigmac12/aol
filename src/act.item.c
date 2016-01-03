@@ -63,8 +63,7 @@ int not_restricted(struct char_data * ch, struct obj_data * obj)
   return 1;
 }
 
-void perform_put(struct char_data * ch, struct obj_data * obj,
-                      struct obj_data * cont)
+void perform_put(struct char_data * ch, struct obj_data * obj, struct obj_data * cont)
 {
   if (!drop_otrigger(obj, ch))
     return;
@@ -1955,9 +1954,25 @@ if  (where == WEAR_WAIST_1) {
 
 /*  Check for two-handers before checking to see if something's wielded.  */
   if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
-       (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) ||
-        GET_EQ(ch, WEAR_SHIELD)))
-  {
+      (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
+    send_to_char("You need both hands to wield this.\r\n", ch);
+    return;
+  }
+
+
+  if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
+          (GET_RACE(ch) == RACE_MINOTAUR) && GET_STR(ch) >= 19) {
+    wear_message(ch, obj, where);
+    obj_from_char(obj);
+    equip_char(ch, obj, where);
+    wear_spells(ch, obj);
+    return;
+  }
+  else if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
+      (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
+    send_to_char("You need both hands to wield this.\r\n", ch);
+    return;
+  } else {
     send_to_char("You need both hands to wield this.\r\n", ch);
     return;
   }
@@ -1969,10 +1984,7 @@ if  (where == WEAR_WAIST_1) {
 
 
   /*  Let's not let people have three hands.  Soli, 8/12/99  */
-
-  if (((where == WEAR_HOLD) || (where == WEAR_SHIELD) || (where == WEAR_WIELD))
-       && hands_full(ch))
-  {
+  if (((where == WEAR_HOLD) || (where == WEAR_SHIELD) || (where == WEAR_WIELD)) && hands_full(ch)) {
     send_to_char("But your hands are full!\r\n", ch);
     return;
   }
