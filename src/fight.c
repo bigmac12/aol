@@ -1283,8 +1283,13 @@ void damage(struct char_data * ch, struct char_data * victim, int dam,
     if (!IS_NPC(victim)) {
       GET_NAME(ch, chname);
       GET_NAME(victim, victname);
-      sprintf(buf2, "%s killed by %s at %s", victname, chname,
-	      world[victim->in_room].name);
+      sprintf(buf2, "%s (%d) killed by %s (%d) at %s (%d)",
+              victname,
+              GET_LEVEL(victim),
+              chname,
+              GET_LEVEL(ch),
+              world[victim->in_room].name,
+              world[victim->in_room].number);
       FREE_NAME(victname);
       FREE_NAME(chname);
       mudlog(buf2, BRF, LVL_IMMORT, TRUE);
