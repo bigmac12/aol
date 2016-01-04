@@ -1980,25 +1980,6 @@ if  (where == WEAR_WAIST_1) {
     }
   }
 
-//  if (GET_RACE(ch) == RACE_MINOTAUR && where == WEAR_WIELD) {
-//    if (GET_STR(ch) >= 19 && not_restricted(ch, obj)) {
-//      wear_message(ch, obj, where);
-//      obj_from_char(obj);
-//      equip_char(ch, obj, where);
-//      wear_spells(ch, obj);
-//      return;
-//    } else {
-//      send_to_char("You are too weak to wield this weapon with one hand.\r\n", ch);
-//      return;
-//    }
-//  } else {
-//    if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
-//              (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
-//        send_to_char("You need both hands to wield this.\r\n", ch);
-//        return;
-//    }
-//  }
-
   if (GET_EQ(ch, where)) {
     send_to_char(already_wearing[where], ch);
     return;
