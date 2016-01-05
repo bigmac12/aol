@@ -1,7 +1,9 @@
 #17
 Vingaard Keep II~
-1799 60 2
+1799 15 2
 * ZoneState 1 unowned 000000000000000
+D 0 1717 2 1 	(A Large Hallway)
+D 0 1717 0 1 	(A Large Hallway)
 M 0 1761 3 1761 	(a large, heavy iron chest)
 M 0 1761 3 1763 	(a large, heavy iron chest)
 M 0 1761 3 1765 	(a large, heavy iron chest)
@@ -112,8 +114,6 @@ D 0 1722 3 1 	(The Officers' Mess)
 D 0 1724 0 1 	(The Officers' Barracks)
 D 0 1723 2 1 	(The Officers' Barracks)
 D 0 1719 0 1 	(The Officers' Barracks)
-D 0 1717 2 1 	(A Large Hallway)
-D 0 1717 0 1 	(A Large Hallway)
 D 0 1799 0 1 	(A Godroom with an Eviction Notice)
 S
 $
