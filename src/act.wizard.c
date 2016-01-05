@@ -453,7 +453,8 @@ ACMD(do_vwear)
   static const char *keywords[] =
     { "take", "finger", "neck", "body", "head", "legs", "feet", "hands",
       "arms", "shield", "about", "waist", "wrist", "wielded", "hold",
-      "face", "ear", "ankle", "above", "back", "shoulder", "nose", "sheath", "sheathed", "onbelt", "onback", "" };
+      "face", "ear", "ankle", "above", "back", "shoulder", "nose", "sheath",
+      "sheathed", "onbelt", "onback", "" };
   int eq_pos = -1;
 
   one_argument(argument, arg);
@@ -3561,8 +3562,6 @@ ACMD(do_gdig)
 }
 
 
-
-
 ACMD(do_copyto)
 {
   /* Only works if you have Oasis OLC */
@@ -3864,8 +3863,7 @@ ACMD(do_approve)
 
       GET_NAME(ch, chname);
       GET_NAME(victim, victname);
-      sprintf(buf, "%s (lev %d) rejected by %s because: %s.",
-	      victname, GET_LEVEL(victim), chname, argument);
+      sprintf(buf, "%s (lev %d) rejected by %s because: %s.", victname, GET_LEVEL(victim), chname, argument);
       FREE_NAME(victname);
       FREE_NAME(chname);
       mudlog(buf, NRM, LVL_IMMORT, TRUE);
@@ -4201,9 +4199,7 @@ ACMD(do_copyover)
  exit (1); /* too much trouble to try to recover! */
 }
 
-ACMD(do_reimburse)
-{
-
+ACMD(do_reimburse) {
   struct char_data *vict;
   int i = 0;
 
@@ -4214,7 +4210,7 @@ ACMD(do_reimburse)
     return;
   }
 
-  if ( ! (vict = get_char_vis(ch, argument, FIND_CHAR_WORLD))) {
+  if (!(vict = get_char_vis(ch, argument, FIND_CHAR_WORLD))) {
     send_to_char(NOPERSON, ch);
     return;
   }
@@ -4234,3 +4230,30 @@ ACMD(do_reimburse)
   FREE_NAME(chname);
   
 }
+
+
+ACMD(do_award) {
+  struct char_data *vict;
+  char name[MAX_INPUT_LENGTH];
+  int xp_to_award = 0;
+
+//  skip_spaces(&argument);
+
+  if (!*argument) {
+    send_to_char("To whom do you want to award experience?\r\n", ch);
+  }
+
+  half_chop(argument, name, buf);
+  half_chop(argument, xp_to_award, buf);
+
+  GET_NAME(ch, chname);
+  GET_NAME(vict, victname);
+  //sprintf(buf, "%s awards %d experience to %s (%d)", chname, victname);
+  sprintf(buf, "%s - %d (xp) - %s", chname, xp_to_award, victname);
+  FREE_NAME(victname);
+  FREE_NAME(chname);
+
+  mudlog(buf, NRM, LVL_IMMORT, TRUE);
+}
+
+

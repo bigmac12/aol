@@ -244,6 +244,7 @@ ACMD(do_reveal);
 ACMD(do_release);
 ACMD(do_reel);
 ACMD(do_reimburse);
+ACMD(do_award);
 ACMD(do_relax);
 ACMD(do_remove);
 ACMD(do_remove_poison);
@@ -663,6 +664,7 @@ const struct command_info cmd_info[] = {
   { "reply"    , "r",       POS_SLEEPING, do_reply    , 0, 0 },
   { "reel"     , "reel",    POS_SITTING,  do_reel     , 0, 0 },
   { "reimburse", "reim",    POS_DEAD    , do_reimburse, LVL_GRGOD, 0 },
+  { "award"    , "award",   POS_DEAD    , do_award    , LVL_IMPL, 0 },
   { "relax"    , "relax",   POS_DEAD,     do_relax    , 1, 0 },
   { "raise"    , "raise",   POS_RESTING , do_action   , 1, 0 },
   { "rest"     , "rest",    POS_RESTING , do_rest     , 0, 0 },
@@ -1202,8 +1204,7 @@ int search_block(char *arg, const char **list, int exact)
 	return (i);
   } else {
     if (!l)
-      l = 1;			/* Avoid "" to match the first available
-				 * string */
+      l = 1;			/* Avoid "" to match the first available string */
     for (i = 0; **(list + i) != '\n'; i++)
       if (!strncmp(arg, *(list + i), l))
 	return (i);
