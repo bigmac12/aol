@@ -10,6 +10,7 @@ Buzzing madly, the mite drifts in a flurry, dispelling magic all about it.
 0 25 0
 8 8 0 0
 BareHandAttack: 1
+Maxmove: 50
 E
 #901
 mite large~
@@ -22,6 +23,7 @@ The mite quickly darts to you and attacks.
 8 15 8 5d5+110 2d6+2
 0 800 0
 8 8 0 0
+Maxmove: 50
 E
 #902
 mite gargantuan proportions~
@@ -35,6 +37,7 @@ It is amazing to see such a massive beast.
 0 6625 0
 8 8 0 0
 BareHandAttack: 9
+Maxmove: 50
 E
 #903
 mite shadowy~
@@ -47,6 +50,7 @@ Nothing but a dark patch in reality...
 10 16 9 3d5+85 2d6+1
 0 400 1
 8 8 0 0
+Maxmove: 50
 E
 #904
 mass flesh writhing~
@@ -59,6 +63,7 @@ It looks unfinished.
 22 7 -6 3d33+550 3d8+7
 0 40000 1
 8 8 0 0
+Maxmove: 50
 E
 #905
 slim intense fidgety young~
@@ -74,5 +79,6 @@ at first glance, but there is something foreboding about him.
 30 5 -5 30d50+150 15d10+15
 0 0 1
 8 8 1 0
+Maxmove: 50
 E
 $
