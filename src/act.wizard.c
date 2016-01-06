@@ -2894,8 +2894,7 @@ ACMD(do_gshow)
   };
 
 
-int perform_set(struct char_data *ch, struct char_data *vict, int mode,
-		char *val_arg)
+int perform_set(struct char_data *ch, struct char_data *vict, int mode, char *val_arg)
 {
   int i, on = 0, off = 0, value = 0, changed = 0;
   char output[MAX_STRING_LENGTH], output2[MAX_STRING_LENGTH];
@@ -3759,7 +3758,6 @@ ACMD(do_olist)
 }
 
 
-
 /*
  *  PDH  1/15/99
  *  for new character approval/rejection
@@ -4091,6 +4089,7 @@ ACMD(do_pedit)
   }
 }
 
+
 ACMD(do_quest)
 {
   struct char_data *vict;
@@ -4129,6 +4128,7 @@ ACMD(do_quest)
   act("$N now is part of your quest.", FALSE, ch, 0, vict, TO_CHAR);
   act("You are now part of $n's quest.", TRUE, ch, 0, vict, TO_VICT);
 }
+
 
 /* (c) 1996-97 Erwin S. Andreasen <erwin@pip.dknet.dk> */
 ACMD(do_copyover)
@@ -4199,6 +4199,7 @@ ACMD(do_copyover)
  exit (1); /* too much trouble to try to recover! */
 }
 
+
 ACMD(do_reimburse) {
   struct char_data *vict;
   int i = 0;
@@ -4234,26 +4235,60 @@ ACMD(do_reimburse) {
 
 ACMD(do_award) {
   struct char_data *vict;
-  char name[MAX_INPUT_LENGTH];
-  int xp_to_award = 0;
+  char name[100], buf[100], buf2[100];
+  int percent_to_award = 0, xp_to_award = 0;
+  int XP_AWARD_CAP = 25;  // If you change this, change the error message below.
 
-//  skip_spaces(&argument);
+  argument = one_argument(argument, name);
 
-  if (!*argument) {
+  if (!*name) {
     send_to_char("To whom do you want to award experience?\r\n", ch);
+    return;
   }
 
-  half_chop(argument, name, buf);
-  half_chop(argument, xp_to_award, buf);
+  if (!(vict = get_char_vis(ch, name, FIND_CHAR_WORLD))) {
+    send_to_char(NOPERSON, ch);
+    return;
+  }
 
-  GET_NAME(ch, chname);
-  GET_NAME(vict, victname);
-  //sprintf(buf, "%s awards %d experience to %s (%d)", chname, victname);
-  sprintf(buf, "%s - %d (xp) - %s", chname, xp_to_award, victname);
-  FREE_NAME(victname);
-  FREE_NAME(chname);
+  skip_spaces(&argument);
 
-  mudlog(buf, NRM, LVL_IMMORT, TRUE);
+  if (!*argument) {
+    send_to_char("What percentage of experience would you like to award?\r\n", ch);
+    return;
+  }
+
+  argument = one_argument(argument, buf);
+
+  percent_to_award = atoi(buf);
+
+  if (percent_to_award > XP_AWARD_CAP) {
+    send_to_char("You may only award up to 25% experience at a time.\r\n", ch);
+    return;
+  }
+
+  if (GET_LEVEL(vict) >= LVL_IMMORT) {
+    send_to_char("You cannot award experience to immortals.\r\n", ch);
+    return;
+  } else if (GET_LEVEL(vict) == 30) {
+    send_to_char("That character is already at maximum level.\r\n", ch);
+    return;
+  } else {
+    int bonus_multiplier = GET_RPFACTOR(vict)/100;
+    int level_bottom_xp = level_exp(GET_CLASS(vict), GET_LEVEL(vict));
+    int level_top_xp = level_exp(GET_CLASS(vict), GET_LEVEL(vict) + 1);
+
+    xp_to_award = (level_top_xp - level_bottom_xp) * percent_to_award/100 * bonus_multiplier;
+    GET_EXP(vict) += xp_to_award;
+
+    GET_NAME(ch, chname);
+    GET_NAME(vict, victname);
+    sprintf(buf2, "%s has awarded %s (%d) %d experience.", chname, victname, GET_LEVEL(vict), xp_to_award);
+    FREE_NAME(victname);
+    FREE_NAME(chname);
+
+    mudlog(buf2, NRM, LVL_IMMORT, TRUE);
+  }
 }
 
 
