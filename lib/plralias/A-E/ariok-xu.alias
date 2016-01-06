@@ -1,3 +1,8 @@
+1
+1
+15
+assist guardian
+0
 3
 ush
 23
@@ -9,25 +14,10 @@ sh
 sheath sword scabbard
 0
 2
-fs
-12
-fill skin $*
-1
-2
-rr
-9
-rescue $*
-1
-2
 wp
 9
 wear pack
 0
-1
-b
-7
-bash $*
-1
 2
 sc
 11
