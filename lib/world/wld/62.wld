@@ -311,6 +311,19 @@ D3
 ~
 0 0 6216
 E
+curtain purple velvet~
+   Behind the curtain is an oval doorway standing on a golden dais.  It is
+surrounded by the dragon heads of Takhisis, the Queen of Darkness.  The heads
+appear to be nothing more than plain gold metal, yet the eyes look as though
+they see all.    
+~
+E
+floor circle powdery~
+   A powdery substance, which on close inspection appears to be sea salts, has
+been used to form the outline of a circle on the floor.  In the center of the
+circle, a single symbol has carved into the floor.    
+~
+E
 symbol single~
 
            o
@@ -326,19 +339,6 @@ symbol single~
       __+_|^|_+__
 
 
-~
-E
-floor circle powdery~
-   A powdery substance, which on close inspection appears to be sea salts, has
-been used to form the outline of a circle on the floor.  In the center of the
-circle, a single symbol has carved into the floor.    
-~
-E
-curtain purple velvet~
-   Behind the curtain is an oval doorway standing on a golden dais.  It is
-surrounded by the dragon heads of Takhisis, the Queen of Darkness.  The heads
-appear to be nothing more than plain gold metal, yet the eyes look as though
-they see all.    
 ~
 S
 T 11002
@@ -1499,7 +1499,7 @@ slab stone massive~
 1 6280 6269
 S
 #6281
-The Tower Shop~
+The Mage Shop~
    This shop supplies the magic users with many of their needs.  The shelves
 are filled with strange and wondrous items from all over the face of Krynn.  
 Beakers, bubbling over with strange and noxious liquids, are scattered across
@@ -1509,10 +1509,10 @@ filled with several different plants.  From their pungent aroma, it would seem
 that at least the majority of the plantings are herbs.    
 ~
 62 12 0 0 0
-D1
+D2
 ~
 ~
-0 0 6198
+0 0 10199
 S
 T 6200
 T 6201

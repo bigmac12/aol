@@ -1961,7 +1961,7 @@ if  (where == WEAR_WAIST_1) {
 
   if (where == WEAR_WIELD) {
     if (GET_RACE(ch) == RACE_MINOTAUR) {
-      if (GET_STR(ch) >= 19 && not_restricted(ch, obj)) {
+      if (GET_STR(ch) >= 19 && not_restricted(ch, obj) && !GET_EQ(ch, where)) {
         wear_message(ch, obj, where);
         obj_from_char(obj);
         equip_char(ch, obj, where);
