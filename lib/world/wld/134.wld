@@ -68,7 +68,7 @@ in this village.  Traders set up their stalls along the side of the street,
 shouting on top of their voices to attract the attention of the people.  Most
 of them seem to be farmers, selling a variety of vegetables and fruits.    
 ~
-134 40960 1 0 0
+134 32768 1 0 0
 D0
 ~
 ~
@@ -289,7 +289,7 @@ street to sell their harvest and goods to outsiders and nearby villagers.  You
 can hear the constant haggling and bargaining of price by the villagers for a
 fair trade.    
 ~
-134 40960 1 0 0
+134 32768 1 0 0
 D0
 ~
 ~
@@ -315,7 +315,7 @@ street to sell their harvest and goods to outsiders and nearby villagers.  You
 can hear the constant haggling and bargaining of price by the villagers for a
 fair trade.  To the west is the village square.    
 ~
-134 40960 1 0 0
+134 32768 1 0 0
 D0
 ~
 ~
@@ -341,7 +341,7 @@ street to sell their harvest and goods to outsiders and nearby villagers.  You
 can hear the constant haggling and bargaining of price by the villagers for a
 fair trade.    
 ~
-134 40960 1 0 0
+134 32768 1 0 0
 D0
 ~
 ~
@@ -1887,19 +1887,19 @@ D8
 ~
 0 0 -1
 E
-tome~
-   The large leather-bound tome remains closed despite your best efforts at
-trying to open it.  The owner only knows the secrets that lie within the book.
-The cover reveals nothing of what is inside nor does it offer a clue as to who
-the owner is.    
-~
-E
 skeleton manticore~
    The skeleton is a fine specimen of the fearsome creatures known as
 manticores.  It measures a little over ten feet long, possessing a human like
 skull and a tail that ends in a mass of bone spikes.  It stands on four legs
 and possesses large bat like wings.  The skeleton seems to be rather new, as
 the bones haven't been allowed to yellow yet.    
+~
+E
+tome~
+   The large leather-bound tome remains closed despite your best efforts at
+trying to open it.  The owner only knows the secrets that lie within the book.
+The cover reveals nothing of what is inside nor does it offer a clue as to who
+the owner is.    
 ~
 S
 #13493
