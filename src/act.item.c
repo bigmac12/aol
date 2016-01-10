@@ -63,8 +63,7 @@ int not_restricted(struct char_data * ch, struct obj_data * obj)
   return 1;
 }
 
-void perform_put(struct char_data * ch, struct obj_data * obj,
-                      struct obj_data * cont)
+void perform_put(struct char_data * ch, struct obj_data * obj, struct obj_data * cont)
 {
   if (!drop_otrigger(obj, ch))
     return;
@@ -1550,7 +1549,10 @@ int hands_full(struct char_data * ch) {
   if (GET_EQ(ch, WEAR_WIELD))
   {
     if (IS_OBJ_STAT(GET_EQ(ch, WEAR_WIELD), ITEM_TWO_HANDED))
-      free_hands -= 2;
+      if (GET_RACE(ch) == RACE_MINOTAUR && GET_STR(ch) >= 19)
+        free_hands--;
+      else
+        free_hands -= 2;
     else
       free_hands--;
   }
@@ -1951,12 +1953,31 @@ if  (where == WEAR_WAIST_1) {
 
 
 /*  Check for two-handers before checking to see if something's wielded.  */
-  if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
-       (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) ||
-        GET_EQ(ch, WEAR_SHIELD)))
-  {
-    send_to_char("You need both hands to wield this.\r\n", ch);
-    return;
+//  if ((where == WEAR_WIELD) && (IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
+//          (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
+//    send_to_char("You need both hands to wield this.\r\n", ch);
+//    return;
+//  }
+
+  if (where == WEAR_WIELD) {
+    if (GET_RACE(ch) == RACE_MINOTAUR) {
+      if (GET_STR(ch) >= 19 && not_restricted(ch, obj) && !GET_EQ(ch, where)) {
+        wear_message(ch, obj, where);
+        obj_from_char(obj);
+        equip_char(ch, obj, where);
+        wear_spells(ch, obj);
+        return;
+      } else {
+        send_to_char("You are too weak to wield this weapon with one hand.\r\n", ch);
+        return;
+      }
+    } else {
+      if ((IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
+              (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
+        send_to_char("You need both hands to wield this.\r\n", ch);
+        return;
+      }
+    }
   }
 
   if (GET_EQ(ch, where)) {
@@ -1967,9 +1988,7 @@ if  (where == WEAR_WAIST_1) {
 
   /*  Let's not let people have three hands.  Soli, 8/12/99  */
 
-  if (((where == WEAR_HOLD) || (where == WEAR_SHIELD) || (where == WEAR_WIELD))
-       && hands_full(ch))
-  {
+  if (((where == WEAR_HOLD) || (where == WEAR_SHIELD) || (where == WEAR_WIELD)) && hands_full(ch)) {
     send_to_char("But your hands are full!\r\n", ch);
     return;
   }

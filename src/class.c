@@ -353,59 +353,72 @@ const int thaco[NUM_CLASSES][LVL_IMPL + 1] = {
   {100, 20, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, 11, /*0-15*/
         11, 10, 10,  9,  8,  7,  6,  5,  4,  3,  2,  1,  0,  0,  0, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* PALADIN */
   {100, 20, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 13, 12, /*0-15*/
         12, 11, 10,  9,  8,  7,  6,  5,  4,  3,  2,  1,  0,  0,  0, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* MAGE */
   {100, 20, 20, 19, 19, 19, 18, 18, 18, 17, 17, 16, 16, 15, 15, 14, /*0-15*/
         14, 14, 13, 13, 13, 13, 12, 12, 11, 11, 11, 11, 10, 10, 10, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* CLERIC */
   {100, 20, 19, 19, 18, 18, 17, 17, 17, 16, 15, 15, 14, 14, 13, 13, /*0-15*/
         12, 12, 11, 11, 10, 10,  9,  8,  7,  6,  6,  5,  5,  5,  4, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* RANGER */
-{100, 20, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, 11
-, /*0-15*/
-        11, 10, 10, 9,  8,  7,  6,  5,  4,  3,  2,  1,  0,  0,  0, /*16-30*/
+  {100, 20, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, 11, /*0-15*/
+        11, 10, 10, 9,  8,  7,  6,  5,  4,  3,  2,  1,  0,  0,  0,  /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* ROGUE */
   {100, 20, 19, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 13, /*0-15*/
         12, 11, 10, 10,  9,  8,  8,  7,  6,  5,  5,  4,  4,  3,  2, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* WARRIOR */
   {100, 20, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, 11, /*0-15*/
         11, 10, 10,  9,  9,  8,  8,  7,  6,  5,  4,  3,  2,  1,  0, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* ADVENTURER */
   {100, 20, 20, 19, 19, 19, 18, 18, 18, 17, 17, 16, 16, 15, 15, 14, /*0-15*/
         14, 14, 13, 13, 13, 13, 12, 12, 11, 11, 11, 11, 10, 10, 10, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* DRUID */
   {100, 20, 19, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, /*0-15*/
         11, 11, 10,  9,  9,  9,  8,  7,  7,  7,  6,  6,  5,  5,  4, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* MONK */
-  {100, 17, 16, 15, 14, 13, 12, 12, 11, 11, 10, 10, 9, 9, 8, 8, /*0-15*/
-        7, 7,  6,  6,  5,  5,  4,  3,  2,  1,  0,  0,  0,  0,  0, /*16-30*/
-         0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+  {100, 17, 16, 15, 14, 13, 12, 12, 11, 11, 10, 10, 9, 9, 8, 8,     /*0-15*/
+        7,   7,  6,  6,  5,  5,  4,  3,  2,  1,  0, 0, 0, 0, 0,     /*16-30*/
+        0,   0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* BARD */
   {100, 20, 19, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, /*0-15*/
         11, 11, 10,  9,  9,  9,  8,  7,  7,  7,  6,  6,  5,  5,  4, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* SORCEROR */
   {100, 20, 19, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, /*0-15*/
         11, 11, 10,  9,  9,  9,  8,  7,  7,  7,  6,  6,  5,  5,  4, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* DEFENDER */
   {100, 20, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, 11, /*0-15*/
         11, 10, 10,  9,  8,  7,  6,  5,  4,  3,  2,  1,  0,  0,  0, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* FILLER2 */
   {100, 20, 19, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, /*0-15*/
         11, 11, 10,  9,  9,  9,  8,  7,  7,  7,  6,  6,  5,  5,  4, /*16-30*/
          0,  0,  0,  0,  0,  0,  0,  0},                            /*31-38*/
+
 /* FILLER3 */
   {100, 20, 19, 19, 18, 18, 17, 17, 16, 16, 15, 15, 14, 14, 13, 12, /*0-15*/
         11, 11, 10,  9,  9,  9,  8,  7,  7,  7,  6,  6,  5,  5,  4, /*16-30*/
@@ -415,14 +428,12 @@ const int thaco[NUM_CLASSES][LVL_IMPL + 1] = {
 
 
 /* Some initializations for characters, including initial skills */
-void do_start(struct char_data * ch)
-{
+void do_start(struct char_data * ch) {
   struct obj_data * objNew, * objCont;
 
   void advance_level(struct char_data * ch);
   void obj_to_char(struct obj_data *object, struct char_data *ch);
   void equip_char(struct char_data *ch, struct obj_data *obj, int pos);
-
 
   //GET_LEVEL(ch) = 1;
   ch->player.level = 1;
@@ -431,7 +442,6 @@ void do_start(struct char_data * ch)
   set_title(ch, NULL);
   ch->points.max_hit = 10;
   race_affects(ch);
-
 
   objCont = read_object( 2496, VIRTUAL);                         /* backpack */
   objNew=read_object(1945,VIRTUAL);  obj_to_obj(objNew,objCont); /* bread    */
@@ -446,12 +456,9 @@ void do_start(struct char_data * ch)
   obj_to_char(read_object( 1905, VIRTUAL), ch);                  /* waterskin*/
   obj_to_char(read_object(10171, VIRTUAL), ch);                  /* torch    */
 
-  if(GET_HOME(ch) == 2)
-  {
+  if(GET_HOME(ch) == 2) {
     obj_to_char(read_object(5007, VIRTUAL), ch);                 /* Kar map  */ 
-  }
-  else
-  {
+  } else {
     obj_to_char(read_object(10000, VIRTUAL), ch);                /* Kal map  */
   }
 
@@ -460,7 +467,6 @@ void do_start(struct char_data * ch)
   equip_char(ch, read_object( 2489, VIRTUAL), WEAR_ABOUT);
 
   switch (GET_CLASS(ch)) {
-
   case CLASS_KNIGHT:
   case CLASS_PALADIN:
   case CLASS_RANGER:
@@ -944,6 +950,15 @@ void init_spell_levels(void)
   spell_level(SPELL_WATER_BREATHING, CLASS_PALADIN, 28, SPHERE_CLE_ELEMENTAL);
   spell_level(SPELL_FLAME_BLADE, CLASS_PALADIN, 30, SPHERE_CLE_ELEMENTAL);
 
+  spell_level(SKILL_SWORD_SHIELD_STYLE, CLASS_PALADIN, 10, 0);
+  spell_level(SKILL_ARMOR_MASTERY, CLASS_PALADIN, 13, 0);
+  spell_level(SKILL_ONE_WEAPON_STYLE, CLASS_PALADIN, 5, 0);
+  spell_level(SKILL_IMPROVED_ARMOR_MASTERY, CLASS_PALADIN, 19, 0);
+  spell_level(SKILL_IMPROVED_SHIELD_MASTERY, CLASS_PALADIN, 20, 0);
+  spell_level(SKILL_ADVANCED_ARMOR_MASTERY, CLASS_PALADIN, 24, 0);
+  spell_level(SKILL_ADVANCED_SHIELD_MASTERY, CLASS_PALADIN, 25, 0);;
+
+
  
  /* *** MAGES *** */
   spell_level(SKILL_READ_MAGIC, CLASS_MAGE, 1, 0);
@@ -1315,9 +1330,13 @@ void init_spell_levels(void)
   spell_level(SKILL_JAWSTRIKE, CLASS_WARRIOR, 17, 0);
   spell_level(SKILL_SECOND_ATTACK, CLASS_WARRIOR, 18, 0);
   spell_level(SKILL_SHIELD_MASTERY, CLASS_WARRIOR, 19, 0);
+  spell_level(SKILL_IMPROVED_ARMOR_MASTERY, CLASS_WARRIOR, 19, 0);
+  spell_level(SKILL_IMPROVED_SHIELD_MASTERY, CLASS_WARRIOR, 20, 0);
   spell_level(SKILL_TWO_WEAPON_STYLE, CLASS_WARRIOR, 20, 0);
 
   spell_level(SKILL_COMBAT_IMPROVISATION, CLASS_WARRIOR, 21, 0);
+  spell_level(SKILL_ADVANCED_ARMOR_MASTERY, CLASS_WARRIOR, 24, 0);
+  spell_level(SKILL_ADVANCED_SHIELD_MASTERY, CLASS_WARRIOR, 25, 0);;
   spell_level(SKILL_DODGE, CLASS_WARRIOR, 22, 0);
   spell_level(SKILL_THIRD_ATTACK, CLASS_WARRIOR, 26, 0);
 
