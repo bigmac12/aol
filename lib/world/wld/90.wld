@@ -1,7 +1,31 @@
 #9000
-The Beginning~
+Buildwalk~
 Not much here.
 ~
 90 8 0 0 0
+S
+#9001
+An unfinished room~
+You are in an unfinished room.
+~
+0 8 0 0 0
+D0
+~
+~
+0 0 9002
+D2
+~
+~
+0 0 9000
+S
+#9002
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D2
+~
+~
+0 0 9001
 S
 $~
