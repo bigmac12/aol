@@ -161,24 +161,24 @@ ACMD(do_olc)
     }
   } else if (!isdigit(*buf1)) {
     if (strn_cmp("save", buf1, 4) == 0) {
-      if (!*buf2) {
- 	if (GET_OLC_ZONE(ch)) {
- 	  save = 1;
- 	  number = (GET_OLC_ZONE(ch) * 100);
- 	} else {
- 	  send_to_char("Save which zone?\r\n", ch);
- 	  return;
- 	}
-      } else {
- 	save = 1;
- 	number = atoi(buf2) * 100;
-      }
+        if (!*buf2) {
+            if (GET_OLC_ZONE(ch)) {
+                save = 1;
+                number = (GET_OLC_ZONE(ch) * 100);
+            } else {
+                send_to_char("Save which zone?\r\n", ch);
+                return;
+            }
+        } else {
+            save = 1;
+            number = atoi(buf2) * 100;
+        }
     } else if (subcmd == SCMD_OLC_ZEDIT && GET_LEVEL(ch) >= LVL_IMPL) {
-      if ((strn_cmp("new", buf1, 3) == 0) && *buf2)
- 	zedit_new_zone(ch, atoi(buf2));
-      else
- 	send_to_char("Specify a new zone number.\r\n", ch);
-      return;
+        if ((strn_cmp("new", buf1, 3) == 0) && *buf2)
+            zedit_new_zone(ch, atoi(buf2));
+        else
+            send_to_char("Specify a new zone number.\r\n", ch);
+        return;
     } else {
       send_to_char("Yikes!  Stop that, someone will get hurt!\r\n", ch);
       return;
