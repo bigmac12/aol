@@ -16,16 +16,10 @@ D3
 ~
 0 0 6401
 E
-pathway path~
-   The stone pathway is in a terrible state of disrepair, with cracked and
-filthy cobblestones sunken into the earth.    
-
-~
-E
-stones cobblestones~
-   The stones are worn smooth around the edges and covered in grime and dirt.
-Looking closely, you can see that they are actually carved out of white marble,
-traced with faint veins of silver and gold.    
+hollow hollows~
+   This is an indentation in the earth, where a cobblestone was once placed to
+form a path.  The stone is now missing though, leaving only a gaping hole to
+mark where it was once laid.    
 ~
 E
 building ruins~
@@ -34,10 +28,16 @@ vague shadow that seems to resemble a structure of some sort.  Perhaps you
 should move closer to it for a better look.    
 ~
 E
-hollow hollows~
-   This is an indentation in the earth, where a cobblestone was once placed to
-form a path.  The stone is now missing though, leaving only a gaping hole to
-mark where it was once laid.    
+stones cobblestones~
+   The stones are worn smooth around the edges and covered in grime and dirt.
+Looking closely, you can see that they are actually carved out of white marble,
+traced with faint veins of silver and gold.    
+~
+E
+pathway path~
+   The stone pathway is in a terrible state of disrepair, with cracked and
+filthy cobblestones sunken into the earth.    
+
 ~
 S
 #6401
@@ -57,15 +57,15 @@ D3
 ~
 0 0 6402
 E
-pathway path~
-   The pathway is in a tragic state of disrepair, with many of its stones
-missing or broken.    
-~
-E
 cobblestones stones~
    These stones were once chiseled of pure white marble, with silver and gold
 veins running through their depths.  They are now cracked and chipped, and
 covered in layers of dirt.    
+~
+E
+pathway path~
+   The pathway is in a tragic state of disrepair, with many of its stones
+missing or broken.    
 ~
 S
 #6402
@@ -86,16 +86,16 @@ D3
 ~
 0 0 6403
 E
-mosaic pattern~
-   Looking closely, the darker tiles are shaped into what appears to be the
-outline of a giant, winged dragon, its wings outstretched to cover the entire
-span of the courtyard.    
-~
-E
 cobblestones stones~
    The stones are badly damaged and worn, many either broken or chipped.  They
 are in a series of colors, ranging from the purest white marble to a deeper
 silver in hue.  The stones are placed into a pattern of sorts.    
+~
+E
+mosaic pattern~
+   Looking closely, the darker tiles are shaped into what appears to be the
+outline of a giant, winged dragon, its wings outstretched to cover the entire
+span of the courtyard.    
 ~
 S
 #6403
@@ -118,9 +118,10 @@ D4
 ~
 0 0 6404
 E
-stones cobblestones~
-   The stones are stained a dark, muddy reddish brown color.  It seems vaguely
-familiar, but you can't quite remember why...    
+stairs stairway~
+   The stairs are chiseled from white marble, though most of them are cracked
+and worn.  They are covered in dust, and a thin trail of reddish liquid trails
+across their length.  Oddly enough, the trail seems fresh...    
 ~
 E
 rubble statue~
@@ -132,10 +133,9 @@ just below the eye, and the eye itself has a sadness chiseled into it that
 seems too perfect for any mortal to have crafted.    
 ~
 E
-stairs stairway~
-   The stairs are chiseled from white marble, though most of them are cracked
-and worn.  They are covered in dust, and a thin trail of reddish liquid trails
-across their length.  Oddly enough, the trail seems fresh...    
+stones cobblestones~
+   The stones are stained a dark, muddy reddish brown color.  It seems vaguely
+familiar, but you can't quite remember why...    
 ~
 S
 #6404
@@ -149,16 +149,19 @@ broken hinges, leading into the Temple's ruined and ransacked interior.
 64 4 0 0 0
 D3
 ~
-Temple Doors~
+doors~
 1 0 6405
 D5
 ~
 ~
 0 0 6403
 E
-stairs stairway~
-   The stairs lead down towards the courtyard.  A bright crimson streak runs
-down the stairs, forming a pool of liquid at the base of the stairs.    
+temple ruins~
+   This building is in a complete state of ruin and neglect.  Its doors are
+falling off, the stones are broken and shattered, and the entire structure is
+covered in dust and littered with debris.  A vaguely sweet, cloying scent
+drifts from the temple's interior, and while it's very familiar, you can't
+quite seem to place it...    
 ~
 E
 door doors doorway~
@@ -171,12 +174,9 @@ breast is singed and charred, as if a dagger had cut into the wood and burned
 it.    
 ~
 E
-temple ruins~
-   This building is in a complete state of ruin and neglect.  Its doors are
-falling off, the stones are broken and shattered, and the entire structure is
-covered in dust and littered with debris.  A vaguely sweet, cloying scent
-drifts from the temple's interior, and while it's very familiar, you can't
-quite seem to place it...    
+stairs stairway~
+   The stairs lead down towards the courtyard.  A bright crimson streak runs
+down the stairs, forming a pool of liquid at the base of the stairs.    
 ~
 S
 #6405
@@ -265,19 +265,13 @@ D2
 ~
 0 0 6406
 E
-rubble pile~
-   The pile of rubble is actually a series of tiny pieces and bits of broken
-marble, from the same material as the statue.  It looks as though the pile has
-been smashed repeatedly, probably by a large hammer or something else to pummel
-the stone this badly.  It was probably once the head of the statue on the wall.
-  
-~
-E
-runes rune hilt~
-   Leaning close to the part of the sword blade extending from the hilt, you
-pause a moment to translate the archaic runes.  Though the language is an older
-dialect of Common, you're fairly certain the runes read, "Evil Shall Perish
-Before the Mighty Sword of Justice and Righteousness".    
+statue figure~
+   The statue's right arm is outstretched, the fingers around its hand clasping
+at air.  It seems as though the statue once held the sword that is now lying in
+pieces upon the ground.  The head of the statue is completely missing, though
+the marble of the statue's neck is coated in a thick, dried rust-colored
+material that seems at odds with the rest of the white stone used in its
+construction.    
 ~
 E
 sword pieces ~
@@ -290,13 +284,19 @@ of the blade that meets the hilt, written in an older version of the Common
 language.    
 ~
 E
-statue figure~
-   The statue's right arm is outstretched, the fingers around its hand clasping
-at air.  It seems as though the statue once held the sword that is now lying in
-pieces upon the ground.  The head of the statue is completely missing, though
-the marble of the statue's neck is coated in a thick, dried rust-colored
-material that seems at odds with the rest of the white stone used in its
-construction.    
+runes rune hilt~
+   Leaning close to the part of the sword blade extending from the hilt, you
+pause a moment to translate the archaic runes.  Though the language is an older
+dialect of Common, you're fairly certain the runes read, "Evil Shall Perish
+Before the Mighty Sword of Justice and Righteousness".    
+~
+E
+rubble pile~
+   The pile of rubble is actually a series of tiny pieces and bits of broken
+marble, from the same material as the statue.  It looks as though the pile has
+been smashed repeatedly, probably by a large hammer or something else to pummel
+the stone this badly.  It was probably once the head of the statue on the wall.
+  
 ~
 S
 #6409
@@ -349,14 +349,10 @@ D0
 ~
 0 0 6409
 E
-statue figure~
-The statue is chiseled from white marble, with such detail and care in 
-its craftsmanship that it seems nearly alive - or rather, it would if 
-it was not for the numerous scorch marks reaching from the base of the 
-statue's feet all the way up its length to its head.  A pile of charred 
-and burned cinders at the base of the statue are probably all that 
-remains of some wooden timbers, and the statue's mouth is open in what 
-looks to be a silent scream of pain and agony.
+rune~
+   The rune is traced in blood upon the statue of this figure.  You'd have to
+check with a historian to be positive, but it resembles the symbol of Hiddukel,
+the Prince of Lies.    
 ~
 E
 lamp lantern glass~
@@ -367,10 +363,14 @@ that hangs so heavily probably comes from a pool of red liquid at the
 lamp's base.
 ~
 E
-rune~
-   The rune is traced in blood upon the statue of this figure.  You'd have to
-check with a historian to be positive, but it resembles the symbol of Hiddukel,
-the Prince of Lies.    
+statue figure~
+The statue is chiseled from white marble, with such detail and care in 
+its craftsmanship that it seems nearly alive - or rather, it would if 
+it was not for the numerous scorch marks reaching from the base of the 
+statue's feet all the way up its length to its head.  A pile of charred 
+and burned cinders at the base of the statue are probably all that 
+remains of some wooden timbers, and the statue's mouth is open in what 
+looks to be a silent scream of pain and agony.
 ~
 S
 #6411
@@ -388,11 +388,12 @@ D2
 ~
 0 0 6409
 E
-wood string strings cord wire pile~
-   The pile of wood and strings is actually what remains of a musical
-instrument of some sort, upon closer inspection.  It was made of a very high
-quality wood, and still retains a bit of a dull, lustrous sheen to it.  
-However, most of the wood is now splintered and unsalvageable.    
+chalice gold~
+   The lump of gold vaguely resembles a chalice, though it looks as though a
+very strong and powerful hand has crushed it in its grip.  There are holes
+across the rim of the chalice, probably where gemstones once encrusted the rim,
+and deep scratches similar to claw marks mar the surface of the once-polished
+golden surface.    
 ~
 E
 statue figure~
@@ -404,12 +405,11 @@ chin, as if someone had taken a large hammer to the statue's face and head.
 
 ~
 E
-chalice gold~
-   The lump of gold vaguely resembles a chalice, though it looks as though a
-very strong and powerful hand has crushed it in its grip.  There are holes
-across the rim of the chalice, probably where gemstones once encrusted the rim,
-and deep scratches similar to claw marks mar the surface of the once-polished
-golden surface.    
+wood string strings cord wire pile~
+   The pile of wood and strings is actually what remains of a musical
+instrument of some sort, upon closer inspection.  It was made of a very high
+quality wood, and still retains a bit of a dull, lustrous sheen to it.  
+However, most of the wood is now splintered and unsalvageable.    
 ~
 S
 #6412
@@ -483,6 +483,14 @@ D2
 ~
 0 0 6412
 E
+book~
+   You bend down to examine the book.  It is made from the finest leather, and
+has pages of vellum that are slightly colored from age and use.  Magical runes
+chase along the book's pages and borders, though the burn marks scattered
+throughout the book and its pages make all of the spells within its contents
+completely useless.    
+~
+E
 statue figure~
    The statue is of a tall and thin man, with noble features and a long,
 flowing robe.  His left hand is held flat before him, as though it once
@@ -492,14 +500,6 @@ has been wedged into the statue's mouth, and a black dagger has been driven
 deep into the stone, cutting deeply into the statue's breast.  A thin trickle
 of a rust-colored liquid seeps from the cut in the stone and collects in a
 small pool at the statue's base.    
-~
-E
-book~
-   You bend down to examine the book.  It is made from the finest leather, and
-has pages of vellum that are slightly colored from age and use.  Magical runes
-chase along the book's pages and borders, though the burn marks scattered
-throughout the book and its pages make all of the spells within its contents
-completely useless.    
 ~
 S
 #6415
@@ -542,13 +542,27 @@ D1
 ~
 0 0 6415
 E
-blood~
-A thick tide of blood pours from the broken altar and collects in pools 
-at the altar's base before cascading down the stairs of the dais and 
-out into the temple's hallway.  The blood itself seethes and boils, 
-and its coppery, salty scent is nearly overwhelming.  There is a definite
-sense of evil that pervaids this fallen temple, surrounding everything
-in the temple's interior with its presence.
+woman cleric body~
+Though this temple was clearly destroyed centuries ago, the woman's body 
+is still intact, as though she died but moments ago.  The blood dripping 
+from the stake piercing her heart down to the floor of the dais is still 
+wet, and carries the strong and unmistakable coppery tang of fresh blood.
+Her eyes are open, and the look within their pale blue depths is one of 
+such absolute terror and horror, you've never seen its equal.  One hand 
+of the woman's body is clasped tightly around her cleric's medallion, 
+and pulling her hand away, the symbol of Paladine is branded on both
+her brest and the hand where she clasped the medallion, perhaps in her
+last fear-filled moments in this world...
+~
+E
+statue dragon paladine~
+The statue of the Great Dragon is covered in ash and blood.  Its head is
+raised stiffly upwards, mouth agape as though it is fixed in a permanent
+scream.  Its wings, probably once spanning across the entire western 
+wall of the temple, have been shattered and broken into bits of marble
+strewn across the floor of the dais.  A woman's body is imapled over the
+breast of the dragon statue, her blood mingling with the marble of the 
+statue as it trails down to the floor.
 ~
 E
 altar~
@@ -563,27 +577,13 @@ your hand back in pain - though made of stone, the altar is incredibly
 hot to the touch!
 ~
 E
-statue dragon paladine~
-The statue of the Great Dragon is covered in ash and blood.  Its head is
-raised stiffly upwards, mouth agape as though it is fixed in a permanent
-scream.  Its wings, probably once spanning across the entire western 
-wall of the temple, have been shattered and broken into bits of marble
-strewn across the floor of the dais.  A woman's body is imapled over the
-breast of the dragon statue, her blood mingling with the marble of the 
-statue as it trails down to the floor.
-~
-E
-woman cleric body~
-Though this temple was clearly destroyed centuries ago, the woman's body 
-is still intact, as though she died but moments ago.  The blood dripping 
-from the stake piercing her heart down to the floor of the dais is still 
-wet, and carries the strong and unmistakable coppery tang of fresh blood.
-Her eyes are open, and the look within their pale blue depths is one of 
-such absolute terror and horror, you've never seen its equal.  One hand 
-of the woman's body is clasped tightly around her cleric's medallion, 
-and pulling her hand away, the symbol of Paladine is branded on both
-her brest and the hand where she clasped the medallion, perhaps in her
-last fear-filled moments in this world...
+blood~
+A thick tide of blood pours from the broken altar and collects in pools 
+at the altar's base before cascading down the stairs of the dais and 
+out into the temple's hallway.  The blood itself seethes and boils, 
+and its coppery, salty scent is nearly overwhelming.  There is a definite
+sense of evil that pervaids this fallen temple, surrounding everything
+in the temple's interior with its presence.
 ~
 S
 #6420
@@ -638,14 +638,14 @@ D4
 ~
 0 0 6439
 E
+sturdy rope-like vine~
+   A strong vine whips wildly in the wind.    
+~
+E
 large gate pine~
    This large gate is made of pine tree trunks expertly bound together with
 coarse, olive-colored vines.  The top of the logs have been sharpened to points
 providing a deterrent to climbing.    
-~
-E
-sturdy rope-like vine~
-   A strong vine whips wildly in the wind.    
 ~
 S
 #6422

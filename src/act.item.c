@@ -1959,18 +1959,29 @@ if  (where == WEAR_WAIST_1) {
 //    return;
 //  }
 
-  if (where == WEAR_WIELD) {
+  if (where == WEAR_WIELD && IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) {
     if (GET_RACE(ch) == RACE_MINOTAUR) {
+      // Str over 19 and a mino? Wield as one-hander
       if (GET_STR(ch) >= 19 && not_restricted(ch, obj) && !GET_EQ(ch, where)) {
         wear_message(ch, obj, where);
         obj_from_char(obj);
         equip_char(ch, obj, where);
         wear_spells(ch, obj);
         return;
+      
+      // Str under 19 and a mino? Wield as two-hander  
+      } else if (GET_STR(ch) < 19 && not_restricted(ch, obj) && !GET_EQ(ch, where)) {
+        if ((IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
+                (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {
+            send_to_char("You need both hands to wield this.\r\n", ch);
+            return;
+        }
       } else {
         send_to_char("You are too weak to wield this weapon with one hand.\r\n", ch);
         return;
       }
+    
+    // Not a mino? Wield as two-hander    
     } else {
       if ((IS_OBJ_STAT(obj, ITEM_TWO_HANDED)) &&
               (GET_EQ(ch, WEAR_WIELD) || GET_EQ(ch, WEAR_HOLD) || GET_EQ(ch, WEAR_SHIELD))) {

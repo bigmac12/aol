@@ -8,9 +8,10 @@ is unable to pass beyond this world.  It howls in agony, its expression one of
 eternal sadness and pain.    
 ~
 8 33792 0 0 E
-10 14 6 5d4+160 2d7+2 50
+6 14 6 5d4+160 2d7+2
 91 1900 10
 8 8 2 0
+Maxmove: 50
 E
 #6401
 horrifying apparition blood~
@@ -22,9 +23,10 @@ Flames that burn like the fires of the Abyss stare out from a crimson visage,
 and talon-like appendages reach out for your slender, mortal throat.    
 ~
 8 33792 0 -1000 E
-12 13 4 5d6+210 2d8+3 50
+12 13 4 5d6+210 2d8+3
 105 4700 10
 8 8 1 0
+Maxmove: 50
 E
 #6402
 faint spectral wraith woman ghost figure~
@@ -37,10 +39,11 @@ anger and fury.  She floats above the ground, the mists seething angrily with
 the ghost's outline.    
 ~
 8 33792 0 200 E
-11 14 5 5d4+190 2d8+2 50
+11 14 5 5d4+190 2d8+2
 500 2900 10
 8 8 2 0
 BareHandAttack: 12
+Maxmove: 50
 E
 #6403
 ghost ghostly priest man~
@@ -53,9 +56,10 @@ does not speak, the strength and depth of his expression says more than mere
 words ever could.    
 ~
 8 32768 0 800 E
-8 15 8 5d5+110 2d6+2 50
+8 15 8 5d5+110 2d6+2
 85 800 9
 8 8 1 0
+Maxmove: 50
 E
 #6404
 priestess daughter cleric woman figure pale~
@@ -71,10 +75,11 @@ reaches out to you silently, her slender hand held palm up in a wordless appeal
 for help...    
 ~
 778506 32768 2097152 1000 E
-15 11 1 5d10+300 2d8+4 50
+15 11 1 5d10+300 2d8+4
 1000 8400 9
 8 8 2 0
 BareHandAttack: 12
+Maxmove: 50
 E
 #6405
 ghost priest man male outline ghost~
@@ -87,9 +92,10 @@ suffereng, and though he does not speak, the strength and depth of his loss
 says more than mere words ever could.    
 ~
 8 32768 0 800 E
-8 15 8 5d5+110 2d6+2 50
+8 15 8 5d5+110 2d6+2
 800 800 9
 8 8 1 0
+Maxmove: 50
 E
 #6415
 cleric dark shrouded~
@@ -103,9 +109,10 @@ many of the spirits which roam this temple.  A small item, a focus of some sort
 is held tightly in his left hand.    
 ~
 540682 1024 8194 -850 E
-12 13 4 5d6+210 2d8+3 100
+12 13 4 5d6+210 2d8+3
 100 4700 2
 8 8 1 0
+Maxmove: 50
 E
 #6417
 undefined~
@@ -115,9 +122,10 @@ undefined~
 Nothing.
 ~
 8 32768 0 1000 E
-1 14 6 5d4+160 2d7+2 50
+1 14 6 5d4+160 2d7+2
 0 1900 0
 8 8 1 0
+Maxmove: 50
 E
 #6418
 undefined~
@@ -126,9 +134,10 @@ undefined~
 Nothing.
 ~
 8 0 0 0 E
-1 15 8 5d5+110 2d6+2 50
+1 15 8 5d5+110 2d6+2
 0 800 0
 8 8 0 0
+Maxmove: 50
 E
 #6420
 tall slender ranger elf~
@@ -142,10 +151,11 @@ from his footfalls.  Every movement he makes seems planned and carefully
 deliberate.    
 ~
 2120 1024 0 0 E
-17 10 -1 3d20+340 3d6+5 50
+17 10 -1 3d20+340 3d6+5
 300 11800 6
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #6421
 elven guard~
@@ -159,9 +169,10 @@ blond hair is tied back with a small peice of leather to keep it from flying
 about in the wind.    
 ~
 9439242 1024 0 1000 E
-17 10 -1 3d20+340 3d6+5 50
+17 10 -1 3d20+340 3d6+5
 700 11800 3
 8 8 1 7
+Maxmove: 50
 E
 #6422
 wizardess white robe elven wizard wiz elf~
@@ -175,9 +186,10 @@ intelligence.  A set of white, shimmering, floor-length robes are wrapped about
 her.    
 ~
 696330 33555464 10518548 1000 E
-20 8 -4 3d20+440 3d7+6 50
+20 8 -4 3d20+440 3d7+6
 800 25000 1
 6 6 2 0
+Maxmove: 50
 E
 #6423
 leader outpost elf~
@@ -191,10 +203,11 @@ across the floor.  About his body are supple leathers of green and brown that
 have a slight, slick sheen to them.    
 ~
 1288202 33792 0 0 E
-22 7 -6 3d33+550 3d8+7 50
+22 7 -6 3d33+550 3d8+7
 1100 40000 6
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #6424
 tiny mouse~
@@ -207,10 +220,11 @@ glow to them.  A long, hairless tail is wrapped about the ropes providing the
 critter a bit more stability while it eats.    
 ~
 65548 1024 0 0 E
-3 19 13 1d5+25 1d6+1 50
+3 19 13 1d5+25 1d6+1
 0 25 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #6497
 vampire sleek cloaked figure lurking eyes glowing red~
@@ -225,10 +239,11 @@ human blood.  Some speculate that these foul undead made bargains with Chemosh
 for life everlasting, and this existence in His service is the price they pay.
 ~
 9478872 134522428 0 -850 E
-22 7 -6 3d33+600 3d9+9 50
+22 7 -6 3d33+600 3d9+9
 0 40000 10
 8 8 1 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #6498
 vampire buxom pale-skinned pale skinned woman slinky crimson gown~
@@ -244,10 +259,11 @@ pointed fangs.  The woman before you is a vampire, and upon noticing you, she
 licks her lips hungrily.    
 ~
 647900 134587564 71303168 -850 E
-22 7 -6 3d33+550 4d10+7 50
+22 7 -6 3d33+550 4d10+7
 1200 40000 9
 8 8 2 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #6499
 vampire mage figure tattered crazed red-eyed blood~
@@ -263,10 +279,11 @@ still in its mouth.  Its eyes glow red.  Blood drips from the fangs that it
 bares at your approach.    
 ~
 771678 168010798 109052544 -850 E
-29 2 -13 3d33+1950 6d9+9 50
+29 2 -13 3d33+1950 6d9+9
 1800 213000 8
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 T 6401
 T 2
