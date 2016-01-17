@@ -1,0 +1,40 @@
+1
+j
+9
+as alexis
+0
+4
+hang
+15
+hang pouch belt
+0
+4
+food
+16
+cast create-food
+0
+4
+skin
+11
+skin corpse
+0
+2
+cm
+16
+cast cure-mod $*
+1
+2
+gg
+18
+get all all.corpse
+0
+2
+cl
+18
+cast cure-light $*
+1
+2
+eq
+6
+l self
+0
