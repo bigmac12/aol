@@ -678,8 +678,7 @@ void print_group(struct char_data *ch)
 }
 
 
-ACMD(do_group)
-{
+ACMD(do_group) {
   struct char_data *vict;
   struct follow_type *f;
   int found;
@@ -697,31 +696,27 @@ ACMD(do_group)
    */
 
   if (ch->master) {
-    act("You can not enroll group members without being head of a group.",
-	FALSE, ch, 0, 0, TO_CHAR);
+    act("You can not enroll group members without being head of a group.", FALSE, ch, 0, 0, TO_CHAR);
     return;
   }
 
-  if (!str_cmp(buf, "all"))
-  {
-    if (!IS_AFFECTED(ch, AFF_GROUP))
-    {
-      if ((getGroupSize(ch) + 1) > maxGroupSize(ch))
-      {
+  if (!str_cmp(buf, "all")) {
+    if (!IS_AFFECTED(ch, AFF_GROUP)) {
+      if ((getGroupSize(ch) + 1) > maxGroupSize(ch)) {
         send_to_char("You can't even group yourself!\r\n", ch);
         return;
       }
+
       perform_group(ch, ch);
     }
 
-    for (found = 0, f = ch->followers; f; f = f->next)
-    {
+    for (found = 0, f = ch->followers; f; f = f->next) {
       if (IS_AFFECTED(f->follower, AFF_GROUP))
-	continue;
+        continue;
       else if ((getGroupSize(ch) + 1) > maxGroupSize(ch))
-	send_to_char("Sorry - you do not possess the qualities to lead any more people.\r\n", ch);
+        send_to_char("Sorry - you do not possess the qualities to lead any more people.\r\n", ch);
       else
-	found += perform_group(ch, f->follower);
+        found += perform_group(ch, f->follower);
     }
 
     if (!found) {
@@ -733,37 +728,28 @@ ACMD(do_group)
 
   if (!(vict = get_char_vis(ch, buf, FIND_CHAR_ROOM))) {
     send_to_char(NOPERSON, ch);
-
   } else if ((vict->master != ch) && (vict != ch)) {
-    act("$N must follow you to enter your group.",
-	FALSE, ch, 0, vict, TO_CHAR);
-
+    act("$N must follow you to enter your group.", FALSE, ch, 0, vict, TO_CHAR);
   } else {
     if (!IS_AFFECTED(vict, AFF_GROUP)) {
       if ((getGroupSize(ch) + 1) > maxGroupSize(ch))
 	send_to_char("Sorry - you do not possess the qualities to lead any more people.\r\n", ch);
       else
 	perform_group(ch, vict);
-    } else
-   {
+    } else {
       if (ch != vict)
-	act("$N is no longer a member of your group.",
-	    FALSE, ch, 0, vict, TO_CHAR);
-      act("You have been kicked out of $n's group!",
-	  FALSE, ch, 0, vict, TO_VICT);
-      act("$N has been kicked out of $n's group!",
-	  FALSE, ch, 0, vict, TO_NOTVICT);
-      REMOVE_BIT(AFF_FLAGS(vict), AFF_GROUP);
-      max_group_exp_mult(vict);
-      GET_EXP_MULT(vict) = 0;
+        act("$N is no longer a member of your group.", FALSE, ch, 0, vict, TO_CHAR);
+        act("You have been kicked out of $n's group!", FALSE, ch, 0, vict, TO_VICT);
+        act("$N has been kicked out of $n's group!", FALSE, ch, 0, vict, TO_NOTVICT);
+        REMOVE_BIT(AFF_FLAGS(vict), AFF_GROUP);
+        max_group_exp_mult(vict);
+        GET_EXP_MULT(vict) = 0;
     }
   }
 }
 
 
-
-ACMD(do_ungroup)
-{
+ACMD(do_ungroup) {
   struct follow_type *f, *next_fol;
   struct char_data *tch;
   void stop_follower(struct char_data * ch);
@@ -822,7 +808,6 @@ ACMD(do_ungroup)
   if (!IS_AFFECTED(tch, AFF_CHARM))
     stop_follower(tch);
 }
-
 
 
 ACMD(do_report)
@@ -988,7 +973,6 @@ ACMD(do_split)
 }
 
 
-
 ACMD(do_use)
 {
   struct obj_data *mag_item;
@@ -1069,7 +1053,6 @@ ACMD(do_use)
 
   mag_objectmagic(ch, mag_item, buf);
 }
-
 
 
 ACMD(do_wimpy)
@@ -1154,7 +1137,6 @@ ACMD(do_display)
 }
 
 
-
 ACMD(do_gen_write)
 {
   FILE *fl;
@@ -1219,11 +1201,11 @@ ACMD(do_gen_write)
 }
 
 
-
 #define TOG_OFF 0
 #define TOG_ON  1
 
 #define PRF_TOG_CHK(ch,flag) ((TOGGLE_BIT(PRF_FLAGS(ch), (flag))) & (flag))
+
 
 ACMD(do_gen_tog)
 {

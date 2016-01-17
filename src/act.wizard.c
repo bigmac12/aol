@@ -1693,13 +1693,11 @@ ACMD(do_advance)
   FREE_NAME(chname);
 
   log(buf);
-  gain_exp_regardless(victim,
-	 level_exp(GET_CLASS(victim), newlevel) - GET_EXP(victim));
+  gain_exp_regardless(victim, level_exp(GET_CLASS(victim), newlevel) - GET_EXP(victim));
   save_char(victim, NOWHERE);
 }
 
-ACMD(do_restore)
-{
+ACMD(do_restore) {
   struct char_data *vict;
   int i;
 
@@ -3778,9 +3776,9 @@ ACMD(do_approve)
       int  count = 0;
 
       for (d = descriptor_list; d; d = d->next) {
-/* attempt at fixing the approve crash. 11/11/2k --gan
-	if ( (GET_LEVEL(d->character) == 0) && (STATE(d) == CON_PLAYING) ) {
-*/
+        /* attempt at fixing the approve crash. 11/11/2k --gan
+            if ( (GET_LEVEL(d->character) == 0) && (STATE(d) == CON_PLAYING) ) {
+        */
         if((STATE(d) == CON_PLAYING) && (GET_APPROVED(d->character) == 0)) {
 	  count++;
           GET_NAME(d->character, chname);
@@ -4259,7 +4257,6 @@ ACMD(do_award) {
   }
 
   argument = one_argument(argument, buf);
-
   percent_to_award = atoi(buf);
 
   if (percent_to_award > XP_AWARD_CAP) {
