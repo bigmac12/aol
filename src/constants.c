@@ -915,7 +915,7 @@ const char *extra_bits[] = {
   "!GNOME",
   "!HUMAN",
   "TWO_HANDED",
-  "UNIQUE",	
+  "UNIQUE",
   "\n"
 };
 

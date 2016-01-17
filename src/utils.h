@@ -115,14 +115,14 @@ int	hit_limit(struct char_data *ch);
 int	move_limit(struct char_data *ch);
 int	hit_gain(struct char_data *ch);
 int	move_gain(struct char_data *ch);
-void	advance_level(struct char_data *ch);
-void	set_title(struct char_data *ch, char *title);
-void	gain_exp(struct char_data *ch, int gain);
-void	gain_exp_regardless(struct char_data *ch, int gain);
-void	gain_condition(struct char_data *ch, int condition, int value);
-void	check_idling(struct char_data *ch);
-void	point_update(void);
-void	update_pos(struct char_data *victim);
+void advance_level(struct char_data *ch);
+void set_title(struct char_data *ch, char *title);
+void gain_exp(struct char_data *ch, int gain);
+void gain_exp_regardless(struct char_data *ch, int gain);
+void gain_condition(struct char_data *ch, int condition, int value);
+void check_idling(struct char_data *ch);
+void point_update(void);
+void update_pos(struct char_data *victim);
 
 
 /* various constants *****************************************************/
