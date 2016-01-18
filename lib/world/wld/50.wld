@@ -89,14 +89,6 @@ D3
 ~
 0 0 5002
 E
-sign large road street~
-                 North ----  Seasick Kraken Inn
-                             Seasick Kraken Bar and Grill
-                 East -----  Richwater Street
-                 West -----  Richwater Street
-                 South ----  Sandstone Lane
-~
-E
 plaque carved building~
    The plaque hanging from this oddly coloured building is carved into a huge
 oval, and garishly painted with bright greens, yellows and blues.  The sea
@@ -104,6 +96,14 @@ kraken in the middle of the plaque has its mouth opened wide, and seems to be
 spewing forth frothy water the color of ale, as well as bits of wood, most
 likely from a ship.  Underneath is another smaller plaque with the words:
                         Welcome to the Seasick Kraken
+~
+E
+sign large road street~
+                 North ----  Seasick Kraken Inn
+                             Seasick Kraken Bar and Grill
+                 East -----  Richwater Street
+                 West -----  Richwater Street
+                 South ----  Sandstone Lane
 ~
 S
 #5004
@@ -508,18 +508,18 @@ D3
 ~
 0 0 5018
 E
-plaque building carved~
-This plaque has been carved into the shape of a shield, and hangs at the side
-of the door.  Upon this shield has been painted various weapons, surrounding
-a figure shrouded in rays of light.  The letters underneath the picture reads:
-                            Guild of the Warrior
-~
-E
 sign large street~
                        North --------- Shore Road
                        South --------- Shore Road
                        West ---------- Richwater Street
                        East ---------- Guild of the Warrior
+~
+E
+plaque building carved~
+This plaque has been carved into the shape of a shield, and hangs at the side
+of the door.  Upon this shield has been painted various weapons, surrounding
+a figure shrouded in rays of light.  The letters underneath the picture reads:
+                            Guild of the Warrior
 ~
 S
 #5023
@@ -867,18 +867,18 @@ D9
 ~
 0 0 5130
 E
-sign street large~
-                  North ----------- Shore Road
-                  West ------------ Calere Lane
-                  Southeast ------ Temple of Zeboim
-~
-E
 plaque building carved~
 The plaque hanging upon this building is done in intricately carved designs
 and painted in shades of blue, white, and grey.  The designs portray a
 stormy sea, with rolling waves crashing and splashing all around.  Deep
 black letters surrounded by dark blue is done in a flowing script, reading:
                  Ye Temple of the Great Sea Goddess, Zeboim
+~
+E
+sign street large~
+                  North ----------- Shore Road
+                  West ------------ Calere Lane
+                  Southeast ------ Temple of Zeboim
 ~
 S
 #5039
@@ -1225,6 +1225,12 @@ D8
 ~
 0 0 5155
 E
+sign street large~
+                           North -------- Sandstone Lane
+                           East --------- Calere Lane
+                           Southwest ---- SeaMist Tower
+~
+E
 plaque building carved~
 This plaque is elegantly done in the same shimmering black as the rest
 of the walls, and the tower, is done in.  Deeply etched silver and gold
@@ -1240,12 +1246,6 @@ lettering can be seen within the plaque, shimmering to catch your eye.
                  in herbs, flowers, and other plants.
 
                         Beware of Dragon
-~
-E
-sign street large~
-                           North -------- Sandstone Lane
-                           East --------- Calere Lane
-                           Southwest ---- SeaMist Tower
 ~
 S
 #5055
@@ -1873,15 +1873,6 @@ D9
 ~
 0 0 5078
 E
-statue crystal maiden sea~
-   A graceful figure made of pure, clear crystal stands upon a platform in the
-middle of the fountain, her lithe body standing in a seductive pose.  Wavy hair
-falls past her shoulders, barely covering the front of her, and weaves around
-her body until it reaches her ankles - where the base of the statue is carved
-to resemble ocean waves.  The statue glimmers in the sun and you can hear an
-odd tinkling, similar to a sea nymph's laugh, as the waters cascade below her.
-~
-E
 basin fountain~
    Within the shallow basin of the fountain can be seen the glimmer of coins,
 mostly gold - but a few silver and copper can be seen as well.  It is the
@@ -1891,6 +1882,15 @@ that by giving these offerings of coin, the maiden will show mercy when the sea
 tries to claim a Karthaian sailor.  It is also believed that the maiden is
 actually the Great Zeboim herself, and the offerings might appease her tempers
 long enough to avoid a disaster at sea.    
+~
+E
+statue crystal maiden sea~
+   A graceful figure made of pure, clear crystal stands upon a platform in the
+middle of the fountain, her lithe body standing in a seductive pose.  Wavy hair
+falls past her shoulders, barely covering the front of her, and weaves around
+her body until it reaches her ankles - where the base of the statue is carved
+to resemble ocean waves.  The statue glimmers in the sun and you can hear an
+odd tinkling, similar to a sea nymph's laugh, as the waters cascade below her.
 ~
 S
 #5083
@@ -2224,7 +2224,7 @@ and scrolls from the local merchants.
 D1
    A large map of the city dominates the wall.    
 ~
-map panel wall~
+panel wall~
 1 0 11299
 D2
 ~
