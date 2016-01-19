@@ -43,55 +43,6 @@ D3
 ~
 0 0 1008
 E
-pedestal flame~
-   The pedestal is carved from the purest white marble, traced throughout with
-thin veins of some blue metal that sparkle slightly.  A deep blue flame burns
-mystically at the top of the pedestal, hovering a few inches above the
-pedestal's surface and bathing the area in a sapphire light.    
-~
-E
-sign thought day~
-Off to the corner of the room, a small sign hangs from one of the columns.
-It says the following, printed in beautiful, fine calligraphy:
-
-The beatings will continue until morale improves.
-
-A single "M" is written beneath the message.
-~
-E
-pillar~
-Hey now!!!  Quit staring at that, Shin might kick your ass if she finds out!
-~
-E
-dartboard~
-This is a large, circular dartboard hanging from one of the columns of 
-Mishakal's workroom.  A number of darts are stuck into the dartboard's
-surface, and there is a sign above the dartboard that reads:
-Asshole of the Day
-In the dartboard's center is a picture, a dart stuck through their forehead.
-~
-E
-picture~
-Today's Asshole of the Day is....
-Gerreck!!
-~
-E
-dragon platinum~
-   In the center of the room, towards the top of the temple's graceful arches,
-there is a beautiful carving of a platinum dragon, about a foot tall.  The
-dragon's face holds the wisdom of centuries, and its wings are outstretched to
-cover all within the temple's center beneath its protection.  Below the dragon
-is written a message, in Mishakal's dinstinctive, carefully penned calligraphy.
-  
-~
-E
-message~
-PAWS AND CLAWS OFF MY DRAGON!!!
-(This means YOU Takhisis!)
-Love,
-- M
-~
-E
 black five dragons~
    Below the temple, shoved off towards one corner, is a sculpture of a black,
 five-headed dragon.  The heads have all been bent into odd angles and otherwise
@@ -103,6 +54,55 @@ as though it has been plucked of feathers and roasted on a spit.
 Below the scuplture is a message, written in Mishakal's unmistakable 
 calligraphy.  It reads:
 "The Gods of Good are better than you two turkeys any day!!"
+~
+E
+message~
+PAWS AND CLAWS OFF MY DRAGON!!!
+(This means YOU Takhisis!)
+Love,
+- M
+~
+E
+dragon platinum~
+   In the center of the room, towards the top of the temple's graceful arches,
+there is a beautiful carving of a platinum dragon, about a foot tall.  The
+dragon's face holds the wisdom of centuries, and its wings are outstretched to
+cover all within the temple's center beneath its protection.  Below the dragon
+is written a message, in Mishakal's dinstinctive, carefully penned calligraphy.
+  
+~
+E
+picture~
+Today's Asshole of the Day is....
+Gerreck!!
+~
+E
+dartboard~
+This is a large, circular dartboard hanging from one of the columns of 
+Mishakal's workroom.  A number of darts are stuck into the dartboard's
+surface, and there is a sign above the dartboard that reads:
+Asshole of the Day
+In the dartboard's center is a picture, a dart stuck through their forehead.
+~
+E
+pillar~
+Hey now!!!  Quit staring at that, Shin might kick your ass if she finds out!
+~
+E
+sign thought day~
+Off to the corner of the room, a small sign hangs from one of the columns.
+It says the following, printed in beautiful, fine calligraphy:
+
+The beatings will continue until morale improves.
+
+A single "M" is written beneath the message.
+~
+E
+pedestal flame~
+   The pedestal is carved from the purest white marble, traced throughout with
+thin veins of some blue metal that sparkle slightly.  A deep blue flame burns
+mystically at the top of the pedestal, hovering a few inches above the
+pedestal's surface and bathing the area in a sapphire light.    
 ~
 S
 #1003
@@ -209,24 +209,8 @@ D4
 ~
 0 0 1200
 E
-logs~
-Logs from every type of tree lie stacked here.
-~
-E
-lantern, oil~
-Spilt near to the fire it is in danger of combusting at any time.
-~
-E
-papers~
-Intricate and delicate drawings of flames adorn the papers.
-~
-E
-matches~
-Sirrions Firesticks.
-~
-E
-table~
-This massive oak table would take a lot of strength to overturn.
+stonewalls~
+The stonewalls appear to be made of sturdy granite blocks.
 ~
 E
 fireplace, mantle, hearth~
@@ -235,8 +219,24 @@ A motif of flames runs along the outer edge of the mantelpiece and down each
 side of the hearth.    
 ~
 E
-stonewalls~
-The stonewalls appear to be made of sturdy granite blocks.
+table~
+This massive oak table would take a lot of strength to overturn.
+~
+E
+matches~
+Sirrions Firesticks.
+~
+E
+papers~
+Intricate and delicate drawings of flames adorn the papers.
+~
+E
+lantern, oil~
+Spilt near to the fire it is in danger of combusting at any time.
+~
+E
+logs~
+Logs from every type of tree lie stacked here.
 ~
 S
 #1008
@@ -276,12 +276,6 @@ wing of a griffon.
 ~
 10 1688 0 0 0
 E
-stained glass mural~
-   This mural is made up of various trade goods.  Barrels full of wine, wooden
-boxes overflowing with colorful cloth, and even piles of coins are only some of
-the many things that can be spotted.    
-~
-E
 tapestried wall hangings~
    These wall hangings are made of deep red and green cloth.  Woven into the
 fabric are very detailed scenes of the merchanting trade.  A ship sails along a
@@ -289,6 +283,12 @@ turquoise sea piled high with goods on one.  On another is a scene of a market.
 It includes merchants with their stalls bartering with customers and even an
 occasional kender or two.  They seem to almost draw you into the picture, as if
 you were there.    
+~
+E
+stained glass mural~
+   This mural is made up of various trade goods.  Barrels full of wine, wooden
+boxes overflowing with colorful cloth, and even piles of coins are only some of
+the many things that can be spotted.    
 ~
 S
 #1020
@@ -387,9 +387,17 @@ along the carpeting, and there are several items, mostly books, that appear and
 disappear for no known reason.    
 ~
 10 8 0 0 0
+D0
+~
+wall~
+1 0 1007
 D4
 ~
 ~
 0 0 1204
+D5
+~
+~
+0 0 1998
 S
 $~

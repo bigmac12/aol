@@ -549,6 +549,71 @@ in combat.
 
 See also: PRACTICE
 #
+RPFACTOR
+
+RP factor, or roleplay factor, is an award given to players for role-playing
+with other players and often for participation in staff-run events.  Each point
+of your roleplay factor will provide a bonus to experience earned.    
+
+See also: RP, EXPERIENCE
+#
+TICK
+
+A "tick" is a representation of time within the confines of the game.  One
+tick is the equivalent of one hour within the game.  While resting, you will
+memorize spells more efficiently, as well as regenerate both health and movement 
+at an increased rate per in-game hour.    
+#
+REFLECT
+
+
+In this game, spells and skills will not improve beyond a certain point
+without repeated use.  While resting, it is possible for a character to
+reflect on the skills they have used and to discern a way to utilize them
+more effectively.
+
+See also: SKILLS, PRACTICE
+#
+HITPOINTS HP
+
+&cHitpoints&n are the numerical representation of your general state of
+health.  You can enable a display that will allow you a constant look at your
+hitpoints by typing "prompt all".  Your HP will be the first number on the
+left, followed by the letter H.  
+
+For example: &c175H&n 89V.    
+
+See also: MOVEMENT, PROMPT
+#
+MOVEMENT MV
+
+&cMovement&n is the numerical representation of how far your character can
+travel at any given time.  Keep in mind, that some terrain may be harder to
+traverse than others, and thus may cost you more movement points to pass
+through some areas than others.  
+
+Using the "prompt all" command, you can have your movement points, along with 
+your hit points displayed persistantly.  It will be the second set of numbers, 
+followed by the letter V.  
+
+For example: 128H &c89V&n
+
+See also: HITPOINTS, PROMPT
+#
+TERRAIN
+
+Terrain is a term used to describe the general geographical features of an 
+area.  Different types of terrain have different effects on movement, and in 
+certain situations, other things as well.  
+
+For example: crossing a mountain range is far more taxing than strolling down 
+a paved city street.  Or if you find yourself underwater, you'll find dragging 
+yourself through it to be exhausting as well.  And if you're going for a swim, 
+remember that you still need to breathe, and you can't do that under leagues of 
+water.    
+
+See also: MOVEMENT
+#
 CIRCLE CIRCLEMUD 
                     C  I  R  C  L  E  M  U  D     3  .  0
 
