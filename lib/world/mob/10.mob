@@ -1,3 +1,16 @@
+#1007
+test mob Sirrion~
+Sirrion's test mob~
+A mob used as Sirrion's personal punching bag is standing here.
+~
+It looks unfinished.
+~
+8 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0 0
+8 8 0 0
+Maxmove: 100
+E
 #1060
 :_~
 :_~
@@ -9,6 +22,7 @@
 1 20 15 1d2+5 1d4+0
 0 7 0
 8 8 0 0
+Maxmove: 50
 E
 T 4661
 #1061
@@ -22,5 +36,6 @@ T 4661
 1 20 15 1d2+5 1d4+0
 0 7 0
 8 8 0 0
+Maxmove: 50
 E
 $

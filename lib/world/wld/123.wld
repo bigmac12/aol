@@ -46,12 +46,6 @@ D3
 ~
 0 0 12344
 E
-sign~
-   The sign hangs just above the door of the building, swaying gently in the
-breeze.  It is marked with the words, "The Wayward Inn" and bears a depiction
-of a road vanishing into the distance.    
-~
-E
 ruts rut~
    Upon closer inspection, you see that the ruts placed in the avenue are
 actually hollowed cobblestones.  The rut is smooth for the most part, and the
@@ -59,6 +53,12 @@ lip lies flush with the rest of the street.  The dwarves have created these
 ruts as a pathway of sorts for the many wagons entering the settlement.  
 Certainly quite the clever invention, the ruts serve to direct wagon traffic to
 specific areas as well as to save wear and tear on the cobblestones.    
+~
+E
+sign~
+   The sign hangs just above the door of the building, swaying gently in the
+breeze.  It is marked with the words, "The Wayward Inn" and bears a depiction
+of a road vanishing into the distance.    
 ~
 S
 #12302
@@ -279,7 +279,7 @@ D1
 D3
 ~
 ~
-0 0 12328
+0 0 12358
 E
 symbol~
    The symbol carved into the stone of the wall is that of two crossed
@@ -712,10 +712,6 @@ D0
 ~
 ~
 0 0 12329
-D1
-~
-~
-0 0 12308
 D2
 ~
 ~
@@ -1403,7 +1399,7 @@ D0
 D1
 ~
 ~
-0 0 12373
+0 0 12308
 D3
 ~
 ~

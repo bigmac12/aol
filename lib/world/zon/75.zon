@@ -1,7 +1,8 @@
 #75
 Garnet Mountain Pass~
 7599 30 1
-* ZoneState 4 Solinari 000000011110001
+* ZoneState 1 unowned 000000000000000
+O 0 7501 1 7512 	(a large boulder)
 M 0 7588 2 7572 	(a giant spider)
 M 0 7589 4 7572 	(a huge spider)
 O 0 7532 1 7532 	(a massive pile of rock)
@@ -109,7 +110,7 @@ D 0 7581 6 1 	(Within an Underground Settlement)
 D 0 7581 7 1 	(Within an Underground Settlement)
 O 0 7580 1 7581 	(a stone well)
 M 0 7570 1 7581 	(a curate of Shinare)
-E 1 7565 5 14 	(&ma wrist-wrap made of purple silk&n)
+E 1 7565 5 14 	(&ma wrist-wrap made of long purple silk&n)
 M 0 7577 2 7581 	(a dwarven villager)
 D 0 7584 2 1 	(Within an Underground Settlement)
 M 0 7574 1 7584 	(a little dwarven girl in a blue dress)

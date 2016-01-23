@@ -43,6 +43,13 @@ Eric Cartman~
 cheesy poofs~
 say Yeah I want cheesy poofs!
 ~
+#7
+NO_DISARM~
+0 c 100
+disarm~
+if %actor.vnum% != -1
+  %send% %actor% Derp
+~
 #10
 new trigger~
 0 g 100

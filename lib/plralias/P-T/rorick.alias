@@ -1,4 +1,19 @@
 2
+ds
+10
+drink skin
+0
+1
+b
+11
+backstab $*
+1
+1
+t
+17
+get all $*.corpse
+1
+2
 rr
 9
 rescue $*
@@ -18,8 +33,3 @@ f
 4
 flee
 0
-1
-t
-17
-get all $*.corpse
-1
