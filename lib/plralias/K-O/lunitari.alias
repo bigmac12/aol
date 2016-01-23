@@ -1,3 +1,13 @@
+8
+getready
+97
+gecho &RComing over the horizon, the Crimson Moon begins to rise into the night's sky.&n;invis 31
+1
+6
+superr
+88
+at $* cast barkskin $*;cast blur $*;cast stoneskin $*; cast thornflesh $*; cast haste $*
+1
 2
 ii
 43
@@ -47,16 +57,6 @@ gshow rent $*
 j
 12
 stat file $*
-1
-6
-superr
-258
-at $* cast barkskin $*;cast blur $*;cast stoneskin $*; cast thornflesh $*; cast haste $*; cast enhance-charisma $*; cast enhance-endurance $*; cast enhance-insight $*; cast enhance-cunning $*; cast enhance-agility $*; cast shield $*; cast enhance-strength $*
-1
-8
-getready
-111
-gecho &RComing over the horizon, the Crimson Moon slowly rises to take its place in the nightly sky.&n;invis 31
 1
 6
 cookie

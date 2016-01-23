@@ -13,6 +13,7 @@ showing his age.
 200 6625 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7401
 minotaur hulking warrior~
@@ -28,6 +29,7 @@ at all times.
 16 11 0 3d20+320 3d6+4
 500 11000 0
 8 8 1 0
+Maxmove: 50
 E
 #7402
 minotaur female~
@@ -43,6 +45,7 @@ body.  She is dresed in a plain leather apron, common to her race.
 12 13 4 5d6+210 2d8+3
 100 4700 0
 8 8 2 0
+Maxmove: 50
 E
 #7403
 traveller wary~
@@ -58,26 +61,27 @@ down, allowing her to keep a close eye on her surroundings.
 11 14 5 5d4+190 2d8+2
 85 2900 0
 8 8 2 0
+Maxmove: 50
 E
 #7404
-guard gate Lacynes~
-a Lacynes gate guard~
-A Lacynes Gate Guard stands by the gate, poised for trouble.
+gate guard minotaur Lycanos~
+a minotaur gate guard~
+A Lycanos gate guard stands by the gate, poised for trouble.
 ~
-   This massive minotaur has the stance of a skilled warriors.  His
-honey-blonde fur covers rippling muscles that he flexes and unflexes with
-pride.  His dark, alert eyes scan each traveller and citizen who passes through
-the city gates.  He nods to himself, seeming to be judging each an inferior
-opponent.    
+   This massive minotaur has the stance of a skilled warrior.  His honey-blonde
+fur covers rippling muscles that he flexes and unflexes with pride.  His dark,
+alert eyes scan each traveller and citizen who passes through the city gates.
+He nods to himself, seeming to be judging each an inferior opponent.    
 ~
 1077322 0 0 0 E
 17 10 -1 3d20+340 3d6+5
 600 11800 3
 8 8 1 0
+Maxmove: 50
 E
 #7405
-guard Lacynes~
-a Lacynes guard~
+guard minotaur lycanos~
+a minotaur guard~
 A hulking guard patrols the city, eager for any sign of trouble.
 ~
    Massively-built, even by minotaur standards, this guard appears as though he
@@ -89,6 +93,7 @@ looking for the opportunity to quell any disturbance.
 15 11 1 5d10+300 2d8+4
 400 8400 0
 8 8 1 0
+Maxmove: 50
 E
 #7406
 priest sargas minotaur~
@@ -105,6 +110,7 @@ however his horns can be seen extending out from beneath the hood.
 900 8400 2
 6 6 1 0
 BareHandAttack: 5
+Maxmove: 50
 E
 #7407
 prefect Sargas~
@@ -120,6 +126,7 @@ temple with a strong sense of purpose in her stride.
 12 13 4 5d6+210 2d8+3
 100 4700 2
 8 8 2 0
+Maxmove: 50
 E
 #7408
 visitor temple~
@@ -135,6 +142,7 @@ instilled in him.  He looks back at you, a sinister grin on his face.
 10 14 6 5d4+160 2d7+2
 90 1900 0
 8 8 1 0
+Maxmove: 50
 E
 #7409
 Switcher~
@@ -151,6 +159,7 @@ throughout the city for his mammouth size as well as his prowess.
 9999 0 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7410
 Pazdoki~
@@ -167,6 +176,7 @@ he still appears as though he would be a formidable opponent.
 9999 250000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7411
 Kazar~
@@ -184,6 +194,7 @@ from the shelves.
 999999 250000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7412
 Zhayir~
@@ -200,6 +211,7 @@ lifts it, nodding approvingly as she admires her work.
 999999 250000 0
 8 8 2 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7413
 Sarsonius~
@@ -215,6 +227,7 @@ a leather apron with many pockets.  The pockets bulge with pieces of mail.
 30 1 -14 3d33+1700 4d8+9
 1900 250000 0
 6 6 1 1
+Maxmove: 50
 E
 #7414
 Gurick~
@@ -231,6 +244,7 @@ fur.
 0 250000 0
 8 8 1 4
 BareHandAttack: 6
+Maxmove: 50
 E
 #7415
 Durak~
@@ -247,6 +261,7 @@ location.
 9999999 250000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7416
 specialist academy combat~
@@ -263,11 +278,12 @@ awaits his next victim.
 1900 250000 3
 8 8 1 2
 BareHandAttack: 6
+Maxmove: 50
 E
 #7417
-citizen lacynes~
-a citizen of Lacynes~
-A citizen of Lacynes is here glaring at nothing in particular.
+citizen Lycanos~
+a female citizen of Lycanos~
+A citizen of Lycanos stands here, glaring at nothing in particular.
 ~
    Looking about the area with a scowl on her massive features, this citizen of
 Lacynes seems annoyed about something.  Her dark eyes scan the area, seeming to
@@ -279,6 +295,7 @@ hoof to the other, snorting arrogantly.
 100 4700 0
 8 8 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #7418
 Olina~
@@ -295,6 +312,7 @@ inwardly then pulls out her guestbook.
 0 250000 0
 8 8 2 3
 BareHandAttack: 6
+Maxmove: 50
 E
 #7419
 sailor strapping minotaur~
@@ -310,6 +328,7 @@ scan the area as he walks through the city, taking long bold strides.
 12 13 4 5d6+210 2d8+3
 100 4700 0
 8 8 1 0
+Maxmove: 50
 E
 #7420
 merchant~
@@ -325,14 +344,15 @@ tight hand-hold on her packages as she makes her way through the crowds.
 11 14 5 5d4+190 2d8+2
 95 2900 0
 8 8 2 0
+Maxmove: 50
 E
 #7421
-member navy lacynes~
-a member of the Lacynes navy~
-A member of the Lacynes navy grins broadly as he enjoys his shore leave.
+member navy minotaur Lycanos~
+a member of the Lycanos navy~
+A member of the Lycanos navy grins broadly as he enjoys his shore leave.
 ~
    Standing a head taller than the average minotaur male, this massive sailor
-proudly wears the emblem of the Lacynes Navy on his tunic.  Swaggering proudly
+proudly wears the emblem of the Lycanos navy on his tunic.  Swaggering proudly
 through the city, he wears a large grin on his face, seeming to be enjoying his
 shore leave.    
 ~
@@ -341,6 +361,7 @@ shore leave.
 400 8400 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #7422
 buccaneer mino minotaur battle scarred large~
@@ -359,6 +380,7 @@ passes by you with a dismissive shove, you smell fumes of liquor on his breath.
 500 11000 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #7423
 mino minotaur ruffian privateer abusive large lording~
@@ -376,6 +398,7 @@ up for your wealth...  And spunkiness.
 14 12 2 6d8+240 2d8+4
 300 7000 0
 8 8 1 0
+Maxmove: 50
 E
 #7424
 minotaur cook furred light-furred~
@@ -392,6 +415,7 @@ is covered with a combination of soot, blood, and various other stains.
 300 7000 0
 8 8 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #7425
 minotaur well-dressed dressed~
@@ -408,6 +432,7 @@ the top of his head reaching nearly two feet in length.
 320 7000 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #7426
 acolyte zeboim woman~
@@ -423,6 +448,7 @@ yet you notice two bright emerald eyes looking back at you.
 14 12 2 6d8+240 2d8+4
 300 7000 2
 8 8 2 0
+Maxmove: 50
 E
 #7427
 gladiator~
@@ -440,6 +466,7 @@ arena with alert eyes as every muscle on his body seems to flex at once.
 950 87000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7428
 recruit~
@@ -456,6 +483,7 @@ rippling beneath his dark fur with each move he makes.
 700 14000 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #7429
 spectator on-looker~
@@ -471,6 +499,7 @@ learn.
 14 12 2 6d8+240 2d8+4
 250 7000 0
 8 8 1 0
+Maxmove: 50
 E
 #7430
 headmaster master~
@@ -488,6 +517,7 @@ holysymbol of the great Sargas hangs around his thick neck.
 1600 135000 7
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7431
 student minotaur~
@@ -505,6 +535,7 @@ the stance of an experienced warrior.
 500 11000 0
 8 8 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #7432
 student minotaur~
@@ -521,6 +552,7 @@ training.  His uniform is covered with both mud and blood.
 300 7000 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #7433
 minotaur destroyer warrior~
@@ -537,6 +569,7 @@ hands as if streching out to encompass all of Krynn.
 2000 213000 7
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7434
 crab hermit~
@@ -552,6 +585,7 @@ the sand.
 6 17 10 2d5+70 2d5+2
 0 175 0
 8 8 0 0
+Maxmove: 50
 E
 #7435
 seagull gull~
@@ -568,6 +602,7 @@ there.  The tip of its beak is black in color and slightly hooked.
 0 175 0
 8 8 0 0
 BareHandAttack: 5
+Maxmove: 50
 E
 #7436
 rat mangy~
@@ -584,6 +619,7 @@ no lack of food.
 0 400 0
 8 8 0 9
 BareHandAttack: 4
+Maxmove: 50
 E
 #7437
 minotaur soul tormented form~
@@ -601,6 +637,7 @@ lunges toward you.
 1200 68000 10
 8 8 0 0
 BareHandAttack: 12
+Maxmove: 50
 E
 #7438
 Renald director~
@@ -616,6 +653,7 @@ diminutive in these surroundings.
 30 1 -14 3d33+1700 4d8+9
 999 250000 0
 8 8 1 0
+Maxmove: 50
 E
 #7439
 guard hulking~
@@ -633,6 +671,7 @@ opponent.
 500 25000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #7494
 priestess fiery haired~
@@ -648,6 +687,7 @@ deep sapphire blue eyes.  She is dressed in purples, blues and greens.
 800 33500 2
 8 8 2 0
 BareHandAttack: 5
+Maxmove: 50
 E
 #7496
 harbormaster harbor master~
@@ -664,5 +704,6 @@ maps he studies possess the answers to his unspoken questions.
 900 25000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 $
