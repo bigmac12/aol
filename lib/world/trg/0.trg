@@ -45,10 +45,10 @@ say Yeah I want cheesy poofs!
 ~
 #7
 NO_DISARM~
-0 c 100
+2 c 100
 disarm~
 if %actor.vnum% != -1
-  %send% %actor% Derp
+  %rsend% %actor% A strange force prevents you from doing that.
 ~
 #10
 new trigger~

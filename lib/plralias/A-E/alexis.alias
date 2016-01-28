@@ -1,4 +1,34 @@
 2
+rs
+13
+remove shield
+0
+2
+sl
+25
+sheath longsword scabbard
+0
+2
+wl
+15
+wield longsword
+0
+2
+rl
+16
+remove longsword
+0
+2
+sz
+26
+sheath zweihander scabbard
+0
+2
+uz
+28
+unsheath zweihander scabbard
+0
+2
 bs
 12
 bandage self
@@ -87,11 +117,6 @@ stand;mount stallion
 af
 7
 ass fel
-0
-2
-rs
-13
-rescue sollas
 0
 2
 as
