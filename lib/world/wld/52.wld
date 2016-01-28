@@ -920,13 +920,16 @@ D1
 ~
 0 0 5241
 E
-bed canopy~
-   This large, comfortable bed is shielded from above by a fancy canopy.  The
-sheets are an interesting mix of silk and satin, red in color, and pillows of
-muslin and velvet.  The bed is clearly made for one who leads a comfortable
-life, though its unmade state suggests that whoever does sleep here does not
-have the time in their day to make it.  Either that, or the servants have taken
-the day off.    
+weapon weapons rack north~
+   This weapon rack is carved from solid oak, made to hold up to six weapons of
+different sizes and types.  It is currently empty, suggesting that the weapons
+themselves are being used elsewhere.    
+~
+E
+fire fireplace west stone~
+   This crackling fire is fueled by wood, and, upon closer inspection, scraps
+of paper.  Whatever secrets or information that was once written upon them is
+now lost for eternity to the hungry flames.    
 ~
 E
 table~
@@ -936,16 +939,13 @@ scraps of a meal sitting upon them.  There is also a crystal goblet, drained of
 all but a few drops of red wine.    
 ~
 E
-fire fireplace west stone~
-   This crackling fire is fueled by wood, and, upon closer inspection, scraps
-of paper.  Whatever secrets or information that was once written upon them is
-now lost for eternity to the hungry flames.    
-~
-E
-weapon weapons rack north~
-   This weapon rack is carved from solid oak, made to hold up to six weapons of
-different sizes and types.  It is currently empty, suggesting that the weapons
-themselves are being used elsewhere.    
+bed canopy~
+   This large, comfortable bed is shielded from above by a fancy canopy.  The
+sheets are an interesting mix of silk and satin, red in color, and pillows of
+muslin and velvet.  The bed is clearly made for one who leads a comfortable
+life, though its unmade state suggests that whoever does sleep here does not
+have the time in their day to make it.  Either that, or the servants have taken
+the day off.    
 ~
 S
 #5250
@@ -1004,6 +1004,7 @@ D3
 ~
 0 0 5251
 S
+T 7
 #5253
 An Obsidian Pathway~
    This short hallway has an extremely odd texture to it, looking and feeling
@@ -1110,20 +1111,20 @@ D1
 ~
 0 0 5258
 E
-fountain ornately carved~
-   This large, obsidian fountain has been carved by skilled hands.  Rising from
-the center like some black monolith, are three figures carved from the stone of
-the fountain: A rotting corpse with a snarling, hideous goats head; A muscular
-man wearing an executioners hood; and a roiling black cloud; each set with
-small, delicate rubies for eyes.    
-~
-E
 gargoyles leer ruby eyes~
    Moss hangs from each of these stone gargoyles, which sit in the four corners
 of the ceiling.  Their faces have been carved into horrible, leering visages
 and each ones eyes have been set with rubies.  The dim light from the braziers
 reflects off their eyes making it look as if they were alive, watching..  
 Leering..    
+~
+E
+fountain ornately carved~
+   This large, obsidian fountain has been carved by skilled hands.  Rising from
+the center like some black monolith, are three figures carved from the stone of
+the fountain: A rotting corpse with a snarling, hideous goats head; A muscular
+man wearing an executioners hood; and a roiling black cloud; each set with
+small, delicate rubies for eyes.    
 ~
 S
 #5258
@@ -1164,6 +1165,7 @@ A large sculpture cleverly conceals the path to the upper reaches.
 sculpture hydra eye eyesocket passage~
 2 11604 11693
 S
+T 7
 #5260
 A Small, Wilderness Trail~
    This small trail is rather poorly kept, falling to disrepair and
@@ -1172,7 +1174,7 @@ path, making travel rather difficult and slow here.  The woods off to the edges
 of the trail abound with the sounds of various animals and the droning of a
 multitude of insects.    
 ~
-52 0 3 0 0
+52 32768 3 0 0
 D7
 ~
 ~
@@ -1190,7 +1192,7 @@ path, making travel rather difficult and slow here.  The woods off to the edges
 of the trail abound with the sounds of various animals and the droning of a
 multitude of insects.    
 ~
-52 0 3 0 0
+52 32768 3 0 0
 D0
 ~
 ~
@@ -1208,7 +1210,7 @@ path, making travel rather difficult and slow here.  The woods off to the edges
 of the trail abound with the sounds of various animals and the droning of a
 multitude of insects.    
 ~
-52 0 3 0 0
+52 32768 3 0 0
 D0
 ~
 ~
@@ -1226,7 +1228,7 @@ shoot from the ground, and seem to reach into the clouds.  These trees seem to
 be cleared of all animals, and no birds can be heard chirping.  An occasional
 flying squirrel leaps tree to tree looking for something to eat.    
 ~
-52 4 3 0 0
+52 32772 3 0 0
 D0
 ~
 ~
@@ -1253,7 +1255,7 @@ litter the stone hearth.  Small creatures dance around the fire, that seem to
 be in some kind of ritual.  A skull shaped emblem is imbedded in the center of
 the fire.  The path branches off in all directions from here.    
 ~
-52 0 3 0 0
+52 32768 3 0 0
 D0
 ~
 ~
@@ -1290,7 +1292,7 @@ resembling a pentagram.  The tent rests easily in the center of the circle.
 Large skulls dangle from each of the tent poles.  In the center of the tent a
 flap hangs down that allows entry.    
 ~
-52 0 3 0 0
+52 32768 3 0 0
 D8
 ~
 ~
@@ -1315,23 +1317,17 @@ various animals skulls and black candles that gives off a dark essence.  A
 throne sits in the back of a tent, where the kobold Chief is busy giving off
 orders to his slaves.    
 ~
-52 262156 0 0 0
+52 294924 0 0 0
 D6
 ~
 ~
 0 0 5272
 E
-throne~
-   This throne has been carved out of polished granite, that has been chisled
-with expert hands.  A sign of a skull can be noticed on the back side of the
-throne written in chalk.  Somehow this throne doesn't fit the lifestyle of a
-kobold.    
-~
-E
-painting paintings~
-   This ornate painting seems to be painted with red and black colours with
-delicate touches of an oil brush.  This painting depicts an enormous castle
-under the siege of a huge black dragon with three heads.    
+tapestries~
+   As with the rest of this encampment, these large gold tapetries have been
+decorated with the symbol of the decaying skull.  The eyes of the skull are
+red and menacing, while a black outline etches the border, creating an aura.  
+
 ~
 E
 candle candles~
@@ -1341,11 +1337,17 @@ etched into them.  The candle itself is black, and lets out a deep, dark smell.
   
 ~
 E
-tapestries~
-   As with the rest of this encampment, these large gold tapetries have been
-decorated with the symbol of the decaying skull.  The eyes of the skull are
-red and menacing, while a black outline etches the border, creating an aura.  
-
+painting paintings~
+   This ornate painting seems to be painted with red and black colours with
+delicate touches of an oil brush.  This painting depicts an enormous castle
+under the siege of a huge black dragon with three heads.    
+~
+E
+throne~
+   This throne has been carved out of polished granite, that has been chisled
+with expert hands.  A sign of a skull can be noticed on the back side of the
+throne written in chalk.  Somehow this throne doesn't fit the lifestyle of a
+kobold.    
 ~
 S
 #5274
@@ -1356,7 +1358,7 @@ itself has been kept up and rock free.  Green eyes watch you from each tree.
 A cool refreshing breezes pass over the camp.  A large stone altar can be seen
 to the north.    
 ~
-52 0 3 0 0
+52 32768 3 0 0
 D0
 ~
 ~
@@ -1379,7 +1381,7 @@ around the altar appears to burnt, and all rock has been removed.  Also, all
 trees and other plant life are missing.  No animal or bugs sounds can be heard.
   
 ~
-52 131072 2 0 0
+52 163840 2 0 0
 D2
 ~
 ~
@@ -1396,7 +1398,7 @@ decorated with strange symbols written in blood.  The ground around the tent
 has been dug up and the tent has been placed in the center of the crevice.  
 Large billows of black smoke escape from within the tents confines.    
 ~
-52 0 3 0 0
+52 32768 3 0 0
 D3
 ~
 ~
@@ -1420,7 +1422,7 @@ with tortued human slaves, that have been shackled to its steel bars.  The floor
 is dirty and littered with bones and other debris.  The sounds of humans can be
 heard screaming as the slave master whips another victim.    
 ~
-52 12 0 0 0
+52 32780 0 0 0
 D1
 ~
 ~
@@ -1433,7 +1435,7 @@ beads dangle from a silver spike to create a door way.  The rest of this tent
 seems to be covered, allowing no light other than the door.  The ground has
 been charred away, and dug up for the tent to rest in.    
 ~
-52 0 3 0 0
+52 32768 3 0 0
 D3
 ~
 ~
@@ -1442,6 +1444,12 @@ D6
 ~
 ~
 0 0 5271
+E
+tent Tent~
+   This bleak black tent seems to be covered in a substance that deflects light
+and hardens the leather.  An earie glow emits from the leather, casting a
+baneful aura around it.  A large warning sign beckons for you to read it!    
+~
 E
 sign warning danger~
 The sign reads:
@@ -1452,12 +1460,6 @@ power!
 Signed,
 The Kobold Shaman
 ~
-E
-tent Tent~
-   This bleak black tent seems to be covered in a substance that deflects light
-and hardens the leather.  An earie glow emits from the leather, casting a
-baneful aura around it.  A large warning sign beckons for you to read it!    
-~
 S
 #5279
 Inside the Darkened Tent~
@@ -1466,22 +1468,22 @@ hate and decay.  Pictures of souls and demons line each wall.  The floor is
 blacked with ash and other various spell components, while a bear skin rug
 covers the rest.  An aura of hate lingers in the air.    
 ~
-52 131084 0 0 0
+52 163852 0 0 0
 D1
 ~
 ~
 0 0 5278
 E
-soul~
-   This picture shows one of the more complex spells that a mage can use.  A
-single gem lies on a counter of the shelf in this picture.  Inside the gem a
-soul of a prince can be seen, wondering around lost in a maze.    
-~
-E
 demon~
    This picture depicts a human wizard of the black robes summoning a demon to his
 side.  The mages's face seems lit by an insane desperation, as a group of
 hunters can be seen in the distance.    
+~
+E
+soul~
+   This picture shows one of the more complex spells that a mage can use.  A
+single gem lies on a counter of the shelf in this picture.  Inside the gem a
+soul of a prince can be seen, wondering around lost in a maze.    
 ~
 S
 #5280
@@ -1492,7 +1494,7 @@ horses that pasture here.  Further to the east, a large stone stable with a
 tiny house attached to the south side can be seen.  Above the large white
 stable doors a sign reads 'Karthay's Wagon and Horse Rentals'.    
 ~
-52 0 1 0 0
+52 32768 1 0 0
 D1
 ~
 ~
@@ -1516,7 +1518,7 @@ range in size, breed, and color all differs depending on the renter's needs.
 On the rump of each mount however is a detailed brand of Karthay's ownership
 should any mount be stolen, or failed to be returned.    
 ~
-52 8 0 0 0
+52 32776 0 0 0
 D3
 ~
 ~
@@ -1890,16 +1892,16 @@ D1
 door~
 1 5241 5297
 E
-cabinet liquor~
-   This large cabinet houses a stock of fine liquor for travelling merchants
-who reserve this meeting room.  The cabinet itself is constructed of
-fine-quality oak, and has frosted glass windows.    
-~
-E
 fireplace stone logs~
    This huge fireplace is constructed of grey, snug-fitting stonework and is
 blackened in the back from past use.  It is fully stocked with logs, ready for
 the next group of merchants.    
+~
+E
+cabinet liquor~
+   This large cabinet houses a stock of fine liquor for travelling merchants
+who reserve this meeting room.  The cabinet itself is constructed of
+fine-quality oak, and has frosted glass windows.    
 ~
 S
 $~

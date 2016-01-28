@@ -1,4 +1,9 @@
 2
+cc
+16
+get coins corpse
+0
+2
 ms
 21
 stand; mount stallion
@@ -23,23 +28,3 @@ z
 12
 track sailor
 0
-1
-w
-8
-sneak; w
-1
-1
-e
-8
-sneak; e
-1
-1
-s
-8
-sneak; s
-1
-1
-n
-8
-sneak; n
-1
