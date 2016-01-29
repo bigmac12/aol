@@ -9,7 +9,7 @@ hands and faces.  The long table at one end of the room is where people can
 sign up for a room to rent at this inn, and long, wooden stairs lead downwards
 to the rest of the inn, and to the center of town.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D2
 ~
 ~
@@ -29,7 +29,7 @@ for everyone to read and know.  There is also a large doorway leading south
 from the small landing, where there are other board rooms for adventurers to
 keep updated on world happenings.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D2
 ~
 ~
@@ -51,7 +51,7 @@ written upon by any who wish to use it.  To the northwest, northeast, west, and
 east are four other board rooms, and to the north is the large stairway that
 leads to the rest of the inn.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D0
 ~
 ~
@@ -80,7 +80,7 @@ made by people who wish to talk about out-of-character ideas, hints, or
 questions to each other or to the immortals of the world.  A doorway leads
 southeast to the main board room.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D9
 ~
 ~
@@ -96,7 +96,7 @@ possible bugs (problems) within the world, and sometimes advice in how to not
 exploit, abuse, or accidentally use them.  A doorway leads east to the main
 board room.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D1
 ~
 ~
@@ -111,7 +111,7 @@ gloating about their deeds.  It is hoped that this board is used rarely, as
 that would be a sign of low crime within this world.  A doorway leads southwest
 to the main board room.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D8
 ~
 ~
@@ -125,7 +125,7 @@ usually something that can be bought for a price, and this can be the best, and
 fastest way to find it.  Additionally, special events are often posted here by
 the local officials.  A doorway leads west to the main board room.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D3
 ~
 ~
@@ -141,7 +141,7 @@ the Firewater Bar, which leads to a few side rooms where people can go and meet
 in semi-private.  The main double doors lead outside to the center of town.  
 
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D0
 ~
 ~
@@ -165,7 +165,7 @@ three walls.  There are four doors leading to semi private rooms - to the
 northwest, west, northeast, and east.  The large doorway to the south leads to
 the entrance of the inn.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D1
 ~
 door east private~
@@ -194,7 +194,7 @@ wall sconces, and a few chairs for comfort.  There is also a table in the
 middle of the room, as well as a small bookcase with a few books within it
 along the wall.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D9
 ~
 door private~
@@ -207,7 +207,7 @@ wall sconces, and a few chairs for comfort.  There is also a table in the
 middle of the room, as well as a small bookcase with a few books within it
 along the wall.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D1
 ~
 door private~
@@ -220,7 +220,7 @@ wall sconces, and a few chairs for comfort.  There is also a table in the
 middle of the room, as well as a small bookcase with a few books within it
 along the wall.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D8
 ~
 door private~
@@ -233,7 +233,7 @@ wall sconces, and a few chairs for comfort.  There is also a table in the
 middle of the room, as well as a small bookcase with a few books within it
 along the wall.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D3
 ~
 door private~
@@ -248,7 +248,7 @@ their yards.  The north side of the street is occupied by a somewhat dejected
 looking wooden building, seeming out of place with the rest of the small town.
 A worn wooden sign out front tells you this is Javare's Furrier shop.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -276,7 +276,7 @@ jewels - safely locked up.  She had recently opened up her town treasury for
 the aspiring adventurers who arrive in this quaint little town, and need a
 place to store their valuables.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D9
 ~
 ~
@@ -291,7 +291,7 @@ is a large archway, decorated with paintings and icons of flames and spiritual
 passion.  To the east a nice courtyard can be seen leading to more temples.  
 The main doorway leads south to the center of town.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D0
 ~
 ~
@@ -317,7 +317,7 @@ almost be too small to be an apprentice, yet her eyes shine with happiness to
 be doing what she can to aid the temple and the town.  The doorway leading east
 to the main part of the temple is covered in carvings of holy symbols.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D1
 ~
 ~
@@ -332,7 +332,7 @@ other times he teaches others this same knowledge.  The room is decorated with
 various painting depicting Sirrion, or his godly nature.  To the west is a
 large doorway, carved with flames, that leads to a huge sacrificial bonfire.  
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D2
 ~
 ~
@@ -352,7 +352,7 @@ keep the fire burning within the bowl.  Usually these belongings are those that
 are not needed by the people any longer, but the priests don't seem to mind.  
 The doorway leads back east to the main altar of the temple.    
 ~
-47 8 0 0 1
+47 32776 0 0 0
 D1
 ~
 ~
@@ -371,7 +371,7 @@ Blacksmith and Armory.  A few farmers hawk vegetables or other wares from
 carts, and a number of townsfolk wander about shopping.  Javare's Furrier shop
 lies to the east, on Ellinad Street.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -407,7 +407,7 @@ Street continues on to the north and south, out of the Commons area.  The
 Glasstone Commons extend every other direction.  A few townsfolk loiter here
 and there, gossiping in the cool air.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -437,7 +437,7 @@ as you head north, getting closer to the center of town.  The sounds of gossip
 and everyday hustle and bustle can be heard quite clearly from the Commons just
 ahead.  Traveling south leads out of town, towards the city of Kalaman.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -464,7 +464,7 @@ only recently built, though it's been here for years.  Main Street continues
 north into town, while heading south will eventually take you to the forest,
 and the city of Kalaman beyond.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -484,7 +484,7 @@ from inviting themselves in.  Main Street continues north into town, while
 heading south will take you to a dirt path which leads out to the forest, and
 the city of Kalaman beyond.    
 ~
-47 4 1 0 0
+47 32772 1 0 0
 D0
 ~
 ~
@@ -504,7 +504,7 @@ Lherro's Jewlery shop, and to the south is Relyn's Magewares.  A number of
 townsfolk wander about the commons shopping, or simply enjoying the day.  
 Talen Lane lies to the west, while the Commons extend towards the east.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -538,7 +538,7 @@ lead to the smithy, with only the smith and his apprentices able to enter or
 leave.  The door back to the commons lies to the northwest, while a small
 entranceway to the southwest leads into the Kralen's Armory.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D6
 ~
 ~
@@ -556,7 +556,7 @@ rooms lead to the smithy, with only the smith and his apprentices able to enter
 or leave.  The door back to the commons lies to the north, while a small
 entranceway to the northeast leads into the Kralen's Weapons Shop.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D0
 ~
 ~
@@ -575,7 +575,7 @@ homes line both sides of the street, with sturdy white fences surrounding their
 yards.  One of the homes to the north has a wooden sign hanging outside which
 bears an infinity symbol upon it.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -598,7 +598,7 @@ counter are other items found in a provisions shop.  The smell within the store
 is a wonderful blend of breads, spices, and sweets, as well as fruits and other
 items.  The main door leads out to the street.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D2
 ~
 ~
@@ -616,7 +616,7 @@ staves, while the large ones have been propped up against the wall.  Not all of
 these items in here are for sale however - some are the owner's personal
 magical items mainly for show.  The door leads outside to fresher air.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D0
 ~
 ~
@@ -631,7 +631,7 @@ the loft.  The owner confesses that gems are his passion, and jewelry making
 has become a hobby for him - and not a profession - so he doesn't always keep a
 stock of items for customers.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D7
 ~
 ~
@@ -649,7 +649,7 @@ abundance all around the wall, lies to the east - it's exit most likely along
 Merchant Street, and to the west is a large door, leading into one of the few
 shops that can be found in Talenrock.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -670,7 +670,7 @@ guarding their property to prevent passersby from entering their homes or
 gardens.  The street continues south toward the center of town, and north
 toward a large, rocky outcropping.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -689,7 +689,7 @@ toward the east a little ways.  To the north is a small clearing, surrounded by
 a large outcropping of rocks.  To the west, a grove of trees close around a
 lonely-looking path which vanishes from view only alittle way in.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -714,7 +714,7 @@ to make a campsite, or for the townsfolk to hold picnics or festival gatherings
 here.  Steep sharp rocky outcroppings line the eastern, western and north sides
 of this clearing, leaving only the south open to lead back to the town.    
 ~
-47 0 2 0 0
+47 32768 2 0 0
 D2
 ~
 ~
@@ -728,7 +728,7 @@ that block people from going north.  The sharp rocks, spiked in different
 directions, have been nicknamed talons for their resemblance to the claws of
 the large, predatory birds that live near the cliffs.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D1
 ~
 ~
@@ -746,7 +746,7 @@ leads west back to the main street of town, and east, toward the edge of a
 cliff.  More spiked rocks are to the east as well, as if creating a natural
 barrier to prevent anyone from falling off the cliff.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D1
 ~
 ~
@@ -766,7 +766,7 @@ trail.  A particularly odd outcropping of rock to the south has been nicknamed
 'The Roc's Nest' as the weather has formed it into a shallow depression,
 resembling a large, natural nest.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D3
 ~
 ~
@@ -785,7 +785,7 @@ somewhat resembling small pillars line the path as well, though they are devoid
 of any visible markings.  The path leads east onto the cobblestone streets of
 Talenrock, or continues west where the path vanishes around a turn.    
 ~
-47 0 2 0 0
+47 32768 2 0 0
 D1
 ~
 ~
@@ -804,7 +804,7 @@ though they are devoid of any visible markings.  The path vanishes abruptly
 around a curve to the northwest, obscuring your view of what lies ahead.  The
 path also runs eastward, back towards town proper.    
 ~
-47 0 2 0 0
+47 32768 2 0 0
 D1
 ~
 ~
@@ -823,7 +823,7 @@ variations of imaginary monsters, fighting heros and villians alike.  A counter
 against the back wall is where the postmaster helps her customers when they
 need to mail someone - whether they are in town, or across the ocean.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D0
 ~
 ~
@@ -843,7 +843,7 @@ trails lead deeper into the forest, but the thick growth of trees surrounding
 this path make it a clearly marked one for most travellers.  Just ahead to the
 north, the main street of Talenrock is visible.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -861,7 +861,7 @@ south, there is a tendency to just ski downslope on the leaves.  A few small
 trails lead deeper into the forest, but the thick growth of trees surrounding
 this path make it a clearly marked one for most travellers.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -879,7 +879,7 @@ south, there is a tendency to just ski downslope on the leaves.  A few small
 trails lead deeper into the forest, but the thick growth of trees surrounding
 this path make it a clearly marked one for most travellers.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -902,7 +902,7 @@ south, there is a tendency to just ski downslope on the leaves.  A few small
 trails lead deeper into the forest, but the thick growth of trees surrounding
 this path make it a clearly marked one for most travellers.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -920,7 +920,7 @@ even a good scythe could get through easily without dulling in short time.
 The rest of the trees surrounding this path are still close together, but a few
 smaller footpaths can be seen skirting off in a few directions.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D2
 ~
 ~
@@ -938,7 +938,7 @@ even a good scythe could get through easily without dulling in short time.
 The rest of the trees surrounding this path are still close together, but a few
 smaller footpaths can be seen skirting off in a few directions.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -957,7 +957,7 @@ comparison to the path, marking it clearly as a way through.  A few smaller
 foot paths lead off deeper into the forest, but they seem almost impassable for
 any creature larger than a fox.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D1
 ~
 ~
@@ -976,7 +976,7 @@ audible, while this section of Talenrock remains fairly quiet.  A few quaint,
 country style homes can be seen further up the road.  The cobblestones turn to
 a somewhat bumpy dirt path as you head towards the forest.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D1
 ~
 ~
@@ -995,7 +995,7 @@ clotheslines, drying in the breeze.  A few colorful wildflowers grow amongst
 the grass, and about the homes here as well.  A beautiful, quiet clearing lies
 to the west, and Talen Lane continues to the east.    
 ~
-47 4 1 0 0
+47 32772 1 0 0
 D0
 ~
 ~
@@ -1022,7 +1022,7 @@ makes the boards creak ominously A small plaque lies in the middle of the
 platform.  Partially gone all that can be seen are the letters 'K chk net T eeh
 us '.    
 ~
-47 0 4 0 0
+47 32768 4 0 0
 D5
 Nothing.
 A small hatch.
@@ -1038,7 +1038,7 @@ that caused this ridge.  The roots of a few trees along the trail serve as
 steps, making it easier to go down the slope into the opening of the ridge.  
 
 ~
-47 0 3 0 0
+47 32768 3 0 0
 D1
 ~
 ~
@@ -1060,7 +1060,7 @@ odd as they had to regrow after being split by the old earthquake.  One tree,
 finally fallen, creates a natural handrail for those climbing down the trail to
 see the forest below.    
 ~
-47 0 3 0 0
+47 32768 3 0 0
 D3
 ~
 ~
@@ -1079,7 +1079,7 @@ have grown within the upturned soil, as well as a trail now reaching to the
 bottom of the ridge.  The trail is a bit steep, and twists with the ridge as it
 goes from narrow to wide deeper in the forest.    
 ~
-47 0 3 0 0
+47 32768 3 0 0
 D1
 The trail ends at some bushes, where another trail can be seen to the east.
 ~
@@ -1098,7 +1098,7 @@ still stand, appearing undisturbed by any forces of nature that would try to
 threaten them in any way.  The air is full of peace as if this grove had been
 blessed by the creatures of the forest.    
 ~
-47 0 3 0 0
+47 32768 3 0 0
 D2
 ~
 ~
@@ -1118,7 +1118,7 @@ Some of the flowers even glitter as if made of gemstones, yet most of it could
 be contributed to the shine of the sun against the misty dew on the blossoms.
   
 ~
-47 0 3 0 0
+47 32768 3 0 0
 D0
 ~
 ~
@@ -1134,7 +1134,7 @@ normal travelling gear.  The shop itself seems alittle dim and dingy, and
 smells a bit stale.  Standing to one side of the door is a grizzly bear which
 has been stuffed and posed in such a way as to make it look ferocious.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D2
 ~
 ~
@@ -1149,7 +1149,7 @@ though they are devoid of any visible markings.  The path vanishes around a
 curve to the southeast, and continues onward to the north where a black iron
 gate can be seen in the distance.    
 ~
-47 0 2 0 0
+47 32768 2 0 0
 D0
 ~
 ~
@@ -1169,7 +1169,7 @@ latch, it bears a lock.  A lock which seems to have been scratched or seen
 heavy use.  A stone bench sits to either side of the path for those wishing to
 sit and enjoy the quiet atmosphere.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 gate~
@@ -1189,7 +1189,7 @@ markings of some sort, though there doesn't seem to be any pattern to them.
 The path continues north into the cemetary, and south through the gate and back
 towards Talenrock proper.    
 ~
-47 4 0 0 0
+47 32772 0 0 0
 D0
 ~
 ~
@@ -1208,7 +1208,7 @@ visitors might relax in the shade.  Tombstones and crypts can be seen ahead in
 the distance, most of them still in fairly good condition.  The gate leading
 out of the cemetary and back into Talenrock proper can be seen to the south.  
 ~
-47 4 0 0 0
+47 32772 0 0 0
 D0
 ~
 ~
@@ -1235,7 +1235,7 @@ odd.  Stone benches lie to either side of the path for visitors to relax or
 mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1264,7 +1264,7 @@ quiet atmosphere of the cemetary.  Ash trees line the path, as well as dot the
 cemetary grounds randomly.  The path leads south towards the gate leading back
 to town.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1300,7 +1300,7 @@ odd.  Stone benches lie to either side of the path for visitors to relax or
 mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1328,7 +1328,7 @@ odd.  Stone benches lie to either side of the path for visitors to relax or
 mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.    
 ~
-47 12 0 0 0
+47 32780 0 0 0
 D0
 ~
 ~
@@ -1361,7 +1361,7 @@ quiet atmosphere of the cemetary.  Ash trees line the path, as well as dot the
 cemetary grounds randomly.  A massive looking weeping willow tree can be seen
 looming in the distance to the north.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1405,7 +1405,7 @@ odd.  Stone benches lie to either side of the path for visitors to relax or
 mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1438,7 +1438,7 @@ mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.  A massive looking weeping willow
 tree can be seen in the distance to the east.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1471,7 +1471,7 @@ ground.  A deep sense of sadness emanates from the tree, which, for all its age
 and massive size, looks alittle sickly.  Stones benches encircle the great tree
 for visitors to relax or mourn in the quiet atmosphere of the cemetary.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1516,7 +1516,7 @@ mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.  A massive looking weeping willow
 tree can be seen in the distance to the west.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1548,7 +1548,7 @@ odd.  Stone benches lie to either side of the path for visitors to relax or
 mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1582,7 +1582,7 @@ cemetary grounds randomly.  The path extends south towards a massive looking
 weeping willow tree in the distance, and continues north where the doors of a
 crypt can be seen ahead.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1626,7 +1626,7 @@ odd.  Stone benches lie to either side of the path for visitors to relax or
 mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D0
 ~
 ~
@@ -1659,7 +1659,7 @@ mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.  The entrance to a large limestone
 crypt can be seen to the east.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D1
 ~
 ~
@@ -1685,7 +1685,7 @@ seen in the distance.  The double-doors of the crypt are carved with images of
 soldiers in defensive positions, spears in hand.  Upon closer inspection, it
 appears as if the doors are slightly ajar.    
 ~
-47 4 0 0 0
+47 32772 0 0 0
 D0
    These large double-doors are made of iron, and are decorated with pictures
 od soldiers in defensive positions, spears in hand.  They stand slightly ajar,
@@ -1724,7 +1724,7 @@ mourn in the quiet atmosphere of the cemetary.  Ash trees line the path, as
 well as dot the cemetary grounds randomly.  The entrance to a large limestone
 crypt can be seen to the west.    
 ~
-47 0 0 0 0
+47 32768 0 0 0
 D2
 ~
 ~
@@ -1768,7 +1768,7 @@ atmosphere of the crypt.  A marble staircase leads down into darkness, and
 shadowed alcoves lie to either side of the foyer.  An unnatural chill seems to
 hang in the air, though nothing seems outwardly amiss.    
 ~
-47 13 0 0 0
+47 32781 0 0 0
 D1
 ~
 ~
@@ -1812,7 +1812,7 @@ plank flooring is covered with a homespun rug of various colors that helps to
 keep them home warm during the winter months.  The sleeping quarters are
 located in a loft that is visible overhead.    
 ~
-47 33554444 0 0 0
+47 33587212 0 0 0
 D1
 ~
 ~
@@ -1828,7 +1828,7 @@ plank flooring is covered with a homespun rug of various colors that helps to
 keep them home warm during the winter months.  The sleeping quarters are
 located in a loft that is visible overhead.    
 ~
-47 33554444 0 0 0
+47 33587212 0 0 0
 D2
 ~
 ~
@@ -1844,7 +1844,7 @@ plank flooring is covered with a homespun rug of various colors that helps to
 keep them home warm during the winter months.  The sleeping quarters are
 located in a loft that is visible overhead.    
 ~
-47 33554444 0 0 0
+47 33587212 0 0 0
 D0
 ~
 ~
@@ -1861,7 +1861,7 @@ around the top edge.  It is well built which makes the viewer know that it is
 of dwarven construction.  A wooden door with a griffon wing carving leads into
 the temple.    
 ~
-47 0 1 0 0
+47 32768 1 0 0
 D0
 ~
 ~
@@ -1881,7 +1881,7 @@ various dealings.  A small footstool helps reach the ones that are closer to
 the ceiling.  A small fireplace with a warm fire already in the grate warms the
 room and gives it a cozy feeling.  It is obvious this room is well used.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D2
 ~
 ~
@@ -1895,7 +1895,7 @@ carved with great detail and care onto the front.  Carved scenes can be seen on
 the walls of Reorx forging the world.  The stone floor in front of the altar
 has been worn smooth by people kneeling in prayer.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D2
 ~
 ~
@@ -1910,7 +1910,7 @@ On top of each chest sets a candle ready to be lit when it gets dark.  The beds
 are neatly made, and everything looks tidy.  Small windows, trimmed in white,
 line the otherwise stark brown walls.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D3
 ~
 ~
@@ -1926,7 +1926,7 @@ a table encircled by wooden benches.  A cabinet stands open on the wall next
 the table.  In it can be seen bottles of dwarf spirits and other drink for the
 occupants of the room.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D0
 ~
 ~
@@ -1948,7 +1948,7 @@ of the merchant trade.  Long mahogany pews face the altar ready for people to
 pray to their deity.  There are small doors to the east and west and a tiny
 door tucked behind the altar.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D0
 ~
 ~
@@ -1995,7 +1995,7 @@ northern wall has been painted a brilliant red.  In the middle of the wall,
 stands a flame shaped door which is generally kept open.  It leads to the holy
 altar, where the high priest often waits to offer his teachings.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D0
 ~
 ~
@@ -2015,7 +2015,7 @@ plank flooring is covered with a homespun rug of various colors that helps to
 keep them home warm during the winter months.  The sleeping quarters are
 located in a loft that is visible overhead.    
 ~
-47 33554444 0 0 0
+47 33587212 0 0 0
 D3
 ~
 ~
@@ -2031,7 +2031,7 @@ plank flooring is covered with a homespun rug of various colors that helps to
 keep them home warm during the winter months.  The sleeping quarters are
 located in a loft that is visible overhead.    
 ~
-47 33554444 0 0 0
+47 33587212 0 0 0
 D0
 ~
 ~
@@ -2048,7 +2048,7 @@ bedroom through the other.  A small altar to the goddess Mishakal sits upon the
 mantle of the fireplace.  Several pieces of brewing apparatus can be seen atop
 a large oak table in the middle of the room.    
 ~
-47 8 0 0 0
+47 32776 0 0 0
 D2
 ~
 ~
@@ -2064,7 +2064,7 @@ oranges, and purples across the tops of the trees below.  During the night, one
 could look to the skies and view every star in the heavens with unbelievable
 clarity.  This place seems to bear a true sense of serenity and peace.    
 ~
-47 16 2 0 0
+47 32784 2 0 0
 D1
 ~
 ~

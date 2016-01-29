@@ -155,6 +155,23 @@ his life in this small town.
 8 8 1 2
 Maxmove: 50
 E
+#4718
+woman young vibrant firedancer~
+a firedancer~
+A young woman in vibrant clothing, dances around the sacrificial fire.
+~
+   The reflection of fire's light reflects off the gossamer fabric of this
+young woman.  It is very evident that she is one of Sirrion's firedancers.  
+Fluid in her movements, it is rather beautiful to watch her dance before the
+sacrificial fire.    
+~
+8 0 0 0 E
+15 14 0 2d5+30 2d6+3
+220 8315332 0
+8 8 2 0
+BareHandAttack: 13
+Maxmove: 100
+E
 #4720
 Scrib Aghar gully dwarf grungy~
 Scrib, the grungy Aghar~

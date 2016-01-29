@@ -47,8 +47,8 @@ say Yeah I want cheesy poofs!
 NO_DISARM~
 2 c 100
 disarm~
-if %actor.vnum% != -1
-  %rsend% %actor% A strange force prevents you from doing that.
+if (%actor.vnum% == -1) then
+  wsend %actor% A strange force prevents you from doing that.
 ~
 #10
 new trigger~
