@@ -141,22 +141,17 @@ void mobile_activity(void)
       continue;
 
     /* Examine call for special procedure */
-    log("mobile_activity->spec_proc");
     if (MOB_FLAGGED(ch, MOB_SPEC) && !no_specials) {
-      log("mobile_activity->spec_proc->rnum");
       log("%hd", ch->nr);
       log("%d", mob_index[GET_MOB_RNUM(ch)]);
       mob_index[GET_MOB_RNUM(ch)].func;
       if (mob_index[GET_MOB_RNUM(ch)].func == NULL) {
-        log("post if");
         GET_NAME(ch, chname);
-        log("post get_name");
 
         log("SYSERR: %s (#%d): Attempting to call non-existing mob func",
           chname, GET_MOB_VNUM(ch));
             FREE_NAME(chname);
 
-        log("mobile_activity->spec_proc->rnum->remove_bit");
         log("%ld", ch->char_specials.saved.act);
         REMOVE_BIT(MOB_FLAGS(ch), MOB_SPEC);
       } else {
@@ -166,20 +161,17 @@ void mobile_activity(void)
     }
 
     /* If the mob has no specproc, do the default actions */
-    log("mobile_activity->fight/sleep");
     if (FIGHTING(ch) || !AWAKE(ch))
       continue;
 
     /*  PDH  4/ 9/99 - check for HunterKiller  */
     /*  Removed temporarily - Solinari, 8/99 */
-    log("mobile_activity->hunter-killer");
     if (MOB_FLAGGED(ch, MOB_HUNTERKILLER) && !(MOB_FLAGGED(ch, MOB_QUEST)) && !FIGHTING(ch) && AWAKE(ch)) {
       hunt_victim(ch);
       continue;
     }
 
     /* Scavenger (picking up objects) */
-    log("mobile_activity->scavving");
     if (MOB_FLAGGED(ch, MOB_SCAVENGER) && !(MOB_FLAGGED(ch, MOB_QUEST)) && !FIGHTING(ch) && AWAKE(ch))
       if (world[ch->in_room].contents && !number(0, 10)) {
         max = 1;
@@ -198,7 +190,6 @@ void mobile_activity(void)
       }
 
     /* Mob Movement */
-    log("mobile_activity->movement");
     if (!MOB_FLAGGED(ch, MOB_SENTINEL) && !MOB_FLAGGED(ch, MOB_QUEST) && (GET_POS(ch) == POS_STANDING) &&
 	((door = number(0, 18)) < NUM_OF_DIRS) && CAN_GO(ch, door) &&
 	!ROOM_FLAGGED(EXIT(ch, door)->to_room, ROOM_NOMOB | ROOM_DEATH) &&
@@ -208,7 +199,6 @@ void mobile_activity(void)
     }
 
     /* Aggressive Mobs */
-    log("mobile_activity->aggressive");
     if (MOB_FLAGGED(ch, MOB_AGGRESSIVE | MOB_AGGR_TO_ALIGN) && !IS_AFFECTED(ch, AFF_CONCEAL_ALIGN) && !(MOB_FLAGGED(ch, MOB_QUEST))) {
       found = FALSE;
       for (vict = world[ch->in_room].people; vict && !found; vict = vict->next_in_room) {
@@ -228,7 +218,6 @@ void mobile_activity(void)
     }
 
     /* Mob Memory */
-    log("mobile_activity->memory");
     if (MOB_FLAGGED(ch, MOB_MEMORY) && !(MOB_FLAGGED(ch, MOB_QUEST)) && MEMORY(ch)) {
       found = FALSE;
       for (vict = world[ch->in_room].people;
@@ -241,7 +230,7 @@ void mobile_activity(void)
 	for (names = MEMORY(ch); names && !found; names = names->next)
 	  if (names->id == GET_IDNUM(vict)) {
 	    found = TRUE;
-	    act("'Hey!  You're the fiend that attacked me!!!', exclaims $n.",
+	    act("'Hey!  You're the fiend that attacked me!', exclaims $n.",
 		FALSE, ch, 0, 0, TO_ROOM);
 	    hit(ch, vict, TYPE_UNDEFINED);
 	  }
@@ -249,8 +238,7 @@ void mobile_activity(void)
     }
 
    /*Mountable Mobs* -- Luni*/
-    log("mobile_activity->mountable");
-    if (MOB_FLAGGED(ch, MOB_MOUNTABLE) && !AFF_FLAGGED(ch, AFF_BLIND)) { 
+    if (MOB_FLAGGED(ch, MOB_MOUNTABLE) && !AFF_FLAGGED(ch, AFF_BLIND)) {
       found = FALSE;
       for (vict = world[ch->in_room].people;
            vict && !found;
@@ -281,13 +269,10 @@ void mobile_activity(void)
 } 
 
     /* Helper Mobs */
-    log("mobile_activity->helpers");
     if (MOB_FLAGGED(ch, MOB_HELPER) &&
         !(MOB_FLAGGED(ch, MOB_QUEST)) &&
         !AFF_FLAGGED(ch, AFF_BLIND | AFF_CHARM)) {
-      log("If check complete");
       found = FALSE;
-      log("Helper for");
       for (vict = world[ch->in_room].people; vict && !found; vict = vict->next_in_room) {
         if (ch == vict || !IS_NPC(vict) | !FIGHTING(vict))
           continue;
@@ -299,13 +284,10 @@ void mobile_activity(void)
           found = TRUE;
         }
       }
-      log("Helper for end");
     }
-    log("Post helpers");
     /* Add new mobile actions here */
 
   }				/* end for() */
-  log("Mob activity exit");
 }
 
 

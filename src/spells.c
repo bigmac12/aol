@@ -278,6 +278,7 @@ ASPELL(spell_locate_object)
   return;
 }
 
+
 ASPELL(spell_reveal_illusion)
 {
 
@@ -328,6 +329,7 @@ ASPELL(spell_scry)
 
 }
 
+
 ASPELL(spell_abjure)
 {
   int abjure = 1;
@@ -357,6 +359,7 @@ ASPELL(spell_abjure)
       hit(victim, ch, TYPE_UNDEFINED);
   }
 }
+
 
 ASPELL(spell_charm)
 {
@@ -890,9 +893,7 @@ ASPELL(spell_fear)
   }
 }
 
-						
 
-	
 ASPELL(spell_calm)
 {
   struct char_data *vict;
@@ -904,6 +905,7 @@ ASPELL(spell_calm)
       stop_fighting(vict);
   }
 }					
+
 
 ASPELL(spell_dispel_magic)
 {
@@ -962,6 +964,7 @@ ASPELL(spell_dispel_magic)
 
   return;
 }
+
 
 ASPELL(spell_holy_word)
 {
@@ -1053,6 +1056,7 @@ ASPELL(spell_holy_word)
   }
 }
 
+
 ASPELL(spell_gust)
 {
   int attempt, was_in, i = 0, gone = 0;
@@ -1102,6 +1106,7 @@ ASPELL(spell_gust)
     return;
   }
 }
+
 
 ASPELL(spell_teleport_object)
 {
@@ -1156,6 +1161,7 @@ ASPELL(spell_teleport_object)
   }
 
 }
+
 
 ASPELL(spell_energy_drain)
 {
@@ -1231,6 +1237,7 @@ struct char_data *get_chain_vict(struct char_data * ch)
   return (victs[number(0, numvict - 1)]);
 }
 
+
 ASPELL(spell_chain)
 {
 /*
@@ -1284,6 +1291,7 @@ ASPELL(spell_chain)
     damage(ch, vict, dam, SPELL_CHAIN_LIGHTNING);
   }
 }
+
 
 ASPELL(spell_identify)
 {
@@ -1391,6 +1399,7 @@ ASPELL(spell_identify)
   }
 }
 
+
 ASPELL(spell_cripple)
 {
   struct affected_type af;
@@ -1422,6 +1431,7 @@ ASPELL(spell_cripple)
   GET_POS(victim) = POS_RESTING;
 
 }
+
 
 ASPELL(spell_recharge_item)
 {
