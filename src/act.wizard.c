@@ -2828,35 +2828,35 @@ ACMD(do_gshow)
    { "brief",		LVL_GOD, 	PC, 	BINARY },  /* 0 */
    { "gdetect",	 	LVL_GOD, 	PC, 	BINARY },  /* 1 */
    { "title",		LVL_GOD, 	PC, 	MISC },
-   { "none",            50,             PC,     MISC },
-   { "maxhit",		LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "none",            50,             PC,     MISC },  /* 5 */
-   { "maxmove", 	LVL_GRGOD, 	BOTH, 	NUMBER },
+   { "none",        50,         PC,     MISC },
+   { "maxhit",		LVL_ADMIN, 	BOTH, 	NUMBER },
+   { "none",        50,         PC,     MISC },  /* 5 */
+   { "maxmove", 	LVL_ADMIN, 	BOTH, 	NUMBER },
    { "hit", 		LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "none 2",          50,             PC,     MISC },
+   { "none 2",      50,         PC,     MISC },
    { "move",		LVL_GRGOD, 	BOTH, 	NUMBER },
    { "align",		LVL_DEPTHEAD, 	BOTH, 	NUMBER },  /* 10 */
-   { "str",		LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "stradd",		LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "int", 		LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "wis", 		LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "dex", 		LVL_GRGOD, 	BOTH, 	NUMBER },  /* 15 */
-   { "con", 		LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "cha",		LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "ac", 		LVL_GRGOD, 	BOTH, 	NUMBER },
+   { "str",		    LVL_ADMIN, 	BOTH, 	NUMBER },
+   { "stradd",		LVL_ADMIN, 	BOTH, 	NUMBER },
+   { "int", 		LVL_ADMIN, 	BOTH, 	NUMBER },
+   { "wis", 		LVL_ADMIN, 	BOTH, 	NUMBER },
+   { "dex", 		LVL_ADMIN, 	BOTH, 	NUMBER },  /* 15 */
+   { "con", 		LVL_ADMIN, 	BOTH, 	NUMBER },
+   { "cha",		    LVL_ADMIN, 	BOTH, 	NUMBER },
+   { "ac", 		    LVL_ADMIN, 	BOTH, 	NUMBER },
    { "money(cp)",	LVL_DEPTHEAD, 	BOTH, 	NUMBER },
    { "bank",		LVL_DEPTHEAD, 	PC, 	NUMBER },  /* 20 */
-   { "exp", 		LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "hitroll", 	LVL_GRGOD, 	BOTH, 	NUMBER },
-   { "damroll", 	LVL_GRGOD, 	BOTH, 	NUMBER },
+   { "exp", 		LVL_ADMIN, 	BOTH, 	NUMBER },
+   { "hitroll", 	LVL_ADMIN, 	BOTH, 	NUMBER },
+   { "damroll", 	LVL_ADMIN, 	BOTH, 	NUMBER },
    { "invis",		LVL_IMPL, 	PC, 	NUMBER },
    { "nohassle", 	LVL_GRGOD, 	PC, 	BINARY },  /* 25 */
    { "frozen",		LVL_FREEZE, 	PC, 	BINARY },
-   { "practices", 	LVL_GRGOD, 	PC, 	NUMBER },
-   { "lessons", 	LVL_GRGOD, 	PC, 	NUMBER },
+   { "practices", 	LVL_ADMIN, 	PC, 	NUMBER },
+   { "lessons", 	LVL_ADMIN, 	PC, 	NUMBER },
    { "drunk",		LVL_GRGOD, 	BOTH, 	MISC },
-   { "hunger",		LVL_ADMIN, 	BOTH, 	MISC },    /* 30 */
-   { "thirst",		LVL_ADMIN, 	BOTH, 	MISC },
+   { "hunger",		LVL_GRGOD, 	BOTH, 	MISC },    /* 30 */
+   { "thirst",		LVL_GRGOD, 	BOTH, 	MISC },
    { "killer",		LVL_IMPL, 	PC, 	BINARY },
    { "thief",		LVL_IMPL, 	PC, 	BINARY },
    { "level",		LVL_IMPL, 	BOTH, 	NUMBER },
@@ -2867,27 +2867,27 @@ ACMD(do_gshow)
    { "class",		LVL_ADMIN, 	BOTH, 	MISC },
    { "nowizlist", 	LVL_GOD, 	PC, 	BINARY },  /* 40 */
    { "quest",		LVL_DEPTHEAD, 	PC, 	BINARY },
-   { "loadroom", 	LVL_GOD, 	PC, 	MISC },
-   { "color",		LVL_GOD, 	PC, 	BINARY },
-   { "idnum",		LVL_IMPL, 	PC, 	NUMBER },
-   { "passwd",		LVL_IMPL, 	PC, 	MISC },    /* 45 */
-   { "nodelete", 	LVL_GRGOD, 	PC, 	BINARY },
-   { "sex", 		LVL_GRGOD, 	BOTH, 	MISC },
-   { "olc",		LVL_IMPL,	PC,	NUMBER },
-   { "race",            LVL_GRGOD,      PC,     MISC },
-   { "questpoints",	LVL_GRGOD,	PC,	NUMBER }, /* 50 */
-   { "testchar",	LVL_GRGOD,	PC,	BINARY },
-   { "rpfactor",	LVL_GRGOD,	PC,	NUMBER },
-   { "trust",           LVL_IMPL,       PC,     NUMBER },
-   { "god",             LVL_GRGOD,      PC,     MISC},
-   { "immchar",         LVL_GRGOD,      PC,     BINARY},  /* 55 */
-   { "freerent",        LVL_ADMIN,      PC,     BINARY},
-   { "ethos",           LVL_DEPTHEAD,   BOTH,   NUMBER},
-   { "clan",            LVL_GRGOD,      PC,     NUMBER},
-   { "clanlevel",       LVL_GRGOD,      PC,     NUMBER},
-   { "hometown",        LVL_IMPL,       PC,     NUMBER},  /* 60 */
-   { "prisoner",        35,		PC,	BINARY},
-   { "age",             LVL_GRGOD,      PC,     NUMBER},
+   { "loadroom", 	LVL_GOD, 	    PC, 	MISC },
+   { "color",		LVL_GOD, 	    PC, 	BINARY },
+   { "idnum",		LVL_IMPL, 	    PC, 	NUMBER },
+   { "passwd",		LVL_IMPL, 	    PC, 	MISC },    /* 45 */
+   { "nodelete", 	LVL_GRGOD, 	    PC, 	BINARY },
+   { "sex", 		LVL_GRGOD, 	    BOTH, 	MISC },
+   { "olc",		    LVL_IMPL,	    PC,	    NUMBER },
+   { "race",        LVL_GRGOD,      PC,     MISC },
+   { "questpoints",	LVL_GRGOD,	    PC,	    NUMBER }, /* 50 */
+   { "testchar",	LVL_GRGOD,	    PC,	    BINARY },
+   { "rpfactor",	LVL_GRGOD,	    PC,	    NUMBER },
+   { "trust",       LVL_IMPL,       PC,     NUMBER },
+   { "god",         LVL_GRGOD,      PC,     MISC},
+   { "immchar",     LVL_GRGOD,      PC,     BINARY},  /* 55 */
+   { "freerent",    LVL_ADMIN,      PC,     BINARY},
+   { "ethos",       LVL_DEPTHEAD,   BOTH,   NUMBER},
+   { "clan",        LVL_GRGOD,      PC,     NUMBER},
+   { "clanlevel",   LVL_GRGOD,      PC,     NUMBER},
+   { "hometown",    LVL_IMPL,       PC,     NUMBER},  /* 60 */
+   { "prisoner",    LVL_DEPTHEAD,	PC,	    BINARY},
+   { "age",         LVL_GRGOD,      PC,     NUMBER},
    { "\n", 0, BOTH, MISC }
   };
 
