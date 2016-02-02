@@ -313,7 +313,11 @@
 #define SKILL_THROW_OPPONENT        279
 #define SKILL_CHALLENGE             280
 #define SKILL_MARK                  281
-
+#define SKILL_SMITE_GOOD            282
+#define SKILL_SMITE_EVIL            283
+#define SKILL_SMITE_LAW             284
+#define SKILL_SMITE_CHAOS           285
+#define SKILL_SUMMON_MOUNT          286
 /*  New skills up to 300  - Luni  */
 
 /*

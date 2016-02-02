@@ -1576,7 +1576,10 @@ ACMD(do_detect_poison)
 
 ACMD(do_lay_hands)
 {
-  int amount;
+  int amount, cha_modifier;
+  int BASE_CHA_MODIFIER = 4;
+  int BASE_CHA = 12;
+  int char_charisma = GET_CHA(ch);
   struct char_data * vict;
 
   if (!GET_SKILL(ch, SKILL_LAY_HANDS))
@@ -1622,7 +1625,13 @@ ACMD(do_lay_hands)
     return;
   }
 
-  amount = GET_LEVEL(ch) * 2;
+  if (char_charisma > BASE_CHA) {
+    cha_modifier = BASE_CHA + char_charisma;
+  } else {
+    cha_modifier= BASE_CHA - char_charisma;
+  }
+
+  amount = GET_LEVEL(ch) * (BASE_CHA_MODIFIER + cha_modifier);
 
   GET_HIT(vict) = MIN(GET_HIT(vict) + amount, GET_MAX_HIT(vict));
 
@@ -1721,6 +1730,7 @@ struct affected_type af[3];
   ch->player.time.last_stance = time(0);
   return;
 }
+
 
 ACMD(do_chakra)
 {
@@ -1884,6 +1894,7 @@ ACMD(do_assess)
   return;
 }
 
+
 ACMD(do_assess_magic)
 {
   int value;
@@ -1973,6 +1984,7 @@ ACMD(do_assess_magic)
   return;
 }
 
+
 ACMD(do_parse_assess)
 {
   if (GET_SKILL(ch, SKILL_ASSESS))
@@ -1984,6 +1996,7 @@ ACMD(do_parse_assess)
 
   return;
 }
+
 
 ACMD(do_break)
 {
@@ -2001,6 +2014,7 @@ ACMD(do_break)
 
   return;
 }
+
 
 ACMD(do_relax)
 {
@@ -2031,6 +2045,7 @@ ACMD(do_subdue)
    send_to_char("You will now fight to subdue.\r\n", ch);
    return;
 }
+
 
 ACMD(do_skin)
 {
@@ -2152,6 +2167,7 @@ ACMD(do_skin)
 send_to_char("Just skin corpses ok?\r\n", ch);
 }
 
+
 void assign_skin_value(struct char_data *ch, struct obj_data *corpse)
 { int i;
 /* DON'T pass  PC to this routine! */
@@ -2160,124 +2176,137 @@ for(i = 0; i < 4; i++)
 return;
 }
 
+
 ACMD(do_douse)
 {
-  
-  struct obj_data *fire;
-  int d_num, douse_num;
-  struct obj_data *douse;
-  one_argument(argument, buf);
+    struct obj_data *fire;
+    int d_num, douse_num;
+    struct obj_data *douse;
+    one_argument(argument, buf);
 
+    if (!*buf) {
+      send_to_char("Douse what?\r\n", ch);
+    } else {
+        fire = get_obj_in_list_vis(ch, buf, world[ch->in_room].contents);
 
- if (!*buf) 
-    send_to_char("Douse what?\r\n", ch);
-
- else {
-
-if ((fire =get_obj_in_list_vis(ch, buf, world[ch->in_room].contents)) &&
-         ( GET_OBJ_VNUM(fire) == VNUM_FIRE) ) {
- send_to_char("You douse the fire.\r\n", ch);
- act("$n douses the fire.", FALSE, ch, 0, 0, TO_ROOM);
- extract_obj(fire);
- douse_num = 2;
- d_num = real_object(douse_num);
- douse = read_object(d_num, REAL);
- obj_to_room(douse, ch->in_room);
-
+//        if (fire && GET_OBJ_VNUM(fire) == VNUM_FIRE) {
+        if (fire && GET_OBJ_VNUM(fire) == VNUM_FIRE) {
+            send_to_char("You douse the fire.\r\n", ch);
+            act("$n douses the fire.", FALSE, ch, 0, 0, TO_ROOM);
+            extract_obj(fire);
+            douse_num = 2;
+            d_num = real_object(douse_num);
+            douse = read_object(d_num, REAL);
+            obj_to_room(douse, ch->in_room);
+            world[ch->in_room].light -= 10;
+        } else  {
+            send_to_char("You can't douse that.\r\n", ch);
+        }
+    }
 }
 
-else 
-   send_to_char("You can't douse that.\r\n", ch);
-}
-}
-  
-ACMD(do_build_fire) 
-{
-  struct obj_data *fire;
-  int burn, percent;
-  struct obj_data *firewood;
-  one_argument(argument, arg);
 
-  percent = number(1, 101);
+ACMD(do_build_fire) {
+    struct obj_data *fire;
+    int burn, percent;
+    struct obj_data *firewood;
+//    one_argument(argument, arg);
 
-  if (!*arg) {
-    send_to_char("Build fire with what?\r\n", ch);
-    return;
-  }
+    percent = number(1, 101);
 
+//    if (!*arg) {
+//        send_to_char("Build fire with what?\r\n", ch);
+//        return;
+//    }
 
-  if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING || GET_POS(ch) ==  POS_RIDING) {
-     send_to_char("You are not in a proper position for that!\r\n", ch);
-    return;
-}
- 
- if (GET_SKILL(ch, SKILL_BUILD_FIRE) == 0)
-    {
-      send_to_char("That skill is unfamiliar to you.\r\n", ch);
-      return ;
-    }
-
- if ((SECT(ch->in_room) == SECT_INSIDE) || (SECT(ch->in_room) == SECT_CITY))
-    {
-      send_to_char("You cannot build a fire here!\r\n", ch);
-      return ;
-    }
-
- if ((SECT(ch->in_room) == SECT_WATER_SWIM) ||
-     (SECT(ch->in_room) == SECT_WATER_NOSWIM))
-    {
-      send_to_char("How can you build a fire in water?\r\n", ch);
-      return;
-    }
-
- if (SECT(ch->in_room) == SECT_UNDERWATER)
-    {
-      send_to_char("You cannot build a fire underwater!\r\n", ch);
-      return;
-    }
-
- if (!(firewood = get_obj_in_list_vis(ch, arg, ch->carrying))) {
-    sprintf(buf, "You don't seem to have %s %s.\r\n", AN(arg), arg);
-    send_to_char(buf, ch);
-    return;
-  }
-
-else {
-
-if(GET_OBJ_TYPE(firewood) != ITEM_FIREWOOD) {
-    send_to_char("You want to build a fire with that?!!\r\n", ch);
-      return ;
-  }
-
-else if (!use_skill(ch, percent, SKILL_BUILD_FIRE))
-    {
-      burn = number(1, 10);
-      if (burn <=4) {
-      send_to_char("You only succeed in burning your fingers. Ouch!\r\n", ch);
-      damage(ch, ch, dice(1,6), -1);
-      return;
-    }
-     else {
-        sprintf(buf, "You fail to get the fire going with %s.\r\n", firewood->short_description);
-        act("$n fails to get the fire going with $p.\r\n",
-        FALSE, ch, firewood, 0, TO_ROOM);
-        send_to_char(buf, ch);
+    if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING || GET_POS(ch) == POS_RIDING) {
+        send_to_char("You are not in a proper position for that!\r\n", ch);
         return;
-     }
     }
 
+    if (GET_SKILL(ch, SKILL_BUILD_FIRE) == 0) {
+        send_to_char("That skill is unfamiliar to you.\r\n", ch);
+        return;
+    }
 
-  fire = read_object(VNUM_FIRE, VIRTUAL);
-  GET_OBJ_TIMER(fire) = 12;
-  obj_to_room(fire, ch->in_room);
-   
-  act("You have built a fire from $p.", FALSE, ch, firewood, 0, TO_CHAR);
-  act("$n has built a fire from $p.", TRUE, ch, firewood, 0, TO_ROOM);
-  
-  extract_obj(firewood);
-  return;
+    if ((SECT(ch->in_room) == SECT_INSIDE) || (SECT(ch->in_room) == SECT_CITY)) {
+        send_to_char("You cannot build a fire here!\r\n", ch);
+        return;
+    }
+
+    if ((SECT(ch->in_room) == SECT_WATER_SWIM) || (SECT(ch->in_room) == SECT_WATER_NOSWIM)) {
+        send_to_char("How can you build a fire in water?\r\n", ch);
+        return;
+    }
+
+    if (SECT(ch->in_room) == SECT_UNDERWATER) {
+        send_to_char("You cannot build a fire underwater!\r\n", ch);
+        return;
+    }
+
+//    if (!(firewood = get_obj_in_list_vis(ch, arg, ch->carrying))) {
+//        sprintf(buf, "You don't seem to have %s %s.\r\n", AN(arg), arg);
+//        send_to_char(buf, ch);
+//        return;
+//    } else {
+//
+//        if (GET_OBJ_TYPE(firewood) != ITEM_FIREWOOD) {
+//            send_to_char("You want to build a fire with that?!!\r\n", ch);
+//            return ;
+//        } else if (!use_skill(ch, percent, SKILL_BUILD_FIRE)) {
+//            burn = number(1, 10);
+//
+//            if (burn <= 4) {
+//                send_to_char("You only succeed in burning your fingers. Ouch!\r\n", ch);
+//                damage(ch, ch, dice(1,6), -1);
+//                return;
+//            } else {
+//                sprintf(buf, "You fail to get the fire going with %s.\r\n", firewood->short_description);
+//                act("$n fails to get the fire going with $p.\r\n",
+//                FALSE, ch, firewood, 0, TO_ROOM);
+//                send_to_char(buf, ch);
+//                return;
+//            }
+//        }
+//
+//        fire = read_object(VNUM_FIRE, VIRTUAL);
+//        GET_OBJ_TIMER(fire) = 12;
+//        obj_to_room(fire, ch->in_room);
+//        world[ch->in_room].light += 10;
+//
+//        act("You have built a fire from $p.", FALSE, ch, firewood, 0, TO_CHAR);
+//        act("$n has built a fire from $p.", TRUE, ch, firewood, 0, TO_ROOM);
+//
+//        extract_obj(firewood);
+//        return;
+//    }
+
+    if (!use_skill(ch, percent, SKILL_BUILD_FIRE)) {
+        // 40% chance to burn yourself upon failing.
+        if (number(1, 10) <= 4) {
+            send_to_char("You only succeed in burning your fingers. Ouch!\r\n", ch);
+            damage(ch, ch, dice(1, 6), -1);
+            return;
+        } else {
+            sprintf(buf, "You fail to get the fire going with %s.\r\n", firewood->short_description);
+            act("$n fails to get the fire going with $p.\r\n",
+            FALSE, ch, firewood, 0, TO_ROOM);
+            send_to_char(buf, ch);
+            return;
+        }
+    }
+
+    fire = read_object(VNUM_FIRE, VIRTUAL);
+    GET_OBJ_TIMER(fire) = 12;
+    obj_to_room(fire, ch->in_room);
+    world[ch->in_room].light += 10;
+
+    act("You have built a fire from $p.", FALSE, ch, firewood, 0, TO_CHAR);
+    act("$n has built a fire from $p.", TRUE, ch, firewood, 0, TO_ROOM);
+
+    return;
 }
-}
+
 
 ACMD(do_cook) 
 {
