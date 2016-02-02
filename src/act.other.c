@@ -2210,7 +2210,7 @@ ACMD(do_build_fire) {
     struct obj_data *fire;
     int burn, percent;
     struct obj_data *firewood;
-//    one_argument(argument, arg);
+    one_argument(argument, arg);
 
     percent = number(1, 101);
 
