@@ -915,23 +915,19 @@ if(IS_SET(ROOM_FLAGS(ch->in_room), ROOM_DEATH) && ridden_by && GET_LEVEL(RIDDEN_
 
 
 int perform_move(struct char_data *ch, int dir, int need_specials_check) {
-    log("mobile_activity->perform_move");
     int was_in;
     struct follow_type *k, *next;
 
-    log("mobile_activity->perform_move->fishing");
     if (GET_POS(ch) == POS_FISHING) {
         send_to_char("But you are fishing!\r\n", ch);
         return 0;
     }
 
-    log("mobile_activity->perform_move->fighting");
     if (GET_POS(ch) == POS_DIGGING) {
         send_to_char("But you are digging!\r\n", ch);
         return 0;
     }
 
-    log("mobile_activity->perform_move->riding");
     if (RIDING(ch)) {
         if (GET_POS(RIDING(ch)) == POS_RESTING || GET_POS(RIDING(ch)) == POS_SITTING) {
             send_to_char("But your mount is resting!\r\n", ch);
@@ -971,7 +967,6 @@ int perform_move(struct char_data *ch, int dir, int need_specials_check) {
             return 0;
         }
 
-        log("For loop");
         for (k = ch->followers; k; k = next) {
             next = k->next;
 
@@ -983,13 +978,11 @@ int perform_move(struct char_data *ch, int dir, int need_specials_check) {
             }
 
         }
-        log("For loop end.");
 
         return 1;
     }
 
   return 0;
-  log("End move");
 }
 
 ACMD(do_move)
