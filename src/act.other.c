@@ -2198,7 +2198,6 @@ ACMD(do_douse)
             d_num = real_object(douse_num);
             douse = read_object(d_num, REAL);
             obj_to_room(douse, ch->in_room);
-            world[ch->in_room].light -= 10;
         } else  {
             send_to_char("You can't douse that.\r\n", ch);
         }
@@ -2210,7 +2209,7 @@ ACMD(do_build_fire) {
     struct obj_data *fire;
     int burn, percent;
     struct obj_data *firewood;
-    one_argument(argument, arg);
+    //one_argument(argument, arg);
 
     percent = number(1, 101);
 
@@ -2282,8 +2281,10 @@ ACMD(do_build_fire) {
 //    }
 
     if (!use_skill(ch, percent, SKILL_BUILD_FIRE)) {
+        burn = number(1, 10);
+
         // 40% chance to burn yourself upon failing.
-        if (number(1, 10) <= 4) {
+        if (burn <= 4) {
             send_to_char("You only succeed in burning your fingers. Ouch!\r\n", ch);
             damage(ch, ch, dice(1, 6), -1);
             return;
@@ -2299,10 +2300,9 @@ ACMD(do_build_fire) {
     fire = read_object(VNUM_FIRE, VIRTUAL);
     GET_OBJ_TIMER(fire) = 12;
     obj_to_room(fire, ch->in_room);
-    world[ch->in_room].light += 10;
 
-    act("You have built a fire from $p.", FALSE, ch, firewood, 0, TO_CHAR);
-    act("$n has built a fire from $p.", TRUE, ch, firewood, 0, TO_ROOM);
+    act("You have built a fire.", FALSE, ch, 0, 0, TO_CHAR);
+    act("$n has built a fire.", TRUE, ch, 0, 0, TO_ROOM);
 
     return;
 }
