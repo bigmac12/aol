@@ -2,6 +2,9 @@
 City of Karthay II~
 5199 15 2
 * ZoneState 1 unowned 000000000000000
+M 0 5170 6 5178 	(a weary housekeeper)
+O 1 410 1 5178 	(a short coffee table)
+P 1 430 5 410 	(a bronze key on a black string)
 M 0 5112 1 5179 	(Cinnabar, the Leathersmith)
 G 1 5171 10000 -1 	(a thin, leather cap)
 G 1 5167 10000 -1 	(&ca thick, woven scarf dyed a deep sea-green&n)
@@ -117,7 +120,6 @@ R 0 5187 5197 -1 	(a massive cauldron of flame)
 O 0 5197 1 5187 	(a massive cauldron of flame)
 M 0 5017 1 5187 	(the black-robed cleric)
 E 1 5023 10 12 	(&Ka beltless, black cloth hooded robe with silk trim&n)
-M 0 5170 6 5178 	(a weary housekeeper)
 M 0 5170 6 5177 	(a weary housekeeper)
 M 0 5170 6 5175 	(a weary housekeeper)
 M 0 5170 6 5174 	(a weary housekeeper)

@@ -1,7 +1,17 @@
 #190
 Housing~
 19099 30 2
-* ZoneState 3 -NONE- 000000000000000
+* ZoneState 1 unowned 000000000000000
+R 0 19074 19075 -1 	(a set of delicate silver writing utensils)
+R 0 19074 19075 -1 	(a set of delicate silver writing utensils)
+R 0 19074 19075 -1 	(a set of delicate silver writing utensils)
+R 0 19074 19075 -1 	(a set of delicate silver writing utensils)
+O 0 19075 3 19074 	(a set of delicate silver writing utensils)
+O 0 19075 3 19074 	(a set of delicate silver writing utensils)
+O 0 19075 3 19074 	(a set of delicate silver writing utensils)
+M 0 19072 1 19074 	(Ku'rosh, a large, gold and silver spider)
+D 0 19074 1 1 	(An Ornate Study)
+D 1 19074 1 2 	(An Ornate Study)
 M 0 19030 1 19032 	(a weary housekeeper)
 D 0 19034 0 1 	(A Long Bridge)
 M 0 19034 1 19035 	(a'Karonys)
@@ -109,14 +119,6 @@ D 0 19076 2 1 	(A Dark, Dimly Lit Room)
 D 1 19076 2 2 	(A Dark, Dimly Lit Room)
 D 0 19079 2 1 	(The Crescent Chamber)
 D 1 19079 2 2 	(The Crescent Chamber)
-R 0 19074 19075 -1 	(a set of delicate silver writing utensils)
-R 0 19074 19075 -1 	(a set of delicate silver writing utensils)
-R 0 19074 19075 -1 	(a set of delicate silver writing utensils)
-R 0 19074 19075 -1 	(a set of delicate silver writing utensils)
-O 0 19075 3 19074 	(a set of delicate silver writing utensils)
-O 0 19075 3 19074 	(a set of delicate silver writing utensils)
-O 0 19075 3 19074 	(a set of delicate silver writing utensils)
-M 0 19072 1 19074 	(Ku'rosh, a large, gold and silver spider)
 O 0 19072 1 19073 	(a coffee table)
 P 0 19074 4 19072 	(a piece of crabmeat)
 P 0 19073 4 19072 	(a bottle of sweet elven wine)

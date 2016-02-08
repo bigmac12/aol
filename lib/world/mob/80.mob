@@ -13,6 +13,7 @@ eyes to block out light.
 600 11800 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #8001
 citizen man~
@@ -29,6 +30,7 @@ is careful not to let his gaze meet that of any passing nobles.
 33 800 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #8002
 citizen woman local~
@@ -45,6 +47,7 @@ cast down toward the ground as she passes fellow citizens of Istar.
 22 400 0
 8 8 2 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #8003
 exhausted woman tired~
@@ -62,6 +65,7 @@ indicates she has not yet given up hope for a better tomorrow.
 12 85 0
 8 8 2 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #8004
 poor child~
@@ -77,6 +81,7 @@ he sighs heavily.
 1 20 15 1d2+5 1d4+0
 1 7 0
 8 8 1 0
+Maxmove: 50
 E
 #8005
 man large disheveled thick bruised~
@@ -93,6 +98,7 @@ and was about to give up.
 35 175 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #8006
 Maerlis herbalist middle aged beautiful~
@@ -110,6 +116,7 @@ brown tunic and medium brown and white skirt, and greets you with a warm smile.
 100000 300000 0
 8 8 2 0
 BareHandAttack: 14
+Maxmove: 50
 E
 #8007
 smiling elegant lady woman~
@@ -125,6 +132,7 @@ lovely than noticeable at first glance.
 9 15 7 5d5+130 2d7+1
 84 1300 0
 8 8 0 0
+Maxmove: 50
 E
 #8008
 city guard patrol~
@@ -143,6 +151,7 @@ scanning the area, on the lookout for thieves, ruffians, drunks, muggers, and
 300 7000 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #8009
 high guard istar~
@@ -161,6 +170,7 @@ opponent.
 20 8 -4 3d20+550 3d7+6
 878 25000 0
 8 8 1 0
+Maxmove: 50
 E
 #8010
 priest cleric Istar~
@@ -177,6 +187,7 @@ people of this fair city.
 8 15 8 5d5+110 2d6+2
 70 800 2
 8 8 1 0
+Maxmove: 50
 E
 #8011
 priest cleric istar~
@@ -193,6 +204,7 @@ goodness to the people of this fair city.
 8 15 8 5d5+110 2d6+2
 70 800 2
 8 8 2 0
+Maxmove: 50
 E
 #8012
 cleric istar priest~
@@ -208,6 +220,7 @@ what he is saying.
 8 16 4 1d1+120 1d6+4
 70 790 2
 8 8 1 0
+Maxmove: 50
 E
 #8013
 cleric paladine preacher priest~
@@ -222,6 +235,7 @@ the back with the symbol of the Platinum Dragon, showing his allegiance.
 9 15 7 5d5+130 2d7+1
 80 1300 2
 8 8 1 0
+Maxmove: 50
 E
 #8014
 cleric mishakal preacher priest~
@@ -237,6 +251,7 @@ showing her allegiance.
 10 14 6 5d4+160 2d7+2
 90 1900 2
 8 8 1 0
+Maxmove: 50
 E
 #8015
 noble nobleman green~
@@ -253,6 +268,7 @@ hand, he tosses change to beggars and commoners on the streets.
 90 1900 0
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 T 8000
 #8016
@@ -269,6 +285,7 @@ them, from a boy's second home, the dirt.
 11 50 0
 8 8 1 0
 BareHandAttack: 1
+Maxmove: 50
 E
 #8017
 small girl~
@@ -283,6 +300,7 @@ dirtied from being close to the dusty ground.
 3 19 13 1d5+25 1d6+1
 6 25 0
 8 8 2 0
+Maxmove: 50
 E
 #8018
 beggar slumped drunk drunken~
@@ -299,6 +317,7 @@ chipped and diseased teeth, then goes quickly back to the bottle.
 21 85 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #8019
 wide eyed beggar wide-eyed rusty~
@@ -315,6 +334,7 @@ animals to sleep on, he holds out a cup, begging for alms.
 27 175 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 T 8001
 T 8002
@@ -335,6 +355,7 @@ he may not be the most trustworthy of salesmen.
 70 800 0
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #8021
 white mage solinari~
@@ -351,6 +372,7 @@ set them on fire at a whim.
 95 2900 1
 8 8 2 0
 BareHandAttack: 14
+Maxmove: 50
 E
 #8022
 old man wisened~
@@ -367,6 +389,7 @@ taking a walk about Istar, he seems to be happy.
 22 85 0
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #8023
 woman old elderly~
@@ -381,6 +404,7 @@ the decoration on the dress, it looks as though she was once quite wealthy.
 3 19 13 1d5+25 1d6+1
 4 25 0
 8 8 2 0
+Maxmove: 50
 E
 #8024
 spectator~
@@ -397,6 +421,7 @@ who could become easily passionate about anything.
 70 800 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #8025
 nobleman~
@@ -415,6 +440,7 @@ tomorrow and will already be on to a new trend.
 200 6625 0
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #8026
 clumsy man~
@@ -431,6 +457,7 @@ through.
 32 175 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #8027
 guard hatch brutish armed man~
@@ -447,6 +474,7 @@ as you near him.
 386 8400 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #8028
 gladiator slave~
@@ -463,6 +491,7 @@ into slavery.
 95 2900 3
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #8029
 gladiator slave~
@@ -478,6 +507,7 @@ skilled warriors, she draws much attention from other warriors.
 486 11000 0
 8 8 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #8030
 Jorin middle aged shopkeeper~
@@ -494,6 +524,7 @@ clean white apron hangs over his front.
 31 0 -15 3d33+2000 4d8+10
 100000 300000 0
 8 8 1 0
+Maxmove: 50
 E
 #8031
 karthan arms merchant~
@@ -510,6 +541,7 @@ merchant, but he knows his weapons.
 31 0 -15 3d33+2000 4d8+10
 100000 300000 0
 8 8 1 0
+Maxmove: 50
 E
 #8032
 butler old aged~
@@ -526,6 +558,7 @@ stiffly as you approach him, half-wincing at the movement.
 82 1300 0
 8 8 0 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #8033
 lord house~
@@ -542,6 +575,7 @@ you completely.
 14 12 2 6d8+240 2d8+4
 311 7000 0
 8 8 0 0
+Maxmove: 50
 E
 #8034
 Jarabok huge leather-clad warrior trainer~
@@ -560,6 +594,7 @@ duty is to train others, and that would include you.
 0 1 3
 8 8 1 2
 BareHandAttack: 3
+Maxmove: 50
 E
 #8059
 angry minotaur mino muscular~
@@ -578,6 +613,24 @@ from a minotaur's features, this one seems rather pissed.
 900 33500 3
 8 8 1 0
 BareHandAttack: 16
+Maxmove: 50
+E
+#8080
+warrior istar army broad~
+a fairly large military unit~
+A broad warrior wearing white armor with the symbol of Istar, marches up the packed highway in a column. 
+~
+   Over six feet in height, this massive male is clad all in newly crafted
+steel armor.  Polished to a high white sheen, it prudently is marked with the
+symbols of the city of Istar.  Marching slowly in a thick column, one heavily
+armored soldier appears like the other.    
+~
+7462920 131072 0 860 E
+30 1 -20 6d33+10000 30d4+10
+96235 900000 3
+8 8 1 0
+BareHandAttack: 3
+Maxmove: 100
 E
 #8090
 mage white robed serenity enjoying~
@@ -594,6 +647,7 @@ carries a small pouch at her side, no doubt filled with components.
 1000 33500 1
 8 8 2 0
 BareHandAttack: 14
+Maxmove: 50
 E
 #8091
 Chaplain~
@@ -611,6 +665,7 @@ bison's horn hangs about his neck.
 900 33500 2
 8 8 1 0
 BareHandAttack: 5
+Maxmove: 50
 E
 #8092
 bilart warrior retired trainer~
@@ -628,6 +683,7 @@ services to whoever wishes to make use of them.
 31 0 -15 3d33+2000 4d8+10
 0 300000 0
 8 8 1 2
+Maxmove: 50
 E
 #8093
 woman beauty flawless noble~
@@ -646,6 +702,7 @@ eyelashes.
 99 2900 0
 8 8 2 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #8094
 guard high istar guard1~
@@ -665,6 +722,7 @@ opponent.
 0 25000 0
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #8095
 paladin paladine guard sentry impressive warrior paladin1~
@@ -683,6 +741,7 @@ name of the holy tenents of Istar.    ~
 1700 175000 7
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #8096
 priest head middle man presence head1~
@@ -701,6 +760,7 @@ causing him to appear somehow diminished.
 30 1 -14 3d33+1700 4d8+9
 0 250000 2
 8 8 1 0
+Maxmove: 50
 E
 #8097
 shadow distorted qqq~
@@ -715,6 +775,7 @@ flesh, churning the air...
 0 0 8
 8 8 0 0
 BareHandAttack: 9
+Maxmove: 50
 E
 #8098
 man dark-haired dark haired green cloak~
@@ -731,6 +792,7 @@ though the fabric could keep off an unseen demon.
 476 7000 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #8099
 messenger church man~
@@ -748,5 +810,6 @@ on his way to deliver his charges.
 123 2900 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 $

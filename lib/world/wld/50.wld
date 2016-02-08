@@ -89,6 +89,14 @@ D3
 ~
 0 0 5002
 E
+sign large road street~
+                 North ----  Seasick Kraken Inn
+                             Seasick Kraken Bar and Grill
+                 East -----  Richwater Street
+                 West -----  Richwater Street
+                 South ----  Sandstone Lane
+~
+E
 plaque carved building~
    The plaque hanging from this oddly coloured building is carved into a huge
 oval, and garishly painted with bright greens, yellows and blues.  The sea
@@ -96,14 +104,6 @@ kraken in the middle of the plaque has its mouth opened wide, and seems to be
 spewing forth frothy water the color of ale, as well as bits of wood, most
 likely from a ship.  Underneath is another smaller plaque with the words:
                         Welcome to the Seasick Kraken
-~
-E
-sign large road street~
-                 North ----  Seasick Kraken Inn
-                             Seasick Kraken Bar and Grill
-                 East -----  Richwater Street
-                 West -----  Richwater Street
-                 South ----  Sandstone Lane
 ~
 S
 #5004
@@ -508,18 +508,18 @@ D3
 ~
 0 0 5018
 E
-sign large street~
-                       North --------- Shore Road
-                       South --------- Shore Road
-                       West ---------- Richwater Street
-                       East ---------- Guild of the Warrior
-~
-E
 plaque building carved~
 This plaque has been carved into the shape of a shield, and hangs at the side
 of the door.  Upon this shield has been painted various weapons, surrounding
 a figure shrouded in rays of light.  The letters underneath the picture reads:
                             Guild of the Warrior
+~
+E
+sign large street~
+                       North --------- Shore Road
+                       South --------- Shore Road
+                       West ---------- Richwater Street
+                       East ---------- Guild of the Warrior
 ~
 S
 #5023
@@ -529,7 +529,7 @@ Pebbles and rocks mixed with clay and sand, and baked altogether into large
 bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road continues north and south.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -548,7 +548,7 @@ roadway.  Washed up over the road is a thin layer of salty weeds and a thin
 film of crystalline white, evidence of a recent high tide that exceeded the
 breakwater in place below the extensive docks present in Karthay.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -567,7 +567,7 @@ roadway.  Washed up over the road is a thin layer of salty weeds and a thin
 film of crystalline white, evidence of a recent high tide that exceeded the
 breakwater in place below the extensive docks present in Karthay.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -585,7 +585,7 @@ bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road continues north and turns to the east, and a smaller road
 starts here, leading southwest into the heart of the city.    
 ~
-50 4 0 0 0
+50 32772 0 0 0
 D0
 ~
 ~
@@ -614,7 +614,7 @@ roadway.  The rich smell of the sea overpowers the senses as a full gust of air
 from the water blows in from the direction of the docks.  The road continues west
 and turns to the south.    
 ~
-50 4 0 0 0
+50 32772 0 0 0
 D1
 ~
 ~
@@ -636,7 +636,7 @@ bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The rich smell of the sea overpowers as a gust of air from the water
 blows in from the docks.  The road travels west and turns to the south.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -659,7 +659,7 @@ roadway.  The road leads north and south, with a large, open-sided building to
 the west, where the pungent smell of fish - cooked and uncooked - drifts by
 with even the slightest breeze.    
 ~
-50 4 0 0 0
+50 32772 0 0 0
 D0
 ~
 ~
@@ -691,7 +691,7 @@ bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road leads to the north and south, and a large building lies to
 the west, its windows wide open to let out the overwhelming smell of fish.    
 ~
-50 4 0 0 0
+50 32772 0 0 0
 D0
 ~
 ~
@@ -717,7 +717,7 @@ bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road leads north, and turns to the east.  A small alleyway lies
 to the southwest, dark and rarely used.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -738,7 +738,7 @@ Pebbles and rocks mixed with clay and sand, and baked altogether into large
 bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road continues to the east and west.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D1
 ~
 ~
@@ -755,7 +755,7 @@ Pebbles and rocks mixed with clay and sand, and baked altogether into large
 bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road continues east and west.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D1
 ~
 ~
@@ -772,7 +772,7 @@ Pebbles and rocks mixed with clay and sand, and baked altogether into large
 bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road leads west, and turns to the south.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D2
 ~
 ~
@@ -789,7 +789,7 @@ Pebbles and rocks mixed with clay and sand, and baked altogether into large
 bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road leads north and south, and to the west is a small building.
 ~
-50 4 0 0 0
+50 32772 0 0 0
 D0
 ~
 ~
@@ -818,7 +818,7 @@ Pebbles and rocks mixed with clay and sand, and baked altogether into large
 bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road continues to the north and south.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -835,7 +835,7 @@ Pebbles and rocks mixed with clay and sand, and baked altogether into large
 bricks, with hardened dirt inbetween the bricks makes a surprisingly smooth
 roadway.  The road continues to the north and south.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -867,18 +867,18 @@ D9
 ~
 0 0 5130
 E
+sign street large~
+                  North ----------- Shore Road
+                  West ------------ Calere Lane
+                  Southeast ------ Temple of Zeboim
+~
+E
 plaque building carved~
 The plaque hanging upon this building is done in intricately carved designs
 and painted in shades of blue, white, and grey.  The designs portray a
 stormy sea, with rolling waves crashing and splashing all around.  Deep
 black letters surrounded by dark blue is done in a flowing script, reading:
                  Ye Temple of the Great Sea Goddess, Zeboim
-~
-E
-sign street large~
-                  North ----------- Shore Road
-                  West ------------ Calere Lane
-                  Southeast ------ Temple of Zeboim
 ~
 S
 #5039
@@ -957,7 +957,7 @@ that traverses between the opposing buildings of the streets.  Large banners of
 the Karthay navy are hung from this denoting a long since past festival
 celebrating one of their victories.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D1
 ~
 ~
@@ -1225,12 +1225,6 @@ D8
 ~
 0 0 5155
 E
-sign street large~
-                           North -------- Sandstone Lane
-                           East --------- Calere Lane
-                           Southwest ---- SeaMist Tower
-~
-E
 plaque building carved~
 This plaque is elegantly done in the same shimmering black as the rest
 of the walls, and the tower, is done in.  Deeply etched silver and gold
@@ -1246,6 +1240,12 @@ lettering can be seen within the plaque, shimmering to catch your eye.
                  in herbs, flowers, and other plants.
 
                         Beware of Dragon
+~
+E
+sign street large~
+                           North -------- Sandstone Lane
+                           East --------- Calere Lane
+                           Southwest ---- SeaMist Tower
 ~
 S
 #5055
@@ -1652,7 +1652,7 @@ painted, and some in more need of repair - yet all have a spacious feel to
 them.  Toward the heart of the city, where it is most crowded, lies a great
 fountain, complete with an amazingly realistic crystal statue.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D3
 ~
 ~
@@ -1680,7 +1680,7 @@ painted, and some in more need of repair - yet all have a spacious feel to
 them.  Toward the heart of the city, where it is most crowded, lies a great
 fountain, complete with an amazingly realistic crystal statue.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D6
 ~
 ~
@@ -1705,7 +1705,7 @@ fountain, complete with an amazingly realistic crystal statue.  The sound of a
 gentle fountain underscores and draws the attention against the everyday noise
 of the city.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D7
 ~
 ~
@@ -1724,7 +1724,7 @@ painted, and some in more need of repair - yet all have a spacious feel to
 them.  Toward the heart of the city, where it is most crowded, lies a great
 fountain, complete with an amazingly realistic crystal statue.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D6
 ~
 ~
@@ -1743,7 +1743,7 @@ painted, and some in more need of repair - yet all have a spacious feel to
 them.  Toward the heart of the city, where it is most crowded, lies a great
 fountain, complete with an amazingly realistic crystal statue.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D6
 ~
 ~
@@ -1769,7 +1769,7 @@ the center of the city the high rooves begin to part and allow an unobstructed
 view of the beautiful sky above, as well as the strange dark shapes which
 circle overhead.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D6
 ~
 ~
@@ -1855,7 +1855,7 @@ upon the turtle's back.  Each leg points to the smaller road of Seraco Way -
 and its head points southwards.  A constant humming sound surrounds this
 intersection, most likely from the dozens of people who come and go.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D6
 ~
 ~
@@ -1873,6 +1873,15 @@ D9
 ~
 0 0 5078
 E
+statue crystal maiden sea~
+   A graceful figure made of pure, clear crystal stands upon a platform in the
+middle of the fountain, her lithe body standing in a seductive pose.  Wavy hair
+falls past her shoulders, barely covering the front of her, and weaves around
+her body until it reaches her ankles - where the base of the statue is carved
+to resemble ocean waves.  The statue glimmers in the sun and you can hear an
+odd tinkling, similar to a sea nymph's laugh, as the waters cascade below her.
+~
+E
 basin fountain~
    Within the shallow basin of the fountain can be seen the glimmer of coins,
 mostly gold - but a few silver and copper can be seen as well.  It is the
@@ -1882,15 +1891,6 @@ that by giving these offerings of coin, the maiden will show mercy when the sea
 tries to claim a Karthaian sailor.  It is also believed that the maiden is
 actually the Great Zeboim herself, and the offerings might appease her tempers
 long enough to avoid a disaster at sea.    
-~
-E
-statue crystal maiden sea~
-   A graceful figure made of pure, clear crystal stands upon a platform in the
-middle of the fountain, her lithe body standing in a seductive pose.  Wavy hair
-falls past her shoulders, barely covering the front of her, and weaves around
-her body until it reaches her ankles - where the base of the statue is carved
-to resemble ocean waves.  The statue glimmers in the sun and you can hear an
-odd tinkling, similar to a sea nymph's laugh, as the waters cascade below her.
 ~
 S
 #5083
@@ -1921,7 +1921,7 @@ the snarl of a dog, ill fed and looking for a quick meal.  Odd sounds filter
 down from above you, but it is impossible to discern their nature or origin.
   
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -1938,7 +1938,7 @@ as the mortar and stone seems to crumble away into small piles against the
 sides of the alley.  Scratchings in chalk and charcoal mar what is left with
 the only visible windows more than a story up and away from ground level.    
 ~
-50 4 0 0 0
+50 32772 0 0 0
 D3
 ~
 ~
@@ -1957,7 +1957,7 @@ the only visible windows more than a story up and away from ground level.  A
 dark palor extends down into the street, the sky barely visible beyond the high
 building and the narrow passage.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D1
 ~
 ~
@@ -2059,7 +2059,7 @@ guild.  The docks are constructed of heavy wooden planks, with large posts
 driven into the seabed at various intervals, holding the whole thing above the
 water.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -2084,7 +2084,7 @@ water.  A ship laden down with goods straight from Kalaman is docked alongside,
 a constant flow of longshoreman travelling back and forth inloading the
 valuable cargo.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -2109,7 +2109,7 @@ water.  A ship laden down with goods straight from Kalaman is docked alongside,
 a constant flow of longshoreman travelling back and forth inloading the
 valuable cargo.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D0
 ~
 ~
@@ -2132,7 +2132,7 @@ guild.  The docks are constructed of heavy wooden planks, with large posts
 driven into the seabed at various intervals, holding the whole thing above the
 water.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D1
 ~
 ~
@@ -2156,7 +2156,7 @@ driven into the seabed at various intervals, holding the whole thing above the
 water.  Just off in the distance are the elegant and powerful ships of the
 Karthay navy, anchored and waiting for their orders.    
 ~
-50 0 0 0 0
+50 32768 0 0 0
 D1
 ~
 ~
@@ -2186,8 +2186,8 @@ D2
 0 0 5008
 D3
 ~
-~
-0 0 5178
+door~
+2 430 5178
 S
 #5097
 Private Walkway~

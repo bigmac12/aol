@@ -1424,7 +1424,7 @@ thing decorating the walls are a few plaques of bravery, some so worn you
 cannot make out the words on them.  The doorway to the east leads back outside
 of the shop.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -1459,8 +1459,8 @@ rest and relaxation.  A loft for sleeping is visible overhead.
 51 33554444 0 0 0
 D1
 ~
-~
-0 0 5096
+door~
+1 430 5096
 S
 #5179
 Cinnabar's Leatherworking Shop~
@@ -1523,7 +1523,7 @@ possible.  A small cooking fire burns just to the west where people can order
 grilled, fried or baked fish.  Just to one side is a table on which tanks of
 cold water display the variety of fish which are available here.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -1541,7 +1541,7 @@ from which the smell of cooking seafood comes.  The Shore road lies just to the
 east while the rest of Karthay's fish market lie to the north, south and west.
   
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -1573,7 +1573,7 @@ those with a weak stomach nauseous.  Several barrels of rotting fish are
 scattered here and there waiting to be disposed of.  The rest of the Karthay
 fish market lies to the east.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -1705,7 +1705,7 @@ wall, while other things such as pouches for holy items, necklaces of beads,
 rings and other items lie upon a table.  The doorway to the east leads back out
 to the Shore Road.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -1728,15 +1728,14 @@ D9
 ~
 0 0 5111
 E
-bench chair benches seat~
-   The benches are crafted out of a solid wood and stained so it's now a very
-dark, almost red, color.  The seat of the bench has a black cloth on it, and
-under the cloth is some sort of padding, straw perhaps.  On the back of each
-bench is a carving of different sea animals, some real, some, like mermaids, a
-little less real.  Each carving is different, but they all have one thing in
-common, a carving of a turtle that is put on each of the corners of the bench.
-Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
-Keeping her happy, or at least not angry, is important.    
+table counter~
+   The table isn't big by any means.  It can barely hold two people's food and
+two mugs.  Surrounding the sides of the table are carvings of turtles.  That
+may seem odd to some, but those who travel the seas know well enough to not
+anger The Goddess of the Sea.  The table is connected to the wall and can't be
+moved, but the connection to the wall only does that, keeping it from moving.
+Under the table, one large leg comes out of the center, keeping it from falling
+down when any weight is set on it.    
 ~
 E
 candle light glass orb~
@@ -1748,14 +1747,15 @@ glass orb covers the flame and tints the surrounding area orange.  Often
 though, the candles are allowed to burn out to nothing.    
 ~
 E
-table counter~
-   The table isn't big by any means.  It can barely hold two people's food and
-two mugs.  Surrounding the sides of the table are carvings of turtles.  That
-may seem odd to some, but those who travel the seas know well enough to not
-anger The Goddess of the Sea.  The table is connected to the wall and can't be
-moved, but the connection to the wall only does that, keeping it from moving.
-Under the table, one large leg comes out of the center, keeping it from falling
-down when any weight is set on it.    
+bench chair benches seat~
+   The benches are crafted out of a solid wood and stained so it's now a very
+dark, almost red, color.  The seat of the bench has a black cloth on it, and
+under the cloth is some sort of padding, straw perhaps.  On the back of each
+bench is a carving of different sea animals, some real, some, like mermaids, a
+little less real.  Each carving is different, but they all have one thing in
+common, a carving of a turtle that is put on each of the corners of the bench.
+Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
+Keeping her happy, or at least not angry, is important.    
 ~
 S
 #5193
@@ -1875,15 +1875,14 @@ D8
 ~
 0 0 5111
 E
-bench chair benches seat~
-   The benches are crafted out of a solid wood and stained so it's now a very
-dark, almost red, color.  The seat of the bench has a black cloth on it, and
-under the cloth is some sort of padding, straw perhaps.  On the back of each
-bench is a carving of different sea animals, some real, some, like mermaids, a
-little less real.  Each carving is different, but they all have one thing in
-common, a carving of a turtle that is put on each of the corners of the bench.
-Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
-Keeping her happy, or at least not angry, is important.    
+table counter~
+   The table isn't big by any means.  It can barely hold two people's food and
+two mugs.  Surrounding the sides of the table are carvings of turtles.  That
+may seem odd to some, but those who travel the seas know well enough to not
+anger The Goddess of the Sea.  The table is connected to the wall and can't be
+moved, but the connection to the wall only does that, keeping it from moving.
+Under the table, one large leg comes out of the center, keeping it from falling
+down when any weight is set on it.    
 ~
 E
 candle light glass orb~
@@ -1895,14 +1894,15 @@ glass orb covers the flame and tints the surrounding area orange.  Often
 though, the candles are allowed to burn out to nothing.    
 ~
 E
-table counter~
-   The table isn't big by any means.  It can barely hold two people's food and
-two mugs.  Surrounding the sides of the table are carvings of turtles.  That
-may seem odd to some, but those who travel the seas know well enough to not
-anger The Goddess of the Sea.  The table is connected to the wall and can't be
-moved, but the connection to the wall only does that, keeping it from moving.
-Under the table, one large leg comes out of the center, keeping it from falling
-down when any weight is set on it.    
+bench chair benches seat~
+   The benches are crafted out of a solid wood and stained so it's now a very
+dark, almost red, color.  The seat of the bench has a black cloth on it, and
+under the cloth is some sort of padding, straw perhaps.  On the back of each
+bench is a carving of different sea animals, some real, some, like mermaids, a
+little less real.  Each carving is different, but they all have one thing in
+common, a carving of a turtle that is put on each of the corners of the bench.
+Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
+Keeping her happy, or at least not angry, is important.    
 ~
 S
 $~

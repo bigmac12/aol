@@ -1153,7 +1153,7 @@ marked with his clans designs.  While the rest of the room is of the same
 expert craftsman which can only be dwarven masonry by its well fitted in look.
   
 ~
-190 6668 0 0 0
+190 39436 0 0 0
 D0
 ~
 ~
@@ -1172,7 +1172,7 @@ intricately carved chest that holds many items of clothing and jewelry.  While
 near the bed is a weapons and armor holder laden with warhammers and
 breastplates of dwarven make and design.    
 ~
-190 67108872 0 0 0
+190 67141640 0 0 0
 D2
 ~
 ~
@@ -1343,7 +1343,7 @@ The grass seems greener, the sounds of animals and birds more prevalent, and
 even the trees here seem larger.  The trees here lean towards the structure
 itself, almost as if protecting it.    
 ~
-190 2564 3 0 0
+190 35332 3 0 0
 D1
 ~
 door wooden~
@@ -1794,6 +1794,14 @@ D0
 ~
 ~
 0 0 19073
+D1
+   This tall bookcase, crafted of mahogany like the rest of the furniture in
+the room, rises to the ceiling and is set with crown moulding.  Hundreds of
+books, of every size and color, are set in tight rows on the individual
+shelves.    
+~
+bookcase~
+2 -1 16000
 E
 chair chairs desk~
    The desk is completely unremarkable, and has no ornate carvings or
