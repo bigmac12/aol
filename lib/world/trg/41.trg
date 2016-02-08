@@ -9,4 +9,10 @@ else
 end
 end
 ~
+#4191
+Sirrion Avatar Weapon Activate~
+1 j 100
+~
+Nothing.
+~
 $~

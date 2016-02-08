@@ -9,7 +9,7 @@ attention and watch as you approach.  One signals to the gate wardens, though
 the meaning of the signal is unclear.  The path continues north to the keep,
 and south towards the highway.    
 ~
-16 0 2 0 0
+16 32768 2 0 0
 D0
 ~
 ~
@@ -34,7 +34,7 @@ of civilians have also made it their home, primarily serving the needs of those
 posted here: the knights and their families.  As you stand looking, the guards
 at the gate begin to eye you.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
    The great iron portcullis can be raised at the proper signal, or by great
 effort by many men.    
@@ -59,7 +59,7 @@ high wall obscures most of your view.  The gates to the south stay closed
 except when a newcomer is being welcomed into the city.  The two gatewardens
 stand guard to see to it no undesirables are given entry.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 gate door~
@@ -89,7 +89,7 @@ to the east, you can see a guard tower, and more walls.  The paving stones are
 rose-red.  The keep rises up to your north, an impressive sight, especially
 this close-up.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -111,7 +111,7 @@ out-of-town vendors to come here and set up shop, selling their goods to the
 locals before moving on.  To the west, the lane narrows a bit as it moves past
 the gates of the Keep.  To the east, the market sprawls out around you.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -140,7 +140,7 @@ friendly.  There are some flowers in planters located at each corner of the
 statue, mostly red and white carnations, though there are a few other flowers
 as well.  The market square spreads out around you in all directions.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -187,7 +187,7 @@ out-of-town vendors to come here and set up shop, selling their goods to the
 locals before moving on.  The lane narrows a bit to the east where it turns off
 to the north.  To the west, the marketplace widens significantly.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -217,7 +217,7 @@ stones are rose-red in colour and are completely new.  The walls of the keep
 are made of clean white stone.  You can still smell mortar and plaster that has
 been used in the recent reconstruction.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -239,7 +239,7 @@ inner and outer walls, it remains well-lit at most hours of the day.  The first
 coat of arms you notice is hanging on the wall to your east.  It is the
 heraldic device of the Wistan family.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -273,7 +273,7 @@ fairly well-lit, except at the absolute darkest hours of the day.  To the west
 hangs the heraldry of the Dorsey family.  To the east, a shield depicting the
 coat of arms of the Valcic family hangs upon the wall.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -283,15 +283,6 @@ D2
 ~
 0 0 1608
 E
-coat arms Valcic~
-   &gThe shield bearing the Valcic coat of arms is forest green in colour.  
-The center of the sword bears a large silver sword, held aloft by a single
-mailed fist.  Underneath that is a small symbol depicting a kingfisher in
-flight.  Hanging underneath the shield is a white banner, which reads, in
-Solamnic, "Mortus dunda Arrestus oth Obranath" which translates as, "Death
-Shall not Interfere with our Duty".  &n
-~
-E
 heraldry family Dorsey~
    &rThe heraldry of the Dorsey family hangs here.  The shield is a deep
 burgundy colour, divided by a diagonal silver stripe.  Upon the upper left-hand
@@ -299,6 +290,15 @@ corner of the shield are three silver crowns.  Upon the lower right-hand corner
 of the shield are three silver lions.  Crossed behind the shield are a pair of
 broadswords, both of which are polished to a high shine and appear
 battle-worthy.  &n
+~
+E
+coat arms Valcic~
+   &gThe shield bearing the Valcic coat of arms is forest green in colour.  
+The center of the sword bears a large silver sword, held aloft by a single
+mailed fist.  Underneath that is a small symbol depicting a kingfisher in
+flight.  Hanging underneath the shield is a white banner, which reads, in
+Solamnic, "Mortus dunda Arrestus oth Obranath" which translates as, "Death
+Shall not Interfere with our Duty".  &n
 ~
 S
 #1610
@@ -313,7 +313,7 @@ fairly well-lit, except at the absolute darkest hours of the day.  To your
 west, you can see the shield of the Soltharus family proudly displayed.  On the
 opposite side hangs the heraldic device of the Matar family.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -323,16 +323,6 @@ D2
 ~
 0 0 1609
 E
-Matar heraldic device~
-   The Matar family is one of the newer families to earn a place along Honour
-Row.  The shield is half black, and half white.  The symbol dominating it is a
-large eagle with wings spread.  The half of the eagle that is on the black half
-is white, and the half of the eagle on the white side is black, presenting an
-impressive visual image.  Atop the shield is a helm wreathed with red laurels.
-Beneath the shield is a red banner with gold letters.  It reads "Est Solarus
-oth Mithas", the motto of the Knights of Solamnia.    
-~
-E
 shield soltharus~
    &W The shield of the Soltharus family appears somehow different from the
 rest.  Its colour scheme is mostly black and silver, and it looks somehow dark.
@@ -341,6 +331,16 @@ The shield is black.  Upon it is a picture of a mighty silver dragon.  In one
 of its four clawed paws, it carries the unmistakeable dragonlance.  The other
 three rest upon the ground.  Looking closer, you can see that the dragon's
 features are shaped into a feral snarl.  &n
+~
+E
+Matar heraldic device~
+   The Matar family is one of the newer families to earn a place along Honour
+Row.  The shield is half black, and half white.  The symbol dominating it is a
+large eagle with wings spread.  The half of the eagle that is on the black half
+is white, and the half of the eagle on the white side is black, presenting an
+impressive visual image.  Atop the shield is a helm wreathed with red laurels.
+Beneath the shield is a red banner with gold letters.  It reads "Est Solarus
+oth Mithas", the motto of the Knights of Solamnia.    
 ~
 S
 #1611
@@ -355,7 +355,7 @@ fairly well-lit, except at the absolute darkest hours of the day.  Hanging on
 the west wall is the heraldry of the Brightblade family.  Opposite, on the
 eastern wall sits the crest of the Di Caela family.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -365,14 +365,6 @@ D2
 ~
 0 0 1610
 E
-di caela crest~
-&b   The crest of the Di Caela fa&wmily is painted &bonto a large shield here.
-The shield is dark blue in colo&wur, divided in &bhalf by a single, wide vertical
-white stripe.  In the center of &wthe shield is &ba large red rose with two small
-crossed swords below it.  On ea&wch blue stripe &bon the outer edges of the shield
-is a silver vine bearing many r&woses.&n
-~
-E
 Brightblade heraldry~
    &BThe heraldry of the Brightblade family hangs here.  It is a blue shield
 with a white chevron, and upon it is the symbol of a Sword.  The sword is
@@ -380,6 +372,14 @@ wreathed by vines and roses, and atop it sits a small golden crown.  Crossed
 behind the shield are two staves, each bearing a red flag.  Below the shield is
 a banner bearing the motto of the knighthood, "Est Solarus oth Mithas", My
 Honour is my Life.  &n
+~
+E
+di caela crest~
+&b   The crest of the Di Caela fa&wmily is painted &bonto a large shield here.
+The shield is dark blue in colo&wur, divided in &bhalf by a single, wide vertical
+white stripe.  In the center of &wthe shield is &ba large red rose with two small
+crossed swords below it.  On ea&wch blue stripe &bon the outer edges of the shield
+is a silver vine bearing many r&woses.&n
 ~
 S
 #1612
@@ -394,7 +394,7 @@ fairly well-lit, except at the absolute darkest hours of the day.  To the east
 hangs the heraldic device of the Nightsbane family.  To the west, the Waydolson
 family heraldry is displayed.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -404,14 +404,6 @@ D2
 ~
 0 0 1611
 E
-Nightsbane heraldic device~
-   &KThe heraldic device of the Nightsbane family is hanging here.  The shield
-has a field of black, and upon it is a broad silver chevron across the middle
-of the shield.  There is a crescent moon on each of the upper quarters, both
-also silver.  Below the chevron is the symbol of a sword, pointed downward.  
-&n
-~
-E
 waydolson family heraldry~
     &GThe waydolson family crest is act&wually rather simple.  It is a shield,
 &Gdivided into four equal parts.  Each &wsquare diagonal one another is either
@@ -419,6 +411,14 @@ waydolson family heraldry~
 Underneath is a banner with the famil&Gy motto, which reads, "Ilpoth
 &wHeonpeaehocctb Mbi Popboa".  Nearby i&Gs a plaque which provides the translation:
 &w"Against Uncertainty We Struggle".&n
+~
+E
+Nightsbane heraldic device~
+   &KThe heraldic device of the Nightsbane family is hanging here.  The shield
+has a field of black, and upon it is a broad silver chevron across the middle
+of the shield.  There is a crescent moon on each of the upper quarters, both
+also silver.  Below the chevron is the symbol of a sword, pointed downward.  
+&n
 ~
 S
 #1613
@@ -434,7 +434,7 @@ the wide open courtyard, the knights practice many different things: one-on-one
 combat with swords, archery, and even some training on how to deal with an
 ambush.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -454,7 +454,7 @@ them when to duck, or when to thrust or parry.  The lane narrows a bit to the
 south, where it passes between the inner keep, and the outer walls.  On the
 eastern wall, displayed proudly, is the crest of the Ehrling family.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D2
 ~
 ~
@@ -488,7 +488,7 @@ stones are rose-red in colour and are completely new.  The walls of the keep
 are made of clean white stone.  You can still smell mortar and plaster that has
 been used in the recent reconstruction.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -510,7 +510,7 @@ applause.  You could likely leave unnoticed, though to enter into the middle of
 all this commotion is to invite the attention and possibly the ire of the
 practicing knights.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -540,7 +540,7 @@ sounding out a loud whistle.  Everyone stops what they are doing and now you
 have a large number of very irate knights staring at you, wondering what you
 are doing here.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -585,7 +585,7 @@ opponents, and a few are shooting with bows and arrows at a set of targets to
 the northeast.  The courtyard widens to the east, and narrows to the west as it
 passes between the walls of the keep, and the keep itself.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -613,7 +613,7 @@ massive, and an impressive sight to behold especially at this distance.  The
 lane continues a short way to the west.  To the east, you can see knights
 training in the art of combat.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -635,7 +635,7 @@ a short way to the east, between the walls.  A short way to the west, you can
 see a few knights milling about, getting weapons repaired at the blacksmith's,
 or visiting the stables.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -653,7 +653,7 @@ for the keep.  Most services are reserved for knights alone.  The common
 marketplace takes care of the needs of most of the civilian population of the
 Keep.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -687,7 +687,7 @@ out.  A young stablehand runs back and forth, tending to the horses' needs.
 The entrance to the west and to the south leads back to the northwest courtyard
 of Vingaard Keep.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D3
 ~
 ~
@@ -706,7 +706,7 @@ people wandering around in the open courtyard, including a few mounted knights,
 riding to and from the stable to the northeast.  To the west, you can see a
 couple more buildings.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -738,7 +738,7 @@ Keep.  To the north is the Vingaard Armory, a military depot, and to the south
 is the Vingaard Vault, considered by most to be the safest in all of Solamnia.
 The courtyard widens a bit to the east and south.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -769,7 +769,7 @@ are completely new.  The walls of the keep are made of clean, white stone.
 You can still smell mortar and plaster that has been used in the recent
 reconstruction.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -791,7 +791,7 @@ obey.  The lane narrows a bit to the south, where it passes between the inner
 keep and the outer walls.  On the western wall, displayed proudly, is the crest
 of the Crownguard family.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -824,7 +824,7 @@ meditative mood.  Up atop the keep's walls, you can see a few knights milling
 about on patrol.  To the east hangs the coat of arms of the Steiner family.  
 On the western wall hangs the coat of arms of the Jeoffrey family.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -833,6 +833,16 @@ D2
 ~
 ~
 0 0 1628
+E
+Jeoffrey~
+   The Jeoffrey family is a fairly old one in Solamnia, amongst the first of
+the knights to defect to the banner of Vinas Solamnus during the rebellion.  
+Their coat of arms is quite elegant and beautiful.  It is a large shield,
+divided into four sides.  The top left and bottom right side are occupied by
+stylized lions standing upon three legs, with a fourth paw held up in challenge
+or salute.  The top right and bottom left squares, blue in colour, are occupied
+by slender, stylized harps.    
+~
 E
 coat arms steiner~
    &B The Steiner family coat of arms is rather quite elegant and detailed.  
@@ -843,16 +853,6 @@ fist is a gold laurel.  Behind the shield are two crossed halberds, and below
 it is a banner which reads, "Gott, Lehensherr, Heimatland".  Nearby is a plaque
 which explains that those words, in a distant foreign language, mean "God,
 King, Country".  &n
-~
-E
-Jeoffrey~
-   The Jeoffrey family is a fairly old one in Solamnia, amongst the first of
-the knights to defect to the banner of Vinas Solamnus during the rebellion.  
-Their coat of arms is quite elegant and beautiful.  It is a large shield,
-divided into four sides.  The top left and bottom right side are occupied by
-stylized lions standing upon three legs, with a fourth paw held up in challenge
-or salute.  The top right and bottom left squares, blue in colour, are occupied
-by slender, stylized harps.    
 ~
 S
 #1628
@@ -866,7 +866,7 @@ meditative mood.  Up atop the keep's walls, you can see a few knights milling
 about on patrol.  Upon the western wall sits the crest of the Lacenor family.
 To the east hangs the heraldic device of the Ellersford family.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -875,6 +875,13 @@ D2
 ~
 ~
 0 0 1629
+E
+heraldic device Ellersford~
+   The heraldic device of the Ellersford family is rather simple, being a red
+cross across a white field, with a small golden crown in the middle.  The
+Ellersford family have almost all been members of the Solamnic Order of the
+Crown, and the heraldic device reflects that.    
+~
 E
 Lacenor Lace lac~
    &KThe Lacenor family coat-of-arms is a shield of midnight black, adorned
@@ -886,13 +893,6 @@ weapons, &Wa footman's mace &Kand a &Wwarhammer&K.  Just below the shield lies
 a banner which reads, "&wVigilente et Audax&K".  Placed nearby is a &ycopper
 plaque&K, which explains that those words, in a distant cousin language to
 Solamnic, reads "&wVigilance and Courage&K".  &n
-~
-E
-heraldic device Ellersford~
-   The heraldic device of the Ellersford family is rather simple, being a red
-cross across a white field, with a small golden crown in the middle.  The
-Ellersford family have almost all been members of the Solamnic Order of the
-Crown, and the heraldic device reflects that.    
 ~
 S
 #1629
@@ -906,7 +906,7 @@ meditative mood.  Up atop the keep's walls, you can see a few knights milling
 about on patrol.  On the western wall, you see the coat of arms of the Markenin
 family.  To the east is the crest of the Maccecht family.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -915,16 +915,6 @@ D2
 ~
 ~
 0 0 1630
-E
-coat arms Markenin~
-   &mThe Markenin family is fairly young to the knighthood, though they are
-quickly gaining fame and honour throughout Solamnia.  The first to join the
-knighthood was the son of a wealthy merchant, which is why the Top left-hand
-side of the shield holds a spoked cartwheel, symbol of the mercantile dynasty.
-The rest of the shield apart from this is a royal purple.  The first knight of
-the line, Gabriel Markenin had many sons, and as such, many Markenins now
-people the ranks of the Knights of Solamnia.  &n
-~
 E
 crest Maccecht~
    &YThe Maccecht family crest is a bright golden yellow, crossed diagonally by
@@ -935,6 +925,16 @@ through the ranks of the Knighthood to attain the title of Grand Master, an
 honour accorded to very few families.  To display this honour, the top of the
 family shield has been ornamented with the heraldic device of the Knights of
 Solamnia, that of a Kingfisher holding a sword and roses.  &n
+~
+E
+coat arms Markenin~
+   &mThe Markenin family is fairly young to the knighthood, though they are
+quickly gaining fame and honour throughout Solamnia.  The first to join the
+knighthood was the son of a wealthy merchant, which is why the Top left-hand
+side of the shield holds a spoked cartwheel, symbol of the mercantile dynasty.
+The rest of the shield apart from this is a royal purple.  The first knight of
+the line, Gabriel Markenin had many sons, and as such, many Markenins now
+people the ranks of the Knights of Solamnia.  &n
 ~
 S
 #1630
@@ -949,7 +949,7 @@ about on patrol.  Upon the western wall here hangs the coat of arms of the
 Thildesparan family.  To the east hangs the banner bearing the Fenton family
 crest.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -959,16 +959,6 @@ D2
 ~
 0 0 1631
 E
-thildesparan coat arms~
-   &r The &RThildesparan&r coat of arms is a &Rred shield&r, crossed diagonally
-by &Rtwo white bands&r.  In front of the &Rshield&r sits the figure of a
-&Rgolden griffon&r.  In &Rthe griffon's right claw&r is held a &Rquiver of
-arrows&r, and in its &Rleft&r is a &Rthorned rose&r.  Crossed below the
-&Rshield&r are a &Rpair of longswords&r.  A &Rbanner&r below the coat of arms
-reads "&RMis Solarus et Ritan Comme Situ&r" which, in Solamnic means "&RWith
-Honour and Wisdom Comes Strength&r".  &n
-~
-E
 Crest Fenton banner~
    &bA dark, royal blue banner fringed with white tassles hangs upon the wall,
 bearing the crest of the Fenton family.  The crest is rather simplistic in
@@ -977,6 +967,16 @@ portions, with alternating blue and white squares.  Upon each square is a
 different symbol, from top-left to bottom right, a sword, a crown, a rose, a
 set of crossed axes, a Kingfisher, and finally twining rose vines over a
 greatsword.  &n
+~
+E
+thildesparan coat arms~
+   &r The &RThildesparan&r coat of arms is a &Rred shield&r, crossed diagonally
+by &Rtwo white bands&r.  In front of the &Rshield&r sits the figure of a
+&Rgolden griffon&r.  In &Rthe griffon's right claw&r is held a &Rquiver of
+arrows&r, and in its &Rleft&r is a &Rthorned rose&r.  Crossed below the
+&Rshield&r are a &Rpair of longswords&r.  A &Rbanner&r below the coat of arms
+reads "&RMis Solarus et Ritan Comme Situ&r" which, in Solamnic means "&RWith
+Honour and Wisdom Comes Strength&r".  &n
 ~
 S
 #1631
@@ -991,7 +991,7 @@ inner and outer walls, it remains well-lit at most hours of the day.  The first
 coat of arms you notice is hanging on the wall to your west.  It is the coat of
 arms of the Soth family.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1028,7 +1028,7 @@ here.  The paving stones are rose-red in colour and are completely new.  The
 walls of the keep are made of clean white stone.  You can still smell mortar
 and plaster that has been used in the recent reconstruction.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -1052,7 +1052,7 @@ to make Vingaard Keep their home.  To the west, the courtyard narrows into a
 single, wide lane.  To the east, north, and south, more of the courtyard and
 its thriving activities can be seen.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1083,7 +1083,7 @@ about his looks is welcoming.  Looking at the symbol on his breastplate, you
 notice that he is a knight of the Rose, the highest order of Knights in
 Solamnia.  The courtyard spreads out in all directions from here.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1128,7 +1128,7 @@ the pride of his officer, who watches, nodding, and smiling slightly.  The
 bricks that pave the street provide a nice, smooth surface for walking, and,
 weather permitting, perhaps a chance to rest and get some sunlight.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1157,7 +1157,7 @@ monument to what Solamnic masons have accomplished with the help of the
 dwarves.  The streets are paved with rose-coloured bricks that are clean and
 free of debris.  The lane continues east and west of here.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -1180,7 +1180,7 @@ softly at the children's attention.  The knight tries unsuccessfully to hide a
 smile behind a wall of stoicism.  The Courtyard continues west and south of
 here.  To the north lies the walls of the keep itself.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D2
 ~
 ~
@@ -1205,7 +1205,7 @@ clean and their faces nearly bereft of any sort of facial hair.  Obviously, new
 recruits.  The Courtyard spreads out all around you.  To the north of you, the
 stout walls of the keep rise, sturdy and reassuring.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -1230,7 +1230,7 @@ about doing their daily chores, under the watchful eye of those knights posted
 here.  It is a reassuring feeling for many to live among those so dedicated to
 their protection.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -1256,7 +1256,7 @@ a lack of vigilance, however.  You notice that the knights in this crowd stay
 alert.  Looking around from time to time to see that nothing evil is happening.
 The courtyard spreads out to the north and west of you.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1281,7 +1281,7 @@ the presence of knights milling about with the general population most of the
 time.  Most of these men are eagle-eyed and stern-looking, making a rise in the
 crime rate here unlikely.  The Courtyard opens up to the north.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1306,7 +1306,7 @@ their daily chores.  They mingle easily however with the armed knights who make
 their rounds here.  The walls of Vingaard here are twenty feet high, and rise
 up to the south and west of you.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1331,7 +1331,7 @@ civilians here have any need for weapons, as they live under the watchful
 protection of the Knights of Solamnia.  There is an open door to the south
 which leads back out the way you came in.    
 ~
-16 12 0 0 0
+16 32780 0 0 0
 D2
 ~
 ~
@@ -1349,7 +1349,7 @@ The resounding clangs of his hammer on the iron make for an unusual symphony.
 He looks up briefly at your entrance, but then resumes working.  There are no
 exits apart from the way you came in, to the south.    
 ~
-16 12 0 0 0
+16 32780 0 0 0
 D2
 ~
 ~
@@ -1366,7 +1366,7 @@ Every now and then, a passing stablehand will give you a friendly nod or a pat
 on the back.  To the south, more knights patrol back and forth, carrying out
 their duties.    
 ~
-16 12 0 0 0
+16 32780 0 0 0
 D1
 ~
 ~
@@ -1384,7 +1384,7 @@ for the keep.  Most services are reserved for knights alone.  The common
 marketplace takes care of the needs of most of the civilian population of the
 Keep.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1406,7 +1406,7 @@ for the keep.  Most services are reserved for knights alone.  The common
 marketplace takes care of the needs of most of the civilian population of the
 Keep.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1431,7 +1431,7 @@ vault, the Knights let four kender stay the night, and not one of them was able
 to get inside.  That test alone is something that few other vaults could stand
 up to.  There is an exit to the north.    
 ~
-16 12 0 0 0
+16 32780 0 0 0
 D0
 ~
 ~
@@ -1447,7 +1447,7 @@ are sparring one-on-one, others are practicing swordfighting against multiple
 opponents, and a few are shooting with bows and arrows at a set of targets to
 the northeast.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D2
 ~
 ~
@@ -1472,7 +1472,7 @@ You continue to walk, and it is only then that a loud "thok!" followed by
 angry shouting tells you that perhaps this is not the best place to loiter.  
 You can go almost anywhere east, south, or west of this spot.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -1496,7 +1496,7 @@ here are wide and high, providing some much welcome shelter from the sun.  The
 courtyard spreads out south and east of you, though it may take some careful
 stepping to stay out of everyone's way.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -1520,7 +1520,7 @@ here are wide and high, providing some much welcome shelter from the sun.  The
 courtyard extends north and east of you, though it will take some careful
 stepping to stay out of everyone's way.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1546,7 +1546,7 @@ the northeast.  To the south, Vingaard Keep itself rises up, making this area
 well-shaded at most times of the day.  The courtyard spreads out in all
 directions around you.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1570,7 +1570,7 @@ here are wide and high, providing some much welcome shelter from the sun.  The
 courtyard extends north and west of you, though it will take some careful
 stepping to avoid getting in anyone's way.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1595,7 +1595,7 @@ marketplace would have no need of them.  They live in the protection of the
 Knights of Solamnia, and they sleep well at night knowing that.  The
 marketplace stretches out to the south and east.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -1622,7 +1622,7 @@ out-of-town vendors to come here and set up shop, selling their goods to the
 locals before moving on.  The keep itself rises up to your north, and the
 marketplace lies in all other directions from here.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D1
 ~
 ~
@@ -1647,7 +1647,7 @@ marketplace would have no need of them.  They live in the protection of the
 Knights of Solamnia, and they sleep well at night knowing that.  The
 marketplace stretches out to the south and west from here.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D2
 ~
 ~
@@ -1675,7 +1675,7 @@ performs here on a small stage, and judging by the hat full of coins in front
 of him, he has been pleasing the crowds of the marketplace all day.  The
 marketplace stretches to the north and west from here.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1702,7 +1702,7 @@ out-of-town vendors to come here and set up shop, selling their goods to the
 locals before moving on.  The walls of the keep rise up to your south.  The
 marketplace stretches in all other directions from here.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1728,7 +1728,7 @@ marketplace would have no need of them.  They live in the protection of the
 Knights of Solamnia, and they sleep well at night knowing that.  The
 marketplace stretches out to the north and east.    
 ~
-16 0 0 0 0
+16 32768 0 0 0
 D0
 ~
 ~
@@ -1756,7 +1756,7 @@ as the office of a Knight of the Sword, who sits and pores over papers.  He
 does not look happy to be here, and perhaps he irked one of his commanders to
 be assigned to desk duty.  A set of stone steps leads back down from here.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D5
 ~
 ~
@@ -1775,7 +1775,7 @@ as the office of a Knight of the Sword, who sits and pores over papers.  He
 does not look happy to be here, and perhaps he irked one of his commanders to
 be assigned to desk duty.  A set of stone steps leads back down from here.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D5
 ~
 ~
@@ -1794,7 +1794,7 @@ as the office of a Knight of the Sword, who sits and pores over papers.  He
 does not look happy to be here, and perhaps he irked one of his commanders to
 be assigned to desk duty.  A set of stone steps leads back down from here.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D5
 ~
 ~
@@ -1813,7 +1813,7 @@ as the office of a Knight of the Sword, who sits and pores over papers.  He
 does not look happy to be here, and perhaps he irked one of his commanders to
 be assigned to desk duty.  A set of stone steps leads back down from here.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D5
 ~
 ~
@@ -1832,7 +1832,7 @@ upper floors of the keep.  The hallway itself forms a "T", which the cross
 being right where you are standing.  There is faint chanting somewhere, but the
 echo makes it almost impossible to discern where it could be coming from.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -1868,7 +1868,7 @@ echoing in the hallway in the distance, so you have not been left completely
 alone.  However, being alone in such a large, echoing hallway tends to leave
 one feeling rather lonely.  There is a large curving stairway to the south.  
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -1888,7 +1888,7 @@ glory of the Knighthood of Solamnia.  You are, for the most part, alone in this
 part of the keep, as few unwanted visitors ever get this far.  Footsteps die
 away to the south.  To the north a ways, a massive, decorated door can be seen.
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -1910,7 +1910,7 @@ are no knights present here, as most of the garrison is stationed outside of
 the keep.  The knights that are here are normally in the chapel, engaged in the
 worship of Kiri-Jolith.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
    Bison.  Massive, silver-inlaid golden doors each bear the symbol of the
 Bison: The Symbol of Kiri-Jolith.    
@@ -1949,7 +1949,7 @@ voice is alive with passion and fervor, and it rings out like a trumpet from
 the north.  To the south lie the doors which lead out of the wing and back into
 the main hallway.    
 ~
-16 12 0 0 0
+16 32780 0 0 0
 D0
 ~
 ~
@@ -1978,7 +1978,7 @@ you are in continues north and south, though there are smaller aisles that go
 off in all directions from here.  To the north lies the altar of Kiri-Jolith.
   
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2023,7 +2023,7 @@ you are in continues north and south.  Directly to the north is the altar of
 Kiri-Jolith, where the cleric delivers his sermon.  To the east and west, there
 are spaces near the pews where some knights stand.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2055,7 +2055,7 @@ smell of incense coming from two censers nearby.  To the south, the Knights are
 gathered, listening to every word of the cleric, who seems unmoved by your
 presence.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D2
 ~
 ~
@@ -2073,7 +2073,7 @@ rather small.  There are few if any knights present here, as most of the
 garrison is stationed outside of the keep.  The knights that are here are
 normally in the chapel, engaged in the worship of Habbakuk.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D1
 ~
 ~
@@ -2097,7 +2097,7 @@ ways to reflect the nature of the god worshipped herein.  Wherever you look you
 can see relief carvings of birds and fish along many of the surfaces here.  
 The doors east lead back out into the main hallway.    
 ~
-16 12 0 0 0
+16 32780 0 0 0
 D0
 ~
 ~
@@ -2125,7 +2125,7 @@ see a large basin filled with holy water, used in the blessings the priests
 here give to the knights.  To the west, you can see the ranking priest of
 Habbakuk, preparing the day's mass for the knights.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2161,7 +2161,7 @@ allow the sun to stream in, filling the area with a soft, blue light.  The
 carpet upon the floor continues east, through the rows of pews, and west, right
 up to the altar.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D1
 ~
 ~
@@ -2184,7 +2184,7 @@ To the east, the knights are gathering for the mass among the various pews.
 Up above, you see a domed ceiling, painted with more creatures of air and sea.
 It is a stunning effect.    
 ~
-16 12 0 0 0
+16 32780 0 0 0
 D1
 ~
 ~
@@ -2203,7 +2203,7 @@ There are few if any knights present here, as most of the garrison are
 stationed outside of the keep.  The knights that are here are normally in the
 chapel, engaged in the worship of Paladine.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D1
 ~
 door massive~
@@ -2224,7 +2224,7 @@ quiet chanting can be heard, which gives the whole area a very relaxing,
 meditative feeling.  The large door that exits the wing lies to your west,
 through a large stone archway.    
 ~
-16 12 0 0 0
+16 32780 0 0 0
 D0
 ~
 ~
@@ -2257,7 +2257,7 @@ crowd.  The stained-glass windows cast the entire area in a soft light.  Below
 your feet is a rich red carpet which goes east and west of here.  To the north
 and to the south are rows of pews.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2302,7 +2302,7 @@ are a few Knights already beginning to line up before the altar, ready to tithe
 and receive a blessing from the priest of Paladine.  The stained-glass windows
 fill the area with a soft light.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2335,12 +2335,13 @@ windows each depict the symbol of Paladine: the platinum dragon.  To the west,
 some Rose Knights are beginning to line up to offer their weekly tithes.  The
 sound of chanting fills the air with a sweet, melodic sound.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D3
 ~
 ~
 0 0 1681
 S
+T 7
 #1683
 The Wing of Paladine~
    You stand not far from the altar which dominates the east side of the wing.
@@ -2353,7 +2354,7 @@ contain Knights, their heads bowed in prayer.  There is a slight murmur as some
 Knights of the Rose begin lining up to pay their weekly tithes and receive
 blessings.  The line begins forming to the west.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D2
 ~
 ~
@@ -2380,7 +2381,7 @@ commence.  To the south, the central aisle of the chapel moves east and west.
 A ways to the east, you can see a lone cleric of Paladine preparing the mass
 that is about to be conducted.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2411,7 +2412,7 @@ commence.  To the south, the central aisle of the chapel moves east and west.
 A ways to the east, you can see a lone cleric of Paladine preparing the mass
 that is about to be conducted.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D1
 ~
 ~
@@ -2440,7 +2441,7 @@ standing is made of stone which is clean and smooth.  A ways to the east, you
 can see a lone cleric of Paladine preparing the mass that is about to be
 conducted.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2469,7 +2470,7 @@ standing is made of stone which is clean and smooth.  A ways to the east, you
 can see a lone cleric of Paladine preparing the mass that is about to be
 conducted.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2503,7 +2504,7 @@ contain Knights, their heads bowed in prayer.  There is a slight murmur as some
 Knights of the Rose begin lining up to pay their weekly tithes and receive
 blessings.  The line begins forming to the west.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2532,7 +2533,7 @@ and anticipating making their tithes and receiving their blessings.  To your
 north, you can see rows and rows of pews, many of which are occupied by the
 knights gathering here.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2556,7 +2557,7 @@ mass.  Some of them are discussing their achievements during the week, and
 anticipating making their tithes and receiving their blessings.  To your south,
 you see rows of pews, and more knights milling about.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D2
 ~
 ~
@@ -2579,7 +2580,7 @@ on their faces, ready to engage in their daily worship of the Fisher King.
 The pews are made of soft pine, and are light in colour.  Each of them are
 marked on both ends with the symbol of the Kingfisher.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2606,7 +2607,7 @@ on their faces, ready to engage in their daily worship of the Fisher King.
 The pews are made of soft pine, and are light in colour.  Each of them are
 marked on both ends with the symbol of the Kingfisher.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2635,7 +2636,7 @@ but here the commotion is muffled by clever archetecture, which allows you for
 a few moments to be alone with your thoughts.  After a moment, a lone knight of
 the crown approaches you, concern in his eyes.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D1
 ~
 ~
@@ -2655,7 +2656,7 @@ that supports the roof and the floors above.  Nearby is the exit that leads out
 into the main Hallway of Vingaard keep.  There is a soft blue light that shines
 in through stained glass windows to the north, south, and west.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D2
 ~
 ~
@@ -2683,7 +2684,7 @@ that supports the roof and the floors above.  Nearby is the exit that leads out
 into the main Hallway of Vingaard keep.  There is a soft blue light that shines
 in through stained glass windows to the north, south, and west.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2712,7 +2713,7 @@ but here the commotion is muffled by clever archetecture, which allows you for
 a few moments to be alone with your thoughts.  After a moment, a knight comes
 around the corner, looking concerned.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D1
 ~
 ~
@@ -2733,7 +2734,7 @@ intoxicating.  The walls around you are stone, but the odd stone bears a
 carving of a Kingfisher, the symbol of Habbakuk to whom this chapel belongs.  
 The chapel opens up to the south.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D2
 ~
 ~
@@ -2758,7 +2759,7 @@ of incense burning is intoxicating.  The walls around you are stone, but the
 odd stone bears a carving of a Kingfisher, the symbol of Habbakuk to whom this
 chapel belongs.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~
@@ -2784,7 +2785,7 @@ Light streams in through stained-glass windows.  There are more pews to the
 north and south.  A lone knight kneeling in prayer looks up at you silently,
 then returns to his prayers.    
 ~
-16 8 0 0 0
+16 32776 0 0 0
 D0
 ~
 ~

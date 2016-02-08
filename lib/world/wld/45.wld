@@ -1010,6 +1010,12 @@ D3
 door~
 1 0 6570
 E
+tapestry~
+   This is a simple tapestry, though of fine quality.  It is crafted of black
+silk, and has been set with the design of a closed eye, stitched in silver
+threading.    
+~
+E
 stones stone wall~
    The stones at the back of the office here look to have been damaged severely
 at some point in their history, though the exact method is not able to be
@@ -1020,13 +1026,8 @@ more than the others, indeed it bears a large pit directly in the center,
 amidst other small chips and pits.  It still looks alittle loose, and might
 come free of the wall with some negotiating.    
 ~
-E
-tapestry~
-   This is a simple tapestry, though of fine quality.  It is crafted of black
-silk, and has been set with the design of a closed eye, stitched in silver
-threading.    
-~
 S
+T 7
 #4562
 A Dark Hallway~
    The halls here are scarcely lit by a few smoldering torches.  These provide
@@ -1546,14 +1547,14 @@ D6
 ~
 0 0 4593
 E
-axe axes~
-   Even though they could use sharpening, these axes are meant for heavy
-chopping.  Their handles are thick and smoothed by long use.
-~
-E
 grinder~
    The grinder is a large stone wheel in a frame, with a pedal below
 it on the floor. 
+~
+E
+axe axes~
+   Even though they could use sharpening, these axes are meant for heavy
+chopping.  Their handles are thick and smoothed by long use.
 ~
 S
 #4596
@@ -1580,14 +1581,14 @@ D7
 ~
 0 0 4594
 E
-bark sawdust dust splinters~
-   Surely noone sweeps this floor, for it is thick with trimmings from
-the massive logs brought here for milling.
-~
-E
 saw saws~
   Several saws, most of them on the rusty side, hang from the rough wooden
 wall on sturdy pegs.  
+~
+E
+bark sawdust dust splinters~
+   Surely noone sweeps this floor, for it is thick with trimmings from
+the massive logs brought here for milling.
 ~
 S
 #4597
@@ -1635,15 +1636,15 @@ D3
 door~
 1 0 4594
 E
-boots~
-   They are real dirty and pretty worn-looking.
-~
-E
 pot bowls tins food~
    Apparently this area is used as a kitchen of sorts.  A crusted pot
 that needs washing sits here, and some bowls carved of wood that have
 cracked with age.  The tins of dry oats and flour have been invaded by
 tiny insects.  Ugh.
+~
+E
+boots~
+   They are real dirty and pretty worn-looking.
 ~
 S
 #4599

@@ -25,16 +25,6 @@ D1
 ~
 0 0 8031
 E
-gems~
-   The gems seem to be on fire as the bright light of the shop gleams off of
-every edge and corner.    
-~
-E
-cases~
-   The glass casses are filled with the most beautiful sparking gems you have
-ever seen.    
-~
-E
 plaque sign sedit~
    A small plaque behind the counter bears the establishment's merchant number
 which is assigned by the Istar Chamber of Commerce, located in the Welcoming
@@ -42,6 +32,16 @@ Tower.
 
                            #8101
 
+~
+E
+cases~
+   The glass casses are filled with the most beautiful sparking gems you have
+ever seen.    
+~
+E
+gems~
+   The gems seem to be on fire as the bright light of the shop gleams off of
+every edge and corner.    
 ~
 S
 #8102
@@ -303,16 +303,18 @@ S
 Before the Gates of Istar~
    Looming just to the west, like a great pillar of light, are the gates to the
 City of Istar.  The city wall stretches northward from the lake which bears the
-city's name.  The massive gates to the north, which currently stand open, are
+city's name.  The massive gates to the north, which currently stand shut, are
 the only means of entering the city proper by land.  Great torches stand on
 either side of the roadway, blending with the city's luminescence.  To the east
 is a well-used cobblestone path which leads to the stables of Istar.    
 ~
 81 0 1 0 0
 D0
+gate
+
 ~
-~
-0 0 8000
+gates~
+1 100 8000
 D1
 ~
 ~
@@ -805,12 +807,6 @@ D3
 ~
 0 0 8140
 E
-plaque polished brass~
-Gunther Melargo
-Head Jailer of Istar
-Serving proudly for 20 years
-~
-E
 award wooden carved~
 Asst. Jailer of the Year Award
 This plain piece of wood is carved with the following inscription:
@@ -820,6 +816,12 @@ Asst. Jailer of the Year Award
 
 It seems to have been hung in this particular spot to try to cover a large
 crack in the wall but is not doing a good job at it.
+~
+E
+plaque polished brass~
+Gunther Melargo
+Head Jailer of Istar
+Serving proudly for 20 years
 ~
 S
 #8143
@@ -1122,7 +1124,7 @@ closed up and waiting for their owners to return.  The stables lie further in,
 roofed to shelter the ponies and stallions which commonly occupy the various
 stalls.    
 ~
-0 0 1 0 0
+81 0 1 0 0
 D1
 ~
 ~
@@ -1141,7 +1143,7 @@ other less pleasant odors floats through the air.  All in all it is
 well-maintained, and most folk would find these stables a more than adequate
 place to stable their mounts.    
 ~
-0 25165824 0 0 0
+81 25165824 0 0 0
 D3
 ~
 ~

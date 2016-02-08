@@ -233,6 +233,11 @@ however, does continue to the northwest and southeast.  An additional fork in
 the trail permits travel to the southwest.    
 ~
 75 0 5 0 0
+D5
+   A large boulder rests over a massive crack in the face of the mountain.    
+~
+crack stone~
+2 7502 7599
 D6
 ~
 ~
@@ -1609,9 +1614,10 @@ rubble.
 ~
 75 333 4 0 0
 D4
+   A massive stone boulder rests over the crack, sealing it shut.    
 ~
-~
-0 0 7512
+crack stone~
+2 7502 7512
 D5
 ~
 ~

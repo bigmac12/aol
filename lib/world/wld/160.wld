@@ -1,7 +1,41 @@
 #16000
-The Beginning~
-Not much here.
+Behind the Bookcase~
+Should write down the key.
 ~
-160 0 0 0 0
+160 365 0 0 0
+D1
+~
+~
+0 0 16001
+D3
+   Attached to the back of this sliding bookcase is a thin stone slab, used to
+seamlessly integrate the hidden door into the surrounding wall.    
+~
+bookcase~
+2 -1 19074
 S
-$
+#16001
+A Narrow Stone Hallway~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D3
+~
+~
+0 0 16000
+D5
+~
+~
+0 0 16002
+S
+#16002
+A Wide Stone Landing~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D4
+~
+~
+0 0 16001
+S
+$~
