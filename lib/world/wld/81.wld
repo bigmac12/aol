@@ -25,13 +25,9 @@ D1
 ~
 0 0 8031
 E
-plaque sign sedit~
-   A small plaque behind the counter bears the establishment's merchant number
-which is assigned by the Istar Chamber of Commerce, located in the Welcoming
-Tower.    
-
-                           #8101
-
+gems~
+   The gems seem to be on fire as the bright light of the shop gleams off of
+every edge and corner.    
 ~
 E
 cases~
@@ -39,9 +35,13 @@ cases~
 ever seen.    
 ~
 E
-gems~
-   The gems seem to be on fire as the bright light of the shop gleams off of
-every edge and corner.    
+plaque sign sedit~
+   A small plaque behind the counter bears the establishment's merchant number
+which is assigned by the Istar Chamber of Commerce, located in the Welcoming
+Tower.    
+
+                           #8101
+
 ~
 S
 #8102
@@ -338,10 +338,6 @@ is made of smooth, white stone.  Common folk and nobleman do not come here, and
 the only pedestrians to be seen are guards.    
 ~
 81 0 1 0 0
-D0
-~
-~
-0 0 8073
 D1
 ~
 ~
@@ -368,7 +364,7 @@ ancient olive trees are barely visible above it.
 D0
 ~
 ~
-0 0 8074
+0 0 8162
 D2
 ~
 ~
@@ -807,6 +803,12 @@ D3
 ~
 0 0 8140
 E
+plaque polished brass~
+Gunther Melargo
+Head Jailer of Istar
+Serving proudly for 20 years
+~
+E
 award wooden carved~
 Asst. Jailer of the Year Award
 This plain piece of wood is carved with the following inscription:
@@ -816,12 +818,6 @@ Asst. Jailer of the Year Award
 
 It seems to have been hung in this particular spot to try to cover a large
 crack in the wall but is not doing a good job at it.
-~
-E
-plaque polished brass~
-Gunther Melargo
-Head Jailer of Istar
-Serving proudly for 20 years
 ~
 S
 #8143
@@ -1149,6 +1145,261 @@ D3
 ~
 0 0 8160
 S
+#8162
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  On both sides of the road are homes where the city guards live.  The road
+is made of smooth, white stone.  Common folk and nobleman do not come here, and
+the only pedestrians to be seen are guards.    
+~
+0 8 1 0 0
+D0
+~
+~
+0 0 8163
+D2
+~
+~
+0 0 8118
+S
+#8163
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along.
+The road is made of smooth, white stone with a slight slop to allow proper
+drainage.  Common folk and noblemen normally do not come here, since the troops
+are rather thick.  On both sides of the road are homes where the city guards,
+and higher military men live.    
+~
+0 8 1 0 0
+D0
+~
+~
+0 0 8164
+D2
+~
+~
+0 0 8162
+S
+#8164
+Guardsmen's Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D0
+~
+~
+0 0 8165
+D2
+~
+~
+0 0 8163
+S
+#8165
+Guardsmen's Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8166
+D2
+~
+~
+0 0 8164
+S
+#8166
+Guardsmen's Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D0
+~
+~
+0 0 8167
+D3
+~
+~
+0 0 8165
+S
+#8167
+Guardsmen's Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D0
+~
+~
+0 0 8168
+D2
+~
+~
+0 0 8166
+S
+#8168
+Guardsmen's Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D0
+~
+~
+0 0 8169
+D2
+~
+~
+0 0 8167
+S
+#8169
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8176
+D2
+~
+~
+0 0 8168
+D3
+~
+~
+0 0 8170
+S
+#8170
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8169
+D3
+~
+~
+0 0 8171
+S
+#8171
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8170
+D3
+~
+~
+0 0 8172
+S
+#8172
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8171
+D6
+~
+~
+0 0 8173
+S
+#8173
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D6
+~
+~
+0 0 8174
+D9
+~
+~
+0 0 8172
+S
+#8174
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D0
+~
+~
+0 0 8175
+D9
+~
+~
+0 0 8173
+S
+#8175
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D0
+~
+~
+0 0 8179
+D2
+~
+~
+0 0 8174
+S
+#8176
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8177
+D3
+~
+~
+0 0 8169
+S
+#8177
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8178
+D3
+~
+~
+0 0 8176
+S
+#8178
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D3
+~
+~
+0 0 8177
+S
+#8179
+Goldenway Road~
+You are in an unfinished room.
+~
+0 8 1 0 0
+D2
+~
+~
+0 0 8175
+S
 #8180
 A Townhome~
    This simple home has all the amenities required by city dwellers.  It is
@@ -1212,6 +1463,105 @@ D0
 ~
 ~
 0 0 8021
+S
+#8184
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  The road is made of a smooth, white stone that is generally only ever seen
+by the guards and the prisoners.  The common folk and nobles of the city tend
+to avoid the area whenever possible.    
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8030
+D3
+~
+~
+0 0 8185
+S
+#8185
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  The road is made of a smooth, white stone that is generally only ever seen
+by the guards and the prisoners.  The common folk and nobles of the city tend
+to avoid the area whenever possible.    
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8184
+D3
+~
+~
+0 0 8186
+S
+#8186
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  The road is made of a smooth, white stone that is generally only ever seen
+by the guards and the prisoners.  The common folk and nobles of the city tend
+to avoid the area whenever possible.    
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8185
+D3
+~
+~
+0 0 8187
+S
+#8187
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  The road is made of a smooth, white stone that is generally only ever seen
+by the guards and the prisoners.  The common folk and nobles of the city tend
+to avoid the area whenever possible.    
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8186
+D3
+~
+~
+0 0 8188
+S
+#8188
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  The road is made of a smooth, white stone that is generally only ever seen
+by the guards and the prisoners.  The common folk and nobles of the city tend
+to avoid the area whenever possible.    
+~
+0 8 1 0 0
+D1
+~
+~
+0 0 8187
+D8
+~
+~
+0 0 8189
+S
+#8189
+Guardsmen's Road~
+   This road is wide enough to allow patrols of troops to train and pass along
+it.  The road is made of a smooth, white stone that is generally only ever seen
+by the guards and the prisoners.  The common folk and nobles of the city tend
+to avoid the area whenever possible.  To the west one can see the lapping blue
+water of the bay.    
+~
+0 8 1 0 0
+D7
+~
+~
+0 0 8188
 S
 #8190
 Entryway of the Laughing Spirits Tavern~

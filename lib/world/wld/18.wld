@@ -418,7 +418,7 @@ D0
 D3
 ~
 ~
-0 0 8435
+0 0 9290
 S
 #1821
 A Small Path Through the Forest~
@@ -690,13 +690,13 @@ D3
 ~
 0 0 1841
 E
+oak door~
+   A large well-crafted oak door.    
+~
+E
 sconces sconce light~
    These brightly-lit sconces alluminate the room to a noon-time brilliance.  
 
-~
-E
-oak door~
-   A large well-crafted oak door.    
 ~
 S
 #1843
@@ -740,14 +740,14 @@ D5
 ~
 0 0 -1
 E
-couch~
-   The couch seems well worn, but looks to have been expensive when it was new.
-  
-~
-E
 table~
    The table used to be a finely-polished oak table, now its finish is ruined
 from bottles of alcohol getting haphazardly stuck to it and removed forcefully.
+  
+~
+E
+couch~
+   The couch seems well worn, but looks to have been expensive when it was new.
   
 ~
 S
@@ -772,9 +772,10 @@ D1
 pantry door~
 1 0 1846
 E
-prep table~
-   This preparation table is covered in all manner of foods in different states
-of readiness.  All of which smell alluring and delicious.    
+pantry door~
+   This door is quite sizable, allowing easy access to the walk in pantry.  It
+is tall enough to allow a grown minotaur to pass without ducking thier heads.
+  
 ~
 E
 pots pans~
@@ -783,10 +784,9 @@ range from the size of large spoons, all the way to great pots able to roast a
 whole hog.    
 ~
 E
-pantry door~
-   This door is quite sizable, allowing easy access to the walk in pantry.  It
-is tall enough to allow a grown minotaur to pass without ducking thier heads.
-  
+prep table~
+   This preparation table is covered in all manner of foods in different states
+of readiness.  All of which smell alluring and delicious.    
 ~
 S
 #1846
@@ -824,16 +824,16 @@ D3
 door oak~
 1 0 1842
 E
-door oak~
-   A large well-crafted oak door
+entrance inner~
+   You can't see beyond the entrance, with this big brute in your way.    
 ~
 E
 sconce sconces~
    The sconces in this room provide ample light to see by.    
 ~
 E
-entrance inner~
-   You can't see beyond the entrance, with this big brute in your way.    
+door oak~
+   A large well-crafted oak door
 ~
 S
 #1848
@@ -859,13 +859,19 @@ D3
 ~
 0 0 1847
 E
-secret concealed~
-   A secret door is well-concealed behind the large tapestry.    
+tile floor~
+   Beautiful, green marble tiles are arranged upon the floor.  They are highly
+polished, reflecting the light of the room.    
 ~
 E
-painting paintings~
-   A painting of a proud man riding on the back of a black stallion is hanging
-on the wall behind the desk.    
+book bookcase~
+   An assortment of books resides on this bookcase, ranging in subjects from
+personal grooming to heraldry.    
+~
+E
+tapestry~
+   This large tapestry is green and gold crest on a vermilion background.  
+Behind the tapestry you notice a well-concealed secret door.    
 ~
 E
 figurines figures figurine figure~
@@ -874,19 +880,13 @@ the bookcase.  Also a figurine of a wolf taking down a deer is sitting to one
 side of the walnut desk.    
 ~
 E
-tapestry~
-   This large tapestry is green and gold crest on a vermilion background.  
-Behind the tapestry you notice a well-concealed secret door.    
+painting paintings~
+   A painting of a proud man riding on the back of a black stallion is hanging
+on the wall behind the desk.    
 ~
 E
-book bookcase~
-   An assortment of books resides on this bookcase, ranging in subjects from
-personal grooming to heraldry.    
-~
-E
-tile floor~
-   Beautiful, green marble tiles are arranged upon the floor.  They are highly
-polished, reflecting the light of the room.    
+secret concealed~
+   A secret door is well-concealed behind the large tapestry.    
 ~
 S
 #1849
@@ -906,13 +906,13 @@ D2
 secret concealed~
 1 0 1848
 E
+secret concealed~
+   A secret door is well concealed in the wall south of you.    
+~
+E
 sconce~
    This sconce provides just enough light to see by, hanging as it does from
 the middle of the ceiling.    
-~
-E
-secret concealed~
-   A secret door is well concealed in the wall south of you.    
 ~
 S
 #1850
