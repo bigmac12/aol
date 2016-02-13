@@ -1,0 +1,116 @@
+#30502
+bartender scruffy well built well-built man ar ars seth~
+Arseth~
+Arseth, a scruffy and well-built man, stands behind the bar.
+~
+   Arseth is a man who appears to be in his forties.  Crows feet have appeared
+at the corners of his bright blue eyes which, while they appear somewhat tired,
+are also plainly alert.  As the owner of the most successful bar in town, he
+holds some sway with the locals and many of them consider him an ally if not a
+friend.  His shaggy brown hair is barely kept combed and his scruffy beard
+fares little better.  He eyes up every new arrival in the bar, almost as if he
+can deduce the weight of a coin pouch with a mere look.    
+~
+7596122 167903272 0 0 E
+30 -10 -20 30d100+20000 30d3+30
+0 0 3
+8 8 1 0
+Maxmove: 100
+E
+#30506
+bearded man stern eyed stern-eyed gaze kro kros~
+Krostan~
+Krostan, a bearded man with a stern-eyed gaze, stands behind the desk.
+~
+   Krostan is a man of worldly experience and wisdom, and it shows in his stern
+brown eyes.  His salt-and-pepper hair is kept at shoulder-length, but tied back
+in a ponytail to keep it out of his face.  The gruff voice he uses to greet
+customers is charming in a way, but also carries with it the intonation of 'do
+not mess with me or my business'.  He stands behind the desk, propped up on his
+arms which sit on either side of an open ledger.    
+~
+7594010 1241646120 0 0 E
+30 -10 -20 30d100+20000 30d3+30
+0 0 3
+8 8 1 3
+Maxmove: 100
+E
+#30507
+Rosartha rosa sour faced sour-faced woman years~
+Rosartha~
+Rosartha, a sour-faced woman of some years, stands next to the counter.
+~
+   Sleek, light brown hair hangs around the furrowed brow and sour face of this
+middle-aged woman.  Her eyes, a slightly darker shade of brown, keep a keen
+watch on the entrance to the building.  Her clothing is simple, but
+appropriate: a soft green dress with an empire waist and a white blouse beneath
+it.  She constantly fans part of her hair out of her face and looks annoyed
+each and every time.  Barely peeking over the collar of her blouse is part of a
+spider tattoo.  What type and how large, though, you cannot tell.    
+~
+7594010 1241645096 0 0 E
+30 -10 -20 30d100+20000 30d3+30
+0 0 3
+8 8 2 11
+Maxmove: 100
+E
+#30529
+Botolfe Boto Bot~
+Botolfe~
+Botolfe, a man shrouded in robes with a deep hood, sits motionless behind the counter.
+~
+It looks unfinished.
+~
+7593994 1241645096 3612680 0 E
+30 -10 -20 30d100+0 30d3+30
+0 0 2
+8 8 1 0
+Maxmove: 100
+E
+#30530
+Giffard giff~
+Giffard~
+Giffard, a large man with a scruffy beard, tends to the various shelves in his shop.
+~
+It looks unfinished.
+~
+7593994 1241645096 0 0 E
+30 -10 -20 30d100+20000 30d3+30
+0 0 3
+8 8 1 0
+Maxmove: 100
+E
+#30532
+Remonnet remon rem pale tired~
+Remonnet~
+Remonnet, a pale man with tired eyes, stands quietly behind thick steel bars.
+~
+It looks unfinished.
+~
+7593994 1241645096 0 0 E
+30 -10 -20 30d100+20000 30d3+30
+0 0 3
+8 8 1 4
+Maxmove: 100
+E
+#30534
+Marida cheerfully cheerful flour baker~
+an overly cheerful baker with flour caked cheeks~
+Marida, a cheerfully flour covered baker, is pulling fresh cupcakes from the oven.
+~
+   Always a pleasant woman, Marida is one of Sanction's oddities.  It is not
+known where she came from, but her bake goods have won over the darkest of
+hearts.  Not overly tall nor slim, she has however a pleasing figure.  Nearly
+always covered in some sort of sweets, powder, flour, or frosting; it has come
+to be part of her wardrobe.  When a customer enters, they are awarded with a
+dimpled smile and a cheerful greeting.  It is amazing if one were to leave her
+store without being made to sample all of her goods.    
+~
+7594008 131072 0 0 E
+30 11 -20 30d30+30000 30d30+9
+0 1 0
+8 8 2 0
+BareHandAttack: 5
+Maxmove: 100
+E
+$

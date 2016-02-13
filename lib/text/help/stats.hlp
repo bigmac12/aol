@@ -1,0 +1,127 @@
+STATS
+
+Stats (short for "statistics") are used to reflect the various attributes
+of a character's appearance and personality in the game world.
+
+#
+STRENGTH STR
+
+Strength is your character's ability to crush a tomato.
+
+ Score  Description
+ -----  -----------
+ 1      Morbidly weak; has significant trouble lifting own limbs
+ 2-3    Needs help to stand; can be knocked over by strong breezes
+ 4-5    Knocked off balance by swinging something dense or heavy
+ 6-7    Difficulty pushing an object of their weight
+ 8-9    Has trouble even lifting heavy objects
+ 10-11  Can literally pull their own weight
+ 12-13  Carries heavy objects for short distances
+ 14-15  Visibly toned; throws small objects for long distances
+ 16-17  Carries heavy objects with one arm
+ 18-19  Can break objects like wood with bare hands
+ 20-21  Able to out-wrestle a work animal or catch a falling person
+ 22-23  Can pull very heavy objects at appreciable speeds
+ 24-25  Pinnacle of brawn; able to out-lift several people
+#
+DEXTERITY DEX
+
+Dexterity your character's ability to dodge a tomato.
+
+ Score  Description
+ -----  -----------
+ 1      Barely mobile; probably significantly paralyzed
+ 2-3    Incapable of moving without noticeable effort or pain
+ 4-5    Visible paralysis or physical difficulty
+ 6-7    Significant klutz or very slow to react
+ 8-9    Somewhat slow; occasionally trips over own feet
+ 10-11  Capable of usually catching a small tossed object
+ 12-13  Able to often hit large targets
+ 14-15  Can catch of dodge a medium-speed surprise projectile
+ 16-17  Able to often hit small targets
+ 18-19  Light on feet; able to often hit small moving targets
+ 20-21  Graceful; able to flow from one action into another with ease
+ 22-23  Very graceful; capable of dodging a number of thrown objects
+ 24-25  Moves like water, reacting to all situations with almost no effort
+#
+CONSTITUTION
+
+Constitution is your character's ability to eat a rotten tomato.
+
+ Score  Description
+ -----  -----------
+ 1      Minimal immune system; body reacts violently to anything foreign
+ 2-3    Frail; suffers frequent broken bones
+ 4-5    Bruises easily; knocked out by a light punch
+ 6-7    Unusually prone to disease and infection
+ 8-9    Easily winded; incapable of a full day's hard labor
+ 10-11  Occasionally contracts mild sickness
+ 12-13  Can take a few hits before being knocked unconscious
+ 14-15  Able to labor for twelve hours most days
+ 16-17  Easily shrugs off most illness
+ 18-19  Able to stay awake for days on end
+ 20-21  Very difficult to wear down; almost never feels fatigue
+ 22-23  Never gets sick, even to the most virulent diseases
+ 24-25  Tireless paragon of physical endurance
+#
+INTELLIGENCE INT
+
+Intelligence is knowing that a tomato is a fruit.
+
+ Score  Description
+ -----  -----------
+ 1      Animalistic; no longer capable of logic or reason
+ 2-3    Barely able to function; very limited speech and knowledge
+ 4-5    Often resorts to charades to express thoughts
+ 6-7    Often misuses and mispronounces words
+ 8-9    Has trouble following trains of thought; forgets unimportant things
+ 10-11  Knows what they need to know to get by
+ 12-13  Knows a bit more than is necessary; fairly logical
+ 14-15  Able to do math or solve logic puzzles mentally with reasonable accuracy
+ 16-17  Fairly intelligent; able to understand new tasks quickly
+ 18-19  Very intelligent; may invent new processes or uses for knowledge
+ 20-21  Highly knowledgeable; probably the smartest person many people know
+ 22-23  Able to make Holmesian leaps of logic (as in Sherlock Holmes)
+ 24-25  Famous as a sage and a genius
+#
+WISDOM WIS
+
+Wisdom is knowing not to put a tomato in a fruit salad.
+
+ Score  Description
+ -----  -----------
+ 1      Seemingly incapable of thought; barely aware
+ 2-3    Rarely notices important or prominent items, people, or events
+ 4-5    Seemingly incapable of forethought
+ 6-7    Often fails to extert common sense
+ 8-9    Forgets or opts not to consider options before taking action
+ 10-11  Makes reasoned decisions most of the time
+ 12-13  Able to tell when a person is upset
+ 14-15  Can get hunches about a situation that doesn't feel right
+ 16-17  Reads people and situations fairly well
+ 18-19  Often used as a source of wisdom or decider of actions
+ 20-21  Reads people and situations very well, almost subconsciously
+ 22-23  Can tell minute differences among many situations
+ 24-25  Nearly prescient; able to reason far beyond logic
+#
+CHARISMA CHA
+
+Charisma is your character's ability to sell a tomato-based fruit salad.
+
+ Score  Description
+ -----  -----------
+ 1      Barely conscious; probably acts heavily autistic
+ 2-3    Minimal independent thought; relies heavily on others to think instead
+ 4-5    Has trouble thinking of others as people
+ 6-7    Terribly reticent, uninteresting, or rude
+ 8-9    Something of a bore or makes people mildly uncomfortable
+ 10-11  Capable of polite conversation
+ 12-13  Mildly interesting; knows what to say to the right people
+ 14-15  Interesting; knows what to say to most people
+ 16-17  Popular; receives greetings and conversations on the street
+ 18-19  Immediately likeable by many people; subject of favorable talk
+ 20-21  Life of the party; able to keep people entertained for hours
+ 22-23  Immediately likeable by almost everybody
+ 24-25  Reknowned for wit, personality, and/or looks
+#
+$

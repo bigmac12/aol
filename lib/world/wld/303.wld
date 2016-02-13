@@ -2,6 +2,1541 @@
 Beginning~
 You are in an unfinished room.
 ~
-0 0 0 0 0
+303 0 0 0 0
+S
+#30301
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 1024 0 0 0
+D1
+~
+~
+0 0 30302
+D3
+~
+stones~
+1 0 8445
+S
+#30302
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D1
+~
+~
+0 0 30303
+D3
+~
+~
+0 0 30301
+S
+#30303
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D1
+~
+~
+0 0 30304
+D3
+~
+~
+0 0 30302
+S
+#30304
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D1
+~
+~
+0 0 30305
+D3
+~
+~
+0 0 30303
+S
+#30305
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D1
+~
+~
+0 0 30306
+D3
+~
+~
+0 0 30304
+S
+#30306
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D1
+~
+~
+0 0 30307
+D3
+~
+~
+0 0 30305
+S
+#30307
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D1
+~
+~
+0 0 30308
+D3
+~
+~
+0 0 30306
+S
+#30308
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D1
+~
+~
+0 0 30309
+D3
+~
+~
+0 0 30307
+S
+#30309
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D1
+~
+~
+0 0 30310
+D3
+~
+~
+0 0 30308
+S
+#30310
+Blackstone Passage~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D3
+~
+~
+0 0 30309
+D4
+~
+~
+0 0 30311
+S
+#30311
+Before the Blackstone Tunnel~
+descending black shale steps into the ancient tunnelway
+roots dangle and water drip from the opening of the tunnel
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30312
+D5
+~
+~
+0 0 30310
+S
+#30312
+Blackstone Avenue~
+   This darkly-paved road serves as the primary east-west thoroughfare across
+the city limits.  Black shale paving stones comprise the entirety of the
+street's surface, which is just slightly raised to allow for adequate runoff
+into the city sewer during the wet season.  The shale itself is mostly flat,
+with a few protuberances as remnants of the quarrying and manufacturing
+process.  While smooth, they provide adequate traction for foot traffic and
+those on horseback.  Buildings made of wood and stone rise several stories
+overhead, shadowing the street except when the sun is directly overhead.    
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30313
+D3
+~
+~
+0 0 30311
+S
+#30313
+Intersection of Blackstone Avenue and Desolation Boulevard~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30314
+D1
+~
+~
+0 0 30372
+D2
+~
+~
+0 0 30371
+D3
+~
+~
+0 0 30312
+S
+#30314
+Desolation Boulevard~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30315
+D2
+~
+~
+0 0 30313
+S
+#30315
+Desolation Boulevard~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30316
+D2
+~
+~
+0 0 30314
+S
+#30316
+Desolation Boulevard~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30317
+D2
+~
+~
+0 0 30315
+S
+#30317
+Desolation Boulevard~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30318
+D2
+~
+~
+0 0 30316
+S
+#30318
+Intersection of Desolation Boulevard and Silent Street~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30319
+D1
+~
+~
+0 0 30389
+D2
+~
+~
+0 0 30317
+S
+#30319
+Desolation Boulevard~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30320
+D2
+~
+~
+0 0 30318
+S
+#30320
+Corner of Desolation Boulevard and Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30321
+D2
+~
+~
+0 0 30319
+S
+#30321
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30322
+D3
+~
+~
+0 0 30320
+S
+#30322
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30323
+D3
+~
+~
+0 0 30321
+S
+#30323
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30324
+D3
+~
+~
+0 0 30322
+S
+#30324
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30325
+D3
+~
+~
+0 0 30323
+S
+#30325
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30326
+D3
+~
+~
+0 0 30324
+S
+#30326
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30327
+D3
+~
+~
+0 0 30325
+S
+#30327
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30328
+D3
+~
+~
+0 0 30326
+S
+#30328
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30329
+D3
+~
+~
+0 0 30327
+S
+#30329
+Intersection of Moonlight Way and Tavern Lane~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30330
+D2
+~
+~
+0 0 30402
+D3
+~
+~
+0 0 30328
+S
+#30330
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30331
+D3
+~
+~
+0 0 30329
+S
+#30331
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30332
+D3
+~
+~
+0 0 30330
+S
+#30332
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30333
+D3
+~
+~
+0 0 30331
+S
+#30333
+Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30334
+D3
+~
+~
+0 0 30332
+S
+#30334
+Corner of Thornbrush Road and Moonlight Way~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D2
+~
+~
+0 0 30335
+D3
+~
+~
+0 0 30333
+S
+#30335
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30334
+D2
+~
+~
+0 0 30336
+S
+#30336
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30335
+D2
+~
+~
+0 0 30337
+S
+#30337
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30336
+D2
+~
+~
+0 0 30338
+S
+#30338
+Intersection of Thornbrush Road and Tavern Lane~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30337
+D1
+~
+~
+0 0 30410
+D2
+~
+~
+0 0 30339
+D3
+~
+~
+0 0 30409
+S
+#30339
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D0
+~
+~
+0 0 30338
+D2
+~
+~
+0 0 30340
+S
+#30340
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 0 0 0
+D0
+~
+~
+0 0 30339
+D2
+~
+~
+0 0 30341
+S
+#30341
+Intersection of Blackstone Avenue and Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30340
+D1
+~
+~
+0 0 30417
+D2
+~
+~
+0 0 30342
+D3
+~
+~
+0 0 30384
+S
+#30342
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30341
+D2
+~
+~
+0 0 30343
+S
+#30343
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30342
+D2
+~
+~
+0 0 30344
+S
+#30344
+Intersection of Thornbrush Road and Butcher's Lane~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30343
+D2
+~
+~
+0 0 30345
+D3
+~
+~
+0 0 30401
+S
+#30345
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30344
+D2
+~
+~
+0 0 30346
+S
+#30346
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30345
+D2
+~
+~
+0 0 30347
+S
+#30347
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30346
+D2
+~
+~
+0 0 30348
+S
+#30348
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30347
+D2
+~
+~
+0 0 30349
+S
+#30349
+Thornbrush Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30348
+D2
+~
+~
+0 0 30350
+S
+#30350
+Corner of Thornbrush Road and Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30349
+D3
+~
+~
+0 0 30351
+S
+#30351
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30350
+D3
+~
+~
+0 0 30352
+S
+#30352
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30351
+D3
+~
+~
+0 0 30353
+S
+#30353
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30352
+D3
+~
+~
+0 0 30354
+S
+#30354
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30355
+D1
+~
+~
+0 0 30353
+D3
+~
+~
+0 0 30356
+S
+#30355
+Broken Nail Alleyway~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+door~
+4 0 30533
+D2
+~
+~
+0 0 30354
+S
+#30356
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30354
+D3
+~
+~
+0 0 30357
+S
+#30357
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30356
+D3
+~
+~
+0 0 30358
+S
+#30358
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30359
+D1
+~
+~
+0 0 30357
+S
+#30359
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D2
+~
+~
+0 0 30358
+D6
+~
+~
+0 0 30360
+S
+#30360
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D3
+~
+~
+0 0 30361
+D9
+~
+~
+0 0 30359
+S
+#30361
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30360
+D6
+~
+~
+0 0 30362
+S
+#30362
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30394
+D3
+~
+~
+0 0 30363
+D9
+~
+~
+0 0 30361
+S
+#30363
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30362
+D3
+~
+~
+0 0 30364
+S
+#30364
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30363
+D3
+~
+~
+0 0 30365
+S
+#30365
+Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30364
+D3
+~
+~
+0 0 30366
+S
+#30366
+Corner of Desolation Avenue and Black Brick Road~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30367
+D1
+~
+~
+0 0 30365
+S
+#30367
+Desolation Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30368
+D2
+~
+~
+0 0 30366
+S
+#30368
+Desolation Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30369
+D2
+~
+~
+0 0 30367
+S
+#30369
+Desolation Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30370
+D1
+~
+~
+0 0 30472
+D2
+~
+~
+0 0 30368
+S
+#30370
+Desolation Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30371
+D2
+~
+~
+0 0 30369
+S
+#30371
+Desolation Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30313
+D2
+~
+~
+0 0 30370
+S
+#30372
+Blackstone Avenue~
+   This darkly-paved road serves as the primary east-west thoroughfare across
+the city limits.  Black shale paving stones comprise the entirety of the
+street's surface, which is just slightly raised to allow for adequate runoff
+into the city sewer during the wet season.  The shale itself is mostly flat,
+with a few protuberances as remnants of the quarrying and manufacturing
+process.  While smooth, they provide adequate traction for foot traffic and
+those on horseback.  Buildings made of wood and stone rise several stories
+overhead, shadowing the street except when the sun is directly overhead.    
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30373
+D3
+~
+~
+0 0 30313
+S
+#30373
+Blackstone Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30374
+D3
+~
+~
+0 0 30372
+S
+#30374
+Blackstone Avenue~
+   This darkly-paved road serves as the primary east-west thoroughfare across
+the city limits.  Black shale paving stones comprise the entirety of the
+street's surface, which is just slightly raised to allow for adequate runoff
+into the city sewer during the wet season.  The shale itself is mostly flat,
+with a few protuberances as remnants of the quarrying and manufacturing
+process.  While smooth, they provide adequate traction for foot traffic and
+those on horseback.  Buildings made of wood and stone rise several stories
+overhead, shadowing the street except when the sun is directly overhead.    
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30375
+D3
+~
+~
+0 0 30373
+S
+#30375
+Blackstone Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30376
+D3
+~
+~
+0 0 30374
+S
+#30376
+Blackstone Avenue~
+   This darkly-paved road serves as the primary east-west thoroughfare across
+the city limits.  Black shale paving stones comprise the entirety of the
+street's surface, which is just slightly raised to allow for adequate runoff
+into the city sewer during the wet season.  The shale itself is mostly flat,
+with a few protuberances as remnants of the quarrying and manufacturing
+process.  While smooth, they provide adequate traction for foot traffic and
+those on horseback.  Buildings made of wood and stone rise several stories
+overhead, shadowing the street except when the sun is directly overhead.    
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30377
+D3
+~
+~
+0 0 30375
+S
+#30377
+Blackstone Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30378
+D3
+~
+~
+0 0 30376
+S
+#30378
+Sanction Square~
+   The vast expanse of this square opens into the middle of the city and serves
+as a popular public meeting place amongst the citizens.  In the evenings,
+several torches and sconces provide a somewhat limited amount of light that
+leaves the outer edges of the square in darkness.  Covering the ground, between
+every building and street, are roughly-hewn paving stones quarried from pure
+black shale.  These stones, while smooth, are rough enough to provide adequate
+traction to both foot traffic and those mounted on horseback.  To the north is
+the inn; the most prominent structure in the area.    
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30501
+D1
+~
+~
+0 0 30379
+D3
+~
+~
+0 0 30377
+D6
+~
+~
+0 0 30450
+D8
+~
+~
+0 0 30390
+D9
+~
+~
+0 0 30395
+S
+#30379
+Blackstone Avenue~
+   This darkly-paved road serves as the primary east-west thoroughfare across
+the city limits.  Black shale paving stones comprise the entirety of the
+street's surface, which is just slightly raised to allow for adequate runoff
+into the city sewer during the wet season.  The shale itself is mostly flat,
+with a few protuberances as remnants of the quarrying and manufacturing
+process.  While smooth, they provide adequate traction for foot traffic and
+those on horseback.  Buildings made of wood and stone rise several stories
+overhead, shadowing the street except when the sun is directly overhead.    
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30380
+D3
+~
+~
+0 0 30378
+S
+#30380
+Blackstone Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30381
+D3
+~
+~
+0 0 30379
+S
+#30381
+Blackstone Avenue~
+   This darkly-paved road serves as the primary east-west thoroughfare across
+the city limits.  Black shale paving stones comprise the entirety of the
+street's surface, which is just slightly raised to allow for adequate runoff
+into the city sewer during the wet season.  The shale itself is mostly flat,
+with a few protuberances as remnants of the quarrying and manufacturing
+process.  While smooth, they provide adequate traction for foot traffic and
+those on horseback.  Buildings made of wood and stone rise several stories
+overhead, shadowing the street except when the sun is directly overhead.    
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30382
+D3
+~
+~
+0 0 30380
+S
+#30382
+Blackstone Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30383
+D3
+~
+~
+0 0 30381
+S
+#30383
+Blackstone Avenue~
+   This darkly-paved road serves as the primary east-west thoroughfare across
+the city limits.  Black shale paving stones comprise the entirety of the
+street's surface, which is just slightly raised to allow for adequate runoff
+into the city sewer during the wet season.  The shale itself is mostly flat,
+with a few protuberances as remnants of the quarrying and manufacturing
+process.  While smooth, they provide adequate traction for foot traffic and
+those on horseback.  Buildings made of wood and stone rise several stories
+overhead, shadowing the street except when the sun is directly overhead.    
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30384
+D3
+~
+~
+0 0 30382
+S
+#30384
+Blackstone Avenue~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30341
+D3
+~
+~
+0 0 30383
+S
+#30385
+Silent Street~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D6
+~
+~
+0 0 30386
+D9
+~
+~
+0 0 30450
+S
+#30386
+Silent Street~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D6
+~
+~
+0 0 30387
+D9
+~
+~
+0 0 30385
+S
+#30387
+Silent Street~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D6
+~
+~
+0 0 30388
+D9
+~
+~
+0 0 30386
+S
+#30388
+Silent Street~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D3
+~
+~
+0 0 30389
+D9
+~
+~
+0 0 30387
+S
+#30389
+Silent Street~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D1
+~
+~
+0 0 30388
+D3
+~
+~
+0 0 30318
+S
+#30390
+Dragonfire Walkway~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D7
+~
+~
+0 0 30378
+D8
+~
+~
+0 0 30391
+S
+#30391
+Dragonfire Walkway~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D7
+~
+~
+0 0 30390
+D8
+~
+~
+0 0 30392
+S
+#30392
+Dragonfire Walkway~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D2
+~
+~
+0 0 30393
+D7
+~
+~
+0 0 30391
+S
+#30393
+Dragonfire Walkway~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30392
+D2
+~
+~
+0 0 30394
+S
+#30394
+Dragonfire Walkway~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30393
+D2
+~
+~
+0 0 30362
+S
+#30395
+Butcher's Lane~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D6
+~
+~
+0 0 30378
+D9
+~
+~
+0 0 30396
+S
+#30396
+Butcher's Lane~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D6
+~
+~
+0 0 30395
+D9
+~
+~
+0 0 30397
+S
+#30397
+Butcher's Lane~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30521
+D1
+~
+~
+0 0 30398
+D2
+~
+~
+0 0 30523
+D3
+~
+~
+0 0 30534
+D6
+~
+~
+0 0 30396
+S
+#30398
+Butcher's Lane~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30525
+D1
+~
+~
+0 0 30399
+D2
+~
+~
+0 0 30527
+D3
+~
+~
+0 0 30397
+S
+#30399
+Butcher's Lane~
+You are in an unfinished room.
+~
+303 0 1 0 0
+D0
+~
+~
+0 0 30528
+D1
+~
+~
+0 0 30401
+D2
+~
+~
+0 0 30529
+D3
+~
+~
+0 0 30398
 S
 $~

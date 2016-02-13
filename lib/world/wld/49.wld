@@ -131,10 +131,6 @@ occasional boot print which would seem to indicate that other humanoids have
 recently been in this area.    
 ~
 49 0 3 0 0
-D5
-~
-~
-0 0 4999
 D6
 ~
 ~
@@ -1160,7 +1156,7 @@ At the Gates~
 fall to a good battering ram, but they seem sturdy enough.  They meet the walls
 at reinforced knotted posts to which they are hinged, and when opened, groan
 like a beast waking from a hundred year sleep.  In the center of the gate,
-carved in jagged, chopped letters, is the word SANCTION.  Below it is a small
+carved in jagged, chopped letters, is the word ORWYN.  Below it is a small
 inscription that explains the name.    
 ~
 49 0 2 0 0
@@ -1188,8 +1184,8 @@ A Dirt Road~
 as it is, to the edge of the ravine.  A few boards have been strewn over the
 dirt to ease passage on rainy days when the ground becomes rather soft.  A
 somewhat permanent structure lies to the southeast, just in front of the wooden
-rails of Sanction's outer wall.  A narrow opening in the wall, just to the
-east, leads outside the fortress.    
+rails of Orwyn's outer wall.  A narrow opening in the wall, just to the east,
+leads outside the fortress.    
 ~
 49 0 1 0 0
 D1
@@ -1273,12 +1269,12 @@ D8
 S
 #4965
 Inside the Gate~
-   Standing inside the gate the fortress town of Sanction, such as it is,
-spreads out before you.  It is little more than a collection of tents and
-makeshift huts set in a large area of flat, tooled ground, a small plateau
-surrounded by rocky cliffs and a deep ravine.  To the south is a sturdy, if
-roughly lashed together gate made of large wooden planks fitted between posts.
-To the east stands the largest structure in town, a ramshackle inn.    
+   Standing inside the gate the fortress town of Orwyn, such as it is, spreads
+out before you.  It is little more than a collection of tents and makeshift
+huts set in a large area of flat, tooled ground, a small plateau surrounded by
+rocky cliffs and a deep ravine.  To the south is a sturdy, if roughly lashed
+together gate made of large wooden planks fitted between posts.  To the east
+stands the largest structure in town, a ramshackle inn.    
 ~
 49 4 1 0 0
 D1
@@ -1348,11 +1344,7 @@ D5
 0 0 12999
 E
 railing sign wooden stairway~
-
-
-          S a n c t i o n ' s   R e s p i t e
-
-
+    W A T C H   Y O U R   S T E P
 ~
 S
 #4968
@@ -1951,10 +1943,6 @@ be seen circling in their hunt for food.  A large pile of bones at the bottom
 of the ravine would seem to indicate that they rarely go hungry.    
 ~
 49 0 4 0 0
-D4
-~
-~
-0 0 4906
 D9
 ~
 ~

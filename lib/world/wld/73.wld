@@ -6,7 +6,7 @@ of rocks make this area less suited for farmland.  Wayward Highway continues
 along in an eastern western direction.  The crenellated walk atop the city wall
 of Istar is just visible over the tops of the trees to the south.    
 ~
-73 32768 3 0 0
+73 0 3 0 0
 D1
 ~
 ~
@@ -24,7 +24,7 @@ of rocks make this area less suited for farmland.  Wayward Highway continues
 along in an eastern western direction.  The crenellated walk atop the city wall
 of Istar is just visible over the tops of the trees to the south.    
 ~
-73 32768 3 0 0
+73 0 3 0 0
 D1
 ~
 ~
@@ -41,7 +41,7 @@ by sparse clumps of brush and trees that dot the landscape.  Most of the ground
 is a bit rocky, and the hard packed dirt along the road is mixed with red clay,
 making these plains a bit harder to use as farmland.    
 ~
-73 32768 3 0 0
+73 0 3 0 0
 D1
 ~
 ~
@@ -58,7 +58,7 @@ by sparse clumps of brush and trees that dot the landscape.  Most of the ground
 is a bit rocky, and the hard packed dirt along the road is mixed with red clay,
 making these plains a bit harder to use as farmland.    
 ~
-73 32768 3 0 0
+73 0 3 0 0
 D3
 ~
 ~
@@ -75,7 +75,7 @@ plainsgrasses, and a few trees that dot the landscape.  The ground is a bit
 rocky, and the hard packed dirt near the road is mixed with red clay.  A bridge
 spans the large river to the east, and the highway leads east.    
 ~
-73 32768 3 0 0
+73 0 3 0 0
 D1
 ~
 ~
@@ -94,7 +94,7 @@ accidentally plummeting into the river below.  The heavily carved planks and
 bridge-fence-posts are brushed with gold dust, and is the talk of the townsmen
 in Istar.  Wayward Highway continues on both sides of the bridge.    
 ~
-73 32768 3 0 0
+73 0 3 0 0
 D1
 ~
 ~
@@ -112,7 +112,7 @@ cross the road here, indicating much wagon travel.  A small hawk floats on the
 air currents overhead, always on the lookout for small rodents which are easy
 to spot on the flat rocky grasslands.    
 ~
-73 32772 2 0 0
+73 4 2 0 0
 D0
 ~
 ~
@@ -127,8 +127,8 @@ D9
 0 0 8300
 E
 sign weathered old wooden~
-                        Istar ------ 18 Miles West
-                        Kendermore - 213 Miles South-Southeast
+             Istar-------- 18 Miles West
+             Balifor------ 213 Miles South-Southeast
 ~
 S
 #7307
@@ -139,7 +139,7 @@ only extends so far.  Undoubedly the merchants have been complaining about the
 condition of this road, but nothing has been done so far to improve its
 condition.  To the northeast the road bends slightly.    
 ~
-73 32772 2 0 0
+73 4 2 0 0
 D2
 ~
 ~
@@ -159,7 +159,7 @@ place to scan the area to see what lies around you.  Peering about you see
 small birds flitting about, catching the insects which seem to be in great
 abundance here.    
 ~
-73 294912 0 0 0
+73 262144 0 0 0
 D7
 ~
 ~
@@ -178,7 +178,7 @@ place to scan the area to see what lies around you.  Peering about you see
 small birds flitting about, catching the insects which seem to be in great
 abundance here.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D7
 ~
 ~
@@ -197,7 +197,7 @@ the air and circling around you angrily.  There must be a nest of some sort
 nearby.  With the abundance of vegetation and flowers in the immediate vicinity
 there is no wonder so much animal life is nearby.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D1
 ~
 ~
@@ -215,7 +215,7 @@ hair, making travel somewhat uncomfortable.  However, the abundance of animal
 and plant life on the plains makes it an intersting journey in any case.  The
 road streches out in both directions, with no end in sight.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D3
 ~
 ~
@@ -233,7 +233,7 @@ hair, making travel somewhat uncomfortable.  However, the abundance of animal
 and plant life on the plains makes it an interesting journey in any case.  The
 road streches out in both directions, with no end in sight.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D0
 ~
 ~
@@ -251,7 +251,7 @@ hair, making travel somewhat uncomfortable.  However, the abundance of animal
 and plant life on the plains makes it an interesting journey in any case.  The
 road streches out in both directions, with no end in sight.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D0
 ~
 ~
@@ -269,7 +269,7 @@ the road is still wide and quite passable with some caution.  To the north the
 area begins to show signs of more frequent vegetation, as small scrubs and
 trees begin to dot the landscape, while to the south the flatlands continue.  
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D2
 ~
 ~
@@ -287,7 +287,7 @@ the road is still wide and quite passable with some caution.  To the north the
 area begins to show signs of more frequent vegetation, as small scrubs and
 trees begin to dot the landscape, while to the south the flatlands continue.  
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D0
 ~
 ~
@@ -305,7 +305,7 @@ be felt bringing with it the freshness of the land and the trees which grow
 more abundantly here.  Birds of all sizes ride the air currents looking for
 food, singing happily.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D0
 ~
 ~
@@ -324,7 +324,7 @@ groups of trees can been seen punctuating the meadows that roll off towards the
 horizons on all sides.  High in the sky, a few birds ride the air currents
 lazily.    
 ~
-73 32768 2 0 0
+73 0 2 0 0
 D1
 ~
 ~

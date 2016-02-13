@@ -282,7 +282,7 @@ water, and stands here soaking the ground upon which it stands as it waits for
 a command from its master.    
 ~
 106506 2098216 0 0 E
-12 13 4 5d6+200 2d8+3
+12 13 4 5d6+350 2d8+3
 0 1 0
 8 8 0 0
 Maxmove: 50
@@ -298,7 +298,7 @@ is composed entirely of the element of earth, making it a very solidly built
 being.  It stands tall as it waits for its next command.    
 ~
 106506 35652648 0 0 E
-12 14 4 5d6+200 2d8+2
+12 14 4 5d6+350 2d8+2
 0 0 0
 8 8 0 0
 Maxmove: 50
@@ -315,7 +315,7 @@ faint breeze is one of the few signs of its presence as it stands nearby,
 waiting for a new order from its master.    
 ~
 57354 2163754 0 0 E
-12 13 4 5d6+200 2d8+3
+12 13 4 5d6+350 2d8+3
 0 0 0
 8 8 0 0
 Maxmove: 50
@@ -332,14 +332,14 @@ large amount of heat as stands in the center of the area, waiting for a new
 command from the one who would be its master.    
 ~
 229386 2098216 0 0 E
-12 13 4 5d6+200 2d8+3
+12 13 4 5d6+350 2d8+3
 0 0 0
 8 8 0 0
 Maxmove: 50
 E
 #21
 elemental abyssmal aggro~
-an abyssmal elemental~
+an abyssal elemental~
 An elemental composed of cold, green flame fills the area with its hate.
 ~
    This foul being must have been summoned from the depths of the Abyss itself.
