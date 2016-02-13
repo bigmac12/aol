@@ -110,7 +110,7 @@ mechoaround %actor% %actor.alias% gets a panicked look.
 mforce %actor% flee
 ~
 #4909
-m4920 death trigger for o4920, 21, or 22~
+m4920 death trigger for o4920, 21, 22, or 85~
 0 f 100
 ~
 eval objload %random.10%
@@ -120,6 +120,8 @@ elseif (%objload% == 2) then
 mload obj 4921
 elseif (%objload% == 3) then
 mload obj 4922
+elseif (%objload% == 4) then
+mload obj 785
 else return 1
 end
 ~

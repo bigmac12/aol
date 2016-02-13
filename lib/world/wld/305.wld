@@ -1,0 +1,998 @@
+#30500
+Staging~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30501
+The Gruesome Flute~
+   If the outside of the building did not look uninviting enough, then the
+inside appears even more so.  A waft of tepid, unclean air assaults the senses
+as it drifts in from the east, where the occasional raucous can be heard.  The
+room itself is fashioned with wooden planks for the floors and walls, with
+entire tree trunks serving as the primary support for the building.  As a
+whole, the experience here is not a pleasant one and will not likely improve
+further in.  A simple sign on the western wall gives basic directions.    
+~
+305 8 0 0 0
+D0
+~
+~
+0 0 30506
+D1
+~
+~
+0 0 30502
+D2
+~
+~
+0 0 30378
+D5
+~
+~
+0 0 30513
+S
+#30502
+The Bar at The Gruesome Flute~
+   Relative to the size of the building it occupies, the bar itself is quite
+large and open.  Exposed ashen timbers in the ceiling support the second story,
+and rough-cut planks, worn smooth from innumerable patrons, make up the floor
+under foot.  A soft haze fills the room, filling the ambient air with the mixed
+scent of tobacco, alcohol, and body odor.  Apart from the innumerable chairs
+and tables that fill the room, the only other furniture present is the bar
+itself.  Along the outer walls, several doors mark the presence of private
+rooms and booths.    
+~
+305 8 0 0 0
+D0
+~
+~
+0 0 30503
+D1
+~
+~
+0 0 30505
+D3
+~
+~
+0 0 30501
+D7
+~
+door~
+1 0 30504
+S
+#30503
+A Dimly-Lit Booth~
+   Away from most of the normal tables in the bar, this booth provides a bit of
+privacy.  Although the noise coming from the main part of the bar is still
+strong, it isn't as loud here, giving people some time to sit together without
+having to shout to be heard by the person sitting next to them.  The booth
+consists of two small, wooden benches, a small table, and two high walls behind
+each bench.  Each bench is slightly larger than a chair, but not by much.  A
+candle with an red tinted glass orb provides the light for this booth, it has
+been attached to the wall, leaving more space for the table.    
+~
+305 8 0 0 0
+D2
+~
+~
+0 0 30502
+S
+#30504
+A Small Meeting Room~
+   This room is mostly soundproof, muffling much of the rowdy noises from the
+tavern.  The walls are covered with various paintings, and a table in the
+middle of the room serves as a seating place for weary travelers who gather
+here to discuss plans.  The eastern wall of the room is dominated by a massive
+stone fireplace.  Two high back chairs are set before the fire for a more
+private conversation.    
+~
+305 8 0 0 0
+D8
+~
+door~
+1 0 30502
+S
+#30505
+A Dimly-Lit Booth~
+   Away from most of the normal tables in the bar, this booth provides a bit of
+privacy.  Although the noise coming from the main part of the bar is still
+strong, it isn't as loud here, giving people some time to sit together without
+having to shout to be heard by the person sitting next to them.  The booth
+consists of two small, wooden benches, a small table, and two high walls behind
+each bench.  Each bench is slightly larger than a chair, but not by much.  A
+candle with an red tinted glass orb provides the light for this booth, it has
+been attached to the wall, leaving more space for the table.    
+~
+305 8 0 0 0
+D3
+~
+~
+0 0 30502
+S
+#30506
+The Front Desk of The Gruesome Flute~
+   An old vallenwood desk sits in the corner of the room and behind it stands a
+cabinet containing a few large, iron keys with different color ribbons.  A
+stairway in the northern part of the room leads upward to the bedrooms.  This
+establishment does make a good profit, which the owner has used to decorate.  
+The cleanliness and wonderful paintings are all proof of this.    
+
+(New adventurers: please type &MKIT&n here to receive your gear)
+~
+305 8 0 0 0
+D2
+~
+~
+0 0 30501
+D4
+~
+~
+0 0 30507
+S
+#30507
+Hallway of the Gruesome Flute~
+   Polished wood floors are lined with thick Solomnic rugs, on the walls down
+the hallways are a lovely paintings.  On the paintings are scenes of nature,
+some being a fields of grass, others lakes.  At night, the hallway is lit by
+many candles.  Mounted along the northern wall are metal candle holders, each
+the same distance apart from each other.  The candle holders are made from
+silver, and arcs upwards from the wall.  The metal has been twisted slightly,
+to give it a more attractive look.    
+~
+305 8 0 0 0
+D1
+~
+~
+0 0 30508
+D5
+~
+~
+0 0 30506
+S
+#30508
+Hallway of the Gruesome Flute~
+   Before the choices of bedrooms, each door has been painted a certain color
+to match the ribbon on the key provided.  At night, the hallway is lit by many
+candles.  Mounted along the northern wall are metal candle holders, each the
+same distance apart from each other.  The candle holders are made from silver,
+and arcs upwards from the wall.  The metal has been twisted slightly, to give
+it a more attractive look.    
+~
+305 8 0 0 0
+D1
+   A calming emerald color has been painted on both sides of this thick oak
+door.  The locks on the door are not even pick able by kender, thus leaving
+your belongings safe.    
+~
+door~
+2 0 30510
+D2
+   A brilliant shade of purple has been painted on both sides of this thick,
+oak door.    
+~
+door~
+2 0 30509
+D3
+~
+~
+0 0 30507
+D8
+~
+door~
+2 0 30512
+D9
+~
+door~
+2 0 30511
+S
+#30509
+The Violet Bedroom~
+   This is the most expensive room in the inn.  In this room, everything is
+surrounded by a fine silk.  The bed in this room is unlike the beds in the
+other rooms.  This one has white silk sheets placed on it.  When you look at
+the walls, you see lavender silk hanging from the walls, completely covering
+it.  The ceiling has been painted a lovely violet color with painted white
+roses.  Around the room metal candle holders hang from the walls, away from the
+silk.    
+~
+305 8 0 0 0
+D0
+   A brilliant shade of purple has been painted on both sides of this thick,
+oak door.    
+~
+door~
+2 0 30508
+S
+#30510
+The Emerald Bedroom~
+   This bedroom appears to be a less expensive room, at least to the customers
+that is.  The walls may not be covered in silk, but they are painted with
+nature scenes.  The ceiling has been painted a calming emerald color, with
+white crown molding Iron candle holders are placed on the walls, keeping the
+room well lit.  Against the northern wall is the double bed, and against the
+southern wall is an armoire for travelers to place their clothing in.  To the
+east is the door leading back to the hallway.    
+~
+305 8 0 0 0
+D3
+   A calming emerald color has been painted on both sides of this thick oak
+door.  The locks on the door are not even pick able by kender, thus leaving
+your belongings safe.    
+~
+door~
+2 0 30508
+S
+#30511
+The Crimson Bedroom~
+   This is one of the more expensive rooms in the inn.  In this room,
+everything is surrounded by a finery.  The bed in this room is very large, and
+stuffed with fresh feathers.  The bed has white silk sheets placed on it, with
+a comfortable blanket.  The bed has been placed against the eastern wall, with
+an armoire against the western wall.  Curtain covers the window on the southern
+wall, it has been kept clean to allow natural light.  Around the room metal
+candle holders hang from the walls.    
+~
+305 8 0 0 0
+D6
+   A vibrant crimson color has been painted on both sides of this thick oak
+door.  The locks on the door are not even pick able by kender, thus leaving
+your belongings safe.    
+~
+door~
+2 0 30508
+S
+#30512
+Obsidian Bedroom~
+   This is one of the more expensive rooms in the inn.  In this room,
+everything is surrounded by a finery.  The bed in this room is very large, and
+stuffed with fresh feathers.  The bed has white silk sheets placed on it, with
+a comfortable blanket.  The bed has been placed against the eastern wall, with
+an armoire against the western wall.  Dark curtains cover the window on the
+southern wall, it has been kept clean to allow natural light.  Around the room
+metal candle holders hang from the walls.    
+~
+305 8 0 0 0
+D7
+   An obsidian color has been painted on both sides of this thick oak door.  
+The locks on the door are not even pick able by kender, thus leaving your
+belongings safe.    
+~
+door~
+2 0 30508
+S
+#30513
+The Gruesome Flute's Mail Room~
+   This small room to the east of the book room is where those who are staying
+at the Inn can receive mail sent to them here.  A large man stands behind a
+counter sorting mail into a large array of mail slots on the wall behind him.
+Each slot has a small name on it, and there is one for you somewhere in there.
+  
+~
+305 8 0 0 0
+D0
+~
+~
+0 0 30514
+D1
+~
+~
+0 0 30520
+D4
+~
+~
+0 0 30501
+S
+#30514
+The Main Board Room~
+   The walls are covered with large bulletin boards, each plastered with
+various posts by people with interesting information.  This is one of the best
+places to find the latest gossip, any job information and the likes.  The area
+is well lit with wall sconces which glint off the wide open spaces down here
+and all the boards that line each room.    
+~
+305 8 0 0 0
+D1
+~
+~
+0 0 30515
+D2
+~
+~
+0 0 30513
+S
+#30515
+The Trade and Special Events Board Room~
+   This room has been reserved as a trading board room.  The walls are covered
+with large bulletin boards, each plastered with various posts by people willing
+to trade their items, or wanting certain pieces of equipment, or their
+locations.  This is one of the best places to find rare items, or at least to
+find the person who may know where those items can be found.    
+~
+305 8 0 0 0
+D1
+~
+~
+0 0 30516
+D3
+~
+~
+0 0 30514
+S
+#30516
+The Local Crime Board Room~
+   The walls of this room are covered in bulletin boards, with a few scribbled
+warnings, posts, and threats made by various people of the realm.  A few
+posters along the wall depict portaits of criminals, with notes attached to
+these as well.  The floor and boards are kept clean and legible for others to
+read and be warned of the crimes that happen.    
+~
+305 8 0 0 0
+D1
+~
+~
+0 0 30517
+D3
+~
+~
+0 0 30515
+S
+#30517
+The Policy Board Room~
+   The board on the southern wall of this room is for discussing the Gods'
+policies as they pertain to the mortals of Krynn.  Discussion topics include
+things such as helping mortals, the healing of mortals, and Gods abusing their
+powers towards mortals.  Pictures of the constellations have been painted on
+the walls.    
+~
+305 8 0 0 0
+D2
+~
+~
+0 0 30518
+D3
+~
+~
+0 0 30516
+S
+#30518
+Board Room of Alternate Universes (OOC/Ideas)~
+   This small room contains a bulletin board on the north wall of the room,
+written in a strange language you can't place with any race on Krynn.  In the
+center of the room is a sphere wrapped with what looks like a geographical map,
+spinning of its own accord, and radiating a pale blue light that both chills
+and warms your soul.  You feel somehow connected to it...  Yet completely
+incapable of determining how.  A stairway leads up to the area where you first
+started your journey.  If you find yourself in need of more guidance, it might
+be a good idea to take another stroll through those rooms.    
+~
+305 8 0 0 0
+D0
+~
+~
+0 0 30517
+D3
+~
+~
+0 0 30519
+D4
+~
+~
+0 0 2070
+S
+#30519
+The RP Board Room~
+   This small room contains only a large bulletin board on the north wall.  
+The bulletin board actually covers the entire wall, and is itself plastered
+with messages and notes.  This board is for the questions, comments, and ideas
+or suggestions that the mortals may have concerning things such as RP, Quests,
+Invasions, and minor or major situations, histories, backgrounds for characters
+that might occur, or that they wish to do.  Imms may reply as well on this
+board, to answer or ask for ideas about any RP-type situation.    
+~
+305 8 0 0 0
+D1
+~
+~
+0 0 30518
+D3
+~
+~
+0 0 30520
+S
+#30520
+The Bug Board Room~
+   The bulletin board on the south wall of this small room is for pointing out
+bugs.  If you find any bugs anywhere in Krynn, just leave a note here and one
+of the Gods will fix it.  A simple stack of parchments on a desk with an ink
+well is the only furniture in this room, and it fills the entire southern wall
+of the room.    
+~
+305 8 0 0 0
+D1
+~
+~
+0 0 30519
+D3
+~
+~
+0 0 30513
+S
+#30521
+Clothing Shop~
+You are in an unfinished room.
+~
+305 0 0 0 0
+D2
+~
+~
+0 0 30397
+D4
+~
+~
+0 0 30522
+S
+#30522
+Clothing Shop2~
+You are in an unfinished room.
+~
+305 0 0 0 0
+D5
+~
+~
+0 0 30521
+S
+#30523
+Armor Shop~
+You are in an unfinished room.
+~
+305 0 0 0 0
+D0
+~
+~
+0 0 30397
+D3
+~
+~
+0 0 30524
+S
+#30524
+Weapon Smith/Forge~
+You are in an unfinished room.
+~
+305 0 0 0 0
+D1
+~
+~
+0 0 30523
+S
+#30525
+Butcher Shop~
+You are in an unfinished room.
+~
+305 0 0 0 0
+D2
+~
+~
+0 0 30398
+D4
+~
+~
+0 0 30526
+S
+#30526
+Spice and Wine Shop~
+You are in an unfinished room.
+~
+305 0 0 0 0
+D5
+~
+~
+0 0 30525
+S
+#30527
+Jeweler Shop~
+You are in an unfinished room.
+~
+305 0 0 0 0
+D0
+~
+~
+0 0 30398
+S
+#30528
+General Goods~
+You are in an unfinished room.
+~
+305 0 0 0 0
+D2
+~
+~
+0 0 30399
+S
+#30529
+Botolf's Holy Wares and Accoutrements~
+You are in an unfinished room.
+~
+305 8 0 0 0
+D0
+~
+~
+0 0 30399
+S
+#30530
+Giffard's Buy-It-All Emporium~
+You are in an unfinished room.
+~
+305 8 0 0 0
+D2
+~
+~
+0 0 30401
+D4
+~
+~
+0 0 30531
+S
+#30531
+A Vast, Dark Attic~
+   Every eave and gable of this vast attic is stocked full of boxes and chests
+simply overflowing with items from all over the face of Krynn.  Every few
+minutes a small shadow moves quickly through the attic, passing out of sight in
+an instant.  It probably would not be wise to set anything down in this area,
+as it would no doubt be swept off and stored with the collector's inventory.  
+
+~
+305 1 0 0 1
+D5
+~
+~
+0 0 30530
+S
+#30532
+The Gank Bank~
+You are in an unfinished room.
+~
+305 8 0 0 0
+D0
+~
+~
+0 0 30401
+S
+#30533
+The Flask and Sword Tavern~
+   The tavern itself is packed.  Groups belonging to some kind of organization,
+most are locals.  Several long tables are occupied by happy, excited groups of
+people, some are dancing on the table, while others cheer them on with clapping
+and yelling.  The other, smaller tables are also occupied by people who are
+playing games and, judging by their laughter, are either telling jokes or
+great, perhaps embarrassing, tales.  Even most of the stools at the bar are
+occupied, though nobody seems to mind more company.    
+~
+305 8 0 0 0
+D3
+~
+door~
+1 0 30355
+S
+#30534
+Dough se Dough Bakery~
+You are in an unfinished room.
+~
+305 8 0 0 0
+D1
+~
+~
+0 0 30397
+S
+#30535
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30536
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30537
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30538
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30539
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30540
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30541
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30542
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30543
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30544
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30545
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30546
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30547
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30548
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30549
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30550
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30551
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30552
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30553
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30554
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30555
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30556
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30557
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30558
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30559
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30560
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30561
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30562
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30563
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30564
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30565
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30566
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30567
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30568
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30569
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30570
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30571
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30572
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30573
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30574
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30575
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30576
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30577
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30578
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30579
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30580
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30581
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30582
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30583
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30584
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30585
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30586
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30587
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30588
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30589
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30590
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30591
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30592
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30593
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30594
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30595
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30596
+Buildwalk~
+You are in an unfinished room.
+~
+305 0 0 0 0
+S
+#30597
+A Narrow, Dusty Horse Trail~
+You are in an unfinished room.
+~
+305 0 2 0 0
+D0
+~
+~
+0 0 30598
+D2
+~
+~
+0 0 8437
+S
+#30598
+A Small Lean-To Stable~
+You are in an unfinished room.
+~
+305 0 0 0 0
+D2
+~
+~
+0 0 30597
+D3
+~
+~
+0 0 30599
+S
+#30599
+A Bare Patched Pasture~
+You are in an unfinished room.
+~
+305 0 2 0 0
+D1
+~
+~
+0 0 30598
+S
+$~

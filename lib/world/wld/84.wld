@@ -685,6 +685,10 @@ cool here but tolerable, the radiant warmth of the sun beating down from clear
 skies.  To the south, large masses of stone stretch skyward.
 ~
 84 0 2 0 0
+D0
+~
+~
+0 0 30597
 D3
 ~
 ~
@@ -834,6 +838,10 @@ D0
 ~
 ~
 0 0 8444
+D1
+~
+stones~
+1 0 30301
 D9
 ~
 ~
@@ -888,10 +896,10 @@ D1
 ~
 ~
 0 0 -1
-D2
+D4
 ~
 ~
-0 0 8449
+0 0 9282
 D6
 ~
 ~
@@ -899,17 +907,16 @@ D6
 S
 #8449
 Yucatchacol Pass~
-   High stone cliffs rise up on either side of the road as it moves through a
-high pass in the mountains.  Although the stone offers some protection from the
-weather, it acts like a funnel and a steady, strong wind of freezing cold air
-whips down along its length.  A constant flow of half frozen mist is carried in
-the air, making everything wet and metal cold to the touch.    
+   Nearly completely exposed to the elements, only stone boulders that have
+rolled down the mountain's peaks offer any respite of protection.  A blizzard
+rages on as the sky is filled with a barrage of snow flakes, blocking out
+visibility and making everything appear very dim and indistinct.    
 ~
 84 0 4 0 0
 D0
 ~
 ~
-0 0 8448
+0 0 9283
 D1
 ~
 ~
@@ -1016,10 +1023,10 @@ into the icy roadway, are constant obstacles that could cause an unwary
 traveller to trip and fall to their death.    
 ~
 84 4 5 0 0
-D2
+D5
 ~
 ~
-0 0 8456
+0 0 9284
 D6
 ~
 ~
@@ -1037,7 +1044,7 @@ unfortunate enough to have suffered frostbite in one or both feet.
 D0
 ~
 ~
-0 0 8455
+0 0 9285
 D2
 ~
 ~
