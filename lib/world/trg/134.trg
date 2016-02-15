@@ -20,6 +20,13 @@ Dripping sound trigger of o13400 in r13401~
 wecho A gentle splash can be heard as a drop of water falls into the bottom of the well.
 end
 ~
+#13482
+Ioun: Food and drink~
+1 j 100
+~
+osend %actor% %actor.str%
+osend %actor% %actor.player.hunger%
+~
 #13489
 m13489 random death load o13485-89~
 0 f 100
