@@ -117,12 +117,22 @@ CircleMUD v3.0 Shop File~
 20
 #30530~
 -1
-1.00
-1.00
-12
-2a
+99999.00
+0.55
+1
+2
 3
 4
+5
+7
+8
+9
+10
+11
+12
+13
+14
+15
 -1
 %s Sorry, I don't stock that item.~
 %s You don't seem to have that.~
@@ -142,7 +152,7 @@ CircleMUD v3.0 Shop File~
 0
 0
 1
-20
+38
 #30534~
 30534
 30535

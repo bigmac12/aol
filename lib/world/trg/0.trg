@@ -50,6 +50,18 @@ disarm~
 if (%actor.vnum% == -1) then
   wsend %actor% A strange force prevents you from doing that.
 ~
+#8
+Antique Dealer Drop~
+0 e 100
+sells~
+say Gimmie a minute, would ya?
+wait 4
+emote carries the item upstairs and adds it to their collection.
+up
+drop all
+down
+wait 6
+~
 #10
 new trigger~
 0 g 100

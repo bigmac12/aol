@@ -3121,11 +3121,12 @@ ACMD(do_cast)
     return;
   }
 
-if (!has_materials(ch, spellnum) && GET_LEVEL(ch) < LVL_IMMORT) {
-send_to_char("You dont seem to have the spell components necessary for this spell!\r\n", ch);
-
-  return;
+  /*
+  if (!has_materials(ch, spellnum) && GET_LEVEL(ch) < LVL_IMMORT) {
+    send_to_char("You dont seem to have the spell components necessary for this spell!\r\n", ch);
+    return;
   }
+  */
 
   check_improve(ch, spellnum);
   cast_spell(ch, tch, tobj, spellnum);
