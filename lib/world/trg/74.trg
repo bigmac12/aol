@@ -14,4 +14,21 @@ wait 20s
 wecho The wall slides back into place.
 wdoor 7406 down purge
 ~
+#7404
+m7404 death load o7481, o7484, o7488, o7489~
+0 f 100
+~
+eval chance %random.20%
+if (%chance% == 5) then
+  mload obj 7481
+elseif (%chance% == 10) then
+  mload obj 7484
+elseif (%chance% == 15) then
+  mload obj 7488
+elseif (%chance% == 20) then
+  mload obj 7489
+else
+  return 0
+end
+~
 $~

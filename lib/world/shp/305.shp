@@ -24,7 +24,74 @@ CircleMUD v3.0 Shop File~
 0
 1
 10
+#30523~
+30523
+30524
+30525
+30526
+30527
+30528
+-1
+1.20
+0.70
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+30523
+0
+30523
+-1
+0
+28
+0
+0
+1
+20
+#30524~
+30516
+30517
+30518
+30519
+30520
+30521
+30522
+-1
+1.30
+0.70
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+30524
+0
+30524
+-1
+0
+28
+0
+0
+1
+20
 #30529~
+16050
+16051
+16052
+16053
+16054
+16055
 -1
 1.00
 1.00
@@ -76,4 +143,38 @@ CircleMUD v3.0 Shop File~
 0
 1
 20
+#30534~
+30534
+30535
+30536
+30537
+30538
+30539
+30540
+30541
+30542
+30543
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+30534
+0
+30534
+-1
+0
+28
+0
+0
+1
+38
 $~

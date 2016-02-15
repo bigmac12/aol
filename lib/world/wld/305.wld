@@ -422,7 +422,7 @@ S
 Clothing Shop~
 You are in an unfinished room.
 ~
-305 0 0 0 0
+305 8 0 0 0
 D2
 ~
 ~
@@ -436,17 +436,23 @@ S
 Clothing Shop2~
 You are in an unfinished room.
 ~
-305 0 0 0 0
+305 8 0 0 0
 D5
 ~
 ~
 0 0 30521
 S
 #30523
-Armor Shop~
-You are in an unfinished room.
+Glancing Blow Armory~
+   Upon entering the shop, the first thing most people notice are the sheets of
+metal littered about the shop.  Mithril, adamantite, steel, iron, copper,
+bronze - the list is nearly as endless as the ability of the owner, Yasuf, to
+craft them into functional pieces of battle-ready armor.  Dozens of shelves in
+the shop are lined with small wooden boxes, each filled with one type of armor
+fixture or another.  Leading west, past the counter, is a doorway with a sign
+affixed over it.    
 ~
-305 0 0 0 0
+305 8 0 0 0
 D0
 ~
 ~
@@ -455,10 +461,23 @@ D3
 ~
 ~
 0 0 30524
+E
+sign~
+   This sign is made of rough, unfinished spruce.  Painted across the face, in
+large white letters, are the words:
+
+                        &WBALEFUL BLADES WEAPONRY&n
+~
 S
 #30524
-Weapon Smith/Forge~
-You are in an unfinished room.
+Baleful Blades Weaponry~
+   Somewhat larger than the armor shop it is attached to, this forge is
+adequately sized to contain all of the necessary tools required of a
+blacksmith.  Large barrels of water and oil stand near the forge itself for
+ease of access between the coals and the anvil.  Several large grinding wheels,
+of varying degrees of coarseness, sit all in a line facing the northern wall.
+Several wooden wall racks contain other tools like hammers and tongs, with the
+occasional broom mixed in for keeping the shop clean.    
 ~
 305 0 0 0 0
 D1
@@ -470,7 +489,7 @@ S
 Butcher Shop~
 You are in an unfinished room.
 ~
-305 0 0 0 0
+305 8 0 0 0
 D2
 ~
 ~
@@ -484,7 +503,7 @@ S
 Spice and Wine Shop~
 You are in an unfinished room.
 ~
-305 0 0 0 0
+305 8 0 0 0
 D5
 ~
 ~
@@ -494,7 +513,7 @@ S
 Jeweler Shop~
 You are in an unfinished room.
 ~
-305 0 0 0 0
+305 8 0 0 0
 D0
 ~
 ~
@@ -504,7 +523,7 @@ S
 General Goods~
 You are in an unfinished room.
 ~
-305 0 0 0 0
+305 8 0 0 0
 D2
 ~
 ~
@@ -512,7 +531,12 @@ D2
 S
 #30529
 Botolf's Holy Wares and Accoutrements~
-You are in an unfinished room.
+   Wispy strings of smoke fill the air inside this dimly lit shop.  Various
+varieties of religious articles, from bolts of cloth and robes to vestibules
+and medallions, fill the room to capacity and leave little room for people.  
+The scent of burning incense assaults your nostrils, mixed with burning wax
+from various candles strewn about the room.  Shadows flicker back and forth as
+they battle the light cast against the walls by lit, low-burning wicks.    
 ~
 305 8 0 0 0
 D0

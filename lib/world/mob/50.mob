@@ -332,6 +332,25 @@ hooded robe of deep green- the color of the sea.
 BareHandAttack: 5
 Maxmove: 50
 E
+#5080
+large group refugees people~
+a large group of refugees~
+A large group of people gather around the wagon, loading themselves and their possessions.
+~
+   A group of people, numbering in the dozens, gather around the large wagon
+parked in the street.  Expressions range from despair and depressed, to
+matter-of-fact or somewhat angry.  An audible din rises from the people as they
+talk back and forth, giving orders about how to load the wagon or some meager
+words of reassurance to their families.  All in all, this throng of bodies
+moves with urgency and purpose as they make haste to leave the city before the
+coming of the Istarian army.    
+~
+7593994 1241645096 0 0 E
+30 -10 -20 30d100+20000 30d3+30
+200000 0 3
+8 8 0 0
+Maxmove: 100
+E
 #5098
 Creighton director~
 Creighton~
