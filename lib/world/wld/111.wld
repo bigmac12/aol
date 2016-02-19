@@ -166,20 +166,20 @@ D3
 ~
 0 0 11109
 E
-gargoyle gargoyles leer ruby eyes~
-   Moss hangs from each of these stone gargoyles, which sit in the four corners
-of the ceiling.  Their faces have been carved into horrible, leering visages
-and each ones eyes have been set with rubies.  The dim light from the braziers
-reflects off their eyes making it look as if they were alive, watching..  
-Leering..    
-~
-E
 fountain carved obsidian~
    This large, obsidian fountain has been carved by skilled hands.  Rising from
 the center like some black monolith, are three figures carved from the stone of
 the fountain: A rotting corpse with a snarling, hideous goats head; A muscular
 man wearing an executioners hood; and a roiling black cloud; each set with
 small, delicate rubies for eyes.    
+~
+E
+gargoyle gargoyles leer ruby eyes~
+   Moss hangs from each of these stone gargoyles, which sit in the four corners
+of the ceiling.  Their faces have been carved into horrible, leering visages
+and each ones eyes have been set with rubies.  The dim light from the braziers
+reflects off their eyes making it look as if they were alive, watching..  
+Leering..    
 ~
 S
 #11108
@@ -384,19 +384,19 @@ D2
 ~
 0 0 11115
 E
+morgion hooded head likeness ruby eyes~
+   The huge hooded head of Morgion, Lord of Disease and Decay looms over the
+altar with large, glittering ruby eyes.  Carved from the very stone of the
+walls, the likeness is a dark grey, almost black color and is a rather imposing
+figure.    
+~
+E
 altar charred~
    This huge stone altar is blackened, as if it had been subjected to fire.  A
 brown silk cloth hangs over it, and atop the altar stands a set of black
 ceremonial candles.  In the center of the altar rests a copper bowl filled with
 some kind of thick black ichor, and an offering plate rests towards the front
 of the altar.    
-~
-E
-morgion hooded head likeness ruby eyes~
-   The huge hooded head of Morgion, Lord of Disease and Decay looms over the
-altar with large, glittering ruby eyes.  Carved from the very stone of the
-walls, the likeness is a dark grey, almost black color and is a rather imposing
-figure.    
 ~
 S
 #11117
@@ -418,18 +418,18 @@ D3
 ~
 0 0 11113
 E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.    
+~
+E
 pillars dark gothic~
    These dark, gothic-looking pillars have been carved from the same obsidian
 as the floor and line either side of the central aisle.  Each has been carved
 to depict a twisting mass of tortured souls with their mouths open in silent
 screams, whirling towards the heavens.  Every face has been painstakingly
 carved in detail, and clearly depicts inexplainable agony.    
-~
-E
-pews~
-   These long oak pews are worn with age and use, but remain in decent
-condition.  The seats are lined with a black velvety cushion, and brown leather
-prayer books rest in book holders on the backs of the pews.    
 ~
 S
 #11118
@@ -455,18 +455,18 @@ D3
 ~
 0 0 11119
 E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.    
+~
+E
 pillars dark gothic~
    These dark, gothic-looking pillars have been carved from the same obsidian
 as the floor and line either side of the central aisle.  Each has been carved
 to depict a twisting mass of tortured souls with their mouths open in silent
 screams, whirling towards the heavens.  Every face has been painstakingly
 carved in detail, and clearly depicts inexplainable agony.    
-~
-E
-pews~
-   These long oak pews are worn with age and use, but remain in decent
-condition.  The seats are lined with a black velvety cushion, and brown leather
-prayer books rest in book holders on the backs of the pews.    
 ~
 S
 #11119
@@ -506,18 +506,18 @@ D3
 ~
 0 0 11114
 E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.    
+~
+E
 pillars dark gothic~
    These dark, gothic-looking pillars have been carved from the same obsidian
 as the floor and line either side of the central aisle.  Each has been carved
 to depict a twisting mass of tortured souls with their mouths open in silent
 screams, whirling towards the heavens.  Every face has been painstakingly
 carved in detail, and clearly depicts inexplainable agony.    
-~
-E
-pews~
-   These long oak pews are worn with age and use, but remain in decent
-condition.  The seats are lined with a black velvety cushion, and brown leather
-prayer books rest in book holders on the backs of the pews.    
 ~
 S
 #11121
@@ -543,18 +543,18 @@ D2
 ~
 0 0 11118
 E
+pews~
+   These long oak pews are worn with age and use, but remain in decent
+condition.  The seats are lined with a black velvety cushion, and brown leather
+prayer books rest in book holders on the backs of the pews.    
+~
+E
 pillars dark gothic~
    These dark, gothic-looking pillars have been carved from the same obsidian
 as the floor and line either side of the central aisle.  Each has been carved
 to depict a twisting mass of tortured souls with their mouths open in silent
 screams, whirling towards the heavens.  Every face has been painstakingly
 carved in detail, and clearly depicts inexplainable agony.    
-~
-E
-pews~
-   These long oak pews are worn with age and use, but remain in decent
-condition.  The seats are lined with a black velvety cushion, and brown leather
-prayer books rest in book holders on the backs of the pews.    
 ~
 S
 #11122
@@ -977,6 +977,7 @@ D8
 ~
 0 0 11176
 S
+T 7
 #11143
 A Mass Grave~
    The passage opens up to a huge natural rock cavern here, and the horrible
@@ -1276,7 +1277,7 @@ swirling fog of vapors.  Sturdy cressets have been driven deep into the soft
 ground providing evidence that someone, or something, visits these caverns.  
 Each cresset is filled with dried mosses which are set aflame to provide light.
 ~
-111 32808 0 0 0
+111 40 0 0 0
 D2
 ~
 ~
@@ -1317,7 +1318,7 @@ swirling fog of vapors.  Sturdy cressets have been driven deep into the soft
 ground provide evidence that someone, or something, visits these caverns.  
 Each cresset is filled with dried mosses which are set aflame to provide light.
 ~
-111 32776 0 0 0
+111 8 0 0 0
 D0
 ~
 ~
@@ -1417,7 +1418,7 @@ this cell.  The only opening is a tiny barred window.
 door~
 1 11162 11171
 E
-ne~
+se~
    A thick oak door reinforced with banded steel locks and bars the way into
 this cell.  The only opening is a tiny barred window.    
 ~
@@ -1427,7 +1428,7 @@ e~
 There are no openings on this door other than the keyhole.    
 ~
 E
-se~
+ne~
    A thick oak door reinforced with banded steel locks and bars the way into
 this cell.  The only opening is a tiny barred window.    
 ~
@@ -1482,7 +1483,7 @@ presumably from sediment it has collected on its journey westward.  A low
 ceiling makes it impossible to follow the river toward its delta, however the
 riverbed is passable to the southeast.    
 ~
-111 32776 0 0 0
+111 8 0 0 0
 D3
    A small crack runs the length of this wall.  With alittle work it could be
 widened to allow passage.    
@@ -1507,7 +1508,7 @@ that someone, or something, visits these caverns.  Each cresset is filled with
 dried mosses which are set aflame to provide light.  Foul vapors drift in from
 the north and the east.    
 ~
-111 32768 0 0 0
+111 0 0 0 0
 D0
 ~
 ~
@@ -1532,7 +1533,7 @@ swirling fog of vapors.  Sturdy cressets have been driven deep into the soft
 ground provide evidence that someone, or something, visits these caverns.  
 Each cresset is filled with dried mosses which are set aflame to provide light.
 ~
-111 32808 0 0 0
+111 40 0 0 0
 D3
 ~
 ~
@@ -1662,7 +1663,7 @@ trickle of water still flows along its ancient bed.  Barely resembling what
 anyone would call water, the murky flow has a sickening greenish tint to it,
 presumably from sediment it has collected on its journey westward.    
 ~
-111 32776 0 0 0
+111 8 0 0 0
 D6
 ~
 ~
@@ -1983,7 +1984,7 @@ thick layer of vegetation and dead leaves lining the ground.  The leaves and
 vegetation at your feet seems to have been recently disturbed, and the glint of
 metal can be seen beneath a thin pile of leaves.    
 ~
-111 32768 3 0 0
+111 0 3 0 0
 D1
    A large area of thorny brambles and bushes grow amongst the base of the
 trees here, and the appear as if they have been trampled through recently.    
@@ -2011,7 +2012,7 @@ passage floor is made of dirt.  All along the walls and scattered about the
 floor are tiny bits of refuse.  The air in the passage is stale and dank, and
 the smell of sweat and uncleansed bodies reeks pervasively.    
 ~
-111 32776 0 0 0
+111 8 0 0 0
 D4
    This old trapdoor is weathered and worn by age and the elements, and is none
 too sturdy.  Two iron pull rings are mounted toward the center, allowing for
@@ -2033,7 +2034,7 @@ the room is a small wooden table, and a few small chairs.  It is covered with
 half-eaten food and grime, and looks to be the main eating area of this place.
   
 ~
-111 32776 0 0 0
+111 8 0 0 0
 D0
    This is a shoddily made, warped wooden door with an iron pull ring.    
 ~
@@ -2057,7 +2058,7 @@ bed.  The stale reek of sweat and body odor hangs in the air heavily, making
 you gag and clothes and other debris lie sacttered about haphazardly.  A
 makeshift wooden door has been attached to the opening for privacy.    
 ~
-111 32776 0 0 0
+111 8 0 0 0
 D2
    This is a shoddily made, warped wooden door with an iron pull ring.    
 ~
@@ -2073,7 +2074,7 @@ ends lie everywhere and in the center of the room someones meal lies
 unfinished, the goblet tipped over spilling it's contents.  A faint breeze
 carrying a slight smell of decay comes from the east.    
 ~
-111 32776 0 0 0
+111 8 0 0 0
 D1
    This small crack runs the length of the wall.  It could be widened with
 alittle work to allow passage beyond.    

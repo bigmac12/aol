@@ -510,8 +510,15 @@ D5
 0 0 30525
 S
 #30527
-Jeweler Shop~
-You are in an unfinished room.
+Marak's Masterpieces~
+   The door to this shop is remarkably large.  One-third again as tell and
+twice as wide, why it was made this way is somewhat of a mystery unless the
+shop owner happens to be present.  The shop itself is immaculately kept;
+everything is in order and has a place.  Forming a "U" shape, three glass
+display cases feature a plethora of brilliant jewels on handcrafted settings.
+Larger pieces are set upon shelves mounted to the wall: pieces of armor with
+gems and filigree, glassware of all shapes and sizes, and several
+superbly-crafted weapons.    
 ~
 305 8 0 0 0
 D0
@@ -764,112 +771,360 @@ You are in an unfinished room.
 305 0 0 0 0
 S
 #30560
-Buildwalk~
-You are in an unfinished room.
+Parlor of the Mayor's Estate~
+   The entryway of the Mayor's mansion is quite large and ornately decorated.
+The walls are made of a beautiful white stone, and the floor is covered with
+plush, deep red carpeting.  A large chandelier hangs overhead, casting a warm
+glow throughout the room.  This stairway lead to the upper floors of the
+mansion.  The stairs are covered with thick red carpeting.  An ornately carved
+wooden handrail runs along the stairway.    
 ~
 305 0 0 0 0
+D0
+~
+~
+0 0 30564
+D1
+~
+~
+0 0 30561
+D2
+~
+door~
+1 0 30565
+D3
+~
+frontdoor~
+1 0 30316
+D4
+~
+~
+0 0 30573
 S
 #30561
-Buildwalk~
-You are in an unfinished room.
+Sitting Room of the Mayor's Estate~
+   The vaulted ceilings in this room combine with the lavish furnishings to
+create an elegant sitting room for those fortunate enough to be invited to stay
+as the Mayor's guests.  The wood flooring is covered with a large rug which
+helps to create a comfortable feeling in this spacious room.  Two large couches
+sit opposite each other providing comfortable seating for the guests.    
 ~
 305 0 0 0 0
+D0
+~
+~
+0 0 30563
+D1
+~
+bookcase~
+4 0 30562
+D3
+~
+~
+0 0 30560
 S
 #30562
-Buildwalk~
-You are in an unfinished room.
+Private Office of the Mayor~
+   This large game room is where the Mayor spends much of his leisure time.  A
+chess board is set up on the table in the corner with two overstuffed chairs
+beside it.  The north wall of this room are completely covered with the mounted
+heads of animals.  The Mayor must enjoy a good hunt and has obviously been
+successful in his past endeavors.  On the southern wall lays a large, beautiful
+vallenwood desk.  Unlike past Mayors who have held this post, this mayor is
+rather keen on organization.  Files are neatly kept, and arranged neatly on the
+desk and the bookcases.    
 ~
 305 0 0 0 0
+D3
+~
+bookcase~
+1 0 30561
 S
 #30563
-Buildwalk~
-You are in an unfinished room.
+Kitchen of the Mayor's Estate~
+   The appetizing smell of cooking food fills the air.  Servants are busily
+running in and out of the kitchen with large silver trays piled high with food
+for the Mayor and his family and guests.  The kitchen itself is quiet modern,
+it has three large cooking spits and rows of tables lined with kitchen servants
+all under the order and watch of the chief.    
 ~
 305 0 0 0 0
+D2
+~
+~
+0 0 30561
+D3
+~
+~
+0 0 30564
 S
 #30564
-Buildwalk~
-You are in an unfinished room.
+Dining Room of the Mayor's Estate~
+   This large dining room is lavishly decorated with rich wood furnishings.  A
+brightly polished long table runs the entire length of the room.  Servants are
+running about frantically, trying to prepare for the Mayor's next meal.  A
+beautifully carved clock stands in the corner of the room, chiming softly.    
 ~
 305 0 0 0 0
+D1
+~
+~
+0 0 30563
+D2
+~
+~
+0 0 30560
 S
 #30565
-Buildwalk~
-You are in an unfinished room.
+A Brick Patio~
+   This large, brick patio extends across the back of the mansion.  A narrow
+path continues from the front of the mansion to the back patio and grounds.  
+The path itself is composed of small stones and crushed shale.  It is bordered
+on both sides with flower boxes which are carefully tended by the gardeners.  
+Oil lanterns line the path, providing light during the evening hours.  A small
+fountain has set up in the center of the pathway, with white benches
+surrounding either side of the fountain.    
 ~
 305 0 0 0 0
+D0
+~
+door~
+1 0 30560
+D1
+~
+~
+0 0 30572
+D2
+~
+~
+0 0 30566
 S
 #30566
-Buildwalk~
-You are in an unfinished room.
+A Brick Patio~
+   This large, brick patio extends across the back of the mansion.  A low,
+brick fence wraps around the patio, with benches built right into it.  The
+perimeter is lined with oil lanterns which provide light as well as help to
+drive away bugs.  A large stately mansion is visible to the north.  Dozens of
+small lanterns line the path, providing light during the nighttime hours.    
 ~
 305 0 0 0 0
+D0
+~
+~
+0 0 30565
+D1
+~
+~
+0 0 30567
 S
 #30567
-Buildwalk~
-You are in an unfinished room.
+A Brick Patio~
+   This brick path winds its was through beautifully maintained gardens.  The
+flower boxes overflow with roses and gardenias.  The sweet fragrance fills the
+air.  Small butterflies dance about the blooms.  A large stately mansion is
+visible to the north.  Dozens of small lanterns line the path, providing light
+during the nighttime hours.    
 ~
 305 0 0 0 0
+D0
+~
+~
+0 0 30572
+D1
+~
+~
+0 0 30568
+D3
+~
+~
+0 0 30566
 S
 #30568
-Buildwalk~
-You are in an unfinished room.
+A Brick Patio~
+   The flower boxes overflow with roses and gardenias.  The sweet fragrance
+fills the air.  A low, brick fence wraps around the patio, with benches built
+right into it.  Dozens of small lanterns line the path, providing light during
+the nighttime hours.  A large stately mansion is visible to the north.    
 ~
 305 0 0 0 0
+D0
+~
+~
+0 0 30571
+D1
+~
+~
+0 0 30569
+D3
+~
+~
+0 0 30567
 S
 #30569
-Buildwalk~
-You are in an unfinished room.
+A Brick Patio~
+   A low, brick fence wraps around the patio, with benches built right into it.
+The perimeter is lined with oil lanterns which provide light as well as help to
+drive away bugs.  A large stately mansion is visible to the north.  Dozens of
+small lanterns line the path, providing light during the nighttime hours.  
+Small butterflies dance about the blooms of the budding flowers, giving the
+area one of peace and beauty in the rocky city.    
 ~
 305 0 0 0 0
+D0
+~
+~
+0 0 30570
+D3
+~
+~
+0 0 30568
 S
 #30570
-Buildwalk~
-You are in an unfinished room.
+A Brick Patio~
+   This large, brick patio extends across the back of the mansion.  A low,
+brick fence wraps around the patio, with benches built right into it.  The
+perimeter is lined with oil lanterns which provide light as well as help to
+drive away bugs.  A large stately mansion is visible to the north.  Dozens of
+small lanterns line the path, providing light during the nighttime hours.    
 ~
 305 0 0 0 0
+D2
+~
+~
+0 0 30569
+D3
+~
+~
+0 0 30571
 S
 #30571
-Buildwalk~
-You are in an unfinished room.
+A Brick Patio~
+   The flower boxes overflow with roses and gardenias.  The sweet fragrance
+fills the air as small butterflies dance about the blooms.  A low, brick fence
+wraps around the patio, with benches built north into it.  The brick path winds
+its was through beautifully maintained gardens.  Dozens of small lanterns line
+the path, providing light during the nighttime hours.    
 ~
 305 0 0 0 0
+D1
+~
+~
+0 0 30570
+D2
+~
+~
+0 0 30568
+D3
+~
+~
+0 0 30572
 S
 #30572
-Buildwalk~
-You are in an unfinished room.
+A Brick Patio~
+   This brick path winds its was through beautifully maintained gardens.  The
+flower boxes overflow with roses and gardenias.  The sweet fragrance fills the
+air.  Small butterflies dance about the blooms.  A large stately mansion is
+visible to the north.  Dozens of small lanterns line the path, providing light
+during the nighttime hours.    
 ~
 305 0 0 0 0
+D1
+~
+~
+0 0 30571
+D2
+~
+~
+0 0 30567
+D3
+~
+~
+0 0 30565
 S
 #30573
-Buildwalk~
-You are in an unfinished room.
+A Well-Lit Hallway~
+   This landing leads to the second floor of the mansion.  The stairs are
+covered with thick red carpeting.  An ornately carved wooden handrail runs
+along the stairway.  This is the more private section of the home, where the
+Mayor and his family spend their personal time.  Very few outside visitors are
+invited into this area.    
 ~
 305 0 0 0 0
+D0
+~
+~
+0 0 30577
+D1
+~
+~
+0 0 30574
+D5
+~
+~
+0 0 30560
 S
 #30574
-Buildwalk~
-You are in an unfinished room.
+A Well-Lit Hallway~
+   This hallway leads to the Mayor's private quarters.  It is the most lavishly
+decorated part of the mansion.  Very few outside visitors are invited into this
+area.  To the north is a brightly painted bedroom, with a lovely decorated
+doorway.  To the east is the double doors of the Mayor's private bedroom.    
 ~
 305 0 0 0 0
+D0
+~
+~
+0 0 30576
+D1
+~
+~
+0 0 30575
+D3
+~
+~
+0 0 30573
 S
 #30575
-Buildwalk~
-You are in an unfinished room.
+Master Bedroom of the Estate~
+   The sheer size of this bedroom is overwhelming, however the room is not
+cold.  Its oversized furnishings and plush carpeting provide an elegant warmth
+and charm.  A massive, canopy bed is centered on the eastern wall.  Two small
+nightstand rest on either side of the bed.  Atop each is a white scarf with a
+lantern resting upon it.  The room has been decorated with a regal shade of
+blue, with large banners hanging from the walls.    
 ~
 305 0 0 0 0
+D3
+~
+~
+0 0 30574
 S
 #30576
-Buildwalk~
-You are in an unfinished room.
+Inside a Child's Bedroom~
+   This room serves as the sleeping quarters for the Mayor's children.  The
+walls are painted a bright yellow and the rug is a beautiful shade of blue.  
+The whole room is decorated cheerfully.  Beautifully crafted dolls sit on the
+shelves that hand from the walls, and a large toy box, overflowing with toys,
+sits in the corner.    
 ~
 305 0 0 0 0
+D2
+~
+~
+0 0 30574
 S
 #30577
-Buildwalk~
-You are in an unfinished room.
+Inside a Well Decorated Bedroom~
+   This bedroom is smaller than the master bedroom of the guest house but still
+provides ample room for its occupants.  Two beds stand against the northern
+wall with a simple nightstand between them.  An oil lamp has been placed upon
+the night stand to provide light.  Opposite the beds is large dresser.    
 ~
 305 0 0 0 0
+D2
+~
+~
+0 0 30573
 S
 #30578
 Buildwalk~

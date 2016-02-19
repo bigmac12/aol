@@ -478,16 +478,16 @@ A pile of sticks.
 sticks stick~
 1 0 4050
 E
+pile sticks stick light~
+   As you look closer at the sticks, you see that they are not sticks at all.
+They are the bones of a rather large woodland creature.    
+~
+E
 bones~
    As you dig deeper in the pile of bones, you come across what looks to be a
 spear.  It is crudely made with a stone tip and lashed together with leather
 strips.  It has some kind of carvings on it in a language that appears to be
 goblin.    
-~
-E
-pile sticks stick light~
-   As you look closer at the sticks, you see that they are not sticks at all.
-They are the bones of a rather large woodland creature.    
 ~
 S
 #4020
@@ -607,7 +607,7 @@ D2
 0 0 4026
 S
 #4026
-Close to a clearing~
+Close to a Clearing~
    A large path winds through the forest to the north and south.  The trees
 grow very close together to the east, making it impossible to see in that
 direction.  To the west the trees seem to be thinning out somewhat.  There are
@@ -732,7 +732,11 @@ D0
 S
 #4032
 The Forest~
-You are in an unfinished room.
+   The trees start to get thicker here.  It is difficult to see in any
+direction.  Witch's hair hangs from the branches and moss grows up the north
+face of the trunks.  There is a spot on the ground here that looks like a
+bedding area for some kind of animal.  A small game trail heads west, deeper
+into the forest.  The sounds of birds chirping comes from every direction.    
 ~
 40 0 3 0 0
 D0
@@ -750,7 +754,11 @@ D6
 S
 #4033
 The Forest~
-You are in an unfinished room.
+   The trees start to get thicker here.  It is difficult to see in any
+direction.  Witch's hair hangs from the branches and moss grows up the north
+face of the trunks.  There is a spot on the ground here that looks like a
+bedding area for some kind of animal.  A small game trail heads west, deeper
+into the forest.  The sounds of birds chirping comes from every direction.    
 ~
 40 0 3 0 0
 D1
@@ -772,7 +780,12 @@ D9
 S
 #4034
 The Forest~
-You are in an unfinished room.
+   The trees start to get a little thicker here.  It is difficult to see deeper
+into the woods.  You can still see the mountains rising up to the north.  To
+the south and west the forest continues.  A thick patch of raspberry bushes
+makes traveling west an impossibility.  The thorns look like they could tear
+through armor.  Small birds alite on the bushes and eat the berries, oblivious
+to the thorns.    
 ~
 40 0 3 0 0
 D2
@@ -790,7 +803,12 @@ D9
 S
 #4035
 The Forest~
-You are in an unfinished room.
+   The trees start to get a little thicker here.  It is difficult to see deeper
+into the woods.  You can still see the mountains rising up to the north.  To
+the south and west the forest continues.  A thick patch of raspberry bushes
+makes traveling west an impossibility.  The thorns look like they could tear
+through armor.  Small birds alite on the bushes and eat the berries, oblivious
+to the thorns.    
 ~
 40 0 3 0 0
 D0
@@ -812,7 +830,12 @@ D3
 S
 #4036
 The Forest~
-You are in an unfinished room.
+   The trees start to get a little thicker here.  It is difficult to see deeper
+into the woods.  You can still see the mountains rising up to the north.  To
+the south and west the forest continues.  A thick patch of raspberry bushes
+makes traveling west an impossibility.  The thorns look like they could tear
+through armor.  Small birds alite on the bushes and eat the berries, oblivious
+to the thorns.    
 ~
 40 0 3 0 0
 D1
@@ -838,7 +861,12 @@ D8
 S
 #4037
 The Forest~
-You are in an unfinished room.
+   The trees start to get a little thicker here.  It is difficult to see deeper
+into the woods.  You can still see the mountains rising up to the north.  To
+the south and west the forest continues.  A thick patch of raspberry bushes
+makes traveling west an impossibility.  The thorns look like they could tear
+through armor.  Small birds alite on the bushes and eat the berries, oblivious
+to the thorns.    
 ~
 40 0 3 0 0
 D2
@@ -860,7 +888,12 @@ D8
 S
 #4038
 The Forest~
-You are in an unfinished room.
+   The trees start to get a little thicker here.  It is difficult to see deeper
+into the woods.  You can still see the mountains rising up to the north.  To
+the south and west the forest continues.  A thick patch of raspberry bushes
+makes traveling west an impossibility.  The thorns look like they could tear
+through armor.  Small birds alite on the bushes and eat the berries, oblivious
+to the thorns.    
 ~
 40 0 3 0 0
 D0
@@ -882,7 +915,12 @@ D7
 S
 #4039
 The Forest~
-You are in an unfinished room.
+   The trees start to get a little thicker here.  It is difficult to see deeper
+into the woods.  You can still see the mountains rising up to the north.  To
+the south and west the forest continues.  A thick patch of raspberry bushes
+makes traveling west an impossibility.  The thorns look like they could tear
+through armor.  Small birds alite on the bushes and eat the berries, oblivious
+to the thorns.    
 ~
 40 0 3 0 0
 D0
@@ -900,7 +938,11 @@ D3
 S
 #4040
 A Mysterious Cave~
-You are in an unfinished room.
+   Sounds of oddities echo in the dark caverns of this cave.  The most basic,
+and natural sounds such as water dripping are disorienting.  Thick, moist slate
+rocks make up most of this mysterious cave.  The overall smell of rotten earth
+and musty mold, permeates the air.  Besides the vague speck of light in the
+southwest, the cave is very dark without some sort of light.    
 ~
 40 1 0 0 0
 D6
@@ -914,7 +956,11 @@ D8
 S
 #4041
 Deeper Into a Mysterious Cave~
-You are in an unfinished room.
+   Sounds of oddities echo in the dark caverns of this cave.  Loud snoring from
+some sort of animal is the only normal sound in this cave, but one would not
+wish to come across or wake the animal.  Thick, moist slate rocks make up most
+of this mysterious cave.  The overall smell of rotten earth, musty mold and wet
+animal, permeates the air.    
 ~
 40 1 0 0 0
 D9
@@ -1402,7 +1448,10 @@ D7
 S
 #4068
 A Small Pond~
-You are in an unfinished room.
+   Slightly warm, the water in this small pond has an abundance of duckweed and
+cattails.  From time to time, if one where to swim quietly random forest
+animals come to the pond's edge for something to drink.  The pond becomes
+deeper the further in the middle one where to swim.    
 ~
 40 0 6 0 0
 D0
@@ -1428,7 +1477,11 @@ D7
 S
 #4069
 Deeper Down in the Pond~
-You are in an unfinished room.
+   It is rather clear water for a pond, with the bottom a nice thick layer of
+warm mud.  Catfish and other bottom dwelling fish are swimming along the mud,
+searching the contents of the mud for food.  If one where able to look in a
+certain area and the sunlight hits the water just in the right angle, a
+slightly glittering object may or maynot catch the swimmer's attention.    
 ~
 40 0 8 0 0
 D4

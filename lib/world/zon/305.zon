@@ -2,6 +2,11 @@
 Sanction's Buildings~
 30599 30 2
 * ZoneState 1 unowned 000000000000000
+D 0 30561 1 1 	(Sitting Room of the Mayor's Estate)
+D 0 30562 3 1 	(Private Office of the Mayor)
+D 0 30565 0 1 	(A Brick Patio)
+D 0 30560 2 1 	(Parlor of the Mayor's Estate)
+M 0 30527 1 30527 	(Faerina)
 M 0 30524 1 30524 	(Harstead)
 G 1 30516 10000 -1 	(a steel scimitar with a leather-wrapped hilt)
 G 1 30517 10000 -1 	(a wooden quarterstaff with steel-capped ends)
