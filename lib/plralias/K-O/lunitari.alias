@@ -1,7 +1,7 @@
 2
 ii
-59
-redit save 302;redit save 303;redit save 304;redit save 305
+119
+redit save 303;redit save 304;redit save 305;redit save 306;zedit save 303;zedit save 304;zedit save 305;zedit save 306
 1
 8
 getready
@@ -18,11 +18,6 @@ create
 30
 zedit new  (create a new zone)
 0
-6
-knight
-83
-load obj 2486;load obj 2485;load obj 2487;load obj 2489;load obj 2488;load obj 2496
-1
 7
 leaving
 95

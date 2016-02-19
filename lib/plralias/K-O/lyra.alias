@@ -1,3 +1,33 @@
+3
+tds
+20
+throw dagger servant
+0
+2
+bs
+16
+backstab servant
+0
+3
+tdu
+20
+throw dagger unicorn
+0
+2
+bu
+16
+backstab unicorn
+0
+2
+bb
+18
+backstab butterfly
+0
+3
+tdb
+22
+throw dagger butterfly
+0
 1
 t
 4
@@ -43,16 +73,6 @@ tssb
 18
 throw spear bandit
 0
-2
-bb
-15
-backstab bandit
-0
-2
-bs
-12
-bandage self
-0
 3
 tso
 15
@@ -87,11 +107,6 @@ throw dagger harsh
 tss
 18
 throw sword seeker
-0
-3
-tds
-19
-throw dagger seeker
 0
 3
 tda
@@ -142,11 +157,6 @@ get all
 gd
 10
 get dagger
-0
-3
-tdb
-19
-throw dagger bandit
 0
 4
 sbrs

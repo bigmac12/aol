@@ -11,6 +11,7 @@ face looks like a map of twisting rivers, deep age marks mar his brow and face.
 7 16 9 3d5+85 2d6+1
 0 400 0
 8 8 1 0
+Maxmove: 50
 E
 #2801
 mule weary slow~
@@ -26,6 +27,7 @@ scan the road around him for obstacles.
 4 18 12 1d5+45 1d8+1
 10 50 0
 8 8 1 0
+Maxmove: 50
 E
 #2802
 squirrel grey-tailed grey small eating nibbiling~
@@ -42,6 +44,7 @@ bits of food.
 0 85 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #2803
 deer buck young sniffing sniffs~
@@ -57,6 +60,7 @@ buck goes back to eating the
 5 17 11 2d5+65 2d5+0
 0 85 0
 8 8 1 0
+Maxmove: 50
 E
 #2804
 gate guardsman guard man young shaggy idle bored surveying~
@@ -72,6 +76,7 @@ quick nod.
 16 11 0 3d20+320 3d6+4
 456 11000 3
 8 8 1 0
+Maxmove: 50
 E
 #2805
 drunk drunken sot ~
@@ -89,6 +94,7 @@ which rises angry grumbles from its inhabitants.
 5 17 11 2d5+65 2d5+0
 25 85 0
 8 8 1 0
+Maxmove: 50
 E
 #2806
 wench barmaid woman girl busty~
@@ -104,6 +110,7 @@ across her brow to be quickly batted aside.
 6 17 10 2d5+70 2d5+2
 35 175 0
 8 8 2 0
+Maxmove: 50
 E
 #2807
 mag magara tanned well-muscled muscular woman ~
@@ -118,6 +125,7 @@ leather cord.  Her glance turns to you, and her nose wrinkles.
 16 11 1 5d10+300 2d8+4
 560 8400 3
 8 8 2 0
+Maxmove: 50
 E
 #2808
 mercenary merc shrewd dark black beady-eyed beady~
@@ -132,6 +140,7 @@ passersby, displaying a mounth full of rotten teeth.
 10 14 6 5d4+160 2d7+3
 90 1900 3
 8 8 1 0
+Maxmove: 50
 E
 #2809
 merchant wiry plump nervous~
@@ -145,6 +154,7 @@ his business.
 8 15 8 5d5+110 2d6+2
 70 800 0
 8 8 1 0
+Maxmove: 50
 E
 #2810
 motherly female hefty cook~
@@ -159,6 +169,7 @@ brown eyes turn to you and a oddly high-pitched voice pips 'Hungry?  '
 31 0 -15 3d33+2000 4d8+10
 4000000 1 0
 8 8 2 0
+Maxmove: 50
 E
 #2811
 corded soot covered figure man blacksmith~
@@ -174,6 +185,7 @@ days in the forge, corded muscle lining every inch of his body.
 31 0 -15 3d33+2000 4d8+10
 100000 300000 0
 8 8 1 0
+Maxmove: 50
 E
 #2812
 old lady woman little grey frail smiling witch pale blue~
@@ -188,6 +200,7 @@ blue eyes glitter with the innocence and love of life of a small child.
 17 10 -1 3d20+340 3d6+5
 750 11800 0
 8 8 2 0
+Maxmove: 50
 E
 #2813
 beggar bedraggled ~
@@ -203,6 +216,7 @@ nutmeg mane.
 3 19 13 1d5+25 1d6+1
 5 25 0
 8 8 1 0
+Maxmove: 50
 E
 #2814
 child small scruffy waiting ~
@@ -217,6 +231,7 @@ into the game.
 1 20 15 1d2+5 1d4+0
 1 7 0
 8 8 1 0
+Maxmove: 50
 E
 #2815
 mother worried worry paranoid~
@@ -230,6 +245,7 @@ around in this dangerous area playing so foolish a game.
 3 19 13 1d5+25 1d6+1
 5 25 0
 8 8 2 0
+Maxmove: 50
 E
 #2816
 wild crazy man slums prophet~
@@ -246,6 +262,7 @@ hop around on all fours, making poorly immitated frog noises.
 6 17 10 2d5+70 2d5+2
 25 175 0
 8 8 1 0
+Maxmove: 50
 E
 #2817
 woman huddling wailing weeping crying~
@@ -260,6 +277,7 @@ sleep in cold damp streets!!  ' she returns to wailing.
 4 18 12 1d5+45 1d8+1
 10 50 0
 8 8 2 0
+Maxmove: 50
 E
 #2818
 plump woman Ayara Man'Daez~
@@ -275,6 +293,7 @@ under the weight.
 30 1 -14 3d33+1700 4d8+9
 0 250000 0
 8 8 2 0
+Maxmove: 50
 E
 #2819
 fellow slender frosted beard thom~
@@ -289,6 +308,7 @@ small iron studs to it.
 30 1 -14 3d33+1700 4d8+9
 1000000 250000 0
 8 8 1 0
+Maxmove: 50
 E
 #2820
 gatesman guard sturdy surveying intent~
@@ -304,6 +324,7 @@ down his chest.
 16 11 0 3d20+320 3d6+4
 350 11000 3
 8 8 1 0
+Maxmove: 50
 E
 #2821
 rabbit small brown nestle nestli~
@@ -320,6 +341,7 @@ having been disturbed.
 2 13 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #2822
 blackbird bird scampering scampers hungry~
@@ -335,6 +357,7 @@ bird screeeches in hunger.
 5 25 0
 8 8 0 0
 BareHandAttack: 1
+Maxmove: 50
 E
 #2823
 vibrant scarlet forester ranger saireh jade~
@@ -350,6 +373,7 @@ benevolent grin.
 24 5 -8 3d33+1100 4d6+9
 2315 68000 3
 8 8 2 0
+Maxmove: 50
 E
 #2824
 troll gnarled chewinf~
@@ -363,6 +387,7 @@ glance he jumps to his feet and rushes at you.
 8 15 8 5d5+110 2d6+2
 70 800 0
 8 8 0 0
+Maxmove: 50
 E
 #2825
 bat cave enormous~
@@ -375,6 +400,7 @@ You seem to have disturbed it.....
 2 20 8 25d1+10 1d3+1
 0 15 0
 8 8 0 0
+Maxmove: 50
 E
 #2826
 black widow overgrown weaving~
@@ -387,6 +413,7 @@ Nothing.
 5 16 7 1d1+70 1d5+2
 0 85 0
 8 8 0 0
+Maxmove: 50
 E
 #2827
 hired guard guardsmen guardsman manchara~
@@ -402,6 +429,7 @@ grunt.
 10 14 6 5d4+160 2d7+2
 90 1900 3
 8 8 1 0
+Maxmove: 50
 E
 #2828
 noble woman blonde leaning inhaling~
@@ -417,6 +445,7 @@ not be in her garden.
 6 17 10 2d5+70 2d5+2
 35 175 0
 8 8 2 0
+Maxmove: 50
 E
 #2829
 maid homely~
@@ -431,6 +460,7 @@ fetching wine.
 4 18 12 1d5+45 1d8+1
 10 50 0
 8 8 2 0
+Maxmove: 50
 E
 #2830
 servant nervous tray-laiden laiden~
@@ -444,6 +474,7 @@ working himself to the bone.
 5 17 11 2d5+65 2d5+0
 20 85 0
 8 8 1 0
+Maxmove: 50
 E
 #2831
 portly noble~
@@ -459,6 +490,7 @@ obvious he is quite drunk.
 8 15 8 5d5+110 2d6+2
 70 800 0
 8 8 1 0
+Maxmove: 50
 E
 #2832
 assassin raven-haired woman slender shadows~
@@ -473,6 +505,7 @@ about as though she was just waiting to be caught.
 17 10 -1 3d20+340 3d6+5
 704 11800 4
 8 8 2 0
+Maxmove: 50
 E
 #2833
 woman old gray-haired haired ~
@@ -486,6 +519,7 @@ constantly chops away at her block, seemingly without a care in the world.
 6 17 10 2d5+70 2d5+2
 35 175 0
 8 8 2 0
+Maxmove: 50
 E
 #2844
 cook man hulking flipping~
@@ -500,6 +534,7 @@ watching him rather turns your stomach.
 8 15 8 5d5+110 2d6+2
 70 800 0
 8 8 1 0
+Maxmove: 50
 E
 #2845
 weary nanny old silvery~
@@ -514,6 +549,7 @@ silvery mane.
 5 17 11 2d5+65 2d5+0
 20 85 0
 8 8 2 0
+Maxmove: 50
 E
 #2846
 woman large thick armed mother~
@@ -528,6 +564,7 @@ of hope seems to twinkle in her eye, then slowly dies.
 5 17 11 2d5+65 2d5+0
 20 85 0
 8 8 2 0
+Maxmove: 50
 E
 #2847
 baby bundle small gigg coo~
@@ -541,6 +578,7 @@ soot from her mother's hands dots her tiny little nose.
 1 20 15 1d2+5 1d4+0
 0 7 0
 8 8 2 0
+Maxmove: 50
 E
 #2848
 elderly woman ~
@@ -556,6 +594,7 @@ smiles.
 5 17 11 2d5+65 2d5+0
 20 85 0
 8 8 2 0
+Maxmove: 50
 E
 #2849
 aged woman middle wiry ~
@@ -571,6 +610,7 @@ the guards.
 10 14 6 5d4+160 2d7+2
 90 1900 0
 8 8 2 0
+Maxmove: 50
 E
 #2850
 berzerker honey leaning stalwart~
@@ -586,6 +626,7 @@ mongers raging about her.
 10 14 6 5d4+160 2d7+2
 90 1900 3
 8 8 2 0
+Maxmove: 50
 E
 #2851
 urchin scruffy shifty~
@@ -600,6 +641,7 @@ hair cut short and sloppily.
 8 16 4 30d1+65 1d4+4
 70 1000 0
 8 8 1 0
+Maxmove: 50
 E
 #2852
 weathered forest crusader peppered silver~
@@ -615,6 +657,7 @@ encircles his head.
 15 10 1 5d10+300 2d8+4
 500 8400 3
 8 8 1 0
+Maxmove: 50
 E
 #2853
 Sonya Laurala troubled wizened half-elf hazel~
@@ -630,6 +673,7 @@ the feet of an injured cadet and shakes her head.
 23 5 -7 3d33+650 3d8+8
 2345 52000 3
 8 8 2 0
+Maxmove: 50
 E
 #2854
 guard clad crimson stout temple ~
@@ -642,10 +686,11 @@ Odd completely black eyes stare back at you sternly as you gaze upon him.  He
 wears a suit of heavy crimson armor designed to indicate he guards those who
 pursue the neutral course.    
 ~
-1052682 40 0 0 E
-24 6 -8 3d33+880 4d6+8
+7409674 40 0 0 E
+24 6 -8 3d33+1080 4d6+8
 1000 68000 0
 8 8 1 0
+Maxmove: 50
 E
 #2855
 midnight clad temple guard stout~
@@ -658,10 +703,11 @@ Odd completely black eyes stare back at you sternly as you gaze upon him.  He
 wears a suit of heavy midnight armor designed to indicate he guards those of
 the darker pursuits.    
 ~
-1063434 8232 0 -1000 E
-24 6 -8 3d33+750 4d8+8
+7420426 8232 0 -1000 E
+24 6 -8 3d33+1050 4d8+8
 1250 68000 0
 8 8 1 0
+Maxmove: 50
 E
 #2856
 guard temple ivory stout~
@@ -674,10 +720,11 @@ Odd completely black eyes stare back at you sternly as you gaze upon him.  He
 wears a suit of heavy ivory armor designed to indicate he guards those of
 goodness.    
 ~
-1192202 9256 0 1000 E
-22 6 -6 3d33+700 3d10+7
+7483658 9256 0 1000 E
+22 6 -6 3d33+900 3d10+7
 800 40000 3
 8 8 1 0
+Maxmove: 50
 E
 #2857
 savant golden youthful emerald gael lenoir~
@@ -689,9 +736,10 @@ before you.  His deep set emerald eyes give you a quick calculating glance from
 under the shadows of his deep black cloak and he snorts, continuing by.    
 ~
 24584 33562664 983 -675 E
-22 7 -6 3d33+550 3d8+7
-2300 40000 3
+25 7 -6 3d33+850 3d8+7
+2300 60000 3
 8 8 1 0
+Maxmove: 50
 E
 #2858
 anayare pale honey woman black emaciated~
@@ -706,6 +754,7 @@ though she is ready to spring into action from where she stands.
 26 4 -10 3d33+1600 4d7+9
 1350 115000 1
 8 8 2 0
+Maxmove: 50
 E
 T 2
 #2859
@@ -721,6 +770,7 @@ notice your presence.
 25 5 -9 3d33+850 4d6+8
 3021 87000 1
 8 8 1 0
+Maxmove: 50
 E
 T 2
 #2860
@@ -737,6 +787,7 @@ concentrating extremely hard on something.
 25 4 -9 3d33+1050 4d6+9
 2345 87000 1
 8 8 1 0
+Maxmove: 50
 E
 T 2
 #2861
@@ -751,6 +802,7 @@ interested in trading for crude steel and finished materials.
 5 17 11 2d5+65 2d5+0
 20 85 0
 8 8 1 0
+Maxmove: 50
 E
 #2862
 lich sorian archmage bones~
@@ -765,6 +817,7 @@ the darkest corner of your being.
 10000 400000 0
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #2863
 Festus director~
@@ -779,6 +832,7 @@ documents which are delivered to him by local merchants.
 30 1 -14 4d33+1700 4d8+9
 1700 250000 0
 8 8 0 0
+Maxmove: 50
 E
 #2864
 Daishiki postmaster~
@@ -793,6 +847,7 @@ the small table and floor.
 30 1 -14 3d33+1700 4d8+9
 0 250000 0
 8 8 0 1
+Maxmove: 50
 E
 #2899
 dolphin undead mutilated~
@@ -805,5 +860,6 @@ Nothing.
 1 20 15 1d2+5 1d4+0
 2147483647 7 0
 8 8 0 0
+Maxmove: 50
 E
 $

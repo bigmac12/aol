@@ -21,11 +21,10 @@ wecho A gentle splash can be heard as a drop of water falls into the bottom of t
 end
 ~
 #13482
-Ioun: Food and drink~
-1 j 100
-~
-osend %actor% %actor.str%
-osend %actor% %actor.player.hunger%
+Ioun: Double-cast~
+1 c 1
+c~
+osend %actor% %cmd% %arg%
 ~
 #13489
 m13489 random death load o13485-89~
