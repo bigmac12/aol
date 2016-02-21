@@ -1,1 +1,89 @@
+#30420
+foreman mine paper tucked~
+a mine foreman~
+A mine foreman stands here, rolls of paper tucked under his arm.
+~
+   This human male is taller and brawnier than the others.  The relative
+cleanliness of his clothing indicates that he is probably a foreman, overseeing
+general mine operations on behalf of the owners.  He holds several bundles of
+parchment in his hands, one of which is unfurled.  A frown is set on his face
+as he examines it silently.  Tucked behind his right ear is a sharpened pencil
+that does not appear to have been used today.  Every now and then he will look
+up from the parchment and bark orders to miners as they walk by.    
+~
+8 0 0 0 E
+5 17 10 1d1+72 2d5+0
+20 85 3
+8 8 1 0
+Maxmove: 100
+E
+#30421
+weary miner leans wall~
+a weary miner~
+A weary miner leans against the wall.
+~
+   This man is young in age, with the energy and ambition that often accompany
+such.  However after a long days work, he seems quiet tired.  Taking a break,
+he sits down on the ground using the wall as something to lean up against.  
+Covered in soot from head to toe, he clearly is in need of a good bath when his
+shift is over.  Resting on his lap is a simple pickaxe, which he holds
+protectively.    
+~
+8 0 0 0 E
+3 19 13 1d1+28 1d5+1
+10 25 3
+8 8 1 0
+Maxmove: 100
+E
+#30422
+cart pusher~
+a cart pusher~
+A cart pusher strains to push a mine cart full of coal down the tracks.
+~
+   As this man strains to push a fully loaded cart down the tracks, it is
+evident that he is giving it his all.  Beads of sweat stream down the sides of
+his face, creating long clean lines in the layer of soot that covers his skin.
+He wears a simple pair of coveralls and has his pickaxe hanging from his belt.
+  
+~
+8 0 0 0 E
+2 19 14 1d1+13 1d4+1
+3 13 3
+8 8 1 0
+Maxmove: 100
+E
+#30423
+rat large black~
+a large black rat~
+A large black rat scampers around the area. 
+~
+   A large black rat seems to be searching the area for something.  Its claws
+do not look as sharp as you would expect, but its teeth seem quite pointy.  It
+seems to be more intent on looking for things than on driving others away from
+its area, but with those teeth you have little doubt it could do so with no
+small degree of effeciancy.    
+~
+8 0 0 0 E
+1 20 15 1d2+3 1d4+0
+2 7 0
+8 8 0 0
+BareHandAttack: 4
+Maxmove: 50
+E
+#30424
+dwarf miner cheerful~
+a cheerful dwarf miner~
+A cheerful dwarven miner chips at the wall with his pickaxe.
+~
+   Sweat pours down his forehead, causing the suet that covers his face to run.
+He wears scoot covered coveralls, working with his sturdy iron pickaxe to mine
+more coal from the rocks around him.  He then goes right back to work with
+renewed vigor, whistling all the while.    
+~
+72 0 0 0 E
+4 18 12 1d5+45 1d8+1
+10 50 0
+8 8 1 0
+Maxmove: 100
+E
 $

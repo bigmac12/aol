@@ -271,7 +271,11 @@ also because they provide a durable working surface that can stand up to
 extreme amounts of abuse.  In this case, that abuse takes the form of foot and
 horse traffic.  As the primary thoroughfare across the city, Blackstone Avenue
 is wider than most other roads, able to accommodate even the largest of wagons
-with plenty of room to spare for other travelers as well.    
+with plenty of room to spare for other travelers as well.  On the southern side
+of the street there is a large open cave.    
+
+                      &R- Sanction Coal Mine Entrance -&n
+                             &R:Watch Your Step:&n
 ~
 304 0 1 0 0
 D1
@@ -288,10 +292,17 @@ D5
 0 0 30419
 S
 #30419
-Sanction's Coal Mine~
-You are in an unfinished room.
+A Long Mineshaft~
+   Large wooden planks, stacked end to end with support beams between them,
+keep the shaft leading to the mine from collapsing inward.  In addition to the
+structural purpose they serve, the stairs that descend into the belly of the
+mine are attached to the wall using the support beams as anchor points.  With
+each step, the stairs bow under foot and audibly protest the burden of weight
+placed upon them by the miners.  In the center of the shaft are several long,
+thick ropes attached to a pulley system that is used to haul carts in and out
+of the mine.    
 ~
-304 0 0 0 0
+304 12 0 0 0
 D4
 ~
 ~
@@ -302,10 +313,10 @@ D5
 0 0 30420
 S
 #30420
-Sanction's Coal Mine~
-You are in an unfinished room.
+The Bottom of the Mineshaft~
+Nothing.
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -316,10 +327,15 @@ D4
 0 0 30419
 S
 #30421
-Sanction's Coal Mine~
-You are in an unfinished room.
+Entering a Coal Mine~
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -330,10 +346,16 @@ D2
 0 0 30420
 S
 #30422
-Sanction's Coal Mine~
-You are in an unfinished room.
+The Sanction Coal Mine~
+   Like most of the mine, this part of the tunnel is filled with hot, stagnant
+air.  A slight haze fills the area, like a cloud trapped beneath the ground.  
+A fine black dust covers every square inch of absolutely everything that comes
+through the mine, leaving a film on both skin and clothing that is difficult to
+remove.  Deep grooves have been gouged into the walls where the miners have dug
+out the veins of coal from the walls of rock.  On the side of the tunnel are
+long, iron tracks that are used to push heavy carts laden with material.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -349,9 +371,14 @@ D2
 S
 #30423
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -363,9 +390,15 @@ D2
 S
 #30424
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Like most of the mine, this part of the tunnel is filled with hot, stagnant
+air.  A slight haze fills the area, like a cloud trapped beneath the ground.  
+A fine black dust covers every square inch of absolutely everything that comes
+through the mine, leaving a film on both skin and clothing that is difficult to
+remove.  Deep grooves have been gouged into the walls where the miners have dug
+out the veins of coal from the walls of rock.  On the side of the tunnel are
+long, iron tracks that are used to push heavy carts laden with material.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -381,9 +414,14 @@ D2
 S
 #30425
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -395,9 +433,15 @@ D2
 S
 #30426
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Like most of the mine, this part of the tunnel is filled with hot, stagnant
+air.  A slight haze fills the area, like a cloud trapped beneath the ground.  
+A fine black dust covers every square inch of absolutely everything that comes
+through the mine, leaving a film on both skin and clothing that is difficult to
+remove.  Deep grooves have been gouged into the walls where the miners have dug
+out the veins of coal from the walls of rock.  On the side of the tunnel are
+long, iron tracks that are used to push heavy carts laden with material.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D1
 ~
 ~
@@ -409,9 +453,14 @@ D2
 S
 #30427
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D1
 ~
 ~
@@ -427,9 +476,15 @@ D3
 S
 #30428
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Like most of the mine, this part of the tunnel is filled with hot, stagnant
+air.  A slight haze fills the area, like a cloud trapped beneath the ground.  
+A fine black dust covers every square inch of absolutely everything that comes
+through the mine, leaving a film on both skin and clothing that is difficult to
+remove.  Deep grooves have been gouged into the walls where the miners have dug
+out the veins of coal from the walls of rock.  On the side of the tunnel are
+long, iron tracks that are used to push heavy carts laden with material.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D1
 ~
 ~
@@ -445,9 +500,14 @@ D3
 S
 #30429
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D1
 ~
 ~
@@ -463,9 +523,15 @@ D3
 S
 #30430
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Like most of the mine, this part of the tunnel is filled with hot, stagnant
+air.  A slight haze fills the area, like a cloud trapped beneath the ground.  
+A fine black dust covers every square inch of absolutely everything that comes
+through the mine, leaving a film on both skin and clothing that is difficult to
+remove.  Deep grooves have been gouged into the walls where the miners have dug
+out the veins of coal from the walls of rock.  On the side of the tunnel are
+long, iron tracks that are used to push heavy carts laden with material.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D2
 ~
 ~
@@ -477,9 +543,14 @@ D3
 S
 #30431
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -491,9 +562,15 @@ D2
 S
 #30432
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Like most of the mine, this part of the tunnel is filled with hot, stagnant
+air.  A slight haze fills the area, like a cloud trapped beneath the ground.  
+A fine black dust covers every square inch of absolutely everything that comes
+through the mine, leaving a film on both skin and clothing that is difficult to
+remove.  Deep grooves have been gouged into the walls where the miners have dug
+out the veins of coal from the walls of rock.  On the side of the tunnel are
+long, iron tracks that are used to push heavy carts laden with material.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -509,9 +586,14 @@ D3
 S
 #30433
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -523,9 +605,15 @@ D2
 S
 #30434
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Like most of the mine, this part of the tunnel is filled with hot, stagnant
+air.  A slight haze fills the area, like a cloud trapped beneath the ground.  
+A fine black dust covers every square inch of absolutely everything that comes
+through the mine, leaving a film on both skin and clothing that is difficult to
+remove.  Deep grooves have been gouged into the walls where the miners have dug
+out the veins of coal from the walls of rock.  On the side of the tunnel are
+long, iron tracks that are used to push heavy carts laden with material.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -537,9 +625,14 @@ D3
 S
 #30435
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -555,9 +648,15 @@ D3
 S
 #30436
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Like most of the mine, this part of the tunnel is filled with hot, stagnant
+air.  A slight haze fills the area, like a cloud trapped beneath the ground.  
+A fine black dust covers every square inch of absolutely everything that comes
+through the mine, leaving a film on both skin and clothing that is difficult to
+remove.  Deep grooves have been gouged into the walls where the miners have dug
+out the veins of coal from the walls of rock.  On the side of the tunnel are
+long, iron tracks that are used to push heavy carts laden with material.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -573,9 +672,14 @@ D3
 S
 #30437
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -593,7 +697,7 @@ S
 A Dead End~
 You are in an unfinished room.
 ~
-304 0 0 0 0
+304 8 0 0 0
 D2
 ~
 ~
@@ -603,7 +707,7 @@ S
 A Dead End~
 You are in an unfinished room.
 ~
-304 0 0 0 0
+304 8 0 0 0
 D2
 ~
 ~
@@ -613,7 +717,7 @@ S
 A Dead End~
 You are in an unfinished room.
 ~
-304 0 0 0 0
+304 8 0 0 0
 D2
 ~
 ~
@@ -623,7 +727,7 @@ S
 A Dead End~
 You are in an unfinished room.
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -633,7 +737,7 @@ S
 A Dead End~
 You are in an unfinished room.
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -643,7 +747,7 @@ S
 A Dead End~
 You are in an unfinished room.
 ~
-304 0 0 0 0
+304 8 0 0 0
 D0
 ~
 ~
@@ -651,9 +755,14 @@ D0
 S
 #30444
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D1
 ~
 ~
@@ -665,9 +774,15 @@ D3
 S
 #30445
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Like most of the mine, this part of the tunnel is filled with hot, stagnant
+air.  A slight haze fills the area, like a cloud trapped beneath the ground.  
+A fine black dust covers every square inch of absolutely everything that comes
+through the mine, leaving a film on both skin and clothing that is difficult to
+remove.  Deep grooves have been gouged into the walls where the miners have dug
+out the veins of coal from the walls of rock.  On the side of the tunnel are
+long, iron tracks that are used to push heavy carts laden with material.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D1
 ~
 ~
@@ -679,9 +794,14 @@ D3
 S
 #30446
 Sanction's Coal Mine~
-You are in an unfinished room.
+   Deep grooves have been gouged into the walls where the miners have dug out
+the veins of coal from the walls of rock.  On one side of the tunnel are long,
+iron tracks that are used to push heavy carts laden with coal.  The air is hot
+and stagnant, and a slight haze hangs in the tunnel like an grimy underground
+cloud.  A fine black dust covers every square inch of exposed surface, leaving
+a dirty film on anything it touches.    
 ~
-304 0 0 0 0
+304 8 0 0 0
 D1
 ~
 ~

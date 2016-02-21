@@ -12,6 +12,7 @@ to his god.
 15 11 1 5d10+300 2d8+4
 412 8400 2
 8 8 1 0
+Maxmove: 50
 E
 #1401
 congregation member man~
@@ -27,6 +28,7 @@ Around his neck hangs a medalion with the image of zivilyn stamped onto it.
 10 14 6 5d4+160 2d7+2
 90 1900 2
 8 8 1 0
+Maxmove: 50
 E
 #1402
 female congregation member~
@@ -41,6 +43,7 @@ happily as she gazes at the image of her god.
 10 14 6 5d4+160 2d7+2
 90 1900 2
 8 8 2 0
+Maxmove: 50
 E
 #1403
 acolyte pilgrim man~
@@ -56,6 +59,7 @@ duties.  As he notices you he nods slightly and hurries on.
 10 14 6 5d4+160 2d7+2
 90 1900 2
 8 8 1 0
+Maxmove: 50
 E
 #1404
 female pilgrim~
@@ -71,6 +75,7 @@ daily duties.  As she notices you she nods slightly and hurries on.
 10 14 6 5d4+160 2d7+2
 90 1900 2
 8 8 2 0
+Maxmove: 50
 E
 #1405
 guard pilgrim drunken~
@@ -88,6 +93,7 @@ him nor his friends have shown any interest in resuming their journey.
 100 4700 3
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #1406
 bored guard~
@@ -103,6 +109,7 @@ be resumed.
 11 14 5 5d4+190 2d8+2
 95 2900 3
 8 8 1 0
+Maxmove: 50
 E
 #1407
 leader guard man 212~
@@ -117,6 +124,7 @@ upset about you disturbing his sleep.  Perhaps you shouldnt have woke him.
 15 11 1 5d10+300 2d8+4
 423 8400 3
 8 8 1 0
+Maxmove: 50
 E
 #1421
 housekeeper innkeep weary~
@@ -132,6 +140,7 @@ you take your things up to the loft when you are ready to retire.
 30 0 -14 3d33+1700 20d8+20
 0 250000 0
 8 8 2 3
+Maxmove: 50
 E
 #1430
 scorched red faced gnome~
@@ -147,6 +156,7 @@ his own beard up in flames.
 70 800 3
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #1431
 Theodore Cogwhistle Theo gnome~
@@ -163,6 +173,7 @@ different foot pedals
 126 1900 3
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #1432
 frantic gnome~
@@ -178,6 +189,7 @@ probably be best if you stay back from him.
 9 15 7 5d5+130 2d7+1
 80 1300 0
 8 8 1 0
+Maxmove: 50
 E
 #1433
 female gnome repair~
@@ -194,6 +206,7 @@ number of parts she has.
 0 1000000 3
 8 8 2 5
 BareHandAttack: 13
+Maxmove: 50
 E
 #1434
 busy short gnome~
@@ -210,6 +223,7 @@ wall.
 7 16 9 3d5+85 2d6+1
 60 400 3
 8 8 1 0
+Maxmove: 50
 E
 #1435
 short busy gnome~
@@ -226,6 +240,7 @@ and two or three more gears hop off the wall on the other side of the room.
 7 16 9 3d5+85 2d6+1
 70 400 0
 8 8 1 0
+Maxmove: 50
 E
 #1436
 female gnome repairman~
@@ -243,6 +258,7 @@ committee.
 60 800 0
 8 8 2 5
 BareHandAttack: 13
+Maxmove: 50
 E
 #1440
 chef cook~
@@ -259,6 +275,7 @@ frequent.
 11 14 5 5d4+190 2d8+2
 200 2900 0
 8 8 1 0
+Maxmove: 50
 E
 #1441
 Angelina cleric mishakal~
@@ -276,6 +293,7 @@ that she carries with her.
 30 1 -14 3d33+1700 4d8+9
 0 250000 2
 8 8 2 0
+Maxmove: 50
 E
 T 1440
 #1442
@@ -294,6 +312,7 @@ you may have shown through your donations.
 8 15 8 5d5+110 2d6+2
 100 800 0
 8 8 1 0
+Maxmove: 50
 E
 #1446
 priestess mishakal blue~
@@ -312,6 +331,7 @@ shrine.
 16 11 0 3d20+320 3d6+4
 500 11000 2
 8 8 2 0
+Maxmove: 50
 E
 #1449
 rose knight~
@@ -330,6 +350,7 @@ more to himself than to anyone else, he returns to his maps and his mutterings.
 22 7 -6 3d33+550 3d8+7
 1128 40000 3
 8 8 1 0
+Maxmove: 50
 E
 #1450
 energetic kender bounces Featherknot Feather Knot Busyfingers~
@@ -346,6 +367,7 @@ has been carefully tied into his topknot.
 30 1 -14 3d33+1700 4d8+9
 0 250000 4
 8 8 1 0
+Maxmove: 50
 E
 T 1450
 T 1451
@@ -364,6 +386,7 @@ whether or not you may be another source of food.
 6 17 10 2d5+70 2d5+2
 32 175 0
 8 8 0 0
+Maxmove: 50
 E
 #1461
 small being animated water~
@@ -380,6 +403,7 @@ about it leaves behind a wet trail of water and rapidly congealing slime.
 7 16 9 3d5+85 2d6+1
 54 400 0
 8 8 0 0
+Maxmove: 50
 E
 #1462
 dragonfly red green wings~
@@ -396,6 +420,7 @@ take a bite.
 4 18 12 1d5+45 1d8+1
 11 50 0
 8 8 0 0
+Maxmove: 50
 E
 #1463
 emaciated badger~
@@ -413,6 +438,7 @@ comes near.
 5 17 11 2d5+65 2d5+0
 19 85 0
 8 8 0 0
+Maxmove: 50
 E
 #1464
 large being animated water~
@@ -429,11 +455,12 @@ inner fire.  Although featureless it exudes a sense of malevolence and power.
 8 15 8 5d5+110 2d6+2
 74 800 0
 8 8 0 0
+Maxmove: 50
 E
 #1470
-priest sargonnas lecture~
-a lecturing priest of Sargonnas~
-A priest of Sargonnas is here, deep in lecture.
+priestess sargonnas lecture Halynee~
+Halynee, a wrinkled priestess of Sargonnas~
+A priestess of Sargonnas is here, deep in lecture.
 ~
    The woman nods at you as you enter then continues her lecture.  Skin
 wrinkled and mottled with age shows this woman has seen more than her fair
@@ -445,6 +472,7 @@ inner fire, as if not age but the conflagaration within consumes her body.
 15 11 1 5d10+300 2d8+4
 400 8400 2
 8 8 2 0
+Maxmove: 50
 E
 #1471
 a leering minotaur~
@@ -461,6 +489,7 @@ undisguised contempt.
 100 4700 3
 6 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #1472
 man carefully ignoring~
@@ -477,6 +506,7 @@ almost inaudibly and returns his attention to the priest.
 200 6625 7
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #1475
 minotaur robed massive~
@@ -494,6 +524,7 @@ you forward with a sharp-toothed grin.
 300 7000 2
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #1476
 red man mutter~
@@ -509,6 +540,7 @@ irritation flashes across his features.
 13 13 3 6d5+240 2d9+2
 200 6625 7
 5 8 1 0
+Maxmove: 50
 E
 #1480
 snake water silvery-green green~
@@ -526,6 +558,7 @@ created by his green and silver scales.
 0 175 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #1481
 turtle green turquoise shell~
@@ -543,6 +576,7 @@ lake's surface.
 0 175 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #1489
 guard dog~
@@ -557,6 +591,7 @@ ready to attack at any moment.
 80 1300 0
 6 6 1 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #1490
 large rat~
@@ -572,6 +607,7 @@ notices your attention and snarls, baring its teeth in your direction.
 80 1300 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #1491
 weary man caretaker~
@@ -586,6 +622,7 @@ mutters something to himself.
 12 13 4 5d6+210 2d8+3
 100 4700 0
 8 8 1 0
+Maxmove: 50
 E
 #1492
 delete me~
@@ -598,6 +635,7 @@ It looks unfinished.
 0 20 10 1d1+0 1d1+0
 0 0 0
 8 8 0 0
+Maxmove: 50
 E
 #1493
 philosopher male~
@@ -613,6 +651,7 @@ troubled that his debate has been interrupted.
 90 1900 9
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #1494
 philosopher female~
@@ -628,6 +667,7 @@ troubled that her debate has been interrupted.
 90 1900 9
 8 8 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 T 1494
 $

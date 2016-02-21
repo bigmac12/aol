@@ -7,6 +7,10 @@ occasionally more fall from above.  A small warped tree tries to grow in the
 gully, however, its branches appear to be dying from lack of water.    
 ~
 40 0 5 0 0
+D0
+~
+~
+0 0 7013
 D7
 ~
 ~
@@ -478,16 +482,16 @@ A pile of sticks.
 sticks stick~
 1 0 4050
 E
-pile sticks stick light~
-   As you look closer at the sticks, you see that they are not sticks at all.
-They are the bones of a rather large woodland creature.    
-~
-E
 bones~
    As you dig deeper in the pile of bones, you come across what looks to be a
 spear.  It is crudely made with a stone tip and lashed together with leather
 strips.  It has some kind of carvings on it in a language that appears to be
 goblin.    
+~
+E
+pile sticks stick light~
+   As you look closer at the sticks, you see that they are not sticks at all.
+They are the bones of a rather large woodland creature.    
 ~
 S
 #4020
@@ -1195,8 +1199,8 @@ D1
 0 0 4056
 D2
 ~
-~
-0 0 4054
+gate~
+1 0 4054
 D3
 ~
 ~
