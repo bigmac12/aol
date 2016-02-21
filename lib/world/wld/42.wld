@@ -1154,6 +1154,10 @@ D0
 ~
 ~
 0 0 4256
+D1
+~
+~
+0 0 4290
 D3
 ~
 ~
@@ -1734,5 +1738,36 @@ D1
 ~
 ~
 0 0 4285
+S
+#4290
+A Small Trade Hut~
+   This small tradepost was for the merchants who traveled this stretch of
+highway, offering a place where they might stop to rest and trade wares before
+continuing on their long journey.  It is rather rustic in its built, with thick
+wooden fixtures and a large counter which the owner has proudly built.  On the
+walls are all sorts of items, but seemly nothing much is for sale.    
+~
+42 8 0 0 0
+D3
+~
+~
+0 0 4257
+D4
+~
+~
+0 0 4291
+S
+#4291
+A Tiny Bedroom~
+   This room is as basic as it can get.  Four sides made of solid wood, with a
+very tiny glass window looking to the woods on the eastern wall.  A tiny one
+person size bed has been hastily made, with a small chest next to the foot of
+the bed.    
+~
+0 8 0 0 1
+D5
+~
+~
+0 0 4290
 S
 $~
