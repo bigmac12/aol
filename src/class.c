@@ -1502,7 +1502,7 @@ int level_exp(int class, int level)
    float  modifier = 1.00;
    if(level > LVL_IMPL || level < 0)
    {
-      log("SYSERR: Requesting exp for invalid level!");
+      //log("SYSERR: Requesting exp for invalid level!");
       return 0;
    }
    switch(class)
@@ -1520,7 +1520,7 @@ int level_exp(int class, int level)
          modifier = 1.40;
          break;
       case CLASS_CLERIC:
-         modifier = 0.90;
+         modifier = 0.85;
          break;
       case CLASS_RANGER:
          modifier = 0.95;
