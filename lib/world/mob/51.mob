@@ -39,7 +39,7 @@ E
 #5102
 merchant provisions tall~
 the provisions merchant~
-A tall merchant stands behind his booth waiting for customers to buy his items.
+A tall merchant moves around his shop, packing up his wares into large wooden crates.
 ~
    This tall man is dressed in rich clothes and fine jewelry, like the more
 prosperous merchants tend to do.  His smile and smooth voice, however, tend to
@@ -236,7 +236,7 @@ E
 #5113
 danari fisherwoman huge woman~
 Danari, the fisherwoman~
-A huge woman wearing a fishscale apron meets you with a toothy grin.
+A huge woman wearing a fishscale apron is boxing up the remaining fish to sell.
 ~
    This woman is huge, with thick arms and legs, and a body to match her limbs.
 She is one of the best fishers within Karthay, and when she isn't out catching
@@ -288,13 +288,13 @@ E
 #5116
 ravynsai mistress spells woman young black~
 Ravynsai, Mistress of Spells~
-A young woman in robes of shimmering midnight black rests behind the counter.
+A young woman in back robes moves around the shop packing up items.
 ~
-   The young woman behind the counter has a warm smile, and eyes of a light
-grey, that glance around with interest.  Her light blonde hair shimmers in the
-light, making it a frosted silvery color.  Her robes are low cut, like a finely
-made dress, and shimmers with a deep black, accented with flashes of dark blue
-and silver.  A silver necklace and a few rings complete her warddrobe.    
+   Her light blonde hair shimmers in the light, making it a frosted silvery
+color.  Her robes are low cut, like a finely made dress, and shimmers with a
+deep black, accented with flashes of dark blue and silver.  A silver necklace
+and a few rings complete her wardrobe.  She moves around the tiny shop along
+with her assistant packing up the magical wares.    
 ~
 1302602 40 0 0 E
 30 -5 -14 3d33+1700 4d25+25
@@ -629,9 +629,9 @@ determined to become a master of her skills.
 Maxmove: 50
 E
 #5137
-warrior hefty practicing~
+warrior heft hefty~
 a hefty warrior~
-A hefty warrior is here, practicing his skills with various weapons.
+A heft warrior hurries along the street, carrying two large canvas bags under either arm.
 ~
    This man is quite large.  However, despite his girth, he seems quite
 dextrous and seems to be an able warrior.  He hones his skills with various
@@ -679,11 +679,12 @@ E
 #5140
 apprentice priest~
 an apprentice priest~
-One of the apprentices of the priesthood wanders around the temple.
+A priesthood apprentice is carry a large wooden box to the waiting wagons.
 ~
-   A young man with dark glittering eyes and sandy colored hair dresses himself
-in the robes of the priesthood of Zeboim.  He studies hard and with fevor, so
-he may one day call himself a grand priest of the great goddess of the sea.  
+   A young man with dark glittering eyes and sandy colored hair is dressed in
+the robes of the priesthood of Zeboim.  His studies have been placed on hold
+due to the coming threat of the Istar's army.  Now he spends his day packing
+and moving wooden boxes to the wagons.    
 ~
 524296 0 1 -750 E
 9 15 7 5d5+130 2d7+1
@@ -710,12 +711,12 @@ E
 #5142
 child hopeful~
 a hopeful child~
-A young child stares around hopefully, wishing to become a priestess.
+A young child kneels here, helping pack up the storage room into wooden boxes.
 ~
    This young little girl has high hopes of one day being accepted into the
-priesthood of this temple, where she may serve the goddess Zeboim.  She stands
-here, looking around, picturing with childish wonder the amazing things that
-could go on in a temple.    
+priesthood of Zeboim.  However young she might be, she now helps in the
+packing.  Her childish wonder is evident on her features as she touches the
+soft fabric of the gowns, and other items that belong to the temple.    
 ~
 10 0 0 0 E
 7 16 9 3d5+85 2d6+1
@@ -774,11 +775,11 @@ E
 #5146
 priestess~
 an apprentice priestess~
-A priestess in the robes of an apprentice runs around doing her chores.
+A priestess in the robes of an apprentice runs around packing up items.
 ~
-   This young apprentice looks happy in her robes of the priesthood.  At the
-moment, she has been given the duty of chores around the temple, and is running
-around fufilling her tasks.    
+   This young apprentice looks worried as she runs to and from the temple
+rooms.  Her robes of the priesthood fly about her as she hurries in the
+hallway, a soft unheard prayer on her lips to her goddess Zeboim
 ~
 524296 0 1 -750 E
 10 14 6 5d4+160 2d7+2
@@ -806,7 +807,7 @@ E
 #5148
 priestess beautiful~
 a beautiful priestess~
-A beautiful priestess in robes helps keep the temple in good working order.
+A beautiful priestess of Zeboim, helps cordate the packing and moving of the temples' items.
 ~
    This woman is beautiful, with light blonde hair and light grey eyes.  She
 wanders gracefully within the temple as she helps keep the temple in order,
@@ -821,7 +822,7 @@ E
 #5149
 priest apprentice~
 an apprentice priest~
-A young apprentice polishes the candleholders and altar bowls.
+A young apprentice quietly packs up the candleholders and altar bowls.
 ~
    This young man has to job of cleaning the temple storage room.  Dusting and
 polishing the many items takes a long time, as well as making sure the robes
@@ -888,13 +889,13 @@ E
 #5153
 child stray orphan~
 a stray child~
-An orphan child wanders around, trying to stay away from the general public.
+An orphan child wanders about, trying his best to understand what is happening.
 ~
    This child wears rags, like most beggars, yet hasn't even reached the age of
 ten.  Even at this impossible young age, he knows to stay away from the guards
-and stay hidden from the nobles and most shopkeepers.  He seems well fed, but
-that is likely from food paid for by the theft of the coinpurses of the passing
-nobles he appears to avoid.    
+and stay hidden from most of the citizens.  He seems well fed, but his
+expression is one of confusion.  Unsure as to what is happening in his city, he
+wonders around taking what he can of what is left by the fleeing public.    
 ~
 9 262144 0 0 E
 4 18 12 1d5+45 1d8+1
@@ -975,7 +976,7 @@ E
 #5158
 karthay gate keeper~
 a gate keeper of Karthay~
-The gate keeper stands quietly beside the huge doors that close the city.
+The gate keeper stands guard besides the huge open gates of the city.
 ~
    The gate keeper walks back and forth beside the open doors of the city of
 Karthay.  It is her duty to watch the entrance of visitors and notify the
@@ -1097,7 +1098,7 @@ E
 #5199
 sailor greasy lanky~
 a lanky sailor in a greasy apron~
-A lanky sailor in a greasy apron sells seafood as he cooks it for customers.
+A lanky sailor in a greasy apron sells what seafood is left to the customers.
 ~
    This sailor seems to be part-time cook, when he is not out on the sea.  He
 wears a long apron covered in grease from the grills and pots, to protect his

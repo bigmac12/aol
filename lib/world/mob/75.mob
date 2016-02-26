@@ -15,7 +15,8 @@ be enough deterrent to any sane person.
 0 175000 1
 8 8 0 0
 BareHandAttack: 11
-SkinData0: 7531
+SkinData0: 16099
+Maxmove: 50
 E
 #7560
 Helgrin Dunnahar Brewmaster Bitter Rock~
@@ -34,6 +35,7 @@ takes pride in the ales that he personally prepares.
 0 300000 3
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 T 7560
 #7561
@@ -53,6 +55,7 @@ eyes.  She is a short dwarven female of robust build, with iron-grey hair.
 0 300000 3
 8 8 2 3
 BareHandAttack: 5
+Maxmove: 50
 E
 #7562
 Breslin Axehand very old mountain dwarf~
@@ -70,6 +73,7 @@ his fuzzy white beard and eyebrows make it hard to see his face.
 0 14000 0
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 T 7562
 #7563
@@ -90,6 +94,7 @@ been grudgingly granted.
 40000 300000 4
 8 8 1 2
 BareHandAttack: 14
+Maxmove: 50
 E
 T 7563
 #7564
@@ -110,6 +115,7 @@ that they truly want to hear.
 500 11000 4
 8 8 1 0
 BareHandAttack: 11
+Maxmove: 50
 E
 T 7565
 #7565
@@ -129,6 +135,7 @@ mining to some younger dwarves, who hang on his every word.
 0 300000 3
 8 8 1 2
 BareHandAttack: 6
+Maxmove: 50
 E
 #7566
 Derfred Axelrod ancient dwarf~
@@ -147,6 +154,7 @@ battlefield, though it looks as if his skills are still there.
 0 300000 0
 8 8 1 2
 BareHandAttack: 3
+Maxmove: 50
 E
 T 7566
 #7567
@@ -166,6 +174,7 @@ to be accomplishing anything.
 500 14000 0
 8 8 1 5
 BareHandAttack: 7
+Maxmove: 50
 E
 T 7567
 #7568
@@ -184,6 +193,7 @@ his fuzzy white beard and eyebrows make it hard to see his face.
 0 14000 0
 8 8 1 0
 BareHandAttack: 5
+Maxmove: 50
 E
 T 7561
 #7569
@@ -197,6 +207,7 @@ It looks unfinished.
 0 20 10 1d1+0 1d1+0
 0 0 0
 8 8 0 0
+Maxmove: 50
 E
 T 7596
 #7570
@@ -216,6 +227,7 @@ smile which quickly fades as he resumes a business-like glower.
 1200 33500 2
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #7571
 dwarven dwarf warrior old battle-scarred~
@@ -234,6 +246,7 @@ unused at his side.
 500 11000 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #7572
 dwarf restless dwarves impatient one~
@@ -251,6 +264,7 @@ when he sees you looking at him, but you can't make out what he said.
 400 8400 0
 8 8 1 0
 BareHandAttack: 5
+Maxmove: 50
 E
 #7573
 dwarf dwarven miner off-duty dirty mining coveralls~
@@ -268,6 +282,7 @@ covered with dust.  A mining pick sits at his side.
 100 4700 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #7574
 girl chubby dwarven blue~
@@ -284,6 +299,7 @@ before.
 6 17 10 2d5+70 2d5+2
 50 175 0
 8 8 2 0
+Maxmove: 50
 E
 #7575
 dwarf dwarven warrior stout scarred~
@@ -302,6 +318,7 @@ the threat he seeks, though he watches you with suspicion.
 400 25000 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 T 7575
 #7576
@@ -318,6 +335,7 @@ is going, she seems to be in somewhat of a hurry.
 8 15 8 5d5+110 2d6+2
 60 800 0
 8 8 2 0
+Maxmove: 50
 E
 #7577
 dwarf dwarven villager~
@@ -333,6 +351,7 @@ now enjoying some well-earned time off.  He nods at you in passing.
 10 14 6 5d4+160 2d7+2
 75 1900 0
 8 8 1 0
+Maxmove: 50
 E
 #7578
 dwarf young younger~
@@ -350,6 +369,7 @@ the mines for the first time.  He looks strong and capable.
 100 7000 0
 8 8 1 0
 BareHandAttack: 5
+Maxmove: 50
 E
 #7579
 dwarf dwarven sleepy-eyed old~
@@ -367,6 +387,7 @@ of his eyes is still open, and is trained steadily on you.
 0 11800 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #7580
 dwarven dwarf miner stout~
@@ -384,6 +405,7 @@ around him.  He then goes right back to work with renewed vigor.
 500 11000 0
 8 8 1 0
 BareHandAttack: 14
+Maxmove: 50
 E
 #7581
 dwarf gruff dwarven foreman~
@@ -402,6 +424,7 @@ die on his lips, and he simply frowns all the more fiercely.
 700 14000 0
 8 8 1 0
 BareHandAttack: 10
+Maxmove: 50
 E
 #7582
 Damwarth Hardaxe Dam powerfully built dwarf dwarven fancy leather armor guard~
@@ -420,6 +443,7 @@ approach, he stiffens his stance a little, keeping his good eye on you.
 0 300000 0
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 T 7582
 T 7583
@@ -434,6 +458,7 @@ See how I sparkle?  That's because I'm a spark!
 1 20 15 1d2+5 1d4+0
 0 0 0
 8 8 0 0
+Maxmove: 50
 E
 #7584
 slime bubbling yyyy~
@@ -451,6 +476,7 @@ death.
 0 1900 0
 8 8 0 0
 BareHandAttack: 1
+Maxmove: 50
 E
 T 7588
 #7585
@@ -466,6 +492,7 @@ been able to glimpse it.
 0 1 0
 8 8 0 0
 BareHandAttack: 1
+Maxmove: 50
 E
 #7586
 Zilgar dwarf old white beard~
@@ -482,6 +509,7 @@ menace that now lies dead at your feet.
 0 1 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 T 7586
 #7587
@@ -500,6 +528,7 @@ slipping into cracks in the wall or into the maze of webs.
 0 400 0
 8 8 0 9
 BareHandAttack: 4
+Maxmove: 50
 E
 #7588
 spider giant zpider~
@@ -518,6 +547,7 @@ This spider looks as though it has eaten very well in the past.
 0 6625 0
 8 8 0 8
 BareHandAttack: 4
+Maxmove: 50
 E
 #7589
 spider huge blue-black zpider~
@@ -535,6 +565,7 @@ horrible green venom.
 0 1900 0
 8 8 0 9
 BareHandAttack: 4
+Maxmove: 50
 E
 #7590
 Cydratha Cyd Summoner dark seductive young priestess~
@@ -553,6 +584,7 @@ has been expecting visitors like you.    ~
 1500 115000 2
 8 8 2 0
 BareHandAttack: 12
+Maxmove: 50
 E
 T 7591
 T 7597
@@ -573,6 +605,7 @@ hapless creature's free will and reducing it to a zombie-like state.
 0 7000 2
 8 8 0 0
 BareHandAttack: 1
+Maxmove: 50
 E
 T 7592
 #7592
@@ -592,6 +625,7 @@ finds.
 0 25000 0
 8 8 0 9
 BareHandAttack: 12
+Maxmove: 50
 E
 T 7592
 #7593
@@ -610,6 +644,7 @@ prey.
 0 14000 0
 8 8 0 9
 BareHandAttack: 4
+Maxmove: 50
 E
 T 7592
 #7594
@@ -628,6 +663,7 @@ are often left behind, immune to the full effect of the cube's digestion.
 0 17000 0
 8 8 0 8
 BareHandAttack: 1
+Maxmove: 50
 E
 T 7594
 T 7592
@@ -646,6 +682,7 @@ doesn't intend to wait for appetizers.
 0 25000 0
 8 8 0 0
 BareHandAttack: 6
+Maxmove: 50
 E
 T 7595
 #7596
@@ -663,6 +700,7 @@ time.
 7 16 9 3d5+85 2d6+1
 0 400 3
 8 8 1 0
+Maxmove: 50
 E
 T 7596
 #7597
@@ -679,6 +717,7 @@ seep into the pores of the victim, killing them slowly, and painfully.
 0 1900 0
 8 8 0 0
 BareHandAttack: 1
+Maxmove: 50
 E
 #7598
 spider Queen gigantic huge black~
@@ -698,6 +737,7 @@ her abdomen.
 0 87000 1
 8 8 2 9
 BareHandAttack: 4
+Maxmove: 50
 E
 #7599
 Kharasz mold Demon rotting winged horror shroud filth~
@@ -717,6 +757,7 @@ very soul.
 0 250000 5
 8 8 1 0
 BareHandAttack: 12
+Maxmove: 50
 E
 T 7597
 T 7590

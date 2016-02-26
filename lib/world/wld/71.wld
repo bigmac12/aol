@@ -980,7 +980,7 @@ occasional sounds of a small animal moving come, line both sides of the road in
 a haphazard manner.  Off in the distance to the south, several mountain peeks
 rise up to disapear into the clouds.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D0
 ~
 ~
@@ -999,7 +999,7 @@ traffic which has now moved to easier and quicker routes.  Sounds of small
 animals moving just out of sight come from all around you giving evidence to
 the abundance of life here.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D7
 ~
 ~
@@ -1018,7 +1018,7 @@ traffic which has now moved to easier and quicker routes.  Sounds of small
 animals moving just out of sight come from all around you giving evidence to
 the abundance of life here.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D2
 ~
 ~
@@ -1037,7 +1037,7 @@ traffic which has now moved to easier and quicker routes.  Sounds of small
 animals moving just out of sight come from all around you giving evidence to
 the abundance of life here.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D0
 ~
 ~
@@ -1056,7 +1056,7 @@ traffic which has now moved to easier and quicker routes.  Sounds of small
 animals moving just out of sight come from all around you giving evidence to
 the abundance of life here.    
 ~
-71 4 3 0 0
+71 32772 3 0 0
 D1
 ~
 ~
@@ -1074,7 +1074,7 @@ which dominates the southern sky.  The trees to the north give way here to
 lower shrubs scattered about the area.  Overhead a few carrion birds circle
 ever watchful for their next meal.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D7
 ~
 ~
@@ -1092,7 +1092,7 @@ which dominates the southern sky.  The trees to the north give way here to
 lower shrubs scattered about the area.  Overhead a few carrion birds circle
 ever watchful for their next meal.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D7
 ~
 ~
@@ -1110,7 +1110,7 @@ which dominates the southern sky.  The trees to the north give way here to
 lower shrubs scattered about the area.  Overhead a few carrion birds circle
 ever watchful for their next meal.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D7
 ~
 ~
@@ -1146,7 +1146,7 @@ young trees provide minimal shed from the rays of the sun that pierces your
 back.  An occasional rustling of dry leaves and sticks not too far away
 heightens your awareness of unknown inhabitants in this light forest.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D0
 ~
 ~
@@ -1164,7 +1164,7 @@ this small pathway.  Rising high above you is a strange, awkwardly shaped tree,
 with saps drooling down its thick bark.  A granite boulder lies at the root of
 this ancient tree, covered in moss and overgrown vines.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D0
 ~
 ~
@@ -1174,15 +1174,15 @@ D2
 ~
 0 0 7156
 E
+granite boulder~
+   This huge stone has blackened rough surface, with strange ancient characters
+engraved on it.    
+~
+E
 tree strange twisted~
    This tree grows in a peculiar way.  Its bark seems to be wider at different
 parts, while the branches are very orderly spread out, as if trimmed by an
 invisible hand.    
-~
-E
-granite boulder~
-   This huge stone has blackened rough surface, with strange ancient characters
-engraved on it.    
 ~
 S
 #7158
@@ -1193,7 +1193,7 @@ ahead.  The ground is strewn with stones and dried twigs, with faded marks of
 boots and wheels of small wagons.  You hear persistent, fading sounds of
 civilization not too farway from where you are standing.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D2
 ~
 ~
@@ -1211,7 +1211,7 @@ ahead.  The ground is strewn with stones and dried twigs, with faded marks of
 boots and wheels of small wagons.  You hear persistent, fading sounds of
 civilization not too farway from where you are standing.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D0
 ~
 ~
@@ -1229,7 +1229,7 @@ connects to the larger river just east of this bridge.  To the north a small
 trail leads through a lightly forested area, and to the south the bridge
 connects to a wide highway.    
 ~
-71 4194304 3 0 0
+71 4227072 3 0 0
 D2
 ~
 ~
@@ -1251,7 +1251,7 @@ travellers who wish to walk side by side.  There are even a few nice berry
 bushes along the path.  The trail continues northwards, and to the south the
 gurgling of a river can be heard.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D7
 ~
 ~
@@ -1269,7 +1269,7 @@ travellers who wish to walk side by side.  There are even a few nice berry
 bushes along the path.  The trail continues northwards, and to the south the
 gurgling of a river can be heard.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D0
 ~
 ~
@@ -1286,7 +1286,7 @@ provide a nice shade, yet not so close as to hinder a wide wagon, or a few
 travellers who wish to walk side by side.  There are even a few nice berry
 bushes along the path.  The trail continues northwards and southwards.    
 ~
-71 0 3 0 0
+71 32768 3 0 0
 D0
 ~
 ~
@@ -1305,7 +1305,7 @@ bushes along the path.  To the north a glimpse of a beautiful white structure
 can be seen, and voices, ranging from hushed to those filled with happiness can
 be heard.  The trail continues southwards within the forest.    
 ~
-71 4 3 0 0
+71 32772 3 0 0
 D0
 ~
 ~
@@ -1327,7 +1327,7 @@ cover the area making the way treacherous with shifting footholds.  A slight
 breeze drifts down into this crack stirring up the dust that covers everything
 here.    
 ~
-71 0 5 0 0
+71 32768 5 0 0
 D1
 ~
 ~
@@ -1344,7 +1344,7 @@ west and climbs down further into the rock here.  Small pebbles and rocks cover
 the area making the way treacherous with shifting footholds.  A slight breeze
 drifts down into the crack stirring up the dust that covers everything here.  
 ~
-71 0 5 0 0
+71 32768 5 0 0
 D3
 ~
 ~
@@ -1362,7 +1362,7 @@ the rocks that line both sides of this crack look like they might fall at any
 moment.  A slight breeze carries some dust in from above and makes a whistling
 sound as it blows into this area.    
 ~
-71 0 5 0 0
+71 32768 5 0 0
 D1
 ~
 ~
@@ -1380,7 +1380,7 @@ the rocks that line both sides of this crack look like they might fall at any
 moment.  A slight breeze carries some dust in from above and makes a whistling
 sound as it blows into this area.    
 ~
-71 0 5 0 0
+71 32768 5 0 0
 D3
 ~
 ~
@@ -1399,7 +1399,7 @@ provide a minuscule amount of shade.  The canyon begins to slowly narrow down
 to a mere crack to the southwest while a solid rock face to the northwest is
 interrupted by a dark cave opening.    
 ~
-71 0 5 0 0
+71 32768 5 0 0
 D6
 ~
 ~
@@ -1583,7 +1583,7 @@ dwelling stands amongst the trees in this rather peaceful environment.  The
 path leading from the bridge to the home looks rather well travelled.  
 Probably the result of the inhabitants going to fetch water.    
 ~
-71 0 0 0 0
+71 32768 0 0 0
 D3
 ~
 ~
@@ -1600,7 +1600,7 @@ inbetween two overgrown fields of thick weeds.  A few trees grow alongside this
 wide road, but not enough to hinder the line of sight from the road to the keep
 at the end of this road, up north.
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D2
 ~
 ~
@@ -1617,7 +1617,7 @@ fields of overgrown weeds lie on each side of the road, and a few trees grow
 alongside the road as well, enough for a bit of shade, yet not enough to hinder
 the line of sight from the main road south, to the keep up north.    
 ~
-71 0 0 0 0
+71 32768 0 0 0
 D0
 ~
 ~
@@ -1635,7 +1635,7 @@ north can be seen a large keep, and to the south lies the main road.  A good
 bit of the weeds have been carefully cleared away to the east, revealing a
 small pathway.    
 ~
-71 0 0 0 0
+71 32768 0 0 0
 D0
 ~
 ~
@@ -1655,7 +1655,7 @@ A Wide Road Through the Fields~
 grass.  A few trees line the road, providing a bit of shade.  To the north
 looms a large keep, and in the distant south is the main highway.    
 ~
-71 0 0 0 0
+71 32768 0 0 0
 D2
 ~
 ~
@@ -1673,7 +1673,7 @@ Alongside the road grow a few trees as well, prioviding a bit of shade, but not
 easily hid behind.  The road leads south back to the main highway, and to the
 north looms the large keep.    
 ~
-71 0 0 0 0
+71 32768 0 0 0
 D0
 ~
 ~
@@ -1691,7 +1691,7 @@ crops once flourished.  The surface of the roadway has been carefully
 maintained, however, and allows for easy passage.  Its well-used surface is
 firmly packed and is kept free of debris.    
 ~
-71 4 2 0 0
+71 32772 2 0 0
 D2
 ~
 ~
@@ -1709,7 +1709,7 @@ easy due to the evenness of the ground and the well-maintained surface of the
 road.  The grasses and weeds which grow along the roadside wave in the light
 breeze that blows across the plains.    
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D0
 ~
 ~
@@ -1727,11 +1727,7 @@ crops once flourished.  The surface of the roadway has been carefully
 maintained, however, and allows for easy passage.  Its well-used surface is
 firmly packed and is kept free of debris.    
 ~
-71 0 2 0 0
-D0
-~
-~
-0 0 19054
+71 32768 2 0 0
 D3
 ~
 ~
@@ -1749,7 +1745,7 @@ easy due to the evenness of the ground and the well-maintained surface of the
 road.  The grasses and weeds which grow along the roadside wave in the light
 breeze that blows across the plains.    
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D2
 ~
 ~
@@ -1767,7 +1763,7 @@ crops once flourished.  The surface of the roadway has been carefully
 maintained, however, and allows for easy passage.  Its well-used surface is
 firmly packed and is kept free of debris.    
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D0
 ~
 ~
@@ -1785,7 +1781,7 @@ the horizon, marred only by the occassional huddled shapes of small thickets of
 brush and weed.  Far off in the distance the faint outlines of hills can be
 seen, obscured by the intermittant clouds of dust the wind throws into the air.
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D0
 ~
 ~
@@ -1795,13 +1791,13 @@ D9
 ~
 0 0 7191
 E
+old wooden chair~
+   Made from some old wood, it gently rocks back and forth in the breeze.    
+~
+E
 roof ~
    Rotting and full of holes, it looks like it could collapse at any moment.  
 
-~
-E
-old wooden chair~
-   Made from some old wood, it gently rocks back and forth in the breeze.    
 ~
 S
 #7191
@@ -1812,7 +1808,7 @@ easy due to the evenness of the ground and the well-maintained surface of the
 road.  The grasses and weeds which grow along the roadside wave in the light
 breeze that blows across the plains.    
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D1
 ~
 ~
@@ -1830,7 +1826,7 @@ used on to construct the highway been worn smooth by countless generations.
 Low hills to the east dominate the horizon by the sheer virtue of their
 presence against the flat terrain.    
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D2
 ~
 ~
@@ -1848,7 +1844,7 @@ the horizon, marred only by the occassional huddled shapes of small thickets of
 brush and weed.  Far off in the distance the faint outlines of hills can be
 seen, obscured by the intermittant clouds of dust the wind throws into the air.
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D0
 ~
 ~
@@ -1866,7 +1862,7 @@ used on to construct the highway been worn smooth by countless generations.
 Low hills to the east dominate the horizon by the sheer virtue of their
 presence against the flat terrain.    
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D1
 ~
 ~
@@ -1884,7 +1880,7 @@ the horizon, marred only by the occassional huddled shapes of small thickets of
 brush and weed.  Far off in the distance the faint outlines of hills can be
 seen, obscured by the intermittant clouds of dust the wind throws into the air.
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D3
 ~
 ~
@@ -1902,7 +1898,7 @@ used on to construct the highway been worn smooth by countless generations.
 Low hills to the east dominate the horizon by the sheer virtue of their
 presence against the flat terrain.    
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D2
 ~
 ~
@@ -1922,7 +1918,7 @@ also offer a bit of shade to any travellers venturing that far off the highway
 for a bit of rest.  Much of the grass to the west has been trampled by
 travellers wandering off the highway, and a wide dirt trail has been cleared.
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D0
 ~
 ~
@@ -1945,7 +1941,7 @@ east, the grasses of the plains blow in the breezes creating peaceful waves of
 green.  A good bit of noise can be heard coming from the west where a few
 wagons have pulled off for a bit of rest.    
 ~
-71 0 0 0 0
+71 32768 0 0 0
 D2
 ~
 ~
@@ -1964,7 +1960,7 @@ east, the grasses of the plains blow in the breezes creating peaceful waves of
 green.  A good bit of noise can be heard coming from the west where a few
 wagons have pulled off for a bit of rest.    
 ~
-71 0 2 0 0
+71 32768 2 0 0
 D0
 ~
 ~

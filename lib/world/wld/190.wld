@@ -14,7 +14,7 @@ full-length mirror rests against the east wall.  A wrought-iron nightstand sits
 on either side of the canopy bed, and a beautiful oak chest lies at its foot.
 You notice a strange, but rather pleasant spiced scent in the air.    
 ~
-190 12 0 0 0
+190 32780 0 0 0
 D0
 ~
 ~
@@ -85,7 +85,7 @@ candles, and the soft glow of the stonework fireplace in the eastern wall.
 Delicious smells waft in from the kitchen to the north occasionally, and an
 excessively thick oak door lies to the west.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D0
 ~
 ~
@@ -489,7 +489,7 @@ door which is very difficult to read.  It somehow begs for closer scrutiny.
 There is something about this house that makes people and creatures both keep a
 wide berth.    
 ~
-190 6660 1 0 0
+190 39428 1 0 0
 D0
 The door is about six and a half feet high, and only two and a half feet wide.  Strange.
 ~
@@ -522,7 +522,7 @@ There is a statue in the middle of the room, but as it is also made of ebony,
 and the room is lit only with oil lamps, it is difficult to see just at a
 casual glance.  There is a tall, narrow door to the south.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D2
    The door is about six and a half feet high, yet only two and a half feet
 wide.  How strange.    
@@ -550,7 +550,7 @@ contains a single mesh cot, quite large so as to accomodate one large man, or
 two people who sleep extremely cozily.  The floorboards creak slightly with
 each step.    
 ~
-190 67108872 0 0 0
+190 67141640 0 0 0
 D4
    There is a hatch at the top of the stairs which is currently closed.  There
 is a small latch with which it may be opened.    
@@ -596,7 +596,7 @@ southwest portion of the cage which leads downward.  You can see out of the
 cage in all directions, and given the sparse foliage of the region, the view is
 absolutely breathtaking.    
 ~
-190 0 2 0 0
+190 32768 2 0 0
 D5
 A hatch in the floor leads down into the tower.
 ~
@@ -872,7 +872,7 @@ branching off in different directions, some passageways, barred by huge doors
 and blocked guards.  To the north you see a great hall.  And To the south the
 road continues on.    
 ~
-190 4 0 0 0
+190 32772 0 0 0
 D0
 ~
 door~
@@ -897,7 +897,7 @@ begins here, winding its way up leading to door, a door so black it seems to
 suck all the light around it, its surrounded with silver runes.  To the west
 you see a huge bedroom.    
 ~
-190 67108872 0 0 0
+190 67141640 0 0 0
 D2
 ~
 door~
@@ -923,7 +923,7 @@ for several purposes, questioning and tests among many other.  As you look up
 you see a hole, looking through it, once can see the black moon Nuitari.  A
 spiral case begins here, winding its way down to the magnificent hall.    
 ~
-190 9 0 0 0
+190 32777 0 0 0
 D5
 ~
 ~
@@ -947,7 +947,7 @@ huge windows with gorgeous green draperies on one wall and a wide marble
 fireplace in the other corner.  As you look outside them you can the see the
 country side stretch as far as the eye can see.    
 ~
-190 6664 0 0 0
+190 39432 0 0 0
 D1
 ~
 ~
@@ -1198,7 +1198,7 @@ mirror allowing one to look at one's whole body from head to foot.  A pair of
 ornate mahagony doors lie to the south and southwest, providing the only exits
 out of the room.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D2
 ~
 ~
@@ -1222,15 +1222,15 @@ Rectangular windows have been cut along the top length of the walls, while
 shelves of books line the lower half.  A soothing meldoy plays softly in the
 room from an unknown source.    
 ~
-190 67115532 0 0 0
+190 67148300 0 0 0
 D0
 ~
 ~
 0 0 19053
 D2
 ~
-~
-0 0 7187
+frontdoor~
+1 0 8802
 S
 #19055
 The Kitchen~
@@ -1261,7 +1261,7 @@ view of the star speckled sky at night.  The bubbling pool looks extremely
 inviting with wisps of steam hovering just on top of the water's surface.  
 Large trees line the pool offering some shade and privacy to it.    
 ~
-190 0 0 0 0
+190 32768 0 0 0
 D7
 ~
 ~
@@ -1364,7 +1364,7 @@ large waterfall and pool on the eastern side of the room.  A door from here
 leads west, back outside the building, and to the north is a small passage that
 leads elsewhere within the structure.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D0
 ~
 ~
@@ -1389,7 +1389,7 @@ number of bookcases up against the walls.  The air in this room is dry and
 cool, as if something is keeping the moisture and heat out of the air to
 protect the books.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D2
 ~
 ~
@@ -1404,7 +1404,7 @@ grow plants of all types, from various flowers to different types of vines,
 small shrubs and even various saplings.  Things here seem to be quite peaceful,
 and also quite alive.    
 ~
-190 67108864 0 0 0
+190 67141632 0 0 0
 D3
 ~
 ~
@@ -1419,7 +1419,7 @@ bushes, and thick leaves and vines.  Only a small cobblestone path leads
 haphazardly around the garden and to the door of a small house, camouflaged
 like the trellis with more vines and blooming flowers.    
 ~
-190 4 2 0 0
+190 32772 2 0 0
 D2
 ~
 door~
@@ -1467,7 +1467,7 @@ swords, whips, and staffs.  In front of the writing desk is a large rug, with
 an artist easel on one side of the desk and a few large leather chairs on the
 other.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D0
 ~
 door~
@@ -1511,7 +1511,7 @@ marble and ivory pond.  It adds to this rooms order of peace and harmony.
 Ivory lamps etched in crimson roses provide the light.  They are scattered
 throughout the room.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D1
 ~
 door~
@@ -1552,7 +1552,7 @@ side of the room, with a large window overlooking the wildflower garden.  Soft
 music can be heard threw out the comfort of this room.  Dozens of flowering
 plants give off their perfume within the shadows of the room.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D5
 ~
 door~
@@ -1612,7 +1612,7 @@ cot, neatly folded at the foot of the bed is a heavy woolen blanket for when
 the weather gets colder.  Adjoining this room are many doors leading to some of
 the higher officials quarters.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D9
 ~
 ~
@@ -1627,7 +1627,7 @@ Northern wall is a large tapestry portraying a raven in flight.  Behind the
 desk is a large comfortable looking chair, whilst in front of it are four
 smaller chairs, but of only slightly less quality.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D2
 ~
 door~
@@ -1643,7 +1643,7 @@ to seat nearly a hundred people if the need arose.  To the east a large
 entryway opens into the kitchens and pantry.  To the south large double doors
 open to the outside of Dark Hills Keep.    
 ~
-190 12 0 0 0
+190 32780 0 0 0
 D0
 ~
 door~
@@ -1671,7 +1671,7 @@ the banquet hall.  Though not always to be as festive, a large keg stands near
 the door, and a table laden with food for the soldiers and men who frequent the
 keep.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D3
 ~
 ~
@@ -1688,7 +1688,7 @@ you listen closely, even the birds themselves add to the atmosphere by
 providing the soft, natural background music.  To the east, you see a structure
 with waterfalls that fall on each side of the door.    
 ~
-190 2564 3 0 0
+190 35332 3 0 0
 D1
 ~
 ~
@@ -1737,7 +1737,7 @@ perimeter where whe ceiling meets the wall.  There is a small fireplace in the
 northern wall to provide heat as needed.  Doorways leading to other rooms are
 in the north and south walls.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D0
 ~
 ~
@@ -1789,7 +1789,7 @@ room from the desk is a large bed framed in mahogany that dominates the entire
 wall.  As with the previous room, this one has the same strikingly beautiful
 runes at the edge of the ceiling.  On the southern wall is a window.    
 ~
-190 67108872 0 0 0
+190 67141640 0 0 0
 D0
 ~
 ~
@@ -1852,7 +1852,7 @@ of white pine.  A few tapestries with lovely designs are hung around the room,
 one accenting another.  Where the wall meets the ceiling are the same runes as
 the other rooms, perpetually shifting from gold to silver and back.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D2
 ~
 ~
@@ -1889,7 +1889,7 @@ doors lead off towards the northeast and northwest, carved with a large
 crescent moon in their faces.  The symbol of the moon is the only bit of
 decoration in the entire room, shimmering slightly in the faint light.    
 ~
-190 12 0 0 0
+190 32780 0 0 0
 D2
 ~
 wall stone~
@@ -1934,7 +1934,7 @@ entire western wall, making the room seem larger than it is.  A few low tables
 are scattered around the room, and dark pillows and cushions are strewn about
 the floor for seating or lounging.  There are no chairs.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D0
 ~
 door~
@@ -1994,7 +1994,7 @@ face of Ansalon in carefully penned detail.  A few black and silver cushions
 are scattered across the floor, and torches in wrought-iron sconces provide
 enough illumination to read by.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D3
 ~
 door~
@@ -2049,7 +2049,7 @@ crystal decanter filled with a dark red substance, and two crystal glasses
 etched with crescent patterns.  A thick, black fur rug covers the stone floor.
   
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D2
 ~
 door~
@@ -2132,7 +2132,7 @@ tinted a brilliant golden all year round.  There is an odd feeling in the air
 in this glade, to those that would take the time to sense it, a certain
 mingling of peace combined with a lingering sense of loss.    
 ~
-190 20 3 0 0
+190 32788 3 0 0
 D0
 ~
 tree~
@@ -2165,7 +2165,7 @@ dias upon which stands a delicate pedestal wrought of fine silver.  The tower
 itself reaches a considerable height, open to this chamber all the way but for
 the extreme uppermost reaches.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D2
 ~
 wall tower tree ~
@@ -2198,7 +2198,7 @@ allowing for a view of the forests without and, with the aid of several mirrors
 and crystal facets, directing natural light about the tower, focusing in
 particular on the small pedestal in the chamber below.    
 ~
-190 0 0 0 0
+190 32768 0 0 0
 D4
 ~
 ~
@@ -2222,7 +2222,7 @@ rests a collection of immaculately kept texts, bound in green and marked with
 runes of silver, bearing what appears to be the arcane mark of the magus
 Avanathmalyr, formerly of Qualinost.    
 ~
-190 656 0 0 0
+190 33424 0 0 0
 D5
 ~
 ~
@@ -2525,7 +2525,7 @@ the ceiling.  A larder lies through a small door to the north.  A long table
 with four high-backed chairs sits in the middle of the room, places already set
 for the next meal.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D2
 ~
 ~
@@ -2544,7 +2544,7 @@ of midnight blue towels hang from one of them.  Likewise, a few small mats of
 midnight blue carpet have been placed about for one to stand on while drying
 off.    
 ~
-190 8 0 0 0
+190 32776 0 0 0
 D2
 ~
 ~

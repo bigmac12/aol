@@ -6,7 +6,7 @@ working, and a rack for storing the taller weapons, such as pole arms.  It has
 windows to keep out the cold during winter, and they open to allow a breeze
 through in summer and spring.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -28,7 +28,7 @@ major port city.  Most of the traffic itself consists of minotaur, but some
 humans, elves, dwarves, and of course, kender can be seen wandering through the
 crowds.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -54,7 +54,7 @@ working, and a rack for storing the taller weapons, such as pole arms.  It has
 windows to keep out the cold during winter, and they open to allow a breeze
 through in summer and spring.    
 ~
-74 0 0 0 0
+74 32768 0 0 0
 D3
 ~
 ~
@@ -74,7 +74,7 @@ visible to the north, which the bustling sounds of the city can be heard to the
 south.  The street itself is primarily wooden boards, haphazardly strewn on the
 ground.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -92,7 +92,7 @@ coming in and out of the temple seem to all be carrying weapons of some sort,
 and wearing heavy, cumbersome armor.  They have the look in their eyes of
 trained warriors.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -110,7 +110,7 @@ coming in and out of the temple seem to all be carrying weapons of some sort,
 and wearing heavy, cumbersome armor.  They have the look in their eyes of
 trained warriors.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -128,23 +128,23 @@ cloth.  A small rug covers the floor, it too is the deep crimson color of fresh
 blood.  Hanging above the altar is a statue of a condor, holding a small blade
 in its claw.  The torchlight glistens off the blade's sharp edge.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 ~
 0 0 7407
-E
-altar~
-   This tiny altar seems to serve a special purpose which is evidenced by the
-cloth which covers it.  What at first glance appeared to be a piece of red
-cloth, is actually a white cloth stained red by blood.    
-~
 E
 blade~
    Despite the worn look of its handle, its blade remains razor sharp.  This
 would seem to indicate both regular use and sharpening.  The handle is a fine
 piece of wood carved into the shape of a small condor.  It has been stained red
 with blood.    
+~
+E
+altar~
+   This tiny altar seems to serve a special purpose which is evidenced by the
+cloth which covers it.  What at first glance appeared to be a piece of red
+cloth, is actually a white cloth stained red by blood.    
 ~
 S
 #7407
@@ -154,7 +154,7 @@ Destroyer.  The wooden pews have been sanded smooth and highly polished.
 Several minotaurs have gatheird here to worship.  They kneel in front of the
 pews, there heads bowed in silent prayer.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -176,7 +176,7 @@ fresh blood and the trim has been painted gold.  Massive columns support the
 roof and have been painted with battle scenes.  The floor has been covered with
 a large mosaic depicting a giant condor; its wings spread wide.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -201,7 +201,7 @@ Destroyer.  The wooden pews have been sanded smooth and highly polished.
 Several minotaurs have gatheird here to worship.  They kneel in front of the
 pews, there heads bowed in silent prayer.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -219,7 +219,7 @@ visible to the north, which the bustling sounds of the city can be heard to the
 south.  The street itself is primarily wooden boards, haphazardly strewn on the
 ground.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -237,7 +237,7 @@ minotuar, there are a few smaller weapons that may be of use to a human of
 great strength.  The entire stock is meticulously maintained and carefully
 displayed.    
 ~
-74 12 0 0 0
+74 32780 0 0 0
 D3
 ~
 ~
@@ -250,7 +250,7 @@ a source of great evil which flows and swirls through the air, like smoke in a
 soft breeze.  A chill in the air permeates the flesh of those who pass,
 stirring something primal and savage deep with in their souls.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -267,7 +267,7 @@ Destroyer.  The wooden pews have been sanded smooth and highly polished.
 Several minotaurs have gatheird here to worship.  They kneel in front of the
 pews, there heads bowed in silent prayer.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 ~
@@ -289,7 +289,7 @@ The almost tranquil sound stands in sharp contrast to the images inlaid in the
 floor: huge battles being fought, volcanoes exploding, and acts of unspeakable
 torture.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -314,7 +314,7 @@ Destroyer.  The wooden pews have been sanded smooth and highly polished.
 Several minotaurs have gatheird here to worship.  They kneel in front of the
 pews, there heads bowed in silent prayer.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D2
 ~
 ~
@@ -331,7 +331,7 @@ south Bleeding Sword Lane, lined with shops, leads through the more commercial
 section of the city.  Honor Way continues east and west through the residential
 area that runs along the northern wall of the city.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -358,7 +358,7 @@ runs south from here toward the main square and the Arena, which is the city's
 main focal point.  Its tall flags visible over the low buildings which line the
 streets.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -381,7 +381,7 @@ A slight breeze blows up from the beach below, bringing with it the salty smell
 of the ocean.  A great many voices, either laughing or fighting, can be heard
 coming from the west.    
 ~
-74 4 1 0 0
+74 32772 1 0 0
 D0
 ~
 ~
@@ -407,7 +407,7 @@ mud-covered streets in the city, this road is paved with large stone blocks.
 A slight breeze blows up from the beach below, bringing with it the salty smell
 of the ocean.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -425,7 +425,7 @@ popular as its sister establishment.  Though, it possesses the same fine
 atmosphere and ale, it lacks the grand view of the arena and Great Plaza.  As a
 result, prices are a bit lower in hopes of still attracting a crowd.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -442,7 +442,7 @@ potattoes.  It is a simple room, with wooden chairs surrounding a plain table
 which is covered with wooden bowls and utensils.  A fire place in the corner is
 where the stews and meats are cooked, though it is currently empty.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 ~
@@ -459,7 +459,7 @@ lava with a smooth, wooden top sits in the middle of the room with a chair
 covered by what seems to be leather, stretched tightly over the cushions.  The
 floor is glossy, black marble, polished to a high shine.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 door~
@@ -477,7 +477,7 @@ behind the pulpit and forming a square around the altar itself.  The floor has
 been covered with unpolished squares of onyx that reflect no light but rather
 seem to absorb any light within the room.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D2
 ~
 ~
@@ -496,7 +496,7 @@ Banners of all colors fly overhead.  Like some of the busier streets, the
 square is paved with square blocks which were once used as ballast on one of
 the many ships that visit this busy port city.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -515,7 +515,7 @@ Banners of all colors fly overhead.  Like some of the busier streets, the
 square is paved with square blocks which were once used as ballast on one of
 the many ships that visit this busy port city.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -538,7 +538,7 @@ are clearly visible over the low homes that line the northern side of the
 street.  Honor Way continues to the eat and west.  A rickety old building lies
 to the south.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -561,7 +561,7 @@ are clearly visible over the low homes that line the northern side of the
 street.  A great many voices, either laughing or fighting, can be heard coming
 from the south.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -583,7 +583,7 @@ the city, this road is paved with large stone blocks.  The entrance to the Inn
 of the Bloody Horn lies to the east.  A slight breeze blows in from between the
 buildings, bringing with it the salty smell of the ocean.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -606,7 +606,7 @@ windows to keep out the cold during winter, and they open to allow a breeze
 through in summer and spring.  Large windows dominate the eastern wall,
 providing an excellent view of the docks and the beach below.    
 ~
-74 0 0 0 0
+74 32768 0 0 0
 D0
 ~
 ~
@@ -619,7 +619,7 @@ covered with wooden planks, making it easier for merchants to pass through here
 with their goods.  The docks lead out over the sea to the east.  To the west
 looms the large city gates.    
 ~
-74 4 1 0 0
+74 32772 1 0 0
 D1
 ~
 ~
@@ -637,7 +637,7 @@ The buildings themselves are not very grand, however each house proudly bears
 the family crest of its residents.  To the west stands the largest home in the
 city.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -660,7 +660,7 @@ been left as a dirt road with some light stone which was dragged up from the
 beach thrown on top of it.  The road continues to the north and south.  A
 rickety old building lies to the east.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -682,7 +682,7 @@ is not paved in any way like many of the busier streets.  Instead it has just
 been left as a dirt road with some light stone which was dragged up from the
 beach thrown on top of it.  Broken Arrow Road continues to the north and south.
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -705,7 +705,7 @@ Banners of all colors fly overhead.  Like some of the busier streets, the
 square is paved with square blocks which were once used as ballast on one of
 the many ships that visit this busy port city.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -729,7 +729,7 @@ stone blocks which were used in ballast on the trade ships.  Though greatly
 overshadowed by the arena which lies to the north, the square is dominated by a
 rather large fountain.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -756,7 +756,7 @@ Banners of all colors fly overhead.  Like some of the busier streets, the
 square is paved with square blocks which were once used as ballast on one of
 the many ships that visit this busy port city.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -777,7 +777,7 @@ Shattered Shield Road which leads to the main city square.  The smaller, more
 residential Broken Arrow Road begins to the north.  A heavily travelled road
 leads off to the west, towards the foothills at the edge of the town.    
 ~
-74 4 1 0 0
+74 32772 1 0 0
 D0
 ~
 ~
@@ -799,7 +799,7 @@ is not paved in any way like many of the busier streets.  Instead it has just
 been left as a dirt road with some light stone which was dragged up from the
 beach thrown on top of it.  Broken Arrow Road continues to the north and south.
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -826,7 +826,7 @@ been left as a dirt road with some light stone which was dragged up from the
 beach thrown on top of it.  Broken Arrow Road continues to the north, and a
 busy intersection is visible to the south.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -854,7 +854,7 @@ as Laeynes is a major port city.  Most of the traffic itself consists of
 minotaur, but some humans, elves, dwarves, and of course, kender can be seen
 wandering through the crowds.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -882,7 +882,7 @@ success is due, at least in part, to its prized location.  The northeastern
 wall of the establishment has been built in hinged sections that fold open onto
 the Central Arena Square.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -900,7 +900,7 @@ separating the road from the wall itself.  The great ramparts and guard towers
 are clearly visible over the low homes that line the northern side of the
 street.  Honor Way continues to the east and west.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -918,7 +918,7 @@ thrown on to the wall and may fall to the floor at any moment.  The shelves are
 overflowing with all sorts of items that would be useful for a well-prepared
 traveller.  A long counter runs along the western wall of the building.    
 ~
-74 12 0 0 0
+74 32780 0 0 0
 D1
 ~
 ~
@@ -932,7 +932,7 @@ though they would might blow over in the stiff breeze that blows in from the
 coastline.  The street is lined with tall lamp posts.  A oil lantern hangs from
 each post, swinging wildly in the breeze.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -951,7 +951,7 @@ Banners of all colors fly overhead.  Like some of the busier streets, the
 square is paved with square blocks which were once used as ballast on one of
 the many ships that visit this busy port city.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -974,7 +974,7 @@ Banners of all colors fly overhead.  Like some of the busier streets, the
 square is paved with square blocks which were once used as ballast on one of
 the many ships that visit this busy port city.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -997,7 +997,7 @@ Banners of all colors fly overhead.  Like some of the busier streets, the
 square is paved with square blocks which were once used as ballast on one of
 the many ships that visit this busy port city.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1019,7 +1019,7 @@ as though it has seen better days.  It is full of holes that no one has
 bothered to patch.  A few tables sit by the large windows that look out on the
 arena.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -1046,7 +1046,7 @@ windows to keep out the cold during winter, and they open to allow a breeze
 through in summer and spring.  Large windows dominate the eastern wall,
 providing an excellent view of the docks and the beach below.    
 ~
-74 0 0 0 0
+74 32768 0 0 0
 D2
 ~
 ~
@@ -1060,7 +1060,7 @@ finest marble around.  All determinations regarding rank and justice are
 handled within the walls of the circus.  The minotaur society is truly
 classless.  Anyone can achieve greatness through physical might and dominance.
 ~
-74 12 0 0 0
+74 32780 0 0 0
 D0
 ~
 ~
@@ -1077,7 +1077,7 @@ of the smaller, mud-covered streets in the city, this road is paved with large
 stone blocks.  A salty breeze blows in from the east.  No doubt this avenue
 runs near the coastline.  A plain, wooden building stands to the west.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1099,7 +1099,7 @@ finally ending near the Temple of Sargas.  Due to the high volume of traffic it
 sees, it has been paved in stone.  However, in many places the road has been
 allowed to fall into disrepair and are a bit uneven.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -1116,7 +1116,7 @@ Citizens busily hurry from one shop to the next as they run their daily
 errands.  Visitors to the city are often drawn to this section of time to
 peruse the selections of fine weapons and armor.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1135,7 +1135,7 @@ spinning of its own accord, and radiating a pale blue light that both chills
 and warms your soul.  You feel somehow connected to it...  Yet completely
 incapable of determining how.    
 ~
-74 12 0 0 0
+74 32780 0 0 0
 D9
 ~
 ~
@@ -1149,7 +1149,7 @@ or major situations, historys, backgrounds for characters that might occur, or
 that they wish to do.  Imms may reply as well on this board, to answer or ask
 for ideas about any RP-type situation.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D2
 ~
 ~
@@ -1166,7 +1166,7 @@ silent testimony to the many fights that have occurred here.  A rickety set of
 stairs runs along the eastern wall, leading to the large landing above the
 room.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D2
 ~
 ~
@@ -1188,7 +1188,7 @@ messages about unjust crimes that you have seen or fallen victim to near
 Kalaman.  The city guard occasionally comes here and reads the board, and then
 attempts to solve the crime.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D8
 ~
 ~
@@ -1201,7 +1201,7 @@ room.  Pictures of heroes of Krynn and their fantastical deeds have been
 painted on the walls of the room by an excellent artist.  These pictures
 depict, amongst others, Kith-Kanan, Vinas Solamnus, and Huma Dragonbane.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 ~
@@ -1215,7 +1215,7 @@ long bench is large enough to hold about a dozen adult minotaurs.  Steep
 stairway leads between the benches providing access to the higher levels.  It
 is a dangerous climb since there are no handrails to offer support.    
 ~
-74 0 0 0 0
+74 32768 0 0 0
 D0
 ~
 ~
@@ -1234,7 +1234,7 @@ around the curve of the arena.  The dirt floor is covered with hoof marks
 leading toward the main battle area.  The stale air that fills the archway is
 heavy with the smell of blood and sweat.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -1260,7 +1260,7 @@ long bench is large enough to hold about a dozen adult minotaurs.  Steep
 stairway leads between the benches providing access to the higher levels.  It
 is a dangerous climb since there are no handrails to offer support.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1280,7 +1280,7 @@ in stone.  However, in many places the road has been allowed to fall into
 disrepair and it is a bit uneven.  Bleeding Sword Lane branches off to the
 north, and the Academy grounds lie to the south.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1306,7 +1306,7 @@ errands.  Visitors to the city are often drawn to this section of time to
 peruse the selections of fine weapons and armor.  Rundown structures, that must
 be shops, line both sides of the street.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1331,7 +1331,7 @@ bugs.  If you find any bugs anywhere in Krynn, just leave a note here and one
 of the Gods will fix it.  A large mural of Branchala is the only decoration in
 this room, and it fills the entire east wall of the room.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D3
 ~
 ~
@@ -1344,7 +1344,7 @@ Strange objects from all over Krynn litter the floor of here.  Things such as
 elven gems, dwarven armor, and Qualinesti leather-working are just a few of the
 strange, and valuable, objects to be found here.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D7
 ~
 ~
@@ -1357,7 +1357,7 @@ is the window in the eastern wall that overlooks the ocean.  A long counter
 runs the entire length of the northern wall.  Behind the counter is a narrow
 hallway which leads toward the guest rooms.    
 ~
-74 12 0 0 0
+74 32780 0 0 0
 D3
 ~
 ~
@@ -1392,7 +1392,7 @@ things such as helping mortals, the healing of mortals, and Gods abusing their
 powers towards mortals.  Pictures of the Gods have been painted on the walls,
 including Chemosh, Lunitari, Branchala, and Gilean.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D6
 ~
 ~
@@ -1407,7 +1407,7 @@ records of the hundreds of ships that come into port here.  A wooden desk
 stands against the western wall.  It is stacked high with customs declarations
 waiting to be reviewed.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D0
 ~
 ~
@@ -1430,7 +1430,7 @@ while scheduling ground transportation to their final destination.  The
 warehouse is also used by those merchants preparing to use Lacynes as their
 port of departure.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 ~
@@ -1449,7 +1449,7 @@ while scheduling ground transportation to their final destination.  The
 warehouse is also used by those merchants preparing to use Lacynes as their
 port of departure.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D2
 ~
 ~
@@ -1469,7 +1469,7 @@ is a dangerous climb since there are no handrails to offer support.  About
 midway up the stairs are some more lavish box-style seats which belong to the
 more prominent families of Lacynes.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1490,7 +1490,7 @@ of mud, however this does not stop any scheduled battles.  The field is open to
 the heavens above, though completely surrounded by the stadium seating which is
 always filled when a battle is taking place.    
 ~
-74 4 0 0 0
+74 32772 0 0 0
 D2
 ~
 ~
@@ -1506,7 +1506,7 @@ is a dangerous climb since there are no handrails to offer support.  About
 midway up the stairs are some more lavish box-style seats which belong to the
 more prominent families of Lacynes.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1524,7 +1524,7 @@ finally ending near the Temple of Sargas.  Due to the high volume of traffic it
 sees, it has been paved in stone.  However, in many places the road has been
 allowed to fall into disrepair and are a bit uneven.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -1543,7 +1543,7 @@ armourer's most prestigious customers.  A narrow bench stands next to a counter
 on the eastern wall.  The bench is overflowing with pieces of freshly cut
 leather and the tools of the trade.    
 ~
-74 12 0 0 0
+74 32780 0 0 0
 D3
 ~
 ~
@@ -1557,7 +1557,7 @@ errands.  Visitors to the city are often drawn to this section of time to
 peruse the selections of fine weapons and armor.  Rundown structures, that must
 be shops, line both sides of the street.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1582,7 +1582,7 @@ which lies below.  Large merchant ships bob in the waves, banging gently
 against the side of the docks.  Merchants and sailors walk up and down the
 docks, carrying goods to and from their ships.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -1599,7 +1599,7 @@ which lies below.  Large merchant ships bob in the waves, banging gently
 against the side of the docks.  Merchants and sailors walk up and down the
 docks, carrying goods to and from their ships.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D3
 ~
 ~
@@ -1613,7 +1613,7 @@ The building itself can be seen to the northeast.  A bright light shines from
 its great tower.  The dirt has been trampled smooth by the great number of
 seafarers who travel it each day, many dragging carts along behind them.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1631,7 +1631,7 @@ The building itself stands to the east.  A bright light shines from its great
 tower.  The dirt has been trampled smooth by the great number of seafarers who
 travel it each day, many dragging carts along behind them.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -1652,7 +1652,7 @@ impressive feature being that it was built right onto the edge of the cliff
 side and is supported by massive wooden columns that disappear into the surf
 below.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 ~
@@ -1671,7 +1671,7 @@ rug woven from sea grasses.  The main portion of the temple is visible to the
 east, stretching out over the ocean, while the business offices branch off to
 the north and south.    
 ~
-74 12 0 0 0
+74 32780 0 0 0
 D0
 ~
 ~
@@ -1698,7 +1698,7 @@ A thick carpet covers the flooring to quiet the footfalls of those who pass.
 The carpet has been woven with fibres of all shades of green, giving it the
 appearance of swirling seawater.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 ~
@@ -1717,7 +1717,7 @@ A thick carpet covers the flooring to quiet the footfalls of those who pass.
 The carpet has been woven with fibres of all shades of green, giving it the
 appearance of swirling seawater.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 ~
@@ -1736,7 +1736,7 @@ large piece of driftwood crudely decorated with seashells.  Before the altar
 rests chest filled with the sacrifices and petitions of seamen wishing good
 weather and safe journeys.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D3
 ~
 ~
@@ -1758,7 +1758,7 @@ long bench is large enough to hold about a dozen adult minotaurs.  Steep
 stairway leads between the benches providing access to the higher levels.  It
 is a dangerous climb since there are no handrails to offer support.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D1
 ~
 door~
@@ -1777,7 +1777,7 @@ fill the the rest of the arena.  Low tables stand between the chairs.  During
 events they are laden with food and drinks for the most high-ranking even
 patrons.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 door~
@@ -1795,7 +1795,7 @@ long bench is large enough to hold about a dozen adult minotaurs.  Steep
 stairway leads between the benches providing access to the higher levels.  It
 is a dangerous climb since there are no handrails to offer support.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D2
 ~
 ~
@@ -1812,7 +1812,7 @@ of the smaller, mud-covered streets in the city, this road is paved with large
 stone blocks.  A salty breeze blows in from the east.  No doubt this avenue
 runs close to the coastline.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1830,7 +1830,7 @@ stone blocks.  A salty breeze blows in from the east.  No doubt this avenue
 runs close to the coastline.  The guard towers and ramparts of the city wall
 are visible to the south.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1852,7 +1852,7 @@ errands.  Visitors to the city are often drawn to this section of time to
 peruse the selections of fine weapons and armor.  A plain wooden shack stands
 to the east.  Its door hanging precariously on its rusted hinges.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
@@ -1874,7 +1874,7 @@ only decoration being the simple sconces that line wall providing light.  A
 long, narrow rug stretches over the floor.  Its edges are frayed and it is worn
 in several places, exposing the wooden floor below.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D1
 ~
 ~
@@ -1892,7 +1892,7 @@ only decoration being the simple sconces that line wall providing light.  A
 long, narrow rug stretches over the floor.  Its edges are frayed and it is worn
 in several places, exposing the wooden floor below.    
 ~
-74 12 0 0 0
+74 32780 0 0 0
 D1
 ~
 ~
@@ -1910,7 +1910,7 @@ and chair stand against the northern wall.  Two stools sit facing the desk for
 anyone stopping in on business.  A massive harpoon hangs over the doorway, its
 point stained a dark red.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D3
 ~
 ~
@@ -1929,7 +1929,7 @@ east, and south.  A large lantern hangs in the middle of the room.  Mirrors are
 set upon the floor and ceiling.  They are angled so as to reflect the maximum
 amount of light from the lantern out over the water.    
 ~
-74 8 0 0 0
+74 32776 0 0 0
 D5
 ~
 ~
@@ -1943,7 +1943,7 @@ working, and a rack for storing the taller weapons, such as pole arms.  It has
 windows to keep out the cold during winter, and they open to allow a breeze
 through in summer and spring.    
 ~
-74 0 0 0 0
+74 32768 0 0 0
 D1
 ~
 ~
@@ -1959,7 +1959,7 @@ major port city.  Most of the traffic itself consists of minotaur, but some
 humans, elves, dwarves, and of course, kender can be seen wandering through the
 crowds.    
 ~
-74 0 1 0 0
+74 32768 1 0 0
 D0
 ~
 ~
