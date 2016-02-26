@@ -18,12 +18,13 @@ D2
 S
 #5101
 Entrance to the Seasick Kraken~
-   Inside the oddly colored building houses the famous inn and tavern of
+   Inside the oddly colored building houses the once famous inn and tavern of
 Karthay.  The hallways stretch east and west from this entrance, and a wide
 staircase leads upwards where the innkeeper writes down the names of renters.
 Chandeliers hang from the ceiling, lighting the hallway well, and painting
-cover the walls with mainly seascapes.  Rowdy noises come from around the
-corner to the west - the bar must be in that direction.    
+cover the walls with mainly seascapes.  Silence fills the inn now, it is as
+eerie as it is foreboding.  Around the corner to the west - the bar sits empty.
+  
 ~
 51 8 0 0 0
 D1
@@ -49,7 +50,7 @@ A Hallway in Seasick Kraken~
 sea creatures only the most seaworthy of men have seen.  A chandelier hangs
 from the ceiling, brightening the room enough to see the details.  There are
 two doors - one to the south and one to the west - that lead to bulletin board
-rooms, and the hallway turns to the north, toward the rowdy bar.    
+rooms, and the hallway turns to the north, toward the silent bar.    
 ~
 51 8 0 0 0
 D0
@@ -110,10 +111,10 @@ A Hallway in Seasick Kraken~
    The hallway has a few paintings hanging from the walls, mostly seascapes and
 sea creatures only the most seaworthy of men have seen.  A chandelier hangs
 from the ceiling, brightening the room enough to see the details.  A door to
-the west leads to a private room where people can gather and not be bothered
-too much by the noise from the bar.  To the east is a few steps leading to a
-large doorway, and the entrance to the famous Seasick Kraken Bar and Grill,
-home of Karthay's rowdiest people.    
+the west leads to a private room where people once gathered, however now the
+door stands wide open.  To the east is a few steps leading to a large doorway,
+and the entrance to the once famous Seasick Kraken Bar and Grill.  Now however
+the bar stands in silence, void of any patrons or servers.    
 ~
 51 8 0 0 0
 D1
@@ -151,8 +152,8 @@ Seasick Kraken Bar and Grill~
 different colors - mostly orange and yellow, but a few green and blue ones can
 be spotted on various tables as well.  The large bar at one end of the room is
 a great, polished piece of wood, with carvings of various sea creatures along
-the side.  This bar is known for its great food, and fine ale, as well as many
-stories, but is best known for its women and rowdy customers.    
+the side.  This bar was once known for its great food, and fine ale; however
+now it stands empty with over turned tables and broken chairs.    
 ~
 51 8 0 0 0
 D1
@@ -1466,11 +1467,11 @@ door~
 S
 #5179
 Cinnabar's Leatherworking Shop~
-   A few display cases line the walls, and a table lies in the middle of the
-room where the trading takes place.  Most of the armor here is made of all
-leather and simple in design, however there is also a selection of clothing and
-other items decorated with metal studs or fur or leather fringe or even dyed
-cloth to heighten the looks.    
+   All around the shop, empty display cases hang open.  A rather large table is
+upside down, and it is missing two of its legs.  All that remains in this once
+prominent leather shop is a few scraps of leather, and piece of ripped cloth.
+It appears that what may have remained has been picked clean by the orphan
+children, or looters.    
 ~
 51 8 0 0 0
 D0
@@ -1730,14 +1731,15 @@ D9
 ~
 0 0 5111
 E
-table counter~
-   The table isn't big by any means.  It can barely hold two people's food and
-two mugs.  Surrounding the sides of the table are carvings of turtles.  That
-may seem odd to some, but those who travel the seas know well enough to not
-anger The Goddess of the Sea.  The table is connected to the wall and can't be
-moved, but the connection to the wall only does that, keeping it from moving.
-Under the table, one large leg comes out of the center, keeping it from falling
-down when any weight is set on it.    
+bench chair benches seat~
+   The benches are crafted out of a solid wood and stained so it's now a very
+dark, almost red, color.  The seat of the bench has a black cloth on it, and
+under the cloth is some sort of padding, straw perhaps.  On the back of each
+bench is a carving of different sea animals, some real, some, like mermaids, a
+little less real.  Each carving is different, but they all have one thing in
+common, a carving of a turtle that is put on each of the corners of the bench.
+Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
+Keeping her happy, or at least not angry, is important.    
 ~
 E
 candle light glass orb~
@@ -1749,15 +1751,14 @@ glass orb covers the flame and tints the surrounding area orange.  Often
 though, the candles are allowed to burn out to nothing.    
 ~
 E
-bench chair benches seat~
-   The benches are crafted out of a solid wood and stained so it's now a very
-dark, almost red, color.  The seat of the bench has a black cloth on it, and
-under the cloth is some sort of padding, straw perhaps.  On the back of each
-bench is a carving of different sea animals, some real, some, like mermaids, a
-little less real.  Each carving is different, but they all have one thing in
-common, a carving of a turtle that is put on each of the corners of the bench.
-Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
-Keeping her happy, or at least not angry, is important.    
+table counter~
+   The table isn't big by any means.  It can barely hold two people's food and
+two mugs.  Surrounding the sides of the table are carvings of turtles.  That
+may seem odd to some, but those who travel the seas know well enough to not
+anger The Goddess of the Sea.  The table is connected to the wall and can't be
+moved, but the connection to the wall only does that, keeping it from moving.
+Under the table, one large leg comes out of the center, keeping it from falling
+down when any weight is set on it.    
 ~
 S
 #5193
@@ -1877,14 +1878,15 @@ D8
 ~
 0 0 5111
 E
-table counter~
-   The table isn't big by any means.  It can barely hold two people's food and
-two mugs.  Surrounding the sides of the table are carvings of turtles.  That
-may seem odd to some, but those who travel the seas know well enough to not
-anger The Goddess of the Sea.  The table is connected to the wall and can't be
-moved, but the connection to the wall only does that, keeping it from moving.
-Under the table, one large leg comes out of the center, keeping it from falling
-down when any weight is set on it.    
+bench chair benches seat~
+   The benches are crafted out of a solid wood and stained so it's now a very
+dark, almost red, color.  The seat of the bench has a black cloth on it, and
+under the cloth is some sort of padding, straw perhaps.  On the back of each
+bench is a carving of different sea animals, some real, some, like mermaids, a
+little less real.  Each carving is different, but they all have one thing in
+common, a carving of a turtle that is put on each of the corners of the bench.
+Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
+Keeping her happy, or at least not angry, is important.    
 ~
 E
 candle light glass orb~
@@ -1896,15 +1898,14 @@ glass orb covers the flame and tints the surrounding area orange.  Often
 though, the candles are allowed to burn out to nothing.    
 ~
 E
-bench chair benches seat~
-   The benches are crafted out of a solid wood and stained so it's now a very
-dark, almost red, color.  The seat of the bench has a black cloth on it, and
-under the cloth is some sort of padding, straw perhaps.  On the back of each
-bench is a carving of different sea animals, some real, some, like mermaids, a
-little less real.  Each carving is different, but they all have one thing in
-common, a carving of a turtle that is put on each of the corners of the bench.
-Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
-Keeping her happy, or at least not angry, is important.    
+table counter~
+   The table isn't big by any means.  It can barely hold two people's food and
+two mugs.  Surrounding the sides of the table are carvings of turtles.  That
+may seem odd to some, but those who travel the seas know well enough to not
+anger The Goddess of the Sea.  The table is connected to the wall and can't be
+moved, but the connection to the wall only does that, keeping it from moving.
+Under the table, one large leg comes out of the center, keeping it from falling
+down when any weight is set on it.    
 ~
 S
 $~

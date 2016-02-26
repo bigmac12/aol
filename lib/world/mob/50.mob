@@ -1,7 +1,7 @@
 #5000
 guardsman elite intimidating guard uniform~
 an elite guardsman~
-An intimidating man dressed in the uniform of the elite guard walks around.
+A intimidating man dressed in the uniform of the elite guard, tries his best to maintain order.
 ~
    The city of Karthay puts its trust in the small but effective group of elite
 guards.  They are easily noticeable by the lack of armor usually worn by other
@@ -18,7 +18,7 @@ E
 #5001
 lady young karthay~
 a young lady of Karthay~
-A young lady wanders around the city of Karthay.
+A young lady rides on a small gelding next to a wagon of her household things.
 ~
    This lady seems to be no older than her teens, yet she is dressed in the
 fashion of a wealthy wife.  A modest, high necked dress the color of pale peach
@@ -47,13 +47,15 @@ he walks through the city.  However, he seems to be enjoying himself immensely.
 Maxmove: 50
 E
 #5003
-citizen wandering~
-a wandering citizen~
-A citizen wanders about the city as she does her daily shopping.
+citizen fleeing~
+a fleeing citizen~
+A fleeing citizen is pushing a small wheelbarrow of their belongings out of the city.
 ~
-   This citizen is one of the more common to walk about the city during any
-time of day.  Her daily chore of shopping for the home brings her to wander
-about the stores as she searches for things to buy.    
+   Once having nothing much to worry about other then what to make for dinner,
+or what is the best prices in the shop; this woman is now fleeing the city.  
+All that she owns can fit into a small wheelbarrow, the rest of her belongings
+left behind.  Where she is going is a mystery, however it is clear that she is
+leaving this city for good.    
 ~
 8 0 0 0 E
 5 17 11 2d5+65 2d5+0
@@ -64,7 +66,7 @@ E
 #5004
 traveller weary~
 a weary traveller~
-A traveller from another city looks weary from walking.
+A traveler from another city shuffles past heading towards the center of the city.
 ~
    This man looks tired as he shuffles his feet along the road.  His hair is
 unkempt, and his clothes are a bit of a mess from sleeping outside too much,
@@ -79,12 +81,14 @@ E
 #5005
 sailor tired~
 a tired sailor~
-A tired sailor walks around the city before heading back to his beloved boat.
+A tired sailor leads a group of fleeing citizens towards his beloved boat.
 ~
-   This sailor is tired from so many days at the sea, with his usually bright
-blue eyes dulled and his usually charming smile more of a frown.  Yet despite
-his tiredness, he walks around the city long enough for his love of the sea to
-overwhelm his exhaustion.    
+   This sailor is tired from so many days of sailing back and forth to Karthay.
+Usually bright blue eyes are now dulled and his charming smile is more of a
+frown.  Yet despite his tiredness, he leads another group of people fleeing the
+city towards the chartered boat.  While the money from providing safe passage
+is worth the trek, he longs for it to be over and returning back to the fishing
+days.    
 ~
 8 0 0 0 E
 2 19 14 1d3+12 1d5+1
@@ -95,7 +99,7 @@ E
 #5006
 fisherman lanky~
 a lanky fisherman~
-A lanky fisherman struts around the city while on break from fishing.
+A lanky fisherman hurries towards the dock, carrying a small child and a knapsack of clothing.
 ~
    This man is tall and terribly thin, yet he is strong when it comes to
 hauling nets and reeling in huge fish from the sea.  His clothes reek a bit of
@@ -110,7 +114,7 @@ E
 #5007
 fisherman burly~
 a burly fisherman~
-A burly man hauls fish back and forth from the docks to the fish market.
+A burly man hauls baskets of citizen's possessions to the waiting ships. 
 ~
    This man is covered in seaweed and sand, leftovers from the huge nets of
 fish that he carries from the docks, where the fisherman put them, to the fish
@@ -124,14 +128,13 @@ Maxmove: 50
 E
 #5008
 girl little yellow~
-a yellow haired little girl~
-A little girl with bright yellow hair skips along, singing to herself.
+a lost yellow haired little girl~
+A lost little girl with bright yellow hair, is crying as she searches for her parents.
 ~
-   This little girl skips about as she sings to herself, a bit loudly and
-off-key.  Her bright yellow hair is bound in curls, and tied with pink ribbons.
-Her dress is a bit torn and dirty from playing, but she looks happy.  A thin
-smile is always present on her lips, revealing a clean, white set of teeth with
-only one or two gaps.    
+   This little girl has either been left behind, or is truly lost in all the
+commotion.  Her bright yellow hair is bound in curls, and tied with pink
+ribbons.  Her dress is a bit torn and dirty from wondering around, trying in
+earnest to finding her parents.    
 ~
 8 0 0 0 E
 1 20 15 1d2+5 1d4+0
@@ -142,11 +145,11 @@ E
 #5009
 small boy~
 a small boy~
-A small boy with a wooden stick runs around, pretending its a sword.
+A small boy pulls a wagon full of toys and belongings.
 ~
-   A wooden stick serves as this small boy's sword.  He runs around, either
-alone or with his friends, pretending he's either a knight fighting dragons, or
-a guard beating up thieves.    
+   A small boy follows along behind his parent's horse drawn wagon, pulling
+along his own child size wagon.  His copper head is bowed as tears stream down
+his face.  He is clearly not happy that he has to leave his home.    
 ~
 8 0 0 0 E
 1 20 15 1d2+5 1d4+0
@@ -255,12 +258,11 @@ E
 #5016
 man merchant's~
 a merchant's man~
-One of the merchant's men hauls goods from the ship to the docks.
+One of the merchant's men hauls what goods are left towards the waiting ships.
 ~
    This burly looking man has been working hard for the sea merchant, hauling
-his goods from his ship, to the docks, and sometimes even to the guild itself.
-Sweat pours down his face as he labors, and he seems to be thinking of going to
-the tavern after work to get a good drink and meal.    
+the goods from the markets to the waiting ships.  Sweat pours down his face as
+he labors, and he seems to be thinking of better times in Karthay.    
 ~
 8 0 0 0 E
 2 19 14 1d3+12 1d5+1
@@ -319,7 +321,7 @@ E
 #5020
 priestess~
 a priestess of zeboim~
-A raven-haired priestess of Zeboim stands here accepting offerings.
+A raven-haired priestess of Zeboim stands here accepting offerings and bribes.
 ~
    This gorgeous raven-haired woman stands upon the docks, accepting offerings
 from sailors and captains seeking blessings of safe passage.  She wears a long,
@@ -354,11 +356,11 @@ E
 #5098
 Creighton director~
 Creighton~
-Creighton, the Chamber Director, stands behind the counter welcoming visitors.
+Creighton, the Chamber Director, frantically is packing up the office.
 ~
-   Creighton looks back at you and smiles slightly as you enter.  He wanders
-back and forth behind the counter reviewing the paperwork which was recently
-delivered from the Merchant's Guild.    
+   Normally a man of smiles and cheer, he is now heavily sweating as he runs
+around packing up files.  A large fire is blazing hot in the fireplace, with a
+stack of papers near it clearly for burning.    
 ~
 7348234 0 0 0 E
 30 1 -14 3d33+1700 4d8+9

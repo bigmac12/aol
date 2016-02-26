@@ -14,6 +14,7 @@ about his latest voyage and prepares to write the report for the admiralty.
 81 1300 0
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #6301
 ship ships navigator~
@@ -32,6 +33,7 @@ still buttoned up to the neckline, though not tucked into his belt.
 36 175 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #6302
 young mate~
@@ -49,6 +51,7 @@ head in the manner of all of the above decks crew to keep off the sun.
 2 19 14 1d3+12 1d5+1
 3 13 0
 8 8 1 0
+Maxmove: 50
 E
 #6303
 purser~
@@ -66,6 +69,7 @@ reports to be presented.
 3 19 13 1d5+25 1d6+1
 6 25 0
 8 8 2 0
+Maxmove: 50
 E
 #6304
 old military cook~
@@ -83,6 +87,7 @@ cleaning the galley.
 5 17 11 2d5+65 2d5+0
 21 85 0
 8 8 1 0
+Maxmove: 50
 E
 #6305
 bosun~
@@ -101,6 +106,7 @@ keep up with the trends and it doesn't look like he cares anyway.
 23 85 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #6306
 first mate~
@@ -119,6 +125,7 @@ captain in the navy within the next few years.
 36 175 0
 8 8 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #6307
 elven tourist~
@@ -137,6 +144,7 @@ that blows onto the decks from the open harbor.
 4 25 0
 8 8 1 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #6308
 pilot~
@@ -155,6 +163,7 @@ manages to cover his balding head and sunburned scalp.
 18 85 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #6309
 drunken crewman~
@@ -173,6 +182,7 @@ and trips over a rope laying on the deck.
 2 13 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #6310
 grey pelican~
@@ -191,6 +201,7 @@ webbed feet which are strangely out of proportion with the rest of its body.
 2 7 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #6311
 skinny rat~
@@ -207,6 +218,7 @@ over the meager supply of food that they were able to steal from the galley.
 2 19 14 1d3+12 1d5+1
 2 13 0
 8 8 0 0
+Maxmove: 50
 E
 #6312
 ships carpenter~
@@ -224,6 +236,7 @@ out of the way while she works.
 5 17 11 2d5+65 2d5+0
 17 85 0
 8 8 2 0
+Maxmove: 50
 E
 #6313
 ships officer~
@@ -242,6 +255,7 @@ population.
 7 16 9 3d5+85 2d6+1
 48 400 0
 8 8 1 0
+Maxmove: 50
 E
 #6314
 member galley crew~
@@ -259,6 +273,7 @@ going to go quickly to bed once his shift helping the cook is over.
 1 20 15 1d2+5 1d4+0
 4 7 0
 8 8 1 0
+Maxmove: 50
 E
 #6315
 scout~
@@ -277,6 +292,7 @@ in port.
 4 18 12 1d5+45 1d8+1
 8 50 0
 8 8 2 0
+Maxmove: 50
 E
 #6316
 member guncrew~
@@ -294,6 +310,7 @@ fumes and dust that linger in the interior spaces around the gunwales.
 3 19 13 1d5+25 1d6+1
 6 25 0
 8 8 1 0
+Maxmove: 50
 E
 #6317
 tired sailor~
@@ -312,6 +329,7 @@ pin.
 0 20 10 1d1+0 1d1+0
 10 0 0
 8 8 1 0
+Maxmove: 50
 E
 #6318
 mage military uniform~
@@ -330,5 +348,6 @@ that is not readily apparent.
 8 15 8 5d5+110 2d6+2
 71 800 0
 8 8 2 0
+Maxmove: 50
 E
 $

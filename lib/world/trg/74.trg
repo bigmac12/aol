@@ -18,14 +18,14 @@ wdoor 7406 down purge
 m7404 death load o7481, o7484, o7488, o7489~
 0 f 100
 ~
-eval chance %random.20%
-if (%chance% == 5) then
+eval chance %random.100%
+if (%chance% == 1) then
   mload obj 7481
-elseif (%chance% == 10) then
+elseif (%chance% == 2) then
   mload obj 7484
-elseif (%chance% == 15) then
+elseif (%chance% == 3) then
   mload obj 7488
-elseif (%chance% == 20) then
+elseif (%chance% == 4) then
   mload obj 7489
 else
   return 0

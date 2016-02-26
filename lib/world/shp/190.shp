@@ -40,7 +40,7 @@ CircleMUD v3.0 Shop File~
 %s Oh alright, here's %s.~
 0
 0
-1751348589
+1768843622
 0
 -1
 0
@@ -90,7 +90,7 @@ CircleMUD v3.0 Shop File~
 %s I'll give you %s for that.~
 0
 0
-1751348589
+1768843622
 0
 -1
 0
@@ -126,6 +126,33 @@ CircleMUD v3.0 Shop File~
 0
 1
 10
+#19054~
+1290
+56
+-1
+1.00
+1.00
+18
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+2
+19053
+0
+19054
+-1
+0
+28
+0
+0
+1
+38
 #19077~
 19078
 -1
