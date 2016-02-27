@@ -12,6 +12,7 @@ in harmony with the birds in the trees.
 18 11 -2 3d20+380 3d6+6
 700 14000 5
 8 8 1 0
+Maxmove: 50
 E
 #8202
 minstrel travelling~
@@ -28,6 +29,7 @@ seems happy enough to put on a small show for a copper or two.
 11 14 5 5d4+190 2d8+2
 95 2900 0
 8 8 1 0
+Maxmove: 50
 E
 T 8200
 #8277
@@ -42,11 +44,12 @@ something strange upon his back..  A pack of some sort?  No..  A set of black,
 folded wings like that of a crow.  This must be one of the mysterious race of
 bird-people known as the Kenku.    
 ~
-3694671 623658 15728644 0 E
+3694671 99370 15728644 0 E
 20 8 -4 3d20+440 3d7+6
 400 25000 2
 8 8 1 6
 BareHandAttack: 13
+Maxmove: 50
 E
 T 8277
 $
