@@ -1,7 +1,10 @@
 #49
-Sanction~
-4999 60 2
+Muddy Boot~
+4999 15 2
 * ZoneState 1 unowned 000000000000000
+D 0 4971 8 1 	(A Comfortable Backroom)
+M 0 4907 1 4971 	(a lithe, young woman)
+E 1 4902 1 5 	(&Ka full body, skin-tight black leather catsuit&n)
 R 0 4955 4955 -1 	(a crate marked with a crest bearing three crowns)
 O 0 4955 1 4955 	(a crate marked with a crest bearing three crowns)
 P 1 97 12 4955 	(a shield decorated with three crowns, likely a heraldric device)
@@ -30,9 +33,9 @@ M 0 4925 3 4932 	(an acorn worm)
 M 0 4905 1 4957 	(Tralldor)
 G 1 4952 4 -1 	(&Ya dagger carved from yellow stone&n)
 G 1 4951 4 -1 	(a highly-polished moonstone earring)
-G 1 4950 4 -1 	(a pair of soft, wicker sleeves)
+G 1 4950 4 -1 	(a pair of soft, woven wicker sleeves with adjustable straps)
 M 0 4919 1 4979 	(an ancient, black-robed mage)
-E 1 4923 1 2 	(a bloodstone ring)
+E 1 4923 1 2 	(&ra bloodstone ring studded with flawless &Kblack &ropals&n)
 E 1 4919 1 16 	(a dagger fashioned from the tooth of a basilisk)
 M 0 4920 1 4974 	(a silver-haired mercenary)
 M 0 4918 4 4927 	(a forest troll)
@@ -58,9 +61,6 @@ M 0 4911 5 4944 	(a sneaky-looking fellow)
 M 0 4910 1 4962 	(a dark woman with a suspicious manner)
 E 1 4904 6 8 	(a pair of blood-crusted leather boots)
 M 0 4909 3 4949 	(a nimble archer)
-D 0 4971 8 1 	(A Comfortable Backroom)
-M 0 4907 1 4971 	(a lithe, young woman)
-E 1 4902 1 5 	(&Ka black, leather catsuit&n)
 M 0 4908 1 4972 	(a sharp-dressed man)
 E 1 4903 1 18 	(a monocle rimmed with polished tortoise shell)
 R 0 4976 4901 -1 	(an old stone well)
