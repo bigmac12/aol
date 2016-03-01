@@ -48,7 +48,7 @@ NO_DISARM~
 2 c 100
 disarm~
 if (%actor.vnum% == -1) then
-  wsend %actor% A strange force prevents you from doing that.
+  wsend %actor% A powerful force prevents you from doing that.
 ~
 #8
 Antique Dealer Drop~
@@ -62,11 +62,18 @@ drop all
 down
 wait 6
 ~
-#10
-new trigger~
-0 g 100
+#9
+NO_STEAL~
+2 c 100
+steal~
+if (%actor.vnum% == -1) then
+  wsend %actor% A powerful force prevents you from doing that.
 ~
-say My trigger commandlist is not complete!
+#10
+CAST_HEAL~
+0 d 100
+doheal~
+dg_cast 'heal' %victim%
 ~
 #11
 closed area trigger~

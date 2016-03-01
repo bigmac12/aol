@@ -391,12 +391,13 @@ Maxmove: 50
 E
 #5122
 patron bar grinning~
-a grinning bar patron~
-A bar patron sits at his table, grinning as the wenches walk by.
+a sullen bar patron~
+A bar patron sits at his table with a sullen expression on his face. 
 ~
-   This man sits at his table with a stupid, sly grin as he stares at the
-wenches while they waltz by with orders.  He buys drinks on occassion, but
-prefers to just sit and watch if he can while he daydreams.    
+   This man sits at his table with a sullen expression written all over his
+face.  He stares into his mug of meed instead of watching others waltzing
+around.  He buys another drink on occassion, but prefers to just sit and stare
+into his mug.    
 ~
 10 0 0 0 E
 15 11 1 5d10+300 2d8+4
@@ -976,14 +977,13 @@ E
 #5158
 karthay gate keeper~
 a gate keeper of Karthay~
-The gate keeper stands guard besides the huge open gates of the city.
+The gate keeper is trying her best to maintain order and not allowing the army in.
 ~
-   The gate keeper walks back and forth beside the open doors of the city of
-Karthay.  It is her duty to watch the entrance of visitors and notify the
-authorities if any undesirables try to come in.  Still relatively young in age,
-her slightly greying hair betrays her true strength, vitality and skill in
-battle.  A sudden sound distracts her for a moment before she again turns and
-looks back down the road outside the city.    
+   It is her duty to watch the entrance of visitors and notify the authorities
+if any undesirables try to come in.  Still relatively young in age, her
+slightly greying hair betrays her true strength, vitality and skill in battle.
+Yelling at the others, she tries her best to lead and build up a road block to
+the relentless siege that is taking place.    
 ~
 1048586 0 0 0 E
 20 8 -4 3d20+440 3d7+6

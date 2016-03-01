@@ -1,7 +1,7 @@
 #116
 Cultists~
 11699 30 2
-* ZoneState 4 -NONE- 000000000000000
+* ZoneState 1 unowned 000000000000000
 D 0 11673 5 1 	(The Idol of Raziekaal Bar'akuruush, One from Many)
 M 0 11617 2 11673 	(a large, powerfully built guard)
 M 0 11617 2 11673 	(a large, powerfully built guard)
@@ -28,7 +28,7 @@ M 0 11616 1 11672 	(a priest deep in prayer)
 M 0 11615 1 11675 	(a scantily-clad priestess)
 D 0 11679 0 1 	(A Small, Decorative Garden)
 M 0 11614 1 11679 	(a raving half-elven gardener)
-E 1 11601 3 16 	(a set a razor sharp hedge trimmers coated in ichor)
+E 1 11601 3 16 	(a set of razor sharp hedge trimmers coated in ichor)
 M 0 11612 1 11680 	(an animated serpent topiary)
 O 0 11606 1 11680 	(the fresh corpse of a small kender)
 P 1 11607 1 11606 	(&Ba small, cut sapphire&n)

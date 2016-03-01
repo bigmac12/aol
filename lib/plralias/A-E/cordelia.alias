@@ -1,3 +1,38 @@
+1
+j
+29
+order wraith k 4. ; as wraith
+1
+4
+hang
+13
+hang bag belt
+0
+5
+guard
+17
+cast summon-guard
+0
+7
+harmful
+18
+cast harmful-wrath
+0
+4
+harm
+12
+cast harm $*
+1
+3
+ccl
+19
+cast cause-light $*
+1
+3
+ccc
+22
+cast cause-critical $*
+1
 7
 servant
 11
@@ -7,16 +42,6 @@ cast aerial
 hammer
 14
 cast spiritual
-0
-1
-j
-8
-as marak
-0
-4
-hang
-15
-hang pouch belt
 0
 3
 ccm
@@ -32,11 +57,6 @@ cast magical-stone $*
 mag
 18
 cast magical-stone
-0
-3
-cll
-16
-cast cause-light
 0
 2
 fl

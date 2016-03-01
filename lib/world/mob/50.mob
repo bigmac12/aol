@@ -1,7 +1,7 @@
 #5000
 guardsman elite intimidating guard uniform~
 an elite guardsman~
-A intimidating man dressed in the uniform of the elite guard, tries his best to maintain order.
+An intimidating elite guardsman, tries his best to aid in the protection of Karthay.
 ~
    The city of Karthay puts its trust in the small but effective group of elite
 guards.  They are easily noticeable by the lack of armor usually worn by other
@@ -334,6 +334,34 @@ hooded robe of deep green- the color of the sea.
 BareHandAttack: 5
 Maxmove: 50
 E
+#5021
+woman refugee tired weary~
+a tired looking refugee woman~
+Slumping against her makeshift tent, this weathered refugee woman looks weary from travel.
+~
+It looks unfinished.
+~
+8 0 0 -405 E
+10 18 10 1d1+200 1d1+2
+50 1000 0
+8 8 2 0
+Maxmove: 100
+E
+#5032
+mob unfinished~
+a beautiful priestess~
+A beautiful priestess of Sirrion, helps the injured and refugees with their wounds.
+~
+   This woman is truly beautiful, with light red hair and bright grey eyes.  
+She wanders gracefully within the refugees and injured as she helps tend to
+their needs.    
+~
+524296 0 1 0 E
+12 13 4 5d6+210 2d8+3
+110 4700 2
+8 8 0 0
+Maxmove: 100
+E
 #5080
 large group refugees people~
 a large group of refugees~
@@ -350,6 +378,25 @@ coming of the Istarian army.
 7593994 1241645096 0 0 E
 30 -10 -20 30d100+20000 30d3+30
 200000 0 3
+8 8 0 0
+Maxmove: 100
+E
+#5081
+refugees group people~
+a large group of camping refugees~
+A large group of refugees roams about the roadways as they try to find a new place to call home.
+~
+   A group of people, numbering in the dozens, all seemly travel in the same
+direction.  Parked in the street.  Expressions range from despair and
+depressed, to matter-of-fact or somewhat angry.  An audible din rises from the
+people as they talk back and forth.  They seem rather tired, but the sense of
+purpose in a common goal in finding a new place to settle down.  Several wagons
+full of earthly possessions follow along, each being pulled by random donkeys,
+horses, and even a cow or two.    
+~
+8 0 0 0 E
+30 -10 -20 30d100+5000 30d3+30
+0 0 0
 8 8 0 0
 Maxmove: 100
 E

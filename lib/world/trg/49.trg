@@ -124,12 +124,13 @@ elseif (%objload% == 4) then
 mload obj 785
 else return 1
 end
+l
 ~
 #4912
 m4912 death load o4907~
 0 f 100
 ~
-if (%random.20% == 1)
+if (%random.100% == 1)
 mload obj 4907
 end
 ~

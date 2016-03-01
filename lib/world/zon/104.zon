@@ -1,7 +1,11 @@
 #104
 Temple of Sargonnas~
 10499 30 2
-* ZoneState 4 -NONE- 000000000000000
+* ZoneState 1 unowned 000000000000000
+M 0 8080 20 10495 	(a fairly large military unit)
+M 0 8080 20 10496 	(a fairly large military unit)
+M 0 8080 20 10479 	(a fairly large military unit)
+O 1 8 2 10479 	(a large, gnomish built siege engine)
 M 0 10411 10 10464 	(the groundskeeper)
 G 1 10415 20 -1 	(a muddy shovel)
 M 0 10411 20 10471 	(the groundskeeper)
@@ -65,7 +69,7 @@ O 0 10400 1 10435 	(a black basalt altar)
 M 0 10408 1 10435 	(the High Priestess of Sargonnas)
 E 1 10410 1 12 	(&Kblack robes with two wide red stripes&n)
 E 1 10413 1 25 	(&Ra black and red stole of office&n)
-E 1 10411 1 16 	(&Kthe Mace of Destruction&n)
+E 1 10411 1 16 	(&K'Mace of Desctruction', a solid obsidian mace with a four bladed head&n)
 M 0 10414 3 10435 	(the elven prisoner)
 M 0 10406 5 10435 	(a priestess of the temple)
 M 0 10407 5 10435 	(a priest in the temple)
@@ -85,12 +89,12 @@ E 1 10408 7 12 	(&Kblack clerical robes with a wide red stripe on either sleeve&
 E 1 10412 7 3 	(&Ka black and red condor, hung on a black leather thong&n)
 M 0 10401 15 10405 	(a novice in the temple)
 E 1 10406 15 12 	(&Kblack novice robes with a single red stripe&n)
-E 1 10401 15 16 	(a cat of nine tails)
+E 1 10401 15 16 	(a braided leather cat of nine tails with sharp metal points)
 M 0 10405 7 10408 	(an initiate in the temple)
 E 1 10408 7 12 	(&Kblack clerical robes with a wide red stripe on either sleeve&n)
 E 1 10405 7 16 	(a cruel-looking flail)
 M 0 10403 10 10412 	(an acolyte in the temple)
-E 1 10404 10 16 	(&Ka black mace&n)
+E 1 10404 10 16 	(&Ka sinister black mace with crude etchings&n)
 E 1 10407 10 12 	(&Kblack acolyte robes with two narrow bands of red&n)
 M 0 10402 10 10417 	(an acolyte in the temple)
 E 1 10407 20 12 	(&Kblack acolyte robes with two narrow bands of red&n)
