@@ -25,7 +25,7 @@ there does not appear to be anything handy to grab hold of to make such a
 descent.  Obviously, the townsfolk have taken great care in preserving the
 forest surrounding their village.    
 ~
-28 32768 3 0 0
+28 0 3 0 0
 D0
 ~
 ~
@@ -51,7 +51,7 @@ trees here are slightly more sparse, the signs of civilization becoming more
 and more obvious.  Wheel ruts criss-cross the path smalls piles of wood can be
 seen along the roadway where someone has been harvesting wood.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D2
 ~
 ~
@@ -67,7 +67,7 @@ A Narrow Dirt Path~
 fly just over the gatetowers, each bearing a black bird of some sort.  The
 bustle of everday life can be heard all around.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D6
 ~
 ~
@@ -85,7 +85,7 @@ are not of the same calibur of those preceding them.  A sparsely thicketed
 trail leads off to the east into the forest, it seems to end abruptly several
 feet from a dense copse of evergreens.    
 ~
-28 32772 0 0 0
+28 4 0 0 0
 D0
 ~
 ~
@@ -107,7 +107,7 @@ vegetation and leaves cover the trail, muffling the sounds of your feet.
 Sunlight streams through the branches of the trees giving the area a surreal
 feeling.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -125,7 +125,7 @@ Flowers and short grasses grow in between the trees and a light coating of
 leaves and debris cover the trail.  In the distance to the east lies a dense
 copse of trees and within it sits a small house.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -143,7 +143,7 @@ filters down throught the branches of the trees, casting odds shadows here and
 there.  The sounds of the forest can be heard from all directions, from the
 wind blowing throught the trees to birds chirping.    
 ~
-28 32768 3 0 0
+28 0 3 0 0
 D1
 ~
 ~
@@ -160,7 +160,7 @@ trees while to the east a small wooden structure can barely be seen nestled
 amongst a dense group of short evergreen trees.  A thin column of smoke rise up
 from a short wide chimney sitting near the back of the roof of the hut.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D3
 ~
 ~
@@ -180,7 +180,7 @@ table legs, a stack of carriage wheels, and even a small crib.  No logs, or
 visible non-processed wood is anywhere around.  The scent of drying herbs fills
 the air.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D0
 ~
 ~
@@ -201,7 +201,7 @@ rafters, dangling alongside of the clay chimes.  A small ancient rocking chair
 sits in one corner of the platform, rocking gently as if it was just occupied.
 A door hangs from a single hinge in the middle of the left side.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D0
 ~
 ~
@@ -220,7 +220,7 @@ of herbs.  Several blue candles surround the cauldron which bubbles quietly,
 though no heat source is apparent.  A grey brown shawl lays tossed across the
 back of a small chair covered with intricate nature carvings.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D2
 ~
 ~
@@ -233,7 +233,7 @@ Merchants hawking their wares, peddlers peddling their goods, and a heavily
 armed guard patrolling the city.  The smell of good tavern cooking floats
 through the gates calling to your stomach.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -251,7 +251,7 @@ blacksmith's shop, and to the west the smell of stew floats from the doorway of
 an inn.  A sign portraying a large boar with steam coming out of its nose
 charging at a running farmer hangs over the door.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -279,7 +279,7 @@ venison stew flows from out of the kitchen as a all-too-pleasing-to-the-eyes
 waitress scampers in carrying a tray of drinks and small blue ceramic bowls.  
 
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -304,7 +304,7 @@ and a single overstuffed crimson velvet chair sits at the head in the back of
 the room.  A few busted bottles lay on the floor and table.  A less public
 place for the shady clients of the Boar.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D2
 ~
 ~
@@ -320,7 +320,7 @@ you inhale, you feel the spittle in your mouth building up as your eyes turn to
 a tray bearing four bowls of the grey venison stew and four honey-covered
 muffins.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -333,7 +333,7 @@ smoke fill the air and heavy-armed clanging.  Three barrels line the eastern
 wall, one olive oil, one salt water, and one plain water.  Each used for
 different metal textures upon cooling.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D3
 ~
 ~
@@ -346,7 +346,7 @@ through Havaenna, carriages wheel by you and merchants yell from their
 respective stands.  A small markerstone sits on the right corner of the road
 naming the street as Mandrake road.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -372,7 +372,7 @@ from shops and street stands lining the road.  In the distance to the north, an
 impressive looking mansion dominates the area, sitting squat and foreboding
 against the northern wall of the town.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -390,7 +390,7 @@ from shops and street stands lining the road.  In the distance to the north, an
 impressive looking mansion dominates the area, sitting squat and foreboding
 against the northern wall of the town.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -412,7 +412,7 @@ The square is dominated by the towering manor in the north at the end of
 Mandrake road, to the east a row of simple temples to the various gods of
 Krynn, and to the west, the slums.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -437,7 +437,7 @@ some, are full of the shady activity and impoverished peoples the hierarchy
 tends to vehemently deny. People sit in the streets, huddled in groups
 of two or three, or sometimes wandering aimlessly.
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D1
 ~
 ~
@@ -454,7 +454,7 @@ children are kicking what looks to be a balled and tied blanket about in some
 sort of organized fashion.  Several people stand in a circle around them,
 cheering their respective children.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D1
 ~
 ~
@@ -474,7 +474,7 @@ A Small Cubby-Hole~
 someone, though none of the generic signs of life are apparent.  Just a few
 stray blankets and a wineskin with a hole in it.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -487,7 +487,7 @@ here seem to have been freshly painted, oddly enough.  However, this does not
 hide the stones on the ground, which are stained a deep rust color, mute
 testament to the system of law in this town.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D1
 ~
 ~
@@ -500,7 +500,7 @@ district, by others it is known as Noble Row.  Aptly named, the area provides
 housing for those more fortunate individuals in town, mostly nobles and wealthy
 merchants, alothough a few middle class citizens have homes here.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D1
 ~
 ~
@@ -517,7 +517,7 @@ district, by others it is known as Noble Row.  Aptly named, the area provides
 housing for those more fortunate individuals in town, mostly nobles and wealthy
 merchants, alothough a few middle class citizens have homes here.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D1
 ~
 ~
@@ -535,7 +535,7 @@ housing for those more fortunate individuals in town, mostly nobles and wealthy
 merchants, alothough a few middle class citizens have homes here.  To the south
 lies a typically massive house of one of the local nobles.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D1
 ~
 ~
@@ -557,7 +557,7 @@ housing for those more fortunate individuals in town, mostly nobles and wealthy
 merchants, alothough a few middle class citizens have homes here.  To the north
 lies a small put well maintained temple to the god Paladine.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -578,7 +578,7 @@ district, by others it is known as Noble Row.  Aptly named, the area provides
 housing for those more fortunate individuals in town, mostly nobles and wealthy
 merchants, alothough a few middle class citizens have homes here.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D1
 ~
 ~
@@ -596,7 +596,7 @@ against the walls of the town.  Traces of ivy can also be seen climbing the
 walls.  Small trails can barely be made out amogst the trees.  To the east
 Harrier Road continues into town.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D1
 ~
 ~
@@ -613,7 +613,7 @@ spreads out in all directions.  Towering oaks compete with immense pines for
 space.  Intertwined amongst the trees, small animal trail and other paths can
 barely be seen in the gim gloom cast by the shadows of the trees.    
 ~
-28 32772 0 0 0
+28 4 0 0 0
 D1
 ~
 ~
@@ -630,7 +630,7 @@ towards the city and as well, deeper into the forest.  The sounds of nature can
 be heard all around and the smell of pine needles and wet soil is heavy in the
 air.    
 ~
-28 32768 3 0 0
+28 0 3 0 0
 D1
 ~
 ~
@@ -656,7 +656,7 @@ path.  The sunlight appears less here, casting the entire area in shadows,
 making determining sirections somewhat difficult, even for the best tracker.  
 
 ~
-28 32768 3 0 0
+28 0 3 0 0
 D0
 ~
 ~
@@ -674,7 +674,7 @@ path.  The sunlight appears less here, casting the entire area in shadows,
 making determining sirections somewhat difficult, even for the best tracker.  
 
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -691,7 +691,7 @@ the woods with no apparent destination in mind.  Leaves and foliage litter the
 path.  To the northeast the trail enters a dense area of tress and scrubs while
 to the west the trail continues on aimlessly.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D3
 ~
 ~
@@ -708,7 +708,7 @@ west.  The path which travels in a north-south direction appears to be a
 hunting trail of some sort that winds its way through the forest.  Fresh tracks
 of various types of animals are imprinted into the perpetually wet soil.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D0
 ~
 ~
@@ -728,7 +728,7 @@ The Southern Dirt Path~
 trail that veins its way through the forest.  Fresh tracks of multivarious
 animals are imprinted into the prepetually wet soil.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -744,7 +744,7 @@ Along the Havaenna Walls~
 carpeted the wall in a dense emerald.  A fairly large oak hangs its head over
 the wall, it seems as though its peeking into the city.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -761,7 +761,7 @@ can be heard all around and the smell of pine needles and wet soil is heavy in
 the air.  Dust from the trees hangs in the air, creating odd motes of light
 where the sun passes throught the folaige to strike the forest floor.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -778,7 +778,7 @@ can be heard all around and the smell of pine needles and wet soil is heavy in
 the air.  Dust from the trees hangs in the air, creating odd motes of light
 where the sun passes throught the folaige to strike the forest floor.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D3
 ~
 ~
@@ -794,7 +794,7 @@ The Southeastern Dirt Path~
 the forest.  Fresh tracks of various types of animals are inprinted into the
 perpetually wet soil.  A small cave lies just to the south of here.    
 ~
-28 32772 0 0 0
+28 4 0 0 0
 D2
 ~
 ~
@@ -810,7 +810,7 @@ The Apothecary~
 and multi-hued flasks line the walls.  The contrasting smells of rose petals
 and bitter nightshade fill the air.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -836,7 +836,7 @@ determine where in the forst you are.  Looking about you realize that the path
 has dissapeared behind you.  The forest itself betrays no hint of the proper
 direction to travel, the tree and scrubs look indistinguishable.    
 ~
-28 32772 3 0 0
+28 4 3 0 0
 D0
 ~
 ~
@@ -871,7 +871,7 @@ has disappeared behind you.  The forest itself betrays no hint of the proper
 direction to travel, the tree and scrubs look indistinguishable.  However, a
 slight sounds makes you turn to the west.    
 ~
-28 32768 3 0 0
+28 0 3 0 0
 D0
 ~
 ~
@@ -903,7 +903,7 @@ Along the Walls of Havaenna~
 carpeted the wall in a dense emerald.  A fairly large oak hangs its head over
 the wall, it seems as though its peeking into the city.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D0
 ~
 ~
@@ -916,7 +916,7 @@ debris, softening the sounds of footsteps.  In the distance to the west the
 eastern walls of the town can be see.  The trail continues in a rough
 north-south direction.    
 ~
-28 32768 3 0 0
+28 0 3 0 0
 D0
 ~
 ~
@@ -933,7 +933,7 @@ debris, softening the sounds of footsteps.  In the distance to the west the
 eastern walls of the town can be see.  The trail continues in a rough
 north-south direction.    
 ~
-28 32768 3 0 0
+28 0 3 0 0
 D0
 ~
 ~
@@ -950,7 +950,7 @@ debris, softening the sounds of footsteps.  In the distance to the west the
 eastern walls of the town can be see.  The trail continues in a rough
 north-south direction.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -967,7 +967,7 @@ debris, softening the sounds of footsteps.  In the distance to the west the
 eastern walls of the town can be see.  The trail continues in a rough
 north-south direction.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D0
 ~
 ~
@@ -984,7 +984,7 @@ covered and well packed, the trail has seen frequent use.  It continues to the
 north while to the south a dense copse of trees can be seen.  Overhead a few
 birds fly from tree to tree, singing happily.    
 ~
-28 32772 0 0 0
+28 4 0 0 0
 D0
 ~
 ~
@@ -1005,12 +1005,13 @@ determine where in the forest you are.  Looking about you realize that the path
 has disappeared behind you.  The forest itself betrays no hint of the proper
 direction to travel, the tree and scrubs look indistinguishable.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D3
 ~
 ~
 0 0 2846
 S
+T 7
 #2854
 Inside a Small Cave~
    You stand inside a fairly small cave.  Bones and bits of odds and ends, as
@@ -1019,7 +1020,7 @@ cavern.  Odd sounds echo hollowly off the cavern walls, sounding louder than
 normal.  The odour of things long dead permeates the cave, mixing with the
 smell of long stale air.    
 ~
-28 32777 0 0 0
+28 9 0 0 0
 D0
 ~
 ~
@@ -1041,7 +1042,7 @@ cavern.  Odd sounds echo hollowly off the cavern walls, sounding louder than
 normal.  The odour of things long dead permeates the cave, mixing with the
 smell of long stale air.    
 ~
-28 32769 0 0 0
+28 1 0 0 0
 D3
 ~
 ~
@@ -1055,7 +1056,7 @@ cavern.  Odd sounds echo hollowly off the cavern walls, sounding louder than
 normal.  The odour of things long dead permeates the cave, mixing with the
 smell of long stale air.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D0
 ~
 ~
@@ -1068,7 +1069,7 @@ heavy-looking white marble altar stands in the center of the room, on it a
 medium sized silver dragon idol blows curls of incense out of its nostrils.  
 Several pews surround the altar most scattered with a few ardent worshippers.
 ~
-28 32920 0 0 0
+28 152 0 0 0
 D2
 ~
 ~
@@ -1080,7 +1081,7 @@ At the Gates of House Manchara~
 of house Manchara.  A few vagrant trees grow here and there in the courtyard
 though it is mostly filled with rose bushes and shaped shrubs.    
 ~
-28 32772 1 0 0
+28 4 1 0 0
 D0
 ~
 ~
@@ -1097,7 +1098,7 @@ from the daily affairs of the wealthy.  The sounds of the streets are drowned
 by the thick walls and surrounding vegatation.  A few stone benches litter the
 area.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -1122,7 +1123,7 @@ from the daily affairs of the wealthy.  The sounds of the streets are drowned
 by the thick walls and surrounding vegatation.  A few stone benches litter the
 area.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D3
 ~
 ~
@@ -1135,7 +1136,7 @@ from the daily affairs of the wealthy.  The sounds of the streets are drowned
 by the thick walls and surrounding vegatation.  A few stone benches litter the
 area.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -1149,7 +1150,7 @@ magnificently carved ivory-coloured doors in front of you.  The sigil of
 Manchar, a falcon clutching a sprig of mint and a lance in its claw, is
 emblazoned into each handle and on the center of each door.    
 ~
-28 32772 0 0 0
+28 4 0 0 0
 D0
 ~
 ~
@@ -1168,7 +1169,7 @@ a grand dining room and faintly into what looks to be a kitchen, to the west
 you see bustling servants and a few house guards.  Perhaps the servant's
 quarters.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -1187,7 +1188,7 @@ The Hallway ~
    You walk down the crimson-carpeted hallway towards the dining room.  
 Overhead heat and light radiates from blazing faux-crystal chandliers.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D1
 ~
 ~
@@ -1202,7 +1203,7 @@ The Hallway~
    You walk down the crimson-carpeted hallway towards the dining room.  
 Overhead heat and light radiates from blazing faux-crystal chandliers.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D1
 ~
 ~
@@ -1220,7 +1221,7 @@ well-crafted mahogany chairs.  Each end of the table is dominated by a large
 over-stuffed grey velvet chair.  To the far end, you see the entrance to the
 kitchen.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -1237,7 +1238,7 @@ emote nods at mind to anything but their tasks.  Fires flare up here and there
 under pans and sometimes in them. A large oaken table dominates the center of
 the room.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D1
 ~
 ~
@@ -1254,7 +1255,7 @@ A short pine table sits here littered with rusty and broken eating utinsils and
 shattered plates.  The chairs surrounding the table are all mismatched, most
 missing a leg replaced by the leg of another chair.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D3
 ~
 ~
@@ -1267,7 +1268,7 @@ replaced by an obviously less expensive immitation.  The walls here have not
 been painted in sometimes and the marvelous chandliers that litter the other
 end of the hallway are replaced here by copper candlebras.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D1
 ~
 ~
@@ -1284,7 +1285,7 @@ replaced by an obviously less expensive immitation.  The walls here have not
 been painted in sometimes and the marvelous chandliers that litter the other
 end of the hallway are replaced here by copper candlebras.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D1
 ~
 ~
@@ -1300,7 +1301,7 @@ A Small Intersection~
 The hallway splits in two here, to the north the women's quarters and the south
 the men's.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -1320,7 +1321,7 @@ A Narrow Hallway~
 servants wander about the halls most going in and out of the doors that lay on
 your right and left.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -1346,7 +1347,7 @@ A Narrow Hallway~
 servants wander about the halls most going in and out of the doors that lay on
 your right and left.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -1372,7 +1373,7 @@ A Narrow Hallway~
 servants wander about the halls most going in and out of the doors that lay on
 your right and left.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 A sturdy cherry door stands to the north of you on bronze hinges.
 ~
@@ -1394,7 +1395,7 @@ A Servant's Quarters~
 A short sky-blue sheeted bed lays against the far eastern wall and a small wash
 basin sits up against the southern wall.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D3
 ~
 door~
@@ -1406,7 +1407,7 @@ A Servant's Quarters~
 A short sky-blue sheeted bed lays against the far eastern wall and a small wash
 basin sits up against the southern wall.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D1
 ~
 door~
@@ -1418,7 +1419,7 @@ A Servant's Quarters~
 A short sky-blue sheeted bed lays against the far eastern wall and a small wash
 basin sits up against the southern wall.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D3
 ~
 door~
@@ -1430,7 +1431,7 @@ A Servant's Quarters~
 A short sky-blue sheeted bed lays against the far eastern wall and a small wash
 basin sits up against the southern wall.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D1
 ~
 door~
@@ -1443,7 +1444,7 @@ slightly larger and slightly more elaborately decorated than the others.  The
 bed against the northern wall is covered with a set of cotton cream coloured
 sheets and is footed on the eastern wall by a small wash basin.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D3
 ~
 door~
@@ -1460,7 +1461,7 @@ across from it a copper tub for bathing attached to the basin which protrudes
 from the southern wall is filled with a murky milk-like water which is
 dotted by floating rose petals.
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D2
 ~
 door~
@@ -1473,7 +1474,7 @@ trousers and mysterious stains, which by the smell of it you would guess came
 from some sort of carrion eating cow.  The rancid smell of unwashed bodies
 fills the air.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -1497,7 +1498,7 @@ A Servant's Quarters~
 table surrounded by two smaller crate chairs.  The walls of the room are
 painted grey, and are flaking horribly.  Obviously a man's room.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D1
 ~
 ~
@@ -1509,7 +1510,7 @@ A Servant's Quarter's~
 table surrounded by two smaller crate chairs.  The walls of the room are
 painted grey, and are flaking horriblely.  Obviously a man's room.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D3
 ~
 ~
@@ -1522,7 +1523,7 @@ servants being how small their quarters are and all.  Nor does it seems that he
 cares in what fashion they live in.  The hall is littered with trash and what
 you really hope are ale stains.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -1545,7 +1546,7 @@ down-stuffed matress.  A small wash stand sits in the northeastern corner of
 the room, a stack of rose-scented soaps stand on a wooden table on the western
 flank of the sink.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D0
 ~
 ~
@@ -1557,7 +1558,7 @@ A Servant's Quarters~
 The corners of the rooms are practically rounded by cobwebs and the floor is
 very sticky.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D3
 ~
 ~
@@ -1570,7 +1571,7 @@ small area can be seen where it appears fighters of various sorts seem to be
 practicing their skills.  To the north, the manor which has dominated the
 northern view can be seen more clearly.    
 ~
-28 32772 1 0 0
+28 4 1 0 0
 D0
 ~
 ~
@@ -1592,7 +1593,7 @@ random training manuevers.  Occasionally, an experienced fighter will stroll
 through the area, perhaps looking to size up the competition, perhaps looking
 to hone their skills as well.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D0
 ~
 ~
@@ -1608,7 +1609,7 @@ A Stone-Floored Battle Ring~
 scraggly cadets stand in a circle surrounding a central raised ring.  
 Scattered about the ring lie various bits of broken armor and swords.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D1
 ~
 ~
@@ -1627,7 +1628,7 @@ Although it is not real battle, once in a while an overzelous cadet will
 seriously hurt another, and those unfortunate enough to have been hurt are
 brought here.    
 ~
-28 32768 0 0 0
+28 0 0 0 0
 D3
 ~
 ~
@@ -1641,7 +1642,7 @@ grounds and garden.  Ivy crawls over the fence engulfing it and threatening to
 engulf the entire city.  Very symbolic to the plans of it's lord.  At the
 moment the gates to the manor are locked tight.    
 ~
-28 32768 1 0 0
+28 0 1 0 0
 D0
 ~
 ~
@@ -1662,7 +1663,7 @@ fairly small, though well-maintained library. A marble structure with a domed
 roof surrounded by bushes, the library is not all that stunning, though seems
 to be alive with the patter of slippered feet and swishing robes.    
 ~
-28 32904 0 0 0
+28 136 0 0 0
 D1
 ~
 ~
@@ -1678,7 +1679,7 @@ The Temple Entrance~
 about and glance at you occasionally, most however have their noses stuck in
 thick musty tomes.    
 ~
-28 32776 0 0 0
+28 8 0 0 0
 D1
 ~
 ~

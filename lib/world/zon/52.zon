@@ -2,6 +2,9 @@
 More Mini/Roadside Zones~
 5299 30 2
 * ZoneState 1 unowned 000000000000000
+M 0 5021 2 5290 	(a tired looking refugee woman)
+O 1 9 5 5290 	(a neatly aligned row of makeshift cotton tents)
+M 1 7227 2 5290 	(a mud-spattered traveller)
 O 0 5295 1 5295 	(a large keg)
 M 0 5290 1 5295 	(a burly millworker)
 M 0 5291 1 5295 	(Koranal the Bartender)
@@ -26,9 +29,6 @@ E 1 5244 20 25 	(&Ka black, steel-studded leather mantle&n)
 O 0 7010 5 5296 	(a broken down wagon)
 M 1 5001 4 5296 	(a young lady of Karthay)
 O 0 9 3 5296 	(a neatly aligned row of makeshift cotton tents)
-M 0 5021 20 5290 	(a tired looking refugee woman)
-O 1 9 5 5290 	(a neatly aligned row of makeshift cotton tents)
-M 1 7227 5 5290 	(a mud-spattered traveller)
 M 0 5206 1 5246 	(Toccastra, the Commander of the Guards)
 E 1 5220 1 5 	(&Ka set of black, engraved full plate armor&n)
 M 0 5204 7 5246 	(a hired guard)

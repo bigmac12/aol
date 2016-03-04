@@ -13,6 +13,7 @@ at odds with her otherwise youthful appearance.
 4 18 12 1d5+45 1d8+1
 5 50 2
 8 8 2 0
+Maxmove: 50
 E
 #10401
 boy novice~
@@ -24,10 +25,11 @@ Sargonnas.  He is too young to even have the faintest traces of a beard on his
 face, yet his expression is angry and hard.  His eyes stare insolently at you,
 as if daring you to speak.    
 ~
-8 0 0 -500 E
+8 0 0 0 E
 3 19 13 1d5+25 1d6+1
 5 25 2
 8 8 1 0
+Maxmove: 50
 E
 #10402
 acolyte young woman~
@@ -44,6 +46,7 @@ hostility in her gaze.
 4 18 12 1d5+45 1d8+1
 7 50 2
 8 8 2 0
+Maxmove: 50
 E
 #10403
 young man acolyte~
@@ -61,6 +64,7 @@ failings of all mortals.
 5 17 11 2d5+65 2d5+0
 10 85 2
 8 8 1 0
+Maxmove: 50
 E
 #10404
 woman initiate cleric~
@@ -77,6 +81,7 @@ heavy mace, gripped tightly and proudly.
 6 17 10 2d5+70 2d5+2
 12 175 2
 8 8 2 0
+Maxmove: 50
 E
 #10405
 man initiate~
@@ -93,6 +98,7 @@ of his eyes threateningly.
 7 16 9 3d5+85 2d6+1
 15 400 2
 8 8 1 0
+Maxmove: 50
 E
 #10406
 priestess woman~
@@ -110,6 +116,7 @@ red band encircles her waist, belting her robes.
 8 15 8 5d5+110 2d6+2
 20 800 2
 8 8 2 0
+Maxmove: 50
 E
 #10407
 man priest~
@@ -127,6 +134,7 @@ the world.
 9 15 7 5d5+130 2d7+1
 25 1300 2
 8 8 1 0
+Maxmove: 50
 E
 #10408
 high priestess woman~
@@ -144,6 +152,7 @@ visions extend far, far beyond the mortal plane.
 15 11 1 5d10+300 2d8+4
 30 8400 2
 8 8 2 0
+Maxmove: 50
 E
 #10409
 dungeon guard~
@@ -159,6 +168,7 @@ humanity into question.
 10 14 6 5d4+160 2d7+2
 100 1900 3
 8 8 1 0
+Maxmove: 50
 E
 #10410
 keeper fields woman black~
@@ -174,6 +184,7 @@ shoulder-length dark hair that is tied back from her face.
 2 19 14 1d3+12 1d5+1
 5 13 3
 8 8 2 0
+Maxmove: 50
 E
 #10411
 keeper fields~
@@ -189,6 +200,7 @@ enjoys the work he does here at the Temple.
 3 19 13 1d5+25 1d6+1
 8 25 3
 8 8 1 0
+Maxmove: 50
 E
 #10412
 woman guard~
@@ -204,6 +216,7 @@ humanity into question.
 9 15 7 5d5+130 2d7+1
 100 1300 3
 8 8 2 0
+Maxmove: 50
 E
 #10414
 elven maiden woman victim~
@@ -222,6 +235,7 @@ broken, ragged sob, "Please, in the name of the gods of Good, help me!!  "
 0 85 1
 8 8 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #10415
 kender prisoner~
@@ -239,6 +253,7 @@ perhaps in a failed attempt to steal some relic in the Temple.
 6 17 10 2d5+70 2d5+2
 0 175 4
 8 8 1 0
+Maxmove: 50
 E
 #10416
 woman half-elven fright wide eyes~
@@ -257,6 +272,7 @@ feet.
 0 400 7
 8 8 2 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #10417
 human male prisoner~
@@ -275,6 +291,7 @@ more, moaning again to himself.
 0 800 6
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #10418
 guard temple stiffly~
@@ -291,5 +308,6 @@ shoulder, over his heart.
 400 7000 0
 8 8 1 8
 BareHandAttack: 3
+Maxmove: 50
 E
 $
