@@ -1,7 +1,8 @@
 #104
 Temple of Sargonnas~
-10499 30 2
+10499 0 0
 * ZoneState 1 unowned 000000000000000
+M 0 10401 20 10415 	(a novice in the temple)
 M 0 8080 20 10495 	(a fairly large military unit)
 M 0 8080 20 10496 	(a fairly large military unit)
 M 0 8080 20 10479 	(a fairly large military unit)
@@ -77,7 +78,6 @@ M 0 10400 15 10404 	(a novice in the temple)
 M 0 10402 10 10402 	(an acolyte in the temple)
 M 0 10401 15 10401 	(a novice in the temple)
 M 0 10402 12 10416 	(an acolyte in the temple)
-M 0 10401 20 10415 	(a novice in the temple)
 M 0 10406 7 10413 	(a priestess of the temple)
 M 0 10411 20 10450 	(the groundskeeper)
 M 0 10410 20 10457 	(the keeper of the fields)

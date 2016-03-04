@@ -507,10 +507,6 @@ D2
 ~
 door pantry~
 1 0 11217
-D3
-~
-~
-0 0 11210
 S
 #11224
 The Main Hallway In The Bandit Hideout~
@@ -901,7 +897,8 @@ The Northeastern Corner Of The Warehouse~
 manner of objects are stored upon the shelves, most of them stored in large
 crates.  The ceiling and floor are made from the natural stone of the cavern
 polished smooth.  The whole area is lit with torches that are suspended from
-hanging brackets from the ceiling.    
+hanging brackets from the ceiling.  A rickety metal ladder is wedge between two
+shelves, it seems to raise up through a small hole in the ceiling.    
 ~
 112 8 0 0 0
 D2
@@ -912,6 +909,10 @@ D3
 ~
 ~
 0 0 11237
+D4
+~
+~
+0 0 30448
 D8
 ~
 ~
@@ -1941,26 +1942,22 @@ The Secondary Hallway In The Bandit Hideout~
 high on the walls seem to glow and provide some light along with the torches in
 brackets spaced evenly down the hallway.  The floors seem to be carved and
 polished from the natural stone of the cave.  To the west is a small dark
-niche.  To the east is a brightly lit temple.  To the north and south the
-hallway continues.    
+niche.  A long, rickety metal ladder is fashioned in place on the southern
+wall.  It seems to be one of the only ways to exit this area.    
 ~
 112 12 0 0 0
 D0
 ~
 ~
 0 0 11286
-D1
-~
-~
-0 0 11271
-D2
-~
-~
-0 0 11288
 D3
 ~
 ~
 0 0 11270
+D4
+~
+~
+0 0 30447
 S
 #11288
 The Secondary Hallway In The Bandit Hideout~
