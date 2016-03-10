@@ -2,12 +2,14 @@
 Sanction City~
 30399 30 2
 * ZoneState 1 unowned 000000000000000
+M 0 30302 1 30302 	(a pair of steel plated guards)
+D 0 30301 3 1 	(Blackstone Passage)
+M 1 30301 1 30301 	(a pair of steel plated guards)
 D 0 30357 5 1 	(Black Brick Road)
 D 0 30395 5 1 	(Butcher's Lane)
 D 0 30316 1 1 	(Desolation Boulevard)
 O 0 30316 1 30316 	(a vallenwood sign)
 O 0 30370 1 30370 	(sign)
-D 0 30301 3 1 	(Blackstone Passage)
 D 0 30355 1 1 	(Broken Nail Alleyway)
 O 0 30300 1 30378 	(&Ra massive, three-tiered fountain carved out of solid jasper&n)
 S

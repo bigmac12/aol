@@ -14,7 +14,7 @@ full-length mirror rests against the east wall.  A wrought-iron nightstand sits
 on either side of the canopy bed, and a beautiful oak chest lies at its foot.
 You notice a strange, but rather pleasant spiced scent in the air.    
 ~
-190 32780 0 0 0
+190 12 0 0 0
 D0
 ~
 ~
@@ -25,12 +25,32 @@ A thick oak door.
 door oak~
 1 0 19001
 E
-ceiling constellations night skies~
-   &WWhen you look upward, you see that the ceiling rises nearly fifteen feet
-up before dissolving into what appears to be the night sky.  All of the
-constellations are clearly visible, twinkling above like gems.  The planet
-Shinare seems to glow the brightest amongst the scattered stars and planets.  
-&n
+nightstand~
+   &WThese two nightstands are crafted in the same manner as the canopy bed
+itself.  Cast in wrought-iron and antiqued in silver, the legs of the
+nightstands bear small vines and leaflets which climb upwards to hold up a
+glass top etched with ivy patterns.  Placed upon both are a few white tallow
+candles to provide a soft glow about the bed area.  &n
+~
+E
+desk~
+   &WThis small desk is crafted of dark-stained oak, like much of the other
+woodwork in the room.  It seems rather utilitarian though, and a bit out of
+place with the splendor of the rest of the furnishings.  A few ledgers and
+other scattered papers have been left on the desk, and a black quill and inkpot
+sit in one corner.  &n
+~
+E
+bookcase~
+   This small bookcase is crafted of dark-stained oak, and is filled to
+capacity.  Many of the volumes on the shelves bear such titles as, "&WThe Art
+of Negotiation&n" or "&WCommerce Across Ansalon&n".    
+~
+E
+mirror~
+   &WThis full-length mirror is framed in dark-stained oak, which has been hand
+carved with patterns of climbing ivy.  It sits against the eastern wall,
+directly across from the canopy bed.  &n
 ~
 E
 chest~
@@ -42,32 +62,12 @@ scent emits from the chest when opened, likely from some type of cologne or
 perfume.  &n
 ~
 E
-mirror~
-   &WThis full-length mirror is framed in dark-stained oak, which has been hand
-carved with patterns of climbing ivy.  It sits against the eastern wall,
-directly across from the canopy bed.  &n
-~
-E
-bookcase~
-   This small bookcase is crafted of dark-stained oak, and is filled to
-capacity.  Many of the volumes on the shelves bear such titles as, "&WThe Art
-of Negotiation&n" or "&WCommerce Across Ansalon&n".    
-~
-E
-desk~
-   &WThis small desk is crafted of dark-stained oak, like much of the other
-woodwork in the room.  It seems rather utilitarian though, and a bit out of
-place with the splendor of the rest of the furnishings.  A few ledgers and
-other scattered papers have been left on the desk, and a black quill and inkpot
-sit in one corner.  &n
-~
-E
-nightstand~
-   &WThese two nightstands are crafted in the same manner as the canopy bed
-itself.  Cast in wrought-iron and antiqued in silver, the legs of the
-nightstands bear small vines and leaflets which climb upwards to hold up a
-glass top etched with ivy patterns.  Placed upon both are a few white tallow
-candles to provide a soft glow about the bed area.  &n
+ceiling constellations night skies~
+   &WWhen you look upward, you see that the ceiling rises nearly fifteen feet
+up before dissolving into what appears to be the night sky.  All of the
+constellations are clearly visible, twinkling above like gems.  The planet
+Shinare seems to glow the brightest amongst the scattered stars and planets.  
+&n
 ~
 S
 #19001
@@ -85,7 +85,7 @@ candles, and the soft glow of the stonework fireplace in the eastern wall.
 Delicious smells waft in from the kitchen to the north occasionally, and an
 excessively thick oak door lies to the west.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D0
 ~
 ~
@@ -265,6 +265,14 @@ D5
 ~
 0 0 19008
 E
+bookcase bookcases~
+   These sturdy mahogany bookcases are filled with books of the Solamnic Order.
+Scanning the titles, you notice that many of them are historical books of
+several revered Knights of Solamnia including Vinus Solamnus, Apharot
+Soltharus, and Zandara Soltharus.  Every book is alphabetized and carefully
+maintained.    
+~
+E
 armor mannequin~
    A full suit of Solamnic armor with insignia of the Order of the Sword rests
 on a wooden mannequin in the southwest corner of the room.  The surfaces are
@@ -272,14 +280,6 @@ lovingly polished to a shine, and a flowing, vivid red cape drapes across the
 back of the ensemble.  A frayed black riding crop hangs on the wall behind the
 mannequins left side, and the silver faceplate of the armor is closed,
 reflecting your face back at you.    
-~
-E
-bookcase bookcases~
-   These sturdy mahogany bookcases are filled with books of the Solamnic Order.
-Scanning the titles, you notice that many of them are historical books of
-several revered Knights of Solamnia including Vinus Solamnus, Apharot
-Soltharus, and Zandara Soltharus.  Every book is alphabetized and carefully
-maintained.    
 ~
 S
 #19010
@@ -489,7 +489,7 @@ door which is very difficult to read.  It somehow begs for closer scrutiny.
 There is something about this house that makes people and creatures both keep a
 wide berth.    
 ~
-190 39428 1 0 0
+190 6660 1 0 0
 D0
 The door is about six and a half feet high, and only two and a half feet wide.  Strange.
 ~
@@ -522,7 +522,7 @@ There is a statue in the middle of the room, but as it is also made of ebony,
 and the room is lit only with oil lamps, it is difficult to see just at a
 casual glance.  There is a tall, narrow door to the south.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D2
    The door is about six and a half feet high, yet only two and a half feet
 wide.  How strange.    
@@ -550,7 +550,7 @@ contains a single mesh cot, quite large so as to accomodate one large man, or
 two people who sleep extremely cozily.  The floorboards creak slightly with
 each step.    
 ~
-190 67141640 0 0 0
+190 67108872 0 0 0
 D4
    There is a hatch at the top of the stairs which is currently closed.  There
 is a small latch with which it may be opened.    
@@ -561,13 +561,6 @@ D5
 ~
 ~
 0 0 19020
-E
-alcove~
-   The alcove is cozy and dark, the light from the room's oil lanterns barely
-reaching into its depths.  The alcove is dominated by a large mesh cot.  
-Underneath the cot are a few boxes and treasure chests.  The alcove is more or
-less square, with slightly rounded corners.    
-~
 E
 display case~
    You move closer to inspect the diplay case.  Looking inside, you see
@@ -580,6 +573,13 @@ drawn to the two mummified hands, and the thirteen finger-bones arranged in a
 semi-circle around a well-preserved human head.  The head has long black hair
 and glass eyes which are light blue in colour.  There is a scar upon the man's
 chin, clearly received pre-mortum.    
+~
+E
+alcove~
+   The alcove is cozy and dark, the light from the room's oil lanterns barely
+reaching into its depths.  The alcove is dominated by a large mesh cot.  
+Underneath the cot are a few boxes and treasure chests.  The alcove is more or
+less square, with slightly rounded corners.    
 ~
 S
 #19022
@@ -596,7 +596,7 @@ southwest portion of the cage which leads downward.  You can see out of the
 cage in all directions, and given the sparse foliage of the region, the view is
 absolutely breathtaking.    
 ~
-190 32768 2 0 0
+190 0 2 0 0
 D5
 A hatch in the floor leads down into the tower.
 ~
@@ -725,14 +725,6 @@ in the lamplight.
 curtain beaded beads curtains~
 1 0 19025
 E
-mirror gilted~
-You see...
-
-   Yourself.  Silly.  Only reversed from left to right.  The edges of the
-mirror are gilted and ornate.  The surface of the mirror has been polished so
-as to remain spotless.    
-~
-E
 darts dartboard wall~
    Among the various hanging trophies and paintings, this board somehow stands
 out.  Its cork surface is relatively new, painted with a black and white
@@ -742,6 +734,14 @@ Sitting in the board are four ruby darts, right in the bullseye.  It is
 doubtful that even some of the most talented dart-players on Krynn could match
 that kind of accuracy regularly, which leads one to wonder who the cheater
 is...    
+~
+E
+mirror gilted~
+You see...
+
+   Yourself.  Silly.  Only reversed from left to right.  The edges of the
+mirror are gilted and ornate.  The surface of the mirror has been polished so
+as to remain spotless.    
 ~
 S
 #19028
@@ -767,13 +767,12 @@ side.
 wall~
 1 0 19027
 E
-corner shrine dark~
-   In the corner, now clearly visible, is a small shrine of some kind.  The
-figure of a two-headed snake with four ruby eyes is crafted from ebony, sitting
-over an offering bowl.  In the bowl are some now-unrecognizeable ashes which
-seem to indicate a recent burnt offering.  Perhaps it is just paranoia getting
-to you, but one of the heads seems to have changed its expression slightly
-since you last noticed it.    
+window bay windows curtain~
+   Beyond the window, you have a nice view out into the forest.  Though the
+trees block sunlight for most of the day, at some hours you can see some light
+streaming through.  Past this window is a large dropoff which makes for a
+breathtaking view from here.  You can see some kind of building not far to the
+southwest.    
 ~
 E
 fire fireplace~
@@ -782,12 +781,13 @@ great deal of warmth.  There is a cushion on the floor not far from the
 fireplace, which seems to be a nice comfortable place to relax.    
 ~
 E
-window bay windows curtain~
-   Beyond the window, you have a nice view out into the forest.  Though the
-trees block sunlight for most of the day, at some hours you can see some light
-streaming through.  Past this window is a large dropoff which makes for a
-breathtaking view from here.  You can see some kind of building not far to the
-southwest.    
+corner shrine dark~
+   In the corner, now clearly visible, is a small shrine of some kind.  The
+figure of a two-headed snake with four ruby eyes is crafted from ebony, sitting
+over an offering bowl.  In the bowl are some now-unrecognizeable ashes which
+seem to indicate a recent burnt offering.  Perhaps it is just paranoia getting
+to you, but one of the heads seems to have changed its expression slightly
+since you last noticed it.    
 ~
 S
 #19029
@@ -872,7 +872,7 @@ branching off in different directions, some passageways, barred by huge doors
 and blocked guards.  To the north you see a great hall.  And To the south the
 road continues on.    
 ~
-190 32772 0 0 0
+190 4 0 0 0
 D0
 ~
 door~
@@ -897,7 +897,7 @@ begins here, winding its way up leading to door, a door so black it seems to
 suck all the light around it, its surrounded with silver runes.  To the west
 you see a huge bedroom.    
 ~
-190 67141640 0 0 0
+190 67108872 0 0 0
 D2
 ~
 door~
@@ -923,7 +923,7 @@ for several purposes, questioning and tests among many other.  As you look up
 you see a hole, looking through it, once can see the black moon Nuitari.  A
 spiral case begins here, winding its way down to the magnificent hall.    
 ~
-190 32777 0 0 0
+190 9 0 0 0
 D5
 ~
 ~
@@ -947,7 +947,7 @@ huge windows with gorgeous green draperies on one wall and a wide marble
 fireplace in the other corner.  As you look outside them you can the see the
 country side stretch as far as the eye can see.    
 ~
-190 39432 0 0 0
+190 6664 0 0 0
 D1
 ~
 ~
@@ -1153,7 +1153,7 @@ marked with his clans designs.  While the rest of the room is of the same
 expert craftsman which can only be dwarven masonry by its well fitted in look.
   
 ~
-190 39436 0 0 0
+190 6668 0 0 0
 D0
 ~
 ~
@@ -1172,7 +1172,7 @@ intricately carved chest that holds many items of clothing and jewelry.  While
 near the bed is a weapons and armor holder laden with warhammers and
 breastplates of dwarven make and design.    
 ~
-190 67141640 0 0 0
+190 67108872 0 0 0
 D2
 ~
 ~
@@ -1198,7 +1198,7 @@ mirror allowing one to look at one's whole body from head to foot.  A pair of
 ornate mahagony doors lie to the south and southwest, providing the only exits
 out of the room.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D2
 ~
 ~
@@ -1222,7 +1222,7 @@ Rectangular windows have been cut along the top length of the walls, while
 shelves of books line the lower half.  A soothing meldoy plays softly in the
 room from an unknown source.    
 ~
-190 67148300 0 0 0
+190 67115532 0 0 0
 D0
 ~
 ~
@@ -1230,7 +1230,7 @@ D0
 D2
 ~
 frontdoor~
-1 0 8802
+2 56 11608
 S
 #19055
 The Kitchen~
@@ -1261,7 +1261,7 @@ view of the star speckled sky at night.  The bubbling pool looks extremely
 inviting with wisps of steam hovering just on top of the water's surface.  
 Large trees line the pool offering some shade and privacy to it.    
 ~
-190 32768 0 0 0
+190 0 0 0 0
 D7
 ~
 ~
@@ -1343,7 +1343,7 @@ The grass seems greener, the sounds of animals and birds more prevalent, and
 even the trees here seem larger.  The trees here lean towards the structure
 itself, almost as if protecting it.    
 ~
-190 35332 3 0 0
+190 2564 3 0 0
 D1
 ~
 door wooden~
@@ -1364,7 +1364,7 @@ large waterfall and pool on the eastern side of the room.  A door from here
 leads west, back outside the building, and to the north is a small passage that
 leads elsewhere within the structure.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D0
 ~
 ~
@@ -1389,7 +1389,7 @@ number of bookcases up against the walls.  The air in this room is dry and
 cool, as if something is keeping the moisture and heat out of the air to
 protect the books.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D2
 ~
 ~
@@ -1404,7 +1404,7 @@ grow plants of all types, from various flowers to different types of vines,
 small shrubs and even various saplings.  Things here seem to be quite peaceful,
 and also quite alive.    
 ~
-190 67141632 0 0 0
+190 67108864 0 0 0
 D3
 ~
 ~
@@ -1419,23 +1419,18 @@ bushes, and thick leaves and vines.  Only a small cobblestone path leads
 haphazardly around the garden and to the door of a small house, camouflaged
 like the trellis with more vines and blooming flowers.    
 ~
-190 32772 2 0 0
+190 4 2 0 0
 D2
 ~
 door~
 1 0 19065
 E
-plaque~
-   The dark bronze plaque above the doorway has been hammered and stained in
-places with red to color the liles on the metal.  The words read as follows:
-&RCrimson Lily Cottage&n
-~
-E
-trellis~
-   The darkwood trellis is carved from large pieces of wood that fit together
-to create a single fence.  It is darkened and stained from an unknown
-substance.  The carvings are not recognizable underneath the thick vines of
-thorned blackapple, poison ivy and mourningcloak blossoms.    
+garden~
+   The garden looks overgrown and menacing to those not used to its appearance.
+The small cobblestones make a feeble path through the garden, deterring all but
+who live there.  The breeze through the leaves creates whispers and rustles,
+leaving the imagination to run as wild as the garden, as if every plant was
+alive, and hungry.    
 ~
 E
 house~
@@ -1447,12 +1442,17 @@ house are large, deep blood red flowers - crimson lilies that the house is
 named after.    
 ~
 E
-garden~
-   The garden looks overgrown and menacing to those not used to its appearance.
-The small cobblestones make a feeble path through the garden, deterring all but
-who live there.  The breeze through the leaves creates whispers and rustles,
-leaving the imagination to run as wild as the garden, as if every plant was
-alive, and hungry.    
+trellis~
+   The darkwood trellis is carved from large pieces of wood that fit together
+to create a single fence.  It is darkened and stained from an unknown
+substance.  The carvings are not recognizable underneath the thick vines of
+thorned blackapple, poison ivy and mourningcloak blossoms.    
+~
+E
+plaque~
+   The dark bronze plaque above the doorway has been hammered and stained in
+places with red to color the liles on the metal.  The words read as follows:
+&RCrimson Lily Cottage&n
 ~
 S
 #19065
@@ -1467,7 +1467,7 @@ swords, whips, and staffs.  In front of the writing desk is a large rug, with
 an artist easel on one side of the desk and a few large leather chairs on the
 other.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D0
 ~
 door~
@@ -1481,6 +1481,13 @@ D4
 door~
 1 0 19067
 E
+window windows~
+   Outside the window can be seen the garden, and the front gate that leads to
+a small forested path.  From here, the garden seems to be protecting the
+cottage and its occupants from the outside world.  A window ledge acts as a
+bench so one may perch underneath the windows and gaze outside.    
+~
+E
 plant plants~
    Along and above the windows are vines of black wisteria, their dark violet
 blossoms and green leaves acting as curtains.  Small bleedingheart plants hang
@@ -1488,13 +1495,6 @@ from the ceiling, their deep red and white blooms hanging down as if they were
 droplets of blood.  Pots of nightshade, delicate lavender flowers with tiny
 white berries decorate most of the room.  A few night hemlock trees hide in the
 corners of the room, with their roots covered by black lotus blossoms.    
-~
-E
-window windows~
-   Outside the window can be seen the garden, and the front gate that leads to
-a small forested path.  From here, the garden seems to be protecting the
-cottage and its occupants from the outside world.  A window ledge acts as a
-bench so one may perch underneath the windows and gaze outside.    
 ~
 S
 #19066
@@ -1511,18 +1511,18 @@ marble and ivory pond.  It adds to this rooms order of peace and harmony.
 Ivory lamps etched in crimson roses provide the light.  They are scattered
 throughout the room.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D1
 ~
 door~
 1 0 19065
 E
-bookcase bookcases~
-   One bookcase contains all sorts of books and pamphlets and papers on
-anything magic-related, such as books on spells and potions.  A second bookcase
-contains all other types of reading material - old mail, books on adventures,
-private journals, and other things.  The third bookcase showcases various items
-that had been found during travels.    
+painting~
+   A large painting hangs above the fireplace, the flickering shadows and light
+from the fire causing the painting to look as if it was moving.  The painting
+is of an adult golden dragon and a seafoam white unicorn standing within a
+grove of vallenwoods, and surrounded by many other forest animals.  The
+painting looks ancient, yet vibrant as if restored to its original beauty.    
 ~
 E
 plant plants~
@@ -1534,12 +1534,12 @@ moisture.  Large blood-red blossoms create a light, relaxing, almost lethargic
 perfume that drifts in the air nearby.    
 ~
 E
-painting~
-   A large painting hangs above the fireplace, the flickering shadows and light
-from the fire causing the painting to look as if it was moving.  The painting
-is of an adult golden dragon and a seafoam white unicorn standing within a
-grove of vallenwoods, and surrounded by many other forest animals.  The
-painting looks ancient, yet vibrant as if restored to its original beauty.    
+bookcase bookcases~
+   One bookcase contains all sorts of books and pamphlets and papers on
+anything magic-related, such as books on spells and potions.  A second bookcase
+contains all other types of reading material - old mail, books on adventures,
+private journals, and other things.  The third bookcase showcases various items
+that had been found during travels.    
 ~
 S
 #19067
@@ -1552,40 +1552,18 @@ side of the room, with a large window overlooking the wildflower garden.  Soft
 music can be heard threw out the comfort of this room.  Dozens of flowering
 plants give off their perfume within the shadows of the room.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D5
 ~
 door~
 1 0 19065
 E
-window~
-   Black and violet star-like flowers drape down from above and along the sides
-of the large window, creating a natural drapery.  Their scent is dark and
-sweet, like sugared fruit.  Within the small nook is a window bench, its padded
-cushion made of black silk.  A few tiny shelves line the nook as well,
-containing miniature carvings, inkwells, quills, and parchments.    
-~
-E
-plant plants~
-   The potted plants within this room seem to thrive on the darkness, their
-blossoms of black velvet almost shimmering with violet from any reflection of
-light.  Tall vines and deep green leaves grow almost wildly, and give off a
-light, intoxicating perfume.    
-~
-E
-bed~
-   The large bed rests in one corner of the room, and has been made with red
-and black silk sheets.  A large canopy rises over the bed, draped with sheer
-violet silk like a shimmering curtain.  The bed itself is made of darkened
-mahogany, carved with swirls and blossoms.    
-~
-E
-wardrobe wardrobes~
-   Each wardrobe built into the wall has a mahogany door, and a few shelves
-upon the outside of the wardrobe.  One wardrobe has a large moon carved into
-the center, and the other has a blossoming black lotus.  A set of twelve small
-mirrors have been tiled inbetween the two wardrobes to create a large sectioned
-mirror.    
+oldpainting~
+   A painting decorates the wall in between the wildly growing dusky velvet
+plants.  In the darkest shadows of the room, it glimmers a black tower
+enshrouded in grey mists.  Not much other detail can be seen, as if the painter
+himself either didn't finish his artwork, or didn't want anyone to see what he
+had created.    
 ~
 E
 lamp lamps~
@@ -1596,12 +1574,34 @@ tree to its small slivers of leaves and branches.  The small white berries and
 flowers appear to be made from silver.    
 ~
 E
-oldpainting~
-   A painting decorates the wall in between the wildly growing dusky velvet
-plants.  In the darkest shadows of the room, it glimmers a black tower
-enshrouded in grey mists.  Not much other detail can be seen, as if the painter
-himself either didn't finish his artwork, or didn't want anyone to see what he
-had created.    
+wardrobe wardrobes~
+   Each wardrobe built into the wall has a mahogany door, and a few shelves
+upon the outside of the wardrobe.  One wardrobe has a large moon carved into
+the center, and the other has a blossoming black lotus.  A set of twelve small
+mirrors have been tiled inbetween the two wardrobes to create a large sectioned
+mirror.    
+~
+E
+bed~
+   The large bed rests in one corner of the room, and has been made with red
+and black silk sheets.  A large canopy rises over the bed, draped with sheer
+violet silk like a shimmering curtain.  The bed itself is made of darkened
+mahogany, carved with swirls and blossoms.    
+~
+E
+plant plants~
+   The potted plants within this room seem to thrive on the darkness, their
+blossoms of black velvet almost shimmering with violet from any reflection of
+light.  Tall vines and deep green leaves grow almost wildly, and give off a
+light, intoxicating perfume.    
+~
+E
+window~
+   Black and violet star-like flowers drape down from above and along the sides
+of the large window, creating a natural drapery.  Their scent is dark and
+sweet, like sugared fruit.  Within the small nook is a window bench, its padded
+cushion made of black silk.  A few tiny shelves line the nook as well,
+containing miniature carvings, inkwells, quills, and parchments.    
 ~
 S
 #19068
@@ -1612,7 +1612,7 @@ cot, neatly folded at the foot of the bed is a heavy woolen blanket for when
 the weather gets colder.  Adjoining this room are many doors leading to some of
 the higher officials quarters.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D9
 ~
 ~
@@ -1627,7 +1627,7 @@ Northern wall is a large tapestry portraying a raven in flight.  Behind the
 desk is a large comfortable looking chair, whilst in front of it are four
 smaller chairs, but of only slightly less quality.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D2
 ~
 door~
@@ -1643,7 +1643,7 @@ to seat nearly a hundred people if the need arose.  To the east a large
 entryway opens into the kitchens and pantry.  To the south large double doors
 open to the outside of Dark Hills Keep.    
 ~
-190 32780 0 0 0
+190 12 0 0 0
 D0
 ~
 door~
@@ -1671,7 +1671,7 @@ the banquet hall.  Though not always to be as festive, a large keg stands near
 the door, and a table laden with food for the soldiers and men who frequent the
 keep.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D3
 ~
 ~
@@ -1688,7 +1688,7 @@ you listen closely, even the birds themselves add to the atmosphere by
 providing the soft, natural background music.  To the east, you see a structure
 with waterfalls that fall on each side of the door.    
 ~
-190 35332 3 0 0
+190 2564 3 0 0
 D1
 ~
 ~
@@ -1698,14 +1698,11 @@ D3
 ~
 0 0 1887
 E
-waterfalls waterfall~
-   The twin waterfalls are fed by two irrigation canals running from the stream
-in the ravine and around the perimeter of the clearing to the rear of the
-house.  Somehow, the water is able to flow up the side of the house, into a
-clear reflecting pool on the roof from which the channels that create the falls
-are fed.  The water is crystal clear, with a crisp, clean taste.  At the base
-of each of the waterfalls is a small pool where the water is collected and run
-off back into the streams.    
+canopy~
+   Unlike the canopy of the ravine, these branches and vines are not
+intertwined as tightly and allow for more sunlight to enter the clearing.  The
+interwoven branches and vines make for a beautiful natural pattern that would
+make the most talented weaver jealous.    
 ~
 E
 grass~
@@ -1716,11 +1713,14 @@ line.  The grass feels plush to the touch and even better between the toes of
 bare feet.    
 ~
 E
-canopy~
-   Unlike the canopy of the ravine, these branches and vines are not
-intertwined as tightly and allow for more sunlight to enter the clearing.  The
-interwoven branches and vines make for a beautiful natural pattern that would
-make the most talented weaver jealous.    
+waterfalls waterfall~
+   The twin waterfalls are fed by two irrigation canals running from the stream
+in the ravine and around the perimeter of the clearing to the rear of the
+house.  Somehow, the water is able to flow up the side of the house, into a
+clear reflecting pool on the roof from which the channels that create the falls
+are fed.  The water is crystal clear, with a crisp, clean taste.  At the base
+of each of the waterfalls is a small pool where the water is collected and run
+off back into the streams.    
 ~
 S
 #19073
@@ -1737,7 +1737,7 @@ perimeter where whe ceiling meets the wall.  There is a small fireplace in the
 northern wall to provide heat as needed.  Doorways leading to other rooms are
 in the north and south walls.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D0
 ~
 ~
@@ -1751,12 +1751,12 @@ D3
 ~
 0 0 19072
 E
-Fireplace~
-   The fireplace is small compared to the size of the room.  But there is
-something odd about it.  As you look closer, you can see the scorch marks that
-prove it has been used recently, but you do not see any logs or tinder nearby
-that would provide fuel, nor do you see any ashes in the fireplace itself,
-raising questions as to how it works.    
+couch~
+   The couch is overstuffed and made from a very soft and fine dark green
+velvet.  The velvet is one of the finest around and has a soft sheen that
+glimmers in the light.  As you move around in the room, the color of it seems
+to change to differing shades of green.  When you sit on it, you feel as though
+it may swallow you whole as you sink into it.    
 ~
 E
 runes rune~
@@ -1768,12 +1768,12 @@ shifting from a brilliant, shining gold, to an equally impressive shining
 silver and back again, perpetually stuck in this set pattern.    
 ~
 E
-couch~
-   The couch is overstuffed and made from a very soft and fine dark green
-velvet.  The velvet is one of the finest around and has a soft sheen that
-glimmers in the light.  As you move around in the room, the color of it seems
-to change to differing shades of green.  When you sit on it, you feel as though
-it may swallow you whole as you sink into it.    
+Fireplace~
+   The fireplace is small compared to the size of the room.  But there is
+something odd about it.  As you look closer, you can see the scorch marks that
+prove it has been used recently, but you do not see any logs or tinder nearby
+that would provide fuel, nor do you see any ashes in the fireplace itself,
+raising questions as to how it works.    
 ~
 S
 #19074
@@ -1789,7 +1789,7 @@ room from the desk is a large bed framed in mahogany that dominates the entire
 wall.  As with the previous room, this one has the same strikingly beautiful
 runes at the edge of the ceiling.  On the southern wall is a window.    
 ~
-190 67141640 0 0 0
+190 67108872 0 0 0
 D0
 ~
 ~
@@ -1803,11 +1803,23 @@ shelves.
 bookcase~
 2 -1 16000
 E
-window windows~
-   The window in the southern wall is positioned at a 45 degree angle so that
-the slope meets gently with the ground outside.  The thin, clear glass rests
-securely on a ribed frame made of pine.  The window opens outwardly and can be
-left ajar on balmy summer days and closed in the winter or during rain.    
+chair chairs desk~
+   The desk is completely unremarkable, and has no ornate carvings or
+inscriptions upon it.  Resting on its surface at each corner are lamps, lit at
+night to provide a soft glow that can be used to write.  The chair is expertly
+crafted from the finest wood.  Carvings of small scenes cover any exposed wood
+on this chair.  Ranging from a simple rose, to a pair of dragons fighting and
+even a bar scene complete with dwarves.  The legs of the chair are carved into
+the likeness of small trees, their branches reaching out and crawling across
+the frame of the chair.    
+~
+E
+bookcases bookcase book case cases~
+   These bookcases are made from the same rich, dark mahogany as the rest of
+the pieces of furniture.  Sitting packed upon the numerous shelves are books
+that have been gathered through purchase, trade, or even some that appear to
+have been grabbed from the road side.  Stuck in-between the books is an
+occasional trinket, gathered on journeys around the world.    
 ~
 E
 bed~
@@ -1820,23 +1832,11 @@ tall, thick post, some of which have pegs jutting out from their surface to
 provide hangers on which to place robes, packs or other belongings.    
 ~
 E
-bookcases bookcase book case cases~
-   These bookcases are made from the same rich, dark mahogany as the rest of
-the pieces of furniture.  Sitting packed upon the numerous shelves are books
-that have been gathered through purchase, trade, or even some that appear to
-have been grabbed from the road side.  Stuck in-between the books is an
-occasional trinket, gathered on journeys around the world.    
-~
-E
-chair chairs desk~
-   The desk is completely unremarkable, and has no ornate carvings or
-inscriptions upon it.  Resting on its surface at each corner are lamps, lit at
-night to provide a soft glow that can be used to write.  The chair is expertly
-crafted from the finest wood.  Carvings of small scenes cover any exposed wood
-on this chair.  Ranging from a simple rose, to a pair of dragons fighting and
-even a bar scene complete with dwarves.  The legs of the chair are carved into
-the likeness of small trees, their branches reaching out and crawling across
-the frame of the chair.    
+window windows~
+   The window in the southern wall is positioned at a 45 degree angle so that
+the slope meets gently with the ground outside.  The thin, clear glass rests
+securely on a ribed frame made of pine.  The window opens outwardly and can be
+left ajar on balmy summer days and closed in the winter or during rain.    
 ~
 S
 #19075
@@ -1852,11 +1852,20 @@ of white pine.  A few tapestries with lovely designs are hung around the room,
 one accenting another.  Where the wall meets the ceiling are the same runes as
 the other rooms, perpetually shifting from gold to silver and back.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D2
 ~
 ~
 0 0 19073
+E
+rug~
+   This rug is unique in that the designs on it appear to have no pattern or
+structure to contain the seemingly random acts of weaving.  But you realize the
+harder and longer you look, the more the patterns seem to change, nothing
+definite at first, but then what slowly appears to be a man sitting under a
+tree, his robes flowing over the ground and his eyes eternally stuck to the
+pages of the book.    
+~
 E
 Tapestries~
    The tapestries you see don't appear to have a real purpose or symbolic
@@ -1869,15 +1878,6 @@ north wall, is woven of white and numerous other colors is of a man standing
 atop a mountain peak, clad in robes of red pointing majestically at some unseen
 thing.    
 ~
-E
-rug~
-   This rug is unique in that the designs on it appear to have no pattern or
-structure to contain the seemingly random acts of weaving.  But you realize the
-harder and longer you look, the more the patterns seem to change, nothing
-definite at first, but then what slowly appears to be a man sitting under a
-tree, his robes flowing over the ground and his eyes eternally stuck to the
-pages of the book.    
-~
 S
 #19076
 A Dark, Dimly Lit Room~
@@ -1889,7 +1889,7 @@ doors lead off towards the northeast and northwest, carved with a large
 crescent moon in their faces.  The symbol of the moon is the only bit of
 decoration in the entire room, shimmering slightly in the faint light.    
 ~
-190 32780 0 0 0
+190 12 0 0 0
 D2
 ~
 wall stone~
@@ -1903,10 +1903,12 @@ D7
 door~
 1 0 19078
 E
-torches wrought iron sconces~
-   Black, wrought iron sconces hold a few torches, one on each wall of the
-room.  The light is very dim, only enough to illuminate the room minimally.  
-The wrought-iron designs are carefully worked into curving crescents.    
+moon crescent door~
+   The doors are carved from a very dark wood, perhaps ebony or mahogany.  A
+large symbol of a crescent moon is etched in bas relief into the face of each
+door.  The moon has been coated with a very finely ground powder of black ochre
+with faintly sparkling bits, perhaps mica.  The paint causes the moon to
+shimmer slightly in the light.    
 ~
 E
 rugs skins sheepskin~
@@ -1915,12 +1917,10 @@ help keep the room warm, covering the stone earth and also muffling footsteps
 in the room.    
 ~
 E
-moon crescent door~
-   The doors are carved from a very dark wood, perhaps ebony or mahogany.  A
-large symbol of a crescent moon is etched in bas relief into the face of each
-door.  The moon has been coated with a very finely ground powder of black ochre
-with faintly sparkling bits, perhaps mica.  The paint causes the moon to
-shimmer slightly in the light.    
+torches wrought iron sconces~
+   Black, wrought iron sconces hold a few torches, one on each wall of the
+room.  The light is very dim, only enough to illuminate the room minimally.  
+The wrought-iron designs are carefully worked into curving crescents.    
 ~
 S
 #19077
@@ -1934,7 +1934,7 @@ entire western wall, making the room seem larger than it is.  A few low tables
 are scattered around the room, and dark pillows and cushions are strewn about
 the floor for seating or lounging.  There are no chairs.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D0
 ~
 door~
@@ -1948,18 +1948,18 @@ D9
 door~
 1 0 19076
 E
-bar~
-   The bar is carved from a very dark wood, perhaps mahogany or ebony.  It is
-polished to a dull sheen, and carved throughout with intricate symbols of the
-phases of the moon.  The crescent features most prominently, and a large
-crescent moon, outlined in the same mica and black ochre powder, is carved into
-the center of the bar's face.    
+moon crescent doors~
+   The doors are carved from a very dark wood, perhaps ebony or mahogany.  A
+large symbol of a crescent moon is etched in bas relief into the face of each
+door.  The moon has been coated with a very finely ground powder of black ochre
+with faintly sparkling bits, perhaps mica.  The paint causes the moon to
+shimmer slightly in the light.    
 ~
 E
-paneling wood~
-   The paneling of this room is crafted from a very dark wood, perhaps ebony or
-mahogany.  The wood glows with a rich, soft sheen, and is polished to a dull
-glow.    
+torches wrought iron sconces~
+   Black, wrought iron sconces hold a few torches, one on each wall of the
+room.  The light is very dim, only enough to illuminate the room minimally.  
+The wrought-iron designs are carefully worked into curving crescents.    
 ~
 E
 cushions cushion~
@@ -1970,18 +1970,18 @@ cushion, sparkling in the dim torchlight like a thousand stars in the midnight
 sky.    
 ~
 E
-torches wrought iron sconces~
-   Black, wrought iron sconces hold a few torches, one on each wall of the
-room.  The light is very dim, only enough to illuminate the room minimally.  
-The wrought-iron designs are carefully worked into curving crescents.    
+paneling wood~
+   The paneling of this room is crafted from a very dark wood, perhaps ebony or
+mahogany.  The wood glows with a rich, soft sheen, and is polished to a dull
+glow.    
 ~
 E
-moon crescent doors~
-   The doors are carved from a very dark wood, perhaps ebony or mahogany.  A
-large symbol of a crescent moon is etched in bas relief into the face of each
-door.  The moon has been coated with a very finely ground powder of black ochre
-with faintly sparkling bits, perhaps mica.  The paint causes the moon to
-shimmer slightly in the light.    
+bar~
+   The bar is carved from a very dark wood, perhaps mahogany or ebony.  It is
+polished to a dull sheen, and carved throughout with intricate symbols of the
+phases of the moon.  The crescent features most prominently, and a large
+crescent moon, outlined in the same mica and black ochre powder, is carved into
+the center of the bar's face.    
 ~
 S
 #19078
@@ -1994,7 +1994,7 @@ face of Ansalon in carefully penned detail.  A few black and silver cushions
 are scattered across the floor, and torches in wrought-iron sconces provide
 enough illumination to read by.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D3
 ~
 door~
@@ -2004,10 +2004,18 @@ D8
 door~
 1 0 19076
 E
-paneling wood~
-   The paneling of this room is crafted from a very dark wood, perhaps ebony or
-mahogany.  The wood glows with a rich, soft sheen, and is polished to a dull
-glow.    
+moon crescent doors~
+   The doors are carved from a very dark wood, perhaps ebony or mahogany.  A
+large symbol of a crescent moon is etched in bas relief into the face of each
+door.  The moon has been coated with a very finely ground powder of black ochre
+with faintly sparkling bits, perhaps mica.  The paint causes the moon to
+shimmer slightly in the light.    
+~
+E
+torches wrought iron sconces~
+   Black, wrought iron sconces hold a few torches, one on each wall of the
+room.  The light is very dim, only enough to illuminate the room minimally.  
+The wrought-iron designs are carefully worked into curving crescents.    
 ~
 E
 cushions cushion~
@@ -2018,18 +2026,10 @@ cushion, sparkling in the dim torchlight like a thousand stars in the midnight
 sky.    
 ~
 E
-torches wrought iron sconces~
-   Black, wrought iron sconces hold a few torches, one on each wall of the
-room.  The light is very dim, only enough to illuminate the room minimally.  
-The wrought-iron designs are carefully worked into curving crescents.    
-~
-E
-moon crescent doors~
-   The doors are carved from a very dark wood, perhaps ebony or mahogany.  A
-large symbol of a crescent moon is etched in bas relief into the face of each
-door.  The moon has been coated with a very finely ground powder of black ochre
-with faintly sparkling bits, perhaps mica.  The paint causes the moon to
-shimmer slightly in the light.    
+paneling wood~
+   The paneling of this room is crafted from a very dark wood, perhaps ebony or
+mahogany.  The wood glows with a rich, soft sheen, and is polished to a dull
+glow.    
 ~
 S
 #19079
@@ -2049,20 +2049,58 @@ crystal decanter filled with a dark red substance, and two crystal glasses
 etched with crescent patterns.  A thick, black fur rug covers the stone floor.
   
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D2
 ~
 door~
 1 19076 19077
 E
-nightstand night stand crystal decanter glasses glass~
-   A black night stand, carved from the same ebony wood as the futon, rests
-next to the bed.  On its surface is a crystal decanter set, chased with
-beautiful silver patterns and sparkling dully in the dim light.  You notice on
-closer inspection that faint bits of mica have been blown into the crystal
-itself, causing the glasses and decanter to sparkle as if filled with stars.  
-A red liquid is in the decanter, and the decanter is sealed with a crescent
-stopper.    
+moon crescent doors~
+   The doors are carved from a very dark wood, perhaps ebony or mahogany.  A
+large symbol of a crescent moon is etched in bas relief into the face of each
+door.  The moon has been coated with a very finely ground powder of black ochre
+with faintly sparkling bits, perhaps mica.  The paint causes the moon to
+shimmer slightly in the light.    
+~
+E
+torch wrought iron sconce~
+   A single black, wrought iron sconces holds a solitary torch, its feeble
+light doing little to illuminate the room.  The light is very dim, only enough
+to illuminate the room minimally.  The wrought-iron design is carefully worked
+into a curving crescent.    
+~
+E
+paneling wood~
+   The paneling of this room is crafted from a very dark wood, perhaps ebony or
+mahogany.  The wood glows with a rich, soft sheen, and is polished to a dull
+glow.    
+~
+E
+rugs skins sheepskin~
+   Thick, black furs cover the ground, each about two inches thick.  The rugs
+help keep the room warm, covering the stone earth and also muffling footsteps
+in the room.    
+~
+E
+furs futon bed~
+   The simple futon serves as a bed, carved from a beautiful black ebony wood
+and chased with faint silver designs.  The sheets are made from a fine, rich
+black silk, shining dully in the dim light, and thick, soft merino wool skins
+cover the bed to ward off the chill.    
+~
+E
+sai~
+   Two silver sai, their hilts wrapped in black, are mounted cross-wise against
+the western wall.  They glimmer faintly in the dim light, shadows dancing off
+their polished faces and giving them a faintly sinister and dangerous
+appearance.    
+~
+E
+whip~
+   A sinister looking black whip is coiled on the eastern wall, braided from
+thick, black leather strips.  The tip gleams faintly in the dim light, and you
+notice a tiny silver ball woven into the leather at the whip's far end, adding
+to its damage capacity.    
 ~
 E
 wakizashi swords sword katana stand~
@@ -2073,52 +2111,14 @@ crescent moons along the blade's length.  The hilts are wrapped in a fine, soft
 black leather, and the pommels are shaped into crescents as well.    
 ~
 E
-whip~
-   A sinister looking black whip is coiled on the eastern wall, braided from
-thick, black leather strips.  The tip gleams faintly in the dim light, and you
-notice a tiny silver ball woven into the leather at the whip's far end, adding
-to its damage capacity.    
-~
-E
-sai~
-   Two silver sai, their hilts wrapped in black, are mounted cross-wise against
-the western wall.  They glimmer faintly in the dim light, shadows dancing off
-their polished faces and giving them a faintly sinister and dangerous
-appearance.    
-~
-E
-furs futon bed~
-   The simple futon serves as a bed, carved from a beautiful black ebony wood
-and chased with faint silver designs.  The sheets are made from a fine, rich
-black silk, shining dully in the dim light, and thick, soft merino wool skins
-cover the bed to ward off the chill.    
-~
-E
-rugs skins sheepskin~
-   Thick, black furs cover the ground, each about two inches thick.  The rugs
-help keep the room warm, covering the stone earth and also muffling footsteps
-in the room.    
-~
-E
-paneling wood~
-   The paneling of this room is crafted from a very dark wood, perhaps ebony or
-mahogany.  The wood glows with a rich, soft sheen, and is polished to a dull
-glow.    
-~
-E
-torch wrought iron sconce~
-   A single black, wrought iron sconces holds a solitary torch, its feeble
-light doing little to illuminate the room.  The light is very dim, only enough
-to illuminate the room minimally.  The wrought-iron design is carefully worked
-into a curving crescent.    
-~
-E
-moon crescent doors~
-   The doors are carved from a very dark wood, perhaps ebony or mahogany.  A
-large symbol of a crescent moon is etched in bas relief into the face of each
-door.  The moon has been coated with a very finely ground powder of black ochre
-with faintly sparkling bits, perhaps mica.  The paint causes the moon to
-shimmer slightly in the light.    
+nightstand night stand crystal decanter glasses glass~
+   A black night stand, carved from the same ebony wood as the futon, rests
+next to the bed.  On its surface is a crystal decanter set, chased with
+beautiful silver patterns and sparkling dully in the dim light.  You notice on
+closer inspection that faint bits of mica have been blown into the crystal
+itself, causing the glasses and decanter to sparkle as if filled with stars.  
+A red liquid is in the decanter, and the decanter is sealed with a crescent
+stopper.    
 ~
 S
 #19080
@@ -2132,7 +2132,7 @@ tinted a brilliant golden all year round.  There is an odd feeling in the air
 in this glade, to those that would take the time to sense it, a certain
 mingling of peace combined with a lingering sense of loss.    
 ~
-190 32788 3 0 0
+190 20 3 0 0
 D0
 ~
 tree~
@@ -2165,7 +2165,7 @@ dias upon which stands a delicate pedestal wrought of fine silver.  The tower
 itself reaches a considerable height, open to this chamber all the way but for
 the extreme uppermost reaches.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D2
 ~
 wall tower tree ~
@@ -2198,7 +2198,7 @@ allowing for a view of the forests without and, with the aid of several mirrors
 and crystal facets, directing natural light about the tower, focusing in
 particular on the small pedestal in the chamber below.    
 ~
-190 32768 0 0 0
+190 0 0 0 0
 D4
 ~
 ~
@@ -2222,7 +2222,7 @@ rests a collection of immaculately kept texts, bound in green and marked with
 runes of silver, bearing what appears to be the arcane mark of the magus
 Avanathmalyr, formerly of Qualinost.    
 ~
-190 33424 0 0 0
+190 656 0 0 0
 D5
 ~
 ~
@@ -2467,13 +2467,6 @@ D1
 ~
 0 0 19097
 E
-door~
-   This massive door seems to have been hewn from a single piece of Vallenwood,
-and has been sanded smooth, with expensive oils rubbed into the wood to keep
-out the elements.  At eye-level on both sides of the door, are detailed
-engravings of a hawk in flight.    
-~
-E
 Tapestry~
    This tapestry made of finely woven silk hangs in the hallway.  Its main
 feature is an embroidered depiction of a Platinum dragon, the symbol of
@@ -2482,6 +2475,13 @@ showing the beauty of life that every knight must remember and never lose sight
 of, for it is life that Knights must strive to protect whenever possible.  
 Stitched around the tapestry in silver, are various holy runes, marking this
 area as sanctified by Paladine.    
+~
+E
+door~
+   This massive door seems to have been hewn from a single piece of Vallenwood,
+and has been sanded smooth, with expensive oils rubbed into the wood to keep
+out the elements.  At eye-level on both sides of the door, are detailed
+engravings of a hawk in flight.    
 ~
 S
 #19097
@@ -2525,7 +2525,7 @@ the ceiling.  A larder lies through a small door to the north.  A long table
 with four high-backed chairs sits in the middle of the room, places already set
 for the next meal.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D2
 ~
 ~
@@ -2544,19 +2544,17 @@ of midnight blue towels hang from one of them.  Likewise, a few small mats of
 midnight blue carpet have been placed about for one to stand on while drying
 off.    
 ~
-190 32776 0 0 0
+190 8 0 0 0
 D2
 ~
 ~
 0 0 19000
 E
-bath~
-   &WThis bath is quite large, indeed, it is large enough to hold three people
-at once, if said people were inclined to bathe together.  The bath itself is
-crafted of the same black marble veined in silver as the rest of the room.  
-When filled with the pleasantly warm water from the pump, it fills the room
-with steam.  A small bottle of some type of herbal mixture sits on the bath's
-ledge, smelling somewhat spicy.  &n
+pump~
+   &WThis water pump is silver like the rest of the furnishings in the room,
+and is warm to the touch.  It fills the large bath with pleasantly warm water
+from an unknown source under the floor, though standing near the pump barefoot
+reveals a faint thrumming feeling, probably a machine of some type.  &n
 ~
 E
 towels~
@@ -2569,11 +2567,13 @@ Stitched into the corner of the towels in silver are the letters,
 &n
 ~
 E
-pump~
-   &WThis water pump is silver like the rest of the furnishings in the room,
-and is warm to the touch.  It fills the large bath with pleasantly warm water
-from an unknown source under the floor, though standing near the pump barefoot
-reveals a faint thrumming feeling, probably a machine of some type.  &n
+bath~
+   &WThis bath is quite large, indeed, it is large enough to hold three people
+at once, if said people were inclined to bathe together.  The bath itself is
+crafted of the same black marble veined in silver as the rest of the room.  
+When filled with the pleasantly warm water from the pump, it fills the room
+with steam.  A small bottle of some type of herbal mixture sits on the bath's
+ledge, smelling somewhat spicy.  &n
 ~
 S
 $~

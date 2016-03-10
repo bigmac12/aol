@@ -1437,17 +1437,18 @@ D3
 S
 #30472
 City Hall Entrance~
-You are in an unfinished room.
+   From the outside this city hall looks old, but wonderful, it has been built
+with white bricks and has blue stone decorations.  Tall, wide windows add to
+the overall look of the building and have been added to the structure in a
+fairly symmetrical pattern.  To the east is a roped off area with several
+guards behind it.  A few days each month, the building is open to the public
+for court and other public petitions.    
 ~
 304 0 0 0 0
 D1
 ~
 ~
 0 0 30473
-D2
-~
-~
-0 0 30479
 D3
 ~
 ~
@@ -1457,7 +1458,7 @@ S
 City Hall Main Floor~
 You are in an unfinished room.
 ~
-304 0 0 0 0
+304 262148 0 0 0
 D1
 ~
 ~

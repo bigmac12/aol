@@ -1,1 +1,54 @@
+#30301
+guards guard steel plated~
+a pair of steel plated guards~
+A pair of steel plated guards stands here guarding the tunnel with swords ready.
+~
+   Two rather large, burly guards in matching steel-plated armor seem a rather
+formidable foe.  Whatever is down this tunnel is something worth protecting,
+and only those worthy enough are allowed to pass.  One guard wields a very long
+double-bladed longsword, while the other wields a menacing battle-axe.    
+~
+15988810 33693880 0 -850 E
+30 0 -20 4d43+2200 5d9+10
+9291 300000 3
+8 8 1 0
+Maxmove: 100
+E
+T 30301
+#30302
+guards guard steel plated~
+a pair of steel plated guards~
+A pair of steel plated guards stands here guarding the tunnel with weapons ready.
+~
+   Two rather large, burly guards in matching steel-plated armor seem a rather
+formidable foe.  Whatever is down this tunnel is something worth protecting,
+and only those worthy enough are allowed to pass.  One guard wields a very long
+double-bladed longsword, while the other wields a menacing battle-axe.    
+~
+15988810 33693864 0 -850 E
+30 0 -20 4d43+2250 5d9+10
+9291 300000 0
+8 8 1 0
+Maxmove: 100
+E
+T 30302
+#30369
+guard burly city hall~
+a tall, burly guard in full plate armor~
+A tall, burly guard stands in front of the entrance to City Hall.
+~
+   By the look of this man, he is rather young in appearance, this man's eyes
+speak of years of soldiery and shine with a deep pride in the things he has
+accomplished.  He has taken up a new job as head guard here in front of
+Sanction's City Hall.  Only a few times a month is the building open to
+commoners.  Always watching the crowd, he keeps a close eye out for anyone
+trying to sneak inside.    
+~
+15988810 33554488 0 -142 E
+30 10 -14 3d33+1700 4d8+9
+0 250000 3
+8 8 1 0
+Maxmove: 100
+E
+T 30369
 $

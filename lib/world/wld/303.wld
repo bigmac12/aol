@@ -37,7 +37,7 @@ has made this tunnel truly safe.  The walls are curved and lined with
 blackstone bricks for extra reinforcement, and the entire length of the tunnel
 is well lit with oiled braziers.    
 ~
-303 0 0 0 0
+303 262144 0 0 0
 D1
 ~
 ~
@@ -1049,9 +1049,7 @@ Corner of Thornbrush Road and Black Brick Road~
 way of upkeep.  The composition of this road seems to be leftover from all the
 other roads.  Pebbles and rocks mixed with remains of broken black shale all
 baked altogether into large bricks, with hardened dirt in between the bricks
-makes a surprisingly smooth roadway.  To the far south, a large round tower is
-in construction.  It begins to tower over the roofs of the lower houses, making
-it easy to see even from this distance.    
+makes a surprisingly smooth roadway.    
 ~
 303 0 1 0 0
 D0
@@ -1203,8 +1201,8 @@ D3
 0 0 30358
 D5
 ~
-~
-0 0 30447
+grate~
+1 0 30447
 S
 #30358
 Black Brick Road~
@@ -1441,8 +1439,8 @@ D0
 0 0 30370
 D1
 ~
-~
-0 0 30472
+door~
+1 0 30472
 D2
 ~
 ~
@@ -1586,6 +1584,10 @@ those on horseback.  Buildings made of wood and stone rise several stories
 overhead, shadowing the street except when the sun is directly overhead.    
 ~
 303 0 1 0 0
+D0
+~
+~
+0 0 30537
 D1
 ~
 ~

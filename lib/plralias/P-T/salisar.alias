@@ -1,4 +1,59 @@
 1
+4
+10
+wear boots
+0
+1
+3
+9
+rem boots
+0
+1
+2
+3
+sta
+0
+1
+1
+7
+trip $*
+1
+3
+stg
+13
+steal gold $*
+1
+2
+tr
+7
+trip $*
+1
+1
+o
+7
+kick $*
+1
+2
+af
+3
+aff
+0
+4
+dism
+13
+dismount self
+0
+3
+pfp
+20
+put all.feather pack
+0
+2
+sc
+11
+skin corpse
+0
+1
 f
 4
 flee
