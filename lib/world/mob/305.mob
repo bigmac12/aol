@@ -18,7 +18,7 @@ can deduce the weight of a coin pouch with a mere look.
 Maxmove: 100
 E
 #30506
-bearded man stern eyed stern-eyed gaze kro kros~
+bearded man stern eyed stern-eyed gaze kro kros krostan~
 Krostan~
 Krostan, a bearded man with a stern-eyed gaze, stands behind the desk.
 ~
@@ -52,6 +52,22 @@ spider tattoo.  What type and how large, though, you cannot tell.
 30 -10 -20 30d100+20000 30d3+30
 0 0 3
 8 8 2 11
+Maxmove: 100
+E
+#30521
+George merchant provisions tall~
+George the tailor~
+A tall merchant moves around his shop, organization his wares. 
+~
+   This tall man is dressed in rich clothes and fine jewelry, like the more
+prosperous merchants tend to do.  His smile and smooth voice, however, tend to
+mark him more of a charismatic man rather than a hard-core seller, and his
+sincerity and nicety belies his obvious royal heritage.    
+~
+14934090 0 0 0 E
+30 -5 -15 3d33+1700 4d25+9
+100000 250000 0
+8 8 1 0
 Maxmove: 100
 E
 #30523
@@ -88,6 +104,39 @@ hard expression and is completely absorbed by his work.
 30 -10 -20 30d100+20000 30d3+30
 200000 0 3
 8 8 1 0
+Maxmove: 100
+E
+#30525
+Benny Belmonder hearty butcher~
+Benny Belmonder~
+Benny Belmonder carves up a rack of fresh meat.
+~
+   This burly man stands around five foot eight inches in height.  His last
+name is quiet familiar, as his twin is a well-known butcher in Kalaman.  He has
+a great eye for meat, and his selections are the upmost of quality.    
+~
+15982618 33685544 0 0 E
+31 0 -15 3d33+2000 4d8+10
+10000000 300000 0
+8 8 1 0
+Maxmove: 100
+E
+#30526
+Florence herbalist middle aged beautiful~
+Florence the herbalist~
+Florence a beautiful middle-aged woman, smiles behind the counter.
+~
+   Vibrant red curls streaked in places with grey are pulled back into a loose
+ponytail, with the occasional loose strand falling across her wrinkled face.  
+Though now quite old, it is very obvious that the herbalist was strikingly
+beautiful in her youth, and hasn't lost much of it now.  She is dressed in a
+brown tunic and medium brown and white skirt, and greets you with a warm smile.
+  
+~
+7342106 0 0 0 E
+31 0 -15 3d33+2000 4d8+10
+100000 300000 0
+8 8 2 0
 Maxmove: 100
 E
 #30527

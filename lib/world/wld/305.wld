@@ -419,8 +419,15 @@ D3
 0 0 30513
 S
 #30521
-Clothing Shop~
-You are in an unfinished room.
+"Oh La La" Boutique & Tailor~
+   Lining the walls are numerous cloaks, jackets, and other accessories.  Also
+a few of the less glamorous outfits have found their way to these rear shelves,
+out of the eyeline of all save those who are looking for more rugged gear.  
+Some boxes at the rear of the room remain unopened, possibly either new
+arrivals, or items that are being cleared out of the stock.  Clothing here may
+be custom ordered, sized by the tailor to fit the wearer perfectly.  Since the
+building is fairly new, it is immaculately clean.  A rather plain spiralling
+wooden staircase leads upstairs to the other part of the store.    
 ~
 305 8 0 0 0
 D2
@@ -433,8 +440,15 @@ D4
 0 0 30522
 S
 #30522
-Clothing Shop2~
-You are in an unfinished room.
+"Oh La La" Boutique & Tailor~
+   It is like a clash of cultures in this shop.  There are many different
+styles of clothing.  Ranging from light weight items from deserts to heavy
+winter coats.  Each has its own style.  Being a trade town, Sanction gets many
+imported goods, clothing is no exception.  The shop itself isn't anything too
+special if you ignore the clothing, just a simple room with a couple windows
+and a door.  The feel of this place is nice though, a relaxed setting, a few
+small stalls for changing, and some seats.  Only way down is in the direction
+one came; the spiralling wooden staircase.    
 ~
 305 8 0 0 0
 D5
@@ -487,7 +501,14 @@ D1
 S
 #30525
 "Guess this Animal" Butcher Shop~
-You are in an unfinished room.
+   The customer section of this butcher shop is rather small.  Nearly the
+moment one enters inside, they stand before a long counter with a glass front
+icebox.  Tasty, fresh cuts of unnamed creatures are on display to make the
+customer's mouth water with the possibilities of tasty meals they could become.
+Racks of dried and smoked meats line the walls to the left and behind this
+counter, for easy meals on travel.  Wedged into the small customer section of
+this store, a narrow staircase leads upstairs.  As one where to climb these
+stairs, wonderful smells of spices floods the air.    
 ~
 305 8 0 0 0
 D2
@@ -501,7 +522,12 @@ D4
 S
 #30526
 Once Upon a Bottle and Spice~
-You are in an unfinished room.
+   This small shop is filled with the smell of fresh flowers and fruit.  The
+shelves are lined with various herbs for everything to curing a wicked cough,
+to spices to cook a delicious meal with.  The shelves and glass covered
+counters of the shop, are filled with various items, jars, and flasks.  With
+the southern wall has a lavish wine rack filled with vintages from all over the
+world.    
 ~
 305 8 0 0 0
 D5
@@ -651,8 +677,14 @@ D3
 0 0 30370
 S
 #30536
-A Touch of Ink~
-tattoo parlor 
+'A Touch of Ink' Tattoo Parlor~
+   Every wall inside this tiny shop has been painted a dark red color.  On the
+western wall, drawings are on display to give the customers some idea in a
+tattoo design.  This building has no windows, but it is kept well lit by
+lanterns.  Ink jars of every color that one can image are lined up on a long,
+single shelf.  Below it rests one comfortable, leather chair that can reline;
+next to it is a tiny wooden stool.  A few standing trays are neatly aligned and
+set up with tools to create works of art upon someone's skin .
 ~
 305 0 0 0 0
 D2
@@ -661,10 +693,19 @@ D2
 0 0 30665
 S
 #30537
-Buildwalk~
-You are in an unfinished room.
+Guild of the Warrior~
+   The most noticeable thing one notices when entering this room is the amount
+of props which can be found laying all around.  Stone blocks, wooden boards,
+stuffed burlap bags complete with stitched eyes and bulls eyes, a table and a
+few chairs - all seem to show that the weapons master takes pride in his
+ability to teach his students more than just how to wield a weapon - but also
+how to fight in almost any instance - and how to stay prepared.    
 ~
-305 0 0 0 0
+305 8 0 0 0
+D2
+~
+~
+0 0 30376
 S
 #30538
 Buildwalk~
@@ -1270,7 +1311,12 @@ You are in an unfinished room.
 S
 #30597
 A Narrow, Dusty Horse Trail~
-You are in an unfinished room.
+   The area is mostly bare of grass and other vegetation, but a small dusty
+trail leads north and south.  In the dust, hoof prints clearly from horseshoes
+leave their mark.  In the northern distant a small, wooden lean-to can be seen,
+and if the breeze comes from the north in this direction the distinct smell of
+horses should let someone know that that might be some sort of stable, or rest
+area for mounts.    
 ~
 305 0 2 0 0
 D0
@@ -1284,7 +1330,15 @@ D2
 S
 #30598
 A Small Lean-To Stable~
-You are in an unfinished room.
+   Rather poor in design, it however suits it purpose.  Next to the lean-to a
+small tent has been erected for whoever takes care of these horses.  Small
+racks with random size horse saddles and bridles line the northern part of this
+lean-to.  It is the most protected area from all the elements, and each has
+been carefully wrapped in some sort of blanket.  To the west a rustic fence
+leads to the pasture in which the animals are kept.  To the east a small stack
+of fresh hay and a bag of oats in a metal bucket sit.  For as humble of a
+location, it has all the necessities for one to rent or buy a horse or other
+mount.    
 ~
 305 0 0 0 0
 D2
@@ -1298,7 +1352,13 @@ D3
 S
 #30599
 A Bare Patched Pasture~
-You are in an unfinished room.
+   Not much of vegetation, this pasture has been rather picked over for any
+sort of food.  Those who run the small stable, has seen to the health and
+well-care of these animals.  A large metal feeding loft has been set up, and it
+is currently filled with hay.  A crude wooden roof has been placed over the
+small loft just to insure the weather does not damage the food.  In the pasture
+itself, random assortments of horses, ponies, donkies, and even a few cows
+co-exist well.    
 ~
 305 0 2 0 0
 D1
