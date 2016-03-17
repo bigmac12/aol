@@ -119,6 +119,7 @@ establishment does make a good profit, which the owner has used to decorate.
 The cleanliness and wonderful paintings are all proof of this.    
 
 (New adventurers: please type &MKIT&n here to receive your gear)
+
 ~
 305 8 0 0 0
 D2
@@ -165,26 +166,56 @@ D1
 door.  The locks on the door are not even pick able by kender, thus leaving
 your belongings safe.    
 ~
-door~
-2 0 30510
+emeralddoor~
+2 30510 30510
 D2
    A brilliant shade of purple has been painted on both sides of this thick,
 oak door.    
 ~
-door~
-2 0 30509
+purpledoor~
+2 30509 30509
 D3
 ~
 ~
 0 0 30507
 D8
+   This thick oak door has been painted a dark ebony color.  All the door's
+locks in this inn have been engineered to resist the attempts of lock picking.
+Not even the most skilled of kender could.    
 ~
-door~
-2 0 30512
+ebonydoor~
+2 30512 30512
 D9
+   This thick oak door has been painted a rich crimson color.  All the door's
+locks in this inn have been engineered to resist the attempts of lock picking.
+Not even the most skilled of kender could.    
 ~
-door~
-2 0 30511
+crimsondoor~
+2 30511 30511
+E
+emeralddoor emerald~
+   A calming emerald color has been painted on both sides of this thick oak
+door.  The locks on the door are not even pick able by kender, thus leaving
+your belongings safe.    
+~
+E
+ebonydoor ebony~
+   A dark ebony color has been painted on both sides of this thick oak door.  
+The locks on the door are not even pick able by kender, thus leaving your
+belongings safe.    
+~
+E
+crimsondoor crimson~
+   A deep crimson color has been painted on both sides of this thick oak door.
+The locks on the door are not even pick able by kender, thus leaving your
+belongings safe.    
+~
+E
+purpledoor purple~
+   A rich purple color has been painted on both sides of this thick oak door.
+The locks on the door are not even pick able by kender, thus leaving your
+belongings safe.    
+~
 S
 #30509
 The Violet Bedroom~
@@ -202,7 +233,7 @@ D0
 oak door.    
 ~
 door~
-2 0 30508
+1 30509 30508
 S
 #30510
 The Emerald Bedroom~
@@ -221,7 +252,7 @@ door.  The locks on the door are not even pick able by kender, thus leaving
 your belongings safe.    
 ~
 door~
-2 0 30508
+1 30510 30508
 S
 #30511
 The Crimson Bedroom~
@@ -240,7 +271,7 @@ door.  The locks on the door are not even pick able by kender, thus leaving
 your belongings safe.    
 ~
 door~
-2 0 30508
+1 30511 30508
 S
 #30512
 Obsidian Bedroom~
@@ -259,7 +290,7 @@ The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
 door~
-2 0 30508
+1 30512 30508
 S
 #30513
 The Gruesome Flute's Mail Room~
@@ -551,6 +582,11 @@ D0
 ~
 ~
 0 0 30398
+D5
+A simple wooden hatch has been seamlessly built into the floor.
+~
+hatch~
+2 2010 30538
 S
 #30528
 General Goods~
@@ -708,10 +744,23 @@ D2
 0 0 30376
 S
 #30538
-Buildwalk~
-You are in an unfinished room.
+A Vast Underground Vault~
+   This underground room is vast, and but for the numerous sconces dotted along
+the wall, it would be cloaked in darkness.  The walls and floor are made of
+smooth, polished stone of unknown type that has veins of glittering crystal
+running throughout.  Exposed timber is set in the walls and ceiling at even
+intervals, keeping the room from caving in and serving as a decorative accent
+due to the intricate carvings whittled into them.  Free-standing shelves line
+the walls of the room, some filled to capacity with books and others covered
+with jewels and jewelry.  All in all, this place feels more like a vault than a
+regular room.    
 ~
-305 0 0 0 0
+305 72 0 0 0
+D4
+A simple wooden hatch has been seamlessly built into the floor.
+~
+hatch~
+2 2010 30527
 S
 #30539
 Buildwalk~
@@ -908,6 +957,12 @@ D3
 ~
 bookcase~
 1 0 30561
+E
+desk~
+   This desk is rather large and crafted from a single vallenwood tree.  It
+seems rather old, yet still is in perfect condition.  Dozen of drawers line
+either side of the desk, with one slender drawer in the middle.    
+~
 S
 #30563
 Kitchen of the Mayor's Estate~
@@ -1184,10 +1239,10 @@ D2
 S
 #30577
 Inside a Well Decorated Bedroom~
-   This bedroom is smaller than the master bedroom of the guest house but still
-provides ample room for its occupants.  Two beds stand against the northern
-wall with a simple nightstand between them.  An oil lamp has been placed upon
-the night stand to provide light.  Opposite the beds is large dresser.    
+   This bedroom is smaller than the master bedroom, but still provides ample
+room for its occupants.  Two beds stand against the northern wall with a simple
+nightstand between them.  An oil lamp has been placed upon the night stand to
+provide light.  Opposite the beds is large dresser.    
 ~
 305 0 0 0 0
 D2

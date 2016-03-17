@@ -2,6 +2,11 @@
 Roads (is-kar)~
 7399 30 2
 * ZoneState 1 unowned 000000000000000
+O 0 7301 4 7399 	(a weathered road sign)
+M 1 8080 20 7399 	(a fairly large military unit)
+O 1 8 2 7399 	(a large, gnomish built siege engine)
+D 0 7399 2 1 	(Shores Highway)
+D 1 7399 2 2 	(Shores Highway)
 M 0 8080 30 7395 	(a fairly large military unit)
 M 1 8080 30 7395 	(a fairly large military unit)
 M 1 8080 30 7395 	(a fairly large military unit)
@@ -17,9 +22,6 @@ M 1 8080 30 7397 	(a fairly large military unit)
 O 0 4 6 7398 	(a merchant vendor sign)
 M 1 8080 20 7398 	(a fairly large military unit)
 M 1 8080 30 7398 	(a fairly large military unit)
-O 0 7301 4 7399 	(a weathered road sign)
-M 1 8080 20 7399 	(a fairly large military unit)
-O 1 8 2 7399 	(a large, gnomish built siege engine)
 M 0 8080 20 7349 	(a fairly large military unit)
 O 0 5 5 7354 	(another merchant vendor sign)
 O 0 5 5 7334 	(another merchant vendor sign)

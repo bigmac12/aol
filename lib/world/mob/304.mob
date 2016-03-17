@@ -86,4 +86,101 @@ renewed vigor, whistling all the while.
 8 8 1 0
 Maxmove: 100
 E
+#30456
+citizen Sanction~
+a citizen of Sanction~
+A citizen of Sanction goes about their business. 
+~
+   Garbed in plain cotton attire, this man just seems like one of the many
+faces that make up the citizens of Sanction.  He just goes about his business,
+either shopping, working, or just wandering around.  There is nothing
+remarkable that would make one remember him.    
+~
+8 0 0 0 E
+7 16 9 3d5+85 2d6+1
+60 450 0
+8 8 1 0
+Maxmove: 100
+E
+#30457
+girl servant~
+a young servant girl in ill-fitting clothing~
+A servant girl hurries by with her arms full of packages.
+~
+   This young teenage girl seems to be in quiet the hurry.  Wearing moderate
+clothing that does not seem to fit her blossoming form all to well, it has the
+badge of one of the wealthy houses in Sanction.  Scuttling about doing errands
+for her master, she seems to be in a big hurry as her arms are full of random
+brown packages.    
+~
+8 0 0 0 E
+5 17 11 2d5+60 2d5+0
+35 85 0
+8 8 2 0
+Maxmove: 100
+E
+#30458
+trader weary~
+the weary trader~
+A weary trader pushes his wagon along the busy street.
+~
+   A short, skinny man with sweat stained clothing looks rather tired from the
+day of trading.  Sweat trickles down his tan face as he slowly pushes an empty
+wagon along the busy street.    
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+45 170 0
+8 8 1 0
+BareHandAttack: 13
+Maxmove: 100
+E
+#30459
+guard guards merchant~
+one of the merchant's guards~
+One of the merchant's guards is standing here, keeping watch.
+~
+   This young man is around his late twenties.  He is quiet a stern young man
+as he stands proudly at his post.  Occasionally he does walk around the
+warehouse and trade streets, looking for trouble or thieves.  His armor is
+rather of good quality, but it is very plain and not that expensive.    
+~
+8 0 0 0 E
+8 15 8 5d5+100 2d6+2
+75 1000 0
+8 8 1 0
+Maxmove: 100
+E
+#30460
+merchant man large~
+a large merchant man~
+A large merchant with fancy clothing stands here proudly observing his goods.
+~
+   This is quite a large man, both in statue and girth.  He is richly dressed,
+clearly trying to impress all those around him with the immense success he has
+had with his trade business.    
+~
+8 0 0 0 E
+9 15 10 5d5+120 2d7+1
+85 1350 0
+8 8 1 0
+Maxmove: 100
+E
+#30461
+worker warehouse~
+a muscular warehouse worker~
+A muscular warehouse worker strains as he carries a large wooden crate.
+~
+   The warehouse worker is slowly making his way with a large wooden crate.  
+He is wearing very simple cotton clothing, which have wet spots due to the
+sweat.  His blonde hair is cut very short to his head to keep it out of his
+way.  Clearly he does not have time to stop and chat, for there is a days work
+to be done.    
+~
+8 0 0 0 E
+6 17 10 2d5+70 2d5+2
+50 180 0
+8 8 1 0
+Maxmove: 50
+E
 $
