@@ -584,7 +584,7 @@ const struct command_info cmd_info[] = {
   { "load"     , "load",    POS_DEAD    , do_load     , LVL_DEMIGOD, 0 },
   { "love"     , "love",    POS_RESTING , do_action   , 1, 0 },
   { "makeleader", "makeleader", POS_DEAD , do_makeleader, 1, 0 },
-  { "mark"     , "mark",    POS_STANDING, do_mark     , 1, 0 },
+  //{ "mark"     , "mark",    POS_STANDING, do_mark     , 1, 0 },
   { "memorize" , "mem",     POS_RESTING , do_memorize , 1, 0 },
   { "mount"    , "mount",   POS_STANDING, do_mount	   , 1, 0 },
   { "mget"     , "mget",    POS_RESTING , do_mget     , 1, 0 },
