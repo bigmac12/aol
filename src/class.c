@@ -1278,7 +1278,7 @@ void init_spell_levels(void)
   spell_level(SKILL_TAME, CLASS_ROGUE, 3, 0);
   spell_level(SKILL_BUILD_FIRE, CLASS_ROGUE, 4, 0);
   spell_level(SKILL_COOK, CLASS_ROGUE, 4, 0);
-  spell_level(SKILL_MARK, CLASS_ROGUE, 4, 0);
+  //spell_level(SKILL_MARK, CLASS_ROGUE, 4, 0);
   spell_level(SKILL_TRACK, CLASS_ROGUE, 5, 0);
 
   spell_level(SKILL_STEAL, CLASS_ROGUE, 6, 0);
@@ -1294,6 +1294,7 @@ void init_spell_levels(void)
   spell_level(SKILL_DUAL_WIELD, CLASS_ROGUE, 12, 0);
   spell_level(SKILL_TRIP, CLASS_ROGUE, 13, 0);
   spell_level(SKILL_RETREAT, CLASS_ROGUE, 14, 0);
+  spell_level(SKILL_TWO_WEAPON_STYLE, CLASS_ROGUE, 15, 0);
 
   spell_level(SKILL_DIRTKICK, CLASS_ROGUE, 16, 0);
   spell_level(SKILL_ENVENOM, CLASS_ROGUE, 18, 0);
