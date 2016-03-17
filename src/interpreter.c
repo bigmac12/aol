@@ -665,7 +665,7 @@ const struct command_info cmd_info[] = {
   { "reply"    , "r",       POS_SLEEPING, do_reply    , 0, 0 },
   { "reel"     , "reel",    POS_SITTING,  do_reel     , 0, 0 },
   { "reimburse", "reim",    POS_DEAD    , do_reimburse, LVL_GRGOD, 0 },
-  { "award"    , "award",   POS_DEAD    , do_award    , LVL_IMPL, 0 },
+  { "award"    , "award",   POS_DEAD    , do_award    , LVL_GRGOD, 0 },
   { "relax"    , "relax",   POS_DEAD,     do_relax    , 1, 0 },
   { "raise"    , "raise",   POS_RESTING , do_action   , 1, 0 },
   { "rest"     , "rest",    POS_RESTING , do_rest     , 0, 0 },

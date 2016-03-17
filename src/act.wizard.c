@@ -4233,7 +4233,7 @@ ACMD(do_reimburse) {
 
 ACMD(do_award) {
   struct char_data *vict;
-  char name[100], buf[100], buf2[100];
+  char name[100], buf[100], buf2[100], buf3[100];
   int percent_to_award = 0, xp_to_award = 0;
   int XP_AWARD_CAP = 25;  // If you change this, change the error message below.
 
@@ -4281,6 +4281,8 @@ ACMD(do_award) {
     GET_NAME(ch, chname);
     GET_NAME(vict, victname);
     sprintf(buf2, "%s has awarded %s (%d) %d experience.", chname, victname, GET_LEVEL(vict), xp_to_award);
+    sprintf(buf3, "\r\nYou have been awarded %d\% bonus experience!\r\n", percent_to_award);
+    send_to_char(buf3, vict);
     FREE_NAME(victname);
     FREE_NAME(chname);
 

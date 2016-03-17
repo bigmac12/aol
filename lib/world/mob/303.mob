@@ -1,14 +1,15 @@
 #30301
-guards guard steel plated~
-a pair of steel plated guards~
-A pair of steel plated guards stands here guarding the tunnel with swords ready.
+large guard dressed full plate~
+a large guard in full plate mail~
+A large guard dressed in full plate stands here, guarding the tunnel.
 ~
-   Two rather large, burly guards in matching steel-plated armor seem a rather
-formidable foe.  Whatever is down this tunnel is something worth protecting,
-and only those worthy enough are allowed to pass.  One guard wields a very long
-double-bladed longsword, while the other wields a menacing battle-axe.    
+   This rather large guard stands quietly to one side of the tunnel, guarding
+it from unwanted visitors.  He is outfitted in a full set of polished steel
+plate with a chainmail undercoat, providing an added layer of protection.  He
+observes each visitor to the city with silent scrutiny, a hand rested casually
+on the pommel of his weapon.    
 ~
-15988810 33693880 0 -850 E
+15988810 33693752 0 -850 E
 30 0 -20 4d43+2200 5d9+10
 9291 300000 3
 8 8 1 0
@@ -16,22 +17,71 @@ Maxmove: 100
 E
 T 30301
 #30302
-guards guard steel plated~
-a pair of steel plated guards~
-A pair of steel plated guards stands here guarding the tunnel with weapons ready.
+large guard dressed full plate~
+a large guard~
+A large guard dressed in full plate stands here, guarding the tunnel.
 ~
-   Two rather large, burly guards in matching steel-plated armor seem a rather
-formidable foe.  Whatever is down this tunnel is something worth protecting,
-and only those worthy enough are allowed to pass.  One guard wields a very long
-double-bladed longsword, while the other wields a menacing battle-axe.    
+   This rather large guard stands quietly to one side of the tunnel, guarding
+it from unwanted visitors.  He is outfitted in a full set of polished steel
+plate with a chainmail undercoat, providing an added layer of protection.  He
+observes each visitor to the city with silent scrutiny, a hand rested casually
+on the pommel of his weapon.    
 ~
-15988810 33693864 0 -850 E
+15988810 33693736 0 -850 E
 30 0 -20 4d43+2250 5d9+10
 9291 300000 0
 8 8 1 0
 Maxmove: 100
 E
 T 30302
+#30313
+sanction guard~
+a Sanction guard~
+A Sanction guard wanders the street ensuring its safety.
+~
+   This man has dedicated his life to maintaining the peace and enforcing the
+few laws of the great city of Sanction.  He continually patrols the various
+streets and by-ways with a constant eye for signs of trouble.  A rather odd
+figure to be seen in this city, but none the less the city officials thought
+such a presence was needed.    
+~
+1049096 4 0 0 E
+15 11 1 5d10+300 2d8+4
+450 8600 0
+8 8 1 7
+Maxmove: 100
+E
+#30314
+citizen~
+a citizen of Sanction~
+A citizen of Sanction casually strolls by.
+~
+   This citizen walks the streets attending to the business that she has.  
+Garbed in form fitting attire, she can attract much attention from those she
+passes by.    
+~
+8 0 0 0 E
+7 16 9 3d5+85 2d6+1
+80 550 0
+8 8 2 0
+Maxmove: 100
+E
+#30315
+wandering woodsman ranger~
+a wandering woodsman~
+A wandering woodsman peers around at the city that surrounds him.
+~
+   By the look of this man's clothes and his obvious awe at the city around
+him, it is obvious that he has seldom come here.  He tries to give an
+impression of being a powerful and experienced fighter but somehow falls a
+little bit short of convincing.    
+~
+8 0 0 0 E
+13 11 3 6d5+0 2d9+2
+240 6625 0
+8 8 1 0
+Maxmove: 100
+E
 #30369
 guard burly city hall~
 a tall, burly guard in full plate armor~

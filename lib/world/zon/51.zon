@@ -2,6 +2,8 @@
 City of Karthay II~
 5199 15 2
 * ZoneState 1 unowned 000000000000000
+R 0 5113 5099 -1 	(the main bulletin board)
+O 0 5099 2 5113 	(the main bulletin board)
 M 0 5116 1 5196 	(Ravynsai, Mistress of Spells)
 G 1 5133 100 -1 	(&Ka thin vial of black oil&n)
 G 1 5131 100 -1 	(&Ra crystal flask of red oil&n)
@@ -21,10 +23,6 @@ G 1 5118 1000 -1 	(a crescent-shaped bottle made from dark glass)
 M 0 5170 6 5178 	(a weary housekeeper)
 O 1 410 1 5178 	(a short coffee table)
 P 1 430 5 410 	(a bronze key on a black string)
-M 0 5100 1 5113 	(Baeran'ayl, the Innkeeper)
-R 0 5113 5099 -1 	(the main bulletin board)
-O 0 5099 2 5113 	(the main bulletin board)
-M 1 5154 1 5113 	(a short sultry wench with a seductive smirk)
 M 0 5151 1 5153 	(a crowned king cobra)
 M 0 5157 5 5162 	(a seeker of harmony)
 G 1 5118 30 -1 	(a crescent-shaped bottle made from dark glass)
