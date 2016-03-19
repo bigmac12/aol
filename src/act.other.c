@@ -3144,8 +3144,23 @@ ACMD(do_dismiss)
 
   act("$n is dismissed by $N.", TRUE, vict, 0, ch, TO_ROOM);
   extract_char(vict);
+}
 
+ACMD(do_rouse) {
+    struct follow_type *j, *k;
+    char buf[100];
 
+    send_to_char("You rouse the group.\r\n", ch);
+
+    for (k = ch->followers; k; k = j) {
+        j = k->next;
+        k->follower->char_specials.position = POS_STANDING;
+
+        GET_NAME(ch, chname);
+        sprintf(buf, "%s rouses you from your rest and forces you to your feet.\r\n", chname);
+        FREE_NAME(chname);
+        send_to_char(buf, k->follower);
+    }
 }
 
 /*
