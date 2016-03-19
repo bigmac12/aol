@@ -3148,20 +3148,35 @@ ACMD(do_dismiss)
 
 ACMD(do_rouse) {
     struct follow_type *j, *k;
+    struct char_data *vict;
     char buf[100];
 
-    send_to_char("You rouse the group.\r\n", ch);
 
     for (k = ch->followers; k; k = j) {
         j = k->next;
-        k->follower->char_specials.position = POS_STANDING;
 
-        GET_NAME(ch, chname);
-        sprintf(buf, "%s rouses you from your rest and forces you to your feet.\r\n", chname);
-        FREE_NAME(chname);
-        send_to_char(buf, k->follower);
-    }
-}
+        if (IS_AFFECTED(k->follower, AFF_KNOCKOUT)) {
+            act("$N has been knocked unconscious. You can't wake $M up!", FALSE, ch, 0, k->follower, TO_CHAR);
+        } else if (IS_AFFECTED(k->follower, AFF_SLEEP) || GET_POS(k->follower) == POS_SLEEPING) {
+            act("You are unable to rouse $N from their slumber. Try waking $M first!", FALSE, ch, 0, k->follower, TO_CHAR);
+        } else if (affected_by_spell(k->follower, SPELL_CRIPPLE)) {
+            act("$N has been crippled and cannot stand!", FALSE, ch, 0, k->follower, TO_CHAR);
+        } else if (GET_POS(k->follower) < POS_SLEEPING) {
+            act("$N has been mortally-wounded and cannot be roused!", FALSE, ch, 0, k->follower, TO_CHAR);
+        } else {
+            GET_POS(k->follower) = POS_STANDING;
+
+            GET_NAME(ch, chname);
+
+            sprintf(buf, "%s forces you to your feet.\r\n", chname);
+            act("$n is forced to their feet.", TRUE, k->follower, 0, 0, TO_ROOM);
+
+            FREE_NAME(chname);
+
+            send_to_char(buf, k->follower);
+        }   // End if chain
+    }   // End for
+}   // End do_rouse
 
 /*
 ACMD(do_hero)
