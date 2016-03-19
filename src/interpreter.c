@@ -140,6 +140,7 @@ ACMD(do_detectdisguise);
 ACMD(do_diagnose);
 ACMD(do_dig);
 ACMD(do_dismiss);
+ACMD(do_rouse);
 ACMD(do_douse);
 ACMD(do_gdig);
 ACMD(do_gore);
@@ -465,6 +466,7 @@ const struct command_info cmd_info[] = {
   { "date"     , "da",      POS_DEAD    , do_date     , LVL_IMMORT, SCMD_DATE },
   { "dirtkick" , "dirt",    POS_FIGHTING, do_dirtkick , 1, 0 },
   { "dismiss"  , "dism",    POS_FIGHTING, do_dismiss  , 1, 0 },
+  { "rouse"    , "rou",     POS_STANDING, do_rouse    , 1, 0 },   
   { "daydream" , "day",     POS_SLEEPING, do_action   , 1, 0 },
   { "dc"       , "dc",      POS_DEAD    , do_dc       , LVL_GRGOD, 0 },
   { "deposit"  , "dep",     POS_STANDING, do_not_here , 1, 0 },
