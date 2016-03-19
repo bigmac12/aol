@@ -1294,7 +1294,6 @@ void init_spell_levels(void)
   spell_level(SKILL_DUAL_WIELD, CLASS_ROGUE, 12, 0);
   spell_level(SKILL_TRIP, CLASS_ROGUE, 13, 0);
   spell_level(SKILL_RETREAT, CLASS_ROGUE, 14, 0);
-  spell_level(SKILL_TWO_WEAPON_STYLE, CLASS_ROGUE, 15, 0);
 
   spell_level(SKILL_DIRTKICK, CLASS_ROGUE, 16, 0);
   spell_level(SKILL_ENVENOM, CLASS_ROGUE, 18, 0);
@@ -1306,6 +1305,7 @@ void init_spell_levels(void)
   spell_level(SKILL_DIRTY_FIGHTING, CLASS_ROGUE, 23, 0);
   spell_level(SKILL_KNOCKOUT, CLASS_ROGUE, 24, 0);
   spell_level(SKILL_ADVANCED_BACKSTAB, CLASS_ROGUE, 25, 0);
+  spell_level(SKILL_TWO_WEAPON_STYLE, CLASS_ROGUE, 30, 0);
 
   /* WARRIORS */
   spell_level(SKILL_KICK, CLASS_WARRIOR, 1, 0);
