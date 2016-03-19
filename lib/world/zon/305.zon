@@ -1,7 +1,17 @@
 #305
 Sanction's Buildings~
 30599 15 2
-* ZoneState 1 Lunitari, Sirrion 000000000000000
+* ZoneState 1 unowned 000000000000000
+M 0 30524 1 30524 	(Harstead)
+G 1 30516 10000 -1 	(a steel scimitar with a leather-wrapped hilt)
+G 1 30517 10000 -1 	(a wooden quarterstaff with steel-capped ends)
+G 1 30518 10000 -1 	(a steel dagger with a serrated blade)
+G 1 30519 10000 -1 	(a thin, curved blade with a matte finish)
+G 1 30520 10000 -1 	(&Ka black-bladed battle axe with a &wsilver&K handle&n)
+G 1 30521 10000 -1 	(a heavy, oak-handled battle hammer)
+G 1 30522 10000 -1 	(&ya small brown whip with wickedly-barbed tips&n)
+G 1 1919 1000 -1 	(a well-used long sword with a leather wrapped hilt)
+G 1 1918 1000 -1 	(a solid dwarven crafted bastard sword)
 M 0 30525 1 30525 	(Benny Belmonder)
 G 1 30436 1000 -1 	(a slab of boneless top sirloin)
 G 1 30435 1000 -1 	(a thick tenderloin steak)
@@ -131,14 +141,6 @@ G 1 10007 10000 -1 	(&wa thin silver chain with a &Yplated griffon's wing&w pend
 G 1 10006 10000 -1 	(&wa thin chain rope with a wooden &ggreen tree&w pendant&n)
 G 1 5177 10000 -1 	(&Wa thin, white ritual candle&n)
 D 0 30561 1 1 	(Sitting Room of the Mayor's Estate)
-M 0 30524 1 30524 	(Harstead)
-G 1 30516 10000 -1 	(a steel scimitar with a leather-wrapped hilt)
-G 1 30517 10000 -1 	(a wooden quarterstaff with steel-capped ends)
-G 1 30518 10000 -1 	(a steel dagger with a serrated blade)
-G 1 30519 10000 -1 	(a thin, curved blade with a matte finish)
-G 1 30520 10000 -1 	(&Ka black-bladed battle axe with a &wsilver&K handle&n)
-G 1 30521 10000 -1 	(a heavy, oak-handled battle hammer)
-G 1 30522 10000 -1 	(&ya small brown whip with wickedly-barbed tips&n)
 M 0 30534 1 30534 	(Marida, an cheerful baker with flour caked cheeks)
 G 1 30534 1000 -1 	(&ya chocolate peanut-butter truffle coated in finely diced peanuts&n)
 G 1 30535 1000 -1 	(&ya chocolate cupcake with &Wvanilla &yswirl frosting&n)

@@ -2,6 +2,7 @@
 Sanction City~
 30399 15 2
 * ZoneState 1 unowned 000000000000000
+M 0 30302 1 30303 	(a large guard)
 D 0 30301 3 1 	(Blackstone Passage)
 M 0 30301 1 30301 	(a large guard in full plate mail)
 M 0 30315 10 30365 	(a wandering woodsman)
@@ -51,7 +52,6 @@ M 0 30456 20 30322 	(a citizen of Sanction)
 M 0 30456 20 30327 	(a citizen of Sanction)
 M 0 30456 20 30332 	(a citizen of Sanction)
 M 0 30456 20 30338 	(a citizen of Sanction)
-M 0 30302 1 30302 	(a large guard)
 D 0 30395 5 1 	(Butcher's Lane)
 D 0 30316 1 1 	(Desolation Boulevard)
 O 0 30316 1 30316 	(a vallenwood sign)

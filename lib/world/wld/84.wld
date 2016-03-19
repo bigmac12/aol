@@ -685,10 +685,6 @@ cool here but tolerable, the radiant warmth of the sun beating down from clear
 skies.  To the south, large masses of stone stretch skyward.
 ~
 84 0 2 0 0
-D0
-~
-~
-0 0 30597
 D3
 ~
 ~
@@ -827,15 +823,14 @@ D2
 S
 #8445
 Yucatchacol Pass~
-   The roadway is partially inset into low rock walls formed from the fabric of
-the mountains to the south.  The angle is steep as the road traverses the side
-of the range and the air is cold.  Long shadows reach out from the stones,
-cooling the air further and turning exposed flesh red.  The road surface is
-frozen solid, leaving the indelible footprints of a previous traveller.  To the
-east nearly flush in the low rock wall, a looming iron gate can barely be seen.
-  
+   The roadway is partially inset in a low rock wall to the east, and a small
+recess field to the west.  The angle of the road if becoming steep, and the air
+is cold.  Long shadows reach out from the stone, and the road surface is
+becoming frozen.  To the east nearly flush in the low rock wall, a looming iron
+gate can barely be seen.  To the Northwest, there is a slight wooden stable.  
+
 ~
-84 0 4 0 0
+84 32768 4 0 0
 D0
 ~
 ~
@@ -844,6 +839,10 @@ D1
 ~
 gate~
 1 0 30301
+D3
+~
+~
+0 0 30597
 D9
 ~
 ~

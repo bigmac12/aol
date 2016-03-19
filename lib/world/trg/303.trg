@@ -10,7 +10,7 @@ No Good Align Tunnel Trig~
    wait 4s
    msend %actor% They step back and allow you to pass.
    mechoaround %actor% %actor.name% is allowed to pass down the tunnel.
-   mteleport %actor% 30303
+   mteleport %actor% 30304
    wait 1s
    mforce %actor% look
 else
