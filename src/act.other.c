@@ -3148,7 +3148,6 @@ ACMD(do_dismiss)
 
 ACMD(do_rouse) {
     struct follow_type *j, *k;
-    struct char_data *vict;
     char buf[100];
 
 
@@ -3163,9 +3162,8 @@ ACMD(do_rouse) {
             act("$N has been crippled and cannot stand!", FALSE, ch, 0, k->follower, TO_CHAR);
         } else if (GET_POS(k->follower) < POS_SLEEPING) {
             act("$N has been mortally-wounded and cannot be roused!", FALSE, ch, 0, k->follower, TO_CHAR);
-        } else if (GET_POS(k->follower == POS_STANDING)) {
+        } else if (GET_POS(k->follower) == POS_STANDING) {
             // No-op
-        }
         } else {
             GET_POS(k->follower) = POS_STANDING;
 
