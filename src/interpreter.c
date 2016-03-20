@@ -398,6 +398,7 @@ const struct command_info cmd_info[] = {
   { "ask"      , "ask",     POS_RESTING , do_spec_comm, 1, SCMD_ASK },
   { "autoexit" , "autoe",   POS_DEAD    , do_gen_tog  , 1, SCMD_AUTOEXIT },
   { "autocon"  , "autoc",   POS_DEAD    , do_autocon  , 1, 0 },
+  { "award"    , "award",   POS_DEAD    , do_award    , LVL_GRGOD, 0 },
 #ifdef __MAIN_PORT__
   { "objlevel" , "obj",     POS_DEAD    , do_gen_tog  , LVL_DEMIGOD, SCMD_LEVEL_FLAGS },
 #else
@@ -466,7 +467,6 @@ const struct command_info cmd_info[] = {
   { "date"     , "da",      POS_DEAD    , do_date     , LVL_IMMORT, SCMD_DATE },
   { "dirtkick" , "dirt",    POS_FIGHTING, do_dirtkick , 1, 0 },
   { "dismiss"  , "dism",    POS_FIGHTING, do_dismiss  , 1, 0 },
-  { "rouse"    , "rou",     POS_STANDING, do_rouse    , 1, 0 },   
   { "daydream" , "day",     POS_SLEEPING, do_action   , 1, 0 },
   { "dc"       , "dc",      POS_DEAD    , do_dc       , LVL_GRGOD, 0 },
   { "deposit"  , "dep",     POS_STANDING, do_not_here , 1, 0 },
@@ -667,7 +667,6 @@ const struct command_info cmd_info[] = {
   { "reply"    , "r",       POS_SLEEPING, do_reply    , 0, 0 },
   { "reel"     , "reel",    POS_SITTING,  do_reel     , 0, 0 },
   { "reimburse", "reim",    POS_DEAD    , do_reimburse, LVL_GRGOD, 0 },
-  { "award"    , "award",   POS_DEAD    , do_award    , LVL_GRGOD, 0 },
   { "relax"    , "relax",   POS_DEAD,     do_relax    , 1, 0 },
   { "raise"    , "raise",   POS_RESTING , do_action   , 1, 0 },
   { "rest"     , "rest",    POS_RESTING , do_rest     , 0, 0 },
@@ -692,6 +691,7 @@ const struct command_info cmd_info[] = {
   { "roll"     , "roll",    POS_RESTING , do_action   , 1, 0 },
   { "rofl"     , "rofl",    POS_RESTING , do_action   , 1, 0 },
   { "roomflags", "roomf",   POS_DEAD    , do_gen_tog  , LVL_DEMIGOD, SCMD_ROOMFLAGS },
+  { "rouse"    , "rou",     POS_STANDING, do_rouse    , 1, 0 },   
   { "ruffle"   , "ruffle",  POS_STANDING, do_action   , 1, 0 },
   { "rules"    , "rules",   POS_DEAD    , do_gen_ps   , 0, SCMD_POLICIES },
   { "say"      , "say",     POS_RESTING , do_say      , 0, 0 },
