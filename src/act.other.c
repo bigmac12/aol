@@ -3163,6 +3163,9 @@ ACMD(do_rouse) {
             act("$N has been crippled and cannot stand!", FALSE, ch, 0, k->follower, TO_CHAR);
         } else if (GET_POS(k->follower) < POS_SLEEPING) {
             act("$N has been mortally-wounded and cannot be roused!", FALSE, ch, 0, k->follower, TO_CHAR);
+        } else if (GET_POS(k->follower == POS_STANDING)) {
+            // No-op
+        }
         } else {
             GET_POS(k->follower) = POS_STANDING;
 
