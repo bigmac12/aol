@@ -459,7 +459,7 @@ if (RIDING(i) && RIDING(i)->in_room == i->in_room) {
         {
           GET_PERS(FIGHTING(i), ch, chname);
 	  strcat(buf, chname);
-          strcat(buf, ".");
+          //strcat(buf, ".");
           FREE_NAME(chname);
         }
 	else
