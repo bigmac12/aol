@@ -193,8 +193,14 @@ Not even the most skilled of kender could.
 crimsondoor~
 2 30511 30511
 E
-purpledoor purple~
-   A rich purple color has been painted on both sides of this thick oak door.
+emeralddoor emerald~
+   A calming emerald color has been painted on both sides of this thick oak
+door.  The locks on the door are not even pick able by kender, thus leaving
+your belongings safe.    
+~
+E
+ebonydoor ebony~
+   A dark ebony color has been painted on both sides of this thick oak door.  
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
@@ -205,16 +211,10 @@ The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
 E
-ebonydoor ebony~
-   A dark ebony color has been painted on both sides of this thick oak door.  
+purpledoor purple~
+   A rich purple color has been painted on both sides of this thick oak door.
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
-~
-E
-emeralddoor emerald~
-   A calming emerald color has been painted on both sides of this thick oak
-door.  The locks on the door are not even pick able by kender, thus leaving
-your belongings safe.    
 ~
 S
 #30509
@@ -609,13 +609,19 @@ varieties of religious articles, from bolts of cloth and robes to vestibules
 and medallions, fill the room to capacity and leave little room for people.  
 The scent of burning incense assaults your nostrils, mixed with burning wax
 from various candles strewn about the room.  Shadows flicker back and forth as
-they battle the light cast against the walls by lit, low-burning wicks.    
+they battle the light cast against the walls by lit, low-burning wicks.  Near
+the door entrance, a small wooden spiral staircase leads upstairs to the other
+shop.    
 ~
 305 8 0 0 0
 D0
 ~
 ~
 0 0 30399
+D4
+~
+~
+0 0 30539
 S
 #30530
 Giffard's Buy-It-All Emporium~
@@ -763,10 +769,19 @@ hatch~
 2 2010 30527
 S
 #30539
-Buildwalk~
-You are in an unfinished room.
+Amazing Amealia's Alchemy & Herbs~
+   A series of short stands containing various items sits off to the side of
+the room, covered in dust.  A dark smoke that exudes a faintly sharp odor like
+herbs rolls out and over the floor at ankle height, from the back room.  Wide
+cushions run along the side of the wall, obviously well used places to sit
+confortably and meditate upon balance and inner thought.  A small spiral
+staircase is the only means of exiting this shop.    
 ~
-305 0 0 0 0
+305 8 0 0 0
+D5
+~
+~
+0 0 30529
 S
 #30540
 Buildwalk~
