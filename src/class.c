@@ -1293,8 +1293,8 @@ void init_spell_levels(void)
   spell_level(SKILL_IMPROVED_STEALTH, CLASS_ROGUE, 12, 0);
   spell_level(SKILL_DUAL_WIELD, CLASS_ROGUE, 12, 0);
   spell_level(SKILL_TRIP, CLASS_ROGUE, 13, 0);
-  spell_level(SKILL_RETREAT, CLASS_ROGUE, 14, 0);
 
+  spell_level(SKILL_RETREAT, CLASS_ROGUE, 16, 0);
   spell_level(SKILL_DIRTKICK, CLASS_ROGUE, 16, 0);
   spell_level(SKILL_ENVENOM, CLASS_ROGUE, 18, 0);
   spell_level(SKILL_SECOND_ATTACK, CLASS_ROGUE, 18, 0);
@@ -1349,7 +1349,6 @@ void init_spell_levels(void)
   spell_level(SKILL_UNARMED_DEFENSE, CLASS_MONK, 4, 0);
   spell_level(SKILL_MARTIAL_ARTS, CLASS_MONK, 5, 0);
 
-  spell_level(SKILL_RETREAT, CLASS_MONK, 6, 0);
   spell_level(SKILL_BUILD_FIRE, CLASS_MONK, 6, 0);
   //spell_level(SKILL_HIDE, CLASS_MONK, 7, 0);
   //spell_level(SKILL_SNEAK, CLASS_MONK, 8, 0);
@@ -1361,6 +1360,7 @@ void init_spell_levels(void)
   spell_level(SKILL_IMPROVED_UNARMED_DEFENSE, CLASS_MONK, 14, 0);
   spell_level(SKILL_IMPROVED_MARTIAL_ARTS, CLASS_MONK, 15, 0);
 
+  spell_level(SKILL_RETREAT, CLASS_MONK, 16, 0);
   spell_level(SKILL_TRACK, CLASS_MONK, 16, 0);
   spell_level(SKILL_SECOND_ATTACK, CLASS_MONK, 18, 0);
   spell_level(SKILL_DODGE, CLASS_MONK, 18, 0);

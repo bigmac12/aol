@@ -193,14 +193,8 @@ Not even the most skilled of kender could.
 crimsondoor~
 2 30511 30511
 E
-emeralddoor emerald~
-   A calming emerald color has been painted on both sides of this thick oak
-door.  The locks on the door are not even pick able by kender, thus leaving
-your belongings safe.    
-~
-E
-ebonydoor ebony~
-   A dark ebony color has been painted on both sides of this thick oak door.  
+purpledoor purple~
+   A rich purple color has been painted on both sides of this thick oak door.
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
@@ -211,10 +205,16 @@ The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
 E
-purpledoor purple~
-   A rich purple color has been painted on both sides of this thick oak door.
+ebonydoor ebony~
+   A dark ebony color has been painted on both sides of this thick oak door.  
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
+~
+E
+emeralddoor emerald~
+   A calming emerald color has been painted on both sides of this thick oak
+door.  The locks on the door are not even pick able by kender, thus leaving
+your belongings safe.    
 ~
 S
 #30509
@@ -728,7 +728,7 @@ single shelf.  Below it rests one comfortable, leather chair that can reline;
 next to it is a tiny wooden stool.  A few standing trays are neatly aligned and
 set up with tools to create works of art upon someone's skin .
 ~
-305 0 0 0 0
+305 8 0 0 0
 D2
 ~
 ~
