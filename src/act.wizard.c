@@ -2932,8 +2932,7 @@ int perform_set(struct char_data *ch, struct char_data *vict, int mode, char *va
       return 0;
     }
     GET_NAME(vict, victname);
-    sprintf(output, "%s %s for %s.", set_fields[mode].cmd, ONOFF(on),
-      victname);
+    sprintf(output, "%s %s for %s.", set_fields[mode].cmd, ONOFF(on), victname);
     FREE_NAME(victname);
   } else if (set_fields[mode].type == NUMBER) {
     value = atoi(val_arg);
@@ -2985,10 +2984,13 @@ int perform_set(struct char_data *ch, struct char_data *vict, int mode, char *va
     affect_total(vict);
     break;
   case 11:
-    if (IS_NPC(vict) || GET_LEVEL(vict) >= LVL_GRGOD)
+    if (IS_NPC(vict) || GET_LEVEL(vict) >= LVL_GRGOD) {
       RANGE(3, 25);
-    else
+    } else if (GET_RACE(vict) == RACE_MINOTAUR) {
+        RANGE(3, 20);
+    } else {
       RANGE(3, 18);
+    }
     vict->real_abils.str = value;
     vict->real_abils.str_add = 0;
     affect_total(vict);
@@ -3016,18 +3018,26 @@ int perform_set(struct char_data *ch, struct char_data *vict, int mode, char *va
     affect_total(vict);
     break;
   case 15:
-    if (IS_NPC(vict) || GET_LEVEL(vict) >= LVL_GRGOD)
+    if (IS_NPC(vict) || GET_LEVEL(vict) >= LVL_GRGOD) {
       RANGE(3, 25);
-    else
+    } else if (GET_RACE(vict) == RACE_KAGONESTI || GET_RACE(vict) == RACE_KENDER) {
+        RANGE(3, 19);
+    } else {
       RANGE(3, 18);
+    }
     vict->real_abils.dex = value;
     affect_total(vict);
     break;
   case 16:
-    if (IS_NPC(vict) || GET_LEVEL(vict) >= LVL_GRGOD)
+    if (IS_NPC(vict) || GET_LEVEL(vict) >= LVL_GRGOD) {
       RANGE(3, 25);
-    else
+    } else if (GET_RACE(vict) == RACE_HYLAR || 
+               GET_RACE(vict) == RACE_DAEWAR ||
+               GET_RACE(vict) == RACE_NEIDAR) {
+        RANGE(3, 19);
+    } else {
       RANGE(3, 18);
+    }
     vict->real_abils.con = value;
     affect_total(vict);
     break;

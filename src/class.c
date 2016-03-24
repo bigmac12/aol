@@ -799,22 +799,21 @@ void init_spell_levels(void)
     spell_level(SKILL_BANDAGE, i, 1, 0);
   }
 
-
-
   /***** MINOTAUR ****/
-
   spell_level_race(SKILL_GORE, RACE_MINOTAUR, 1, 0);
 
   /***** KENDER ****/
-
   spell_level_race(SKILL_STEAL, RACE_KENDER, 1, 0);
 
 
   /***** DWARVES ****/
-
   spell_level_race(SKILL_NATURAL_HARDINESS, RACE_HYLAR, 1, 0);
   spell_level_race(SKILL_NATURAL_HARDINESS, RACE_DAEWAR, 1, 0);
   spell_level_race(SKILL_NATURAL_HARDINESS, RACE_NEIDAR, 1, 0);
+
+
+  /***** BARBARIANS ****/
+  //spell_level_race(SKILL_NATURAL_HARDINESS, RACE_BARBARIAN, 1, 0);
 
 
   /* *** KNIGHTS *** */
