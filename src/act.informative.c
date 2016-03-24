@@ -1142,7 +1142,6 @@ ACMD(do_score)
 
     // Will change this to hunger/thirst != -1
     // Or Hunger: full
-   if (GET_LEVEL(ch) < 31) {
     int full = GET_COND(ch, FULL);
     int thirst = GET_COND(ch, THIRST);
     char full_meter[24] = "";
@@ -1150,17 +1149,24 @@ ACMD(do_score)
     int i = 0;
     int j = 0;
 
-    for (i = 0; i < full; i++) {
-        strcat(full_meter, "=");
+    if (full != -1) {
+        for (i = 0; i < full; i++) {
+            strcat(full_meter, "=");
+        }
+    } else {
+        strcat(full_meter, "==========FULL==========");
     }
 
-    for (j = 0; j < thirst; j++) {
-        strcat(thirst_meter, "=");
+    if (thirst != -1) {
+        for (j = 0; j < thirst; j++) {
+            strcat(thirst_meter, "=");
+        }
+    } else {
+        strcat(thirst_meter, "==========FULL==========");
     }
 
     sprintf(buf, "%s \r\n&CHunger: &W[&R%-24s&W]&n", buf, full_meter);
     sprintf(buf, "%s \r\n&CThirst: &W[&R%-24s&W]&n", buf, thirst_meter);
-   }
 
     sprintf(buf, "%s\r\n&CRP Experience Factor: &W[&R%5d&W]&n", buf, GET_RPFACTOR(ch));
 
@@ -1186,8 +1192,7 @@ ACMD(do_score)
 	  
 	  int_xp = int_xp - (int_xp * 2);
 	
-   }
-   else {
+   } else {
 	   xp *= (float) 1000.0;
 	   percent = (int) xp % 10;
 	   xp /= (float) 10;
@@ -1203,7 +1208,7 @@ ACMD(do_score)
      //sprintf(buf, "%s\r\n&CExperience Points: &W[&R%d&W]&n\r\n", buf, GET_EXP(ch));
      // No-op
 
-   sprintf(buf, "\r\n", buf);
+   sprintf(buf, "%s\r\n", buf);
   /* no need to change anything down here...yet */
   switch (GET_POS(ch)) {
   case POS_DEAD:
