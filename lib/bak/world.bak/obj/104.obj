@@ -1,0 +1,590 @@
+#10400
+a black basalt altar~
+a black basalt altar~
+A black basalt altar rests ominously here, dominating the room.~
+The blood slowly seeps into the altar, absorbed by the black stone.
+~
+12 64 1
+0 0 0 0
+1000 0 0 0 -1
+E
+altar black basalt~
+   The altar is immense, easily ten feet wide by twenty feet high.  A set of
+black stairs lead up to the altar's surface, narrowly ascending to the top.  
+The front of the altar is carved with intricate bas-relief details, and the
+sign of Sargonnas is etched with care into each of the four corners.  In the
+center of the altar is an effigy of a black and red condor, its wings outspread
+over the room and talons extended, painted red to symbolize the blood of His
+victims.  The overall effect is imposing, making mortals realize their
+insignificance compared to the might and majesty of this god.    
+~
+#10401
+a cat of nine tails~
+a cat of nine tails~
+A sinister looking cat-of-nine-tails, made of leather and metal, lies here.~
+~
+5 0 8193
+1 1 5 2
+5 35 9 5 -1
+E
+whip cat nine tails leather~
+   This whip is deadly, the very appearance of it sinister and cruel.  A
+braided leather handle extends about six inches or so, and from the handle are
+nine leather cords, each tipped with a sharp metal point.  The weapon is light
+and well-balanced, and fits easily into the palm of a hand.    
+~
+#10402
+a chalice filled with blood~
+a black chalice filled with blood~
+A black chalice, filled with crimson blood, rests here.~
+~
+23 0 1
+10 10 13 0
+1000 0 0 0 -1
+E
+fountain chalice black~
+   This is a black chalice, used in sacred rites for the priests and
+priestesses of the god Sargonnas.  Runes and prayers are carved into the
+chalice's edges, and it is permanently affixed to the altar on which it rests,
+through arcane means.  It is filled with a crimson red liquid, probably the
+blood of the many men and women sacrificed here to the Dark God of Vengeance.
+  
+~
+E
+crimson liquid blood~
+   The blood fills the chalice to overflowing, its red color nearly black in
+the dim light.  It seems to swirl ominously, as if the souls of those
+sacrificed still lingers within their life's blood.    
+~
+#10403
+a red and black braided belt~
+&Ra red and black braided belt&n~
+A wide belt, braided with red and black cords, lies in a pile here.~
+~
+7 0 2049
+0 0 0 0
+5 250 100 6 -1
+E
+belt red black cords braided~
+   This is a wide belt made of black and red woven cords, bound tightly
+together and perhaps the width of a grown man's hand.  The weave is so tight
+and dense, it looks as though it would offer some small measure of protection.
+At each of the ends of the belt, a black obsidian circle hangs, stamped with
+the symbol of a black and red condor, wings extended.    
+~
+A
+17 2
+#10404
+black mace~
+&Ka black mace&n~
+A sinister looking black mace lays on the ground.~
+~
+5 2641920 24577
+0 1 6 6
+10 48 12 7 -1
+E
+mace black~
+   This mace looks solid and heavy, made of a black wooden handle wrapped with
+a black cord grip.  A solid black ball is on the other end of the handle, four
+platelike extensions formed in a cross-like shape and pointed outwards in the
+middle to inflict even more damage.  It looks sinister and cruel, as if it
+could inflict gruesome wounds on a foe.    
+~
+#10405
+a cruel looking flail~
+a cruel-looking flail~
+A cruel and deadly-looking flail lies on the ground here.~
+~
+5 2117632 24577
+0 1 8 5
+10 68 17 9 -1
+E
+flail cruel~
+   This flail is dangerous, its craftsmanship elegantly cruel in its
+simplicity.  A solid haft extends from a solid iron metal ball, spiked on all
+sides with a myriad of sharpened points that could lacerate skin like the
+sharpest knives.  The other end of the haft is wrapped in a black and red cord,
+allowing the wielder to maintain their grip even once their hand in covered in
+blood and gore.    
+~
+#10406
+robes Sargonnas black novice single red stripe~
+&Kblack novice robes with a single red stripe&n~
+Robes of deepest black, trimmed with a single red stripe, lay crumpled here.~
+~
+11 2628096 1033
+0 0 0 0
+5 45 11 5 -1
+E
+robes initiate black~
+   These robes are the standard robes worn by the clerical novices who have
+chosen to devote their lives in service to Sargonnas.  They are solid black,
+made of a coarse cotton, and trimmed on each sleeves, the collar, and the cuff
+with a bright red stripe, the color of freshly spilled blood.    
+~
+E
+red stripe stripes~
+   The red stripe symbolizes the lowest rank of those devoting to the worship
+of the god of vengeance.  As their ranks progress, so do the number of stripes
+on the robes.    
+~
+A
+17 -2
+#10407
+robes black acolyte two narrow bands red Sargonnas~
+&Kblack acolyte robes with two narrow bands of red&n~
+A pile of black linen, with two narrow red stripes, lies in a heap here.~
+~
+11 528384 1033
+0 0 0 0
+5 65 16 7 -1
+E
+acolyte robes~
+   These robes are the standard robes worn by the clerical acolytes who have
+chosen to devote their lives in service to Sargonnas.  They are solid black,
+made of a fine-woven linen, and trimmed on each sleeves, the collar, and the
+cuff with two narrow red stripes, the color of freshly spilled blood.    
+~
+A
+17 -1
+#10408
+robes black clerical wide red stripe sleeve Sargonnas~
+&Kblack clerical robes with a wide red stripe on either sleeve&n~
+A pile of black satin, striped with a solitary thick red stripe, is here.~
+~
+11 0 9
+0 0 0 0
+6 70 17 8 -1
+E
+initiate robes clerical~
+   These robes are the standard robes worn by the clerical initiates who have
+chosen to devote their lives in service to Sargonnas.  They are solid black,
+made of smooth satin, and trimmed on each sleeves, the collar, and the cuff
+with a wide band of red velvet, the color of freshly spilled blood.    
+~
+A
+17 -2
+#10409
+robes black red priest Sargonnas~
+&Kthe black and red robes of a priest of Sargonnas&n~
+Black silken fabric, rumpled into a heap and striped with red, rests here.~
+~
+11 0 1033
+0 0 0 0
+6 140 40 10 -1
+E
+priest robes~
+   These robes are the standard robes worn by the men and women who have chosen
+to devote their lives as Priests and Priestesses in service to Sargonnas.  
+They are solid black, made of a the finest silk, and trimmed on each sleeves,
+the collar, and the cuff with a wide band of red, trimmed on either side with a
+narrower red stripe, all the deep crimson of freshly spilled blood.    
+~
+A
+18 1
+#10410
+robes high priest black robes two wide red stripes~
+&Kblack robes with two wide red stripes&n~
+A pile of heavy black velvet, slashed with wide bands of red, lies here.~
+~
+11 544768 1033
+0 0 0 0
+5 440 110 15 -1
+E
+robes robe ~
+   These are robes denoting the rank of High Priest among those who worship the
+god Sargonnas.  They are made of the finest black velvet, with a thick, rich
+pile, and two wide bands of scarlet red slash across either sleeve, so all
+those devoted to the dark god's worship know the power and devotion of the
+individual wearing these most sacred vestaments.    
+~
+A
+4 1
+A
+17 -2
+#10411
+mace destruction solid black~
+&Kthe Mace of Destruction&n~
+A solid black mace, painted with red sigils and runes of power, rests here.~
+~
+5 352866368 24577
+1 2 6 9
+10 500 250 15 -1
+E
+mace destruction~
+   This terrible looking mace is about the length of a man's forearm, solid
+black obsidian and traced throughout with red sigils and runes of power and
+foreboding.  A black and red braid is wrapped firmly around the mace's handle,
+allowing the wielder to grip it tightly and without fear of having it slip from
+their hands.  Four sharp blades extend from the head of the mace, each
+sharpened into a deadly, gruesome-looking point.    
+~
+E
+red runes sigils~
+   These bright red symbols are etched into the mace's handle carefully, words
+of power in combat, blessings upon the unholy God of Vengeance, and wards of
+protection for its wielder.    
+~
+#10412
+condor black red leather thong~
+&Ka black and red condor, hung on a black leather thong&n~
+A black and red condor hangs, suspended on a heavy black leather thong.~
+~
+11 2816 5
+0 0 0 0
+1 120 30 9 -1
+#10413
+a black and red stole of office~
+&Ra black and red stole of office&n~
+A bundle of black, woven throughout with red, is resting here.~
+~
+11 2816 1049601
+0 0 0 0
+3 560 280 14 -1
+E
+black red stole~
+   This stole is made of a heavy black velvet, trimmed with red cording and
+woven throughout with thin strands of red silk.  It is lined with a rich, red
+satin, and a large condor, its wings outstretched along the entire back of the
+stole, is embroidered in red and silver thread.    
+~
+A
+2 1
+#10414
+black red braided headband~
+&Ra black and red braided headband&n~
+A wide band of braided black and red leather cords is rolled into a ball here.~
+~
+11 1048576 17
+0 0 0 0
+1 40 10 6 -1
+E
+black red headband leather cords band~
+   This is a headband made of black and red leather, braided together into a
+tight weave.  It ties around a person's forehead, holding their hair out of
+their eyes and preventing sweat from blinding their vision.    
+~
+A
+17 -1
+#10415
+shovel muddy~
+a muddy shovel~
+A mud-covered shovel has been dropped here.~
+~
+22 1048576 16385
+0 0 0 0
+3 12 4 1 -1
+E
+shovel muddy mud-covered~
+   The wooden handle of this simple shovel, as well as its metal spade, are
+both caked with mud.  There are faint markings carved into the wood, but they
+are so worn from use that they are no longer discernable.    
+~
+#10416
+black red shield symbol Sargonnas~
+&Ka black and red shield with the symbol of Sargonnas&n~
+A black and red shield sits here, a condor painted across its face.~
+~
+9 2117632 524801
+5 0 0 0
+10 80 40 8 -1
+E
+black red shield sargonnas~
+   This is a medium-sized black shield, made of a sturdy metal and with a wide
+red circle painted in a broad band along its edge.  A black leather handle on
+its inner-facing side allows the wearer to grip it tightly, and on its exterior
+face, a screaching condor screams its wrath to all those who oppose it.    
+~
+#10417
+condor small black carved obsidian~
+&Ka small black condor, carved from obsidian&n~
+A small obsidian condor, about the size of a man's hand, is lying here.~
+~
+18 65540 1
+0 0 0 0
+1 0 0 0 -1
+E
+condor obsidian key small black~
+   This is a small effigy of a condor, carved carefully from a piece of solid
+obsidian.  It is about the size of a man's hand, no larger, and its wings are
+extended in an usual formation, as if meant to interlock to something else.  
+
+~
+#10418
+key iron~
+an iron key to a cell~
+An iron key hung from a ring lies forgotten on the ground.~
+~
+18 65540 1
+0 0 0 0
+1 0 0 0 -1
+E
+iron cell key~
+   This is an average-sized key, suspended on a wrought-iron ring.  It probably
+opens one of the cells below the Temple.    
+~
+#10419
+sandals pair black red leather~
+&ra pair of black and red leather sandals&n~
+A pair of black and red leather sandals lie forgotten here.~
+~
+11 1048576 65
+0 0 0 0
+1 50 12 5 -1
+A
+17 -1
+#10420
+a wicked looking morning star~
+a wicked-looking morning star~
+A wicked-looking club-like weapon lies on the floor, jagged blades extending.~
+~
+5 20480 24577
+0 2 4 9
+7 120 60 11 -1
+E
+morning star wicked~
+   This wicked-looking object is clearly a weapon of sorts.  It has a long
+black haft, weighted at its base with a metal ball for balance, and at its far
+end is a round black metal ball, covered throughout with sharply pointed
+spikes.    
+~
+A
+13 2
+#10421
+wheel with razor-sharp blades~
+a wheel with razor-sharp blades~
+A large wooden wheel, covered with hundreds of razor-sharp blades, stands here.~
+~
+12 1048576 1
+0 0 0 0
+1000 0 0 0 -1
+E
+wheel wooden ~
+   This is a tremendously large wheel, nearly as tall as a human male.  It is
+about four handspans wide, and made of wooden timbers screwed together and
+braced with long iron rods.  The flat surface of the wheel is covered in rows
+upon rows of deathly sharp razor blades, no thicker than a few strands of hair
+and gleaming dully in the dim light.  There is a space beneath the wheel, about
+a foot high, with a small platform that looks like it can be forced upwards,
+towards the surface of the bottom of the wheel.  Seeing this, you begin to get
+a disturbing sense of just what the purpose of this hidelously-cruel looking
+device might be.    
+~
+E
+blade blades razor razors~
+   Hundreds of small razors, no more than a few hair strands wide, cover the
+flat surface of the wheel.  They gleam dimly in the poor lighting, their
+sharpened edges looking cruel and unforgiving.  Looking closer at the
+individual blades, you can see dried blood and bits of flesh hanging from where
+the blades are affixed to the wooden wheel.    
+~
+#10422
+iron manacles~
+a set of iron manacles~
+A set of rusted iron manacles, coated in blood, hangs down from the walls.~
+~
+15 0 0
+0 0 0 0
+1000 0 0 0 -1
+E
+manacles set rusted iron~
+   These manacles hang from the walls, where they are drilled directly into a
+metal plate affixed to the stone of the cell itself.  Rusted iron links, each
+easily as wide as a man's thumb and nigh impossible to break, suspend a set of
+iron shackles for both wrists and ankles.    
+~
+#10423
+rack of suspended sword blades~
+a rack of sword blades suspended in a wooden frame~
+A series of sword blades, affixed to a wooden frame, swings threateningly above.~
+~
+14 0 0
+0 0 0 0
+1000 0 0 0 -1
+E
+sword blade series~
+   These sword blades have been honed to a keen edge, as sharp as any you have
+ever seen.  Each one is a forearm's length, attached to a wooden grid of solid
+oaken beams.  All in all, there are perhaps 25 blades hanging from this rack,
+each positioned to face a slightly different angle, and looking as though they
+could easily mutilate anything placed beneath them.    
+~
+#10424
+an iron sarcophagous~
+an iron sarcophagous~
+A tall iron sarcopahagous, slightly ajar, stands upright against the far wall.~
+~
+12 0 1
+0 0 0 0
+1000 0 0 0 -1
+E
+sarcophagous iron tall~
+   The iron contraption looks akin to a sarcophagous, used to entomb the dead.
+However, this one has a narrow rectangle, almost like an eyehole, over the face
+of the sarcophagous.  Peering inside, where it is standing ajar, you can make
+out hundreds of sharp spikes extending out from both the front and the back of
+each side of the sarcophagous, coming to a needle- sharp point on the opposite
+side.  If a person was placed within it, and the door hinged shut....  The pool
+of dried blood beneath the iron case gives mute testimony to the fate of any
+within.    
+~
+#10425
+whip black leather spikes~
+&Ka black leather whip with spikes on the end&n~
+A spiked, leather whip is lying here, forgotten.~
+~
+5 28672 8193
+0 2 3 2
+4 85 41 10 -1
+E
+whip black spikes leather~
+   This whip is made of stiff, black leather strips which have been tightly
+braided together.  The handle is made from a sturdy piece of vallenwood which
+has been wrapped with a few leather thongs for a better grip.  The end of the
+whip bears several pointy spikes.    
+~
+#10426
+dagger blade blackened ebony hilted~
+&Kan ebony-hilted dagger with a blackened blade&n~
+A black blade lies in the dust here.~
+~
+5 2105344 1006657537
+0 2 3 11
+8 85 21 6 -1
+E
+dagger blade blackened ebony hilted~
+   This dagger is small and lightweight, yet still deadly.  Its blade has been
+blackened, most likely by fire, and its hilt is a highly-polished ebony.  A few
+runes of protection have been carved into the hilt.    
+~
+#10435
+a pair of iron shackles~
+a pair of iron shackles~
+A pair of iron shackles, crusted with dried blood, rests ajar here.~
+~
+9 0 135169
+2 0 0 0
+3 50 25 10 -1
+E
+iron shackles~
+   These iron shackles are closed about the ankles and wrists of the victims
+suspended or attached to iron chains.  A broken loop extending from each
+shackle shows where it was torn from the chains of the manacles to which it was
+once attached.  Dried blood coats the rusted iron, where the skin of innumerous
+victims was ripped and torn and pulled in a vain attempt to be free.    
+~
+#10436
+slender mahogany bow~
+a slender, mahogany bow~
+A mahogany bow, incricately carved and tightly-strung, lies forgotten here.~
+~
+5 1073770496 24577
+1 1 8 11
+8 9 50 10 -1
+E
+bow mahogany~
+   This bow is of the finest workmanship, the mahogany traced with beautiful
+carvings and images of leaves and flowers.  There is a thick leather wrap
+around the center of the bow for its wielder to grip, and the string is made of
+fine horsehair, woven tightly together and strung tautly.  It has a good
+tension to it, and seems as if it could shoot with amazing precision and
+accuracy.    
+~
+A
+2 1
+#10437
+skeleton~
+a skeleton~
+A skeleton is laying here, bleached white over time.~
+~
+15 2 1
+0 0 0 0
+100 0 0 0 -1
+E
+skeleton bones~
+   The skeleton sits on its side here, the skull staring up eternally at the
+sky above.  Its one hand is clutched tightly into a fist, almost as if it held
+something when it was first slain.    
+~
+#10439
+ring of spears with impaled bodies~
+a ring of spears with impaled bodies~
+A ring of spears surrounds the pyre, bodies impaled upright upon each.~
+~
+12 0 1
+0 0 0 0
+1000 0 0 0 -1
+E
+spear spears~
+   The spears are whittled from the straight branches of trees, hewn to a tall,
+straight pole and sharpened on the upper end.  They are stuck firmly into the
+earth in a circle around the massive pyre, and the bodies of countless victims
+of Sargonnas's wrath are impaled upon the spears, giving silent, mute testimony
+to the fathomless wrath of this dark, cruel god.    
+~
+#10440
+funeral pyre~
+a vast funeral pyre, burning bright with corpses~
+A vast funeral pyre, stacked of corpses, throws flames high into the air above.~
+~
+12 0 1
+0 0 0 0
+1000 0 0 0 -1
+E
+fire funeral pyre~
+   The flames lick high into the air above, sending a thin film of soot and
+ashes into the air.  Heat radiates from the burning pyre, so hot that it is
+impossible to stand too near the flames, and the air shimmers and distorts the
+view from the heat it holds.  Bodies in various state of burning compose the
+eternal fuel for this Abysmal pyre, flesh crackling and hissing and popping
+from the fire.  Charred bones emerge from the bottom of the pyre, and newly
+stacked corpses can be seen at its apex, far overhead.    
+~
+#10441
+bucket fountain wooden~
+a wooden bucket~
+A wooden bucket swings from above on a rusted chain, the dripping of water audible.~
+~
+23 0 0
+999 999 0 0
+1004 0 0 1 -1
+E
+bucket wooden~
+   The bucket creaks on rusted iron chains, suspended at an angle from the
+ceiling.  Water slowly drips from the bucket onto the stone floor, drip by
+agonizing drop, its slow noise beating a painfully slow litany of ominous
+dread.    
+~
+#10442
+sign roadsign~
+a small roadsign~
+A small roadsign sits staked to the ground, a short distance from the road.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+sign roadsign~
+
+     The Temple of Sargonnas ---- North (roughly 35 miles)
+     Ruins of Lord Darkhok's Estate ---- West (roughly 25 miles)
+     The City of Karthay ---- Southeast (roughly 5 miles)
+
+~
+#10443
+sign roadsign~
+a small roadsign~
+A small roadsign sits staked to the ground, a short distance from the road.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+sign roadsign~
+
+
+     The Temple of Sargonnas ---- Northwest (roughly 15 miles)
+     Ruins of Lord Darhok's Estate ---- Southwest (roughly 40 miles)
+
+~
+$~

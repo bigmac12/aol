@@ -1,0 +1,944 @@
+#0
+waybread bread loaf~
+a loaf of waybread~
+A delicious looking loaf of waybread is lying here.~
+~
+19 0 1
+24 0 0 0
+0 0 5 0 -1
+#1
+berries handful~
+a handful of berries~
+A handful of berries lies here.~
+~
+19 0 1
+10 0 0 0
+1 0 0 0 -1
+#2
+fire doused~
+a small, doused fire~
+A small fire has been doused here, and now sits smoldering.~
+~
+13 0 0
+0 0 0 0
+0 0 0 0 1
+E
+fire doused~
+   This is a small, doused fire.  It sits here smoldering, though there is no
+chance of the fire rekindling.    
+~
+#3
+bandage~
+a bandage~
+A bandage is lying here.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#4
+wooden sign pink~
+a merchant vendor sign~
+&MA wooden sign, covered with bright pink paint, has been stuck in the ground.&n~
+~
+12 0 0
+0 0 0 0
+40 0 0 0 -1
+E
+sign pink bright wooden~
+(The sign points to the north with bright white lettering.)
+
+&WYe Ol Merchant Wares! Stop in today!&n
+~
+#5
+merchant sign~
+another merchant vendor sign~
+&MA bright pink wood sign with white lettering, has been stuck into the ground here.~
+~
+13 0 1
+0 0 0 0
+800 0 0 1 -1
+E
+pink wood sign~
+Brightly painted a near hot pink in color, this sign is not hard to spot.
+With blazing white letters over the pink colored wood, the arrow seemly points
+to the South where a wagon can be seen in the distance.
+
+
+&WGarments, Wares, and Wonders! Stop in today for a fair price!&n
+~
+#6
+spellbook book pocket-size pocket worn ribbon~
+a worn, pocket-size spellbook with ribbon binding~
+A small pocket-size notebook has been left here.~
+~
+16 0 16385
+0 0 0 0
+1 450 30 5 -1
+#7
+unfinished object~
+a piece of debris~
+Crumbles of building debris and pieces of glass are scattered along the road.~
+~
+13 0 1
+0 0 0 0
+9202 0 0 0 -1
+#8
+engine siege~
+a large, gnomish built siege engine~
+A giant siege engine sits here shaking the ground as it tries to break down the gate.~
+~
+12 0 1
+0 0 0 0
+999432 0 0 30 -1
+#9
+tents~
+a neatly aligned row of makeshift cotton tents~
+A neatly aligned row of makeshift, cotton tents.~
+~
+12 0 1
+0 0 0 0
+9999 0 0 0 -1
+#10
+poison vial~
+&Ka small vial of black liquid&n~
+A small vial of poison made from the extract of plants and snake venom lies here.~
+~
+10 0 16385
+15 33 0 0
+0 129 25 1 -1
+#11
+portal gateway gate doorway shimmering~
+a shimmering doorway, outlined in fire~
+A shimmering doorway, outlined in fire, is here.~
+~
+28 64 0
+0 0 0 0
+0 0 0 0 -1
+#12
+journal tattered~
+an old tattered leather journal~
+An old tattered leather book has been left here.~
+~
+16 0 16385
+0 0 0 0
+1 1 1 10 -1
+#15
+spring waterspring bubbling~
+a bubbling spring of water~
+A bubbling spring shoots clear water up out of the ground.~
+~
+23 65604 0
+400 400 15 0
+500 1 1 1 -1
+#16
+fire cheery~
+a small cheery fire~
+A small fire burns here.~
+~
+24 0 0
+0 0 0 0
+5 0 0 1 -1
+#17
+coin rusted old~
+an old rusted coin~
+A old and rusted coin has been dropped here.~
+~
+20 0 1
+0 1 0 0
+1 0 0 1 -1
+E
+coin rusted old~
+   Exposure to the elements has left this coin so rusted it is nearly
+impossible to tell exactly what type of coin it is.    
+~
+#18
+quartz raw piece~
+a piece of raw quartz~
+A piece of raw quartz lies on the ground~
+~
+8 0 1
+0 0 0 0
+0 20 4 1 -1
+E
+quartz raw piece~
+   This piece of quartz is a bit cloudy and somewhat dirty.  If properly
+facetted and polished, though, it would most likely be a lovely piece of
+treasure.    
+~
+#19
+cloth rotted piece dirty~
+a dirty and rotted piece of cloth~
+A dirty piece of cloth is on the ground here.~
+~
+13 0 1
+0 0 0 0
+1 0 0 1 -1
+E
+cloth rotted piece dirty~
+   This piece of cloth, most likely a remnant of clothing from some unfortunate
+traveller, is so dirty and torn that it is impossible to determine just exactly
+what type of garment it once was.  Now it is little more than a piece of rotted
+trash.    
+~
+#20
+shell pearl tip tiny turbinella~
+a tiny turbinella shell with a pea-size pearl tip~
+A tiny turbinella shell lies here.~
+~
+1 1 16385
+0 0 -1 0
+0 1 0 1 -1
+E
+shell~
+   Tiny indeed, this turbinella shell is rather beautiful.  Soft pale pink can
+be seen inside the shell, but the detailed outer designed made by whatever
+sea-creature is truly an artist.  Each swirl of the shell is a different shade
+of pink, until at the very tip of the spiral shaped shell a tiny pea-size pearl
+seemly has grown out of it.  An unusual glow flows out from inside of the
+shell, it has a soft white-blue glow that can give enough light in the darkness
+to see ones' way.    
+~
+#21
+eyebrow~
+Sirrion's missing eyebrow~
+Gross a pile of eyebrow hair is laying here.~
+~
+11 0 32769
+0 0 0 0
+0 0 0 1 -1
+#25
+symbol faith priestly newbie disk~
+a silver chain bearing a priestly symbol of faith~
+A small, simply carved disk bears the carvings of a priestly order of faith.~
+~
+12 0 16389
+0 0 0 0
+1 5 0 1 -1
+E
+symbol disk chain faith~
+   Worn by those newly ordained of any faith, this thin chain bears a simple
+steel disk.  Simple as it may appear to non clergy, it holds hope in the future
+for those who wear it.  Presented on the day of their annointing as an acolyte,
+it is the first step of many in any order of any faith.    
+~
+#26
+mirror small magecomp~
+a small mirror~
+You glance upon your own reflection in a small mirror which lies here unused.~
+~
+12 0 16385
+0 0 0 0
+1 25 5 5 -1
+#27
+map fragment ancient magecomp clericcomp~
+a fragment of an ancient map~
+A scrap of map lies here.~
+~
+12 0 16385
+0 0 0 0
+1 150 5 10 -1
+#28
+doorframe miniature twisted clericcomp~
+a miniature twisted doorframe~
+A miniature doorframe, twisted around itself, lies here.~
+~
+12 0 16385
+0 0 0 0
+1 30 5 12 -1
+#29
+figurine sword magecomp~
+a figurine of a sword~
+You almost prick your foot on a sword the size of your finger.~
+~
+12 0 16385
+0 0 0 0
+1 61 5 14 -1
+#30
+fur patch small magecomp~
+a small patch of fur~
+A small patch of fur lies here.~
+~
+12 65536 16385
+0 0 0 0
+1 21 1 20 -1
+#31
+shard bone dragon dragons dragon's magecomp~
+a shard of dragon's bone~
+A shard of bone from an ancient red dragon lies here.~
+~
+12 65537 16385
+0 0 0 0
+1 60 5 21 -1
+#32
+eye beholder central slimy magecomp~
+the central eye of a beholder~
+A slimy eye lies here.~
+~
+12 65600 16385
+0 0 0 0
+1 421 5 24 -1
+#33
+prism small glass magecomp~
+a small glass prism~
+A small glass prism glitters in the light.~
+~
+12 65536 16385
+0 0 0 0
+1 42 1 24 -1
+#34
+guano bat magecomp~
+some bat guano~
+The guano of a bat lies here.~
+~
+13 0 16385
+0 0 0 0
+1 70 5 7 -1
+#35
+limestone pinch bit crushed powdered lime magecomp~
+a pinch of powdered lime~
+A small bit of crushed limestone and carbon lies here.~
+~
+12 0 16385
+0 0 0 0
+1 16 1 15 -1
+#36
+diamond perfectly cut flawless magecomp clericcomp~
+a perfectly cut diamond~
+A flawless diamond, for some strange reason, has been left here.~
+~
+8 0 16385
+0 0 0 0
+1 100 1 13 -1
+#37
+feather hummingbird bird magecomp~
+a hummingbird feather~
+The feather of some bird floats on the wind.~
+~
+12 0 16385
+0 0 0 0
+1 145 5 6 -1
+#38
+pendulum crystal small fragile magecomp~
+&Ca small crystal pendulum&n~
+A fragile piece of crystal lies here on a small chain.~
+~
+12 0 16385
+0 0 0 0
+1 45 1 14 -1
+#39
+statue granite miniature magecomp clericcomp~
+a miniature granite statue~
+A miniature statue carved completely from granite stands here.~
+~
+12 0 16385
+0 0 0 0
+1 30 1 16 -1
+#40
+onyx small black magecomp~
+a small black onyx~
+A small black stone lies here.~
+~
+8 65536 16385
+0 0 0 0
+1 35 1 23 -1
+#41
+sliver ether solid magecomp~
+a sliver of solid ether~
+A solid piece of ether lies here.~
+~
+12 65536 16385
+0 0 0 0
+1 350 5 23 -1
+#42
+rod mirrored mirrors image magecomp~
+a mirrored rod~
+A rod covered in mirrors reflects your own image.~
+~
+12 65536 16385
+0 0 0 0
+1 45 1 25 -1
+#43
+diamond mithril pure magecomp~
+a pure mithril diamond~
+You marvel at a diamond which seems to be made of pure mithril.~
+~
+8 65536 16385
+0 0 0 0
+1 735 150 25 -1
+E
+diamond mithril pure~
+   This diamond, made of pure, crystal-clear mithril, is the size of a large
+man's fist.  It is without a doubt one of the rarest things in the world and
+likely carries a price tag to match.  Working with such a gem can only be done
+with the most steady of hands belonging to the most skilled craftsman.    
+~
+#44
+vial dust pixie magecomp~
+a vial of pixie dust~
+A small vial filled with dust sits to one side.~
+~
+12 65536 16385
+0 0 0 0
+1 50 1 26 -1
+#45
+marionette broken magecomp~
+a broken marionette~
+A broken marionette lies here.~
+~
+12 65536 16385
+0 0 0 0
+1 28 1 26 -1
+#46
+finger lich bone dried magecomp~
+the finger bone of a lich~
+An old dried-out bone lies in the corner.~
+~
+12 65536 16385
+0 0 0 0
+1 280 5 26 -1
+#47
+shard matter elemental fragment magecomp~
+a shard of elemental matter~
+A fragment of the elemental planes hums ominously here.~
+~
+12 65536 16385
+0 0 0 0
+1 100 5 27 -1
+#48
+fang snake carved ivory magecomp~
+&Wan ivory-carved snake fang&n~
+A piece of ivory has been carved into the fang of a snake.~
+~
+12 65536 16385
+0 0 0 0
+1 38 1 28 -1
+#49
+hoop adamantite thick magecomp~
+a thick hoop of adamantite~
+A hoop of adamantite wide enough to stick your arm through lies here.~
+~
+12 65536 16385
+0 0 0 0
+1 63 1 28 -1
+#50
+red metal anti polarized antipolarized magecomp~
+a rod of antipolarized metal~
+A metal rod that seems to be anti-polarized lies here.~
+~
+12 65536 16385
+0 0 0 0
+1 45 1 30 -1
+#51
+book tiny leaf gold magecomp~
+a tiny gold-leaf book~
+A tiny book made of pure gold lies here.~
+~
+12 65536 16385
+0 0 0 0
+0 559 175 30 -1
+#52
+dust vampire sun burned sunburned magecomp~
+dust from a sunburned vampire~
+Dust from a vampire burned by the sun has collected in a little pile.~
+~
+12 65536 16385
+0 0 0 0
+1 400 5 30 -1
+#53
+gem nexus magecomp clericcomp~
+a nexus gem~
+A gem in which several worlds meet hums with a strange power.~
+~
+8 65536 16385
+0 0 0 0
+1 100 1 27 -1
+#54
+petals rose crimson soft magecomp sleep~
+several soft, crimson-colored rose petals~
+Several soft, crimson colored rose petals lie upon the ground here.~
+~
+12 1048576 16385
+1 0 0 0
+0 50 1 14 -1
+E
+petals rose crimson soft~
+   The rose petals appear to be fresh, due to the softness and color.  They are
+a deep, velvety crimson in color, and are quite aromatic.  They are the type of
+rose petals that might be used in ceremonies or in a noblewomans bath.    
+~
+#55
+crucible iron brew~
+a plain iron crucible~
+A plain iron crucible lies here, waiting to be used.~
+~
+14 1048576 16385
+5 0 0 0
+1 50 1 0 -1
+E
+crucible iron~
+   This crucible is made of a dark grey iron, and is quite plain.  No
+ornamentation can be found upon it at all.  It is stoppered with a cork which
+has been coated in beeswax to ensure a sturdy seal.  It looks as though it
+might be used in alchemical practices.    
+~
+#56
+key silver heart-shaped 19054~
+&wa tiny, heart-shaped silver key hanging from a &mpurple&w ribbon&n~
+A silver key has been left here.~
+~
+18 16 16389
+0 0 0 0
+0 10 0 1 -1
+#57
+tiny star garnet stud earring~
+&Ra tiny star-shaped garnet stud earring&n~
+Delete me~
+~
+8 0 2162689
+0 0 0 0
+1 422 16 15 -1
+A
+24 -2
+#58
+veil crimson silk lace~
+a veil of crimson silk lace~
+An unfinished object is lying here.~
+~
+17 257 34817
+10 10 10 0
+15 0 0 5 -1
+#59
+batter~
+a bowl of pancake batter~
+An unfinished object is lying here.~
+~
+27 0 1
+24 0 0 0
+0 0 0 0 -1
+#60
+catfish fish freshwater~
+a large catfish~
+A large catfish is here, waiting to become someone's meal.~
+~
+27 0 1
+25 0 0 0
+1 25 1 4 -1
+E
+catfish fish~
+   This is a large channel catfish, or simply a "channel cat" as fisherman
+commonly call them.  Its skin is a muddy brown in color, and lacks 'scales' as
+you would normally find on fish.  Catfish are one of the most sought after
+kinds of fish for consumption, and it seems you're in luck.  This particular
+catfish is an excellent size, and could probably feed two or three people.    
+~
+#61
+perch yellow fish freshwater~
+a medium-sized yellow perch~
+A medium-sized yellow fish has been left here.~
+~
+27 0 1
+12 0 0 0
+1 12 1 4 -1
+E
+perch yellow fish~
+   This fish is known as a yellow perch.  It is a freshwater fish, and is
+highly sought after for consumption.  It is considered one of the best tasting
+of the freshwater varieties of fish, due to a very low 'fishy' smell and taste.
+It is also less common than some other edible kinds of fish, such as trout or
+catfish.  Yellow perch are generally prepared as fillets, grilled.    
+~
+#62
+trout rainbow fish freshwater~
+a medium-sized rainbow trout~
+A rainbow trout lies here, waiting to become someones meal.~
+~
+27 0 1
+10 0 0 0
+1 10 1 4 -1
+E
+trout rainbow fish~
+   The rainbow trout is a freshwater fish, and is a common "game" fish, meaning
+they are highly sought after by fisherman for the sport of it.  It is said that
+trout put up a rather fiesty fight.  Their name is a bit misleading, as they
+are not rainbow colored, but are generally a steel-blue, blue-green, or
+yellow-green in color depending on what type of water source they were fished
+from.  The flesh of rainbow trout tends to be a vivid red in color, or light
+pink if fished from a lake rather than a river or stream.  They make for a
+decent meal.    
+~
+#63
+bass largemouth fish freshwater~
+a largemouth bass~
+A largemouth bass is here, waiting to become someone's meal.~
+~
+27 0 1
+25 0 0 0
+5 15 1 4 -1
+E
+bass largemouth fish freshwater~
+   Largemouth bass are highly prized among freshwater fishermen as a game fish,
+though they are edible as well.  Though common, it can sometimes be difficult
+to catch a decently sized one.  A trophy-worthy fish would be around twenty
+pounds or so, much like this one.  When cleaned and cut into fillets, a fish
+this size could probably feed five or six people.  The ideal preperation for
+this fish is to fry or grill the fillets.    
+~
+#64
+sturgeon white fish freshwater~
+a huge, white sturgeon~
+A huge white sturgeon lies here, waiting to become someones meal.~
+~
+27 0 1
+50 0 0 0
+30 50 1 4 -1
+E
+sturgeon white fish~
+   To say the Sturgeon is a unique fish is an understatement.  All species of
+Sturgeon have a cartilaginous skeleton and tubelike, protractile mouths.  The
+Sturgeon wears a coat of body armour with large bony plates on the head and
+along the back and sides.  Coloring ranges from a greenish gray on the back to
+a white belly.  The White Sturgeon lives a long time and may reach ages that
+exceed 100 years.  They have also been known to reach lengths of 15 feet.  
+This particular sturgeon is a mere 30 pounds, but still a fine catch
+nontheless.  They are highly prized for consumption, as well as is their eggs,
+which is used in caviar.    
+~
+#65
+branches twigs waterlogged freshwater~
+a small mass of waterlogged branches and twigs~
+A small mass of waterlogged branches and twigs lies here, smelling of fish.~
+~
+13 0 1
+0 0 0 0
+1 0 0 4 -1
+E
+branches twigs waterlogged~
+   This is a small mass of tangled branches and twigs, covered in moss and
+slime.  It looks like something one might find at the bottom of a lake, or
+river.  The wood is completely waterlogged, and would be useless for making a
+fire.  It reeks of fish, which gives the impression that that is precisely
+where it came from.    
+~
+#66
+boot waterlogged freshwater saltwater~
+an old, waterlogged boot~
+An old, waterlogged boot lies here, reeking of fish.~
+~
+13 0 1
+0 0 0 0
+1 0 0 1 -1
+E
+boot waterlogged old~
+   This old leather boot looks to have been submerged in water for a long, long
+time.  It is very close to simply falling apart.  It is waterlogged, and smells
+heavily of fish.  Indeed, looking inside you see what looks to be the partial
+remains of some kind of fish, as well as a generous portion of mud.    
+~
+#67
+seaweed clump saltwater~
+a small clump of seaweed~
+A small clump of seaweed lies here, reeking.~
+~
+19 0 1
+1 0 0 0
+1 5 1 4 -1
+E
+seaweed clump~
+   This is a small clump of kelp, or seaweed as it is more commonly known.  It
+smells very strongly, and most people would recoil from it.  Seaweed is
+sometimes used in food, mostly as a garnish after it has been dried out.  
+Certain cultures also seperate the salt from it, and use the salt as seasoning.
+The seaweed itself is edible as is, but would taste absolutely horrible.    
+~
+#68
+snapper red large saltwater fish~
+a large red snapper~
+A large red snapper lies here, waiting to become someones meal.~
+~
+27 0 1
+20 0 0 0
+1 20 1 4 -1
+E
+snapper red large fish~
+   This fish is highly prized for consumption, both for its appealing taste, as
+well as the average size of the fish.  Red Snapper grows to an average weight
+of twenty pounds, providing quite the meal.  It can usually be found along
+coastal regions, especially near underwater shelves or coral.  It is light pink
+to bright red, with a white underside.    
+~
+#69
+bass sea medium fish saltwater~
+a medium-sized sea bass~
+A medium-sized sea bass lies here, waiting to become someones meal.~
+~
+27 0 1
+13 0 0 0
+1 13 1 4 -1
+E
+sea bass medium fish~
+   This saltwater fish is a common choice for consumption, and can be cooked in
+a number of ways.  The flesh is firm, and is snow-white.  They can get as big
+as nine pounds, though the average size is around five.    
+~
+#70
+cod brown fish saltwater~
+a large, brown cod~
+A large, brown cod lies here, waiting to become someones meal.~
+~
+27 0 1
+15 0 0 0
+1 15 1 4 -1
+E
+cod brown fish~
+   This fish is known as cod, and is a popular fish for consumption due to its
+taste and variety of uses.  It has dark green or brown skin and its belly is
+white.  Its upper body is mottled with white spots.  Its culinary uses are
+almost endless, and traditionally, cod has been salted, fried, and creamed.  
+Some of the larger catches, 25 pounds or more are often cut into steaks.    
+~
+#71
+salmon fish saltwater pink~
+a small, pink salmon~
+A small, pink salmon lies here, waiting to become someones meal.~
+~
+27 0 1
+10 0 0 0
+1 10 1 4 -1
+E
+salmon fish pink~
+   This fish is known as pink salmon.  The fish itself is actually a dull
+silver in color, but takes its name from the color of its flesh.  Salmon is a
+common fish, and bears a decent, though quite 'fishy' taste.  This particular
+salmon isn't very big, though large enough to eat.    
+~
+#72
+tuna yellowfin saltwater fish~
+a large, yellowfin tuna~
+A large, yellowfin tuna lies here, waiting to become someones meal.~
+~
+27 0 1
+50 0 0 0
+20 50 1 4 -1
+E
+tuna yellowfin fish~
+   This fish is huge, and is known as a yellowfin tuna.  It is a dusky white in
+color, spotted with black.  Its fins are yellow, as its name suggests.  This is
+a common fish, though one that is usually caught by fishermen using a boat and
+net.  This fish is consumed in a variety of ways, though it is popular raw, as
+well as cut into steaks.  This particular tuna could feed five or six people.
+  
+~
+#73
+pink vial blue~
+&Ca sky-blue and &Mpink&C swirling vial&n~
+An odd looking pink and blue vial has been left here.~
+~
+10 0 1
+20 65 0 0
+2 4025 23 10 -1
+#74
+pancakes~
+a big pile of pancakes smothered with maple syrup~
+An unfinished object is lying here.~
+~
+19 0 1
+80 0 0 0
+0 0 0 0 -1
+#75
+cage animal metal~
+a small metal animal cage with a water bottle~
+A small metal animal cage is sitting here.~
+~
+15 0 1
+100 1 -1 0
+0 10 10 5 -1
+E
+cage metal animal~
+   This cage does not seem to large, but it is suitable for travel for medium
+to little size animals.  Fresh bedding lines the bottom of the cage, and a
+small waterbottle has been strapped to a side of it.    
+~
+#80
+crimson blouse form form-fitting~
+&ra form-fitting crimson blouse with a deep neckline&n~
+A pile of crimson cloth has been left here.~
+~
+11 0 9
+0 0 0 0
+2 5331 89 16 -1
+A
+4 1
+A
+6 1
+#90
+satchel courier's courier leather disguise~
+&ya worn, leather courier's satchel&n~
+A worn, leather courier's bag lies on the ground here.~
+~
+15 1048576 1065985
+35 1 -1 0
+1 80 20 4 -1
+E
+satchel courier courier's leather worn~
+   This leather satchel is well-constructed and quite convenient to use.  
+Formed of worn, rough leather, it has been dyed a deep brown in color and may
+be closed by means of a sturdy flap which buttons into a rivet on the side.  
+It has multiple smaller pockets inside the main pocket, and seems large enough
+to hold many documents without being so bulky as to get in the wearer's way.  
+
+~
+#91
+tunic frilly brightly colored disguise~
+&Ra frilly, brightly colored tunic&n~
+A frilly, brightly colored pile of cloth lies discarded here.~
+~
+11 1048576 9
+0 0 0 0
+1 44 11 4 -1
+E
+tunic frilly brightly colored~
+   This tunic is a bright, vibrant red in color, and lined along the cuffs with
+a frilly material.  Presumeably designed with one thing in mind, to attract
+attention, it certainly manages to do its job.  This is a perfect garment for
+performers and those wishing to make a statement.    
+~
+A
+17 -2
+#92
+handdrum drum hand windmill disguise~
+a windmill styled hand drum~
+A windmill styled hand drum has been set on the ground.~
+~
+12 1048576 16385
+0 0 0 0
+1 12 3 1 -1
+E
+drum hand handdrum windmill~
+   This is a windmill style hand drum, often found in temples and monastaries.
+It consists of two small stones, attached to either side of a small drum with
+twine.  The drum itself is set atop a short handle, which is rolled between the
+hands.  This motion causes the stones to swing, striking the drum to produce a
+beat.  Often these drums are painted and carved with designs, and this one is
+no exception.  Painted on the skin of the drum is a picture of a hand, holding
+symbols of each element.  The handle of the drum is carved with a swirling,
+wind-like pattern.    
+~
+#93
+robes simple novice disguise~
+a set of simple novice robes~
+A set of robes made from uncolored cotton bear no markings or designs.~
+~
+11 1048576 9
+0 0 0 0
+1 480 30 10 -1
+E
+robes novice simple~
+   These robes are faintly grey in color and are of a thick woolen material.  
+The edges are trimmed with a wide-strip of ribbon of the same color, and, when
+worn nearly reach the ground.  The only distinguishing marking on the thick
+cloth is a small emblem in the corner, hastily made to look like that of the
+Conclave of Mages.  A mage of the Conclave would recognize the emblem as fake
+if they looked closely, however.    
+~
+A
+17 -2
+#94
+primer novice novice's disguise~
+a novice's spell primer~
+A novice's spell primer lies forgotten here.~
+~
+16 131072 16385
+0 0 0 0
+1 1776 120 1 -1
+E
+primer novice novice's~
+   At first glance, this small leather-bound book to be a journal.  It is only
+upon opening it and perusing a few of the pages that one might guess that this
+is a novice mage's spellbook.  These 'primers' as they are known, are often
+given to early students of magic so that they might practice and learn their
+spells.    
+~
+#95
+moustache solamnic long disguise~
+a long, solamnic-styled moustache~
+A long, fake moustache lies discarded here.~
+~
+12 1048576 32769
+0 0 0 0
+1 100 25 1 -1
+E
+moustache solamnic long~
+   This long, solamnic-style moustache looks like quite the real article,
+leading one to wonder if some Knight is wandering around looking for his facial
+hair.  More likely is that this excellent copy is made from horse, or some
+other animal's hair.  The only feasible application of this would be as a
+practical joke, no doubt.    
+~
+#96
+history family coat of arms device heraldry heraldric disguise~
+a coat of arms and complete family history~
+A artistically drawn family tree and heraldric device has been dropped here.~
+~
+16 0 16385
+0 0 0 0
+1 2500 312 10 -1
+E
+history family coat arms forgery~
+   A heraldic device is made of a number of charges (objects, creatures, or
+geometric shapes) arranged on a field (or background).  Ideally, the result is
+simple, memorable, and easily identified.  The heralds restrict the possible
+colors, poses, and arrangements of charges in a device.  They do not restrict
+the objects or creatures you can choose from (except that you may only use
+period objects or creatures).  Any good forgery, including this one, will
+follow the these guidelines in order to appear legitimate.
+
+   This lovely family crest also comes with a complete family tree,
+demonstrating its noble lineage.
+~
+#97
+shield decorated crowns heraldric device disguise~
+a shield decorated with three crowns, likely a heraldric device~
+A shield, ornamented with three crowns, has been forgotten here.~
+~
+9 0 33554945
+12 0 0 0
+8 3220 1610 25 -1
+E
+shield decorated crowns heraldric device disguise~
+   This triangular shield has been enameled with a bright blue colour.  It is
+ornamented with three yellow crowns.  The contrasting colours and repetitive
+use of a family symbol are quite common amongst heraldric devices.    
+~
+#98
+tunic tattered disguise~
+a tattered tunic~
+A tattered tunic is lying here.~
+~
+11 1048576 9
+0 0 0 0
+1 8 2 1 -1
+E
+tunic tattered~
+   This old and tattered tunic was once a lively blue color but has faded, and
+has several tears.  It smells something awful, so badly that it makes one's
+senses reel just thinking of what could produce such a scent.    
+~
+A
+17 -1
+#99
+putty face some disguise~
+some face putty~
+Some face putty is lying here.~
+~
+12 0 32769
+0 0 0 0
+1 80 20 1 -1
+E
+putty face~
+   This is an application of face putty, used for a variety of purposes.  Its
+main application is in theater or performance-work, when one wishes to modify
+their appearance in order to fit a particular part better.  When molded to a
+person's features, it can look quite realistic.  Some of the more devious sort
+prefer to use face putty to aid in disguising themselves.    
+~
+$~

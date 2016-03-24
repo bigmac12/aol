@@ -1,0 +1,430 @@
+#30501
+sign wooden simple~
+a simple wooden sign~
+A wooden sign has been affixed to the western wall.~
+~
+13 0 0
+0 0 0 0
+9999 0 0 0 -1
+E
+sign wooden simple~
+   This sign appears to be made of plain, rough-cut pine.  It lacks any
+markings of real craftsmanship and was obviously created for the most
+utilitarian of purposes.
+
+North - Front desk
+East  - The bar
+South - Sanction Square
+Down  - Mail/Public Boards
+~
+#30502
+flute bloody wooden aspen~
+a bloody wooden flute~
+A bloody wooden flute hangs from a plaque behind the bar.~
+~
+8 0 0
+0 0 0 0
+9999 0 0 0 -1
+E
+flute bloody wooden plaque aspen~
+   How and why this flute came to have one end coated in blood is anyone's
+guess.  Occasionally the odd story will surface in the bar about some great
+event that occurred in the tavern's history that caused the instrument of music
+to be used as an instrument of pain, but the likelihood of any one story being
+more true than another is slim at best.  Expertly carved of pure aspen, the
+flute is covered in blood from the mouthpiece down to about half its overall
+length.  Whatever happened with it must have been gruesome indeed.    
+~
+#30503
+hearth large stone~
+a large stone hearth~
+A large stone hearth sits against the southern wall, providing heat and light.~
+~
+24 0 0
+0 0 0 0
+9000 0 0 0 -1
+#30509
+key purple ribbon copper 30509~
+a copper key dangling from a &Mpurple ribbon&n~
+A copper key laced on a bright purple ribbon has been left here.~
+~
+18 1048580 20485
+0 0 0 0
+0 50 0 5 -1
+#30510
+key copper emerald ribbon 30510~
+a copper key dangling from an &gemerald ribbon&n~
+An emerald ribbon with a copper key has been left here.~
+~
+18 1048580 20485
+0 0 0 0
+0 50 0 5 -1
+#30511
+key copper crimson ribbon 30511~
+a copper key dangling from a &rcrimson ribbon&n~
+A crimson ribbon with a copper key has been left here.~
+~
+18 1048580 20485
+0 0 0 0
+0 50 0 5 -1
+#30512
+key copper ebony ribbon 30512~
+a copper key dangling from an &Kebony&n ribbon~
+An ebony ribbon with a copper key has been left here.~
+~
+18 1048580 20485
+0 0 0 0
+0 50 0 5 -1
+#30514
+unfinished~
+an unfinished object~
+An unfinished object is lying here.~
+~
+13 0 1
+0 0 0 0
+0 0 0 0 -1
+#30516
+scimitar steel leather wrapped leather-wrapped hilt~
+a steel scimitar with a leather-wrapped hilt~
+A steel scimitar with a leather-wrapped hilt lies here.~
+~
+5 12288 8193
+0 2 3 3
+5 30 8 5 -1
+#30517
+staff quarterstaff wooden steel capped steel-capped ends~
+a wooden quarterstaff with steel-capped ends~
+A wooden quarterstaff with steel-capped ends lies here.~
+~
+5 0 8193
+0 2 3 7
+4 51 12 7 -1
+#30518
+dagger steel serrated blade~
+a steel dagger with a serrated blade~
+A serrated steel dagger lies here.~
+~
+5 8192 1006657537
+0 2 3 11
+2 36 9 5 -1
+#30519
+blade thin curved matte finish~
+a thin, curved blade with a matte finish~
+A thin blade with a matte finish lies here.~
+~
+5 12288 75505665
+0 2 3 3
+2 32 8 8 -1
+#30520
+axe battle black-bladed black bladed silver handle~
+&Ka black-bladed battle axe with a &wsilver&K handle&n~
+A battle axe with a black blade and a silver handle lies here.~
+~
+5 28672 8193
+0 2 3 16
+8 17 5 6 -1
+#30521
+hammer oak handled oak-handled battle heavy~
+a heavy, oak-handled battle hammer~
+A heavy hammer with an oak handle lies here.~
+~
+5 336089088 1
+0 2 3 7
+8 48 12 7 -1
+#30522
+whip small brown wickedly barbed wickedly-barbed tips~
+&ya small brown whip with wickedly-barbed tips&n~
+A short whip with barbed tips lies here.~
+~
+5 4608 8193
+0 2 3 2
+4 30 8 5 -1
+#30523
+buckler thin well-used well used steel~
+a thin, well-used buckler~
+A thin buckler made of low quality steel lies here.~
+~
+9 2641920 513
+1 0 0 0
+4 15 4 2 -1
+#30524
+shield light elven make~
+a light shield of elven make~
+A shield of elven make lies here.~
+~
+9 2641920 513
+1 0 0 0
+4 22 6 3 -1
+#30525
+helmet bronze golden feathered plumes~
+&ya bronze helmet with golden feathered plumes&n~
+A bronze helmet with a feathery golden plume lies here.~
+~
+9 136859648 17
+1 0 0 0
+8 26 13 4 -1
+#30526
+legplates decorated copper pair~
+&ya pair of decorated copper legplates&n~
+A pair of copper legplates lie here.~
+~
+9 2641920 33
+2 0 0 0
+5 38 9 6 -1
+#30527
+armplates decorated copper pair~
+&ya pair of decorated copper armplates&n~
+A pair of copper armplates lie here.~
+~
+9 2641920 257
+2 0 0 0
+5 38 9 6 -1
+#30528
+shoes horseshoes horse tempered copper pair~
+&ya pair of tempered copper horseshoes&n~
+A pair of tempered copper horseshoes lie here.~
+~
+9 937971712 65
+4 0 0 0
+5 64 18 8 -1
+#30530
+vial dark red diamond shape cure-light~
+&ra diamond shape vial with dark red liquid&n~
+A diamond shape vial with dark liquid has been left here.~
+~
+10 0 1
+10 16 0 0
+1 650 1 10 -1
+#30534
+truffle chocolate peanut-butter~
+&ya chocolate peanut-butter truffle coated in finely diced peanuts&n~
+A small chocolate truffle with a peanut coating has been left here.~
+~
+19 0 1
+8 0 0 0
+0 50 0 1 -1
+#30535
+cupcake chocolate vanilla frosting~
+&ya chocolate cupcake with &Wvanilla &yswirl frosting&n~
+A chocolate cupcake has been left here.~
+~
+19 0 1
+8 0 0 0
+0 10 1 1 -1
+#30536
+cupcake vanilla strawberry frosting~
+&Wa vanilla cupcake with &Rstrawberry&W frosting~
+A vanilla cupcake red frosting has been left here.~
+~
+19 0 1
+8 0 0 0
+0 10 1 1 -1
+#30537
+pie blueberry ~
+a slice of fresh blueberry pie with a dollop of whipcream~
+A slice of blueberry pie has been left here.~
+~
+19 0 1
+8 0 0 0
+0 11 1 1 -1
+#30538
+pudding bread-pudding bowl~
+a bowl full of warm bread pudding and fresh whip cream~
+A bowl of bread pudding with whip cream has been left here.~
+~
+19 0 1
+10 0 0 0
+0 13 1 1 -1
+#30539
+pie apple cinnamon whip cream~
+a thick slice of warm apple pie with cinnamon glazed whipcream~
+A slice of warm apple pie has been left here.~
+~
+19 0 1
+8 0 0 0
+0 14 0 1 -1
+#30540
+muffin blueberry sugar~
+a gigantic blueberry muffin with crystallized sugar crust~
+A gigantic blueberry muffin has been left here.~
+~
+19 0 1
+12 0 0 0
+0 20 5 1 -1
+#30541
+truffle chocolate raspberry~
+&ya rich chocolate truffle with &rraspberry&y liquor filling&n~
+A chocolate truffle has been left here.~
+~
+19 0 1
+4 0 0 0
+0 50 0 1 -1
+#30542
+truffle chocolate ~
+&ya chocolate truffle with a sprinkle of chili powder and cinnamon&n~
+A chocolate truffle with red and brown sprinkles has been left here.~
+~
+19 0 1
+5 0 0 0
+0 50 1 1 -1
+#30543
+truffle white chocolate saffron cocoa~
+&Wa white chocolate truffle dusted with saffron and &ycocoa&W powder&n~
+A white chocolate truffle has been left here.~
+~
+19 0 1
+4 0 0 0
+0 50 0 1 -1
+#30550
+basket fried cod fish potatoes potato ~
+a large basket of fried cod and potatoes wedges~
+A large basket of fried food has been left here.~
+~
+19 0 1
+25 0 0 0
+1 57 1 1 -1
+#30552
+backpack leather sanction~
+&Wa weathered leather backpack with a wide flap&n~
+A large weathered backpack has been left here.~
+~
+15 1048576 524289
+43 1 -1 0
+1 80 10 12 -1
+#30553
+lantern wrought wrought-iron iron candle~
+a wrought-iron lantern with a thick candle~
+A square, wrought-iron lantern has been left here.~
+~
+1 1048576 1
+0 0 40 0
+2 68 2 10 -1
+#30554
+waterskin waxy hip~
+a waxy, leather waterskin with a hip strap~
+A glossy wax waterskin has been left here.~
+~
+17 1048576 16779265
+50 50 15 0
+55 123 10 10 -1
+#30563
+drawer key30564~
+a long desk drawer~
+A desk drawer~
+~
+15 2 1
+991 9 30564 0
+9992 0 0 0 -1
+E
+drawer~
+This thick wooden drawer seems to have a brass keyhole.
+~
+#30564
+key skeleton brass~
+&ya brass skeleton key&n~
+A brass skeleton key has been left here.~
+~
+18 65540 1
+0 0 0 0
+1 4 0 10 -1
+#30570
+tattoo red star~
+&Ra tattoo of a heavily-stylized bright red star&n~
+How did this get here?~
+~
+11 1114264 34771437
+0 0 0 0
+0 61620 20 15 -1
+A
+6 1
+A
+24 1
+#30571
+tattoo concentric circles~
+&Wa bold tattoo of concentric, bright white circles&n~
+How did this get here?~
+~
+11 1114648 1217005
+0 0 0 0
+0 61620 20 15 -1
+#30572
+tattoo raven ~
+&Ka tattoo of a flying black raven with &rruby-colored&K eyes&n~
+How did this get here?~
+~
+11 1114264 1741293
+0 0 0 0
+0 61620 20 15 -1
+#30573
+tattoo bear earthy~
+&yan earthy-brown tattoo of a large bear's paw&n~
+An unfinished object is lying here.~
+~
+11 1114264 1741293
+0 0 0 0
+0 61620 20 15 -1
+#30574
+tattoo swords golden~
+&Ya golden tattoo of a pair of crossed swords&n~
+An unfinished object is lying here.~
+~
+0 1114264 1741165
+0 0 0 0
+0 61620 20 15 -1
+#30575
+tattoo sword blood~
+&ra tattoo of an upside-down sword dripping with blood&n~
+An unfinished object is lying here.~
+~
+11 1114264 1741293
+0 0 0 0
+0 61620 20 15 -1
+#30576
+tattoo ivy rosebuds~
+&ga detailed, twining tattoo of ivy and rosebuds&n~
+An unfinished object is lying here.~
+~
+11 1114264 1741293
+0 0 0 0
+0 61620 20 15 -1
+#30577
+tattoo wolf head azure howling~
+&Ka tattoo of a howling wolf head with &bazure eyes&n~
+An unfinished object is lying here.~
+~
+11 1114264 1741293
+0 0 0 0
+0 61620 20 15 -1
+#30597
+plans architect architectural thick parchment~
+a set of architectural plans on thick parchment~
+An unfinished object is lying here.~
+~
+12 0 16385
+0 0 0 0
+1 0 0 0 -1
+#30598
+bench work workbench granite tools organized perfectly~
+a granite workbench~
+A granite workbench, covered with perfectly-organized tools, rests near the forge.~
+~
+15 0 0
+100 0 -1 0
+9000 0 0 0 -1
+#30599
+forge smokeless smelter~
+a smokeless forge and smelter~
+&KA smokeless forge covered with &rbloodstone-inlaid&K carvings has been built into the southern wall.&n~
+~
+24 0 0
+0 0 0 0
+9000 0 0 0 -1
+E
+forge smokeless smelter~
+   Carved and crafted out of a conglomerate of marble and heavy granite, this
+forge is itself a work of art.  While functional, it is covered with beautiful
+carvings of Sirrion's holy symbol across the matte-finished surface.  The stone
+itself is black, but the carvings are inlaid in ruby and bloodstone which sets
+them off in the most vibrant and attention-fetching way.    
+~
+$~

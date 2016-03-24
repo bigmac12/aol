@@ -1,0 +1,1227 @@
+#4701
+policy board rules~
+the rules and policies board~
+A large board, filled with various posts of rules and policies, is here.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#4702
+regular board~
+the main posts board~
+A large board, composed of various posts of all subjects, decorates one wall.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#4703
+board out of character~
+the out-of-character board~
+A board made for out-of-character comments, questions and such, rests here.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#4704
+bug board scribbles~
+a bug board~
+The bug board, full of scribbles about possible bugs and such, lies here.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#4705
+crime board criminal wanted~
+a board of wanted criminals~
+A board with descriptions and posters of criminals rests against the wall.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#4706
+trade board trading special events~
+a board of trading posts and special events~
+Trading posts and special event flyers cover the board.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#4713
+well glass stone deep~
+a deep, glass-sided well~
+A deep well formed with glass-like stones serves as the towns water supply.~
+~
+23 0 0
+100000 100000 0 0
+100005 0 0 0 -1
+E
+well glass~
+   The well in the middle of this public commons has been made of heated
+sandstone to give it a glassy appearance, and taking the place of the usual
+fountain statues.  The water has a slight metallic taste to it, but is fine for
+drinking.    
+~
+#4715
+plaque silver small~
+a small silver plaque~
+A small silver plaque hangs beside the door.~
+~
+0 0 0
+0 0 0 0
+0 0 0 1 -1
+E
+plaque gold gilded~
+
+*********************************************************
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The Temple of Shinare made possible by donations from:
+
+Talitha Mordraine, Priestess of Shinare
+Lerog Hammerstone, Local Merchant
+Alessandra Mornay, Paladin of Shinare
+Anthony Shadow, Trainee Merchant (Lerog & Co.)
+Lord Vertrothe
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+*********************************************************
+
+~
+#4716
+scarf hip scarf shimmering sirrion~
+&ra shimmering hip scarf with &Yf&Rl&Ya&Rm&Ye-&Rc&Yo&Rl&Yo&Rr&Ye&Rd&r fringe&n~
+A shimmering flame-colored net has been left here.~
+~
+11 1048576 2049
+0 0 0 0
+1 952 3 15 -1
+A
+1 1
+#4717
+brassier bra iridescent~
+&Yan iridescent brassier stitched with gold thread&n~
+A shimmering gold brassier lies here.~
+~
+11 1048576 9
+0 0 0 0
+1 425 2 15 -1
+#4720
+sign street streetsign big streetlamp lamp~
+a big street sign~
+A big streetsign in the middle of the intersection also serves as a streetlamp.~
+~
+1 16 0
+0 0 -1 0
+0 0 0 0 -1
+E
+sign street streetsign big~
+                NORTH --- Main Street
+                            Burrett's Weapon Shop
+
+                EAST ---- Merchant Street
+                            Treasury of Talenrock
+                            Temple of SIrrion
+                            Firewater Inn (and Bar)
+
+                SOUTH --- Main Street
+                            Champion's Armory
+
+                WEST ---- Merchant Street
+                            Burrett's Weapon Shop
+                            Champion's Armory
+                            Talenrock Grocery and Goods
+                            Mitzel's Magic
+                            The Gemstone Cottage
+
+
+~
+#4721
+disc bloodstone~
+&ran engraved bloodstone disc, hanging from a silver chain&n~
+An engraved bloodstone disc, hanging from a silver chain lies forgotten here.~
+~
+3 15132224 5
+14 3 3 41
+1 3700 1000 14 -1
+E
+disc bloodstone veiled maiden~
+   This simple bloodstone disc is about the size of a copper piece, and hangs
+from a fine silver chain.  It is engraved upon the front with the image of a
+veiled maiden, and is strangely cool to the touch.  N the back, inscribed in
+the script known as Magius which only Magi may read are the words, '&rLuin
+Provides&n'.    
+~
+A
+4 1
+A
+17 -1
+#4722
+cloak snow white designs stitched~
+&Wa snow-white cloak, stitched with designs of silver&n~
+A pile of snow white fabric lies here, glints of silver peeking out.~
+~
+11 64 1049601
+0 0 0 0
+1 2040 1020 20 -1
+E
+cloak snow white silver~
+   This cloak is of the finest quality, yet seems to be a practical item for
+outdoor use.  It is cut from a fine white cloth, and hangs just low enough as
+to avoid brushing the ground.  It is stitched with a fine silver thread, making
+a beautiful knotwork pattern that traces the edges of the cloak.  Strangely, it
+seems to exude just the slightest amount of warmth.    
+~
+A
+17 -4
+A
+24 -1
+#4723
+cloak crimson gold colored red~
+&Ra crimson-colored cloak, stitched with designs of gold&N~
+A pile of blood red cloth lies here, glints of gold peeking out.~
+~
+11 64 1049601
+0 0 0 0
+1 2040 1020 20 -1
+E
+cloak crimson gold colored red~
+   This cloak is of the finest quality, yet seems to be a practical item for
+outdoor use.  It is cut from a fine red cloth, and hangs just low enough as to
+avoid brushing the ground.  It is stitched with a fine golden thread, making a
+beautiful knotwork pattern that traces the edges of the cloak.  Strangely, it
+seems to exude just the slightest amount of warmth.    
+~
+A
+17 -4
+A
+24 -1
+#4724
+shadowy black cloak silver~
+&Ka shadowy black cloak, stitched with designs of silver&n~
+A pile of shadowy black cloth lies here, glints of silver peeking out.~
+~
+11 64 1049601
+0 0 0 0
+1 2040 1020 20 -1
+E
+shadowy black cloak silver~
+   This cloak is of the finest quality, yet seems to be a practical item for
+outdoor use.  It is cut from a fine black cloth, and hangs just low enough as
+to avoid brushing the ground.  It is stitched with a fine silver thread, making
+a beautiful knotwork pattern that traces the edges of the cloak.  Strangely, it
+seems to exude just the slightest amount of warmth.    
+~
+A
+17 -4
+A
+24 -1
+#4725
+porcelain mask teardrop ruby~
+&Wa delicate porcelain mask, set with a small &Rruby&W teardrop&n~
+A delicate porcelain mask, set with a small ruby teardrop has been left here.~
+~
+11 1048576 32769
+0 0 0 0
+1 420 60 10 -1
+E
+porcelain teardrop ruby mask~
+   This mask is crafted of very fine porcelain, almost an iridescent milky
+white in color.  It is completely featureless, simply a plain white mask.  The
+only distinguishing mark is a small, dark red ruby in the shape of a teardrop.
+It has been placed just below the right eye slit.    
+~
+A
+17 -1
+#4726
+brooch leaf jasper~
+&ga beautiful leaf-shaped brooch, made of jasper and silver&n~
+A beautiful brooch crafted in the shape of a leaf lies forgotten here.~
+~
+8 0 5
+0 0 0 0
+1 220 70 10 -1
+E
+brooch leaf jasper~
+   This small brooch has been expertly crafted into the image of a dark green
+forest leaf.  The leaf itself is made of polished and enameled green jasper.  
+The lines and veins of the leaf have been delicately traced with darkened
+silver.  The backing is made of silver as well, and bears a pin in order to
+clasp one's cloak together.    
+~
+A
+14 5
+#4727
+heart earring sapphire~
+&Ba heart-shaped earring, made from deep blue sapphire&n~
+A heart-shaped earring, made from deep blue sapphire lies forgotten here.~
+~
+8 0 65537
+0 0 0 0
+0 220 75 10 -1
+E
+earring heart sapphire~
+   This small earring has been hand crafted, quite skillfully, into the shape
+of a heart.  The stone used is a beautiful, depp blue sapphire.  It has been
+expertly cut to allow for as much reflection as possible, allowing it to
+sparkle quite nicely.  The backing of the earring is made of silver.    
+~
+#4728
+circlet silver sapphire teardrop~
+&wa circlet crafted of silver, set with a &Bteardrop sapphire&n~
+A thin silver circlet set with sapphire lies here glittering in the light.~
+~
+8 0 17
+0 0 0 0
+1 550 180 10 -1
+E
+circlet sapphire teardrop~
+   This thin circlet is crafted of silver, and set with a deep blue sapphire
+shaped like a teardrop in the center.  The circlet itself overlaps on the sides
+in a knotwork pattern.  Delicate, detailed lines and patterns have been traced
+into the metal of the circlet along the entire length as well, to give it a
+hand-crafted antique look.    
+~
+A
+17 -2
+#4729
+sai iron leather wrapped~
+an iron sai, with a leather-wrapped handle~
+An iron sai with a leather-wrapped handle has been left here.~
+~
+5 3153920 24577
+2 1 8 14
+3 45 10 9 -1
+E
+sai iron leather wrapped~
+   A sai is a dagger-like weapon with three prongs, rather than the usual one
+blade.  However, the prongs of a sai are rounded, and the tips are somewhat
+blunt.  The weapon is mainly used to catch an oppponents sword or staff in the
+prongs and wrench it from their grasp.  Farmers often use this weapon as a
+farming tool as well, replacing the trowel.  This particular sai is crafted of
+dark, sturdy iron, and the hilt is wrapped with black leather strips.    
+~
+#4730
+&Mfoxglove violet sprig&n~
+&Ma sprig of bright violet foxglove&n~
+&MA bright violet foxglove lies here catching your eye.&n~
+~
+8 0 16385
+0 0 0 0
+0 20 1 1 -1
+E
+foxglove violet~
+   This foxglove is a beautiful deep violet in color, and is in fact a small
+bunch of foxglove flowers.  They grow along a cone-like stem, and fall loosely
+about this stem.  The flowers themselves are vaguely bell-shaped, the outer
+part of the flower being a deep violet, and the inner cup being pink or white.
+They smell quite lovely.    
+~
+#4731
+firewheel firewheels bunch~
+&Ra small bunch of &Yf&Ri&Yr&Re&Yw&Rh&Ye&Re&Yl&R flowers&n~
+&RA small bunch of &Yf&Ri&Yr&Re&Yw&Rh&Ye&Re&Yl&R flowers lie here, catching the eye.&n~
+~
+8 1048576 16385
+0 0 0 0
+0 20 1 1 -1
+E
+firewheel firewheels~
+   The petals of these small, beautiful flowers are a brilliant red in color,
+with the edges trimmed in bright yellow.  The centers of the flowers are a mix
+of red and yellow, looking a bit like fire.  They bear only a slight, spicy
+fragrance.  These flowers are favorites of the followers of Sirrion.    
+~
+#4732
+sunflower yellow brilliant~
+&Ya brilliant yellow sunflower&n~
+&YA brilliant yellow sunflower lies here, catching the eye.&n~
+~
+19 0 16385
+2 0 0 0
+1 20 1 0 -1
+E
+sunflower brilliant yellow~
+   This large sunflower is a brilliant yellow, and indeed looks very much like
+a miniature sun for which it takes its name.  It is rather heavy for a flower,
+mostly because of the many seeds it carries in it's center which are edible,
+and quite tasty.  When refined, the oils from the flower can be used for
+cooking as well.  This flower is among some of the favorites of the followers
+of Sirrion.    
+~
+#4733
+lily snow white~
+&Wa single, snow-white lily&n~
+A single snow-white lily lies here, catching the eye.~
+~
+8 0 81921
+0 0 0 0
+0 20 1 1 -1
+E
+lily snow white~
+   This is a single, snow-white lily.  It seems almost cold and pure, so white
+is it in color.  It bears a heavy, pleasant fragrance.  The lily, especially
+the white variety, has often been regarded as a holy flower.  Also, many
+believe it to be a symbol of virginity or pureness of the heart.    
+~
+#4734
+lavender bunch~
+&ma small bunch of lavender&n~
+&mA small bunch of lavender lies here, catching the eye.&n~
+~
+8 0 16385
+0 0 0 0
+0 20 1 1 -1
+E
+lavender~
+   These lavender flowers are a beautiful, vibrant purple in color, and grow
+sporadically along a long, thin stem.  Several of these plants have been
+bunched together to make a very nice bouquet, and they smell absolutely
+wonderful.  Lavender has been said to have a vast variety of uses, from calming
+the nerves and lowering fever, to heightening one's sensuality and drive for
+passion.    
+~
+#4735
+wildflowers~
+&ma handful of blue and purple &Bw&mi&Bl&md&Bf&ml&Bo&mw&Be&mr&Bs&n~
+A handful of wildflowers lie here, catching the eye.~
+~
+8 0 16385
+0 0 0 0
+1 20 1 1 -1
+E
+wildflowers~
+   This small bunch of wildflowers include many different types, of various
+colors.  White, red, blue, yellow, orange...  Many of the flowers are bright,
+and the entire bouquet gives off a pleasant smell.  This is the type of
+arrangement that would go well in a vase.    
+~
+#4736
+saddle tooled leather~
+a tooled, leather saddle~
+A tooled, leather saddle lies forgotten here.~
+~
+9 1069547520 33554433
+4 0 0 0
+15 800 200 18 -1
+E
+saddle tooled leather~
+   This saddle is crafted of leather, which has been tooled with simple
+knotwork designs.  It seems fairly sturdy, and could be used for a few
+different types of animals.    
+~
+A
+14 20
+#4737
+head bear bear's ferocious~
+a ferocious-looking bear's head~
+A ferocious-lookign bear's head crafted to fit as a helm, lies forgotten here.~
+~
+9 0 17
+6 0 0 0
+4 980 170 18 -1
+E
+bear bear's head ferocious~
+   This is the head of a grizzly bear which the art of taxidermy has been
+applied to, to create an intimidating looking helm of sorts.  The bear's face
+is fixed in a snarling, ferocious look, and the wearer looks out of the maw of
+the beast's head.    
+~
+#4738
+gloves black ratskin rat~
+&Ka pair of black, ratskin gloves&n~
+A pair of gloves made from the hide of a rat have been left here.~
+~
+11 0 129
+0 0 0 0
+1 80 12 4 -1
+E
+gloves ratskin~
+   These thin, sleek gloves have been made from ratskin.  While seemingly an
+odd material to make gloves from, they surprisingly sturdy and warm.  The
+surface of the gloves are covered with soft black fur.    
+~
+A
+17 -1
+#4739
+pelts wolves pile wolf~
+&Wa pile of thick, beautiful wolves pelts&n~
+A pile of thick, rather fine-looking wolves pelts have been left here.~
+~
+11 0 1048577
+0 0 0 0
+4 1025 181 15 -1
+E
+pelts wolves pile~
+   This is a pile of wolves pelts which have been cleaned, making them a
+beautiful white and grey color.  The fur itself is extremely soft to the touch,
+and would keep the wearer quite warm.  They have been arranged so that one
+could wear them about the shoulders, like a mantle or set of pauldrons.    
+~
+A
+17 -4
+#4740
+pelts beaver pile~
+&ya pile of thick, soft beaver pelts&n~
+A pile of thick, soft beaver pelts has been left here.~
+~
+7 0 2049
+0 0 0 0
+2 80 12 4 -1
+E
+pelts beaver pile~
+   This is a pile of thick brown beaver pelts.  They have been sewn together on
+a belt to hang down across the wearers groin and upper-legs, much like an
+armored skirt would do.  The pelts themselves are quite soft, and would keep
+the wearer warm.    
+~
+A
+17 -2
+#4741
+loincloth forest green~
+&ga forest green loincloth, trimmed in black&n~
+A pile of forest green fabric, with bits of black trimming lies here.~
+~
+7 1048576 2049
+0 0 0 0
+2 900 225 18 -1
+E
+loincloth forest green~
+   &gThis loincloth is made from a thick, heavy material.  Even so it is very
+soft to the touch, and falls about the wearers legs easily.  It is a rich, deep
+forest green and is &Ktrimmed in black around the edges.  &g Several small,
+dull steel studs have been sewn into the loincloth for added protection, as
+well as decoration.  &n
+~
+A
+13 5
+A
+17 -4
+#4742
+vial slim crystal blue~
+&Ca slim, crystal blue vial&n~
+A slim, crystal blue vial lies on the ground here.~
+~
+10 65796 1
+18 97 0 0
+0 2100 0 5 -1
+E
+vial crystal blue slim~
+   This slim, crystal blue vial holds a clear liquid inside, and really could
+be mistaken for water.  A closer look reveals a sort of ambient glow in the
+liquid, however.  The vial is stoppered with a cork.    
+~
+#4743
+vial cherry crystal~
+&Ra small crystal vial, filled with a cherry colored liquid&n~
+A small crystal vial, filled with a cherry-colored liquid lies on the ground.~
+~
+10 65796 1
+18 96 0 0
+0 1600 0 5 -1
+E
+vial crystal cherry~
+   This small crystal vial is filled with a vibrant red liquid, and is
+stoppered with a cork.  Unstoppering the vial releases the delicious smell of
+cherries.    
+~
+#4744
+bottle crystal pears green~
+&Ga small crystal bottle, filled with a light green liquid&n~
+A small crystal bottle lies forgotten on the ground.~
+~
+10 65792 1
+18 109 28 0
+0 3055 1527 5 -1
+E
+bottle green crystal~
+   This small crystal bottle is filled with a thin, light green liquid, and is
+stoppered with a cork.  The bottle itself is tiny; palm sized.  When
+unstoppered, the smell of pears rises to your nose.    
+~
+#4745
+drops glum tin~
+a small tin with a faded label which reads, "&KGlum Drops&w"&n~
+A small tin with a faded label which reads, "Glum Drops" lies forgotten here.~
+~
+19 0 16385
+8 0 0 0
+0 500 1 1 -1
+E
+RPnote~
+   These little candies, true to their name, are supposed to make who ever eats
+them glum.  Glum about anything they see, or hear, even perhaps what they
+themselves say or do.  Who knows how these tasty little treats work, perhaps
+they're magicked!  Thus, if you consume them, you should RP accordingly.    
+~
+E
+drops tin glum~
+   This small tin bears a faded paper label on the lid which reads, "&KGlum
+Drops&w".  Taking off the lid you find several small, gum drop candies of
+various colors.  They smell delicious, strangely reminiscent of your favorite
+confectionary.    
+
+(&ylook RPnote for an OOC note&w)&n
+~
+#4746
+wrap wraps wrist red linen~
+&Ra tightly wrapped, red linen wrist-wrap&n~
+A pile of red linen wrappings lie on the ground here.~
+~
+11 1048576 4097
+0 0 0 0
+1 1500 750 21 -1
+E
+wrap wraps linen red wrist~
+   This is little more than a long strip of plain, coarse linen which has been
+dyed red.  Its intended use is to be tightly wrapped about the wrists, both as
+ornamentation and as a bit of light armor for the wrist area.  Even though it
+is only linen, wrapping it so tightly enables it to turn glancing blows from
+blades and the like.    
+~
+A
+17 -2
+A
+13 5
+#4747
+hood oversized brown~
+&yan oversized, cotton hood dyed a brown, bark-like color&n~
+A pile of brown cloth lies in a heap.~
+~
+11 1048576 21
+0 0 0 0
+1 1500 750 21 -1
+E
+hood oversized brown~
+   This hood has been generously cut from cotton dyed a brown, bark-like color.
+Clasps on the back of the hood allow it to be attached to a cloak or cape.  
+Though unadorned, it seems to be a fine garment.  It looks to have been treated
+with some agent to help waterproof it.  The inside of the hood is stitched with
+a small griffon's wing.    
+~
+A
+17 -2
+A
+4 1
+#4748
+bread loaf baked freshly~
+a freshly baked loaf of bread~
+A freshly baked loaf of bread lies here.~
+~
+19 0 1
+20 0 0 0
+1 10 0 0 -1
+E
+bread loaf baked freshly~
+   This loaf of bread has been freshly baked, and is even still warm from the
+bakers oven.  It bears a very light coating of flour upon the bottom, a
+technique bakers use to keep the bread from singeing.  The bread itself is
+quite soft, and smells delicious.    
+~
+#4749
+sweetroll sticky cinnamon~
+a sticky, cinnamon sweetroll~
+A sticky, cinammon sweetroll has been left here.~
+~
+19 0 1
+6 0 0 0
+0 6 1 1 -1
+E
+sweetroll cinnamon sticky~
+   This sweetroll has been made with cinnamon and brown sugar, and is very
+sticky.  Despite that, it is quite delicious and a favorite of children, and
+especially kender.  Even most adults enjoy treating themselves to the
+occasional sweetroll.  They are often given as gifts on Yule as well.    
+~
+#4750
+pipe smoking carved antler~
+a smoking pipe, carved from antler~
+A small, simple smoking pipe carved from the antler of some animal lies here.~
+~
+12 1048576 16385
+0 0 0 0
+0 10 0 1 -1
+E
+pipe smoking carved antler~
+   This small, simple smoking pipe has been carved from the antler of some
+animal, likely a buck.  It is decorated along the length with light engravings
+of vines and ivy, and the bowl depicts the face of an elderly fellow crowned
+with leaves.    
+~
+#4751
+mug stone~
+a large stone mug~
+A large mug carved from smooth grey stone lies here.~
+~
+17 0 1
+10 10 4 0
+15 5 1 1 -1
+E
+mug stone~
+   This is a simple mug, carved from grey stone.  It has been engraved with
+scenes of heroes battling dragons and other monsters.  It is rather decent in
+size, holding a good portion of liquid.    
+~
+#4752
+horn drinking curved beast~
+a large, curved drinking horn~
+A large, curved horn from some beast has been made into a drinking horn.~
+~
+17 0 1
+20 20 3 0
+25 15 2 1 -1
+E
+horn drinking curved~
+   This large, curved drinking horn is made from the horn of some animal,
+perhaps a bison or bull.  The inside has been hollowed out, providing plenty of
+space for storing liquid.  A stopper and chain are attached near the mouth, to
+prevent the contents from leaking out.    
+~
+#4753
+tankard big~
+a big tankard~
+A big tankard, used to keep drinks cool, lies here.~
+~
+17 0 1
+10 10 1 0
+15 5 1 1 -1
+E
+tankard big~
+   This large tankard is made from iron, and is quite simplistic in design.  
+It bears no markings or decoration whatsoever, though it does hold a decent
+amount of liquid.    
+~
+#4754
+glass wineglass small~
+a small wineglass~
+A small wineglass lies here, discarded.~
+~
+17 0 1
+6 6 2 0
+10 6 1 1 -1
+E
+wineglass~
+   This small wineglass has been crafted of crystal-clear glass, which has then
+been engraved along the rim with patterns of winding ivy.  Typical of such a
+glass, it holds only a minimal amount of liquid.    
+~
+#4755
+glass long slender~
+a long, slender glass~
+A long, slender glass lies here.~
+~
+17 0 1
+10 10 5 0
+15 8 2 1 -1
+E
+glass long slender~
+   This glass is tall and slender, and tinted a deep golden-brown in color.  
+The entire outside of the glass has been engraved very lightly to resemble the
+bark of a tree.    
+~
+#4756
+glass drinking odd flame~
+a flame shaped glass~
+An odd drinking glass, shaped in the form of a giant flame, lies here.~
+~
+17 0 1
+10 10 7 0
+15 5 1 1 -1
+E
+glass flame shaped~
+   This drinking glass has been crafted of sculpted glass, shaped to resemble a
+flame.  It has also been tinted a mixture of reds, yellows, and golden oranges
+to complete the effect.  The base of the glass is quite thick, to help prevent
+breakage.    
+~
+#4757
+glass frosted~
+a small, frosted glass~
+A small, frosted glass lies here.~
+~
+17 0 1
+6 6 8 0
+11 6 1 1 -1
+E
+glass frosted~
+   This small glass has been frosted, giving it an icy look.  Other than that
+it bears little adornment, and is the type of glass usually used to serve
+stronger drinks.    
+~
+#4758
+lamb leg roasted~
+a roasted leg of lamb~
+A large leg of lamb, cooked and roasted with spices, lies here.~
+~
+19 0 1
+12 0 0 0
+1 11 1 1 -1
+E
+lamb leg roasted~
+   This leg of lamb has been roasted with spices and herbs of various kinds,
+and it positively drips with the juices from cooking.  It is served upon a
+wooden plate, alongside a small slice of bread to mop up the excess juices.  
+
+~
+#4759
+steak grilled thick slice~
+a thick slice of grilled steak~
+A thick slice of steak, grilled to perfection and loaded with spices, is here.~
+~
+19 0 1
+10 0 0 0
+1 9 1 1 -1
+E
+steak grilled slice thick~
+   This thick slice of steak has been grilled to a medium rare, leaving it
+slightly pink in the center.  It has been lightly peppered, giving it a
+somewhat spicy taste.    
+~
+#4760
+fish baked filet~
+a large filet of baked fish~
+A large filet of fish, baked with butter and herbs, lies here.~
+~
+19 0 1
+10 0 0 0
+1 10 1 1 -1
+E
+fish filet baked~
+   This large filet of baked fish has been cooked in butter and lemon juice,
+giving it a slightly sweet taste.  It served on a wooden plate, alongside fried
+potato slices.    
+~
+#4761
+medallion holy symbol smooth wood polished~
+&Ra polished redwood medallion, etched with a &Yf&Rl&Ya&Rm&Ye&n~
+&RA smooth piece of redwood, polished and carved, serves as a holy symbol.&n~
+~
+8 0 16389
+0 0 0 0
+0 38 9 4 -1
+E
+medallion holy symbol smooth redwood polished flame etched~
+   This is a simple disc of redwood, about the size of a copper piece.  It has
+been polished with great care, and etched upon the front is the symbol of a
+flame.  It hangs from a thin, black leather cord.    
+~
+A
+17 -1
+#4762
+beads necklace praying string holy symbol flame~
+&Ra necklace of &Yf&Rl&Ya&Rm&Ye&R-&Yc&Ro&Yl&Ro&Yr&Re&Yd&R praying beads&n~
+&RA string of &Yf&Rl&Ya&Rm&Ye&R-&Yc&Ro&Yl&Ro&Yr&Re&Yd&R beads with tiny holy symbols on them lies here.&n~
+~
+8 1048576 5
+0 0 0 0
+1 34 8 4 -1
+E
+beads necklace praying string holy symbol flame~
+   &WThis is a necklace of &Yf&Rl&Ya&Rm&Ye&R-&Yc&Ro&Yl&Ro&Yr&Re&Yd&W beads,
+strung together on a thin leather cord.  Each small bead has a holy symbol
+emblazoned upon it, as well as pictures of the sun, candles, and other
+instances of flame.  &n
+~
+A
+24 -1
+#4763
+bracelet charms holy etched~
+a holy charms bracelet~
+A string of charms, etched with holy symbols, has been made into a bracelet.~
+~
+8 0 135169
+0 0 0 0
+1 32 6 4 -1
+#4764
+lantern flame iron~
+a flame shaped iron lantern~
+An iron lantern, molded in the form of a large flame, lies here.~
+~
+1 1048576 1
+0 0 15 0
+2 15 1 1 -1
+E
+lantern flame iron~
+   This beautiful lantern is truly a work of artisanship.  The framework of the
+lantern has been crafted of wrought iron, and made as thin as possible so as to
+not distract from the beauty of the glasswork.  The glasswork itself has been
+crafted of yellow, orange, and red stained glass, and molded into the shape of
+a beautiful rising &Yf&Rl&Ya&Rm&Ye&w.  &n
+~
+#4765
+robes clerical wool woolen set~
+&Ra set of woolen clerical robes&n~
+&RA set of robes, made of heavy wool, has been embroidered with holy symbols.&n~
+~
+11 1048576 1033
+0 0 0 0
+2 32 7 4 -1
+E
+robes clerical wool woolen set~
+   These simple, woolen robes are designed for acolytes and initiates of the
+god Sirrion.  They have been dyed red, and are lightly embroidered with symbols
+of the sun and fire.  They are thick enough to be worn on their own, or can be
+worn over armors and the like.    
+~
+A
+17 -2
+#4766
+short sword steel~
+a simple, steel short sword~
+A simple steel short sword lies here on the ground.~
+~
+5 2109440 75522049
+1 1 10 3
+2 50 8 10 -1
+#4767
+mace studded iron~
+a studded iron mace~
+An iron mace has been made with sharp steel studs to make it more formidable.~
+~
+5 2101248 8193
+1 1 7 5
+9 40 8 9 -1
+#4768
+whip thickly braided leather~
+a thickly braided leather whip~
+A whip made of differently dyed strips of leather braided together lies here.~
+~
+5 4096 8193
+0 1 4 2
+1 16 4 4 -1
+#4769
+staff quarterstaff long wooden~
+a wooden quarterstaff~
+A large, long quarterstaff carved from good quality oak lies on the ground.~
+~
+5 1073741824 8193
+0 1 4 5
+2 16 4 4 -1
+#4770
+dagger curved blade~
+a curved dagger with small etched markings~
+A dagger lies here, its blade curved like a miniature scimitar.~
+~
+5 8192 1006657537
+0 1 4 14
+1 16 4 4 -1
+#4771
+cloak travelling thick~
+a thick travelling cloak~
+A thick cloak made especially for travelling in lies here in a heap.~
+~
+11 1048576 1573889
+0 0 0 0
+1 10 2 1 -1
+A
+17 -1
+#4772
+shield small shell turtleshell~
+a small turtle shell shield~
+A few shells from turtles have been used to create this small, hard shield.~
+~
+9 4096 513
+1 0 0 0
+4 12 3 1 -1
+#4773
+sleeves tanned leather treated beeswax~
+&ya pair of tanned leather sleeves treated with beeswax&n~
+A pair of sleeves made of tan leather lie here.~
+~
+9 0 257
+1 0 0 0
+2 9 1 10 -1
+#4774
+leggings pair tan leather~
+a pair of tan leather leggings~
+A pair of leggings made of tan leather lie here.~
+~
+9 0 33
+1 0 0 0
+2 13 3 1 -1
+#4775
+boots oiled waterproof travelling~
+a pair of waterproof travelling boots~
+A pair of well oiled boots have been made to wear for long travels.~
+~
+11 0 65
+0 0 0 0
+2 10 1 1 -1
+A
+17 -1
+#4776
+waterskin water skin deerhide hide~
+a deerhide waterskin~
+A waterskin made from deerhide lays here along the ground.~
+~
+17 0 1
+24 24 0 0
+29 9 2 1 -1
+#4777
+backpack pack deerskin~
+a deerskin backpack~
+A backpack made from cured deerskin lies here along the ground.~
+~
+15 1048576 33554433
+40 1 -1 0
+0 20 1 1 -1
+#4778
+bag large rabbitskin fur~
+a large rabbitskin bag~
+A large bag with soft white fur along the outside of it, lies here.~
+~
+15 1048576 50348033
+20 1 -1 0
+0 10 1 1 -1
+#4779
+rations traveller's pack~
+a pack of traveller's rations~
+A sealed packet of rations, made of dried fruits and meat, lies here.~
+~
+19 1048576 1
+8 0 0 0
+1 8 1 1 -1
+E
+rations pack travellers~
+   This small pack of travellers rations includes an assortment of dried fruits
+and meats.  Various berries, as well as beef jerky and salted pork are wrapped
+in a large tree leaf to help keep them fresh, and then wrapped in parchment and
+tied with string.    
+~
+#4780
+fruit dried~
+a handful of some dried fruit~
+A container of different kinds of dried fruit lies here.~
+~
+19 0 1
+6 0 0 0
+1 6 1 1 -1
+E
+fruit dried~
+   This small jar contains various kinds of dried fruit, mostly berries, but
+raisins, dates, and dried apple slices as well.  It seems like it would make a
+nice snack on the road.    
+~
+#4781
+meat dried strips~
+a few strips of dried meat~
+A few strips of dried meat lies here.~
+~
+19 0 1
+6 0 0 0
+1 6 1 1 -1
+E
+meat strips dried~
+   This is a few strips of dried and cured beef, wrapped in a tree leaf to help
+keep them fresh, and tied with a string to present a nice little parcel for
+travel.    
+~
+#4782
+bread slice thick spiced~
+a thick slice of spiced bread~
+A thick slice of spiced bread lies here.~
+~
+19 0 1
+5 0 0 0
+1 5 1 1 -1
+E
+bread thick sliced spiced~
+   This is a slice of thick, spiced bread with a garlicky aroma to it.  It has
+been cooked with melted butter, garlic and other spices to make a delicious
+treat, or addition to a full meal.    
+~
+#4783
+milk glass frosted~
+a frosted glass~
+A frosted glass filled with milk sits here, looking tasty.~
+~
+17 0 1
+5 5 10 0
+10 5 1 1 -1
+E
+milk frosted glass~
+   This is a tall glass, artificially frosted by the glassmaker who crafted it.
+Inside is a cool, delicious serving of milk.    
+~
+#4784
+raspberry danish~
+a large raspberry danish~
+A large raspberry danish lies here waiting to be consumed.~
+~
+19 0 1
+5 0 0 0
+1 5 1 1 -1
+E
+danish raspberry~
+   This is a rather large danish, the center of which has been filled with a
+delicious raspberry-type jam or filling.  The danish itself is lightly frosted,
+and appears to be a deliciously sweet snack.    
+~
+#4785
+book plain simple leatherbound~
+a simple leatherbound book~
+A thin book, bound with plain, undecorated leather, lies here.~
+~
+16 0 1
+0 0 0 0
+1 10 1 1 -1
+E
+book leatherbound simple~
+   This thin, simple book is bound in mahogany-colored leather.  It is
+completely undecorated, very nice for someone looking to personalize it
+themselves for use as a journal or the like.    
+~
+#4786
+pen goosefeather quill vial ink~
+a goosefeather pen and vial of ink~
+A goosefeather quill pen and a vial of ink lie here to be used.~
+~
+21 1048576 1
+0 0 0 0
+0 10 1 1 -1
+E
+pen goosefeather vial ink~
+   This is a simple, goosefeather quill and a small vial of black ink, used for
+writing on parchment or in books.  Not the most extravagent of writing
+utensils, it will do the job just the same.  The point has been sharpened
+nicely to provide for thin, clear handwriting.    
+~
+#4787
+robes starched snow white novice~
+&Wa set of starched, snow-white novice robes&n~
+A set of robes, starched to a snowy white color, lie here in a pile.~
+Nothing.
+~
+11 1048576 1033
+0 0 0 0
+3 38 9 4 -1
+E
+robes starched snow white novice~
+   This set of snow-white robes are made from simple, unadorned wool.  They
+have been starched to keep them from wrinkling, and look quite nice, despite
+the lack of decoration.  This is the kind of robe that might be used by a
+novice mage or cleric.    
+~
+A
+17 -3
+#4788
+robes red dusky novice~
+&Ra set of dusky red novice robes&n~
+A set of robes dyed a dull, dusky red color, lie forgotten here.~
+~
+11 1048576 1033
+0 0 0 0
+5 38 9 4 -1
+E
+robes red dusky novice~
+   These robes are made from simple, unadorned wool and have been dyed a dusky
+red color.  They have been lightly starched, and seem to be a nice set of
+robes, despite the lack of any kind of decoration.  These are the kind of robes
+a novice mage or clergyman might wear.    
+~
+A
+17 -3
+#4789
+robes black charcoal~
+&Ka set of charcoal black novice robes&n~
+A set of robes, rubbed with charcoal to turn black, lie here in a pile.~
+~
+11 1048576 1033
+2 0 0 0
+3 38 9 4 -1
+E
+robes black charcoal novice~
+   This simple set of robes have been made from wool, and dyed a charcoal
+black.  They have been starched slightly, and overall are rather nice looking,
+despite the lack of any decoration.  These are the kind of robes a novice mage
+or clergyman might wear.    
+~
+A
+17 -3
+#4790
+necklace charm gems~
+a charm necklace set with gems~
+A silver necklace lies here, small charms set with gemstones dangling from it.~
+~
+8 0 5
+0 0 0 0
+0 20 2 1 -1
+E
+necklace charm gems~
+   This necklace has been made from a simple silver chain, set with several
+colored stones used as 'charms'.  A small moonstone has been used to make a
+moon charm, a sapphire to form the middle of a star, and a topaz for the sun.
+  
+~
+#4791
+ring sunflower topaz~
+&Ya small sunflower ring, set with topaz&n~
+A golden sunflower ring, set with topaz at its center lies forgotten here.~
+~
+8 0 3
+0 0 0 0
+0 18 1 1 -1
+E
+ring sunflower topaz~
+   This silver ring bears a small sunflower as decoration upon the top.  The
+petals of the sunflower appear to be made from brilliant yellow enamel, but set
+in the center is a round, golden-orange topaz.  Twining ivy decorates the
+silver band, just under the sunflower.    
+~
+#4792
+chain ruby silver topaz glittering tiny gems~
+&wa silver chain set with tiny, glittering &Rruby&w and &Ytopaz&w gems&n~
+A belt has been made of many strings of tiny gemstones, all glittering about.~
+~
+7 0 2049
+0 0 0 0
+0 50 1 10 -1
+E
+belt tiny gems lined~
+   This belt is formed from a silver chain, set with many tiny, glittering
+gemstones.  Mostly ruby and topaz has been used, giving it a fiery look.  This
+is the type of jewelry a lady might wear about her waist to accompany a dress,
+or if her midriff were bare.    
+~
+#4793
+bracelet rainbow gemstone gems~
+a small, child-size &Rr&Ya&Gi&Cn&bb&Mo&mw&R g&Ye&Gm&Cs&bt&Mo&mn&Re&n bracelet~
+A bracelet, set with many colored gemstones into a rainbow design, lies here.~
+~
+8 0 4097
+0 0 0 0
+0 10 1 1 -1
+#4794
+delete me~
+delete me~
+A massive weeping willow tree towers over the cemetary here, looking forlorn.~
+~
+12 0 0
+0 0 0 0
+99999 0 0 0 -1
+E
+tree willow weeping massive~
+I am a tree. Raar.
+~
+#4797
+board conclave~
+a conclave board~
+A large board for conclave rules as well as a list of novices and mages is here.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#4798
+acorns few~
+a few acorns~
+A few small acorns lie about the ground.~
+~
+19 0 1
+4 0 0 0
+0 2 1 1 -1
+#4799
+oaks ancient circle trees~
+a circle of ancient oaks~
+A circle of ancient oak trees create a peaceful canopy of leaves above.~
+~
+15 0 0
+0 0 0 0
+0 0 0 0 -1
+$~

@@ -1,0 +1,1274 @@
+#6000
+tree oak~
+a fallen oak tree~
+A fallen oak tree lies here.~
+Nothing.
+~
+12 65540 0
+0 0 0 0
+0 0 0 5 -1
+E
+tree oak fallen~
+   This fallen oak is covered over with moss.    
+~
+#6001
+daisy~
+a daisy~
+A daisy grows here.~
+Nothing.
+~
+12 65536 16385
+0 0 0 0
+0 0 0 2 -1
+E
+daisy~
+   This small wildflower has white petals.    
+~
+#6002
+delete me~
+delete me~
+An old shoe has been lost here.~
+~
+13 65536 65
+0 0 0 0
+1 0 1 2 -1
+E
+shoe~
+   It is an old shoe, very well worn and rotting slightly from exposure to the
+weather.    
+~
+#6003
+branch firewood~
+a tree branch~
+A tree branch lies here.~
+~
+30 65536 16385
+0 0 0 0
+1 16 4 4 -1
+E
+branch~
+   This stout tree branch is jagged at one end, where it was apparently ripped
+from the tree in a thunderstorm.    
+~
+#6004
+boulder~
+a moss-covered boulder~
+A moss-covered boulder lies here.~
+Nothing.
+~
+12 65556 0
+0 0 0 0
+0 0 0 1 -1
+E
+boulder~
+   It is a huge moss-covered boulder.    
+~
+#6005
+delete me~
+a broken pitcher~
+A pitcher lies here, in pieces.~
+~
+12 65536 1
+0 0 0 0
+2 3 1 1 -1
+E
+pitcher~
+   This once beautiful rose-patterned porcelain pitcher has been shattered in
+several pieces and is not usable.    
+~
+#6006
+handaxe axe ax hand~
+a rusty hand axe~
+A rusty hand axe is here.~
+~
+5 2109440 24577
+0 1 3 3
+2 10 3 3 -1
+E
+handaxe axe ax rusty~
+   This hand axe is old and rusty, and its blade is quite dull.    
+~
+#6007
+delete me~
+a chipped flagon~
+A chipped flagon lies here.~
+~
+17 0 16385
+3 0 0 0
+1 4 1 1 -1
+E
+flagon~
+   This plain flagon is chipped along the lip, and has a narrow crack running
+alongside the handle.    
+~
+#6008
+well brick~
+a brick well~
+A brick well is here.~
+~
+23 65556 0
+99999 99999 15 0
+100004 0 0 4 -1
+E
+well brick~
+   This small brick well has a tiny roof sheltering its waters.  A squeaky
+winch brings a copper bucket to the top to drink from.    
+~
+#6009
+doll~
+a wooden doll~
+A wooden doll has been forgotten here.~
+~
+12 65536 16385
+0 0 0 0
+1 5 1 1 -1
+E
+doll wooden~
+   This little doll is wearing a somewhat ragged-looking patchwork dress.    
+~
+#6010
+stalk cat tail~
+a cat tail~
+A cat tail stalk grows here.~
+~
+12 65536 16385
+0 0 0 0
+1 1 1 1 -1
+E
+stalk cat tail~
+   This tall brown stalk has dried leaves and a brown clublike head, just
+starting to turn to a feathery down.    
+~
+#6011
+lily~
+a water lily~
+A lily floats along the water here.~
+~
+12 65536 16385
+0 0 0 0
+1 1 1 1 -1
+E
+lily water~
+   This fragrant multi-petaled white flower has delicate yellow tendrils in its
+center.  It grows upon a broad circular leaf which floats on the water's
+surface.    
+~
+#6012
+river denberra~
+the Denberra River~
+The Denberra River flows gently by.~
+~
+23 65556 0
+99999 99999 0 0
+100004 0 0 5 -1
+E
+river denberra~
+   The Denberra River consists of run-off from distant mountains.  Its waters
+are not pristine, but are safe to drink, and have a vague silty flavor.    
+~
+#6013
+stump~
+a waterlogged tree stump~
+A waterlogged tree stump is here.~
+~
+12 65556 0
+0 0 0 0
+0 0 0 3 -1
+E
+stump tree waterlogged~
+   This big tree stump is about two feet in diameter.  Its bark is rotting off,
+it is so waterlogged.    
+~
+#6014
+periwinkle peri~
+a periwinkle~
+A periwinkle grows here.~
+~
+12 65536 16385
+0 0 0 0
+0 1 1 1 -1
+E
+periwinkle peri~
+   This short flower has five perfect blue petals and is sweetly scented.    
+~
+#6015
+foxglove~
+a foxglove~
+A foxglove grows here.~
+~
+12 65536 16385
+0 0 0 0
+0 1 1 1 -1
+E
+foxglove~
+   This tall plant has many tiny bell-shaped purple flowers.    
+~
+#6016
+acorns~
+a handful of acorns~
+Some acorns are lying here.~
+~
+19 65536 1
+2 0 0 0
+1 2 1 2 -1
+E
+acorns acorn~
+   There are six or seven fresh acorns here.    
+~
+#6017
+strawberries straw berries~
+a handful of wild strawberries~
+Some wild strawberries are growing here.~
+~
+19 0 1
+2 0 0 0
+1 2 1 2 -1
+E
+strawberries straw berries~
+   A few plump red strawberries are growing here.    
+~
+#6018
+leeks~
+some wild leeks~
+A few wild leeks are here.~
+~
+19 65536 1
+2 0 0 0
+1 4 1 2 -1
+E
+leeks~
+   Several slender leeks are here.    
+~
+#6019
+greens dandelion~
+some dandelion greens~
+Some dandelion greens are here.~
+~
+19 65536 1
+2 0 0 0
+1 2 1 2 -1
+E
+greens dandelion~
+   Some fresh dandelion greens have been left here.    
+~
+#6020
+carrots~
+a few carrots~
+A few carrots are here.~
+~
+19 0 1
+2 0 0 0
+1 4 1 2 -1
+E
+carrots~
+   A few plump, leafy topped carrots are here.    
+~
+#6021
+waterskin water skin leaking~
+a leaking waterskin~
+A waterskin lies here, leaking slightly.~
+~
+17 0 16385
+12 12 0 0
+17 5 1 2 -1
+E
+waterskin skin~
+   This small leather waterskin has seen better days, and has a steady leak.  
+
+~
+#6022
+pot~
+a metal pot~
+A metal pot lies here.~
+~
+15 0 1
+8 0 -1 0
+1 8 1 3 -1
+E
+pot metal~
+   This small metal pot looks just the right size to make a stew for one, which
+is precisely what its former owner used it for.    
+~
+#6023
+dandelion~
+a dandelion~
+A dandelion is growing here.~
+~
+12 65536 1
+0 0 0 0
+1 0 1 2 -1
+E
+dandelion~
+   A dandelion grows here, stripped of its leaves and turning to down.    
+~
+#6024
+dragon~
+a finely carved wooden dragon~
+A small, finely carved wooden dragon has been placed here.~
+~
+12 0 1
+0 0 0 0
+2 12 1 5 -1
+E
+dragon~
+   This beautifully carved miniature of a dragon is made of solid oak, and has
+handpainted red eyes.    
+~
+#6025
+box~
+a small wooden box~
+A small wooden box has been placed here.~
+~
+15 0 1
+10 1 -1 0
+3 10 1 1 -1
+E
+box~
+   This small wooden box has been carved with fair ability, though the engraved
+lion's head on the cover is a bit difficult to discern.    
+~
+#6026
+flute instrument~
+a wooden flute~
+A wooden flute lies here.~
+~
+12 0 16385
+0 0 0 0
+1 10 1 3 -1
+E
+flute~
+   A small wooden flute, perhaps best suited for the hands of a child, lies
+here.    
+~
+#6027
+skirt~
+&Ba long blue silk skirt&n~
+A long blue silk skirt lies here.~
+~
+11 134217728 33
+0 0 0 0
+3 10 1 4 -1
+T 4
+E
+skirt~
+   Beautifully sewn, this long blue silk skirt is embellished with tiny roses
+of red thread.  Its underskirts are voluminous, adding warmth in winter, and a
+sense of elegance in any season.    
+~
+#6028
+dye tin~
+a tin of blue dye~
+A tin of blue dye has been left here.~
+~
+12 0 1
+0 0 0 0
+1 4 1 2 -1
+E
+dye tin~
+   This is a small tin of blue dye, intended for use with a quill in writing.
+  
+~
+#6029
+wintergreen winter berries package~
+a package of wintergreen berries~
+A package of wintergreen berries lies here.~
+~
+19 0 1
+4 0 0 0
+1 4 1 2 -1
+E
+wintergreen winter berries package~
+   It is a small package of fresh red wintergreen berries, for chewing.    
+~
+#6030
+board slate message~
+a slate message board~
+A slate message board leans against one wall.~
+~
+13 32 0
+0 0 0 0
+1 1 0 1 -1
+E
+undefined~
+Nothing.
+~
+#6031
+satchel leather soft~
+a soft leather satchel~
+A soft leather satchel lies here.~
+~
+15 1048576 1064961
+15 0 -1 0
+2 20 2 1 -1
+E
+satchel leather soft~
+   This worn leather satchel has a shoulder strap for easier carrying.    
+~
+#6032
+torch~
+a pine torch~
+A pine torch lies here.~
+~
+1 1048576 16385
+0 0 8 0
+2 8 1 1 -1
+E
+torch~
+   This pine torch is rather long, and burns with the fresh scent of the
+forest.    
+~
+#6033
+cureall cure-all cure bottle~
+a bottle of cure-all~
+A bottle of cure-all has been left here.~
+~
+17 0 1
+5 5 8 0
+10 5 1 1 -1
+E
+cure-all cureall bottle~
+   This small blue bottle contains Kerneth's special medicinal drink.  Made
+from a highly secret formula of roots and herbs, it is said to cure everything
+from the common cold to the black death.  Claimants that might declare
+otherwise are oddly few and far between.    
+~
+#6034
+jelly currant jar~
+a jar of wild currant jelly~
+A jar of wild currant jelly is here.~
+~
+19 0 1
+6 0 0 0
+2 6 1 1 -1
+E
+jelly jar currant~
+   This jar of wild currant jelly was made when the fruits were at their
+ripest.  The lid is wrapped in a swatch of powder blue cloth, with a silk
+ribbon around it.    
+~
+#6035
+soap bar~
+a bar of honeysuckle scented soap~
+A bar of honeysuckle scented soap lies here.~
+~
+12 0 1
+0 0 0 0
+1 8 1 2 -1
+E
+soap bar honeysuckle~
+   It is a creamy white colored bar of soap with the sweet scent of
+honeysuckle.    
+~
+#6036
+bed~
+a small bed~
+A small bed is here.~
+~
+15 65540 0
+30 0 -1 0
+0 0 0 5 -1
+E
+bed~
+   It is a small, somewhat lumpy bed.    
+~
+#6037
+quilt multicolored~
+a multicolored quilt~
+A multicolored quilt lays here.~
+~
+9 0 1025
+1 0 0 0
+4 5 1 4 -1
+E
+quilt blanket~
+   A warm looking quilt lays here, patched together from fabric swatches in a
+variety of colors.    
+~
+#6038
+fireplace~
+a stone fireplace~
+A large stone fireplace is here, its warmth filling the room with soft light.~
+~
+15 65540 0
+5 0 -1 0
+0 0 0 4 -1
+E
+fireplace~
+   It is a large stone fireplace.    
+~
+#6039
+branch pine firewood~
+a fragrant pine branch~
+A fragrant pine branch is here.~
+~
+30 0 16385
+0 0 0 0
+2 4 1 2 -1
+E
+branch pine~
+   This long, freshly cut pine branch fills the room with a deep forest scent.
+  
+~
+#6040
+table~
+a small oak table~
+A small oak table sits here.~
+~
+15 65540 0
+30 0 -1 0
+0 0 0 4 -1
+E
+table oak~
+   A low, rather small oak table is here, its surface worn to a shine from much
+use.    
+~
+#6041
+candle beeswax~
+a beeswax candle~
+A beeswax candle has been left here.~
+~
+1 1048576 16385
+0 0 4 0
+2 4 1 2 -1
+E
+candle beeswax~
+   This thin tapered candle is made of beeswax, tinted a soft red.    
+~
+#6042
+blackberries black berries~
+a handful of blackberries~
+A few blackberries are here.~
+~
+19 0 1
+2 0 0 0
+0 2 1 2 -1
+E
+blackberries black berries~
+   A handful of plump, juicy blackberries is here.    
+~
+#6043
+cider mug~
+a mug of mulled cider~
+A mug of mulled cider is here.~
+~
+17 0 16385
+5 5 8 0
+10 5 1 3 -1
+E
+cider mulled mug~
+   A steaming mug of mulled cider is here, heavy with the flavors of apple,
+cloves and cinnamon.    
+~
+#6044
+ale flagon~
+a flagon of dark ale~
+A flagon of dark ale is here.~
+~
+17 0 16385
+4 4 4 0
+9 4 1 2 -1
+E
+ale flagon~
+   It is a tall flagon of dark ale.    
+~
+#6045
+mead tankard~
+a tankard of mead~
+A tankard of mead is here.~
+~
+17 0 16385
+5 5 8 0
+10 6 1 2 -1
+E
+mead tankard~
+   It is a frothy tankard of mead.    
+~
+#6046
+cake walnut slice~
+a slice of apple walnut cake~
+L~
+~
+19 0 1
+2 0 0 0
+1 4 1 3 -1
+E
+cake slice apple~
+   This scrumptious looking slice of fresh apple walnut cake is Jiomak's
+specialty, and he closely guards the recipe, which has been handed down for
+generations in his family.    
+~
+#6047
+soup bowl~
+a bowl of potato and leek soup~
+A steaming bowl of potato and leek soup is here.~
+~
+19 0 1
+6 0 0 0
+1 6 1 1 -1
+E
+soup bowl potato leek~
+   This steaming bowl of soup is a cream based mixture of large chunks of
+potatoes and fresh leeks, seasoned with dill seed among other spices.    
+~
+#6048
+bread~
+a loaf of wheat bread~
+A loaf of warm, hearthbaked wheat bread is here.~
+~
+19 0 1
+6 0 0 0
+1 6 1 1 -1
+E
+bread loaf wheat hearthbaked~
+   Still warm from the hearth, this soft wheat bread is rich with butter
+flavor.    
+~
+#6049
+berries dish~
+a dish of berries and cream~
+A dish of berries and cream is here.~
+~
+19 0 1
+4 0 0 0
+1 4 1 1 -1
+E
+berries dish cream~
+   It is a dish of raspberries and blackberries in chilled cream.    
+~
+#6050
+chair~
+a ladderback chair~
+A ladderback chair is here, pushed against the table to conserve space.~
+~
+12 65540 0
+0 0 0 0
+0 0 0 2 -1
+E
+chair ladderback~
+   This small-seated oak chair has a tall ladder back.  Its seat has been caned
+with fair ability, but sags from much use.    
+~
+#6051
+spear long~
+a long spear~
+A long spear lies here.~
+~
+5 1073754112 8193
+0 1 4 11
+4 16 4 3 -1
+E
+spear long~
+   This long handled pine spear has a steel point, honed to a razor sharpness.
+  
+~
+A
+19 1
+#6052
+woodaxe axe ax wood~
+a wood axe~
+A wood axe has been left here.~
+~
+5 2109440 24577
+0 1 4 3
+5 18 5 4 -1
+E
+woodaxe axe ax~
+   This short handled wood axe is in good repair, its blade rather sharp
+despite many years of use.    
+~
+#6053
+DELETE ME~
+DELETE ME~
+An old crossbow lays here, missing its string.~
+~
+12 0 1064961
+0 0 0 0
+5 6 1 3 -1
+E
+crossbow bow~
+   This crossbow evidently hasn't been used in some time, as it is slightly
+warped and its string is missing.    
+~
+#6054
+delete me~
+delete me~
+A leather quiver has been left here.~
+~
+15 0 1064961
+7 0 -1 0
+2 13 1 2 -1
+E
+quiver~
+   This narrow leather quiver holds seven arrows when full and has a thick
+shoulder strap.    
+~
+#6055
+delete me~
+delete me~
+An arrow lies here.~
+~
+12 0 1
+0 0 0 0
+1 5 1 2 -1
+E
+arrow~
+   This solid oak arrow has a sharp flint point.    
+~
+#6056
+delete me~
+delete me~
+A broken spear lies here in two pieces.~
+~
+12 0 1
+0 0 0 0
+2 2 1 2 -1
+E
+spear broken~
+   This poorly crafted spear is cleanly broken in two pieces and is not
+serviceable as a weapon, though the flint point might bring a copper or two.  
+
+~
+#6057
+saw~
+a wood saw~
+A wood saw lies here.~
+~
+5 2109440 24577
+0 1 3 3
+3 12 3 3 -1
+E
+saw~
+   It is a large saw, intended for use in felling trees and cutting wood.    
+~
+#6058
+desk writing~
+a writing desk~
+A writing desk stands here.~
+~
+15 65540 0
+15 0 -1 0
+0 0 0 4 -1
+E
+desk writing~
+   It is a tall desk with a fold-out leaf and several compartments to store
+writing implements.    
+~
+#6059
+quill~
+a fancy quill~
+A fancy quill has been placed here.~
+~
+21 0 16385
+0 0 0 0
+1 5 1 3 -1
+E
+quill fancy~
+   This fancy quill has a long and well-kept feather, in faint pink and blue
+colors.    
+~
+#6060
+scroll parchment~
+a parchment scroll~
+A parchment scroll lies here.~
+~
+16 65536 16385
+0 0 0 0
+1 1 1 2 -1
+E
+undefined~
+Nothing.
+~
+#6061
+inkwell ink~
+an inkwell~
+An inkwell is here.~
+~
+12 0 1
+0 0 0 0
+2 3 1 2 -1
+E
+inkwell ink~
+   It is a small glass inkwell.    
+~
+#6062
+coffeetable table~
+a carved coffeetable~
+A carved coffeetable stands here.~
+~
+15 65540 0
+30 0 -1 0
+0 0 0 4 -1
+E
+coffeetable table~
+   This beautifully handcarved coffeetable is made from a deep cherry wood.  
+
+~
+#6063
+a wooden bowl~
+a wooden bowl~
+A wooden bowl has been placed here.~
+~
+15 0 1
+7 0 -1 0
+2 9 1 3 -1
+E
+bowl ~
+   It is a wooden bowl.    
+~
+#6064
+grapes bunch green~
+a bunch of green grapes~
+A bunch of green grapes is here.~
+~
+19 0 1
+2 0 0 0
+1 2 1 2 -1
+E
+grapes bunch~
+   This bunch of green grapes is perfectly ripe.    
+~
+#6065
+apple yellow~
+a yellow apple~
+A yellow apple is here.~
+~
+19 0 1
+3 0 0 0
+1 3 1 1 -1
+E
+apple yellow~
+   It is a shiny yellow apple.    
+~
+#6066
+acorn large~
+a large brown acorn~
+A large brown acorn lies here.~
+   A large brown acron is here.  It emits a faint woody odour, and perhaps it
+may be good to eat.    
+~
+19 0 1
+6 0 0 0
+1 3 1 1 -1
+E
+acorn large~
+This large brown acorn smells and looks delicious.
+~
+#6067
+pear ripe~
+a ripe pear~
+A ripe pear is here.~
+~
+19 0 1
+2 0 0 0
+1 2 1 1 -1
+E
+pear ripe~
+   It is a pear.    
+~
+#6068
+boots pair worn leather~
+a pair of worn leather boots~
+A pair of worn leather boots have been neatly placed here.~
+~
+9 134217728 65
+1 0 0 0
+2 7 2 1 -1
+E
+boots pair worn leather~
+   It is a pair of well used leather boots, faded to a soft brown.    
+~
+#6069
+wardrobe tall~
+a tall wardrobe~
+A tall wardrobe stands here.~
+~
+15 65540 0
+25 1 -1 0
+0 0 0 5 -1
+E
+wardrobe tall~
+   This tall wardrobe is a made of deep cherry wood, with a fanciful rose motif
+along the top and down the center of each door panel.    
+~
+#6070
+dress green pale~
+&Ga pale green dress&n~
+A pale green dress is here.~
+~
+11 134217728 9
+0 0 0 0
+2 8 2 1 -1
+T 4
+E
+dress soft green~
+   This lovely green dress falls softly to the ankles, and has a high,
+delicately laced bodice.    
+~
+A
+17 -1
+#6071
+brushwood brush wood firewood dry forest~
+a pile of dry, forest brushwood~
+A pile of dry, forest brushwood lies on the ground here.~
+~
+30 0 16385
+0 0 0 0
+2 5 1 1 -1
+E
+brushwood brush wood firewood dry forest~
+   This is simply a small pile of dry brush, collected from the forest.  It
+consists of broken twigs and branches, pine needles and a few cones as well.  
+Tangled amidst it all are a few dead plants.  It would make ideal firewood.  
+
+~
+#6072
+nightgown night gown flannel~
+a soft flannel nightgown~
+A soft flannel nightgown is here.~
+~
+11 134217728 9
+0 0 0 0
+2 9 2 1 -1
+E
+nightgown night gown flannel soft~
+   This long, flowing nightgown is made of white flannel and is very soft to
+the touch.    
+~
+A
+17 -1
+#6073
+vanity mirror~
+a vanity~
+A vanity with a small oval mirror stands here.~
+~
+15 65540 0
+10 0 -1 0
+0 0 0 4 -1
+E
+vanity mirror~
+   This cherrywood vanity is in the same rose motif as the wardrobe, and has a
+small oval mirror above it.    
+~
+#6074
+hairbrush brush hair ivory~
+&Wan ivory handled hairbrush&n~
+An ivory handled hairbrush lies here.~
+~
+12 0 1
+0 0 0 0
+2 5 1 2 -1
+E
+hairbrush brush hair ivory~
+   This expensive looking hairbrush has an ivory handle, which has been worn to
+a smooth creamy polish by much use.    
+~
+#6075
+perfume vial jasmine~
+a vial of jasmine scented perfume~
+A vial of jasmine scented perfume has been placed here.~
+~
+12 0 1
+0 0 0 0
+2 4 1 3 -1
+E
+perfume vial jasmine~
+   This small glass vial has a well crafted applicator tip in the top, and
+contains a perfume with the heady scent of jasmine.    
+~
+#6076
+table cherry carved~
+a carved cherry table~
+A beautifully carved cherry table stands here.~
+~
+15 65540 0
+15 0 -1 0
+0 0 0 5 -1
+E
+table cherry carved~
+   This large cherry table has been carved with great mastery, from its
+delicate vine border to its massive lion's paw feet.    
+~
+#6077
+vase flowers~
+a vase of flowers~
+A vase of multicolored flowers rests here.~
+~
+12 65536 1
+0 0 0 0
+3 0 1 1 -1
+E
+vase flowers~
+   A few daffodils, daylilies and red campion blossoms have been artistically
+arranged with baby's breath in a tall, faint pink ceramic vase.    
+~
+#6078
+shortcake cake short strawberry berry dish~
+a dish of strawberry shortcake~
+A dish of strawberry shortcake lies here.~
+~
+19 0 1
+4 0 0 0
+2 4 1 1 -1
+E
+shortcake strawberry dish cake berry~
+   This scrumptious looking dish of shortcake has been drowned in plump, juicy
+strawberries and the lightest touch of whipped cream.    
+~
+#6079
+water pitcher~
+a pitcher of water~
+A pitcher of water is here.~
+~
+17 65536 1
+10 10 15 0
+15 8 2 2 -1
+E
+water pitcher~
+   It is a pitcher of clear water.    
+~
+#6080
+spoon wooden~
+a wooden spoon~
+A wooden spoon is here.~
+~
+5 0 24577
+0 1 2 0
+1 4 1 1 -1
+E
+spoon wooden~
+   It is an old and oft-used wooden spoon.    
+~
+#6081
+spatula wooden~
+a wooden spatula~
+A wooden spatula is here.~
+~
+5 4096 8193
+0 1 2 0
+1 4 1 1 -1
+E
+spatula wooden~
+   It is a well used wooden spatula.    
+~
+#6082
+pitchfork fork~
+a pitchfork~
+A pitchfork lies here.~
+~
+5 2109440 24577
+0 1 3 11
+5 10 3 2 -1
+E
+pitchfork fork~
+   It is a pitchfork.    
+~
+#6083
+oats sack~
+a sack of oats~
+A sack of oats is lying here.~
+~
+19 0 33554433
+24 0 0 0
+10 24 2 1 -1
+E
+oats sack~
+   It is a burlap sack of oats.    
+~
+#6084
+cabbage head~
+a head of cabbage~
+A head of cabbage is here.~
+~
+19 0 1
+6 0 0 0
+1 6 2 1 -1
+E
+cabbage head~
+   It is a head of cabbage.    
+~
+#6085
+tomato green~
+a green tomato~
+A green tomato lies here to ripen.~
+~
+19 0 1
+2 0 0 0
+1 2 1 1 -1
+E
+tomato green~
+   It is an unripe tomato.    
+~
+#6086
+onion white large~
+a large white onion~
+A large white onion lies here.~
+~
+19 0 1
+3 0 0 0
+1 3 1 1 -1
+E
+onion large white~
+   It is a rather large white onion.    
+~
+#6087
+roots wild~
+some wild roots~
+Some wild roots have been left here.~
+~
+19 0 1
+4 0 0 0
+2 4 1 1 -1
+E
+roots wild~
+   These roots have been shaken of most of the dirt from the ground where they
+were dug up.    
+~
+#6088
+brandy jug elderberry elder berry~
+a jug of elderberry brandy~
+A jug of elderberry brandy has been left here.~
+elderberry brandy
+~
+17 0 16385
+15 15 2 0
+20 10 1 3 -1
+E
+brandy elderberry jug elder berry~
+   It is a dark brown jug of home brewed elderberry brandy.    
+~
+#6089
+table small glasstopped~
+a small, glasstopped table~
+A small, glasstopped table stands here.~
+~
+15 65540 0
+50 0 -1 0
+0 0 0 4 -1
+E
+table small glasstopped~
+   It is a small glasstopped table with white painted legs.    
+~
+#6090
+lemonade pitcher lemon iced~
+a pitcher of iced lemonade~
+A pitcher of iced lemonade is here.~
+~
+17 0 16385
+10 5 6 0
+10 6 2 3 -1
+E
+lemonade pitcher lemon iced~
+   It is a glass pitcher of iced lemonade.    
+~
+#6091
+glass clear~
+a clear glass~
+A clear glass has been placed here.~
+~
+17 0 16385
+3 0 6 0
+1 2 1 2 -1
+E
+glass~
+   It is a clear glass.    
+~
+#6092
+glass lemonade lemon iced clear~
+a clear glass of iced lemonade~
+A clear glass of iced lemonade has been placed here.~
+~
+17 0 16385
+3 3 6 0
+8 2 1 2 -1
+E
+glass lemonade lemon iced~
+   It is a glass of iced lemonade.    
+~
+#6093
+garden vegetable~
+a vegetable garden~
+A vegetable garden is here.~
+~
+15 65556 0
+15 0 -1 0
+0 0 0 5 -1
+E
+garden vegetable~
+   A sizeable vegetable garden is here, with several clearly outlined rows for
+different plants.    
+~
+#6094
+hoe~
+a garden hoe~
+A garden hoe lies here.~
+~
+5 2109440 24577
+0 1 3 9
+3 8 2 3 -1
+E
+hoe~
+   It is a typical garden hoe, with a flat blade set at a 90 degree angle to a
+long pine handle.    
+~
+#6095
+pot water watering metal~
+a metal watering pot~
+A metal watering pot has been left here.~
+~
+17 0 1
+8 8 0 0
+13 3 1 2 -1
+E
+pot watering water metal~
+   It is a metal watering pot, slightly rusted.    
+~
+#6096
+rose delicate pink~
+a delicate pink rose~
+A delicate pink rose lies here.~
+~
+12 65536 1
+0 0 0 0
+1 4 1 1 -1
+E
+rose delicate pink~
+   It is a perfect pink rose, its delicate petals filling your senses with
+sweet fragrance.    
+~
+#6097
+turnip~
+a turnip~
+A turnip is growing here.~
+~
+19 0 1
+2 0 0 0
+1 2 1 1 -1
+E
+turnip~
+   It is a turnip.    
+~
+#6098
+crabapples apples bag brown~
+a bag of crabapples~
+A bag of crabapples lies here.~
+~
+19 1048576 50331649
+16 0 0 0
+5 16 4 1 -1
+E
+crabapples apples bag brown~
+   It is a brown bag full of crabapples, intended for horse treats.    
+~
+#6099
+trough water~
+a water trough~
+A water trough is here.~
+~
+23 65540 0
+99999 99999 0 0
+100004 0 0 4 -1
+E
+trough water~
+   This long water trough runs along the back of all the stables.    
+~
+$~

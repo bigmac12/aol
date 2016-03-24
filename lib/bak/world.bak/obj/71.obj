@@ -1,0 +1,132 @@
+#7100
+bush~
+a wildberry bush~
+A wildberry bush grows here in the comfortable shade of the trees.~
+~
+15 0 0
+0 0 0 0
+0 0 0 0 -1
+#7101
+berries berry wildberry wildberries handful~
+a handful of wildberries~
+A handful of plump berries lies here ready to be eaten.~
+~
+19 0 1
+8 0 0 0
+1 2 1 1 -1
+#7102
+green berry berries unripe~
+a few unripe wildberries~
+A few green, unripe berries lie on the ground.~
+~
+19 0 1
+2 0 0 1
+0 0 0 0 -1
+#7103
+river rushing waters~
+the river~
+The rushing waters of the river flow underneath the bridge, going downstream.~
+~
+23 16 0
+100000 100000 0 0
+100005 0 0 0 -1
+#7104
+pond rainwater rain clear cold~
+a rainwater pond~
+A pond lies in the middle of the clearing, collecting cold, clear rainwater.~
+~
+23 16 0
+10000 10000 15 0
+10005 0 0 0 -1
+#7105
+robes sky blue clerical~
+&Ca set of sky blue clerical robes&n~
+A pile of sky blue cloth is lying here.~
+~
+11 20736 9
+0 0 0 0
+4 70 18 8 -1
+A
+17 -4
+#7106
+small cart~
+a small cart~
+A small cart travels along the Midland Highway, creaking and groaning as it moves.~
+A small cart travels along the Midland Highway, creaking and groaning as it moves.
+~
+15 0 0
+5 0 -1 0
+500 0 0 1 -1
+E
+small cart~
+   The little cart is made from old and dessicated wood held loosely together
+with worn leather straps.  The donkey that pulls it looks as though it is on
+its last legs, tired from the long journey to the city of Kalaman to deliver
+the meagre goods.  The driver lightly whips the donkey and it begins to move
+away towards the city.    
+~
+#7107
+cap jesters jester green gold checkered~
+&ga checkered jester's cap of &Ggreen&g and &Ygold&n~
+A checkered jester's cap of green and gold lies forgotten here.~
+~
+11 1048576 17
+0 0 0 0
+1 50 12 5 -1
+E
+cap jesters jester green gold checkered~
+   This silly looking piece of headwear is what is known as a jester's cap, or
+sometimes also as a fool's cap.  It is crafted from wool and felt, and is split
+into four comically drooping 'tails', which are colored in bright, alternating
+green and golds.  Small bells are attached to the ends of the tails, jingling
+faintly with every movement of the wearer.    
+~
+A
+17 -2
+#7117
+chainmail solamnic mail chain shirt master-crafted~
+a master-crafted shirt of Solamnic chainmail~
+A shirt of chainmail lies forgotten in a pile here.~
+~
+9 384364544 9
+10 0 0 0
+4 1125 600 18 -1
+E
+chainmail solamnic mail chain shirt master-crafted~
+   Solamnic chainmail was created for those Knights of Solamnia who must
+venture out into the world for extended periods of time.  Solamnic chain is a
+full tunic (thigh length with full sleeves) of Masterwork chainmail.  Woven
+into the center of the tunic with gold and silver cording is the symbol of the
+Knight's order.    
+~
+A
+13 5
+#7190
+small sign~
+a small sign~
+A small sign is floating here.~
+This area is still under construction. Please be patient until it is done.
+Any comments or questions should be refered to Dawn.
+                                       -Dawn.
+~
+16 0 0
+0 0 0 0
+0 0 0 0 -1
+#7198
+delete me~
+delete me~
+An unfinished object is lying here.~
+~
+0 0 2049
+0 0 0 0
+0 0 0 0 -1
+#7199
+delete me~
+delete me~
+An unfinished object is lying here.~
+delete me
+~
+0 0 129
+0 0 0 0
+0 0 0 0 -1
+$~

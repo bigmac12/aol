@@ -1,0 +1,626 @@
+#6600
+puddle large muddy~
+a large muddy puddle~
+A large muddy puddle collects the water flowing from the stream.~
+~
+23 0 0
+100 75 0 1
+500 0 0 0 -1
+E
+puddle large muddy~
+   This is a large muddy puddle and the smell coming off of it is rather stale.
+As well, the water is not all that clear.  It collects water running from the
+stream to the north.    
+~
+#6601
+map Guthorg~
+a map of Guthorg~
+An unfinished object is lying here.~
+~
+12 0 1
+0 0 0 0
+0 0 0 0 -1
+E
+map Guthorg~
+                        Guthorg
+                       +-------+
+
+      Civilian Ln.
+     +-------------(F)
+     |
+     |W
+     |a
+     |l         (B)
+     |l          |                                 Northern
+     |   (I)     |A                      +----------- Docks
+ (A)-+-----------+r(H)                   |
+     |S Main St. |e               Harbor |
+     |t          |n               Stretch|
+     |r          |a    (C)          |      Southern
+     |e          |    +-----------+-------+ Docks
+     |e          |A         |Harbor             |
+     |t          |v         |Stretch            |
+     | Gods Walk |e         |
+     +---|-------+---|------+             *Be sure to read
+        (D)         (E)                    the legend.
+
+~
+#6607
+nothing~
+a steel grate~
+A steel grate is in the middle of the street.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#6608
+loincloth loin skin strip animal hide buckskin~
+a buckskin loincloth~
+A long strip of animal hide lies upon the ground.~
+~
+9 914358272 2049
+4 0 0 0
+5 1690 845 18 -1
+E
+loincloth loin cloth buck skin buckskin~
+   This is a long buckskin loincloth.  Too long for most humans, it is tanned
+and cured for good comfort.    
+~
+#6609
+leggings buckskin hide animal~
+a pair of buckskin leggings~
+A pair of animal hide leggings lie upon the ground.~
+~
+9 343937024 33
+6 0 0 0
+5 1495 748 19 -1
+E
+leggings buck skin buckskin~
+   This is a simple pair of buckskin leggings.  Small fringes line the sides of
+the leggings making them decorative but still not to extravagant.    
+~
+#6610
+fountain simple large~
+a large simple fountain~
+A large simple fountain sits on this street.~
+~
+23 0 0
+1000 800 0 0
+805 0 0 0 -1
+E
+fountain simple large~
+   This large fountain is simply shaped.  It is round with a wide ledge
+allowing people to sit on it.  It is made of a gray stone and has holes around
+the outside surface that water flows out from to fill it.    
+~
+#6611
+ring simple steel nose~
+a simple steel nose ring~
+A steel ring lies upon the ground here.~
+~
+11 935329792 2097153
+0 0 0 0
+2 1075 529 19 -1
+E
+simple steel nose ring~
+   This is a large nose ring commonly worn by bulls and many male minotaurs.
+It is made to be put through the center of the nose.    
+~
+A
+13 10
+A
+6 1
+#6616
+shield large painted~
+a large painted shield~
+A large leather shield sits on the floor here.~
+~
+9 343953408 513
+6 0 0 0
+13 1625 406 19 -1
+E
+shield large painted~
+   This is a large leather shield.  Upon the front of the shield is painted
+either a large bull or minotaur's head.  Behind the head is painted a sword
+which runs from the top to the bottom of the shield.    
+~
+A
+17 -2
+#6621
+helm minotaur war~
+a minotaur war helm~
+A helm lies upon the ground with two large holes in top.~
+~
+9 937955328 17
+4 0 0 0
+11 1560 780 19 -1
+E
+helm minotaur war~
+   This helm is made large enough for a minotaur and has two holes on either
+side for the minotaur's horns to go thorough.  It is made of steel plate and
+extremely durable.    
+~
+#6627
+trident long steel~
+a long steel trident~
+A long steel trident is stuck in the ground here.~
+~
+5 1142976512 8193
+0 2 9 15
+15 1320 660 19 -1
+E
+trident long steel~
+   This long steel trident has been reinforced to make it able to be used for
+more than just fishing.  Three tines from the end are made of solid steel and
+honed very sharp, making it so that this would be able to spear through armor.
+  
+~
+A
+19 2
+#6630
+spyglass long iron tube~
+a long iron spyglass~
+A long iron tube lies upon the ground.~
+~
+12 0 16385
+0 0 0 0
+3 120 60 16 -1
+E
+long iron spyglass~
+   This long spyglass is most commonly used by sailors when out to sea.  It is
+about two feet long and has a round piece of glass in either end.  One end of
+the spyglass is about twice as large as the other end.    
+~
+A
+14 3
+#6631
+gap large~
+a large gap in the dock~
+A large gap is in the docks, where planks have been taken out.~
+~
+15 0 0
+300 0 -1 0
+500 0 0 0 -1
+E
+gap large~
+   Many planks have been torn out of a section of these docks leaving a large
+gap.  This also makes for a small space between the lower supports and the dock
+itself.    
+~
+#6633
+fruit pile~
+a pile of fruit~
+A pile of fruit lies upon the ground.~
+~
+19 0 1
+5 0 0 0
+4 5 2 5 -1
+E
+pile fruit~
+   This pile of fruit contains oranges, apples, coconuts, and a few pineapple.
+All seems still fairly fresh, though probably a bit on the overdue side.    
+~
+#6634
+chest massive~
+a massive chest~
+A massive chest sits upon the docks.~
+~
+15 0 1
+40 5 -1 0
+300 0 0 0 -1
+E
+chest massive~
+   This massive chest is well locked and tightly sealed to keep water out.  
+Whatever is held in here must be either very valuable, or fragile.    
+~
+#6635
+crate small~
+a small crate~
+A small crate sits upon the floor here.~
+~
+15 0 1
+25 1 -1 0
+15 80 20 10 -1
+E
+crate small~
+   This is a small crate with no lid.  Due to its lack of a top, it is much
+easier for the storage and retrieval of the goods within.  It is made of wood
+and shows little deterioration despite its exposure to the elements.    
+~
+#6636
+pelts large pile~
+a pile of various animal pelts~
+A pile of various animal pelts lie upon the ground.~
+~
+8 397312 524289
+0 0 0 0
+8 200 50 5 -1
+E
+pelts large pile~
+   This large pile of pelts contains skins from many animals.  The hides range
+anywhere between leopard and wolf to deer, being of the finest quality cuts.  
+~
+#6637
+pile large crates~
+a large pile of crates~
+A large pile of various crates clutters the dock here.~
+~
+0 0 1
+0 0 0 0
+400 0 0 1 -1
+E
+pile crates large~
+   This large pile of crates takes up much of the space on the dock.  What is
+within these crates is hard to tell since all have been nailed shut to prevent
+the contents from spilling.    
+~
+#6640
+salt crystal~
+a small salt crystal~
+A small bit of salt crystal has formed here.~
+~
+19 0 1
+1 0 0 0
+1 0 0 1 -1
+E
+salt crystal~
+   This small bit of salt crystal has been formed by the water evaporating as
+it comes from the sea.  It is crystal white and has an extremely salty taste.
+~
+#6650
+large mug sling minotaur mino~
+a mug of minotaur sling~
+An extremely large mug sits here.~
+~
+17 0 1
+4 4 8 0
+4 5 1 1 -1
+E
+large mug minotaur sling~
+   This large mug contains a strange yet sweet smelling mixture.  The mug
+practically fizzes over the top.    
+~
+#6651
+fish large plate~
+a large plate of fish~
+A large plate lies here, with a steaming fish resting on it.~
+~
+19 0 1
+6 0 0 0
+3 6 1 1 -1
+E
+plate fish large~
+   This large plate has a steaming piece of some fish lying on it.  The fish
+has been cleaned and cooked.  A very pleasant aroma wafts up from the fish.  
+
+~
+#6652
+lamb roast leg~
+a roast leg of lamb~
+A roasted leg of lamb lies upon the floor.~
+~
+19 0 1
+8 0 0 0
+3 6 2 1 -1
+E
+lamb leg roast~
+   This rather large leg of lamb has been roasted to about medium rare.  The
+meat glistens with juice that has been seasoned with several types of delicious
+spices, and a near irresistable odor emanates from it.    
+~
+#6653
+mug two-handed two hand~
+a two-handed mug~
+An oversized mug lies upon the floor, equipped with two handles.~
+~
+17 1073741824 16385
+8 8 4 0
+8 8 2 1 -1
+E
+mug two-handed two hand~
+   This oversized mug has two handles in order to pick it up.  The mug is about
+two hands wide and two to three hands deep.  This is only for those who are
+heavy drinkers.    
+~
+#6665
+wheel large steering~
+a large steering wheel~
+A large steering wheel dominates the area of the helm.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+wheel large steering~
+   This large steering wheel controls the rudder of the ship.  The helmsman
+will use this when the ship is out to sea to steer the course of the ship
+towards their next destination.    
+~
+#6666
+axe extremely large minotaur great~
+a great minotaur axe~
+An extremely large axe lies here upon the ground.~
+~
+5 935329792 8396801
+0 3 6 16
+18 1565 783 20 -1
+E
+axe extremely large minotaur great~
+   This axe has a head on it as wide as a humans shoulders.  The blade is honed
+to a deadly edge, fine enough to split a hair.  It is made of a durable steel
+and is extremely heavy.    
+~
+A
+19 2
+#6667
+sceptre glass sparks~
+a glass sceptre with embedded glowing sparks~
+A glass sceptre lies upon the ground, glowing as sparks run through it.~
+~
+5 373964801 8193
+0 4 3 5
+8 1860 930 20 -1
+E
+glass sword many sparks~
+   This sceptre has a steel handle attached to a large oval orb.  Within the
+orb tiny sparks dance, crackling with energy.  The entire width of the orb
+glows with lightning and whenever it is touched bolts leap to the surface of
+the orb giving the person a slight shock.    
+~
+A
+13 -4
+A
+24 -2
+#6668
+pile cloth robes cleric kiri jolith~
+robes of a cleric of Kiri-Jolith~
+A pile of cloth lies rumpled on the floor here.~
+
+~
+15 4905985 9
+18 0 -1 0
+5 1560 780 18 -1
+E
+robes kiri jolith kiri-jolith~
+   This is a set of long robes, dedicated to the god Kiri-Jolith.  Inside of
+the robes is a small pocket for the clerics to put their items.    
+~
+A
+17 -8
+#6669
+mask steel face~
+a steel face mask~
+A steel face mask lies upon the ground.~
+~
+9 136318976 32769
+5 0 0 0
+5 2110 1055 21 -1
+E
+mask steel face~
+   This mask is made of solid steel.  Small slits have been cut to make eye
+holes for the wearer and a chain mesh has been placed where the mouth would be.
+  
+~
+#6670
+keg tapped large~
+a large tapped keg~
+A large keg sits against the back wall, already tapped.~
+~
+23 0 0
+50 45 3 0
+50 0 0 1 -1
+E
+keg large tapped~
+   This large keg has already been tapped by either the cook or one of the
+crew.  A bit of liquid drips from the tap forming a small puddle on the floor.
+  
+~
+#6671
+barrel large~
+a large barrel~
+A large barrel sits in one corner of the room.~
+~
+15 0 0
+15 0 -1 0
+500 0 0 1 -1
+E
+barrel large~
+   This large barrel is cracked down one side.  It seems to be very old and
+even some of the bindings on it are showing signs of rust.    
+~
+#6672
+apples few~
+a few apples~
+A few apples lie upon the floor.~
+~
+19 0 1
+4 0 0 0
+2 4 1 1 -1
+E
+few apples~
+   These four apples are bright red.  Though not as fresh as most they are
+still edible, just a bit soft.    
+~
+#6673
+fish stringer~
+a stringer of fish~
+A long string of fish dangles above here.~
+~
+19 0 16385
+5 0 0 0
+3 5 1 1 -1
+E
+fish stringer~
+   A dozen fish are strung along this string.  The fish are quite fresh, almost
+straight from the sea.    
+~
+#6676
+key small golden~
+a small golden key~
+A small golden key glints in the light here.~
+~
+18 4 4097
+0 0 0 0
+2 0 0 1 -1
+E
+key small golden~
+   This small golden key is held on a delicate golden chain.    
+~
+#6677
+cabinet large~
+a large cabinet~
+A large cabinet sits against the back wall of this sitting room.~
+~
+15 0 0
+50 15 6676 0
+400 0 0 1 -1
+E
+cabinet large~
+   This is a large ornately carved cabinent.  A golden lock has been placed to
+keep it locked from thieves and people wishing to raid the Lord's personal
+possessions.    
+~
+#6678
+talisman glowing red~
+&Ra glowing red talisman&n~
+A red talisman lies upon the ground glowing slightly.~
+~
+1 513 5
+0 0 400 0
+2 600 300 21 -1
+E
+talisman glowing red~
+   This talisman is a blood red color and glows dully in the darkness.  When
+touched it seems to suck life from the person, but then also give some back.    
+~
+A
+9 3
+A
+13 -5
+#6679
+coins small horde~
+a small horde of coins~
+A small horde of coins lays on the floor.~
+~
+20 0 1
+2 10 15 10
+0 0 0 0 -1
+#6680
+book thick grey~
+a thick grey book~
+A thick grey book lies on the floor.~
+~
+15 0 16385
+5 0 -1 0
+6 2213 709 21 -1
+E
+book thick grey~
+   It is a simple thick grey book.    
+~
+#6681
+key large steel arena~
+a steel key to the arena of Guthorg~
+A large steel key lies here upon the ground.~
+~
+18 4 1
+0 0 0 0
+3 500 0 1 -1
+E
+key large steel~
+   This is a very heavy steel key.  It is extremely thick and sturdy.    
+~
+#6682
+sign information arena~
+a sign with information about the arena~
+A sign hangs on the wall with information about the arena.~
+~
+0 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+sign information info arena~
+The sign reads: WELCOME TO THE ARENA OF GUTHORG If you wish to line up a fight
+speak with the arena master.  For a small price you may borrow the key to the
+arena, once inside 2 prep rooms are provided to house any equipment you wish to
+store during the fight.  It is strongly suggested that all participants have a
+room here in Guthorg, so that if need be we have somewhere to send your
+equipment.  Fights work best when three people are present, one to hold the
+key, and the two participants.  The arena master will buy back the key, and
+then return your deposit.  Please note that the arena master only has the one
+copy of the key, so returning it would be very helpful to him.    
+~
+#6683
+safe large~
+a large safe~
+A large safe is put into the northern wall here.~
+~
+15 0 0
+5 15 6684 0
+500 0 0 1 -1
+E
+safe large~
+   This is a large steel safe.  Most odd about it is that there is no obvious
+key hole, just many strange designs enscribed all over the front of the safe.
+  
+~
+#6684
+medallion odd looking~
+an odd looking medallion~
+An odd looking medallion lies in the dust.~
+~
+18 4 5
+0 0 0 0
+3 0 0 5 -1
+E
+medallion odd looking~
+   This odd looking medallion is held on a steel chain made to go around the
+neck.  The medallion itself is oddly shaped and the designs on it make no sense
+or resemble anything at all.    
+~
+#6685
+mound coins~
+a heaping mound of coins~
+A heaping mound of coins lie upon the floor.~
+~
+20 0 1
+0 3 40 150
+7 0 0 1 -1
+#6690
+trunk small~
+a small trunk~
+A small trunk sits in one corner.~
+~
+15 0 0
+100 5 -1 0
+500 0 0 1 -1
+E
+small trunk~
+   This small trunk contains simple armor to be used in the arena.    
+~
+#6691
+chest large~
+a large chest~
+A large chest sits along the wall here.~
+~
+15 0 0
+1000 5 -1 0
+500 0 0 0 -1
+E
+large chest~
+   A large trunk sits here along the wall providing a place for fighters to
+place their own equipment and unneeded items during a fight.    
+~
+#6692
+rack simple weapons~
+a simple weapons rack~
+A simple weapons rack hangs upon the wall.~
+~
+15 0 0
+100 0 -1 0
+500 0 0 1 -1
+E
+simple weapons rack~
+   This is a simple weapons rack holding weapons for the combatants use in the
+battles.    
+~
+$~

@@ -1,0 +1,65 @@
+#5600
+mushroom mush brown~
+a brown mushroom~
+A brown mushroom grows here.~
+~
+19 0 1
+2 0 0 0
+0 0 0 1 -1
+E
+mushroom brown mush~
+   This mushroom is brown, with small spots of darker brown covering the top.
+It has a small white stem where it once grew from the ground.  It looks a
+though it could be edible.    
+~
+#5601
+stream water~
+a wide stream~
+A wide stream flows slowly to the east here.~
+~
+23 0 0
+2147483647 2147483647 0 0
+-2147483644 0 0 0 -1
+E
+stream water~
+   The stream is fairly deep and wide enough to make crossing it impossible.  
+It flows gently through the forest towards the east.    
+~
+#5602
+branch stout firewood~
+a stout tree branch~
+A stout tree branch lies here, broken off at one end.~
+~
+30 65540 1
+0 0 0 0
+3 0 0 0 -1
+E
+branch stout~
+   This tree branch is about three inches in diameter and looks fairly stout.
+One end is broken jaggedly and has scorch marks on it.  It looks like it would
+be a good makeshift club.    
+~
+A
+18 -2
+#5603
+stream wide water~
+a wide stream~
+A wide stream flows slowly to the northeast here.~
+~
+23 0 0
+2147483647 2147483647 0 0
+-2147483644 0 0 0 -1
+E
+water stream~
+   A wide stream flows slowly towards the northwest here.  It is wide enough to
+prevent easily crossing.    
+~
+#5604
+stream wide water~
+a wide stream~
+A wide stream flows in from the southwest and turns to the north.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+$~

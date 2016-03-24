@@ -1,0 +1,335 @@
+#13600
+cistern old stone~
+an old stone cistern~
+An old stone cistern lies in the middle of the square.~
+Nothing.
+~
+23 65548 1
+9999 9999 0 0
+9999 0 0 1 -1
+E
+cistern old stone~
+   This old cistern is made of plain stone and concrete.  A wooden bucket
+attached to a pulley is connected to a mechanism to facilitate the drawing of
+water from within.  It was constructed to catch rainwater since the ground
+water here is often too salty to drink.    
+~
+#13601
+waistband belt woven sea grasses beaded~
+a beaded waistband made from woven sea grasses~
+A beaded belt is lying here.~
+~
+7 0 2049
+0 0 0 0
+1 260 65 12 -1
+E
+waistband belt woven sea grass beaded~
+   This waistband is made from woven sea grass which grows along the coastline
+here.  It has been covered with glass beads and brass studs to create geometric
+designs.    
+~
+A
+17 -2
+#13602
+pearl earring lovely~
+&Wa lovely pearl earring set on a silver backing&n~
+A single pearl has been dropped here.~
+Nothing.
+~
+8 0 65537
+0 0 0 0
+1 320 80 12 -1
+E
+earring pearl~
+   This lovely pink pearl comes from the oysters which live in the salt marshes
+of Balifor Bay.  It has been mounted on a simple gold to allow it to be worn as
+an earring.    
+~
+#13603
+pole fishing sturdy willow branch~
+a fishing pole made from a sturdy willow branch~
+A willow branch with a string tied to it has been left here.~
+~
+29 1048576 16385
+0 0 0 0
+3 53 13 10 -1
+E
+pole fishing sturdy willow branch~
+   This fishing pole is not much more than a sturdy willow branch with a line
+attached to it.  There is a small hook attached to the end of the line which
+can be easily baited.    
+~
+#13604
+boots waterproof fishing~
+a pair of waterproof fishing boots~
+A pair of boots is lying here.~
+~
+11 135266304 65
+0 0 0 0
+2 500 125 14 -1
+E
+boots waterproof fishing~
+   These thick leather boots have been treated with oil taken from sheep's wool
+to make them waterproof.  Additionally, they are lined with wool to provide
+both warmth and an extra layer of protection from wetness.    
+~
+A
+14 6
+A
+17 -3
+#13605
+basket fishing wicker~
+a wicker fishing basket~
+A wicker fishing basket sits on the ground here.~
+~
+15 1048576 33570817
+30 1 -1 0
+5 80 20 1 -1
+E
+basket fishing wicker~
+   As steadfast fishermen, the villagers know simplicity allows more time for
+fishing.  Thus the Bayside Fishing Basket was created and has been used for
+many years.  Fishermen pack provisions for the day (lunch, bait, tackle, etc)
+all in one basket, and off they go.  They can sit on the basket and fish, then
+eat their lunch and fish some more.  When the day is over, they load the basket
+back up with the days catch.    
+
+   This fine basket has two sturdy leather straps attached to its back.  These
+straps allow it to be worn on the back when travelling too and from a favorite
+fishing spot.
+~
+#13606
+sword steel shortsword fishscale~
+a steel shortsword with a fishscale hilt~
+An abandoned sword lies here.~
+~
+5 2109440 75522049
+0 2 7 3
+3 1620 810 18 -1
+E
+sword short fishscale~
+   This lightweight sword, with its impressive cutting power, makes for an
+ideal weapon.  Its grooved blade has been masterfully crafted of the fine steel
+and is double-edged.  Its grip is made of fish scales wrapped with silk cord.
+The pommel and guards are have bene crafted in bronze.    
+~
+A
+18 1
+A
+19 1
+#13607
+shield parrying round serpentine~
+a parrying shield with two serpentine blades~
+A small round shield is lying here, forgotten.~
+~
+9 20480 513
+8 0 0 0
+9 1890 645 17 -1
+E
+shield parrying round serpentine~
+   Almost a hybrid between a weapon and a shield, this fine parrying and
+thrusting shield consists of a pair of wavy, serpentine blades fastened to the
+back of a circular steel buckler for the protection of the arm.  The front of
+the shield is quite plain with only the four bronze studs which hold the blades
+and handle in place as ornamentation.    
+~
+A
+19 2
+#13608
+bracelet shell diamondback terrapin tortoise cuff~
+a wide, cuff bracelet made from the shell of a diamondback terrapin~
+A tortoise shell bracelet has been carelessly discarded here.~
+~
+8 0 4097
+0 0 0 0
+1 280 70 12 -1
+E
+bracelet shell diamondback terrapin tortoise cuff~
+   The diamondback terrapin is perhaps the loveliest of all turtles on Krynn.
+Its shell is prized for its ornate pattern.  This wide, cuff bracelet has been
+fashioned from a curving piece of the shell which has been polished to create a
+shiny finish.    
+~
+#13609
+pool tidal~
+a small tidal pool~
+A small tidal pool has formed in a low lying area of the marsh.~
+~
+15 0 0
+110 0 -1 0
+100 0 0 1 -1
+E
+pool tidal~
+   Tidepools form where pools of water collect in rocky hollows at low tide.  
+They give us land dwellers a chance to peek at the daily lives of ocean
+animals: hunting, eating, fighting off predators.  Each retreat of the tides
+reveals a miniature aquatic world.    
+~
+#13610
+oyster shellfish shell live liveoyster~
+a live oyster~
+An oyster has been carelessly dropped here.~
+~
+15 0 1
+3 5 -1 0
+1 0 0 1 -1
+T 13610
+E
+oyster shell shellfish live~
+   Oysters are edible bivalve mollusks, that live chiefly in shallow marine
+waters and have rough, irregularly shaped shells.  Though they are popular for
+eating, the most treasured oyster is the pearl oyster due to the treasure that
+it sometimes holds within.    
+~
+#13611
+pearl pink~
+a pink pearl the size of a pea~
+A pink pearl has been carelessly discarded here.~
+~
+8 0 1
+0 0 0 0
+1 150 40 1 -1
+E
+pearl pink~
+   Pearls are smooth, lustrous, variously colored deposits (chiefly calcium
+carbonate), formed around a grain of sand or other foreign matter in the shells
+of certain mollusks and valued as a gem.  This pearl is pink in colour, making
+it a wonderful and rare find!    
+~
+#13612
+oyster shell shellfish shucked~
+a shucked oyster~
+An open oyster shell lies on the ground here.~
+~
+19 0 1
+1 0 0 0
+1 12 2 1 -1
+E
+oyster shell shellfish shucked~
+   Oysters are edible bivalve mollusks, that live chiefly in shallow marine
+waters and have rough, irregularly shaped shells.  Once shucked their soft
+innards make for good, if slightly slimy, eating.    
+~
+#13613
+shell knobbed whelk spiral~
+the spiral shell of a knobbed whelk~
+A spiral-shaped shell is lying here.~
+~
+15 0 1
+2 0 -1 0
+1 9 2 1 -1
+E
+shell knobbed whelk spiral~
+   A knobbed whelk has created this spiral shell with knobs (or spines) along
+its shoulder.  The whelk builds the hard shell from calcium carbonate that it
+extracts from the seas.  This large specimen is nearly ten inches in length The
+shell is light gray with brown and white streaks.    
+~
+#13635
+tankard pewter ale~
+a pewter tankard~
+A pewter tankard has been left behind here.~
+~
+17 0 1
+6 6 3 0
+11 12 2 1 -1
+E
+tankard pewter ale~
+   The handle of this pewter tankard has been enlaid with a few small squares
+of mother-of-pearl giving it a touch of class.  Turning the mug over reveals an
+engraving on the bottom of the tankard which reads
+
+                      The Salt Marsh Tavern
+
+~
+#13636
+cod salted fish chunk~
+a large chunk of salted cod~
+A large chunk of fish has been dropped here.~
+~
+19 0 1
+8 0 0 0
+1 12 2 1 -1
+E
+cod salted fish chunk~
+   This large chunk of cod has been salt cured.  The process does not do
+terribly much to enhance the fish's already salty flavor, but it does ensure
+that the cod stays edible for sometime.  This makes an excellent food for
+travelling.    
+~
+#13637
+clams halfshell shell shellfish~
+clams on the halfshell~
+A clam shell has been dropped here.~
+~
+19 0 1
+2 0 0 0
+1 6 1 1 -1
+E
+clams halfshell shell shellfish~
+   This fresh clam has been split open to reveal its yummy meat.  The
+residents of Bayside Village love their clams fresh from the sea, therefore
+they do nothing to interfere with their natural taste.  Just a small wedge of
+lemon, and they eat their clams raw!    
+~
+#13676
+lantern candle~
+a candle lantern~
+An unfinished object is lying here.~
+~
+1 1048576 1
+0 0 18 0
+1 20 5 1 -1
+E
+lantern candle~
+   Weighing just under a pound, this candle lantern is handy for lighting up a
+lean-to, campsite or for emergency home use.  It provides a small storage area
+in its base for extra candles.    
+~
+#13677
+bait pail mixed~
+a pail of mixed fish bait~
+A pail filled with what can only be fish bait is lying here.~
+~
+13 1048576 16385
+0 0 0 0
+1 12 1 1 -1
+E
+bait pail mixed~
+   The shop owners fill these pails each day with whatever good bait they can
+scrounge up.  Today we have a lovely mixture of squid bits, corn, and
+nightcrawlers.  It may turn your stomach, but it is sure to tempt the fish.  
+
+~
+#13678
+jug cork stopper~
+a jug with a cork stopper~
+A small brown jug is lying here, forgotten.~
+~
+17 1048576 1
+8 8 0 0
+13 16 4 1 -1
+E
+jug cork stopper~
+   This small jug has been painted a dark color of brown and glazed to create a
+glossy finish.  A cork in the neck of the jug keeps whatever liquid is inside
+from spilling out.  A loop, thumb handle was sculpted into the side of its
+neck.    
+~
+#13679
+creel wicker fishing basket~
+a wicker creel~
+A wicker basket has been left here.~
+~
+15 1048576 1064961
+18 1 -1 0
+3 24 6 1 -1
+E
+creel wicker fishing basket~
+   Creel is basically a fancy name for a wicker fishing basket.  This
+particular creel has a long length of leather attached to it to allow it to be
+worn comfortably over the shoulder, keeping your hands free for fishing.  An
+animal's tooth on a short leather thong, hooks through a loop to keep the top
+closed.  This way there is no worry of your day's catch escaping.    
+~
+$~

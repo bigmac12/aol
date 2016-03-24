@@ -1,0 +1,1394 @@
+#10100
+pan frying~
+&Ka well-used cast iron frying pan&n~
+A frying pan lies here.~
+~
+5 4096 24577
+1 2 3 5
+4 10 3 2 -1
+E
+pan frying~
+   This iron frying pan has a long sturdy handle and is covered with a
+resilient black coating.    
+~
+#10101
+apron dirty~
+&Wa &ydirty&W white apron with burnt patches&n~
+A dirty white apron is crumpled up on the ground.~
+~
+9 0 2049
+1 0 0 0
+1 8 2 1 -1
+E
+apron dirty white~
+   This apron was white at one time, but is covered with food stains and dirty
+hand smears.    
+~
+#10102
+leggings dark grey~
+&wa pair of form fitting dark grey leggings&n~
+A pair of dark grey leggings lie here.~
+~
+11 135266304 33
+0 0 0 0
+1 10 2 1 -1
+E
+leggings dark grey~
+   These well made leggings are sewn from a dark grey cotton and fit tightly to
+the wearer's legs, offering both warmth and protection.    
+~
+A
+17 -1
+#10103
+tunic thin black~
+&Ka black, thin cotton tunic&n~
+A thin black tunic has been dropped here.~
+~
+11 1048576 9
+0 0 0 0
+1 8 2 1 -1
+E
+tunic thin black~
+   This tunic is made from a very thin material and is a faded black color.  
+
+~
+A
+17 -1
+#10104
+necklace gold delicate~
+&Ya delicate gold necklace of simple design&n~
+A thin golden necklace rests here.~
+~
+8 1048576 5
+0 0 0 0
+1 38 9 4 -1
+E
+necklace thin gold golden~
+   This delicate golden necklace is a herringbone design, popular amongst
+cultured young ladies.  The gold is of a high quality, and bears a white tint.
+It is fashioned with a simple keyhole clasp.    
+~
+A
+17 -1
+#10105
+tools bizarre set~
+a set of bizarre looking tools~
+A set of bizarre looking tools lie here in a heap.~
+~
+11 726007808 16385
+1 0 0 0
+1 356 72 8 -1
+E
+bracelet silver~
+   This thin silver bracelet is comprised of many small links carefully woven
+together, creating a pattern of diamonds from the metal itself.    
+~
+A
+2 1
+A
+4 -1
+#10106
+ring silver small~
+&wa tarnished silver ring with worn engravings&n~
+A small silver ring lies here.~
+~
+8 0 3
+0 0 0 0
+1 19 5 7 -1
+E
+ring silver tarnished engravings~
+   This thin band of silver has an engraved pattern of interwoven leaves along
+its center.    
+~
+A
+17 -2
+#10107
+ruby gem small fiery~
+&Ra fiery red ruby&n~
+A small, fiery red ruby lies here.~
+~
+8 0 1
+0 0 0 0
+1 400 13 1 -1
+E
+ruby fiery red~
+   This small ruby is brilliantly cut to catch the greatest light and reflect a
+fiery red from its many facets.    
+~
+#10108
+exquisite three pear emerald dangle earring jewelry~
+&gan exquisite, three pear-shaped emerald dangle earring&n~
+A small, beautiful emerald lies here.~
+~
+8 0 65537
+0 0 0 0
+1 89 13 10 -1
+E
+exquisite emerald dangle earring pear~
+   &gThree pear-shaped natural emeralds and a round natural emerald framed in
+round diamonds dangle from a pure 14K white gold posts.  &n
+~
+#10109
+cotton robes embroidered stole~
+&Ra set of heavy cotton robes with an &rembroidered silk velvet stole&n~
+The red robes of a mage have been dropped here.~
+~
+11 3072000 9
+0 0 0 0
+3 53 13 15 -1
+E
+cotton robes stole heavy~
+   Hand embroidered, silk velvet lines the front in way of a lavish stole.  
+The embroidery is the same color as the robes themselves, and placed against
+the rich crimson of the stole, the pattern is that of an outline of a crimson
+moon with mist of smoke looping around the edges.  These red robes are worn by
+neutral mages, and the cotton is one of the finest around.  They fall in a
+full, graceful folds to the feet with long, billowing cowled sleeves.    
+~
+A
+17 -4
+A
+24 -2
+#10110
+tunic white thin~
+a thin white tunic~
+A thin white tunic is lying here.~
+~
+11 1048576 9
+0 0 0 0
+1 12 3 2 -1
+E
+tunic thin white~
+   This white tunic is made from a very thin material and is perfect wear for
+the hot summer months.    
+~
+A
+17 -1
+#10111
+machine~
+a machine for aligning three wheeled baskets~
+A machine for aligning three wheeled baskets sits here.~
+~
+15 734134272 16385
+35 1 -1 0
+2 125 32 8 -1
+E
+leggings white silk~
+   These leggings are made from a sheer white silk and cover the legs in loose,
+graceful folds.    
+~
+#10112
+longsword sword long fine-edged fine~
+a fine-edged longsword~
+A fine-edged longsword lies here.~
+~
+5 2109440 75505665
+1 2 6 3
+4 56 14 7 -1
+E
+longsword sword long fine-edged fine~
+   This longsword has been made from a durable steel, and its blade has been
+honed to a sharp, fine edge.    
+~
+#10113
+breastplate steel polished~
+&wan unadorned steel breastplate with a high sheen polish&n~
+A polished steel breastplate lies here.~
+~
+9 19419136 9
+14 0 0 0
+40 3755 1875 28 -1
+E
+breastplate polished steel~
+   This heavy breastplate has been polished to a high sheen and is free of
+embellishment, offering its user practical durability without frills.    
+~
+A
+9 -2
+A
+17 2
+#10114
+shield guard~
+a guardsman's shield~
+A heavy guardsman's shield, bearing the insignia of Kalaman, is resting here.~
+~
+9 19419136 513
+7 0 0 0
+15 633 317 16 -1
+E
+shield guardsman's~
+   This heavy shield is made of steel and bears the Kalaman insignia on its
+front.    
+~
+#10115
+gauntlets shining steel~
+a pair of shining steel gauntlets~
+A pair of shining steel gauntlets is lying here.~
+~
+9 19419136 129
+6 0 0 0
+9 3345 1705 28 -1
+E
+gauntlets shining steel~
+   These steel gauntlets have been polished to a high sheen, and offer both
+protection and ease of movement to the wearer.    
+~
+#10116
+helm steel tall banded~
+a tall banded steel helm~
+A tall banded steel helm is lying here.~
+~
+9 153645056 17
+6 0 0 0
+8 4125 2104 28 -1
+E
+helm steel banded tall~
+   Banded steel ensures this helm offers the utmost in protection for the
+adventurer.  The interior is padded with soft material for comfort, and perfect
+fit.    
+~
+#10117
+legplates steel tempered~
+a pair of tempered steel legplates~
+A pair of tempered steel legplates is lying here.~
+~
+9 153636992 33
+9 0 0 0
+15 9551 4510 29 -1
+E
+legplates steel tempered~
+   These finely tempered steel legplates protect the wearer from above the
+ankle to just below the knee.  Also known as greaves, the charm of these
+legplates lies in their charm and simplicity.  Free from the engraving that
+mark many inferior pieces of armor, these are left a simple, gleaming steel,
+free of dent, scratch, or blemish.  A pair of thick leather straps hold each
+legplate to the warrior's lower legs.    
+~
+A
+19 2
+#10118
+armplates steel~
+a pair of thick steel-wrapped armplates~
+A pair of thick, steel-wrapped armplates lies here.~
+~
+9 220745856 257
+9 0 0 0
+15 8850 4250 29 -1
+E
+armplates plates thick steel~
+   These armplates are made from beautiful, hardened leather, shaped to fit
+over the arms of a warrior.  The leather plates are overlapped and are light
+enough so as to not impair movement, but incredibly strong.  They are
+reinforced with bands of shining steel, increasing the already remarkable
+durability of the hardened leather.  Unadorned with excess decoration, the
+armplates are a model of simplicity and efficiency.    
+~
+A
+18 2
+#10119
+dagger slim dark steel~
+a slim, dark steel dagger~
+A slim, dark steel dagger lies here.~
+~
+5 2105344 1006657537
+0 1 4 11
+1 36 9 5 -1
+E
+dagger slim steel~
+   This well balanced weapon has a visciously curved blade, flaring out from
+the hilt then bending gracefully to a deadly point.  The steel from which it is
+made is dark in color, and the blade is highly sharpened.    
+~
+#10120
+sword short steel~
+a steel short sword~
+A steel short sword rests here.~
+~
+5 2109440 75522049
+0 1 5 14
+3 32 8 6 -1
+E
+sword shortsword steel~
+   This finely crafted shortsword is made of high quality steel and is balanced
+so carefully as to feel like an extension to the user's hand.    
+~
+#10121
+gloves rough leather~
+a pair of rough leather gloves~
+A pair of rough leather gloves is lying here.~
+~
+9 4096 129
+1 0 0 0
+1 15 4 2 -1
+E
+gloves rough leather~
+   Rough leather has been sewn together with sturdy leather line to make these
+gloves.  They are uncomfortable but functional.    
+~
+#10122
+apron dark brown~
+a dark brown, stained apron~
+A dark brown, stain-covered apron lies here.~
+~
+9 0 2049
+1 0 0 0
+1 6 2 1 -1
+E
+apron dark brown stained stain-covered~
+   This old worn apron is covered in stains, and is made of a dark brown
+material.    
+~
+#10123
+-1~
+a pair of light brown leggings~
+A pair of thick, light brown leggings lie here.~
+~
+11 1048576 33
+0 0 0 0
+2 12 3 2 -1
+E
+leggings thick light brown~
+   These leggings are made from a thick material and are light brown in color.
+What they lack in comfort, they compensate for in protection from the elements
+when travelling.    
+~
+#10124
+tobacco pouch~
+a pouch of tobacco~
+A pouch of tobacco is lying here.~
+~
+19 1048576 16777217
+1 0 0 -1
+0 12 2 1 -1
+E
+tobacco pouch~
+   This pouch is filled with cherry scented pipe tobacco.    
+~
+#10125
+firewine bottle~
+a bottle of firewine~
+A bottle of fine firewine lies here.~
+~
+17 0 1
+10 10 2 0
+15 12 3 1 -1
+E
+firewine wine~
+   This blue-tinted bottle has been wrapped in glossy paper, which is twisted
+around the neck.  When uncorked, the scent from inside the bottle is of a
+strong, fiery wine.    
+~
+#10126
+brandy peach vingaardan vingaard bottle~
+a bottle of Vingaardan peach brandy~
+A bottle of Vingaardan peach brandy lies here.~
+~
+17 0 1
+10 10 5 0
+15 10 3 1 -1
+E
+brandy bottle peach~
+   This green-tinted bottle is wrapped in wicker, its contents giving off a
+delectable peach fragrance.    
+~
+#10127
+nectar elven bottle~
+a bottle of elven nectar~
+A bottle of elven nectar is standing here.~
+~
+17 0 1
+10 10 8 0
+15 15 4 1 -1
+E
+nectar elven bottle~
+   This nectar is an elven specialty, tasting sweetly of honeysuckle.  The
+bottle has been handblown, and no two are exactly alike, each bearing the small
+gold stamp of its maker.    
+~
+#10128
+rolls sausage hot~
+some sausage rolls~
+Some hot sausage rolls are lying here.~
+~
+19 0 1
+5 0 0 0
+1 5 2 1 -1
+E
+rolls sausage~
+   These spicy pastry wrapped sausages are covered in a light cream sauce and
+sprinkled liberally with dill.    
+~
+#10129
+stew bowl~
+a bowl of steaming thick stew~
+A bowl of stew is steaming here.~
+~
+19 0 1
+5 0 0 0
+2 5 2 1 -1
+E
+stew thick steaming bowl~
+   This stew fills the nostrils with the scent of pepper.  It has large chunks
+of chicken and potatoes, as well as carrots and celery, in a thick milk base.
+  
+~
+#10130
+ale tankard warm~
+a tankard of warm ale~
+A tankard of warm ale has been left here.~
+~
+17 0 1
+2 2 3 0
+7 6 1 1 -1
+E
+tankard ale~
+   This ale is warm and bitter to the taste.    
+~
+#10131
+leggings blue~
+&Ba pair of thick blue leggings&n~
+A pair of thick blue leggings are lying here.~
+~
+11 1048576 33
+0 0 0 0
+2 35 8 6 -1
+E
+leggings thick blue~
+   These leggings are cut from a heavy blue fabric and offer some protection
+for the legs, as well as fashion.    
+~
+A
+17 -2
+#10132
+leggings thin elven leather~
+a pair of thin, leather elven leggings~
+A pair of thin, leather elven leggings lies here.~
+~
+9 1021317120 33
+2 0 0 0
+12 39 9 6 -1
+E
+legplates plates elven~
+   These well-crafted leg plates have been forged specifically for the elven
+races, wrapping around their shins with a custom fit.  They are made from a
+fine quality steel, and have a delicate engraved design of interwoven ivy
+leaves along the front of each.    
+~
+#10133
+robes simple clerical~
+a simple clerical robes stitched from fine linen cloth~
+Some simple clerical robes lie here.~
+~
+11 3067904 9
+0 0 0 0
+3 22 6 6 -1
+E
+robes simple clerical~
+   These voluminous clerical robes are made from a nondescript cotton.    
+~
+A
+17 -3
+#10134
+tunic red embroidered~
+a bright red embroidered tunic~
+A bright red embroidered tunic is lying here.~
+~
+11 1048576 9
+0 0 0 0
+2 31 8 8 -1
+E
+tunic red bright embroidered~
+   This beautifully sewn tunic has a carefully embroidered bodice in a pattern
+of ivy leaves.    
+~
+A
+17 -1
+#10135
+apron white clean~
+&Wa clean white apron&n~
+A clean white apron is lying here.~
+~
+11 0 2049
+0 0 0 0
+1 10 3 1 -1
+E
+apron clean white~
+   This spotless white apron is sewn in such a way that it can be worn to cover
+the full front of the body, or folded over to wear by the waist only.    
+~
+A
+17 -1
+#10136
+gown long pale blue~
+&Ca long, pale blue gown with flowing sleeves&n~
+A long, pale blue gown lies here.~
+~
+11 0 9
+0 0 0 0
+3 68 18 8 -1
+T 4
+E
+gown long pale blue~
+   This long gown is made of pale blue silk that seems to float to the feet of
+the wearer, and trail behind her in wisps.    
+~
+A
+17 -2
+#10137
+breastplate thin leather elven~
+a thin, leather elven breastplate~
+A thin leather breastplate, sized for an elf, lies here.~
+~
+9 1021317120 9
+4 0 0 0
+25 64 18 8 -1
+E
+breastplate elven~
+   This breastplate is forged from a solid, high quality steel and designed
+specifically for the stature of the elven races.    
+~
+#10138
+guards leg thick strapped bronze~
+a pair of bronze leg guards~
+Thick leather-strapped bronze leg guards lie here.~
+~
+9 136859648 33
+6 0 0 0
+16 925 462 18 -1
+E
+guards bronze leg~
+   These heavy leg guards are made from bronze and have been polished to a high
+sheen.  The strappings are thick leather and affixed to the plates through
+holes in extensions to the plates above the ankle and just below the knee.    
+~
+#10139
+armplates bronze long~
+a pair of long bronze armplates~
+A pair of long bronze armplates lies here.~
+~
+9 136859648 257
+6 0 0 0
+15 1040 520 18 -1
+E
+armplates plates long bronze~
+   These long armplates are made from heavy bronze and are highly polished.  
+They cover the arm from wrist to just past the elbow.  A clever folding
+mechanism allows freedom of movement at the elbow.    
+~
+#10140
+gauntlets bronze banded thick~
+a pair of thick bronze banded gauntlets~
+Two thick bronze banded gauntlets lie here.~
+~
+9 2641920 129
+4 0 0 0
+6 1130 565 18 -1
+E
+gauntlet gauntlets thick bronze~
+   These heavy bronze banded gauntlets are exceptionally crafted, fitting the
+hands comfortably and offering excellent protection as well as comfort and
+flexibility.    
+~
+#10141
+helm helmet bronze shining~
+a shining bronze helm~
+A bronze helm is lying here.~
+~
+9 136867840 17
+4 0 0 0
+10 1080 540 18 -1
+E
+helm helmet shining bronze~
+   This beautifully crafted bronze helm has been polished to a high shine.  
+Its interior is padded with soft cloth for comfort and snug fit.    
+~
+#10142
+steak meat venison~
+a venison steak~
+A venison steak lies here.~
+~
+19 0 1
+10 0 0 0
+1 10 1 1 -1
+E
+steak venison~
+   This thick venison steak has been marinated in wine and highly seasoned.  
+
+~
+#10143
+hen cornish~
+a roasted cornish hen~
+A roasted cornish hen sits here, smelling delicious.~
+~
+19 0 1
+12 0 0 0
+1 12 2 1 -1
+E
+hen cornish~
+   This cornish hen has been roasted over a spit, and seasoned with herbs.  It
+steams lightly, and it smells delicious.    
+~
+#10144
+bacon strip crispy~
+a strip of bacon~
+A strip of crispy bacon lies here.~
+~
+19 0 1
+3 0 0 0
+0 3 1 1 -1
+E
+bacon strip crispy~
+   This thin strip of bacon has been cooked to a tasty crisp.    
+~
+#10145
+strip meat rabbit~
+a thin strip of rabbit meat~
+A strip of rabbit meat lies here.~
+~
+19 0 1
+3 0 0 0
+1 3 1 1 -1
+E
+strip rabbit meat~
+   This thin strip of rabbit meat has been marinated in wine and seasoned
+lightly with chives.    
+~
+#10146
+sausage spicy~
+a spicy sausage~
+A spicy sausage has been dropped here.~
+~
+19 0 1
+5 0 0 0
+1 5 2 1 -1
+E
+sausage spicy~
+   This spicy sausage is served with a few cooked strips of onions and green
+peppers.    
+~
+#10147
+soup bowl~
+a bowl of soup~
+A steaming bowl of vegetable soup lies here.~
+Nothing.
+~
+19 0 1
+3 0 0 0
+1 3 1 1 -1
+E
+soup bowl vegetable~
+   This steaming bowl of soup is full of a variety of vegetables in a tomato
+broth, and spiced heavily with oregano and basil.    
+~
+#10148
+tankard mead~
+a mead tankard~
+A tankard of mead lies here.~
+~
+17 0 16385
+4 4 4 0
+9 4 1 1 -1
+E
+tankard mead~
+   This large tankard holds a well chilled, somewhat spicy tasting mead.    
+~
+#10149
+wine port kalaman~
+a bottle of Kalaman port wine~
+A bottle of Kalaman port wine sits here.~
+~
+17 0 1
+8 8 2 0
+13 8 1 1 -1
+E
+bottle sherry~
+   This is a small clear bottle and contains a rather bitter-tasting sherry.  
+
+~
+#10150
+whiskey bottle~
+a whiskey bottle~
+A bottle of whiskey stands here.~
+~
+17 1048576 16385
+12 12 5 0
+17 5 2 1 -1
+E
+bottle whiskey~
+   This brown bottle contains a strong-smelling whiskey of fair quality.    
+~
+#10151
+cap leather light~
+a light leather cap~
+A light leather cap is lying here.~
+~
+9 0 17
+1 0 0 0
+1 10 3 1 -1
+E
+cap light leather~
+   Made from a soft, light brown leather, this cap offers a little protection
+from the elements as well as comfort.    
+~
+#10152
+jerkin leather black~
+&Ka black leather jerkin&n~
+A black leather jerkin is lying here.~
+~
+9 134221824 9
+4 0 0 0
+5 64 16 8 -1
+E
+jerkin small leather black~
+   This rough jerkin is made from a tough black leather that tends to set
+permanently to the form of its wearer.    
+~
+A
+17 -1
+#10153
+leggings thick leather~
+a pair of thick leather leggings~
+A pair of thick leather leggings lies here.~
+~
+9 4096 33
+2 0 0 0
+4 40 10 6 -1
+E
+leggings thick leather~
+   Bleached by exposure to the sun, these leather leggings are a very light
+brown in color and are quite thick.    
+~
+#10154
+armguards thick cracked hide~
+thick cracked hide armguards~
+Two thick, cracked hide armguards have been forgotten here.~
+~
+9 0 257
+2 0 0 0
+2 39 11 6 -1
+E
+armguards guards thick cracked hide~
+   These thick armguards are crafted from an inferior quality hide that has
+begun to crack.    
+~
+#10155
+boots leather dark~
+a pair of dark leather boots~
+A pair of dark leather boots lies here.~
+~
+11 134217728 65
+0 0 0 0
+3 37 9 6 -1
+E
+boots leather dark~
+   These well crafted boots are made from a sturdy dark leather and cover the
+leg from foot to just above the knee.    
+~
+A
+17 -2
+#10156
+buckler well used small~
+a well-used buckler~
+A small, well-used buckler is lying here.~
+~
+9 2641920 513
+1 0 0 0
+8 15 4 2 -1
+E
+buckler~
+   This small buckler is round and made of steel.  Well used over time, it
+bears several dents that detract from its attractiveness but attest to its
+strength.    
+~
+#10157
+cleaver meat~
+a meat cleaver~
+A butcher's meat cleaver rests here.~
+~
+5 2109440 8193
+0 2 4 3
+5 86 22 10 -1
+E
+cleaver meat~
+   This dangerous looking cleaver is a butcher's best friend, perfectly
+weighted with a razor sharp cutting edge.    
+~
+#10158
+apron bloody blood butcher's~
+a bloody butcher's apron~
+A butcher's apron, caked with dried blood, lies here.~
+~
+9 0 2049
+1 0 0 0
+2 16 4 2 -1
+E
+apron bloody~
+   This long apron was once white but has been stained red from blood.  Its
+thin straps wrap about the waist and the apron covers the thighs.    
+~
+A
+6 -1
+#10159
+steak meat juicy~
+a steak~
+A juicy steak lies here.~
+~
+19 0 1
+5 0 0 0
+1 5 1 1 -1
+E
+steak juicy~
+   This steak is juicy and cooked to perfection, its center the palest pink.  
+
+~
+#10160
+chicken roasted~
+a whole, roasted chicken~
+A roasted chicken sits here, smelling delicious.~
+~
+19 0 1
+25 0 0 0
+2 25 1 1 -1
+E
+chicken butchered~
+   This chicken has been seasoned with sage and thyme, and is perfect for the
+heartier appetite.    
+~
+#10161
+meat skewer sizzling~
+a sizzling skewer of meat~
+A skewer of meat has been dropped here.~
+~
+19 0 1
+5 0 0 0
+1 5 2 1 -1
+E
+skewer meat sizzling~
+   This sizzling skewer contains large chunks of beef, pork and chicken with
+several pearl onions, all grilled to perfection.    
+~
+#10162
+bread loaf~
+a loaf of bread~
+A loaf of bread lies here.~
+~
+19 0 1
+8 0 0 0
+1 4 2 1 -1
+E
+bread loaf~
+   This bread, still warm from the hearth, is warm and flavored of butter.    
+~
+#10163
+doughnut~
+a doughnut~
+A doughnut has been dropped here.~
+~
+19 0 1
+2 0 0 0
+0 2 0 1 -1
+E
+doughnut~
+   This doughnut is slightly crunchy on the outside and warm and soft in the
+center.  It has been lightly sprinkled with a ground cinnamon and sugar blend.
+  
+~
+#10164
+apple shiny~
+a shiny red apple~
+A shiny red apple has been dropped here.~
+~
+19 0 1
+2 0 0 0
+1 2 0 1 -1
+E
+apple shiny~
+   This shiny red apple is perfectly ripe and offers a juicy treat to the busy
+adventurer.    
+~
+#10165
+carrot long thick~
+a carrot~
+A long, thick carrot lies here.~
+~
+19 0 1
+2 0 0 0
+0 2 0 1 -1
+E
+carrot long thick~
+   This plump carrot is a healthy orange with a headful of greens still
+attached at its crown.    
+~
+#10166
+pie blueberry~
+a blueberry pie~
+A fragrant blueberry pie lies here, still steaming from the hearth.~
+~
+19 0 1
+6 0 0 0
+1 6 1 1 -1
+E
+pie blueberry~
+   This pie is rather thick and overflowing with juicy blueberries, its sugary
+crust baked to a perfect brown.    
+~
+#10167
+tunic starched grey~
+a starched grey tunic~
+A starched grey tunic lies here.~
+~
+11 135266304 9
+0 0 0 0
+1 59 15 8 -1
+E
+tunic starched grey~
+   This grey tunic has been highly starched, its collar creased neatly.  It is
+buttoned down the front with small round, cloth-covered buttons.    
+~
+A
+17 -1
+#10168
+small ivory key~
+a small ivory key~
+A small ivory key has been dropped here.~
+~
+18 65540 1
+0 0 0 0
+2 0 0 1 -1
+E
+leggings brown fringed~
+   These brown leggings have a decorative fringe along each outer seam.    
+~
+#10169
+scarf long black cotton~
+&Ka long, black cotton scarf&n~
+A thick black scarf lies here in a heap.~
+~
+11 1048576 5
+0 0 0 0
+1 8 2 1 -1
+E
+scarf thick black~
+   This long scarf has been dyed a jet black, and is made from an incredibly
+soft cotton blend material.    
+~
+A
+17 -1
+#10170
+thick coil braided hemp rope~
+a thick coil of braided hemp rope~
+A length of rope is coiled here.~
+~
+9 0 1050625
+1 0 0 0
+2 9 3 1 -1
+E
+rope coil~
+   This thick coil of rope has many uses, and is finely braided for strength.
+~
+#10171
+torch~
+a torch~
+A large torch lies here.~
+~
+1 1048576 16385
+0 0 8 0
+2 8 2 1 -1
+E
+torch large~
+   This torch is rather large, made from a heavy pine, and fills the area with
+a pine scent when burned.    
+~
+#10172
+lantern light~
+a lantern~
+A lantern lies here.~
+~
+1 1048576 16385
+0 0 12 0
+3 12 3 1 -1
+E
+lantern light~
+   These copper-hooded lantern is a simple affair, weighted at the bottom to
+prevent it tipping over.    
+~
+#10173
+small bag~
+a small bag~
+A small bag lies here.~
+~
+15 0 50348033
+12 0 -1 0
+1 6 2 1 -1
+E
+bag small~
+   This small bag is made from a sturdy material and has a cloth handle sewn in
+to allow it to be held easier.    
+~
+#10174
+large bag~
+a large bag~
+A large bag lies here.~
+~
+15 1048576 16385
+25 0 -1 0
+2 15 4 3 -1
+E
+bag large~
+   This cloth bag seems large enough to hold a goodly amount of gear, and has a
+shoulder strap for hardier adventurers to wear it.    
+~
+#10175
+backpack pack~
+a backpack~
+A backpack has been dropped here.~
+Nothing.
+~
+15 1048576 33554433
+35 0 -1 0
+2 25 7 1 -1
+E
+backpack pack~
+   This medium-sized backpack has sturdy cloth straps and two braces along its
+length to help distribute the weight of its contents on the wearer's back.    
+~
+#10176
+robes white~
+&Wa set of thick cotton robes with a silver embroidered crescent moons&n~
+The white robes of a mage have been dropped here.~
+~
+11 3075072 9
+0 0 0 0
+3 53 13 15 -1
+E
+robes white~
+   These white robes, worn by mages of good alignment, are made from a soft,
+fine material and fall in full, graceful folds to the feet.    
+~
+A
+17 -4
+A
+24 -1
+#10177
+robes black~
+&Ka set of substantial cotton robes with an embroidered velvet stole&n~
+The black robes of a mage have been dropped here.~
+~
+11 3074560 9
+0 0 0 0
+3 52 13 15 -1
+E
+robes black~
+   These black robes, worn by mages of evil, are made from a soft, fine
+material and fall in full, graceful folds to the feet.    
+~
+A
+17 -4
+A
+24 -1
+#10178
+longsword sword long gleaming jeweled hilt~
+a gleaming longsword with a jeweled hilt~
+A gleaming longsword with a jeweled hilt lies here.~
+~
+5 2109440 75505665
+0 1 5 3
+5 30 8 5 -1
+E
+longsword gleaming jeweled~
+   This beautifully crafted longsword has a pure steel blade, finely honed to
+razor sharpness.  Its hilt is encrusted with numerous small gems.    
+~
+#10179
+shirt scale mail well used worn~
+a well-used shirt of scale mail~
+A scale mail shirt, well worn from use, is lying here.~
+~
+9 136859648 9
+8 0 0 0
+15 560 280 16 -1
+E
+shirt scale mail~
+   This short-sleeved shirt of scale mail has seen much use, protecting
+countless previous wearers in combat.    
+~
+A
+5 2
+#10180
+platings scale leg~
+a pair of scale leg platings~
+A pair of scale leg platings lies here.~
+~
+9 136859648 33
+5 0 0 0
+17 620 310 16 -1
+E
+platings scale~
+   These scale leg platings are well-crafted, and highly polished.  They offer
+solid protection in battle, and are lined with cloth on the inside for comfort
+and a snug fit.    
+~
+#10181
+sleeves scale mail~
+a pair of scale mail sleeves~
+A pair of scale mail sleeves is lying here.~
+~
+9 136859648 257
+5 0 0 0
+14 620 310 16 -1
+E
+sleeves scale mail~
+   Handsomely crafted, this scale mail shirt offers both style and protection
+in battle.    
+~
+#10182
+vest dark studded leather~
+a dark, studded leather vest~
+A dark, studded leather vest lies here.~
+~
+9 16781312 9
+4 0 0 0
+21 59 15 8 -1
+E
+undefined~
+Nothing.
+~
+#10183
+cap small leather~
+a small cap of leather~
+A small cap of leather, obviously well-used, lies here.~
+~
+9 0 17
+1 0 0 0
+6 24 6 3 -1
+E
+undefined~
+Nothing.
+~
+#10184
+platings leg leather draped chain mail two~
+a pair of leather leg platings~
+A pair of leather leg platings draped in chain mail lies here.~
+~
+9 2117632 33
+2 0 0 0
+15 38 9 6 -1
+E
+platings leather chain mail~
+   These leg platings are made from a sturdy leather and are draped generously
+with chain mail.    
+~
+#10185
+sleeves thin soft leather~
+two thin, soft leather sleeves~
+A pair of thin, soft leather sleeves lies here.~
+~
+11 1048576 257
+0 0 0 0
+9 26 7 3 -1
+E
+undefined~
+Nothing.
+~
+A
+17 -1
+#10186
+staff thin wooden~
+a thin wooden staff~
+A thin wooden staff of ordinary make is lying here.~
+~
+5 0 8193
+0 1 5 5
+3 24 6 5 -1
+E
+staff thin wooden~
+   This thin wooden staff has been sanded free of splinters and is made from a
+solid hickory.    
+~
+#10187
+axe battle~
+a rough-edged battle axe~
+A rough-edged battle axe lies here.~
+~
+5 2109440 8396801
+1 2 3 3
+7 45 12 5 -1
+E
+axe axe battleaxe battleax~
+   This heavy battle axe has seen many days in combat, gauging from its edge
+which has been sharpened so frequently that it has grown thin and is rough.  
+~
+#10188
+warhammer hammer large~
+a large warhammer~
+A large warhammer lies here.~
+~
+5 4096 8193
+0 1 5 7
+10 48 12 7 -1
+E
+warhammer hammer large~
+   This heavy warhammer provides a powerful defense to any strong enough to
+wield it.    
+~
+#10189
+broadsword sword~
+a broadsword~
+A broadsword lies here.~
+~
+5 2109440 75505665
+0 1 5 3
+5 32 8 5 -1
+E
+broadsword sword~
+   This broadsword is a simple affair, well crafted and weighted, and its blade
+freshly sharpened.    
+~
+#10190
+longbow long bow~
+a longbow~
+A longbow lies here.~
+~
+5 2109440 8193
+0 1 4 11
+3 15 4 4 -1
+E
+longbow long bow~
+   This longbow is made of cured oak and is in excellent condition, its string
+taut and waiting to be threaded.    
+~
+#10191
+shortbow bow~
+a shortbow~
+A shortbow lies here.~
+~
+5 12288 8193
+0 1 3 11
+2 15 4 3 -1
+E
+shortbow short bow~
+   This thin shortbow is lightweight and easily carried on the shoulder.    
+~
+#10192
+barstool worn wooden~
+a tall wooden barstool, worn from use~
+A tall wooden barstool, worn from use sits near the bar.~
+~
+12 0 0
+0 0 0 0
+9999 0 0 1 -1
+E
+scratches~
+   The word 'Azareth' can be made out faintly, scratched into the seat of the
+barstool by some hasty hand.    
+~
+E
+barstool worn wooden~
+   This is a simple wooden barstool, which is a bit taller than average.  It
+has seen it's fair share of use and age, and the seat is worn smooth.  Near one
+edge, some faint scratches can be made out.  One would have to look closer to
+see if they resemble anything however.    
+~
+#10193
+robes majere cleric~
+the robes of a cleric of Majere~
+The robes of a cleric of Majere are lying here.~
+~
+11 3070976 9
+0 0 0 0
+3 36 9 4 -1
+E
+robes cleric majere~
+   These long clerical robes are made from a soft cotton blend and fall
+gracefully to the feet of the wearer.    
+~
+A
+17 -2
+#10194
+staff vallenwood wood~
+a gnarled staff crafed from solid vallenwood~
+A gnarled vallenwood staff lies here.~
+~
+5 1490944 8193
+0 2 7 7
+5 86 22 9 -1
+E
+staff vallenwood gnarled~
+   This gnarled staff is made from solid vallenwood and is well balanced,
+making it a useful weapon to defend oneself.  A small leather strap has been
+attached to the center to allow the staff to be worn across the shoulder.    
+~
+#10195
+shield elven light~
+a light elven shield~
+An elven shield, bearing the arms of House Protectorate, is lying here.~
+~
+9 140529664 33554945
+1 0 0 0
+10 22 6 3 -1
+E
+shield elven~
+   This handsomely crafted shield is made from a high quality steel, and bears
+the crest of the House Protectorate.    
+~
+#10196
+leggings small green~
+&ga pair of small green leggings&n~
+A pair of small green leggings is lying here.~
+~
+11 1048576 33
+0 0 0 0
+2 16 4 2 -1
+E
+leggings small green~
+   This small pair of leggings is a pale green in color and free of
+embellishment, evidently made for functionality rather than style.    
+~
+A
+17 -1
+#10197
+mallet multiheaded pneumatic~
+a multiheaded, gnomish pneumatic pounding mallet~
+A multiheaded, gnomish pneumatic pounding mallet lies here.~
+~
+5 667025408 10241
+0 2 4 7
+5 165 41 11 -1
+E
+tunic small white~
+   This small tunic is made from a thin white fabric and is simple in design.
+  
+~
+A
+19 1
+A
+18 -1
+#10198
+tunic brown~
+&ya simple brown tunic with a high neckline&n~
+A brown tunic is lying here.~
+~
+11 1048576 9
+0 0 0 0
+1 39 10 4 -1
+E
+tunic brown~
+   This simple brown tunic has a high neckline, bordered with a thin
+red-threaded design.    
+~
+A
+17 -1
+#10199
+longsword elven sword~
+an elven longsword~
+An elven longsword lies here.~
+~
+5 1021325312 75505665
+0 1 5 3
+5 32 8 5 -1
+E
+longsword sword elven~
+   This beautifully created steel longsword is perfectly balanced and has been
+well cared for, its blade sharp and polished.    
+~
+$~

@@ -1,0 +1,93 @@
+#4000
+spit~
+a spit~
+A short spit hangs over the campfire.~
+~
+15 0 0
+1000 0 -1 0
+200 0 0 0
+#4001
+cooked rabbit~
+a cooked rabbit~
+A flame cooked rabbit rests here.~
+~
+19 0 1
+6 0 0 0
+1 4 1 1
+#4002
+small shallow pool~
+a small shallow pool~
+A small, shallow pool lies hidden in the trees.~
+~
+23 0 0
+1000 1000 0 1
+5000 0 0 0
+#4003
+ashes camp fire~
+the ashes of a small camp fire~
+The ashes of a small camp fire are scattered here.~
+~
+15 0 0
+300 0 -1 0
+0 0 0 0
+#4004
+arrowhead arrow head~
+a small stone arrowhead~
+A small stone arrowhead lies buried in the ashes.~
+~
+12 0 1
+0 0 0 0
+2 1 1 1
+E
+small stone arrowhead~
+   This small, stone has been roughly carved in the shape of an arrowhead.  
+There is a large chip out of the point, which is probably why it is no longer
+in use.    
+~
+#4061
+casket~
+a large ornately carved oaken casket~
+A large ornately carved oaken casket sits here, waiting to be buried.~
+~
+15 0 1
+1000 15 4062 0
+500 0 0 0
+E
+casket ornately oaken~
+   This casket, while of a simple oak and not overly extravagent, is well
+constructed and somewhat ornate.  It's surfaces have been loving treated and
+tooled with intricate designs, no doubt the crest of this soul's onetime
+family.    
+~
+#4062
+key platinum~
+a platinum key~
+A key molded from platinum lies here shining brightly.~
+~
+18 65540 1
+0 0 0 0
+0 0 0 0
+#4063
+corpse ~
+the corpse of a elderly man~
+The corpse of a elderly man lies serenely inside the casket.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0
+#4099
+statue chislev~
+a statue of Chislev~
+A beautiful, lifelike, marble statue of Chislev is on display here.~
+~
+12 321 1
+0 0 0 0
+5000 0 0 0
+E
+statue chislev~
+   You see a beautifully carved marble statue of Chislev standing on a pedestal
+here.  It is so life-like you feel as if she will start talking to you any
+moment now.  Her arms are outstreched like she is trying to hug you and she has
+a big smile on her face.    
+~
+$~

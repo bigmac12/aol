@@ -1,0 +1,375 @@
+#6300
+deck gun~
+a deck gun~
+A deckgun sits mounted on a small swivel.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+deck gun~
+   One of the ships close combat weapons, it is mounted near the wheel and can
+spray grapeshot down onto the decks if the ship is boarded.  It has been
+polished to a gleam and the brass shines brightly, contrasting the dark wood of
+its mount.    
+~
+#6301
+large cannon~
+a large cannon~
+A large cannon points out through the gunwale.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+large cannon~
+   The main offensive weapon of the the ship sits ominously quiet pointing out
+the side of the ship.  It is a deep black, cast in one mould at the military
+armory and designed to inflict massive damage on enemy vessels.    
+~
+#6302
+map water waters northeast northeastern ansalon~
+a map of northeastern ansalon~
+A map of the waters of northeast Ansalon is curled into a roll.~
+~
+16 0 1
+0 0 0 0
+2 6 2 1 -1
+E
+map water waters northeast ansalon~
+
+    **----------------------------------------------------------------------**
+    **                   __                                                 **
+    |                 __ \/                                                  |
+    |                 \ \  /\ __                              ________       |
+    |   \              \/ / _\\|                            _/        \___   |
+    |    \               / /  |/                           /            _/   |
+    |     \       _      \/                           __  /_           |     |
+    |     /      / \                           ______/ /    \KAR       |     |
+    |     \    _/  /                      ____/        |      |        |/\   |
+    |      \__/    \       __            /              \     /          /   |
+    |              /       \/           /                |   /           \   |
+    |             /                  __/                 /   \           /   |
+    |             |              ___/                    \   /           \   |
+    |             /        _____/                        |  /            /   |
+    |          KAL|     __/                              | /             \   |
+    |             \    /                                 |/           _  /   |
+    |              \  /                                  |           | \_\   |
+    |              / |                                 IST            \      |
+    |              | /                                                 \     | 
+    |              |/                   ^                               \    |
+    |                                   |                                    |
+    |                                   |                                    | 
+    *                                 NORTH                                  *
+    **----------------------------------------------------------------------**
+    *                CHART of NORTHEASTERN ANSALON COASTLINE                 *
+    |                                                                        |
+    |      KAL-KALAMAN              IST-ISTAR               KAR-KARTHAY      |
+    |                                                                        |
+    |                              |----------|                              |
+    **                               100miles                               ** 
+    **----------------------------------------------------------------------**
+
+~
+#6303
+old oak table~
+an old oak table~
+An old, oak table covered in papers dominates the room.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+map maps~
+   It is impossible to decifer the cryptic maps.  They have been written over
+numerous times almost completely obscuring the origional detail.    
+~
+E
+paperwork papers~
+   The papers appear to be nothing more than everyday communications and
+reports due back to the command staff.    
+~
+E
+old oak table~
+   The massive table sits firmly in the center of the room.  It is covered in a
+mass of paperwork and maps being the workstation for the captain.  Obviously of
+great value, the old table was likely brought in as a personal possession for
+the captain.    
+~
+#6304
+coil thick rope~
+a coil of thick rope~
+A coil of thick rope is attached to the anchor.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+coil thick rope~
+   This rope is very thick, beyond the span of a hand and is incredibly strong
+despite the obvious wear and continuous use it has endured.  It has been
+wrapped in a tightening circle to be stored when the anchor is up.    
+~
+#6305
+massive anchor~
+a massive anchor~
+A massive anchor hangs just of the side of the deck.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+massive anchor~
+   The anchor hangs stiffly off the edge of the deck, heavy enough that it does
+not swing in the wind.  It has been recently scraped in order to try to remove
+some of its rust, but it will soon have to be replaced due to its many dents
+and chips.    
+~
+#6306
+large wooden wheel~
+a large wooden wheel~
+A large, wooden wheel is fixed to the bridge deck.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+large wooden wheel~
+   This wheel is the center of the operation of the ship.  It controls the
+rudder and from this station the orders are issued down to the sailors below.
+It is made of thick cherry wood and its tips and hub are detailed with highly
+polished sheet brass.    
+~
+#6307
+long crude wooden table~
+a long, crude wooden table~
+A long, crude wooden table sits in the middle of the mess hall.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+long crude wooden table~
+   Very little time was taken during the construction of this table, likely
+due to the fact that they often get broken and need to be replaced, victims
+of rowdy and drunken sailors.  Heavy scratches run down its length and it
+is coated in a thin film of congealed fat and oils.  Long benches extend
+down each side.
+~
+#6308
+heavy desk~
+a heavy desk~
+A heavy desk with many drawers sits in the room.~
+~
+15 0 0
+50 5 -1 0
+500 0 0 1 -1
+E
+deep drawers~
+   These drawers have a thick, metal lining that seems to be layed out in a
+fashion to organize various types of coins.    
+~
+E
+heavy desk~
+   Made of reinforced wood, the pursers desk has been placed neatly in the
+corner of the room lined up with a wall.  Everything appears to be in place
+though there is a lot of work obviously that needs to be done yet.  Along its
+interior side runs a series of deep drawers, usually locked but currently left
+open.    
+~
+#6309
+large iron chest~
+a large, iron chest~
+A large, iron chest is strapped to the wall.~
+~
+15 0 0
+50 13 6310 0
+500 0 0 1 -1
+E
+large iron chest~
+   This chest is constructed of heavy sheets of iron, soldered together and
+wrapped by bands of steel.  Completely without adornment, the chest has a
+narrow opening perhaps for a key on the top of its lid.  Housed within the
+captains chambers, this must be part of his own personal belongings.    
+~
+#6310
+black iron key~
+a black, iron key~
+A black, iron key rests on the ground.~
+~
+18 4 1
+0 0 0 0
+1 0 0 1 -1
+E
+black iron key~
+   The key is of simple manufacture, consisting of a single piece of hand
+wrought iron.  It is pitch black in color and has numerous small burrs and
+imperfections.  It is rather small in size and would likely fit into a chest or
+box rather than a door.    
+~
+#6311
+barrel rum~
+a barrel of rum~
+A barrel of rum gives off a fragrant odor.~
+~
+17 0 1
+50 50 4 0
+55 10 3 1 -1
+E
+barrel rum~
+   The heavy cask looks like a leftover from the voyage.  Surprising that some
+alcohol has been left over, perhaps not being a favorite of the crew.  
+Alternately containing various types of liquor, the combined scents give off a
+very pungeant odor.    
+~
+#6312
+sextant~
+a sextant~
+A sextant rests here set in its neutral position.~
+~
+12 0 1
+0 0 0 0
+4 16 4 1 -1
+E
+sextant~
+   This is the primary navigational instrument on board.  Used to determine
+position it is essential to keep the ship on course.  Although currently locked
+into place, it can be swung through a beautifully incised scale on the outer
+frame.    
+~
+#6313
+crude telescope brass~
+a crude telescope~
+A crude telescope made of brass sits extended on the ground.~
+~
+12 0 1
+0 0 0 0
+4 10 3 1 -1
+E
+crude telescope brass~
+   The narrow set of compound cylinders holds two finely ground quartz lenses
+capable of magnifying images.  Primarily used by the scouts to scan the horizon
+while at sea, this telescope seems to have been dropped a few times and is
+dented and scratched.  It may no longer be particularily uselful.    
+~
+#6314
+gunnysack jute~
+a gunnysack~
+A gunnysack made of jute is rumpled into a ball.~
+~
+15 0 1048577
+20 1 -1 0
+3 18 5 4 -1
+E
+gunnysack jute~
+   Standard issue in the navy, this large sack is made from tightly woven reeds
+and heavy twine.  It is a yellowish-brown color and is stamped with various,
+worn marks.    
+~
+#6315
+heavy wooden mallet~
+a heavy, wooden mallet~
+A heavy, wooden mallet rests on its head.~
+~
+5 2101248 24577
+0 1 4 7
+6 19 5 5 -1
+E
+heavy wooden mallet~
+   Little more than a hammer, this mallet has a large head that is frayed at
+its edges and has many small dents on its surface.  A long handle drives
+straight through its top and is held in place by small slivers of wood.    
+~
+#6316
+short close combat sword~
+a short, close combat sword~
+A short, close combat sword gleams in the light.~
+~
+5 2109440 75505665
+0 1 7 3
+5 48 12 9 -1
+E
+short close combat sword~
+   This sword has been designed to excell in combat that takes place in very
+cramped quarters such as on a ship.  There is no handguard as the blade moves
+directly into the handle.  It has a ruddy silver color, acid etched to lessen
+reflections though the handle is polished brightly from wear.    
+~
+#6317
+thin serated dagger~
+a thin, serrated dagger~
+A thin, serrated dagger sits sharp and clean.~
+~
+5 8192 1006657537
+0 1 5 14
+4 28 7 8 -1
+E
+thin serated dagger~
+   This weapon does not seem to be very large, but it is made from many layers
+of folded steel and is therefore extremely strong.  Its edges have been worn
+into waves that both serve to protect the blade and add to its sharpness.    
+~
+#6318
+thick leather gator~
+a thick leather gator~
+A thick leather gator sits stiffly on the ground.~
+~
+9 4096 131073
+1 0 0 0
+2 52 13 4 -1
+E
+thick leather gator~
+   A single piece of leather that has been tied tightly by a thin length of
+sinew on one side.  Wrapped around the ankle it offers protection and
+stability.    
+~
+#6319
+tunic karthay navy~
+&Ka tunic of the Karthay Navy&n~
+A tunic of the Karthay Navy lays neatly folded here.~
+~
+11 1048576 9
+0 0 0 0
+4 72 18 7 -1
+E
+tunic karthay navy~
+   This is the uniform of the regular member of the Karthay navy.  It is dyed a
+dark grey and reaches down past the waist to the upper thigh.  A thin golden
+lanyard reaches down from the shoulder and around the arm.  The material is
+thick and strong, smelling like salt and fish.    
+~
+A
+17 -3
+#6320
+high peaked sun hat~
+a peaked sun hat~
+A high, peaked sun hat rests on its side.~
+~
+11 0 17
+0 0 0 0
+1 24 6 3 -1
+E
+high peaked sun hat~
+   This looks as though it is some item purchased at a tourist stand within the
+city.  It stands more than a length above the head and looks very strange.  It
+is made of brightly colored cloth wrapped around a heavy metal wire frame.    
+~
+A
+17 -1
+#6321
+small pile coins~
+a small pile of coins~
+A small pile of coins sits on the ground.~
+~
+20 0 1
+0 0 7 2
+0 0 0 1 -1
+#6322
+single steel coin coins~
+a single steel coin~
+A single steel coin sits on the ground.~
+~
+20 0 1
+0 1 0 0
+0 0 0 1 -1
+$~

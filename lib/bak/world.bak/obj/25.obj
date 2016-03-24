@@ -1,0 +1,434 @@
+#2500
+plaque large~
+a plaque~
+A large plaque hangs next to the doorway.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+plaque~
+
+Welcome, friends and visitors.
+Here, peace and righteousness dwells, and
+all those within know its tranquility.
+
+~
+#2501
+plant kava~
+a kava plant~
+A small plant with shiny, heart-shaped leaves grows here.~
+~
+15 0 0
+20 0 -1 0
+0 0 0 0 -1
+E
+plant kava~
+   The kava plant is fabled for the sedative properties of its leaves.  
+Perhaps the monks grow these plants to help them to maintain their peaceful
+state of mind.    
+~
+#2502
+ice chunk~
+a large chunk of ice~
+A large chunk of ice rests in the corner.~
+~
+15 0 0
+10 0 -1 0
+50 0 0 1 -1
+E
+ice chunk~
+   Ice is brought down from the mountains by the monks and used to keep their
+food cold.  This large chunk of ice is a tall as the average kender and at
+least as wide as it is tall.    
+~
+#2503
+leaves kava~
+some kava leaves~
+A small pile of kava leaves are lying here.~
+~
+19 0 1
+3 0 0 0
+0 3 2 0 -1
+E
+leaves kava~
+   These shiny, heart-shaped leaves are often consumed for their sedative
+properties.  They can also be dried and crushed to be mixed into a drink.    
+~
+#2504
+fountain~
+a fountain of marble and copper~
+A large, stately fountain stands in the middle of the courtyard.~
+~
+23 0 1
+999 999 0 0
+1004 0 0 0 -1
+E
+fountain large stately~
+   This large fountain dominates the landscape of the courtyard.  Its marble
+base supports a copper sculpture of a spider.    
+~
+#2505
+sleeves ceremonial burgundy linen~
+&rsome ceremonial sleeves&n~
+A pile of deep burgundy linen lies forgotten here.~
+~
+11 1048576 257
+0 0 0 0
+2 4900 2450 25 -1
+E
+sleeves ceremonial~
+   These long flowing sleeves are worn by the priests while performing
+ceremonies.  They are woven of deep burgundy linen and are stitched with copper
+thread.    
+~
+A
+4 1
+A
+3 1
+A
+2 -1
+#2506
+ephod apron~
+a linen apron woven with gold threads~
+A pile of fine linen is lying here.~
+~
+11 1753088 1033
+0 0 0 0
+6 2800 1400 25 -1
+E
+ephod apron linen~
+   This garment is made of the finest linen on Krynn.  Golden threads are
+interwoven with the burgundy linen giving it an elegant look.  Two small onyx
+buttons fasten the garment at the shoulders.    
+~
+A
+17 -2
+#2507
+caftan wool fine pile~
+&Wa white, woolen caftan fringed with golden bells&n~
+A pile of fine wool is lying here.~
+~
+11 709632 9
+0 0 0 0
+3 1980 990 18 -1
+E
+caftan wool~
+   This fine, woolen garment would seem to indicate the importance of its
+wearer.  It is woven of a soft wool that has been bleached white.  The hem of
+the robe is fringed with small golden bells which are knotted into its fringe.
+When worn, the bells create a soothing melody as the wearer walks.    
+~
+A
+24 -2
+A
+6 1
+#2508
+girdle crimson linen~
+&Ra linen girdle&n~
+A long piece of crimson linen is lying here.~
+~
+11 1048576 2049
+0 0 0 0
+2 888 222 12 -1
+E
+girdle crimson linen~
+   This long strip of crimson linen is quite stiff and is often worn around the
+waist as a girdle.  Its sturdy material provides excellent support.    
+~
+A
+17 -2
+#2509
+breeches simple canvas~
+a pair of simple, canvas breeches~
+A pair of canvas breeches are lying here.~
+~
+11 1048576 33
+0 0 0 0
+3 1260 630 11 -1
+E
+breeches canvas~
+   Functionally designed, these breeches are intended to provide a loose and
+comfortable fit.  The legs are straight with a slight flair at the bottom.  A
+drawstring has been conveniently sewn into the waistband.    
+~
+A
+14 10
+A
+17 -1
+#2510
+turban crimson~
+&Ra crimson turban&n~
+A crimson turban has been forgotten here.~
+~
+11 1048576 17
+0 0 0 0
+1 3360 1680 25 -1
+E
+turban crimson~
+   This crimson turban is worn by some of the high priests during special
+occasions.  It is one long strip of crimson linen that is wrapped around the
+head to form the turban.    
+~
+A
+17 -5
+#2511
+bonnet woolen simple~
+a simple, woolen bonnet~
+A simple, woolen bonnet lies forgotten here.~
+~
+11 0 17
+0 0 0 0
+1 595 150 12 -1
+E
+bonnet woolen simple~
+   This simple bonnet has been woven from a soft wool.  It has no adornments
+and the wool has been left its natural color.    
+~
+A
+17 -1
+#2512
+pitchfork crudely forged~
+a pitchfork~
+A crudely forged pitchfork is lying here.~
+~
+5 12288 8193
+0 2 5 15
+12 200 50 14 -1
+E
+pitchfork crudely forged~
+   The crude workmanship of this pitchfork would seem to indicate that it is
+the property of someone of limited means.  It plain, wooden handle is worn from
+use and somewhat splintered.    
+~
+#2513
+scroll wax sealed~
+a wax-sealed scroll~
+A wax-sealed scroll has been forgotten here.~
+~
+2 1048576 16385
+19 129 0 0
+1 1900 950 19 -1
+E
+scroll wax sealed~
+   Depicted on this scroll is the image of a man, kneeling in prayer.  His head
+is bowed and his eyes closed.  In the heavens is the image of an open book.  
+Light streams down from the book, bathing the man's head with its radiance.  
+
+~
+#2514
+knapsack sack knap~
+a knapsack~
+A large knapsack is lying here.~
+~
+15 1048576 34078721
+50 1 -1 0
+0 30 15 11 -1
+E
+knapsack sack~
+   This large sack is made of thick canvas and appears to be able to hold quite
+a bit.  Two large straps have been sewn on to it allowing it to be worn.    
+~
+#2515
+sandals~
+a pair of woven sandals~
+A pair of woven sandals are lying here.~
+~
+11 135266304 65
+0 0 0 0
+2 688 344 15 -1
+E
+sandals woven~
+   These simple sandals are woven from some of the reeds that grow on the
+monastery grounds.  They are light and appear as though they would be quite
+comfortable.    
+~
+A
+17 -1
+#2516
+bracer canvas sturdy strip~
+&Wa bracer made of sturdy white canvas&n~
+A strip of thick white canvas is lying here.~
+~
+11 1048576 4097
+0 0 0 0
+2 2340 1170 19 -1
+E
+bracer canvas sturdy strip~
+   This bracer is made of thick, white canvas.  It is about five inches wide
+and designed to fit securely around the wearer's wrist.    
+~
+A
+19 1
+A
+17 -1
+#2517
+bureau carved oak~
+an oak bureau~
+A large oak bureau, carved with intricate scroll work, stands against the wall.~
+~
+15 0 0
+20 5 -1 0
+200 0 0 1 -1
+E
+bureau carved oak~
+   This large, oaken bureau must have been expertly crafted.  It is highly
+polished and shines brightly.  The wood has been masterfully carved with ornate
+decorations.  Its drawers are deep and looks as though they could hold quite a
+bit.    
+~
+#2518
+key rusted iron~
+a rusted, iron key~
+A rusted, iron key is lying here.~
+~
+18 4 1
+0 0 0 0
+0 0 0 0 -1
+E
+key rusted iron~
+   This key appears to be quite old.  It is covered with so much rust that you
+cannot help but wonder if it would still fit in its lock.    
+~
+#2519
+icepick pick~
+an icepick~
+A long, thin pick lies on the ground here.~
+Nothing.
+~
+5 12288 8193
+0 2 5 14
+3 200 50 14 -1
+E
+icepick pick~
+   This icepick is long and thin with an extremely sharp point.  The finish on
+its simple, wooden handle is worn from use.    
+~
+#2520
+stole scarlet~
+&Ra scarlet stole&n~
+A piece of scarlet fabric is lying here.~
+~
+11 1048576 1048577
+0 0 0 0
+1 1560 780 11 -1
+E
+stole scarlet~
+   The stole is made of fine silk and is often worn over both shoulders.  Its
+fabric is embroidered with roses and spiders.    
+~
+A
+17 -1
+#2521
+cassock burgundy velvet~
+&ra burgundy, velvet cassock&n~
+A cloak of burgundy velvet is lying here.~
+~
+11 68157440 1025
+0 0 0 0
+8 2800 1400 25 -1
+E
+cassock burgundy velvet~
+   This is a simple cloak, closed at the waist by a sash.  The sleeves are form
+fitting but include a wide cuff that extends to the mid-forearm.  It buttons at
+the chest, in the centre and has a short upright stiff collar.    
+~
+A
+17 -3
+#2522
+stiletto thin long~
+a triangular-bladed stiletto~
+A long, thin stiletto is lying here.~
+~
+5 2105344 24577
+2 2 8 11
+5 3840 1920 25 -1
+E
+stiletto thin long~
+   This beautiful but deadly dagger has a steel pommel and guard as well as a
+triangular blade.  It is about fifteen inches in total length, the majority of
+which is the long, slim blade.    
+~
+#2523
+scoll loosely bound~
+a loosely bound scroll~
+A loosely bound scroll is lying here, forgotten.~
+~
+2 0 1
+10 42 0 0
+0 1600 400 10 -1
+E
+scoll loosely bound~
+   This simply piece of parchment has been covered with holysymbols.  It is
+tighly rolled and sealed with crimson wax.    
+~
+#2524
+corn ear~
+an ear of corn~
+An ear of corn has been left here, forgotten.~
+~
+19 0 1
+8 0 0 0
+1 8 2 1 -1
+E
+corn ear~
+   The best yellow corn available in eastern Ansalon is grown at the monastery.
+The ears are left on the stalks just the right amount of time to allow the
+kernels to be sweet but not too tough.  This ear has been cooked and cleaned
+and is ready for consumption.    
+~
+#2525
+potion pale blue~
+&Ca pale blue potion, shining with a faint light&n~
+A pale blue potion is lying here, forgotten.~
+~
+10 1048576 1
+19 47 0 0
+1 2100 1050 19 -1
+E
+potion blue white~
+   This potion is a faint white color with the slightest blue tint.  It seems
+to glow with a faint light, creating a safe feeling of warmth and assurance.  
+
+~
+#2526
+staff long white decorated silver ornamentation~
+&Wa long white staff with silver ornamentation&n~
+A seven-foot staff, shimmering white in colour, sits upon the ground.~
+~
+5 1076816961 8193
+0 4 4 5
+4 0 0 27 -1
+E
+staff long white decorated silver ornamentation~
+   This staff is more than simply a weapon, it is truly a staff meant to be
+possessed and used by a mage.  It is breathtaking in its beauty, its seven-foot
+shaft a glossy white in color.  In relief, seemingly carved into the surface of
+the staff is silver ornamentation, winding about the staff like ivy leaves.  
+The head of the staff is a latticework head, which is angular, but seemlessly
+attached to the rest of the staff.  This particular staff could only be used by
+a mage, and is likely enchanted to ensure that it is only used by a specific
+sort of mage.    
+~
+A
+19 2
+A
+13 10
+#2527
+blindfold ivory colored cloth strip linen~
+&Wa blindfold of ivory-colored cloth&n~
+A strip of white linen has been left here.~
+~
+11 1048576 32769
+0 0 0 0
+1 725 324 16 -1
+E
+blindfold ivory colored cloth strip linen~
+   This is a simple strip of linen, dyed pure white and crafted into a
+blindfold.  A small copper spider has been stitched into the inside of the
+blindfold, placed where ones eyes would be if wearing it.  It is completely
+unadorned on the outside, leaving little more to be said about the item.    
+~
+A
+17 -1
+$~

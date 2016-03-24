@@ -1,0 +1,88 @@
+#9000
+sphere pneumatic warm~
+a warm-to-the-touch mechanical sphere covered in tubes with a large red button~
+&wA mechanical sphere lays here, the word "&YEXPERIMENTAL&w" scrawled across its surface.&n~
+~
+4 1048580 16385
+20 99 20 26
+5 0 0 0 -1
+T 9000
+#9001
+sword rust two-handed two handed broken hilt dull chipped blade~
+a rusty two-handed sword with a broken hilt and a dull, chipped blade~
+A large two-handed sword lies here, its blade in very poor condition.~
+~
+5 1462401536 8396801
+0 1 1 16
+12 0 0 35 -1
+T 9001
+E
+massive two-handed two handed sword rusty hilt crumbling pockmarked blade~
+   This weapon, a rather large two-handed sword, appears to be in extremely
+poor condition.  The crossguard and pommel are both loose and rattle when the
+weapon is handled, even with great care, or used in combat and training.  The
+blade itself is remarkable in the fact that it has not fallen to pieces or
+otherwise broken away from its own hilt.  To make matters worse, the blade's
+edges are chipped, cracked, and even split and bent, in innumerable places
+along its five foot length.  How the sword came to be in such a condition is a
+mystery; how it stays intact is an even greater one.    
+~
+A
+13 -125
+A
+14 -50
+A
+18 -6
+A
+19 -6
+#9002
+shield~
+a giant mirror~
+An unfinished object is lying here.~
+~
+0 64 513
+0 0 0 0
+0 0 0 0 -1
+S
+163 30 100
+#9097
+thing a~
+a thing~
+An unfinished object is lying here.~
+~
+0 0 16385
+0 0 0 0
+0 0 0 0 -1
+S
+119 30 100
+S
+126 30 100
+#9098
+armor Sirrion physical immunity~
+Sirrion's armor of physical immunity~
+An unfinished object is lying here.~
+~
+9 0 9
+0 0 0 0
+0 0 0 0 -1
+S
+36 30 100
+S
+53 30 100
+S
+81 30 100
+#9099
+mask Sirrion spell immunity~
+Sirrion's mask of spell immunity~
+An unfinished object is lying here.~
+~
+9 0 32769
+0 0 0 0
+0 0 0 0 -1
+S
+163 30 100
+S
+147 30 100
+S
+84 30 100
+$~

@@ -1,0 +1,423 @@
+#13000
+DELETE ME~
+DELETE ME~
+Undefined~
+~
+5 454656 24577
+1 5 5 3
+10 10000 4500 29 -1
+E
+undefined~
+Nothing.
+~
+E
+undefined~
+Nothing.
+~
+E
+undefined~
+Nothing.
+~
+#13001
+DELETE ME~
+DELETE ME~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#13002
+DELETE ME~
+DELETE ME~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#13003
+short sword~
+a shortsword with a wooden pommel~
+A shortsword with a wooden pommel~
+~
+5 438272 75522049
+0 0 0 0
+0 0 0 0 -1
+E
+short sword shortsword~
+   This shortsword is well-made though not of the highest quality workmanship.
+It bears an iron blade, functional yet inexpensive, and the pommel of the sword
+is of polished hardwood.  The guard of the blade has a faint scrollwork design
+on either side, protecting the wielder's hand.    
+~
+E
+blade iron~
+   The blade of this shortsword is made out of a basic iron- it appears to be
+of reasonable quality for iron, but still not one of the most superior metals.
+It has a narrow channel cut into the length of the blade.    
+~
+E
+pommel wooden wood~
+   The pommel of the shortsword is made of a hardwood, perhaps mahogany or
+teak.  It is polished and oiled with linseed, and has a warm, light brown hue.
+The grain of the wood is evident, adding character and design to the otherwise
+simply and utilitarian handle.    
+~
+#13004
+longsword long sword~
+a finely forged steel longsword~
+A finely forged steel longsword~
+~
+5 454656 75522049
+0 0 0 0
+0 0 0 0 -1
+E
+sword short shortsword~
+   This longsword is well-balanced and sturdy, forged of a fine steel and
+sharped to a keen edge.  Etched into the blade of the longsword is a beautiful
+and intricate pattern of chased aspen leaves and vines, intertwining along the
+length of the blade on either side.  The swordguard is also crafted into a
+pattern of wrapping aspen leaves, highlighted with bronze and green laquer.  
+
+~
+E
+blade leaves aspen etching~
+   The blade of this longsword is etched with a breathtakingly beautiful design
+of aspen leaves, intertwining with a running vine pattern.  The etchings are
+filled with copper, highlighting the design in a faint green patina.  The
+design runs along the length of the blade on both sides, almost as if the
+leaves and vines were actually running around the swordblade.    
+~
+E
+swordguard guard~
+   The swordguard, designed to protect the wielder's hand, is actually composed
+of a few aspen leaves, extending from the top of the pommel out and downwards
+over the hand.  The leaves are made from the same quality steel as the blade,
+and coated with green enamel over the leaves.  The veins of the leaves are
+highlighted in bronze, dding a level of beauty and realism to this otherwise
+utilitarian weapon.    
+~
+#13070
+stream shallow~
+a small, shallow stream~
+A small, shallow stream babbles quietly on the west side of the clearing.~
+~
+23 0 0
+999 999 15 0
+999 0 0 0 -1
+E
+stream shallow~
+   This small, shallow stream runs through the west side of the clearing,
+disappearing into the south and northwestern portions of the forest.  Its
+waters are cool and clear, certainly suitable for drinking.  One can catch a
+glimpse of the occasional fish as well.    
+~
+#13071
+pendant turquoise eagle carved~
+&ca small turquoise pendant, carved in the shape of an eagle&n~
+A small turquoise pendant lies forgotten here.~
+~
+8 1048834 5
+0 0 0 0
+1 0 0 16 -1
+E
+pendant turquoise eagle carved~
+   This small pendant is made of turquoise, and has been carved in the likeness
+of an eagle in flight.  The craftsmanship is quite good, and the stone has been
+polished just enough to give it a dull shine.  It hangs from a simple leather
+cord.    
+~
+A
+14 5
+A
+13 5
+#13072
+coins~
+a handful of coins~
+A handful of coins lie scattered here.~
+~
+20 2 1
+0 2 9 5
+1 0 0 0 -1
+#13073
+branches cluster bundle dead firewood~
+a bundle of dead branches~
+A cluster of dead branches lie fallen on the ground here.~
+~
+30 0 1
+0 0 0 0
+5 10 1 1 -1
+E
+branches cluster bundle dead firewood~
+   A bundle of dead branches of various types, they lack much of true note.  
+They are fairly dry and would make for excellent fire kindling.    
+~
+#13074
+tattoo ivy twining forest green~
+&gan intricate, twining tattoo of forest ivy&n~
+A small jar of forest green liquid sits here.~
+~
+12 135331864 1741309
+0 0 0 0
+0 1440 720 18 -1
+E
+ivyooc~
+OOC: This item once placed on a wear location, cannot be removed. Just as in
+real life, once you put a tattoo on you can't take it off. Even an immortal
+won't be able to remove this item from you. The only way to remove it is by
+dying. (in any case, not very realistic for it to just 'disappear')
+
+If you plan to use it, you need to wear using the specific location you want
+it to be placed on. ie, 'wear tattoo arms', or 'wear tattoo wrist'. If you
+don't specify, it will choose a spot for you.
+
+The available locations are:
+
+NECK HEAD LEGS HANDS ARMS WRIST ANKLE BACK SHOULDER FEET BODY FACE
+
+When using these kinds of items, please use common sense. If you have hair,
+don't wear it on your head. Females probably shouldn't wear it on the BODY,
+since you can't wear anything else over it. Yes, it may be unrealistic, but
+that's how the code works. It doesn't matter if you SHOULD be able to wear
+an item over your tattoo, you just can't. :)
+~
+E
+tattoo ivy twining forest green~
+   This tattoo has been drawn by a master of the art; so fine is the detail
+that one could almost believe the leaves of the twining ivy were real.  
+Whatever substance was used to create this tattoo provides a vibrant, lasting
+color.  The ivy vines twist and coil about in random patterns, subtly
+accentuating key portions of the body it is placed on.    
+
+(See ivyooc for ooc details, please)
+~
+A
+6 1
+#13075
+ring vibrant peridot engraved silver~
+an engraved silver ring, set with &Gvibrant green&n peridot~
+An engraved silver ring, set with a vibrant green peridot lies here.~
+~
+8 134217794 3
+0 0 0 0
+1 2500 1250 18 -1
+E
+image band engraved inside~
+   A small image of a mirror surrounded by twining ivy has been engraved on the
+inside of the band, along with a set of initials which have been worn away by
+use and time.    
+~
+E
+ring vibrant silver peridot green engraved~
+   This ring is crafted of a beautiful polished silver, and is engraved with a
+knotwork pattern which surrounds the gem placed in the center of the band.  
+The gem is extremely vibrant; it is a peridot, and is a &Gpear-green&n in
+color.  It has been cut by a master jeweler to full effect, and catches the
+light stunningly.  A small image has been engraved on the inside of the band.
+~
+A
+6 1
+A
+18 1
+#13076
+ribcage ogre ogres bleached remains~
+&Wthe bleached remains of an ogre's ribcage&n~
+The bleached remains of an ogre's ribcage lie upon the ground here.~
+~
+9 335564800 1
+4 0 0 0
+10 900 250 18 -1
+E
+ribcage ogre ogres bleached remains~
+   This is the large, bleached remains of an ogre's ribcage.  It remains mostly
+intact, and is actually quite sturdy.  Beings smaller than ogres could likely
+use this as armor, though with the holes between the ribs it becomes somewhat
+ineffective.  If a craftsman was able to work on it and perhaps incorporate it
+into another type of armor, it surely would provide excellent protection.    
+~
+#13077
+femur ogre ogres large heavy~
+&Wa large, heavy ogre's femur&n~
+A large, heavy ogre's femur is lying on the ground here.~
+~
+5 4096 8193
+0 2 7 5
+8 900 250 18 -1
+E
+femur heavy large ogre ogres~
+   This rather large bone could only have belonged to an ogre, and was his
+femur once upon a time.  It is bleach white, and quite long.  It could be used
+as a staff or a club depending on the wielder.  It is completely unadorned, and
+doesn't look to have been handled or modified at all.    
+~
+#13078
+pelt dire wolf shadowy black~
+&Kthe soft, shadowy-black pelt of a dire wolf&n~
+A soft, shadowy-black pelt lies on the ground here.~
+I am a snicker doodle.
+~
+9 0 1049601
+4 0 0 0
+3 1710 855 18 -1
+E
+pelt shadowy black dire wolf~
+   This soft, shadowy-black pelt is quite large, and the wolf it came from must
+have been huge indeed.  The 'skin' portion of the pelt; that is to say the
+underside, is quite resilient.  It seems almost unnaturally so, and could
+likely turn even a blade unless struck hard enough.  This pelt could easily be
+worn for fashion or for practicality, and is cut in such a way as to be worn
+over the shoulders or about the body like a cloak of sorts.    
+~
+A
+14 10
+A
+2 1
+#13079
+claw dire wolf jet~
+&Kthe large, jet-colored claw of a dire wolf&n~
+A large, jet-colored claw lies on the ground here.~
+~
+5 8192 16385
+0 2 4 8
+1 300 75 14 -1
+E
+claw dire wolf jet~
+   This claw is huge, and most certainly has come from some form of dire
+animal; most likely a dire wolf.  It is jet-black in color, and is wickedly
+sharp.  It could rend flesh and armor with little trouble.  It could be used as
+an impromptu weapon, though using it as it is would be a bit unwieldy.    
+~
+A
+19 2
+A
+18 -1
+#13080
+rocks hole circle formation~
+a circle of rocks~
+A circle of rocks is here, surrounded by footprints in the sand.~
+~
+12 0 0
+0 0 0 0
+600 0 0 0 -1
+E
+rocks hole circle formation~
+   The circle is made out of different shaped and sized rocks, each half buried
+in the sand.  In the middle of the circle is a hole that is barely larger than
+a minotaur's shoulders.  Looking down the hole, one can see a faint glow, like
+if there is a torch down the hole.  A few feet down the hole, the rocks start
+to look like stairs and it seems like it turns into a small path.    
+~
+#13081
+robe robes long black yellow chemosh pile~
+&Ka long black robe, outlined with yellow&n~
+A pile of black robes lies on the ground in a heap.~
+~
+11 335544320 1033
+0 0 0 0
+3 80 20 8 -1
+E
+robe robes long black yellow chemosh pile~
+   These black robes are designed to almost brush the floor when worn.  They
+have long sleeves that almost cover the hands.  Yellow cloth has been stiched
+into parts of the robes, over the seams.  These robes are fairly simple, but
+they seem to be comfortable enough.    
+~
+A
+17 -3
+#13082
+altar chemosh~
+an altar to Chemosh~
+A large altar to Chemosh rests here.~
+~
+0 0 0
+0 0 0 0
+500 0 0 0 -1
+E
+altar chemosh~
+   This altar is to the Lord of the Dead, Chemosh.  It's in two parts.  The
+first part is a pedestal for a prayer book, which is on top of a pillar of
+yellow stained bones.  Oddly enough, the prayer book is no where in sight.  
+The second part is a large bowl infront of the pillar of bones.  The bowl seems
+to be filled with blood.    
+~
+#13083
+belt pouch pouches leather~
+a leather belt surrounded with pouches~
+A leather belt surrounded with pouches lies on the ground here.~
+~
+15 0 2049
+35 0 -1 0
+3 50 13 4 -1
+E
+belt pouch pouches leather~
+   This belt has gotten some use out of it.  It has pouches all away around it,
+pouches of many different sizes.  Some look out of place, as if they were added
+onto the belt.  One of the pouches has even been sewed onto another pouch.  
+The belt is surprisingly large, considering it looks like a kender's belt.  
+Folds in the leather show that the previous owner used to take the excess part
+of the belt and wrap it around the rest of the belt.    
+~
+#13084
+rock glowing~
+a softly glowing rock~
+A fist sized rock lies here, glowing a soft blue.~
+~
+3 65536 16385
+4 1 1 92
+1 300 75 4 -1
+E
+rock glowing~
+   This fist sized rock would be rather unremarkable if it was not for its
+strange glow.  A faint blue glow surrounds it.  How or why this rock got its
+special ability is difficult to say, but this rock would probably be something
+a kender would 'find on the floor' rather quickly.    
+~
+#13085
+book prayer chemosh black leather~
+a prayer book of Chemosh~
+A black leather bound book sits on the ground here.~
+~
+12 0 1
+0 0 0 0
+5 40 10 4 -1
+E
+book prayer chemosh black leather~
+   This book is bound in black leather.  It looks fairly old, it's pages are
+yellow, some have small tears on them, and they're brittle.  The book is about
+as big as someone's head, and is meant to be put on a stand or pedestal.  A
+yellow skull has been carefully painted on its cover.    
+~
+#13086
+bandana teal long~
+&ca long teal bandana&n~
+A teal colored bandana lies on the ground here.~
+~
+11 1048576 17
+0 0 0 0
+1 25 6 3 -1
+E
+bandana teal long~
+   This bandana is made out of cloth that has been dyed teal, a blue-green
+color.  It is fairly long, and it can even fit the heads of minotaurs.  On
+humans, when its worn, the ends of it goes past their shoulders.  It is a few
+inches wide and can help keep hair out of someone's eyes.    
+~
+A
+17 -1
+#13087
+putrid rotting skull earring~
+&ya putrid, rotting skull dangling from a thin bronze chain&n~
+A rotting piece of broken skull lies here on the ground.~
+~
+11 1048576 65537
+0 0 0 0
+1 60 15 5 -1
+E
+earring stud silver~
+   This earring is anything but ornate.  It is a small sphere of silver with a
+needle sticking out of it.  The needle goes through the ear and is surrounded
+by a small piece of silver to keep it from stabbing its wearer and to keep it
+in their ear.    
+~
+A
+17 -1
+$~

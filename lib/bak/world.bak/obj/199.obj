@@ -1,0 +1,586 @@
+#19900
+locket gold small glittering~
+a small gold locket~
+A small glittering locket lies upon the ground, as if discarded.~
+~
+8 0 5
+0 0 0 0
+1 0 0 1 -1
+#19901
+pouch gem embroidered~
+an embroidered gem pouch~
+A gem pouch decorated with an embroidered design of a butterfly lies here.~
+~
+15 1048576 16793601
+5 5 -1 0
+1 0 0 0 -1
+#19902
+rose~
+a rose of deep velvet red~
+A single rose lies here, its petals of unique color.~
+~
+8 0 16385
+0 0 0 0
+0 0 0 0 -1
+#19903
+chalice gem encrusted~
+a gem encrusted chalice~
+A chalice of extreme craftsmanship lies here, encrusted with various gems.~
+~
+17 0 1
+10 0 13 0
+0 0 0 0 -1
+#19904
+ring platinum thin ringband~
+a thin ring of platinum~
+A thin ringband lies here, shining platinum in the light.~
+~
+8 0 3
+0 0 0 0
+0 0 0 0 -1
+#19905
+scarf fine silk~
+a fine silk scarf~
+A fine scarf lies upon the ground, pale blue and delicate in color.~
+~
+11 0 32789
+0 0 0 0
+0 0 0 0 -1
+#19906
+tiara diamond delicate silver~
+a delicate diamond tiara~
+A small delicate tiara made of diamonds and silver wiring lies here.~
+~
+8 0 17
+0 0 0 0
+3 0 0 0 -1
+#19907
+bracelet charm sparkling~
+a sparkling charm bracelet~
+A bracelet with miniature figuringes and other charms sparkles in the light.~
+~
+8 0 135169
+0 0 0 0
+0 0 0 0 -1
+#19908
+doll painted old dress faded~
+an old fashioned doll in a faded dress~
+A small painted doll with an old, faded dress, lies here abandoned.~
+~
+0 65540 1
+0 0 0 0
+0 0 0 0 -1
+#19949
+none~
+a darkly glowing portal~
+A portal, a few inches above the ground, glows with dark, unholy energies.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#19950
+nil~
+a granite grave marker~
+A smooth granite marker, worn by years of weather, still bears an inscription.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#19951
+nil~
+a tall gravestone~
+A tall gravestone lies here, with a deeply etched inscription and picture.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#19952
+nil~
+a figurine graveyard marker~
+A figurine sets atop a graveyard marker, adorned with an etched brass plaque.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#19953
+nil~
+a plain graveyard stone~
+A worn graveyard stone, half sunken into the ground, bears only a name and date.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#19981
+delete~
+delete me~
+An unfinished object is lying here.~
+spells:
+        bless
+        holy blessing
+        detect m
+        dispel m
+        remove curse
+        gate
+        sanctuary
+        tower of sanct
+        hold person
+        charm person
+        free action
+        confusion
+        light
+        continual light
+        silence
+        blade barrier
+        proteciton from evil
+        magical vestment
+        remove paralysis
+        protection from fire
+        protection from frost
+        protection from lightning
+        cure light
+        cure moderate
+        cure blind
+        cure disease
+        cure poison
+        dispel evil
+        courage
+        morale
+~
+16 0 1
+0 0 0 0
+0 0 0 0 -1
+#19982
+delete~
+delete me~
+An unfinished object is lying here.~
+spells:
+       bless
+        holy blessing
+        detect m
+        dispel m
+        remove c
+        gate
+        cure light
+        cure moderate
+        cure blind
+        cure disease
+        cure poison
+        faerie fire
+        call lightinig
+        prot. from lightning
+        protection from frost
+        entangle
+        shillelagh
+        barkskin
+        goodberry
+        thornshield
+        sticks to snakes
+        light
+        continual light
+        create water
+        create food
+        blade barrier
+        detect alignment
+        detect poison
+        detect traps
+        locate object
+~
+16 0 1
+0 0 0 0
+0 0 0 0 -1
+#19983
+delete~
+delete me~
+An unfinished object is lying here.~
+spells:
+        bless
+        holy blessing
+        detect magic
+        dispel magic
+        remove curse
+        gate
+        sanctuary
+        tower of sanctuary
+        hold person
+        charm person
+         free action
+        confusion
+        detect alignment
+        detect poison
+        detect traps
+        locate object
+        summon animal spirit
+        dispel evil
+        aerial servant
+        word of recall
+        cure light wounds
+        cure moderate wounds
+        cure blind
+        cure disease
+        cure poison
+        magical vestment
+        protection from fire
+        protection from frost
+        protection from lightning
+        mental barrier
+~
+16 0 1
+0 0 0 0
+0 0 0 0 -1
+#19984
+delete~
+delete me~
+An unfinished object is lying here.~
+spells:
+       Bless
+       holy blessing
+       detect magic
+       dispel magic
+       remove curse
+       gate
+       magical stone
+       aid
+       spiritual hammer
+       flame strike
+       word of recall
+       courage
+       morale
+       light
+       continual light
+       silence
+       blade barrier
+       cure light wounds
+       cure moderate wounds
+        cure blind
+        cure disease
+        cure poison
+        cause light wounds
+        cause moderate wounds
+        cause serious wounds
+        blindness
+        harm
+        holy vengeance
+~
+16 0 1
+0 0 0 0
+0 0 0 0 -1
+#19985
+delete~
+delete me~
+An unfinished object is lying here.~
+spells:
+        bless
+        holy bless
+        detect magic
+        dispel magic
+        remove curse
+        gate
+        summon insects
+        animal summon  I  II  III
+        insect plague
+        creeping doom
+        dust devil
+        air walk
+        water walk
+        water breathing
+        protection from fire
+        protection from frost
+        create water
+          flame blade
+        elemental summon
+        earthquake
+        whirlwind
+       *tsunami
+       *firestorm
+        cure light wounds
+        cure moderate wounds
+        cure blind
+        cure disease
+        cure poison
+~
+16 0 1
+0 0 0 0
+0 0 0 0 -1
+#19986
+delete~
+delete me~
+An unfinished object is lying here.~
+spells:
+        bless
+        holy bless
+        detect magic
+        dispel magic
+        remove curse
+        gate
+        sanctuary
+        tower of sanctuary
+        hold person
+        charm person
+        free action
+        confusion
+        light
+        continual light
+        create food
+         create water
+        blade barrier
+        detect alignment
+        detect poison
+        detect traps
+        locate object
+        cure light wounds
+        cure moderate wounds
+        cure serious wounds
+        cure critical wounds
+        cure blind
+        cure disease
+        cure poison
+        heal
+        (group heal)
+        invisibility to the undead
+        aid
+        restore strength
+        remove pralysis
+~
+16 0 1
+0 0 0 0
+0 0 0 0 -1
+#19987
+delete~
+delete me~
+An unfinished object is lying here.~
+spells:
+        bless
+        holy bless
+        detect magic
+        dispel magic
+        remove curse
+        gate
+        summon insects
+        animal summon  I  II  III
+        insect plague
+        creeping doom
+        cure light wounds
+        cure moderate wounds
+        cure critical wounds
+        cure blind
+        cure disease
+        cure poison
+          heal
+        (group heal)
+        entangle
+        shillelagh
+        barkskin
+        goodberry
+        thornshield
+        sticks to snakes
+        faerie fire
+        call lightning
+        protection from frost
+        protection from lightning
+        protection from fire
+~
+16 0 1
+0 0 0 0
+0 0 0 0 -1
+#19988
+delete me~
+delete me~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#19989
+delete~
+delete me~
+Deleted obj~
+Nothing.
+~
+16 0 1
+0 0 0 0
+0 0 0 0 -1
+E
+abilities~
+***revised druidic abilities***
+
+00. (skill) calm
+01. (spell) goodberry
+02. (spell) create spring
+--- (skill) brew
+03. (spell) call animal spirit
+04. (skill) track* (outside only)
+05. (skill) create minor healing salve
+06. (spell) faerie fire
+07. (spell) entangle
+--- (skill) sneak* (outside only)
+08. (spell) animal summoning I
+09. (skill) create refreshing drink
+10. (skill) create moderate healing salve
+11. (spell) control weather
+12. (spell) summon insects
+--- (skill) detect poison
+13. (spell) water walking
+14. (spell) animal summoning II
+--- (skill) hide* (outside only)
+15. (skill) create major healing salve
+16. (spell) barkskin
+17. (spell) water breathing
+--- (skill) remove poison
+18. (spell) insect plague
+19. (spell) call lightning
+--- (skill) detect trap
+20. (skill) shapechange* (imm approval)
+21. (spell) thornshield
+22. (spell) animal summoning III
+--- (skill) disable trap
+23. (spell) rainbow
+24. (spell) sticks to snakes
+25. (spell) air walk
+26. (spell) sunray
+27. (spell) wall of brambles
+28. (spell) mooonbeam
+29. (spell) elemental storm
+30. (spell) creeping doom
+~
+#19990
+cloak crimson velvet~
+a velvet crimson cloak~
+A velvet cloak of deep crimson shimmers in the light.~
+~
+9 136 524289
+2 0 0 0
+0 0 0 0 -1
+#19991
+cape hooded dark~
+a dark hooded cape~
+A dark hooded cape lies here, its color so deep as to be indescribable.~
+~
+9 0 1025
+8 0 0 0
+0 0 0 0 -1
+A
+2 2
+#19992
+leggings pair soft~
+a pair of soft furred leggings~
+A pair of soft leggings made from black fur lie here abandoned.~
+~
+9 0 33
+3 0 0 0
+0 0 0 0 -1
+#19997
+wand happy Lunitari's~
+the Happy Wand~
+Lunitari has left her Happy Wand lying around again.~
+Nothing.
+~
+5 108224 24577
+99 99 20 16
+0 0 0 38 -1
+#19998
+bed~
+an elegant bed~
+An elegantly designed and richly decorated bed is covered with silk sheets.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+sheets~
+   The sheets that cover the bed are a deep black, and seem to absorb light,
+while over the sheets lies a crimson comforter.  Both, sheets and comforter are
+made of the most elegant silk you have ever seen.  The pillows are covered in
+black crimson swirled, silk pillow covers, and the skirt around the bottom of
+the bed is decorated on one side as black and the other crimson.  The material
+that makes up the sheets and skirt are both very fine, elegant, and expensive
+looking.    
+~
+E
+bed~
+   As you look at the bed and it's soaring canopy, you realize it glows
+slightly.  The canopy peaks about 10 feet off of ground level and has a crimson
+silk covering over it, filtering all light that goes through it, and turning it
+crimson.  The headboard is black, and the foot board is a deep crimson.  Two
+poles holding the canopy up are crimson, while the other two are black.    
+~
+#19999
+book etiquette socials~
+a Book of Etiquette~
+A large book with the words "A Book of Etiquette" embossed in gold is here.~
+~
+16 0 16385
+0 0 0 0
+0 0 0 0 -1
+E
+socials.a~
+Applaud -
+   You give a hearty round of applause.
+   You give a round of applause to $N.
+   $n applauds the actions of $N.
+   $n gives you a round of applause for your actions.
+   You applaud an empty chair for its ability to sit still.
+   You applaud your greatest hero, yourself.
+   $n applauds for $s greatest hero, $mself.
+~
+E
+book etiquette socials~
+This book is a list of all the socials (that need fixed.)  You can view
+them by looking at socials.a, socials.b, and so on.
+~
+E
+socials.b~
+Bleed -
+   You bleed all over $N, what a mess...
+   $n falls into $N's arms and bleeds all over $M, what a mess...
+   $n falls into your arms and bleeds all over you, what a mess...
+   You try to bleed all over someone who just walked away.
+   You bleed all over yourself, making an awful mess.
+   $n lays in a corner and bleeds to death.
+Blush -
+   You blush as you look away from $N.
+   $n looks away from $N, blushing slightly.
+   $n blushes as $e looks away.
+   You blush as you think of them and wonder why they aren't here.
+   You try to hide from yourself as your cheeks turn red.
+   $n's cheeks turn red as $e tries to hide from $mself.
+Bounce -
+   You bounce merrily with $N.
+   $n bounces around merrily with $N.
+   $n bounces around merrily with you.
+   You bounce around merrily, not caring if they are here or not.
+   You curl yourself up into a ball and bounce around.
+   $n curls $mself up into a ball and bounces around merrily.
+Brb -
+   Come back soon!
+   Don't go away!  $n will be right back!
+~
+E
+socials.c~
+Cackle -
+   You cackle with evil glee at $N.
+   $n rubs $s hands together as $e cackles with insane glee at $N.
+   $n cackles evilly at you as $e rubs $s hands together.
+   You cackle as you think of what you would do if that person was here.
+   You start cackling as you think of your evil cleverness.
+   You back away as $n starts cackling to $mself.
+Chuckle -
+   You chuckle politely at $N.
+   $n chuckles ploitely at $N.
+   $n chuckles politely at you.
+   You chuckle at your imaginary friend.
+   You chuckle at your own self.
+   $n chuckles to $mself, and you wonder what the joke is.
+Clap -
+   You clap with approval at $N.
+   $n claps approvingly at $N.
+   $n claps approvingly at you.
+   It's too bad they're not around to hear your clapping.
+   You clap for yourself.
+   $n claps in approval of $s own actions.
+Cough -
+Curse -
+Curtsey -
+~
+A
+10 100
+$~

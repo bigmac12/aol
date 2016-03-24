@@ -1,0 +1,746 @@
+#4100
+small well~
+a small well~
+A small well sits here providing water for the entire city.~
+   A small well sits here providing water for the entire city.  It is made of
+dark grey bricks, probably made from the abundace of sand in the area.  A small
+bucket is propped up on the edge of the well waiting to be lowered down.    
+~
+23 0 0
+99999999 99999999 0 0
+100000004 0 0 0 -1
+E
+well small~
+   This well serves as the main source for water.  It is made from gray stones
+and has some type of vine growing up its side.  The sound of w ater echoes out
+of the well proving it is quite usable.    
+~
+#4101
+crime board~
+the Crime Board~
+The Crime board for Morning Dew is here attached to the wall.~
+   A board sits here attached to the wall for you to post any criminal
+activities you may have seen.    
+~
+13 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+undefined~
+Nothing.
+~
+#4102
+board main~
+the Main board stands here~
+The Main public board for Morning Dew is attached to the wall here.~
+   The main board stands here attached to the wall for you to leave notes.    
+~
+13 0 0
+0 0 0 0
+0 0 0 0 -1
+#4103
+spear steel long~
+a long, sharp steel spear~
+A long sharp steel tipped spear is lying here.~
+   A long steel tipped speer 6 foot in length is here.  It is well designed as
+well as balanced.    
+~
+5 2109440 8193
+0 2 9 15
+8 1650 825 19 -1
+E
+spear steel long~
+   This spear is made from thick, brown wood.  It stands to be five foot tall.
+The head of the spear is made from steel and has been sharpened to a point.  
+
+~
+A
+19 1
+#4104
+club spike crude~
+a crude looking club with sharp spikes~
+A crudely made club with a sharp spike is lying here.~
+~
+5 2125824 8193
+0 1 7 6
+10 85 22 9 -1
+E
+club spike crude~
+   This club was fashioned in a crude manner.  The wood used is full of knots
+and flakes.  Sharp spike protrude from the club making it an effective weapon.
+  
+~
+#4105
+longsword sword blackened~
+&Ka blackened, razor-sharp longsword with a leather grip&n~
+A blackened longsword with a razor edge lies here forgotten.~
+~
+5 69218304 75505665
+0 1 9 3
+10 85 22 9 -1
+E
+sword longsword black~
+   This longsword has been blackened for durability.  The hilt is made from
+braided leather making it easier to grip.  The blade is thick and razor sharp
+seeming to never dull.    
+~
+#4106
+shortsword blackened~
+&Ka blackened shortsword&n~
+A blackened shortsword with sharp edges lies here forgotten.~
+~
+5 2109440 24577
+0 1 6 3
+7 55 14 8 -1
+E
+shortsword sword short~
+   This shortsword has been blackened for durability.  The hilt is made from
+braided leather making it easier to grip.  The blade is thick and razor sharp,
+seeming to never dull.    
+~
+#4107
+dagger bone~
+&Wa sharp bone dagger&n~
+A sharp dagger made from bone lies here forgotten.~
+~
+5 2105344 1006657537
+0 3 4 11
+5 80 20 9 -1
+E
+dagger sharp bone~
+   This dagger has been fashioned from the bone of a wolf.  Runes have been
+carved into the hilt of the dagger, perhaps in hopes of protecting the owner.
+  
+~
+#4108
+axe battleaxe battle sharp~
+a sharp double edged battleaxe~
+A sharp double edge battle axe lies here forgoteen.~
+~
+5 1075867648 8396801
+0 1 9 10
+10 88 22 9 -1
+E
+battleaxe axe sharp double edged~
+   This axe is very large and looks to weigh a decent amount.  The handle of
+the axe is covered with red leather helping on to grip.  The head of the axe
+has two edges.  Both sides are razor sharp and very lethal.    
+~
+A
+19 1
+#4109
+cloak skins skin wolf~
+a long, wolf skin cloak~
+A pile of skins lie here in a heap.~
+~
+11 0 1025
+0 0 0 0
+5 138 35 12 -1
+E
+cloak wolf skin~
+   This cloak is made from the pelt of a large wolf.  The silver and black hair
+would s erve as a substantial cloak for an average human.  Black cord has been
+used to fasten the cloak together.    
+~
+A
+17 -4
+#4110
+necklace strap leather bear claws claw~
+&Ra necklace of painted bear claws&n~
+A leather strap lies here with some type of claws attached to it.~
+~
+11 0 5
+0 0 0 0
+2 216 54 9 -1
+E
+necklace bear claws~
+   Large paws of several bears have been tied together with black cord.  The
+nails upon the claws have been painted red, giving them a gruesome look.    
+~
+#4111
+boots leather soft~
+a pair of soft leather boots~
+A pair of boots lie here forgotten.~
+~
+11 1048576 65
+0 0 0 0
+3 156 39 10 -1
+E
+boots leather soft~
+   These boots have been made from finely oiled leather.  They are well padded
+and quite comfortable.  Thick cord is used to lace the boots.    
+~
+A
+17 -1
+#4112
+armor scale dusty~
+a suit of dusty scale armor~
+Some armor lies here forgotten.~
+~
+9 69750784 9
+5 0 0 0
+30 130 30 10 -1
+E
+armor scale dusty suit~
+   This armor looks as if it has seen better days.  There are many dents and
+knicks in it from previous battles.  The color of silver had been dulled and
+looks almost to be dusty.    
+~
+#4113
+jerky meat tiger dried~
+a piece of dried tiger jerky~
+A piece of meat lies here untouched.~
+~
+19 0 1
+5 0 0 0
+1 5 1 1 -1
+E
+jerky dried tiger~
+   A piece of tiger meat has been marinated and dried.  It is a good travel
+food and keeps for months.    
+~
+#4114
+leggings dusty scale~
+a pair of dusty scale leggings~
+A pair of dusty leggings lie here forgotten.~
+~
+9 203968512 33
+3 0 0 0
+15 127 32 9 -1
+E
+leggings scale dusty pair~
+   This armor looks as if it has seen better days.  There are many dents and
+knicks in it from previous battles.  The color of silver had been dulled and
+looks almost to be dusty.    
+~
+#4115
+string glass beads~
+a string of colorful beads~
+Some beads lie here forgotten.~
+~
+8 0 5
+0 0 0 0
+2 219 55 9 -1
+E
+beads string colorful glass~
+   Glass beads of every color have been threaded onto some leather cord.  When
+in the sun the beads seem to radiate teh colors of the rainbow.  The necklace
+is quite attractive and pleasing to the eye.    
+~
+A
+24 -2
+A
+13 3
+#4116
+lantern~
+a small shuttered lantern~
+A small lantern lies here forgotten.~
+~
+1 1048576 1
+0 0 12 0
+4 12 4 1 -1
+E
+lantern shuttered~
+   This lantern is made from copper.  A small wax candle sits inside of it
+waiting to be lit.  A shutter sits over the candle preventing wind or any
+other element to douse the flame.    
+~
+#4117
+pouch dusty~
+a worn dusty pouch~
+A small pouch lies here forgotten.~
+~
+15 1048576 17825793
+20 1 -1 0
+1 50 13 10 -1
+E
+pouch dusty worn~
+   This pouch is made from brown leather.  It looks to be worn and old.  The
+leather is cracked and faded, giving it a dusty look.    
+~
+A
+17 -1
+#4118
+berries red~
+a handfull of red berries~
+A handful of red berries lie here forgotten.~
+~
+19 0 1
+3 0 0 0
+1 3 0 12 -1
+E
+berries red handfull~
+   These berries are plump and colored a deep red.  They look to be perfect for
+eating.    
+~
+#4119
+rose desert~
+&Wa desert rose&n~
+A desert rose lies on the ground.~
+~
+3 4358148 16385
+10 1 1 4
+2 800 400 16 -1
+E
+rose desert~
+   This rose is perhaps the purest white rose ever created.  Its beauty and
+perfection may lead one to believe it is more than just any flower.    
+~
+#4120
+potion white glowing~
+&Wa glowing white potion&n~
+A potion of some kind lies here forgotten.~
+A blinding flash of light appears above you in the sky
+~
+10 1048576 16385
+16 42 0 0
+2 200 100 16 -1
+E
+potion white glowing~
+   This potion is kept in a glass vial.  The potion is a luminous white color.
+This pot ion looks to be very powerful.    
+~
+#4121
+carving wand wooden~
+a small wooden carving~
+A carved piece of wood lies here forgotten.~
+~
+3 5242880 1
+16 1 1 44
+2 1300 650 16 -1
+E
+carving wooden~
+   This carving is of a war horse.  The body has been painted white and the
+hair black.  The word "Thunder" has been carved into the belly of the horse.  
+
+~
+#4122
+black potion milky~
+&Ka potion of a black milky substance&n~
+A dark potion lies here forgotten.~
+The air around you begins blur for a brief moment
+~
+10 1048576 16385
+16 29 0 0
+2 1800 900 16 -1
+E
+black potion milky~
+   This potion is black in color, but appears to be mixed with another lighter
+colored potion.    
+~
+#4123
+tiger blood bottle~
+a bottle of tiger blood~
+A bottle filled with a red substance lies here.~
+You hear a loud roar off in the distance
+~
+10 1048580 16385
+16 65 0 0
+3 780 195 16 -1
+E
+blood bottle tiger~
+   This potion is made up of a thick red liquid.  It is labeled to be tiger's
+blood.    
+~
+#4124
+dew morning special~
+a morning dew special~
+A drink lies here spilling onto the ground.~
+~
+17 0 1
+40 40 15 0
+45 20 5 1 -1
+E
+special morning dew~
+   This drink has a fruity taste to it.  The color of the liquid is green and
+it packs a powerful punch.    
+~
+#4125
+hot spiced rum~
+a hot spiced rum~
+A drink lies here spilling its contents onto the ground.~
+~
+17 0 1
+3 3 7 0
+8 5 2 16 -1
+E
+rum spiced hot~
+   This rum is thick and fulfilling.  It has a twist of flavor due to the spice
+mixed within.    
+~
+#4126
+glass dirty liquid~
+a drink in a dirty glass~
+A dirty glass lies here spilling out its contents.~
+~
+17 0 1
+3 3 9 0
+8 5 2 16 -1
+E
+glass dirty drink~
+   This glass appears to have been used many times in succession.  It has dirty
+finger prints and other grime on it.    
+~
+#4127
+pint ale~
+a large pint of ale~
+A pint of ale lies here spillingonto the floor.~
+~
+17 0 1
+5 5 3 0
+10 5 1 16 -1
+E
+pint ale~
+   A large pint for drinking has been carved from wood.  Fresh ale fills the
+pint, the top covered in a white foam.    
+~
+#4128
+shot whiskey~
+a shot of whiskey~
+A shot glass lies here spilling onto the floor.~
+~
+17 0 1
+1 1 5 0
+1 3 1 16 -1
+E
+shot whiskey~
+   This small glass is filled with a strong whiskey.    
+~
+#4129
+dagger needle~
+&Ka thin, blackened dagger with a needle-like blade&n~
+A long thin dagger lies here in the dirt.~
+~
+5 136719008 1006657537
+1 3 4 11
+4 1680 840 18 -1
+E
+dagger needle~
+   The hilt of this dagger is made from black leather.  The blade is made from
+a shiny metal and sharpened into a needle like point.    
+~
+A
+2 1
+A
+19 1
+A
+6 -1
+#4130
+key shiny steel~
+a shiny steel key~
+A shiny steel key lies here forgotten.~
+~
+18 4 1
+0 0 0 0
+0 0 0 15 -1
+#4132
+pouch weightless small emblazoned runes wind customize~
+a weightless pouch emblazoned with runes~
+A small pouch lies here moving as if blown by some unknown wind.~
+   This pouch seems to move on its own as if blown by some unknown wind.  It
+has small mystical runes branded on the inside.    
+~
+15 256 16795649
+70 0 -1 0
+1 1135 312 17 -1
+E
+pouch weightless small emblazoned runes wind customize~
+   This small pouch is crafted of fine leather, with thin leather cording for
+the drawstrings.  It looks to have been made by a master craftsman.  Oddly, the
+pouch seems to be completely weightless, even when holding things.  A small
+magical rune has been emblazoned into the side of the pouch; magi would
+recognize it as the symbol for Wind.  The edges of the pouch seem to move on
+their own occasionally, as if being stirred by a breeze.  A small, multicolored
+flame is stitched into the underside of the pouch, indicating that it is the
+work of the Guild of the Flowing Flame.    
+~
+#4133
+key black iron~
+a key of black iron~
+A black key lies here in the dust.~
+~
+18 4 16385
+0 0 0 0
+1 0 0 0 -1
+#4134
+key bronze small~
+a small bronze key~
+A small key of bronze lies here in the dust, long forgotten.~
+~
+18 4 16385
+0 0 0 0
+2 0 0 18 -1
+#4135
+chest iron ironchest~
+a large iron bound chest~
+The large iron bound chest of the marauders sits here in the corner.~
+   A large iron bound chest sits here in the corner guarded by the maruader
+leader.  Its large iron straps and iron lock hold the lid tightly shut.    
+~
+15 0 0
+1000 15 4134 0
+0 0 0 18 -1
+#4136
+bracer silver razors razor wrist~
+a silver bracer of small sharp razors~
+A silvery bracer was left here unattended.~
+~
+9 2109440 4097
+3 0 0 0
+3 1620 810 18 -1
+A
+19 1
+#4137
+sword short shortsword wreathed magical flame flaming~
+&Ra steel short sword wreathed in magical flame&n~
+A small piece of metal burns brightly on the ground.~
+~
+5 2109600 75522049
+1 3 6 11
+8 2002 1001 22 -1
+E
+shortsword short sword flaming flame~
+   This unusual weapon is invisible to the naked eye, but very, very hot to the
+touch.  Only through the most scrutinous observations are you even able to
+determine that it is a weapon, but once you look at it for a time, you see the
+barely visible flames about it forming a short pointed sword, the preferred
+weapon of assassins and thieves.  The blade is very, very hot to the touch, and
+any wound that it makes almost immediately cauterizes, sealing up before any
+bleeding can take place.  This is potentially the ultimate assassin's weapon.
+  
+~
+A
+18 1
+#4138
+cape black silken silk~
+&Ka broad, sweeping cape of flawless black silk with white trim&n~
+A black silken cape sits here shimmering.~
+~
+11 0 1025
+0 0 0 0
+6 1000 500 15 -1
+A
+2 1
+A
+17 -1
+#4139
+ring signet black~
+&Ka black signet ring&n~
+A black ring with the emblem of a red fist is lying here.~
+~
+9 896 3
+3 0 0 0
+1 1820 910 18 -1
+A
+18 1
+#4140
+scroll ancient golden runes~
+an ancient scroll with golden runes~
+An ancient faded scroll blows gently in the breeze.~
+~
+2 4 1
+19 129 0 0
+0 1934 845 19 -1
+#4141
+steak tiger plate spiced~
+a plate of spiced tiger steak~
+A plate of spiced tiger steak has been left here.~
+~
+19 0 1
+6 0 0 0
+0 6 0 1 -1
+E
+steak tiger plate spiced~
+   This plate is mostly taken up by a generous portion of tiger meat.  Cooked
+to medium rare, and seasoned with variety of spices, it gives off an inviting
+aroma.  It sits in a bit of runoff juices, waiting to be consumed.    
+~
+#4142
+sandwich steak cheese shredded~
+a sandwich of shredded steak and cheese~
+A sandwich of shredded steak and cheese has been left here.~
+~
+19 0 1
+8 0 0 0
+0 8 0 1 -1
+E
+sandwhich steak cheese shredded~
+   This large sandwhich is made from a sub-style bread, and filled to
+overflowing with shredded steak and a variety of white cheeses.  Juices drip
+from the corners of the sandwhich, and the aroma wafting upward is almost
+irresistible.    
+~
+#4143
+wings basket spicy chicken~
+a basket of spicy chicken wings~
+A basket of spicy chicken wings has been left here.~
+~
+19 0 1
+6 0 0 0
+0 6 0 1 -1
+E
+wings chicken spicy basket~
+   This wicker basket lined with wax paper has been completely filled with
+fried chicken, slathered in a spicy tasting sauce.  The smell alone bears a
+palpable tang to it, making your mouth water.    
+~
+#4144
+bread loaf spiced cheesebread~
+a loaf of spiced cheesebread~
+A loaf of spiced cheesebread has been left here.~
+~
+19 0 1
+5 0 0 0
+0 5 0 1 -1
+E
+cheesebread loaf spiced~
+   This loaf of bread has had cheese and spices baked into it, as well as
+layered on top with a variety of different cheeses.  It is a bit smaller than
+the average loaf of bread, but makes up for it with the wonderful taste.    
+~
+#4145
+sash sashik shimmering~
+a shimmering, weighted and beaded sash known as a Sashik~
+A beaded sash is laying here.~
+~
+11 0 2049
+0 0 0 0
+1 6051 234 20 -1
+#4146
+pouch spiral leather belt~
+&Wa leather belt pouch, embossed with white spiral designs&n~
+A leather belt pouch is laying here.~
+~
+15 0 16777217
+60 1 -1 0
+2 1200 240 15 -1
+#4147
+armlets bronze~
+&ya pair of decorated, solid bronze armlets&n~
+A coil of bronze lies here.~
+~
+11 0 257
+0 0 0 0
+2 4500 340 24 -1
+A
+18 1
+A
+19 1
+#4150
+armlets bronze decorated~
+&ya pair of decorated, solid bronze armlets&n~
+A pair of decorated bronze armlets lie here.~
+~
+9 2101248 257
+7 0 0 0
+10 2447 1223 24 -1
+E
+armlets bronze decorated~
+   These armlets are crafted of solid, moulded bronze.  Bronze is stronger than
+iron, but as heavy as steel.  It is most commonly used in armor, weapons, and
+decorative items such as statuettes and some jewelry.  It is resistant to
+corrosion, but conducts electrical current and heat very well.  These armlets
+were created both as decoration and as armor.  They are quite heavy for their
+size, but provide an excellent amount of protection for a decorative item.  
+Worn on the upper arms, they are crafted in the shape of circular bands.  Each
+bears swirled patterns, as well as various birds of some sort.  When viewed in
+entirety, it appears to be a motif of birds in flight, the swirling pattern
+being clouds or wind.    
+~
+A
+6 1
+A
+24 1
+#4170
+map large~
+a large map of the city~
+A large map of the city hangs on the wall.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+map large wall~
+
+                      Northern                  The City of Morning Dew
+                        Gate
+        -----------------------------------
+       |  --------------   --------------  |
+       | |              | |              | |
+       | |           ___| |__            | |          1 = Armor Shop
+       | |     6    |1       2|   5      | |          2 = Weapon Shop
+Western|  ----------  Central  ----------  |Eastern   3 = General Store 
+ Gate  |  ----------   Square  ----------  | Gate     4 = Dew Drop Inn
+       | |          |3       4|          | |          5 = Bank
+       | |           ---   ---           | |          6 = Magic Shop
+       | |              | |              | |
+       | |______________| |______________| |
+       |___________________________________|                
+                      Southern
+                       Gate
+
+~
+#4171
+map small morning dew~
+a small map of Morning Dew~
+A small map of Morning Dew is lying here.~
+~
+12 0 1
+0 0 0 0
+0 24 6 1 -1
+E
+map small morning dew~
+
+                      Northern                  The City of Morning Dew
+                        Gate
+        -----------------------------------
+       |  --------------   --------------  |
+       | |              | |              | |
+       | |           ___| |__            | |          1 = Armor Shop
+       | |     6    |1       2|   5      | |          2 = Weapon Shop
+Western|  ----------  Central  ----------  |Eastern   3 = General Store 
+ Gate  |  ----------   Square  ----------  | Gate     4 = Dew Drop Inn
+       | |          |3       4|          | |          5 = Bank
+       | |           ---   ---           | |          6 = Magic Shop
+       | |              | |              | |
+       | |______________| |______________| |
+       |___________________________________|                
+                      Southern
+                       Gate
+
+~
+#4190
+delete me~
+delete me~
+A black and red cloak has been left here.~
+~
+9 9 1025
+0 0 0 0
+0 0 0 34 -1
+#4191
+elegant steel sword longsword wreathed vibrant orange gold flames sirr sirrion~
+&rthe large, bladeless hilt of a two-handed sword&n~
+A piece of flaming metal lies here in a pool of lava.~
+~
+5 1077936450 75505665
+1000 1000 20 3
+0 0 0 35 -1
+S
+26 38 10
+S
+5 38 10
+S
+108 38 10
+A
+18 99
+A
+19 99
+A
+18 99
+A
+19 99
+A
+18 99
+A
+19 99
+$~

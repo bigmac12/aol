@@ -1,0 +1,72 @@
+#8700
+river~
+a river~
+The sparkling waters of a wide river rush under the bridge.~
+~
+23 0 0
+99999 99999 0 0
+99999 0 0 1 -1
+E
+river~
+   This section of the river is rather fast-moving.  As a result the waters do
+not maintain their normal muddy color but rather they are a clear blue that
+sparkles in the midday sun.    
+~
+#8701
+sign wooden staked~
+a road sign~
+A wooden sign has been staked in the clearing along the side of the road.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+sign road staked~
+
+                    Vingaard Keep --- North (roughly 100 miles)
+                    Solanthus --- Southwest (roughly 20 miles)
+                    Thelgaard Keep --- Southwest (roughly 70 miles)
+                    Sanction --- Southeast (roughly 195 miles)
+
+~
+#8702
+cloak ivory trimmed brown edging kiri-jolith~
+&Wan ivory-colored cloak, trimmed with &ybrown&W edging&n~
+A pile of ivory-colored cloth lies forgotten upon the ground.~
+~
+9 1048576 1049601
+4 0 0 0
+2 3150 1575 21 -1
+E
+cloak ivory trimmed brown edging~
+   Cut from very sturdy material, this long cloak has been dyed a rich ivory
+color, and trimmed in brown edging.  Stitched with precision, silver thread has
+been used to form one of the symbols of the diety Kiri-Jolith; a horned
+battleaxe, which decorates the back of this beautiful garment.  The thickly
+padded interior provides excellent protection against both the elements and the
+blade.    
+~
+A
+13 5
+A
+18 1
+#8751
+broadsword single-edged hilt bone~
+a single-edged broadsword with a hilt of bone~
+A single-edged broadsword with a hilt of bone lies forgotten on the ground.~
+~
+5 337653760 8193
+0 2 10 3
+10 2860 1430 20 -1
+E
+broadsword single-edged hilt bone~
+   Made from precious steel, the blade of this sword holds a razor's edge.  
+Crafted through a process of folding the steel many times this broadsword is
+almost unbreakable.  The edge has a gradual curve, while the spine is straight,
+the entire piece leading smoothly into the hilt.  The sides of the blade have
+been acid-etched with a mottling pattern and stamped near the hilt with a paw
+print - the signature of the smith that forged it.  The hilt is made from the
+polished femur of an unknown animal, then wrapped in sharkskin to ensure a firm
+grip at all times.    
+~
+$~

@@ -1,0 +1,450 @@
+#7000
+sign roadsign~
+a large roadsign~
+A large roadsign is staked here into the ground, just off the road.~
+~
+13 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+undefined~
+Nothing.
+~
+#7001
+map parchment roads~
+a rougly drawn map of roads~
+A thick parchment with sketchy lines of roads lies here curled up.~
+~
+16 0 1
+0 0 0 0
+1 50 10 0 -1
+E
+keymap~
+KEY:
+   (P) - Palanthas
+  (( )) - High Clerist's Tower
+   <T> - Mishakal's Temple
+   <V> - farming village
+   (K) - Kalaman
+   (Mtns) - mountain pass
+~
+E
+map roads~
+Map of High Roads from Palanthas to Kalaman. (To see the key, look at 'keynap')
+(Note: This map is not to scale.)
+
+(P)
+|                                         <T>
+  \                                        |
+    |                                     /                    <V>
+   |                                   ----                     |
+  /                                  /      \                  /
+ |                                 /          ---          -----
+  |                              /                --------      |
+   |                           -                                 ----    --(K)
+   |                         /                                        --
+ (( ))                     -                                          |
+    \                    /                                           /
+      ---              -                                           /
+          ----       /                                           /
+               \ ---                                           /
+                                                            (Mtns)
+
+
+
+~
+#7002
+river vingaard rushing water~
+Vingaard River~
+The rushing water of Vingaard River twists and turns near the road.~
+~
+23 16 0
+100000 100000 0 0
+100005 0 0 0 -1
+#7003
+river rushing waters~
+the river~
+The rushing waters of the river flow underneath the bridge, going downstream.~
+~
+23 16 0
+100000 100000 0 0
+100005 0 0 0 -1
+#7004
+river rivers waters~
+the three rivers~
+The waters of the rivers rush along into two directions, heading downstream.~
+~
+23 16 0
+100000 100000 0 0
+100005 0 0 0 -1
+#7005
+sign roadsign~
+a roadsign~
+A large roadsign sits staked to the ground, a short distance from the road.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+sign roadsign~
+
+
+                   Kalaman ---- East (roughly 20 miles)
+                   Palanthas ---- West (roughly 280 miles)
+                   Dargaard Mountains ---- Southwest
+                   Mista Village ---- Northeast
+~
+#7010
+wagon merchant's broken~
+a broken down wagon~
+A large wagon lies here on its side, its wheels broken and the cloth sides torn.~
+   This was a rather large wagon, and housed a fair amount of goods from what
+can be seen of the wreckage.  The torn cltoh sides used to be gaily striped,
+but are now covered with mud.  The wheels are also broken, and other pieces of
+wood, most likely from crates that were in the wagon, lies splintered on the
+ground nearby.    
+~
+15 0 0
+0 0 0 0
+0 0 0 0 -1
+#7011
+crate broken~
+a broken crate~
+A broken crate lies here discarded upon the ground.~
+~
+15 0 0
+0 0 -1 0
+0 0 0 0 -1
+#7012
+dagger blue steel~
+a dagger of blue steel~
+A dagger made from an odd blue steel lies here glowing dully.~
+   This dagger is made from an odd color of blue steel.  Tiny etches on the
+blade can be seen, but not read, as it forms no type of script known to man.  
+
+~
+5 2105344 1006657537
+0 2 6 11
+4 540 135 15 -1
+A
+19 1
+A
+18 1
+#7013
+stick walking firewood~
+a walking stick~
+A walking stick is lying here discarded.~
+~
+30 0 16385
+0 0 0 0
+1 30 8 4 -1
+A
+14 5
+#7026
+sign wooden staked~
+a wooden sign~
+A wooden sign has been staked in the clearing along side of the road.~
+~
+0 0 0
+0 0 0 0
+9999 0 0 1 -1
+E
+sign wooden staked~
+                    Vingaard Keep --- North (roughly 20 miles)
+                    Solanthus --- South/Southwest (roughly 100 miles)
+                    Palanthas --- North/northwest (roughly 75 miles)
+                    Kalaman --- East (roughly 200 miles)
+                    High Clerist's Tower --- West (roughly 45 miles)
+~
+#7051
+mints astonish tin~
+a small tin with a faded label which reads, "&WAstonish-Mints&n"~
+A small tin with a faded label which reads, "Astonish-Mints" lies forgotten here.~
+~
+19 64 16385
+8 0 0 0
+0 500 1 1 -1
+E
+RPnote~
+   These little mints, true to their name, are supposed to make who ever eats
+them astonished.  Astonished at anything they see, or hear, even perhaps what
+they themselves say or do.  Who knows how these tasty little treats work,
+perhaps they're magicked!  Thus, if you consume them, you should RP accordingly
+and weird out fellow players.  It'll be fun!    
+~
+E
+mints astonish tin~
+   This small tin bears a faded paper label on the lid which reads,
+"&WAstonish-Mints&n".  Taking off the lid you find several small, normal
+looking mints set in wax paper.  They smell delicious however, strangely
+remeniscent of your favorite confectionary.    
+
+(&ylook RPnote for an OOC note&n)
+~
+#7056
+knitbone~
+knitbone~
+An unfinished object is lying here.~
+~
+19 0 1
+1 0 0 0
+0 0 0 0 -1
+T 7056
+#7064
+disc ivory fist clenched~
+&Wan engraved ivory disc, hanging from a silver chain&n~
+An engraved ivory disc, hanging from a silver chain lies forgotten here.~
+~
+3 7269696 16389
+14 3 3 41
+1 3700 1000 14 -1
+E
+disc ivory chain engraved~
+   This simple ivory disc is about the size of a copper piece, and hangs from a
+fine silver chain.  It is engraved upon the front with the image of a clenched
+fist, and is strangely cool to the touch.  On the back, inscribed in the script
+known as Magius which only Magi may read are the words, '&WSolin Protects&n'.
+  
+~
+A
+4 1
+A
+17 -1
+#7070
+bush robust wildberry large~
+a large, robust wildberry bush~
+A large, robust wildberry bush is here.~
+~
+15 0 0
+1000 0 -1 0
+1000 0 0 0 -1
+#7071
+berry wildberry wild small ripe~
+a small ripe wildberry~
+A small ripe wildberry lies here.~
+~
+19 0 1
+8 0 0 0
+0 1 0 0 -1
+#7072
+hoopak ironwood wooden wood~
+an ironwood hoopak, carved with many designs~
+An ironwood hoopak carved with myriad designs lies forgotten here.~
+~
+5 1002442752 24577
+0 2 8 1
+2 990 495 16 -1
+E
+hoopak ironwood designs~
+   The hoopak is the most common of kender tools.  This 5' ironwood staff has a
+short steel spike attached to its tip, which lets the hoopak double as a spear
+or bo stick.  The staff's other end is forked and laced with gut.  A stone may
+be flung by either planting the blade end of the hoopak in the earth and
+bending the staff back to sling the stone, or whirling the hoopak overhead as a
+traditional sling-staff.  It also acts as a bullroar when whirled in the air,
+creating a low thrumming sound.  Intricate carvings of animals, places, items,
+and many other things adorn the shaft of this hoopak.    
+~
+A
+18 2
+A
+2 1
+#7076
+jester card~
+the Jester~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+E
+jester~
+   The picture upon this card depicts a tall dark man frozen in a leap.  His
+clothes are garishly bright, from green to orange and yellow.  He wears an odd
+grin as he juggles gold coins and a few gems.    
+~
+#7077
+card master conclave~
+Master of the Conclave~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7078
+High Clerist card~
+the High Clerist~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7079
+Empress card~
+the Empress~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7080
+Emperor card~
+the Emporer~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7081
+Kingpriest card~
+the KingPriest~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7082
+lovers card~
+the Lovers~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7083
+chariot card~
+the Chariot~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7084
+strength card~
+Strength~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7085
+lone man card~
+the Lone Man~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7086
+wheel fortune card~
+the Wheel of Fortune~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7087
+Balance card~
+Balance~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7088
+hanged man card~
+the Hanged Man~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7089
+death card~
+Death~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7090
+temperance card~
+Temperance~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7091
+abyss card~
+the Abyss~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7092
+broken tower card~
+the Broken Tower~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7093
+star card~
+the Star~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7094
+three moons card~
+the Three Moons~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7095
+flame sun card~
+the Flame of the Sun~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7096
+justice high card~
+the High Justice~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7097
+nature incarnate card~
+Nature Incarnate~
+An ornately painted card lies here with hidden symbols and magical meanings.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#7098
+deck cards tarot~
+a deck of tarot cards~
+A deck of ornately painted cards lies here, held together as if by magic.~
+~
+15 0 1
+1 1 -1 0
+0 0 0 0 -1
+#7099
+bag silken black~
+a black silken bag~
+A black silken bag, with a silver design of a gypsy's knot, lies here crumpled.~
+~
+15 1048576 50331649
+2 1 -1 0
+0 0 0 0 -1
+$~

@@ -1,0 +1,280 @@
+#4300
+stream small~
+a small stream~
+A small stream rushes through the clearing.~
+~
+23 0 0
+100 100 0 0
+1000 0 0 0 -1
+E
+stream~
+The water in the stream looks clear and refreshing.
+~
+#4301
+chest treasure~
+a treasure chest~
+A treasure chest is partially buried in the stones,~
+~
+15 0 1
+12 13 4302 0
+100 10 2 1 -1
+E
+chest~
+The old treasure chest has a large lock on it.
+~
+#4302
+key rusted~
+a rusted key~
+A rusted key has been carelessly discarded here.~
+~
+18 4 1
+0 0 0 0
+2 0 0 0 -1
+#4303
+cutlass steel vallenwood scoop ~
+a cold steel cutlass with a vallenwood scoop handle~
+A well-used cutlass is lying here.~
+~
+5 12288 8193
+1 2 9 3
+9 1215 608 18 -1
+A
+19 1
+#4304
+eyepatch black~
+&Ka simple black eye patch, tied with a long cloth cord&n~
+A black eyepatch lies here.~
+~
+11 0 32769
+0 0 0 0
+1 551 126 15 -1
+A
+17 -1
+#4305
+knife fishing~
+a fishing knife~
+A fishing knife is lying here.~
+~
+5 2109440 939548673
+0 2 4 14
+9 475 238 15 -1
+#4306
+book small~
+a small book~
+A small leatherbound book is lying here.~
+~
+12 134217728 16385
+0 0 0 0
+4 275 130 16 -1
+E
+book small~
+   This small book has a title written in a script that resembles nothing so
+much as the doodle of a bored child.  However, upon further reflection, the
+pattern is actually quite logical - strange, but logical.  The pages are lined
+with diagrams and listings of numbers, detailing natural systems and laws.  If
+you could make sense of it, it would be a valuable find indeed.    
+~
+A
+3 1
+#4307
+anklet strand gems gemstones large~
+&Ba cobalt chain anklet with strands of large gemstones&n~
+A strand of large gemstone is lying here.~
+~
+8 0 131073
+0 0 0 0
+1 550 225 18 -1
+E
+anklet strand gems gemstones large~
+   This anklet is made of a thin cobalt chain, and has large gemstones fastened
+to it by little golden clips.  The gems alternate in a pattern between
+sapphires, rubies, and emeralds, with a continuing pattern of blue, red, and
+green.  The anklet jingles when the wearer walks.  Each gemstone is rather
+large, and by itself could fetch quite a good price.    
+~
+A
+17 -3
+A
+13 2
+#4308
+gloves leather thick~
+&Ka pair of thick, black leather gloves&n~
+A pair of thick leather gloves are lying here.~
+~
+9 4096 129
+3 0 0 0
+1 912 451 18 -1
+A
+1 1
+#4310
+fish small~
+a small fish~
+A small fish is lying here.~
+~
+27 0 1
+4 0 0 0
+0 4 1 1 -1
+#4312
+map treasure parchment piece~
+a treasure map~
+An old faded piece of parchment is lying here.~
+~
+16 4 16385
+0 0 0 0
+1 0 0 16 -1
+E
+map~
+
+
+          YYYYYYYYY
+       YYYYYYYYYYYYYYYYY
+     YYYYYYYYYYYYYYYYYYYYY
+Cave XYYYYYYYYYYYYYYYYYYYY
+     YYYYYYYYYYYYYYYYYYYYY
+             ||
+             ||
+             ||
+             ||
+             ||
+             ||
+             ||
+   /--------+  +-------
+  /
+                  Lake
+
+
+
+X marks the spot.  Be sure
+to search high and low.
+
+~
+#4313
+boot old muddy~
+a muddy old boot~
+A muddy black boot is lying here.~
+~
+15 0 1
+6 0 -1 0
+2 4 1 12 -1
+E
+boot old muddy~
+This old boot looks quite worn and is covered with mud.
+~
+#4314
+hood oversized violet~
+&man oversized, violet-colored hood&n~
+A violet-colored pile of linen lies forgotten here.~
+~
+11 0 21
+0 0 0 0
+1 1500 750 21 -1
+E
+hood oversized violet~
+   This hood has been generously cut from a bolt of linen, and dyed a beautiful
+deep violet color.  Clasps on the back of the hood allow it to be attached to a
+cloak or robe.  Though unadorned, it seems to be a fine garment.  It looks to
+have been treated with some agent to help waterproof it.  When raised the hood
+would obscure nearly the entire face of even the largest of humanoids.    
+~
+A
+17 -2
+A
+4 1
+#4320
+staff ogham druid ash ashwood wood wooden crafted tall~
+a tall, simple staff crafted of ashwood~
+A tall, intricately carved staff of ash lies here forgotten.~
+~
+5 1048576 24577
+0 3 6 7
+5 1100 550 20 -1
+E
+staff ogham druid ash ashwood wood wooden crafted tall~
+   This long, straight staff is made of a light, creamy-colored ashwood.  Ash
+is amongst the hardest of the natural woods, and is ideal in crafting weapons,
+weapon handles, or in the construction of small homes.  Small strips of leather
+have been wrapped around the staff near the top and bottom, designed as hand
+grips.  A small, strange pattern has been engraved below the top grip, and
+above the bottom grip.    
+~
+E
+pattern engraved~
+   &k&7|||||&n
+~
+#4333
+skirt ruffled cloth ~
+a ruffled skirt with wide stripes of white and blue~
+A pile of white and blue cloth is lying here.~
+~
+11 0 33
+0 0 0 0
+3 520 260 11 -1
+T 4
+E
+skirt ruffled cloth ~
+   This ruffled skirt would come to just below the knee of the average human
+wearer.  The fabric has wide blue and white stripes that run the entire length
+of the skirt.  A piece of cord has been sewn into the waistband and can be
+cinched to fit smaller waists or loosened to accommodate a larger figure.    
+~
+A
+17 -2
+#4388
+mud handful~
+a handful of mud~
+A small mound of mud lies here.~
+~
+12 4 16385
+0 0 0 0
+2 0 0 0 -1
+#4389
+pants black silk cloth loose~
+&Ka pair of loose-fitting, black silk pants&n~
+A pile of black silk has been dropped here.~
+Nothing.
+~
+11 1048576 33
+0 0 0 0
+3 440 110 11 -1
+E
+pants black silk cloth loose~
+   These loose-fitting pants are made from a light silk that shines in the
+light.  A piece of black cord has been sewn into the waist and ankles, making
+them a comfortable fit for most.    
+~
+A
+17 -2
+#4390
+robes brown burlap tree bark cloth~
+&yburlap robes the color of tree bark&n~
+A pile of brown burlap has been dropped here.~
+~
+11 0 9
+0 0 0 0
+5 720 360 15 -1
+E
+robes brown burlap tree bark cloth~
+   These brown robes are fashioned from a thick brown burlap.  The weave is
+loose allowing the cloth to breathe.  As a result they are not as warm as their
+thickness and weight might seem to indicate.  Simple clasps fasten them at the
+waist and neckline.    
+~
+A
+17 -4
+#4398
+delete me~
+delete me~
+Delete me~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#4399
+mud mound~
+a large mound of mud~
+A large mound of mud covers the floor.~
+~
+14 0 1
+0 0 0 0
+300 0 0 0 -1
+$~

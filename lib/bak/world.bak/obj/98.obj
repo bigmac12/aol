@@ -1,0 +1,405 @@
+#9800
+map docks~
+a map of the docks~
+A map of the docks is rolled up here.~
+~
+16 0 1
+0 0 0 0
+1 1 0 1 -1
+E
+map docks~
+   Caergoth Lane
+  ______________
+ |     2        |
+ |            S | A    6   
+ |         1  e |----------
+ |         3  a | v
+ |         1  w | e    6
+ |            a |----------
+ |            t | n       |
+ |            c | u       |
+5|  Huma Lane h | e
+-|--------------|
+ | 1          2 |
+ |              |
+ |              |
+ |            4 |
+ |______________|
+ 
+1. Warehouse
+2. Tavern
+3. Customs Office
+4. Temple of Zeboim
+   (hidden from mortals)
+5. To Kalaman Proper
+6. Docks
+~
+#9801
+shield small hard leather customs~
+a small, hard-leather shield~
+A small hard-leather shield bearing the insignia of the Kalaman customs office lies here.~
+~
+9 18894848 16897
+1 0 0 0
+18 21 5 3 -1
+E
+shield customs official official's~
+   This lightweight steel shield bears the insignia of the customs officials.  
+It has a sturdy leather handstrap attached to the back.    
+~
+#9802
+lure~
+a fishing lure~
+A fishing lure has been dropped here.~
+~
+12 0 16385
+0 0 0 0
+0 1 1 1 -1
+E
+lure fishing~
+   This small fishing lure is a series of tiny hooks in a row, creatively
+hidden by a colorful artificial waterbug.    
+~
+#9803
+minnow live~
+a live minnow~
+A live minnow flops around here.~
+~
+27 0 1
+3 0 0 0
+1 3 1 1 -1
+E
+minnow live~
+   A little minnow flops about here, nearly impossible to grab hold of.    
+~
+#9804
+carton nightcrawlers worms~
+q~
+A carton of nightcrawlers rests here.~
+~
+19 0 1
+2 0 0 0
+1 1 1 1 -1
+E
+carton nightcrawlers worms~
+   This small paper carton contains a clod of earth and about 25 worms crawling
+over and around one another.    
+~
+#9805
+leggings salty~
+a pair of salty leggings~
+A pair of salty leggings is lying here.~
+~
+11 1048576 33
+0 0 0 0
+2 6 1 1 -1
+E
+leggings salty~
+   This drab colored pair of leggings is damp with seawater.    
+~
+A
+17 -1
+#9806
+tunic salty~
+a salty tunic~
+A salty tunic is lying here.~
+~
+11 1048576 9
+0 0 0 0
+1 8 2 1 -1
+E
+tunic salty~
+   This plain brown tunic is damp with seawater.    
+~
+A
+17 -1
+#9807
+fishing rod pole~
+a fishing rod~
+A fishing rod lies here.~
+~
+29 1048576 16385
+0 0 0 0
+2 5 1 4 -1
+E
+fishing pole rod~
+   This fishing pole is well crafted, having a finely stained rod that is
+perfectly balanced.  Its shiny reel is loaded with new line and has been
+threaded through the rod's eyeholes.    
+~
+#9808
+fish~
+a fish~
+A fish lies here, cleaned and ready to eat.~
+~
+19 0 1
+7 0 0 0
+1 7 1 0 -1
+E
+fish~
+   This medium-sized fish has already been gutted and had its head removed.  
+It smells fresh, and is ready to be eaten.    
+~
+#9809
+robe robes priest zeboim~
+the robes of a Zeboim priest~
+The dark robes of a Zeboim priest lie here.~
+~
+11 1851392 1025
+0 0 0 0
+4 32 8 5 -1
+E
+robe robes dark zeboim~
+   These robes are dark in color and have voluminous folds.    
+~
+A
+17 -1
+#9810
+book prayer priest zeboim~
+a prayer book of a priest of Zeboim~
+The prayer book of a priest of Zeboim is sitting here.~
+~
+16 2560 16385
+0 0 0 0
+3 51 12 4 -1
+E
+book prayer priest zeboim~
+   Ther prayer book ostensibly contains several prayers to Zeboim, although the
+strange runelike writing is incomprehensible to all but the highest priests in
+her service.    
+~
+#9811
+dagger sacrificial~
+a sacrificial dagger~
+A sacrificial dagger lies here.~
+~
+5 2105344 1006657537
+0 1 3 14
+1 15 4 3 -1
+E
+dagger sacrificial~
+   This black hilted dagger is made of a fine quality steel.  Its sharp blade
+is flecked with dried blood.    
+~
+#9812
+robe simple white broadcloth~
+a simple white robe, made of heavy broadcloth~
+A pile of heavy broadcloth lies on the ground here.~
+~
+11 3857408 1033
+0 0 0 0
+2 30 5 4 -1
+E
+robe white broadcloth~
+   This simple, hoodless robe as been woven from heavy broadcloth.  A small
+blue pheonix has been stitched into both sleeves, marking the wearer of this
+garment as a follower of Habbakuk, the Fisher-King.    
+~
+A
+17 -3
+#9813
+robe sky sky-blue silk~
+&Ca simple robe, made of sky-blue silk&n~
+A pile of sky-blue silk lies here forgotten.~
+~
+11 3857408 1033
+0 0 0 0
+1 30 5 4 -1
+E
+robe sky blue sky-blue silk~
+   &BThis simple, hoodless robe has been woven from beautiful sky-blue silk.  
+A small, &Wsilver infinity symbol&B has been stitched into both sleeves,
+marking the wearer of this garment as a follower of Mishakal, goddess of
+healing.  &n
+~
+A
+17 -3
+#9814
+robe silk white~
+a simple, hooded robe made of white silk~
+A pile of white silk lies on the ground here.~
+~
+11 3857408 1033
+0 0 0 0
+1 30 5 4 -1
+E
+robe silk white~
+   It is said that the clergy of the order of Paladine prefer to wear garments
+and vestments of very plain make in an attempt to be anonymous, so that only
+their deeds are remembered in the name of their god.  This simple, hooded robe
+meets those needs perfectly, being made of fine white silk and bearing no
+ornamentation whatsoever.    
+~
+A
+17 -3
+#9815
+tunic sleeveless forest~
+&ga sleeveless tunic, made of forest green silk&n~
+A pile of forest green silk lies here.~
+~
+11 1048576 9
+0 0 0 0
+1 30 5 4 -1
+E
+tunic sleeveless forest green silk~
+   &gThis sleeveless tunic is of very fine make.  Made from forest green silk,
+it is &ytrimmed in gold&g and bears dark wooden toggles.  A tiny harp is
+embroidered upon the left breast.  &n
+~
+A
+17 -3
+#9816
+leggings silk forest green~
+&ga pair of leggings, made of forest green silk&n~
+A pile of forest green silk lies here forgotten.~
+~
+11 1048576 33
+0 0 0 0
+1 20 2 4 -1
+E
+leggings forest green silk~
+   &gThese fine leggings are made of forest green silk, &ytrimmed with gold&g.
+They fit quite comfortably, and reach to just above the ankle.  &n
+~
+A
+17 -3
+#9817
+tunic collarless red~
+&Ra simple, collarless red tunic trimmed in black&n~
+A pile of red cloth lies on the ground here.~
+~
+11 1048576 9
+0 0 0 0
+1 20 2 4 -1
+E
+tunic collarless red~
+   &RThis simple, collarless tunic is made of dyed red cotton, and is trimmed
+in black.  It is long enough that it hangs to just above the knees of the
+average human, and fits loosely and comfortably.  &n
+~
+A
+17 -3
+#9818
+robe heavy broadcloth brown~
+&ya brown hooded robe, made from heavy broadcloth&n~
+A pile of brown broadcloth lies here.~
+~
+11 1048576 1033
+0 0 0 0
+2 30 5 4 -1
+A
+17 -1
+#9819
+leggings red~
+&Ra pair of simple red leggings, trimmed in black&n~
+A pair of red leggings lies on the ground here.~
+~
+11 1048576 33
+0 0 0 0
+1 20 2 4 -1
+E
+leggings red~
+   &RThese simple cotton leggings have been dyed red, and are trimmed in black.
+They fit loosely, and quite comfortably.  &n
+~
+A
+17 -3
+#9880
+broken plank~
+a broken plank~
+A broken plank is here, half buried into the ground.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+broken plank~
+   This appears to be a plank from a ship.  The part of it that isn't buried in
+the ground is about as tall as a kender, around four feet tall.  This plank
+seems to be the only grave marker here, which means it was most likely someone
+of high rank that once rested here.  It is surrounded in a soft, ghostly light.
+  
+~
+#9881
+rotted moldy red vest~
+a rotted red vest~
+A rotted and moldy red vest lies on the floor in a heap here.~
+~
+11 1048576 1033
+0 0 0 0
+2 40 10 5 -1
+E
+rotted red vest moldy~
+   This was once a fine vest, it looks like it was once a blood-red color, but
+it is hard to tell now.  Being buried under wet dirt for ages has made this
+vest moldy and rotten.  Little remains of the once fine patterns stitched on
+the chest.  The occasional slash mark appears on it, destroying most of the
+bottom half of the vest.    
+~
+A
+17 -1
+#9882
+cutlass curved blade rusted sword~
+a rusted cutlass~
+A curved, rusted blade lies on the floor here, abandoned.~
+~
+5 2109440 75522049
+0 1 2 3
+4 10 2 1 -1
+E
+curved rusted cutlass blade~
+   Once an expensive looking short sword, it is now little more than trash.  
+The whole blade is covered with rust, and most the hilt is too.  The only part
+that is not covered in rust is the gold plating on part of the hilt.  Small
+slots in the gold have been carved out, looking like there was once gems set in
+the hilt.    
+~
+#9883
+rotted coil rope~
+a rotted coil of rope~
+A rotted coil of rope sits on the ground here, taking up space.~
+~
+11 0 1048577
+0 0 0 0
+3 30 8 4 -1
+E
+rotted coil rope~
+   This rope has been coiled up so it can be carried or worn easily.  The rope
+is rotted and frayed, with dirt caking the outside of it.  It is hard to tell
+the true age of the rope, but there is no doubt that it is old.    
+~
+A
+17 -1
+#9884
+silver earring triangle paladine~
+a silver earring in the shape of a triangle~
+A silver triangle earring has been dropped here.~
+~
+8 0 65537
+0 0 0 0
+1 100 25 8 -1
+E
+silver earring triangle~
+   This small silver earring has been shaped into a triangle.  Although the
+silver triangle represents the great god of light, Paladine, it seems like
+people other than followers of Him would enjoy its craftsmanship as well.    
+~
+A
+17 -1
+#9897
+chairs over-stuffed~
+two over-stuffed chairs~
+Two over-stuffed chairs stand by the fire, offering a comfortable place to sit and chat.~
+~
+0 0 0
+0 0 0 0
+0 0 0 1 -1
+E
+chair chairs over-stuffed~
+   These two chairs were originally placed near the fireplace to give Gillian
+and Stanley a place to rest at the end of a long day's work.  The spot was so
+popular, however, that they never seem to find the time to use it.  More often
+than not, they play host to a young couple looking for a quiet place to pass
+some time and enjoy a drink.    
+~
+$~

@@ -1,0 +1,819 @@
+#1300
+tunic grey soiled~
+a soiled grey tunic~
+A soiled grey tunic lies here.~
+~
+11 1114112 9
+0 0 0 0
+1 35 18 4 -1
+E
+tunic soiled grey~
+   This dirty old tunic appears to be grey, but was likely white some ten or
+fifteen years ago.    
+~
+A
+17 -1
+#1301
+overalls faded blue~
+&Ca pair of faded blue overalls with numerous patches&n~
+A pair of faded blue overalls lies here in an untidy heap.~
+Nothing.
+~
+11 142606336 9
+0 0 0 0
+4 14 2 5 -1
+E
+overalls faded blue~
+   This ratty old pair of overalls is torn and patched in numerous places, and
+has stains of long forgotten meals all down the front.    
+~
+A
+17 -1
+#1302
+dagger blue steel stout bluesteel~
+&Ba stout-hilted serrated dagger crafted of blue steel&n~
+A thin steel dagger has been left here.~
+~
+5 2105344 1006657537
+0 1 4 11
+1 16 4 4 -1
+E
+thin steel dagger~
+   This thin-bladed dagger is made of blue steel, and appears quite deadly,
+used in the right hands.    
+~
+#1303
+boots armored dwarven ~
+a heavy pair of dwarven armored boots~
+A pair of dwarven armored boots have been left here.~
+~
+9 134217728 65
+6 0 0 0
+3 1300 1 19 -1
+E
+breeches dusty~
+   After closer inspection, you discover these breeches are not covered in
+dust, but rather in ash.    
+~
+#1304
+shovel~
+a shovel~
+A shovel has been dropped here.~
+~
+22 1048576 16385
+0 0 0 0
+4 13 3 4 -1
+E
+shovel~
+   This is an ordinary shovel, apparently used for nefarious purposes.    
+~
+#1305
+robe torn dirty~
+a torn and dirty robe~
+A torn, dirty robe lies here.~
+~
+11 1114112 9
+0 0 0 0
+3 10 1 4 -1
+E
+robe torn dirty~
+   This old robe is torn beyond repair, exposing far more than care to see.  
+Its hem has become as black as soot from being trodden on by its wearer.    
+~
+A
+17 -1
+#1306
+shortsword sword~
+a plain, well-used copper shortsword~
+A shortsword lies here.~
+~
+5 2109440 75522049
+0 2 5 3
+4 30 8 13 -1
+E
+shortsword~
+   This shortsword is without embellishment, and appears to be oft-used.    
+~
+#1307
+parmigiana rat fried plate~
+a plate of fried rat parmigiana~
+A plate of fried rat parmigiana lies here.~
+~
+19 0 1
+6 0 0 0
+1 6 1 4 -1
+E
+parmigiana fried rat~
+   This scrumptious looking dish is made from locally bred rat stock, a highly
+guarded tomato sauce recipe and a light coating of moldy cheese.    
+~
+#1308
+beetles half-shell shell plate~
+a plate of beetles on a half-shell~
+A plate of beetles on a half-shell lies here.~
+~
+19 0 1
+4 0 0 0
+1 4 1 4 -1
+E
+beetles half half-shell shell~
+   Several large gold beetles have been carefully removed from their shells and
+mixed with unknown herbs and spices.  This stuffing was then placed delicately
+back into their overturned shells, and garnished with a sprig of rotted
+parsley.    
+~
+#1309
+truffles snakeskin~
+a few snakeskin truffles~
+A few snakeskin truffles lie here.~
+~
+19 0 1
+4 0 0 0
+1 4 1 4 -1
+E
+truffles snakeskin~
+   These sugary confections are made from the highest quality snakeskin and
+finely minced with other special ingredients, and are Harok's most prized
+recipe.    
+~
+#1310
+wings spicy celery basket~
+a basket of spicy bat wings and celery~
+A basket of spicy bat wings and celery is here.~
+~
+19 0 1
+4 0 0 0
+1 4 1 4 -1
+E
+wings bat celery spicy~
+   This small basket is filled to overflowing with spicy bat wings and a few
+stalks of withered celery.    
+~
+#1311
+cap dusty red~
+a dusty cap~
+A dusty red cap has been left here.~
+~
+11 1048576 17
+0 0 0 0
+1 4 1 4 -1
+E
+cap dusty~
+   This dusty, abused cap is a faded red color, with a big hole in the back.  
+
+~
+A
+17 -1
+#1312
+delete me~
+a thin blanket~
+A thin blue blanket lies here in a heap.~
+~
+9 0 1025
+1 0 0 0
+3 3 1 4 -1
+E
+blanket thin blue~
+   This threadbare blanket looks useless against the chill.  The reek of
+unwashed bodies clings to it.    
+~
+#1313
+orange moldy~
+a moldy orange~
+A moldy orange lies here.~
+~
+19 0 1
+3 0 0 1
+1 1 1 4 -1
+E
+orange moldy~
+   It is plump orange, nearly covered over in downy green mold.    
+~
+#1314
+fountain bubbling natural~
+a bubbling natural fountain~
+A bubbling natural fountain is here, its waters sparkling clear.~
+~
+23 65540 0
+99999 99999 15 0
+100004 0 0 8 -1
+E
+fountain bubbling natural~
+   This natural fountain bubbles up through the cavern floor, its waters
+crystal clear.    
+~
+#1315
+stream dark putrid water~
+a stream of dark, putrid water~
+A stream of dark, putrid water flows rapidly along the western wall.~
+~
+23 65540 0
+99999 99999 0 -1
+100004 0 0 8 -1
+E
+stream dark putrid water~
+   The waters of this stream are dark as night, churning and foaming, as if
+from the Abyss itself.  The stream emits an overpoweringly foul stench.    
+~
+#1316
+corpse kender decaying~
+the decaying corpse of a kender~
+The corpse of a male kender lies here, slowly decaying.~
+~
+15 65556 0
+25 0 -1 0
+1 0 0 5 -1
+E
+corpse decaying kender~
+   There is a trickle of black water from this lifeless kender's mouth, and his
+hands have frozen over his pouches as if to guard his precious possessions even
+in death.    
+~
+#1317
+pouch red~
+a red pouch~
+A red pouch has been dropped here.~
+~
+15 1048576 16777217
+5 0 -1 0
+1 3 1 4 -1
+E
+pouch red~
+   This worn red pouch has seen better days, and has dirty fingerprints on it.
+  
+~
+#1318
+pouch small brown~
+a small brown pouch~
+A small brown pouch has been dropped here.~
+~
+15 1048576 16777217
+5 0 -1 0
+1 3 1 4 -1
+E
+pouch small brown~
+   This small brown pouch is stained from use, and has a tiny hole beginning to
+widen at one seam.    
+~
+#1319
+pouch worn leather~
+&ya simple, worn leather belt pouch&n~
+A worn leather pouch has been dropped here.~
+~
+15 1048576 16777217
+20 0 -1 0
+1 20 1 4 -1
+E
+pouch worn leather~
+   This small leather pouch has been worn by use, and has the soft imprint of
+tiny fingers in several places.    
+~
+#1320
+pouch white cloth~
+&Wa white cloth pouch with silk ties&n~
+A white cloth pouch has been dropped here.~
+~
+15 1048576 16777217
+20 0 -1 0
+1 5 1 4 -1
+E
+pouch white cloth~
+   This pouch is made of white linen, and is surprisingly strong for its thin
+material.    
+~
+#1321
+hoopak thin wood wooden~
+a thin hoopak~
+A thin hookpak lies here.~
+~
+5 1004539904 24577
+0 1 5 0
+3 30 8 6 -1
+E
+hoopak thin~
+   This thin hoopak is made of sturdy oak and has a few rudimentary carvings
+along it.    
+~
+#1322
+thread spool~
+a spool of thread~
+A spool of thread is here.~
+~
+12 0 1
+0 0 0 0
+1 1 1 4 -1
+E
+thread spool~
+   This spool of blue thread looks as though it has been unwound and rewound
+numerous times, and the thread has begun to fray.    
+~
+#1323
+needle shiny sewing~
+a sewing needle~
+A shiny sewing needle lies here.~
+~
+5 2109440 24577
+0 1 1 11
+0 5 1 1 -1
+E
+needle shiny sewing~
+   This sewing needle has been bent out of shape, and has a rather dull point.
+  
+~
+#1324
+dice die handful~
+a handful of dice~
+Some dice have been scattered here.~
+~
+12 0 16385
+0 0 0 0
+0 5 1 4 -1
+E
+dice handful die~
+   Several handpainted dice are here, with their dots nearly chipped away by
+constant handling.    
+~
+#1325
+tooth yellow yellowed~
+a yellowed tooth~
+A yellowed tooth lies here.~
+~
+12 65536 16385
+0 0 0 0
+1 5 1 4 -1
+E
+tooth yellowed yellow~
+   This old tooth is yellowed and its former owner impossible to discern.  It
+is cracked along one edge and has a sharp point.    
+~
+#1326
+buttons collection~
+a collection of buttons~
+A collection of buttons is scattered about here.~
+~
+12 65536 16385
+0 0 0 0
+1 4 1 4 -1
+E
+buttons button collection~
+   Every manner, shape, size and color of button is in this colection,
+including one of goldplate, that has begun to chip from constant handling.    
+~
+#1327
+comb broken~
+a broken comb~
+A broken comb has been left here.~
+~
+12 65536 16385
+0 0 0 0
+1 3 1 4 -1
+E
+comb broken~
+   This wooden comb is cracked along the side is missing several teeth.  A few
+strands of wispy blond hair are still woven through the remaining teeth.    
+~
+#1328
+pendant quartz~
+a quartz pendant~
+A quartz pendant lies here, missing a chain.~
+~
+12 0 1
+0 0 0 0
+1 7 1 4 -1
+E
+pendant quartz~
+   This shiny quartz crystal catches the slightest light and reflects back a
+rainbow of color.  Its chain is missing and the catch broken in half.    
+~
+#1329
+map~
+a map~
+A map of some sort lies here.~
+~
+12 65536 1
+0 0 0 0
+1 5 1 4 -1
+E
+map~
+   This wrinkled old map was at one time some form of directions to a house.  
+Between the huge ink blots and faded text, nothing else is readable, let alone
+recognizable.    
+~
+#1330
+snakeskin~
+a shiny snakeskin~
+A shiny snakeskin lies here.~
+~
+12 65536 1
+0 0 0 0
+1 5 1 4 -1
+E
+snakeskin shiny~
+   This snakeskin is silver and gold colored, appearing multihued in sunlight.
+  
+~
+#1331
+tomb ancient~
+an ancient tomb~
+An ancient tomb is set into the wall.~
+~
+15 0 0
+15 0 -1 0
+0 0 0 4 -1
+E
+tomb ancient wall~
+   There is a gold-plated plaque set into the wall with the barely legible name
+of the deceased engraved upon it.    
+~
+#1332
+bones jumbled set~
+a jumbled set of bones~
+A jumbled set of bones lies here.~
+~
+15 65536 1
+3 0 -1 0
+2 5 2 4 -1
+E
+bones jumbled set~
+   These bones are centuries old, and consist more of dust than structure.  
+The race of their former owner is impossible to tell, although the length of
+one femur implies it was not a dwarf, elf or minotaur.    
+~
+#1333
+heart vial glass blue liquid~
+a heart floating in a vial~
+A glass vial lies here, containing a heart floating in a pale blue liquid.~
+~
+10 1114112 16385
+10 39 0 0
+1 360 72 10 -1
+E
+heart glass vial blue liquid~
+   This ancient glass vial contains the heart of the dead, floating in a pale
+blue liquid.  There are runes engraved on the vial, but they are nearly
+illegible from the passing of time.    
+~
+#1334
+coins few~
+a few coins~
+A few coins lie here.~
+~
+20 0 1
+0 0 1 20
+0 0 0 6 -1
+#1335
+dress antique lace bodice~
+&Wan antique white dress with a lace bodice&n~
+An antique white dress lies here in a heap, covered in stone dust.~
+~
+11 134217728 9
+0 0 0 0
+2 6 1 6 -1
+E
+dress antique white~
+   This antique white dress has faded to an ivory color by time, and by the
+slow destructive weight of stone dust that once cloaked it.  It has a bodice of
+lace in a delicate pattern of leaves, and a neckline that must certainly have
+been considered shameless in its time.  Its voluminous folds fall gracefully to
+the floor when worn, flowing gently behind the wearer in a stream of silk.    
+~
+#1336
+scroll parchment faded wax~
+a parchment scroll~
+A parchment scroll sealed with faded blue wax lies here.~
+~
+12 65536 1
+0 0 0 0
+1 5 1 4 -1
+E
+scroll parchment blue wax~
+   This dusty old parchment scroll is sealed with a drop of faded blue wax,
+which cracks and falls to the floor as you open the scroll.  In a flourishing
+hand, barely legible with the passage of time, are the words : "This parchment
+redeemable for 100 pewter" and is signed simply, "Gelde Village Usury.  "
+~
+#1337
+robes simple druidic~
+a set of druidic robes~
+A set of druidic robes are here, neatly folded.~
+~
+11 978944 1025
+0 0 0 0
+4 6 1 5 -1
+E
+robes simple Druidic~
+   Simple robes made of a somewhat coarse muted brown material, these are
+intended more for protection from the elements than for style.  The interior of
+the robes has been lined with a soft flannel for added warmth.  A large hood
+made from soft flannel wraps around the neckline, and can be doubled as a
+scarf.    
+~
+A
+17 -1
+#1338
+cloak forest green~
+a forest green cloak~
+A forest green cloak lies here.~
+~
+9 192512 1025
+1 0 0 0
+3 5 1 4 -1
+E
+cloak forest green~
+   This soft cloak, evidently made by a talented seamstress, is of very fine
+quality.  Though of simple design, its fabric is thick and full, falling nearly
+to the ankle.    
+~
+#1339
+delete me~
+delete me~
+A long pair of white lace gloves has been dropped here.~
+~
+9 1024 129
+1 0 0 0
+1 10 1 4 -1
+E
+gloves white lace~
+   These gloves are made of soft white silk and wrapped with delicate lace.  
+They extend to the elbow, and give the wearer a touch of elegance in any
+season.    
+~
+#1340
+cloak white bear fur~
+&Wa thick cloak lined with white bear fur&n~
+A white cloak lies here.~
+~
+11 0 1025
+0 0 0 0
+4 7 1 4 -1
+E
+cloak white~
+   This warm looking cloak is made from bear fur, and falls snugly from the
+shoulders to mid-thigh.    
+~
+#1341
+mace heavy steel spikes~
+a heavy steel mace with rusted spikes~
+A steel mace with rusted spikes lies here.~
+~
+5 4096 8193
+0 2 7 9
+5 500 250 15 -1
+#1342
+hammer battle battle-hammer~
+a runed two-handed battle hammer~
+A two-handed battle hammer lies here.~
+~
+5 1073745920 8193
+0 2 8 6
+10 600 300 16 -1
+#1343
+spear vallenwood cruel barbed~
+a long vallenwood spear with a cruel, barbed head~
+A vallenwood spear has been left here. ~
+~
+5 28672 24577
+0 3 5 11
+5 675 338 18 -1
+A
+18 1
+#1381
+robes clerical unholy yellow runes black~
+&Ka set of black clerical robes trimmed with unholy &Yyellow&K runes&n~
+A set of black clerical robes have been left here.~
+~
+11 842496 9
+0 0 0 0
+0 4480 2240 22 -1
+A
+17 -8
+A
+24 -2
+#1383
+DELETE ME~
+DELETE ME~
+A note containing Jenrodan's description lies here.~
+~
+16 65540 1
+0 0 0 0
+0 0 0 1 -1
+E
+description note~
+   An elven man scans the area.  He wears well worn clothse the color of t he
+forest.  At his side hangs a sword and a bow lies across his back.  He wears
+the pictoral tattoos of a kagonesti on his body.  His face is a mask of
+stoicism, but his eyes show a calm inside a storm of rage.    
+~
+#1384
+box ornately carved~
+a small, ornately carved box~
+A small, ornately carved box of cherrywood rests here.~
+~
+15 65536 1
+10 1 -1 0
+0 0 0 0 -1
+E
+box ornately carved~
+   This small, ornately carved box of cherrywood has a delicate thread of gold
+fashioned around its softly curved edges.  Its interior is wrapped in plush
+velvet, a deep forest green in color.  The back of the gold-hinged lid has been
+fashioned with a crystal clear mirror.    
+~
+#1385
+boots elven white~
+&Wa pair of elven boots, crafted of white suede&n~
+A pair of white elven boots lies here.~
+~
+9 1019215872 65
+5 0 0 0
+2 22 2 14 -1
+E
+boots elven white~
+   These elven boots are made of a luxuriously soft suede and lace up just
+above the ankle.    
+~
+#1386
+beautiful satin weddng gown~
+&Wa beautiful satin wedding gown with a delicate lace bodice&n~
+A lacy white wedding gown lies here in satin folds.~
+~
+9 134217728 9
+2 0 0 0
+3 93 9 4 -1
+E
+gown wedding white~
+   This beautifally fashioned wedding gown is made of soft folds of satin that
+fall gracefully below the knee.  Its bodice is wrapped in a delicate lace
+pattern, with artificial soft white roses and ivy interwoven throughout.  The
+skirt of the gown has a sparse pattern of inlaid gems, adding muted purple,
+pink and soft green to the play of colors over its pure white expanse.    
+~
+#1387
+lantern wrought-iron~
+a highly efficient wrought-iron lantern~
+A wrought-iron lantern lies here.~
+~
+1 1048576 16385
+0 0 80 0
+0 0 1 10 -1
+E
+lantern~
+Nothing.
+~
+#1388
+earring sugilite crystal ~
+&ma silver earring set with a small sugilite crystal&n~
+A silver earring with a small purple crystal has been left here.~
+~
+8 0 65537
+0 0 0 0
+1 1100 550 18 -1
+E
+undefined~
+Nothing.
+~
+#1389
+DELETE ME~
+DELETE ME~
+A black medallion of Takhisis is lying here.~
+~
+1 2689792 5
+0 0 -1 0
+4 700 25 5 -1
+E
+medallion black takhisis~
+   This heavy medallion is completely devoid of color, seemingly made from the
+very substance of darkest night.  In its center is the raised emblem of a black
+crescent.    
+~
+A
+17 -3
+#1390
+delete me~
+delete me~
+A necklace of brutally severed elven heads lies here.~
+~
+11 535898624 5
+0 0 0 0
+0 0 0 0 -1
+#1391
+delete me~
+delete me~
+A tiny skeleton, perhaps that of a dwarf or a child, lies here.~
+~
+11 535816704 1064961
+0 0 0 0
+0 0 0 0 -1
+E
+skeleton tiny~
+   It is a tiny skeleton, with pieces of flesh still rotting away from it.    
+~
+#1392
+band ring silver tiger eye~
+&ya silver band set with a small tiger eye gem&n~
+A wide silver ring lies here.~
+~
+8 0 3
+0 0 0 0
+1 1100 550 15 -1
+E
+undefined~
+Nothing.
+~
+#1393
+delete me~
+delete me~
+An elaborately decorated sword with a gleaming hilt lies here.~
+~
+5 1067414592 24577
+0 0 0 0
+5 0 0 34 -1
+E
+sword gleaming hilt elaborately~
+   This elaborated decorated sword is the fabled Sword of Justice.    
+~
+#1394
+DELETE ME~
+DELETE ME~
+A slice of wedding cake is here.~
+~
+19 65540 1
+2 0 0 0
+1 0 0 2 -1
+E
+cake wedding slice~
+   It is a thick slice of white wedding cake with sweet white frosting roses
+and strawberry glaze.    
+~
+#1395
+delete me~
+DELETE ME~
+A tempting assortment of fruit lies here.~
+~
+19 65540 1
+14 0 0 0
+1 0 0 2 -1
+E
+fruit assortment tempting~
+   This array of fresh fruits includes a few apples, both red and yellow, along
+with a pear, a plump peach, a banana and some wild cherries.    
+~
+#1396
+delete me~
+DELETE ME~
+A sparkling waterfall stands to the south, its waters falling far below.~
+~
+23 65540 0
+99999 99999 15 0
+100004 0 0 2 -1
+E
+sparkling water waterfall~
+   The waters of this small waterfall are pristine, sparkling with reflected
+light.    
+~
+#1397
+delete me~
+DELETE ME~
+A wedding cake is here.~
+Nothing.
+~
+15 65540 1
+15 0 -1 0
+0 0 0 2 -1
+E
+cake wedding~
+   This three-tiered wedding cake has been decorated with white frosting roses,
+and has delicate drippings of strawberry glaze falling from the top tier to the
+bottom.  Surrounding the base of the cake are plump, juicy strawberries.    
+~
+E
+undefined~
+Nothing.
+~
+#1398
+delete me~
+DELETE ME~
+A crystal chalice stands here, full of ceremonial wine.~
+~
+17 65556 1
+50 50 2 0
+55 0 0 0 -1
+#1399
+delete me~
+DELETE ME~
+A smooth ringband made of beautiful white gold, lies here.~
+~
+9 0 3
+1 0 0 0
+1 109 11 2 -1
+E
+undefined~
+Nothing.
+~
+E
+band inscription~
+As this band forms an unbroken circle, so too does it symbolize the unbroken
+love of you and I, as we join to become one in heart, mind and soul.
+                            To My Beloved
+~
+$~

@@ -1,0 +1,297 @@
+#5400
+wide sarcophagus~
+a wide sarcophagus~
+A wide sarcophagus is hanging under you feet.~
+~
+15 0 0
+300 1 -1 0
+1000 0 0 1 -1
+E
+wide sarcophagus~
+   A wide, stone sarcophagus hangs below your feet and makes up the
+floor of the platform here.  It sways slowly in the strong wind.
+~
+#5401
+frozen body~
+a frozen body~
+A frozen body lies within the sarcophagus.~
+~
+0 0 0
+0 0 0 0
+150 0 0 1 -1
+E
+frozen body~
+   The long dead corpse of a mage lies within the confines of the stone
+sarcophagus.  Wrapped only in a thin sheet of fabric, the cold has frozen
+it solid and the white features of the face stare up blankly.
+~
+#5402
+dehydrated mummy~
+a dehydrated mummy~
+A dehydrated mummy lays outstretched on the ground.~
+~
+0 0 0
+0 0 0 0
+400 0 0 1 -1
+E
+dehydrated mummy~
+   A body that has been stored indoors for some time in the dry cold
+has been since placed outside.  Its flesh has pulled back but the features
+are still obvious.  It looks out with a strange grin from the retraction
+of its lips.
+~
+#5403
+corpse black mage~
+the corpse of a black mage~
+The corpse of a black mage sits upright beside the wall.~
+~
+15 0 0
+200 1 -1 0
+300 0 0 1 -1
+E
+corpse black mage~
+   The heavily decayed corpse of a man in black robes leans up against
+the wall, placed into a seated position with its arms around its knees.
+The flesh is peeling off in large pieces and the bones have begun to
+poke through to the surface.
+~
+#5404
+strip human flesh~
+a strip of human flesh~
+A strip off human flesh peeled from a corpse.~
+~
+19 0 1
+5 0 0 5
+1 4 2 2 -1
+E
+strip human flesh~
+   A thin piece of rotting flesh removed from the corpse of someone
+long dead gives off a foul odor.  Small hairs are still apparent poking
+through the mass of putrified meat.
+~
+#5405
+high backed chair~
+a high backed chair~
+A high backed chair decorated with geometric patterns sits in the middle of the room.~
+~
+12 0 0
+0 0 0 0
+750 0 0 1 -1
+E
+high backed chair~
+   A large chair covered in an intricate pattern of lines in a geometric
+sequence sits in the middle of a circle of symbols.  It has a high back
+but no cushion for the seat.
+~
+#5406
+alcove~
+an alcove~
+An alcove has been chipped into the wall.~
+~
+15 0 0
+300 0 -1 0
+1000 0 0 1 -1
+E
+alcove~
+   A rather crudely finished alcove has been inset into the wall of the
+room.  It is rectangular an lays out parallel with the floor.  Although
+dark it is possible to see that there is something inside.
+~
+#5407
+body mage frozen~
+the body of a freshly frozen mage~
+The body of a freshly frozen mage rests in the alcove.~
+~
+12 0 0
+0 0 0 0
+400 0 0 1 -1
+E
+body frozen mage~
+   It appears as though one of the mages in the tower has purposefully
+lain out here in order to freeze to death.  Only recently dead, the
+relative warmth of the tower has slowed the freezing process, its flesh
+still pliable and soft though cold to the touch.
+~
+#5408
+stone chair~
+a stone chair~
+A stone chair hangs out over the snowy void.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+stone chair~
+   A stone chair hangs, suspended out over the edge of the cliff.
+Although apparently stable, it does move somewhat in the wind and it
+would be difficult to get into.
+~
+#5409
+long thin table~
+a long, thin table~
+A long, thin table sits off to the side near the wall.~
+~
+15 0 0
+200 1 -1 0
+500 0 0 1 -1
+E
+long thin table~
+   A long and thin table covered in glass vials and beakers dominates
+the room.  It is obviously set up for conduction some sort of experiments
+involving alchemy and chemicals.
+~
+#5410
+jar smoking acid~
+a jar of smoking acid~
+A jar of smoking acid, lightly capped sits here.~
+~
+3 0 16385
+10 1 1 98
+1 60 15 10 -1
+E
+jar smoking acid~
+   A small, thick walled jar with a frail looking cap filled with a
+liquid that gives off smoke and bubbles furiously feels almost warm to
+the touch.  Very little pressure would be needed to spill its contents.
+~
+#5411
+warm bonfire~
+a warm bonfire~
+A warm bonfire radiates some welcome heat.~
+~
+24 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+warm bonfire~
+   A small fire made from a few thin scraps of wood pulled up from the
+planking of the platform burns weakly but gives off enough heat to dispell
+the cold of the cliff.
+~
+#5412
+long white feather~
+a long white feather glistening with frost~
+A long, white feather coated in white frost rolls about in the breeze.~
+~
+11 4899840 16385
+0 0 0 0
+1 190 47 11 -1
+E
+long white feather~
+   A large white feather plucked from some large bird is covered in a
+thin coating of pale frost.  Although thin it is extremely stiff.
+~
+A
+17 -3
+#5413
+dirk jagged quartz~
+a jagged dirk of pure crystalline quartz~
+A jagged dirk of pure crystalline quartz shimmers in the light.~
+~
+5 5169152 1006641153
+0 2 4 11
+3 668 334 16 -1
+E
+jagged dirk quartz~
+   A small razor sharp dirk has been painstakingly chipped out of a
+chunk of pure crystalline quartz.  Although as clear as glass, it is
+extremely hard, and its serrated blade tears the flesh as it cuts.
+~
+A
+19 1
+#5414
+thick smock singed black~
+a thick smock singed black from fire~
+A thick smock singed black from fire lays stiffly on the ground.~
+~
+9 442368 1025
+7 0 0 0
+5 690 345 16 -1
+E
+thick smock singed black~
+   A thick piece of tanned hide strengthened with tree pitch has been
+turned almost completely black from its origional white color.  Years of
+exposure to intense heat and dust have burned it beyond repair.
+~
+#5415
+pulsing heart ice elemental~
+the pulsing heart of an ice elemental~
+The pulsing heart of an ice elemental flickers on the ground.~
+~
+1 0 16385
+0 0 300 0
+2 420 210 17 -1
+E
+pulsing heart ice elemental~
+A tiny crystal of light flickers dimly when held, sensing the presence
+of another life form.  Cracked from the body of a creature of ice, it is
+very cold to the touch, but never melts or even warms up.
+~
+A
+24 -1
+#5416
+scalp long blue hair~
+a scalp covered with long, flowing blue hair~
+A scalp covered with long, flowing blue hair sits here giving of a haze.~
+~
+11 672256 17
+0 0 0 0
+1 1080 540 17 -1
+E
+scalp long blue hair~
+   The scalp of some small being has been cruelly torn off and the flesh
+inside scraped out.  Long, blue hair flows down from it and blows gently
+in any breeze.
+~
+A
+17 -4
+A
+24 -1
+#5417
+pair frayed cloth armguards silver chains~
+a pair of frayed cloth armguards decorated with hanging silver chains~
+A pair of frayed cloth armguards decorated with hanging silver chains rustles in the breeze.~
+~
+9 5160960 257
+5 0 0 0
+3 825 412 17 -1
+E
+pair frayed cloth armguards silver chains~
+   A set of seemingly frail cloth armguards have been adorned with numerous
+links of delicate silver chain.  They clink faintly as they move and
+small blue sparks emit from where they contact each other.
+~
+A
+9 3
+#5418
+tiny flare ethereal fire~
+a tiny flare of ethereal fire~
+A tiny flare of ethereal fire burns faintly.~
+~
+3 4194304 16385
+16 3 3 5
+0 350 175 16 -1
+E
+tiny flare ethereal fire~
+   A small flame that erupts from no visible source burns in a faint
+faint light.  It produces no sensation of heat when held but feels very
+hot when touched from above.  Small flames erupt occationally and reach
+out to anyone around it.
+~
+#5419
+short red staff metal ball~
+&Ra short red staff with a round metal ball tied to a chain at each tip&n~
+A short red staff lays on the ground.~
+~
+5 4767808 8193
+0 2 5 6
+4 460 230 15 -1
+E
+short red staff metal ball~
+   The staff is made from a short piece of oak that has been wrapped in
+a red leather cord that has been closely wound around its diameter.  At
+each end a short chain attaches to small but heavy metal ball.
+~
+A
+19 2
+$~

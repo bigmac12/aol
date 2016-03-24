@@ -1,0 +1,794 @@
+#6500
+corpse man~
+a fresh corpse~
+A fresh corpse lies stretched face first over a rock.~
+~
+12 4 0
+0 0 0 0
+120 0 0 1 -1
+E
+fresh corpse~
+   This corpse appears to be fairly recent, blood still drips down the rock
+upon which he lies.  He seems to have been brutally stabbed in the back.  This
+man looks as though he were quite young, and as though he had been wandering
+the forest for quite some time.    
+~
+#6501
+large flat stone~
+a large flat rock~
+A large flat rock lays upon the ground.~
+~
+12 0 0
+0 0 0 0
+0 0 0 1 -1
+E
+large flat stone~
+   This large flat rock, appears to be made out of a light weight stone, and
+seems rather out of place sitting here in the woods, when you have seen very
+few other stones of this size.    
+~
+#6520
+steel ring ruby~
+a steel ruby ring~
+A steel ruby ring lies alone upon the floor.~
+~
+8 0 3
+0 0 0 0
+3 325 80 8 -1
+E
+steel ruby ring~
+   This ring looks fairly ordinary being cast of steel.  A small ruby has been
+set into the band, and gleams as the light reflects off of it.  You see some
+letters have been scratched INSIDE the band.    
+~
+E
+inside letters band scratched~
+
+Inside of the ring you see the following letter scratched:
+     d-s     n-p
+     u-i     q-f
+     a-u     l-o
+     e-h     v-a
+     c-b     z-e
+~
+#6521
+dagger silver glittering~
+a glittering silver dagger~
+A glittering silver dagger catches the light, and reflects it back.~
+~
+5 2367488 1006657537
+0 2 3 11
+5 48 12 12 -1
+E
+glittering silver dagger~
+   This dagger is finely made, so that you can see your reflection shining back
+from the blade.  It catches the light in an almost blinding way.    
+~
+#6522
+stool barstool~
+a tall barstool~
+A tall barstool sits here.~
+~
+5 1073807360 8193
+0 2 3 5
+5 50 13 10 -1
+E
+tall barstool stool~
+   This is a tall barstool, most often used by a weary traveler in need of
+taking a load off their feet.  In a fight though, it would be easily picked up
+and swung.    
+~
+#6523
+table chairs~
+a set of table and chairs~
+A table sits here with four chairs around it.~
+~
+15 0 0
+20 0 -1 0
+300 0 0 1 -1
+E
+table~
+   The table is well scarred, from many a dagger being drawn and thrust into
+the table.  The table is also stained from spilled mugs and ale.    
+~
+E
+chairs~
+   The chairs around the table look sturdy, but not the most comfortable.  
+Then again, what more can you expect from an all profit organization.    
+~
+#6530
+black padded leather shoes~
+a pair of padded black, leather shoes~
+A pair of black padded leather shoes lay upon the floor.~
+~
+11 146800640 65
+0 0 0 0
+3 109 27 8 -1
+E
+black padded leather shoes~
+   This pair of black shoes are padded, to provide comfort and manoeuverability
+for the wearer.  They are padded so that the wearer makes hardly a sound as
+they walk across most surfaces.    
+~
+A
+14 3
+A
+17 -2
+#6531
+stream ankle deep~
+an ankle deep stream~
+A stream flows through the cavern here, almost ankle deep.~
+~
+23 0 0
+300 290 0 0
+295 0 0 1 -1
+E
+stream ankle deep~
+   This shallow stream flows through the cave.  As it reaches the other side of
+the cave it flows through a small hole and disappears into the darkness.    
+~
+#6533
+bladed hard leather gloves~
+a pair of bladed, hardleather gloves~
+A pair of hard leather gloves lies upon the floor, with what seems to be blades sticking out of them.~
+~
+11 2109440 129
+0 0 0 0
+7 700 113 14 -1
+E
+bladed hard leather glove~
+   This is a glove made out of hard leather.  On the top side of the glove a
+long blade has been attached, about three hands long, making it a rather
+fearsome looking blade.    
+~
+A
+19 1
+A
+17 -1
+#6540
+mug large pewter ~
+a pewter mug~
+A large pewter mug sits here.~
+~
+17 0 1
+6 6 3 0
+11 8 2 1 -1
+E
+large pewter mug~
+   This is a simple large pewter mug.  It is well dented and scratched, and has
+seen lots of use.    
+~
+#6541
+bottle dark brown~
+&ya dark brown bottle&n~
+A dark brown bottle sits here.~
+~
+17 0 16385
+12 12 1 0
+17 6 1 1 -1
+E
+dark brown bottle~
+   This is a simple bottle made of thick, dark brown glass.  It is devoid of
+markings, save an etching of a closed eye upon the bottom.    
+~
+#6542
+catfish grilled portion generous~
+a generous portion of grilled catfish~
+A generous portion of grilled catfish sits here steaming lightly.~
+~
+19 0 1
+18 0 0 0
+0 18 1 1 -1
+E
+catfish grilled portion generous~
+   This is a generous portion of grilled, breaded catfish.  It has been
+seasoned with a variety of herbs and lightly sprinkled with lemon juice.  A
+small portion of fried, seasoned potatoes has been included with it.  All in
+all, this would make a delicious and filling meal.    
+~
+#6543
+shot glass whiskey~
+a shot glass~
+A small shot glass sits here.~
+~
+17 0 1
+1 1 5 0
+2 4 1 1 -1
+E
+shot glass~
+   This is a small clear glass shot.  Made for just taking a single taste of a
+liquid...  Most of the time alcohol.    
+~
+#6544
+glass tall red tinted~
+&ra tall, red-tinted glass&n~
+A tall, red-tinted glass lies forgotten here.~
+~
+17 0 16385
+10 10 7 0
+15 8 1 1 -1
+E
+glass tall red tinted~
+   This is a tall, dark red-tinted glass.  An intricate design of flames has
+been engraved onto the sides of the glass, rising all the way to the rim.  On
+the bottom of the glass is an etching of a closed eye.    
+~
+#6545
+kebab beef peppers hot grilled~
+a grilled beef kebab with hot peppers~
+A grilled beef kebab with hot peppers sits here, steaming.~
+~
+19 0 1
+8 0 0 0
+0 8 0 1 -1
+E
+kebab beef peppers hot grilled~
+   Juicy chunks of grilled beef and hot peppers are skewered upon this small
+metal stick.  They have been covered in seasonings and the juice from the beef,
+and smell delicious.  The portion is rather nice as well, and would certainly
+tide a person over until a larger meal could be had.    
+~
+#6546
+chicken onions grilled plate~
+a plate of grilled chicken and onions~
+A plate of grilled chicken and onions sits here, steaming.~
+~
+19 0 1
+12 0 0 0
+0 12 0 1 -1
+E
+chicken grilled onions~
+   This is a decently sized portion of grilled chicken breast, covered with
+grilled onions and a spiced gravy of some kind.  It smells delicious, though
+the cook was rather liberal with the onions.    
+~
+#6547
+duck roast potatoes portion~
+a large portion of roast duck and potatoes~
+A large portion of roasted duck and potatoes sits here steaming aromatically.~
+~
+19 0 1
+24 0 0 0
+0 24 0 1 -1
+E
+duck roast potatoes portion~
+   This generous portion of duck has been roasted to perfection.  The meat is
+tender and has held in the natural juices, while the skin is crisp and
+flavorful.  The potatoes have likewise been cooked to perfection, and spiced
+with garlic and butter.  This meal would be more than enough to fill even the
+hungriest of bellies.    
+~
+#6548
+breeches linen simple black~
+&Ka pair of simple, linen breeches&n~
+A pile of black linen lies here forgotten.~
+~
+11 1048576 33
+0 0 0 0
+1 1430 715 20 -1
+E
+breeches linen simple black~
+   Functionally designed, these breeches are designed to provide a loose and
+comfortable fit.  They are made of dyed black linen, which provides a light,
+airy garment.  A drawstring has been sewn into the waistband, making them
+adjustable to fit just about anyone.    
+~
+A
+17 -3
+A
+14 5
+#6549
+sleeves form fitting woolen wool black~
+&Ka pair of form-fitting woolen sleeves&n~
+A pile of black wool lies forgotten here.~
+~
+11 1048576 257
+0 0 0 0
+1 700 113 16 -1
+E
+sleeves form fitting woolen wool black~
+   These sleeves are made from a sturdy wool, dyed black in color.  Despite the
+material, they're smooth in touch and appearance, and are form-fitting for the
+length of the arm.  They flare out at the wrists slightly, providing ease of
+movement.    
+~
+A
+17 -2
+A
+18 1
+#6550
+rope grapple~
+a rope and grapple~
+A rope and grapple lays upon the ground.~
+~
+12 0 1064961
+0 0 0 0
+3 200 50 12 -1
+E
+rope grapple~
+   A steel tri-pronged grapple is firmly tied onto a sturdy rope.  The grapple
+has sharp tongs allowing it to grip on either stone or wooden surfaces.  This
+is excellent for scaling walls or other impenetrables.    
+~
+A
+14 10
+#6551
+twig moldy~
+a small, moldy twig~
+A small moldy twig lies upon the ground.~
+~
+3 0 1
+6 1 1 33
+1 420 105 6 -1
+E
+small green vial~
+   This small vial steams slightly with a foul stench. It is a small vial,
+containing only a few drops worth of a green liquid.    
+~
+#6552
+crystal blue vial~
+&Ca blue crystal vial&n~
+A crystal blue vial lays upon the floor.~
+~
+10 0 1
+6 43 0 0
+1 200 75 6 -1
+E
+crystal blue vial~
+   This vial is a crystal blue color and feels slightly cold to the touch.  It
+contains only a few drops of the blue liquid.    
+~
+#6553
+broken beer bottle~
+&ya broken beer bottle&n~
+The top of a broken beer bottle lies on the floor.~
+~
+5 65536 24577
+0 1 4 11
+3 22 0 4 -1
+E
+broken beer bottle~
+   This appears as though someone has shattered the bottom of this beer bottle,
+leaving a jagged and sharp bottom edge to it.    
+~
+#6565
+mantle heavy ivory pauldrons swathed cloth~
+&Wa mantle of ivory pauldrons, swathed in cloth&n~
+A pile of ivory and white cloth lies forgotten here.~
+~
+9 4096 1048577
+5 0 0 0
+10 3150 1575 25 -1
+E
+mantle heavy ivory pauldrons swathed cloth~
+   This mantle has a truly unique design, found only among the Khurnish
+plainsmen.  It has been designed with practicality as well as aesthetics in
+mind, and is truly the work of a master craftsman.  The mantle consists of
+ivory plates, beautifully carved and crafted into the shape of pauldrons.  The
+plainsmen of Khur use ivory for its beauty, as well as its sturdiness and
+excellent resistance to heat.  Thick, ivory-colored cloth has been swathed over
+the pauldrons, and attached via tiny silver pins.  When worn, the cloth would
+almost appear as an oversized collar of sorts.  The purpose of this is twofold;
+to provide warmth on chill desert nights, as well as being used to shield one's
+mouth and neck from the desert sands.  The fabric used is porous, allowing heat
+to escape but keeping out the wind.  The plainsmen often combine these mantles
+with a volumous, ivory-colored cloak of the same fabric.    
+~
+A
+14 10
+A
+13 10
+A
+18 -1
+#6566
+cloak voluminous heavy ivory colored~
+&Wa heavy, voluminous cloak of ivory-colored cloth&n~
+A pile of thick, ivory-colored cloth lies here.~
+~
+9 4096 1025
+5 0 0 0
+7 3150 1575 23 -1
+E
+cloak voluminous ivory colored~
+   This cloak is crafted of a thick, ivory-colored cloth and bears no adornment
+at all.  The material used is porous, allowing heat to escape but shielding the
+wearer from the wind and chill.  The entire garment is made from one very large
+piece of cloth, and would be recognizeable by those with the knowledge as the
+work of the plainsmen of Khur.  Often these cloaks will be coupled with a
+mantle of Khurnish design as well, providing protection from the desert heat
+and sands.    
+~
+A
+14 5
+A
+13 5
+#6567
+Khanjar dagger blade damascus silver inlaid~
+a silver-inlaid dagger with a damascus blade~
+A silver-inlaid dagger with a damascus blade lies here.~
+~
+5 0 1006657537
+0 3 8 14
+1 8736 4368 24 -1
+E
+Khanjar dagger blade damascus silver inlaid~
+   This beautiful weapon is known amongst the plainsmen of Khur as a Khanjur.
+Simply put it is a dagger, but what sets it apart from other daggers is its
+design.  Most Khurnish daggers are created with blades of damascus, chosen for
+its excellent ability to slice and cut.  This weapon is no exception, and bears
+an extremly sharp damascus blade.  The hilt has been crafted from regular
+steel, and is curved and forged in the shape of a horse's head.  The steel is
+inlaid with silver, accentuating the animal's features.  The Khurnish symbol
+for wind has been inlaid in silver upon the blade as well.    
+~
+A
+18 2
+A
+19 2
+#6568
+pump waterpump~
+a waterpump~
+A steel waterpump sits beside the bar, leaking occasionally.~
+~
+23 0 0
+9999 9999 0 0
+10004 0 0 0 -1
+E
+pump waterpump~
+   This is a dark, steel waterpump which sits besides the bar for the
+convenience of patrons.  It leaks occasionally, but not enough to create a
+mess.    
+~
+#6569
+sheath steel silver ornate inlaid~
+a beautiful, silver-inlaid steel sheath~
+An ornate steel sheath with silver inlay lies here.~
+~
+26 2105344 2049
+20 0 -1 0
+5 2000 1000 21 -1
+E
+sheath steel silver ornate inlaid~
+   This small sheath is designed to hold a dagger, a Khanjur specifically, and
+was crafted by the hands of Khurnish plainsmen.  The sheath is crafted of
+steel, with silver inlay forming swirling patterns all across its surface.  
+When struck by the sunlight, it creates a truly stunning effect.    
+~
+A
+24 -1
+A
+17 -2
+#6570
+knuckles brass~
+&ya pair of brass knuckles&n~
+A set of brass knuckles lies forgotten here.~
+~
+5 2101248 24577
+0 3 6 13
+1 4500 2250 21 -1
+A
+19 2
+A
+18 2
+#6571
+tattoo swirling tribal patterns black magenta~
+a tattoo of swirling &Kblack&n and &mmagenta&n patterns~
+A small ceramic container of black and magenta liquid lies here.~
+~
+11 135331864 1741309
+0 0 0 0
+0 1440 720 20 -1
+E
+tribooc~
+OOC: This item once placed on a wear location, cannot be removed. Just as in
+real life, once you put a tattoo on you can't take it off. Even an immortal
+won't be able to remove this item from you. The only way to remove it is by
+dying. (in any case, not very realistic for it to just 'disappear')
+
+If you plan to use it, you need to wear using the specific location you want
+it to be placed on. ie, 'wear tattoo arms', or 'wear tattoo wrist'. If you
+don't specify, it will choose a spot for you.
+
+The available locations are:
+
+NECK HEAD LEGS HANDS ARMS WRIST ANKLE BACK SHOULDER FEET BODY FACE
+
+When using these kinds of items, please use common sense. If you have hair,
+don't wear it on your head. Females probably shouldn't wear it on the BODY,
+since you can't wear anything else over it. Yes, it may be unrealistic, but
+that's how the code works. It doesn't matter if you SHOULD be able to wear
+and item over your tattoo, you just can't. :)
+~
+E
+tattoo swirling tribal patterns black magenta~
+   This tattoo has been drawn by a master of the art; so fine is the detail
+that one could almost believe this to be a natural part of a person's skin.  
+Whatever substance was used to create this tattoo provides a vibrant, lasting
+color.  Lines of midnight black, and deep magenta form beautiful and
+inexplicable swirling patterns.  To those with the knowledge, they would
+recognize these markings as the traditional tattoos used by the plainsmen of
+Khur.  To others, they simply provide a beautiful and mysterious decoration.  
+(See tribooc for ooc details, please)
+~
+A
+18 1
+A
+19 1
+#6572
+vial sands desert clear~
+a small, clear vial of desert sands~
+A small vial filled with sand lies forgotten here.~
+~
+8 1048832 16389
+0 0 0 0
+0 1000 500 24 -1
+E
+vial sands desert clear~
+   This small glass vial hangs from a simple leather cord, and is clear as the
+air itself.  Held within are the smooth, golden sands of the Khur desert.  The
+vial lacks any markings, and it seems as though this item was made purely as a
+charm of sorts.  Holding it, one can feel a slight warmth coming from the vial.
+~
+A
+20 -2
+A
+24 -1
+A
+17 -1
+#6573
+desk mahogany~
+a mahogany desk~
+A detailed mahagany desk sits here, covered with various documents.~
+~
+12 0 0
+0 0 0 0
+999 0 0 1 -1
+E
+desk mahogany~
+   This large desk is crafted of mahogany, and is free from damage of any kind.
+Indeed, it is in pristine condition, and is detailed with carvings of warriors
+battling dragons and ogres, and other such epic scenes.  The fine quality of
+the desk itself is contrasted by the fact that it's covered in a pile of
+documents.    
+~
+#6574
+peridot gem brilliant cut~
+&Ga brilliant cut peridot gem&n~
+A cut peridot gem lies here, glittering in the light.~
+~
+8 0 16385
+0 0 0 0
+0 1000 1 1 -1
+E
+peridot gem brilliant cut~
+   This is a brilliant green gem, commonly known as a peridot.  Not to be
+mistaken with emeralds, peridot are of a lighter color, usually pear or lime
+green.  This particular peridot is rather large, and has been cut to full
+potential in order to reflect a gorgeous amount of light.    
+~
+#6575
+aquamarine teardrop gods tear sparkling paladine~
+&Ca sparkling teardrop aquamarine&n~
+A sparkling teardrop aquamarine lies here, glittering brilliantly.~
+~
+8 1048833 16385
+0 0 0 0
+0 12000 1200 21 -1
+E
+aquamarine teardrop gods tear sparkling~
+   This is an aquamarine gem, that much is obvious from the stone's color.  
+However, this is no ordinary aquamarine.  This is a teardrop aquamarine, a very
+rare treasure.  It has not been cut in this shape, this stone was formed in the
+shape of a tear naturally.  This type of aquamarine is what is known as a "Gods
+Tear" or "Paladine's Tear", and is very, very valuable.  It is believed that
+these stones are the solidified tears of the gods themselves.  More
+specifically, it is believed that they are Paladine's tears, shed for his
+children, those number of the metallic dragons that Takhisis corrupted in the
+Age of Starbirth.  As such, not only are these stones of high value to
+collectors, they are also highly prized among the clergy of both Takhisis and
+Paladine, though for different reasons.  Whenever one of these rare stones is
+found it is always in perfect condition and glitters with an inner light; only
+serving to perpetuate the legends further.    
+~
+A
+18 1
+A
+19 1
+A
+13 20
+#6576
+shortsword wickedly serrated blade dark steel~
+&Ka dark steel shortsword, with a wickedly serrated blade&n~
+A dark steel shortsword with a wickedly serrated blade lies here.~
+~
+5 2109440 75522049
+0 3 6 14
+3 2800 1400 25 -1
+E
+shortsword wickedly serrated blade dark steel~
+   This shortsword is crafted of darkened, almost blackened steel.  It has been
+forged with a vicious looking blade, bearing a serrated edge on both sides.  
+While this design allows the weapon to cause more damage, it also makes it
+alittle unbalanced.  An experienced warrior would have no trouble taking to
+this weapon rather quickly however.  Overall it is a sturdy, functional weapon
+that is sure to make a statement.    
+~
+A
+19 2
+#6577
+belt decorated leather~
+&ya decorated leather sword belt&n~
+A sword belt lies in a heap on the ground.~
+~
+7 2109440 2049
+0 0 0 0
+1 1000 500 20 -1
+E
+belt decorated leather~
+   This is a leather belt, lightly decorated along its length with a simple
+knotwork pattern.  More specifically however, it is a sword belt and is
+designed to hold one's scabbard.    
+~
+A
+17 -3
+A
+14 5
+#6578
+bracelet braids intertwined leather~
+&ya bracelet of intertwined braids of leather&n~
+A bracelet of intertwined braids of leather has been forgotten here.~
+~
+9 1048832 4097
+1 0 0 0
+0 800 266 15 -1
+E
+bracelet braids intertwined leather~
+   This bracelet is rather simple in design.  It is made from three strips of
+leather which have been intertwined together; one brown, one black, and one
+burgundy.  Several small beads of jasper are threaded randomly among the
+braids.    
+~
+A
+14 5
+A
+13 10
+#6579
+scroll parchment leather cord tied~
+a parchment scroll, tied with leather cord~
+A parchment scroll, tied with leather cord lies here.~
+~
+2 64 1
+20 1 57 0
+0 1500 750 20 -1
+E
+scroll parchment leather cord tied~
+   This is a simple scroll of parchment, tied with a leather cord.  When
+unfurled, one can view the writing; the spidery language of magic.  Little
+seems out of the ordinary about it.  The writing is split into two distinct
+sections.    
+~
+#6580
+stream fetid water~
+a stream of fetid smelling water~
+A stream of fetid smelling water flows along a crack in the floor.~
+~
+23 0 0
+100 100 0 4
+500 0 0 1 -1
+E
+stream fetid water~
+   This small stream winds its way through the cracks on the floor of these
+halls and it gives off a fetid smell, not at all comforting to your stomach.  The
+water is a slight greenish color.    
+~
+#6581
+chain cuff broken~
+a broken chain cuff~
+A chain attached to a cuff, lays broken on the floor.~
+~
+9 285618176 4097
+2 0 0 0
+6 312 81 12 -1
+E
+chain cuff broken~
+   This is a simple steel cuff, attached to a link of chain.  These look as
+though they have been badly scratched and broken.    
+~
+A
+13 4
+#6582
+stone sharp shard~
+a sharp shard of stone~
+A sharp shard of stone lies on the floor.~
+~
+5 65536 8193
+0 1 5 3
+4 0 0 5 -1
+E
+stone sharp shard~
+   This is a gray piece of stone, broken off of something. It has been scraped
+to the point where it is semi-sharp.    
+~
+#6583
+handkerchief blood~
+a blood speckled handkerchief~
+A blood speckled handkerchief lies upon the floor.~
+~
+13 0 16385
+0 0 0 0
+2 1 1 5 -1
+E
+handkerchief blood~
+   This once white handkerchief is now dirty and speckled with blood.  It
+might of once been of fine cloth, but now it is little more then a rag.    
+~
+#6595
+vial small silver~
+a small silver vial~
+A small silver vial lies upon the floor.~
+~
+10 1048577 1
+5 43 0 0
+6 255 64 12 -1
+E
+vial small silver~
+   This small vial has a slightly chilled feel to it.  It feels as though it has
+been kept on ice for quite some time.  The vial itself is a silver metallic
+container.    
+~
+#6596
+key small simple~
+a small simple key~
+A small simple key lies upon the floor.~
+~
+18 4 16385
+0 0 0 0
+2 0 0 1 -1
+E
+key small simple~
+   This key is a small steel key, with just a simple design.    
+~
+#6597
+chest large wooden~
+a large wooden chest~
+A large wooden chest sits against the wall here.~
+~
+15 0 0
+10 13 6596 0
+200 0 0 1 -1
+E
+chest large wooden~
+   This is a large wooden chest used by the cleric to store her materials.  
+There is a simple lock on the chest.    
+~
+#6598
+spring fresh water~
+a fresh spring of water~
+A fresh spring of water pours out the wall here, and falls into a natural basin.~
+~
+23 0 0
+900 800 15 0
+805 0 0 1 -1
+E
+spring fresh water~
+   A thin stream of crystal clear water flows out of the wall here.  It
+follows natural grooves that have been cut into the stone from many years of
+water flow.  As it reaches the bottom it pours into a deep basin made in one
+of the stones.    
+~
+#6599
+grotesque corpse table~
+a grotesque corpse~
+A grotesque corpse lies upon a wooden table here.~
+~
+13 0 0
+0 0 0 0
+300 0 0 1 -1
+E
+grotesque corpse table~
+   This corpse is still slightly warm, and yet looks as though it has been
+rotting here for weeks or months even.  Judging by what is left the best you
+can guess is that it was about 5 feet tall, beyond that nothing else can be
+recognized as to race, or the person.    
+~
+$~

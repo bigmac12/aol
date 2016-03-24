@@ -1,0 +1,415 @@
+#6400
+a hollow indentation~
+a hollow indentation in the path~
+A hollow indentation in the cobblestone path where a stone was once placed.~
+~
+15 2 1
+0 0 0 0
+35 0 0 0 -1
+E
+hollow hole indentation~
+   This is a shallow hole in the dirt pathway.  It looks like it once held one
+of the stones that paved the road, but the stone is now missing.    
+~
+#6401
+ring~
+a gold and ruby signet ring~
+A gold signet ring, chased with crimson rubies.~
+~
+9 142606400 3
+0 0 0 0
+1 2549 312 14 -1
+A
+2 -4
+#6402
+fountain~
+a marble fountain filled with a red liquid~
+A desecrated marble fountain, filled with a dark crimson liquid.~
+   The water is slightly salty with a heavy, metallic tang to it.  It seems
+somewhat warm, as well.    
+~
+23 512 1
+1000 1000 13 1
+1000 0 0 0 -1
+E
+fountain desecrated marble blood~
+   This fountain was once elegant and beautiful, and rang with the sound of
+cascading, crystal clear water.  In the temple's heyday, this water may have
+been consecrated and blessed for travellers to drink before heading off on
+their way.  Those days, however are long past.  The fountain is full of a thick
+crimson liquid: blood.  The fountain has been desecrated, and painted with
+profane, unholy patterns.  The paint cannot be removed, as it has been blighted
+and cursed.  Something can barely be seen within the fountain's grisly depths,
+though it is hard to tell what.    
+~
+#6403
+amulet~
+a silver amulet of Paladine~
+A silver amulet, inlaid with a large dragon and suspended on a slender chain.~
+~
+9 2678017 5
+3 0 0 0
+1 1129 512 15 -1
+E
+amulet ~
+   The amulet shines with a soft glow as you look at it.  It is made of the
+finest platinum metal, painstakingly carved with the image of a large dragon,
+its wings outstretched and its expression benign.  The chain which suspends it
+is very delicate and fine, yet still incredibly strong.    
+~
+A
+24 -2
+A
+6 1
+#6404
+brazier~
+a golden brazier~
+An overturned golden brazier, used to burn incense, lies here.~
+   You sift through the burned ashes of the incense, your hangs getting covered
+in a fragrant soot.  You feel your fingers brush against something, but it may
+just be the walls of the brazier...    
+~
+15 0 1
+0 0 0 0
+200 5000 1000 15 -1
+E
+brazier golden~
+   This is a beaten gold incense burner.  It is a medium-sized golden bowl,
+chased with incricate figures of the gods of good, and decorated with tiny gems
+and stones.  It has been overturned from its resting place on the wall and now
+lies in a bashed-in heap on the floor, spilling incense onto the Temple's
+floor.    
+~
+E
+incense ashes~
+The incense is a fine, grayish colored ash that spills out from the 
+overturned brazier.  It smells fragrant and slightly sweet, and was 
+probably burned as some sort of religious offering to the gods of good.
+~
+#6405
+gold~
+a small pile of molten gold~
+A small, twisted heap of molten gold.~
+~
+8 0 1
+0 0 0 0
+3 7500 750 14 -1
+E
+gold pile molten metal~
+   This was probably once a pile of coins placed in the brazier as an offering.
+However, the heat from the fires in the brazier have melted the coins down into
+one solid, twisted lump of metal.    
+~
+#6420
+spear pine short well-crafted~
+a short, well-crafted pine spear~
+An elven spear, used in close combat, is here.~
+~
+5 12288 8193
+0 3 3 11
+5 675 338 15 -1
+E
+spear short sharp~
+   This short spear is common among the elven infrantry.  It's short handle and
+hand grooves makes this weapon easy to use and very effective.  Being elven in
+nature, this weapons appears to be extremely light also, making it a most
+formidable weapon.    
+~
+A
+19 1
+#6421
+cloak shifting colors colours elven~
+&gan elven cloak with shifting colours&n~
+A large cloak of shifting colors is lying here.~
+~
+11 0 1025
+0 0 0 0
+4 1073 500 15 -1
+E
+elven cloak fur trimmed~
+   This cloak shifts from dark green to a light tan color depending on the
+light.  The interior has added padding for comfort and warmth.  It seems quite
+useful for those traveling either in the plains or through forested regions.  
+
+~
+A
+14 10
+A
+2 1
+A
+17 -2
+#6422
+quithpa quith-pa bar~
+a bar of quith-pa~
+A bar of quith-pa rests here.~
+~
+19 0 1
+15 0 0 0
+1 50 5 0 -1
+E
+bar quitpa quith-pa~
+   Herbs, grasses, and nuts have been rolled and shaped into this stout bar of
+rations.  Although it does not look to be the most appetizing bit of food, it
+definitely seems to look quite filling.    
+~
+#6423
+anklet interwoven pine needles~
+&gan anklet of interwoven pine needles&n~
+A small anklet made of interwoven pine needles is concealed in the grass,~
+~
+9 0 131073
+3 0 0 0
+2 1620 810 17 -1
+E
+anklet interwoven pine needles~
+   Pliable, green pine needles have been woven together to form a solid band.
+The essence of life exudes from this anklet upon closer examination.    
+~
+A
+13 10
+#6425
+large clay jar water~
+a large clay jar of water~
+A large clay jar full of water sits in the corner.~
+~
+23 0 0
+150 150 0 0
+155 0 0 0 -1
+E
+large clay jar water~
+   Rainwater has pooled in the bottom of this enormous dunny colored earthern
+ware jar.  Leave and flowers have been etched into the base of the container.
+  
+~
+#6426
+bracer antique gold studded lovely jewelled~
+an antique gold bracer studded with rubies~
+A lovely jewelled bracer lies upon the ground, light glinting off of it.~
+~
+9 12714192 4097
+4 0 0 0
+2 5040 2520 25 -1
+E
+bracer antique gold studded lovely jewelled~
+   This bracer is exceedingly beautiful, and is in such pristine condition that
+it might have been kept in storage for centuries.  It pulsates with an odd hum,
+and when it is held, it is rather warm to the touch.  Considering its size and
+apparent daintiness, it is rather heavy.  There seems to be some sort of
+inscription on the inside of it.    
+~
+E
+inscription~
+   "To Kargan my love, on the eve of our wedding.  May this trinket remind you
+always of the tender joy I find in our union.  My love is with you always."
+
+ - Irina
+~
+A
+19 2
+A
+18 2
+#6427
+key blood-red~
+&Ra blood-red key&n~
+A key of bright blood red has been dropped here.~
+   You drink from the fountain, the blood washing down your throat and leaving
+a coppery tang in your mouth.    
+~
+18 20 1
+0 0 0 0
+1 0 0 1 -1
+E
+key blood-red~
+   This key is rather hefty, seemingly made of lead.  It is small, and has been
+coated with a glossy red substance, apparently enamel.  The key stinks of
+putrescence, and may have been left immersed in foul blood for many, many
+years.  It is slightly slippery, and does not dry off.    
+~
+#6428
+statue rudely defaced sad old man~
+a rudely defaced statue of a sad, old man~
+Poised in the center of the fountain is a statue, defaced with crude markings.~
+Placing the amulet around your neck, you feel safe and protected.
+~
+15 65536 0
+10 0 -1 0
+100000 0 0 1 -1
+E
+statue rudely defaced sad old man~
+   When the temple fell, every aspect of it was profaned, including this
+statue.  It was perhaps once the likeness of the god Paladine, looking over the
+temple with love and protecting those within.  Now the features of the statue
+are twisted with sorrow for the fall of the temple.  The statue has been
+crudely defaced and profaned, marked all over with black sigils and rude
+etchings and forever ruining the beauty of the marble.  The statue is holding
+something in a cupped hand.    
+~
+#6429
+DELETE ME~
+DELETE ME~
+An overturned brazier filled with incense~
+~
+15 2 1
+0 0 0 0
+10 5000 0 0 -1
+#6430
+DELETE ME~
+DELETE ME~
+A small pile of molten gold~
+~
+8 0 1
+0 0 0 0
+0 7500 0 0 -1
+#6431
+rune etched shortsword sword~
+a rune-etched shortsword~
+A rune-etched shortsword is lying here.~
+~
+5 6746113 75522049
+0 3 6 3
+6 4800 2400 22 -1
+E
+rune etched sword shortsword~
+   Oak leaves and vines have been carefully etched into the shining, steel
+blade of the shortsword.  The leather-wrapped hilt is a simple yet efficient
+design.  Upon the crossguard is a bit of elven runes that give off a soft
+light.    
+~
+A
+18 2
+A
+19 2
+A
+2 1
+#6432
+bright red mushroom~
+a bright red mushroom~
+A bright red mushroom is growing here.~
+~
+19 0 1
+1 0 0 1
+0 0 0 0 -1
+E
+bright red mushroom~
+   White spots dot the cap of this large red mushroom.  The stalk supporting
+the cap seems puny and inaddequate and has slight black sheen to it.  The cap
+itself is about the size of a large orange.    
+~
+#6493
+necklace gold set large rubies Xirokquash~
+&Ra gold necklace set with large rubies&n~
+A necklace comprised of linked red stones lies here discarded.~
+~
+8 1114197 5
+0 0 0 0
+1 0 0 1 -1
+E
+necklace gold set large rubies~
+   This necklace is made up of rather decent-sized gold box-links.  Spaced
+evenly apart are rubies of varying sizes, the largest of these meant to be worn
+near the front of the wearer.  Hanging from its apex is a very large ruby,
+which is unusually translucent and clear.  If you look inside it, you can see a
+shape, constantly changing, but reverting to the same thing over and over
+again.  It is a single word, unlike any you have seen before:
+
+
+                    &r"&RXIROKQUASH&r"&n
+
+   It is impossible to distinguish what this is meant to mean, and nothing
+about the necklace gives any clue.  There will have to be further study,
+apparently...
+~
+#6494
+cart large wooden~
+a large wooden cart~
+A large wooden cart loaded up with dirt and stones has been abandoned here.~
+~
+13 0 0
+0 0 0 0
+2000 0 0 1 -1
+E
+cart large wooden~
+   This cart has been built to last by a carpenter who really knew what he was
+doing.  Its wheels could roll effortlessly over the roughest of terrain, and
+the wooden sides are sturdy, built to support the heaviest of loads.  The front
+of the cart has been affixed with tack and harnessed so that a pair of pack
+animals could pull it along its intended course, but something is amiss.  
+Despite the fact it is loaded down with heavy rocks and loose soil, it sits
+here, abandoned.  Looking closer, you can see upon the tack and harness traces
+of blood, and lodged underneath one wheel is a clean-picked bone from some
+great beast.  Perhaps that is a clue as to why digging here was abandoned...  
+
+~
+#6495
+pickaxe broken~
+a broken pickaxe~
+A broken pickaxe lies upon the ground.~
+~
+22 1048576 16385
+0 0 0 0
+10 0 0 1 -1
+E
+pickaxe broken~
+   This pickaxe has a sturdy iron head which appears to be functional, but
+lacks a handle.  The handle of the pickaxe has been broken very close to the
+head, rendering the whole thing more or less useless.  There is some dirt still
+stuck to the useless blade.    
+~
+#6496
+shovel sturdy oak oaken shaft~
+a sturdy shovel~
+A sturdy shovel with an oaken shaft is plunged into the ground here.~
+~
+22 1048576 16385
+0 0 0 0
+4 10 3 1 -1
+E
+shovel sturdy oak~
+   This sturdy shovel appears well used.  The spade blade is made out of heavy
+iron, and is tarnished and worn, but still very intact and functional.  Though
+its primary use is for digging, it could be used as a weapon by someone
+desparate for SOMETHING to hit someone with.    
+~
+#6497
+coins treasure pile huge~
+a huge pile of treasure~
+A huge pile of treasure sparkles in your torchlight!~
+~
+20 0 1
+8 140 1200 8326
+20 0 0 1 -1
+#6498
+sarcophagus stone large~
+a large stone sarcophagus~
+A large stone sarcophagus sits in the center of the room.~
+~
+15 2 0
+300 5 -1 0
+2000 0 0 0 -1
+E
+sarcophagus stone large~
+   The sarcophagus sits in the center of the crypt, covered with a thin film of
+dust.  You notice with some alarm that the heavy stone lid has been pushed
+slightly off of it, and now it sits ajar in the middle of the room.  It would
+be possible to get what lies inside...  But what is more worrying is, what
+*was* inside that has crawled out...?    
+~
+#6499
+key rusted crumbling metal piece z46~
+a crumbling, rusted key~
+A crumbling, rusted piece of metal lies here upon the ground.~
+~
+18 65796 16389
+0 0 0 0
+1 0 0 1 -1
+E
+key rusted crumbling metal piece~
+   This piece of metal, now that you examine it more closely is definitely a
+key, though it is one that is not much longer to this world.  It is crumbling
+in your hands, pieces of it falling off every moment.  The key will have to be
+treated with utmost care if it is to survive.  It is long past repair.  It may
+still be serviceable, though any sort of markings that would have given some
+idea of what the key was meant to do have long since been worn away by age.  
+
+~
+$~

@@ -1,0 +1,696 @@
+#1400
+table bed chest~
+a low table~
+A low, narrow table rests against the back wall of the tent.~
+~
+15 0 0
+20 1 -1 0
+30 0 0 0 -1
+E
+table bed~
+   This low table serves many uses apparently.  It is barely long enough for a
+person to lay on and is low enough to the ground that should that person roll
+off its narrow width they would not fall so far as to suffer an injury.  When
+cleared of blankets, its top can be used as a writing surface and while in
+transit its owner can use its many drawers to make it into a kind of chest.  
+
+~
+#1401
+small cot blankets~
+a small cot~
+A small cot covered with a mound of blankets rests in the middle of the tent.~
+~
+13 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+small cot blankets mound~
+   A heaping mound of blankets cover this small cot.  A constant snoring sound
+comes from somewhere in amongst them.  Perhaps if you pull the blankets you can
+see who is making the sound, then again you might wake whoever it is up and
+they might not be in a good mood.    
+~
+#1402
+ornate ceremonial robes~
+some ornate ceremonial robes~
+Some ornate ceremonial robes are lying here.~
+~
+11 0 9
+0 0 0 0
+0 543 272 11 -1
+E
+ornate ceremonial robes~
+   These robes are obviously to be worn for special ceremonies by a priest.  
+One of Zivilyn's many images has been painstakingly embroidered onto the chest
+of this garment.  Its numerous folds and the way it drapes over the wearer's
+body make it look like it would be extremely cumbersome.    
+~
+A
+2 -1
+A
+17 -3
+#1403
+bottle whiskey~
+a half empty whiskey bottle~
+A half empty whiskey bottle has been dropped here.~
+~
+17 0 1
+10 5 5 0
+10 10 1 1 -1
+#1404
+paper scrap small~
+a small scrap of paper~
+A small scrap of paper has been discarded here.~
+~
+16 0 1
+0 0 0 0
+0 1 1 1 -1
+#1405
+quill gold~
+a gold tipped quill~
+A gold tipped quill lies here in the dust.~
+~
+21 0 1
+0 0 0 0
+1 4 1 1 -1
+#1406
+bracers studded leather thick~
+some thick studded leather bracers~
+A pile of leather material lies here in the dust.~
+~
+9 0 257
+4 0 0 0
+3 230 58 12 -1
+#1430
+steel plaque~
+a steel plaque~
+A steel plaque hangs upon the wall here.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+steel plaque~
+   A steel plaque hangs upon the wall in this chamber, upon it is written: The
+Herbacious Cleaver of Forests, Wilderness, Jungle, and Small Villages.  Mark
+XIV Property of: Theodore Cogwhistle
+~
+#1431
+long steel tongs~
+a pair of long-handled, steel tongs~
+A pair of long-handled, steel tongs lay here upon the floor.~
+~
+12 0 16385
+0 0 0 0
+3 35 9 0 -1
+E
+long steel tongs~
+   This is a pair of long steel tongs.  Wooden handles are placed on the end,
+to prevent the user from being burned by the hot steel as they work with their
+forges or furnaces.    
+~
+#1432
+complex steel chest~
+a complex steel chest~
+A lone steel complex chest sits in the middle of the floor here.~
+~
+15 0 0
+10 5 -1 0
+0 0 0 0 -1
+E
+complex steel chest~
+   This chest is very complex looking, with gears, levers and many many hinges.
+There appears to be no sort of key hole, and the door to this chest is
+difficul, if not impossible to find
+~
+#1433
+raisins handful~
+a handful of raisins~
+A small pile of raisins are sitting on the floor.~
+~
+19 65536 1
+3 0 0 0
+2 0 0 0 -1
+#1434
+thick glass goggles~
+a pair of thick-glassed goggles~
+A pair of thick-glassed goggles lay here forgotten.~
+~
+11 152047616 32769
+0 0 0 0
+2 156 40 6 -1
+E
+thick glass goggles~
+   This is a simple pair of thick goggles, made to protect the wearer's eyes
+from getting damaged by flying particles and such.    
+~
+A
+17 -1
+#1435
+complex pen~
+a complex looking pen~
+A complex looking ink pen lays upon the floor.~
+~
+21 1048576 16385
+0 0 0 0
+2 20 5 5 -1
+E
+complex pen~
+   This pen is highly complex with gears, and pumps all to make sure that you
+get the correct amount of ink on the page.  Unfortunatly it is also know to
+squirt out the back every now and then.  But gnomes are busy at work trying to
+solve that problem also a way to fix peoples spelling as well.    
+~
+#1440
+Cast-iron furnace~
+a cast-iron box~
+A large, cast-iron container rests upon a slate in the center of the room.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+heat coals cinders furnace cast-iron container box~
+   A large, cast-iron box rests here on a broad slab of slate, radiating the
+heat that fills this room.  The heavy lid is ventilated to allow the heat to
+escape the box and, additionally, to allow passersby to peer inside.  Within
+this large box is a pile a hotly glowing coals and burning embers, not quite a
+flame but still providing a more than adequate heat source.    
+~
+#1442
+undefined~
+undefined~
+Undefined~
+~
+13 0 1
+0 0 0 0
+0 0 0 0 -1
+E
+undefined~
+Nothing.
+~
+#1445
+a wishing well~
+a wishing well~
+A beautifully carved, three-tiered wishing well is trickling melodically.~
+~
+23 65557 0
+99999 99999 15 0
+100004 0 0 0 -1
+E
+wishing well fountain~
+   An elaborate, three-tiered wishing well dominates the center of this room.
+Painstaking and masterfully carved of white marble, its lines are smooth and
+flawless.  The crystal clear water makes an almost musical sound that is quite
+pleasant to the ear as it cascades from tier to tier.  The water in the immense
+central pool appears to be lit from some source underneath the surface.  As you
+look closer into the pool, you can make out many small, enchanted stones set
+into the bottom of the well, forming the shapes of the constellations in the
+night sky.    
+~
+#1447
+a small bronze plaque~
+a small, bronze plaque~
+A small bronze plaque is affixed to the base of the well.~
+~
+0 16 0
+0 0 0 0
+0 0 0 0 -1
+E
+bronze plaque small~
+This small plaque is in memory of those that contributed both their time
+and money to see this place become a reality.  Thank you, all.    
+
+     -Talanvor Trakland, Lady Kyndra of Zivilyn
+     -Lavitz and Grata Slambert
+     -Prefects Orhardt and Aredenor of Mishakal
+     -Lady Onyx, Revered Daughter of Paladine
+     -Knights Zandra and Apharot Soltharus
+     -Lady Shinorah Nightsbane and Lady Natasha Steiner
+     -Lady Alysha Kiriane, defender of Mishakal and Arch-Magus Corran
+     -and finally, Knight Leogrance di Caela, of the Rose, for his inspiration
+     and dedication to creating a place where all may find shelter and care.
+~
+#1448
+Solamnic standard~
+an elaborate tapestry~
+An elaborate tapestry featuring the standard of the Solamnic Knights hangs on the wall.~
+~
+0 65540 0
+0 0 0 0
+0 0 0 0 -1
+E
+tapestry solamnic standard~
+   An elaborate and masterfully crafted tapestry bearing the standard of the
+Knights of Solamnia hangs here on the northern wall.  Donated by the clergy as
+a sign of gratitude for all the assistance the knights have offered in making
+this place a reality, it stands as a symbol of hope to many.    
+~
+#1449
+Solamnic tome~
+a solamnic tome~
+A thick solamnic tome lies here upon an ornately carved table.~
+~
+0 65556 0
+0 0 0 0
+0 0 0 0 -1
+E
+tome book ~
+   Vinus Solamnus, the commander of the Ergothian Emperor's Palace Guard, set
+forth from the capital city of Daltigoth to quell a rebellion brewing in the
+northern reaches of the empire.  After the bloody but victorious march to the
+heart of the uprising, Vingaard Keep, Commander Solamnus met with the head of
+the rebellion, the nobleman in command of Vingaard, Antonias.  Antonias struck
+upon something long lost in Solamnus, something great from his youth that he
+had forgotten, his honor.  Finding that the claims to rebellion were justified,
+Solamnus now sought some way to resolve the issue.  While all knew that it was
+too late for Antonias to repent in the eyes of the despot Emperor Emann of
+Ergoth, Antonias and Solamnus made a solemn oath that Vinus would take up the
+peoples' cause.  Even while Antonias willingly gave his life to appease the
+Emperor, Solamnus was gathering his troops together to present his case and ask
+for their aid.  During this, Solamnus addressed the bulk of his troops, not
+merely his advisors, and beseeched them to join him in his defense of the
+peoples of Ergoth and their rights.  Any knight, any soldier, under his command
+that believed in the cause of the rebels was entreated to stay.  Those who did
+not were given leave to return to Daltigoth, unharmed by Solamnus or any under
+his command.  Even though his men knew that doing so would mean exile and quite
+possibly death, most chose to stay with Solamnus and take up the just and
+honorable cause.    
+-*To Continue read page2
+~
+E
+read page2~
+   Thus began the War of Ice Tears.  Although Ergoth was in the grip of the
+most terrible winter ever chronicled, Solamnus and his dedicated army of
+knights and frontier nobles marched on Daltigoth and laid siege to it.  
+Solamnus personally led many of the daring raids into the city.  Within two
+months time the capital fell as a revolt by the people of the city itself
+forced the emperor to sue for peace.  As a result, the northeastern plains of
+Ergoth, from the Vingaard Mountains to Estwilde, gained its independence.  The
+grateful people of that region chose Vinas as their king and named their new
+country Solamnia in his honor.  Although it never gained great power during the
+remainder of the Age of Dreams, Solamnia became synonymous with honesty,
+integrity, and fierce determination.  Vinas was a wise man and having seen
+firsthand how seductive power could be knew that those who followed him as
+rulers of Solamnia might not be as honorable as he.  Thus he organized an order
+true to honor and justice, he organized the Knights of Solamnia.  The tale of
+the origins of the Knighthood is bound up in the Quest of Honor that tells of
+Vinas Solamnus's journey in search of true honor.  Following his coronation as
+king, Vinas was beseeched by the Lords of the Northern Reaches.  They had
+recently broken from the tyranny of Ergoth and now turned to Solamnus to unite
+them.  Solamnus could not forsee how this could be done in the light of their
+conflicting ideals and customs.  So it was that he set off upon a quest to find
+an answer to this dilemma, he left the united kingdoms in the hands of his
+lieutenants and journeyed forth into the wilds.
+-*To Continue read page3
+ 
+ 
+ 
+ 
+~
+E
+read page3~
+   After many weeks of searching and trial, he came at last to Sancrist Isle.
+There in that wild place he found a glade and offered supplication to the gods
+upon a black granite stone in the center of the clearing.  Three of the gods of
+light came to him then: Paladine, the Father of Good, god of balance, justice,
+and defense; Kiri-Jolith, the Great Bison, the god of just warefare; and
+Habbakuk, the Blue Phoenix, god of good nature, loyalty, and the elements.  In
+that glade did they outline for Vinas the model of a Knighthood that would last
+thoughout the centuries.  Three seperate Orders would balance one another with
+high ideals, each patterened after the ideals of the gods who came to visit
+Vinas that day.  The Order of the Crown, dedicated to Habbakuk, would become
+the epitome of Loyalty and Obedience to a rightous cause.  The Order of the
+Sword, sworn to Kiri-Jolith, were to be the bringers of Courage and Heroism to
+the rightous battle.  Lastly, the Order of the Rose, pledged to Paladine, were
+to exemplify honor guided by Wisdom and Justice.  As a final blessing, the gods
+transformed the stone before Solamnus into a pillar of translucent white
+crystal.  This action sanctified the glade and sealed the unity of these three
+gods in their commitment to uphold the Knighthood so long as the knights walked
+in honor and worthiness.    
+-*To Continue read page4
+~
+E
+read page4~
+   Two other legends relating to Solamnia and the Knights from the time of the
+Age of Dreams stand out in the text.  The first tells of Bedal Brightblade, a
+hero who was said to have fought the desert nomads to a standstill, holding a
+pass into Solamnia single-handedly until help arrived.  His sword, Brightblade,
+was said to be of dwarven make and never rusted or dulled.  His tomb is located
+somewhere in the far southern mountains in an unknow location, and it is
+rumored that in times of great need Bedal will return to aid Solamnia.  The
+second tale is more recent, telling the tale of Huma Dragonbane, known as the
+most perfect of knights.  Huma's legend, being a masterwork of the great elven
+bard, Quevalen Soth, is much more well known and tells of Huma gathering
+together a great group of heroes to destroy the dragons and drive them from
+Krynn.  The story of the last battle betweem Huma and the Queen of Darkness is
+epic and oft told, along with the tragic love that Huma bore for a silver
+dragon.  Huma managed to drive the Queen back to the Abyss with the silver
+dragon's help, but in doing so, sustained a gravely mortal wound.  The accounts
+of Huma's final moments in this world are clouded and, even now, somewhat
+fragmented.  Some account claim that Huma died that day, on the field of battle
+after vanquishing the Dark Queen.  Others make claim that he lingered on for
+days in such intense agony that the gods themselves suffered in sympathy,
+inflicting terrible thunderstorms on the lands.  To this day, one may find
+people that claim that lightning and thunder strike the land in memory of
+Huma's pain.  Although never attaining high rank or station, Huma was buried
+with great reverence in a tomb shaped to resemble his love, the silver dragon.
+Before joining the Knighthood, tis said that many young squires often make the
+pilgrimage to his grave to pay homage to the sacrifice of this great knight and
+the ideals of the Orders he championed.    
+~
+#1450
+map scribbled Krynn~
+a scribbled map of Krynn~
+A scribbled and crumbled map is lying here.~
+~
+12 0 1
+0 0 0 0
+1 12 3 5 -1
+E
+map scribbled Krynn~
+
+Some scribbling and a few lines and arrows make up this rather bizarre map.
+
+               This is the world of Krynn!
+
+Palanthas
+
+               Vingaard                                                         Karthay
+                                                           Kalaman            
+                                                                            Laceyknees
+        Solanthus                            What's the point Bay
+
+                    ---> Mean, nasty mage                         <---Istar
+                          with cool pets!                                        Monks
+
+                                                Diamond Crossroads               Desert
+                                                                                 (hot)
+
+                                                Morning Doo!                     HOME!
+
+~
+#1451
+map cock bull menu~
+a map drawn on the back of a menu from The Cock 'n' Bull Tavern~
+A menu from The Cock 'n' Bull Tavern is lying here.~
+~
+12 0 1
+0 0 0 0
+1 12 3 5 -1
+E
+map cock bull menu~
+A 'map' has been scrawled on a the back of a menu from The Cock 'n' Bull Tavern.
+On the front it reads, 'Great food, but they don't seem to take to little people!'.
+
+Palanthas             Yodelling    
+    |                  Towers    
+    |                    +--------+      +->Cows!
+     \                  /         |      |\
+      \                /          |      | \
+       +---+\         /           |      |  \
+      /      +-------+            +------+   \
+     /       Mean Guy \                       \
+    /          Here    \                       \        
+   /                    |                       +-------Kalaman
+Grumpy hermit           |
+ with a neat           /
+  sandbox!            /                                 + Haveabanana <-+
+                     /\                                 |\             /
+                    /  \                 +----+   +     | \           /
+        Cleanest Jail   +----------+    /      \  |\    |  \         /
+        in Solamnia!                \  /       +  | \   |   \       /
+        (not that I've               \/       /   |  +--+    +-----+
+         seen them)                   \       +---+Big Birds       |
+                                       \                          +
+                                        +-----Caves!---+         /
+                                                        \       /
+                                                         +-----+
+
+~
+#1460
+key rusted iron~
+a rusted iron key~
+An iron key lies rusting on the ground.~
+~
+18 4 1
+0 0 0 0
+1 0 0 1 -1
+E
+key rusted~
+   A small, iron key with a rounded handle sits brown and burred.  It is
+obvious that it has been subjected to a lot of water and has begun to
+deteriorate.    
+~
+#1461
+desk cherry large drawer drawers~
+a large cherry desk~
+A large cherry desk is laying on its side near the wall.~
+~
+15 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+desk cherry large drawers~
+   The desk is one of the only objects still not smashed to pieces, saved
+only by its great size.  There are a number of drawers still unopened.
+~
+#1462
+large fountain~
+a large fountain~
+A large fountain covered with crude sculptures sits between the trees.~
+~
+23 0 0
+0 0 0 0
+1000 0 0 1 -1
+E
+large fountain grate~
+   The fountian sits quietly amongst the creaking trees.  Although crude in its
+nature it does have an aesthetic about it that calms the mind.  A grate is
+visible in the pool of the water large enough to open and proceed down.    
+~
+#1463
+wide stone well~
+a wide stone well~
+A wide stone well has been dug into the center of the room.~
+~
+12 0 0
+0 0 0 0
+1000 0 0 1 -1
+E
+wide stone well~
+   The well has been constructed from many wide, granite fieldstones into a
+firm, circular structure.  Although appearing quite strong, on closer
+inspection it looks as the stones have been loosened somewhat.  A huge quartz
+lid lies over the top allowing a view down into the interior.    
+~
+E
+huge quartz lid~
+   Peering in beyond the lid, a giant form made of crystalline water froths
+and writhes.  Apparently held captive within, it provides the power that drives
+the fountain system, though it seems unlikely that it will be held within
+for too much longer.
+~
+#1464
+gnome corpse~
+a gnome corpse~
+A corpse of a small gnome lies sprawled on the dirty floor.~
+~
+12 0 0
+0 0 0 0
+1000 0 0 1 -1
+E
+gnome corpse~
+   The corpse appears to be that of an older gnome wearing clothes similar
+to that of an engineer.  His face bears an expression of shock and horror,
+likely that he died here after a long and painful experience.  The corpse
+is covered with a thin slime.
+~
+#1465
+mass congealed slime~
+&ga mass of congealed slime&n~
+A mass of congealed slime slumps in the corner.~
+~
+9 512 145
+2 0 0 0
+3 0 19 8 -1
+E
+mass congealed slime~
+   A thick mass of slime slowly slumps out over everyting that it touches.
+Although seemingly worthless, it is possible to hold it over certain parts
+of the body and have it hold in a grotesque fashion.
+~
+#1474
+low sided wagon~
+a low-sided wagon stacked with crates~
+A low-sided wagon stacked with crates rests here.~
+~
+12 0 0
+0 0 0 0
+1000 0 0 0 -1
+E
+low sided wagon~
+   The wagon is built from solid oak boards and bears the scars of a long
+journey.  Crates of various make and size lie scattered atop it.  Slots have
+been built into the bench on its front for holding weapons.    
+~
+#1475
+steel bladed mace haft oversized~
+a steel bladed mace with an oversized haft~
+A steel bladed mace with an oversized haft is lying here.~
+~
+5 937439232 8193
+0 2 5 5
+6 160 40 13 -1
+E
+steel bladed oversized haft mace~
+   Sharp blades ring the central orb of this mace, its haft is almost three
+feet in length.    
+~
+A
+19 1
+#1476
+gauntlets enameled black~
+&Ka pair of black enameled gauntlets&n~
+A pair of black enameled gauntlets lie here, forgotten.~
+~
+9 2118144 129
+2 0 0 0
+4 437 109 13 -1
+E
+black enameled guantlets~
+   These steel gauntlets are enameled in black and have a glossy apearance like
+polished onyx.    
+~
+#1478
+altar draped red black~
+an altar draped in red and black~
+An altar draped in red and black silk has been set here.~
+~
+0 0 0
+0 0 0 0
+1000 0 0 0 -1
+E
+draped altar red black~
+   This stone slab is roughly four feet in length on all sides.  Layers of red
+and black silk are draped over it, the symbol of a condor painted upon them.
+~
+#1479
+red black prayer beads~
+red and black prayer beads~
+A string of red and black prayer beads is lying in a pile here.~
+~
+9 1049088 4097
+2 0 0 0
+1 461 115 13 -1
+E
+red black prayer beads~
+   These red and black prayer beads are carved from wood and finely lacquered.
+They alternate with symbols of a condor and a fist.    
+~
+#1489
+fountain~
+a small fountain~
+A small fountain is here.  It is filled with murky water.~
+~
+15 0 1
+100 0 -1 0
+300 0 0 0 -1
+E
+fountain~
+   The fountain looks as though it was once quite beautiful.  Now, however, it
+is covered with cracks and moss.    
+~
+#1490
+small table altar~
+a small table~
+A small table sits here.~
+~
+15 0 1
+10 0 -1 0
+100 0 0 0 -1
+E
+table~
+   The small table is draped in a worn cloth that is covered with strange
+symbols.  It appears to be some sort of altar.    
+~
+#1491
+trunk small~
+a small trunk~
+A small trunk sits here.~
+~
+15 0 1
+20 5 -1 0
+100 10 2 5 -1
+#1492
+some tattered robes~
+some tattered robes~
+Some tattered robes lay here.~
+~
+11 1048576 9
+0 0 0 0
+8 120 30 9 -1
+A
+17 -2
+#1493
+bucket wooden~
+a bucket~
+A plain wooden bucket is here.~
+~
+17 0 17
+6 0 0 0
+6 4 1 1 -1
+#1494
+key small~
+a small key~
+A small key sits here.~
+~
+18 4 1
+0 0 0 0
+2 0 0 1 -1
+T 1494
+E
+key~
+   A small bronze key.    
+~
+#1495
+mop~
+a mop~
+A simple mop.  Looks like it would be useful for cleaning floors.~
+~
+5 0 8193
+0 1 3 5
+6 8 2 1 -1
+#1496
+worn staff wood~
+a worn staff~
+A worn staff is here.~
+~
+5 1024 8193
+0 1 7 5
+8 45 11 7 -1
+#1497
+armoire antique~
+an armoire~
+An antique armoire stands in the corner.~
+~
+15 0 1
+100 5 -1 0
+300 16 4 5 -1
+E
+armoire antique~
+The antique armoire looks like an excellent place to store items.
+~
+#1498
+medallion rusted~
+a rusted medallion~
+A rusted medallion lies here.~
+~
+8 1024 5
+0 0 0 0
+1 10 2 9 -1
+E
+rusted medallion~
+   This medallion appears is badly damaged.  It is covered with rust.    
+~
+$~

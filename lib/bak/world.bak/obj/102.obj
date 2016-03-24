@@ -1,0 +1,639 @@
+#10200
+arch.object(for-door)~
+an intricate arch of pure magic~
+An arch, intricately formed from pure magical energies, beckons you to enter.~
+~
+12 321 0
+0 0 0 0
+0 0 0 0 -1
+#10201
+white key~
+a white key~
+A white key is here glowing softly with a magical aura.~
+~
+18 324 1
+0 0 0 0
+0 0 0 0 -1
+E
+white key~
+   This key is made of pure white marble.  It glows softly as if enhanced by
+magic, and a type of static energy is emitting from it, which sends tingling
+sensations through the body when touched.    
+~
+#10202
+red key~
+a red key~
+A red key is lying here glowing with a soft magical aura.~
+~
+18 324 1
+0 0 0 0
+0 0 0 0 -1
+E
+red key~
+   This key is made of cold, hard steel, and painted a crimson red.  It
+occasionally flickers in and out of visibility, yet never truly disappears, as
+if it is some sort of illusion.    
+~
+#10203
+black key~
+a black key~
+A black key made of obsidian is here glowing with a magical aura.~
+~
+18 0 1
+0 0 0 0
+0 0 0 0 -1
+E
+black key obsidian~
+   Carved from obsidian, the surface of this black key feels much like glass.
+A subtle source of energy causes it to be warm to the touch, yet barely
+noticeable.    
+~
+#10205
+key metallic~
+a metallic key~
+A metallic key inscribed with a black book on the side lies here.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#10206
+key metallic~
+a metallic key~
+A metallic key inscribed with a black book on the side lies here.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#10207
+key metallic~
+a metallic key~
+A metallic key inscribed with a black book on the side lies here.~
+~
+0 64 1
+0 0 0 0
+0 0 0 0 -1
+#10208
+key metallic~
+a metallic key~
+A metallic key inscribed with a black book on the side lies here.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#10209
+key metallic~
+a metallic key~
+A metallic key inscribed with a black book on the side lies here.~
+~
+0 0 1
+0 0 0 0
+0 0 0 0 -1
+#10210
+a simple robe, made of sky-blue silk~
+&Ca simple robe, made of sky-blue silk&n~
+A pile of sky-blue silk lies forgotten here.~
+~
+11 3857408 1033
+0 0 0 0
+1 30 5 4 -1
+E
+robe sky sky-blue silk~
+   This simple, hoodless robe as been woven from beautiful sky-blue silk.  A
+small, silver infinity symbol has been stitched into both sleeves, marking the
+wearer of this garment as a follower of Mishakal, goddess of healing.    
+~
+A
+17 -3
+#10250
+scale dragonscale multicolored glimmering~
+a glimmering multicolored scale~
+An odd scale, glimmering with different colors, seems to have come from a dragon.~
+~
+6 4 16385
+5 29 0 0
+0 0 0 0 -1
+#10251
+scale dragonscale multicolored darkened~
+a darkened multicolored scale~
+A dark scale, glimmering of oddly black colors, seems to have come from a dragon.~
+~
+6 67108869 16385
+5 33 0 0
+0 0 0 0 -1
+#10252
+corpse elf preserved well white~
+a well preserved elven corpse~
+The corpse of an elf with flowing white hair lies here, well preserved.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+corpse elf preserved white~
+   The corpse is well preserved, and in decent shape.  The hair was probably
+once a beautiful flowing white, yet is threatening to yellow.  The only
+un-nerving thing about this corpse if the fact that the eyes have been gouged
+out, and there are faint markings along the body, wherever the cloth does not
+cover.  Apparently the elf, when alive, was tortured, and now his body is being
+used for other, darker purposes.    
+~
+#10280
+robes light blue cotton infinity mishakal~
+&Clight blue cotton robes with a dark blue infinity symbol&n~
+A set of light blue cotton robes is lying here forgotten.~
+~
+9 3136768 1033
+2 0 0 0
+2 0 0 4 -1
+E
+robes light blue cotton infinity mishakal~
+   Made from cotton, these robes have been dyed a light sky blue, the color of
+the Goddess Mishakal.  Embroidered on the back is the sign of the Goddess, a
+dark blue infinity symbol.  The robes are thin and light, yet durable.    
+~
+A
+24 -1
+#10281
+pendant skull chemosh yellow~
+&ya pale yellow pendant in the shape of a skull&n~
+A pale yellow skull pendant is lying here.~
+~
+9 3136256 5
+2 0 0 0
+1 64 16 4 -1
+E
+pendant skull chemosh yellow~
+   This skull-shaped pendant is a symbol worn by clerics of Chemosh.  It is
+carved from some type of bone, and instead of being polished has been left the
+natural, pale yellow color of old bones.    
+~
+A
+24 -1
+#10282
+robes black chemosh~
+silken black robes trimmed in a pale yellow~
+A set of silk black robes trimmed in pale yellow thread are lying here.~
+~
+9 3136256 1033
+12 0 0 0
+4 11370 2843 24 -1
+E
+robes black chemosh~
+   Made from fine black silk, these are robes worn by high ranking clerics of
+Chemosh.  They are trimmed in a pale yellow thread, and connect around the neck
+by a gold skull-shaped broach.  On the back is an embroidered skull, mixed with
+pale yellow and gold threads.    
+~
+A
+24 -4
+A
+18 1
+A
+19 1
+A
+4 1
+A
+20 -4
+#10283
+robes black chemosh~
+velvet black clerical robes trimmed with yellow rope~
+Velvet black clerical robes trimmed in yellow rope are lying here.~
+~
+9 3136256 1033
+7 0 0 0
+3 928 232 14 -1
+E
+robes black chemosh~
+   These robes are made from heavy black velvet.  The edges are trimmed in an
+almost sickly yellow rope.  On the back is embroidered an intricate skull from
+a pale yellow thread.  These robes are worn by middle-ranking clerics of
+Chemosh.    
+~
+A
+24 -2
+A
+18 1
+A
+19 1
+#10284
+robes black chemosh~
+heavy black clerical robes with a yellow skull broach~
+Robes of a cleric of Chemosh, made from a thick fabric, are lying here.~
+~
+9 3136256 1033
+2 0 0 0
+2 70 18 4 -1
+E
+robes black chemosh~
+   These black robes are made of a thick, durable fabric.  Worn by low-ranking
+clerics of Chemosh, a simple broach in the shape of a skull attaches each end
+of the cloak around the neck.  On the back a yellow skull is embroidered with
+simple thread.    
+~
+A
+24 -1
+#10285
+triangle silver paladine symbol~
+a silver triangle of Paladine dangling from a platinum chain~
+The clerical symbol of Paladine, the silver triangle, is lying here.~
+~
+11 3136768 16389
+0 0 0 0
+1 92 23 4 -1
+E
+triangle silver paladine symbol~
+   A solid triangle made from silver dangles from a platinum chain of small
+links.  This is worn by clerics of Paladine in order to show their dedication
+and devotion to their god.    
+~
+A
+18 1
+A
+6 1
+A
+17 -2
+#10286
+robes robe paladine~
+silk silver robes trimmed with delicate white silk~
+The silver robes of a cleric of Paladine are lying here.~
+~
+9 3136768 1033
+13 0 0 0
+4 12040 6020 24 -1
+E
+robe robes paladine~
+   This robe has been made from the finest, silver silk.  The cuffs of the
+sleeves and the trim along the edges is made from white silk.  These are the
+robes worn by the high ranking members of the clergy of Paladine.  Fine white
+thread has been stitched along the back to create the image of a mighty silver
+dragon.    
+~
+A
+18 1
+A
+19 1
+A
+3 1
+A
+4 1
+A
+24 -4
+#10287
+robes robe paladine~
+velvet white clerical robes trimmed in silver~
+A set of velvet white clerical robes trimmed with silver thread is lying here.~
+~
+9 3136768 1033
+10 0 0 0
+5 826 206 14 -1
+E
+robe robes paladine~
+   This white robe has been made from the finest, white velvet.  The cuffs of
+the sleeves and the trim along the edges is made from silver silk.  These robes
+are worn by the mid ranking members of the clergy of Paladine.  A silver dragon
+has been embroidered onto the back of the robe.    
+~
+A
+4 1
+A
+24 -2
+#10288
+robes robe paladine~
+white robes made from a durable fabric~
+Durable white robes of a cleric of Paladine are lying here.~
+~
+9 3136768 1033
+4 0 0 0
+5 176 44 4 -1
+E
+robe robes paladine~
+   This robe has been made from a durable, white fabric.  It isn't overly
+flashy but it has been kept in fine condition for ceremonies.  These robes are
+worn by lower ranking members of the clergy of Paladine.  Embroidered upon the
+back of this robe is a silver triangle, one of the symbols of Paladine.    
+~
+A
+24 -1
+#10289
+book magic conclave runes~
+a book entitled, 'Magic and the Conclave'~
+A thick book covered with several runes has been carelessly forgotten here.~
+~
+12 0 16385
+0 0 0 0
+0 12 1 1 -1
+E
+book magic conclave runes~
+
+   Greetings young mageling. Welcome to, for some of
+you, the first steps into the world of the arcane. It
+is a world of wander and danger with hours of long
+hard work that bear little rewards. Many have walked
+this path only to turn back or perish along the way.
+
+   Still reading? Good. The path of a wizard is not
+for the faint of heart. Now let us begin.
+
+
+(read page2 to continue)
+~
+E
+page2 2~
+What is magic?                                                                  
+
+    A tool? Power? Spells? A means to an end? If these
+ were your answers, you would only be partially correct. Above
+ all else, magic is a gift from the gods.
+
+    Like any gift from the gods, magic should be
+ handled carefully and with reverence. I have seen too many
+ youths handle magic carelessly and become consumed by their
+ own ambitions and foolishness. This, above all else, I am
+ trying to prevent by writing this book.
+
+
+(read page3 to continue)
+~
+E
+page3 3~
+What is the Conclave?
+
+    The Conclave, an order founded by the three gods of
+ magic, Solinari the White Moon, Lunitari the Red Moon,
+ and Nuitari the Black Moon. It is the Conclave that
+ watches over the magic of the world.
+
+    During the Second Dragonwar, the mortal races were
+ under the threat of total annihilation once again by
+ Takhisis and the chromatic dragons. It was then that
+ the three gods of magic selected three individuals
+ from the race of mortals. These three were taken up to
+ the moons and taught to harness and control magic.
+
+    This magic differed from the innate magic found
+ in dragons and other magical creatures. This new magic
+ was called "High Sorcery" and rivaled the magic of
+ the dragons, also known as "primal magic".
+
+    After the chromatic dragons were defeated, the
+ gods of magic bestowed the Curse of the Magi and
+ the Foundations of the Conclave unto the wizards of
+ the world. The Curse of the Magi is the geas that
+ resides with anyone who wields the power of the
+ arcane.
+
+    Spells, once they have been used, are erased from
+ the spellcaster's memory, requiring the spellcaster to
+ memorize the spell again. It also causes the spellcaster
+ to become weary as he or she casts more spells
+ continuously.
+
+(read page4 to continue)
+~
+E
+page4 4~
+What are renegade wizards?
+
+    Renegade wizards are wizards who dwell outside
+ the Conclave's influence. In other words, wizards who
+ use strong magic and do not join the Conclave. A
+ renegade can be anyone, from an ambitious novice to
+ a Tested wizard who has revoked the vows that he or
+ she had taken upon entering the Conclave.
+
+How are renegade wizards dealt with?
+
+    If a wizard of the Conclave discovers the
+ existence of a renegade, the wizard is responsible
+ for reporting the discovery to the Conclave. The
+ Conclave then decides who is to go and confront the
+ renegade. The chosen wizard can be from any of the
+ orders.
+
+    A white robed wizard will always offer the
+ renegade a chance to stop his or her ways and join
+ the Conclave. If the renegade refuses, the wizard
+ will try to send the renegade to another realm
+ where they can do no harm.
+
+    A red robed wizard may offer the renegade a chance
+ to join the Conclave. However, if the renegade refuses
+ the wizard may terminate the renegade or send the
+ renegade to a barren and isolated realm.
+
+    A black robed wizard cares little for the well
+ being of a renegade. Should the renegade prove to be
+ strong in the arcane, the black robed wizard MAY offer
+ the chance to join the order of the Black Robes, however
+ it is more likely that the wizard may just execute the
+ renegade on the spot.
+
+(read page5 to continue)
+~
+E
+page5 5~
+How do I become a mage?
+
+    Ah, finally the question that most, if not all, of
+ you have been waiting for. Alas, there is no easy way
+ to become a mage. The first step is to seek a wizard
+ who is willing to teach you the rudiments of magic.
+
+    It is imperative, though optional, to do this.
+ Otherwise, the proper use of magic and the proper way
+ to harness it will become lost on you. If you prove to
+ be a competent student, your shalafi (the elven word
+ for teacher) will notify the Conclave that you are
+ ready for the test.
+
+    The Test is a grueling gauntlet that will push you
+ to your limits. There is very little you can do to
+ prepare for the Test except to practice your spells
+ and listen well to your teachers. To some who take the
+ Test, it is the last thing they will ever do, while to
+ others it may leave them scarred for life. Whatever
+ the case, the Test will determine whether you are
+ worthy enough to join the ranks of the Conclave.
+
+Final Words
+
+    I will leave you with my observations, young
+ mageling. The art of spellcraft is very much alike to
+ the art of spinning thread. Both require a skilled and
+ practiced hand and one mistake will ruin the spell or
+ the piece of fabric. Years of study lie ahead of you,
+ if you are ready to embrace your fate then stride
+ boldly forward. Good luck.
+
+
+  - Archmagus Grodyn, Order of Nuitari
+~
+#10290
+staff redwood carved archaic~
+an ornately carved staff of redwood~
+A thick piece of redwood, ornately carved with archaic, magical symbols is here.~
+~
+5 3137536 24577
+0 7 3 7
+5 2500 1250 25 -1
+#10291
+book compendium scrolls potions~
+the Compendium of Scrolls and Potions~
+The Compendium of Scrolls and Potions sits on a pedestal in the corner.~
+~
+16 64 0
+0 0 0 0
+0 500 75 1 -1
+E
+1 noxious~
+   The potion is sold within the Kalaman mageware shop among other oddities.  
+Though a bit unappealing in taste and color the potion grants any who partake
+of it a minor cantrip of protection.  Although most any novice should have the
+spell committed to memory, it can prove useful lest the casting of the spell
+should fail.    
+
+-=)*** Archmagus Rafe Xel'Orna, Order of Lunitari ***(=-
+
+~
+E
+book compendium scrolls potions table contents~
+
+Table of Contents
+
+1) a noxious green potion
+
+
+~
+#10292
+post members conclave mages~
+a post directed to members of the Conclave~
+A post to members of the Conclave of Mages hangs on the wall.~
+~
+16 0 0
+0 0 0 0
+2 100 30 1 -1
+E
+book~
+The book has only one intelligble spell left within it, and the title
+of the spell is Demon Summoning.  Much of the beginning of the spell
+has been ink blotted, but the ending can be clearly read.
+~
+E
+post members conclave mages~
+
+Those who have achieved the status of mage should seek out able apprentices
+to assist them in their endeavors and to ensure the continuation of the
+magickal arts for future generations.
+
+In addition to any personalized training, an apprenticeship should include
+the following.
+
+->Presentation of a suitable book of preliminary spells for review and the
+study of proper documentation.
+->The successful identification of a scroll or potion through research and
+analysis.  This information may be included in the 'Compendium of Scrolls
+and Potions' as compiled by the Conclave of Mages.
+->A visit to Delusen's Academy.
+->Accompaniment to the Tower of High Sorcery once Testing has been scheduled.
+There the student can tour the grounds and libraries while awaiting their
+Testing.
+
+
+~
+#10293
+robes set simple novice conclave~
+a set of simple novice robes~
+A set of robes made from uncolored cotton bear no markings or designs.~
+~
+11 4186112 9
+0 0 0 0
+1 60 12 11 -1
+E
+robes novice~
+   These robes are faintly grey in color and are of a thick woolen material.  
+The edges are trimmed with a wide-strip of ribbon of the same color, and, when
+worn, the robes nearly reach the ground.  The only distinguishing marking on
+the thick cloth is a small emblem in the corner, signifying that these robes
+are the property of the Conclave of Mages.    
+~
+A
+17 -3
+#10294
+robes white gold silver~
+a set of white robes trimmed in gold and silver~
+A set of white coloured robes are trimmed with gold and silver threads.~
+~
+9 3140608 9
+7 0 0 0
+2 300 90 10 -1
+#10295
+robes black gold silver~
+a set of black robes trimmed in gold and silver~
+A set of black coloured robes are trimmed with threads of gold and silver.~
+~
+9 3140096 9
+7 0 0 0
+2 300 90 10 -1
+#10296
+robes scarlet gold silver~
+&Ra set of scarlet robes trimmed in gold and silver&n~
+A set of scarlet coloured robes are trimmed in gold and silver threads.~
+~
+9 3139072 9
+7 0 0 0
+2 300 70 10 -1
+#10297
+robes white brocaded archaic~
+a set of heavily brocaded white robes~
+A set of white robes lie here, heavily embroidered with archaic magical symbols.~
+~
+9 3140672 9
+10 0 0 0
+5 3000 1500 25 -1
+A
+20 -10
+A
+21 -10
+A
+22 -10
+A
+23 -10
+A
+24 -10
+#10298
+robes brocaded black archaic~
+a set of heavily brocaded black robes~
+A set of black robes lie here, heavily embroidered with archaic magical symbols.~
+~
+9 3140160 9
+10 0 0 0
+5 3000 1500 25 -1
+A
+20 -10
+A
+21 -10
+A
+22 -10
+A
+23 -10
+A
+24 -10
+#10299
+robes red brocaded archaic~
+&Ra set of heavily brocaded red robes&n~
+A set of red robes lie here, heavily embroidered with archaic magical symbols.~
+~
+9 3139136 9
+10 0 0 0
+5 3000 1500 25 -1
+A
+20 -10
+A
+21 -10
+A
+22 -10
+A
+23 -10
+A
+24 -10
+$~

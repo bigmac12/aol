@@ -1,0 +1,635 @@
+#8100
+fang wolf wolf's~
+a wolf's fang~
+A long sharp wolf's fang is lying here.~
+~
+3 417860 16385
+9 2 2 32
+3 351 35 5 -1
+E
+fang wolf wolf's~
+   This is a pale white wolf's fang, sharply pointed at one end and gleaming
+dully in the light.  Holding it, it feels faintly warm, as if it had some sort
+of power, just waiting to be unleashed.    
+~
+#8101
+delete me~
+delete me~
+A long stick with strange looking bark is lying here.~
+~
+3 64 16385
+15 2 2 52
+5 660 66 5 -1
+#8102
+potion bubbling black~
+&Ka bubbling black potion&n~
+A bubbling black potion fizzles here.~
+
+~
+10 4 1
+9 19 0 0
+1 550 125 3 -1
+#8103
+scroll dark parchment~
+a dark scroll of parchment~
+A dark scroll of parchment is lying here.~
+~
+2 0 1
+15 42 0 0
+3 1650 165 1 -1
+#8104
+backpack pack leather~
+a leather backpack~
+A leather backpack has been dropped here.~
+~
+15 1048576 34078721
+40 0 -1 0
+3 24 6 1 -1
+E
+backpack pack leather~
+   This backpack is made out of leather with a wooden back on it.  Small holes
+have been cut out, giving space for the leather straps that keep the pack
+connected to the wood and the straps that keep it on the wearer's back.    
+~
+#8105
+medallion silver paladine~
+a silver medallion of Paladine~
+A silver medallion of Paladine is lying here.~
+~
+11 3693841 5
+0 0 0 0
+1 40 4 5 -1
+E
+medallion silver paladine~
+   A heavy silver medallion bears the symbols of law and justice, the symbols
+of Paladine.    
+~
+A
+17 -1
+#8106
+diamond gem gemstone~
+a brilliant diamond~
+A brilliant diamond is lying here.~
+~
+8 0 1
+0 0 0 0
+0 502 50 1 -1
+#8107
+ruby gem gemstone beautiful~
+&Ra beautiful red ruby&n~
+A beautiful red ruby is lying here.~
+~
+8 0 1
+0 0 0 0
+1 357 36 1 -1
+#8108
+shimmering blue sapphire gem gemstone~
+&Ba shimmering blue sapphire&n~
+A shimmering blue sapphire is lying here.~
+~
+8 0 1
+0 0 0 0
+1 409 40 1 -1
+#8109
+emerald green beautiful gem gemstone~
+&Ga beautiful green emerald&n~
+A beautiful green emerald is lying here.~
+~
+8 0 1
+0 0 0 0
+1 382 38 1 -1
+#8110
+gleaming golden topaz gem gemstone~
+&Ya gleaming golden topaz&n~
+A gleaming golden topaz is lying here.~
+~
+8 0 1
+0 0 0 0
+0 271 27 1 -1
+#8111
+brass key one 1~
+a brass key~
+A brass key is lying here.~
+   The small brass key has a number "1" engraved into it, otherwise it is
+rather plain.    
+~
+18 196 1
+0 0 0 0
+0 100 0 0 -1
+#8112
+key brass 2 two ~
+a brass key~
+A brass key is lying here.~
+   The brass key is engraved with the number "2" but is otherwise rather plain.
+  
+~
+18 196 1
+0 0 0 0
+0 200 0 0 -1
+#8113
+key brass 3 three~
+a brass key~
+A brass key is lying here.~
+   The brass key has a number "3" engraved in it but is otherwise rather plain.
+  
+~
+18 196 1
+0 0 0 0
+0 300 0 0 -1
+#8114
+brass key four 4~
+a brass key~
+A brass key is lying here.~
+   The brass key is engraved with the number "4" but is otherwise rather plain.
+  
+~
+18 196 1
+0 0 0 0
+0 400 0 0 -1
+#8115
+key brass five 5~
+a brass key~
+A brass key is lying here.~
+   The brass key is engraved with the number "5" but is otherwise rather plain.
+  
+~
+18 196 1
+0 0 0 0
+0 0 0 0 -1
+#8116
+map large wall Istar~
+a large map of Istar~
+A large map of Istar hangs on the wall.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+map large Istar~
+|       +----------+                    +----------------+      |
+|       |          |                    |  +----------+  |      |
+|       | Temple   |                    |  |          |  |      |
+|       |          |                    |  |  Arena   |  |      |
+|       +----==----+                    |  |          |  |      |
+|       |10      9 |                    |  +----------+  |      |
+|       +---+T +---++-------------------+  +----------+  |      |
+|           |e |    |W   of   G                          |      |
+|           |m +----+a +-==-+ o+-------------------------+      |
+|           |ple Rd. l | 8  | d|                                |
+|      +---++-------+k +----+ s|        +---+                   |
+|      | M |        |  | 7  |  |        | P |                   |
+|      +- -+--------+  +-==-+  +--------+- -+                   |
+|      |     G   Way of the Blessed  M      |                   |
+|      +----+u +----+---+  +--------+e +----+                   |
+|           |a |    | 6 =M |        |r |                        |
+|           |r |    +---+  +---++---+c +-------+                |
+|           |d |    | 3 |P | 4 || 5 |y   Beggar|                |
+|           |St+----+-=-+  +-=-++-=-+St+-------+                |
+|           |       Market Road        |                        |
+|           +--+-=-+----+  +-----------+                        |
+|              | 2 |    |G |                                    |
+|              +---++---+o +---+                                |
+|                   | 1 =l =   |                                |
+|                   +---+d +---+                                |
+|                   |   =  =   |                                |
+|                   +---+S +---+                                |
+|                       |t.|                                    |
+|                       |  +---+                                |
+|                       |  = 11|                                |
+|                       |  +---+                                |
+|                       |G |                                    |
+|                       +--+                                    |
+|                                                               |
+| G)     South Gate                  5)     Apax's Fire Stones  |
+| P)     Statue of Paladine          6)     Bank                |
+| M)     Statue of Mishakal          7)     Roaring Dragon Inn  |
+| 1)     Herbal Shop                 8)     Peaceful Grove      |
+| 2)     General Store               9)     Garden              |
+| 3)     Hazel's Oddities            10)    Temple Bench        |
+| 4)     Karthen's Weapons           11)    Guard House         |
+~
+#8117
+map small Istar~
+a small map of Istar~
+A small map of Istar is lying here.~
+~
+12 0 1
+0 0 0 0
+0 60 15 1 -1
+E
+map small istar~
+|       +----------+                    +----------------+      |
+|       |          |                    |  +----------+  |      |
+|       | Temple   |                    |  |          |  |      |
+|       |          |                    |  |  Arena   |  |      |
+|       +----==----+                    |  |          |  |      |
+|       |10      9 |                    |  +----------+  |      |
+|       +---+T +---++-------------------+  +----------+  |      |
+|           |e |    |W   of   G                          |      |
+|           |m +----+a +-==-+ o+-------------------------+      |
+|           |ple Rd. l | 8  | d|                                |
+|      +---++-------+k +----+ s|        +---+                   |
+|      | M |        |  | 7  |  |        | P |                   |
+|      +- -+--------+  +-==-+  +--------+- -+                   |
+|      |     G   Way of the Blessed  M      |                   |
+|      +----+u +----+---+  +--------+e +----+                   |
+|           |a |    | 6 =M |        |r |                        |
+|           |r |    +---+  +---++---+c +-------+                |
+|           |d |    | 3 |P | 4 || 5 |y   Beggar|                |
+|           |St+----+-=-+  +-=-++-=-+St+-------+                |
+|           |       Market Road        |                        |
+|           +--+-=-+----+  +-----------+                        |
+|              | 2 |    |G |                                    |
+|              +---++---+o +---+                                |
+|                   | 1 =l =   |                                |
+|                   +---+d +---+                                |
+|                   |   =  =   |                                |
+|                   +---+S +---+                                |
+|                       |t.|                                    |
+|                       |  +---+                                |
+|                       |  = 11|                                |
+|                       |  +---+                                |
+|                       |G |                                    |
+|                       +--+                                    |
+|                                                               |
+| G)     South Gate                  5)     Apax's Fire Stones  |
+| P)     Statue of Paladine          6)     Bank                |
+| M)     Statue of Mishakal          7)     Roaring Dragon Inn  |
+| 1)     Herbal Shop                 8)     Peaceful Grove      |
+| 2)     General Store               9)     Garden              |
+| 3)     Hazel's Oddities            10)    Temple Bench        |
+| 4)     Karthen's Weapons           11)    Guard House         |
+~
+#8120
+dragon silver fake~
+a silver dragon~
+Huma's silver dragon is flying here, her powerful wings flapping in the air.~
+~
+12 0 0
+0 0 0 0
+300 0 314159 0 -1
+E
+dragon silver fake~
+   The dragon's neck is held up by the Huma actor.  The body and the wings are
+supported by a person in the body of the fake silver dragon.  Huma is over the
+neck of the dragon, his legs touching the ground.  This dragon is nowhere as
+big as the legends say dragons were.  Most of the dragon is made out of a light
+wood frame covered in thin cloth.  Where the stomach of the dragon would be is
+a large hole so the actor can get in and out.    
+~
+#8121
+costume silver dragon~
+a silver dragon costume~
+The costume of the silver dragon lies on the floor upsidedown.~
+~
+11 65536 524289
+0 0 0 0
+75 0 1000 1 -1
+E
+costume silver dragon~
+   The costume is not the greatest quality, but it does get the job done.  The
+head of the dragon is wooden and painted.  The body, neck, wings, and tail are
+made out of a light weight wooden frame covered tightly by silver colored
+cloth.  At the base of the neck there is no wooden frame, making it look like
+the dragon has a broken neck while it lies on the ground.  The lack of wood is
+where the Huma actor 'rides', without the wooden frame being there he can run
+across the ground instead of actually riding the dragon.  Half way up the neck
+is a small handle cut out of the mane, this is held on to by "Huma" to keep the
+neck from dragging on the ground.    
+~
+A
+2 -2
+#8122
+costume takhisis heads prismatic portion~
+the upper portion of a costume of Takhisis~
+The upper portion of a costume of Takhisis has been dropped here.~
+~
+11 65536 1048577
+0 0 0 0
+15 0 1000 1 -1
+E
+costume takhisis heads prismatic portion~
+   This costume isn't very good looking close up, but from far away, it looks
+like a miniature version of the five heads of Takhisis.  Each head is a
+different color, red, blue, white, black, and green.  The costume is a little
+wider than an average human's shoulders.  The middle head has a hole cut out of
+its neck so the wearer can see out of it.  Under the heads are large shoulder
+pads and a few leather straps that can be tied to keep it from falling off.  
+The costume is made out of thin leather wrapped around a light wooden frame.  
+
+~
+#8123
+plate armor ornate polished~
+a polished ornate plated armor~
+A polished ornate plated armor lies on the ground here, abandoned.~
+~
+9 65536 9
+1 0 0 0
+10 0 1000 1 -1
+E
+plate armor ornate polished~
+   This is an overly ornate piece of armor.  On the each of the shoulders is a
+large plate that has been shaped into the symbols of the knights, a rose, a
+sword, and a crown.  On the center of the breastplate, over the chest, is a
+large dragon, its wings are not fully attached to the armor and stick out a
+little.  The clasps to keep the breastplate and backplate together are
+decorative as well, each one of them a large metal rose.  The armor is very
+light weight, it is so thin that it doesn't seem like it could stop a dull
+knife.    
+~
+#8124
+sign wooden advertisement billboard ad large play house~
+a large wooden sign advertising the Istar Play House~
+A large wooden sign is on the ground here, face down.~
+~
+11 65552 525313
+0 0 0 0
+10 0 1000 25 -1
+E
+sign wooden advertisement billboard ad large play house~
+This sign is one large advertisement that is meant to be worn on either
+the back or infront of the wearer's body.  It has a large loop of leather at
+the top of the sign and that is all that is used to keep it on.  The front
+side has been painted white and the writing is in red paint.  It reads:
+&R
+***ISTAR PLAY HOUSE***
+ 
+    Current Play:
+    The battle of
+    Huma against
+     Takhisis!
+ 
+      Price:
+    1 Gold Coin
+    (per person)&n
+~
+#8140
+pot cooking large~
+a large cooking pot~
+A large cooking pot hangs here.~
+~
+23 0 0
+100 80 6 2
+85 0 0 0 -1
+#8141
+spoon metal large~
+a large metal spoon~
+A large metal spoon is laying here.~
+~
+5 128 1
+0 1 4 7
+2 0 0 0 -1
+E
+spoon metal large~
+   This is alarge dipping style of spoon commonly used by cooks to dip stew or
+soup from a cooking pot into serving dishes.  The spoon is obviously several
+years old and the it has probably only been cleaned once or twice in its entire
+existance.  The sticky remains of prior meals it has helped prepare cover it
+entirely.    
+~
+#8142
+key steel solid large~
+a large solid steel key~
+A large solid steel key lies here in the dust.~
+~
+18 1073741828 16385
+0 0 0 0
+15 0 0 0 -1
+#8143
+key cell used jail~
+an often used jail cell key~
+An often used jail cell key has been dropped here.~
+~
+18 4 16385
+0 0 0 0
+1 0 0 0 -1
+#8144
+crack wall hole~
+a large crack in the wall partially covered by an award~
+This quite large crack in the wooden wall is partially covered with an award.~
+~
+15 2 0
+20 1 -1 0
+0 0 0 0 -1
+E
+crack wall hole~
+   This crack has obviously been in the wall for a long time.  Several layers
+or paint have been used in a vain attempt to cover it.  After failing with the
+paint someone finally decided to use a wooden plaque to try to hide the hole.
+  
+~
+#8145
+handcuffs metal cuffs~
+a pair of metal handcuffs~
+A pair of metal handcuffs are lying here.~
+~
+9 0 4097
+5 0 0 0
+2 36 8 1 -1
+E
+handcuffs metal cuffs~
+   These handcuffs are made out of a heavy metal that would be very encumbering
+to have to wear.  They also have a very intricate locking device on them that
+would make them almost impossible to get off if someone was foolish enough to
+actually try to wear them.    
+~
+A
+2 -4
+#8146
+circlet blood red metal~
+&ra blood red metal circlet&n~
+A blood red metal circlet has been left lying here.~
+~
+9 513 17
+2 0 0 0
+1 3250 2340 19 -1
+E
+circlet blood red metal~
+   This circlet is made from an unusual metal whose color either as a result of
+the metal itself, its forging or some other unknown act has given it a blood
+red color.  Holding the circlet in your hand gives you an uneasy feeling, as if
+this piece of metal has witnessed many horrible events.    
+~
+A
+1 1
+A
+6 -1
+A
+18 1
+A
+24 -2
+#8150
+safebox jewelled box~
+a jewelled safebox~
+A jewelled safebox sits on a desk here.~
+~
+15 0 0
+100 15 8151 0
+0 0 0 1 -1
+#8151
+key small engraved silver~
+a small engraved key of silver~
+A small engraved silver key lies here.~
+~
+18 65540 1
+0 0 0 0
+0 0 0 1 -1
+#8152
+lark golden~
+a golden lark~
+A golden lark, perfectly detailed to every feather, lies forgotten here.~
+~
+8 4 1
+0 0 0 0
+0 2100 210 0 -1
+#8153
+pallet bricks tumbled marble~
+a pallet of tumbled marble bricks~
+A pallet of tumbled marble bricks stands near the side of the road.~
+~
+12 0 0
+0 0 0 0
+99 0 0 1 -1
+E
+pallet bricks tumbled marble~
+   This large pallet contains enough marble bricks to construct a garden wall
+or a lovely path.  The bricks have been carefully tumbled in large drums with
+other bits of marble to create a unique and elegant look.    
+~
+#8154
+spectacles pair silver rimmed~
+a pair of silver-rimmed spectacles~
+A pair of silver-rimmed spectacles lie here.~
+~
+9 65536 32769
+1 0 0 0
+1 0 0 1 -1
+A
+18 2
+A
+19 1
+A
+2 -1
+A
+24 3
+#8190
+cookie spice honey scallop~
+a scallop-shaped, honey and spice cookie~
+A scallop shaped cookie with an inviting aroma has been dropped here.~
+Nothing.
+~
+19 0 1
+3 0 0 0
+1 9 3 1 -1
+E
+cookie honey spice~
+   Due to the high price of sugar in the current economy, honey has been used
+to sweeten this treat.  Finely ground white flour is combined with a selection
+of tempting spices and the honey to make a special treat for the tastebuds.  
+The aroma of the spices is quite inviting.  The cookies are shaped like small
+scallop shells and are a warm shade of honey brown.    
+~
+#8191
+bread loaf sourdough~
+a round loaf of sourdough bread~
+A round loaf of bread has been carelessly discarded here.~
+~
+19 0 1
+8 0 0 0
+1 8 2 1 -1
+E
+bread loaf sour dough~
+   This round loaf of bread is one of many that is made each day to feed the
+masses of Istar.  The loaves are baked off fresh each morning from sourdough
+which has been sitting out for days in order to attract yeasts.  Each day some
+of the dough is left unbaked to be used in the next day's batch.  This
+particular loaf has been flavored with raisins and currants.    
+~
+#8192
+goblet mulberry wine~
+a leather goblet of mulberry wine~
+A leather goblet of wine has been dropped here.~
+~
+17 0 1
+8 8 8 0
+13 12 4 1 -1
+E
+goblet mulberry wine~
+   This simple leather goblet has been specially treated so that it can be used
+as a liquid container.  The stem is short and thick to allow for a sturdy grip.
+The bowl of the goblet has been stamped with the symbol of the great city of
+Istar.  It is filled with a light and sweet mulberry wine.    
+~
+#8193
+tankard honey mead~
+a pewter tankard of honey mead~
+A pewter tankard has been carelessly discarded here.~
+~
+17 0 1
+10 10 3 0
+15 12 5 1 -1
+E
+tankard pewter honey mead~
+   This pewter tankard is rather simple in design but does its job well.  It
+will hold a generous serving of ale or mead.  Currently it is filled with a
+honey mead that is light in color but rich in flavor.    
+~
+#8194
+hood crimson stitched desgins gold red~
+&Ra crimson-colored hood, stitched with designs of gold&n~
+A small pile of crimson-colored cloth lies here.~
+~
+11 64 21
+0 0 0 0
+1 1500 750 21 -1
+E
+hood crimson stitched designs gold red~
+   This hood is of the finest quality, yet seems to be a practical item for
+outdoor use.  It is cut from a fine red cloth, and has been stitched with a
+fine golden thread, making a beautiful knotwork pattern that traces the edges
+of the hood.  Strangely, it seems to exude just the slightest amount of warmth.
+~
+A
+17 -2
+A
+3 1
+#8198
+parchment conclave addressed piece~
+a piece of parchment hangs on the western wall, demanding to be read.~
+A piece of parchment hangs next to the entrance, demanding it be read.~
+~
+16 0 0
+0 0 0 0
+999 0 0 1 -1
+E
+parchment conclave addressed piece~
+
+The Three Foundations of Wizardry
+
+1.  All wizards are brothers in their order.  All orders are
+brothers in the power.
+
+2.  The places of High Wizardry are held in common among
+all orders and no sorcery is to be used there in anger against
+fellow wizards.
+
+3.  The world beyond the walls of the towers may bring brother
+against brother and order against order, but such is the way of the
+universe.
+
+~
+#8199
+sign warning large~
+a warning sign~
+A large sign of warning has been staked into the ground here.~
+~
+16 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+sign warning large~
+   Warning!  This forest has been infected by magic and leads to the tower of
+magic!  There are stories of people entering and never leaving!  Enter at your
+own risk!    
+~
+$~

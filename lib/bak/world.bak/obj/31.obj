@@ -1,0 +1,178 @@
+#3100
+bush bramble hedge prickly berry~
+a bramble berry bush~
+A dense hedge of prickly bramble berry bushes blocks the way to the south.~
+~
+15 0 0
+10 0 -1 0
+15 0 0 1 -1
+E
+bush bramble berry~
+   The thick branches of the bramble berry bush are covered with thorns which
+can make harvesting a tricky business.  It is worth the effort, though, as the
+berries possess a lovely taste which is both tart and sweet.  They are
+delightful fresh off the bush and are also great for baking and for making a
+sweet bramble berry wine which is quite popular in these parts.    
+~
+#3101
+berries bramble handful~
+a handful of bramble berries~
+A handful of deep purple berries have been dropped here.~
+~
+19 0 1
+3 0 0 0
+1 3 1 1 -1
+E
+berries bramble handful~
+   Though harvesting these berries is a bit of a challenge (what with all the
+nasty thorns that grow on their gnarled branches), it is generally worth the
+effort.  They are delightful fresh off the bush and are also great for baking
+and for making a sweet bramble berry wine which is quite popular in these
+parts.    
+~
+#3106
+scimitar leather wrapped pommel beautifully crafted~
+a beautifully crafted scimitar with a leather-wrapped pommel~
+A beautifully crafted scimitar has been carelessly left here.~
+~
+5 454656 24577
+0 4 5 3
+10 10000 5000 18 -1
+E
+pommel~
+   The pommel of this blade is wrapped in a beautiful, rich brown suede
+leather.  The leather has been tooled with a magnificent design of aspen
+leaves, curling along the pommel's length.    
+~
+E
+script druidic writing~
+   The script is etched lightly along the length of the blade, on both sides.
+The script is in the Druidic tongue, and only those of the forest are known to
+know this language.  For those who can read it, the text says, "Spirits of the
+Forest, Defenders of the Wilds, Guide Thine Blade for Your Service".    
+~
+E
+scimitar blade~
+   This is one of the most beautiful and well-crafted scimitars that you have
+ever laid eyes upon.  Its blade is perfectly balanced, and the scimitar seems
+to fit well to your hand.  The blade is polished to a shine and appears
+razor-sharp.  The pommel of the sword is wrapped with a rich, dark brown suede,
+and tooled with a leaf design.  A script in an unusual language runs along trhe
+length of the blade on both sides, etched lightly into the surface.    
+~
+A
+18 1
+#3107
+gloves leather hunting elven design~
+tan leather hunting gloves of elven design~
+A pair of leather gloves, clearly of elven design, have been discarded here.~
+~
+11 138416128 129
+0 0 0 0
+2 1200 900 18 -1
+E
+gloves leather hunting elven design~
+   The exquisite craftsmanship combined with the suppleness of the leather
+clearly identify these gloves as the work of elves.  They are a earthy shade of
+brown that would easily blend in with the hues of the forest.  Their design is
+such that they would provide coverage for the fingers and hands while not
+inhibiting their movement.  Designed to fit the slender hands of an elf, they
+would be a poor fit for the larger races of Krynn.    
+~
+#3108
+boots soft leather elven design~
+soft leather boots of elven design~
+A pair of leather boots, clearly of elven design, have been discarded here.~
+~
+11 675282944 65
+0 0 0 0
+2 1200 600 18 -1
+E
+boots soft leather elven design~
+   The exquisite craftsmanship combined with the suppleness of the leather
+clearly identify these boots as the work of elves.  They are a earthy shade of
+brown that would easily blend in with the hues of the forest.  Their design is
+such that they would provide coverage for the feet, ankles, and lower portions
+of the calf.  Designed to fit the slender body of an elf, they would be a poor
+fit for the larger races of Krynn.    
+~
+#3111
+earring stud colorless tourmaline stone~
+a colorless tourmaline stud earring~
+A colorless stone earring is lying here, forgotten.~
+~
+8 1048576 65537
+0 0 0 0
+1 175 39 12 -1
+E
+earring tourmaline colorless stud~
+   Though tourmaline can be found in nearly every color of the rainbow (and
+some colors that are not in the rainbow!  ), this particular specimen is
+completely colorless.  It tends to pick up the color of its surrounding, making
+it a very versatile piece of jewelery.  It has been attached to a golden stud
+to allow it to be worn as an earring.    
+~
+A
+17 -1
+#3112
+wrap wrist yellow golden cloth golden-yellow~
+&Ya golden-yellow wrist wrap&n~
+A golden-yellow strip of cloth is lying here, forgotten.~
+~
+11 1048576 4097
+0 0 0 0
+1 197 49 11 -1
+E
+wraps wrist golden yellow cloth~
+   These strips of golden cloths are designed to be worn wrapped around the
+wrist.  They provide a small bit of protection for the wearer's wrist, however
+their primary purpose is decorative.  Such wrist wraps are a favorite of the
+followers of Branchala who use them to accent their eye-catching ensembles.  
+
+~
+A
+17 -1
+#3147
+staff redwood wood gleaming crystalline ornamentation~
+a gleaming redwood staff with crystalline ornamentation~
+Lying here is a gleaming redwood staff.  Light plays off of its crystalline ornamentation.~
+~
+5 1076816960 8193
+0 2 8 6
+8 3200 800 24 -1
+E
+staff redwood wood gleaming crystalline ornamentation~
+   The shaft of this long, thick staff is made from the wood of a mighty
+redwood tree, prized for its strength and durability.  The staff itself has
+been carved with numerous runes, indicating that it is imbued with the power of
+white magic.  The runes have been filled and ornamented with a strange
+crystalline material, which also comprises the staff's crest: a glittering
+crystalline hand, all fingers and thumb pointed upwards, looking like an oath
+is being sworn.  Though the ornamentation appears fragile and looks like it
+would break in combat, it is very strong, and will only break if the wielder
+does.    
+~
+A
+2 -1
+A
+24 -2
+A
+18 2
+A
+19 2
+#3174
+basket willow woven~
+an artfully-woven willow basket~
+An artfully-woven willow basket has been left on the ground here.~
+~
+15 0 16385
+45 0 0 0
+1 160 40 10 -1
+E
+basket willow woven~
+   This willow basket has been skillfully made by elven crafters, no doubt.  
+The willow itself has been dried and is a warm shade of honey.  It is large
+enough to fit several loaves of bread or quite a bit of fruit.  A sturdy
+over-handle allows it to be conveniently carried in hand or on your arm.    
+~
+$~

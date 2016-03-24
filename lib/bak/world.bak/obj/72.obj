@@ -1,0 +1,60 @@
+#7200
+map road hand drawn~
+a hand drawn road map~
+A carefully hand drawn map of main roads lies here, curling up at the ends.~
+~
+12 0 1
+0 0 0 0
+0 0 0 0
+#7201
+map roads parchment~
+a roughly made road map~
+A large parchment of roughly sketched roads lies here, curling up.~
+~
+16 0 1
+0 0 0 0
+1 50 10 0
+E
+mapkey~
+KEY:
+   (K) - Kalaman
+   (I) - Istar
+   <C> - caves
+~
+E
+map roads~
+Map of High Roads from Kalaman to Istar. (To see the key, look at 'keymap.)
+(Note: this map is not to scale.)
+
+(K)
+ |                                                     ---
+|                                               ------     ---           (I)
+ |                                            /                \          -
+  |                                         /                    ------ /
+   |                                      /
+   |               <C>                ---
+    |               \          -----
+     |                \      /
+      |         \     / ----
+      |         / ---
+       |       |
+        \     /
+          \ /
+~
+#7202
+river water large~
+the large river~
+The large river crashes against the rocks with thunderous force.~
+~
+23 16 0
+100000 100000 0 0
+100005 0 0 0
+#7203
+road.sign (istar-etc)~
+a highly polished road sign~
+A highly polished road sign has been staked by the side of the road.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0
+$~

@@ -1,0 +1,661 @@
+#6200
+robes black velvet~
+&Ka set of black velvet robes&n~
+A set of black velvet robes is lying here.~
+~
+11 206498496 9
+0 0 0 0
+6 5600 2800 29 -1
+E
+robes black velvet set~
+These robes are beautifully crafted and made of the finest velvet.
+~
+A
+24 -2
+A
+17 -6
+#6201
+robes white~
+&Wwhite robes trimmed in gold&n~
+A set of white robes trimmed in gold is lying here.~
+~
+11 208579648 9
+0 0 0 0
+8 4480 2240 26 -1
+A
+24 -2
+A
+17 -6
+#6202
+table wooden large~
+a large wooden table~
+A large wooden table stands in the middle of the room.~
+~
+15 64 0
+100 0 -1 0
+120 0 0 0 -1
+E
+table small~
+   This table is carved with runes to ward off outside influences that might
+affect the mage's work.    
+~
+#6203
+spectacle pair spectacles~
+a pair of spectacles~
+A pair of spectacles is lying here.~
+~
+11 205570048 32769
+0 0 0 0
+1 4370 2185 24 -1
+A
+3 1
+#6204
+robes red set flowing~
+&Ra set of flowing red robes&n~
+A set of flowing red robes is lying here.~
+~
+11 206104064 9
+0 0 0 0
+6 5600 2800 27 -1
+A
+24 -2
+A
+17 -6
+#6206
+staff wooden~
+a gnarled wooden staff~
+A gnarled wooden staff is lying here.~
+~
+5 208317152 8193
+0 3 9 7
+6 6840 3420 29 -1
+A
+3 1
+A
+18 1
+#6207
+dagger small silver~
+a small silver dagger~
+A small silver dagger is lying here.~
+Nothing.
+~
+5 2105344 1006657537
+0 3 4 11
+1 1100 550 20 -1
+#6208
+herbs bunch sage~
+a small bunch of herbs~
+A small bunch of herbs grow here.~
+~
+19 0 1
+4 0 0 0
+1 4 1 1 -1
+#6210
+parchment scrap~
+a scrap of parchment~
+A tiny scrap of parchment has been dropped here.~
+~
+13 65540 1
+0 0 0 0
+1 0 0 1 -1
+E
+parchment scrap~
+   A single word has been written on this parchment in what appears to be
+charcoal.    
+
+
+                        Horistal
+
+
+~
+#6214
+bottle thin narrow neck~
+a tall, narrow bottle with a thin neck~
+A tall, narrow bottle has been left behind here.~
+~
+14 0 1
+0 0 0 0
+1 12 3 0 -1
+E
+bottle thin narrow neck~
+   This bottle is about eight inches in height but very narrow.  Its long neck
+has a small opening which is stopped up with a piece of cork.    
+~
+#6215
+garden herb~
+a small herb garden~
+A small herb garden has been planted here.~
+~
+15 0 0
+25 0 -1 0
+999 0 0 0 -1
+#6216
+table stone great~
+a great stone table~
+A great stone table stands here.~
+~
+15 64 0
+100 0 -1 0
+999 0 0 0 -1
+E
+table stone great~
+   Dragged from the bottom of the sea by magic, this table is so large that a
+minotaur can lay down full length upon it.  It is covered with runes to ward
+off any outside influences that might affect the mage's work.    
+~
+#6217
+spring~
+a spring~
+A spring bubbles from the ground here.~
+~
+23 0 0
+100 50 15 0
+999 0 0 0 -1
+#6218
+mortar pestle marble bottle~
+a white marble mortar and pestle~
+A marble mortar and pestle has been discarded here.~
+~
+14 0 16385
+0 0 0 0
+3 120 30 1 -1
+E
+mortar pestle marble~
+   This fine marble bowl is what is commonly known as a mortar.  Within the
+bowl rests a short rod of marble with a rounded end which is used to mash up
+dried ingredients.  It is commonly used for crushing herbs for cooking or
+perhaps for brewing up some tea.    
+~
+#6232
+book white leather~
+a book with white leather binding~
+A book with white leather binding is lying here.~
+~
+0 65536 1
+0 0 0 0
+0 0 0 1 -1
+E
+book read~
+   A White Robed wizard must follow the ways of good and keep this goal in mind
+in all that he does.  Acts contrary to the mandate of good can eventually
+result in the downfall of the wizard.  One of the first indications that a
+wizard has lost sight of his order's goal is that his order's moon no longer
+affects his abilities.    
+
+For more information on spells read Circle1, Circle2, and Circle3.
+~
+E
+Circle1~
+Circle 1 Spells:
+
+Magic Missle - Sends a magic missle at your opponent.
+The number of missles cast will increase with your abilities.
+
+Detect-Magic - Allows the caster to sense the presence of magic
+on objects.
+
+Armor - This spell will encase the target in a protective field
+of armor, temporarily making him or her harder to hit.
+
+Magic Light - Causes the caster to begin glowing with a faint aura.
+Lighting up the area around him or her.
+
+Shield - Encases the target in a magical shield, temporarily increasing
+his or her resistance to spells.  This spell will also cause magical missles
+hurled at the target to miss.
+
+Chill Touch - Chills the intended victim, doing a minor amount of damage and
+possibly lowering their strength.
+
+For more information on spells read Circle2 and Circle3.
+~
+E
+Circle2~
+Circle 2 Spells:
+
+Web - Encases the target in thick webs, preventing him or her from leaving the
+room until the web decays.
+
+Blur - Blurs the victims body making him or her harder to hit.
+
+Burning Hands - Shoots a jet of flames at the intended victim, burning him or her.
+
+Infravision - Embues the caster with enhanced night vision, allowing him or her
+see in the dark.  Note that this spell has no effect on those who possess
+natural infravision.
+
+Detect Invisibility - Allows the caster to be sensitive to the presence of invisible objects
+and people.
+
+Mirror Image - Surrounds the caster with a shimmering array of images.  Each attack aimed
+at the caster has a chance of hitting an image, shattering it but protecting the caster from harm.
+This spell requires a component.  The caster must have a special mirror for the spell to be cast.
+
+For more information read Circle3.
+~
+E
+Circle3~
+Circle 3 Spells:
+
+Shocking Grasp - Shocks the intended victim, inflicting a moderate amount of damage.
+
+Invisibility - Makes the target invisible and renders them undetectable to those who
+cannot detect invisible beings.  The spell requires bat guano which is consumed.
+when the spell is cast.  Invisibility can also be cast on objects.
+
+Strength - Temporarily increases the target's strength, allowing him or her to
+carry heavier items and allowing him or her to hit better and harder in combat.
+
+Gust of Wind - Blows the target out of the room if he or she fails their saving
+spell.  It will even blow the target out of combat, but the direction that they
+moves is completely random.
+
+Weakness - Weakens the target, temporarily lowering his or her strength.
+
+Blindness - Causes the target to become blinded, making him or her easier to hit
+in combat, and making it harder for him or her to strike others.
+
+Dispel Magic - Removes most magical spells from the target.
+
+Locate Object - This spell will locate one particular object in the world.  
+This spell requires that the caster be in possession of a fragment of ancient
+map.    
+~
+#6236
+book red leather~
+a book with red leather binding~
+A book with red leather binding is lying here.~
+~
+0 65536 1
+0 0 0 0
+0 0 0 0 -1
+E
+book read~
+   A Red Robed wizard must follow the ways of his or her order.  One of the
+first indications that a wizard has lost sight of his order's goal is that his
+order's moon no longer affects his abilities.
+
+For more information on spells, read Circle1, Circle2, Circle3.
+~
+E
+Circle1~
+Circle 1 Spells:
+
+Magic Missle - Sends a magic missle at your opponent.
+The number of missles cast will increase with your abilities.
+
+Detect-Magic - Allows the caster to sense the presence of magic
+on objects.
+
+Armor - This spell will encase the target in a protective field
+of armor, temporarily making him or her harder to hit.
+
+Magic Light - Causes the caster to begin glowing with a faint aura.
+Lighting up the area around him or her.
+
+Shield - Encases the target in a magical shield, temporarily increasing
+his or her resistance to spells.  This spell will also cause magical missles
+hurled at the target to miss.
+
+Chill Touch - Chills the intended victim, doing a minor amount of damage and
+possibly lowering their strength.
+
+For more information on spells read Circle2 and Circle3.
+~
+E
+Circle2~
+Circle 2 Spells:
+
+Web - Encases the target in thick webs, preventing him or her from leaving the
+room until the web decays.
+
+Blur - Blurs the victims body making him or her harder to hit.
+
+Burning Hands - Shoots a jet of flames at the intended victim, burning him or her.
+
+Infravision - Embues the caster with enhanced night vision, allowing him or her
+see in the dark.  Note that this spell has no effect on those who possess
+natural infravision.
+
+Detect Invisibility - Allows the caster to be sensitive to the presence of invisible objects
+and people.
+
+Mirror Image - Surrounds the caster with a shimmering array of images.  Each attack aimed
+at the caster has a chance of hitting an image, shattering it but protecting the caster from harm.
+This spell requires a component.  The caster must have a special mirror for the spell to be cast.
+
+For more information read Circle3.
+~
+E
+Circle3~
+Circle 3 Spells:
+
+Shocking Grasp - Shocks the intended victim, inflicting a moderate amount of damage.
+
+Inivisibility - Makes the target invisible and renders them undetectable to those who
+cannot detect invisible beings.  The spell requires bat guano which is consumed.
+when the spell is cast.  Invisibility can also be cast on objects.
+
+Strength - Temporarily increases the target's strength, allowing him or her to
+carry heavier items and allowing him or her to hit better and harder in combat.
+
+Gust of Wind - Blows the target out of the room if he or she fails their saving
+spell.  It will even blow the target out of combat, but the direction that they
+moves is completely random.
+
+Weakness - Weakens the target, temporarily lowering his or her strength.
+
+Blindness - Causes the target to become blinded, making him or her easier to hit
+in combat, and making it harder for him or her to strike others.
+
+Dispel Magic - Removes most magical spells from the target.
+
+Locate Object - This spell will locate one particular object in the world.  
+This spell requires that the caster be in possession of a fragment of ancient
+map.    
+~
+#6237
+cleaver meat carved ivory~
+a meat cleaver with an ivory handle~
+A meat cleaver with a carved, ivory handle is lying here.~
+~
+5 2125824 8193
+0 2 5 16
+7 160 40 12 -1
+E
+cleaver meat carved wooden~
+   This meat cleaver has a thick, ivory handle.  The ivory appears to have once
+been delicately carved but now most of the detail has been worn away by use.  
+
+~
+#6244
+book black leather~
+a book with black leather binding~
+A book with black leather binding is lying here.~
+~
+0 65536 1
+0 0 0 0
+0 0 0 0 -1
+E
+book read~
+   A Black Robed wizard must follow the ways of his or her order.  One of the
+first indications that a wizard has lost sight of his order's goal is that his
+order's moon no longer affects his abilities.    
+
+For more information on spells, read Circle1, Circle2, Circle3.
+~
+E
+Circle1~
+Circle 1 Spells:
+
+Magic Missle - Sends a magic missle at your opponent.
+The number of missles cast will increase with your abilities.
+
+Detect-Magic - Allows the caster to sense the presence of magic
+on objects.
+
+Armor - This spell will encase the target in a protective field
+of armor, temporarily making him or her harder to hit.
+
+Magic Light - Causes the caster to begin glowing with a faint aura.
+Lighting up the area around him or her.
+
+Shield - Encases the target in a magical shield, temporarily increasing
+his or her resistance to spells.  This spell will also cause magical missles
+hurled at the target to miss.
+
+Chill Touch - Chills the intended victim, doing a minor amount of damage and
+possibly lowering their strength.
+
+For more information on spells read Circle2 and Circle3.
+~
+E
+Circle2~
+Circle 2 Spells:
+
+Web - Encases the target in thick webs, preventing him or her from leaving the
+room until the web decays.
+
+Blur - Blurs the victims body making him or her harder to hit.
+
+Burning Hands - Shoots a jet of flames at the intended victim, burning him or her.
+
+Infravision - Embues the caster with enhanced night vision, allowing him or her
+see in the dark.  Note that this spell has no effect on those who possess
+natural infravision.
+
+Detect Invisibility - Allows the caster to be sensitive to the presence of invisible objects
+and people.
+
+Mirror Image - Surrounds the caster with a shimmering array of images.  Each attack aimed
+at the caster has a chance of hitting an image, shattering it but protecting the caster from harm.
+This spell requires a component.  The caster must have a special mirror for the spell to be cast.
+
+For more information read Circle3.
+~
+E
+Circle3~
+Circle 3 Spells:
+
+Shocking Grasp - Shocks the intended victim, inflicting a moderate amount of damage.
+
+Inivisibility - Makes the target invisible and renders them undetectable to those who
+cannot detect invisible beings.  The spell requires bat guano which is consumed.
+when the spell is cast.  Invisibility can also be cast on objects.
+
+Strength - Temporarily increases the target's strength, allowing him or her to
+carry heavier items and allowing him or her to hit better and harder in combat.
+
+Gust of Wind - Blows the target out of the room if he or she fails their saving
+spell.  It will even blow the target out of combat, but the direction that they
+moves is completely random.
+
+Weakness - Weakens the target, temporarily lowering his or her strength.
+
+Blindness - Causes the target to become blinded, making him or her easier to hit
+in combat, and making it harder for him or her to strike others.
+
+Dispel Magic - Removes most magical spells from the target.
+
+Locate Object - This spell will locate one particular object in the world.  
+This spell requires that the caster be in possession of a fragment of ancient
+map.    
+~
+#6247
+key conclave room~
+a large key~
+A large key is lying here.~
+~
+8 0 5
+0 0 0 0
+0 0 0 0 -1
+#6249
+ring shiny golden~
+&Ya shiny golden ring&n~
+A shiny golden ring is lying here.~
+~
+8 138412064 3
+0 0 0 0
+1 3450 1725 24 -1
+A
+24 -1
+A
+4 1
+#6250
+shelf wooden~
+a wooden shelf~
+A wooden shelf hangs on the wall.~
+~
+15 0 0
+25 0 -1 0
+10 0 0 1 -1
+#6251
+bench marble black~
+a black marble bench~
+A black granite bench rests here.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#6252
+blackberries berries handful~
+a handful of blackberries~
+A handful of dark berries is lying here.~
+~
+19 0 1
+1 0 0 2
+0 0 0 0 -1
+#6253
+bush blackberry~
+a blackberry bush~
+A blackberry bush grows here.~
+~
+15 0 0
+100 0 -1 0
+1000 0 0 0 -1
+#6254
+pomegranate red fruit~
+a red pomegranate~
+A round red fruit lies here.~
+~
+19 0 1
+3 0 0 0
+0 0 0 0 -1
+#6255
+tree pomegranate~
+a pomegranate tree~
+A graceful pomegranate tree grows here.~
+~
+15 0 0
+20 0 -1 0
+0 0 0 0 -1
+#6257
+bench red stone~
+a red stone bench~
+A red stone bench rests here.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#6258
+grapes bunch white~
+a bunch of white grapes~
+A bunch of white grapes is lying here.~
+~
+19 0 1
+3 0 0 0
+0 0 0 0 -1
+#6259
+vine grape~
+a grape vine~
+A grape vine climbs its way up the lattice.~
+~
+15 0 0
+0 0 0 0
+0 0 0 0 -1
+#6261
+bench white marble~
+a white marble bench~
+A white marble bench rests here.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+#6266
+book brown leather~
+a book with brown leather binding~
+A book with brown leather binding is lying here.~
+~
+0 65536 1
+0 0 0 0
+0 0 0 0 -1
+E
+book read~
+The Three Foundations of Wizardry
+
+1.  All wizards are brothers in their order.  All orders are
+brothers in the power.
+
+2.  The places of High Wizardry are held in common among
+all orders and no sorcery is to be used there in anger against
+fellow wizards.
+
+3.  The world beyond the walls of the towers may bring brother
+against brother and order against order, but such is the way of the
+universe.
+~
+#6267
+book red~
+a book bound in red leather~
+A book bound in red leather is lying here.~
+~
+16 65536 1
+0 0 0 0
+1 0 0 0 -1
+E
+book read red~
+   A powerful wizard of the Red Robes, Magius was a childhood friend of Huma's.
+Their friendship was very unusual since most Knights are distrustful of
+magic-users.  At the time of Magius, mages where not permitted to carry any
+weapons other than their magic.  A wizard was expected to be protected by
+warriors and to get out of any battle if he felt himself becoming weak.  
+Because of this stricture, Magius always fought side by side with Huma.  
+During one of the battles, the two were separated.  Although he had a chance to
+escape, Magius stayed and fought until his magic gave out.  Having no other
+weapon, the weakened mage was quickly overwhelmed and taken to the Dark Queen
+as a prize.  Magius was tormented and tortured until he died.  Huma grieved
+deeply and prayed to Paladine that Magius's sacrifice be remembered.  Paladine
+answered his prayers and, from that day, all wizards have been permitted to
+carry daggers in remembrance of Magius.    
+~
+#6274
+whip long sinister cat nine tails customize~
+a long, sinister cat of nine tails with a carved wooden handle~
+A long, sinister cat of nine tails is lying here.~
+~
+5 20608 8193
+0 4 5 2
+5 5120 2560 28 -1
+E
+whip long sinister cat nine tails~
+   The tails of this whip are made of thick straps of black leather, tightly
+woven together and knotted at the ends.  The handle is made of highly polished
+wood and is covered with carved runes and other symbols.  A multicolored flame
+etched on the handle indicates it is the work of a member of the Guild of the
+Flowing Flame.    
+~
+A
+18 2
+#6279
+shackle metal heavy~
+a heavy metal shackle~
+A heavy metal shackle is lying here.~
+~
+9 134221952 135169
+5 0 0 0
+8 4550 2275 29 -1
+#6280
+stone carved piece key~
+a carefully carved piece of stone~
+A carefully carved piece of stone is lying here.~
+~
+18 4 1
+0 0 0 0
+3 0 0 0 -1
+#6298
+wand thin black~
+&Ka thin black wand&n~
+A thin black wand is lying here.~
+~
+3 0 8193
+15 2 2 30
+1 2200 1100 15 -1
+#6299
+potion yellow~
+&Ya yellow potion&n~
+A yellow potion is lying here.~
+~
+10 1048580 1
+10 1 0 0
+0 1400 350 10 -1
+$~

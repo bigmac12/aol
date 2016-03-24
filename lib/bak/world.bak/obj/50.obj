@@ -1,0 +1,764 @@
+#5000
+street.sign~
+a street sign~
+A large sign hangs from a pole near the middle of the road, giving directions.~
+~
+16 0 0
+0 0 0 0
+0 0 0 0 -1
+#5001
+building.sign~
+a building plaque~
+A carved and painted plaque hangs from the side of the building.~
+~
+16 0 0
+0 0 0 0
+0 0 0 0 -1
+#5002
+pillar display small marble swords set~
+a small marble pillar display~
+Two small marble pillars stand near the stairs, displaying a set of swords.~
+~
+0 16 0
+0 0 0 0
+0 0 0 0 -1
+E
+set swords finely shortsword slim blade large longsword runic~
+   The set of swords displayed upon the top of the pillar are beautifully
+crafted by an expert weaponsmith, and look perfectly balanced.  The smaller,
+slim blade has a handle of pearl inlaid with gold veins, and the larger sword
+was crafted with an odd fiery opal handle, also inlaid with gold veins, giving
+it the illusion of flames within the handle.  Along the larger blade can be
+seen etched runic symbols of elven script, flowing with elven magic.  Clearly,
+these weapons were made as a pair, and are valuable - not only for their
+craftsmanship, but also as a displayed gift to the gods of warfare.    
+~
+E
+small marble pillar display~
+   The small pillar is made of smooth white marble, streaked with veins of gold
+and silver, creating a crackling pattern within the marble.  Along the pillar
+is carvings of dragons winding their way up toward the top of the pillar, being
+ridden by holy warriors, frozen eternally in the marble as they reach for the
+set of finely crafted swords that are displayed upon the pillar top.    
+~
+#5005
+fountain~
+a fountain of Zeboim~
+A crystal statue of a sea maiden stands seductively in the middle of a fountain.~
+~
+23 16 0
+99999999 99999999 15 0
+100000004 0 0 0 -1
+#5006
+basin~
+a three-tiered basin~
+You see the glimmer of gold as clear water flows over the three-tiered basin.~
+~
+23 16 0
+1000 1000 15 0
+1005 0 0 1 -1
+#5007
+map karthay rolled~
+a rolled map of karthay~
+A rolled piece of paper with the word Karthay on its side rests on the ground.~
+~
+12 0 1
+0 0 0 0
+0 3 0 1 -1
+E
+map rolled karthay~
+
+                Map of the City of Karthay
+
+
+                     Gate
+                      |
+                *-----*-M          
+                | L   |             A- Seraco Crossing
+             R  |     |             B- Seasick Kraken Inn and Bar
+            *---*     |             D- Seamist Tower
+       B    |         |             E- The Coiled Serpent
+Gate---*----*  J      *-*-*         F- Under the MoonGlow
+       | H   \      K/  | |O        G- Shandra's Gems and Jewelry 
+       |      \     /  N| |         H- Cinnabar's Leatherworking Shop
+       |       \   /    |-*         J- Shahara's Treasury
+       |        \ /     *---*       K- Red Metal Rose Blacksmith Shop
+       *---*     A         P|       L- Arashi Weaponry
+           |    / \         |       M- Guild of the Warrior
+           |   /   \        |       N- Karthay Fish Market
+           |  /     \       |       O- City Docks
+           | /       \ G    |       P- The Holy Shell 
+           -*         *-----*       Q- Temple of Zeboim
+            |  E    F |      Q      R- Mayors Mansion
+            |     *---*
+            |     |
+            |     |
+            *-----*
+            D
+
+~
+#5008
+shroud mist~
+a shroud of slowly turning mist~
+A mass of misty fog swirls on the ground.~
+~
+9 141468160 1025
+6 0 0 0
+1 750 375 16 -1
+E
+shroud mist~
+   An almost imperceptable mass of sticky mist holds its form despite
+any breeze and clings together into an elongated form.  It is possible to
+pick it up and manipulate it, though difficult due to its viscous nature.
+~
+#5009
+crudely wrapped serpents scales~
+&gcrudely wrapped serpents scales&n~
+A pile of loose scales glistens in the light.~
+~
+9 0 257
+6 0 0 0
+5 1832 879 19 -1
+E
+crudely wrapped serpents scales~
+   The skin of a large snake has been peeled off and formed into two narrow
+sheets.  They are shades of dark green and black with small white diamond
+shapes patterned over their surface and tapered down.
+~
+A
+2 1
+#5010
+turtle shell~
+&ga turtle shell&n~
+The shell of a turtle lays here upturned.~
+~
+9 4096 513
+1 0 0 0
+5 39 10 3 -1
+E
+turtle shell~
+   The shell of a turtle has been hollowed out and a small strap attached
+within to all it to be held to the chest in battle.  Although strong it is
+brittle.    
+~
+#5011
+fish tail~
+a fish tail~
+A fish tail lays rotting on the ground.~
+~
+19 0 1
+6 0 0 0
+0 1 0 1 -1
+E
+fish tail~
+   The remnants of a fish have been left for the birds to consume.  Although
+unappetizing it may just enough to sustain a person before they get to the
+store.    
+~
+#5012
+rope wide braided loop~
+a wide braided loop of rope~
+A braided rope lays coiled in the ground.~
+~
+11 0 1048577
+0 0 0 0
+1 42 11 4 -1
+E
+wide braided loop rope~
+   Several strands of thick rope have been carefully braided together to
+form a wide band that when worn will hang down and cover the shoulders and
+parts of the chest.  Although old and frayed it is still strong and supple.
+~
+A
+17 -1
+#5013
+blue parrot feather~
+&Ba blue parrot feather&n~
+A feather blows about in the wind.~
+Nothing.
+~
+11 0 5
+0 0 0 0
+1 38 9 5 -1
+E
+blue parrot feather~
+   The feather is a brilliant shade of blue, and shimmers in the reflected
+light.  When tied to a piece of sinew or string it can be readily hung about
+the neck.    
+~
+#5014
+jacket fine leather~
+a fine leather jacket~
+A jacket made from cured leather sits in a clump on the ground.~
+~
+11 0 9
+0 0 0 0
+3 18 5 3 -1
+E
+fine leather jacket cured~
+   A tailored jacket obviously made for one of the wealthy citizens of Karthay.
+It has perfect seams and does not have so much of a scratch on its surface.  
+Well manufactured, it is durable and strong.    
+~
+A
+17 -1
+#5015
+spur matte black spiked~
+&Ka matte-black spiked spur&n~
+A small hoop set with a projection of sharp spikes sit upright on the ground.~
+~
+9 488649216 131073
+2 0 0 0
+2 651 152 15 -1
+E
+matte black spiked spur~
+   A thin band of iron has been tempered black with salt into a tight ring
+designed to be attached to the ankle.  From the back projects a bar from
+which is attached a small disc fitted with sharp, narrow spikes.
+~
+A
+14 10
+#5016
+scourge leather animal teeth coil~
+a scourge of leather and animal teeth~
+A long piece of tanned leather and sharp teeth sits coiled on the ground.~
+~
+5 4096 10241
+0 2 4 1
+4 184 46 12 -1
+E
+scourge leather animal teeth coil~
+   The skin stripped from some forest animal has been carefully flayed
+and tanned, then wrapped together into the form of a long piece of leather.
+Woven into its tip are the teeth of the animal, sharpened against the stone
+in order to add extra pain during self flagellation.
+~
+A
+17 -1
+#5017
+armplates steel blackened~
+&Karmplates made of blackened steel&n~
+A pair of blackened steel armplates are lying here, forgotten.~
+~
+9 2641920 257
+5 0 0 0
+12 853 427 16 -1
+E
+armplates steel blackened~
+   These armplates have been expertly crafted of blackened steel.  They bear
+the insignia of the elite guardsmen of Karthay.  They provide maximum
+protection and comfort for a long day's watch.  A soft felt lining offers added
+comfort.    
+~
+A
+18 1
+#5018
+pauldrons black thick leather~
+&Kblack pauldrons made of thick leather&n~
+Thick black leather pauldrons are lying here, forgotten.~
+~
+9 4096 1048577
+3 0 0 0
+3 660 330 16 -1
+E
+pauldrons black thick leather~
+   These shoulder guards have been expertly crafted from fine strips of black
+leather.  The strips are fastened together by sturdy steel rivets.  Their
+adjustable straps allow for a comfortable fit for wearers of nearly any size.
+  
+~
+#5019
+visor terrifying black steel stained blood~
+&Ka terrifying black visor&n~
+A piece of black steel, stained with blood lies here.~
+~
+9 136859648 32769
+3 0 0 0
+2 550 275 16 -1
+E
+visor terrifying black steel~
+   This visor has been crafted to protect well, but also for an intimidating
+look.  It is, in essence, a thick black steel cage made to fit over the face.
+At its top is the crest formed to resemble a crescent moon.  The bars of the
+mask are each decorated with a wicked design.  Made to be worn with a thick
+helmet, this fine piece of armor would offer protection, as well as let the
+world know that the wearer is none to be trifled with.    
+~
+#5020
+shield elite guardsman emblazoned karthay~
+an elite guardsman's shield~
+A large shield emblazoned with Karthaian heraldry lies here, face up.~
+~
+9 2641920 513
+8 0 0 0
+13 550 275 16 -1
+E
+shield eliet guardsman emblazoned karthay~
+   This large shield is made of heavy, reinforced steel with leather straps.  
+On its face is painted the heraldry of Karthay, and displayed prominently upon
+it is the symbol of the crescent: the mark of Takhisis.  Since Karthay became
+Her city, all guards are outfitted with these shields which are as intimidating
+as they are practical.    
+~
+#5021
+parchment piece~
+a piece of parchment~
+A piece of parchment is lying here.~
+~
+16 1048576 16385
+0 0 0 0
+1 3 1 0 -1
+#5022
+pen quill ink~
+a quill pen and some ink~
+A quill pen and some ink are lying here, forgotten.~
+~
+21 1048576 1
+0 0 0 0
+1 2 1 1 -1
+#5023
+robe black beltless hooded cloth~
+a beltless, hooded robe of black cloth~
+A pile of black cloth lies here in a heap.~
+~
+11 4119040 1033
+0 0 0 0
+1 30 5 4 -1
+E
+robe hooded black cloth beltless~
+   This beltless hooded robe is made of fine black cloth, and is trimmed in
+black silk.  The hood of the robe hangs low, so as to conceal the face of the
+wearer.  Stitched into the sleeve is a small purple crescent.    
+~
+A
+17 -3
+#5024
+robe brown floor-length~
+&ya floor-length, hooded brown robe&n~
+A pile of brown and black cloth lies here.~
+~
+11 1048576 1033
+0 0 0 0
+1 30 5 4 -1
+E
+robe hooded floor-length floor brown~
+   This hooded, floor-length robe is made of coarse brown cloth, and has a
+black cuff and hemstripe.  The hood is deep, hiding the face of the wearer in
+darkness and keeping their identity a secret.    
+~
+A
+17 -3
+#5025
+mask clay nondescript~
+a non-descript clay mask~
+A brown clay mask lies forgotten on the ground.~
+~
+9 135397392 32769
+3 0 0 0
+1 30 5 4 -1
+E
+mask clay non-descript~
+   This non-descript mask is made of brown baked clay, and has shoddily made
+holes for the eyes and mouth of the wearer.  It reveals very little of the
+wearers face.    
+~
+#5026
+robe calf-lenth black~
+&Ka calf-length, hooded black robe&n~
+A pile of black cloth lies in a heap here.~
+~
+11 4119040 1033
+0 0 0 0
+1 30 5 4 -1
+A
+17 -3
+#5027
+mask skull cracked broken~
+&Wa cracked and broken skull mask&n~
+A cracked and broken skull mask lies on the ground here.~
+~
+9 1051152 32769
+-3 0 0 0
+1 20 5 4 -1
+E
+mask skull cracked broken~
+   This mask is formed from the rather old remains of a goats skull.  It's
+cracked in many places, and a piece of the jaw is broken off.    
+~
+#5028
+robe robes hooded deep green long~
+&ga long, hooded robe of deep green&n~
+A pile of deep green cloth lies in a heap here.~
+~
+11 0 1033
+0 0 0 0
+1 30 5 4 -1
+E
+robe hooded deep green~
+   This long, hooded robe is made of lightweight deep green cloth, the color of
+the sea.  Stitched into the sleeve is a small turtle-shell pattern.    
+~
+A
+17 -3
+#5050
+pendant takhisis midnight black crescent~
+&Ka pendant of a midnight black crescent&n~
+A pendant of a midnight black crescent lies here.~
+~
+11 1048576 16389
+0 0 0 0
+1 130 35 10 -1
+E
+pendant takhisis midnight black crescent~
+   This pendant is made out a disc of metal, and is a dark grey color.  Some
+coating on the metal makes it lose it's luster, giving it a non-polished look.
+In the center of the disc is a midnight black crescent.  A small circle is on
+top of the disc, allowing it to be hung from a chain.  The chain itself is made
+out blackened steel.    
+~
+A
+17 -2
+#5051
+pendant sargonnas red condor steel~
+a blackened steel pendant of a red condor~
+A blackened steel pendant of a red condor lies here.~
+~
+11 1048576 16389
+0 0 0 0
+1 120 30 10 -1
+E
+pendant sargonnas red condor steel~
+   This pendant is made out of a dark black colored steel and is formed into
+the shape of a simple disc.  At the center of the disc is a red condor.  It's
+wings are spread out from it's body, and it seems like each feather on it's
+wings has been added in, showing the detail put into it.  On the top of it
+there is a small circle, allowing it to be hung from a chain.  Through the
+circle is a chain of blackened steel.    
+~
+A
+17 -2
+#5052
+pendant morgion axe upside down upside-down~
+a pendant of an upside-down axe~
+A pendant of an upside-down axe lies here.~
+~
+11 1048576 16389
+0 0 0 0
+1 125 30 10 -1
+E
+pendant morgion axe upside down upside-down~
+   This pendant is simple looking, and not very attention grabbing.  The
+pendant has been made out of blackened steel and is shaped into a disc.  On one
+side of it isn't blackened steel, but it is a normal steel color and forms the
+shape of an upside-down axe.  The shape appears to be a double bladed axe that
+is a fairly common dwarven design.  On top of the disc is a small circle,
+allowing it to be hung from a chain.    
+~
+A
+17 -2
+#5053
+pendant chemosh yellow skull~
+&ya pendant of a yellow skull&n~
+A pendant of a yellow skull lies here.~
+~
+11 1048576 16389
+0 0 0 0
+1 115 30 10 -1
+E
+pendant chemosh yellow skull~
+   This pendant is made out of black iron and shaped into a disc.  The center
+of the disc has a yellow skull on it, which seems to be grinning, if that's
+possible for a skull.  The eyesockets almost seem to have a sinister look in
+them.  On the top of the disc is a small circle, allowing it to be hung by it's
+black chain.    
+~
+A
+17 -2
+#5054
+pendant zeboim green turtle shell~
+&ga pendant of a green turtle shell&n~
+A pendant of a green turtle shell lies here.~
+~
+11 1048576 16389
+0 0 0 0
+1 120 30 10 -1
+E
+pendant zeboim green turtle shell~
+   This pendant is made out of a thin sheet of tin, formed into a disc shape.
+On the center of the pendant is an etching of a turtle shell, painted green.  
+The detail on the pendant makes it look like a real turtle shell.  A small
+circle is on top of the pendant, allowing it to be hung by a chain or a rope.
+  
+~
+A
+17 -2
+#5055
+pendant hiddukel broken merchant merchant's scale scales~
+a pendant of broken merchant's scales~
+A pendant of broken merchant's scales lies here.~
+~
+11 1048576 16389
+0 0 0 0
+1 105 25 10 -1
+E
+pendant hiddukel broken merchant merchant's scale scales~
+   This pendant is made from what looks, and feels like, bones.  It appears
+that it was left outside for a while, it's color is bleach white.  Red paint on
+the front of the pendant forms a set of merchant's scales, a stand that holds a
+bar by it's middle, the bar having a cup connected by chains on each end.  
+This scale seems to be broken though, the bar is bent slightly and one of the
+cups isn't even connected to the rest of the scale.  On the top of the pendant,
+a small circle has been carved out of it, allowing it to be hung by it's rope.
+  
+~
+A
+17 -2
+#5069
+map Karthay area~
+a map of the Karthay area~
+A scroll bearing a carefully drawn map is lying here.~
+~
+12 0 1
+0 0 0 0
+1 12 3 5 -1
+E
+map Karthay area~
+
+This beautifully drawn scroll highlights the area in and around the city of Karthay.
+
+      Temple of
+      Sargonnas                
+          |                    
+           \                   
+            \             +---+
+             +---+\      /     \
+            /      +----+       +----------------Guthorg
+           /            |       |                Village
+<--to Ruins of Lord     |       |
+Darkhok's Estate        |       +
+          \             |        \
+            +-- City of +         |
+                Karthay          /
+                                /
+                               +
+                              / \
+                             /   +-----+--+
+                            +         /    \
+                           /      Mystvale  +--+
+                          |         Lake        \
+                          |                      +------+
+                         /                              |
+                        |                            City of
+                        |                             Lacynes
+
+~
+#5070
+map large city~
+a large map of Karthay~
+A large map of the city hangs on the eastern wall.~
+~
+0 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+map large city~
+
+         _________________________________________________
+        |                                             | S |
+        |                                             | h |
+        |                                             | o |
+        |                                 ------------  r |
+        |                        1       |              e |2
+        |                       ---      |    --------    |
+        |                      |   |     |   |4       | R |
+        |   C   3              |    -----    |        | o |
+Western  ----------------------              |        | a |
+Entrance   Richwater  Street        _________|        | d |___
+        |_____     ____________    |   7              |  _    |Docks of
+        |     |   |     6       \  \               5 /  / |   |Karthay
+        |     |   |               \S \             /  /   |   |
+        |     |    ------------     \e \         /  /    8|    -------
+        |     | Sandstone Lane |      \r \     /  /       |           |
+        |      -------------   |        \a \ /  /          --------   |
+        |                   |  |          \c  /                    |  |
+        |                   |  |         /  \o \                 10|  |
+        |                   |  |       /  /   \  \                 |  |
+        |                   |  |     /  /       \ W\               |  |
+        |                   |  |   /  /           \ a\     11      |  |
+        |                   |   --- /               \ y\ ----------   |
+        |                    --    |          12      |               |
+        |                       |  |       -----------    -----------13
+        |                       |  |      | Calere Lane  |            |
+        |                       |  |      |   -----------             |
+        |                       |  |      |  |                        |
+        |                       |  |      |  |                        |
+        |   T h e  C i t y      |   ------   |                        |
+        |   K a r t h a y       |            |      *Be sure to read  |
+        |                       14-----------          the legend.    |     
+        |_____________________________________________________________|                      
+
+~
+E
+legend~
+
+                        C = Chamber of Commerce Office
+                        1 = Lord's Mansion
+                        2 = Guild of the Warrior
+                        3 = The Seasick Kracken
+                        4 = Arashi Weaponry
+                        5 = The Red Metal Rose Blacksmith Shop
+                        6 = Cinnabar's Leatherworking Shop
+                        7 = Shahara's Treasury
+                        8 = Fish Market
+                       10 = The Holy Shell
+                       11 = Shandra's Gems and Jewelry
+                       12 = Under the Moonglow
+                       13 = Temple of Zeboim
+                       14 = Sea Mist Tower
+
+~
+#5071
+map small Karthay~
+a small map of Karthay~
+A small map of Karthay is lying here.~
+~
+12 0 1
+0 0 0 0
+1 8 2 1 -1
+E
+map karthay~
+
+         _________________________________________________
+        |                                             | S |
+        |                                             | h |
+        |                                             | o |
+        |                                 ------------  r |
+        |                        1       |              e |2
+        |                       ---      |    --------    |
+        |                      |   |     |   |4       | R |
+        |   C   3              |    -----    |        | o |
+Western  ----------------------              |        | a |
+Entrance   Richwater  Street        _________|        | d |___
+        |_____     ____________    |   7              |  _    |Docks of
+        |     |   |     6       \  \               5 /  / |   |Karthay
+        |     |   |               \S \             /  /   |   |
+        |     |    ------------     \e \         /  /    8|    -------
+        |     | Sandstone Lane |      \r \     /  /       |           |
+        |      -------------   |        \a \ /  /          --------   |
+        |                   |  |          \c  /                    |  |
+        |                   |  |         /  \o \                 10|  |
+        |                   |  |       /  /   \  \                 |  |
+        |                   |  |     /  /       \ W\               |  |
+        |                   |  |   /  /           \ a\     11      |  |
+        |                   |   --- /               \ y\ ----------   |
+        |                    --    |          12      |               |
+        |                       |  |       -----------    -----------13
+        |                       |  |      | Calere Lane  |            |
+        |                       |  |      |   -----------             |
+        |                       |  |      |  |                        |
+        |                       |  |      |  |                        |
+        |   T h e  C i t y      |   ------   |                        |
+        |   K a r t h a y       |            |      *Be sure to read  |
+        |                       14-----------          the legend.    |     
+        |_____________________________________________________________|                      
+
+~
+E
+legend~
+                        C = Chamber of Commerce Office
+                        1 = Lord's Mansion
+                        2 = Guild of the Warrior
+                        3 = The Seasick Kracken
+                        4 = Arashi Weaponry
+                        5 = The Red Metal Rose Blacksmith Shop
+                        6 = Cinnabar's Leatherworking Shop
+                        7 = Shahara's Treasury
+                        8 = Fish Market
+                       10 = The Holy Shell
+                       11 = Shandra's Gems and Jewelry
+                       12 = Under the Moonglow
+                       13 = Temple of Zeboim
+                       14 = Sea Mist Tower
+
+~
+#5072
+sign welcome~
+a welcome sign~
+A large WELCOME sign hangs behind the counter.~
+~
+10 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+sign welcome~
+Greetings and welcome to the fine city of Karthay,
+
+We are glad you have come to visit our thriving city and hope you will
+tour the many sights we have to offer. New visitors to the city may
+to start their journey at the docks to the east. Situated in a
+picturesque bay at the mouth of the Turbidus Ocean our merchant navy
+has helped make us a contending force in commerce in the eastern
+realms to rival even Palanthas' glory. We also invite you to tour the
+Lord's Estate situated in the northern center of our growing town to
+marvel at the opulence and elegance that is Karthay.
+
+But save your coin, for in the shops of Karthay the finest products in
+the whole of Ansalon can be found. Armourers, letherworkers and
+weaponsmiths offering quality blades and clothing for the man at arms
+are just the beginning. We also have shops catering to the needs of
+young magi and the treasured clerics of our gods. If you have come
+not only to see but to learn and improve yourself as well we boast some
+of the most esteemed trainers and teachers this side of Krynn.
+
+So welcome: to the adventure, the excitement, the growth that is 
+the new Karthay.
+~
+#5094
+board out of character outerworldly~
+an out of character board~
+An outerworldly board hovers in the air, covered in magical glowing script.~
+~
+13 16 0
+0 0 0 0
+9999 0 0 0 -1
+#5095
+board bugs problems ideas~
+a board of bugs and ideas~
+A mis-matched board hangs here, listing problems and ideas for the world.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+#5096
+board rules policy~
+a wall of rules~
+A wall covered in thick parchment lists rules and policies.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+#5097
+board advertisements trade events~
+an advertisements board~
+A board of advertisements for items and events covers the wall.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+#5098
+board crime wanted posters~
+a board full of wanted posters~
+A large board hangs against the wall covered in wanted posters of criminals.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+#5099
+board main bulletin~
+the main bulletin board~
+The main bulletin board hangs near the door, where it can be easily read.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+$~

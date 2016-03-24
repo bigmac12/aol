@@ -1,0 +1,1804 @@
+#10000
+map kalaman~
+a map of Kalaman with writing on front and back~
+A map of Kalaman is rolled up on the ground.~
+~
+12 0 1
+0 0 0 0
+1 8 0 1 -1
+E
+back page2~
+1  The Dripping Dagger Inn *Rent at Stanley* 16 The General Store                      
+2  The Magic Shop and Mage Libary            17 The Gorcery                            
+3  The Book Store                            18 The Bakery                             
+4  The Bank *Deposit and Withdraw Money*     19 The Kalaman Stables *mountable horses* 
+5  The Antquie Shop *Drop room above*        20 The Gaol *Prison,Arrest only by Knight*
+6  The Temple of Paladine and Clerics'Shop   #  The Grates *Leads to the sewers*       
+7  The Home of Pender Brightblade *Trainer*  @  The Kalaman Drifter *ship to Palanthas*
+8  The Central Square of Kalaman *Herald*    The Docks  *Newbie Leveling Zone*         
+9  The Dripping Dagger's Bar *Gillian*       *  Board Rooms *Above in the Inn*         
+10 The Jewelry Shop                          %  Road leading to Istar/Karthay          
+11 The Kalaman Bathhouse                     $  Road leading to Palanthas/Vingaard     
+12 The Kalaman Garrison *Knight Only*        The Beach of Kalaman *Newbie Zone*        
+13 The Weapon Shop                                                                     
+14 The Armor Shop                                                                      
+15 The Clothing Shop                                                                   
+   Newbie Zones are for level 1 through 5 depending on CLASS, some mobs are level 6+.  
+&RNote: Do NOT fight in a room where a CITY GUARD is present, they will assist and Kill you&n
+~
+E
+map~
+                            North Gate
+                                 |                                ----------------
+        |--Caergoth------Lane------| 16                            ---------------
+        |             |      15-15-|-|-Caergoth-Lane-           T   --------------
+        |             #            | |         |  T  |           h   -------------
+        D    2        |            | |         S  h  S            e   ------------
+        a----|--Quill----Lane-|----|-|-17      e  e  e               -------------
+        r    3        |      20 14-|-|-18      a-----a--north pier   -------------
+        g             R           13 --C       |     |               ----The------
+        a  5          o                r       w  D  w            B  ------Kalaman
+        a--+Sword St--s                o       i  o  a           e  -----------Bay
+        r  4       10 e                w       n  c  t          a  ---------------
+        d             |                n       d  k  c           c ---------------
+        |         6---|       1        |       |  s  h-south pier h --------------
+    West|      11 '   |   7   *-9      |       |     |   |          --------------
+$-------+--Huma'Lane--8---'---+----Huma#Lane---+------   @       o ---------------
+   |Gate|             |       |        |       A                f ----------------
+   19   #             |       |        S       l                ------------------
+        R             |       W        t       ley--           -------------------
+        o             A       a        r                     K  ------------------
+        a             v-Cat#  t        e                      a ------------------
+        d             e    Al-c        e                     l -------------------
+        |             |       h        t                      a ------------------
+        |             |       |        |                       m -----------------
+        |             |   12  |        |                        a ----------------
+        -----Garnet---+---'---'--Street-                         n ---------------
+                      %                                            ---------------
+                 South Gate                                          -------------
+
+&R    **Type    look back   to read more**   &n
+~
+#10001
+fountain turbidus~
+the fountain of the Turbidus Ocean~
+A natural fountain of the Turbidus Ocean flows quietly.~
+~
+23 276 0
+99999 99999 15 0
+100004 0 0 1 -1
+E
+fountain~
+   This natural fountain is fed by the Turbidus Ocean, running up from deeply
+under the square.    
+~
+#10002
+tunic tattered~
+a tattered tunic~
+A tattered tunic is lying here.~
+~
+11 1048576 9
+0 0 0 0
+1 8 2 1 -1
+E
+tunic tattered~
+   This old and tattered tunic was once a lively blue color but has faded, and
+has several tears.    
+~
+A
+17 -1
+#10003
+boots elven~
+a pair of elven boots~
+A pair of elven boots is ready to be worn.~
+~
+9 1019215872 65
+1 0 0 0
+1 4 8 2 -1
+E
+boots elven~
+   This beautifully worked pair of leather boots has a fringed collar and hand
+embroidered tongue.    
+~
+#10004
+leggings red~
+&Ra pair of red leggings&n~
+A pair of red leggings lies here.~
+~
+11 1048576 33
+0 0 0 0
+1 21 5 3 -1
+E
+leggings red~
+   This pair of red leggings has an embroidered edge along each of the outer
+hems.    
+~
+A
+17 -1
+#10005
+tunic red silk~
+&Ra red silk tunic&n~
+A red silk tunic lies here.~
+~
+11 1048576 9
+0 0 0 0
+1 34 8 4 -1
+E
+tunic red silk~
+   This tunic is made from a finely spun red silk, and sewn together with
+silver thread.    
+~
+A
+17 -1
+#10006
+pendant zivilyn tree wooden green chain~
+&wa thin chain rope with a wooden &ggreen tree&w pendant&n~
+A wooden pendant of a green tree lies here.~
+~
+11 1048576 16389
+0 0 0 0
+1 100 25 10 -1
+E
+pendant zivilyn tree wooden green~
+   This wooden pendant is in the shape of a disc.  It is about as thick as many
+rings, thicker than metal discs of the same size, but a bit lighter than them
+though.  On one side of the disc has been carved into, forming the shape of a
+tree.  The tree has been painted a green color.  On the top of the disc is a
+circle that allows it to be hung from a piece of rope or a chain.  A thin rope
+is through the circle, and is tied at it's ends, allowing it to be put around
+someone's neck.    
+~
+A
+17 -2
+#10007
+pendant shinare griffon wing griffon's chain~
+&wa thin silver chain with a &Yplated griffon's wing&w pendant&n~
+A gold plated pendant of a griffon's wing lies here.~
+~
+11 0 16389
+0 0 0 0
+1 150 40 10 -1
+E
+pendant shinare griffon wing griffon's gold~
+   The pendant is a made out of silver, and shaped into a thin disc shape.  On
+one side is a gold plated feathered wing.  The wing seems really powerful, and
+it's many feathers long.  Each feather on the wing has been detailed carefully.
+On the top of the disc is a small circle, allowing a chain to be attached to it
+so it can be worn around the neck.  The chain is made out of thin silver, which
+seems to of been polished.    
+~
+A
+17 -2
+#10008
+leggings dark green~
+&ga pair of dark green leggings&n~
+A pair of dark green leggings is lying here.~
+~
+11 1048576 33
+0 0 0 0
+1 41 10 6 -1
+E
+leggings green~
+   This pair of cotton leggings is a dark green in color, and appear to be well
+made.    
+~
+A
+17 -2
+#10009
+tunic dark green~
+&ga dark green tunic&n~
+A dark green tunic is lying here.~
+~
+11 1048576 9
+0 0 0 0
+1 6 2 1 -1
+E
+tunic green dark~
+   This dark green tunic has been sewn with obvious attention to detail, the
+hems barely visible.    
+~
+A
+17 -1
+#10010
+money conversion table~
+a money conversion table~
+A money conversion table is lying here.~
+~
+16 0 1
+0 0 0 0
+1 0 0 1 -1
+E
+money conversion table~
+                   copper     gold       steel      platinum
+copper               1           -             -                -
+gold                  10          1            -                -
+steel                100       10            1               -
+platinum         1000     100          10              1
+~
+#10011
+dress simple white~
+&Wa long, simple white dress with bands of lace&n~
+A white dress lies here.~
+~
+9 134218752 9
+3 0 0 0
+1 45 10 6 -1
+T 4
+E
+dress white simple~
+   This simple dress is pure white in color and has a band of lace along the
+collar and sleeves.  It falls gracefully to the feet.    
+~
+#10012
+warrant arrest~
+a warrant for arrest~
+A warrant for someones arrest lies discarded on the ground.~
+~
+16 65536 1
+0 0 0 0
+1 1 0 5 -1
+T 10015
+E
+undefined~
+Nothing.
+~
+#10013
+strawberries berry berries fruit~
+some strawberries~
+A handful of strawberries lies here.~
+~
+19 0 1
+3 0 0 0
+1 3 1 1 -1
+E
+strawberries berries~
+   These are small, ripe strawberries with a slightly sour taste.    
+~
+#10014
+anvil~
+an anvil~
+A large anvil lies here.~
+~
+13 0 0
+2 0 0 0
+100 2 1 1 -1
+E
+anvil~
+   The large steel anvil sits close to the forge.  A long length of red hot
+steel lies upon it waiting to be shaped.    
+~
+#10015
+beltpouch belt pouches~
+a sturdy leather belt with several hanging pouches~
+A belt of pouches lies here.~
+~
+15 0 2049
+25 0 -1 0
+1 21 5 1 -1
+E
+beltpouch belt~
+   This sturdy leather belt has several small pouches attached by seams on the
+back of the belt.    
+~
+A
+17 -1
+#10016
+barrel~
+a barrel~
+A barrel filled with water stands close to the anvil.~
+~
+23 0 0
+1000 1000 0 0
+1005 2 1 1 -1
+E
+barrel water~
+   A large wooden barrel filled with water stands close to the anvil.  It is
+used by the smith to plunge red hot metals into.    
+~
+#10017
+watermelon melon fruit~
+a watermelon~
+A large watermelon lies here.~
+~
+19 0 1
+10 0 0 0
+2 10 2 1 -1
+E
+watermelon melon~
+   This plump, oversized watermelon makes a juicy meal for two or for one with
+a hearty appetite.    
+~
+#10018
+pendant chain copper rose majere~
+&ya copper chain with a inlaid copper rose pendant&n~
+A pendant of a copper rose lies here.~
+~
+11 1048576 16389
+0 0 0 0
+1 120 30 10 -1
+E
+pendant majere copper rose~
+   The pendant is mostly made out of iron, formed into a thin disc.  On the
+front of the disc, inlaid copper forms the shape of a single rose.  It looks
+realistic, each pedal on the rose can be seen and the stem travels a little
+before it ends, cut from the looks of it's end.  A small circle has been
+attached to the disc, allowing it to be hung by it's copper chain.    
+~
+A
+17 -2
+#10019
+pump~
+a water pump~
+A water pump stands next to the bar.~
+~
+23 0 0
+9999 9999 0 0
+10004 4 1 1 -1
+E
+water pump~
+   The cast iron water pump slowly drips water into the bucket beneath it.  
+The long pump handle at the side can be used to force water up from the well
+beneath it.    
+~
+#10020
+grapes red bunch fruit~
+a bunch of grapes~
+A bunch of grapes is lying here.~
+~
+19 0 1
+4 0 0 0
+1 4 1 1 -1
+E
+grapes bunch~
+   This bunch of pitted red grapes is delectably cool and refreshing.    
+~
+#10021
+orange fruit~
+an orange~
+An orange lies here.~
+~
+19 0 1
+2 0 0 0
+1 2 1 1 -1
+E
+orange~
+   This ripe orange offers a tasty snack to the busy adventurer.    
+~
+#10022
+corn ear yellow~
+an ear of corn~
+An ear of corn is peeled and ready to eat.~
+~
+19 0 1
+4 0 0 0
+1 4 1 1 -1
+E
+corn ear~
+   This ear of corn has a sweet flavor and kernels of both white and yellow.  
+
+~
+#10023
+apron~
+a thick leather apron~
+A thick leather apron lies discarded here.~
+~
+9 2101248 2049
+3 0 0 0
+20 600 200 10 -1
+E
+apron~
+   The thick leather apron is the same as those used by a blacksmith.  Scorch
+marks pit the surface of it and the edges show signs of burning.    
+~
+#10024
+a simple, hooded robe made of white silk~
+a simple, hooded robe made of white silk~
+A pile of white silk lies here forgotten.~
+~
+11 3857408 1033
+0 0 0 0
+1 30 5 4 -1
+E
+robes hooded silk white~
+   It is said that the clergy of the Order of Paladine prefer to wear garments
+and vestments of very plain make in an attempt to be anonymous, so that only
+their deeds are remembered in the name of their god.  This simple, hooded robe
+meets those needs perfectly, being made of fine white silk and bearing no
+ornamentation whatsoever.    
+~
+A
+17 -3
+#10025
+celery stalk~
+a stalk of celery~
+A stalk of celery lies here.~
+~
+19 0 1
+2 0 0 0
+1 2 1 1 -1
+E
+celery stalk~
+   This stalk of celery is a pale green and just beginning to lose its
+crunchiness.    
+~
+#10026
+beans green handful~
+a handful of green beans~
+A handful of green beans has been scattered on the ground.~
+~
+19 0 1
+2 0 0 0
+1 2 1 1 -1
+E
+beans green~
+   These green beans were picked at the height of ripeness and taste
+wonderfully sweet eaten raw.    
+~
+#10027
+salad silvanos vinegar~
+a Silvanos salad~
+A Silvanos salad, with vinegar, tempts your tastebuds.~
+~
+19 0 1
+6 0 0 0
+1 6 1 1 -1
+E
+salad silvanos~
+   A Silvanos salad is a mixture of many greens, including lettuce, romaine and
+dandelion greens, with grape slices and walnuts.  It is a favored meal with the
+Silvanesti, who miss the wholesome foods of home.    
+~
+#10028
+hoopak solid oak wood wooden~
+&ya solid oak hoopak &Yf&rl&Ma&cm&Gb&Ro&my&Ka&Cn&gt&Wl&My&y decorated with engraved drawings&n~
+A hoopak made of solid oak has been left here.~
+~
+5 333975552 24577
+1 2 6 10
+4 30 8 6 -1
+E
+hoopak solid oak wood wooden~
+   Made from solid oak, this hoopak is heavier than most.  It has been sanded
+to a smooth finish and stained a warm reddish-brown.    
+~
+A
+18 1
+#10029
+axe heavy~
+a heavy axe of dwarven make~
+A heavy axe of dwarven make lies here, its blade glistening.~
+~
+5 2109440 24577
+0 1 4 3
+7 17 5 3 -1
+E
+axe ax heavy dwarven~
+   This quality dwarven-made axe is heavier than most, its haft made of solid
+hickory and its blade of the finest steel.  Along the haft are several inlaid
+gems worked around a gold filagree design.    
+~
+#10030
+flail wooden~
+a solid wooden flail with sharp steel tips~
+A wooden flail lies here.~
+~
+5 4096 24577
+0 2 7 10
+5 28 7 10 -1
+E
+flail~
+   This weapon consists of a solid wooden staff with a heavy stick swing from
+it, used for threshing.    
+~
+#10031
+mace simple heavy~
+a simple, heavy mace with a heavy iron ball tip~
+A simple, heavy mace lies here.~
+~
+5 4096 8193
+0 2 6 5
+5 34 9 10 -1
+E
+mace simple heavy~
+   This simple weapon consists of a heavy iron ball at the end of a short,
+solid wooden staff and is used to bludgeon one's opponent.    
+~
+#10032
+robes black clerical~
+&Ksoft linen clerical robes dyed a rich black color&n~
+Some black clerical robes lie abandoned here.~
+~
+11 3070464 9
+0 0 0 0
+3 21 3 6 -1
+E
+robes black clerical~
+   These robes are black as pitch, and have voluminous folds within which to
+hide a multitude of weaponry.    
+~
+A
+17 -3
+#10033
+pendant chislev feather brown yellow~
+&ya leather strap with a long &Yyellow &yand brown feather&n~
+A brown and yellow feather lies here.~
+~
+11 0 16389
+0 0 0 0
+1 100 25 10 -1
+E
+pendant chislev feather brown yellow~
+   The feather is about six inches long and is colored brown and yellow.  It is
+difficult to tell what bird the feather came from, but it looks and feels like
+a normal feather.  There is a leather strap tightly tied around the quill of
+the feather, allowing it to be worn around the neck as a necklace.    
+~
+A
+17 -2
+#10034
+pendant kiri-jolith kiri jolith bison bison's horns chain~
+&ya thin steel chain with a bronzed bison horn pendant&n~
+A pendant of a pair of bison's horns lies here.~
+~
+8 1048576 5
+0 0 0 0
+1 120 30 10 -1
+E
+pendant kiri-jolith kiri jolith bison bison's horns~
+   This pendant has been formed out of steel, and shaped into a simple, thin
+disc.  On it's front, dark bronze has been inlaid into the pendant, in the
+shape of a pair of bison's horns.  The dark bronze gives it an almost brown
+color, and almost every detail on the horns can be seen.  On the top of it, a
+small circle has been attached, allowing it to be hung from it's bronze chain.
+  
+~
+A
+17 -2
+#10035
+pendant mishakal sky-blue sky blue infinity symbol~
+&Wa white gold chain with a &Csky-blue infinity symbol&W pendant&n~
+A pendant of a sky-blue infinity symbol lies here.~
+~
+11 0 5
+0 0 0 0
+1 140 35 10 -1
+E
+pendant mishakal sky-blue sky blue infinity symbol~
+   This pendant has been formed into a thin disc of white gold.  On one side of
+the pendant, light blue stones have been inset onto the gold.  There is no
+space between the stones, and they've been cut and formed into a large sideways
+eight, the infinity symbol.  A small circle has been attached to the top of the
+disc, allowing it to be hung from it's white gold chain.    
+~
+A
+17 -2
+#10036
+ankleguard guard supple leather ankle~
+&ya soft, light brown leather ankleguard&n~
+An ankleguard of supple leather lies here.~
+~
+9 0 131073
+0 0 0 0
+1 42 21 6 -1
+E
+ankleguard guard supple leather ankle~
+   This supple ankleguard is made of a soft, light brown leather that fits the
+ankle comfortably and does not interfere with movement, yet adds protection and
+support.    
+~
+A
+17 -1
+#10037
+potion clear red tiny red bubbles~
+a clear potion with tiny red bubbles~
+A clear potion with tiny red bubbles lies here.~
+~
+10 3072000 1
+5 0 0 0
+1 360 180 5 -1
+E
+potion clear red tiny red bubbles~
+   This potion is a clear, thick liquid that has small red puffs like bubbles
+suspended in it.    
+~
+#10038
+potion faint blue~
+&Ca faint blue potion&n~
+A faint blue potion lies here.~
+~
+10 1048580 1
+5 43 0 0
+1 215 108 5 -1
+E
+potion faint blue~
+   This potion is a thin liquid, faint blue in color and is odorless.  It is
+sweet when quaffed, but leaves a brackish aftertaste.    
+~
+#10039
+mace massive spiked~
+a massive spiked mace~
+A massive spiked mace lies here.~
+~
+5 12288 8193
+0 1 5 9
+4 30 8 5 -1
+E
+mace massive spiked~
+   This massive mace has a number of long sharp iron spikes at its business
+end.  Its handle is worn from use.    
+~
+#10040
+bracer wrapped strip leather~
+a wrapped strip-leather bracer~
+A wrapped strip-leather bracer lies here.~
+~
+9 0 4097
+2 0 0 0
+1 37 18 5 -1
+E
+bracer strip leather~
+   This bracer is made from a supple leather and is intended to protect and
+brace the wrist.    
+~
+#10041
+belt thin leather~
+a thin leather belt~
+A thin leather belt is lying here.~
+~
+7 0 2049
+0 0 0 0
+0 22 5 3 -1
+E
+belt thin leather~
+   This leather belt has a wide strip in front and back and is joined together
+by simple leather braid along each side.    
+~
+A
+17 -1
+#10042
+cape long navy blue~
+&ba long navy blue cape&n~
+A long navy blue cape is lying here.~
+~
+11 1048576 5
+0 0 0 0
+2 9 3 1 -1
+E
+cape navy blue~
+   This long flowing cape is made from a deep blue fabric and has a silver
+clasp at the throat.    
+~
+A
+17 -1
+#10043
+visor thin metal~
+a thin metal visor~
+A thin metal visor is lying here.~
+~
+9 2641920 32769
+1 0 0 0
+2 10 3 1 -1
+E
+visor thin metal~
+   This visor is made from thin metal and has been dented and reshaped several
+times, but appears relatively sturdy.    
+~
+#10044
+earring ring small golden jewelry~
+&Ya small hoop earring crafted from pure gold&n~
+A small golden earring on the ground catches your eye.~
+~
+8 0 65537
+1 0 0 0
+1 31 8 4 -1
+E
+earring gold golden ring~
+   This small hoop earring is made of a high quality gold that catches the
+slightest light and reflects it in a dizzying array of colors.    
+~
+#10045
+bracer small leather~
+a small leather bracer~
+A small leather bracer lies here.~
+~
+9 0 4097
+1 0 0 0
+3 13 4 2 -1
+E
+bracer silver silver-plated~
+   This well crafted bracer fits around the wrist, offering support and
+protection in combat.    
+~
+#10046
+scroll old loosely bound~
+an old, loosely bound scroll~
+An old loosely bound scroll is lying here.~
+~
+2 64 1
+15 42 0 0
+1 100 50 10 -1
+E
+scroll old loosely bound~
+   This old scroll is yellowed and curling at the edges from age, it's words
+difficult to decipher.    
+~
+#10047
+vial recall clear~
+a vial of clear liquid~
+A small glass vial lies here, filled with a clear solution.~
+~
+10 1048576 16385
+15 42 0 0
+1 150 75 10 -1
+E
+vial small glass recall~
+   This small glass vial has a slightly lavender hue, and contains a clear
+liquid.    
+~
+#10048
+pen quill ink~
+a quill pen and ink~
+A long quill pen sits in a bottle of ink here.~
+~
+21 1048576 1
+0 0 0 0
+1 2 1 1 -1
+E
+quill ink pen~
+   This quill is a long feathery affair and is set into a holder on a small
+vial of indigo ink.    
+~
+#10049
+parchment piece~
+a piece of parchment~
+A piece of parchment lies here.~
+~
+16 0 1
+0 0 0 0
+1 3 1 1 -1
+#10050
+sign small~
+a small sign~
+A small sign sits on the counter.~
+  The cost of postage for a single letter is one steel and five gold coins.
+ 
+Type "mail <person>" to send a letter.
+Type "check" to see if you have any mail.
+Type "receive" to get your mail.
+
+You may also type "help mail" to read more information.
+~
+16 65556 0
+0 0 0 0
+0 0 0 1 -1
+#10051
+board policy~
+the policy board~
+A board rests against the wall, containing the policies.~
+~
+13 16 0
+0 0 0 0
+0 0 0 1 -1
+#10052
+pendant habbakuk blue phoenix chain~
+&wa thin steel chain with a engraved &Bblue phoenix&w pendant&n~
+A pendant of a blue phoenix lies here.~
+~
+11 1048576 16389
+0 0 0 0
+1 120 30 10 -1
+E
+pendant habbakuk blue phoenix~
+   This steel pendant has a carefully crafted phoenix engraved on it.  Each of
+it's feathers seem to of been engraved on it, showing wonderful detail.  At the
+top of the disc is a small circle so it can hang from a chain.  The chain is
+made out of steel and has a small clasp on one part of it.    
+~
+A
+17 -2
+#10053
+cloak hooded black~
+a hooded black cloak~
+A hooded black cloak lies here in a heap.~
+~
+11 1048576 1025
+0 0 0 0
+2 41 10 6 -1
+E
+cloak hooded black~
+   This thin cloak is black as night, and falls to the wearer's mid-shin in
+graceful folds.    
+~
+A
+17 -2
+#10054
+dress lavender~
+&Ma lavender dress&n~
+A lavender dress lies here.~
+~
+11 134217728 9
+0 0 0 0
+2 14 4 2 -1
+T 4
+E
+dress lavender~
+   This light cotton dress has been dyed a soft lavender, and has a thin lace
+collar.    
+~
+A
+17 -1
+#10055
+pendant sparkling amethyst chain thin~
+&ma sparkling amethyst pendant fashioned on a thin silver chain&n~
+An amethyst pendant on a thin silver chain lies here.~
+~
+9 0 5
+1 0 0 0
+1 60 10 10 -1
+E
+pendant amethyst~
+   This small, yet brilliant amethyst has been cut in the shape of a heart and
+hangs from a delicate silver chain.    
+~
+#10056
+choker garnet studded jewelry~
+a garnet-studded choker~
+A garnet-studded black velvet choker lies here.~
+~
+9 0 5
+1 0 0 0
+1 60 15 4 -1
+T 4
+E
+choker garnet studded~
+   This wide band of black velvet has been studded with hundreds of tiny
+garnets, and has a secure silver clasp in back to adjust it snugly around the
+neck.    
+~
+#10057
+ring engagement diamond solitaire lavish carat~
+&Wa lavish two carat diamond solitaire engagement ring&n~
+A diamond ring lies here, shimmering brightly.~
+~
+9 0 3
+1 0 0 0
+1 90 23 10 -1
+E
+ring diamond~
+   This medium sized diamond has been cut by an talented gemcutter to bring its
+greatest radiance out.  Shaped in a perfect circle, and held by six tiny
+prongs, it is perfectly set in a band of thin knotted gold.    
+~
+#10058
+ring band wedding gold~
+&Yan engraved wedding band crafted from pure gold&n~
+A gold wedding band has been lost here.~
+~
+8 1048576 3
+0 0 0 0
+1 64 16 5 -1
+E
+ring band wedding gold~
+   Of classic design, this simple gold band is wide enough to permit engraving
+of a short message or name.    
+~
+A
+17 -1
+#10059
+fountain carved geometric water~
+a carved fountain~
+A fountain covered in intricate geometric patterns sits against a wall to the west.~
+~
+23 65540 0
+1000 1000 0 0
+1005 0 0 0 -1
+E
+undefined~
+Nothing.
+~
+#10060
+book primer gold black deities~
+the book, "Primer on the Deities"~
+A gold and black bound book titled "Primer of the Deities" lies here.~
+~
+16 0 16385
+0 0 0 0
+2 20 5 1 -1
+E
+chapter1~
+
+--== THE GODS OF LIGHT ==--
+
+** Paladine, the Platinum Dragon **  
+Paladine is Father of Good and Master of Law. He speaks for the gods
+of Good, leading through example and encouragement. He upholds
+the laws of Good by assisting the righteous and renouncing the evil.
+Paladine and Takhisis were the creators of the first material things,
+the dragons. Takhisis corrupted the chromatic dragons, leaving the
+metallics to Paladine, and this act began the rift between Good and
+Evil.  Paladine and his twin sons, Kiri-Jolith and Habbakuk created
+the Knights of Solamnia, choosing the mortal Vinas Solamnus to establish
+the knighthood based on the ideals of truth, justice and honor. Paladine
+is the patron of the Order of the Rose.  He also had a third son with Mishakal,
+Solinari.  Paladine's primary symbol is the silver triangle.  His other symbols
+are the pine tree (Silvanesti) or an anvil (Thorbardin).  His colors are silver
+and white.
+
+** Solinari, the Mighty Hand **
+Solinari is the god of Good magic, and established the Order of the White 
+Robes to administer it. With the exception of Krynn, which he loves deeply,
+Solinari treasures magic over every aspect of life, death and afterlife. He is
+the third son of Paladine and Mishakal. Solinari's symbol is a white circle or
+sphere, and his colors are white and silver.
+
+** Mishakal, the Healing Hand **
+Mishakal is the goddess whose influences are healing, knowledge, fertility,
+life, beauty and blessing. She is Paladine's wife, and the couple have
+three sons - the twins Kiri-Jolith and Habbakuk and the third son,
+Solinari. Mishakal's symbol is the infinity sign, and her color is sky blue.
+
+** Majere, Master of the Mind **
+Majere is the god of organization, industry, control, meditation, faith and
+dreams. His followers lead simple lives devoid of luxury and filled with
+meditation, self-discipline and deep thought. His primary symbol is a
+copper spider. His other symbols are a single rose (Qualinesti, Silvanesti)
+and the mantis (Solamnia). His color is copper.
+
+** Kiri-Jolith, Sword of Justice **
+Kiri-Jolith is the god of glory, honor, obedience, justice and righteous
+warfare. With his twin Habbakuk, and his father Paladine, he helped
+create the Knights of Solamnia and is the patron of the Order of the
+Sword. His symbols are bison's horns or a horned battleaxe
+(Thorbardin, Kharolis) and his colors are brown and white.
+
+** Habbakuk, the Fisher King **
+Habbakuk created and rules all creatures of land and sea. He represents
+the eternal cycle of nature, thereby also symbolizing eternal life.
+He and his older twin Kiri-Jolith, together with their father Paladine created
+the Knights of Solamnia and Habbakuk is the patron of the Order of the Crown.
+His symbols are the blue bird and the blue phoenix (Ergoth).  His colors are
+deep blue and white.
+
+** Branchala, Song of Life **
+Considered by the elves and kender to be the highest god, Branchala is
+the god of music. A companion of Habbakuk since the beginning of time,
+Branchala imbued Krynn's first creatures with the lyric and melody of his
+immortal soul. His symbols are a bard's harp or a flute (Qualinesti,
+Silvanesti). His colors are yellow and green.
+
+
+(Type "read chapter2" for the Gods of Neutrality
+or "read chapter3" for the Gods of Darkness)
+~
+E
+chapter2~
+
+--== THE GODS OF NEUTRALITY ==--
+
+** Gilean, the Void **
+Before creation, the High God wrote the Tobril, the book of all knowledge
+and true names, to lay down the designs of the universe. The High God
+did not consider any of the gods he created trustworthy enough to guard
+the Tobril, so he found Gilean, a scribe so scrupulous as to have never
+penned an error and entrusted the Tobril to him. Gilean guards the Tobril
+and is the patriarch of the Neutral gods. His symbol is an open book
+and his color is gray.
+
+** Lunitari, the Veiled Maiden **
+The goddess of Neutral magic and illusions, Lunitari was born of Gilean and
+an unknown mother, though some suggest she sprang full-grown from her
+father's thoughts. She founded the Order of the Red Robes to promote
+Neutral magic. Her symbol is a red circle or sphere, her color red or magenta.
+
+** Sirrion, the Flowing Flame **
+Sirrion is the god of creative flame and natural power and sculpts fire into
+beautiful forms. He controls every flame, from the sun to the low-burning
+wick. His companion is Shinare, an argumentative couple due to his
+temperamental and artistic nature in conflict with her practicality and
+opportunism. His symbol is a multi-colored fire. His colors are bright red
+and yellow.
+
+** Reorx, the Forge **
+The god of manufacture, technology and metallurgy, Reorx is considered by
+the dwarves of Ansalon to be the greatest god. Humans perceive him as
+merely Kiri-Jolith's helper. Reorx tamed chaos to forge the world. His second
+greatest creation, the Greystone of Gargath, led to the emergence of dwarves,
+gnomes and kender and many consider him the father of these races. His
+symbols are a forging hammer or dwarven hammer (Thorbardin). His colors
+are slate grey and red.
+
+** Chislev, the Beast **
+Chislev is nature incarnate. According to legend, the seasons change with the
+moods of her heart. She is served by every beast and plant. Her symbol is
+a feather of brown, yellow and green, which are her colors.
+
+** Zivilyn, the Tree of Life **
+Zivilyn is the god of all wisdom and is the celestial Tree of Life. His
+branches extend into all times and places. As Gilean holds the knowledge of
+the universe, Zivilyn holds its wisdom. Zivilyn is the companion of Chislev,
+a relationship seen by most mortals as a perfect marriage. Zivilyn's
+symbol is a great green or gold tree, sometimes a vallenwood. His colors
+are green and gold.
+
+** Shinare, Winged Victory **
+Shinare, the goddess of wealth, industry and commerce, has many dwarven
+worshippers. She also finds many followers among merchants, mercenaries
+and profit-minded adventurers of other races. She is considered by all to
+be the champion of freedom and self-destiny. She cannot tolerate laziness
+and attributes poverty or stupidity to sloth. Her symbol is a griffon's wing
+and her colors are gold, silver and brown.
+
+
+(Type "read chapter1" for the Gods of Light
+or "read chapter3" for the Gods of Darkness)
+~
+E
+chapter3~
+
+--== THE GODS OF DARKNESS ==--
+
+** Takhisis, Queen of Darkness **
+Takhisis is the embodiment of evil, enjoying preying on the weaknesses of
+others and using the greatest desires to enslave them. She is cold and
+brilliant, a master of exploitation. She hates good, loves cruelty and hoards
+wealth. In the Age of Dreams, she was Paladine's mate and consort but when they
+forged the first beings, the dragons, Takhisis grew selfish and corrupted the
+chromatic dragons. She left Paladine and now consorts with Sargonnas, a god
+of fury and vengeance. The passion between them vacillates between insatiable
+lust and deep loathing. They bore two children, Nuitari and Zeboim. Takhisis'
+one other child, Artha, the demigoddess of wanton lust and greed was sired
+by Hiddukkel masquerading as Chemosh. Takhisis' symbol is a black
+crescent. Her color is black of utter darkness and irridescent black of beetle
+wings. Her influences are over night, evil dragons, hatred, intrigue and chaos.
+
+** Nuitari, Devouring Dark **
+Nuitari is the god of black magic and the son of Takhisis and Sargonnas. He
+founded the Order of the Black Robes, perhaps the most secret and coveted
+Order on Krynn. While those that practice black magic may gain incredible
+power, it comes at the price of control. Nuitari watches in wry amusement as
+those who try to master his art are overcome by its dark power. His symbol
+is a black circle or sphere, his color is black.
+
+** Sargonnas, Dark Vengeance **
+Takhisis' consort, Sargonnas is the sometimes explosive god of vengeance,
+rage, deserts and volcanoes. He embodies the destructive passion of fire.
+As Takhisis is both his greatest ally and his greatest enemy, he plots both
+for and against her. He is treacherous and paranoid, and works his revenge
+through insidious means. His symbol is a red condor or a red fist
+(Thorbardin, Istar). His colors are red and black.
+
+** Morgion, the Black Wind **
+This god of decay and disease refuses the company of other gods and does
+not discuss plans with them. He despises all healthy things, actively striving
+to corrupt them with disease and decay. His symbols are a hood with two
+red eyes, an upside-down axe (Thorbardin) or a rat's claw (Hylo). His colors
+are deep brown and black.
+
+** Chemosh, Lord of Death **
+In the Age of Dreams, Chemosh was drawn to Krynn by Takhisis, to serve as
+a lieutenant to marshal the legions of death. As lord of false redemption,
+Chemosh offers eternal life to the unwary. Recipients spend immortality in
+an undead and eternally corrupted body while he himself grows in power
+and longevity. His symbol is a yellow skull. His colors are black and a
+sickly yellow.
+
+** Zeboim, Darkling Sea **
+Zeboim, the Sea Queen, is the impetuous and volatile daughter of
+Takhisis and Sargonnas. Her unpredictable tempers make her a dangerous
+foe and lethal friend. She provides her followers the vast wealth of lost
+treasure ships. She receives petitions and sacrifices from seamen wishing
+good weather and safe travel. Those who displease her through some real
+or imagined slight never see harbor again. Her symbol is a turtle-shell
+pattern, and her colors are green and red.
+
+**Hiddukel, Prince of Lies **
+This god of ill-gotten wealth and deals is the patron god of evil businessmen
+and dishonest merchants. Greed and mischief drive all Hiddukel's
+transactions. He controls all ill-gotten wealth, using it to corrupt honest and
+greedy men alike. His symbol is a set of broken merchant's scales. His
+colors are red and bone white.
+
+
+(Type "read chapter1" for the Gods of Light
+or "read chapter2" for the Gods of Neutrality)
+
+~
+E
+book primer gold black deities~
+
+Chapter One : The Gods of Light (type "read chapter1")
+
+Chapter Two : The Gods of Neutrality (type "read chapter2")
+
+Chapter Three : The Gods of Darkness (type "read chapter3")
+
+~
+#10061
+pendant gilean chain book~
+&wa thin iron chain with an open book pendant&n~
+A simple pendant of an open book lies here.~
+~
+11 0 16389
+0 0 0 0
+1 120 30 10 -1
+E
+pendant gilean book simple~
+   This pendant made out of a thin piece of iron and has been formed into a
+disc.  One one side of it is an engraving of an open book, the symbol of
+Gilean.  Looking carefully at the book, one can almost seem to make out writing
+on it.  On the top of the disc is a small circle so it can be hung from a
+chain.  Like the disc, the chain is made out of thin iron, it also has a small
+clasp on one end of it.    
+~
+A
+17 -2
+#10062
+book suede tree small~
+the book, "History of Ye Kesseltop Tree"~
+A small suede-bound book titled, "History of Ye Kesseltop Tree" lies here.~
+~
+16 0 16385
+0 0 0 0
+1 80 4 1 -1
+E
+book suede tree small~
+
+There was a time, in years past, when a soul could venture into Turbidus
+Square without giving much thought to the trees lining the nearby avenues.
+That all changed, thanks to a kender oh! I mean a -famous- kender by the
+name of Kesseltop Featherfingers.
+
+You see, one day Lord Apharot Soltharus was receiving a visit in the
+Square by the goddess Chislev. As kenders are wont to do, Kesseltop
+was chattering incessantly and making the good knight's conversation
+with the goddess less than enlightening. Seeing this, Chislev created a
+magic pine cone that spun, suspended in the air before the kender's
+eyes. Kesseltop was so enchanted by this that Lord Apharot and
+Chislev were able to finish their discussion in relative peace.
+
+Going on to handle other godly business, imagine Chislev's surprise
+when she later heard the kender praying to make the pine cone grow!
+Turns out Kesseltop, at the encouragement of a good (and not-so-famous)
+friend Thistledown Topknot, had not only caught the spinning pine cone,
+but had planted it as well.
+
+Zivilyn, thinking to please his beloved Chislev and free her time for more
+pressing matters, prompty answered the kender's prayers. However, so
+lost in thought about his consort was he, that he failed to notice the genus
+of the tree he grew. So it came to be that an oak tree sprang from the
+kender's buried pine cone.
+
+Well, Kesseltop was quite proud of herself to have singlehandedly grown
+an oak ... err pine tree in the Square. Her friends, however, thought it a
+bit odd at the very least. She was determined that it needed a name and
+wanted desperately to name it after herself, it was after all, her tree, right?
+Her friend Jenrodan, knowing his goddess Chislev would be perhaps
+slighted by that, suggested a compromise by naming the tree a pinoak.
+Kesseltop was having none of it.
+
+A few weeks passed and the tree was growing quite fast, already towering
+over the Square and becoming quite the conversation piece without any
+further events. But then, that was before Kesseltop found a genie's
+lantern in the tree! How it came to be there is undoubtedly another whole
+story, and if you have the fortitude, perhaps you might ask Kesseltop to
+tell you -that- story. In any case, the genie promptly offered the kender
+three wishes, and not surprisingly, her very first wish was to name the
+tree Ye Kesseltop. Genies, you see, just have to be contrary and don't
+seem to give a whit about a god's opinion of things when giving out wishes.
+
+It was shortly after that that Ye Kesseltop began to fall on hard times.
+Chislev found its upper branches a rather convenient place to hide Reorx's
+anvil, being that the silly dwarf doesn't seem to like heights much. Far worse
+though, was the confused barbarian that came to Kalaman trying to chop
+him down!
+
+Misae, a plainsman, had lost the love of his life and shortly thereafter, what
+remained passively as his mind. Coming across Ye Kesseltop, and hearing
+the story of it to that point, he was convinced this tree was bad medicine
+and immediately set to felling it.
+
+Of course, all Chislev's forest guardians were enraged and searched for
+Misae everywhere, but he was devious and couldn't be found. After his first
+strike at the tree, a big gash was opened and the tree whimpered out loud
+in agony. A lovely elven ranger by the name of Mira was so concerned by
+its pain that she stayed with the tree a goodly amount of time, and wrapped
+the gash in her own black scarf. This consoled the tree greatly, and Chislev
+soon healed him entirely. So grateful was Ye Kesseltop that he promptly
+began growing oranges to reward the elven maiden for her good deed.
+
+
+(Type "read nextpage")
+~
+E
+nextpage~
+
+Of course, you can well imagine how Misae felt about coming across this
+"evil" tree sporting oranges all of a sudden! He immediately attacked it,
+losing all track of where he was. He soon found himself surrounded by
+friends of the kender and followers of Chislev that didn't seem to care
+much for his actions. Being unable to speak in the Common tongue, he was
+unable to express how evil the tree was, not that anyone would have believed
+him. Quite a fracas resulted, and sadly enough, Jenrodan was left no
+alternative but to use force in preventing further damage to the tree, and
+Misae was killed.
+
+All this, it would seem, might be enough adventure for any tree but not
+Ye Kesseltop. Nooo, he just has to find adventures every day just to keep
+everyone on their toes, certainly not the least of which is Chislev. (How
+exactly she has repaid Zivilyn for his "help" is also another story and quite
+likely not appropriate reading material for the younger generation).
+So dear reader, our story does not have an ending, only the most recent
+event in this famous tree's life.
+
+There he stood, quite minding his own business, when along came a
+gully dwarf absolutely enraged that he wouldn't move out of the way.
+Now, perhaps if the tree had feet, it might have cooperated more fully,
+but as you well know that's just not the way of trees and Ye Kesseltop
+was no different. He stood resolutely, bearing the brunt of several kicks
+along with a goodly stream of profanity. Being the smart tree that he is,
+he managed to figure out after a while that Gurp was mistaking him for
+an obstinate dwarf. This did little to change anything though and the
+debate might have gone on all day had not Chislev heard the tree's
+silent chuckling and went to check on him.
+
+Seeing Kesseltop allowing Gurp to kick her tree, she was taken aback
+and reprimanded the poor kender quite harshly before turning her
+attention on Gurp. Silly gully dwarf would not give up the ruse even in
+front of a goddess! Consequently, he was quickly encased in vines and
+planted until he thought over his options more carefully. Chislev's
+good servant Jenrodan was patient enough to explain things to the
+deluded dwarf and he was free in a matter of hours, or perhaps it was
+days...
+
+Once free, Gurp and Kesseltop, who had somehow along the way picked
+up the rather awkward middle name Treeminder, got to talking and trying
+to figure out the confusion between them. Now, other than gnome
+inventions, there's very little in life as comical as watching a kender
+and a gully dwarf try to make logic of anything. Yet they certainly tried.
+That, too, is another story which I won't trouble you with, dear reader.
+Suffice it to say, it ended with a flea infestation in Kalaman that several
+residents are -still- itching from.
+
+Thus ends the history (for today at least) of Krynn's famed Ye Kesseltop tree.
+
+~
+#10063
+plaque bronze~
+a bronze plaque~
+A large bronze plaque has been fixed to the fountain.~
+~
+16 16 0
+0 0 0 0
+0 0 0 1 -1
+E
+plaque bronze~
+   A WARNING TO ALL VISITORS The Kalaman City Guard will not tolerate violence
+of any kind within the city proper.  If you are caught committing any acts
+including, but not limited to, murder, rape, thievery, or hostile use of magic,
+you will be dispatched of immediately in a manner which you will probably find
+most unsatisfactory.  If you wish to prevent being dealt with as such, avoid
+committing any crimes, especially in the presence of guardsmen.    
+
+  A further note to all new visitors to the city. The dockyards to the east of the
+city and the temple of Paladine immediately to the north-west are excellent places
+to begin one's journey.
+~
+#10066
+boots high deerskin~
+a pair of high deerskin boots~
+A pair of high deerskin boots lies here.~
+~
+11 134217728 65
+0 0 0 0
+2 38 10 4 -1
+E
+boots high deerskin~
+   These soft deerskin boots cover the shin, fitting snugly against the leg to
+right below the knee.    
+~
+A
+17 -1
+#10067
+sandals plain leather~
+a pair of plain leather sandals~
+A pair of plain leather sandals lies here.~
+~
+11 135266304 65
+0 0 0 0
+1 6 2 1 -1
+E
+sandals plain leather~
+   These simple sandals do little more than perfunctorily cover the soles of
+the feet.  Made of leather, they have thin straps that crisscross that tops of
+the wearer's feet.    
+~
+#10068
+well~
+a kitchen well~
+A kitchen well sits in the corner.~
+~
+23 0 0
+999 999 15 0
+1004 0 0 0 -1
+E
+well~
+   A small stone well sits in the corner of the kitchen.  Plummeting into
+darkness it looks very deep and a bucket attached to a rope serves to pull
+water from it.    
+~
+#10069
+gruel bowl~
+a bowl of gruel~
+A bowl of prison gruel has been left here.~
+~
+19 0 1
+5 0 0 0
+3 5 2 0 -1
+E
+gruel bowl~
+   The bowl is filled with a lumpy unappetising looking substance that they
+call gruel.    
+~
+#10070
+bread loaf~
+a loaf of bread~
+A loaf of bread lies here.~
+~
+19 0 1
+4 0 0 0
+1 4 1 4 -1
+E
+bread loaf~
+   Looking at this bread it is impossible not to wonder when it might have
+actually been considered a good meal.  Though it is still edible, it is more
+than a little stale.    
+~
+#10071
+pendant sirrion flame multicolored chain~
+&Wa white gold chain with a &Rm&Yu&rl&Yt&Ri&Yc&ro&Yl&Ro&Yr&re&Yd&R flame&W pendant&n~
+A pendant of a multicolored flame lies here.~
+~
+11 0 16389
+0 0 0 0
+1 130 35 10 -1
+E
+pendant sirrion flame multicolored~
+   This pendant has been made out of white gold shaped into a disc.  Centered
+on the disc a multicolored flame has been etched into the metal.  The flame
+seems to have small pieces of ground down gems in it, giving it it's
+multicolored look.  The top of the disc has a small circle on it, so it can be
+hung from a chain.  The chain is made out white gold, and seems to be well
+polished.    
+~
+A
+17 -2
+#10072
+pendant reorx hammer tempered steel chain~
+&wa thick steel chain with a tempered hammer pendant&n~
+A tempered steel pendant of a hammer lies here.~
+~
+11 0 16389
+0 0 0 0
+1 120 30 10 -1
+E
+pendant reorx hammer tempered steel~
+   This pendant has been made out of finely tempered steel and forged into a
+disc.  On the center of the disc is a large dwarven hammer.  The hammer appears
+to be the type of hammer that could be seen at a forge, striking metal to
+create new weapons or armor.  The handle isn't very long when compared to the
+head of the hammer.  At the top of the disc, there is a circle on it, allowing
+it to be hung from a chain.  The chain is made out of thick steel.    
+~
+A
+17 -2
+#10073
+main board bulletin~
+the main bulletin board~
+The main bulletin board, stretching the full length of one wall, rests here.~
+~
+13 16 0
+0 0 0 0
+0 0 0 1 -1
+#10074
+board rp quest invasion~
+the rp quest invasion board~
+The board resting here is for comments, questions and answers about RP stuff.~
+~
+13 16 0
+0 0 0 0
+0 0 0 1 -1
+#10075
+board trade events special~
+the trade and special events board~
+The trade and special events board rests against the wall.~
+~
+13 16 0
+0 0 0 0
+0 0 0 1 -1
+#10078
+board crime small~
+the crime board~
+The crime board, small out of wishful thinking, rests against the wall.~
+~
+13 16 0
+0 0 0 0
+0 0 0 1 -1
+#10079
+board out of character~
+a large and well used board~
+A large board with scribbles and writing all over it stands here.~
+~
+13 16 0
+0 0 0 0
+9999 0 0 1 -1
+#10080
+ring white gold sapphire~
+&Ba beautiful white gold ring with a sapphire solitaire&n~
+A sapphire ring has been lost here.~
+Nothing.
+~
+8 0 3
+0 0 0 0
+1 48 12 5 -1
+E
+ring sapphire~
+   This beautifully crafted ring is made of a pure gold, twisted delicately in
+a braided band.  It has a small round sapphire in its center, multifaceted to
+catch the light.    
+~
+A
+17 -1
+#10081
+anklet braided silver chain~
+a braided anklet made of silver chain~
+A silver anklet lies here.~
+~
+9 0 131073
+1 0 0 0
+1 37 9 5 -1
+E
+anklet silver~
+   This silver anklet has been polished to a near white sheen and is comprised
+of five thin silver chains intricately braided together.  The sturdy clasp has
+been so carefully worked into the design, that is not immediately obvious.    
+~
+#10082
+map large kalaman kal~
+a large map of Kalaman~
+A large map of Kalaman hangs on the wall.~
+~
+12 0 0
+0 0 0 0
+0 0 0 0 -1
+E
+large map kalaman kal~
+                  Caergoth Lane       V
+  |----------------------------------------------|
+  |                    |                         |
+  |       M            |   Quill Lane      S     |---- R
+ D|--------------------|-------------------------|
+ a|                    |                         |
+ r|    Sword St.       |                         |
+ g|--------------------|                         |
+ a|       B   G        |                         |
+ a|                    |                         |
+ r|                    |                         |
+ d|     Huma Lane  T   |       F      D          |
+N-|------------------- * ------------------------|---- R
+  |                    |              |          |
+ R|                    |              |          |
+ o|                    |              | Watch    |C
+ a|  P                 |--------------| Alley    |r
+ d|                    |              |          |o
+  |                    |              |          |w
+  |                    |              |          |n
+  |                    |              |          |
+  |                    |              |          |
+  |                    |              |       E  |
+  |____________________|______________|__________|
+                       |    Garnet Street
+                       |
+                       C
+
+
+  *  The Central Square of Kalaman
+  M  The Magic Shop and Mage's Trainer
+  S  The Shops of Market Square
+  B  The Bank
+  G  The Jewelry Shop
+  T  The Temple of Paladine and the Clerics' Trainer
+  F  The Home of Pender Brightblade, Trainer of Fighters
+  D  The Dripping Dagger Inn
+  R  The Dockyards
+  P  The Guard House
+  E  The Gentle Sea Elf Brothel
+  C  The South Gate of Kalaman
+  N  The West Gate of Kalaman
+  V  The Road to Talenrock Village and Ellinad Forest
+~
+#10083
+black iron chest~
+a large, black iron chest~
+A large, black iron chest sits against the wall here.~
+~
+15 4 0
+9999 13 10084 0
+999 0 0 0 -1
+E
+chest black iron~
+   This large metal chest is made of blackened iron, and it sits against the
+back wall of this room.  It sits here locked so that trainees may practice
+their skills with a lockpick, but there's no way to tell if there is actually
+anything inside.    
+~
+#10084
+key black iron small~
+a small black iron key~
+A small black iron key hangs from a peg on the wall here.~
+~
+18 4 1
+0 0 0 0
+0 0 0 0 -1
+E
+key black iron small~
+   This key is made of the same blackened iron as the chest to which it goes.
+It was placed on the peg above the chest so that a trainee may lock the chest
+and practice picking it again.    
+~
+#10087
+potion pink tinted~
+&Ma pink-tinted potion&n~
+A pink-tinted potion lies here.~
+~
+10 1048580 1
+6 16 16 0
+1 455 90 5 -1
+E
+potion pink tinted~
+   This potion is a milky pink color, tasting mildly of cherries.  It has a
+strong fruit smell that makes the mouth water.    
+~
+#10088
+potion cloudy~
+a cloudy potion~
+A cloudy potion lies here.~
+~
+10 1048580 1
+5 20 92 0
+1 675 68 5 -1
+E
+potion cloudy~
+   This potion is a cloudy and slightly purple in color.  It is odorless and
+tastes slightly sour.    
+~
+#10089
+pendant gold branchala harp golden chain~
+&Ya gold plated chain with a golden harp pendant&n~
+A pendant of a golden harp lies here.~
+~
+11 0 16389
+0 0 0 0
+1 130 35 10 -1
+E
+pendant branchala harp golden~
+   This pendant is made out of aged copper and has been shaped into a thin
+disc.  The copper seems to of been aged on purpose, giving it a green color.  
+In the center of the disc, some gold has been inlaid into the pendant in the
+shape of a harp.  Such detail has been put into this that one can see the
+numerous strings of the harp.  A small circle has been attached to the disc,
+allowing it to be hung by it's gold plated chain.    
+~
+A
+17 -2
+#10090
+staff heavy polished brilliant white orb~
+a heavy polished staff~
+A heavy polished staff lies here, its brilliant white orb glistening.~
+~
+5 7258112 24577
+0 1 7 7
+2 32 5 6 -1
+E
+staff heavy polished brilliant white orb~
+   This staff is carved from a solid cheerwood, and polished to a gleam.  A
+brilliant white orb has been placed at the top of the staff, held in place by
+delicately wrought gold prongs.    
+~
+#10091
+tunic bright yellow~
+&Ya bright yellow tunic&n~
+A bright yellow tunic lies here.~
+~
+11 1048576 9
+0 0 0 0
+1 5 2 1 -1
+E
+tunic bright yellow~
+   Bright yellow goldenrod has been used to give this thin tunic its brilliant
+yellow color.    
+~
+A
+17 -1
+#10092
+skirt long grey~
+a long grey skirt~
+A long grey skirt lies here in an untidy heap.~
+~
+11 134217728 33
+0 0 0 0
+4 37 9 6 -1
+T 4
+E
+skirt long grey~
+   This skirt is made from thick cotton, dyed a silvery grey.  Its folds fall
+neatly to the wearer's ankles.    
+~
+A
+17 -2
+#10093
+book~
+a Gnomish book~
+A Gnomish book on The Committee lies here.~
+~
+13 0 1
+0 0 0 0
+1 80 4 1 -1
+E
+page1~
+Committee (v) - Three to n-1 Gnomes thinking (given time) on a subject which
+may or may not be related to the problem which the Committee was originally put
+together to solve.  In the known part of our history, no Committee has (yet)
+managed to solve the original problem, but many has been able to increase the 
+problems for other Committees, thereby securing the offices for a 
+large number of GIC's (Gnome In Charge).
+
+A Committee is expected to be required by the inventor/cook as soon as one 
+or more of the following occurs:
+
+*He finds he cannot solve the problem by himself, and does not want to ask  
+another Gnome for advice.
+*His Guild decides he cannot solve the problem by himself.
+*He actually believes a Committee would be useful in solving the problem.
+*Members of a Committee decides his problem relates to their assignment.
+*His invention appears to work perfectly, and needs adjustment by an expert.
+
+The new Committee now must do a number of things in order to be recognized  
+by the other Committees:
+
+1. Make up a schedule that promises to deliver a result on the matter  
+within 2 years.
+2. Meet with the Inventors Guild and explain why the schedule says "20  
+years" instead of "2".
+3. Meet with the Inventor and invite him to the Committee as "Technical 
+Expert in Charge of Solving the Problem this Committee is Expected To 
+Solve".
+4. Find another new Committee and formally Recognize it before The Committee 
+in Charge of Deciding Wether an Gnomish Inventor is In Need of Help And If 
+This Help Can Be Given By the Assignment of A New Committee".
+5. Call the neighbours and apologize in advance for any inconveniences 
+caused by expected (and, in some cases, unexpected) explosions and/or riots 
+that the Committees work might cause.
+
+The Inventor responsible for all this may now be released from the chamber 
+where he was locked up, (when the aforementioned "Committee in Charge of 
+Deciding.." started to look at his case) in order to avoid that he might 
+accidentally find a solution to his problem and leave a whole Committee 
+without proper assignment, and finally return to his work.
+~
+E
+book~
+   The book is bound by an unusual shiny material and has the words 'A
+Beginners Guide to the Committee' embossed on the front of it.    
+
+(Type "Read page1")
+~
+#10094
+cog~
+a small cog~
+A small steel cog lies on the ground.~
+~
+13 65540 16385
+0 0 0 0
+1 0 0 0 -1
+E
+undefined~
+Nothing.
+~
+E
+undefined~
+Nothing.
+~
+E
+cog~
+   The small steel cog is of obvious gnomish design.  For reasons known only to
+the Gnome that manufactured it, the cog is hexagonal rather than the usual
+round shape.    
+~
+#10095
+REUSE ME~
+REUSE ME~
+A soft rabbit fur cloak lies here.~
+~
+9 478150656 1025
+1 0 0 0
+5 24 6 3 -1
+E
+cloak soft rabbit fur~
+   This cloak has been carefully sewn from the pelts of many rabbits.  It is a
+pure white in color and falls fully to the wearer's feet.    
+~
+#10096
+sign post signpost freshly-painted languages~
+a freshly-painted signpost~
+A freshly-painted signpost stands here, its proclamations written boldly in several languages.~
+~
+12 65556 0
+0 0 0 0
+1000 0 0 0 -1
+E
+sign post signpost freshly-painted languages~
+   "Hear ye, Hear ye!  Fine and Noble Citizens of Kalaman, Peoples of the
+surrounding Territories, and Passersby and Travellers of the Realms.  As a
+result of several disturbances and troubles of late regarding lawlessness, a
+peace keeping garrison from Vingaard has been dispatched to determine the need
+for and size of a permanent contingent of knights to defend the city of Kalaman
+from those of reproachable and dangerous behavior, please bear with any
+inconveniences that this may bring"
+
+A new proclamation has been posted over the remainder of the signpost...
+~
+E
+proclamation update new remainder~
+   "Hear ye, Hear ye!  Fine and Noble Citizens of Kalaman and Solamnia, Peoples
+of the surrounding Territories, Passersby and Travellers of the Realms.  
+Important Notice: Due to recent troubles and the bouts of lawlessness, the
+Kalaman Militia has been reinforced with a contingent of Solamnia's finest to
+aid in the maintaining of law and order, as well as to aid in the general
+well-being of the public.  As of now, said malcontents or lawless persons may
+be removed by force, if necessary"
+~
+#10097
+tunic soft deerskin~
+a deerskin tunic~
+A soft deerskin tunic lies here.~
+Nothing.
+~
+11 479199232 9
+0 0 0 0
+2 58 14 8 -1
+E
+tunic soft deerskin~
+   Well tanned deerskin has been used to create this soft tunic favored by the
+barbarian races.  It has long tasselled sleeves and a neckline embellished by
+simple colored beads.    
+~
+A
+17 -1
+#10098
+metal~
+a metal grate~
+A metal grate is firmly set into the roadway.~
+~
+12 0 0
+0 0 0 0
+500 17 5 1 -1
+E
+metal~
+   A thick metal grate made from forged iron sits over a small hole in
+the street.  Although placed firmly into the stones, it may be possible to
+pry it up and gain entrance to the depths below.
+~
+#10099
+waterskin water skin~
+a waterskin~
+A waterskin is leaking here.~
+~
+17 0 16385
+36 36 0 0
+41 15 4 1 -1
+E
+waterskin skin~
+   This waterskin is made from a finely cured deep brown leather, and has a
+shoulder strap for ease in carrying.    
+~
+$~

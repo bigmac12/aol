@@ -1,0 +1,669 @@
+#11800
+fountain basin granite~
+a granite fountain~
+Water pours forth from all sides of a mighty obelisk set inside a granite basin.~
+~
+23 0 0
+9999 9999 15 0
+10004 0 0 1 -1
+E
+fountain~
+   This fountain is fed by an underground spring and serves as the main water
+source for the city.  Its basin is made from granite which sparkles when the
+sun hits it.  Extending up from the center of the basin is an obelisk which is
+nearly ten feet tall.  Water pours fourth from all four sides of the obelisk,
+splashing into the basin below.    
+~
+#11801
+oven brick fireplace hearth~
+a brick oven~
+A massive oven has been built into the fireplace.~
+~
+15 2 0
+100 0 -1 0
+999 0 0 1 -1
+E
+oven brick fireplace hearth~
+   The sweet smell of baked goods fills the air evidencing the oven's recent
+use.  A basket overflowing with recently-baked scones has been set off to the
+side to cool.  The bricks are still warm, however, so perhaps there is another
+batch inside.    
+~
+#11802
+vest hide boiled~
+a vest made from boiled hide~
+A piece of boiled animal hide has been discarded here.~
+~
+9 0 9
+9 0 0 0
+8 900 450 17 -1
+E
+vest hide boiled~
+   Crafted from the hide of some animal, most likely a bison by the look of it,
+this vest was boiled in beeswax to give it strength and form.  This techinque
+is a rather popular way of making cheap but durable armor.    
+~
+#11803
+pendant pearl onyx platinum choker~
+a pearl pendant hanging from an onyx and platinum choker~
+A lovely onyx choker with a pearl pendant has been carelessly left behind.~
+~
+8 0 5
+0 0 0 0
+1 160 40 5 -1
+T 4
+E
+pendant pearl onyx platinum choker~
+   Alternating segments of platinum and onyx, each about an inch in length,
+create a stunning choker which accents any neckline.  A single pearl pendant
+dangles from it but can be removed if so desired.  Several platinum links at
+the clasp allow the choker to be adjusted for a perfect fit.    
+~
+#11804
+choker pearl diamond emerald~
+an intricately detailed pearl, diamond and emerald choker~
+An exquisitely jeweled choker has been carelessly dropped here.~
+~
+8 0 5
+0 0 0 0
+1 280 70 5 -1
+T 4
+E
+choker emerald diamond pearl~
+   Regal is the first word that comes to mind upon examining this exquisite
+piece of art.  Three rows of pearls are framed by an intricate gold and diamond
+design.  Dozens of round brilliant diamonds are pave set along the edges, and
+the enormous central emerald is bordered by sparkling baguette diamonds.    
+~
+#11805
+amethyst briolette golden hoop earring jewellery gem~
+an amethyst briolette suspended from a golden hoop~
+A golden hoop earring lies on the ground.~
+~
+8 0 65537
+0 0 0 0
+1 200 50 5 -1
+E
+amethyst briolette golden hoop earring~
+   This golden hoop earring has been artfully accented with a brilliantly
+faceted amethyst teardrop.  The hoop itself has been engraved with a single
+rose, identifying it as a Platinum Rose original.    
+~
+#11806
+ring band platinum roses~
+a platinum band engraved with roses~
+A small band of platinum is lying here, forgotten.~
+~
+8 0 3
+0 0 0 0
+1 220 55 5 -1
+E
+ring band platinum roses~
+   The elegant simplicity of this beautiful ring is enough to categorize it as
+a piece of art.  The platinum has not been highly polished instead it has been
+painstakingly engraved with several tiny rosebuds.    
+~
+#11807
+bracelet prayer~
+a prayer bracelet~
+A bracelet covered with some sort of inscription has been carelessly left behind.~
+~
+8 0 4097
+0 0 0 0
+1 260 65 5 -1
+E
+prayer bracelet~
+   This silver bracelet has been carefully inscribed with a short prayer.    
+
+                    Take refuge in the cradling air
+                   Above the dreams of ravens where
+                    Only the hawk remembers death.
+                   Then let his shade to Huma rise
+                   Beyond the wild, impartial skies.
+
+~
+#11808
+wallet hunger hunter's leather satchel~
+a hunter's wallet~
+A large leather satchel has been left here.~
+~
+15 1048576 34603009
+35 5 -1 0
+4 80 20 12 -1
+E
+wallet hunter hunter's leather~
+   A favorite of the plainsfolk of Ansalon, the hunter's wallet is generally
+used to transport their catch.  Made of sturdy hide, it is deep enough to hold
+a half dozen hens and a well-fed rabbit or two.  Decorated with quills and
+stitching, hung with a broad shoulder strap of leather, this wallet fits
+comfortably over the hunter's shoulder.    
+~
+#11809
+chocolate truffle rich~
+a rich chocolate truffle~
+A rich piece of chocolate has been carelessly dropped here.~
+~
+19 0 1
+1 0 0 0
+1 10 3 1 -1
+E
+chocolate truffle rich~
+   These truffles are specially imported to Solanthus to further indulge the
+citizens.  The private-recipe has been said to be gnomish in origin.  These
+truffles are absolutely the smoothest, most complex chocolates you'll taste
+anywhere.  This particular truffle has a blended raspberry center.    
+~
+#11810
+flask exquisite silver~
+an exquisite silver flask~
+An exquisite silver flask has been carelessly discarded here.~
+~
+17 0 1
+8 8 7 0
+13 24 6 5 -1
+E
+flask silver exquisite~
+   The expert craftsmanship along with the design would seem to indicate that
+this flask is of dwarven make.  The highly-polished silver has been carefully
+etched with the symbol of a great forge and anvil.    
+~
+#11811
+drum goatskin instrument~
+a gaily-decorated goatskin drum~
+A gaily-decorated drum has been carelessly dropped here.~
+~
+12 0 16385
+0 0 0 0
+0 12 4 5 -1
+E
+drum goatskin instrument~
+   The superior design of this one-sided drum gives it unparalled sound.  The
+aspenwood frame, about one foot in diameter, is light yet sturdy.  The wood has
+been carefully heated and bent to form a perfectly rounded frame.  Copper tacks
+secure a thin, bleached piece of goatskin to the frame.  The surface of the
+drum has been colorfully painted with scenes of minstrels dancing, juggling and
+playing all types of instuments.  A handle has been carved into the frame and
+carefully sanded smooth.  Ribbons of red, yellow, and blue have been tied to
+the handle adding to the festive appearance of this instrument.    
+~
+#11812
+shirt swordsman cloth~
+a swordsman's shirt~
+A pile of lightweight white cloth lies here, forgotten.~
+~
+11 0 9
+0 0 0 0
+3 4480 2240 25 -1
+E
+shirt swordsman~
+   Designed for both men and women, this high-quality shirt is made from a
+lightweight cotton.  It has a lace-up v-neckline that is accented by metal
+grommets.  Bloused shoulders and full drawstring sleeves add to its exquisite
+design.  Its lightweight material and excellent tailoring make it a favorite
+for active as well as casual wear.    
+~
+A
+2 1
+A
+17 -4
+#11813
+gown elegant green velvet~
+&gan elegant green velvet gown with a low neckline&n~
+A pile of green velvet has been left here.~
+~
+11 0 9
+0 0 0 0
+5 350 87 11 -1
+T 4
+E
+gown elegant green velvet~
+   This green gown is richly made.  The bodice fits the wearer's form perfectly
+and the skirt flows down in rich folds until it reaches the floor.  The
+neckline is low, plunging to just above what is socially acceptable and showing
+off a fair amount of bosom.    
+~
+A
+17 -2
+#11814
+dress flowered pink cotton~
+&Ma flowered, pink cotton dress&n~
+A pile of flowered, pink cloth has been forgotten here.~
+~
+11 0 9
+0 0 0 0
+2 300 75 11 -1
+T 4
+E
+dress flowered pink cotton~
+   Many small white flowers cover this loose fitting dress which hangs down to
+the wearer's ankles.  This dress is made out of a soft cotton and is
+comfortable to wear.  The sleeves hang down to the wrists, but are loose
+allowing for easy movement.  Small ribbons create a tie up the back.    
+~
+A
+17 -2
+#11815
+dress homespun pale lavender dress scooped neckline~
+&Ma homespun pale lavender dress with a scooped neckline&n~
+A pale lavender dress has been carelessly discarded here.~
+~
+11 0 1025
+0 0 0 0
+2 200 50 11 -1
+T 4
+E
+dress homespun pale lavender dress scooped neckline~
+   This dress is made of a homespun material of very pale lavender.  It is
+tightly fitting around the bodice and flows into a looser fitting skirt.  The
+sleeves are puffed with a ruffle at the wrist and the neckline is a wide scoop
+that nearly goes to the shoulders.  Small lavender buttons make a line up the
+back.    
+~
+A
+17 -2
+#11816
+dress cotton hunter green bodice navy skirt~
+&ba cotton dress with a hunter green bodice and navy skirt&n~
+A pile of green and navy fabric lies here, forgotten~
+~
+11 0 9
+0 0 0 0
+3 280 70 11 -1
+T 4
+E
+dress cotton hunter green bodice navy skirt~
+   This dress has a hunter green bodice over an ivory shirt.  The puffy sleeves
+are ivory with some simple embroidery.  The bodice is tied up the front with
+black lacing.  A navy skirt falls in pleats to the wearer's ankles.    
+~
+A
+17 -2
+#11817
+dress turquoise scooped neckline hanging sleeves~
+&ca scoop-neck turquoise dress with hanging sleeves&n~
+A pile of turquoise cloth is lying here, forgotten.~
+~
+11 0 1025
+0 0 0 0
+3 290 72 11 -1
+T 4
+E
+dress turquoise scooped neckline hanging sleeves~
+   This bright turquoise dress fits the wearer perfectly.  Falling to the floor
+in simple yet smooth lines gives it an appearance of elegance.  Also adding to
+its elegance is it's low scooped neckline and long hanging sleeves.  A matching
+turquoise ribbon crisscrosses the back so it can be made tighter if need be.  
+
+~
+A
+17 -2
+#11818
+gown burgundy dress hanging sleeves low straight neckline~
+&ra burgundy gown with hanging sleeves and a low, straight neckline&n~
+A pile of fine burgundy cloth is lying here.~
+~
+11 0 9
+0 0 0 0
+5 520 260 11 -1
+T 4
+E
+gown burgundy dress hanging sleeves low straight neckline~
+   This burgundy dress hangs in straight lines to the floor.  It is made of a
+soft cotton material.  The sleeves are hanging and pointed at the wrist.  The
+neckline cuts across the chest in a horizontal line and is fringed by a bit of
+black lace.    
+~
+A
+17 -2
+#11819
+combs tortoise shell~
+tortoise shell combs~
+Two carved pieces of tortoise shell have been carelessly discarded here.~
+~
+8 0 17
+0 0 0 0
+1 71 17 10 -1
+T 4
+E
+combs tortoise shell~
+   This intricately carved comb holds the hair up, away from the face.  It is
+carved in a fancy design which is almost hard to make out, but if you look
+closely you can tell it is flowers.    
+~
+#11820
+hairpins ornately-carved ivory~
+&Wornately-carved, ivory hairpins&n~
+Two carved pieces of ivory have been carelessly discarded here.~
+~
+11 0 17
+0 0 0 0
+1 118 59 11 -1
+T 4
+E
+hairpins ornately-carved ivory~
+   These hairpins are made of ivory.  They have been painstakingly carved with
+tiny roses.  Little pearls on their ends are all that remain visible when they
+are stuck into the hair.    
+~
+#11821
+sword steel grooved lion's head pommel~
+a grooved, steel-bladed sword with a lion's head pommel~
+A beautifully-crafted sword with a lion's head pommel has been carelessly discarded here.~
+~
+5 337670272 75505665
+0 5 5 3
+18 10400 5200 29 -1
+E
+sword steel grooved lion's head pommel~
+   From its thirty-three inch shining steel blade to its fabulous hilt,
+everything about this sword is impressive.  The long blade is perfectly
+weighted and grooved along nearly the entire length.  A fierce lion's head has
+been inset into the pommel and the grip is wrapped in leather of the finest
+quality.  Two tiny rubies serve as the lion's eyes, adding to the overall
+beauty of this fine weapon.    
+~
+A
+19 2
+A
+18 2
+#11822
+toga sky blue clips clerical~
+&Ca sky blue toga, fastened at the shoulders with silver clips&n~
+A pile of sky blue fabric lies here in a pile.~
+~
+9 531456 9
+12 0 0 0
+3 4480 2240 25 -1
+E
+toga sky blue clips clerical~
+   Fine blue cloth woven of silk and linen has been crafted to form this lovely
+toga.  It is gathered at the shoulders and fastened with silver clips shaped
+like infinity symbols.  This sleeveless garment is designed to be gathered at
+the waist and then extend loosely toward the ground.  It is modestly slit up
+both sides allowing for ease of movement.    
+~
+A
+24 -2
+#11823
+links silver belt~
+a belt of silver links~
+A pile of silver links lies on the ground.~
+~
+9 0 2049
+3 0 0 0
+1 1690 845 19 -1
+E
+links silver belt~
+   Delicate links of fine silver have been chained together to form a think
+belt.  It is generally worn draped around the waist of the wearer to gather a
+loose garment.  The links are not perfectly round however, rather each one
+takes the shape of an infinity symbol.    
+~
+#11824
+mace intricate crafted precious metals gems~
+an intricate mace set with precious metals and fine gems~
+An intricately designed mace lies on the ground here, forgotten.~
+~
+5 544768 8193
+0 2 10 7
+10 2600 1300 23 -1
+E
+mace intricate crafted precious metals gems~
+   Just under a meter in length, the shaft of this mace consists of twelve
+ebony rods bound together by intertwining silver bands.  The head of the mace
+is a solid steel ball fitted with rounded flanges, each of which has been
+inlaid with platinum.  Sitting atop the ball is a pair of jewel-encrusted
+golden wings.    
+~
+#11825
+scone biscuit date raisin~
+a date and raisin scone~
+A small biscuit has been left here.~
+~
+19 0 1
+3 0 0 0
+1 3 0 5 -1
+E
+scone biscuit date raisin~
+   These scones, also known as tea biscuits, are best eaten when still warm
+from the oven.  Their relatively dry texture is best when accompanied by fruit
+preserves and even a touch of heavy cream which has been blended with sugar and
+whipped to thick consistency.  This particular scone has been baked with
+raisins and dates, giving it a sweeter taste.    
+~
+#11826
+ranseur spear wooden-hafted steel~
+a wooden-hafted ranseur~
+A long, wooden-hafted spear has been left here.~
+~
+5 1409298432 8193
+0 4 4 10
+18 1760 880 20 -1
+E
+ranseur spear wooden-hafted steel~
+   A ranseur is in the spear family of weapons, with additional blades to
+enhance both its offensive and defensive capabilities.  Its secondary blades
+are backward-hooking projections set well below the large central blade.  The
+spearing function of this weapon is apparent, and the deflection abilities
+include the trapping of opponent weapons in the space below the main blade.  
+When a weapon is hooked there, a twist of the shaft would apply enough pressure
+to either break the caught weapon or disarm its wielder.  The haft of this
+ranseur is nearly six feet in length and made of highly-polished vallenwood.  
+It has been wrapped with fine strips of leather and decorated with the banner
+of the city of Solanthus.    
+~
+A
+19 2
+A
+2 1
+#11827
+lorica shining steel~
+a shining steel lorica of overlapping plates~
+Several strips of steel held together by leather straps are lying here.~
+~
+9 151539712 9
+7 0 0 0
+22 395 99 14 -1
+E
+lorica shining steel~
+   Loricae are favored by warriors who like to keep a full range of motion, or
+at least maintaining as much freedom of movement as possible when incased in
+steel.  This particular lorica is made of overlapping plates, each about four
+inches in width.  Thick leather straps secure all the plates and the armour to
+its wearer.  The straps are adjustable allowing it to fit most rather
+comfortably.    
+~
+#11828
+hauberk chain mail~
+a chain mail hauberk~
+A large pile of chain links have been left here.~
+~
+9 134762496 9
+6 0 0 0
+6 425 106 13 -1
+E
+hauberk chain mail~
+   Sturdy steel rings have been linked together to form this long tunic.  It is
+designed to extend to the upper thigh of the average human male.  It's
+relatively light weight and free design make it a favorite for wearers of all
+builds.    
+~
+#11829
+dagger swordbreaker thick-bladed steel~
+a thick-bladed swordbreaker dagger~
+A thick-bladed swordbreaker dagger~
+~
+5 2105344 1040211969
+0 2 4 11
+2 280 70 14 -1
+E
+dagger swordbreaker thick-bladed~
+   Swordbreaker daggers are immensely popular with warriors for their ability
+to fend off blows in close sword combat situations, this dagger received its
+name from its function.  Often employed as an off-handed weapon the strong,
+rigid teeth cut into one edge of the blade would catch the sword blade of one's
+opponent.  The toothed blade is approximagely two inches wide and ten inches
+long.  The hilt is highly polished vallenwood which has been reinforced with
+bands of steel.    
+~
+#11830
+sabre steel serrated hunting~
+a serrated hunting sabre~
+A serrated sabre is lying here, forgotten.~
+~
+5 2109440 8193
+0 2 6 3
+14 295 84 13 -1
+E
+sabre serrated hunting~
+   This is hunting sabre has been wonderfully crafted with a solid brass
+handguard and twisted brass grip.  The steel blade, just over thirty inches in
+length, is slightly curved and serrated making it an excellent hunting weapon.
+  
+~
+#11831
+goblet spiced apple cider~
+a goblet of spiced apple cider~
+A goblet of spiced apple cider has been left here.~
+~
+17 0 1
+8 8 8 0
+13 12 3 1 -1
+E
+goblet spiced apple cider~
+   Warm apple cider has been poured into this stonewear goblet.  The aroma
+would seem to indicate that the cider has been accented with a bit of cinnamon
+and other spices.  The base of the goblet bears the mark of the Cock 'n' Bull
+Tavern.    
+~
+#11832
+sandwich ham cheese~
+a ham and cheese sandwich~
+A delicious looking sandwich has been carelessly discarded here.~
+~
+19 0 1
+10 0 0 0
+1 10 3 1 -1
+E
+sandwich ham cheese~
+   A thick slice of tavern ham, slowly roasted in a honey glaze, combines with
+a piece of sharp cheddar cheese to give this sandwich a distinctive taste.  A
+light smear of coarse brown mustard, spread on the crusty bread, accents the
+flavor of the meat perfectly.    
+~
+#11833
+sandwich chicken breast grilled roll~
+a grilled chicken breast on a hard roll~
+A chicken sandwich has been carelessly left here.~
+~
+19 0 1
+12 0 0 0
+1 12 3 1 -1
+E
+sandwich chicken breast grilled roll~
+   Wystan takes a plump chicken breast, marinates it in red wine vinegar and
+spices then grills it to juicy perfection.  He compliments it with just a
+smidgeon of raspberry dressing and serves it on a hard roll.    
+~
+#11834
+pastry puff piece sugar~
+a piece of puff pastry laced with powdered sugar~
+A piece of puff pastry has been carelessly discarded here.~
+~
+19 0 1
+8 0 0 0
+1 8 2 1 -1
+E
+pastry puff piece sugar~
+   Light pastry dough has been cooked to a golden brown, causing it to puff to
+a flakey perfection.  It is then dusted with a powdered sugar adding just the
+right amount of sweetness.    
+~
+#11835
+map Solanthus rolled~
+a rolled map of Solanthus~
+A rolled map, marked with the crest of the City of Solanthus, is lying here.~
+~
+12 0 1
+0 0 0 0
+1 16 4 1 -1
+E
+map rolled~
+                  - - - - - - - - -
+                /                  \                    T h e   C i t y
+              /                     \                        o f
+            /    8                  /                  S o l a n t h u s 
+          /     /                  /                   
+        /      /                   \
+      /       /              4      \                   
+    /        /               /       \ Main            1. City Hall
+  /     W   /               |       /  Gate    /\      
+ |      a /                 |    Grand   \    /  \     2. The Marketplace
+ |      r W                /\    March    \  /    \    
+ |      d a              /   \   /   \     \/      \   3. Temple of Shinare     
+ |      e y            / Cleft  /     \     6       \  
+ |      r              \Spires \       \    |     7  | 4. Temple of Paladine
+ |      s               \     / \       --- \    /   | 
+ |      |                \  /    \            --     | 5. Temple of Mishakal
+  Westgate Road           |       \    Main  /       |   
+ |          \- - 2  - -  /         \   Quad /        | 6. The Golden
+ |              /       S           \      /         |    Pineapple Inn
+ |             3        o            -----          /      
+ |                      u - 1         \            /   7. The Platinum Rose
+ |                      t              5          /
+  \                     h                        /     8. Warehouses
+   \                    g                       /  
+    \                   a                      /  
+     \                  t                     /
+      \                 e                    /
+        - - - - - - - -    - - - - - - - - -    
+
+~
+#11836
+stone resemblance Uncle Trapspringer~
+a stone bearing an amazing resemblance to Uncle Trapspringer~
+A small stone is lying here.~
+~
+8 0 16385
+0 0 0 0
+1 44 11 0 -1
+E
+stone resemblance Uncle Trapsringer~
+   This smally grey stone seems rather unremarkable at first glance.  However,
+upon closer inspection you cannot help but notice its overwhelming resemblance
+to Uncle Trapspringer.    
+~
+#11837
+map greater solamnia~
+a map of Greater Solamnia~
+A beautifully illustrated map is lying here.~
+~
+12 0 1
+0 0 0 0
+1 12 3 5 -1
+E
+map greater solamnia beautifully illustrated~
+
+This beautifully illuminated scroll highlights the major cities and Keeps of Solamnia.
+
+ City of
+Palanthas                  Vingaard
+    |                        Keep
+    |                          |
+     \                         |
+      \                        |
+       +---+\                  |
+      /      +-----------------+-------+
+     /                         |        \
+    /                          |         \              City of
+   /                          +           +-------------Kalaman
+Thelgaard                    /
+  Keep                     /
+    \                      +
+     \                    / \
+      \              +---+   \
+        *Solanthus, the       +-------+
+       Solamnic Capital*  
+
+~
+$~

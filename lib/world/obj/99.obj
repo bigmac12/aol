@@ -1,0 +1,252 @@
+#9900
+fountain~
+a fountain~
+A fountain stands here, its cool waters rippling into a stone basin.~
+~
+23 0 0
+99999 99999 0 0
+100004 0 0 1 -1
+E
+fountain stone~
+   This small fountain has several spouts of water at the top that pour into a
+stone basin beneath.  From the basin, a hidden mechanism recirculates the water
+back to the spouts.    
+~
+#9901
+bench white~
+a white bench~
+A white marble bench rests here.~
+~
+12 0 0
+0 0 0 0
+500 0 0 1 -1
+E
+bench white marble~
+   This bench is large enough to seat two, and is made of unblemished white
+marble.    
+~
+#9902
+robes cleric paladine white~
+&Wa fine, soft white robe with silver triangle embroidery&n~
+The white robes of a cleric of Paladine are neatly folded here.~
+~
+11 2808832 9
+0 0 0 0
+3 45 11 6 -1
+E
+robe robes white paladine~
+   The white clerical robes are simply cut from a fine, soft material and are
+impeccably clean.    
+~
+A
+17 -3
+#9903
+pendant Paladine silver triangle chain~
+&wa thin steel chain with a silver triangle pendant&n~
+A pendant of a silver triangle lies here.~
+~
+11 1048576 5
+0 0 0 0
+1 130 35 10 -1
+E
+pendant Paladine silver triangle~
+   This pendant is made out of steel and has been formed into a thin disc.  
+The center of the pendant has inlaid silver, in the shape of a triangle.  The
+silver triangle is well polished, and shines in the light better than the steel
+surrounding it.  On the top of the disc is a small circle, allowing it to be
+hung from it's thin silver chain.    
+~
+A
+17 -2
+#9970
+pool round steam~
+a large round pool~
+A large round pool emitting steam sits in the middle of the room.~
+~
+23 0 0
+8000 8000 0 0
+8005 0 0 1 -1
+E
+pool round steam~
+   A large pool has been carefully excavated from the native stone that
+makes up the base of the city.  Its surface is as smooth as polished stone
+and is perfectly flat to step upon while in the water.  A hot spring welling
+up from nearby was tapped into and a constant supply of fresh, warm water
+cycles through producing perfectly clear, steaming hot water.
+~
+#9971
+platform marble~
+a marble platform~
+An intricately carved platform of smooth, gleaming marble extends from the pool.~
+~
+12 0 0
+0 0 0 0
+1000 0 0 1 -1
+E
+platform marble sloping~
+   A delicate stepway curves around one side of the small platform.  
+Constructed at incredibel expense by expert gnomish masons, the gleaming ivory
+marble platform is perfectly smooth and constantly wet from the rising steam
+from the pool.  A lip on either side prevents one from from falling.    
+~
+#9972
+tub tubs~
+the tub~
+A pair of marble tubs sit on a low pedestal.~
+~
+12 0 0
+0 0 0 0
+1000 0 0 1 -1
+E
+tub tubs~
+   The tubs have been carved out of soild blocks of marble and smoothed to a
+glassed polish.  The basins are separate but sit right beside each other atop
+their pedastal in the middle of the room.  Although they have no independant
+water source, they are contantly fed and refreshed by attendants to ensure the
+quality of the bath.    
+~
+#9973
+basin sauna rocks~
+a basin containing glowing rocks~
+A deep basin containing numerous glowing rocks heats the sauna.~
+~
+12 0 0
+0 0 0 0
+1000 0 0 1 -1
+E
+sauna rocks basin~
+   A deep hollowed out basin in the middle of the room contains a number of
+large stones which all glow a dull red and give off a great deal of heat for
+the sauna.  Thick steam lingers in the room from the last time water was poured
+on the stones.    
+~
+#9974
+plaque sign~
+a plaque~
+A plaque in dedication of the bathhouse rests in the marble wall.~
+~
+12 0 0
+0 0 0 0
+1000 0 0 1 -1
+E
+plaque sign dedication wall~
+This large plaque looks to be a dedication, for all who contributed
+to the bathhouse.  Near the bottom is a small, clear gem.
+
+              - o - BATHHOUSE OF KALAMAN  - o -
+
+Thank you to all of you who have contributed, who without, this bath-
+house idea would be, frankly, all washed up.  Appreciation goes to:
+
+             Guardian ANGEL of the Fountain, Gaist
+                  Knight Solist Stormguard
+                  Lady Wren of House Mystic
+                Karlia "Trouble" Nimblefingers
+      Knight Apharot Soltharus, and his daughter Geostria
+        Everyone who wanted to contribute, but didn't!
+~
+#9975
+bubbling pool jacuzzi shallow~
+a shallow bubbling pool~
+A shallow pool bubbles vigorously, surrounded by a narrow ledge.~
+~
+23 0 0
+8000 8000 0 0
+8005 0 0 1 -1
+E
+bubbling pool jacuzzi shallow~
+   The heated tub is one of the most relaxing places to sit in the public 
+baths.  It has been constructed by gnomish hydrodynamic specialists and
+is driven by a complex series of pipes and hoses which lead down below
+to bellows which forcefully push air into the water and produce the
+amazing jets and bubbles.
+~
+#9976
+towel~
+a towel~
+A small towel is laying in a heap.~
+~
+11 0 2057
+0 0 0 0
+2 4 1 1 -1
+E
+towel~
+   A small towel, standard issue for the baths.  Stitched across its edge
+is the name of the baths.  Worn over the waist or around the body, it is
+worn while wlaking around the pools.
+~
+#9977
+container bath oil~
+some bath oil~
+A small container of bath oil sits on the ground.~
+~
+12 0 16385
+0 0 0 0
+1 4 1 1 -1
+E
+container bath oil~
+   The small disposable container holds a small quantity of bath oils.
+Specially designed to soften the water and produce bubbles, the oils can
+be poured into a bath or rubbed into the skin during a massage.
+~
+#9978
+bar soap~
+a bar of soap~
+A tiny bar of soap is drying out in the sun.~
+~
+12 0 16385
+0 0 0 0
+1 3 1 1 -1
+E
+bar soap~
+   The bar of soap is white and smooth.  Made from diluted animal
+fats, lime and mixed with pumice, the bar has amazing cleaning properties.  This
+item is a must for anyone who has been out of the city for a long time and
+has not had a bath since.
+~
+#9979
+massage table~
+a massage table~
+A low massage table sits against a wall.~
+~
+12 0 0
+0 0 0 0
+1000 0 0 1 -1
+E
+massage table~
+   The table is just long enough for a large person to lay down upon it.
+The surface is black, padded leather with a hole at one end for a persons
+face.  An unused towel lays across one end, ready for the next customer.
+~
+#9980
+rack display~
+a display rack~
+Here rests a display rack full of wooden, practice swords.~
+~
+15 65574 0
+80 0 -1 0
+999999 0 0 0 -1
+E
+rack display~
+   Resting against the northern wall, this is but one of two large, wooden
+display racks for Pender's collection of training swords.  Simple of style and
+construction, it is yet sturdy and strong, capable of not only holding a few
+wooden blades, but taking a beating with one should things go awry.    
+~
+#9982
+bundle firewood timbers kindling wood collection scrap~
+&ya small bundle of scrap kindling&n~
+A small collection of scrap timbers lies here, gathered into a loose bundle.~
+~
+30 0 1
+0 0 0 0
+2 4 1 1 -1
+E
+bundle firewood timbers kindling wood collection scrap~
+   Little more than a random collection of scrap, these small timbers have been
+gathered into a loose bundle and secured with twine.  It is unsure where these
+pieces have come from, yet they have a roughly finished look and more than a
+few have odd tatters of leather still affixed to them, suggesting they were
+once more than they are now.    
+~
+$~
