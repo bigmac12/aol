@@ -1140,7 +1140,29 @@ ACMD(do_score)
   sprintf(buf, "%s\r\n&CCurrent Mv/Max Mv: &W[&R%5d &W/ &R%5d&W]&n",
 	  buf, GET_MOVE(ch), GET_MAX_MOVE(ch));
 
-  sprintf(buf, "%s\r\n&CRP Experience Factor: &W[&R%5d&W]&n", buf, GET_RPFACTOR(ch));
+    // Will change this to hunger/thirst != -1
+    // Or Hunger: full
+   if (GET_LEVEL(ch) < 31) {
+    int full = GET_COND(ch, FULL);
+    int thirst = GET_COND(ch, THIRST);
+    char full_meter[24] = "";
+    char thirst_meter[24] = "";
+    int i = 0;
+    int j = 0;
+
+    for (i = 0; i < full; i++) {
+        strcat(full_meter, "=");
+    }
+
+    for (j = 0; j < thirst; j++) {
+        strcat(thirst_meter, "=");
+    }
+
+    sprintf(buf, "%s \r\n&CHunger: &W[&R%-24s&W]&n", buf, full_meter);
+    sprintf(buf, "%s \r\n&CThirst: &W[&R%-24s&W]&n", buf, thirst_meter);
+   }
+
+    sprintf(buf, "%s\r\n&CRP Experience Factor: &W[&R%5d&W]&n", buf, GET_RPFACTOR(ch));
 
 // New exp % code by Gicker
    int int_xp = 0;
@@ -1177,9 +1199,11 @@ ACMD(do_score)
      sprintf(buf, "%s \r\n&CProgress toward next level: &W[&R%3d.%1d%%&W]&n", buf, int_xp, int_percent);
      sprintf(buf, "%s\r\n", buf);
    }
-   else
-     sprintf(buf, "%s\r\n&CExperience Points: &W[&R%d&W]&n\r\n", buf, GET_EXP(ch));
+   //else
+     //sprintf(buf, "%s\r\n&CExperience Points: &W[&R%d&W]&n\r\n", buf, GET_EXP(ch));
+     // No-op
 
+   sprintf(buf, "\r\n", buf);
   /* no need to change anything down here...yet */
   switch (GET_POS(ch)) {
   case POS_DEAD:
