@@ -34,6 +34,53 @@ on the pommel of his weapon.
 Maxmove: 100
 E
 T 30302
+#30303
+priestess plain~
+a plain-looking priestess in black robes~
+A plain-looking priestess in black robes wanders about here. 
+~
+   This young priestess looks very plain in both attire and face.  The only
+distinctive feature is her steel-grey eyes, which hold a sense of stern
+resolve.  She wanders about the area doing the business of which ever church
+she is from.    
+~
+8 8192 0 -850 E
+6 17 10 2d6+80 2d8+2
+30 175 2
+8 8 2 0
+Maxmove: 100
+E
+#30306
+dwarf warrior fighter dwarven~
+a dwarven warrior~
+A dwarven warrior walks past muttering under his breath.
+~
+   This dwarf is from Thorbardin, and is of the Hylar clan.  It bears all of
+the traits of a typical Hylar, including light brown skin, smooth cheeks, and
+bright eyes.    
+~
+8 0 0 0 E
+5 17 11 2d5+65 2d5+0
+20 85 3
+8 8 1 0
+Maxmove: 100
+E
+#30312
+boy playful black~
+a playful boy~
+A boy with curcly black hair runs around with a patch over one eye.
+~
+   This little boy has curly black hair and raggedy clothing, and he runs
+around with glee, striking anything he can with his imaginary sword.  He wears
+a patch over one eye, that keeps slipping down to his nose, and he laughs as he
+plays pirate games.    
+~
+8 0 0 0 E
+3 19 13 1d5+25 1d6+1
+4 25 0
+8 8 1 0
+Maxmove: 100
+E
 #30313
 sanction guard~
 a Sanction guard~

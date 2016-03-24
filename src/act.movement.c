@@ -1301,22 +1301,14 @@ const int flags_door[] =
 
 
 
-void do_doorcmd(struct char_data *ch, struct obj_data *obj, int door, int scmd)
-
-{
+void do_doorcmd(struct char_data *ch, struct obj_data *obj, int door, int scmd) {
 
   int other_room = 0;
-
   struct room_direction_data *back = 0;
-
-
-
   sprintf(buf, "$n %ss ", cmd_door[scmd]);
 
   if (!obj && ((other_room = EXIT(ch, door)->to_room) != NOWHERE))
-
     if ((back = world[other_room].dir_option[rev_dir[door]]))
-
       if (back->to_room != ch->in_room)
 
 	back = 0;
@@ -1406,29 +1398,18 @@ void do_doorcmd(struct char_data *ch, struct obj_data *obj, int door, int scmd)
 }
 
 
-
-
-
-int ok_pick(struct char_data *ch, int keynum, int pickproof, int scmd)
-
-{
-
+int ok_pick(struct char_data *ch, int keynum, int pickproof, int scmd) {
   if (scmd == SCMD_PICK) {
-
     if (keynum < 0)
-
       send_to_char("Odd - you can't seem to find a keyhole.\r\n", ch);
 
     else if (pickproof)
-
       send_to_char("It resists your attempts to pick it.\r\n", ch);
 
     else if (!check_skill(ch, 101, SKILL_PICK_LOCK))
-
       send_to_char("You failed to pick the lock.\r\n", ch);
 
     else
-
       return (1);
 
     return (0);
@@ -1436,11 +1417,27 @@ int ok_pick(struct char_data *ch, int keynum, int pickproof, int scmd)
   }
 
   return (1);
-
 }
 
+/*
+int ok_smash(struct char_data *ch, int keynum, int pickproof, int scmd) {
+    int success = 0;
 
+    if (scmd == SCMD_SMASH) {
+        if (keynum < 0) {
+            send_to_char("There's no lock to smash.\r\n", ch);
+        } else if (pickproof) {
+            send_to_char("It resists your attempts to smash it.\r\n", ch);
+        } else if (!check_skill(ch, 101, SKILL_SMASH)) {
+            send_to_char("You failed to smash the lock.\r\n", ch);
+        } else {
+            success = 1;
+        }
+    }
 
+    return success;
+}
+*/
 
 
 #define DOOR_IS_OPENABLE(ch, obj, door)	((obj) ? ((GET_OBJ_TYPE(obj) == ITEM_CONTAINER) && (IS_SET(GET_OBJ_VAL(obj, 1), CONT_CLOSEABLE))) : (IS_SET(EXIT(ch, door)->exit_info, EX_ISDOOR)))
