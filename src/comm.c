@@ -933,6 +933,7 @@ void heartbeat(int pulse)
       mins_since_crashsave = 0;
       Crash_save_all_II();
       /*House_save_all(); */
+      auto_backup_equipment();  
     }
   }
 

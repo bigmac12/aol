@@ -1639,4 +1639,12 @@ void Crash_save_all_II(void)
   }
 }
 
+void auto_backup_equipment(void) {
+    struct descriptor_data *d;
 
+    for (d = descriptor_list; d; d = d->next) {
+        if ((STATE(d) == CON_PLAYING) && !IS_NPC(d->character)) {
+            //save_char(d->character, NOWHERE);
+        }
+    }
+}
