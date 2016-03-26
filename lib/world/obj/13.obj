@@ -167,9 +167,9 @@ A
 #1312
 delete me~
 a thin blanket~
-A thin blue blanket lies here in a heap.~
+A dozen corpses of massacred demons and other unmentionables lay strewn about the area.~
 ~
-9 0 1025
+9 0 0
 1 0 0 0
 3 3 1 4 -1
 E
@@ -781,14 +781,14 @@ Nothing.
 15 0 -1 0
 0 0 0 2 -1
 E
+undefined~
+Nothing.
+~
+E
 cake wedding~
    This three-tiered wedding cake has been decorated with white frosting roses,
 and has delicate drippings of strawberry glaze falling from the top tier to the
 bottom.  Surrounding the base of the cake are plump, juicy strawberries.    
-~
-E
-undefined~
-Nothing.
 ~
 #1398
 delete me~
@@ -807,13 +807,13 @@ A smooth ringband made of beautiful white gold, lies here.~
 1 0 0 0
 1 109 11 2 -1
 E
-undefined~
-Nothing.
-~
-E
 band inscription~
 As this band forms an unbroken circle, so too does it symbolize the unbroken
 love of you and I, as we join to become one in heart, mind and soul.
                             To My Beloved
+~
+E
+undefined~
+Nothing.
 ~
 $~

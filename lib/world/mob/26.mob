@@ -13,6 +13,7 @@ direction.
 1811 100512 0
 8 8 0 0
 BareHandAttack: 1
+Maxmove: 50
 E
 T 2620
 #2601
@@ -30,6 +31,7 @@ direction.
 1234 112811 0
 8 8 0 0
 BareHandAttack: 1
+Maxmove: 50
 E
 T 2620
 #2602
@@ -49,6 +51,7 @@ across his weathered old face.
 0 300000 0
 8 8 0 0
 BareHandAttack: 7
+Maxmove: 50
 E
 T 2603
 #2603
@@ -65,6 +68,7 @@ vein of gold.
 24 0 -8 3d33+1000 30d3+8
 3400 68000 0
 8 8 1 0
+Maxmove: 50
 E
 #2604
 shadow assassin~
@@ -80,6 +84,7 @@ malevolent grin can almost be seen on her face.
 30 1 -22 3d33+8000 30d2+10
 54228 500000 4
 8 8 2 0
+Maxmove: 50
 E
 #2605
 slug giant~
@@ -98,6 +103,7 @@ rocks and other foreign objects.
 0 175000 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 T 2616
 #2606
@@ -115,6 +121,7 @@ cheek and appears to be wearing nothing except a pair of tight fitting pants.
 2350 68000 0
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #2607
 spirit dark~
@@ -131,6 +138,7 @@ gaze at you with malevolent hatred, and a mocking smile crosses her face.
 16000 800000 10
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 T 2615
 #2608
@@ -147,6 +155,7 @@ the dais.
 30 1 -20 3d33+8000 30d2+9
 21012 800000 2
 8 8 1 0
+Maxmove: 50
 E
 #2609
 pilgrim dwarven~
@@ -161,6 +170,7 @@ under his breath as you walk by, obviously irritated at your presense
 23 6 -7 3d33+700 3d8+8
 3600 52000 0
 8 8 1 0
+Maxmove: 50
 E
 #2610
 dragon enormous red~
@@ -173,10 +183,11 @@ scales reflect the light, making her appear to glow.  Occationally her great
 tail lashes out, sending piles of coins into the air in all directions.    
 ~
 3729438 1080 8389664 0 E
-30 1 -20 5d33+10000 30d3+11
+30 1 -20 5d33+30000 30d3+11
 95235 900000 1
 8 8 2 0
 BareHandAttack: 8
+Maxmove: 50
 E
 T 2618
 T 2
@@ -195,6 +206,7 @@ eyes.
 12000 150000 9
 8 8 0 0
 BareHandAttack: 16
+Maxmove: 50
 E
 #2612
 rat furtive albino~
@@ -210,6 +222,7 @@ looking for scraps of food.
 2419 37000 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #2699
 Secretz DO NOT REMOVE THIS MOB~
@@ -224,6 +237,7 @@ covering the sharply sloping hole which can be seen beneath it.
 31 0 -15 3d33+30000 30d1+10
 0 300000 0
 8 8 0 0
+Maxmove: 50
 E
 T 2601
 $
