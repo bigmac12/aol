@@ -1887,129 +1887,65 @@ void format_text(char **ptr_string, int mode, struct descriptor_data *d, int max
 
 }
 
-
-
-
-
 char * describe_align(int align) {
+    if (align == 850) {
+        return "Good";
+    } else if (align == 0) {
+        return "Neutral";
+    } else if (align == -850) {
+        return "Evil";
+    } else {
+        return "";
+    }
+}
 
-  if ( align <= -850 ) {
+char * describe_ethos(int ethos) {
+    if (ethos == 850) {
+        return "Lawful";
+    } else if (ethos == 0) {
+        return "Neutral";
+    } else if (ethos == -850) {
+        return "Chaotic";
+    } else {
+        return "";
+    }
+}
 
-    return "You are a truly foul and evil fiend.";
+char * describe_char_align(int ethos, int align) {
+    char align_str[40];
 
-  } else if ( align <= -650 ) {
+    if (ethos == 0 && align == 0) {
+        return "True Neutral";
+    } else {
+        strcpy(align_str, describe_ethos(ethos));
+        strcat(align_str, " ");
+        strcat(align_str, describe_align(align));
+    }
 
-    return "You follow the dark paths.";
-
-  } else if ( align <= -450 ) {
-
-    return "Your soul is tainted with evil.";
-
-  } else if ( align <= -250 ) {
-
-    return "You find little point in being good.";
-
-  } else if ( align < 0 ) {
-
-    return "You are somewhat nasty to others.";
-
-  } else if ( align < 250 ) {
-
-    return "You are a fairly reasonable being.";
-
-  } else if ( align < 450 ) {
-
-    return "Your actions speak well for you.";
-
-  } else if ( align < 650 ) {
-
-    return "You strive to make the world a better place.";
-
-  } else if ( align < 850 ) {
-
-    return "You find the goodness in all beings.";
-
-  } else {
-
-    return "You are a saintly being.";
-
-  }
-
+    return align_str;
 }
 
 
-
-char * describe_ethos(int align) {
-
-  if ( align <= -850 ) {
-
-    return "You do what you want, when you want.";
-
-  } else if ( align <= -350 ) {
-
-    return "You go your own way.";
-
-  } else if ( align <= -50 ) {
-
-    return "You're not fettered by the strictures of society.";
-
-  } else if ( align <= 50 ) {
-
-    return "You follow the rules when they suit you.";
-
-  } else if ( align < 350 ) {
-
-    return "You are something of an organization nut.";
-
-  } else if ( align < 850 ) {
-
-    return "You are a very orderly person.";
-
-  } else {
-
-    return "You are firmly entrenched in law and order."; 
-
-  }
-
-}
-
-
-
-char * describe_clan(int clannum)
-
-{
-
-  switch(clannum)
-
-  {
-
+char * describe_clan(int clannum) {
+  switch(clannum) {
     case CLAN_KOS :
-
       return "Knights of Solamnia";
 
     case CLAN_CONCLAVE :
-
       return "Conclave of Magic";
 
     case CLAN_HOLY_ORDER :
-
       return "Holy Order of the Stars";
 
     case CLAN_BLACKBLADE :
-
       return "Guild of the Black Blade";
 
     default:
-
       return "no clan";
-
   }
 
   return "not a clan";
-
 }
-
-
 
 
 

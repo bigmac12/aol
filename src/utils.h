@@ -70,9 +70,10 @@ void get_pers_II(struct char_data* ch, const struct char_data* vi, char** chname
 #define FREE_NAME(xk) if (xk != (char*) NULL) free(xk); xk = (char*) NULL; }
 
 /*  PDH  1/14/99 - debug util  */
-char *  describe_align(int align);
-char *  describe_ethos(int align);
-char *  describe_clan(int clannum);
+char * describe_align(int align);
+char * describe_ethos(int ethos);
+char * describe_char_align(int ethos, int align);
+char * describe_clan(int clannum);
 
 /*  PDH  3/29/99 - money system  */
 int money_to_copper(struct money_data money);

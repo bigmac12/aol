@@ -1096,52 +1096,43 @@ ACMD(do_gold)
 /* here is a revised version of the score :) */ 
 ACMD(do_score)
 {
-  extern  char *  godSelected(struct char_data *ch);
-  extern  const char *pc_class_types[];
-  extern  const char *pc_race_types[];
+    extern  char *  godSelected(struct char_data *ch);
+    extern  const char *pc_class_types[];
+    extern  const char *pc_race_types[];
 
-  /* struct time_info_data playing_time; */
-  if (IS_NPC(ch)) {
-    return;
-  }
+    /* struct time_info_data playing_time; */
+    if (IS_NPC(ch)) {
+        return;
+    }
 
-  if ((age(ch)->month == 0) && (age(ch)->day == 0)) {
-    strcat(buf, "  It's your birthday today.\r\n");
-  } else {
-    strcat(buf, "\r\n");
-  }
+    if ((age(ch)->month == 0) && (age(ch)->day == 0)) {
+        strcat(buf, "  It's your birthday today.\r\n");
+    } else {
+        strcat(buf, "\r\n");
+    }
 
-  sprintf(buf, "\r\n");
-  GET_NAME(ch, chname);
-  sprintf(buf, "%s&CName: &R%s &CLevel&W: &R%3d &n",
-	  buf, chname,  GET_LEVEL(ch));
-  FREE_NAME(chname);
-  sprintf(buf, "%s &CClass&W: &R%-12s &CRace&W: &R%-12s&n",buf,
-	  pc_class_types[(int)GET_CLASS(ch)],
-	  pc_race_types[(int)GET_RACE(ch)]);
+    sprintf(buf, "\r\n");
 
-  sprintf(buf,"%s\r\n&CMoney: &W[&R%s&W]", buf, describe_money(GET_MONEY(ch)));
+    GET_NAME(ch, chname);
+    sprintf(buf, "%s&CName: &R%s &W[&RLevel %d %s %s&W]&n", buf, chname,  
+                                                             GET_LEVEL(ch), 
+                                                             pc_race_types[(int)GET_RACE(ch)], 
+                                                             pc_class_types[(int)GET_CLASS(ch)]);
+    FREE_NAME(chname);
 
-  /*  PDH  2/25/99 - god selection code  */
-  if ( GET_CLASS(ch) == CLASS_CLERIC ||
-       GET_CLASS(ch) == CLASS_PALADIN ) {
-    sprintf(buf,"%s \r\n&CAlignment: &W[&R%s&W]&n (God: %s)",
-	    buf, describe_align(GET_ALIGNMENT(ch)), godSelected(ch));
+    sprintf(buf,"%s\r\n&CMoney: &W[&R%s&W]", buf, describe_money(GET_MONEY(ch)));
 
-  } else {
-    sprintf(buf,"%s \r\n&CAlignment: &W[&R%s&W]&n",
-	    buf, describe_align(GET_ALIGNMENT(ch)));
-  }
-  sprintf(buf,"%s \r\n&CEthos : &W[&R%s&W]&n",
-            buf, describe_ethos(GET_ETHOS(ch)));
+    //sprintf(buf,"%s \r\n&CAlignment: &W[&R%s %s&W]&n", buf, describe_ethos(GET_ETHOS(ch)), describe_align(GET_ALIGNMENT(ch)));
+    sprintf(buf,"%s \r\n&CAlignment: &W[&R%s&W]&n", buf, describe_char_align(GET_ETHOS(ch), GET_ALIGNMENT(ch)));
 
-  sprintf(buf, "%s\r\n&CCurrent Hp/Max Hp: &W[&R%5d &W/ &R%5d&W]&n",
-	  buf, GET_HIT(ch), GET_MAX_HIT(ch));
-  sprintf(buf, "%s\r\n&CCurrent Mv/Max Mv: &W[&R%5d &W/ &R%5d&W]&n",
-	  buf, GET_MOVE(ch), GET_MAX_MOVE(ch));
+    /*  PDH  2/25/99 - god selection code  */
+    if ( GET_CLASS(ch) == CLASS_CLERIC || GET_CLASS(ch) == CLASS_PALADIN ) {
+        sprintf(buf,"%s (God: %s)", buf, godSelected(ch));
+    }
 
-    // Will change this to hunger/thirst != -1
-    // Or Hunger: full
+    sprintf(buf, "%s\r\n&CHP (curr/max): &W[&R%5d &W/ &R%5d&W]&n", buf, GET_HIT(ch), GET_MAX_HIT(ch));
+    sprintf(buf, "%s\r\n&CMV (curr/max): &W[&R%5d &W/ &R%5d&W]&n", buf, GET_MOVE(ch), GET_MAX_MOVE(ch));
+
     int full = GET_COND(ch, FULL);
     int thirst = GET_COND(ch, THIRST);
     char full_meter[24] = "";
