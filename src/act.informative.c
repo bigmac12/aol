@@ -1114,24 +1114,24 @@ ACMD(do_score)
     sprintf(buf, "\r\n");
 
     GET_NAME(ch, chname);
-    sprintf(buf, "%s&CName: &R%s &W[&RLevel %d %s %s&W]&n", buf, chname,  
+    sprintf(buf, "%s&CName: &R%s &W[ &RLevel %d %s %s&W ]&n", buf, chname,  
                                                              GET_LEVEL(ch), 
                                                              pc_race_types[(int)GET_RACE(ch)], 
                                                              pc_class_types[(int)GET_CLASS(ch)]);
     FREE_NAME(chname);
 
-    sprintf(buf,"%s\r\n&CMoney: &W[&R%s&W]", buf, describe_money(GET_MONEY(ch)));
+    sprintf(buf,"%s\r\n&CMoney: &W[ &R%s&W ]", buf, describe_money(GET_MONEY(ch)));
 
     //sprintf(buf,"%s \r\n&CAlignment: &W[&R%s %s&W]&n", buf, describe_ethos(GET_ETHOS(ch)), describe_align(GET_ALIGNMENT(ch)));
-    sprintf(buf,"%s \r\n&CAlignment: &W[&R%s&W]&n", buf, describe_char_align(GET_ETHOS(ch), GET_ALIGNMENT(ch)));
+    sprintf(buf,"%s \r\n&CAlignment:     &W[ &R%s&W ]&n", buf, describe_char_align(GET_ETHOS(ch), GET_ALIGNMENT(ch)));
 
     /*  PDH  2/25/99 - god selection code  */
     if ( GET_CLASS(ch) == CLASS_CLERIC || GET_CLASS(ch) == CLASS_PALADIN ) {
         sprintf(buf,"%s (God: %s)", buf, godSelected(ch));
     }
 
-    sprintf(buf, "%s\r\n&CHP (curr/max): &W[&R%5d &W/ &R%5d&W]&n", buf, GET_HIT(ch), GET_MAX_HIT(ch));
-    sprintf(buf, "%s\r\n&CMV (curr/max): &W[&R%5d &W/ &R%5d&W]&n", buf, GET_MOVE(ch), GET_MAX_MOVE(ch));
+    sprintf(buf, "%s\r\n&CHP (curr/max): &W[ &R%d&W / &R%d&W ]&n", buf, GET_HIT(ch), GET_MAX_HIT(ch));
+    sprintf(buf, "%s\r\n&CMV (curr/max): &W[ &R%d&W / &R%d&W ]&n", buf, GET_MOVE(ch), GET_MAX_MOVE(ch));
 
     int full = GET_COND(ch, FULL);
     int thirst = GET_COND(ch, THIRST);
@@ -1159,7 +1159,7 @@ ACMD(do_score)
     sprintf(buf, "%s \r\n&CHunger: &W[&R%-24s&W]&n", buf, full_meter);
     sprintf(buf, "%s \r\n&CThirst: &W[&R%-24s&W]&n", buf, thirst_meter);
 
-    sprintf(buf, "%s\r\n&CRP Experience Factor: &W[&R%5d&W]&n", buf, GET_RPFACTOR(ch));
+    sprintf(buf, "%s\r\n&CRP Experience Factor: &W[ &R%d&W ]&n", buf, GET_RPFACTOR(ch));
 
 // New exp % code by Gicker
    int int_xp = 0;
@@ -1192,7 +1192,7 @@ ACMD(do_score)
    }
 
    if (GET_LEVEL(ch) < 30) {
-     sprintf(buf, "%s \r\n&CProgress toward next level: &W[&R%3d.%1d%%&W]&n", buf, int_xp, int_percent);
+     sprintf(buf, "%s \r\n&CProgress toward next level: &W[ &R%d.%d%%&W ]&n", buf, int_xp, int_percent);
      sprintf(buf, "%s\r\n", buf);
    }
    //else
