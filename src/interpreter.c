@@ -3811,12 +3811,10 @@ int enter_player_game (struct descriptor_data *d)
 		else if(GET_HOME(d->character) == 1)     /* Kalaman */
 		{
 			load_room = real_room(10172);
-		 // load_room = 10172;                     /* Kalaman Inn */
 		}
-		else if(GET_HOME(d->character) == 2)     /* Karthay */
+		else if(GET_HOME(d->character) == 2)     /* Sanction */
 		{
-			load_room = real_room(5113);
-			//load_room = 5113;                      /* Karthay Inn */
+			load_room = real_room(30506);
 		}
 		else {
 			load_room = r_mortal_start_room;
