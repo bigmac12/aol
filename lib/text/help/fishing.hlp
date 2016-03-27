@@ -1,0 +1,30 @@
+FISHING
+
+Give a man a fish, and you feed him for a day. Teach a man to fish, and you
+feed him for a lifetime. This holds true in Krynn as well - fishing is a
+major industry in most seaside towns.
+
+Any character can fish provided that they have three things: a fishing rod,
+a body of water, and a little patience. Fish can be sold for money or kept
+to be cooked and eaten for yourself.
+
+To begin fishing, equip your fishing rod by holding it, then type "castout"
+to send your line into the water. Once you have a bite, or you decide that
+you are done fishing, type "reel" to bring your line back in.
+
+If you have caught a fish, it will raw; edible, but probably not very healthy
+or filling. The best way to enjoy your catch is to build a fire and cook it.
+
+See also: CASTOUT, REEL, COOK, BUILD
+#
+CASTOUT
+
+Usage: castout (requires a body of water)
+
+Use this command to begin fishing at a suitable body of water.
+
+When you are finished or have caught a fish, type "reel" to bring your line in.
+
+See also: FISHING, REEL
+#
+$

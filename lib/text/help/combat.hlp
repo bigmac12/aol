@@ -1,0 +1,65 @@
+COMBAT
+
+Krynn is a world of swords and sorcery. Whatever weapon you wield, be it the
+sword, holy magic, or high sorcery, you will need them to survive the rigors
+of combat.
+
+Combat begins as soon as a player attacks another player, an NPC, or in some
+cases, when a hostile NPC attacks you.
+
+During combat you and your opponents will exchange melee attacks automatically,
+and you have the opportunity to use any of your skills and spells to gain the
+upper hand.
+
+Keep in mind that each time you use a skill or spell that you must wait a
+short period of time before you are allowed to use another command, including
+"flee". Due to this, you should make sure to keep an eye on your hitpoints.
+
+To begin combat use the "kill" command, or target your intended victim with
+one of your skills or spells.
+
+The reward for defeating your opponent in combat is experience and, if they
+have it, money and equipment. Also keep in mind that players do not award 
+experience when defeated, and that you should not steal their equipment with-
+out a valid roleplay reason.
+
+See also: KILL, FLEE, HP, HITPOINTS
+#
+KILL
+
+Usage: kill <target>
+
+The world of Krynn is a dangerous place; some situations are kill or be killed.
+
+The kill command is the primary method of obtaining experience points, money
+to purchase supplies and pay rent at an inn, and the majority of items.
+
+Typing "kill <target>" will initiate combat, but be warned: be prepared to show
+no mercy, because once you begin combat with an NPC, it will not end until one
+of you flees or succumbs to their injuries.
+
+If you emerge victorious, the spoils of your victory will be found within the
+corpse of your victim.
+
+See also: COMBAT, EXPERIENCE, XP, CORPSE
+#
+CORPSE
+
+Life ends; such is the nature of mortality. When life ends, there is almost
+always a corpse.
+
+Just because your spirit has left your body does not mean that your belongings
+have. If you should suffer a death at the hands of your enemies, remember that
+defeat is only temporary - at least in most cases.
+
+To retrieve your belongings, return to the place where you died and you will
+find a corpse matching your description. You may "look in" the corpse to see
+what was left behind, or "get" items from it.
+
+Conversely, you are likely to leave the corpses of your enemies in your wake
+during the course of your adventures. When you defeat an enemy in combat, do
+not forget to claim your just rewards from their bodies.
+
+See also: COMBAT, GET, LOOK
+#
+$

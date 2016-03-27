@@ -475,8 +475,8 @@ Lunitari has left her Happy Wand lying around again.~
 Nothing.
 ~
 5 108224 24577
-99 99 20 16
-0 0 0 38 -1
+0 0 0 0
+0 0 0 5 -1
 #19998
 bed~
 an elegant bed~
@@ -485,6 +485,14 @@ An elegantly designed and richly decorated bed is covered with silk sheets.~
 12 0 0
 0 0 0 0
 0 0 0 0 -1
+E
+bed~
+   As you look at the bed and it's soaring canopy, you realize it glows
+slightly.  The canopy peaks about 10 feet off of ground level and has a crimson
+silk covering over it, filtering all light that goes through it, and turning it
+crimson.  The headboard is black, and the foot board is a deep crimson.  Two
+poles holding the canopy up are crimson, while the other two are black.    
+~
 E
 sheets~
    The sheets that cover the bed are a deep black, and seem to absorb light,
@@ -495,14 +503,6 @@ the bed is decorated on one side as black and the other crimson.  The material
 that makes up the sheets and skirt are both very fine, elegant, and expensive
 looking.    
 ~
-E
-bed~
-   As you look at the bed and it's soaring canopy, you realize it glows
-slightly.  The canopy peaks about 10 feet off of ground level and has a crimson
-silk covering over it, filtering all light that goes through it, and turning it
-crimson.  The headboard is black, and the foot board is a deep crimson.  Two
-poles holding the canopy up are crimson, while the other two are black.    
-~
 #19999
 book etiquette socials~
 a Book of Etiquette~
@@ -512,20 +512,31 @@ A large book with the words "A Book of Etiquette" embossed in gold is here.~
 0 0 0 0
 0 0 0 0 -1
 E
-socials.a~
-Applaud -
-   You give a hearty round of applause.
-   You give a round of applause to $N.
-   $n applauds the actions of $N.
-   $n gives you a round of applause for your actions.
-   You applaud an empty chair for its ability to sit still.
-   You applaud your greatest hero, yourself.
-   $n applauds for $s greatest hero, $mself.
-~
-E
-book etiquette socials~
-This book is a list of all the socials (that need fixed.)  You can view
-them by looking at socials.a, socials.b, and so on.
+socials.c~
+Cackle -
+   You cackle with evil glee at $N.
+   $n rubs $s hands together as $e cackles with insane glee at $N.
+   $n cackles evilly at you as $e rubs $s hands together.
+   You cackle as you think of what you would do if that person was here.
+   You start cackling as you think of your evil cleverness.
+   You back away as $n starts cackling to $mself.
+Chuckle -
+   You chuckle politely at $N.
+   $n chuckles ploitely at $N.
+   $n chuckles politely at you.
+   You chuckle at your imaginary friend.
+   You chuckle at your own self.
+   $n chuckles to $mself, and you wonder what the joke is.
+Clap -
+   You clap with approval at $N.
+   $n claps approvingly at $N.
+   $n claps approvingly at you.
+   It's too bad they're not around to hear your clapping.
+   You clap for yourself.
+   $n claps in approval of $s own actions.
+Cough -
+Curse -
+Curtsey -
 ~
 E
 socials.b~
@@ -555,31 +566,20 @@ Brb -
    Don't go away!  $n will be right back!
 ~
 E
-socials.c~
-Cackle -
-   You cackle with evil glee at $N.
-   $n rubs $s hands together as $e cackles with insane glee at $N.
-   $n cackles evilly at you as $e rubs $s hands together.
-   You cackle as you think of what you would do if that person was here.
-   You start cackling as you think of your evil cleverness.
-   You back away as $n starts cackling to $mself.
-Chuckle -
-   You chuckle politely at $N.
-   $n chuckles ploitely at $N.
-   $n chuckles politely at you.
-   You chuckle at your imaginary friend.
-   You chuckle at your own self.
-   $n chuckles to $mself, and you wonder what the joke is.
-Clap -
-   You clap with approval at $N.
-   $n claps approvingly at $N.
-   $n claps approvingly at you.
-   It's too bad they're not around to hear your clapping.
-   You clap for yourself.
-   $n claps in approval of $s own actions.
-Cough -
-Curse -
-Curtsey -
+book etiquette socials~
+This book is a list of all the socials (that need fixed.)  You can view
+them by looking at socials.a, socials.b, and so on.
+~
+E
+socials.a~
+Applaud -
+   You give a hearty round of applause.
+   You give a round of applause to $N.
+   $n applauds the actions of $N.
+   $n gives you a round of applause for your actions.
+   You applaud an empty chair for its ability to sit still.
+   You applaud your greatest hero, yourself.
+   $n applauds for $s greatest hero, $mself.
 ~
 A
 10 100
