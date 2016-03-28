@@ -155,17 +155,6 @@ A carved wooden key lies here forgotten.~
 0 0 0 0
 1 0 0 0 -1
 E
-key carved wooden~
-   Upon closer examination this key turns out to not be a key at all.  It is
-instead, merely a piece of wood cut in the shape of a key with some carvings on
-it.    
-~
-E
-carvings~
-   It looks like someone has carved some strange looking words into the wood.
-  
-~
-E
 words~
    The words are difficult to make out but they look like some sort of
 instructions for something.    
@@ -174,6 +163,17 @@ To   en en  anc  spe k a  ame  f Zi i yn.
 
 Obviously some of the letters are undecipherable leaving you a bit uncertain
 of the exact message.
+~
+E
+carvings~
+   It looks like someone has carved some strange looking words into the wood.
+  
+~
+E
+key carved wooden~
+   Upon closer examination this key turns out to not be a key at all.  It is
+instead, merely a piece of wood cut in the shape of a key with some carvings on
+it.    
 ~
 #2209
 belt woven green gold~
@@ -360,13 +360,16 @@ A massive marble pedestal sits here, holding a heavy, white-covered tome.~
 0 0 0 0
 50000 0 0 1 -1
 E
-pedestal massive marble~
-   The pedestal is huge and beautifully carved from solid marble.  The pedestal
-itself is a work of art, sitting in the middle of the room.  A magic light
-surrounds the thing, drawing all attention directly to it, and to the tome that
-sits atop it.  The tome is open, ready to be perused by you.  Something is
-drawing you toward the tome, and you get the distinct impression that there is
-something recorded within that you are going to need to know.    
+page3~
+Page three (fill in later)
+~
+E
+page2~
+Page two (fill in later)
+~
+E
+page1~
+Page one (fill in later)
 ~
 E
 tome~
@@ -377,16 +380,13 @@ not seem to be in any immediate danger of being destroyed.
 (Note: To read the tome, just use READ PAGE1, READ PAGE2, READ PAGE3, etc.)
 ~
 E
-page1~
-Page one (fill in later)
-~
-E
-page2~
-Page two (fill in later)
-~
-E
-page3~
-Page three (fill in later)
+pedestal massive marble~
+   The pedestal is huge and beautifully carved from solid marble.  The pedestal
+itself is a work of art, sitting in the middle of the room.  A magic light
+surrounds the thing, drawing all attention directly to it, and to the tome that
+sits atop it.  The tome is open, ready to be perused by you.  Something is
+drawing you toward the tome, and you get the distinct impression that there is
+something recorded within that you are going to need to know.    
 ~
 #2299
 key delicate black crystal z46~

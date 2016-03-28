@@ -104,6 +104,66 @@ wearer of this garment as a follower of Mishakal, goddess of healing.
 ~
 A
 17 -3
+#10211
+wrench pipe duty pin~
+a heavy duty pipe wrench with steel pin jaw~
+A heavy pipe wrench has been left here.~
+~
+5 0 16801793
+0 3 5 7
+2 230 1 14 -1
+#10212
+toolbox steel ~
+a multi-layer steel toolbox with leather handle~
+A steel toolbox with a leather handle is sitting here.~
+~
+15 0 16385
+30 1 -1 0
+2 252 0 10 -1
+#10213
+wire steel cogs washer~
+a steel wire stringed with cogs and washers~
+A string of wire hanging with cogs and washers lays here.~
+~
+8 0 6149
+0 0 0 0
+1 89 1 10 -1
+A
+17 1
+#10214
+helmet copper miner oil~
+&ya copper miner helmet with an oil light&n~
+A miner helmet has been left here. ~
+~
+9 0 17
+2 0 0 0
+1 166 12 13 -1
+#10215
+apron leather pockets loops~
+&ya thick leather apron with many pockets and loops&n~
+A wrinkled leather apron has been left here.~
+~
+15 0 1025
+25 1 -1 0
+1 210 1 13 -1
+#10216
+pipe slender metal ~
+a long, slender metal pipe with sharpen end~
+A long, slender pipe has been left here.~
+~
+5 0 24577
+0 2 7 14
+1 255 2 14 -1
+#10217
+toolbelt belt hooks pouches~
+a thick leather toolbelt with many metal hooks~
+A thick leather toolbelt has been left here.~
+~
+7 0 2049
+0 0 0 0
+1 155 1 13 -1
+A
+18 1
 #10250
 scale dragonscale multicolored glimmering~
 a glimmering multicolored scale~
@@ -337,42 +397,72 @@ A thick book covered with several runes has been carelessly forgotten here.~
 0 0 0 0
 0 12 1 1 -1
 E
-page5 5~
-How do I become a mage?
+book magic conclave runes~
 
-    Ah, finally the question that most, if not all, of
- you have been waiting for. Alas, there is no easy way
- to become a mage. The first step is to seek a wizard
- who is willing to teach you the rudiments of magic.
+   Greetings young mageling. Welcome to, for some of
+you, the first steps into the world of the arcane. It
+is a world of wander and danger with hours of long
+hard work that bear little rewards. Many have walked
+this path only to turn back or perish along the way.
 
-    It is imperative, though optional, to do this.
- Otherwise, the proper use of magic and the proper way
- to harness it will become lost on you. If you prove to
- be a competent student, your shalafi (the elven word
- for teacher) will notify the Conclave that you are
- ready for the test.
-
-    The Test is a grueling gauntlet that will push you
- to your limits. There is very little you can do to
- prepare for the Test except to practice your spells
- and listen well to your teachers. To some who take the
- Test, it is the last thing they will ever do, while to
- others it may leave them scarred for life. Whatever
- the case, the Test will determine whether you are
- worthy enough to join the ranks of the Conclave.
-
-Final Words
-
-    I will leave you with my observations, young
- mageling. The art of spellcraft is very much alike to
- the art of spinning thread. Both require a skilled and
- practiced hand and one mistake will ruin the spell or
- the piece of fabric. Years of study lie ahead of you,
- if you are ready to embrace your fate then stride
- boldly forward. Good luck.
+   Still reading? Good. The path of a wizard is not
+for the faint of heart. Now let us begin.
 
 
-  - Archmagus Grodyn, Order of Nuitari
+(read page2 to continue)
+~
+E
+page2 2~
+What is magic?                                                                  
+
+    A tool? Power? Spells? A means to an end? If these
+ were your answers, you would only be partially correct. Above
+ all else, magic is a gift from the gods.
+
+    Like any gift from the gods, magic should be
+ handled carefully and with reverence. I have seen too many
+ youths handle magic carelessly and become consumed by their
+ own ambitions and foolishness. This, above all else, I am
+ trying to prevent by writing this book.
+
+
+(read page3 to continue)
+~
+E
+page3 3~
+What is the Conclave?
+
+    The Conclave, an order founded by the three gods of
+ magic, Solinari the White Moon, Lunitari the Red Moon,
+ and Nuitari the Black Moon. It is the Conclave that
+ watches over the magic of the world.
+
+    During the Second Dragonwar, the mortal races were
+ under the threat of total annihilation once again by
+ Takhisis and the chromatic dragons. It was then that
+ the three gods of magic selected three individuals
+ from the race of mortals. These three were taken up to
+ the moons and taught to harness and control magic.
+
+    This magic differed from the innate magic found
+ in dragons and other magical creatures. This new magic
+ was called "High Sorcery" and rivaled the magic of
+ the dragons, also known as "primal magic".
+
+    After the chromatic dragons were defeated, the
+ gods of magic bestowed the Curse of the Magi and
+ the Foundations of the Conclave unto the wizards of
+ the world. The Curse of the Magi is the geas that
+ resides with anyone who wields the power of the
+ arcane.
+
+    Spells, once they have been used, are erased from
+ the spellcaster's memory, requiring the spellcaster to
+ memorize the spell again. It also causes the spellcaster
+ to become weary as he or she casts more spells
+ continuously.
+
+(read page4 to continue)
 ~
 E
 page4 4~
@@ -415,72 +505,42 @@ How are renegade wizards dealt with?
 (read page5 to continue)
 ~
 E
-page3 3~
-What is the Conclave?
+page5 5~
+How do I become a mage?
 
-    The Conclave, an order founded by the three gods of
- magic, Solinari the White Moon, Lunitari the Red Moon,
- and Nuitari the Black Moon. It is the Conclave that
- watches over the magic of the world.
+    Ah, finally the question that most, if not all, of
+ you have been waiting for. Alas, there is no easy way
+ to become a mage. The first step is to seek a wizard
+ who is willing to teach you the rudiments of magic.
 
-    During the Second Dragonwar, the mortal races were
- under the threat of total annihilation once again by
- Takhisis and the chromatic dragons. It was then that
- the three gods of magic selected three individuals
- from the race of mortals. These three were taken up to
- the moons and taught to harness and control magic.
+    It is imperative, though optional, to do this.
+ Otherwise, the proper use of magic and the proper way
+ to harness it will become lost on you. If you prove to
+ be a competent student, your shalafi (the elven word
+ for teacher) will notify the Conclave that you are
+ ready for the test.
 
-    This magic differed from the innate magic found
- in dragons and other magical creatures. This new magic
- was called "High Sorcery" and rivaled the magic of
- the dragons, also known as "primal magic".
+    The Test is a grueling gauntlet that will push you
+ to your limits. There is very little you can do to
+ prepare for the Test except to practice your spells
+ and listen well to your teachers. To some who take the
+ Test, it is the last thing they will ever do, while to
+ others it may leave them scarred for life. Whatever
+ the case, the Test will determine whether you are
+ worthy enough to join the ranks of the Conclave.
 
-    After the chromatic dragons were defeated, the
- gods of magic bestowed the Curse of the Magi and
- the Foundations of the Conclave unto the wizards of
- the world. The Curse of the Magi is the geas that
- resides with anyone who wields the power of the
- arcane.
+Final Words
 
-    Spells, once they have been used, are erased from
- the spellcaster's memory, requiring the spellcaster to
- memorize the spell again. It also causes the spellcaster
- to become weary as he or she casts more spells
- continuously.
-
-(read page4 to continue)
-~
-E
-page2 2~
-What is magic?                                                                  
-
-    A tool? Power? Spells? A means to an end? If these
- were your answers, you would only be partially correct. Above
- all else, magic is a gift from the gods.
-
-    Like any gift from the gods, magic should be
- handled carefully and with reverence. I have seen too many
- youths handle magic carelessly and become consumed by their
- own ambitions and foolishness. This, above all else, I am
- trying to prevent by writing this book.
+    I will leave you with my observations, young
+ mageling. The art of spellcraft is very much alike to
+ the art of spinning thread. Both require a skilled and
+ practiced hand and one mistake will ruin the spell or
+ the piece of fabric. Years of study lie ahead of you,
+ if you are ready to embrace your fate then stride
+ boldly forward. Good luck.
 
 
-(read page3 to continue)
-~
-E
-book magic conclave runes~
-
-   Greetings young mageling. Welcome to, for some of
-you, the first steps into the world of the arcane. It
-is a world of wander and danger with hours of long
-hard work that bear little rewards. Many have walked
-this path only to turn back or perish along the way.
-
-   Still reading? Good. The path of a wizard is not
-for the faint of heart. Now let us begin.
-
-
-(read page2 to continue)
+  - Archmagus Grodyn, Order of Nuitari
 ~
 #10290
 staff redwood carved archaic~
@@ -499,15 +559,6 @@ The Compendium of Scrolls and Potions sits on a pedestal in the corner.~
 0 0 0 0
 0 500 75 1 -1
 E
-book compendium scrolls potions table contents~
-
-Table of Contents
-
-1) a noxious green potion
-
-
-~
-E
 1 noxious~
    The potion is sold within the Kalaman mageware shop among other oddities.  
 Though a bit unappealing in taste and color the potion grants any who partake
@@ -518,6 +569,15 @@ should fail.
 -=)*** Archmagus Rafe Xel'Orna, Order of Lunitari ***(=-
 
 ~
+E
+book compendium scrolls potions table contents~
+
+Table of Contents
+
+1) a noxious green potion
+
+
+~
 #10292
 post members conclave mages~
 a post directed to members of the Conclave~
@@ -526,6 +586,12 @@ A post to members of the Conclave of Mages hangs on the wall.~
 16 0 0
 0 0 0 0
 2 100 30 1 -1
+E
+book~
+The book has only one intelligble spell left within it, and the title
+of the spell is Demon Summoning.  Much of the beginning of the spell
+has been ink blotted, but the ending can be clearly read.
+~
 E
 post members conclave mages~
 
@@ -547,12 +613,6 @@ There the student can tour the grounds and libraries while awaiting their
 Testing.
 
 
-~
-E
-book~
-The book has only one intelligble spell left within it, and the title
-of the spell is Demon Summoning.  Much of the beginning of the spell
-has been ink blotted, but the ending can be clearly read.
 ~
 #10293
 robes set simple novice conclave~

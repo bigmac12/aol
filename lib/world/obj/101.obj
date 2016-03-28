@@ -490,7 +490,7 @@ A
 17 -3
 #10134
 tunic red embroidered~
-a bright red embroidered tunic~
+&Ra bright red embroidered tunic&n~
 A bright red embroidered tunic is lying here.~
 ~
 11 1048576 9
@@ -505,7 +505,7 @@ A
 17 -1
 #10135
 apron white clean~
-&Wa clean white apron&n~
+&Wa clean white apron with side pockets&n~
 A clean white apron is lying here.~
 ~
 11 0 2049
@@ -719,7 +719,7 @@ bottle whiskey~
 ~
 #10151
 cap leather light~
-a light leather cap~
+&ya soft, light brown leather cap&n~
 A light leather cap is lying here.~
 ~
 9 0 17
@@ -830,7 +830,7 @@ A
 6 -1
 #10159
 steak meat juicy~
-a steak~
+a thick piece of juicy steak~
 A juicy steak lies here.~
 ~
 19 0 1
@@ -869,11 +869,11 @@ several pearl onions, all grilled to perfection.
 ~
 #10162
 bread loaf~
-a loaf of bread~
+a thick loaf of honey milk bread~
 A loaf of bread lies here.~
 ~
 19 0 1
-8 0 0 0
+20 0 0 0
 1 4 2 1 -1
 E
 bread loaf~
@@ -881,7 +881,7 @@ bread loaf~
 ~
 #10163
 doughnut~
-a doughnut~
+a glazed doughnut with cinnamon sprinkles~
 A doughnut has been dropped here.~
 ~
 19 0 1
@@ -895,7 +895,7 @@ center.  It has been lightly sprinkled with a ground cinnamon and sugar blend.
 ~
 #10164
 apple shiny~
-a shiny red apple~
+&Ra shiny red apple&n~
 A shiny red apple has been dropped here.~
 ~
 19 0 1
@@ -908,7 +908,7 @@ adventurer.
 ~
 #10165
 carrot long thick~
-a carrot~
+a thick carrot~
 A long, thick carrot lies here.~
 ~
 19 0 1
@@ -921,7 +921,7 @@ attached at its crown.
 ~
 #10166
 pie blueberry~
-a blueberry pie~
+&Ba overflowing blueberry pie with sugary crust&n~
 A fragrant blueberry pie lies here, still steaming from the hearth.~
 ~
 19 0 1
@@ -934,7 +934,7 @@ crust baked to a perfect brown.
 ~
 #10167
 tunic starched grey~
-a starched grey tunic~
+&wa starched grey tunic with cloth-covered buttons&n~
 A starched grey tunic lies here.~
 ~
 11 135266304 9
@@ -988,11 +988,11 @@ rope coil~
 ~
 #10171
 torch~
-a torch~
+a large torch made from heavy pine~
 A large torch lies here.~
 ~
 1 1048576 16385
-0 0 8 0
+0 0 10 0
 2 8 2 1 -1
 E
 torch large~
@@ -1001,11 +1001,11 @@ a pine scent when burned.
 ~
 #10172
 lantern light~
-a lantern~
+&ya copper-hooded lantern with weighted bottom&n~
 A lantern lies here.~
 ~
 1 1048576 16385
-0 0 12 0
+0 0 15 0
 3 12 3 1 -1
 E
 lantern light~
@@ -1014,7 +1014,7 @@ prevent it tipping over.
 ~
 #10173
 small bag~
-a small bag~
+a small, sturdy bag with a cloth handle~
 A small bag lies here.~
 ~
 15 0 50348033
@@ -1027,7 +1027,7 @@ to allow it to be held easier.
 ~
 #10174
 large bag~
-a large bag~
+a large cloth bag with a shoulder strap~
 A large bag lies here.~
 ~
 15 1048576 16385
@@ -1040,7 +1040,7 @@ shoulder strap for hardier adventurers to wear it.
 ~
 #10175
 backpack pack~
-a backpack~
+a medium-sized backpack with sturdy cloth straps~
 A backpack has been dropped here.~
 Nothing.
 ~
@@ -1155,7 +1155,7 @@ Nothing.
 ~
 #10183
 cap small leather~
-a small cap of leather~
+a well-used, small leather cap~
 A small cap of leather, obviously well-used, lies here.~
 ~
 9 0 17
@@ -1194,12 +1194,12 @@ A
 17 -1
 #10186
 staff thin wooden~
-a thin wooden staff~
+&ya thin hickory staff sanded smooth&n~
 A thin wooden staff of ordinary make is lying here.~
 ~
 5 0 8193
-0 1 5 5
-3 24 6 5 -1
+0 2 6 5
+3 24 6 10 -1
 E
 staff thin wooden~
    This thin wooden staff has been sanded free of splinters and is made from a
@@ -1220,11 +1220,11 @@ which has been sharpened so frequently that it has grown thin and is rough.
 ~
 #10188
 warhammer hammer large~
-a large warhammer~
+&ya large warhammer forged of copper and brass&n~
 A large warhammer lies here.~
 ~
 5 4096 8193
-0 1 5 7
+0 2 5 7
 10 48 12 7 -1
 E
 warhammer hammer large~
@@ -1233,7 +1233,7 @@ wield it.
 ~
 #10189
 broadsword sword~
-a broadsword~
+&ya freshly sharpened copper broadsword&n~
 A broadsword lies here.~
 ~
 5 2109440 75505665
@@ -1246,12 +1246,12 @@ freshly sharpened.
 ~
 #10190
 longbow long bow~
-a longbow~
+a cured oak longbow with taut string~
 A longbow lies here.~
 ~
 5 2109440 8193
-0 1 4 11
-3 15 4 4 -1
+0 2 6 11
+3 15 4 10 -1
 E
 longbow long bow~
    This longbow is made of cured oak and is in excellent condition, its string
@@ -1259,12 +1259,12 @@ taut and waiting to be threaded.
 ~
 #10191
 shortbow bow~
-a shortbow~
+a lightweight vallenwood shortbow~
 A shortbow lies here.~
 ~
 5 12288 8193
-0 1 3 11
-2 15 4 3 -1
+0 2 6 11
+2 15 4 10 -1
 E
 shortbow short bow~
    This thin shortbow is lightweight and easily carried on the shoulder.    
@@ -1278,16 +1278,16 @@ A tall wooden barstool, worn from use sits near the bar.~
 0 0 0 0
 9999 0 0 1 -1
 E
-scratches~
-   The word 'Azareth' can be made out faintly, scratched into the seat of the
-barstool by some hasty hand.    
-~
-E
 barstool worn wooden~
    This is a simple wooden barstool, which is a bit taller than average.  It
 has seen it's fair share of use and age, and the seat is worn smooth.  Near one
 edge, some faint scratches can be made out.  One would have to look closer to
 see if they resemble anything however.    
+~
+E
+scratches~
+   The word 'Azareth' can be made out faintly, scratched into the seat of the
+barstool by some hasty hand.    
 ~
 #10193
 robes majere cleric~
@@ -1320,12 +1320,12 @@ attached to the center to allow the staff to be worn across the shoulder.
 ~
 #10195
 shield elven light~
-a light elven shield~
+a light elven shield made of high quality steel~
 An elven shield, bearing the arms of House Protectorate, is lying here.~
 ~
 9 140529664 33554945
-1 0 0 0
-10 22 6 3 -1
+3 0 0 0
+10 22 6 10 -1
 E
 shield elven~
    This handsomely crafted shield is made from a high quality steel, and bears
@@ -1352,7 +1352,7 @@ a multiheaded, gnomish pneumatic pounding mallet~
 A multiheaded, gnomish pneumatic pounding mallet lies here.~
 ~
 5 667025408 10241
-0 2 4 7
+0 3 4 7
 5 165 41 11 -1
 E
 tunic small white~
@@ -1380,12 +1380,12 @@ A
 17 -1
 #10199
 longsword elven sword~
-an elven longsword~
+a beautifully crafted elven longsword~
 An elven longsword lies here.~
 ~
 5 1021325312 75505665
-0 1 5 3
-5 32 8 5 -1
+0 2 6 3
+5 32 8 10 -1
 E
 longsword sword elven~
    This beautifully created steel longsword is perfectly balanced and has been

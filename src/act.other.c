@@ -3179,6 +3179,34 @@ ACMD(do_rouse) {
     }   // End for
 }   // End do_rouse
 
+ACMD(do_paraderest) {
+    struct follow_type *j, *k;
+    char buf[100];
+
+    for (k = ch->followers; k; k = j) {
+        j = k->next;
+
+        if (IS_AFFECTED(k->follower, AFF_KNOCKOUT)) {
+            act("$N has been knocked unconscious. You can't wake $M up!", FALSE, ch, 0, k->follower, TO_CHAR);
+        } else if (IS_AFFECTED(k->follower, AFF_SLEEP) || GET_POS(k->follower) == POS_SLEEPING) {
+            act("You are unable to call $N to rest. Try waking $M first!", FALSE, ch, 0, k->follower, TO_CHAR);
+        } else if (GET_POS(k->follower) < POS_SLEEPING) {
+            act("$N has been mortally-wounded and cannot be called to rest!", FALSE, ch, 0, k->follower, TO_CHAR);
+        } else if (GET_POS(k->follower) == POS_FIGHTING) {
+            act("$N is fighting and cannot be called to rest!", FALSE, ch, 0, k->follower, TO_CHAR);
+        } else {
+            GET_POS(k->follower) = POS_RESTING;
+            GET_NAME(ch, chname);
+
+            sprintf(buf, "%s calls you to rest.\r\n", chname);
+            act("$N is called to rest.", TRUE, k->follower, 0, 0, TO_ROOM);
+
+            FREE_NAME(chname);
+            send_to_char(buf, k->follower);
+        }
+    }
+}
+
 /*
 ACMD(do_hero)
 {

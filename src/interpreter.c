@@ -228,6 +228,7 @@ ACMD(do_olist);
 ACMD(do_order);
 ACMD(do_objconv);
 ACMD(do_page);
+ACMD(do_paraderest);
 ACMD(do_pedit);
 ACMD(do_poofset);
 ACMD(do_players);
@@ -633,7 +634,8 @@ const struct command_info cmd_info[] = {
   { "put"      , "put",     POS_RESTING, do_put      , 0, 0 },
   { "pat"      , "pat",     POS_RESTING , do_action   , 1, 0 },
   { "page"     , "page",    POS_DEAD    , do_page     , LVL_LESSERGOD, 0 },
-  { "pardon"   , "pardon",  POS_DEAD    , do_wizutil  , LVL_ADMIN, SCMD_PARDON },
+  //{ "prest"    , "prest",   POS_RESTING , do_paraderest, 1, 0 },
+  { "pardon"   , "pardon",  POS_DEAD    , do_wizutil  , LVL_GRGOD, SCMD_PARDON },
   { "peer"     , "peer",    POS_RESTING , do_action   , 1, 0 },
   { "pedit"    , "pedit",   POS_RESTING , do_pedit    , LVL_APPROVE, 0 },
   { "pick"     , "pick",    POS_STANDING, do_gen_door , 1, SCMD_PICK },
