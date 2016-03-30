@@ -11,49 +11,49 @@ mantle bleached leather studded solid bronze spikes~
 &Wa bleached leather mantle studded with &ysolid bronze&W spikes&n~
 An unfinished object is lying here.~
 ~
-0 0 1048577
-0 0 0 0
-0 0 0 0 -1
+9 36197376 1048577
+4 0 0 0
+4 500 250 20 -1
 #14002
 rerebraces bleached leather studded solid bronze spikes~
 &Wbleached leather rerebraces studded with &ysolid bronze&W spikes&n~
 An unfinished object is lying here.~
 ~
-0 0 257
-0 0 0 0
-0 0 0 0 -1
+9 36197376 257
+4 0 0 0
+4 500 250 20 -1
 #14003
 bracer bleached leather studded solid bronze spikes~
 &Wa bleached leather bracer studded with &ysolid bronze&W spikes&n~
 An unfinished object is lying here.~
 ~
-0 0 4097
-0 0 0 0
-0 0 0 0 -1
+9 36197376 4097
+4 0 0 0
+4 500 250 20 -1
 #14004
 gauntlets bleached leather studded solid bronze spikes~
 &Wbleached leather gauntlets studded with &ysolid bronze&W spikes&n~
 An unfinished object is lying here.~
 ~
-0 0 129
-0 0 0 0
-0 0 0 0 -1
+9 36197376 129
+4 0 0 0
+4 500 250 20 -1
 #14005
 belt bleached leather studded solid bronze spikes~
 &Wa bleached leather belt studded with &ysolid bronze &Wspikes&n~
 An unfinished object is lying here.~
 ~
-0 0 2049
-0 0 0 0
-0 0 0 0 -1
+9 36197376 2049
+4 0 0 0
+4 500 250 20 -1
 #14006
 legguards leg guards bleached leather studded solid bronze spikes~
 &Wbleached leather leg guards studded with &ysolid bronze&W spikes&n~
 An unfinished object is lying here.~
 ~
-0 0 33
-0 0 0 0
-0 0 0 0 -1
+9 36197376 33
+4 0 0 0
+4 500 250 20 -1
 #14007
 shoes horse mithril lined solid bronze studs~
 &Wmithril horseshoes lined with &ysolid bronze&W studs&n~
@@ -85,12 +85,12 @@ loincloth loin cloth belt bleached leather studded solid bronze spikes~
 &Wa bleached leather loincloth studded with &ysolid bronze&W spikes&n~
 An unfinished object is lying here.~
 ~
-0 0 2049
+7 36197376 2049
 0 0 0 0
-0 0 0 0 -1
+4 500 250 20 -1
 #14011
-guard ankle white leather solid bronze spikes~
-&Wa white leather ankle guard with &ysolid bronze&W spikes&n~
+guard ankle bleached leather studded solid bronze spikes~
+&Wa bleached leather ankle guard studded with &ysolid bronze&W spikes&n~
 A bleached ankle guard with bronze spikes lies here.~
 ~
 9 36197376 131073
@@ -101,9 +101,9 @@ breastplate breast plate bleached leather studded solid bronze inlay~
 &Wa bleached leather breastplate with &ysolid bronze&W inlay&n~
 An unfinished object is lying here.~
 ~
-0 0 9
-0 0 0 0
-0 0 0 0 -1
+9 36197376 9
+10 0 0 0
+8 500 250 20 -1
 #14013
 shield kite bleached leather studded solid bronze spikes~
 &Wa bleached leather kite shield studded with &ysolid bronze&W spikes&n~
@@ -130,4 +130,16 @@ A
 18 2
 A
 19 2
+#14015
+chanfron bleached leather solid bronze inlay~
+&Wa bleached leather chanfron with &ysolid bronze&W inlay&n~
+An unfinished object is lying here.~
+~
+9 938103808 32769
+4 0 0 0
+4 500 250 20 -1
+A
+18 2
+A
+19 1
 $~

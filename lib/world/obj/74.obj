@@ -715,18 +715,18 @@ A metal flask has been left here.~
 10 10 2 0
 15 15 3 1 -1
 E
-insignia roaring tempest~
-   The insignia of the Roaring Tempest has been engraved into the surface of
-this metal flask.  A merchants ship sits atop a massive wave as the rains and
-winds swirl around it.    
-~
-E
 port wine flask~
    This heavy port is made from only the most select grapes that grow in the
 vineyards along the sandy hillsides near the shore line.  It is aged in oak
 barrels in the basement of the Roaring Tempest for months before Pazdoki serves
 it to his patrons.  It is only available in the special commemorative flask
 which bears the insignia of the Roaring Tempest.    
+~
+E
+insignia roaring tempest~
+   The insignia of the Roaring Tempest has been engraved into the surface of
+this metal flask.  A merchants ship sits atop a massive wave as the rains and
+winds swirl around it.    
 ~
 #7447
 leggings silk black red~
@@ -1000,6 +1000,10 @@ A pair of black leather rerebraces lie here.~
 9 0 0 0
 7 8850 4425 29 -1
 E
+rerebraces black leather studded blood red blood-red spikes~
+It looks unfinished.
+~
+E
 mark signature stamp maker maker's~
  .----------------.
 | .--------------. |
@@ -1012,10 +1016,6 @@ mark signature stamp maker maker's~
 | |              | |
 | '--------------' |
  '----------------'
-~
-E
-rerebraces black leather studded blood red blood-red spikes~
-It looks unfinished.
 ~
 #7489
 mantle black leather studded blood red blood-red spikes~
@@ -1033,6 +1033,14 @@ An unfinished object is lying here.~
 0 0 17
 0 0 0 0
 0 0 0 0 -1
+#7491
+chanfron black leather studded blood red blood-red spikes~
+&Ka black leather chanfron studded with &rblood-red&K spikes&n~
+An unfinished object is lying here.~
+~
+9 935481856 32769
+4 0 0 0
+4 500 250 20 -1
 #7494
 hood oversized sea green~
 &can oversized, sea-green hood&n~
