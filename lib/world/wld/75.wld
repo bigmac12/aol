@@ -15,7 +15,7 @@ D1
 D5
 ~
 ~
-0 0 8876
+0 0 7536
 S
 #7501
 Garnet Mountain Pass~
@@ -95,13 +95,18 @@ Garnet Mountain Pass~
 the heartiest of plants are able to make their home in these rather unfriendly
 conditions.  The soil is dry and littered with rocky debris.  Jagged cliffs on
 either side of the pass make it the only route through these rather unfriendly
-mountains.  The trail continues to the north and west.    
+mountains.  The trail continues to the north and west.  To the east a large,
+stone gate that leads to the dwarven settlement of Garnet.    
 ~
 75 0 5 0 0
 D0
 ~
 ~
 0 0 7506
+D1
+~
+gate~
+1 0 12327
 D3
 ~
 ~
@@ -696,6 +701,132 @@ D6
 ~
 0 0 7518
 S
+#7536
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D3
+~
+~
+0 0 7537
+D4
+~
+~
+0 0 7500
+S
+#7537
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D1
+~
+~
+0 0 7536
+D8
+~
+~
+0 0 7538
+S
+#7538
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D3
+~
+~
+0 0 7539
+D7
+~
+~
+0 0 7537
+S
+#7539
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D1
+~
+~
+0 0 7538
+D3
+~
+~
+0 0 7540
+S
+#7540
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D1
+~
+~
+0 0 7539
+D3
+~
+~
+0 0 7541
+S
+#7541
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D1
+~
+~
+0 0 7540
+D6
+~
+~
+0 0 7542
+S
+#7542
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D6
+~
+~
+0 0 7543
+D9
+~
+~
+0 0 7541
+S
+#7543
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D3
+~
+~
+0 0 7544
+D9
+~
+~
+0 0 7542
+S
+#7544
+Buildwalk~
+You are in an unfinished room.
+~
+0 0 0 0 0
+D1
+~
+~
+0 0 7543
+D3
+~
+~
+0 0 8879
+S
 #7560
 Within an Underground Settlement~
    You stand in the middle of a thriving dwarven settlement located some
@@ -945,6 +1076,10 @@ D3
 ~
 ~
 0 0 7570
+D4
+~
+~
+0 0 12385
 D7
 ~
 ~

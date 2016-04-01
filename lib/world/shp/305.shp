@@ -1,6 +1,11 @@
 CircleMUD v3.0 Shop File~
 #30502~
 10160
+30506
+30505
+30504
+10761
+2828
 -1
 1.00
 1.00
@@ -75,8 +80,8 @@ CircleMUD v3.0 Shop File~
 30400
 30401
 -1
-1.00
-1.00
+1.20
+0.55
 11
 7
 -1
@@ -109,8 +114,8 @@ CircleMUD v3.0 Shop File~
 30408
 30409
 -1
-1.00
-1.00
+1.50
+0.55
 11
 7
 -1
@@ -219,7 +224,7 @@ CircleMUD v3.0 Shop File~
 30436
 -1
 1.00
-1.00
+0.20
 27
 -1
 %s Sorry, I don't stock that item.~
@@ -234,6 +239,29 @@ CircleMUD v3.0 Shop File~
 30525
 0
 30525
+-1
+0
+28
+0
+0
+1
+38
+#30526~
+-1
+1.30
+0.44
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %s, thanks.~
+%s I'll give you %s for that.~
+0
+0
+1768843622
+0
 -1
 0
 28
@@ -256,8 +284,8 @@ CircleMUD v3.0 Shop File~
 16096
 16097
 -1
-1.00
-1.00
+1.40
+0.44
 -1
 %s Sorry, I don't stock that item.~
 %s You don't seem to have that.~
@@ -294,8 +322,8 @@ CircleMUD v3.0 Shop File~
 3389
 1963
 -1
-1.00
-1.00
+1.30
+0.44
 15
 17
 1
@@ -338,8 +366,8 @@ CircleMUD v3.0 Shop File~
 10018
 10033
 -1
-1.00
-1.00
+1.30
+0.44
 -1
 %s Sorry, I don't stock that item.~
 %s You don't seem to have that.~
@@ -485,8 +513,8 @@ CircleMUD v3.0 Shop File~
 4657
 30530
 -1
-1.00
-1.00
+1.50
+0.44
 2
 10
 3

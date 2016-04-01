@@ -28,6 +28,15 @@ A pile of thick steel rings lies forgotten here.~
 12 0 0 0
 18 3300 990 25 -1
 E
+chainmail chain dwarven chain-mail mail steel shirt~
+   This is a hauberk style tunic of chainmail, falling to just above the knees
+with sleeves to the elbows.  It is fitted for those of the dwarven race, and
+from the looks of the craftmanship likely forged by them as well.  The armor
+itself is composed of thicker, heavier steel links than regular chainmail thus
+making the armour a bit heavier than normal.  However, due to the thickness of
+the links, it is also much harder to damage or pierce.    
+~
+E
 lightweight rapier glowing mithril blade~
    This extremely light rapier is made of the strongest mithril.  As you grasp
 it, it hums slightly in a sort of hostile manner, whatever you can fathom is
@@ -39,15 +48,6 @@ dwarves.  As opposed to the typical dwarve works, this blade appears to be of a
 certain humble quality, perhaps made to caputre the personality of the intended
 wielder.  Etched onto the wood of the hilt are several words wrriten in the
 dwarven script.    
-~
-E
-chainmail chain dwarven chain-mail mail steel shirt~
-   This is a hauberk style tunic of chainmail, falling to just above the knees
-with sleeves to the elbows.  It is fitted for those of the dwarven race, and
-from the looks of the craftmanship likely forged by them as well.  The armor
-itself is composed of thicker, heavier steel links than regular chainmail thus
-making the armour a bit heavier than normal.  However, due to the thickness of
-the links, it is also much harder to damage or pierce.    
 ~
 A
 17 -5
@@ -309,6 +309,11 @@ A silver ring engraved with intricate knotwork lies upon the ground here.~
 0 0 0 0
 0 4000 2000 24 -1
 E
+inside engraved something~
+   Upon closer examination, a small anvil can be seen engraved on the inside of
+the band.  Just below it is the word " &KForge&w ".  &n
+~
+E
 ring silver knotwork engraved~
    This ring has been hand-crafted from silver, and it is obvious that a great
 deal of care went into making it.  The metal has actually been left blackened
@@ -317,11 +322,6 @@ to a dull shine.  This technique lends more contrast, silver on black, to the
 intricate knotwork pattern which is engraved along the length of the band.  
 There appears to be something engraved on the inside of the band, but one would
 have to take a closer look to discover what it is.    
-~
-E
-inside engraved something~
-   Upon closer examination, a small anvil can be seen engraved on the inside of
-the band.  Just below it is the word " &KForge&w ".  &n
 ~
 A
 1 1
@@ -509,24 +509,30 @@ A worn dwarven primer of Reorx lies on the ground here, forgotten.~
 0 0 0 0
 1 20 0 4 -1
 E
-primer worn reorx forge dwarven~
-  - &RReorx the Forge, and Dwarven Beliefs&n -
+page3~
+   &RWhat happens after we die?
 
-     Mighty &RReorx&n is the one and only true dwarven god. He is represented
- as living deep underground, and in Thorbardin is worshipped in the form of
- shafts drilled down into the earth. This is merely a metaphor, however,
- that &RReorx&n is in fact deep inside every dwarf. The hammer, representing
- &RReorx's&n creative power, is also an important symbol for dwarves. All
- dwarves worship &RReorx&n in one form or another, and consider all other
- gods to be misdirection.
+     &nAfter we die our bodies are taken to the Valley of the Thanes
+ to be lain in state. Your soul will go to &RReorx&n where He tends his
+ forge. There you may work and rest as you please, and drink ale in the cool
+ caverns of His home.
 
- &RReorx's Symbols:&n Forging Hammer, Dwarven Hammer, Anvil
- &RReorx's Colors:&n Slate Grey, &RRed&n
- &RReorx's Constellation:&n A glowing &Rred star&n, located near the
-                        constellation of Sargonax
+   &RHow do I work magic and recite prayer?&n
 
-
- (cont'd, look page2)
+     When you build something, if you approach the task with a clean mind and
+ clean hands, with purity of purpose, then you may sometimes reflect a tiny
+ portion of the magic that &RReorx&n did when he created the world, and what you
+ make will be special in some way. Maybe it will never break, under any
+ circumstance. Maybe it is twice as effective at whatever it is supposed to do,
+ perhaps someone using it will never tire. Also, if you are a good dwarf,
+ sometimes your prayers to &RReorx&n may be answered, but this is never in the way
+ we expect.
+     Once long ago, the Sorcerers taught us their magic in exchange for
+ craft knowledge. This turned out to be a bad deal on our behalf, because we
+ cannot use their magic without dire consequences. When used by dwarves, the
+ magic of the moons twists their minds and bodies. The Theiwar and the Daergar
+ show you what can happen to a dwarf who uses lunar sorcery. They are no
+ longer true dwarves, they are now more "derro" - the degenerate ones.
 ~
 E
 page2~
@@ -556,30 +562,24 @@ page2~
  (cont'd, look page3)
 ~
 E
-page3~
-   &RWhat happens after we die?
+primer worn reorx forge dwarven~
+  - &RReorx the Forge, and Dwarven Beliefs&n -
 
-     &nAfter we die our bodies are taken to the Valley of the Thanes
- to be lain in state. Your soul will go to &RReorx&n where He tends his
- forge. There you may work and rest as you please, and drink ale in the cool
- caverns of His home.
+     Mighty &RReorx&n is the one and only true dwarven god. He is represented
+ as living deep underground, and in Thorbardin is worshipped in the form of
+ shafts drilled down into the earth. This is merely a metaphor, however,
+ that &RReorx&n is in fact deep inside every dwarf. The hammer, representing
+ &RReorx's&n creative power, is also an important symbol for dwarves. All
+ dwarves worship &RReorx&n in one form or another, and consider all other
+ gods to be misdirection.
 
-   &RHow do I work magic and recite prayer?&n
+ &RReorx's Symbols:&n Forging Hammer, Dwarven Hammer, Anvil
+ &RReorx's Colors:&n Slate Grey, &RRed&n
+ &RReorx's Constellation:&n A glowing &Rred star&n, located near the
+                        constellation of Sargonax
 
-     When you build something, if you approach the task with a clean mind and
- clean hands, with purity of purpose, then you may sometimes reflect a tiny
- portion of the magic that &RReorx&n did when he created the world, and what you
- make will be special in some way. Maybe it will never break, under any
- circumstance. Maybe it is twice as effective at whatever it is supposed to do,
- perhaps someone using it will never tire. Also, if you are a good dwarf,
- sometimes your prayers to &RReorx&n may be answered, but this is never in the way
- we expect.
-     Once long ago, the Sorcerers taught us their magic in exchange for
- craft knowledge. This turned out to be a bad deal on our behalf, because we
- cannot use their magic without dire consequences. When used by dwarves, the
- magic of the moons twists their minds and bodies. The Theiwar and the Daergar
- show you what can happen to a dwarf who uses lunar sorcery. They are no
- longer true dwarves, they are now more "derro" - the degenerate ones.
+
+ (cont'd, look page2)
 ~
 #12327
 symbol forging hammer red stone reorx~
@@ -1238,13 +1238,20 @@ key steel anvil engraved~
 A simple steel key, which has been engraved with an anvil upon it's head.
 ~
 #12390
-reuse~
-reuse~
-A small blundle of snow-white cloth lies on the ground here.~
+warhammer massive mithril blackout~
+&Wa massive mithril warhammer with intricate dwarven engravings&n~
+A massive mithril warhammer has been left here.~
 ~
-11 0 21
-0 0 0 0
-1 0 0 0 -1
+5 1999130640 8193
+1 5 5 5
+10 3350 550 28 -1
+E
+warhammer blackout~
+   Forged purely out the finest mithril, it has been reinforced to give it an
+nearly godly strength.  Tightly wrapped leather gives the wielder a better
+grip, and has been dyed a beautiful red.  Dwarven blessings have been engraved
+into the mithril's surface.    
+~
 #12391
 reuse~
 reuse~

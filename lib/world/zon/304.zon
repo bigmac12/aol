@@ -2,6 +2,7 @@
 Sanction City II~
 30499 15 2
 * ZoneState 1 unowned 000000000000000
+M 0 30313 1 30409 	(a Sanction guard)
 M 0 30458 5 30458 	(the weary trader)
 E 1 30302 1000 8 	(a pair of worn, leather boots)
 M 1 30459 7 30458 	(one of the merchant's guards)
@@ -31,7 +32,6 @@ M 0 30313 10 30401 	(a Sanction guard)
 M 0 30314 18 30459 	(a citizen of Sanction)
 M 0 30314 18 30451 	(a citizen of Sanction)
 M 0 30314 18 30402 	(a citizen of Sanction)
-M 0 30313 18 30409 	(a Sanction guard)
 M 0 30313 10 30412 	(a Sanction guard)
 M 0 30456 20 30417 	(a citizen of Sanction)
 M 0 30456 20 30452 	(a citizen of Sanction)

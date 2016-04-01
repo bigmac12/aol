@@ -1,7 +1,18 @@
 #305
 Sanction's Buildings~
 30599 15 2
-* ZoneState 1 Lunitari 000000000000000
+* ZoneState 1 unowned 000000000000000
+M 0 30502 1 30502 	(Arseth)
+G 1 2828 100 -1 	(a heavy mug of frothy beer)
+G 1 30504 100 -1 	(a pewter mug filled with dark honey ale)
+G 1 10761 100 -1 	(a plate of beans and potatoes)
+G 1 30506 100 -1 	(a large plate of steak and spiced potatoes)
+G 1 30505 100 -1 	(a small bowl of mix greens and grilled chicken)
+G 1 10160 10000 -1 	(a whole, roasted chicken)
+O 1 5199 1 30502 	(a barrel of water)
+O 0 30502 1 30502 	(a bloody wooden flute)
+D 1 30502 7 1 	(The Bar at The Gruesome Flute)
+O 0 30503 1 30502 	(a large stone hearth)
 M 0 30522 1 30522 	(Olivia, a svelte blonde hair woman with a kind smile)
 G 1 30409 1000 -1 	(&ga forest-green leather belt with a &Kblack&g buckle&n)
 G 1 30408 1000 -1 	(&ga floor-length, green velvet cloak lined with &Kblack &gfur&n)
@@ -170,12 +181,6 @@ G 1 10057 1000 -1 	(&Wa lavish two carat diamond solitaire engagement ring&n)
 G 1 16095 15 -1 	(&ya copper-plated chest encrusted with flawless gems&n)
 G 1 16096 10 -1 	(&wa silver-plated chest encrusted with flawless gems&n)
 G 1 16097 5 -1 	(&Ya gold-plated chest encrusted with flawless gems&n)
-M 0 30502 1 30502 	(Arseth)
-G 1 10160 10000 -1 	(a whole, roasted chicken)
-O 1 5199 1 30502 	(a barrel of water)
-O 0 30502 1 30502 	(a bloody wooden flute)
-D 1 30502 7 1 	(The Bar at The Gruesome Flute)
-O 0 30503 1 30502 	(a large stone hearth)
 M 0 5104 1 30537 	(the weaponsmaster)
 M 0 30526 1 30526 	(Florence the herbalist)
 M 0 5240 5 30599 	(a tall, sturdy quarter horse)

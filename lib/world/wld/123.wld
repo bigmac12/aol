@@ -697,6 +697,10 @@ D1
 ~
 ~
 0 0 12326
+D3
+~
+gate~
+1 0 7505
 S
 #12328
 Sparking Anvil Avenue~
@@ -774,10 +778,6 @@ dwarves when the sun is up.  Benches have been strategically placed under the
 trees, taking full advantage of the shade.    
 ~
 123 0 1 0 0
-D0
-~
-~
-0 0 12372
 D1
 ~
 ~
@@ -836,7 +836,7 @@ D1
 D2
 ~
 ~
-0 0 12350
+0 0 12347
 D3
 ~
 ~
@@ -1504,7 +1504,7 @@ on foot, escorting wagons up and down the road.  Garnet's tall stone wall lines
 the western edge of the road, effectively blocking it from the rest of Ansalon.
 On the east side of the road, the backs of businesses can be seen, also blocked
 by a wall though much smaller in size.  The road continues to the south, as
-well as northeast towards the exacavation site in the northern section of the
+well as north towards the exacavation site in the northern section of the
 settlement.    
 ~
 123 0 1 0 0
@@ -1512,7 +1512,7 @@ D2
 ~
 ~
 0 0 12362
-D7
+D6
 ~
 ~
 0 0 12364
@@ -1526,16 +1526,16 @@ ponies and the like.  However, occasionally one can find hired guards walking
 on foot, escorting wagons up and down the road.  This section of road is
 actually quite dusty, compared to the rest of the settlement.  Enough so that
 one must cover their face when the wind kicks up, or risk inhaling a mouthful
-of dust.  The road widens out to the northeast, leading into the exacavation
-site where the dwarves have begun to mine.  Delving Stone Road continues to the
-southwest.    
+of dust.  The road widens out to the west, leading into the exacavation site
+where the dwarves have begun to mine.  Delving Stone Road continues to the
+southeast.    
 ~
-123 0 1 0 0
-D7
+123 262144 1 0 0
+D3
 ~
 ~
-0 0 12372
-D8
+0 0 12385
+D9
 ~
 ~
 0 0 12363
@@ -1939,14 +1939,23 @@ D2
 0 0 12379
 S
 #12385
-quarry~
-quarry
+A Wide Mine Shaft~
+   Iron tracks twist slowly downwards towards the working mine.  From time to
+time a cart is pushed up or rolls down with the aid of the dwarven miner who is
+in charge of that cart.  The shaft itself here is rather large, and well lit by
+non-smoking oil lanterns.  This seems to be the main entrance to this mine, and
+during each shift change a line of dwarven men and women come and go into its
+depts.    
 ~
 123 0 5 0 0
 D1
 ~
 ~
-0 0 12372
+0 0 12364
+D5
+~
+~
+0 0 7571
 S
 #12386
 quarry~

@@ -1373,10 +1373,6 @@ D1
 ~
 ~
 0 0 8875
-D3
-~
-~
-0 0 9496
 D9
 ~
 ~
@@ -1423,10 +1419,6 @@ D3
 ~
 ~
 0 0 8875
-D4
-~
-~
-0 0 7500
 S
 #8877
 Solamnus Highway~
@@ -1481,10 +1473,6 @@ D0
 ~
 ~
 0 0 8878
-D1
-~
-~
-0 0 8895
 D8
 ~
 ~
@@ -1513,10 +1501,15 @@ D8
 S
 #8881
 Kharolis Highway~
-   This will be where the road past Wayreth is closed for now, blocking passage
-to Caergoth.    
+   The highway continues its trek through the open plains of Ergoth.  To the
+south the Kharolis Mountains, which lend their name to this road, dominate the
+skyline with their majesty.  The smaller, but far closer Garnet Mountains, are
+visible to the east.  The highway is firmly packed and rather well maintained,
+however there are far less tracks in the surface than further to the north.  
+Ancient trees line the road to the east, their limbs providing welcome shade
+from the midday sun.    
 ~
-88 1024 2 0 0
+88 0 2 0 0
 D3
 ~
 ~
@@ -1527,8 +1520,14 @@ D7
 0 0 8880
 S
 #8882
-Road toward Qual~
-You are in an unfinished room.
+Kharolis Highway~
+   The highway continues its trek through the open plains of Ergoth.  To the
+south the Kharolis Mountains, which lend their name to this road, dominate the
+skyline with their majesty.  The smaller, but far closer Garnet Mountains, are
+visible to the east.  The highway is firmly packed and rather well maintained,
+however there are far less tracks in the surface than further to the north.  
+Ancient trees line the road to the east, their limbs providing welcome shade
+from the midday sun.    
 ~
 88 0 2 0 0
 D1
@@ -1541,8 +1540,13 @@ D2
 0 0 8883
 S
 #8883
-Road toward Qual~
-You are in an unfinished room.
+Kharolis Highway~
+   The highway continues its trek through the open plains of Ergoth, however
+the highway begins to turn slightly into the ancient trees that line the road
+now on either side.  To the south the Kharolis Mountains, which lend their name
+to this road, dominate the skyline with their majesty.  The smaller, but far
+closer Garnet Mountains, are visible to the east.  The highway is firmly packed
+and rather well maintained.    
 ~
 88 0 2 0 0
 D0
@@ -1555,8 +1559,12 @@ D8
 0 0 8884
 S
 #8884
-Road toward Qual~
-You are in an unfinished room.
+Kharolis Highway~
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  The highway is firmly packed and rather well
+maintained, with the tree limbs providing welcome shade from the midday sun.  
+
 ~
 88 0 2 0 0
 D7
@@ -1570,9 +1578,13 @@ D8
 S
 #8885
 Kharolis Highway~
-You are in an unfinished room.
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  The highway is firmly packed and rather well
+maintained, with the tree limbs providing welcome shade from the midday sun.  
+
 ~
-88 0 2 0 0
+88 0 3 0 0
 D2
 ~
 ~
@@ -1584,9 +1596,16 @@ D7
 S
 #8886
 Kharolis Highway~
-You are in an unfinished room.
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  Sounds of birds, and the call of elk give this trek a
+rather peaceful serenity.  A small brook begins to follow along the western
+side of the highway.  The crystal clear water allows travelers to easily see
+the small fish and numerous colorful rocks that call this brook home.  The
+highway is firmly packed and rather well maintained, with the tree limbs
+providing welcome shade from the midday sun.    
 ~
-88 0 2 0 0
+88 0 3 0 0
 D0
 ~
 ~
@@ -1598,7 +1617,14 @@ D2
 S
 #8887
 Kharolis Highway~
-You are in an unfinished room.
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  Sounds of birds, and the call of elk give this trek a
+rather peaceful serenity.  A small brook begins to follow along the western
+side of the highway.  The crystal clear water allows travelers to easily see
+the small fish and numerous colorful rocks that call this brook home.  The
+highway is firmly packed and rather well maintained, with the tree limbs
+providing welcome shade from the midday sun.    
 ~
 88 0 2 0 0
 D0
@@ -1612,9 +1638,16 @@ D8
 S
 #8888
 Kharolis Highway~
-You are in an unfinished room.
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  Sounds of birds, and the call of elk give this trek a
+rather peaceful serenity.  A small brook begins to follow along the western
+side of the highway.  The crystal clear water allows travelers to easily see
+the small fish and numerous colorful rocks that call this brook home.  The
+highway is firmly packed and rather well maintained, with the tree limbs
+providing welcome shade from the midday sun.    
 ~
-88 0 2 0 0
+88 0 3 0 0
 D2
 ~
 ~
@@ -1626,7 +1659,14 @@ D7
 S
 #8889
 Kharolis Highway~
-You are in an unfinished room.
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  Sounds of birds, and the call of elk give this trek a
+rather peaceful serenity.  A small brook begins to follow along the western
+side of the highway.  The crystal clear water allows travelers to easily see
+the small fish and numerous colorful rocks that call this brook home.  The
+highway is firmly packed and rather well maintained, with the tree limbs
+providing welcome shade from the midday sun.    
 ~
 88 0 2 0 0
 D0
@@ -1640,9 +1680,16 @@ D8
 S
 #8890
 Kharolis Highway~
-You are in an unfinished room.
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  Sounds of birds, and the call of elk give this trek a
+rather peaceful serenity.  A small brook begins to follow along the western
+side of the highway.  The crystal clear water allows travelers to easily see
+the small fish and numerous colorful rocks that call this brook home.  The
+highway is firmly packed and rather well maintained, with the tree limbs
+providing welcome shade from the midday sun.    
 ~
-88 0 2 0 0
+88 0 3 0 0
 D3
 ~
 ~
@@ -1654,9 +1701,16 @@ D7
 S
 #8891
 Kharolis Highway~
-You are in an unfinished room.
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  Sounds of birds, and the call of elk give this trek a
+rather peaceful serenity.  A small brook begins to follow along the western
+side of the highway.  The crystal clear water allows travelers to easily see
+the small fish and numerous colorful rocks that call this brook home.  The
+highway is firmly packed and rather well maintained, with the tree limbs
+providing welcome shade from the midday sun.    
 ~
-88 0 0 0 0
+88 0 3 0 0
 D1
 ~
 ~
@@ -1668,13 +1722,24 @@ D8
 S
 #8892
 Kharolis Highway~
-You are in an unfinished room.
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  Sounds of birds, and the call of elk give this trek a
+rather peaceful serenity.  A small brook begins to follow along the western
+side of the highway.  The crystal clear water allows travelers to easily see
+the small fish and numerous colorful rocks that call this brook home.  The
+highway is firmly packed and rather well maintained, with the tree limbs
+providing welcome shade from the midday sun.    
 ~
-88 0 0 0 0
+88 0 3 0 0
 D2
 ~
 ~
 0 0 8893
+D6
+~
+~
+0 0 7829
 D7
 ~
 ~
@@ -1682,9 +1747,16 @@ D7
 S
 #8893
 Kharolis Highway~
-You are in an unfinished room.
+   The highway continues its trek through an ancient forest.  The trees
+themselves are very tall and one is able to still see the peaks of the Kharolis
+Mountains to the south.  Sounds of birds, and the call of elk give this trek a
+rather peaceful serenity.  A small brook begins to follow along the western
+side of the highway.  The crystal clear water allows travelers to easily see
+the small fish and numerous colorful rocks that call this brook home.  The
+highway is firmly packed and rather well maintained, with the tree limbs
+providing welcome shade from the midday sun.    
 ~
-88 0 0 0 0
+88 0 3 0 0
 D0
 ~
 ~
@@ -1723,13 +1795,13 @@ and creak in protest to the gentle breeze the blows through the area, causing
 their leaves to rustle eerily.    
 ~
 88 4 3 0 0
+D0
+~
+~
+0 0 11431
 D1
 ~
 ~
 0 0 7800
-D3
-~
-~
-0 0 8879
 S
 $~

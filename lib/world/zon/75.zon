@@ -2,6 +2,8 @@
 Garnet Mountain Pass~
 7599 30 1
 * ZoneState 1 unowned 000000000000000
+D 0 7505 1 1 	(Garnet Mountain Pass)
+O 0 7505 1 7505 	(a painted rock)
 D 0 7599 4 1 	(Within a Dark, Narrow Shaft)
 D 1 7599 4 2 	(Within a Dark, Narrow Shaft)
 O 0 7501 1 7512 	(a large boulder)
@@ -16,7 +18,7 @@ O 0 7533 1 7531 	(a massive pile of rock)
 O 0 7570 1 7583 	(a beautiful stone bar)
 O 0 7594 1 7583 	(an iron-bound chest)
 P 1 7596 1 7594 	(a heap of steel coins)
-P 1 7598 1 7594 	(&CNzaalhir: The Hammer of Thunderbolts&n)
+P 1 7598 1 7594 	(&CNzaalhir: The Legendary Hammer of Thunderbolts&n)
 D 0 7583 0 1 	(A Noisy Subterranean Beer Hall)
 D 0 7583 6 1 	(A Noisy Subterranean Beer Hall)
 M 0 7560 1 7583 	(Helgrin Dunnahar, Brewmaster of Bitter Rock)
