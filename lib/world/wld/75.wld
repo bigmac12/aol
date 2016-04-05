@@ -2,10 +2,10 @@
 Garnet Mountain Pass~
    The rocky cliffs are devoid of all signs of life.  Only the thin swirls of
 smoke that rise from below provide comfort and hope of finding a place for the
-weary to rest.  From this vantage point, the Taragral Springs Campground is
-clearly visible to the southwest.  Its small cabins line the edge of the
-strange forest which lies to the south and west.  From here a narrow pass leads
-up further along the cliffs and down to the base of the mountains.    
+weary to rest.  From this vantage point, far in the distance one could make out
+the outline of a highway to the west.  Only a dense grove is between it and the
+location in which you stand at.  From here a narrow pass leads up further along
+the cliffs and down to the base of the mountains.    
 ~
 75 0 5 0 0
 D1
@@ -320,7 +320,7 @@ impossible.  There is little vegetation this high up with only a few hearty
 plants able to survive in these conditions.  The pass continues its trek
 through the mountain to the north and west.    
 ~
-75 0 5 0 0
+75 32768 5 0 0
 D0
 ~
 ~
@@ -338,7 +338,7 @@ impossible.  There is little vegetation this high up with only a few hearty
 plants able to survive in these conditions.  The pass continues its trek
 through the mountain to the northeast and south.    
 ~
-75 0 5 0 0
+75 32768 5 0 0
 D2
 ~
 ~
@@ -357,7 +357,7 @@ still visible despite its apparent age.  The lines which have been deeply
 etched into the cliff face clearly from a large arrow which points to the pass
 which leads in a southeasterly direction.    
 ~
-75 25165824 5 0 0
+75 25198592 5 0 0
 D6
 ~
 ~
@@ -401,7 +401,7 @@ thrive at this altitude.  The pass is littered with fragments of rock and other
 debris which has slid down from the tallest peaks.  Other than the path itself,
 there is little evidence that anyone has travelled this way for some time.    
 ~
-75 0 5 0 0
+75 32768 5 0 0
 D5
 ~
 ~
@@ -419,7 +419,7 @@ The pass is littered with fragments of rock and other debris which has slid
 down from the tallest peaks.  Other than the path itself, there is little
 evidence that anyone has travelled this way for some time.    
 ~
-75 0 5 0 0
+75 32768 5 0 0
 D1
 ~
 ~
@@ -438,7 +438,7 @@ in the breeze which blows down from the mountain peaks.  A rather large
 outcropping of rock makes passage to the south impossible, however a gentle
 trail leads down the mountain to the north.    
 ~
-75 0 5 0 0
+75 32768 5 0 0
 D0
 ~
 ~
@@ -456,7 +456,7 @@ the Solamnic plains.  The ground continues to slope upwards to the south,
 following a narrow trail between the trees.  A more heavily forested trail
 leads south towards the foothills.    
 ~
-75 256 5 0 0
+75 33024 5 0 0
 D0
 ~
 ~
@@ -474,7 +474,7 @@ the west and south the ground slopes upward steeply.  A faint trail coming from
 between a few trees just below you and to the east leads southwards, twisting
 and turning its way higher into the mountains.    
 ~
-75 0 5 0 0
+75 32768 5 0 0
 D2
 ~
 ~
@@ -491,7 +491,7 @@ between them as the only obvious path to take.  To the west the ground
 continues to slope upwards ever more steeply while to the east it drops down to
 the Solamnic plains.    
 ~
-75 0 4 0 0
+75 32768 4 0 0
 D1
 ~
 ~
@@ -509,7 +509,7 @@ as they flatten out to form the Solamnic plains.  A thick sea of tall grasses
 sways back and forth in the breeze here punctuated occasionally by a knot of
 trees.    
 ~
-75 0 4 0 0
+75 32768 4 0 0
 D0
 ~
 ~
@@ -527,7 +527,7 @@ as they flatten out to form the Solamnic plains.  A thick sea of tall grasses
 sways back and forth in the breeze here punctuated occasionally by a knot of
 trees.    
 ~
-75 0 4 0 0
+75 32768 4 0 0
 D2
 ~
 ~
@@ -545,7 +545,7 @@ landscape, swaying gently in the breeze.  Large birds circle high overhead,
 searching for an easy meal.  The grasses to the south are trampled, revealing a
 faint trail leading up the hillside.    
 ~
-75 0 4 0 0
+75 32768 4 0 0
 D0
 ~
 ~
@@ -563,7 +563,7 @@ landscape, swaying gently in the breeze.  Large birds circle high overhead,
 searching for an easy meal.  The grasses to the south are trampled, revealing a
 faint trail leading up the hillside.    
 ~
-75 4 4 0 0
+75 32772 4 0 0
 D1
 ~
 ~
@@ -671,7 +671,7 @@ plants able to survive in these conditions.  The pass continues its trek
 through the mountain to the south and west.  To the east the treetops of a
 dense forest dominate the view.    
 ~
-75 0 5 0 0
+75 32768 5 0 0
 D2
 ~
 ~
@@ -691,7 +691,7 @@ through the mountain to the northwest and east.  Looking down the mountainside
 to the north offers a view of the dense forest which begins at the foot of the
 mountains.    
 ~
-75 0 5 0 0
+75 32768 5 0 0
 D1
 ~
 ~
@@ -702,10 +702,15 @@ D6
 0 0 7518
 S
 #7536
-Buildwalk~
-You are in an unfinished room.
+A Foothill of the Garnet Mountain Range~
+   The trail begins to take form now as the incline leads up into the Garnet
+Mountains.  Spray from the cascading waterfalls has made the ground somewhat
+slick, with a very earthy-fresh scent in the air.  The beautiful serenity of
+the clearing to the west can fully be seen from this vantage point, and it
+would give any harden of heart a moment pause to reflect upon its simply
+perfection.    
 ~
-0 0 0 0 0
+0 0 4 0 0
 D3
 ~
 ~
@@ -716,10 +721,19 @@ D4
 0 0 7500
 S
 #7537
-Buildwalk~
-You are in an unfinished room.
+A Serine Clearing~
+   The dense forest grove parts making way to rocky spires which reach way
+above.  A noticeable trail can clearly be made out leading up into the Garnet
+Mountains to the east.  This area right here however is rather breathtaking in
+its beauty and serenity.  North and south of the clearing here, clear bubbling
+streams trail from the mountains tips down into the dense forest grove.  The
+roaring sound of cascading waterfalls to the northwest and southeast drown out
+any other words or forest sounds.  The entire clearing is filled nearly year
+round with bands of budding flowers of every color imaginable.  A down, ancient
+tree has made a comfortable bench to sit down upon and just take in the beauty
+that the gods themselves must have create.    
 ~
-0 0 0 0 0
+0 0 2 0 0
 D1
 ~
 ~
@@ -730,10 +744,16 @@ D8
 0 0 7538
 S
 #7538
-Buildwalk~
-You are in an unfinished room.
+A Dense Forest Grove~
+   A large collection of blue spruce have accumulated in this area, filling up
+the floor of the forest with densely packed branches filled with long
+bluish-green needles.  Although it is difficult to move, as the branches must
+be continually pushed aside in order to gain movement, the needles themselves
+are relatively soft and give off a pleasant odor.  The ground constantly
+crunches underfoot, covered with a thick layer of fallen brown needles, now
+brittle and dry.    
 ~
-0 0 0 0 0
+0 0 3 0 0
 D3
 ~
 ~
@@ -744,10 +764,16 @@ D7
 0 0 7537
 S
 #7539
-Buildwalk~
-You are in an unfinished room.
+A Dense Forest Grove~
+   A large collection of blue spruce have accumulated in this area, filling up
+the floor of the forest with densely packed branches filled with long
+bluish-green needles.  Although it is difficult to move, as the branches must
+be continually pushed aside in order to gain movement, the needles themselves
+are relatively soft and give off a pleasant odor.  The ground constantly
+crunches underfoot, covered with a thick layer of fallen brown needles, now
+brittle and dry.    
 ~
-0 0 0 0 0
+0 0 3 0 0
 D1
 ~
 ~
@@ -758,10 +784,16 @@ D3
 0 0 7540
 S
 #7540
-Buildwalk~
-You are in an unfinished room.
+A Dense Forest Grove~
+   A large collection of blue spruce have accumulated in this area, filling up
+the floor of the forest with densely packed branches filled with long
+bluish-green needles.  Although it is difficult to move, as the branches must
+be continually pushed aside in order to gain movement, the needles themselves
+are relatively soft and give off a pleasant odor.  The ground constantly
+crunches underfoot, covered with a thick layer of fallen brown needles, now
+brittle and dry.    
 ~
-0 0 0 0 0
+0 0 3 0 0
 D1
 ~
 ~
@@ -772,10 +804,16 @@ D3
 0 0 7541
 S
 #7541
-Buildwalk~
-You are in an unfinished room.
+A Dense Forest Grove~
+   A large collection of blue spruce have accumulated in this area, filling up
+the floor of the forest with densely packed branches filled with long
+bluish-green needles.  Although it is difficult to move, as the branches must
+be continually pushed aside in order to gain movement, the needles themselves
+are relatively soft and give off a pleasant odor.  The ground constantly
+crunches underfoot, covered with a thick layer of fallen brown needles, now
+brittle and dry.    
 ~
-0 0 0 0 0
+0 0 3 0 0
 D1
 ~
 ~
@@ -786,10 +824,16 @@ D6
 0 0 7542
 S
 #7542
-Buildwalk~
-You are in an unfinished room.
+A Dense Forest Grove~
+   A large collection of blue spruce have accumulated in this area, filling up
+the floor of the forest with densely packed branches filled with long
+bluish-green needles.  Although it is difficult to move, as the branches must
+be continually pushed aside in order to gain movement, the needles themselves
+are relatively soft and give off a pleasant odor.  The ground constantly
+crunches underfoot, covered with a thick layer of fallen brown needles, now
+brittle and dry.    
 ~
-0 0 0 0 0
+0 0 3 0 0
 D6
 ~
 ~
@@ -800,10 +844,16 @@ D9
 0 0 7541
 S
 #7543
-Buildwalk~
-You are in an unfinished room.
+A Dense Forest Grove~
+   A large collection of blue spruce have accumulated in this area, filling up
+the floor of the forest with densely packed branches filled with long
+bluish-green needles.  Although it is difficult to move, as the branches must
+be continually pushed aside in order to gain movement, the needles themselves
+are relatively soft and give off a pleasant odor.  The ground constantly
+crunches underfoot, covered with a thick layer of fallen brown needles, now
+brittle and dry.    
 ~
-0 0 0 0 0
+0 0 3 0 0
 D3
 ~
 ~
@@ -814,10 +864,16 @@ D9
 0 0 7542
 S
 #7544
-Buildwalk~
-You are in an unfinished room.
+A Dense Forest Grove~
+   A large collection of blue spruce have accumulated in this area, filling up
+the floor of the forest with densely packed branches filled with long
+bluish-green needles.  Although it is difficult to move, as the branches must
+be continually pushed aside in order to gain movement, the needles themselves
+are relatively soft and give off a pleasant odor.  The ground constantly
+crunches underfoot, covered with a thick layer of fallen brown needles, now
+brittle and dry.    
 ~
-0 0 0 0 0
+0 0 3 0 0
 D1
 ~
 ~
