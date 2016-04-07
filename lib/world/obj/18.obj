@@ -8,18 +8,18 @@ A silver chain attached to a heart-shaped locket lies here, forgotten.~
 0 0 0 0
 1 400 100 10 -1
 E
-inscription~
-           My Love Caroline.  Though we may some time be parted,
-                     My heart lies always with you.
-
-                       - Your Husband, Elgis -
-~
-E
 locket tiny silver~
    Looking fragile enough to be broken by even casual treatment, this locket is
 no doubt a symbol of the affection of a man for a woman.  The chain is very
 thin, made of shining silver.  The locket is shaped like a heart, and engraved
 inside it is an inscription.
+~
+E
+inscription~
+           My Love Caroline.  Though we may some time be parted,
+                     My heart lies always with you.
+
+                       - Your Husband, Elgis -
 ~
 #1801
 arms coat shield blue swords crossed large~
@@ -197,10 +197,6 @@ axe battleaxe serrated steel~
    A steel-bladed axe sits atop a long pole of at least three feet in length.
 The axe blade is serrated and quite nasty looking.    
 ~
-A
-18 1
-A
-19 2
 #1813
 helm commander's steel~
 &wa well-crafted steel commander's helm&n~
@@ -504,10 +500,6 @@ A thick black cudgel covered with thorns lies here, waiting to be used.~
 0 3 6 5
 2 0 0 23 -1
 E
-pattern~
-  &K-/-/-/-/-&n
-~
-E
 cudgel shillelagh blackthorn wooden wood ogham druid~
    This cudgel has been crafted from blackthorn, making this a traditional
 druidic tool which is referred to as a 'Shillelagh'.  The blackthorn tree is
@@ -519,6 +511,10 @@ makes blackthorn an ideal wood for making a natural weapon from.  A Shillelagh
 is usually crafted from the base and root of a blackthorn tree, as the root
 provides a natural 'knob' at the tip of the cudgel.  This Shillelagh is
 undecorated, save for a small pattern carved just under the knob of the cudgel.
+~
+E
+pattern~
+  &K-/-/-/-/-&n
 ~
 #1890
 chest~
@@ -596,15 +592,15 @@ A churning fountain of blood flows here.~
 1000000 1000000 13 0
 1000005 0 0 0 -1
 E
-undefined~
-Nothing.
-~
-E
 fountain~
    This fountain is a large round bowl with a dais in the center.  On the dais
 stands a large statue of the most beautiful woman possibly born.  She stands
 naked, holding a single black whip by her side, and her eyes stare haplessly
 into the distance.    
+~
+E
+undefined~
+Nothing.
 ~
 #1896
 links chain golden thin draped~

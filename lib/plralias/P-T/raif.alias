@@ -1,4 +1,29 @@
 2
+tf
+15
+cast thornflesh
+0
+3
+cli
+15
+cast cure-light
+0
+2
+gb
+14
+cast goodberry
+0
+2
+ff
+19
+cast faerie-fire $1
+1
+3
+cam
+23
+cast call-animal-spirit
+0
+2
 gc
 13
 get $1 corpse
