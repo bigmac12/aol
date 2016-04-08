@@ -603,6 +603,7 @@ D9
 ~
 0 0 11840
 S
+T 7
 #11830
 Surrounding the Main Quadrangle~
    This narrow path has been put in around the main quadrangle.  It is
@@ -1361,24 +1362,12 @@ D3
 ~
 0 0 11827
 E
-brochures~
+welcome solanthus capital city~
 
-There are three brochures available for the city of Solanthus.
-
-1) Solanthus: A Religious Experience
-2) Shopping Guide
-3) Welcome to Solanthus, a capital city!
-
-~
-E
-religious experience temples~
-
-   The city of Solanthus is home to three temples.  Each was constructed by
-only the best craftsmen available.  No visit to the city is complete without
-taking a tour of each.  The Great Temple of Paladine, the largest of the three,
-is not the original structure.  Sadly, the original temple was badly damaged
-during a fire that took place just after the first Dragon War.  However, the
-new structure has found a welcome home in our fair city.    
+   Though many believe Palanthas to be the jewel in the Solamnic crown, it is
+our city of Solanthus that has always served as the capital.  Whether coming
+for the day or to stay at the upscale Golden Pineapple, you will find something
+special to see and do in Solanthus.    
 ~
 E
 guide shopping market marketplace~
@@ -1393,12 +1382,24 @@ The Platinum Rose offers only the finest in selection of precious gems and
 metals.    
 ~
 E
-welcome solanthus capital city~
+religious experience temples~
 
-   Though many believe Palanthas to be the jewel in the Solamnic crown, it is
-our city of Solanthus that has always served as the capital.  Whether coming
-for the day or to stay at the upscale Golden Pineapple, you will find something
-special to see and do in Solanthus.    
+   The city of Solanthus is home to three temples.  Each was constructed by
+only the best craftsmen available.  No visit to the city is complete without
+taking a tour of each.  The Great Temple of Paladine, the largest of the three,
+is not the original structure.  Sadly, the original temple was badly damaged
+during a fire that took place just after the first Dragon War.  However, the
+new structure has found a welcome home in our fair city.    
+~
+E
+brochures~
+
+There are three brochures available for the city of Solanthus.
+
+1) Solanthus: A Religious Experience
+2) Shopping Guide
+3) Welcome to Solanthus, a capital city!
+
 ~
 S
 #11864

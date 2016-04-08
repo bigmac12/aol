@@ -12,6 +12,7 @@ securing the frontier.
 15 11 1 5d10+300 2d8+4
 400 8400 0
 8 8 1 0
+Maxmove: 50
 E
 #11401
 sentry~
@@ -29,6 +30,7 @@ lethal point.
 90 1900 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11402
 patrolman patrol man~
@@ -45,6 +47,7 @@ during battles.
 95 2900 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11403
 minotaur drunken drunk~
@@ -60,6 +63,7 @@ then as he mutters about his past glories in the arena.
 10 14 6 5d4+160 2d7+2
 90 1900 0
 6 6 1 0
+Maxmove: 50
 E
 #11410
 Caera~
@@ -77,6 +81,7 @@ powerful muscles.  She returns your gaze momentarily then returns to her work.
 1300 250000 0
 8 8 2 3
 BareHandAttack: 6
+Maxmove: 50
 E
 #11411
 camper happy~
@@ -93,6 +98,7 @@ he nods slightly in greeting.
 20 8 -4 3d20+440 3d7+6
 900 25000 0
 8 8 1 0
+Maxmove: 50
 E
 #11412
 guard patrol~
@@ -109,6 +115,7 @@ notice.
 1200 52000 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11420
 squire young~
@@ -124,6 +131,7 @@ lighter gear generally worn for travel during times of relative peace.
 9 15 7 5d5+130 2d7+1
 200 1300 0
 8 8 1 0
+Maxmove: 50
 E
 #11421
 knight patrolling patrol~
@@ -139,6 +147,7 @@ that he is still well aware of every move you make.
 11 14 5 5d4+190 2d8+2
 400 2900 0
 8 8 2 0
+Maxmove: 50
 E
 #11422
 knight stern-faced stern~
@@ -156,11 +165,12 @@ rest.
 1000 25000 3
 5 5 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11423
-chief garrison~
-the chief of the garrison~
-The chief of the garrison prepares his dispatches to Thelgaard.
+chief commander garrison~
+the commander of the garrison~
+The commander of the garrison prepares his dispatches to Thelgaard.
 ~
    The tanned face of this man is creased with lines which would seem to
 indicate his age.  His body, however, is still that of a trained warrior.  
@@ -173,6 +183,7 @@ abilities.
 1700 175000 3
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 T 11420
 #11430
@@ -191,6 +202,7 @@ effortlessly.
 200 6625 4
 8 8 1 0
 BareHandAttack: 11
+Maxmove: 50
 E
 T 11432
 #11431
@@ -207,6 +219,7 @@ bushy tail flicks back and forth as he scans the area for any signs of danger.
 120 4700 4
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11432
 puppies wolf pup dog~
@@ -222,6 +235,7 @@ curls between his legs showing a sign of submission.
 1 1300 3
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #11433
 wolf male puppy~
@@ -238,6 +252,7 @@ a low growl rumbles from his chest.
 140 7000 3
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 T 11435
 #11434
@@ -255,6 +270,7 @@ a few feet away.
 600 11800 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 T 11437
 #11435
@@ -271,6 +287,7 @@ to stand no chance against him.
 14 12 2 6d8+240 2d8+4
 300 7000 6
 8 8 1 0
+Maxmove: 50
 E
 #11440
 farmer farm~
@@ -285,6 +302,7 @@ eyes from the constant beating of the sun.
 12 13 4 5d6+210 2d8+3
 100 4700 0
 8 8 1 0
+Maxmove: 50
 E
 T 11440
 #11441
@@ -300,6 +318,7 @@ attempts to take your head off!
 16 11 0 3d20+320 3d6+4
 700 11000 0
 8 8 0 0
+Maxmove: 50
 E
 #11442
 mill worker~
@@ -315,6 +334,7 @@ prevent any sweat from entering his eyes.
 200 6625 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11443
 farmer stranded~
@@ -329,6 +349,7 @@ the mill.
 14 13 3 6d5+240 2d9+2
 300 6625 0
 8 8 1 0
+Maxmove: 50
 E
 #11444
 mill manager~
@@ -344,6 +365,7 @@ his voice wavers from giving out to many orders.
 400 8400 3
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11454
 lioness white~
@@ -361,6 +383,7 @@ one purpose in mind: the kill.
 0 11000 0
 8 8 2 0
 BareHandAttack: 9
+Maxmove: 50
 E
 #11455
 Lythia lyth priestess~
@@ -378,6 +401,7 @@ waist with a purple cord.
 30 1 -14 3d33+1700 4d8+9
 0 1 2
 8 8 2 0
+Maxmove: 50
 E
 T 11455
 T 11456
@@ -397,6 +421,7 @@ most likely resting before returning to her post.
 20 8 -4 3d20+500 3d7+6
 0 25000 3
 5 5 2 0
+Maxmove: 50
 E
 #11457
 woman olive skinned~
@@ -413,6 +438,7 @@ her back in a twist which is tied with several short lengths of purple cord.
 19 9 -3 3d20+410 3d6+6
 707 17000 2
 5 5 2 0
+Maxmove: 50
 E
 #11458
 guard woman large~
@@ -429,6 +455,7 @@ large frame blocking passage through the doorway in the north wall.
 30 1 -14 3d33+1700 4d8+9
 0 250000 3
 8 8 2 0
+Maxmove: 50
 E
 #11459
 Hapaloseus Hapa Hapal seer~
@@ -447,6 +474,7 @@ waist with a purple cord.
 0 1 0
 8 8 0 0
 BareHandAttack: 6
+Maxmove: 50
 E
 T 11459
 T 11454
@@ -462,6 +490,7 @@ It looks unfinished.
 400 8400 3
 6 8 1 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11461
 lizard man guard~
@@ -475,6 +504,7 @@ It looks unfinished.
 100 4700 3
 8 8 1 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11462
 lizard man shaman spiny feathers~
@@ -488,6 +518,7 @@ It looks unfinished.
 300 7000 2
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11463
 lizard man warrior hulking~
@@ -501,6 +532,7 @@ It looks unfinished.
 90 1900 3
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11464
 lizard man~
@@ -514,6 +546,7 @@ It looks unfinished.
 70 800 3
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11465
 lizard man hunter wandering~
@@ -527,6 +560,7 @@ It looks unfinished.
 80 1300 6
 8 8 1 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11466
 lizard man cultist painted strange~
@@ -540,6 +574,7 @@ It looks unfinished.
 90 1900 2
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #11467
 hatchling lizard man~
@@ -553,6 +588,7 @@ It looks unfinished.
 0 25 0
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11468
 lizard man fire tender ancient shriveled~
@@ -566,6 +602,7 @@ It looks unfinished.
 100 4700 3
 6 8 1 0
 BareHandAttack: 10
+Maxmove: 50
 E
 #11469
 lizard man~
@@ -579,6 +616,7 @@ It looks unfinished.
 90 1900 0
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11470
 lizard man~
@@ -592,6 +630,7 @@ It looks unfinished.
 90 1900 3
 8 8 1 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11471
 bear large angry black~
@@ -605,6 +644,7 @@ It looks unfinished.
 0 6625 0
 7 8 0 0
 BareHandAttack: 9
+Maxmove: 50
 E
 #11472
 lizard man nervous~
@@ -618,6 +658,7 @@ It looks unfinished.
 900 1900 0
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11473
 lizard man second crossed glaring~
@@ -631,6 +672,7 @@ It looks unfinished.
 90 1900 0
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11474
 lizard man female~
@@ -644,6 +686,7 @@ It looks unfinished.
 90 1900 3
 8 8 2 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11475
 lizard man hunter~
@@ -657,6 +700,7 @@ It looks unfinished.
 90 1900 6
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11476
 black bear ferocious~
@@ -670,5 +714,6 @@ It looks unfinished.
 0 6625 0
 8 8 0 0
 BareHandAttack: 9
+Maxmove: 50
 E
 $
