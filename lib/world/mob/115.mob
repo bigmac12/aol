@@ -14,6 +14,7 @@ perceived threats to the safety of his people.
 27 3 -11 3d33+1100 4d7+8
 1600 135000 7
 8 8 1 0
+Maxmove: 50
 E
 #11501
 paladin kiri-jolith pious young woman~
@@ -31,6 +32,7 @@ way.
 27 3 -11 3d33+1100 4d7+8
 1600 135000 7
 8 8 2 0
+Maxmove: 50
 E
 #11502
 guard gate watchful~
@@ -49,6 +51,7 @@ visitors of that sort.
 900 25000 3
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 T 11502
 #11503
@@ -66,6 +69,7 @@ sisters, no matter their rank, are equally important in temple life.
 4 18 12 1d5+45 1d8+1
 10 50 2
 8 8 1 0
+Maxmove: 50
 E
 #11504
 girl pious young acolyte acolyte's~
@@ -83,6 +87,7 @@ is pale, having spent more time in shelter than they have.
 4 18 12 1d5+45 1d8+1
 10 50 2
 8 8 2 0
+Maxmove: 50
 E
 #11505
 older man vested priestly garments senior priest kiri-jolith~
@@ -100,6 +105,7 @@ seeks, he leaves you be.
 14 12 2 6d8+240 2d8+4
 300 7000 2
 8 8 1 0
+Maxmove: 50
 E
 #11506
 sergeant seargant-at-arms muscular large~
@@ -119,6 +125,7 @@ his loyal soldiers.
 700 14000 3
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #11507
 nestrimus apostle kiri-jolith dark-skinned dark innumerable years man~
@@ -132,10 +139,11 @@ His look is one of compassion mixed with an inspired vigilance.  His weathered
 hands handle the holy vestments with care.  He is dressed in the ritual garb of
 a high priest of Kiri-Jolith, marking him as the chaplain of the fortress.    
 ~
-1826906 234885308 142934016 1000 E
+3924058 234885308 142934016 1000 E
 30 1 -14 3d33+1700 4d8+9
 1900 250000 2
 8 8 1 0
+Maxmove: 50
 E
 T 2
 #11508
@@ -154,6 +162,7 @@ priests, and perform many important ceremonies, from weddings to war blessings.
 10 14 6 5d4+160 2d7+2
 90 1900 2
 8 8 1 0
+Maxmove: 50
 E
 #11509
 scribe white white-haird old~
@@ -170,6 +179,7 @@ utmost to ignore you.
 14 12 2 6d8+240 2d8+4
 300 7000 2
 6 6 1 0
+Maxmove: 50
 E
 #11510
 blacksmith massive muscular~
@@ -186,6 +196,7 @@ blackened by soot, and his arms are like legs.
 14 12 2 6d8+240 2d8+4
 300 7000 0
 8 8 1 0
+Maxmove: 50
 E
 #11511
 girl vibrant young girl~
@@ -202,6 +213,7 @@ fiercely.
 8 15 8 5d5+110 2d6+2
 70 800 0
 8 8 2 0
+Maxmove: 50
 E
 #11512
 lad strapping handsome nervous fidgeting~
@@ -218,6 +230,7 @@ eyes, the blossoming of young love.
 8 15 8 5d5+110 2d6+2
 70 800 0
 8 8 1 0
+Maxmove: 50
 E
 #11513
 solamnic pilgrim awe awe-filled~
@@ -234,6 +247,7 @@ in the temple of Kiri-Jolith.
 8 15 8 5d5+110 2d6+2
 70 800 3
 8 8 1 0
+Maxmove: 50
 E
 #11514
 woman washer elderly wrinkled old~
@@ -250,6 +264,7 @@ contribute to the well-being of the community.
 8 15 8 5d5+110 2d6+2
 70 800 0
 8 8 2 0
+Maxmove: 50
 E
 #11515
 man man-at-arms proud~
@@ -266,6 +281,7 @@ upon his forehead.  But, the temperature will not stop him from doing his job.
 12 13 4 5d6+210 2d8+3
 100 4700 3
 8 8 1 0
+Maxmove: 50
 E
 #11516
 commoner tired sun sun-baked~
@@ -282,6 +298,7 @@ parchment.
 10 14 6 5d4+160 2d7+2
 90 1900 0
 5 5 2 0
+Maxmove: 50
 E
 #11517
 man large burly~
@@ -298,6 +315,7 @@ with approving laughter as he watches the show.
 10 14 6 5d4+160 2d7+2
 90 1900 3
 8 8 1 0
+Maxmove: 50
 E
 #11518
 Selahn village midwife middle middle-aged handsome~
@@ -314,6 +332,7 @@ charming demeanor, and dark brown eyes that are both soulful and friendly.
 18 11 -2 3d20+380 3d6+6
 700 14000 2
 8 8 2 0
+Maxmove: 50
 E
 #11519
 crusader fist justice proud stoic~
@@ -331,6 +350,7 @@ without the slightest scratch or blemish.
 20 8 -4 3d20+440 3d7+6
 900 25000 3
 8 8 1 0
+Maxmove: 50
 E
 #11520
 veteran crusader grey-haired grey reminiscing~
@@ -348,6 +368,7 @@ battles.
 17 10 -1 3d20+340 3d6+5
 600 11800 3
 8 8 1 0
+Maxmove: 50
 E
 #11521
 berzerker shaven head~
@@ -367,6 +388,7 @@ initiation.
 400 11000 3
 8 8 1 0
 BareHandAttack: 5
+Maxmove: 50
 E
 #11522
 mason skilled~
@@ -385,6 +407,7 @@ for crushing and cutting rocks.    ~
 300 7000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11523
 guardian inner sanctum tall gaunt~
@@ -403,6 +426,7 @@ efficiency should the need arise.
 1300 68000 3
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11524
 labourer tanned journeyman pouring sweat~
@@ -420,6 +444,7 @@ pushing heavy carts of bricks for the new construction.
 8 15 8 5d5+110 2d6+2
 70 800 0
 8 8 1 0
+Maxmove: 50
 E
 #11525
 garren commander fist justice~
@@ -438,6 +463,7 @@ to inherit his sword, the Holy Avenger.
 29 2 -13 3d33+1450 4d7+9
 1800 213000 7
 8 8 1 0
+Maxmove: 50
 E
 #11526
 sentry patrolling~
@@ -454,6 +480,7 @@ fighting any threat that may present itself.
 18 11 -2 3d20+380 3d6+6
 700 14000 3
 8 8 1 0
+Maxmove: 50
 E
 #11527
 sentry patrolling~
@@ -469,6 +496,7 @@ and others from any threat that may arise.
 18 11 -2 3d20+380 3d6+6
 700 14000 3
 8 8 2 0
+Maxmove: 50
 E
 #11528
 boy young rambunctious teeth missing present~
@@ -486,6 +514,7 @@ in the crowd while playing a game of tag with his fellow boys.
 5 17 11 2d5+65 2d5+0
 20 85 0
 8 8 1 0
+Maxmove: 50
 E
 #11529
 huntress seasoned~
@@ -504,6 +533,7 @@ and a stong, lithe body.
 500 11000 6
 8 8 2 0
 BareHandAttack: 11
+Maxmove: 50
 E
 #11530
 priest venerable preaching~
@@ -521,6 +551,7 @@ upon for his age; here, age is something to be respected.
 18 11 -2 3d20+380 3d6+6
 700 14000 2
 8 8 1 0
+Maxmove: 50
 E
 #11531
 traveller sleeping road-weary weary~
@@ -538,6 +569,7 @@ reverie.
 12 13 4 5d6+210 2d8+3
 100 4700 0
 4 4 1 0
+Maxmove: 50
 E
 #11532
 officer fist justice~
@@ -555,6 +587,7 @@ area carefully, watching out for any undesirables.
 23 6 -7 3d33+650 3d8+8
 1200 52000 7
 8 8 1 0
+Maxmove: 50
 E
 #11533
 guard off-duty off duty~
@@ -572,6 +605,7 @@ forehead.
 16 11 0 3d20+320 3d6+4
 500 11000 3
 6 6 1 0
+Maxmove: 50
 E
 #11534
 resident fortress~
@@ -588,6 +622,7 @@ from her chores.
 7 16 9 3d5+85 2d6+1
 50 400 0
 8 8 2 0
+Maxmove: 50
 E
 #11535
 monk chants chanting~
@@ -605,6 +640,7 @@ chant in precisely the same manner it has been sung for centuries.
 13 13 3 6d5+240 2d9+2
 200 6625 2
 8 8 1 0
+Maxmove: 50
 E
 #11536
 prefect kiri-jolith~
@@ -622,6 +658,7 @@ people.
 14 12 2 6d8+240 2d8+4
 300 7000 2
 8 8 2 0
+Maxmove: 50
 E
 #11537
 chicken scrawny brown~
@@ -640,6 +677,7 @@ it may attack.
 0 13 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #11538
 goat plaintively bleating tethered~
@@ -655,6 +693,7 @@ munching on some dead grass.
 8 15 8 5d5+110 2d6+2
 0 800 0
 8 8 2 0
+Maxmove: 50
 E
 #11539
 guard tired~
@@ -672,6 +711,7 @@ hand as his brow furrows in thought.
 14 12 2 6d8+240 2d8+4
 300 7000 0
 6 6 1 0
+Maxmove: 50
 E
 #11540
 quarryman hard-working~
@@ -686,6 +726,7 @@ wipe sweat from his brow, then resumes his work.
 9 15 7 5d5+130 2d7+1
 80 1300 0
 8 8 1 0
+Maxmove: 50
 E
 #11541
 ox starved starved-looking~
@@ -703,6 +744,7 @@ middle of the street, blocking traffic.
 0 4700 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #11542
 cook hairy old man white apron~
@@ -721,6 +763,7 @@ dine here don't mind looking the other way when they find a hair in their stew.
 18 11 -2 3d20+380 3d6+6
 700 14000 0
 8 8 1 0
+Maxmove: 50
 E
 #11543
 devout worshipper~
@@ -736,6 +779,7 @@ that he believes he may be running late.
 10 14 6 5d4+160 2d7+2
 90 1900 0
 8 8 1 0
+Maxmove: 50
 E
 #11544
 crusader young curvaceous~
@@ -753,6 +797,7 @@ impress them, so that they will fully accept her as one of their own.
 700 14000 3
 8 8 2 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #11545
 warrior young~
@@ -770,6 +815,7 @@ as he does so.
 100 4700 3
 6 6 1 0
 BareHandAttack: 5
+Maxmove: 50
 E
 #11546
 Ruph Ruphaelo keeper hostel~
@@ -787,6 +833,7 @@ up there.
 30 1 -14 3d33+1700 4d8+9
 0 250000 0
 8 8 1 3
+Maxmove: 50
 E
 #11547
 Jhaelle fire tender old blind man~
@@ -805,6 +852,7 @@ age.
 30 1 -14 3d33+4466 4d8+9
 0 250000 0
 6 6 1 0
+Maxmove: 50
 E
 #11548
 boy page pageboy eager-looking eager~
@@ -821,6 +869,7 @@ takes VERY seriously.
 7 16 9 3d5+85 2d6+1
 50 400 0
 8 8 1 0
+Maxmove: 50
 E
 #11549
 uhn uhnartho artho stern stern-faced faced gatewarden~
@@ -839,6 +888,7 @@ blank, never tipping his hand to friend or foe.
 1900 250000 0
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #11550
 lion mountain ill ill-tempered tempered~
@@ -855,6 +905,7 @@ before leaping to attack.
 0 7000 0
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11551
 officer fist justice~
@@ -873,6 +924,7 @@ continues reading.
 1200 52000 3
 5 5 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11552
 caller prayer stern-faced young man~
@@ -890,6 +942,7 @@ equipped with a voice that can be heard for miles.
 1500 115000 0
 8 8 1 0
 BareHandAttack: 5
+Maxmove: 50
 E
 #11553
 clerk wizened old~
@@ -905,6 +958,7 @@ eyesight, which isn't what it used to be.
 14 12 2 6d8+240 2d8+4
 300 7000 0
 6 6 1 0
+Maxmove: 50
 E
 #11554
 guardsman vigilant~
@@ -923,6 +977,7 @@ of it.  He is armed with a sturdy polearm and heavy shield.
 500 11000 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #11555
 senior patrolman~
@@ -939,6 +994,7 @@ and able.  He looks at you briefly, then resumes his boring talk.
 20 8 -4 3d20+440 3d7+6
 900 25000 3
 8 8 1 0
+Maxmove: 50
 E
 #11556
 lookout~
@@ -956,6 +1012,7 @@ with renewed energy.
 17 10 -1 3d20+340 3d6+5
 600 11800 0
 8 8 1 0
+Maxmove: 50
 E
 #11557
 stout labourer workman~
@@ -973,6 +1030,7 @@ he fall though...
 9 15 7 5d5+130 2d7+1
 80 1300 0
 8 8 1 0
+Maxmove: 50
 E
 #11558
 tired workman~
@@ -989,6 +1047,7 @@ Seeing you noticing his break, he quickly starts to walk back towards his cart.
 7 16 9 3d5+85 2d6+1
 50 400 0
 8 8 1 0
+Maxmove: 50
 E
 #11559
 gate guard tall strong strong-looking looking~
@@ -1005,6 +1064,7 @@ weapon as he sees you approach, and he eyes you cautiously.
 20 8 -4 3d20+440 3d7+6
 900 25000 3
 8 8 1 0
+Maxmove: 50
 E
 #11560
 blacksmith soot soot-covered covered~
@@ -1023,5 +1083,6 @@ makeshift tent that has been set up on one side of the road.
 900 25000 3
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 $
