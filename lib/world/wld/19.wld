@@ -535,7 +535,8 @@ discuss both business and personal matters.  Since this is the main hub of the
 city, most of the shop owners have purchased the property around it so as to be
 conveniently located to their customers, but the high prices they paid for the
 land and buildings have caused many of them to slightly overcharge for their
-wares.    
+wares.  To the north and quiet cut off from the norm of travelers, is the
+lavish Lord's Estate of Palanthas.    
 ~
 19 0 1 0 0
 D1
@@ -1101,12 +1102,13 @@ D8
 S
 #1950
 Main Street~
-   While the stones laid down to pave this street are all still here, they are
-covered with a layer of dirt and grime.  Most of the buildings on either side
-of you aren't exactly falling down but they are in need of some repairs.  Most
+   The once worn stones that use to pave this street have all been pulled up
+and fresh white cobblestone has been laid in its place.  The buildings to the
+north use to be in rather bad shape, however thanks to the generosity of a
+silent benefactor; all have been rebuilt, repaired and beautiful.  Most
 everyone who lives here does so either because it is close to the market and
-shops.  The sounds of people going about their everyday lives comes from every
-direction.    
+shopping.  The sounds of people going about their daily lives comes from every
+direction .
 ~
 19 0 0 0 0
 D0
@@ -1240,12 +1242,13 @@ D8
 S
 #1956
 Intersection of Main Street and The Lord's Way~
-   While the stones laid down to pave this street are all still here, they are
-covered with a layer of dirt and grime.  Most of the buildings on either side
-of you aren't exactly falling down but they are in need of some repairs.  Most
+   The once worn stones that use to pave this street have all been pulled up
+and fresh white cobblestone has been laid in its place.  The buildings to the
+north use to be in rather bad shape, however thanks to the generosity of a
+silent benefactor; all have been rebuilt, repaired and beautiful.  Most
 everyone who lives here does so either because it is close to the market and
-shops.  The sounds of people going about their everyday lives comes from every
-direction.  A small grate has been set into one of the paving stones here.    
+shopping.  The sounds of people going about their daily lives comes from every
+direction .
 ~
 19 0 0 0 0
 D0
@@ -1344,12 +1347,13 @@ D9
 S
 #1960
 Main Street~
-   While the stones laid down to pave this street are all still here, they are
-covered with a layer of dirt and grime.  Most of the buildings on either side
-of you aren't exactly falling down but they are in need of some repairs.  Most
+   The once worn stones that use to pave this street have all been pulled up
+and fresh white cobblestone has been laid in its place.  The buildings to the
+north use to be in rather bad shape, however thanks to the generosity of a
+silent benefactor; all have been rebuilt, repaired and beautiful.  Most
 everyone who lives here does so either because it is close to the market and
-shops.  The sounds of people going about their everyday lives comes from every
-direction.    
+shopping.  The sounds of people going about their daily lives comes from every
+direction .
 ~
 19 0 0 0 0
 D0
@@ -1413,9 +1417,10 @@ D9
 S
 #1963
 Main Street~
-   While the stones laid down to pave this street are all still here, they are
-covered with a layer of dirt and grime.  Most of the buildings on either side
-of you aren't exactly falling down but they are in need of some repairs.  Most
+   The once worn stones that use to pave this street have all been pulled up
+and fresh white cobblestone has been laid in its place.  The buildings to the
+north use to be in rather bad shape, however thanks to the generosity of a
+silent benefactor; all have been rebuilt, repaired and beautiful.  Most
 everyone who lives here does so either because it is close to the market and
 shops.  The sounds of people going about their everyday lives comes from every
 direction.    
@@ -1488,12 +1493,16 @@ D3
 0 0 1965
 S
 #1967
-The Southern Gate~
-   This is the Southern Gate of Palanthas.  All those who wish to enter are
-scrutinized by the guards hired to stand watch here and ensure that no criminal
-either enters or leaves the city.  Many merchants are lined up along the way
-waiting to present their shipping papers to the guards so that they may enter
-the city to sell their wares.    
+Intersection of Main Street and Wall Street~
+   Newly renovated, this section of Palanthas is quiet beautiful.  The once
+worn stones that use to pave this street have all been pulled up and fresh
+white cobblestone has been laid in its place.  The buildings to the north use
+to be in rather bad shape, however thanks to the generosity of a silent
+benefactor; all have been rebuilt, repaired and beautiful.  The street
+stretches south through the once old southern gates of Palanthas.  However now
+it is a mere intersection with Wall Street.  The old walls themselves still
+stand, but are no longer guarded.  Now they are a host of tourists looking out
+over the city.    
 ~
 19 0 0 0 0
 D0
@@ -3571,43 +3580,6 @@ D2
 ~
 0 0 1998
 E
-mission~
-
-Below is our Mission statement as Immortals here at Age of Legends.
-
-Our world is a world of adventurers.  We seek to create an environment where
-characters can embrace their wanderlust and explore our more than 8,000 rooms.
-Sure, everyone has a home and a family, but our world is made up of those who,
-for whatever reason, were driven to leave home and family behind and go out
-into a world of new places/faces/and taverns.  It is this driving force that
-makes them interesting and makes them who they are.    
-
-A vital component of our Dragonlance world is ensuring that the players
-properly assume their roles as a specific race or class. It is this patchwork
-of individuals that drives our dynamic world. We, in our roles as immortals,
-are here to offer information, examples and opportunities for players to
-actively assume their roles and make our world the best it can be.  We are
-also here to ensure that the guidelines and rules of the mud are followed in
-order to provide for a level playing field.
-~
-E
-Dragonlance~
-
-   Dragonlance is a Campaign setting for Advance Dungeons and Dragons.  It is a
-wondrous world of heroes and villains.  If you are not familiar with the world
-of Krynn, take a look at the wealth of information that is available online.  
-It is important to note that we are in a Pre-Cataclysm Dragonlance setting.  
-
-
-   Visit our website at ageoflegends.planetmud.com for more information as
-well as a Dragonlance timeline (in the Help Dragonlance section of the site).
-
-
-   Type 'look laws' to view the Dragonlance Law of Consequence which 
-contains important information for properly roleplaying your alignment.
-
-~
-E
 law laws consequence~
 
 The Law of Consquence - Each of the three alignments in the univers of Krynn
@@ -3639,6 +3611,43 @@ to rule over all other laws. For every law and rule that is obeyed there is
 a reward and blessing; for every law transgressed there is a punishment.
 Blessings and punishments may not come about immediately, but they occur
 eventually.
+~
+E
+Dragonlance~
+
+   Dragonlance is a Campaign setting for Advance Dungeons and Dragons.  It is a
+wondrous world of heroes and villains.  If you are not familiar with the world
+of Krynn, take a look at the wealth of information that is available online.  
+It is important to note that we are in a Pre-Cataclysm Dragonlance setting.  
+
+
+   Visit our website at ageoflegends.planetmud.com for more information as
+well as a Dragonlance timeline (in the Help Dragonlance section of the site).
+
+
+   Type 'look laws' to view the Dragonlance Law of Consequence which 
+contains important information for properly roleplaying your alignment.
+
+~
+E
+mission~
+
+Below is our Mission statement as Immortals here at Age of Legends.
+
+Our world is a world of adventurers.  We seek to create an environment where
+characters can embrace their wanderlust and explore our more than 8,000 rooms.
+Sure, everyone has a home and a family, but our world is made up of those who,
+for whatever reason, were driven to leave home and family behind and go out
+into a world of new places/faces/and taverns.  It is this driving force that
+makes them interesting and makes them who they are.    
+
+A vital component of our Dragonlance world is ensuring that the players
+properly assume their roles as a specific race or class. It is this patchwork
+of individuals that drives our dynamic world. We, in our roles as immortals,
+are here to offer information, examples and opportunities for players to
+actively assume their roles and make our world the best it can be.  We are
+also here to ensure that the guidelines and rules of the mud are followed in
+order to provide for a level playing field.
 ~
 S
 T 1090
