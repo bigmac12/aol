@@ -780,8 +780,6 @@ int invalid_class(struct char_data *ch, struct obj_data *obj)
 }
 
 
-
-
 /*
  * SPELLS AND SKILLS.  This area defines which spells are assigned to
  * which classes, and the minimum level the character must be to use
@@ -925,6 +923,7 @@ void init_spell_levels(void)
   spell_level(SPELL_WEAKNESS, CLASS_PALADIN, 29, SPHERE_CLE_COMBAT);
 
   spell_level(SPELL_CALL_ANIMAL_SPIRIT, CLASS_PALADIN, 16, SPHERE_CLE_ANIMAL);
+  spell_level(SPELL_THORNFLESH, CLASS_PALADIN, 16, SPHERE_CLE_ANIMAL);
   spell_level(SPELL_ANIMAL_SUMMONING, CLASS_PALADIN, 21, SPHERE_CLE_ANIMAL);
   spell_level(SPELL_SUMMON_INSECTS, CLASS_PALADIN, 26, SPHERE_CLE_ANIMAL);
   spell_level(SPELL_ANIMAL_SUMMONING_II, CLASS_PALADIN, 29, SPHERE_CLE_ANIMAL);
@@ -1266,6 +1265,7 @@ void init_spell_levels(void)
   spell_level(SPELL_MIRE, CLASS_RANGER, 26, SPHERE_CLE_PLANT);
   spell_level(SPELL_WATER_BREATHING, CLASS_RANGER, 28, SPHERE_CLE_ELEMENTAL);
   spell_level(SPELL_ANIMAL_SUMMONING_III, CLASS_RANGER, 28, SPHERE_CLE_ANIMAL);
+  spell_level(SKILL_TWO_WEAPON_STYLE, CLASS_RANGER, 28, 0);
   spell_level(SPELL_MYSTIC_SPIRIT, CLASS_RANGER, 29, SPHERE_CLE_ANIMAL);
   spell_level(SPELL_AID, CLASS_RANGER, 30, SPHERE_CLE_COMBAT);
 

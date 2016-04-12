@@ -1,4 +1,19 @@
 1
+1
+13
+charge dragon
+0
+1
+2
+6
+ret sw
+0
+2
+ch
+9
+charge $*
+1
+1
 m
 3
 mem
@@ -17,11 +32,6 @@ hang bag girdle
 3
 12
 or fol as al
-0
-1
-1
-9
-as rabbit
 0
 3
 cas

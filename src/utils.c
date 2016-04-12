@@ -1966,7 +1966,6 @@ char * describe_clan(int clannum) {
  */
 
 int money_to_copper(struct money_data money)
-
 {
 
   int copper;
@@ -1988,14 +1987,9 @@ int money_to_copper(struct money_data money)
 }
 
 
-
 void copper_to_money(struct money_data * tar, int copper)
-
 {
-
   int pp, ss, gg, cc;
-
-
 
   pp = copper / 1000;   copper -= (1000 * pp);
 
@@ -2026,26 +2020,14 @@ void copper_to_money(struct money_data * tar, int copper)
 }
 
 
-
 void money_subtract(struct money_data * tar, struct money_data subAmt)
-
 {
-
   int tarCp;
 
-
-
-
-
   if ( money_to_copper(*tar) < money_to_copper(subAmt) ) {
-
     log("SYSERR: money_subtract() - target less than sub amount");
-
     return;
-
   }
-
-
 
   if ( (tar->platinum >= subAmt.platinum) &&
 
@@ -2090,49 +2072,29 @@ void money_subtract(struct money_data * tar, struct money_data subAmt)
 }
 
 
-
 void money_assign(struct money_data * tar, struct money_data amount)
-
 {
 
 }
 
-
-
 /*
-
  *  returns a   char *   string of the coins
-
  *
-
  *  IMPORTANT - multiple calls MUST occur on separate command lines,
-
  *  otherwise the reference to the string is the same, and the SAME
-
  *  text appears in all the calls
-
  */
-
 char  describeMoneyBuf[1000];
 
-
-
 char * describe_money(struct money_data amount)
-
 {
-
   int   comma = 0, coins = 0;
-
-
 
   strcpy(describeMoneyBuf, "");
 
   comma = 0;
 
-
-
   if ( amount.platinum > 0 ) {
-
     sprintf(describeMoneyBuf, "%s%s%d platinum",
 
 	    describeMoneyBuf, (comma ? ", " : ""),
@@ -2236,9 +2198,7 @@ char * describe_money(struct money_data amount)
 }
 
 
-
 void copper_to_money_random(struct money_data * tar, int copper)
-
 {
 
   int rand;
@@ -2288,29 +2248,17 @@ void copper_to_money_random(struct money_data * tar, int copper)
 }
 
 
-
 /*
-
  * takes 2 money_data structs and compares them based on:
-
  * total value, if strict==FALSE
-
  * actual coin type values, if strict==TRUE
-
  *
-
  * return values:
-
  * if ( more <  less )    -1
-
  * if ( more == less )     0
-
  * if ( more  > less )     1
-
  */
-
 int money_compare(struct money_data more, struct money_data less, int strict)
-
 {
 
   int moreCp = money_to_copper(more);
@@ -2380,11 +2328,8 @@ int money_compare(struct money_data more, struct money_data less, int strict)
 }
 
 
-
 int check_skill(struct char_data * ch, int prob, int skillnum)
-
 {
-
   int percent = number(1, prob);
   
   if (percent == prob)
@@ -2395,9 +2340,7 @@ int check_skill(struct char_data * ch, int prob, int skillnum)
 }
 
 
-
 int assert_fighting(struct char_data * ch)
-
 {
 
   if (!ch || !FIGHTING(ch) || (FIGHTING(ch) == NULL))
@@ -2423,9 +2366,7 @@ int assert_fighting(struct char_data * ch)
 }
 
 
-
 void check_improve(struct char_data * ch, int skill)
-
 {
 
   int chance, skilled;
@@ -2523,9 +2464,7 @@ void check_improve(struct char_data * ch, int skill)
 }
 
 
-
 int use_skill(struct char_data * ch, int percent, int skillnum)
-
 {
 
   int mod = 0;
@@ -2619,9 +2558,7 @@ int use_skill(struct char_data * ch, int percent, int skillnum)
 }
 
 
-
 int is_weapon(int type)
-
 {
 
   if (type == SKILL_BACKSTAB)
@@ -2659,9 +2596,7 @@ int is_weapon(int type)
 }
 
 
-
 int is_color(struct char_data *ch)
-
 {
 
 if ((PRF_FLAGGED(ch, PRF_COLOR_1) || PRF_FLAGGED(ch, PRF_COLOR_2)) || (IS_NPC(ch) && MOB_FLAGGED(ch, MOB_QUEST)))
@@ -2675,9 +2610,7 @@ else
 }
 
 
-
 int is_killer(struct char_data *ch)
-
 {
 
 if (PLR_FLAGGED(ch, PLR_KILLER))
@@ -2691,9 +2624,7 @@ else
 }
 
 
-
 int is_thief(struct char_data *ch)
-
 {
 
 if (PLR_FLAGGED(ch, PLR_THIEF))
@@ -2708,7 +2639,6 @@ else
 
 
 void max_group_exp_mult(struct char_data *ch)
-
 {
 
   struct char_data *k;
@@ -2739,3 +2669,7 @@ void max_group_exp_mult(struct char_data *ch)
 
 }
 
+
+int stat_bonus(struct char_data *ch) {
+    return 0;
+}
