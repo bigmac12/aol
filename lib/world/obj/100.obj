@@ -7,26 +7,6 @@ A map of Kalaman is rolled up on the ground.~
 0 0 0 0
 1 8 0 1 -1
 E
-back page2~
-1  The Dripping Dagger Inn *Rent at Stanley* 16 The General Store                      
-2  The Magic Shop and Mage Libary            17 The Gorcery                            
-3  The Book Store                            18 The Bakery                             
-4  The Bank *Deposit and Withdraw Money*     19 The Kalaman Stables *mountable horses* 
-5  The Antquie Shop *Drop room above*        20 The Gaol *Prison,Arrest only by Knight*
-6  The Temple of Paladine and Clerics'Shop   #  The Grates *Leads to the sewers*       
-7  The Home of Pender Brightblade *Trainer*  @  The Kalaman Drifter *ship to Palanthas*
-8  The Central Square of Kalaman *Herald*    The Docks  *Newbie Leveling Zone*         
-9  The Dripping Dagger's Bar *Gillian*       *  Board Rooms *Above in the Inn*         
-10 The Jewelry Shop                          %  Road leading to Istar/Karthay          
-11 The Kalaman Bathhouse                     $  Road leading to Palanthas/Vingaard     
-12 The Kalaman Garrison *Knight Only*        The Beach of Kalaman *Newbie Zone*        
-13 The Weapon Shop                                                                     
-14 The Armor Shop                                                                      
-15 The Clothing Shop                                                                   
-   Newbie Zones are for level 1 through 5 depending on CLASS, some mobs are level 6+.  
-&RNote: Do NOT fight in a room where a CITY GUARD is present, they will assist and Kill you&n
-~
-E
 map~
                             North Gate
                                  |                                ----------------
@@ -58,6 +38,26 @@ $-------+--Huma'Lane--8---'---+----Huma#Lane---+------   @       o -------------
                  South Gate                                          -------------
 
 &R    **Type    look back   to read more**   &n
+~
+E
+back page2~
+1  The Dripping Dagger Inn *Rent at Stanley* 16 The General Store                      
+2  The Magic Shop and Mage Libary            17 The Gorcery                            
+3  The Book Store                            18 The Bakery                             
+4  The Bank *Deposit and Withdraw Money*     19 The Kalaman Stables *mountable horses* 
+5  The Antquie Shop *Drop room above*        20 The Gaol *Prison,Arrest only by Knight*
+6  The Temple of Paladine and Clerics'Shop   #  The Grates *Leads to the sewers*       
+7  The Home of Pender Brightblade *Trainer*  @  The Kalaman Drifter *ship to Palanthas*
+8  The Central Square of Kalaman *Herald*    The Docks  *Newbie Leveling Zone*         
+9  The Dripping Dagger's Bar *Gillian*       *  Board Rooms *Above in the Inn*         
+10 The Jewelry Shop                          %  Road leading to Istar/Karthay          
+11 The Kalaman Bathhouse                     $  Road leading to Palanthas/Vingaard     
+12 The Kalaman Garrison *Knight Only*        The Beach of Kalaman *Newbie Zone*        
+13 The Weapon Shop                                                                     
+14 The Armor Shop                                                                      
+15 The Clothing Shop                                                                   
+   Newbie Zones are for level 1 through 5 depending on CLASS, some mobs are level 6+.  
+&RNote: Do NOT fight in a room where a CITY GUARD is present, they will assist and Kill you&n
 ~
 #10001
 fountain turbidus~
@@ -594,7 +594,7 @@ a clear potion with tiny red bubbles~
 A clear potion with tiny red bubbles lies here.~
 ~
 10 3072000 1
-5 0 0 0
+14 104 0 0
 1 360 180 5 -1
 E
 potion clear red tiny red bubbles~
@@ -905,132 +905,14 @@ A gold and black bound book titled "Primer of the Deities" lies here.~
 0 0 0 0
 2 20 5 1 -1
 E
-chapter1~
+book primer gold black deities~
 
---== THE GODS OF LIGHT ==--
+Chapter One : The Gods of Light (type "read chapter1")
 
-** Paladine, the Platinum Dragon **  
-Paladine is Father of Good and Master of Law. He speaks for the gods
-of Good, leading through example and encouragement. He upholds
-the laws of Good by assisting the righteous and renouncing the evil.
-Paladine and Takhisis were the creators of the first material things,
-the dragons. Takhisis corrupted the chromatic dragons, leaving the
-metallics to Paladine, and this act began the rift between Good and
-Evil.  Paladine and his twin sons, Kiri-Jolith and Habbakuk created
-the Knights of Solamnia, choosing the mortal Vinas Solamnus to establish
-the knighthood based on the ideals of truth, justice and honor. Paladine
-is the patron of the Order of the Rose.  He also had a third son with Mishakal,
-Solinari.  Paladine's primary symbol is the silver triangle.  His other symbols
-are the pine tree (Silvanesti) or an anvil (Thorbardin).  His colors are silver
-and white.
+Chapter Two : The Gods of Neutrality (type "read chapter2")
 
-** Solinari, the Mighty Hand **
-Solinari is the god of Good magic, and established the Order of the White 
-Robes to administer it. With the exception of Krynn, which he loves deeply,
-Solinari treasures magic over every aspect of life, death and afterlife. He is
-the third son of Paladine and Mishakal. Solinari's symbol is a white circle or
-sphere, and his colors are white and silver.
+Chapter Three : The Gods of Darkness (type "read chapter3")
 
-** Mishakal, the Healing Hand **
-Mishakal is the goddess whose influences are healing, knowledge, fertility,
-life, beauty and blessing. She is Paladine's wife, and the couple have
-three sons - the twins Kiri-Jolith and Habbakuk and the third son,
-Solinari. Mishakal's symbol is the infinity sign, and her color is sky blue.
-
-** Majere, Master of the Mind **
-Majere is the god of organization, industry, control, meditation, faith and
-dreams. His followers lead simple lives devoid of luxury and filled with
-meditation, self-discipline and deep thought. His primary symbol is a
-copper spider. His other symbols are a single rose (Qualinesti, Silvanesti)
-and the mantis (Solamnia). His color is copper.
-
-** Kiri-Jolith, Sword of Justice **
-Kiri-Jolith is the god of glory, honor, obedience, justice and righteous
-warfare. With his twin Habbakuk, and his father Paladine, he helped
-create the Knights of Solamnia and is the patron of the Order of the
-Sword. His symbols are bison's horns or a horned battleaxe
-(Thorbardin, Kharolis) and his colors are brown and white.
-
-** Habbakuk, the Fisher King **
-Habbakuk created and rules all creatures of land and sea. He represents
-the eternal cycle of nature, thereby also symbolizing eternal life.
-He and his older twin Kiri-Jolith, together with their father Paladine created
-the Knights of Solamnia and Habbakuk is the patron of the Order of the Crown.
-His symbols are the blue bird and the blue phoenix (Ergoth).  His colors are
-deep blue and white.
-
-** Branchala, Song of Life **
-Considered by the elves and kender to be the highest god, Branchala is
-the god of music. A companion of Habbakuk since the beginning of time,
-Branchala imbued Krynn's first creatures with the lyric and melody of his
-immortal soul. His symbols are a bard's harp or a flute (Qualinesti,
-Silvanesti). His colors are yellow and green.
-
-
-(Type "read chapter2" for the Gods of Neutrality
-or "read chapter3" for the Gods of Darkness)
-~
-E
-chapter2~
-
---== THE GODS OF NEUTRALITY ==--
-
-** Gilean, the Void **
-Before creation, the High God wrote the Tobril, the book of all knowledge
-and true names, to lay down the designs of the universe. The High God
-did not consider any of the gods he created trustworthy enough to guard
-the Tobril, so he found Gilean, a scribe so scrupulous as to have never
-penned an error and entrusted the Tobril to him. Gilean guards the Tobril
-and is the patriarch of the Neutral gods. His symbol is an open book
-and his color is gray.
-
-** Lunitari, the Veiled Maiden **
-The goddess of Neutral magic and illusions, Lunitari was born of Gilean and
-an unknown mother, though some suggest she sprang full-grown from her
-father's thoughts. She founded the Order of the Red Robes to promote
-Neutral magic. Her symbol is a red circle or sphere, her color red or magenta.
-
-** Sirrion, the Flowing Flame **
-Sirrion is the god of creative flame and natural power and sculpts fire into
-beautiful forms. He controls every flame, from the sun to the low-burning
-wick. His companion is Shinare, an argumentative couple due to his
-temperamental and artistic nature in conflict with her practicality and
-opportunism. His symbol is a multi-colored fire. His colors are bright red
-and yellow.
-
-** Reorx, the Forge **
-The god of manufacture, technology and metallurgy, Reorx is considered by
-the dwarves of Ansalon to be the greatest god. Humans perceive him as
-merely Kiri-Jolith's helper. Reorx tamed chaos to forge the world. His second
-greatest creation, the Greystone of Gargath, led to the emergence of dwarves,
-gnomes and kender and many consider him the father of these races. His
-symbols are a forging hammer or dwarven hammer (Thorbardin). His colors
-are slate grey and red.
-
-** Chislev, the Beast **
-Chislev is nature incarnate. According to legend, the seasons change with the
-moods of her heart. She is served by every beast and plant. Her symbol is
-a feather of brown, yellow and green, which are her colors.
-
-** Zivilyn, the Tree of Life **
-Zivilyn is the god of all wisdom and is the celestial Tree of Life. His
-branches extend into all times and places. As Gilean holds the knowledge of
-the universe, Zivilyn holds its wisdom. Zivilyn is the companion of Chislev,
-a relationship seen by most mortals as a perfect marriage. Zivilyn's
-symbol is a great green or gold tree, sometimes a vallenwood. His colors
-are green and gold.
-
-** Shinare, Winged Victory **
-Shinare, the goddess of wealth, industry and commerce, has many dwarven
-worshippers. She also finds many followers among merchants, mercenaries
-and profit-minded adventurers of other races. She is considered by all to
-be the champion of freedom and self-destiny. She cannot tolerate laziness
-and attributes poverty or stupidity to sloth. Her symbol is a griffon's wing
-and her colors are gold, silver and brown.
-
-
-(Type "read chapter1" for the Gods of Light
-or "read chapter3" for the Gods of Darkness)
 ~
 E
 chapter3~
@@ -1104,14 +986,132 @@ or "read chapter2" for the Gods of Neutrality)
 
 ~
 E
-book primer gold black deities~
+chapter2~
 
-Chapter One : The Gods of Light (type "read chapter1")
+--== THE GODS OF NEUTRALITY ==--
 
-Chapter Two : The Gods of Neutrality (type "read chapter2")
+** Gilean, the Void **
+Before creation, the High God wrote the Tobril, the book of all knowledge
+and true names, to lay down the designs of the universe. The High God
+did not consider any of the gods he created trustworthy enough to guard
+the Tobril, so he found Gilean, a scribe so scrupulous as to have never
+penned an error and entrusted the Tobril to him. Gilean guards the Tobril
+and is the patriarch of the Neutral gods. His symbol is an open book
+and his color is gray.
 
-Chapter Three : The Gods of Darkness (type "read chapter3")
+** Lunitari, the Veiled Maiden **
+The goddess of Neutral magic and illusions, Lunitari was born of Gilean and
+an unknown mother, though some suggest she sprang full-grown from her
+father's thoughts. She founded the Order of the Red Robes to promote
+Neutral magic. Her symbol is a red circle or sphere, her color red or magenta.
 
+** Sirrion, the Flowing Flame **
+Sirrion is the god of creative flame and natural power and sculpts fire into
+beautiful forms. He controls every flame, from the sun to the low-burning
+wick. His companion is Shinare, an argumentative couple due to his
+temperamental and artistic nature in conflict with her practicality and
+opportunism. His symbol is a multi-colored fire. His colors are bright red
+and yellow.
+
+** Reorx, the Forge **
+The god of manufacture, technology and metallurgy, Reorx is considered by
+the dwarves of Ansalon to be the greatest god. Humans perceive him as
+merely Kiri-Jolith's helper. Reorx tamed chaos to forge the world. His second
+greatest creation, the Greystone of Gargath, led to the emergence of dwarves,
+gnomes and kender and many consider him the father of these races. His
+symbols are a forging hammer or dwarven hammer (Thorbardin). His colors
+are slate grey and red.
+
+** Chislev, the Beast **
+Chislev is nature incarnate. According to legend, the seasons change with the
+moods of her heart. She is served by every beast and plant. Her symbol is
+a feather of brown, yellow and green, which are her colors.
+
+** Zivilyn, the Tree of Life **
+Zivilyn is the god of all wisdom and is the celestial Tree of Life. His
+branches extend into all times and places. As Gilean holds the knowledge of
+the universe, Zivilyn holds its wisdom. Zivilyn is the companion of Chislev,
+a relationship seen by most mortals as a perfect marriage. Zivilyn's
+symbol is a great green or gold tree, sometimes a vallenwood. His colors
+are green and gold.
+
+** Shinare, Winged Victory **
+Shinare, the goddess of wealth, industry and commerce, has many dwarven
+worshippers. She also finds many followers among merchants, mercenaries
+and profit-minded adventurers of other races. She is considered by all to
+be the champion of freedom and self-destiny. She cannot tolerate laziness
+and attributes poverty or stupidity to sloth. Her symbol is a griffon's wing
+and her colors are gold, silver and brown.
+
+
+(Type "read chapter1" for the Gods of Light
+or "read chapter3" for the Gods of Darkness)
+~
+E
+chapter1~
+
+--== THE GODS OF LIGHT ==--
+
+** Paladine, the Platinum Dragon **  
+Paladine is Father of Good and Master of Law. He speaks for the gods
+of Good, leading through example and encouragement. He upholds
+the laws of Good by assisting the righteous and renouncing the evil.
+Paladine and Takhisis were the creators of the first material things,
+the dragons. Takhisis corrupted the chromatic dragons, leaving the
+metallics to Paladine, and this act began the rift between Good and
+Evil.  Paladine and his twin sons, Kiri-Jolith and Habbakuk created
+the Knights of Solamnia, choosing the mortal Vinas Solamnus to establish
+the knighthood based on the ideals of truth, justice and honor. Paladine
+is the patron of the Order of the Rose.  He also had a third son with Mishakal,
+Solinari.  Paladine's primary symbol is the silver triangle.  His other symbols
+are the pine tree (Silvanesti) or an anvil (Thorbardin).  His colors are silver
+and white.
+
+** Solinari, the Mighty Hand **
+Solinari is the god of Good magic, and established the Order of the White 
+Robes to administer it. With the exception of Krynn, which he loves deeply,
+Solinari treasures magic over every aspect of life, death and afterlife. He is
+the third son of Paladine and Mishakal. Solinari's symbol is a white circle or
+sphere, and his colors are white and silver.
+
+** Mishakal, the Healing Hand **
+Mishakal is the goddess whose influences are healing, knowledge, fertility,
+life, beauty and blessing. She is Paladine's wife, and the couple have
+three sons - the twins Kiri-Jolith and Habbakuk and the third son,
+Solinari. Mishakal's symbol is the infinity sign, and her color is sky blue.
+
+** Majere, Master of the Mind **
+Majere is the god of organization, industry, control, meditation, faith and
+dreams. His followers lead simple lives devoid of luxury and filled with
+meditation, self-discipline and deep thought. His primary symbol is a
+copper spider. His other symbols are a single rose (Qualinesti, Silvanesti)
+and the mantis (Solamnia). His color is copper.
+
+** Kiri-Jolith, Sword of Justice **
+Kiri-Jolith is the god of glory, honor, obedience, justice and righteous
+warfare. With his twin Habbakuk, and his father Paladine, he helped
+create the Knights of Solamnia and is the patron of the Order of the
+Sword. His symbols are bison's horns or a horned battleaxe
+(Thorbardin, Kharolis) and his colors are brown and white.
+
+** Habbakuk, the Fisher King **
+Habbakuk created and rules all creatures of land and sea. He represents
+the eternal cycle of nature, thereby also symbolizing eternal life.
+He and his older twin Kiri-Jolith, together with their father Paladine created
+the Knights of Solamnia and Habbakuk is the patron of the Order of the Crown.
+His symbols are the blue bird and the blue phoenix (Ergoth).  His colors are
+deep blue and white.
+
+** Branchala, Song of Life **
+Considered by the elves and kender to be the highest god, Branchala is
+the god of music. A companion of Habbakuk since the beginning of time,
+Branchala imbued Krynn's first creatures with the lyric and melody of his
+immortal soul. His symbols are a bard's harp or a flute (Qualinesti,
+Silvanesti). His colors are yellow and green.
+
+
+(Type "read chapter2" for the Gods of Neutrality
+or "read chapter3" for the Gods of Darkness)
 ~
 #10061
 pendant gilean chain book~
@@ -1140,6 +1140,59 @@ A small suede-bound book titled, "History of Ye Kesseltop Tree" lies here.~
 16 0 16385
 0 0 0 0
 1 80 4 1 -1
+E
+nextpage~
+
+Of course, you can well imagine how Misae felt about coming across this
+"evil" tree sporting oranges all of a sudden! He immediately attacked it,
+losing all track of where he was. He soon found himself surrounded by
+friends of the kender and followers of Chislev that didn't seem to care
+much for his actions. Being unable to speak in the Common tongue, he was
+unable to express how evil the tree was, not that anyone would have believed
+him. Quite a fracas resulted, and sadly enough, Jenrodan was left no
+alternative but to use force in preventing further damage to the tree, and
+Misae was killed.
+
+All this, it would seem, might be enough adventure for any tree but not
+Ye Kesseltop. Nooo, he just has to find adventures every day just to keep
+everyone on their toes, certainly not the least of which is Chislev. (How
+exactly she has repaid Zivilyn for his "help" is also another story and quite
+likely not appropriate reading material for the younger generation).
+So dear reader, our story does not have an ending, only the most recent
+event in this famous tree's life.
+
+There he stood, quite minding his own business, when along came a
+gully dwarf absolutely enraged that he wouldn't move out of the way.
+Now, perhaps if the tree had feet, it might have cooperated more fully,
+but as you well know that's just not the way of trees and Ye Kesseltop
+was no different. He stood resolutely, bearing the brunt of several kicks
+along with a goodly stream of profanity. Being the smart tree that he is,
+he managed to figure out after a while that Gurp was mistaking him for
+an obstinate dwarf. This did little to change anything though and the
+debate might have gone on all day had not Chislev heard the tree's
+silent chuckling and went to check on him.
+
+Seeing Kesseltop allowing Gurp to kick her tree, she was taken aback
+and reprimanded the poor kender quite harshly before turning her
+attention on Gurp. Silly gully dwarf would not give up the ruse even in
+front of a goddess! Consequently, he was quickly encased in vines and
+planted until he thought over his options more carefully. Chislev's
+good servant Jenrodan was patient enough to explain things to the
+deluded dwarf and he was free in a matter of hours, or perhaps it was
+days...
+
+Once free, Gurp and Kesseltop, who had somehow along the way picked
+up the rather awkward middle name Treeminder, got to talking and trying
+to figure out the confusion between them. Now, other than gnome
+inventions, there's very little in life as comical as watching a kender
+and a gully dwarf try to make logic of anything. Yet they certainly tried.
+That, too, is another story which I won't trouble you with, dear reader.
+Suffice it to say, it ended with a flea infestation in Kalaman that several
+residents are -still- itching from.
+
+Thus ends the history (for today at least) of Krynn's famed Ye Kesseltop tree.
+
+~
 E
 book suede tree small~
 
@@ -1208,59 +1261,6 @@ began growing oranges to reward the elven maiden for her good deed.
 
 
 (Type "read nextpage")
-~
-E
-nextpage~
-
-Of course, you can well imagine how Misae felt about coming across this
-"evil" tree sporting oranges all of a sudden! He immediately attacked it,
-losing all track of where he was. He soon found himself surrounded by
-friends of the kender and followers of Chislev that didn't seem to care
-much for his actions. Being unable to speak in the Common tongue, he was
-unable to express how evil the tree was, not that anyone would have believed
-him. Quite a fracas resulted, and sadly enough, Jenrodan was left no
-alternative but to use force in preventing further damage to the tree, and
-Misae was killed.
-
-All this, it would seem, might be enough adventure for any tree but not
-Ye Kesseltop. Nooo, he just has to find adventures every day just to keep
-everyone on their toes, certainly not the least of which is Chislev. (How
-exactly she has repaid Zivilyn for his "help" is also another story and quite
-likely not appropriate reading material for the younger generation).
-So dear reader, our story does not have an ending, only the most recent
-event in this famous tree's life.
-
-There he stood, quite minding his own business, when along came a
-gully dwarf absolutely enraged that he wouldn't move out of the way.
-Now, perhaps if the tree had feet, it might have cooperated more fully,
-but as you well know that's just not the way of trees and Ye Kesseltop
-was no different. He stood resolutely, bearing the brunt of several kicks
-along with a goodly stream of profanity. Being the smart tree that he is,
-he managed to figure out after a while that Gurp was mistaking him for
-an obstinate dwarf. This did little to change anything though and the
-debate might have gone on all day had not Chislev heard the tree's
-silent chuckling and went to check on him.
-
-Seeing Kesseltop allowing Gurp to kick her tree, she was taken aback
-and reprimanded the poor kender quite harshly before turning her
-attention on Gurp. Silly gully dwarf would not give up the ruse even in
-front of a goddess! Consequently, he was quickly encased in vines and
-planted until he thought over his options more carefully. Chislev's
-good servant Jenrodan was patient enough to explain things to the
-deluded dwarf and he was free in a matter of hours, or perhaps it was
-days...
-
-Once free, Gurp and Kesseltop, who had somehow along the way picked
-up the rather awkward middle name Treeminder, got to talking and trying
-to figure out the confusion between them. Now, other than gnome
-inventions, there's very little in life as comical as watching a kender
-and a gully dwarf try to make logic of anything. Yet they certainly tried.
-That, too, is another story which I won't trouble you with, dear reader.
-Suffice it to say, it ended with a flea infestation in Kalaman that several
-residents are -still- itching from.
-
-Thus ends the history (for today at least) of Krynn's famed Ye Kesseltop tree.
-
 ~
 #10063
 plaque bronze~
@@ -1644,6 +1644,13 @@ A Gnomish book on The Committee lies here.~
 0 0 0 0
 1 80 4 1 -1
 E
+book~
+   The book is bound by an unusual shiny material and has the words 'A
+Beginners Guide to the Committee' embossed on the front of it.    
+
+(Type "Read page1")
+~
+E
 page1~
 Committee (v) - Three to n-1 Gnomes thinking (given time) on a subject which
 may or may not be related to the problem which the Committee was originally put
@@ -1685,13 +1692,6 @@ Deciding.." started to look at his case) in order to avoid that he might
 accidentally find a solution to his problem and leave a whole Committee 
 without proper assignment, and finally return to his work.
 ~
-E
-book~
-   The book is bound by an unusual shiny material and has the words 'A
-Beginners Guide to the Committee' embossed on the front of it.    
-
-(Type "Read page1")
-~
 #10094
 cog~
 a small cog~
@@ -1701,18 +1701,18 @@ A small steel cog lies on the ground.~
 0 0 0 0
 1 0 0 0 -1
 E
-undefined~
-Nothing.
-~
-E
-undefined~
-Nothing.
-~
-E
 cog~
    The small steel cog is of obvious gnomish design.  For reasons known only to
 the Gnome that manufactured it, the cog is hexagonal rather than the usual
 round shape.    
+~
+E
+undefined~
+Nothing.
+~
+E
+undefined~
+Nothing.
 ~
 #10095
 REUSE ME~
@@ -1736,6 +1736,16 @@ A freshly-painted signpost stands here, its proclamations written boldly in seve
 0 0 0 0
 1000 0 0 0 -1
 E
+proclamation update new remainder~
+   "Hear ye, Hear ye!  Fine and Noble Citizens of Kalaman and Solamnia, Peoples
+of the surrounding Territories, Passersby and Travellers of the Realms.  
+Important Notice: Due to recent troubles and the bouts of lawlessness, the
+Kalaman Militia has been reinforced with a contingent of Solamnia's finest to
+aid in the maintaining of law and order, as well as to aid in the general
+well-being of the public.  As of now, said malcontents or lawless persons may
+be removed by force, if necessary"
+~
+E
 sign post signpost freshly-painted languages~
    "Hear ye, Hear ye!  Fine and Noble Citizens of Kalaman, Peoples of the
 surrounding Territories, and Passersby and Travellers of the Realms.  As a
@@ -1746,16 +1756,6 @@ from those of reproachable and dangerous behavior, please bear with any
 inconveniences that this may bring"
 
 A new proclamation has been posted over the remainder of the signpost...
-~
-E
-proclamation update new remainder~
-   "Hear ye, Hear ye!  Fine and Noble Citizens of Kalaman and Solamnia, Peoples
-of the surrounding Territories, Passersby and Travellers of the Realms.  
-Important Notice: Due to recent troubles and the bouts of lawlessness, the
-Kalaman Militia has been reinforced with a contingent of Solamnia's finest to
-aid in the maintaining of law and order, as well as to aid in the general
-well-being of the public.  As of now, said malcontents or lawless persons may
-be removed by force, if necessary"
 ~
 #10097
 tunic soft deerskin~

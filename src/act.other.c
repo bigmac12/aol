@@ -93,9 +93,9 @@ ACMD(do_quit)
 
 
   if (subcmd != SCMD_QUIT && GET_LEVEL(ch) < LVL_IMMORT) {
+    send_to_char("If you quit without renting, YOUR EQUIPMENT WILL BE LOST!\r\n", ch);
     send_to_char("You have to type quitnow -- no less, to quit!\r\n", ch);
-    send_to_char("NOTE: You need to rent at an inn to save your items!\r\n",
-		 ch);
+    // send_to_char("NOTE: You need to rent at an inn to save your items!\r\n", ch);
   } else if (GET_POS(ch) == POS_FIGHTING)
     send_to_char("No way!  You're fighting for your life!\r\n", ch);
   else if (GET_POS(ch) < POS_STUNNED) {
