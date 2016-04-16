@@ -154,7 +154,7 @@ end
 m4613 death load o4626/97~
 0 f 100
 ~
-if (%random.100% > 90) then
+if (%random.100% > 99) then
 mload obj 4697
 elseif (%random.100% < 11) then
 mload obj 4626

@@ -14,6 +14,7 @@ discriminating clientele.
 999999 1 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11801
 Durward jeweller propietor Dur~
@@ -32,6 +33,7 @@ attempting to judge the weight of your coin purse.
 999999 1 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11802
 Farrar blacksmith far~
@@ -48,6 +50,7 @@ as you look over his inventory or perhaps contemplate a special order.
 999999 1 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11803
 Demelza~
@@ -64,6 +67,7 @@ you to examine her inventory.
 30 1 -14 3d33+1700 4d8+9
 999999 1 0
 8 8 2 0
+Maxmove: 50
 E
 #11804
 Fairfax~
@@ -81,6 +85,7 @@ and is always ready to welcome any new customers.
 0 1 0
 8 8 1 4
 BareHandAttack: 6
+Maxmove: 50
 E
 #11805
 priestess woman high shinare lovely young~
@@ -98,6 +103,7 @@ dimples to form on her cheeks.
 23 6 -7 3d33+650 3d8+8
 1000 52000 2
 8 8 2 0
+Maxmove: 50
 E
 #11806
 canon mishakal~
@@ -113,6 +119,7 @@ touches each of her patients with the other.
 25 5 -9 3d33+850 4d6+8
 1000 87000 2
 8 8 2 0
+Maxmove: 50
 E
 #11807
 cleric mishakal woman~
@@ -128,6 +135,7 @@ causing her hood to fall over her face, obscuring it from view.
 19 9 -3 3d20+410 3d6+6
 700 17000 0
 8 8 2 0
+Maxmove: 50
 E
 #11808
 Anselm Lord~
@@ -146,6 +154,7 @@ head of hair.
 1492 87000 3
 6 6 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11809
 young smiling woman~
@@ -162,6 +171,7 @@ tendrils have been left loose to frame her pretty face.
 10 14 6 5d4+160 2d7+2
 195 1900 0
 8 8 2 0
+Maxmove: 50
 E
 #11810
 servant house~
@@ -181,6 +191,7 @@ eager to assist those in need.
 400 8400 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11811
 chef master~
@@ -198,6 +209,7 @@ this or that to make perfect his culinary masterpieces.
 911 33500 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11812
 warder warders Solanthus~
@@ -215,6 +227,7 @@ responsible for the upkeep of the common areas.
 1060 40000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11813
 lady young court~
@@ -231,6 +244,7 @@ perfectly.
 16 11 0 3d20+320 3d6+4
 590 11000 0
 6 6 2 0
+Maxmove: 50
 E
 #11814
 knight patrolling~
@@ -248,6 +262,7 @@ spring into action at a moment's notice, eager to assist any in need.
 395 8400 0
 8 8 2 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #11815
 lookout look out knight~
@@ -265,6 +280,7 @@ of trouble or unrest.
 400 8400 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11816
 priest young~
@@ -280,6 +296,7 @@ warm compassionate smile can be seen.
 11 14 5 5d4+190 2d8+2
 69 2900 2
 8 8 1 0
+Maxmove: 50
 E
 #11817
 woman somber looking~
@@ -295,6 +312,7 @@ over her head, obscuring her face.
 13 13 3 6d5+240 2d9+2
 123 6625 0
 8 8 2 0
+Maxmove: 50
 E
 #11818
 noble man portly~
@@ -310,6 +328,7 @@ eyes of deep brown and rosy cheeks.
 15 11 1 5d10+300 2d8+4
 311 8400 0
 8 8 1 0
+Maxmove: 50
 E
 #11819
 page young~
@@ -326,6 +345,7 @@ perfectly straight and puffs his chest out.
 14 12 2 6d8+240 2d8+4
 100 7000 0
 8 8 1 0
+Maxmove: 50
 E
 #11820
 merchant visiting~
@@ -341,6 +361,7 @@ her delicate face which seems to light up as she sees you looking her way.
 12 13 4 5d6+210 2d8+3
 222 4700 0
 8 8 2 0
+Maxmove: 50
 E
 #11821
 adventurer young~
@@ -358,6 +379,7 @@ makes him appear as though he is a force to be reckoned with.
 69 2900 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11822
 explorer seasoned~
@@ -375,6 +397,7 @@ and offering a courtly bow to all the ladies.
 0 11800 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11823
 daughter holy~
@@ -391,6 +414,7 @@ looking her way, then bows her head again and continues on her way.
 100 6625 2
 8 8 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11824
 citizen working class working-class woman~
@@ -407,6 +431,7 @@ hands appear over-worked she still offers a cheerful smile to those she meets.
 95 4700 0
 8 8 2 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11825
 woman tired looking tired-looking~
@@ -423,6 +448,7 @@ of firewood to take back to her home.
 611 4700 0
 8 8 2 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11826
 chief Solanthus garrison~
@@ -437,10 +463,11 @@ strength and warrior instincts are still quite apparent.  His sword hand rests
 near the hilt of his weapon, and his alert eyes periodically glance up from the
 maps on his desk to survey the area.    ~
 7600154 33685504 0 700 E
-29 0 -13 10d50+1450 4d7+10
+29 0 -13 10d50+8000 4d7+10
 1776 213000 3
 6 6 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11827
 member garrison Solanthus~
@@ -458,6 +485,7 @@ Solamnic-styled mustache with pride.
 495 11000 0
 8 8 1 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #11828
 warder Solanthus~
@@ -475,6 +503,7 @@ responsible for the upkeep of the common areas.
 711 25000 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11829
 sentry plate armor full~
@@ -492,6 +521,7 @@ pole-arm, at his side.
 711 33500 3
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #11830
 child young sick~
@@ -507,6 +537,7 @@ peaceful about his slumber.
 8 15 8 5d5+110 2d6+2
 0 800 0
 5 5 1 0
+Maxmove: 50
 E
 #11831
 boy sick young~
@@ -522,6 +553,7 @@ still alive.
 7 16 9 3d5+85 2d6+1
 0 400 0
 8 8 1 0
+Maxmove: 50
 E
 #11832
 kender imprisoned~
@@ -539,6 +571,7 @@ right out of it if he were so inclined.
 12 13 4 5d6+210 2d8+3
 0 4700 4
 8 8 1 0
+Maxmove: 50
 E
 #11833
 Imre shopkeep~
@@ -555,6 +588,7 @@ perfectly styled in the latest fashion.
 30 1 -14 6d33+1700 4d8+9
 0 250000 0
 8 8 2 0
+Maxmove: 50
 E
 #11834
 Daiton postmaster~
@@ -571,6 +605,7 @@ happy to stop and chat for a few moments.
 0 250000 0
 8 8 1 1
 BareHandAttack: 6
+Maxmove: 50
 E
 #11835
 Fione~
@@ -586,6 +621,7 @@ It is stitched with a small golden pineapple on the right shoulder.
 30 0 -14 10d33+1700 4d8+20
 0 250000 0
 8 8 2 3
+Maxmove: 50
 E
 #11836
 Wystan~
@@ -604,5 +640,6 @@ for a drink and a lighter meal can order from Wystan's bar menu.
 0 250000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 $
