@@ -731,7 +731,7 @@ void shopping_try(char *arg, struct char_data * ch,
    }
    else if(invalid_class(ch, obj))
    {
-      act("Those of your skills cannot use  $p.", FALSE, ch, obj, 0, TO_CHAR);
+      act("Those of your skills cannot use $p.", FALSE, ch, obj, 0, TO_CHAR);
       act("$n fumbles around with $p.", FALSE, ch, obj, 0, TO_ROOM);
    }
    else if(invalid_race(ch, obj))
@@ -741,7 +741,7 @@ void shopping_try(char *arg, struct char_data * ch,
    }
    else
    {
-      act("You try out $p.  It seems quite useable.", FALSE, ch, obj, 0, TO_CHAR);
+      act("You try out $p. It seems quite useable.", FALSE, ch, obj, 0, TO_CHAR);
       act("$n tries $p, it seems to suit $m well.", FALSE, ch, obj, 0, TO_ROOM);
    }
    return;
