@@ -648,7 +648,7 @@ const struct command_info cmd_info[] = {
   { "pour"     , "pour",    POS_RESTING, do_pour     , 1, SCMD_POUR },
   { "pounce"   , "pounce",  POS_STANDING, do_action   , 1, 0 },
   { "players"  , "play",    POS_DEAD    , do_players  , LVL_GOD, 0 },
-//  { "plip"     , "",  POS_RESTING , do_plip     , LVL_DEPTHEAD, 0 },
+  { "plip"     , "",        POS_RESTING , do_plip     , LVL_DEPTHEAD, 0 },
   { "pout"     , "pout",    POS_RESTING , do_action   , 1, 0 },
   { "prompt"   , "prompt",  POS_DEAD    , do_display  , 1, 0 },
   { "practice" , "prac",    POS_RESTING , do_practice , 1, 0 },
