@@ -320,7 +320,7 @@ impossible.  There is little vegetation this high up with only a few hearty
 plants able to survive in these conditions.  The pass continues its trek
 through the mountain to the north and west.    
 ~
-75 32768 5 0 0
+75 0 5 0 0
 D0
 ~
 ~
@@ -338,7 +338,7 @@ impossible.  There is little vegetation this high up with only a few hearty
 plants able to survive in these conditions.  The pass continues its trek
 through the mountain to the northeast and south.    
 ~
-75 32768 5 0 0
+75 0 5 0 0
 D2
 ~
 ~
@@ -357,7 +357,7 @@ still visible despite its apparent age.  The lines which have been deeply
 etched into the cliff face clearly from a large arrow which points to the pass
 which leads in a southeasterly direction.    
 ~
-75 25198592 5 0 0
+75 25165824 5 0 0
 D6
 ~
 ~
@@ -401,7 +401,7 @@ thrive at this altitude.  The pass is littered with fragments of rock and other
 debris which has slid down from the tallest peaks.  Other than the path itself,
 there is little evidence that anyone has travelled this way for some time.    
 ~
-75 32768 5 0 0
+75 0 5 0 0
 D5
 ~
 ~
@@ -419,7 +419,7 @@ The pass is littered with fragments of rock and other debris which has slid
 down from the tallest peaks.  Other than the path itself, there is little
 evidence that anyone has travelled this way for some time.    
 ~
-75 32768 5 0 0
+75 0 5 0 0
 D1
 ~
 ~
@@ -438,7 +438,7 @@ in the breeze which blows down from the mountain peaks.  A rather large
 outcropping of rock makes passage to the south impossible, however a gentle
 trail leads down the mountain to the north.    
 ~
-75 32768 5 0 0
+75 0 5 0 0
 D0
 ~
 ~
@@ -456,7 +456,7 @@ the Solamnic plains.  The ground continues to slope upwards to the south,
 following a narrow trail between the trees.  A more heavily forested trail
 leads south towards the foothills.    
 ~
-75 33024 5 0 0
+75 256 5 0 0
 D0
 ~
 ~
@@ -474,7 +474,7 @@ the west and south the ground slopes upward steeply.  A faint trail coming from
 between a few trees just below you and to the east leads southwards, twisting
 and turning its way higher into the mountains.    
 ~
-75 32768 5 0 0
+75 0 5 0 0
 D2
 ~
 ~
@@ -491,7 +491,7 @@ between them as the only obvious path to take.  To the west the ground
 continues to slope upwards ever more steeply while to the east it drops down to
 the Solamnic plains.    
 ~
-75 32768 4 0 0
+75 0 4 0 0
 D1
 ~
 ~
@@ -509,7 +509,7 @@ as they flatten out to form the Solamnic plains.  A thick sea of tall grasses
 sways back and forth in the breeze here punctuated occasionally by a knot of
 trees.    
 ~
-75 32768 4 0 0
+75 0 4 0 0
 D0
 ~
 ~
@@ -527,7 +527,7 @@ as they flatten out to form the Solamnic plains.  A thick sea of tall grasses
 sways back and forth in the breeze here punctuated occasionally by a knot of
 trees.    
 ~
-75 32768 4 0 0
+75 0 4 0 0
 D2
 ~
 ~
@@ -545,7 +545,7 @@ landscape, swaying gently in the breeze.  Large birds circle high overhead,
 searching for an easy meal.  The grasses to the south are trampled, revealing a
 faint trail leading up the hillside.    
 ~
-75 32768 4 0 0
+75 0 4 0 0
 D0
 ~
 ~
@@ -563,7 +563,7 @@ landscape, swaying gently in the breeze.  Large birds circle high overhead,
 searching for an easy meal.  The grasses to the south are trampled, revealing a
 faint trail leading up the hillside.    
 ~
-75 32772 4 0 0
+75 4 4 0 0
 D1
 ~
 ~
@@ -671,7 +671,7 @@ plants able to survive in these conditions.  The pass continues its trek
 through the mountain to the south and west.  To the east the treetops of a
 dense forest dominate the view.    
 ~
-75 32768 5 0 0
+75 0 5 0 0
 D2
 ~
 ~
@@ -691,7 +691,7 @@ through the mountain to the northwest and east.  Looking down the mountainside
 to the north offers a view of the dense forest which begins at the foot of the
 mountains.    
 ~
-75 32768 5 0 0
+75 0 5 0 0
 D1
 ~
 ~
@@ -710,7 +710,7 @@ the clearing to the west can fully be seen from this vantage point, and it
 would give any harden of heart a moment pause to reflect upon its simply
 perfection.    
 ~
-0 0 4 0 0
+75 0 4 0 0
 D3
 ~
 ~
@@ -733,7 +733,7 @@ round with bands of budding flowers of every color imaginable.  A down, ancient
 tree has made a comfortable bench to sit down upon and just take in the beauty
 that the gods themselves must have create.    
 ~
-0 0 2 0 0
+75 0 2 0 0
 D1
 ~
 ~
@@ -753,7 +753,7 @@ are relatively soft and give off a pleasant odor.  The ground constantly
 crunches underfoot, covered with a thick layer of fallen brown needles, now
 brittle and dry.    
 ~
-0 0 3 0 0
+75 0 3 0 0
 D3
 ~
 ~
@@ -773,7 +773,7 @@ are relatively soft and give off a pleasant odor.  The ground constantly
 crunches underfoot, covered with a thick layer of fallen brown needles, now
 brittle and dry.    
 ~
-0 0 3 0 0
+75 0 3 0 0
 D1
 ~
 ~
@@ -793,7 +793,7 @@ are relatively soft and give off a pleasant odor.  The ground constantly
 crunches underfoot, covered with a thick layer of fallen brown needles, now
 brittle and dry.    
 ~
-0 0 3 0 0
+75 0 3 0 0
 D1
 ~
 ~
@@ -813,7 +813,7 @@ are relatively soft and give off a pleasant odor.  The ground constantly
 crunches underfoot, covered with a thick layer of fallen brown needles, now
 brittle and dry.    
 ~
-0 0 3 0 0
+75 0 3 0 0
 D1
 ~
 ~
@@ -833,7 +833,7 @@ are relatively soft and give off a pleasant odor.  The ground constantly
 crunches underfoot, covered with a thick layer of fallen brown needles, now
 brittle and dry.    
 ~
-0 0 3 0 0
+75 0 3 0 0
 D6
 ~
 ~
@@ -853,7 +853,7 @@ are relatively soft and give off a pleasant odor.  The ground constantly
 crunches underfoot, covered with a thick layer of fallen brown needles, now
 brittle and dry.    
 ~
-0 0 3 0 0
+75 0 3 0 0
 D3
 ~
 ~
@@ -873,7 +873,7 @@ are relatively soft and give off a pleasant odor.  The ground constantly
 crunches underfoot, covered with a thick layer of fallen brown needles, now
 brittle and dry.    
 ~
-0 0 3 0 0
+75 0 3 0 0
 D1
 ~
 ~
@@ -1080,6 +1080,7 @@ door~
 1 0 7581
 S
 T 7570
+T 7
 #7570
 In the Center of a Disused Mine~
    You find yourself in the central shaft of a dark, disused mine.  The iron
