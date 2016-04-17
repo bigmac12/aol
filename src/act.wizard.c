@@ -814,7 +814,7 @@ void do_stat_character(struct char_data * ch, struct char_data * k)
   case SEX_NEUTRAL:    strcpy(buf, "NEUTRAL-SEX");   break;
   case SEX_MALE:       strcpy(buf, "MALE");          break;
   case SEX_FEMALE:     strcpy(buf, "FEMALE");        break;
-  default:             strcpy(buf, "ILLEGAL-SEX!!"); break;
+  default:             strcpy(buf, "ILLEGAL-SEX!"); break;
   }
 
   send_to_char(buf, ch);

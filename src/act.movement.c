@@ -2112,129 +2112,68 @@ ACMD(do_sleep)
 }
 
 
-
-
-
-ACMD(do_wake)
-
-{
-
+ACMD(do_wake) {
   struct char_data *vict;
-
   int self = 0;
-
-
 
   one_argument(argument, arg);
 
   if (*arg) {
-
-    if (GET_POS(ch) == POS_SLEEPING)
-
+    if (GET_POS(ch) == POS_SLEEPING) {
       send_to_char("Maybe you should wake yourself up first.\r\n", ch);
-
-    else if ((vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) == NULL)
-
+    } else if ((vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) == NULL) {
       send_to_char(NOPERSON, ch);
-
-    else if (vict == ch)
-
+    } else if (vict == ch) {
       self = 1;
-
-    else if (GET_POS(vict) > POS_SLEEPING)
-
+    } else if (GET_POS(vict) > POS_SLEEPING) {
       act("$E is already awake.", FALSE, ch, 0, vict, TO_CHAR);
-
-    else if (IS_AFFECTED(vict, AFF_SLEEP))
-
+    } else if (IS_AFFECTED(vict, AFF_SLEEP)) {
       act("You can't wake $M up!", FALSE, ch, 0, vict, TO_CHAR);
-
-    else if (IS_AFFECTED(vict, AFF_KNOCKOUT))
-
+    } else if (IS_AFFECTED(vict, AFF_KNOCKOUT)) {
       act("$N is unconscious..you can't wake $M up!", FALSE, ch, 0, vict, TO_CHAR);
-
-    else if (GET_POS(vict) < POS_SLEEPING)
-
+    } else if (GET_POS(vict) < POS_SLEEPING) {
       act("$E's in pretty bad shape!", FALSE, ch, 0, vict, TO_CHAR);
-
-    else {
-
+    } else {
       act("You wake $M up.", FALSE, ch, 0, vict, TO_CHAR);
-
       act("You are awakened by $n.", FALSE, ch, 0, vict, TO_VICT | TO_SLEEP);
+      act("$n awakens $N.", FALSE, ch, 0, vict, TO_ROOM);
 
       if (affected_by_spell(vict, SPELL_CRIPPLE))
-
         GET_POS(vict) = POS_RESTING;
 
       if (RIDING(ch))
-
         GET_POS(vict) = POS_RIDING;
-
       else
-
         GET_POS(vict) = POS_SITTING;
-
     }
 
-    if (!self)
-
+    if (!self) {
       return;
-
+    }
   }
 
-  if (IS_AFFECTED(ch, AFF_SLEEP))
-
+  if (IS_AFFECTED(ch, AFF_SLEEP)) {
     send_to_char("You can't wake up!\r\n", ch);
-
-  else if (IS_AFFECTED(ch, AFF_KNOCKOUT))
-
+  } else if (IS_AFFECTED(ch, AFF_KNOCKOUT)) {
     send_to_char("You are unconscious..you can't wake up!\r\n", ch);
-
-
-
-  else if (GET_POS(ch) > POS_SLEEPING)
-
+  } else if (GET_POS(ch) > POS_SLEEPING) {
     send_to_char("You are already awake...\r\n", ch);
-
-  else {
+  } else {
 
     act("$n awakens.", TRUE, ch, 0, 0, TO_ROOM);
 
-    if (affected_by_spell(ch, SPELL_CRIPPLE))
-
-    {
-
+    if (affected_by_spell(ch, SPELL_CRIPPLE)) {
       send_to_char("You awaken, still resting your legs.\r\n", ch);
-
       GET_POS(ch) = POS_RESTING;
-
-    }
-
-    else if (RIDING(ch)) {
-
-        send_to_char("You awaken, and sit up atop your mount.\r\n", ch);
-
+    } else if (RIDING(ch)) {
+      send_to_char("You awaken, and sit up atop your mount.\r\n", ch);
       GET_POS(ch) = POS_RIDING;
-
-    }
-
- else
-
-    {
-
+    } else {
       send_to_char("You awaken, and sit up.\r\n", ch);
-
       GET_POS(ch) = POS_SITTING;
-
     }
-
   }
-
 }
-
-
-
 
 
 ACMD(do_follow)

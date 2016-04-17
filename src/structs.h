@@ -268,10 +268,10 @@
 
 #define PRF_BRIEF       (1 << 0)  /* Room descs won't normally be shown	*/
 #define PRF_COMPACT     (1 << 1)  /* No extra CRLF pair before prompts	*/
-#define PRF_DEAF	(1 << 2)  /* Can't hear shouts			*/
-#define PRF_NOTELL	(1 << 3)  /* Can't receive tells		*/
-#define PRF_DISPHP	(1 << 4)  /* Display hit points in prompt	*/
-#define PRF_DETECT	(1 << 5)
+#define PRF_DEAF        (1 << 2)  /* Can't hear shouts			*/
+#define PRF_NOTELL      (1 << 3)  /* Can't receive tells		*/
+#define PRF_DISPHP      (1 << 4)  /* Display hit points in prompt	*/
+#define PRF_DETECT      (1 << 5)
 #define PRF_DISPMOVE	(1 << 6)  /* Display move points in prompt	*/
 #define PRF_AUTOEXIT	(1 << 7)  /* Display exits in a room		*/
 #define PRF_NOHASSLE	(1 << 8)  /* Aggr mobs won't attack		*/
@@ -279,25 +279,25 @@
 #define PRF_NOBANDAGE   (1 << 10)
 #define PRF_NOREPEAT	(1 << 11) /* No repetition of comm commands	*/
 #define PRF_HOLYLIGHT	(1 << 12) /* Can see in dark			*/
-#define PRF_COLOR_1	(1 << 13) /* Color (low bit)			*/
-#define PRF_COLOR_2	(1 << 14) /* Color (high bit)			*/
-#define PRF_NOWIZ	(1 << 15) /* Can't hear wizline			*/
-#define PRF_LOG1	(1 << 16) /* On-line System Log (low bit)	*/
-#define PRF_LOG2	(1 << 17) /* On-line System Log (high bit)	*/
+#define PRF_COLOR_1     (1 << 13) /* Color (low bit)			*/
+#define PRF_COLOR_2     (1 << 14) /* Color (high bit)			*/
+#define PRF_NOWIZ       (1 << 15) /* Can't hear wizline			*/
+#define PRF_LOG1        (1 << 16) /* On-line System Log (low bit)	*/
+#define PRF_LOG2        (1 << 17) /* On-line System Log (high bit)	*/
 #define PRF_NOTSELF     (1 << 18)
 #define PRF_DISGUISE    (1 << 19)
 #define PRF_HUNTED      (1 << 20)
 #define PRF_ROOMFLAGS	(1 << 21) /* Can see room flags (ROOM_x)	*/
-#define PRF_AFK		(1 << 22) /* AFK flag :)			*/
+#define PRF_AFK		    (1 << 22) /* AFK flag 			*/
 #define PRF_UNUSED_7    (1 << 23)
 #define PRF_QUEST       (1 << 24)
-#define PRF_LEVEL_FLAGS (1 << 25) /* so imm\imps can see level eq flags */
-#define PRF_INTRO	(1 << 26) /* PC for intro toggle                */
-#define PRF_NO_OOC	(1 << 27) /* No ooc chatter			*/
+#define PRF_LEVEL_FLAGS (1 << 25) /* So imm\imps can see level eq flags */
+#define PRF_INTRO	    (1 << 26) /* Intro toggle                */
+#define PRF_NO_OOC	    (1 << 27) /* No ooc chatter			*/
 #define PRF_NO_NEWBIE   (1 << 28) /* Don't hear the newbie line         */
 #define PRF_NO_CHAT     (1 << 29) /* The chat line is wiz/immchar only  */
 #define PRF_TIRED       (1 << 30) /* After stance                       */
-#define PRF_AUTOCON     (1 << 31) // player has auto consider turned on
+#define PRF_AUTOCON     (1 << 31) /* Player has auto consider turned on */
  
 /* Affect bits: used in char_data.char_specials.saved.affected_by */
 /* WARNING: In the world files, NEVER set the bits marked "R" ("Reserved") */
@@ -317,12 +317,12 @@
 #define AFF_PROTECT_EVIL      (1 << 12)	   /* Char protected from evil  */
 #define AFF_PROTECT_GOOD      (1 << 13)	   /* Char protected from good  */
 #define AFF_SLEEP             (1 << 14)	   /* (R) Char magically asleep	*/
-#define AFF_NOTRACK	      (1 << 15)	   /* Char can't be tracked	*/
+#define AFF_NOTRACK	          (1 << 15)	   /* Char can't be tracked	*/
 #define AFF_FLIGHT            (1 << 16)
-#define AFF_HASTE	      (1 << 17)	   /* Char moves rapidly        */
+#define AFF_HASTE	          (1 << 17)	   /* Char moves rapidly        */
 #define AFF_SNEAK             (1 << 18)	   /* Char can move quietly	*/
 #define AFF_HIDE              (1 << 19)	   /* Char is hidden		*/
-#define AFF_STANCE	      (1 << 20)	   /* Room for future expansion	*/
+#define AFF_STANCE	          (1 << 20)	   /* Room for future expansion	*/
 #define AFF_CHARM             (1 << 21)	   /* Char is charmed		*/
 #define AFF_POLYMORPH         (1 << 22)
 #define AFF_TIRED             (1 << 23)    /* Undead Timer              */
@@ -332,36 +332,36 @@
 #define AFF_KNOCKOUT          (1 << 27)    /* Knockout     */
 #define AFF_MAGIC_VEST        (1 << 28)    /* Magical Vestment          */
 #define AFF_CONCEAL_ALIGN     (1 << 29)    /* Cannot tell align         */
-#define AFF_TAMED	      (1 << 30)	   /* (R) Char has been tamed   */
+#define AFF_TAMED	          (1 << 30)	   /* (R) Char has been tamed   */
 #define AFF_JAWSTRIKE         (1 << 31) 
 
 /* Modes of connectedness: used by descriptor_data.state */
 
-#define CON_PLAYING	 0		/* Playing - Nominal state	*/
-#define CON_CLOSE	 1		/* Disconnecting		*/
+#define CON_PLAYING      0		/* Playing - Nominal state	*/
+#define CON_CLOSE        1		/* Disconnecting		*/
 #define CON_GET_NAME	 2		/* By what name ..?		*/
 #define CON_NAME_CNFRM	 3		/* Did I get that right, x?	*/
 #define CON_PASSWORD	 4		/* Password:			*/
 #define CON_NEWPASSWD	 5		/* Give me a password for x	*/
 #define CON_CNFPASSWD	 6		/* Please retype password:	*/
-#define CON_QSEX	 7		/* Sex?				*/
-#define CON_QCLASS	 8		/* Class?			*/
-#define CON_RMOTD	 9		/* PRESS RETURN after MOTD	*/
-#define CON_MENU	 10		/* Your choice: (main menu)	*/
-#define CON_EXDESC	 11		/* Enter a new description:	*/
+#define CON_QSEX         7		/* Sex?				*/
+#define CON_QCLASS       8		/* Class?			*/
+#define CON_RMOTD        9		/* PRESS RETURN after MOTD	*/
+#define CON_MENU         10		/* Your choice: (main menu)	*/
+#define CON_EXDESC       11		/* Enter a new description:	*/
 #define CON_CHPWD_GETOLD 12             /* Changing passwd: get old     */
 #define CON_CHPWD_GETNEW 13             /* Changing passwd: get new     */
 #define CON_CHPWD_VRFY   14		/* Verify new password		*/
-#define CON_DELCNF1	 15		/* Delete confirmation 1	*/
-#define CON_DELCNF2	 16		/* Delete confirmation 2	*/
-#define CON_OEDIT	 17		/*. OLC mode - object edit     .*/
-#define CON_REDIT	 18		/*. OLC mode - room edit       .*/
-#define CON_ZEDIT	 19		/*. OLC mode - zone info edit  .*/
-#define CON_MEDIT	 20		/*. OLC mode - mobile edit `   .*/
-#define CON_SEDIT	 21		/*. OLC mode - shop edit       .*/
+#define CON_DELCNF1      15		/* Delete confirmation 1	*/
+#define CON_DELCNF2      16		/* Delete confirmation 2	*/
+#define CON_OEDIT        17		/*. OLC mode - object edit     .*/
+#define CON_REDIT        18		/*. OLC mode - room edit       .*/
+#define CON_ZEDIT        19		/*. OLC mode - zone info edit  .*/
+#define CON_MEDIT        20		/*. OLC mode - mobile edit `   .*/
+#define CON_SEDIT        21		/*. OLC mode - shop edit       .*/
 #define CON_TRIGEDIT	 22		/*. OLC mode - trigger edit    .*/
 #define CON_QRACE        23             /* Race?                        */ 
-#define CON_QANSI	 24		/* ANSI colors YES? no		*/
+#define CON_QANSI	     24		/* ANSI colors YES? no		*/
 /*  PDH 12/ 2/98 - char gen  */
 #define CON_QSHORT_D     25             /* short description            */
 #define CON_QONELINE_D   26             /* one line description         */
@@ -495,21 +495,21 @@
 
 /* Take/Wear flags: used by obj_data.obj_flags.wear_flags */
 
-#define ITEM_WEAR_TAKE		(1 << 0)  /* Item can be takes		*/
-#define ITEM_WEAR_FINGER	(1 << 1)  /* Can be worn on finger	*/
-#define ITEM_WEAR_NECK		(1 << 2)  /* Can be worn around neck 	*/
-#define ITEM_WEAR_BODY		(1 << 3)  /* Can be worn on body 	*/
-#define ITEM_WEAR_HEAD		(1 << 4)  /* Can be worn on head 	*/
-#define ITEM_WEAR_LEGS		(1 << 5)  /* Can be worn on legs	*/
-#define ITEM_WEAR_FEET		(1 << 6)  /* Can be worn on feet	*/
-#define ITEM_WEAR_HANDS		(1 << 7)  /* Can be worn on hands	*/
-#define ITEM_WEAR_ARMS		(1 << 8)  /* Can be worn on arms	*/
-#define ITEM_WEAR_SHIELD	(1 << 9)  /* Can be used as a shield	*/
-#define ITEM_WEAR_ABOUT		(1 << 10) /* Can be worn about body 	*/
-#define ITEM_WEAR_WAIST 	(1 << 11) /* Can be worn around waist 	*/
-#define ITEM_WEAR_WRIST		(1 << 12) /* Can be worn on wrist 	*/
-#define ITEM_WEAR_WIELD		(1 << 13) /* Can be wielded		*/
-#define ITEM_WEAR_HOLD		(1 << 14) /* Can be held		*/
+#define ITEM_WEAR_TAKE          (1 << 0)  /* Item can be takes		*/
+#define ITEM_WEAR_FINGER        (1 << 1)  /* Can be worn on finger	*/
+#define ITEM_WEAR_NECK          (1 << 2)  /* Can be worn around neck 	*/
+#define ITEM_WEAR_BODY          (1 << 3)  /* Can be worn on body 	*/
+#define ITEM_WEAR_HEAD          (1 << 4)  /* Can be worn on head 	*/
+#define ITEM_WEAR_LEGS          (1 << 5)  /* Can be worn on legs	*/
+#define ITEM_WEAR_FEET          (1 << 6)  /* Can be worn on feet	*/
+#define ITEM_WEAR_HANDS         (1 << 7)  /* Can be worn on hands	*/
+#define ITEM_WEAR_ARMS          (1 << 8)  /* Can be worn on arms	*/
+#define ITEM_WEAR_SHIELD        (1 << 9)  /* Can be used as a shield	*/
+#define ITEM_WEAR_ABOUT         (1 << 10) /* Can be worn about body 	*/
+#define ITEM_WEAR_WAIST         (1 << 11) /* Can be worn around waist 	*/
+#define ITEM_WEAR_WRIST         (1 << 12) /* Can be worn on wrist 	*/
+#define ITEM_WEAR_WIELD         (1 << 13) /* Can be wielded		*/
+#define ITEM_WEAR_HOLD          (1 << 14) /* Can be held		*/
 #define ITEM_WEAR_FACE          (1 << 15) /* new position face          */
 #define ITEM_WEAR_EAR           (1 << 16) /* new position ear           */
 #define ITEM_WEAR_ANKLE         (1 << 17) /* new position ankle         */
@@ -545,7 +545,7 @@
 #define ITEM_ANTI_CLERIC   (1 << 13)    /* Not usable by clerics        */
 #define ITEM_ANTI_ROGUE    (1 << 14)    /* Not usable by rogues         */
 #define ITEM_ANTI_WARRIOR  (1 << 15)    /* Not usable by warriors       */
-#define ITEM_NOSELL	   (1 << 16)	/* Shopkeepers won't touch it	*/
+#define ITEM_NOSELL	       (1 << 16)	/* Shopkeepers won't touch it	*/
 #define ITEM_ANTI_KNIGHT   (1 << 17)	/* Not usable by knights        */
 #define ITEM_ANTI_PALADIN  (1 << 18)	/* Not usable by paladins       */
 #define ITEM_ANTI_RANGER   (1 << 19)	/* Not usable by rangers        */
@@ -570,7 +570,7 @@
 #define APPLY_INT               3	/* Apply to constitution	*/
 #define APPLY_WIS               4	/* Apply to wisdom		*/
 #define APPLY_CON               5	/* Apply to constitution	*/
-#define APPLY_CHA		6	/* Apply to charisma		*/
+#define APPLY_CHA		        6	/* Apply to charisma		*/
 #define APPLY_CLASS             7	/* Reserved			*/
 #define APPLY_LEVEL             8	/* Reserved			*/
 #define APPLY_AGE               9	/* Apply to age			*/

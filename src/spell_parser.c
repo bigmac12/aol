@@ -3642,7 +3642,6 @@ void mag_assign_spells(void)
 	 TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, 3,
          100, ATTR_WIS, 1, 99);
 
-
   spello(SPELL_STRENGTH, POS_FIGHTING,
 	 TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, 1,
          100, ATTR_WIS, 1, 99);
@@ -4089,7 +4088,7 @@ void mag_assign_spells(void)
          100, ATTR_WIS, 1, 99);
 
   spello(SPELL_WEB, POS_FIGHTING,
-         TAR_CHAR_ROOM, FALSE, MAG_AFFECTS, 2,
+         TAR_CHAR_ROOM | TAR_FIGHT_VICT, FALSE, MAG_AFFECTS, 2,
          100, ATTR_WIS, 1, 99);
 
   spello(SPELL_GUST_OF_WIND, POS_FIGHTING,

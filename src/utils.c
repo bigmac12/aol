@@ -747,52 +747,31 @@ void immcharlog(const char *str)
 
  */
 
-void sprintbit(bitvector_t bitvector, const char *names[], char *result)
-
-{
-
+void sprintbit(bitvector_t bitvector, const char *names[], char *result) {
   long nr;
-
-
-
   *result = '\0';
-
-
 
   for (nr = 0; bitvector; bitvector >>= 1) {
 
     if (IS_SET(bitvector, 1)) {
 
       if (*names[nr] != '\n') {
-
         strcat(result, names[nr]);
-
         strcat(result, " ");
-
-      } else
-
+      } else {
         strcat(result, "UNDEFINED ");
-
+      }
     }
 
-
-
-    if (*names[nr] != '\n')
-
+    if (*names[nr] != '\n') {
       nr++;
-
+    }
   }
 
-
-
-  if (!*result)
-
+  if (!*result) {
     strcpy(result, "NOBITS ");
-
+  }
 }
-
-
-
 
 
 void sprintspellbit(bitvector_t bitvector, const char *names[], char *result)

@@ -1106,29 +1106,35 @@ ACMD(do_display)
     send_to_char("Monsters don't really need displays.  Go away.\r\n", ch);
     return;
   }
+
   skip_spaces(&argument);
 
   if (!*argument) {
     send_to_char("Usage: prompt { { H | V } | all | none }\r\n", ch);
     return;
   }
-  if ((!str_cmp(argument, "on")) || (!str_cmp(argument, "all")))
+
+  if ((!str_cmp(argument, "on")) || (!str_cmp(argument, "all"))) {
     SET_BIT(PRF_FLAGS(ch), PRF_DISPHP | PRF_DISPMOVE);
-  else {
+  } else if (!str_cmp(argument, "none")) {
+    // Special case for turning off the prompt since C does not like
+    // using str_cmp (or the native "strcmp") in a case statement.
+    REMOVE_BIT(PRF_FLAGS(ch), PRF_DISPHP | PRF_DISPMOVE);
+  } else {
     REMOVE_BIT(PRF_FLAGS(ch), PRF_DISPHP | PRF_DISPMOVE);
 
     for (i = 0; i < strlen(argument); i++) {
       switch (LOWER(argument[i])) {
-      case 'h':
-	SET_BIT(PRF_FLAGS(ch), PRF_DISPHP);
-	break;
-      case 'v':
-	SET_BIT(PRF_FLAGS(ch), PRF_DISPMOVE);
-	break;
-      default:
-        send_to_char("Usage: prompt { { H | V } | all | none }\r\n", ch);
-	return;
-	break;
+        case 'h':
+            SET_BIT(PRF_FLAGS(ch), PRF_DISPHP);
+            break;
+        case 'v':
+            SET_BIT(PRF_FLAGS(ch), PRF_DISPMOVE);
+            break;
+        default:
+            send_to_char("Usage: prompt { { H | V } | all | none }\r\n", ch);
+            return;
+            break;
       }
     }
   }
@@ -3089,7 +3095,7 @@ ACMD(do_makeleader)
 
       add_follower(f->follower, vict);
       GET_NAME_II(ch, f->follower, chname);
-      sprintf(msg, "%s has changed the party leader to $N.  You are now following $M.", chname);
+      sprintf(msg, "%s has made $N the group leader.  You are now following $M.", chname);
       FREE_NAME(chname);
       act(msg, FALSE, f->follower, 0, vict, TO_CHAR);
     }
@@ -3100,7 +3106,7 @@ ACMD(do_makeleader)
   stop_follower(ch);
   add_follower(ch, vict);
   act("You have changed the party leader to $N.  You are now following $M.", FALSE, ch, 0, vict, TO_CHAR);
-  act("$n has changed the party leader to you.  Everyone in the party is now following you.", FALSE, ch, 0, vict, TO_VICT);
+  act("$n has made you the group leader.  Everyone in the party is now following you.", FALSE, ch, 0, vict, TO_VICT);
 //  vict->master = NULL;
 }
 
