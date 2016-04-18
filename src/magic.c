@@ -899,25 +899,25 @@ void mag_damage(int level, struct char_data * ch, struct char_data * victim, int
         break;
 
     case SPELL_CALL_LIGHTNING:
-        if (weather_info.sky < SKY_RAINING)
-        {
-            send_to_char("There is no storm to call it from right now.\r\n", ch);
-            return;
-        }
+        // if (weather_info.sky < SKY_RAINING)
+        // {
+        //     send_to_char("There is no storm to call it from right now.\r\n", ch);
+        //     return;
+        // }
 
         dam = dice(MIN(level, 15), 20);
 
-        if (weather_info.sky != SKY_LIGHTNING)
-            dam >>= 1;
+        // if (weather_info.sky != SKY_LIGHTNING)
+        //     dam >>= 1;
 
         break;
 
     case SPELL_SUNRAY:
-        if ((weather_info.sunlight == SUN_DARK) || (weather_info.sky > SKY_CLOUDY) || !OUTSIDE(ch))
-        {
-            send_to_char("Your sunray fizzles before reaching the target.\r\n", ch);
-            return;
-        }
+        // if ((weather_info.sunlight == SUN_DARK) || (weather_info.sky > SKY_CLOUDY) || !OUTSIDE(ch))
+        // {
+        //     send_to_char("Your sunray fizzles before reaching the target.\r\n", ch);
+        //     return;
+        // }
 
         dam = dice(3, 20) + 90;
 
@@ -926,18 +926,19 @@ void mag_damage(int level, struct char_data * ch, struct char_data * victim, int
             dam = dice(6, 20) + 120;
         }
 
-        if (weather_info.sky > SKY_CLOUDLESS)
-            dam /= 2;
+        // if (weather_info.sky > SKY_CLOUDLESS)
+        //     dam /= 2;
 
-        if (weather_info.sunlight != SUN_LIGHT)
-            dam /= 2;
+        // if (weather_info.sunlight != SUN_LIGHT)
+        //     dam /= 2;
 
         if (IS_UNDEAD(victim))
         {
-            if (GET_LEVEL(victim) < 20)
-                dam *= 3;
-            else
-                dam *= 2;
+            // if (GET_LEVEL(victim) < 20)
+            //     dam *= 3;
+            // else
+            //     dam *= 2;
+            dam *= 3;
         }
 
         break;
@@ -3057,6 +3058,7 @@ for (i = 0; i < NUM_WEARS; i++)
     af[0].modifier = 0;
 
     to_vict = "A blade of fire comes into existence.";
+    to_room = "A blade of fire manifests in the hands of $n.";
 
     break;
 

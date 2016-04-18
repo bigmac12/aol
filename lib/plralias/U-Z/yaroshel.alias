@@ -1,4 +1,9 @@
 2
+sr
+11
+c sunray $*
+1
+2
 af
 3
 aff
@@ -57,11 +62,6 @@ c moonbeam $*
 up
 11
 unpoison $*
-1
-2
-sr
-11
-c sunray $*
 1
 3
 pfe
