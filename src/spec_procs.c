@@ -376,7 +376,6 @@ SPECIAL(guild)
 }
 
 
-
 SPECIAL(dump)
 {
   struct obj_data *k;
@@ -502,6 +501,8 @@ SPECIAL(mayor)
 *  General special procedures for mobiles                             *
 ******************************************************************** */
 
+SPECIAL(auto_healer) {
+}
 
 void npc_steal(struct char_data * ch, struct char_data * victim)
 {
@@ -673,7 +674,6 @@ SPECIAL(guild_guard)
 }
 
 
-
 SPECIAL(puff)
 {
   ACMD(do_say);
@@ -700,7 +700,6 @@ SPECIAL(puff)
 }
 
 
-
 SPECIAL(fido)
 {
 
@@ -723,7 +722,6 @@ SPECIAL(fido)
   }
   return (FALSE);
 }
-
 
 
 SPECIAL(janitor)

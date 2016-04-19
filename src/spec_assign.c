@@ -98,6 +98,7 @@ int assign_spec(int mob, int spec)
   SPECIAL(cleric);
   SPECIAL(shop_keeper);
   SPECIAL(auto_equip_newbie);
+  SPECIAL(auto_healer);
 
   if (rnum < 0)
     return 0;
@@ -145,6 +146,9 @@ int assign_spec(int mob, int spec)
     case 11:
       ASSIGNMOB(mob, auto_equip_newbie);
       break;
+    case 12:
+        ASSIGNMOB(mob, auto_healer);
+        break;
     default:
       mob_index[rnum].func = 0;
       return 0;
