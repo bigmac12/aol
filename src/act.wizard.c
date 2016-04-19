@@ -4281,21 +4281,23 @@ ACMD(do_award) {
     send_to_char("That character is already at maximum level.\r\n", ch);
     return;
   } else {
-    int bonus_multiplier = GET_RPFACTOR(vict)/100;
+    int bonus_multiplier = GET_RPFACTOR(vict) / 100;
     int level_bottom_xp = level_exp(GET_CLASS(vict), GET_LEVEL(vict));
-    int level_top_xp = level_exp(GET_CLASS(vict), GET_LEVEL(vict) + 1);
+    int level_top_xp = level_exp(GET_CLASS(vict), GET_LEVEL(vict) + 1);  // Should I -1 here?
 
-    xp_to_award = (level_top_xp - level_bottom_xp) * percent_to_award/100 * bonus_multiplier;
+    xp_to_award = (level_top_xp - level_bottom_xp) * (percent_to_award / 100) * bonus_multiplier;
 
     // If award puts them over, calc the difference between where they are
     // and what the remainder will be.
-    if ((GET_EXP(vict) + xp_to_award) > level_top_xp) {
+    // if ((GET_EXP(vict) + xp_to_award) > level_top_xp) {
+        // 80%, award 25%
         // int amount, remainder;
+        // amount = GET_EXP(vict) - level_top_xp
         // gain_exp(vict, amount);
         // GET_EXP(vict) += remainder;
-    } else {
-        GET_EXP(vict) += xp_to_award;
-    }
+    // } else {
+    GET_EXP(vict) += xp_to_award;
+    // }
 
     GET_NAME(ch, chname);
     GET_NAME(vict, victname);

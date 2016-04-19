@@ -7,16 +7,16 @@ A large boulder lies in front of a crack in the mountain.~
 0 0 0 0
 5993 0 0 0 -1
 E
+key hole keyhole~
+   A large hole in the outward face of the boulder looks like it might accept a
+key of some sort.    
+~
+E
 boulder metal odd~
    Though it appears, at first, to be a typical boulder like any other, there
 is something about it that catches the eye.  In the outward-facing side of the
 boulder, clearly made by the hands of a craftsman, is a hole that appears to
 fit a key of some kind.    
-~
-E
-key hole keyhole~
-   A large hole in the outward face of the boulder looks like it might accept a
-key of some sort.    
 ~
 #7502
 key huge metal key~
@@ -147,18 +147,6 @@ A huge, colourful vendor's cart has been disassembled to display its wares.~
 0 0 0 0
 3000 0 0 1 -1
 E
-cart huge colourful vendor's vendor~
-   This cart is of the type often used by travelling merchants.  It is
-enormous, and would require a beast of burden to move it along.  When the
-merchant finds a place to set up shop, the wheels can be fixed to keep it from
-rolling away.  The walls of the cart then unfold, and the countless hidden
-shelves and racks can display an array of items for sale.  This particular cart
-has been painted all sorts of gaudy colours, and flags of bright purple,
-brilliant blue, fiery red and vibrant green adorn every corner.  There are too
-many kinds of items on display to count, though the most useful ones are
-displayed most prominently.  There is a sign on the front of the cart.    
-~
-E
 sign writing bright~
 The sign reads in bright letters:
 
@@ -171,6 +159,18 @@ The sign reads in bright letters:
   (and then in much drabber letters below that:)
 
               &KCash and Carry, No Credit&n
+~
+E
+cart huge colourful vendor's vendor~
+   This cart is of the type often used by travelling merchants.  It is
+enormous, and would require a beast of burden to move it along.  When the
+merchant finds a place to set up shop, the wheels can be fixed to keep it from
+rolling away.  The walls of the cart then unfold, and the countless hidden
+shelves and racks can display an array of items for sale.  This particular cart
+has been painted all sorts of gaudy colours, and flags of bright purple,
+brilliant blue, fiery red and vibrant green adorn every corner.  There are too
+many kinds of items on display to count, though the most useful ones are
+displayed most prominently.  There is a sign on the front of the cart.    
 ~
 #7564
 cap green thin yellow feather small~
