@@ -1087,7 +1087,7 @@ ACMD(do_control_undead)
     return;
   }
 
-  percent = number(1, 101) + (GET_LEVEL(victim) * 2);
+  percent = number(1, 60) + (GET_LEVEL(victim));
 
   if ((GET_LEVEL(victim) > MIN(30, GET_LEVEL(ch))) ||
        affected_by_spell(victim, SPELL_IMPERVIOUS_MIND) ||
@@ -1121,7 +1121,7 @@ ACMD(do_control_undead)
     }
   }
 
-  WAIT_STATE(ch, PULSE_VIOLENCE * 2);
+  WAIT_STATE(ch, PULSE_VIOLENCE * 1);
 
   return;
 }

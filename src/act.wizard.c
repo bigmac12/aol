@@ -4285,7 +4285,7 @@ ACMD(do_award) {
     int level_bottom_xp = level_exp(GET_CLASS(vict), GET_LEVEL(vict));
     int level_top_xp = level_exp(GET_CLASS(vict), GET_LEVEL(vict) + 1);  // Should I -1 here?
 
-    xp_to_award = (level_top_xp - level_bottom_xp) * (percent_to_award / 100) * bonus_multiplier;
+    xp_to_award = (level_top_xp - level_bottom_xp) * percent_to_award/100 * bonus_multiplier;
 
     // If award puts them over, calc the difference between where they are
     // and what the remainder will be.
