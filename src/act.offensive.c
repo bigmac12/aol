@@ -1121,8 +1121,9 @@ ACMD(do_control_undead)
     }
   }
 
-  return;
+  WAIT_STATE(ch, PULSE_VIOLENCE * 2);
 
+  return;
 }
 
 ACMD(do_jawstrike)
