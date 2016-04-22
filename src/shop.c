@@ -681,10 +681,10 @@ void shopping_buy(char *arg, struct char_data * ch,
   }
 }
 
-void shopping_try(char *arg, struct char_data * ch,
-                       struct char_data * keeper, int shop_nr)
+void shopping_try(char *arg, struct char_data * ch, struct char_data * keeper, int shop_nr)
 {
   struct obj_data *obj;
+  int object_equip_threshold = 5;
 
   if (!(is_ok(keeper, ch, shop_nr)))
     return;
@@ -724,7 +724,7 @@ void shopping_try(char *arg, struct char_data * ch,
       act("You are too good to use $p.", FALSE, ch, obj, 0, TO_CHAR);
       act("$n fumbles around with $p.", FALSE, ch, obj, 0, TO_ROOM);
    }
-   else if(GET_OBJ_LEVEL(obj) > (GET_LEVEL(ch) + 7))
+   else if(GET_OBJ_LEVEL(obj) > (GET_LEVEL(ch) + object_equip_threshold))
    {
       act("You are not skilled enough to use $p.", FALSE, ch, obj, 0, TO_CHAR);
       act("$n fumbles around with $p.", FALSE, ch, obj, 0, TO_ROOM);
@@ -741,7 +741,7 @@ void shopping_try(char *arg, struct char_data * ch,
    }
    else
    {
-      act("You try out $p. It seems quite useable.", FALSE, ch, obj, 0, TO_CHAR);
+      act("You try out $p. It seems quite usable.", FALSE, ch, obj, 0, TO_CHAR);
       act("$n tries $p, it seems to suit $m well.", FALSE, ch, obj, 0, TO_ROOM);
    }
    return;

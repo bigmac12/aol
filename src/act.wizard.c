@@ -109,10 +109,8 @@ ACMD(do_echo)
   }
 }
 
-ACMD(do_iamgod) 
-{
-
-  char arg[MAX_STRING_LENGTH]; 
+ACMD(do_iamgod) {
+  char arg[MAX_STRING_LENGTH];
   char name[MAX_STRING_LENGTH];
   
   GET_NAME(ch, chname);
@@ -184,8 +182,7 @@ ACMD(do_iamgod)
   return;
 }
 
-ACMD(do_send)
-{
+ACMD(do_send) {
   struct char_data *vict;
 
   half_chop(argument, arg, buf);
@@ -209,7 +206,6 @@ ACMD(do_send)
     send_to_char(buf2, ch);
   }
 }
-
 
 
 /* take a string, and return an rnum.. used for goto, at, etc.  -je 4/6/93 */
@@ -266,7 +262,6 @@ room_rnum find_target_room(struct char_data * ch, char *rawroomstr)
   }
   return location;
 }
-
 
 
 ACMD(do_at)
@@ -326,7 +321,6 @@ ACMD(do_goto)
   act(buf, TRUE, ch, 0, 0, TO_ROOM);
   look_at_room(ch, 0);
 }
-
 
 
 ACMD(do_trans)
@@ -429,7 +423,6 @@ ACMD(do_teleport)
 }
 
 
-
 ACMD(do_vnum)
 {
   two_arguments(argument, buf, buf2);
@@ -446,6 +439,7 @@ ACMD(do_vnum)
     if (!vnum_object(buf2, ch))
       send_to_char("No objects by that name.\r\n", ch);
 }
+
 
 // Prevent crashing with this command.
 ACMD(do_vwear)
@@ -472,6 +466,7 @@ ACMD(do_vwear)
 
   return;
 }
+
 
 void do_stat_room(struct char_data * ch)
 {
@@ -584,7 +579,6 @@ void do_stat_room(struct char_data * ch)
   /* check the room for a script */
   do_sstat_room(ch);
 }
-
 
 
 void do_stat_object(struct char_data * ch, struct obj_data * j)
@@ -1128,6 +1122,7 @@ void do_stat_character(struct char_data * ch, struct char_data * k)
     do_sstat_character(ch, k);
 }
 
+
 ACMD(do_mysql_convert) {
 
   struct char_file_u tmp_store;
@@ -1148,6 +1143,7 @@ ACMD(do_mysql_convert) {
   }
 
 }
+
 
 ACMD(do_stat)
 {
@@ -1346,7 +1342,6 @@ ACMD(do_snoop)
 }
 
 
-
 ACMD(do_switch)
 {
   struct char_data *victim;
@@ -1407,7 +1402,6 @@ ACMD(do_return)
     ch->desc = NULL;
   }
 }
-
 
 
 ACMD(do_load)
@@ -1478,7 +1472,6 @@ ACMD(do_load)
 }
 
 
-
 ACMD(do_vstat)
 {
   struct char_data *mob;
@@ -1517,8 +1510,6 @@ ACMD(do_vstat)
   } else
     send_to_char("That'll have to be either 'obj' or 'mob'.\r\n", ch);
 }
-
-
 
 
 /* clean a room of all mobiles and objects */
@@ -1580,7 +1571,6 @@ ACMD(do_purge)
 }
 
 
-
 static const char *logtypes[] = {
 "off", "brief", "normal", "complete", "\n"};
 
@@ -1591,8 +1581,7 @@ ACMD(do_syslog)
   one_argument(argument, arg);
 
   if (!*arg) {
-    tp = ((PRF_FLAGGED(ch, PRF_LOG1) ? 1 : 0) +
-	  (PRF_FLAGGED(ch, PRF_LOG2) ? 2 : 0));
+    tp = ((PRF_FLAGGED(ch, PRF_LOG1) ? 1 : 0) + (PRF_FLAGGED(ch, PRF_LOG2) ? 2 : 0));
     sprintf(buf, "Your syslog is currently %s.\r\n", logtypes[tp]);
     send_to_char(buf, ch);
     return;
@@ -1696,6 +1685,7 @@ ACMD(do_advance)
   gain_exp_regardless(victim, level_exp(GET_CLASS(victim), newlevel) - GET_EXP(victim));
   save_char(victim, NOWHERE);
 }
+
 
 ACMD(do_restore) {
   struct char_data *vict;
@@ -1808,6 +1798,7 @@ ACMD(do_invis)
   }
 }
 
+
 ACMD(do_zecho)
 {
   struct descriptor_data *pt;
@@ -1838,6 +1829,7 @@ ACMD(do_zecho)
   }
 }
 
+
 ACMD(do_aecho)
 {
   struct descriptor_data *pt;
@@ -1858,6 +1850,7 @@ ACMD(do_aecho)
       send_to_char(buf, ch);
   }
 }
+
 
 ACMD(do_gecho)
 {
@@ -1921,7 +1914,6 @@ ACMD(do_poofset)
 }
 
 
-
 ACMD(do_dc)
 {
   struct descriptor_data *d;
@@ -1973,7 +1965,6 @@ ACMD(do_dc)
     log(buf);
   }
 }
-
 
 
 ACMD(do_wizlock)
@@ -2038,7 +2029,6 @@ ACMD(do_date)
 
   send_to_char(buf, ch);
 }
-
 
 
 ACMD(do_last)
@@ -2127,7 +2117,6 @@ ACMD(do_force)
     }
   }
 }
-
 
 
 ACMD(do_wiznet)
@@ -2265,6 +2254,7 @@ ACMD(do_wiznet)
 /* I'm tired of accidentally mischanneling. --gan, 01/01/2002 (Nuitari)
  */
 
+
 ACMD(do_impnet)
 {
 	struct descriptor_data *d;
@@ -2327,6 +2317,7 @@ ACMD(do_impnet)
 
 }
 
+
 ACMD(do_zreset)
 {
   void reset_zone(int zone);
@@ -2372,6 +2363,7 @@ ACMD(do_zreset)
 /*
  *  General fn for wizcommands of the sort: cmd <player>
  */
+
 
 ACMD(do_wizutil)
 {
@@ -2537,6 +2529,7 @@ ACMD(do_wizutil)
 
 /* single zone printing fn used by "show zone" so it's not repeated in the
    code 3 times ... -je, 4/6/93 */
+
 
 void print_zone_to_buf(char *bufptr, int zone)
 {
@@ -3766,6 +3759,16 @@ ACMD(do_olist)
 }
 
 
+// List objects by flag
+ACMD(do_oflag) {
+}
+
+
+// List objects by type
+ACMD(do_otype) {
+}
+
+
 /*
  *  PDH  1/15/99
  *  for new character approval/rejection
@@ -3809,9 +3812,9 @@ ACMD(do_approve)
     } else if (!victim->desc) {
       send_to_char("They're linkdead.\r\n", ch);
     } else if ( STATE(victim->desc) != CON_PLAYING ) {
-      send_to_char("He/she isn't in CON_PLAYING mode yet.\r\n", ch);
+      send_to_char("That character isn't in CON_PLAYING mode yet.\r\n", ch);
     } else if (GET_APPROVED(victim) != 0) {
-      send_to_char("He/she has already been approved.\r\n", ch);
+      send_to_char("That character has already been approved.\r\n", ch);
     } else {
       send_to_char(OK, ch);
       send_to_char("Your character has been approved.", victim);
@@ -3843,9 +3846,9 @@ ACMD(do_approve)
     } else if (!victim->desc) {
       send_to_char("They're linkdead.\r\n", ch);
     } else if ( STATE(victim->desc) != CON_PLAYING ) {
-      send_to_char("He/she isn't in CON_PLAYING mode yet.\r\n", ch);
+      send_to_char("That character isn't in CON_PLAYING mode yet.\r\n", ch);
     } else if (GET_LEVEL(victim) != 0) {
-      send_to_char("He/she has already been approved.\r\n", ch);
+      send_to_char("That character has already been approved.\r\n", ch);
     } else if ( ! *argument) {
       send_to_char("What is your reason for rejecting?\r\n", ch);
     } else {
