@@ -4,7 +4,7 @@ m12800 deathload of o12801, 12803, 12804, 12808~
 ~
 eval objload %random.12%
 if (%objload% == 1) then
-mload obj 12801
+mload obj 12803
 elseif (%objload% == 2) then
 mload obj 12803
 elseif (%objload% == 3) then
