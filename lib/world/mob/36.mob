@@ -13,6 +13,7 @@ patrols the village.
 52 400 3
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #3601
 young boy~
@@ -28,6 +29,7 @@ soaked in sweat.
 21 85 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #3602
 farmer wild wild-eyed pitchfork~
@@ -43,6 +45,7 @@ and torn, and his eyes are cloudy with dementia.
 7 17 10 2d5+70 2d5+2
 35 175 0
 8 8 1 0
+Maxmove: 50
 E
 #3603
 old lady~
@@ -57,6 +60,7 @@ struggles to make out the words in the book.
 5 17 11 2d5+65 2d5+0
 20 85 0
 8 8 2 0
+Maxmove: 50
 E
 #3604
 hound sleek blazing~
@@ -75,6 +79,7 @@ meal.  The hound is well-groomed, quite possibly the familiar of a dark master.
 22 85 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #3605
 girl youthful~
@@ -89,6 +94,7 @@ giggles and runs away.
 4 18 12 1d5+45 1d8+1
 10 50 0
 8 8 2 0
+Maxmove: 50
 E
 #3606
 woodpecker speckled downy~
@@ -107,6 +113,7 @@ hollowly throughout the windmill.    ~
 5 25 0
 8 8 0 0
 BareHandAttack: 11
+Maxmove: 50
 E
 #3607
 child small ghostly~
@@ -124,6 +131,7 @@ mother amongst the rubble.
 5 25 10
 8 8 2 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #3608
 frog bloated boreal wood frog flicks tongue~
@@ -142,6 +150,7 @@ agitation as you draw near.
 6 25 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #3609
 black snake~
@@ -155,6 +164,7 @@ fine yellow spots.
 3 19 13 1d5+25 1d6+1
 3 25 0
 8 8 0 0
+Maxmove: 50
 E
 #3610
 weary trader~
@@ -169,6 +179,7 @@ he slowly pushes an empty wagon along the busy street.
 35 175 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #3611
 large drunk~
@@ -183,6 +194,7 @@ mutters to himself as he tries in vain to get up from the filthy ground.
 20 85 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #3612
 villager~
@@ -197,6 +209,7 @@ the piercing sunlight.  On her right hand is a basket of vegetables and fruits.
 6 17 10 2d5+70 2d5+2
 35 175 0
 8 8 2 0
+Maxmove: 50
 E
 #3613
 village healer~
@@ -212,19 +225,21 @@ dirty with stains.
 70 800 2
 8 8 2 0
 BareHandAttack: 7
+Maxmove: 50
 E
 #3614
-large black brown cow~
+&nthe large &Kblack&n and &ybrown&n patched cow~
 the large black and brown patched cow~
 A large black and brown patched cow chews slowly on his cud.
 ~
    The cow is rather large with dark brown eyes.  It looks up at you as it
 continues to chew on her cud.    
 ~
-10 0 0 0 E
+16777226 1024 0 0 E
 4 18 12 1d5+45 1d8+1
 10 50 0
 8 8 2 0
+Maxmove: 50
 E
 #3615
 tired woman~
@@ -239,6 +254,7 @@ fatigue and it seems that she hasn't had a good rest for a while.
 5 17 11 2d5+65 2d5+0
 22 85 0
 8 8 2 0
+Maxmove: 50
 E
 #3616
 man shifty-looking shifty looking~
@@ -256,6 +272,7 @@ in a long while.
 30 1 -14 3d33+1700 4d8+9
 999999 0 0
 8 8 1 0
+Maxmove: 50
 E
 T 3601
 $
