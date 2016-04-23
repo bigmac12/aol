@@ -14,6 +14,7 @@ with a suspicious stare.
 695 14000 0
 8 8 1 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #13601
 boy young worn clothing~
@@ -31,6 +32,7 @@ air, as if brandishing an intimidating weapon.
 21 85 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #13602
 homemaker woman tired housewife~
@@ -46,6 +48,7 @@ exhaustion, she whistles cheerfully to herself as she goes about her chores.
 12 13 4 5d6+210 2d8+3
 70 4700 0
 8 8 2 0
+Maxmove: 50
 E
 #13603
 woman elderly greying hair~
@@ -61,6 +64,7 @@ glasses and seems to be enjoying her book.
 10 15 8 5d5+110 2d6+2
 60 800 0
 8 8 2 0
+Maxmove: 50
 E
 #13604
 gentleman elderly man~
@@ -76,6 +80,7 @@ pale color of grey, and his expression is warm though tired.
 11 14 5 5d4+190 2d8+2
 44 2900 0
 8 8 1 0
+Maxmove: 50
 E
 #13605
 girl youthful dimples~
@@ -91,6 +96,7 @@ smiles in your direction before giggling and running away.
 4 18 12 1d5+45 1d8+1
 10 50 0
 8 8 2 0
+Maxmove: 50
 E
 #13606
 terrapin turtle diamondback~
@@ -109,6 +115,7 @@ crustaceans, fish, insects, and mollusks.
 0 25 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #13607
 watchman man village~
@@ -125,6 +132,7 @@ surrounding landscape: always alert for anything out of the ordinary.
 654 11800 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #13608
 bird black red-winged~
@@ -141,6 +149,7 @@ his otherwise black body.  Females are brown with brown and tan streaks.
 0 25 0
 8 8 1 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #13609
 snake greenish water~
@@ -158,6 +167,7 @@ bearing its fangs.
 0 50 0
 8 8 0 9
 BareHandAttack: 4
+Maxmove: 50
 E
 #13610
 fisherman man hip-waders~
@@ -175,6 +185,7 @@ looking in his direction.  He lifts his fishing basket to show of his catch.
 104 6625 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #13611
 patron intoxicated man~
@@ -192,6 +203,7 @@ has a friendly smile that shows off his dimples.
 60 7000 0
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #13612
 woman young villager~
@@ -207,6 +219,7 @@ as she makes her way towards the waterfront.
 12 13 4 5d6+210 2d8+3
 70 4700 0
 8 8 2 0
+Maxmove: 50
 E
 #13613
 alligator~
@@ -225,21 +238,23 @@ for a log which enables him to draw them near for the kill.
 0 8400 0
 8 8 1 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #13614
 cow black white large patched~
-a large black and white patched cow~
+&na large &Kblack&n and &Wwhite&N patched cow&n~
 A large black and white patched cow chews slowly on her cud.
 ~
    This large white cow is covered with black patches like most dairy cows.  
 She meanders through the pen, quietly chewing her cud.  Her dark brown eyes are
 round and fringed with thick lashes.    
 ~
-8 0 0 0 E
+16777224 1024 0 0 E
 10 14 6 5d4+160 2d7+2
 0 1900 0
 8 8 2 0
 BareHandAttack: 4
+Maxmove: 60
 E
 #13615
 woman tired~
@@ -255,6 +270,7 @@ work, and she appears as though she could use a peaceful night's rest.
 12 13 4 5d6+210 2d8+3
 66 4700 0
 8 8 2 0
+Maxmove: 50
 E
 #13637
 Therima barkeeper shopkeeper shopkeep~
@@ -273,6 +289,7 @@ charming smile.
 9999999 0 0
 8 8 2 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #13679
 Felind shopkeeper shopkeep~
@@ -290,6 +307,7 @@ lines on her face enhance her large and exotic features.
 99999999 0 0
 8 8 2 0
 BareHandAttack: 6
+Maxmove: 50
 E
 #13690
 Rilade innkeeper~
@@ -306,5 +324,6 @@ for a room to rent.
 0 0 0
 8 8 2 3
 BareHandAttack: 6
+Maxmove: 50
 E
 $

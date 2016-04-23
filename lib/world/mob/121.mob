@@ -150,7 +150,7 @@ next step.
 7 16 9 3d5+85 2d6+1
 0 400 0
 8 8 0 0
-Maxmove: 400
+Maxmove: 200
 E
 #12120
 traveller dusty dark clothing~
@@ -597,7 +597,7 @@ arched neck.  He is proud and spirited, and is probably as noble as any knight.
 300 7000 0
 8 8 1 0
 BareHandAttack: 5
-Maxmove: 400
+Maxmove: 200
 E
 #12188
 knight~
