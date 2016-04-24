@@ -4181,7 +4181,7 @@ for (i = 0; i < NUM_WEARS; i++)
 
     accum_affect = TRUE;
 
-    to_vict = "You suddenly feel more susceptable to magical assault.";
+    to_vict = "You suddenly feel more susceptible to magical assault.";
 
 
 
@@ -4225,152 +4225,81 @@ for (i = 0; i < NUM_WEARS; i++)
 
     break;
 
-
-
   case SPELL_PHANTASMAL_SNAKE:
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = level;
 
-
-
     to_vict = "A phantasmal serpent appears next to you.";
-
     to_room = "A large serpent appears next to $n.";
-
     break;
-
-
 
   case SPELL_RECOLLECTION:
-
     af[0].duration = 1;
-
     af[0].modifier = APPLY_INT;
-
     af[0].modifier = 0;
 
-
-
     ch->exchange = level;
-
     to_vict = "Your memory suddenly becomes very sharp.";
-
     break;
-
-
-
   }
-
-
 
   /*
-
    * If this is a mob that has this affect set in its mob file, do not
-
-   * perform the affect.  This prevents people from un-sancting mobs
-
-   * by sancting them and waiting for it to fade, for example.
-
+   * perform the affect.  This prevents people from un-sancing mobs
+   * by sancing them and waiting for it to fade, for example.
    */
-
   if (IS_NPC(victim) && !affected_by_spell(victim, spellnum)) {
-
     for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
-
       if (IS_AFFECTED(victim, af[i].bitvector)) {
-
-	send_to_char(NOEFFECT, ch);
-
-	return;
-
+        send_to_char(NOEFFECT, ch);
+        return;
       }
-
     }
-
   }
-
-
 
   if (GET_POS(victim) <= POS_DEAD) return;
 
-
-
   /*
-
    * If the victim is already affected by this spell, and the spell does
-
    * not have an accumulative effect, then fail the spell.
-
    */
-
   if (affected_by_spell(victim,spellnum) && !(accum_duration||accum_affect)) {
-
     send_to_char(NOEFFECT, ch);
-
     return;
-
   }
 
    for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
-
     af[i].modifier *= factor;
     af[i].modifier /= 100;
 
     af[i].duration *= factor;
     af[i].duration /= 100;
-
   }
-
-
 
   for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
-
     if (af[i].bitvector || (af[i].location != APPLY_NONE)) {
-
       affect_join(victim, af+i, accum_duration, FALSE, accum_affect, FALSE);
-
     }
-
   }
 
-
-
   if (to_vict != NULL)
-
     act(to_vict, FALSE, victim, 0, ch, TO_CHAR);
 
-
-
   if (to_room != NULL)
-
     act(to_room, TRUE, victim, 0, ch, TO_ROOM);
 
  
 
   GET_MOVE(victim) = MIN(GET_MOVE(victim), GET_MAX_MOVE(victim));
-
-
-
 }
 
-
-
 /*
-
  * This function is used to provide services to mag_groups.  This function
-
  * is the one you should change to add new group spells.
-
  */
 
-
-void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch, int spellnum, int savetype)
-{
-
+void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch, int spellnum, int savetype) {
   int percent = 0;
   int factor = 0, aggressive = spell_info[spellnum].violent;
 
@@ -4378,7 +4307,7 @@ void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch
 
     case SPELL_HEALING_LIGHT:
 
-      mag_points(level, ch, tch, SPELL_CURE_CRITIC, savetype);
+      mag_points(level, ch, tch, SPELL_HEAL, savetype);
 
       break;
 
@@ -4436,9 +4365,7 @@ void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch
       break;
 
     case SPELL_WIND_WALK:
-
       mag_affects(level, ch, tch, SPELL_FLIGHT, savetype);
-
       break;
 
     case SPELL_HEROES_FEAST:
@@ -4474,25 +4401,15 @@ void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch
 
 
 /*
-
  * Every spell that affects the group should run through here
-
  * perform_mag_groups contains the switch statement to send us to the right
-
  * magic.
-
  *
-
- * group spells affect everyone grouped with the caster who is in the room,
-
+ * Group spells affect everyone grouped with the caster who is in the room,
  * caster last.
-
  *
-
  * To add new group spells, you shouldn't have to change anything in
-
  * mag_groups -- just add a new case to perform_mag_groups.
-
  */
 
 void mag_groups(int level, struct char_data * ch, int spellnum, int savetype)
@@ -4539,7 +4456,6 @@ void mag_groups(int level, struct char_data * ch, int spellnum, int savetype)
 
 void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
 {
-
   struct char_data *tch, *next;
 
   struct affected_type af[MAX_SPELL_AFFECTS];
@@ -4552,37 +4468,21 @@ void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
   int factor = 0, aggressive = spell_info[spellnum].violent;
 
   if (spellnum == SPELL_BLACK_PLAGUE)
-
   {
-
     af[0].type = SPELL_BREATH_OF_LIFE;
-
     af[0].location = APPLY_AC;
-
-    af[0].duration = 36;
-
+    af[0].duration = -1;
     affect_join(ch, af, 0, 0, 0, 0);
-
   }
-
-
 
   if (spellnum == SPELL_MOONBEAM && !OUTSIDE(ch))
-
   {
-
     send_to_char("You cannot focus the rays of the moons inside.\r\n", ch);
-
     return;
-
   }
 
-
-
   for (tch = world[ch->in_room].people; tch; tch = next)
-
   {
-
     next = tch->next_in_room;
 
    if ((factor = mag_savingthrow_new(ch, tch, aggressive, savetype, spellnum)) <50 ) {
@@ -4591,8 +4491,6 @@ void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
       return;
     }
   }
-
-
 
     for (i=0; i<MAX_SPELL_AFFECTS; i++) {
 
@@ -4619,9 +4517,7 @@ void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
 
 
     switch(spellnum)
-
     {
-
       case SPELL_SPHERE_SILENCE:
 
      if (ch == tch)
@@ -4634,8 +4530,6 @@ void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
 
         break;
 
-
-
       case SPELL_MIRE:
 
         af[0].duration = 3;
@@ -4645,8 +4539,6 @@ void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
         mag_affects(level, ch, tch, SPELL_MIRE, savetype);
 
         break;
-
-
 
       case SPELL_MOONBEAM:
 
@@ -5207,69 +5099,39 @@ void mag_summons(int level, struct char_data * ch, struct char_data * victim, st
 
 int allowNewFollower(struct char_data* ch, int maxFollowerAllowed)
 {
-
   int permitNewFollower = 1;
-
   int numCharmed = 0;
-
   struct follow_type* fol = (struct follow_type*) NULL;
 
-
-
   for (fol = ch->followers; fol; fol = fol->next)
-
   {
-
     struct char_data* tmpFollower = fol->follower;
 
-
-
     if (tmpFollower == (struct char_data*) NULL)
-
       continue;
 
-
-
     if (IS_AFFECTED(tmpFollower, AFF_CHARM))
-
     {
-
       numCharmed++;
-
     }
-
   }
-
-
 
   if (numCharmed >= maxFollowerAllowed)
-
   {
-
-    sprintf(buf, "You may have no more than %d followers at a time.\r\n",
-
-      maxFollowerAllowed);
+    sprintf(buf, "You may have no more than %d followers at a time.\r\n", maxFollowerAllowed);
 
     send_to_char(buf, ch);
-
     permitNewFollower = 0;
-
   }
 
-
-
   return(permitNewFollower);
-
 }
 
 
 void mag_points(int level, struct char_data * ch, struct char_data * victim, int spellnum, int savetype)
 {
-
   int hit = 0;
-
   int move = 0;
-
   int factor = 0, aggressive = spell_info[spellnum].violent;
 
   if (ch == NULL)
@@ -5494,74 +5356,46 @@ void mag_unaffects(int level, struct char_data * ch, struct char_data * victim, 
         break;
   }
 
-
-
   if (spell && affected_by_spell(victim, spell)) {
-
     tot_unaffects++;
-
     affect_from_char(victim, spell);
-
   }
 
   if (spell2 && affected_by_spell(victim, spell2)) {
-
     tot_unaffects++;
-
     affect_from_char(victim, spell2);
-
   }
 
   if (spell3 && affected_by_spell(victim, spell3)) {
-
     tot_unaffects++;
-
     affect_from_char(victim, spell3);
-
   }
 
   if (spell4 && affected_by_spell(victim, spell4)) {
-
     tot_unaffects++;
-
     affect_from_char(victim, spell4);
-
   }
 
   if (spell5 && affected_by_spell(victim, spell5)) {
-
     tot_unaffects++;
-
     affect_from_char(victim, spell5);
-
   }
 
-
-
   if (to_vict != NULL)
-
     act(to_vict, FALSE, victim, 0, ch, TO_CHAR);
 
   if (to_room != NULL)
-
     act(to_room, TRUE, victim, 0, ch, TO_ROOM);
-
-
-
 }
 
 
 void mag_alter_objs(int level, struct char_data * ch, struct obj_data * obj, int spellnum, int savetype)
 {
-
   char *to_char = NULL;
-
   char *to_room = NULL;
-
   int factor = 0, aggressive = spell_info[spellnum].violent;
 
   if (ch == NULL)
-
     return;
 
   if ((factor = mag_savingthrow_new(ch, ch, aggressive, savetype, spellnum)) <50 ) {
@@ -5572,12 +5406,8 @@ void mag_alter_objs(int level, struct char_data * ch, struct obj_data * obj, int
   }
 
   if (obj == NULL) {
-
     return;
-
   }
-
-
 
   switch (spellnum) {
 

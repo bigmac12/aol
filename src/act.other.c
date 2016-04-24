@@ -239,10 +239,33 @@ ACMD(do_hide)
 }
 
 
+ACMD(do_slip) {
+  struct char_data *vict;
+  struct obj_data *obj;
+  char vict_name[MAX_INPUT_LENGTH], obj_name[MAX_INPUT_LENGTH];
+  int percent, prob, eq_pos, ohoh = 0, coinsGot;
+
+  argument = one_argument(argument, obj_name);
+  one_argument(argument, vict_name);
+
+  if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING || GET_POS(ch) ==  POS_RIDING) {
+    send_to_char("You are not in a proper position for that!\r\n", ch);
+    return;
+  }
+
+  if (!(vict = get_char_vis(ch, vict_name, FIND_CHAR_ROOM))) {
+    send_to_char("Slip what to who?\r\n", ch);
+    return;
+  } else if (vict == ch) {
+    send_to_char("Come on now, that's rather stupid!\r\n", ch);
+    return;
+  }
 
 
-ACMD(do_steal)
-{
+}
+
+
+ACMD(do_steal) {
   struct char_data *vict;
   struct obj_data *obj;
   char vict_name[MAX_INPUT_LENGTH], obj_name[MAX_INPUT_LENGTH];
@@ -252,9 +275,9 @@ ACMD(do_steal)
   one_argument(argument, vict_name);
 
    if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING || GET_POS(ch) ==  POS_RIDING) {
-     send_to_char("You are not in a proper position for that!\r\n", ch);
+    send_to_char("You are not in a proper position for that!\r\n", ch);
     return;
-}
+   }
 
   if (!(vict = get_char_vis(ch, vict_name, FIND_CHAR_ROOM))) {
     send_to_char("Steal what from who?\r\n", ch);
@@ -266,6 +289,7 @@ ACMD(do_steal)
 
   prob = dex_app_skill[GET_DEX(ch)].p_pocket;
   prob -= armor_apply(ch, SKILL_STEAL);
+
   if (!IS_NPC(vict) && (GET_LEVEL(vict) > GET_LEVEL(ch)))
     prob -= (GET_LEVEL(vict) - GET_LEVEL(ch));
 
@@ -281,52 +305,46 @@ ACMD(do_steal)
     percent = 101;		/* Failure */
 
   if (str_cmp(obj_name, "coins") && str_cmp(obj_name, "gold")) {
-
     if (!(obj = get_obj_in_list_vis(ch, obj_name, vict->carrying))) {
+        for (eq_pos = 0; eq_pos < NUM_WEARS; eq_pos++)
+            if (GET_EQ(vict, eq_pos) && (isname(obj_name, GET_EQ(vict, eq_pos)->name)) && CAN_SEE_OBJ(ch, GET_EQ(vict, eq_pos))) {
+                obj = GET_EQ(vict, eq_pos);
+                break;
+            }
 
-      for (eq_pos = 0; eq_pos < NUM_WEARS; eq_pos++)
-	if (GET_EQ(vict, eq_pos) &&
-	    (isname(obj_name, GET_EQ(vict, eq_pos)->name)) &&
-	    CAN_SEE_OBJ(ch, GET_EQ(vict, eq_pos))) {
-	  obj = GET_EQ(vict, eq_pos);
-	  break;
-	}
-      if (!obj) {
-	act("$E hasn't got that item.", FALSE, ch, 0, vict, TO_CHAR);
-	return;
-      } else {			/* It is equipment */
-	if ((GET_POS(vict) > POS_STUNNED)) {
-	  send_to_char("Steal the equipment now?  Impossible!\r\n", ch);
-	  return;
-	} else {
-	  act("You unequip $p and steal it.", FALSE, ch, obj, 0, TO_CHAR);
-	  act("$n steals $p from $N.", FALSE, ch, obj, vict, TO_NOTVICT);
-	  obj_to_char(unequip_char(vict, eq_pos), ch);
-	}
-      }
+            if (!obj) {
+                act("$E hasn't got that item.", FALSE, ch, 0, vict, TO_CHAR);
+                return;
+            } else {			/* It is equipment */
+                if ((GET_POS(vict) > POS_STUNNED)) {
+                    send_to_char("Steal the equipment now?  Impossible!\r\n", ch);
+                    return;
+                } else {
+                    act("You unequip $p and steal it.", FALSE, ch, obj, 0, TO_CHAR);
+                    act("$n steals $p from $N.", FALSE, ch, obj, vict, TO_NOTVICT);
+                    obj_to_char(unequip_char(vict, eq_pos), ch);
+                }
+            }
     } else {			/* obj found in inventory */
+        percent += GET_OBJ_WEIGHT(obj);	/* Make heavy harder */
 
-      percent += GET_OBJ_WEIGHT(obj);	/* Make heavy harder */
-
-      if (AWAKE(vict) && (!use_skill(ch, percent, SKILL_STEAL)))
-      {
-	ohoh = TRUE;
-	act("Oops..", FALSE, ch, 0, 0, TO_CHAR);
-	act("$n tried to steal something from you!", FALSE, ch, 0, vict, TO_VICT);
-	act("$n tries to steal something from $N.", TRUE, ch, 0, vict, TO_NOTVICT);
-      } else {			/* Steal the item */
-	if ((IS_CARRYING_N(ch) + 1 < CAN_CARRY_N(ch))) {
-	  if ((IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj)) < CAN_CARRY_W(ch)) {
-	    obj_from_char(obj);
-	    obj_to_char(obj, ch);
-	    send_to_char("Got it!\r\n", ch);
-	  }
-	} else
-	  send_to_char("You cannot carry that much.\r\n", ch);
-      }
+        if (AWAKE(vict) && (!use_skill(ch, percent, SKILL_STEAL))) {
+            ohoh = TRUE;
+            act("Oops..", FALSE, ch, 0, 0, TO_CHAR);
+            act("$n tried to steal something from you!", FALSE, ch, 0, vict, TO_VICT);
+            act("$n tries to steal something from $N.", TRUE, ch, 0, vict, TO_NOTVICT);
+        } else {			/* Steal the item */
+            if ((IS_CARRYING_N(ch) + 1 < CAN_CARRY_N(ch))) {
+                if ((IS_CARRYING_W(ch) + GET_OBJ_WEIGHT(obj)) < CAN_CARRY_W(ch)) {
+                    obj_from_char(obj);
+                    obj_to_char(obj, ch);
+                    send_to_char("Got it!\r\n", ch);
+                }
+            } else {
+              send_to_char("You cannot carry that much.\r\n", ch);
+            }
+        }
     }
-
-
   } else {			/* Steal some coins */
     if (AWAKE(vict) && (!use_skill(ch, percent, SKILL_STEAL)))
     {
@@ -338,7 +356,7 @@ ACMD(do_steal)
 
     } else {
       /*
-       *  steal some coins - radomly decide on which ones
+       *  steal some coins - randomly decide on which ones
        *  line up all the coins, and select which randomly
        */
       int               total_coins = 0, loop_coins, which_coin;

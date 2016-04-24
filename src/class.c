@@ -1324,6 +1324,7 @@ void init_spell_levels(void)
   spell_level(SKILL_TWO_HANDED_STYLE, CLASS_WARRIOR, 12, 0);
   spell_level(SKILL_DUAL_WIELD, CLASS_WARRIOR, 12, 0);
   spell_level(SKILL_ARMOR_MASTERY, CLASS_WARRIOR, 13, 0);
+  spell_level(SKILL_CHARGE, CLASS_WARRIOR, 13, 0);
   spell_level(SKILL_DISARM, CLASS_WARRIOR, 14, 0);
 
   spell_level(SKILL_RETREAT, CLASS_WARRIOR, 16, 0);
@@ -1353,9 +1354,9 @@ void init_spell_levels(void)
   //spell_level(SKILL_SNEAK, CLASS_MONK, 8, 0);
   spell_level(SKILL_THROW, CLASS_MONK, 8, 0);
 
-  spell_level(SKILL_DISARM, CLASS_MONK, 11, 0);
   spell_level(SKILL_TRIP, CLASS_MONK, 12, 0);
   spell_level(SKILL_DETECTDISGUISE, CLASS_MONK, 13, 0);
+  spell_level(SKILL_DISARM, CLASS_MONK, 14, 0);
   spell_level(SKILL_IMPROVED_UNARMED_DEFENSE, CLASS_MONK, 14, 0);
   spell_level(SKILL_IMPROVED_MARTIAL_ARTS, CLASS_MONK, 15, 0);
 
