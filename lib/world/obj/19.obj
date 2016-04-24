@@ -16,11 +16,11 @@ giving it the color of a rose as well as the shape.
 ~
 #1901
 cheese small wheel~
-a wheel of cheese~
+&Ma fresh wheel of 'Palanthas Pink' cheddar cheese~
 A small wheel of chese lays on the ground.~
 ~
 19 0 1
-8 0 0 0
+15 0 0 0
 1 8 2 0 -1
 E
 cheese small wheel~
@@ -30,11 +30,11 @@ favorite of cheese eaters all around Krynn.
 ~
 #1902
 strip beef jerky~
-a strip of beef jerky~
+a thick strip of hickory-smoked beef jerky~
 A strip of beef jerky lies here.~
 ~
 19 0 1
-5 0 0 0
+10 0 0 0
 1 5 1 0 -1
 E
 strip beef jerky~
@@ -44,11 +44,11 @@ your person for too long inadvisable.
 ~
 #1903
 pork chop porkchop meat~
-a pork chop~
+a strip of hickory-smoked pork chop~
 A pork chop lays upon the ground.~
 ~
 19 0 1
-5 0 0 0
+16 0 0 0
 1 5 1 0 -1
 E
 pork chop porkchop meat~
@@ -58,11 +58,11 @@ it would likely be even better with some applesauce.
 ~
 #1904
 mixed vegetables~
-some mixed vegetables~
+a handful of dried mixed vegetables~
 Some mixed vegetables lay on the ground here.~
 ~
 19 0 1
-6 0 0 0
+8 0 0 0
 1 6 2 1 -1
 E
 vegetables mixed~
@@ -73,7 +73,7 @@ recognize immediately.  All cut into cubes for eating or tossing into a stew.
 ~
 #1905
 skin water waterskin~
-&Wa bleached leather waterskin&n~
+&Wa heavy leather waterskin with a leather strap~
 A waterskin lies on the ground here.~
 ~
 17 0 16793601
@@ -309,26 +309,20 @@ moving forward alongside the central blade.  Embedded in the hilt is a nice,
 while worthless red gemstone.    
 ~
 #1921
-war hammer warhammer~
-a warhammer~
-Someone has dropped a warhammer here.~
+bottle glass rounded black rubber stopper~
+a rounded glass bottle with a black rubber stopper~
+A round, glass bottle is sitting here.~
 ~
-5 4096 24577
-0 2 5 7
-6 260 65 13 -1
+14 0 16385
+0 0 0 0
+0 21 1 5 -1
 E
-warhammer war hammer~
-   The preferred weapon of dwarves, this stout, heavy warhammer is a model of
-simplicity and effectiveness.  Its medium length wooden handle is very solid,
-and it needs to be, for sitting atop it is a large, square block of stone,
-which forms the head of the hammer.  Carved into the stone are symbols of
-Shinare on one side, and Reorx on the other.  While it looks as though it might
-be unwieldly or fragile, it is neither, bearing not the first sign of chipping
-or cracking.    
+undefined~
+Nothing.
 ~
 #1922
 ring diamond band~
-a diamond ring~
+&wa small, delicate silver ring with an impressive size diamond&n~
 A small band with a glittering stone has been dropped here.~
 ~
 8 0 3
@@ -530,19 +524,18 @@ padding on the inside, it is often all that stands between a warrior and a
 premature visit to the afterlife.    
 ~
 #1935
-soft white cap~
-&Wa soft white cap&n~
-A soft white cap has been dropped here.~
+snood lace pearl white delicate~
+&Wa delicate white lace pearl snood&n~
+A delicate handful of white lace with pearls has been left here.~
 ~
 11 1048576 17
 0 0 0 0
 1 50 13 5 -1
 E
-cap soft white~
-   This soft cap is shaped to fit about the head of one who values style over
-protection, or those who disdain wearing metal helms.  It is sized to fit a
-particular head, but can be easily altered.  Made of soft felt, and is bleached
-a pure white.    
+snood lace pearl white delicate~
+   Tiny sea-pearls have been laced through the delicate weave of this common
+ladies headpiece.  Meant to hold and protect the hair, it has become all the
+hight in fashion in high-society circles.    
 ~
 #1936
 small shield~
@@ -593,7 +586,7 @@ A
 19 1
 #1939
 soft flowing white robes~
-&Wsome soft white robes&n~
+&Wa set of soft white robes, with a &wsilver under-robe&n~
 Some soft white robes have been dropped here.~
 ~
 11 0 9
@@ -671,7 +664,7 @@ A
 18 1
 #1944
 wineskin skin~
-&Ra brightly colored wineskin&n~
+&Ra bright red waterskin, decorated with festive embroidery&n~
 A brightly colored wineskin has been discarded here.~
 ~
 17 0 16385
@@ -720,7 +713,7 @@ A
 19 1
 #1947
 deer skin deerskin cloak~
-a deerskin cloak~
+a heavy cloak made of well-treated deerskin~
 A cloak made of deer skin has been discarded here.~
 ~
 11 405504 1025
@@ -811,13 +804,21 @@ tip.  The soft metal is dented and damaged in some portions, possibly from
 being hammered back into shape as its use has taken a toll.    
 ~
 #1952
-oakien branch wood wooden firewood~
-an oaken branch~
-A branch lies here upon the ground.~
+earring dangling aquamarine teardrop mithril chain~
+&Ca teardrop aquamarine earring dangling on a &Wmithril&C chain&n~
+A teardrop sky-blue earring has been left here.~
 ~
-30 65536 1
+8 0 65537
 0 0 0 0
-3 10 3 1 -1
+0 422 100 10 -1
+E
+earring teardrop aqua aquamarine mithril dangling chain~
+   Delicate and beautiful, the simplicity of design shows off the natural
+effect of the aquamarine stones.  Carefully shaped and polished into a perfect
+teardrop shape, they are around an inch in length.  Dangling from a simple
+chain of mithril, the mithril has been bent slightly in a hoop for ease of wear
+in the pierced ears.    
+~
 #1953
 leather mace~
 a leather mace~
@@ -957,7 +958,7 @@ the storage of more fragile objects.
 ~
 #1964
 armor leather chain links~
-leather armor with intertwined chain links~
+a hardened leather vest, intertwined with chain links~
 Some leather armor sits here unattended.~
 ~
 9 2101248 9
@@ -1073,24 +1074,27 @@ Proces-  `.   `.########| N |########,'   ,'  Warrior  |  _.' A L A N T H A S
                `+---------=---------+'                 '
 ~
 #1972
-loincloth loin cloth white belt small~
-&Wa white loincloth&n~
-A small belt with two straps of white cloth has been dropped here.~
+ribbon silk white wide band~
+&Wa wide band of white silk ribbon&n~
+A small pile of white silk ribbon has been dropped here.~
 ~
-11 1048576 2049
+11 1048576 2065
 0 0 0 0
-1 14 4 2 -1
+1 14 4 10 -1
 E
-loincloth loin cloth white belt small~
-   This is definately not something to wear for the timid.  This entire thing
-is just a rope with two pieces of white cloth sewn in place.  It doesn't leave
-much to the imagination either.    
+ribbon silk white band wide~
+   Rather plain in design, it is however very soft and shimmering of fine white
+silk.  With this amount of length, one could easy tie around a trim waist; or
+wrap around the head as a fashionable headpiece.  How one where to wear this
+wide band of silk ribbon is completely up to them, however young women have
+been known to prefer it around their waist to show off how tiny of waist they
+do indeed have.    
 ~
 A
 17 -1
 #1973
-coat wool thick~
-a thick wool coat~
+coat wool thick buttons large round~
+a thick wool coat with large, round buttons~
 A thick wool coat has been discarded here.~
 ~
 11 1048576 1033
@@ -1106,7 +1110,7 @@ A
 17 -1
 #1974
 beret red~
-&Ra red beret&n~
+&Ra soft, hand-knitted wool beret&n~
 A red beret has been dropped here.~
 ~
 11 1048576 17
@@ -1243,7 +1247,7 @@ leather.
 ~
 #2005
 lockpicks apprentice apprentice's tools~
-a set of apprentice's lockpicks~
+a set of apprentice lockpicks, wrapped in leather~
 A set of thin metal tools lie wrapped in a rolled piece of leather here.~
 ~
 12 1048576 16385
@@ -1595,149 +1599,13 @@ A massive book sits open here, urging you to look and learn.~
 0 0 0 0
 9999 0 0 1 -1
 E
-chapter3~
---== THE GODS OF DARKNESS ==--
+book primer deities~
 
+Chapter One : The Gods of Light (type "read chapter1")
 
-/i4 **Takhisis, Queen of Darkness**
-Takhisis is the embodiment of evil, enjoying preying on the weaknesses of
-others and using the greatest desires to enslave them. She is cold and
-brilliant, a master of exploitation. She hates good, loves cruelty and hoards
-wealth. In the Age of Dreams, she was Paladine's mate and consort but when they
-forged the first beings, the dragons, Takhisis grew selfish and corrupted the
-chromatic dragons. She left Paladine and now consorts with Sargonnas, a god
-of fury and vengeance. The passion between them vacillates between insatiable
-lust and deep loathing. They bore two children, Nuitari and Zeboim. Takhisis'
-one other child, Artha, the demigoddess of wanton lust and greed was sired
-by Hiddukkel masquerading as Chemosh. Takhisis' symbol is a black
-crescent. Her color is black of utter darkness and irridescent black of beetle
-wings. Her influences are over night, evil dragons, hatred, intrigue and chaos.
+Chapter Two : The Gods of Neutrality (type "read chapter2")
 
-
-** Nuitari, Devouring Dark **
-Nuitari is the god of black magic and the son of Takhisis and Sargonnas. He
-founded the Order of the Black Robes, perhaps the most secret and coveted
-Order on Krynn. While those that practice black magic may gain incredible
-power, it comes at the price of control. Nuitari watches in wry amusement as
-those who try to master his art are overcome by its dark power. His symbol
-is a black circle or sphere, his color is black.
-
-
-** Sargonnas, Dark Vengeance **
-Takhisis' consort, Sargonnas is the sometimes explosive god of vengeance,
-rage, deserts and volcanoes. He embodies the destructive passion of fire.
-As Takhisis is both his greatest ally and his greatest enemy, he plots both
-for and against her. He is treacherous and paranoid, and works his revenge
-through insidious means. His symbol is a red condor or a red fist
-(Thorbardin, Istar). His colors are red and black.
-
-
-** Morgion, the Black Wind **
-This god of decay and disease refuses the company of other gods and does
-not discuss plans with them. He despises all healthy things, actively striving
-to corrupt them with disease and decay. His symbols are a hood with two
-red eyes, an upside-down axe (Thorbardin) or a rat's claw (Hylo). His colors
-are deep brown and black.
-
-
-** Chemosh, Lord of Death **
-In the Age of Dreams, Chemosh was drawn to Krynn by Takhisis, to serve as
-a lieutenant to marshal the legions of death. As lord of false redemption,
-Chemosh offers eternal life to the unwary. Recipients spend immortality in
-an undead and eternally corrupted body while he himself grows in power
-and longevity. His symbol is a yellow skull. His colors are black and a
-sickly yellow.
-
-
-** Zeboim, Darkling Sea **
-Zeboim, the Sea Queen, is the impetuous and volatile daughter of
-Takhisis and Sargonnas. Her unpredictable tempers make her a dangerous
-foe and lethal friend. She provides her followers the vast wealth of lost
-treasure ships. She receives petitions and sacrifices from seamen wishing
-good weather and safe travel. Those who displease her through some real
-or imagined slight never see harbor again. Her symbol is a turtle-shell
-pattern, and her colors are green and red.
-
-
-**Hiddukel, Prince of Lies **
-This god of ill-gotten wealth and deals is the patron god of evil businessmen
-and dishonest merchants. Greed and mischief drive all Hiddukel's
-transactions. He controls all ill-gotten wealth, using it to corrupt honest and
-greedy men alike. His symbol is a set of broken merchant's scales. His
-colors are red and bone white.
-
-
-(Type "read chapter1" for the Gods of Light
-or "read chapter2" for the Gods of Neutrality)
-
-~
-E
-chapter2~
---== THE GODS OF NEUTRALITY ==--
-
-
-** Gilean, the Void **
-Before creation, the High God wrote the Tobril, the book of all knowledge
-and true names, to lay down the designs of the universe. The High God
-did not consider any of the gods he created trustworthy enough to guard
-the Tobril, so he found Gilean, a scribe so scrupulous as to have never
-penned an error and entrusted the Tobril to him. Gilean guards the Tobril
-and is the patriarch of the Neutral gods. His symbol is an open book
-and his color is gray.
-
-
-** Lunitari, the Veiled Maiden **
-The goddess of Neutral magic and illusions, Lunitari was born of Gilean and
-an unknown mother, though some suggest she sprang full-grown from her
-father's thoughts. She founded the Order of the Red Robes to promote
-Neutral magic. Her symbol is a red circle or sphere, her color red or magenta.
-
-
-** Sirrion, the Flowing Flame **
-Sirrion is the god of creative flame and natural power and sculpts fire into
-beautiful forms. He controls every flame, from the sun to the low-burning
-wick. His companion is Shinare, an argumentative couple due to his
-temperamental and artistic nature in conflict with her practicality and
-opportunism. His symbol is a multi-colored fire. His colors are bright red
-and yellow.
-
-
-** Reorx, the Forge **
-The god of manufacture, technology and metallurgy, Reorx is considered by
-the dwarves of Ansalon to be the greatest god. Humans perceive him as
-merely Kiri-Jolith's helper. Reorx tamed chaos to forge the world. His second
-greatest creation, the Greystone of Gargath, led to the emergence of dwarves,
-gnomes and kender and many consider him the father of these races. His
-symbols are a forging hammer or dwarven hammer (Thorbardin). His colors
-are slate grey and red.
-
-
-** Chislev, the Beast **
-Chislev is nature incarnate. According to legend, the seasons change with the
-moods of her heart. She is served by every beast and plant. Her symbol is
-a feather of brown, yellow and green, which are her colors.
-
-
-** Zivilyn, the Tree of Life **
-Zivilyn is the god of all wisdom and is the celestial Tree of Life. His
-branches extend into all times and places. As Gilean holds the knowledge of
-the universe, Zivilyn holds its wisdom. Zivilyn is the companion of Chislev,
-a relationship seen by most mortals as a perfect marriage. Zivilyn's
-symbol is a great green or gold tree, sometimes a vallenwood. His colors
-are green and gold.
-
-
-** Shinare, Winged Victory **
-Shinare, the goddess of wealth, industry and commerce, has many dwarven
-worshippers. She also finds many followers among merchants, mercenaries
-and profit-minded adventurers of other races. She is considered by all to
-be the champion of freedom and self-destiny. She cannot tolerate laziness
-and attributes poverty or stupidity to sloth. Her symbol is a griffon's wing
-and her colors are gold, silver and brown.
-
-
-(Type "read chapter1" for the Gods of Light
-or "read chapter3" for the Gods of Darkness)
+Chapter Three : The Gods of Darkness (type "read chapter3")
 
 
 ~
@@ -1814,14 +1682,150 @@ or "read chapter3" for the Gods of Darkness)
 
 ~
 E
-book primer deities~
+chapter2~
+--== THE GODS OF NEUTRALITY ==--
 
-Chapter One : The Gods of Light (type "read chapter1")
 
-Chapter Two : The Gods of Neutrality (type "read chapter2")
+** Gilean, the Void **
+Before creation, the High God wrote the Tobril, the book of all knowledge
+and true names, to lay down the designs of the universe. The High God
+did not consider any of the gods he created trustworthy enough to guard
+the Tobril, so he found Gilean, a scribe so scrupulous as to have never
+penned an error and entrusted the Tobril to him. Gilean guards the Tobril
+and is the patriarch of the Neutral gods. His symbol is an open book
+and his color is gray.
 
-Chapter Three : The Gods of Darkness (type "read chapter3")
 
+** Lunitari, the Veiled Maiden **
+The goddess of Neutral magic and illusions, Lunitari was born of Gilean and
+an unknown mother, though some suggest she sprang full-grown from her
+father's thoughts. She founded the Order of the Red Robes to promote
+Neutral magic. Her symbol is a red circle or sphere, her color red or magenta.
+
+
+** Sirrion, the Flowing Flame **
+Sirrion is the god of creative flame and natural power and sculpts fire into
+beautiful forms. He controls every flame, from the sun to the low-burning
+wick. His companion is Shinare, an argumentative couple due to his
+temperamental and artistic nature in conflict with her practicality and
+opportunism. His symbol is a multi-colored fire. His colors are bright red
+and yellow.
+
+
+** Reorx, the Forge **
+The god of manufacture, technology and metallurgy, Reorx is considered by
+the dwarves of Ansalon to be the greatest god. Humans perceive him as
+merely Kiri-Jolith's helper. Reorx tamed chaos to forge the world. His second
+greatest creation, the Greystone of Gargath, led to the emergence of dwarves,
+gnomes and kender and many consider him the father of these races. His
+symbols are a forging hammer or dwarven hammer (Thorbardin). His colors
+are slate grey and red.
+
+
+** Chislev, the Beast **
+Chislev is nature incarnate. According to legend, the seasons change with the
+moods of her heart. She is served by every beast and plant. Her symbol is
+a feather of brown, yellow and green, which are her colors.
+
+
+** Zivilyn, the Tree of Life **
+Zivilyn is the god of all wisdom and is the celestial Tree of Life. His
+branches extend into all times and places. As Gilean holds the knowledge of
+the universe, Zivilyn holds its wisdom. Zivilyn is the companion of Chislev,
+a relationship seen by most mortals as a perfect marriage. Zivilyn's
+symbol is a great green or gold tree, sometimes a vallenwood. His colors
+are green and gold.
+
+
+** Shinare, Winged Victory **
+Shinare, the goddess of wealth, industry and commerce, has many dwarven
+worshippers. She also finds many followers among merchants, mercenaries
+and profit-minded adventurers of other races. She is considered by all to
+be the champion of freedom and self-destiny. She cannot tolerate laziness
+and attributes poverty or stupidity to sloth. Her symbol is a griffon's wing
+and her colors are gold, silver and brown.
+
+
+(Type "read chapter1" for the Gods of Light
+or "read chapter3" for the Gods of Darkness)
+
+
+~
+E
+chapter3~
+--== THE GODS OF DARKNESS ==--
+
+
+/i4 **Takhisis, Queen of Darkness**
+Takhisis is the embodiment of evil, enjoying preying on the weaknesses of
+others and using the greatest desires to enslave them. She is cold and
+brilliant, a master of exploitation. She hates good, loves cruelty and hoards
+wealth. In the Age of Dreams, she was Paladine's mate and consort but when they
+forged the first beings, the dragons, Takhisis grew selfish and corrupted the
+chromatic dragons. She left Paladine and now consorts with Sargonnas, a god
+of fury and vengeance. The passion between them vacillates between insatiable
+lust and deep loathing. They bore two children, Nuitari and Zeboim. Takhisis'
+one other child, Artha, the demigoddess of wanton lust and greed was sired
+by Hiddukkel masquerading as Chemosh. Takhisis' symbol is a black
+crescent. Her color is black of utter darkness and irridescent black of beetle
+wings. Her influences are over night, evil dragons, hatred, intrigue and chaos.
+
+
+** Nuitari, Devouring Dark **
+Nuitari is the god of black magic and the son of Takhisis and Sargonnas. He
+founded the Order of the Black Robes, perhaps the most secret and coveted
+Order on Krynn. While those that practice black magic may gain incredible
+power, it comes at the price of control. Nuitari watches in wry amusement as
+those who try to master his art are overcome by its dark power. His symbol
+is a black circle or sphere, his color is black.
+
+
+** Sargonnas, Dark Vengeance **
+Takhisis' consort, Sargonnas is the sometimes explosive god of vengeance,
+rage, deserts and volcanoes. He embodies the destructive passion of fire.
+As Takhisis is both his greatest ally and his greatest enemy, he plots both
+for and against her. He is treacherous and paranoid, and works his revenge
+through insidious means. His symbol is a red condor or a red fist
+(Thorbardin, Istar). His colors are red and black.
+
+
+** Morgion, the Black Wind **
+This god of decay and disease refuses the company of other gods and does
+not discuss plans with them. He despises all healthy things, actively striving
+to corrupt them with disease and decay. His symbols are a hood with two
+red eyes, an upside-down axe (Thorbardin) or a rat's claw (Hylo). His colors
+are deep brown and black.
+
+
+** Chemosh, Lord of Death **
+In the Age of Dreams, Chemosh was drawn to Krynn by Takhisis, to serve as
+a lieutenant to marshal the legions of death. As lord of false redemption,
+Chemosh offers eternal life to the unwary. Recipients spend immortality in
+an undead and eternally corrupted body while he himself grows in power
+and longevity. His symbol is a yellow skull. His colors are black and a
+sickly yellow.
+
+
+** Zeboim, Darkling Sea **
+Zeboim, the Sea Queen, is the impetuous and volatile daughter of
+Takhisis and Sargonnas. Her unpredictable tempers make her a dangerous
+foe and lethal friend. She provides her followers the vast wealth of lost
+treasure ships. She receives petitions and sacrifices from seamen wishing
+good weather and safe travel. Those who displease her through some real
+or imagined slight never see harbor again. Her symbol is a turtle-shell
+pattern, and her colors are green and red.
+
+
+**Hiddukel, Prince of Lies **
+This god of ill-gotten wealth and deals is the patron god of evil businessmen
+and dishonest merchants. Greed and mischief drive all Hiddukel's
+transactions. He controls all ill-gotten wealth, using it to corrupt honest and
+greedy men alike. His symbol is a set of broken merchant's scales. His
+colors are red and bone white.
+
+
+(Type "read chapter1" for the Gods of Light
+or "read chapter2" for the Gods of Neutrality)
 
 ~
 #2099

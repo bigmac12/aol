@@ -116,6 +116,43 @@ and bear the symbol of a closed gauntlet.
 BareHandAttack: 3
 Maxmove: 50
 E
+#7307
+peacekeeper peace female negotiate~
+a female peacekeeper~
+A female peacekeeper, tries her best to negotiate the situation out.
+~
+   This woman is a peacekeeper, as is shown by the garments she wears.  A holy
+pendant, in the form of an open book about her neck.  It is the symbol of
+Gilean, the diety of knowledge.  Trying her best to resolve arguments with
+words, she travels from city to city to help the cause of balance in the world.
+  
+~
+1630218 13352 10496 0 E
+20 8 -4 3d20+440 3d7+6
+900 25000 7
+8 8 2 0
+BareHandAttack: 3
+Maxmove: 100
+E
+#7308
+crusader female~
+a female crusader~
+A female crusader, garbed in white and red travels the road here.
+~
+   This woman is a crusader, as is shown by the accoutrement she wears.  A holy
+pendant, in the form of a bison's horn hands upside down from a golden chain
+about her neck.  It is the symbol of Kiri-Jolith, however it looks rather
+tarnished and ill-used.  The colors of her armor appear to be the default brown
+and white of most of Kiri-Jolith's following, however, her shield and tabard
+are white and red with a symbol of a fist.    
+~
+1632266 9216 10496 -850 E
+20 8 -4 3d20+440 3d7+6
+900 25000 7
+8 8 2 0
+BareHandAttack: 3
+Maxmove: 100
+E
 #7320
 minotaur mino large ivory~
 a large minotaur with ivory horns~

@@ -92,7 +92,7 @@ along on the breeze blowing into the city from the docks to the north.
 D0
 ~
 ~
-0 0 13778
+0 0 2015
 D1
 ~
 ~
@@ -2082,7 +2082,7 @@ If you are brand new to the mud, please travel &gNorth&N for newbie assistance.
 
 
 ~
-19 32924 1 0 2
+19 156 1 0 2
 D0
 
    To the north lies a small tutorial area designed to help adventurers who are
@@ -3570,7 +3570,7 @@ stepping onto a stage where you should reveal the most private aspects of your
 character. Please be sure to visit our website at ageoflegends.planetmud.com.
    For more information type 'look mission' and 'look Dragonlance'.
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3579,6 +3579,43 @@ D2
 ~
 ~
 0 0 1998
+E
+mission~
+
+Below is our Mission statement as Immortals here at Age of Legends.
+
+Our world is a world of adventurers.  We seek to create an environment where
+characters can embrace their wanderlust and explore our more than 8,000 rooms.
+Sure, everyone has a home and a family, but our world is made up of those who,
+for whatever reason, were driven to leave home and family behind and go out
+into a world of new places/faces/and taverns.  It is this driving force that
+makes them interesting and makes them who they are.    
+
+A vital component of our Dragonlance world is ensuring that the players
+properly assume their roles as a specific race or class. It is this patchwork
+of individuals that drives our dynamic world. We, in our roles as immortals,
+are here to offer information, examples and opportunities for players to
+actively assume their roles and make our world the best it can be.  We are
+also here to ensure that the guidelines and rules of the mud are followed in
+order to provide for a level playing field.
+~
+E
+Dragonlance~
+
+   Dragonlance is a Campaign setting for Advance Dungeons and Dragons.  It is a
+wondrous world of heroes and villains.  If you are not familiar with the world
+of Krynn, take a look at the wealth of information that is available online.  
+It is important to note that we are in a Pre-Cataclysm Dragonlance setting.  
+
+
+   Visit our website at ageoflegends.planetmud.com for more information as
+well as a Dragonlance timeline (in the Help Dragonlance section of the site).
+
+
+   Type 'look laws' to view the Dragonlance Law of Consequence which 
+contains important information for properly roleplaying your alignment.
+
+~
 E
 law laws consequence~
 
@@ -3612,43 +3649,6 @@ a reward and blessing; for every law transgressed there is a punishment.
 Blessings and punishments may not come about immediately, but they occur
 eventually.
 ~
-E
-Dragonlance~
-
-   Dragonlance is a Campaign setting for Advance Dungeons and Dragons.  It is a
-wondrous world of heroes and villains.  If you are not familiar with the world
-of Krynn, take a look at the wealth of information that is available online.  
-It is important to note that we are in a Pre-Cataclysm Dragonlance setting.  
-
-
-   Visit our website at ageoflegends.planetmud.com for more information as
-well as a Dragonlance timeline (in the Help Dragonlance section of the site).
-
-
-   Type 'look laws' to view the Dragonlance Law of Consequence which 
-contains important information for properly roleplaying your alignment.
-
-~
-E
-mission~
-
-Below is our Mission statement as Immortals here at Age of Legends.
-
-Our world is a world of adventurers.  We seek to create an environment where
-characters can embrace their wanderlust and explore our more than 8,000 rooms.
-Sure, everyone has a home and a family, but our world is made up of those who,
-for whatever reason, were driven to leave home and family behind and go out
-into a world of new places/faces/and taverns.  It is this driving force that
-makes them interesting and makes them who they are.    
-
-A vital component of our Dragonlance world is ensuring that the players
-properly assume their roles as a specific race or class. It is this patchwork
-of individuals that drives our dynamic world. We, in our roles as immortals,
-are here to offer information, examples and opportunities for players to
-actively assume their roles and make our world the best it can be.  We are
-also here to ensure that the guidelines and rules of the mud are followed in
-order to provide for a level playing field.
-~
 S
 T 1090
 T 1092
@@ -3664,7 +3664,7 @@ scrolling problems of telnet.  You may also create aliases for repetitive
 commands.    
    Type 'help autoexit', 'help display', 'help color', and 'help alias'.
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3690,7 +3690,7 @@ This way they will recover movements and hitpoints faster.  Another key element
 of character development is practicing skills. More on that later.
    Type 'help rent', 'help bank', and 'help practice' for more information.
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3717,7 +3717,7 @@ happens there is no need to consider your character dead, however you will lose
 experience.  Additionally, you will need to return to the place of death to
 retrieve your items and cash on hand.  Type 'help' for more information.
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3740,7 +3740,7 @@ practiced it with a trainer.  Use the 'practice' command to see what spells you
 have and your proficiency with each spell.    
    Type 'help mem' and 'help practice' for more information.
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3761,7 +3761,7 @@ your list of skills and your proficiency with each, type 'practice'.  Included
 in the fighting classes are warriors, dwarven defenders, and others.    
     Type 'help skill' and 'help practice' for more information.
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3788,7 +3788,7 @@ Krynn must walk the straight path as dictated by their deity.  It is true that
 some paths are wider than others, but all gods agree that the penalties for not
 following the precepts of one's religion are great indeed.    
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3814,7 +3814,7 @@ untested aspirants.  If you wish to become a member of the Conclave, you must
 seek out a master and serve as an apprentice prior to your test.    
    For more information type 'look test'.
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3850,7 +3850,7 @@ and armor made of natural materials, save for a select few items used in
 ceremonies.  An effective druid will possess an above average wisdom and
 charisma.    
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3873,7 +3873,7 @@ skills.  Likewise, they favor the use of their barehands over weapons in
 combat.  They have excellent offensive skills but are not as strong in the
 defensive area, favoring a quick and decisive attack.    
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3910,7 +3910,7 @@ Age of Legends, characters who are interested in joining the Knighthood will
 begin as squires.  They should actively seek out a sponsor knight and be ready
 to prove their worth.    
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3931,7 +3931,7 @@ creation process.  The only way to earn paladinship is to roleplay your
 dedication to a god and to use the 'prayer' command to demonstrate your faith.
 Paladins are lawful and believe in a strict code of honor.    
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~
@@ -3958,7 +3958,7 @@ pranks, many walk the darker paths of life and use their skills only to bring
 about personal gain and the downfall of others.    
    Type 'help mem' for more information.
 ~
-19 32776 0 0 0
+19 8 0 0 0
 D0
 ~
 ~

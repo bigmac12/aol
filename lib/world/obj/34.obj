@@ -5,7 +5,7 @@ A small piece of irridescent fabric flutters in the wind.~
 ~
 0 0 32769
 0 0 0 0
-0 0 0 0
+0 0 0 0 -1
 E
 veil shimmering sheer silk irridescent fabric~
    This elegant article of clothing adds greatly to the mysterious charm of its
@@ -22,7 +22,7 @@ Barely discernable on the ground is a silver ring set with an amethyst.~
 ~
 0 0 3
 0 0 0 0
-0 0 0 0
+0 0 0 0 -1
 E
 ring shaped silver dragon bright amethyst eye~
    This ring has been crafted by master jewellers from silver into the shape of
@@ -39,7 +39,7 @@ An unfinished object is lying here.~
 ~
 0 0 1
 0 0 0 0
-0 0 0 0
+0 0 0 0 -1
 #3403
 fountain marble basin statue Quenesti-Pah~
 a marble basin held in the hand of a statue of Quenesti-Pah~
@@ -47,7 +47,7 @@ Before the temple stands a statue of Quenesti-Pah bearing a basin of water.~
 ~
 23 0 0
 9999 9999 15 0
-10004 0 0 1
+10004 0 0 1 -1
 #3405
 unfinished object~
 a rich damask and satin gown~
@@ -55,7 +55,7 @@ An unfinished object is lying here.~
 ~
 0 0 1
 0 0 0 0
-0 0 0 0
+0 0 0 0 -1
 #3406
 robes brocaded silk glittering gems~
 brocaded silk robes, glittering with gems~
@@ -63,7 +63,7 @@ An unfinished object is lying here.~
 ~
 0 0 1
 0 0 0 0
-0 0 0 0
+0 0 0 0 -1
 #3407
 tapestry Silvanos~
 a tapestry depicting Silvanos in all his regal glory~
@@ -71,7 +71,7 @@ An unfinished object is lying here.~
 ~
 0 0 0
 0 0 0 0
-0 0 0 0
+0 0 0 0 -1
 E
 tapestry Silvanos~
    In this grand tapestry, Silvanos is depicted in all his regal splendor.  He
@@ -90,7 +90,7 @@ A pile of deep blue cloth lies here in a heap.~
 ~
 11 0 1025
 0 0 0 0
-2 0 1 0
+2 0 1 0 -1
 E
 cloak fur dark blue kingfisher habbakuk~
    This cloak has been made from the pelt of some animal, and is silky smooth
@@ -107,7 +107,7 @@ Undefined~
 ~
 12 0 1
 0 0 0 0
-1 0 0 1
+1 0 0 1 -1
 #3432
 bedtime~
 bedtime~
@@ -115,7 +115,7 @@ Bedtime~
 ~
 0 0 1
 0 0 0 0
-0 0 0 0
+0 0 0 0 -1
 #3433
 leather gloves sap pine dirty green~
 leather gloves covered in the sap of a pine tree~
@@ -123,7 +123,7 @@ A dirty pair of green gloves have been dropped here.~
 ~
 9 12288 129
 0 0 0 0
-1 280 140 12
+1 280 140 12 -1
 E
 leather gloves dirty sap pine green~
    These leather gloves are made of a fine green leather.  Due to the sap
@@ -139,7 +139,7 @@ A hooked wooden cane is resting on its side.~
 ~
 5 0 24577
 0 1 4 0
-1 28 14 6
+1 28 14 6 -1
 E
 cane wooden hooked~
    This cane is made of a common wood.  Light brown in color and slender in
@@ -155,7 +155,7 @@ A small branch from an oak tree lays here.~
 ~
 18 0 16385
 0 0 0 0
-1 0 0 0
+1 0 0 0 -1
 E
 key branch thick oaken oak~
    Upon closer examination, this branch no longer appears as a branch.  It has
@@ -170,7 +170,7 @@ A sparkling ring has been forgotten here.~
 ~
 8 257 3
 0 0 0 0
-0 4800 2400 29
+0 4800 2400 29 -1
 E
 shining band emerald stone ring~
    This ring has been crafted from the finest silver, it glitters endlessly.  
@@ -184,7 +184,7 @@ An impressive, high-backed throne of mahogany has been placed in the middle of t
 ~
 12 0 0
 0 0 0 0
-0 0 0 0
+0 0 0 0 -1
 E
 throne impressive high backed mahogany~
    The mahogany throne that rests here is strong and sturdy.  Its high back
@@ -200,7 +200,7 @@ A small piece of intertwining vines lays in the dust here.~
 ~
 18 0 1
 0 0 0 0
-1 0 0 0
+1 0 0 0 -1
 E
 vines intertwining piece~
    Only measuring a few inches, these vines are linked together in a spiral
@@ -214,7 +214,7 @@ A settee of carved willow rests near the balcony.~
 ~
 12 0 1
 0 0 0 0
-999 0 0 1
+999 0 0 1 -1
 E
 settee willow carved~
    This small settee looks large enough to fit two people, with cushions of
@@ -230,7 +230,7 @@ A bundle of fabric lies here, nigh invisible as it mirrors its surroundings.~
 ~
 11 2 1025
 0 0 0 0
-1 580 340 14
+1 580 340 14 -1
 E
 long cloak reflective thread~
    Sewn from silky threads of magically imbued fibers, this cloak shifts and
@@ -252,7 +252,7 @@ A set of shelves carved to resemble an ash tree rests against the wall here.~
 ~
 15 0 1
 1000 0 -1 0
-900 0 0 1
+900 0 0 1 -1
 #3443
 red lacquer vial~
 a vial of red lacquer~
@@ -260,7 +260,7 @@ A small glass vial of red lacquer is lying here.~
 ~
 15 1048576 16385
 5 1 -1 0
-10 10 3 1
+10 10 3 1 -1
 #3444
 red lacquer dab~
 a dab of red lacquer~
@@ -268,7 +268,7 @@ A dab of red lacquer has been spilt on the floor here.~
 ~
 11 1048576 3
 0 0 0 0
-1 10 3 1
+1 10 3 1 -1
 #3473
 map Silvanost large~
 a large map of Silvanost~
@@ -276,7 +276,7 @@ A large map of Silvanost hangs on the wall.~
 ~
 12 0 0
 0 0 0 0
-999 0 0 1
+999 0 0 1 -1
 #3490
 brooch intricate jewel lilies valley~
 an intricate brooch reflecting the beauty of lilies of the valley~
@@ -284,7 +284,7 @@ An unfinished object is lying here.~
 ~
 8 0 5
 0 0 0 0
-0 300 75 5
+0 300 75 5 -1
 E
 brooch intricate jewel lilies valley~
    Tiny amethysts are set to form the delicate bells of a lily of the valley.
@@ -294,12 +294,12 @@ this elegant piece.
 ~
 #3491
 earring hoop platinum jewel flowers garnet~
-two garnet flowers framed by a round, platinum hoop~
-Undefined~
+&rtwo garnet flowers framed by a round,&W platinum&r hoop~
+A garnet flower-shaped earring has been left here.~
 ~
 8 0 65537
 0 0 0 0
-1 325 80 5
+1 325 80 5 -1
 E
 earring hoop platinum jewel flowers garnet~
    Two garnet, one oval and one round, are set in fine gold to form tiny
@@ -314,7 +314,7 @@ An unfinished object is lying here.~
 ~
 8 0 4097
 0 0 0 0
-0 0 0 1
+0 0 0 1 -1
 #3495
 castanets carved rosewood polished instrument~
 castanets carved from polished rosewood~
@@ -322,7 +322,7 @@ Castanets made from carved rosewood have been left here.~
 ~
 8 0 3
 0 0 0 0
-1 100 25 1
+1 100 25 1 -1
 E
 castanet carved rosewood instrument~
    This castanet is made from two pieces of beautiful rosewood.  Each piece is
