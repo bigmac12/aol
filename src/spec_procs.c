@@ -502,6 +502,7 @@ SPECIAL(mayor)
 ******************************************************************** */
 
 SPECIAL(auto_healer) {
+  return FALSE;
 }
 
 void npc_steal(struct char_data * ch, struct char_data * victim)

@@ -110,7 +110,7 @@ ACMD(do_echo)
 }
 
 ACMD(do_iamgod) {
-  char arg[MAX_STRING_LENGTH];
+//  char arg[MAX_STRING_LENGTH];
   char name[MAX_STRING_LENGTH];
   
   GET_NAME(ch, chname);
@@ -4305,7 +4305,7 @@ ACMD(do_award) {
     GET_NAME(ch, chname);
     GET_NAME(vict, victname);
     sprintf(buf2, "%s has awarded %s (%d) %d experience.", chname, victname, GET_LEVEL(vict), xp_to_award);
-    sprintf(buf3, "\r\nYou have been awarded %d\% bonus experience!\r\n", percent_to_award);
+    sprintf(buf3, "\r\nYou have been awarded %d%% bonus experience!\r\n", percent_to_award);
     send_to_char(buf3, vict);
     FREE_NAME(victname);
     FREE_NAME(chname);

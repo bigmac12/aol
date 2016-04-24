@@ -1758,7 +1758,7 @@ struct affected_type af[3];
 
 ACMD(do_chakra)
 {
-  int amount, ft;
+  int amount; //, ft;
  
   if (!GET_SKILL(ch, SKILL_CHAKRA))
   {
