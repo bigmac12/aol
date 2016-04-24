@@ -1891,7 +1891,7 @@ char * describe_ethos(int ethos) {
 }
 
 char * describe_char_align(int ethos, int align) {
-    char* align_str[40];
+    char align_str[40];
 
     if (ethos == 0 && align == 0) {
         return "True Neutral";
