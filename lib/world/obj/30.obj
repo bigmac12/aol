@@ -37,17 +37,6 @@ An utterly perfect dagger with a shining nacred hilt lies here.~
 0 5 5 11
 5 8850 4425 29 -1
 E
-dagger masterwork adamantite nacred wing-shaped cross guard~
-   Perfect.  No other word can accurately describe the quality of this weapon;
-any other descriptor would serve only to demean the sheer flawlessness that is
-this piece of work.  The blade is clean, polished, and eight inches in length.
-Where it meets the hilt of the weapon, a pair of wings flair outward and taper
-gradually toward the blade at the tips, forming the cross guard.  The entire
-back half of the weapon is carved from a rare breed of vallenwood and coated
-entirely with nacre, giving it an iridescent sheen in the light.  A stamp is
-visible on the metal where the blade meets the hilt.    
-~
-E
 stamp maker maker's mark~
  .----------------.
 | .--------------. |
@@ -60,6 +49,17 @@ stamp maker maker's mark~
 | |              | |
 | '--------------' |
  '----------------'
+~
+E
+dagger masterwork adamantite nacred wing-shaped cross guard~
+   Perfect.  No other word can accurately describe the quality of this weapon;
+any other descriptor would serve only to demean the sheer flawlessness that is
+this piece of work.  The blade is clean, polished, and eight inches in length.
+Where it meets the hilt of the weapon, a pair of wings flair outward and taper
+gradually toward the blade at the tips, forming the cross guard.  The entire
+back half of the weapon is carved from a rare breed of vallenwood and coated
+entirely with nacre, giving it an iridescent sheen in the light.  A stamp is
+visible on the metal where the blade meets the hilt.    
 ~
 A
 18 2
@@ -94,7 +94,7 @@ Delete Item~
 ~
 17 0 16385
 30 30 4 0
-1 0 0 0 -1
+35 0 0 0 -1
 #3006
 Delete Item~
 Deletie Item~
@@ -192,12 +192,12 @@ Delete Item~
 0 1 6 11
 3 60 10 0 -1
 E
-inscription~
-It says: 'May this sword be a good companion.'
-~
-E
 sword small~
 The small sword seems to have an inscription of some sort inscription...
+~
+E
+inscription~
+It says: 'May this sword be a good companion.'
 ~
 #3022
 Delete Item~
@@ -413,6 +413,14 @@ Delete Item~
 9 0 9
 6 0 0 0
 80 7000 100 0 -1
+#3049
+faceplate steel blackened shining golden trim~
+&Ka blackened steel faceplate with &Yshining golden&K trim&n~
+A black faceplate has been left here.~
+~
+9 136839168 32769
+0 0 0 0
+2 2551 322 15 -1
 #3050
 Delete Item~
 Deletie Item~
@@ -637,12 +645,12 @@ A large board of possible ideas is mounted on the wall here.~
 0 0 0 0
 0 0 0 0 -1
 E
-social bulletin~
-Use 'look board' to read the board.
-~
-E
 board~
 If you can read this, the board is not working.
+~
+E
+social bulletin~
+Use 'look board' to read the board.
 ~
 #3097
 board frozen bulletin~
@@ -653,12 +661,12 @@ A large bulletin board is here, carved from a block of ice.~
 0 0 0 0
 0 0 0 0 -1
 E
-freeze bulletin~
-Use 'look board' to read the board.
-~
-E
 board~
 If you can read this, the board is not working.
+~
+E
+freeze bulletin~
+Use 'look board' to read the board.
 ~
 #3098
 board holy bulletin~
@@ -669,12 +677,12 @@ A large bulletin board is mounted on a wall here.  It glows with a faint aura.~
 0 0 0 0
 0 0 0 0 -1
 E
-holy bulletin~
-Use 'look board' to read the board.
-~
-E
 board~
 If you can read this, the board is not working.
+~
+E
+holy bulletin~
+Use 'look board' to read the board.
 ~
 #3099
 board bulletin~
@@ -685,11 +693,11 @@ A large bulletin board is mounted on a wall here.~
 0 0 0 0
 0 0 0 0 -1
 E
-bulletin~
-Use 'look board' to read the board.
-~
-E
 board~
 If you can read this, the board is not working.
+~
+E
+bulletin~
+Use 'look board' to read the board.
 ~
 $~

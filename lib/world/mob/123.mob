@@ -11,9 +11,9 @@ sturdy leather sandals.  A dusty red sash is wrapped around his waist.  His
 curly, sandy-brown beard hangs over his bare chest.  He holds his weapon across
 his shoulders as he stretches.   
 ~
-3203098 33719296 0 0 E
-30 1 -12 3d33+2100 4d8+9
-1900 250000 3
+3268634 33719296 0 0 E
+30 1 -12 6d33+3000 8d9+9
+6000 250000 3
 8 8 1 0
 BareHandAttack: 6
 Maxmove: 50
@@ -1265,7 +1265,7 @@ accustomed to overland travel.
 0 175 0
 8 8 1 0
 BareHandAttack: 6
-Maxmove: 300
+Maxmove: 200
 E
 #12381
 pony dusky white~
@@ -1283,7 +1283,7 @@ made accustomed to overland travel.
 0 175 0
 8 8 1 0
 BareHandAttack: 6
-Maxmove: 300
+Maxmove: 200
 E
 #12382
 packhorse horse dun pawing~
@@ -1300,7 +1300,7 @@ He is only very basically outfitted, and wears a saddle and bridle.
 0 175 0
 8 8 1 0
 BareHandAttack: 6
-Maxmove: 300
+Maxmove: 200
 E
 #12397
 Wrenchit gnome~

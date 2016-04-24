@@ -173,7 +173,7 @@ A
 18 1
 #7812
 dagger curved blade~
-a curved dagger with a green tassel on the pommel~
+&na curved dagger with a &ggreen tassel&n on the pommel~
 A curved dagger is stuck in the ground.~
 ~
 5 2105344 1006657537
@@ -271,9 +271,9 @@ A
 A
 18 2
 #7818
-mask black woven~
-&Ka woven black mask&n~
-A small piece of cloth with eyeholes is tossed aside.~
+mask black simple domino leather~
+&Ka simple domino mask made of black leather&n~
+A plain piece of leather with eyeholes is tossed aside.~
 ~
 11 3579904 32769
 0 0 0 0
@@ -286,6 +286,8 @@ normal thread and a small clasp made of beaten copper holds the mask in place.
   
 ~
 A
+19 1
+A
 17 -1
 #7819
 pin warrior's~
@@ -296,6 +298,11 @@ A small pin of crossed swords is set here.~
 0 0 0 0
 2 3420 1720 22 -1
 E
+script~
+   The words read, "Est Sularis Oth Mithas", which means My Honor is My Life.
+It is the vow of all Solamnic Knights.    
+~
+E
 warrior sword pin~
    The pin is clearly of superior craftmanship, wrought finely and with great
 attention to detail.  Crafted from gold, the pin displays two swords crossed in
@@ -303,11 +310,6 @@ an "x" formation.  The hilts of each of the swords is laquored with a deep blue
 color, and tiny emeralds are embedded into the pommel of each blade.  Even
 though the pin is only the size of a man's thumb, the blades are etched with
 fine, tiny runes along their length, written in a Solamnic script.    
-~
-E
-script~
-   The words read, "Est Sularis Oth Mithas", which means My Honor is My Life.
-It is the vow of all Solamnic Knights.    
 ~
 A
 18 1

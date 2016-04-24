@@ -11,10 +11,11 @@ landslide as it pounces towards you.  These beasts are known to lie in wait in
 desert areas for an unsuspecting traveller to come and rest near it.  Guess you
 shouldn't have rested here.    
 ~
-8120350 235582634 206571008 0 E
+8120350 235582634 1280 0 E
 28 2 -12 3d33+3000 6d7+10
 1700 175000 8
 8 8 1 0
+Maxmove: 50
 E
 T 12800
 T 12807
@@ -36,6 +37,7 @@ escape from something.
 20 8 -4 3d20+440 3d7+6
 900 25000 0
 8 8 1 0
+Maxmove: 50
 E
 T 12809
 #12802
@@ -53,6 +55,7 @@ snap together in your general direction warning you to keep your distance.
 0 52000 4
 8 8 0 9
 BareHandAttack: 1
+Maxmove: 50
 E
 #12803
 shaman nomad dark cloth~
@@ -71,6 +74,7 @@ series of soft sighs coming from her, then it dawns on you that she is asleep.
 1145 33500 2
 4 4 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #12804
 shah snake hood hooded~
@@ -88,6 +92,7 @@ are known world wide for their deadly poison.
 0 33500 0
 8 8 0 9
 BareHandAttack: 4
+Maxmove: 50
 E
 #12805
 lion starved desert~
@@ -100,11 +105,12 @@ noticably.  Ever hungry, this creature like all other beasts who have learned
 to survive in the desert wont pass up the opportunity for a meal and when you
 walked it so did the beasts opportunity.    
 ~
-3213433 33993768 0 0 E
+3229817 33993768 0 0 E
 24 6 -8 3d33+750 4d6+8
 0 68000 0
 8 8 1 8
 BareHandAttack: 9
+Maxmove: 50
 E
 T 12806
 #12806
@@ -122,6 +128,7 @@ plates cover this ants entire body.
 0 11000 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #12820
 Talasha Tal mercenary commander~
@@ -140,6 +147,7 @@ command would gladly give up his life if she commanded it.
 1300 68000 3
 8 8 2 0
 BareHandAttack: 15
+Maxmove: 50
 E
 T 12820
 T 12822
@@ -160,6 +168,7 @@ other arm in awkward salute.
 700 14000 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #12822
 Tabarre tab lieutenant handsome slender young fellow friendly smile~
@@ -178,6 +187,7 @@ beyond profession or friendship.  Tabarre is very handsome and athletic.
 1700 25000 0
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 T 12821
 T 12823
@@ -197,6 +207,7 @@ looking at him.  He nods his head, and then resumes his patrol route.
 700 14000 0
 8 8 1 0
 BareHandAttack: 11
+Maxmove: 50
 E
 #12824
 archer mercenary blue white tabard~
@@ -215,6 +226,7 @@ absence of care, not expecting danger to present itself.
 700 14000 0
 8 8 2 0
 BareHandAttack: 11
+Maxmove: 50
 E
 #12825
 captain stout mercenary~
@@ -233,6 +245,7 @@ chest and waits for you to get out of the way.
 1100 40000 0
 8 8 1 0
 BareHandAttack: 16
+Maxmove: 50
 E
 #12826
 recruit raw~
@@ -251,6 +264,7 @@ and his captain.
 100 4700 0
 8 8 1 0
 BareHandAttack: 11
+Maxmove: 50
 E
 #12827
 mercenary soldier young nervously standing attention~
@@ -267,6 +281,7 @@ punishment the captain's stern mind can concoct.
 14 12 2 6d8+240 2d8+4
 200 7000 0
 8 8 1 0
+Maxmove: 50
 E
 #12828
 mercenary gangly tall ill-fitting armor~
@@ -285,6 +300,7 @@ new cadets; a fact not lost upon his captain.
 400 8400 0
 8 8 1 0
 BareHandAttack: 16
+Maxmove: 50
 E
 #12829
 mercenary footman~
@@ -302,6 +318,7 @@ you up before continuing on his way.
 1100 33500 3
 8 8 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 #12830
 Burm Fucko loutish oaf unusually large size questionable intelligence~
@@ -320,6 +337,7 @@ disappointed that you haven't.
 20 8 0 3d20+550 3d8+6
 100 25000 3
 8 8 1 0
+Maxmove: 50
 E
 T 12830
 #12832
@@ -339,6 +357,7 @@ nearby somewhere.
 0 7 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #12838
 mercenary fat old slovenly laughing~
@@ -357,6 +376,7 @@ very old very, very quickly.
 1000 33500 3
 6 6 1 0
 BareHandAttack: 5
+Maxmove: 50
 E
 T 12838
 #12839
@@ -376,6 +396,7 @@ spits, he drinks, and he has a good time, usually at others' expense.
 1100 40000 0
 6 6 1 0
 BareHandAttack: 3
+Maxmove: 50
 E
 T 12839
 #12860
@@ -394,6 +415,7 @@ parchment.
 16 11 0 3d20+320 3d6+4
 500 11000 0
 8 8 1 0
+Maxmove: 50
 E
 T 12860
 #12861
@@ -411,6 +433,7 @@ in dirt and grime due to the many hours of work outdoors.
 12 13 4 5d6+210 2d8+3
 100 4700 0
 8 8 2 0
+Maxmove: 50
 E
 T 12862
 #12862
@@ -428,6 +451,7 @@ needs from the many number of tools that lay unattended in the clearing.
 14 12 2 6d8+240 2d8+4
 300 7000 0
 8 8 1 0
+Maxmove: 50
 E
 #12863
 stocky gnome worker~
@@ -444,6 +468,7 @@ of his cutting.
 15 11 1 5d10+300 2d8+4
 400 8400 0
 8 8 1 0
+Maxmove: 50
 E
 #12864
 busy gnome worker~
@@ -461,6 +486,7 @@ inventions can be improved.
 14 12 2 6d8+240 2d8+4
 300 7000 0
 8 8 1 0
+Maxmove: 50
 E
 #12865
 black crow bird~
@@ -477,6 +503,7 @@ because of the crow's agitation.
 3 18 12 1d1+50 1d1+1
 0 50 0
 8 8 1 0
+Maxmove: 50
 E
 #12870
 corporal elven elf silvanesti border patrol male~
@@ -493,6 +520,7 @@ with a very natural grace and ease.
 21 8 -5 3d33+450 3d8+7
 989 33500 6
 8 8 1 0
+Maxmove: 50
 E
 #12871
 corporal elven elf silvanesti border patrol female~
@@ -509,6 +537,7 @@ position in the Silvanesti Border Patrol by working hard for it.
 21 8 -5 3d33+450 3d8+7
 1011 33500 5
 8 8 2 0
+Maxmove: 50
 E
 #12872
 scout elven silvanesti border patrol~
@@ -526,6 +555,7 @@ look like that of someone trying to figure out if you belong here or not.
 17 10 -1 3d20+340 3d6+5
 598 11800 6
 8 8 1 0
+Maxmove: 50
 E
 #12873
 scout elven silvanesti border patrol~
@@ -543,6 +573,7 @@ corporal or not.
 18 11 -2 3d20+380 3d6+6
 700 14000 5
 8 8 2 0
+Maxmove: 50
 E
 #12874
 scout sleeping off duty elven~
@@ -558,6 +589,7 @@ on watch here or some other arduous task.
 16 11 0 3d20+320 3d6+4
 527 11000 3
 4 4 1 0
+Maxmove: 50
 E
 #12875
 scout elven duty~
@@ -573,6 +605,7 @@ attention when you enter instead he seems intently focused on his card game.
 16 11 0 3d20+320 3d6+4
 572 11000 3
 6 6 1 0
+Maxmove: 50
 E
 #12876
 scout elven alert silvanesti border patrol~
@@ -587,6 +620,7 @@ fine braid that runs straight down the center of her back.
 17 10 -1 3d20+340 3d6+5
 604 11800 0
 8 8 2 0
+Maxmove: 50
 E
 #12877
 scout elven alert silvanesti border patrol~
@@ -601,6 +635,7 @@ making her pointed ears seem to stick out far from the side of her head.
 18 11 -2 3d20+380 3d6+6
 0 14000 5
 8 8 2 0
+Maxmove: 50
 E
 #12892
 lemur angry ring-tailed~
@@ -618,6 +653,7 @@ overcome with a disease.
 8 8 0 0
 BareHandAttack: 10
 SkinData0: 12892
+Maxmove: 50
 E
 #12893
 bear cub brown~
@@ -635,6 +671,7 @@ patch of fur is missing from its right hindleg, it appears to be a bite wound.
 0 25 3
 4 4 0 0
 BareHandAttack: 9
+Maxmove: 50
 E
 #12895
 green anole~
@@ -651,6 +688,7 @@ down its spine.
 0 7 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #12896
 toad fat brown~
@@ -666,6 +704,7 @@ leaves on the ground.
 2 19 14 1d3+12 1d5+1
 0 13 3
 8 8 0 0
+Maxmove: 50
 E
 #12898
 delete~
@@ -679,6 +718,7 @@ It looks unfinished.
 476 11000 6
 8 8 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #12899
 druid hair honey color~
@@ -696,5 +736,6 @@ to the eye.
 20 85 5
 6 6 2 0
 BareHandAttack: 13
+Maxmove: 50
 E
 $

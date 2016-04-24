@@ -185,12 +185,12 @@ A
 A
 13 20
 #1717
-quiver elven arrows~
-&ga quiver made of soft green leather, stitched with &Kblack&g and &ybrown&g designs&n~
+quiver elven leather black brown design stitching~
+&ga soft leather quiver with &Kblack&g-&ybrown&g design stitching&n~
 A quiver full of green-shafted arrows sits here, forgotten.~
 ~
 26 480260096 33556481
-80 0 -1 0
+20 0 -1 0
 4 2960 1480 20 -1
 E
 quiver elven arrows~
@@ -206,6 +206,8 @@ with a leather strap that allows it to be worn on the back or around the waist.
 ~
 A
 19 2
+A
+13 2
 #1718
 chain chainmail elven glittering suit mithril~
 &Ya suit of golden elven chain, accented with gleaming aspen leaves&n~
@@ -270,4 +272,16 @@ A
 14 10
 A
 13 3
+#1721
+spaulder elven elvish tooled leather~
+a single, tooled leather spaulder of elvish design~
+A single leather spaulder with a leather strap has been left here.~
+~
+9 12288 1048577
+4 0 0 0
+3 2522 355 22 -1
+A
+18 1
+A
+19 1
 $~

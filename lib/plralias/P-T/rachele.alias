@@ -1,28 +1,38 @@
-5
-wield
-45
-unsheath dagger ankle;unsheath dagger 2.ankle
 1
+q
+10
+use key $*
+1
+1
+f
 6
-sheath
-41
-sheath dagger ankle;sheath dagger 2.ankle
-1
-1
-i
-15
-track grotesque
-0
-4
-hang
-13
-hang bag belt
+as ari
 0
 2
 gg
 14
 get all corpse
 0
+1
+j
+4
+trip
+0
+1
+i
+10
+quaff vial
+0
+4
+hang
+14
+hang wind belt
+0
+6
+sheath
+41
+sheath dagger ankle;sheath dagger 2.ankle
+1
 1
 b
 11

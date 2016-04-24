@@ -430,7 +430,7 @@ and red.
 0 14000 0
 8 8 1 0
 BareHandAttack: 4
-Maxmove: 500
+Maxmove: 250
 E
 T 1622
 #1623
@@ -682,7 +682,7 @@ carrying their knights into battle with no regard for their own safety.
 0 14000 0
 8 8 1 0
 BareHandAttack: 6
-Maxmove: 500
+Maxmove: 250
 E
 #1637
 stallion young energetic~

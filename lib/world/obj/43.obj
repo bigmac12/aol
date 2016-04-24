@@ -97,7 +97,7 @@ A
 A
 13 2
 #4308
-gloves leather thick~
+gloves leather thick dgore~
 &Ka pair of thick, black leather gloves&n~
 A pair of thick leather gloves are lying here.~
 ~
@@ -189,6 +189,10 @@ A tall, intricately carved staff of ash lies here forgotten.~
 0 3 6 7
 5 1100 550 20 -1
 E
+pattern engraved~
+   &k&7|||||&n
+~
+E
 staff ogham druid ash ashwood wood wooden crafted tall~
    This long, straight staff is made of a light, creamy-colored ashwood.  Ash
 is amongst the hardest of the natural woods, and is ideal in crafting weapons,
@@ -196,10 +200,6 @@ weapon handles, or in the construction of small homes.  Small strips of leather
 have been wrapped around the staff near the top and bottom, designed as hand
 grips.  A small, strange pattern has been engraved below the top grip, and
 above the bottom grip.    
-~
-E
-pattern engraved~
-   &k&7|||||&n
 ~
 #4333
 skirt ruffled cloth ~

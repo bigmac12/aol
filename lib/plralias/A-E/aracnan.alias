@@ -1,17 +1,7 @@
-1
-1
-19
-order wraith k high
-0
-1
 2
-12
-c harm woman
-0
-2
-ob
+of
 15
-order beast k$*
+order fetch k$*
 1
 2
 ow
@@ -19,14 +9,34 @@ ow
 order wraith k$*
 1
 1
+3
+20
+order fetch k hatori
+0
+1
+2
+13
+c harm hatori
+0
+1
+1
+26
+order dreamwraith k hatori
+0
+2
+cp
+26
+c protection-from-elements
+0
+2
+ob
+15
+order beast k$*
+1
+1
 4
 21
 order wraith k statue
-0
-1
-3
-23
-order 2.gholor k statue
 0
 2
 ch

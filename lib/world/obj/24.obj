@@ -456,13 +456,13 @@ A pair of golden spiked, black shoulderpads are lying here.~
 5 0 0 0
 0 0 0 0 -1
 #2456
-DELETE ME~
-DELETE ME~
-A black faceplate decorated in gold trim is lying here.~
+spectacles glasses glass thick black rimmed~
+&Ka pair of thick, black rimmed spectacles&n~
+A pair of black rimmed spectacles lies here.~
 ~
-9 0 32769
-4 0 0 0
-0 0 0 0 -1
+11 0 32769
+0 0 0 0
+0 219 1 10 -1
 #2457
 DELETE ME~
 DELETE ME~
@@ -496,21 +496,13 @@ A brightly decorated fountain.~
 100000 100000 15 0
 1000000 0 0 0 -1
 #2461
-DELETE ME~
-DELETE ME~
-A black helm, with sparkling gold trim rests here~
+paint face smear green black brown stripes~
+&ga thick smear of green face paint with &Kblack &gand &ybrown &gstripes&n~
+A smear of green, black, and brown has been left here.~
 ~
-9 134217728 17
-10 0 0 0
-0 0 0 0 -1
-A
-24 20
-A
-4 5
-A
-2 5
-A
-6 5
+11 134217728 32769
+0 0 0 0
+0 0 0 5 -1
 #2470
 map large Kendermore~
 a large map of Kendermore~

@@ -395,12 +395,12 @@ arrangement that would go well in a vase.
 ~
 #4736
 saddle tooled leather~
-a tooled, leather saddle~
+a tooled leather saddle with adjustable iron stirrups~
 A tooled, leather saddle lies forgotten here.~
 ~
 9 1069547520 33554433
 4 0 0 0
-15 800 200 18 -1
+15 800 200 10 -1
 E
 saddle tooled leather~
    This saddle is crafted of leather, which has been tooled with simple
@@ -545,6 +545,13 @@ A small tin with a faded label which reads, "Glum Drops" lies forgotten here.~
 8 0 0 0
 0 500 1 1 -1
 E
+RPnote~
+   These little candies, true to their name, are supposed to make who ever eats
+them glum.  Glum about anything they see, or hear, even perhaps what they
+themselves say or do.  Who knows how these tasty little treats work, perhaps
+they're magicked!  Thus, if you consume them, you should RP accordingly.    
+~
+E
 drops tin glum~
    This small tin bears a faded paper label on the lid which reads, "&KGlum
 Drops&w".  Taking off the lid you find several small, gum drop candies of
@@ -552,13 +559,6 @@ various colors.  They smell delicious, strangely reminiscent of your favorite
 confectionary.    
 
 (&ylook RPnote for an OOC note&w)&n
-~
-E
-RPnote~
-   These little candies, true to their name, are supposed to make who ever eats
-them glum.  Glum about anything they see, or hear, even perhaps what they
-themselves say or do.  Who knows how these tasty little treats work, perhaps
-they're magicked!  Thus, if you consume them, you should RP accordingly.    
 ~
 #4746
 wrap wraps wrist red linen~
