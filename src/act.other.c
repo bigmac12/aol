@@ -261,6 +261,22 @@ ACMD(do_slip) {
     return;
   }
 
+  prob = dex_app_skill[GET_DEX(ch)].p_pocket;
+  prob -= armor_apply(ch, SKILL_S);
+
+  if (!IS_NPC(vict) && (GET_LEVEL(vict) > GET_LEVEL(ch)))
+    prob -= (GET_LEVEL(vict) - GET_LEVEL(ch));
+
+  if ((GET_SKILL(ch, SKILL_STEAL) + prob) > 80)  // max at 80% chance to steal
+    prob = 80 - GET_SKILL(ch, SKILL_STEAL);
+
+  percent = MAX(1, number(1, 101) - prob);  // so high dex people can't steal
+
+  if (GET_POS(vict) < POS_SLEEPING)
+    percent = -1;		/* ALWAYS SUCCESS */
+
+  if (GET_LEVEL(vict) >= LVL_IMMORT || GET_MOB_SPEC(vict) == shop_keeper)
+    percent = 101;		/* Failure */
 
 }
 
@@ -542,7 +558,7 @@ char * group_diag(struct char_data * i)
   } else if (percent >= 20) {
     sprintf(output, "%ssevere wounds", output);
   } else if (percent >= 10) {
-    sprintf(output, "%sfading awayd", output);
+    sprintf(output, "%sfading away", output);
   } else if (percent >= 0) {
    sprintf(output, "%snear death", output);
   } else {
@@ -2232,7 +2248,7 @@ ACMD(do_douse)
 ACMD(do_build_fire) {
     struct obj_data *fire;
     int burn, percent;
-    struct obj_data *firewood;
+    //struct obj_data *firewood;
     //one_argument(argument, arg);
 
     percent = number(1, 101);
@@ -2313,10 +2329,11 @@ ACMD(do_build_fire) {
             damage(ch, ch, dice(1, 6), -1);
             return;
         } else {
-            sprintf(buf, "You fail to get the fire going with %s.\r\n", firewood->short_description);
-            act("$n fails to get the fire going with $p.\r\n",
-            FALSE, ch, firewood, 0, TO_ROOM);
-            send_to_char(buf, ch);
+            //sprintf(buf, "You fail to get the fire going with %s.\r\n", firewood->short_description);
+            //act("$n fails to get the fire going with $p.\r\n", FALSE, ch, firewood, 0, TO_ROOM);
+            send_to_char("You fail to get the fire started.\r\n", ch);
+            act("$n fails to get the fire started.\r\n", FALSE, ch, 0, 0, TO_ROOM);
+            //send_to_char(buf, ch);
             return;
         }
     }
