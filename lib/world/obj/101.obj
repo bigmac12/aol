@@ -961,7 +961,7 @@ leggings brown fringed~
 ~
 #10169
 scarf long black cotton~
-&Ka long, black cotton scarf&n~
+&Ka plain black scarf made of thick wool&n~
 A thick black scarf lies here in a heap.~
 ~
 11 1048576 5
@@ -1039,7 +1039,7 @@ bag large~
 shoulder strap for hardier adventurers to wear it.    
 ~
 #10175
-backpack pack~
+backpack pack medium medium-sized sturdy cloth strap straps~
 a medium-sized backpack with sturdy cloth straps~
 A backpack has been dropped here.~
 Nothing.
@@ -1351,7 +1351,7 @@ mallet multiheaded pneumatic~
 a multiheaded, gnomish pneumatic pounding mallet~
 A multiheaded, gnomish pneumatic pounding mallet lies here.~
 ~
-5 667025408 10241
+5 667025408 16801793
 0 3 4 7
 5 165 41 11 -1
 E
@@ -1361,8 +1361,6 @@ tunic small white~
 ~
 A
 19 1
-A
-18 -1
 #10198
 tunic brown~
 &ya simple brown tunic with a high neckline&n~

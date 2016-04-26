@@ -43,11 +43,11 @@ A shortsword with a wooden pommel~
 0 0 0 0
 0 0 0 0 -1
 E
-pommel wooden wood~
-   The pommel of the shortsword is made of a hardwood, perhaps mahogany or
-teak.  It is polished and oiled with linseed, and has a warm, light brown hue.
-The grain of the wood is evident, adding character and design to the otherwise
-simply and utilitarian handle.    
+short sword shortsword~
+   This shortsword is well-made though not of the highest quality workmanship.
+It bears an iron blade, functional yet inexpensive, and the pommel of the sword
+is of polished hardwood.  The guard of the blade has a faint scrollwork design
+on either side, protecting the wielder's hand.    
 ~
 E
 blade iron~
@@ -56,11 +56,11 @@ of reasonable quality for iron, but still not one of the most superior metals.
 It has a narrow channel cut into the length of the blade.    
 ~
 E
-short sword shortsword~
-   This shortsword is well-made though not of the highest quality workmanship.
-It bears an iron blade, functional yet inexpensive, and the pommel of the sword
-is of polished hardwood.  The guard of the blade has a faint scrollwork design
-on either side, protecting the wielder's hand.    
+pommel wooden wood~
+   The pommel of the shortsword is made of a hardwood, perhaps mahogany or
+teak.  It is polished and oiled with linseed, and has a warm, light brown hue.
+The grain of the wood is evident, adding character and design to the otherwise
+simply and utilitarian handle.    
 ~
 #13004
 longsword long sword~
@@ -71,13 +71,13 @@ A finely forged steel longsword~
 0 0 0 0
 0 0 0 0 -1
 E
-swordguard guard~
-   The swordguard, designed to protect the wielder's hand, is actually composed
-of a few aspen leaves, extending from the top of the pommel out and downwards
-over the hand.  The leaves are made from the same quality steel as the blade,
-and coated with green enamel over the leaves.  The veins of the leaves are
-highlighted in bronze, dding a level of beauty and realism to this otherwise
-utilitarian weapon.    
+sword short shortsword~
+   This longsword is well-balanced and sturdy, forged of a fine steel and
+sharped to a keen edge.  Etched into the blade of the longsword is a beautiful
+and intricate pattern of chased aspen leaves and vines, intertwining along the
+length of the blade on either side.  The swordguard is also crafted into a
+pattern of wrapping aspen leaves, highlighted with bronze and green laquer.  
+
 ~
 E
 blade leaves aspen etching~
@@ -88,13 +88,13 @@ design runs along the length of the blade on both sides, almost as if the
 leaves and vines were actually running around the swordblade.    
 ~
 E
-sword short shortsword~
-   This longsword is well-balanced and sturdy, forged of a fine steel and
-sharped to a keen edge.  Etched into the blade of the longsword is a beautiful
-and intricate pattern of chased aspen leaves and vines, intertwining along the
-length of the blade on either side.  The swordguard is also crafted into a
-pattern of wrapping aspen leaves, highlighted with bronze and green laquer.  
-
+swordguard guard~
+   The swordguard, designed to protect the wielder's hand, is actually composed
+of a few aspen leaves, extending from the top of the pommel out and downwards
+over the hand.  The leaves are made from the same quality steel as the blade,
+and coated with green enamel over the leaves.  The veins of the leaves are
+highlighted in bronze, dding a level of beauty and realism to this otherwise
+utilitarian weapon.    
 ~
 #13070
 stream shallow~
@@ -156,19 +156,9 @@ tattoo ivy twining forest green~
 &gan intricate, twining tattoo of forest ivy&n~
 A small jar of forest green liquid sits here.~
 ~
-12 135331864 1741309
+11 135331864 1741309
 0 0 0 0
 0 1440 720 18 -1
-E
-tattoo ivy twining forest green~
-   This tattoo has been drawn by a master of the art; so fine is the detail
-that one could almost believe the leaves of the twining ivy were real.  
-Whatever substance was used to create this tattoo provides a vibrant, lasting
-color.  The ivy vines twist and coil about in random patterns, subtly
-accentuating key portions of the body it is placed on.    
-
-(See ivyooc for ooc details, please)
-~
 E
 ivyooc~
 OOC: This item once placed on a wear location, cannot be removed. Just as in
@@ -190,6 +180,16 @@ since you can't wear anything else over it. Yes, it may be unrealistic, but
 that's how the code works. It doesn't matter if you SHOULD be able to wear
 an item over your tattoo, you just can't. :)
 ~
+E
+tattoo ivy twining forest green~
+   This tattoo has been drawn by a master of the art; so fine is the detail
+that one could almost believe the leaves of the twining ivy were real.  
+Whatever substance was used to create this tattoo provides a vibrant, lasting
+color.  The ivy vines twist and coil about in random patterns, subtly
+accentuating key portions of the body it is placed on.    
+
+(See ivyooc for ooc details, please)
+~
 A
 6 1
 #13075
@@ -201,18 +201,18 @@ An engraved silver ring, set with a vibrant green peridot lies here.~
 0 0 0 0
 1 2500 1250 18 -1
 E
+image band engraved inside~
+   A small image of a mirror surrounded by twining ivy has been engraved on the
+inside of the band, along with a set of initials which have been worn away by
+use and time.    
+~
+E
 ring vibrant silver peridot green engraved~
    This ring is crafted of a beautiful polished silver, and is engraved with a
 knotwork pattern which surrounds the gem placed in the center of the band.  
 The gem is extremely vibrant; it is a peridot, and is a &Gpear-green&n in
 color.  It has been cut by a master jeweler to full effect, and catches the
 light stunningly.  A small image has been engraved on the inside of the band.
-~
-E
-image band engraved inside~
-   A small image of a mirror surrounded by twining ivy has been engraved on the
-inside of the band, along with a set of initials which have been worn away by
-use and time.    
 ~
 A
 6 1

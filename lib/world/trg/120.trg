@@ -11,29 +11,29 @@ wait 2s
 wecho The crew jump to work and untie the mooring lines.
 wait 10s
 wecho The ship glides out of the docks
-wait 30s
+wait 10s
 wecho A strong wind catches hold of the sails and the ship moves faster.
-wait 150s
+wait 30s
 wecho Black clouds can be seen on the distant horizon.
-wait 150s
+wait 30s
 wecho The wind picks up making the sails billow out.
-wait 150s
+wait 30s
 wecho Large waves threaten to engulf the ship as it valiantly battles against the sea.
-wait 90s
+wait 15s
 wecho Rain lashes down upon you.
-wait 90s
+wait 15s
 wecho Thunder rumbles in the heavens.
-wait 90s
+wait 15s
 wecho Lightning flashes down from the sky.
-wait 90s
+wait 15s
 wecho The ship creaks and groans under the effort of fighting the storm.
-wait 60s
+wait 10s
 wecho Beams of sunlight break through the cloud cover
-wait 90s
+wait 15s
 wecho The sea begins to calm and the violent motion of the ship lessens.
-wait 30s
+wait 10s
 wforce Dvarish say Land ahoy! Trim those sails ye fools!
-wait 30s
+wait 10s
 wecho The ship slowly glides into the harbour.
 wait 10s
 wecho The crew tie the mooring lines.
@@ -61,27 +61,27 @@ wait 2s
 wecho The crew jump to work and untie the mooring lines.
 wait 10s
 wecho The ship glides out of the docks
-wait 30s
+wait 10s
 wecho A strong wind catches hold of the sails and the ship moves faster.
-wait 150s
+wait 30s
 wecho The boards creak gently beneath you.
-wait 150s
+wait 30s
 wecho The boards creak gently beneath you.
-wait 150s
+wait 30s
 wecho The boards creak gently beneath you.
-wait 90s
+wait 15s
 wecho Dolphins swim playfully alongside the ship.
-wait 90s
+wait 15s
 wecho The boards creak gently beneath you.
-wait 90s
+wait 15s
 wecho The boards creak gently beneath you.
-wait 60s
+wait 10s
 wecho The boards creak gently beneath you.
-wait 90s
+wait 15s
 wecho The boards creak gently beneath you.
-wait 30s
+wait 10s
 wforce Dvarish say Land ahoy! Trim those sails ye fools!
-wait 30s
+wait 10s
 wecho The ship slowly glides into the harbour.
 wait 10s
 wecho The crew tie the mooring lines.
@@ -111,7 +111,7 @@ if ((%direction% == north) && (%actor.vnum% == -1)) then
 if (%actor.level% >= 10) then
 wait 2s
 say Good day to you
-say I'll be travelling to Palanthas shortly, only 3 platinum pieces if you want passage on me ship
+say I'll be travelling to Palanthas shortly, only 1 steel piece if you want passage on me ship
 elseif (%actor.level% <= 9) then
 wait 1s
 say No passage for the like of ye!
@@ -127,9 +127,9 @@ m12000 accept payment and transport player to ship~
 if (%actor.level% <= 9) then
 waits 1s 
 say Ye look unlucky, I'll nae have ye on my ship 
-elseif ((%amount% < 3000) & (%actor.level% >= 10)) then
+elseif ((%amount% < 100) & (%actor.level% >= 10)) then
 say I told ye it's three platinum for passage
-elseif ((%amount% >= 3000) & (%actor.level% >= 10)) then 
+elseif ((%amount% >= 100) & (%actor.level% >= 10)) then 
 wait 1s
 say Wait on the deck until we sail
 mechoaround %actor% %actor.name% boards the ship. 

@@ -37,6 +37,17 @@ An utterly perfect dagger with a shining nacred hilt lies here.~
 0 5 5 11
 5 8850 4425 29 -1
 E
+dagger masterwork adamantite nacred wing-shaped cross guard~
+   Perfect.  No other word can accurately describe the quality of this weapon;
+any other descriptor would serve only to demean the sheer flawlessness that is
+this piece of work.  The blade is clean, polished, and eight inches in length.
+Where it meets the hilt of the weapon, a pair of wings flair outward and taper
+gradually toward the blade at the tips, forming the cross guard.  The entire
+back half of the weapon is carved from a rare breed of vallenwood and coated
+entirely with nacre, giving it an iridescent sheen in the light.  A stamp is
+visible on the metal where the blade meets the hilt.    
+~
+E
 stamp maker maker's mark~
  .----------------.
 | .--------------. |
@@ -49,17 +60,6 @@ stamp maker maker's mark~
 | |              | |
 | '--------------' |
  '----------------'
-~
-E
-dagger masterwork adamantite nacred wing-shaped cross guard~
-   Perfect.  No other word can accurately describe the quality of this weapon;
-any other descriptor would serve only to demean the sheer flawlessness that is
-this piece of work.  The blade is clean, polished, and eight inches in length.
-Where it meets the hilt of the weapon, a pair of wings flair outward and taper
-gradually toward the blade at the tips, forming the cross guard.  The entire
-back half of the weapon is carved from a rare breed of vallenwood and coated
-entirely with nacre, giving it an iridescent sheen in the light.  A stamp is
-visible on the metal where the blade meets the hilt.    
 ~
 A
 18 2
@@ -175,6 +175,18 @@ just are not sure of its origins.  You doubt that a hunter would drop a
 side of venison or rabbit meat... what in the world could this meat have
 come from, you wonder...
 ~
+#3018
+medallion silver shining crown sword rose engraved~
+a shining silver medallion engraved with a crown, sword and rose~
+An engraved medallion is laying here.~
+~
+8 2683136 5
+0 0 0 0
+1 3244 511 15 -1
+A
+13 5
+A
+17 -4
 #3020
 Delete Item~
 Deletie Item~
@@ -192,12 +204,12 @@ Delete Item~
 0 1 6 11
 3 60 10 0 -1
 E
-sword small~
-The small sword seems to have an inscription of some sort inscription...
-~
-E
 inscription~
 It says: 'May this sword be a good companion.'
+~
+E
+sword small~
+The small sword seems to have an inscription of some sort inscription...
 ~
 #3022
 Delete Item~
@@ -645,12 +657,12 @@ A large board of possible ideas is mounted on the wall here.~
 0 0 0 0
 0 0 0 0 -1
 E
-board~
-If you can read this, the board is not working.
-~
-E
 social bulletin~
 Use 'look board' to read the board.
+~
+E
+board~
+If you can read this, the board is not working.
 ~
 #3097
 board frozen bulletin~
@@ -661,12 +673,12 @@ A large bulletin board is here, carved from a block of ice.~
 0 0 0 0
 0 0 0 0 -1
 E
-board~
-If you can read this, the board is not working.
-~
-E
 freeze bulletin~
 Use 'look board' to read the board.
+~
+E
+board~
+If you can read this, the board is not working.
 ~
 #3098
 board holy bulletin~
@@ -677,12 +689,12 @@ A large bulletin board is mounted on a wall here.  It glows with a faint aura.~
 0 0 0 0
 0 0 0 0 -1
 E
-board~
-If you can read this, the board is not working.
-~
-E
 holy bulletin~
 Use 'look board' to read the board.
+~
+E
+board~
+If you can read this, the board is not working.
 ~
 #3099
 board bulletin~
@@ -693,11 +705,11 @@ A large bulletin board is mounted on a wall here.~
 0 0 0 0
 0 0 0 0 -1
 E
-board~
-If you can read this, the board is not working.
-~
-E
 bulletin~
 Use 'look board' to read the board.
+~
+E
+board~
+If you can read this, the board is not working.
 ~
 $~
