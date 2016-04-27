@@ -415,10 +415,10 @@ Maxmove: 50
 E
 #19072
 Ku'rosh spider gold silver innkeeper~
-Ku'rosh, a large, gold and silver spider~
+Ku'rosh~
 Ku'rosh, a large, gold and silver spider, perches silently in one of the corners.
 ~
-   This spider is unusually large, spanning over one foot in diameter.  Its
+   This spider is unusually large, spanning over four feet in diameter.  Its
 body is covered in swirls of gold and silver which holds your gaze to an almost
 hypnotic point.  His movements are slow and measured, and his hollow black eyes
 seem to be watching your every move with silent scrutiny.  His three inch fangs
@@ -427,7 +427,7 @@ will come off the wall and wander around the room, idly inspecting the home for
 anything unusual.    
 ~
 7593994 33685544 0 0 E
-30 1 -14 3d33+1700 4d8+9
+30 1 -14 3d33+30000 30d8+9
 0 0 0
 8 8 1 3
 Maxmove: 50

@@ -361,19 +361,6 @@ A fancy black leather chair sits in the far corner, surrounded by various trophi
 0 0 0 0
 560000 0 0 1 -1
 E
-fancy black leather chair~
-   This chair has a very high back which would allow a very tall man to sit
-easily and comfortably in it.  The leather is a glossy black and is remarkably
-well-maintained.  The wooden portions of the chair are made of sturdy
-vallenwood, and have been carved exactingly into beautiful twisting patterns.
-The base of the chair is supported by four clawed legs, and upon the base is a
-little bronze plaque, bearing an inscription.    
-~
-E
-plaque inscription little bronze~
-   &R"Property of Helimar Varzicek.  Don't even think about sitting here."&n
-~
-E
 corner trophies~
    The corner behind the chair is piled high with all manner of trophies.  For
 some, the value is obvious, such as a single huge crystal ball mounted on a
@@ -382,6 +369,19 @@ nail.  Some though have no obvious value.  Such as a single scorched paving
 stone, a long wooden pole with thirteen notches along its length, or a tiger's
 head in a bag, that has been taken to the taxidermist, but has yet to be
 mounted.    
+~
+E
+plaque inscription little bronze~
+   &R"Property of Helimar Varzicek.  Don't even think about sitting here."&n
+~
+E
+fancy black leather chair~
+   This chair has a very high back which would allow a very tall man to sit
+easily and comfortably in it.  The leather is a glossy black and is remarkably
+well-maintained.  The wooden portions of the chair are made of sturdy
+vallenwood, and have been carved exactingly into beautiful twisting patterns.
+The base of the chair is supported by four clawed legs, and upon the base is a
+little bronze plaque, bearing an inscription.    
 ~
 #19026
 table large kitchen~
@@ -839,15 +839,6 @@ A sparkling waterfall flows into a large pool of water here.~
 999 999 15 0
 1000 0 0 0 -1
 E
-waterfall~
-   This waterfall starts on a ledge up about fifteen feet or so from the
-ground.  The ledge appears to be no more than a large horizontal pillar, and
-you see no way to reach the top of it, yet water is constantly falling from its
-western edge into a pool at ground level.  The water appears to be quite clean
-as well despite its passage, and you suspect that something is at work here to
-transport and purify it.    
-~
-E
 pool~
    The pool that the waterfall flows into is easily large enough to accomodate
 several people, with depths ranging from a foot in some places to nearly six
@@ -855,6 +846,15 @@ feet in others.  The water is warm, but not uncomfortably so.  The pool's basin
 is made entirely of stone, and oddly enough, you see no way in which the water
 could leave the pool, yet there is no sign that it has ever overflowed.  The
 water is quite clean as well, and you suspect that something is at work here to
+transport and purify it.    
+~
+E
+waterfall~
+   This waterfall starts on a ledge up about fifteen feet or so from the
+ground.  The ledge appears to be no more than a large horizontal pillar, and
+you see no way to reach the top of it, yet water is constantly falling from its
+western edge into a pool at ground level.  The water appears to be quite clean
+as well despite its passage, and you suspect that something is at work here to
 transport and purify it.    
 ~
 #19064

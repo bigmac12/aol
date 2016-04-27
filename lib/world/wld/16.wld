@@ -79,6 +79,7 @@ D3
 ~
 0 0 1636
 S
+T 7
 #1603
 Approaching the Marketplace~
    The courtyard ahead of you is an open marketplace with many buyers and
@@ -283,15 +284,6 @@ D2
 ~
 0 0 1608
 E
-heraldry family Dorsey~
-   &rThe heraldry of the Dorsey family hangs here.  The shield is a deep
-burgundy colour, divided by a diagonal silver stripe.  Upon the upper left-hand
-corner of the shield are three silver crowns.  Upon the lower right-hand corner
-of the shield are three silver lions.  Crossed behind the shield are a pair of
-broadswords, both of which are polished to a high shine and appear
-battle-worthy.  &n
-~
-E
 coat arms Valcic~
    &gThe shield bearing the Valcic coat of arms is forest green in colour.  
 The center of the sword bears a large silver sword, held aloft by a single
@@ -299,6 +291,15 @@ mailed fist.  Underneath that is a small symbol depicting a kingfisher in
 flight.  Hanging underneath the shield is a white banner, which reads, in
 Solamnic, "Mortus dunda Arrestus oth Obranath" which translates as, "Death
 Shall not Interfere with our Duty".  &n
+~
+E
+heraldry family Dorsey~
+   &rThe heraldry of the Dorsey family hangs here.  The shield is a deep
+burgundy colour, divided by a diagonal silver stripe.  Upon the upper left-hand
+corner of the shield are three silver crowns.  Upon the lower right-hand corner
+of the shield are three silver lions.  Crossed behind the shield are a pair of
+broadswords, both of which are polished to a high shine and appear
+battle-worthy.  &n
 ~
 S
 #1610
@@ -323,16 +324,6 @@ D2
 ~
 0 0 1609
 E
-shield soltharus~
-   &W The shield of the Soltharus family appears somehow different from the
-rest.  Its colour scheme is mostly black and silver, and it looks somehow dark.
-Still there are signs of the great honour this name still carries in Solamnia.
-The shield is black.  Upon it is a picture of a mighty silver dragon.  In one
-of its four clawed paws, it carries the unmistakeable dragonlance.  The other
-three rest upon the ground.  Looking closer, you can see that the dragon's
-features are shaped into a feral snarl.  &n
-~
-E
 Matar heraldic device~
    The Matar family is one of the newer families to earn a place along Honour
 Row.  The shield is half black, and half white.  The symbol dominating it is a
@@ -341,6 +332,16 @@ is white, and the half of the eagle on the white side is black, presenting an
 impressive visual image.  Atop the shield is a helm wreathed with red laurels.
 Beneath the shield is a red banner with gold letters.  It reads "Est Solarus
 oth Mithas", the motto of the Knights of Solamnia.    
+~
+E
+shield soltharus~
+   &W The shield of the Soltharus family appears somehow different from the
+rest.  Its colour scheme is mostly black and silver, and it looks somehow dark.
+Still there are signs of the great honour this name still carries in Solamnia.
+The shield is black.  Upon it is a picture of a mighty silver dragon.  In one
+of its four clawed paws, it carries the unmistakeable dragonlance.  The other
+three rest upon the ground.  Looking closer, you can see that the dragon's
+features are shaped into a feral snarl.  &n
 ~
 S
 #1611
@@ -365,6 +366,14 @@ D2
 ~
 0 0 1610
 E
+di caela crest~
+&b   The crest of the Di Caela fa&wmily is painted &bonto a large shield here.
+The shield is dark blue in colo&wur, divided in &bhalf by a single, wide vertical
+white stripe.  In the center of &wthe shield is &ba large red rose with two small
+crossed swords below it.  On ea&wch blue stripe &bon the outer edges of the shield
+is a silver vine bearing many r&woses.&n
+~
+E
 Brightblade heraldry~
    &BThe heraldry of the Brightblade family hangs here.  It is a blue shield
 with a white chevron, and upon it is the symbol of a Sword.  The sword is
@@ -372,14 +381,6 @@ wreathed by vines and roses, and atop it sits a small golden crown.  Crossed
 behind the shield are two staves, each bearing a red flag.  Below the shield is
 a banner bearing the motto of the knighthood, "Est Solarus oth Mithas", My
 Honour is my Life.  &n
-~
-E
-di caela crest~
-&b   The crest of the Di Caela fa&wmily is painted &bonto a large shield here.
-The shield is dark blue in colo&wur, divided in &bhalf by a single, wide vertical
-white stripe.  In the center of &wthe shield is &ba large red rose with two small
-crossed swords below it.  On ea&wch blue stripe &bon the outer edges of the shield
-is a silver vine bearing many r&woses.&n
 ~
 S
 #1612
@@ -404,6 +405,14 @@ D2
 ~
 0 0 1611
 E
+Nightsbane heraldic device~
+   &KThe heraldic device of the Nightsbane family is hanging here.  The shield
+has a field of black, and upon it is a broad silver chevron across the middle
+of the shield.  There is a crescent moon on each of the upper quarters, both
+also silver.  Below the chevron is the symbol of a sword, pointed downward.  
+&n
+~
+E
 waydolson family heraldry~
     &GThe waydolson family crest is act&wually rather simple.  It is a shield,
 &Gdivided into four equal parts.  Each &wsquare diagonal one another is either
@@ -411,14 +420,6 @@ waydolson family heraldry~
 Underneath is a banner with the famil&Gy motto, which reads, "Ilpoth
 &wHeonpeaehocctb Mbi Popboa".  Nearby i&Gs a plaque which provides the translation:
 &w"Against Uncertainty We Struggle".&n
-~
-E
-Nightsbane heraldic device~
-   &KThe heraldic device of the Nightsbane family is hanging here.  The shield
-has a field of black, and upon it is a broad silver chevron across the middle
-of the shield.  There is a crescent moon on each of the upper quarters, both
-also silver.  Below the chevron is the symbol of a sword, pointed downward.  
-&n
 ~
 S
 #1613
@@ -834,16 +835,6 @@ D2
 ~
 0 0 1628
 E
-Jeoffrey~
-   The Jeoffrey family is a fairly old one in Solamnia, amongst the first of
-the knights to defect to the banner of Vinas Solamnus during the rebellion.  
-Their coat of arms is quite elegant and beautiful.  It is a large shield,
-divided into four sides.  The top left and bottom right side are occupied by
-stylized lions standing upon three legs, with a fourth paw held up in challenge
-or salute.  The top right and bottom left squares, blue in colour, are occupied
-by slender, stylized harps.    
-~
-E
 coat arms steiner~
    &B The Steiner family coat of arms is rather quite elegant and detailed.  
 It is a blue shield, crossed by a diagonal band of white.  The symbol upon the
@@ -853,6 +844,16 @@ fist is a gold laurel.  Behind the shield are two crossed halberds, and below
 it is a banner which reads, "Gott, Lehensherr, Heimatland".  Nearby is a plaque
 which explains that those words, in a distant foreign language, mean "God,
 King, Country".  &n
+~
+E
+Jeoffrey~
+   The Jeoffrey family is a fairly old one in Solamnia, amongst the first of
+the knights to defect to the banner of Vinas Solamnus during the rebellion.  
+Their coat of arms is quite elegant and beautiful.  It is a large shield,
+divided into four sides.  The top left and bottom right side are occupied by
+stylized lions standing upon three legs, with a fourth paw held up in challenge
+or salute.  The top right and bottom left squares, blue in colour, are occupied
+by slender, stylized harps.    
 ~
 S
 #1628
@@ -876,13 +877,6 @@ D2
 ~
 0 0 1629
 E
-heraldic device Ellersford~
-   The heraldic device of the Ellersford family is rather simple, being a red
-cross across a white field, with a small golden crown in the middle.  The
-Ellersford family have almost all been members of the Solamnic Order of the
-Crown, and the heraldic device reflects that.    
-~
-E
 Lacenor Lace lac~
    &KThe Lacenor family coat-of-arms is a shield of midnight black, adorned
 across the top with &Wthree silver stars.  &KThe center &Wstar &Kis slightly
@@ -893,6 +887,13 @@ weapons, &Wa footman's mace &Kand a &Wwarhammer&K.  Just below the shield lies
 a banner which reads, "&wVigilente et Audax&K".  Placed nearby is a &ycopper
 plaque&K, which explains that those words, in a distant cousin language to
 Solamnic, reads "&wVigilance and Courage&K".  &n
+~
+E
+heraldic device Ellersford~
+   The heraldic device of the Ellersford family is rather simple, being a red
+cross across a white field, with a small golden crown in the middle.  The
+Ellersford family have almost all been members of the Solamnic Order of the
+Crown, and the heraldic device reflects that.    
 ~
 S
 #1629
@@ -916,6 +917,16 @@ D2
 ~
 0 0 1630
 E
+coat arms Markenin~
+   &mThe Markenin family is fairly young to the knighthood, though they are
+quickly gaining fame and honour throughout Solamnia.  The first to join the
+knighthood was the son of a wealthy merchant, which is why the Top left-hand
+side of the shield holds a spoked cartwheel, symbol of the mercantile dynasty.
+The rest of the shield apart from this is a royal purple.  The first knight of
+the line, Gabriel Markenin had many sons, and as such, many Markenins now
+people the ranks of the Knights of Solamnia.  &n
+~
+E
 crest Maccecht~
    &YThe Maccecht family crest is a bright golden yellow, crossed diagonally by
 three narrow, white bands.  In the upper portion of the shield is a spread
@@ -925,16 +936,6 @@ through the ranks of the Knighthood to attain the title of Grand Master, an
 honour accorded to very few families.  To display this honour, the top of the
 family shield has been ornamented with the heraldic device of the Knights of
 Solamnia, that of a Kingfisher holding a sword and roses.  &n
-~
-E
-coat arms Markenin~
-   &mThe Markenin family is fairly young to the knighthood, though they are
-quickly gaining fame and honour throughout Solamnia.  The first to join the
-knighthood was the son of a wealthy merchant, which is why the Top left-hand
-side of the shield holds a spoked cartwheel, symbol of the mercantile dynasty.
-The rest of the shield apart from this is a royal purple.  The first knight of
-the line, Gabriel Markenin had many sons, and as such, many Markenins now
-people the ranks of the Knights of Solamnia.  &n
 ~
 S
 #1630
@@ -959,16 +960,6 @@ D2
 ~
 0 0 1631
 E
-Crest Fenton banner~
-   &bA dark, royal blue banner fringed with white tassles hangs upon the wall,
-bearing the crest of the Fenton family.  The crest is rather simplistic in
-design, being, as commonly used in Heraldry, a shield.  It is divided into six
-portions, with alternating blue and white squares.  Upon each square is a
-different symbol, from top-left to bottom right, a sword, a crown, a rose, a
-set of crossed axes, a Kingfisher, and finally twining rose vines over a
-greatsword.  &n
-~
-E
 thildesparan coat arms~
    &r The &RThildesparan&r coat of arms is a &Rred shield&r, crossed diagonally
 by &Rtwo white bands&r.  In front of the &Rshield&r sits the figure of a
@@ -977,6 +968,16 @@ arrows&r, and in its &Rleft&r is a &Rthorned rose&r.  Crossed below the
 &Rshield&r are a &Rpair of longswords&r.  A &Rbanner&r below the coat of arms
 reads "&RMis Solarus et Ritan Comme Situ&r" which, in Solamnic means "&RWith
 Honour and Wisdom Comes Strength&r".  &n
+~
+E
+Crest Fenton banner~
+   &bA dark, royal blue banner fringed with white tassles hangs upon the wall,
+bearing the crest of the Fenton family.  The crest is rather simplistic in
+design, being, as commonly used in Heraldry, a shield.  It is divided into six
+portions, with alternating blue and white squares.  Upon each square is a
+different symbol, from top-left to bottom right, a sword, a crown, a rose, a
+set of crossed axes, a Kingfisher, and finally twining rose vines over a
+greatsword.  &n
 ~
 S
 #1631
