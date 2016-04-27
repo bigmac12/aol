@@ -1922,11 +1922,7 @@ char * describe_clan(int clannum) {
     default:
       return "no clan";
   }
-
-  return "not a clan";
 }
-
-
 
 /*  PDH  3/29/99
 
