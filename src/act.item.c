@@ -1433,11 +1433,11 @@ void wear_message(struct char_data * ch, struct obj_data * obj, int where) {
     {"$n wears $p around $s waist.",
     "You wear $p around your waist."},
  
-    {"$n puts $p on around $s right wrist.",
-    "You put $p on around your right wrist."},
+    {"$n puts $p around $s right wrist.",
+    "You put $p around your right wrist."},
 
-    {"$n puts $p on around $s left wrist.",
-    "You put $p on around your left wrist."},
+    {"$n puts $p around $s left wrist.",
+    "You put $p around your left wrist."},
  
     {"$n wields $p.",
     "You wield $p."},
@@ -1457,11 +1457,11 @@ void wear_message(struct char_data * ch, struct obj_data * obj, int where) {
     {"$n wears $p in $s left ear.",
     "You wear $p in your left ear."},
 
-    {"$n puts $p on around $s right ankle.",
-    "You put $p on around your right ankle."},
+    {"$n puts $p around $s right ankle.",
+    "You put $p around your right ankle."},
 
-    {"$n puts $p on around $s left ankle.",
-    "You put $p on around your left ankle."},
+    {"$n puts $p around $s left ankle.",
+    "You put $p around your left ankle."},
 
     {"$p begins to float above $n's head.",
     "$p begins to float above your head."},
@@ -1490,35 +1490,32 @@ void wear_message(struct char_data * ch, struct obj_data * obj, int where) {
       {"$n wears $p around $s waist.",
     "You wear $p around your waist."},
  
-     {"$n sheaths $p.",
-    "You sheath $p."},
+     {"$n sheathes $p.",
+    "You sheathe $p."},
 
-       {"$n sheaths $p.",
-    "You sheath $p."},
+       {"$n sheathes $p.",
+    "You sheathe $p."},
 
-      {"$n sheaths $p.",
-    "You sheath $p."},
+      {"$n sheathes $p.",
+    "You sheathe $p."},
 
-     {"$n sheaths $p.",
-    "You sheath $p."},
+     {"$n sheathes $p.",
+    "You sheathe $p."},
 
-     {"$n sheaths $p.",
-    "You sheath $p."},
+     {"$n sheathes $p.",
+    "You sheathe $p."},
 
-     {"$n sheaths $p.",
-    "You sheath $p."},
+     {"$n sheathes $p.",
+    "You sheathe $p."},
 
-      {"$n sheaths $p.",
-    "You sheath $p."},
+      {"$n sheathes $p.",
+    "You sheathe $p."},
 
+      {"$n sheathes $p.",
+    "You sheathe $p."},
 
-      {"$n sheaths $p.",
-    "You sheath $p."},
-
-     {"$n sheaths $p.",
-    "You sheath $p."},
-
-
+     {"$n sheathes $p.",
+    "You sheathe $p."},
   };
 
   act(wear_messages[where][0], TRUE, ch, obj, 0, TO_ROOM);
@@ -2272,9 +2269,9 @@ ACMD(do_unsheath)
     return; 
 }
   if (!*arg1)
-    send_to_char("Unsheath what from what?\r\n", ch);
+    send_to_char("Unsheathe what from what?\r\n", ch);
   else if (!*arg2)
-    send_to_char("Unsheath from what?\r\n", ch);
+    send_to_char("Unsheathe from what?\r\n", ch);
   else {
         if (!(cont = get_object_in_equip_vis(ch, arg2, ch->equipment, &i))) {
         sprintf(buf, "You don't have %s %s.\r\n", AN(arg2), arg2);
@@ -2292,8 +2289,8 @@ ACMD(do_unsheath)
         } else if (get_otrigger(obj, ch)) {
                 obj_from_obj(obj);
                 obj_to_char(obj, ch);
-                act("You unsheath $p.", FALSE, ch, obj, 0, TO_CHAR);
-                act("$n unsheaths $p.", TRUE, ch, obj, 0, TO_ROOM);
+                act("You unsheathe $p.", FALSE, ch, obj, 0, TO_CHAR);
+                act("$n unsheathes $p.", TRUE, ch, obj, 0, TO_ROOM);
 
        if (!CAN_WEAR(obj, ITEM_WEAR_WIELD))
           send_to_char("You can't wield that.\r\n", ch);
@@ -3072,7 +3069,7 @@ ACMD(do_sheath)
   else if (cont_dotmode != FIND_INDIV)
   send_to_char("You can only put things into one container at a time.\r\n", ch);
   else if (!*arg2) {
-    sprintf(buf, "What do you want to sheath %s in?\r\n",
+    sprintf(buf, "What do you want to sheathe %s in?\r\n",
             ((obj_dotmode == FIND_INDIV) ? "it" : "them"));
     send_to_char(buf, ch);
   } else if  (!(cont = get_object_in_equip_vis(ch, arg2, ch->equipment, &i)))

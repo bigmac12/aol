@@ -1669,10 +1669,10 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
              w_type = TYPE_PUNCH;
              if(IS_MONK(ch))
              {
-                dam = dice(1, 6);
+                dam = dice(2, 4);
 
                 if (check_skill(ch, 101, SKILL_MARTIAL_ARTS))
-                  dam += MAX(dice(2, MAX(1,GET_SKILL(ch, SKILL_MARTIAL_ARTS) / 15)), 
+                  dam += MAX(dice(2, MAX(1, GET_SKILL(ch, SKILL_MARTIAL_ARTS) / 15)), 
                              check_skill(ch, 101, SKILL_INSIGHT) ?
                              dice(2, MAX(1, GET_SKILL(ch, SKILL_INSIGHT) / 15)) : 0);
                 if (check_skill(ch, 101, SKILL_IMPROVED_MARTIAL_ARTS))
@@ -1683,11 +1683,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
                   dam += MAX(dice(1, MAX(1, GET_SKILL(ch, SKILL_ADVANCED_MARTIAL_ARTS) / 15)), 
                              check_skill(ch, 101, SKILL_INSIGHT) ?
                              dice(1, MAX(1, GET_SKILL(ch, SKILL_INSIGHT) / 15)) : 0);
-
-
-             }
-             else
-             {
+             } else {
                 dam = dice(1, 4);
              }
           }

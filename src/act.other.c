@@ -262,7 +262,7 @@ ACMD(do_slip) {
   }
 
   prob = dex_app_skill[GET_DEX(ch)].p_pocket;
-  prob -= armor_apply(ch, SKILL_S);
+  prob -= armor_apply(ch, SKILL_SLIP);
 
   if (!IS_NPC(vict) && (GET_LEVEL(vict) > GET_LEVEL(ch)))
     prob -= (GET_LEVEL(vict) - GET_LEVEL(ch));

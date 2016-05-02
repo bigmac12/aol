@@ -1,4 +1,19 @@
 2
+tr
+7
+trip $*
+1
+4
+door
+20
+op door n; op door s
+1
+4
+dism
+13
+dismount self
+0
+2
 wp
 9
 wear pack
