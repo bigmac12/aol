@@ -3026,7 +3026,7 @@ ACMD(do_plip)
        nm = (player_table + i)->name;
        load_char(nm, &chdata);
 
-       if (IS_SET(chdata.player_specials_saved.act, PLR_DELETED)) {
+       if (IS_SET(chdata.char_specials_saved.act, PLR_DELETED)) {
            char_status = "D";
        } else {
            char_status = "A";
