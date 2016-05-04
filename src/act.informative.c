@@ -3008,6 +3008,7 @@ ACMD(do_plip)
 {
   int i = 0;
   char *nm;
+  char *char_status;
   struct char_file_u chdata;
 
   *buf = 0;
@@ -3024,7 +3025,14 @@ ACMD(do_plip)
     {
        nm = (player_table + i)->name;
        load_char(nm, &chdata);
-       sprintf(buf, "%s%-20s  [%s]\r\n", buf, chdata.name, chdata.host);
+
+       if (IS_SET(chdata.player_specials_saved.act, PLR_DELETED)) {
+           char_status = "D";
+       } else {
+           char_status = "A";
+       }
+
+       sprintf(buf, "%s%-20s (%s) [%s]\r\n", buf, chdata.name, char_status, chdata.host);
     }
   }
   if(strlen(buf) >= MAX_STRING_LENGTH - 32)

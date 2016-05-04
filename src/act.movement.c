@@ -141,341 +141,150 @@ int has_lung(struct char_data *ch)
 
  */
 
-int do_simple_move(struct char_data *ch, int dir, int need_specials_check)
-
-{
-
+int do_simple_move(struct char_data *ch, int dir, int need_specials_check) {
   int was_in = 0;
-
   int need_movement = 0;
-
   struct char_data *sentry, *tmpch;
-
   int success, same_room = 0, riding = 0, ridden_by = 0, percent;
-
   char buf2[MAX_STRING_LENGTH];
-
-  
-
-
-
   int special(struct char_data *ch, int cmd, char *arg);
 
-
-
   /*
-
    * Check for special routines (North is 1 in command list, but 0 here) Note
-
    * -- only check if following; this avoids 'double spec-proc' bug
-
    */
 
-
-
   percent = number(1,101);
-
   success = number(1,10);
 
-
-
   if (need_specials_check && special(ch, dir + 1, "")) {
-
     return 0;
-
   }
 
-
-
   if (RIDING(ch))
-
     riding = 1;
 
   if (RIDDEN_BY(ch))
-
     ridden_by = 1;
 
-
-
- 
-
   /* if they're mounted, are they in the same room w/ their mount(ee)? */
-
   if (riding && RIDING(ch)->in_room == ch->in_room)
-
     same_room = 1;
-
   else if (ridden_by && RIDDEN_BY(ch)->in_room == ch->in_room)
-
     same_room = 1;
-
-
 
   /* tamed mobiles cannot move about (DAK) */
-
-  if (ridden_by && same_room && AFF_FLAGGED(ch, AFF_TAMED))
-
- {
-
+  if (ridden_by && same_room && AFF_FLAGGED(ch, AFF_TAMED)) {
     send_to_char("You've been tamed. Now act it!\r\n", ch);
-
     return 0;
-
-  } 
-
-
-
-
+  }
 
   /* charmed? */
-
-  if (IS_AFFECTED(ch, AFF_CHARM) &&
-
-      ch->master && ch->in_room == ch->master->in_room) {
-
+  if (IS_AFFECTED(ch, AFF_CHARM) && ch->master && ch->in_room == ch->master->in_room) {
     send_to_char("The thought of leaving your master makes you weep.\r\n", ch);
-
     act("$n bursts into tears.", FALSE, ch, 0, 0, TO_ROOM);
-
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_HOLD_PERSON))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_HOLD_PERSON)) {
     send_to_char("You are magically held immobile!\r\n", ch);
-
     act("$n tries to leave, but is held immobile.", FALSE, ch, 0, 0, TO_ROOM);
-
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_PARALYZE))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_PARALYZE)) {
     send_to_char("You cannot leave while your body is paralyzed.\r\n", ch);
-
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_ENTANGLE))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_ENTANGLE)) {
     send_to_char("The vines and roots entangling you stop movement.\r\n", ch);
-
-    act("$n tries to break free of the entangling vines and roots, but fails.",
-
-         FALSE, ch, 0, 0, TO_ROOM);
-
+    act("$n tries to break free of the entangling vines and roots, but fails.", FALSE, ch, 0, 0, TO_ROOM);
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_WEB))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_WEB)) {
     send_to_char("You fail to break though the thick webs.\r\n", ch);
-
-    act("$n tries to break through the thick webs, but fails.",
-
-         FALSE, ch, 0, 0, TO_ROOM);
-
+    act("$n tries to break through the thick webs, but fails.", FALSE, ch, 0, 0, TO_ROOM);
     return 0;
-
   }
 
-
-
-  if (affected_by_spell(ch, SPELL_MIRE))
-
-  {
-
+  if (affected_by_spell(ch, SPELL_MIRE)) {
     send_to_char("The mire still holds you fast.\r\n", ch);
-
-    act("$n tries to leave, but is still stuck in the mire.",
-
-         FALSE, ch, 0, 0, TO_ROOM);
-
+    act("$n tries to leave, but is still stuck in the mire.", FALSE, ch, 0, 0, TO_ROOM);
     return 0;
-
   }
 
-
-
- if (GET_POS(ch) == POS_DIGGING) {
-
-    send_to_char("But you are digging!\r\n", ch);
-
-    return 0;
-
-   }
-
-
-
-  /* if this room or the one we're going to needs a boat, check for one 
-
-  if ((SECT(ch->in_room) == SECT_WATER_NOSWIM) ||
-
-      (SECT(EXIT(ch, dir)->to_room) == SECT_WATER_NOSWIM)) {
-
-if ((riding && !has_boat(RIDING(ch))) || !has_boat(ch)) {      
-
-send_to_char("You need a boat to go there.\r\n", ch);
-
-      return 0;
-
+    if (GET_POS(ch) == POS_DIGGING) {
+        send_to_char("But you are digging!\r\n", ch);
+        return 0;
     }
 
-  } */
-
-
+    /* if this room or the one we're going to needs a boat, check for one
+    if ((SECT(ch->in_room) == SECT_WATER_NOSWIM) || (SECT(EXIT(ch, dir)->to_room) == SECT_WATER_NOSWIM)) {
+        if ((riding && !has_boat(RIDING(ch))) || !has_boat(ch)) {
+            send_to_char("You need a boat to go there.\r\n", ch);
+            return 0;
+        }
+    }
+    */
 
   /* if this room or the one we're going to needs fly, check for one */
-
-  if ((SECT(ch->in_room) == SECT_FLYING) ||
-
-      (SECT(EXIT(ch, dir)->to_room) == SECT_FLYING))
-
-  {
-
-    if (!can_fly(ch))
-
-    {
-
+  if ((SECT(ch->in_room) == SECT_FLYING) || (SECT(EXIT(ch, dir)->to_room) == SECT_FLYING)) {
+    if (!can_fly(ch)) {
       send_to_char("You're going to need to learn how to fly first.\r\n", ch);
-
       return 0;
-
     }
-
   }
-
-
 
   /* move points needed is avg. move loss for src and destination sect type */
-
-  need_movement = (movement_loss[SECT(ch->in_room)] +
-
-		   movement_loss[SECT(EXIT(ch, dir)->to_room)]) >> 1;
-
-
+  need_movement = (movement_loss[SECT(ch->in_room)] + movement_loss[SECT(EXIT(ch, dir)->to_room)]) >> 1;
 
   if (riding) {
-
     if (GET_MOVE(RIDING(ch)) < need_movement) {
-
       send_to_char("Your mount is too exhausted.\r\n", ch);
-
       return 0;
-
     }
-
   }
 
+  if (IS_AFFECTED(ch, AFF_FLIGHT)) {
+    need_movement = (need_movement + 1) / 2;
+  }
 
-
-  if (IS_AFFECTED(ch, AFF_FLIGHT))
-
-    need_movement = (need_movement+1)/2;
-
-
-
-  if(IS_RANGER(ch) || IS_DRUID(ch))
-
-    need_movement = (need_movement+1)/2;
-
-
+  if(IS_RANGER(ch) || IS_DRUID(ch)) {
+    need_movement = (need_movement + 1) / 2;
+  }
 
   if (GET_MOVE(ch) < need_movement && !IS_NPC(ch) && !riding) {
-
     if (need_specials_check && ch->master) {
-
       send_to_char("You are too exhausted to follow.\r\n", ch);
-
     } else {
-
       send_to_char("You are too exhausted.\r\n", ch);
-
     }
-
-
-
     return 0;
-
   }
-
-
 
  if (riding && !use_skill(ch, percent, SKILL_RIDING) && (GET_SKILL(ch, SKILL_RIDING) <= number(1, 55))) { 
-
     act("$N rears backwards, throwing you to the ground! Ouch!", FALSE, ch, 0, RIDING(ch), TO_CHAR);
-
     act("You rear backwards, throwing $n to the ground. Ouch!", FALSE, ch, 0, RIDING(ch), TO_VICT);
-
     act("$N rears backwards, throwing $n to the ground. Ouch!", FALSE, ch, 0, RIDING(ch), TO_NOTVICT);
-
     dismount_char(ch);
-
     GET_POS(ch) = POS_SITTING;
-
     damage(ch, ch, dice(1,6), -1);
-
     return 0;
-
   }
-
-
-
-
 
   /*  PDH  3/16/99 - PCs can't enter GODROOMs  */
-
-  if (ROOM_FLAGGED(EXIT(ch, dir)->to_room, ROOM_GODROOM) &&
-
-     (GET_LEVEL(ch) < LVL_IMMORT))
-
-  {
-
+  if (ROOM_FLAGGED(EXIT(ch, dir)->to_room, ROOM_GODROOM) && (GET_LEVEL(ch) < LVL_IMMORT)) {
     send_to_char("You are not Godly enough to go there.\r\n", ch);
-
     return 0;
-
   }
 
-
-
-
-
-  /*  PDH  4/ 1/99 - TEST char can't enter Open zone, and vice versa  
-
-  if ( PLR_FLAGGED(ch, PLR_TESTCHAR) &&
-
-       zone_table[world[EXIT(ch, dir)->to_room].zone].zone_status ==
-
-       ZONE_OPEN ) {
-
+  /*  PDH  4/ 1/99 - TEST char can't enter Open zone, and vice versa
+  if (PLR_FLAGGED(ch, PLR_TESTCHAR) && zone_table[world[EXIT(ch, dir)->to_room].zone].zone_status == ZONE_OPEN) {
     send_to_char("You are merely for test purposes.  Stick to non-open zones.\r\n", ch);
-
     return 0;
-
   } */
-
-
 
   /*  PDH  4/12/99 - char can oly enter Open zone  
 
@@ -495,60 +304,29 @@ send_to_char("You need a boat to go there.\r\n", ch);
 
   } */
 
-
-
-
-
-  if (IS_SET(ROOM_FLAGS(ch->in_room), ROOM_ATRIUM)) {
-
-    if (!House_can_enter(ch, world[EXIT(ch, dir)->to_room].number)) {
-
-      send_to_char("That's private property -- no trespassing!\r\n", ch);
-
-      return 0;
-
+    if (IS_SET(ROOM_FLAGS(ch->in_room), ROOM_ATRIUM)) {
+        if (!House_can_enter(ch, world[EXIT(ch, dir)->to_room].number)) {
+            send_to_char("That's private property -- no trespassing!\r\n", ch);
+            return 0;
+        }
     }
 
-  }
 
 
-
-if ((riding || ridden_by) && IS_SET(ROOM_FLAGS(EXIT(ch, dir)->to_room), ROOM_TUNNEL)) {
-
-    send_to_char("There isn't enough room there, while mounted.\r\n", ch);
-
-    return 0;
-
-  } else {
-
-  if (IS_SET(ROOM_FLAGS(EXIT(ch, dir)->to_room), ROOM_TUNNEL) &&
-
-      num_pc_in_room(&(world[EXIT(ch, dir)->to_room])) > 1) {
-
-    send_to_char("There isn't enough room there for more than one person!\r\n",
-
-		 ch);
-
-    return 0;
-
-  }
-
-}
-
-
+    if ((riding || ridden_by) && IS_SET(ROOM_FLAGS(EXIT(ch, dir)->to_room), ROOM_TUNNEL)) {
+        send_to_char("There isn't enough room there, while mounted.\r\n", ch);
+        return 0;
+    } else {
+        if (IS_SET(ROOM_FLAGS(EXIT(ch, dir)->to_room), ROOM_TUNNEL) && num_pc_in_room(&(world[EXIT(ch, dir)->to_room])) > 1) {
+            send_to_char("There isn't enough room there for more than one person!\r\n", ch);
+            return 0;
+        }
+    }
 
   /*   The check for sentry mobs - Soli, 8/6/99   */
-
   if (IS_SET(ROOM_FLAGS(EXIT(ch, dir)->to_room), ROOM_GUARDED))
-
   {
-
-    for (sentry = world[ch->in_room].people; sentry;
-
-         sentry = sentry->next_in_room)
-
-    {
-
+    for (sentry = world[ch->in_room].people; sentry; sentry = sentry->next_in_room) {
       if (IS_NPC(sentry) && MOB_FLAGGED(sentry, MOB_SENTRY) && (GET_POS(sentry) != POS_SLEEPING && !AFF_FLAGGED(sentry, AFF_KNOCKOUT)))
 
       {
