@@ -3027,7 +3027,7 @@ ACMD(do_plip)
        load_char(nm, &chdata);
 
        if (IS_SET(chdata.char_specials_saved.act, PLR_DELETED)) {
-           char_status = "&RD&n";
+           char_status = "&rD&n";
        } else {
            char_status = "&gA&n";
        }
