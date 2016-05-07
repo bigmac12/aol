@@ -1,37 +1,42 @@
-3
-say
-36
-say *In a low rumbling voice* &m$*&n
+2
+ba
+7
+bash $*
 1
 1
-i
+b
 13
 bash $*;stand
 1
-1
-0
-11
-lo smuggler
-0
 4
 smug
 13
 kill smuggler
 0
-2
-ki
-3
-res
+1
 0
-3
-pur
-6
-put $*
+11
+lo smuggler
+0
+11
+superassess
+99
+assess $*;assess $*;assess $*;assess $*;assess $*;assess $*;assess $*;assess $*;assess $*;assess $*
+1
+4
+skin
+11
+skin corpse
+0
+1
+m
+8
+mount $*
 1
 1
-k
-7
-kick $*
+5
+24
+flee;flee;flee;flee;flee
 1
 1
 2
@@ -43,8 +48,13 @@ get all.coins all.corpse
 18
 get all all.corpse
 0
+3
+pur
+6
+put $*
 1
-5
-29
-flee;flee;flee;flee;flee;flee
+1
+k
+7
+kick $*
 1
