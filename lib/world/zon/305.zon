@@ -2,6 +2,7 @@
 Sanction's Buildings~
 30599 15 2
 * ZoneState 1 unowned 000000000000000
+D 0 30533 3 1 	(The Flask and Sword Tavern)
 M 0 30502 1 30502 	(Arseth)
 G 1 2828 100 -1 	(a heavy mug of frothy beer)
 G 1 30504 100 -1 	(a pewter mug filled with dark honey ale)
@@ -185,7 +186,7 @@ M 0 5104 1 30537 	(the weaponsmaster)
 M 0 30526 1 30526 	(Florence the herbalist)
 M 0 5240 5 30599 	(a tall, sturdy quarter horse)
 M 1 5241 5 30599 	(a black and white spotted appaloosa stallion)
-M 1 13614 5 30599 	(a large black and white patched cow)
+M 1 13614 5 30599 	(&na large &Kblack&n and &Wwhite&N patched cow&n)
 M 1 5099 5 30599 	(a dark-hued donkey)
 M 1 8518 5 30599 	(a majestic, white horse)
 D 0 30561 1 1 	(Sitting Room of the Mayor's Estate)

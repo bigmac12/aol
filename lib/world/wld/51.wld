@@ -6,7 +6,7 @@ building stands three stories high, the tallest building in this city.  The
 structure is an odd mixture of red and green bricks, with small windows peeking
 out from the third floor.  To the south is Richwater Street.    
 ~
-51 4 0 0 0
+51 32772 0 0 0
 D0
 ~
 ~
@@ -26,7 +26,7 @@ cover the walls with mainly seascapes.  Silence fills the inn now, it is as
 eerie as it is foreboding.  Around the corner to the west - the bar sits empty.
   
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -52,7 +52,7 @@ from the ceiling, brightening the room enough to see the details.  There are
 two doors - one to the south and one to the west - that lead to bulletin board
 rooms, and the hallway turns to the north, toward the silent bar.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -83,15 +83,11 @@ stairway leads up to the area where you first started your journey.  If you
 find yourself in need of more guidance, it might be a good idea to take another
 stroll through those rooms.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
 0 0 5102
-D4
-~
-~
-0 0 2070
 S
 #5104
 A Room of Problems and Ideas~
@@ -100,7 +96,7 @@ of problems that people have come across, and ideas that sometimes prove to be
 good enough for all to listen to.  Surprisingly the floor is kept clean, and
 the boards are in proper, legible order.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -116,7 +112,7 @@ door stands wide open.  To the east is a few steps leading to a large doorway,
 and the entrance to the once famous Seasick Kraken Bar and Grill.  Now however
 the bar stands in silence, void of any patrons or servers.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -140,7 +136,7 @@ gnome can certainly provide fast service.  Many cages behind the counter are
 filled with brown, grey, and white homing pigeons, and upon the front counter
 are sheets of parchment and inkwells for people to use for their messages.    
 ~
-51 12 0 0 0
+51 32780 0 0 0
 D1
 ~
 ~
@@ -155,7 +151,7 @@ a great, polished piece of wood, with carvings of various sea creatures along
 the side.  This bar was once known for its great food, and fine ale; however
 now it stands empty with over turned tables and broken chairs.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -173,7 +169,7 @@ from the ceiling, brightening the room enough to see the details.  There are
 two doors - one to the south and one to the east - that lead to bulletin board
 rooms, with the hallway turning north.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -203,7 +199,7 @@ posters along the wall depict portaits of criminals, with notes attached to
 these as well.  The floor and boards are kept clean and legible for others to
 read and be warned of the crimes that happen.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -216,7 +212,7 @@ gods use most often to let the mortals of this realm know what is allowed, and
 what will not be tolerated.  Mortals can post questions to the gods here about
 these rules as well, and let all gain knowledge of the gods' wishes.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D3
 ~
 ~
@@ -231,7 +227,7 @@ installed to permit customers to conduct private business away from prying
 eyes.  To the east, a doorway opens into a meeting room in the event a booth
 does not afford the level of privacy desired.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
    A thick wooden door muffles the sounds of any meetings taking place beyond
 it.    
@@ -263,7 +259,7 @@ maps and paintings, and a table in the middle of the room serves as a seating
 place for weary travellers who gather here to discuss plans.  The eastern wall
 of the room is dominated by a massive stone fireplace.    
 ~
-51 40 0 0 0
+51 32808 0 0 0
 D3
    A thick wooden door muffles the sounds coming from the bar area.    
 ~
@@ -276,7 +272,7 @@ At the Desk of the Seasick Kraken~
 floor.  Between the splinters are pieces of broken glass from the chandelier.
 The once lovely inn is now silent and in ruins.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D5
 ~
 ~
@@ -315,7 +311,7 @@ different sized bag and packs to torches and lanterns.  Behind some of the
 display cases items have been stacked up obviously in preperation for their
 turn on display.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D2
 ~
 ~
@@ -329,7 +325,7 @@ minutes a small shadow moves quickly through the attic, passing out of sight in
 an instant.  It probably would not be wise to set anything down in this area,
 as it would no doubt be swept off and stored with the collector's inventory.  
 ~
-51 9 0 0 1
+51 32777 0 0 1
 D5
 ~
 ~
@@ -343,7 +339,7 @@ reserved for the customers.  The rest of the room is magically barred, sealed,
 warded and glyphed against anyone other than Shahara who would attempt to get
 into it and steal the masses of treasure entrusted here.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -357,7 +353,7 @@ to trade their items, or wanting certain pieces of equipment, or their
 locations.  This is one of the best places to find rare items, or at least to
 find the person who may know where those items can be found.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D6
 ~
 ~
@@ -394,7 +390,7 @@ walls and the ceiling hang a wide variety of weapons, from slim curved blades,
 to huge broadswords, spiked clubs, staves, as well as tridents and crossbows.
 The guild hall leads east.  The exit is to the west.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -412,7 +408,7 @@ leading downwards to the east where the weaponsmaster can be found, usually
 training students and warriors alike in different techniques of swordplay, as
 well as other skills that any warrior might need in battle.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -439,7 +435,7 @@ chairs - all seem to show that the weaponsmaster takes pride in his ability to
 teach his students more than just how to wield a weapon - but also how to fight
 in almost any instance - and how to stay prepared.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D4
 ~
 ~
@@ -453,7 +449,7 @@ student.  A few cabinets line the walls with weapons to choose from - none are
 battle ready or sharp enough to kill.  The rest of the guild lies to the east,
 while to the south lies the entrance.
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -470,7 +466,7 @@ that leads to the second floor of this guild.  Resting upon each pillar is a
 set of swords - one short with a slim blade, and the other larger, engraved
 with runic symbols.  No other decorations fill this room.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D3
 ~
 ~
@@ -488,7 +484,7 @@ student.  A few cabinets line the walls with weapons to choose from - none are
 battle ready or sharp enough to kill.  The rest of the guild lies to the east,
 and to the north, near the entrance.
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -505,7 +501,7 @@ that leads to the second floor of this guild.  Resting upon each pillar is a
 set of swords - one short with a slim blade, and the other larger, engraved
 with runic symbols.  No other decorations fill this room.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D3
 ~
 ~
@@ -525,7 +521,7 @@ eastern wall overlooks the bay - a perfect place of contemplation.  Two sets of
 stairs - one to the north and one to the south - lead to the first floor of the
 Guild of the Warrior.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D5
 ~
 ~
@@ -539,7 +535,7 @@ blue waves along the sides of the walls.  Great pillars with carved images of
 sea creatures guard the temple entrances to the south and east, acting like
 doors into the sandstone structure.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -562,7 +558,7 @@ decorated with intricate paintings of sea creatures, bars the way to the north,
 where the priests of Zeboim live, meditate, and do the work of their goddess.
 The corridor ends to the east, branching off to the north and south.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -585,7 +581,7 @@ temple, and to the north are the private rooms where they may go and
 contemplate, meditate, or pray for guidance from their goddess, the Sea Queen.
 A door of sandstone separates the priests' rooms from the rest of the temple.
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -612,7 +608,7 @@ almost see the thumb paintings blend into one, great view of the undersea
 world, and come to understand the greatnes and holiness of the Sea Queen and
 all her glory within her watery realm.    
 ~
-51 131244 0 0 0
+51 164012 0 0 0
 D2
 ~
 ~
@@ -626,7 +622,7 @@ priests who reside within this temple.  Beds are laid out along the walls, and
 clothing cabinets are built within the walls, to serve as closets for the
 priests.  Another room lies to the north, and the the hallway lies to the east.
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -659,7 +655,7 @@ painting - the most famous telling a short story of the Great Sea Queen Zeboim
 vanquishing her enemies with the wave.  This corridor turns south, up a slight
 slope, and to the north is a door leading to a private room.
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 door~
@@ -682,7 +678,7 @@ study.  A small cabinet along the bedroom wall serves as a closet, and another
 cabinet near the study desk holds a few of the High Priest's private collection
 of books and scrolls.    
 ~
-51 262152 0 0 0
+51 294920 0 0 0
 D2
 ~
 door~
@@ -696,7 +692,7 @@ To the north the corridor continues through the rest of the temple.  Holy items
 and cloths, vials of unholy water and other altar tools lie upon the table at
 the southern end of the room, for the priests.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -715,7 +711,7 @@ decorated with intricate paintings of sea creatures, bars the way to the west,
 where the priests of Zeboim live, meditate, and do the work of their goddess.
 The corridor ends to the south, branching off to the west and east.    
 ~
-51 4 0 0 0
+51 32772 0 0 0
 D0
 ~
 ~
@@ -739,7 +735,7 @@ contemplation, meditation or pray for guidance from their goddess, the Sea
 Queen.  A door of sandstone separates the priests' rooms from the rest of the
 temple.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -763,7 +759,7 @@ presence of the great goddess, the Sea Queen, and contemplate her wishes and
 desires.  The room almost hums with the faith energy of those who have
 meditated here and have achieved Zeboim's blessings.    
 ~
-51 172 0 0 0
+51 32940 0 0 0
 D1
 ~
 ~
@@ -776,7 +772,7 @@ priests who reside within this temple.  Beds are laid out along the walls, and
 clothing cabinets are built within the walls, to serve as closets for the
 priests.  Another room lies to the west, and the hallway is to the south.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D2
 ~
 ~
@@ -809,7 +805,7 @@ with fury.  Another grim reminder of the temper of the Great Sea Queen Zeboim
 to those who may try to cross her.  To the west is a door leading to a private
 room, and the corridor continues to the east up a slight slope.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -833,7 +829,7 @@ temple.  A few cabinets within the walls house the various cloths and robes the
 priests may need for certain ceremonies.  The room, although packed, is neat
 and in efficient order for those who know what they need and where to get it.
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -848,7 +844,7 @@ To the west the corridor continues through the rest of the temple.  Holy items
 and cloths, vials of unholy water and other altar tools lie upon the table at
 the eastern end of the room, for the priests.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D3
 ~
 ~
@@ -891,7 +887,7 @@ southern wall where a large almost transparent mirror is proudly displayed
 behind the bar.  Two wine racks, each full of various wines and other bottles
 of drink, hang to each side of the mirror.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D1
 ~
 ~
@@ -912,7 +908,7 @@ back room.  It is here where the more shady business deals are made or broken.
 Along the southern wall is a long table, with a comfortable chair behind it -
 made especially for the master of the hidden guild.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D2
 ~
 ~
@@ -930,7 +926,7 @@ of a huge serpent, coiled and ready to strike.  Faint outlines of doors can be
 detected along the south, southeastern, and southwestern walls, though only a
 fool would not check for traps first.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 mirror~
@@ -955,7 +951,7 @@ Some tapestries hang along the walls - one to the north and another to the
 southeast are the largest.  Two corner tables have bronze sculputures of a
 coiled serpent, complete with glimmering red eyes - the symbol of the guild.  
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D7
 ~
 ~
@@ -972,7 +968,7 @@ Some tapestries hang along the walls - one to the northwest and another to the
 northeast are the largest.  Two corner tables have bronze sculptures of a
 coiled serpent, complete with glimmering red eyes - the symbol of the guild.  
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D6
 ~
 ~
@@ -988,7 +984,7 @@ The Pit of the Serpent~
 ragged, as if littered with large rocks or other debris.  A hissing emanates
 from the darkness, echoing all around, creating an ominous feeling of doom.  
 ~
-51 9 0 0 0
+51 32777 0 0 0
 D0
 ~
 ~
@@ -1002,7 +998,7 @@ Two corner tables have bronze sculptures of a coiled serpent, complete with
 glimmering red eyes - the symbol of the guild.  The faint outline of a door can
 be seen to the north within the wall.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 door~
@@ -1027,7 +1023,7 @@ courtyard garden continues along the eastern wall, and around the corner of the
 tower.  Two doors of polished redwood seem to bar the entrance to the tower
 with a sentient presence.    
 ~
-51 0 0 0 0
+51 32768 0 0 0
 D1
 ~
 ~
@@ -1050,7 +1046,7 @@ neat patches in between the smooth walkway stones.  Other plants, many exotic
 blooming varieties, grow nearer the wall and out of reach.  The garden grows
 around the tower, west and south.    
 ~
-51 0 0 0 0
+51 32768 0 0 0
 D2
 ~
 ~
@@ -1072,7 +1068,7 @@ fragrances within this place more wonderous.  The rest of the garden lies
 north, and wraps around the tower toward the front, following the smoothly
 polished stones.    
 ~
-51 0 0 0 0
+51 32768 0 0 0
 D0
 ~
 ~
@@ -1088,7 +1084,7 @@ cream and gold, grow near the set of huge redwood doors leading outside.
 Another door, this one of polished bronze, leads east, and a hallway continues
 to the north.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -1112,7 +1108,7 @@ into the wall holds dry ingredients, and another serves as a cooler place to
 hold fresh fruits and vegetables.  A set of stairs winds upwards into the
 darkness above.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D3
 ~
 ~
@@ -1131,7 +1127,7 @@ tapestries hang in between the scones along one wall, and paintings hang along
 the other wall.  To the north are two rooms - each brightly lit and inviting.
 To the south lies the entrance room of the tower.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -1154,7 +1150,7 @@ scrolls, and notes scattered on or within.  The room is not the largest, but it
 is extremely tidy and clean.  Lighting comes from a few shimmering balls of
 light inset into the shelves, as well as chandeliers hanging from above.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D2
 ~
 ~
@@ -1171,7 +1167,7 @@ containers.  The tables within this room are also covered in herbs, drying
 racks and glass jars containing liquids.  A fireplace sets in the corner,
 especially made for brewing and steaming.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D8
 ~
 ~
@@ -1187,7 +1183,7 @@ read within the pictures upon the walls, if one could interprete the intricate
 weaving of the magical patterns.  The hallway continues to the west, into a
 room, and northwest around the corner.    
 ~
-51 12 0 0 0
+51 32780 0 0 0
 D3
 ~
 ~
@@ -1342,7 +1338,7 @@ orders for particular weapon styles, for a price of course.  The main door lies
 to the north.  This shop appears to have been recently abandoned, as evidenced
 by fallen shelves and broken furniture.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -1358,7 +1354,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-51 33554444 0 0 0
+51 33587212 0 0 0
 D3
 ~
 ~
@@ -1374,7 +1370,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-51 33554956 0 0 0
+51 33587724 0 0 0
 D3
 ~
 ~
@@ -1390,7 +1386,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-51 33554956 0 0 0
+51 33587724 0 0 0
 D2
 ~
 ~
@@ -1406,7 +1402,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-51 33554956 0 0 0
+51 33587724 0 0 0
 D2
 ~
 ~
@@ -1438,7 +1434,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-51 33554956 0 0 0
+51 33587724 0 0 0
 D1
 ~
 ~
@@ -1454,7 +1450,7 @@ and a sturdy iron hook for cooking.  One side of the house is set for food
 preparation and dining, while the other provides a comfortable seating area for
 rest and relaxation.  A loft for sleeping is visible overhead.    
 ~
-51 33554444 0 0 0
+51 33587212 0 0 0
 D1
 ~
 door~
@@ -1468,7 +1464,7 @@ prominent leather shop is a few scraps of leather, and piece of ripped cloth.
 It appears that what may have remained has been picked clean by the orphan
 children, or looters.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D0
 ~
 ~
@@ -1486,7 +1482,7 @@ Quests, Invasions, and minor or major situations, histories, backgrounds for
 characters that might occur, or that they wish to do.  Imms may reply as well
 on this board, to answer or ask for ideas about any RP-type situation.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D7
 ~
 ~
@@ -1587,7 +1583,7 @@ Several large rocks have been positioned along the borders of the path along
 with various types of succulent plants that appear to be able to thrive in this
 environment.    
 ~
-51 0 1 0 0
+51 32768 1 0 0
 D2
 ~
 ~
@@ -1635,7 +1631,7 @@ times of day due to the presence of a large tree which stands between the park
 and Sandstone Lane, as well as the city wall which is visible to the west, just
 beyond a rather large statue.    
 ~
-51 0 1 0 0
+51 32768 1 0 0
 D0
 ~
 ~
@@ -1667,7 +1663,7 @@ Several large rocks have been positioned along the borders of the path along
 with various types of succulent plants that appear to be able to thrive in this
 environment.    
 ~
-51 0 1 0 0
+51 32768 1 0 0
 D3
 ~
 ~
@@ -1716,20 +1712,21 @@ each bench.  Each bench is slightly larger than a chair, but not by much.  A
 candle with an orange tinted glass orb provides the light for this booth, it
 has been attached to the wall, leaving more space for the table.    
 ~
-51 264 0 0 0
+51 33032 0 0 0
 D9
 ~
 ~
 0 0 5111
 E
-table counter~
-   The table isn't big by any means.  It can barely hold two people's food and
-two mugs.  Surrounding the sides of the table are carvings of turtles.  That
-may seem odd to some, but those who travel the seas know well enough to not
-anger The Goddess of the Sea.  The table is connected to the wall and can't be
-moved, but the connection to the wall only does that, keeping it from moving.
-Under the table, one large leg comes out of the center, keeping it from falling
-down when any weight is set on it.    
+bench chair benches seat~
+   The benches are crafted out of a solid wood and stained so it's now a very
+dark, almost red, color.  The seat of the bench has a black cloth on it, and
+under the cloth is some sort of padding, straw perhaps.  On the back of each
+bench is a carving of different sea animals, some real, some, like mermaids, a
+little less real.  Each carving is different, but they all have one thing in
+common, a carving of a turtle that is put on each of the corners of the bench.
+Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
+Keeping her happy, or at least not angry, is important.    
 ~
 E
 candle light glass orb~
@@ -1741,15 +1738,14 @@ glass orb covers the flame and tints the surrounding area orange.  Often
 though, the candles are allowed to burn out to nothing.    
 ~
 E
-bench chair benches seat~
-   The benches are crafted out of a solid wood and stained so it's now a very
-dark, almost red, color.  The seat of the bench has a black cloth on it, and
-under the cloth is some sort of padding, straw perhaps.  On the back of each
-bench is a carving of different sea animals, some real, some, like mermaids, a
-little less real.  Each carving is different, but they all have one thing in
-common, a carving of a turtle that is put on each of the corners of the bench.
-Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
-Keeping her happy, or at least not angry, is important.    
+table counter~
+   The table isn't big by any means.  It can barely hold two people's food and
+two mugs.  Surrounding the sides of the table are carvings of turtles.  That
+may seem odd to some, but those who travel the seas know well enough to not
+anger The Goddess of the Sea.  The table is connected to the wall and can't be
+moved, but the connection to the wall only does that, keeping it from moving.
+Under the table, one large leg comes out of the center, keeping it from falling
+down when any weight is set on it.    
 ~
 S
 #5193
@@ -1798,7 +1794,7 @@ and extremely delicate - good enough for even a queen - but there are other
 pieces of jewelry that appear to be well worn, or once broken and hastily
 mended.  The doorway to this shop lies to the south.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D2
 ~
 ~
@@ -1812,7 +1808,7 @@ herbs rolls out and over the floor at ankle height, from the back room.  Wide
 cushions run along the side of the wall, obviously well used places to sit
 confortably and meditate upon balance and inner thought.    
 ~
-51 8 0 0 0
+51 32776 0 0 0
 D2
 ~
 ~
@@ -1829,7 +1825,7 @@ catalog all the items that Tatalania has collected over the years.  A few of
 her favorite pieces are on display here, but most of collection is quickly
 whisked upstairs for his staff to clean, restore, or prepare for storage.    
 ~
-51 12 0 0 0
+51 32780 0 0 0
 D0
 ~
 ~
@@ -1863,20 +1859,21 @@ each bench.  Each bench is slightly larger than a chair, but not by much.  A
 candle with an orange tinted glass orb provides the light for this booth, it
 has been attached to the wall, leaving more space for the table.    
 ~
-51 264 0 0 0
+51 33032 0 0 0
 D8
 ~
 ~
 0 0 5111
 E
-table counter~
-   The table isn't big by any means.  It can barely hold two people's food and
-two mugs.  Surrounding the sides of the table are carvings of turtles.  That
-may seem odd to some, but those who travel the seas know well enough to not
-anger The Goddess of the Sea.  The table is connected to the wall and can't be
-moved, but the connection to the wall only does that, keeping it from moving.
-Under the table, one large leg comes out of the center, keeping it from falling
-down when any weight is set on it.    
+bench chair benches seat~
+   The benches are crafted out of a solid wood and stained so it's now a very
+dark, almost red, color.  The seat of the bench has a black cloth on it, and
+under the cloth is some sort of padding, straw perhaps.  On the back of each
+bench is a carving of different sea animals, some real, some, like mermaids, a
+little less real.  Each carving is different, but they all have one thing in
+common, a carving of a turtle that is put on each of the corners of the bench.
+Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
+Keeping her happy, or at least not angry, is important.    
 ~
 E
 candle light glass orb~
@@ -1888,15 +1885,14 @@ glass orb covers the flame and tints the surrounding area orange.  Often
 though, the candles are allowed to burn out to nothing.    
 ~
 E
-bench chair benches seat~
-   The benches are crafted out of a solid wood and stained so it's now a very
-dark, almost red, color.  The seat of the bench has a black cloth on it, and
-under the cloth is some sort of padding, straw perhaps.  On the back of each
-bench is a carving of different sea animals, some real, some, like mermaids, a
-little less real.  Each carving is different, but they all have one thing in
-common, a carving of a turtle that is put on each of the corners of the bench.
-Being a large port city, they belive in The Goddess of the Sea, Zebiom.  
-Keeping her happy, or at least not angry, is important.    
+table counter~
+   The table isn't big by any means.  It can barely hold two people's food and
+two mugs.  Surrounding the sides of the table are carvings of turtles.  That
+may seem odd to some, but those who travel the seas know well enough to not
+anger The Goddess of the Sea.  The table is connected to the wall and can't be
+moved, but the connection to the wall only does that, keeping it from moving.
+Under the table, one large leg comes out of the center, keeping it from falling
+down when any weight is set on it.    
 ~
 S
 $~

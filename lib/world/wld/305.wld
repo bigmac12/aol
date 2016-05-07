@@ -14,7 +14,7 @@ entire tree trunks serving as the primary support for the building.  As a
 whole, the experience here is not a pleasant one and will not likely improve
 further in.  A simple sign on the western wall gives basic directions.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D0
 ~
 ~
@@ -43,7 +43,7 @@ and tables that fill the room, the only other furniture present is the bar
 itself.  Along the outer walls, several doors mark the presence of private
 rooms and booths.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D0
 ~
 ~
@@ -72,7 +72,7 @@ each bench.  Each bench is slightly larger than a chair, but not by much.  A
 candle with an red tinted glass orb provides the light for this booth, it has
 been attached to the wall, leaving more space for the table.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D2
 ~
 ~
@@ -87,7 +87,7 @@ here to discuss plans.  The eastern wall of the room is dominated by a massive
 stone fireplace.  Two high back chairs are set before the fire for a more
 private conversation.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D8
 ~
 door~
@@ -104,7 +104,7 @@ each bench.  Each bench is slightly larger than a chair, but not by much.  A
 candle with an red tinted glass orb provides the light for this booth, it has
 been attached to the wall, leaving more space for the table.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D3
 ~
 ~
@@ -121,7 +121,7 @@ The cleanliness and wonderful paintings are all proof of this.
 (New adventurers: please type &MKIT&n here to receive your gear)
 
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D2
 ~
 ~
@@ -141,7 +141,7 @@ the same distance apart from each other.  The candle holders are made from
 silver, and arcs upwards from the wall.  The metal has been twisted slightly,
 to give it a more attractive look.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D1
 ~
 ~
@@ -160,7 +160,7 @@ same distance apart from each other.  The candle holders are made from silver,
 and arcs upwards from the wall.  The metal has been twisted slightly, to give
 it a more attractive look.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D1
    A calming emerald color has been painted on both sides of this thick oak
 door.  The locks on the door are not even pick able by kender, thus leaving
@@ -193,14 +193,8 @@ Not even the most skilled of kender could.
 crimsondoor~
 2 30511 30511
 E
-emeralddoor emerald~
-   A calming emerald color has been painted on both sides of this thick oak
-door.  The locks on the door are not even pick able by kender, thus leaving
-your belongings safe.    
-~
-E
-ebonydoor ebony~
-   A dark ebony color has been painted on both sides of this thick oak door.  
+purpledoor purple~
+   A rich purple color has been painted on both sides of this thick oak door.
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
@@ -211,10 +205,16 @@ The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
 E
-purpledoor purple~
-   A rich purple color has been painted on both sides of this thick oak door.
+ebonydoor ebony~
+   A dark ebony color has been painted on both sides of this thick oak door.  
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
+~
+E
+emeralddoor emerald~
+   A calming emerald color has been painted on both sides of this thick oak
+door.  The locks on the door are not even pick able by kender, thus leaving
+your belongings safe.    
 ~
 S
 #30509
@@ -227,7 +227,7 @@ it.  The ceiling has been painted a lovely violet color with painted white
 roses.  Around the room metal candle holders hang from the walls, away from the
 silk.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D0
    A brilliant shade of purple has been painted on both sides of this thick,
 oak door.    
@@ -245,7 +245,7 @@ room well lit.  Against the northern wall is the double bed, and against the
 southern wall is an armoire for travelers to place their clothing in.  To the
 east is the door leading back to the hallway.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D3
    A calming emerald color has been painted on both sides of this thick oak
 door.  The locks on the door are not even pick able by kender, thus leaving
@@ -264,7 +264,7 @@ an armoire against the western wall.  Curtain covers the window on the southern
 wall, it has been kept clean to allow natural light.  Around the room metal
 candle holders hang from the walls.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D6
    A vibrant crimson color has been painted on both sides of this thick oak
 door.  The locks on the door are not even pick able by kender, thus leaving
@@ -283,7 +283,7 @@ an armoire against the western wall.  Dark curtains cover the window on the
 southern wall, it has been kept clean to allow natural light.  Around the room
 metal candle holders hang from the walls.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D7
    An obsidian color has been painted on both sides of this thick oak door.  
 The locks on the door are not even pick able by kender, thus leaving your
@@ -300,7 +300,7 @@ counter sorting mail into a large array of mail slots on the wall behind him.
 Each slot has a small name on it, and there is one for you somewhere in there.
   
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D0
 ~
 ~
@@ -322,7 +322,7 @@ places to find the latest gossip, any job information and the likes.  The area
 is well lit with wall sconces which glint off the wide open spaces down here
 and all the boards that line each room.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D1
 ~
 ~
@@ -340,7 +340,7 @@ to trade their items, or wanting certain pieces of equipment, or their
 locations.  This is one of the best places to find rare items, or at least to
 find the person who may know where those items can be found.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D1
 ~
 ~
@@ -358,7 +358,7 @@ posters along the wall depict portaits of criminals, with notes attached to
 these as well.  The floor and boards are kept clean and legible for others to
 read and be warned of the crimes that happen.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D1
 ~
 ~
@@ -376,7 +376,7 @@ things such as helping mortals, the healing of mortals, and Gods abusing their
 powers towards mortals.  Pictures of the constellations have been painted on
 the walls.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D2
 ~
 ~
@@ -397,7 +397,7 @@ incapable of determining how.  A stairway leads up to the area where you first
 started your journey.  If you find yourself in need of more guidance, it might
 be a good idea to take another stroll through those rooms.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D0
 ~
 ~
@@ -421,7 +421,7 @@ Invasions, and minor or major situations, histories, backgrounds for characters
 that might occur, or that they wish to do.  Imms may reply as well on this
 board, to answer or ask for ideas about any RP-type situation.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D1
 ~
 ~
@@ -439,7 +439,7 @@ of the Gods will fix it.  A simple stack of parchments on a desk with an ink
 well is the only furniture in this room, and it fills the entire southern wall
 of the room.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D1
 ~
 ~
@@ -460,7 +460,7 @@ be custom ordered, sized by the tailor to fit the wearer perfectly.  Since the
 building is fairly new, it is immaculately clean.  A rather plain spiralling
 wooden staircase leads upstairs to the other part of the store.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D2
 ~
 ~
@@ -481,7 +481,7 @@ and a door.  The feel of this place is nice though, a relaxed setting, a few
 small stalls for changing, and some seats.  Only way down is in the direction
 one came; the spiralling wooden staircase.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D5
 ~
 ~
@@ -497,7 +497,7 @@ the shop are lined with small wooden boxes, each filled with one type of armor
 fixture or another.  Leading west, past the counter, is a doorway with a sign
 affixed over it.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D0
 ~
 ~
@@ -524,7 +524,7 @@ of varying degrees of coarseness, sit all in a line facing the northern wall.
 Several wooden wall racks contain other tools like hammers and tongs, with the
 occasional broom mixed in for keeping the shop clean.    
 ~
-305 0 0 0 0
+305 32768 0 0 0
 D1
 ~
 ~
@@ -541,7 +541,7 @@ counter, for easy meals on travel.  Wedged into the small customer section of
 this store, a narrow staircase leads upstairs.  As one where to climb these
 stairs, wonderful smells of spices floods the air.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D2
 ~
 ~
@@ -560,7 +560,7 @@ counters of the shop, are filled with various items, jars, and flasks.  With
 the southern wall has a lavish wine rack filled with vintages from all over the
 world.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D5
 ~
 ~
@@ -577,7 +577,7 @@ Larger pieces are set upon shelves mounted to the wall: pieces of armor with
 gems and filigree, glassware of all shapes and sizes, and several
 superbly-crafted weapons.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D0
 ~
 ~
@@ -596,7 +596,7 @@ backpack or two here and there.  The entire building is built from thick dark
 bricks, it would give a rather gloom to the store itself; however there is
 ample lighting and rather decorative wall hangings.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D2
 ~
 ~
@@ -613,7 +613,7 @@ they battle the light cast against the walls by lit, low-burning wicks.  Near
 the door entrance, a small wooden spiral staircase leads upstairs to the other
 shop.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D0
 ~
 ~
@@ -631,7 +631,7 @@ catalog all the items that Gifford has collected over the years.  A few of his
 favorite pieces are on display here, but most of collection is quickly whisked
 upstairs for his staff to clean, restore, or prepare for storage.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D2
 ~
 ~
@@ -650,7 +650,7 @@ an instant.  It probably would not be wise to set anything down in this area,
 as it would no doubt be swept off and stored with the collector's inventory.  
 
 ~
-305 1 0 0 1
+305 32769 0 0 1
 D5
 ~
 ~
@@ -665,7 +665,7 @@ and steal the masses of treasure entrusted here.  There is a desk with two
 chairs, for those who have come to open an account, but other then those pieces
 of furniture the customer section is void of character.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D0
 ~
 ~
@@ -681,11 +681,11 @@ playing games and, judging by their laughter, are either telling jokes or
 great, perhaps embarrassing, tales.  Even most of the stools at the bar are
 occupied, though nobody seems to mind more company.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D3
 ~
 door~
-1 0 30355
+4 -1 30355
 S
 #30534
 Dough se Dough Bakery~
@@ -698,7 +698,7 @@ and white doilies beneath them serve as the display cases for treats.  From a
 back room, the smell of baked goods wafts in on a current of warm, spiced air.
   
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D1
 ~
 ~
@@ -712,7 +712,7 @@ where one can watch the cook create his works of stomach pleasing art.  The
 atmosphere is always pleasant here no matter what sort of rough or high lord
 may walk in.  All are welcome and equal to the doting by the pub wenches.    
 ~
-305 0 0 0 0
+305 32768 0 0 0
 D3
 ~
 ~
@@ -728,7 +728,7 @@ single shelf.  Below it rests one comfortable, leather chair that can reline;
 next to it is a tiny wooden stool.  A few standing trays are neatly aligned and
 set up with tools to create works of art upon someone's skin .
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D2
 ~
 ~
@@ -743,7 +743,7 @@ few chairs - all seem to show that the weapons master takes pride in his
 ability to teach his students more than just how to wield a weapon - but also
 how to fight in almost any instance - and how to stay prepared.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D2
 ~
 ~
@@ -777,7 +777,7 @@ cushions run along the side of the wall, obviously well used places to sit
 confortably and meditate upon balance and inner thought.  A small spiral
 staircase is the only means of exiting this shop.    
 ~
-305 8 0 0 0
+305 32776 0 0 0
 D5
 ~
 ~
@@ -912,7 +912,7 @@ glow throughout the room.  This stairway lead to the upper floors of the
 mansion.  The stairs are covered with thick red carpeting.  An ornately carved
 wooden handrail runs along the stairway.    
 ~
-305 0 0 0 0
+305 32768 0 0 0
 D0
 ~
 ~
