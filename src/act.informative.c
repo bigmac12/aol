@@ -3027,9 +3027,9 @@ ACMD(do_plip)
        load_char(nm, &chdata);
 
        if (IS_SET(chdata.char_specials_saved.act, PLR_DELETED)) {
-           char_status = "D";
+           char_status = "&RD&n";
        } else {
-           char_status = "A";
+           char_status = "&gA&n";
        }
 
        sprintf(buf, "%s%-20s (%s) [%s]\r\n", buf, chdata.name, char_status, chdata.host);
