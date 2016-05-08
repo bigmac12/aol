@@ -23,6 +23,14 @@ Two small marble pillars stand near the stairs, displaying a set of swords.~
 0 0 0 0
 0 0 0 0 -1
 E
+small marble pillar display~
+   The small pillar is made of smooth white marble, streaked with veins of gold
+and silver, creating a crackling pattern within the marble.  Along the pillar
+is carvings of dragons winding their way up toward the top of the pillar, being
+ridden by holy warriors, frozen eternally in the marble as they reach for the
+set of finely crafted swords that are displayed upon the pillar top.    
+~
+E
 set swords finely shortsword slim blade large longsword runic~
    The set of swords displayed upon the top of the pillar are beautifully
 crafted by an expert weaponsmith, and look perfectly balanced.  The smaller,
@@ -32,14 +40,6 @@ it the illusion of flames within the handle.  Along the larger blade can be
 seen etched runic symbols of elven script, flowing with elven magic.  Clearly,
 these weapons were made as a pair, and are valuable - not only for their
 craftsmanship, but also as a displayed gift to the gods of warfare.    
-~
-E
-small marble pillar display~
-   The small pillar is made of smooth white marble, streaked with veins of gold
-and silver, creating a crackling pattern within the marble.  Along the pillar
-is carvings of dragons winding their way up toward the top of the pillar, being
-ridden by holy warriors, frozen eternally in the marble as they reach for the
-set of finely crafted swords that are displayed upon the pillar top.    
 ~
 #5005
 fountain~
@@ -561,6 +561,25 @@ A large map of the city hangs on the eastern wall.~
 0 0 0 0
 0 0 0 0 -1
 E
+legend~
+
+                        C = Chamber of Commerce Office
+                        1 = Lord's Mansion
+                        2 = Guild of the Warrior
+                        3 = The Seasick Kracken
+                        4 = Arashi Weaponry
+                        5 = The Red Metal Rose Blacksmith Shop
+                        6 = Cinnabar's Leatherworking Shop
+                        7 = Shahara's Treasury
+                        8 = Fish Market
+                       10 = The Holy Shell
+                       11 = Shandra's Gems and Jewelry
+                       12 = Under the Moonglow
+                       13 = Temple of Zeboim
+                       14 = Sea Mist Tower
+
+~
+E
 map large city~
 
          _________________________________________________
@@ -598,9 +617,16 @@ Entrance   Richwater  Street        _________|        | d |___
         |_____________________________________________________________|                      
 
 ~
+#5071
+map small Karthay~
+a small map of Karthay~
+A small map of Karthay is lying here.~
+~
+12 0 1
+0 0 0 0
+1 8 2 1 -1
 E
 legend~
-
                         C = Chamber of Commerce Office
                         1 = Lord's Mansion
                         2 = Guild of the Warrior
@@ -617,14 +643,6 @@ legend~
                        14 = Sea Mist Tower
 
 ~
-#5071
-map small Karthay~
-a small map of Karthay~
-A small map of Karthay is lying here.~
-~
-12 0 1
-0 0 0 0
-1 8 2 1 -1
 E
 map karthay~
 
@@ -661,24 +679,6 @@ Entrance   Richwater  Street        _________|        | d |___
         |   K a r t h a y       |            |      *Be sure to read  |
         |                       14-----------          the legend.    |     
         |_____________________________________________________________|                      
-
-~
-E
-legend~
-                        C = Chamber of Commerce Office
-                        1 = Lord's Mansion
-                        2 = Guild of the Warrior
-                        3 = The Seasick Kracken
-                        4 = Arashi Weaponry
-                        5 = The Red Metal Rose Blacksmith Shop
-                        6 = Cinnabar's Leatherworking Shop
-                        7 = Shahara's Treasury
-                        8 = Fish Market
-                       10 = The Holy Shell
-                       11 = Shandra's Gems and Jewelry
-                       12 = Under the Moonglow
-                       13 = Temple of Zeboim
-                       14 = Sea Mist Tower
 
 ~
 #5072

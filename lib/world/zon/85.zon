@@ -1,17 +1,17 @@
 #85
 Mayor's Mansion~
 8599 30 2
-* ZoneState 4 -NONE- 000000000000000
+* ZoneState 1 unowned 000000000000000
 O 0 8596 1 8597 	(a large sofa of elegant, black leather)
-P 1 8595 3 8596 	(a flowing black robe embroidered with a crescent moon)
+P 1 8595 3 8596 	(&Ka flowing silk robe embroidered with a crescent moon&n)
 D 0 8597 1 2 	(A Well-Appointed Study of Dark Grace)
 O 0 8598 1 8598 	(a small desk of simple design)
 P 1 8597 6 8598 	(an earcuff in the image of a multi-headed dragon)
 M 0 8509 1 8514 	(Matthias)
 E 1 8506 10 17 	(a large crystal wine goblet)
 G 1 8594 1 -1 	(a small key with a silver crescent)
-D 0 8596 1 1 	(A Small, Lavashly Appointed Foyar)
-D 0 8596 3 2 	(A Small, Lavashly Appointed Foyar)
+D 0 8596 1 1 	(A Small, Lavashly Appointed Foyer)
+D 0 8596 3 2 	(A Small, Lavashly Appointed Foyer)
 O 0 8599 5 8599 	(an ornate censer set with stylized dragons)
 D 0 8595 3 1 	(A Cramped, Stone Passage)
 D 0 8594 1 1 	(A Cramped, Stone Passage)
@@ -85,7 +85,6 @@ R 0 8525 8500 -1 	(a white bearskin rug)
 O 1 8500 8 8525 	(a white bearskin rug)
 M 0 8511 6 8525 	(a small house cat)
 M 0 8511 6 8507 	(a small house cat)
-M 0 8505 5 8582 	(one of the Lord's guards)
 M 0 8505 5 8551 	(one of the Lord's guards)
 M 0 8505 5 8528 	(one of the Lord's guards)
 R 0 8528 8507 -1 	(a large wooden desk with intricate carving)
