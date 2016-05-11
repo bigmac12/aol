@@ -1,0 +1,35 @@
+5
+light
+19
+cast magic-light $*
+1
+3
+det
+17
+cast detect-magic
+0
+5
+armor
+13
+cast armor $*
+1
+1
+m
+21
+cast magic-missile $*
+1
+1
+5
+24
+flee;flee;flee;flee;flee
+1
+1
+2
+24
+get all.coins all.corpse
+0
+1
+1
+18
+get all all.corpse
+0
