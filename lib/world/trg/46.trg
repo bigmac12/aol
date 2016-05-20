@@ -232,7 +232,7 @@ say Careful if you're going down there.
 wait 3s
 emote narrows his eyes as he spots something in the distance.
 wait 3s
-say Pretty enough place, but the ankheg's will eat you alive if you're not careful.
+say Pretty enough place, but the ankhegs will eat you alive if you're not careful.
 wait 3s
 emote reaches slowly for the bow on his back.
 wait 3s
