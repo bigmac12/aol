@@ -292,7 +292,7 @@ shield steel order sword symbol etched~
 a shield etched with the symbol of the Order of the Sword~
 A shield lies face-down in the dirt, awaiting discovery.~
 ~
-9 518020368 513
+9 518053136 513
 10 0 0 0
 15 2080 1040 20 -1
 E
@@ -560,6 +560,17 @@ A statue of a knight mounted on horseback stands in the center of the marketplac
 0 0 0 0
 2147483647 0 0 1 -1
 E
+statue~
+   The statue is that of a knight who has no doubt long since passed away.  
+The horse is reared up on two legs, signifying that the man died in combat.  
+He holds in one hand the reigns of the horse.  In the other, he holds a
+gleaming sword high above his head, ready to charge a long-dead enemy.  The
+statue is made of polished marble, and is kept impeccably clean.  All around
+it, people continue their daily chores, not showing it much reverence.  But,
+for those seeing it for the first time, it is quite impressive.  There is an
+inscription on a plaque underneath the statue that bears closer scrutiny.    
+~
+E
 inscription plaque~
 &W
    "In 313 of our current age, Lord Tairus Pollinson commanded the third army
@@ -577,17 +588,6 @@ still the object of study by scholars, that this statue was commissioned in
 memory."
 
        &Y-== &CIn memory of Lord Tairus Pollinson, Knight Sans Par&Y ==-&n
-~
-E
-statue~
-   The statue is that of a knight who has no doubt long since passed away.  
-The horse is reared up on two legs, signifying that the man died in combat.  
-He holds in one hand the reigns of the horse.  In the other, he holds a
-gleaming sword high above his head, ready to charge a long-dead enemy.  The
-statue is made of polished marble, and is kept impeccably clean.  All around
-it, people continue their daily chores, not showing it much reverence.  But,
-for those seeing it for the first time, it is quite impressive.  There is an
-inscription on a plaque underneath the statue that bears closer scrutiny.    
 ~
 #1650
 basin large holy water~

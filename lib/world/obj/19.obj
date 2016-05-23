@@ -752,8 +752,8 @@ A
 A
 17 -2
 #1949
-black shirt silver~
-&Ka black shirt with silver embroidery&n~
+shirt black velvet detailed silver embroidery~
+&K black velvet shirt with detailed silver embroidery&n~
 A black shirt with silver embroidery lies here neatly folded.~
 ~
 11 144081024 9
@@ -1599,13 +1599,149 @@ A massive book sits open here, urging you to look and learn.~
 0 0 0 0
 9999 0 0 1 -1
 E
-book primer deities~
+chapter3~
+--== THE GODS OF DARKNESS ==--
 
-Chapter One : The Gods of Light (type "read chapter1")
 
-Chapter Two : The Gods of Neutrality (type "read chapter2")
+/i4 **Takhisis, Queen of Darkness**
+Takhisis is the embodiment of evil, enjoying preying on the weaknesses of
+others and using the greatest desires to enslave them. She is cold and
+brilliant, a master of exploitation. She hates good, loves cruelty and hoards
+wealth. In the Age of Dreams, she was Paladine's mate and consort but when they
+forged the first beings, the dragons, Takhisis grew selfish and corrupted the
+chromatic dragons. She left Paladine and now consorts with Sargonnas, a god
+of fury and vengeance. The passion between them vacillates between insatiable
+lust and deep loathing. They bore two children, Nuitari and Zeboim. Takhisis'
+one other child, Artha, the demigoddess of wanton lust and greed was sired
+by Hiddukkel masquerading as Chemosh. Takhisis' symbol is a black
+crescent. Her color is black of utter darkness and irridescent black of beetle
+wings. Her influences are over night, evil dragons, hatred, intrigue and chaos.
 
-Chapter Three : The Gods of Darkness (type "read chapter3")
+
+** Nuitari, Devouring Dark **
+Nuitari is the god of black magic and the son of Takhisis and Sargonnas. He
+founded the Order of the Black Robes, perhaps the most secret and coveted
+Order on Krynn. While those that practice black magic may gain incredible
+power, it comes at the price of control. Nuitari watches in wry amusement as
+those who try to master his art are overcome by its dark power. His symbol
+is a black circle or sphere, his color is black.
+
+
+** Sargonnas, Dark Vengeance **
+Takhisis' consort, Sargonnas is the sometimes explosive god of vengeance,
+rage, deserts and volcanoes. He embodies the destructive passion of fire.
+As Takhisis is both his greatest ally and his greatest enemy, he plots both
+for and against her. He is treacherous and paranoid, and works his revenge
+through insidious means. His symbol is a red condor or a red fist
+(Thorbardin, Istar). His colors are red and black.
+
+
+** Morgion, the Black Wind **
+This god of decay and disease refuses the company of other gods and does
+not discuss plans with them. He despises all healthy things, actively striving
+to corrupt them with disease and decay. His symbols are a hood with two
+red eyes, an upside-down axe (Thorbardin) or a rat's claw (Hylo). His colors
+are deep brown and black.
+
+
+** Chemosh, Lord of Death **
+In the Age of Dreams, Chemosh was drawn to Krynn by Takhisis, to serve as
+a lieutenant to marshal the legions of death. As lord of false redemption,
+Chemosh offers eternal life to the unwary. Recipients spend immortality in
+an undead and eternally corrupted body while he himself grows in power
+and longevity. His symbol is a yellow skull. His colors are black and a
+sickly yellow.
+
+
+** Zeboim, Darkling Sea **
+Zeboim, the Sea Queen, is the impetuous and volatile daughter of
+Takhisis and Sargonnas. Her unpredictable tempers make her a dangerous
+foe and lethal friend. She provides her followers the vast wealth of lost
+treasure ships. She receives petitions and sacrifices from seamen wishing
+good weather and safe travel. Those who displease her through some real
+or imagined slight never see harbor again. Her symbol is a turtle-shell
+pattern, and her colors are green and red.
+
+
+**Hiddukel, Prince of Lies **
+This god of ill-gotten wealth and deals is the patron god of evil businessmen
+and dishonest merchants. Greed and mischief drive all Hiddukel's
+transactions. He controls all ill-gotten wealth, using it to corrupt honest and
+greedy men alike. His symbol is a set of broken merchant's scales. His
+colors are red and bone white.
+
+
+(Type "read chapter1" for the Gods of Light
+or "read chapter2" for the Gods of Neutrality)
+
+~
+E
+chapter2~
+--== THE GODS OF NEUTRALITY ==--
+
+
+** Gilean, the Void **
+Before creation, the High God wrote the Tobril, the book of all knowledge
+and true names, to lay down the designs of the universe. The High God
+did not consider any of the gods he created trustworthy enough to guard
+the Tobril, so he found Gilean, a scribe so scrupulous as to have never
+penned an error and entrusted the Tobril to him. Gilean guards the Tobril
+and is the patriarch of the Neutral gods. His symbol is an open book
+and his color is gray.
+
+
+** Lunitari, the Veiled Maiden **
+The goddess of Neutral magic and illusions, Lunitari was born of Gilean and
+an unknown mother, though some suggest she sprang full-grown from her
+father's thoughts. She founded the Order of the Red Robes to promote
+Neutral magic. Her symbol is a red circle or sphere, her color red or magenta.
+
+
+** Sirrion, the Flowing Flame **
+Sirrion is the god of creative flame and natural power and sculpts fire into
+beautiful forms. He controls every flame, from the sun to the low-burning
+wick. His companion is Shinare, an argumentative couple due to his
+temperamental and artistic nature in conflict with her practicality and
+opportunism. His symbol is a multi-colored fire. His colors are bright red
+and yellow.
+
+
+** Reorx, the Forge **
+The god of manufacture, technology and metallurgy, Reorx is considered by
+the dwarves of Ansalon to be the greatest god. Humans perceive him as
+merely Kiri-Jolith's helper. Reorx tamed chaos to forge the world. His second
+greatest creation, the Greystone of Gargath, led to the emergence of dwarves,
+gnomes and kender and many consider him the father of these races. His
+symbols are a forging hammer or dwarven hammer (Thorbardin). His colors
+are slate grey and red.
+
+
+** Chislev, the Beast **
+Chislev is nature incarnate. According to legend, the seasons change with the
+moods of her heart. She is served by every beast and plant. Her symbol is
+a feather of brown, yellow and green, which are her colors.
+
+
+** Zivilyn, the Tree of Life **
+Zivilyn is the god of all wisdom and is the celestial Tree of Life. His
+branches extend into all times and places. As Gilean holds the knowledge of
+the universe, Zivilyn holds its wisdom. Zivilyn is the companion of Chislev,
+a relationship seen by most mortals as a perfect marriage. Zivilyn's
+symbol is a great green or gold tree, sometimes a vallenwood. His colors
+are green and gold.
+
+
+** Shinare, Winged Victory **
+Shinare, the goddess of wealth, industry and commerce, has many dwarven
+worshippers. She also finds many followers among merchants, mercenaries
+and profit-minded adventurers of other races. She is considered by all to
+be the champion of freedom and self-destiny. She cannot tolerate laziness
+and attributes poverty or stupidity to sloth. Her symbol is a griffon's wing
+and her colors are gold, silver and brown.
+
+
+(Type "read chapter1" for the Gods of Light
+or "read chapter3" for the Gods of Darkness)
 
 
 ~
@@ -1682,150 +1818,14 @@ or "read chapter3" for the Gods of Darkness)
 
 ~
 E
-chapter2~
---== THE GODS OF NEUTRALITY ==--
+book primer deities~
 
+Chapter One : The Gods of Light (type "read chapter1")
 
-** Gilean, the Void **
-Before creation, the High God wrote the Tobril, the book of all knowledge
-and true names, to lay down the designs of the universe. The High God
-did not consider any of the gods he created trustworthy enough to guard
-the Tobril, so he found Gilean, a scribe so scrupulous as to have never
-penned an error and entrusted the Tobril to him. Gilean guards the Tobril
-and is the patriarch of the Neutral gods. His symbol is an open book
-and his color is gray.
+Chapter Two : The Gods of Neutrality (type "read chapter2")
 
+Chapter Three : The Gods of Darkness (type "read chapter3")
 
-** Lunitari, the Veiled Maiden **
-The goddess of Neutral magic and illusions, Lunitari was born of Gilean and
-an unknown mother, though some suggest she sprang full-grown from her
-father's thoughts. She founded the Order of the Red Robes to promote
-Neutral magic. Her symbol is a red circle or sphere, her color red or magenta.
-
-
-** Sirrion, the Flowing Flame **
-Sirrion is the god of creative flame and natural power and sculpts fire into
-beautiful forms. He controls every flame, from the sun to the low-burning
-wick. His companion is Shinare, an argumentative couple due to his
-temperamental and artistic nature in conflict with her practicality and
-opportunism. His symbol is a multi-colored fire. His colors are bright red
-and yellow.
-
-
-** Reorx, the Forge **
-The god of manufacture, technology and metallurgy, Reorx is considered by
-the dwarves of Ansalon to be the greatest god. Humans perceive him as
-merely Kiri-Jolith's helper. Reorx tamed chaos to forge the world. His second
-greatest creation, the Greystone of Gargath, led to the emergence of dwarves,
-gnomes and kender and many consider him the father of these races. His
-symbols are a forging hammer or dwarven hammer (Thorbardin). His colors
-are slate grey and red.
-
-
-** Chislev, the Beast **
-Chislev is nature incarnate. According to legend, the seasons change with the
-moods of her heart. She is served by every beast and plant. Her symbol is
-a feather of brown, yellow and green, which are her colors.
-
-
-** Zivilyn, the Tree of Life **
-Zivilyn is the god of all wisdom and is the celestial Tree of Life. His
-branches extend into all times and places. As Gilean holds the knowledge of
-the universe, Zivilyn holds its wisdom. Zivilyn is the companion of Chislev,
-a relationship seen by most mortals as a perfect marriage. Zivilyn's
-symbol is a great green or gold tree, sometimes a vallenwood. His colors
-are green and gold.
-
-
-** Shinare, Winged Victory **
-Shinare, the goddess of wealth, industry and commerce, has many dwarven
-worshippers. She also finds many followers among merchants, mercenaries
-and profit-minded adventurers of other races. She is considered by all to
-be the champion of freedom and self-destiny. She cannot tolerate laziness
-and attributes poverty or stupidity to sloth. Her symbol is a griffon's wing
-and her colors are gold, silver and brown.
-
-
-(Type "read chapter1" for the Gods of Light
-or "read chapter3" for the Gods of Darkness)
-
-
-~
-E
-chapter3~
---== THE GODS OF DARKNESS ==--
-
-
-/i4 **Takhisis, Queen of Darkness**
-Takhisis is the embodiment of evil, enjoying preying on the weaknesses of
-others and using the greatest desires to enslave them. She is cold and
-brilliant, a master of exploitation. She hates good, loves cruelty and hoards
-wealth. In the Age of Dreams, she was Paladine's mate and consort but when they
-forged the first beings, the dragons, Takhisis grew selfish and corrupted the
-chromatic dragons. She left Paladine and now consorts with Sargonnas, a god
-of fury and vengeance. The passion between them vacillates between insatiable
-lust and deep loathing. They bore two children, Nuitari and Zeboim. Takhisis'
-one other child, Artha, the demigoddess of wanton lust and greed was sired
-by Hiddukkel masquerading as Chemosh. Takhisis' symbol is a black
-crescent. Her color is black of utter darkness and irridescent black of beetle
-wings. Her influences are over night, evil dragons, hatred, intrigue and chaos.
-
-
-** Nuitari, Devouring Dark **
-Nuitari is the god of black magic and the son of Takhisis and Sargonnas. He
-founded the Order of the Black Robes, perhaps the most secret and coveted
-Order on Krynn. While those that practice black magic may gain incredible
-power, it comes at the price of control. Nuitari watches in wry amusement as
-those who try to master his art are overcome by its dark power. His symbol
-is a black circle or sphere, his color is black.
-
-
-** Sargonnas, Dark Vengeance **
-Takhisis' consort, Sargonnas is the sometimes explosive god of vengeance,
-rage, deserts and volcanoes. He embodies the destructive passion of fire.
-As Takhisis is both his greatest ally and his greatest enemy, he plots both
-for and against her. He is treacherous and paranoid, and works his revenge
-through insidious means. His symbol is a red condor or a red fist
-(Thorbardin, Istar). His colors are red and black.
-
-
-** Morgion, the Black Wind **
-This god of decay and disease refuses the company of other gods and does
-not discuss plans with them. He despises all healthy things, actively striving
-to corrupt them with disease and decay. His symbols are a hood with two
-red eyes, an upside-down axe (Thorbardin) or a rat's claw (Hylo). His colors
-are deep brown and black.
-
-
-** Chemosh, Lord of Death **
-In the Age of Dreams, Chemosh was drawn to Krynn by Takhisis, to serve as
-a lieutenant to marshal the legions of death. As lord of false redemption,
-Chemosh offers eternal life to the unwary. Recipients spend immortality in
-an undead and eternally corrupted body while he himself grows in power
-and longevity. His symbol is a yellow skull. His colors are black and a
-sickly yellow.
-
-
-** Zeboim, Darkling Sea **
-Zeboim, the Sea Queen, is the impetuous and volatile daughter of
-Takhisis and Sargonnas. Her unpredictable tempers make her a dangerous
-foe and lethal friend. She provides her followers the vast wealth of lost
-treasure ships. She receives petitions and sacrifices from seamen wishing
-good weather and safe travel. Those who displease her through some real
-or imagined slight never see harbor again. Her symbol is a turtle-shell
-pattern, and her colors are green and red.
-
-
-**Hiddukel, Prince of Lies **
-This god of ill-gotten wealth and deals is the patron god of evil businessmen
-and dishonest merchants. Greed and mischief drive all Hiddukel's
-transactions. He controls all ill-gotten wealth, using it to corrupt honest and
-greedy men alike. His symbol is a set of broken merchant's scales. His
-colors are red and bone white.
-
-
-(Type "read chapter1" for the Gods of Light
-or "read chapter2" for the Gods of Neutrality)
 
 ~
 #2099

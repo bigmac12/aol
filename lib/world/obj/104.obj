@@ -44,12 +44,6 @@ A black chalice, filled with crimson blood, rests here.~
 10 10 13 0
 1000 0 0 0 -1
 E
-crimson liquid blood~
-   The blood fills the chalice to overflowing, its red color nearly black in
-the dim light.  It seems to swirl ominously, as if the souls of those
-sacrificed still lingers within their life's blood.    
-~
-E
 fountain chalice black~
    This is a black chalice, used in sacred rites for the priests and
 priestesses of the god Sargonnas.  Runes and prayers are carved into the
@@ -57,6 +51,12 @@ chalice's edges, and it is permanently affixed to the altar on which it rests,
 through arcane means.  It is filled with a crimson red liquid, probably the
 blood of the many men and women sacrificed here to the Dark God of Vengeance.
   
+~
+E
+crimson liquid blood~
+   The blood fills the chalice to overflowing, its red color nearly black in
+the dim light.  It seems to swirl ominously, as if the souls of those
+sacrificed still lingers within their life's blood.    
 ~
 #10403
 a red and black braided belt~
@@ -118,17 +118,17 @@ Robes of deepest black, trimmed with a single red stripe, lay crumpled here.~
 0 0 0 0
 5 45 11 5 -1
 E
-red stripe stripes~
-   The red stripe symbolizes the lowest rank of those devoting to the worship
-of the god of vengeance.  As their ranks progress, so do the number of stripes
-on the robes.    
-~
-E
 robes initiate black~
    These robes are the standard robes worn by the clerical novices who have
 chosen to devote their lives in service to Sargonnas.  They are solid black,
 made of a coarse cotton, and trimmed on each sleeves, the collar, and the cuff
 with a bright red stripe, the color of freshly spilled blood.    
+~
+E
+red stripe stripes~
+   The red stripe symbolizes the lowest rank of those devoting to the worship
+of the god of vengeance.  As their ranks progress, so do the number of stripes
+on the robes.    
 ~
 A
 17 -2
@@ -213,12 +213,6 @@ A solid black mace, painted with red sigils and runes of power, rests here.~
 1 2 8 9
 10 500 250 15 -1
 E
-red runes sigils~
-   These bright red symbols are etched into the mace's handle carefully, words
-of power in combat, blessings upon the unholy God of Vengeance, and wards of
-protection for its wielder.    
-~
-E
 mace destruction~
    This terrible looking mace is about the length of a man's forearm, solid
 black obsidian and traced throughout with red sigils and runes of power and
@@ -226,6 +220,12 @@ foreboding.  A black and red braid is wrapped firmly around the mace's handle,
 allowing the wielder to grip it tightly and without fear of having it slip from
 their hands.  Four sharp blades extend from the head of the mace, each
 sharpened into a deadly, gruesome-looking point.    
+~
+E
+red runes sigils~
+   These bright red symbols are etched into the mace's handle carefully, words
+of power in combat, blessings upon the unholy God of Vengeance, and wards of
+protection for its wielder.    
 ~
 A
 18 1
@@ -363,14 +363,6 @@ A large wooden wheel, covered with hundreds of razor-sharp blades, stands here.~
 0 0 0 0
 1000 0 0 0 -1
 E
-blade blades razor razors~
-   Hundreds of small razors, no more than a few hair strands wide, cover the
-flat surface of the wheel.  They gleam dimly in the poor lighting, their
-sharpened edges looking cruel and unforgiving.  Looking closer at the
-individual blades, you can see dried blood and bits of flesh hanging from where
-the blades are affixed to the wooden wheel.    
-~
-E
 wheel wooden ~
    This is a tremendously large wheel, nearly as tall as a human male.  It is
 about four handspans wide, and made of wooden timbers screwed together and
@@ -381,6 +373,14 @@ a foot high, with a small platform that looks like it can be forced upwards,
 towards the surface of the bottom of the wheel.  Seeing this, you begin to get
 a disturbing sense of just what the purpose of this hidelously-cruel looking
 device might be.    
+~
+E
+blade blades razor razors~
+   Hundreds of small razors, no more than a few hair strands wide, cover the
+flat surface of the wheel.  They gleam dimly in the poor lighting, their
+sharpened edges looking cruel and unforgiving.  Looking closer at the
+individual blades, you can see dried blood and bits of flesh hanging from where
+the blades are affixed to the wooden wheel.    
 ~
 #10422
 iron manacles~
@@ -462,11 +462,11 @@ blackened, most likely by fire, and its hilt is a highly-polished ebony.  A few
 runes of protection have been carved into the hilt.    
 ~
 #10435
-a pair of iron shackles~
-a pair of iron shackles~
-A pair of iron shackles, crusted with dried blood, rests ajar here.~
+shackle heavy wrought iron rust~
+&Ka heavy, wrought iron shackle covered with spots of rust&n~
+A heavy, wrought iron shackle lies here.~
 ~
-9 0 135169
+9 1048576 135169
 2 0 0 0
 3 50 25 10 -1
 E

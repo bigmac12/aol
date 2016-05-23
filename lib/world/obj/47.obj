@@ -429,7 +429,7 @@ gloves black ratskin rat~
 &Ka pair of black, ratskin gloves&n~
 A pair of gloves made from the hide of a rat have been left here.~
 ~
-11 0 129
+11 1048576 129
 0 0 0 0
 1 80 12 4 -1
 E
@@ -545,13 +545,6 @@ A small tin with a faded label which reads, "Glum Drops" lies forgotten here.~
 8 0 0 0
 0 500 1 1 -1
 E
-RPnote~
-   These little candies, true to their name, are supposed to make who ever eats
-them glum.  Glum about anything they see, or hear, even perhaps what they
-themselves say or do.  Who knows how these tasty little treats work, perhaps
-they're magicked!  Thus, if you consume them, you should RP accordingly.    
-~
-E
 drops tin glum~
    This small tin bears a faded paper label on the lid which reads, "&KGlum
 Drops&w".  Taking off the lid you find several small, gum drop candies of
@@ -559,6 +552,13 @@ various colors.  They smell delicious, strangely reminiscent of your favorite
 confectionary.    
 
 (&ylook RPnote for an OOC note&w)&n
+~
+E
+RPnote~
+   These little candies, true to their name, are supposed to make who ever eats
+them glum.  Glum about anything they see, or hear, even perhaps what they
+themselves say or do.  Who knows how these tasty little treats work, perhaps
+they're magicked!  Thus, if you consume them, you should RP accordingly.    
 ~
 #4746
 wrap wraps wrist red linen~
