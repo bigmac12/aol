@@ -193,8 +193,14 @@ Not even the most skilled of kender could.
 crimsondoor~
 2 30511 30511
 E
-purpledoor purple~
-   A rich purple color has been painted on both sides of this thick oak door.
+emeralddoor emerald~
+   A calming emerald color has been painted on both sides of this thick oak
+door.  The locks on the door are not even pick able by kender, thus leaving
+your belongings safe.    
+~
+E
+ebonydoor ebony~
+   A dark ebony color has been painted on both sides of this thick oak door.  
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
@@ -205,16 +211,10 @@ The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
 E
-ebonydoor ebony~
-   A dark ebony color has been painted on both sides of this thick oak door.  
+purpledoor purple~
+   A rich purple color has been painted on both sides of this thick oak door.
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
-~
-E
-emeralddoor emerald~
-   A calming emerald color has been painted on both sides of this thick oak
-door.  The locks on the door are not even pick able by kender, thus leaving
-your belongings safe.    
 ~
 S
 #30509
@@ -490,7 +490,7 @@ S
 #30523
 Glancing Blow Armory~
    Upon entering the shop, the first thing most people notice are the sheets of
-metal littered about the shop.  Mithril, adamantite, steel, iron, copper,
+metal littered about the room.  Mithril, adamantite, steel, iron, copper,
 bronze - the list is nearly as endless as the ability of the owner, Yasuf, to
 craft them into functional pieces of battle-ready armor.  Dozens of shelves in
 the shop are lined with small wooden boxes, each filled with one type of armor

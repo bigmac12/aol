@@ -303,20 +303,25 @@ E
 T 2200
 T 2
 #2222
-delete me~
-delete me~
-A scholar intent on his research walks among the books.
+Falstahn fal sleek warhorse deep black fur~
+Falstahn~
+Falstahn, a beautifully-sleek warhorse with deep black fur, stands at the ready.
 ~
-   This young scholar has just recently begun his own research into Krynn's
-past.  Many of his teachers have told him of the great mysteries of the past
-and he, in his youthful exhuberance, has decided that HE will be the one who
-finally solves them all.    
+   A beast of the most perfect breeding, Falstahn is a horse famous among
+Solamnic knights for his strength, speed, stamina, and intelligence.  His fur
+is a deep shade of black, brushed silky-smooth to the touch, with an equally
+well-kept mane and tail.  Though normally kept braided and tied up in a knot
+when on duty, Falstahn's tail is so long when loose that it nearly sweeps the
+ground.  Bottomless brown eyes stare about, looking this way and that while
+they occasionally linger on someone or something of interest.  His gait is
+measured and smooth, further evidence of his great and noble lineage.    
 ~
-2060 0 0 0 E
-10 15 2 1d5+170 6d4+6
-500 1900 0
-8 8 0 0
-Maxmove: 50
+25413640 0 0 0 E
+30 15 -5 1d5+1000 6d4+6
+500 0 0
+8 8 1 0
+BareHandAttack: 6
+Maxmove: 500
 E
 #2227
 delete me~
