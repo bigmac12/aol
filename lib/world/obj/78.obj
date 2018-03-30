@@ -177,7 +177,7 @@ dagger curved blade~
 A curved dagger is stuck in the ground.~
 ~
 5 2105344 1006657537
-0 3 3 11
+0 7 3 11
 7 1551 775 21 -1
 E
 dagger curved~
@@ -298,6 +298,11 @@ A small pin of crossed swords is set here.~
 0 0 0 0
 2 3420 1720 22 -1
 E
+script~
+   The words read, "Est Sularis Oth Mithas", which means My Honor is My Life.
+It is the vow of all Solamnic Knights.    
+~
+E
 warrior sword pin~
    The pin is clearly of superior craftmanship, wrought finely and with great
 attention to detail.  Crafted from gold, the pin displays two swords crossed in
@@ -305,11 +310,6 @@ an "x" formation.  The hilts of each of the swords is laquored with a deep blue
 color, and tiny emeralds are embedded into the pommel of each blade.  Even
 though the pin is only the size of a man's thumb, the blades are etched with
 fine, tiny runes along their length, written in a Solamnic script.    
-~
-E
-script~
-   The words read, "Est Sularis Oth Mithas", which means My Honor is My Life.
-It is the vow of all Solamnic Knights.    
 ~
 A
 18 1
@@ -373,4 +373,12 @@ A pile of bear hide lies here, the fur still attached.~
 9 413696 33
 4 0 0 0
 4 1000 500 20 -1
+#7825
+shield large round thick black carapace~
+&Ka large round shield made of thick black carapace&n~
+A large round shield made of thick carapace lies here.~
+~
+9 0 33554945
+13 0 0 0
+14 5880 2940 20 -1
 $~

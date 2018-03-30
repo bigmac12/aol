@@ -193,14 +193,8 @@ Not even the most skilled of kender could.
 crimsondoor~
 2 30511 30511
 E
-emeralddoor emerald~
-   A calming emerald color has been painted on both sides of this thick oak
-door.  The locks on the door are not even pick able by kender, thus leaving
-your belongings safe.    
-~
-E
-ebonydoor ebony~
-   A dark ebony color has been painted on both sides of this thick oak door.  
+purpledoor purple~
+   A rich purple color has been painted on both sides of this thick oak door.
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
@@ -211,10 +205,16 @@ The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
 ~
 E
-purpledoor purple~
-   A rich purple color has been painted on both sides of this thick oak door.
+ebonydoor ebony~
+   A dark ebony color has been painted on both sides of this thick oak door.  
 The locks on the door are not even pick able by kender, thus leaving your
 belongings safe.    
+~
+E
+emeralddoor emerald~
+   A calming emerald color has been painted on both sides of this thick oak
+door.  The locks on the door are not even pick able by kender, thus leaving
+your belongings safe.    
 ~
 S
 #30509
@@ -531,7 +531,7 @@ D1
 0 0 30523
 S
 #30525
-"Guess this Animal" Butcher Shop~
+"Guess That Mess" Butcher Shop~
    The customer section of this butcher shop is rather small.  Nearly the
 moment one enters inside, they stand before a long counter with a glass front
 icebox.  Tasty, fresh cuts of unnamed creatures are on display to make the

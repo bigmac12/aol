@@ -86,8 +86,8 @@ shade of orange.  The pants end a little past the knees of the wearer.
 A
 17 -1
 #8007
-coat long black~
-&Ka long, leather black coat with ebony buttons&n~
+coat long black leather ebony buttons~
+&Ka long coat made of black leather with ebony buttons&n~
 A long black coat is lying here.~
 This is a long black coat.
 ~
@@ -805,71 +805,6 @@ A golden bound book lies on the ground here, collecting dust.~
 0 0 0 0
 2 60 15 1 -1
 E
-page3~
-Other Gods (cont.)
-
-Takhisis:  The queen of darkness and evil.  She tried to
- get free but the mighty Huma banished her with Paladine's
- dragonlance.  She is being driven out and soon all her
- followers will be destroyed so everyone can live in peace.
-  She often tries to tempt people to join her dark armies.
-
-Sargonnas:  The god of the uncivilized minotaurs.  He is
- violent and blood thirsty.
-Chemosh:  The evil god of death.  He raises the bodies of
- fallen warriors of light and tries to use them against
- those who worship the gods of light.
-
-Morgion:  God of disease and plagues.  He and his followers
- try to destroy Istar by spreading sickness.  Paladine's
- wife, Mishakal, heals the worthy from the sickness though.
-
-Zeboim:  Goddess of the sea.  She often sends innocent
- followers of the light to a watery death.
-
-Hiddukel:  God of lies.  He lies to people, convincing them
- to follow the path of darkness.
-
-Solinari:  The third son of Paladine.  Solinari controls
- the magic of the white robes.  It was because of a mage
- that Takhisis was allowed to enter the world.
-
-Lunitari:  The god of the red robed mages.  It was because
- of a mage that Takhisis was allowed to enter the world.
-
-Nuitari:  The god of the black robed mages.  It was because
- of a mage that Takhisis was allowed to enter the world.
-  These black robe mages are being hunted down and killed
- on sight.
-~
-E
-page2~
-Other Gods
-
-Gilean:  Gilean and his followers do not get involved with
- many things.  The Solamnics found some use out of his
- followers and use them in the library in one of their
- cities.
-
-Chislev:  A nature goddess.  Her followers often take
- credit for things that Habbakuk did.
-
-Zivilyn:  A god of wisdom.  His followers would be
- Majerians, but are often too dark to follow a god of the
- light.
-
-Reorx:  The dwarven god.  He has helped some of the gods of
- light by forging weapons for them.
-
-Sirrion:  The god of fire.  He and his followers are often
- out of control and destroy more than intended.
-
-Shinare:  The god of business.  She promotes wealth through
- work.
-
-(To read the next page, type: read page3)
-~
-E
 book golden bound deities gods~
 Gods of Light:
 
@@ -906,6 +841,71 @@ Branchala:  The god of music and happiness.  He keeps Istar
   He and his followers truely shine when there are parties.
 
 (To read the next page, type: read page2)
+~
+E
+page2~
+Other Gods
+
+Gilean:  Gilean and his followers do not get involved with
+ many things.  The Solamnics found some use out of his
+ followers and use them in the library in one of their
+ cities.
+
+Chislev:  A nature goddess.  Her followers often take
+ credit for things that Habbakuk did.
+
+Zivilyn:  A god of wisdom.  His followers would be
+ Majerians, but are often too dark to follow a god of the
+ light.
+
+Reorx:  The dwarven god.  He has helped some of the gods of
+ light by forging weapons for them.
+
+Sirrion:  The god of fire.  He and his followers are often
+ out of control and destroy more than intended.
+
+Shinare:  The god of business.  She promotes wealth through
+ work.
+
+(To read the next page, type: read page3)
+~
+E
+page3~
+Other Gods (cont.)
+
+Takhisis:  The queen of darkness and evil.  She tried to
+ get free but the mighty Huma banished her with Paladine's
+ dragonlance.  She is being driven out and soon all her
+ followers will be destroyed so everyone can live in peace.
+  She often tries to tempt people to join her dark armies.
+
+Sargonnas:  The god of the uncivilized minotaurs.  He is
+ violent and blood thirsty.
+Chemosh:  The evil god of death.  He raises the bodies of
+ fallen warriors of light and tries to use them against
+ those who worship the gods of light.
+
+Morgion:  God of disease and plagues.  He and his followers
+ try to destroy Istar by spreading sickness.  Paladine's
+ wife, Mishakal, heals the worthy from the sickness though.
+
+Zeboim:  Goddess of the sea.  She often sends innocent
+ followers of the light to a watery death.
+
+Hiddukel:  God of lies.  He lies to people, convincing them
+ to follow the path of darkness.
+
+Solinari:  The third son of Paladine.  Solinari controls
+ the magic of the white robes.  It was because of a mage
+ that Takhisis was allowed to enter the world.
+
+Lunitari:  The god of the red robed mages.  It was because
+ of a mage that Takhisis was allowed to enter the world.
+
+Nuitari:  The god of the black robed mages.  It was because
+ of a mage that Takhisis was allowed to enter the world.
+  These black robe mages are being hunted down and killed
+ on sight.
 ~
 #8059
 buckler steel round small shield~
@@ -1295,8 +1295,8 @@ legs.
 A
 17 -1
 #8082
-shirt pile brown light plain cloth~
-&ya plain looking, light brown shirt with straight sleeves&n~
+shirt plain light brown light-brown straight sleeves~
+&ya plain, light-brown shirt with straight sleeves&n~
 A pile of light brown cloth lies on the ground here in a heap.~
 ~
 11 1048576 9

@@ -7,13 +7,13 @@ mace plaguebringer plague bringer steel silver spikes~
 0 4 5 5
 5 3900 1950 26 -1
 E
-undefined~
-Nothing.
-~
-E
 button~
 Nothing.
 There is a small button inset into the handle.
+~
+E
+undefined~
+Nothing.
 ~
 A
 19 1
@@ -139,17 +139,17 @@ A warrant for someones arrest lies discarded on the ground.~
 1 0 0 10 -1
 T 816
 E
-undefined~
-Nothing.
-~
-E
-undefined~
-Nothing.
-~
-E
 warrant arrest~
    The scroll contains the details of the arrest and the proceedures required
 to implement them.    
+~
+E
+undefined~
+Nothing.
+~
+E
+undefined~
+Nothing.
 ~
 #817
 heavy key~
@@ -167,18 +167,18 @@ clasp is a faint inscription to worn to be read.  The gem looks strange, in
 that, one half of it is blue and the other half is pink.    
 ~
 #820
-banner tattered emerald pole~
-banner tattered emerald pole~
-The tattered remains of an emerald green banner, lays on the ground on a broken pole.~
+flag white large sigil istar~
+a flag bearing the sigil of Istar~
+&WA large white flag bearing the sigil of Istar flies triumphantly over the crossing.&n~
 ~
 12 0 0
 0 0 0 0
 500 0 0 0 -1
 E
-flag banner emerald green zeboim turtle~
-   High upon a tall pole, a swallowtail banner dances and snaps in the breeze.
-It is a deep, rich emerald in color, emblazoned with a scarlet red turtle
-passant and a jet black crescent in the upper corner.    
+flag white large sigil istar~
+   Raised high on a flag pole, this large white flag flutters triumphantly over
+the crossing where before only the banner of Zeboim once flew.  It is bright
+white with an expertly-stitched sigil of Istar in the center.    
 ~
 #825
 sword gems hilt rusted quest~

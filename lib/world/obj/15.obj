@@ -44,15 +44,24 @@ A
 A
 4 1
 #1504
-delete me~
-delete me~
-A well crafted breastplate lies here, it shines in the mid day sun.~
+crystal massive opaque multifaceted runes~
+a massive, opaque multifaceted crystal covered with runes~
+A massive opaque crystal stands here, its surface adorned with runes.~
 ~
-9 31744 9
-6 0 0 0
-15 150 100 0 -1
-A
-13 10
+12 0 0
+0 0 0 0
+1000 0 0 0 -1
+E
+massive opaque crystal multifaceted runes~
+   At over eight feet in height, this blue crystal is as unusual as it is
+massive.  One side of the structure is rough, as though it were ripped from the
+ground, while the other is multifaceted with one of those facets serving as the
+table which dominates the face.  It is nearly impossible to look through the
+crystal due to its highly opaque nature, but a keen set of eyes can discern a
+very real, very dark shadow residing within the center of the structure.  The
+shadow appears to be nearly as tall as the crystal, filling most of the center
+but having no comprehensible shape.    
+~
 #1505
 delete me~
 delete me~
@@ -96,12 +105,53 @@ A book bound with ribbions in black, crimson, white, and grey rests here.~
 0 0 0 0
 2 0 0 0 -1
 E
-book mage magic moons magi~
-   This book is dedicated to the gods of magic and their followers.  On the
-following pages you will find information on the individual classes or robes of
-mages as well as whatever information is known about the gods of each color
-robe.  Please continue to page 2 to read about the white robe mages of
-Solinari.    
+page.5 5 grey~
+   The Grey Robes are the most feared of the mages.  Not submitting themselves
+to the rule of the conclave, and using their magic to ends that even the Black
+Robes find dispecable, they are branded as renegades.  When a renegade is
+discovered, the conclave sends a mage or a group of magi out to deal with the
+renegade by either informing them to return to either join the conclave, or
+submit to it's judgement.  What happens after that depends on both parties.  
+If the Renegade refuses to do either, the mage may bind him with spells, or, in
+the the case of the Black Robes, just kill him.  Renegade magi are considered a
+hazard to all because of their lack of care for everyone.  They are hunted not
+only by the Conclave, but by just about every other guild as well.  Minotaur
+and Knights have teamed up to destory renegades.  Rangers have laid traps in
+their forests to capture them.  They are not tolerated well in society in
+general.  Mages are generally distrusted, and the renegades are distrusted and
+hated.    
+~
+E
+page.4 4 nuitari black~
+   The mages of the black robe have a very free existence as long as they try
+to promote the magic of Nuitari before all others and do not abuse their
+powers.  The black robes were an unexpected help during the last dragon war,
+helping Huma Dragonbane to find his friend Magius, as well as helping to defeat
+Galas Dracos.  It is not known if Nuitari punished his followers for causing
+the defeat of his mother, Takhisis, but it is speculated that he did not as
+Galas was a Grey Robe, and therefore a renegade.  The black robes are evil and
+some are very nasty and brutal.  Most do not bother with toying with those in
+their power, but gain the information needed, then dispatch them to their god
+or goddess.  Nuitari is a very jealous and unforgiving god.  He is quick to
+punish either failure or betrayal.  He will punish his followers quicker than
+any others.    
+~
+E
+page.3 3 red lunitari~
+   The magi of the red robes are the most free of the mages.  They have a
+larger choice of spells to cast, as well as actions and choices as long as they
+help to maintain the balance between good and evil.  Because of this, the red
+robes usually produce the more famous of the magi, such as the mage, Magius.  
+Though more liberal with their actions, the red robes have to becarefull more
+so than the other orders as it is easy for them to sway to evil, or good if
+they misact.  Many red robe mages have let their actions carry to far and ended
+up in the embrace of Nuitari and his order.  The red robes report that their
+goddess, Lunitari, is a vivacious, and carefree goddess.  She is kind, and
+loves magic of all sorts, especially that of illusional spells.  She is less
+likely to punish than her two cousins, but if angered, she has a fiery temper
+that is best not seen.  Though, we have found no red robes who could testify to
+her temper, which leads us to believe it has been quite some time since she
+last was angered.    
 ~
 E
 2 two solinari white page.2~
@@ -125,53 +175,12 @@ for the black robes, continue to page 4, and for the grey robes or renegades,
 please continue to page 5.    
 ~
 E
-page.3 3 red lunitari~
-   The magi of the red robes are the most free of the mages.  They have a
-larger choice of spells to cast, as well as actions and choices as long as they
-help to maintain the balance between good and evil.  Because of this, the red
-robes usually produce the more famous of the magi, such as the mage, Magius.  
-Though more liberal with their actions, the red robes have to becarefull more
-so than the other orders as it is easy for them to sway to evil, or good if
-they misact.  Many red robe mages have let their actions carry to far and ended
-up in the embrace of Nuitari and his order.  The red robes report that their
-goddess, Lunitari, is a vivacious, and carefree goddess.  She is kind, and
-loves magic of all sorts, especially that of illusional spells.  She is less
-likely to punish than her two cousins, but if angered, she has a fiery temper
-that is best not seen.  Though, we have found no red robes who could testify to
-her temper, which leads us to believe it has been quite some time since she
-last was angered.    
-~
-E
-page.4 4 nuitari black~
-   The mages of the black robe have a very free existence as long as they try
-to promote the magic of Nuitari before all others and do not abuse their
-powers.  The black robes were an unexpected help during the last dragon war,
-helping Huma Dragonbane to find his friend Magius, as well as helping to defeat
-Galas Dracos.  It is not known if Nuitari punished his followers for causing
-the defeat of his mother, Takhisis, but it is speculated that he did not as
-Galas was a Grey Robe, and therefore a renegade.  The black robes are evil and
-some are very nasty and brutal.  Most do not bother with toying with those in
-their power, but gain the information needed, then dispatch them to their god
-or goddess.  Nuitari is a very jealous and unforgiving god.  He is quick to
-punish either failure or betrayal.  He will punish his followers quicker than
-any others.    
-~
-E
-page.5 5 grey~
-   The Grey Robes are the most feared of the mages.  Not submitting themselves
-to the rule of the conclave, and using their magic to ends that even the Black
-Robes find dispecable, they are branded as renegades.  When a renegade is
-discovered, the conclave sends a mage or a group of magi out to deal with the
-renegade by either informing them to return to either join the conclave, or
-submit to it's judgement.  What happens after that depends on both parties.  
-If the Renegade refuses to do either, the mage may bind him with spells, or, in
-the the case of the Black Robes, just kill him.  Renegade magi are considered a
-hazard to all because of their lack of care for everyone.  They are hunted not
-only by the Conclave, but by just about every other guild as well.  Minotaur
-and Knights have teamed up to destory renegades.  Rangers have laid traps in
-their forests to capture them.  They are not tolerated well in society in
-general.  Mages are generally distrusted, and the renegades are distrusted and
-hated.    
+book mage magic moons magi~
+   This book is dedicated to the gods of magic and their followers.  On the
+following pages you will find information on the individual classes or robes of
+mages as well as whatever information is known about the gods of each color
+robe.  Please continue to page 2 to read about the white robe mages of
+Solinari.    
 ~
 #1509
 book crown~
@@ -181,23 +190,6 @@ A silver book with a crown etched in gold on the cover rests here.~
 13 65540 1
 0 0 0 0
 1 0 0 0 -1
-E
-page.2 2 two~
-The ranks of the Knights of the Crown are as follows in order.  Please note,
-that there is only one High Warrior at any given time in the Knighthood.
-
-Squire of the Crown
-Defender of the Crown
-Knight of the Crown
-Scepter Knight
-Shield Knight
-Shield of Crown
-Lord of Shields
-Lord of Crown
-Master Warrior
-Lord Warrior
-High Warrior
-~
 E
 book crown 1 page.1~
    This book contains information about the order in the Knights of Solamnia
@@ -216,6 +208,23 @@ on the List of Loyalty
 To read the list of ranks for the Knights of the Crown, please continue
 to page 2.
 ~
+E
+page.2 2 two~
+The ranks of the Knights of the Crown are as follows in order.  Please note,
+that there is only one High Warrior at any given time in the Knighthood.
+
+Squire of the Crown
+Defender of the Crown
+Knight of the Crown
+Scepter Knight
+Shield Knight
+Shield of Crown
+Lord of Shields
+Lord of Crown
+Master Warrior
+Lord Warrior
+High Warrior
+~
 #1510
 book knight sword~
 a gold covered book~
@@ -224,6 +233,25 @@ A book with a gold cover and sword etched in silver rests here.~
 13 65540 1
 0 0 0 0
 1 0 0 0 -1
+E
+book knight sword page.1~
+   The purpose of this book is to enlighten the reader as to the ideals and
+standards required for a Knight of the Sword in the Knights of Solamnia.  The
+Knights of the Sword act as warriors for the gods of Good, upholding the purest
+ideals of heroism and courage.  Heroism is self-sacrificial fight for the cause
+of Good.  Heroic deeds include strengthening the weak, enriching the poor,
+freeing the enslaved, exonerating the falsely accused, championing the
+defenseless, and aiding fellow knights in need.  Courage is readiness to die
+honorably in the fight for Good.  Courageous acts include facing evil
+fearlessly, defending the honor of the Knighthood, defending the honor of a
+fellow knight, and protecting the defenseless and weak.  A Knight of the Sword
+must surrender all personal wealth to the knightly coffers (save what is needed
+for upkeep), pay homage to Kiri-Jolith and the gods of Good each day, eagerly
+engage evil opponents in combat (not retreating regardless of the enemy's
+strength), protect the weak and defenseless, and forswear use of knightly
+powers for unrighteous reasons.    
+For the order of ranks within the Order of the sword please continue to page 2.
+~
 E
 page.2 2 two~
 The following is the order of ranks for the Knights of the Sword in ascending
@@ -244,25 +272,6 @@ High Clerist
 Please note, there is only one High Clerist in the Knighthood at any
 given time.
 ~
-E
-book knight sword page.1~
-   The purpose of this book is to enlighten the reader as to the ideals and
-standards required for a Knight of the Sword in the Knights of Solamnia.  The
-Knights of the Sword act as warriors for the gods of Good, upholding the purest
-ideals of heroism and courage.  Heroism is self-sacrificial fight for the cause
-of Good.  Heroic deeds include strengthening the weak, enriching the poor,
-freeing the enslaved, exonerating the falsely accused, championing the
-defenseless, and aiding fellow knights in need.  Courage is readiness to die
-honorably in the fight for Good.  Courageous acts include facing evil
-fearlessly, defending the honor of the Knighthood, defending the honor of a
-fellow knight, and protecting the defenseless and weak.  A Knight of the Sword
-must surrender all personal wealth to the knightly coffers (save what is needed
-for upkeep), pay homage to Kiri-Jolith and the gods of Good each day, eagerly
-engage evil opponents in combat (not retreating regardless of the enemy's
-strength), protect the weak and defenseless, and forswear use of knightly
-powers for unrighteous reasons.    
-For the order of ranks within the Order of the sword please continue to page 2.
-~
 #1511
 book knight rose~
 a book with a platinum cover~
@@ -271,25 +280,6 @@ A book with a platinum cover and a rose etched in onyx rests here.~
 13 65540 1
 0 0 0 0
 1 0 0 0 -1
-E
-page.2 2 two~
-The following is the rank structure for the Order of the Rose in ascending
-order.  Please note, there is only one High Justice in the Knighthood
-at any time.
-
-Novice of the Roses
-Knight of Tears
-Knight of Mind
-Knight of Heart
-Knight of Roses
-Keeper of Roses
-Master of Roses
-Archknight
-Lord of Roses
-Master of Justice
-Lord of Justice
-High Justice
-~
 E
 knight rose book~
    This book is to inform people of the standards and ideals a Knight of the
@@ -309,6 +299,25 @@ to uphold honor and render justice.
 For information regarding the ranks of the Order of the Rose, please read
 page 2.
 ~
+E
+page.2 2 two~
+The following is the rank structure for the Order of the Rose in ascending
+order.  Please note, there is only one High Justice in the Knighthood
+at any time.
+
+Novice of the Roses
+Knight of Tears
+Knight of Mind
+Knight of Heart
+Knight of Roses
+Keeper of Roses
+Master of Roses
+Archknight
+Lord of Roses
+Master of Justice
+Lord of Justice
+High Justice
+~
 #1512
 tattered worn book~
 a worn and tattered book~
@@ -320,14 +329,15 @@ to others. Some of the things it covers are bathing, perfumes and attire.
 5 1 -1 0
 3 500 250 5 -1
 E
-3 read.3 page.3 three~
-Attire.
-     Now, once you have been bathed and annointed with a suitable perfume, your next
-decision must be what to wear. This will vary widely based on the planned activities.
-Be sure, when chosing you attire, to take into account the weather (hot or cold, dry or
-rainy), the planned activities (dancing, riding, shopping, dinner) and the current
-fashion or style. Nothing will make a worse impression then appearing at the Lord's
-ball in last seasons finery.
+1 read.1 page.1 one~
+Bathing.
+     One of the most important things needed to make a good impression on others is
+cleanliness. Frequent and consistant bathing will help ensure cleanliness. Bathing
+removes the normal daily dirt and grime that even the most pampered person will still
+accumulate throughout the day.
+     To bath properly, place a large volume of heated water in a container which is large
+enough to hold the body of the bather. Then apply a quantity of soap or pumace to the
+entire body. Rinse the body after doing this with another volume of clean heated water.
 ~
 E
 2 read.2 page.2 two~
@@ -341,15 +351,14 @@ overwhelm the nose of the ones you are trying to make a good impression on. Too 
 it will be unnoticeable.
 ~
 E
-1 read.1 page.1 one~
-Bathing.
-     One of the most important things needed to make a good impression on others is
-cleanliness. Frequent and consistant bathing will help ensure cleanliness. Bathing
-removes the normal daily dirt and grime that even the most pampered person will still
-accumulate throughout the day.
-     To bath properly, place a large volume of heated water in a container which is large
-enough to hold the body of the bather. Then apply a quantity of soap or pumace to the
-entire body. Rinse the body after doing this with another volume of clean heated water.
+3 read.3 page.3 three~
+Attire.
+     Now, once you have been bathed and annointed with a suitable perfume, your next
+decision must be what to wear. This will vary widely based on the planned activities.
+Be sure, when chosing you attire, to take into account the weather (hot or cold, dry or
+rainy), the planned activities (dancing, riding, shopping, dinner) and the current
+fashion or style. Nothing will make a worse impression then appearing at the Lord's
+ball in last seasons finery.
 ~
 A
 6 1
