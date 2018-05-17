@@ -1,0 +1,30 @@
+3
+ush
+28
+unsheath broadsword scabbard
+0
+2
+sh
+26
+sheath broadsword scabbard
+0
+2
+ch
+9
+charge $*
+1
+2
+wr
+14
+wear ruck back
+0
+1
+b
+7
+bash $*
+1
+1
+t
+17
+get all $*.corpse
+1

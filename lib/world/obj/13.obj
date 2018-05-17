@@ -560,8 +560,8 @@ A steel mace with rusted spikes lies here.~
 0 2 7 9
 5 500 250 15 -1
 #1342
-hammer battle battle-hammer~
-a runed two-handed battle hammer~
+hammer battle large rune covered rune-covered~
+a large, rune-covered battle hammer~
 A two-handed battle hammer lies here.~
 ~
 5 1073745920 8193
@@ -781,14 +781,14 @@ Nothing.
 15 0 -1 0
 0 0 0 2 -1
 E
-undefined~
-Nothing.
-~
-E
 cake wedding~
    This three-tiered wedding cake has been decorated with white frosting roses,
 and has delicate drippings of strawberry glaze falling from the top tier to the
 bottom.  Surrounding the base of the cake are plump, juicy strawberries.    
+~
+E
+undefined~
+Nothing.
 ~
 #1398
 delete me~
@@ -807,13 +807,13 @@ A smooth ringband made of beautiful white gold, lies here.~
 1 0 0 0
 1 109 11 2 -1
 E
+undefined~
+Nothing.
+~
+E
 band inscription~
 As this band forms an unbroken circle, so too does it symbolize the unbroken
 love of you and I, as we join to become one in heart, mind and soul.
                             To My Beloved
-~
-E
-undefined~
-Nothing.
 ~
 $~

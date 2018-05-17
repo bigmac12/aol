@@ -273,6 +273,12 @@ A pair of gauntlets lie here.~
 6 0 0 0
 6 4100 2050 25 -1
 E
+phrase tongue~
+Beautifully etched into one of the larger steel plates reads the following phrase:
+
+                   "Strength of the Giants be in Your Hands"
+~
+E
 gauntlets ogre~
    Reinforced with forged steel these gloves are both protective and powerful.
 The overall construction is sleek and lightweight.  Supple leather lines the
@@ -281,20 +287,10 @@ unusually flexible to use.  The polished surface of the steel reinforcing has
 been etched with various patterns of power and strength, as well as a short
 phrase in the common tongue.    
 ~
-E
-phrase tongue~
-Beautifully etched into one of the larger steel plates reads the following phrase:
-
-                   "Strength of the Giants be in Your Hands"
-~
 A
 1 2
 A
 13 10
-A
-2 -1
-A
-18 -2
 #4490
 heavy black boots~
 &Ka pair of heavy black boots&n~

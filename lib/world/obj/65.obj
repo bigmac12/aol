@@ -36,12 +36,6 @@ A steel ruby ring lies alone upon the floor.~
 0 0 0 0
 1 325 80 8 -1
 E
-steel ruby ring~
-   This ring looks fairly ordinary being cast of steel.  A small ruby has been
-set into the band, and gleams as the light reflects off of it.  You see some
-letters have been scratched INSIDE the band.    
-~
-E
 inside letters band scratched~
 
 Inside of the ring you see the following letter scratched:
@@ -50,6 +44,12 @@ Inside of the ring you see the following letter scratched:
      a-u     l-o
      e-h     v-a
      c-b     z-e
+~
+E
+steel ruby ring~
+   This ring looks fairly ordinary being cast of steel.  A small ruby has been
+set into the band, and gleams as the light reflects off of it.  You see some
+letters have been scratched INSIDE the band.    
 ~
 #6521
 dagger silver glittering~
@@ -87,14 +87,14 @@ A table sits here with four chairs around it.~
 20 0 -1 0
 300 0 0 1 -1
 E
-table~
-   The table is well scarred, from many a dagger being drawn and thrust into
-the table.  The table is also stained from spilled mugs and ale.    
-~
-E
 chairs~
    The chairs around the table look sturdy, but not the most comfortable.  
 Then again, what more can you expect from an all profit organization.    
+~
+E
+table~
+   The table is well scarred, from many a dagger being drawn and thrust into
+the table.  The table is also stained from spilled mugs and ale.    
 ~
 #6530
 black padded leather shoes~
@@ -481,6 +481,17 @@ A small ceramic container of black and magenta liquid lies here.~
 0 0 0 0
 0 1440 720 20 -1
 E
+tattoo swirling tribal patterns black magenta~
+   This tattoo has been drawn by a master of the art; so fine is the detail
+that one could almost believe this to be a natural part of a person's skin.  
+Whatever substance was used to create this tattoo provides a vibrant, lasting
+color.  Lines of midnight black, and deep magenta form beautiful and
+inexplicable swirling patterns.  To those with the knowledge, they would
+recognize these markings as the traditional tattoos used by the plainsmen of
+Khur.  To others, they simply provide a beautiful and mysterious decoration.  
+(See tribooc for ooc details, please)
+~
+E
 tribooc~
 OOC: This item once placed on a wear location, cannot be removed. Just as in
 real life, once you put a tattoo on you can't take it off. Even an immortal
@@ -500,17 +511,6 @@ don't wear it on your head. Females probably shouldn't wear it on the BODY,
 since you can't wear anything else over it. Yes, it may be unrealistic, but
 that's how the code works. It doesn't matter if you SHOULD be able to wear
 and item over your tattoo, you just can't. :)
-~
-E
-tattoo swirling tribal patterns black magenta~
-   This tattoo has been drawn by a master of the art; so fine is the detail
-that one could almost believe this to be a natural part of a person's skin.  
-Whatever substance was used to create this tattoo provides a vibrant, lasting
-color.  Lines of midnight black, and deep magenta form beautiful and
-inexplicable swirling patterns.  To those with the knowledge, they would
-recognize these markings as the traditional tattoos used by the plainsmen of
-Khur.  To others, they simply provide a beautiful and mysterious decoration.  
-(See tribooc for ooc details, please)
 ~
 A
 18 1
@@ -618,8 +618,8 @@ that is sure to make a statement.
 A
 19 2
 #6577
-belt decorated leather~
-&ya decorated leather sword belt&n~
+belt decorated leather sword sturdy~
+&ya decorated sword belt made from sturdy leather&n~
 A sword belt lies in a heap on the ground.~
 ~
 7 2109440 2049

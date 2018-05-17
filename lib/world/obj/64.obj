@@ -73,18 +73,18 @@ just be the walls of the brazier...
 0 0 0 0
 200 5000 1000 15 -1
 E
+incense ashes~
+The incense is a fine, grayish colored ash that spills out from the 
+overturned brazier.  It smells fragrant and slightly sweet, and was 
+probably burned as some sort of religious offering to the gods of good.
+~
+E
 brazier golden~
    This is a beaten gold incense burner.  It is a medium-sized golden bowl,
 chased with incricate figures of the gods of good, and decorated with tiny gems
 and stones.  It has been overturned from its resting place on the wall and now
 lies in a bashed-in heap on the floor, spilling incense onto the Temple's
 floor.    
-~
-E
-incense ashes~
-The incense is a fine, grayish colored ash that spills out from the 
-overturned brazier.  It smells fragrant and slightly sweet, and was 
-probably burned as some sort of religious offering to the gods of good.
 ~
 #6405
 gold~
@@ -186,9 +186,16 @@ bracer antique ruby studded ruby-studded solid gold~
 &Yan antique, ruby-studded bracer made from solid gold&n~
 A lovely jewelled bracer lies upon the ground, light glinting off of it.~
 ~
-9 12714192 4097
+9 4325584 4097
 4 0 0 0
 2 5040 2520 25 -1
+E
+inscription~
+   "To Kargan my love, on the eve of our wedding.  May this trinket remind you
+always of the tender joy I find in our union.  My love is with you always."
+
+ - Irina
+~
 E
 bracer antique gold studded lovely jewelled~
    This bracer is exceedingly beautiful, and is in such pristine condition that
@@ -196,13 +203,6 @@ it might have been kept in storage for centuries.  It pulsates with an odd hum,
 and when it is held, it is rather warm to the touch.  Considering its size and
 apparent daintiness, it is rather heavy.  There seems to be some sort of
 inscription on the inside of it.    
-~
-E
-inscription~
-   "To Kargan my love, on the eve of our wedding.  May this trinket remind you
-always of the tender joy I find in our union.  My love is with you always."
-
- - Irina
 ~
 A
 19 2

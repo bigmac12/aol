@@ -267,7 +267,7 @@ legplate to the warrior's lower legs.
 A
 19 2
 #10118
-armplates steel~
+armplates steel wrapped steel-wrapped thick~
 a pair of thick steel-wrapped armplates~
 A pair of thick, steel-wrapped armplates lies here.~
 ~
@@ -1223,7 +1223,7 @@ warhammer hammer large~
 &ya large warhammer forged of copper and brass&n~
 A large warhammer lies here.~
 ~
-5 4096 8193
+5 4096 24577
 0 2 5 7
 10 48 12 7 -1
 E
@@ -1232,9 +1232,9 @@ warhammer hammer large~
 wield it.    
 ~
 #10189
-broadsword sword~
-&ya freshly sharpened copper broadsword&n~
-A broadsword lies here.~
+broadsword sword freshly sharpened freshly-sharpened copper polished~
+&ya polished, freshly-sharpened copper broadsword&n~
+A copper broadsword lies here.~
 ~
 5 2109440 75505665
 0 1 5 3

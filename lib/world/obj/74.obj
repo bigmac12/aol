@@ -345,7 +345,7 @@ with a small hook attacked to one side and a loop to the other.  It is
 relatively crude in design and the metal has discolored slightly.    
 ~
 #7422
-shield leather round~
+shield leather round bronze accents~
 &ya round leather shield with bronze accents&n~
 A round leather shield has been discarded here.~
 ~
@@ -715,18 +715,18 @@ A metal flask has been left here.~
 10 10 2 0
 15 15 3 1 -1
 E
+insignia roaring tempest~
+   The insignia of the Roaring Tempest has been engraved into the surface of
+this metal flask.  A merchants ship sits atop a massive wave as the rains and
+winds swirl around it.    
+~
+E
 port wine flask~
    This heavy port is made from only the most select grapes that grow in the
 vineyards along the sandy hillsides near the shore line.  It is aged in oak
 barrels in the basement of the Roaring Tempest for months before Pazdoki serves
 it to his patrons.  It is only available in the special commemorative flask
 which bears the insignia of the Roaring Tempest.    
-~
-E
-insignia roaring tempest~
-   The insignia of the Roaring Tempest has been engraved into the surface of
-this metal flask.  A merchants ship sits atop a massive wave as the rains and
-winds swirl around it.    
 ~
 #7447
 leggings silk black red~
@@ -886,7 +886,7 @@ A cage of metal attached to thick chains lies here.~
 4 0 0 0
 10 500 250 15 -1
 #7476
-axe vengeance sword steel battle wing blades shaped~
+axe vengeance steel battle wing blades shaped wing-shaped~
 &K"&rVengeance Sworn&K", a massive steel battle axe with wide, wing-shaped blades&n~
 A massive black battle axe lies here, discarded by its owner.~
 ~
@@ -1000,10 +1000,6 @@ A pair of black leather rerebraces lie here.~
 9 0 0 0
 7 8850 4425 29 -1
 E
-rerebraces black leather studded blood red blood-red spikes~
-It looks unfinished.
-~
-E
 mark signature stamp maker maker's~
  .----------------.
 | .--------------. |
@@ -1016,6 +1012,10 @@ mark signature stamp maker maker's~
 | |              | |
 | '--------------' |
  '----------------'
+~
+E
+rerebraces black leather studded blood red blood-red spikes~
+It looks unfinished.
 ~
 #7489
 mantle black leather studded blood red blood-red spikes~
