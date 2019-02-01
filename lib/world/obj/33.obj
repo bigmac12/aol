@@ -1,3 +1,17 @@
+#3302
+gauntlets full leather gold plated fingers gold-plated~
+&Ya pair of full leather gauntlets with gold-plated fingers&n~
+A pair of leather gauntlets with gold-plated fingers lies here.~
+~
+9 1017273344 129
+6 0 0 0
+5 900 450 29 -1
+A
+2 1
+A
+18 1
+A
+19 1
 #3303
 chain silver leaves~
 a small chain of silver leaves~
@@ -219,6 +233,28 @@ A book bound in crimson leather is lying here.~
 0 0 0 0
 1 0 0 1 -1
 E
+page2~
+   Much of the text on this page has been worn away by time and use.  There are
+still a few lines which are readable, however.  They seem to provide a listing
+of components for use with certain spells.    
+
+
+               Deceptive Imagery  --  Mirrored Rod
+               Spell Turning      --  Antipolarized Rod
+
+
+~
+E
+book bound crimson leather~
+   The symbols on the cover and inside this book are unintelligible to most.  
+They appear to be that of the spidery language of magic and are only understood
+by those who practice such arts.  Some of the pages have been torn but much of
+the book remains intact.    
+
+
+   (mages: type 'read page1' to continue)
+~
+E
 page1~
 
 
@@ -233,28 +269,6 @@ Bring other worthy candidates to the study of the art.
 
 
 (mages: type 'read page2' to continue)
-~
-E
-book bound crimson leather~
-   The symbols on the cover and inside this book are unintelligible to most.  
-They appear to be that of the spidery language of magic and are only understood
-by those who practice such arts.  Some of the pages have been torn but much of
-the book remains intact.    
-
-
-   (mages: type 'read page1' to continue)
-~
-E
-page2~
-   Much of the text on this page has been worn away by time and use.  There are
-still a few lines which are readable, however.  They seem to provide a listing
-of components for use with certain spells.    
-
-
-               Deceptive Imagery  --  Mirrored Rod
-               Spell Turning      --  Antipolarized Rod
-
-
 ~
 #3359
 chest ironwood carved~
@@ -372,16 +386,11 @@ A flowering vine with dark purple leaves and black berries grows here.~
 0 0 0 0
 1 10 1 1 -1
 E
-bryony herb black bunch flowering vine purple berries~
-   &gThe leaves of this plant are heart-shaped, smooth and shining as if they
-had been varnished.  Late in autumn they turn dark purple, making a very showy
-appearance.  In winter, the stems die down, though the root is perennial.  The
-flowers are small, greenish-white, in loose bunches and of two kinds, barren
-and fertile on different plants, the latter being succeeded by berries of a red
-colour when ripe.  The large, fleshy root is black on the outside and
-exceedingly acrid.  &n
-
-&y(Rangers, Druids and Herbalists/Healers/Mages look also at USES)&n
+DEFS Definitions~
+Diuretic: Tending to increase the flow of urine.
+Emetic: Causes severe vomiting.
+Tincture: A substance that colors, dyes, or stains.
+Chilblains: An inflammatory swelling or sore caused by exposure to cold.
 ~
 E
 Uses~
@@ -406,11 +415,16 @@ applied in the form of a poultice.
 &y(See also Definitions, or DEFS)&n
 ~
 E
-DEFS Definitions~
-Diuretic: Tending to increase the flow of urine.
-Emetic: Causes severe vomiting.
-Tincture: A substance that colors, dyes, or stains.
-Chilblains: An inflammatory swelling or sore caused by exposure to cold.
+bryony herb black bunch flowering vine purple berries~
+   &gThe leaves of this plant are heart-shaped, smooth and shining as if they
+had been varnished.  Late in autumn they turn dark purple, making a very showy
+appearance.  In winter, the stems die down, though the root is perennial.  The
+flowers are small, greenish-white, in loose bunches and of two kinds, barren
+and fertile on different plants, the latter being succeeded by berries of a red
+colour when ripe.  The large, fleshy root is black on the outside and
+exceedingly acrid.  &n
+
+&y(Rangers, Druids and Herbalists/Healers/Mages look also at USES)&n
 ~
 #3367
 eyebright plant herb bunch whites purples flowering~
@@ -421,17 +435,9 @@ A small flowering plant of whites and purples grows here, catching the eye.~
 20 14 0 0
 1 100 1 16 -1
 E
-eyebright plant herb bunch whites purples flowering~
-   This is an elegant little plant standing two to eight inches high, and
-flowering with deeply-cut leaves and numerous, small, white or purplish flowers
-variegated with yellow.  The stem is erect and wiry, with many opposite
-branches.  The leaves are about half an inch long, and a fourth an inch wide,
-forming a somewhat lanced shaped.  The flowers, white, or lilac and
-purpleveined, are in terminal spikes, with leafy bracts interspersed.  The
-seeds in all kinds of the flowers are produced in tiny, flattened capsules, and
-are numerous and ribbed.    
-
-&y(Rangers, Druids and Herbalists/Healers/Mages look also at USES)&n
+defs definitions~
+Expression: The juice from crushed parts of the herb.
+Infusion: A liquid extract, as tea, prepared by steeping or soaking.
 ~
 E
 uses~
@@ -451,9 +457,17 @@ in teas and ales in some areas.
 &y(See also DEFS or Definitions)&n
 ~
 E
-defs definitions~
-Expression: The juice from crushed parts of the herb.
-Infusion: A liquid extract, as tea, prepared by steeping or soaking.
+eyebright plant herb bunch whites purples flowering~
+   This is an elegant little plant standing two to eight inches high, and
+flowering with deeply-cut leaves and numerous, small, white or purplish flowers
+variegated with yellow.  The stem is erect and wiry, with many opposite
+branches.  The leaves are about half an inch long, and a fourth an inch wide,
+forming a somewhat lanced shaped.  The flowers, white, or lilac and
+purpleveined, are in terminal spikes, with leafy bracts interspersed.  The
+seeds in all kinds of the flowers are produced in tiny, flattened capsules, and
+are numerous and ribbed.    
+
+&y(Rangers, Druids and Herbalists/Healers/Mages look also at USES)&n
 ~
 #3368
 pepper green bell~
@@ -591,19 +605,6 @@ A steel sai with a decorated silver pommel lies here, waiting to be used.~
 0 3 5 11
 1 1100 550 20 -1
 E
-sai steel decorated silver pommel~
-   This object is what is known as a sai.  Similar in appearance to a trident,
-it is roughly the size of a common dagger or gauche.  This particular sai is
-crafted of steel, with a sharpened center prong.  The two shorter prongs have
-been left dull, though could still cause grievous harm.  The pommel is crafted
-of silver, and has been engraved with designs of twining vines and leaves.  A
-strip of leather has been wrapped around the handle, providing a better grip.
-A sai is often employed in pairs, using one to attack and the other to defend
-or disarm one's opponent.    
-
-&y(See ORIGIN for additional information)&n
-~
-E
 ORIGIN~
    The origin of the Sai lies in farming, being used as an aid for planting
 crops by hand.  The farmer would stick the prongs in the ground, creating three
@@ -618,6 +619,19 @@ bladed attacks quite handily, being able to catch and turn a blade, or even
 break it if the wielder has enough strength.  Generally, it is wielded in the
 same fashion as a dagger, though certain monasteries have developed entire
 styles of fighting with the Sai.    
+~
+E
+sai steel decorated silver pommel~
+   This object is what is known as a sai.  Similar in appearance to a trident,
+it is roughly the size of a common dagger or gauche.  This particular sai is
+crafted of steel, with a sharpened center prong.  The two shorter prongs have
+been left dull, though could still cause grievous harm.  The pommel is crafted
+of silver, and has been engraved with designs of twining vines and leaves.  A
+strip of leather has been wrapped around the handle, providing a better grip.
+A sai is often employed in pairs, using one to attack and the other to defend
+or disarm one's opponent.    
+
+&y(See ORIGIN for additional information)&n
 ~
 #3376
 simple spring well grey stones~

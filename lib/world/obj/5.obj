@@ -146,12 +146,12 @@ the Wilds' are enscripted.
 ~
 #514
 scimitar crafted mithril gold runes engraved blade~
-a beautifully crafted mithril scimitar with gold runes engraved upon the blade~
+&Wa beautiful mithril scimitar with a rune-engraved blade&n~
 A beautifully crafted mithril scimitar with gold runes engraved upon the blade has been left here.~
 ~
-13 65552 75522049
-0 0 0 0
-3 1 1 1 -1
+5 65552 75522049
+0 5 5 3
+3 1 1 29 -1
 E
 scimitar crafted mithril gold runes engraved blade~
    This well-balanced and beautifully crafted scimitar is lightweight and easy
@@ -162,6 +162,12 @@ filling.  The hilt is wrapped in dear hide and the ball at the end of the
 scimitar is a perfect, spherical emerald.  The bottom of the hilt holds a crest
 with the words, 'High Ranger of the Guardian of the Wilds'.    
 ~
+A
+2 1
+A
+18 2
+A
+19 2
 #598
 chest vallenwood large~
 a large vallenwood chest~
