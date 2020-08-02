@@ -1092,7 +1092,7 @@ a gleaming longsword with a jeweled hilt~
 A gleaming longsword with a jeweled hilt lies here.~
 ~
 5 2109440 75505665
-0 1 5 3
+0 2 5 3
 5 30 8 5 -1
 E
 longsword gleaming jeweled~
@@ -1278,16 +1278,16 @@ A tall wooden barstool, worn from use sits near the bar.~
 0 0 0 0
 9999 0 0 1 -1
 E
+scratches~
+   The word 'Azareth' can be made out faintly, scratched into the seat of the
+barstool by some hasty hand.    
+~
+E
 barstool worn wooden~
    This is a simple wooden barstool, which is a bit taller than average.  It
 has seen it's fair share of use and age, and the seat is worn smooth.  Near one
 edge, some faint scratches can be made out.  One would have to look closer to
 see if they resemble anything however.    
-~
-E
-scratches~
-   The word 'Azareth' can be made out faintly, scratched into the seat of the
-barstool by some hasty hand.    
 ~
 #10193
 robes majere cleric~

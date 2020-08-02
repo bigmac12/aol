@@ -25,16 +25,6 @@ D1
 ~
 0 0 8031
 E
-gems~
-   The gems seem to be on fire as the bright light of the shop gleams off of
-every edge and corner.    
-~
-E
-cases~
-   The glass casses are filled with the most beautiful sparking gems you have
-ever seen.    
-~
-E
 plaque sign sedit~
    A small plaque behind the counter bears the establishment's merchant number
 which is assigned by the Istar Chamber of Commerce, located in the Welcoming
@@ -42,6 +32,16 @@ Tower.
 
                            #8101
 
+~
+E
+cases~
+   The glass casses are filled with the most beautiful sparking gems you have
+ever seen.    
+~
+E
+gems~
+   The gems seem to be on fire as the bright light of the shop gleams off of
+every edge and corner.    
 ~
 S
 #8102
@@ -803,12 +803,6 @@ D3
 ~
 0 0 8140
 E
-plaque polished brass~
-Gunther Melargo
-Head Jailer of Istar
-Serving proudly for 20 years
-~
-E
 award wooden carved~
 Asst. Jailer of the Year Award
 This plain piece of wood is carved with the following inscription:
@@ -818,6 +812,12 @@ Asst. Jailer of the Year Award
 
 It seems to have been hung in this particular spot to try to cover a large
 crack in the wall but is not doing a good job at it.
+~
+E
+plaque polished brass~
+Gunther Melargo
+Head Jailer of Istar
+Serving proudly for 20 years
 ~
 S
 #8143
@@ -1152,7 +1152,7 @@ it.  On both sides of the road are homes where the city guards live.  The road
 is made of smooth, white stone.  Common folk and nobleman do not come here, and
 the only pedestrians to be seen are guards.    
 ~
-0 8 1 0 0
+81 8 1 0 0
 D0
 ~
 ~
@@ -1170,7 +1170,7 @@ drainage.  Common folk and noblemen normally do not come here, since the troops
 are rather thick.  On both sides of the road are homes where the city guards,
 and higher military men live.    
 ~
-0 8 1 0 0
+81 8 1 0 0
 D0
 ~
 ~
@@ -1184,7 +1184,7 @@ S
 Guardsmen's Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 1032 1 0 0
 D0
 ~
 ~
@@ -1198,7 +1198,7 @@ S
 Guardsmen's Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1212,7 +1212,7 @@ S
 Guardsmen's Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D0
 ~
 ~
@@ -1226,7 +1226,7 @@ S
 Guardsmen's Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D0
 ~
 ~
@@ -1240,7 +1240,7 @@ S
 Guardsmen's Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D0
 ~
 ~
@@ -1254,7 +1254,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1272,7 +1272,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1286,7 +1286,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1300,7 +1300,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1314,7 +1314,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D6
 ~
 ~
@@ -1328,7 +1328,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D0
 ~
 ~
@@ -1342,7 +1342,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D0
 ~
 ~
@@ -1356,7 +1356,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1370,7 +1370,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1384,7 +1384,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D3
 ~
 ~
@@ -1394,7 +1394,7 @@ S
 Goldenway Road~
 You are in an unfinished room.
 ~
-0 8 1 0 0
+81 8 1 0 0
 D2
 ~
 ~
@@ -1471,7 +1471,7 @@ it.  The road is made of a smooth, white stone that is generally only ever seen
 by the guards and the prisoners.  The common folk and nobles of the city tend
 to avoid the area whenever possible.    
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1488,7 +1488,7 @@ it.  The road is made of a smooth, white stone that is generally only ever seen
 by the guards and the prisoners.  The common folk and nobles of the city tend
 to avoid the area whenever possible.    
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1505,7 +1505,7 @@ it.  The road is made of a smooth, white stone that is generally only ever seen
 by the guards and the prisoners.  The common folk and nobles of the city tend
 to avoid the area whenever possible.    
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1522,7 +1522,7 @@ it.  The road is made of a smooth, white stone that is generally only ever seen
 by the guards and the prisoners.  The common folk and nobles of the city tend
 to avoid the area whenever possible.    
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1539,7 +1539,7 @@ it.  The road is made of a smooth, white stone that is generally only ever seen
 by the guards and the prisoners.  The common folk and nobles of the city tend
 to avoid the area whenever possible.    
 ~
-0 8 1 0 0
+81 8 1 0 0
 D1
 ~
 ~
@@ -1557,7 +1557,7 @@ by the guards and the prisoners.  The common folk and nobles of the city tend
 to avoid the area whenever possible.  To the west one can see the lapping blue
 water of the bay.    
 ~
-0 8 1 0 0
+81 8 1 0 0
 D7
 ~
 ~

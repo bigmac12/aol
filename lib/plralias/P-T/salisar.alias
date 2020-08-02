@@ -1,8 +1,13 @@
 3
 rec
 45
-rem wind; get scroll wind; recite scroll self
+rem wind;get loosely wind;recite loosely self
 1
+2
+hw
+16
+hang wind girdle
+0
 2
 rs
 16
@@ -12,11 +17,6 @@ recite scroll $*
 wq
 18
 wear quiver onback
-0
-2
-hw
-14
-hang wind belt
 0
 1
 4

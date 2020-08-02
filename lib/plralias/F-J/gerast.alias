@@ -1,40 +1,50 @@
-2
-wp
-9
-wear pack
+1
+m
+3
+sco
 0
 2
-cl
+sc
 11
-c cure-l $*
+skin corpse
+0
 1
 2
-cm
-11
-c cure-m $*
+28
+unsheath zweihander scabbard
+0
 1
+1
+26
+sheath zweihander scabbard
+0
 2
-ml
-16
-c magic-light $*
+ch
+9
+charge $*
+1
+1
+b
+7
+bash $*
 1
 1
 f
 4
 flee
 0
+1
+t
+17
+get all $*.corpse
+1
+2
+wp
+9
+wear pack
+0
 2
 ls
 1
 l
-0
-1
-t
-18
-take all $*.corpse
-1
-1
-m
-3
-mem
 0

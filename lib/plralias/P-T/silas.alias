@@ -1,43 +1,43 @@
+2
+re
+10
+retreat $*
+1
 4
-kill
-9
-charge $*
-1
-3
-jaw
-12
-jawstrike $*
-1
-1
-c
-9
-charge $*
+pofi
+26
+pour skin out;fill skin $*
 1
 2
-ba
+po
 13
-bash $*;stand
+pour skin out
+0
+2
+fi
+12
+fill skin $*
 1
-1
-b
-7
-bash $*
+6
+shield
+30
+remove club;wear shield shield
 1
 4
-smug
+club
+23
+remove shield;hold club
+1
+5
+bread
+46
+remove pack;get bread pack;eat bread;wear pack
+1
+5
+light
 13
-kill smuggler
+hold crucible
 0
-1
-0
-11
-lo smuggler
-0
-11
-superassess
-99
-assess $*;assess $*;assess $*;assess $*;assess $*;assess $*;assess $*;assess $*;assess $*;assess $*
-1
 4
 skin
 11
@@ -58,10 +58,25 @@ get all.coins all.corpse
 18
 get all all.corpse
 0
+4
+kill
+9
+charge $*
+1
 3
-pur
-6
-put $*
+jaw
+12
+jawstrike $*
+1
+1
+c
+9
+charge $*
+1
+1
+b
+7
+bash $*
 1
 1
 k

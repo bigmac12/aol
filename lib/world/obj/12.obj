@@ -310,61 +310,30 @@ A sign, brightly painted with the words 'NEWBIE' on it, demands to be read.~
 0 0 0 0
 0 0 0 0 -1
 E
-page3~
-Other commands that might be useful:
+thirdpage third~
+POLICY (see also: policy, rules, guidelines, help board)
+A few rules, policies, and guidelines have been created to benefit you
+the player as well as everyone else that plays on this MUD.  These rules
+and policies are expected to be read, known, and followed by everyone -
+there can be NO exceptions to this rule.  Please realize that the imms
+are only trying to make this MUD a better place for everyone.
 
-help practice (tells you how to practice your sskills and spells)
-help spells (tells you how to cast spells if you have the ability to)
-help mem (tells you how to memorize your spells if you are a caster)
-help spell *spellname* (describes the spell)
-help cast (tells you how to cast spells.  Some may need a hyphen)
-help forget (tells you how you can forget a current spell)
-~
-E
-page2~
-INTRO (toggles between being able to get names of players, and not getting
-the names of players - this depends on them introing you as well.)
-OOC (command used to talk out-of-character.  This should be used sparingly,
-as there are ways to talk in-character at times instead of using OOC.)
-RENT (you need to rent at an inn to save your equipment on your character
-instead of quitting out.  Otherwise you will drop everything on the ground.)
-OFFER (command at the innkeeper, to check how much the rent will cost.
-This also shows how much each item rents for and how long you can rent.)
-BOARDS (boards, such as policy board, ooc board, and rp board are the
-out-of-character boards.  Main boards, trade boards, crime boards are for
-in-character use.  These are located at the inns of most towns - and should
-be read regularly for updates, especially policies.)
-MAIL (some inns will also have a postmaster service - place where you can
-get and send mail. Good for private messages.)
-WHO (shows you who you have the intros of, if they are online.  The actual
-number of people online can be seen at the bottom.)
+BOARDS
+There are a few boards in every major town, city, or village.  These are
+usually within the same building as the inn.  A few of the boards are
+policy/rules/guidelines, trade, criminal, ooc, ic (also called main) and
+RP.  Other boards may be there as well. It is expected that everyone
+read the policy board for updates and rules, and recommended that you
+also read the others for ic or ooc information (comments, questions,
+advice or other that mortals or immortals may post).
 
-(to look at the next page, please type look page3)
-~
-E
-sign newbie~
+RENT (see also help rent, help inn)
+We are a rent mud.  This means your equipment will ONLY be saved if
+you rent at an inn, when you wish to leave the game.  IF YOU QUIT, your
+equipment will drop to the ground, and will NOT be saved on your character.
 
-For those who are entering our World of Krynn for the first time:
-
-When your character is approved you will journey to one of our
-start cities to begin your adventures.  Each city has unique
-features to it.  Please be sure to review your map to get an idea
-of its layout.  If starting in Karthay, the Lord's Mansion or
-the docks are the best places in the city to begin.  In Kalaman
-the Temple of Paladine and the docks are your best bets!
-
-There are a few commands that one may need to know when playing
-our MUD - some are unique commands, and some are more advanced
-commands for our codebase.  The following are a few listings, 
-and are either in current helpfiles, or will be placed there soon.
-
-NEWBIE COMMANDS:  Some commands are necessary for a newbie to know
-how to get started in playing our MUD.  Some of these commands are
-similar to other muds, but we will list a few here for you as well.
-AUTOEXIT (will automatically list the exits in your current room)
-PROMPT ALL or DISPLAY ALL (will let you see your hitpoints and moves)
-
-(to look at the next page, please type look page2)
+Other commands you might want to check out:
+HELP CLASS, HELP RACE, HELP SPELLS, HELP MEM, HELP PRACTICE
 ~
 E
 nextpage next page~
@@ -392,30 +361,61 @@ fun, and too many ooc comments can spoil a good roleplaying session.)
 (to look at the third page, please type    look thirdpage)
 ~
 E
-thirdpage third~
-POLICY (see also: policy, rules, guidelines, help board)
-A few rules, policies, and guidelines have been created to benefit you
-the player as well as everyone else that plays on this MUD.  These rules
-and policies are expected to be read, known, and followed by everyone -
-there can be NO exceptions to this rule.  Please realize that the imms
-are only trying to make this MUD a better place for everyone.
+sign newbie~
 
-BOARDS
-There are a few boards in every major town, city, or village.  These are
-usually within the same building as the inn.  A few of the boards are
-policy/rules/guidelines, trade, criminal, ooc, ic (also called main) and
-RP.  Other boards may be there as well. It is expected that everyone
-read the policy board for updates and rules, and recommended that you
-also read the others for ic or ooc information (comments, questions,
-advice or other that mortals or immortals may post).
+For those who are entering our World of Krynn for the first time:
 
-RENT (see also help rent, help inn)
-We are a rent mud.  This means your equipment will ONLY be saved if
-you rent at an inn, when you wish to leave the game.  IF YOU QUIT, your
-equipment will drop to the ground, and will NOT be saved on your character.
+When your character is approved you will journey to one of our
+start cities to begin your adventures.  Each city has unique
+features to it.  Please be sure to review your map to get an idea
+of its layout.  If starting in Karthay, the Lord's Mansion or
+the docks are the best places in the city to begin.  In Kalaman
+the Temple of Paladine and the docks are your best bets!
 
-Other commands you might want to check out:
-HELP CLASS, HELP RACE, HELP SPELLS, HELP MEM, HELP PRACTICE
+There are a few commands that one may need to know when playing
+our MUD - some are unique commands, and some are more advanced
+commands for our codebase.  The following are a few listings, 
+and are either in current helpfiles, or will be placed there soon.
+
+NEWBIE COMMANDS:  Some commands are necessary for a newbie to know
+how to get started in playing our MUD.  Some of these commands are
+similar to other muds, but we will list a few here for you as well.
+AUTOEXIT (will automatically list the exits in your current room)
+PROMPT ALL or DISPLAY ALL (will let you see your hitpoints and moves)
+
+(to look at the next page, please type look page2)
+~
+E
+page2~
+INTRO (toggles between being able to get names of players, and not getting
+the names of players - this depends on them introing you as well.)
+OOC (command used to talk out-of-character.  This should be used sparingly,
+as there are ways to talk in-character at times instead of using OOC.)
+RENT (you need to rent at an inn to save your equipment on your character
+instead of quitting out.  Otherwise you will drop everything on the ground.)
+OFFER (command at the innkeeper, to check how much the rent will cost.
+This also shows how much each item rents for and how long you can rent.)
+BOARDS (boards, such as policy board, ooc board, and rp board are the
+out-of-character boards.  Main boards, trade boards, crime boards are for
+in-character use.  These are located at the inns of most towns - and should
+be read regularly for updates, especially policies.)
+MAIL (some inns will also have a postmaster service - place where you can
+get and send mail. Good for private messages.)
+WHO (shows you who you have the intros of, if they are online.  The actual
+number of people online can be seen at the bottom.)
+
+(to look at the next page, please type look page3)
+~
+E
+page3~
+Other commands that might be useful:
+
+help practice (tells you how to practice your sskills and spells)
+help spells (tells you how to cast spells if you have the ability to)
+help mem (tells you how to memorize your spells if you are a caster)
+help spell *spellname* (describes the spell)
+help cast (tells you how to cast spells.  Some may need a hyphen)
+help forget (tells you how you can forget a current spell)
 ~
 #1249
 words holy all clerical spells book~
@@ -627,13 +627,23 @@ A
 A
 18 2
 #1270
-delete~
-delete me~
+ring silver small covered runes~
+a small silver ring covered in runes~
 Delete me~
 ~
-13 0 1
+8 320 3
 0 0 0 0
-250 0 0 0 -1
+250 0 0 35 -1
+A
+18 5
+A
+19 5
+A
+2 3
+A
+14 20
+A
+17 -50
 #1271
 delete~
 delete me~
@@ -675,15 +685,164 @@ book building commands command build help~
 0 0 0 0
 0 0 0 38 -1
 E
-book building commands command build help table contents content~
-&BTable of Contents:&n
-Page1 - Room Edit
-Page2 - Mobile Edit
-Page3 - Object Edit
-   Page3a - Object Types
-   Page3b - Extra Flags
-Page4 - Zone Edit
-Page5 - How to Save
+page5 save~
+How to Save - Page5
+
+   You have to know how to save if you want your zone to stay after a crash/reset.
+
+&Rredit save <zone number>&n
+   Saves all rooms in the zone.
+&Rmedit save <zone number>&n
+   Saves all mobiles in the zone.
+&Roedit save <zone number>&n
+   Saves all objects in the zone.
+&Rzedit save <zone number>&n
+   Saves all zone commands in the zone.
+
+After using those to save, save yourself too.
+
+Related Commands:
+
+&ROLC&n
+   This will display all the unsaved zones and what needs saving.
+~
+E
+page4 zone zedit~
+Zone Edit - Page4
+
+&Rzedit <room number>&n
+
+   This is used for:
+&gloading objects
+loading objects in objects
+loading mobiles
+loading equipment onto mobiles
+loading objects into a mobile's inventory
+closing/opening/locking doors
+removing objects from a room&n (not used often)
+
+Related Commands:
+
+&Rshow zone&n
+   This shows all the zones used, as well as zone number, and zone status.
+
+&Rzstat <zone number>&n
+   This shows more detail in a specific zone.  It shows zone name, zone number, age (when it will reset/repop), how long it takes to reset/repop, what type of reset it is (1 means only if nobody is in the zone, 2 means normal), top room of the zone, zone owner, and zone status.
+~
+E
+page3b extra flags flag ex~
+Extra Flags - Page3b
+   The ! infront of a word means no or cannot.  !Good means that good aligned players cannot wear it.  !rent means that it cannot be rented with.
+
+     &gGlow&n --- For looks only.  Makes it glow with a soft aura.
+     &gHidden&n --- Cannot be seen on the ground when dropped.  (Like the gauntlets of ogre power.)
+     &gMagic&n --- Gives it the magic glow if somebody has detect magic on.  Use this on magical items (magi type).  This does matter because some spells on weapons will have different effects based on if this flag is on the item or not.
+     &gBless&n --- Similar to the above.  This time though, if somebody has detect-alignment on and they see it, it glows.  Use this for clerical or holy type equipment.
+     &g+Monk&n --- Makes it so it can be worn by a monk.  Monks can only wear clothing (worn) items and the item should not be magical or have stat bonuses except on rare occasions.
+     &gTwo_Handed&n --- For two handed weapons, makes it so people need two hands to use it.
+~
+E
+page3a types type~
+Object Types - Page3a
+
+   These matter for when using the values part of the object.
+   ***Note:  Values is a set of four numbers.  (# # # #)  If I use (# # x x) that means that the first two numbers are entered and the rest 
+of the numbers are not asked for.
+   ***Note:  For space reasons, I will only list the object types used.  If it is not listed, it isn't used.
+
+     &gLight&n --- Any light source item.  You do not have to make Hold a wear flag for a light item.
+          &BValues&n --- (# x x x) <number of hours it lasts>
+     &gScroll&n --- Used to make a scroll type item.  These items need the read magic skill to be used.
+          &BValues&n --- (# # # #) <spell level> <spell one> <spell two> <spell three>
+     &gWand&n --- Used to make a wand item.
+          &BValues&n --- (# # # #) <spell level> <max number of charges> <initial number of charges> <spell>
+     &gWeapon&n --- Anything that should be wielded.  This includes off-handed weapons.  In the values command, hitroll modifier is 
+mentioned, use the affections list to add hitroll instead of values.
+          &BValues&n --- (# # # #) <modifier to hitroll, put in 0> <number of damage dice (#dx)> <size of damage dice (xd#)> <strike 
+message>
+     &gTreasure&n --- Jewelry items.  Values aren't used.
+     &gArmor&n --- Armor is anything heavier than really soft leather.  Usually things like hard leather or metal.  AC should be a 
+negative number.
+          &BValues&n --- (# x x x) <AC>
+     &gPotion&n --- Any item that is quaffed.
+          &BValues&n --- (# # # #) <spell level> <spell one> <spell two> <spell three>
+     &gWorn&n --- Clothing items.  Values isn't used here.
+     &gOther&n --- Items that just don't have a catagory.  Usually this is for decoration items that sit in a room, like a tombstone or a 
+tree stump.  No values.
+     &gTrap&n --- Currently not used, but plans for putting them in use have been done.
+     &gContainer&n --- Any item that will hold other items.  Bags and packs are good examples.
+          &BValues&n --- (# # # x) <max weight it can hold> <container options> <key number>
+     &gNote&n --- Any item like a book that has a lot of writing or for parchment paper.  No values.
+     &gLiquid Container&n --- Water containers that are in inventory, like waterskins.
+          &BValues&n --- (# # # #) <maximum drink units> <drinks in the object when created> <contents> <poison>
+     &gFood&n --- Obvious isn't it?
+          &BValues&n --- (# # x x) <hours it makes full> <poison>
+     &gMoney&n --- This is to be used as money if you load it inside of an object.
+          &BValues&n --- (# # # #) <plat> <steel> <gold> <copper>
+     &gPen&n --- One of the things needed to write on a note.  No values.
+     &gFountain&n --- Any think that players can drink from while it is sitting on the ground.
+          &BValues&n --- (# # # #) <max drink units> <initial drink units> <contents> <poison>
+~
+E
+page3 oedit object obj~
+Object Edit - Page3
+
+&Roedit <vnum>&n
+     Used to create or edit an object.  Oedit is very detailed.
+
+Related Commands:
+
+&Rolist <vnum> <higher vnum>&n
+   Object List.  This lists all the used objects from the first number entered to the second number entered.
+
+See Page3a for Object types.
+See Page3b for Extra Flags.
+~
+E
+page2 mob mobile medit~
+Mobile Edit - Page2
+
+&Rmedit <vnum>&n
+     This is used to create or edit a mobile (mob/npc).  If you are editing a mobile that is in play, please purge all the copies of it before 
+editing to prevent problems.
+
+Mobile Edit Flags:
+     &gSpec&n --- Unknown
+     &gSentinel&n --- Makes it so the mobile does not move on its own.  It will move if charmed, forced, or if it has the 
+&gHunter_Killer&n flag on it and a player attacks it.
+     &gScavenger&n --- Mobile will pick up items on the ground.
+     &gIsnpc&n --- Uh, well, just leave it on there.  It says "is npc" so I guess it has some use, but it doesn't hurt anything anyways and 
+it is automatically put on the mobile.
+     &gAware&n --- Mobile cannot be backstabbed.
+     &gAggr&n --- Mobile will attack any player it can see.
+     &gStay-Zone --- Mobile will stay in the same zone that it was built in.  Usually the room flag &g!Mob&n is used to keep mobiles 
+from leaving.
+     &gWimpy&n --- Mobile automatically tries to flee when it has low hit points, angering many players in the process by its constant 
+running.
+     &gAggr_Evil&n --- Mobile will attack evil players.
+     &gAggr_Good&n --- Mobile will attack good players.
+     &gAggr_Neutral&n --- Mobile will attack neutral players.
+     &gMemory&n --- Mobile will attack anybody that has attacked it before.  It will not track them down though.
+     &gHelper&n --- Mobile will assist other mobiles in battle (except on rare exceptions).
+     &g!Charm&n --- Mobile can't be charmed.
+     &g!Summn&n --- Mobile can't be summoned.
+     &g!Sleep&n --- Mobile can't be affected by sleep spell.
+     &g!Bash&n --- Mobile can't be tripped or bashed.
+     &g!Blind&n --- Mobile can't be blinded, but inability to see due to lack of light still affects them.
+     &gHunter_Killer&n --- Mobile will track down anybody that has attacked them and fled.  Even if they have the sentinel flag on them.
+     &gUse_Spells&n --- If the mobile's class is set to one that can use spells, this flag tells them that they should be casting.  To 
+make them use spells you have to set which spells they cast too, keeping in mind that defensive spells that can target anybody will 
+automatically target the player.  (For example, the spell casting mob will cast armor on a player it is fighting in battle.)
+     &gSecond_Attack&n --- Gives mobile two attacks.
+     &gThird_Attack&n --- Gives mobile three attacks.
+     &gFourth_Attack&n --- Gives mobile four attacks.
+     &gSentry&n --- Used together with the room flag &gGuarded&n.  This flag is used to tell the mobile to block players from moving 
+into a room that has the guarded flag on it.
+
+Related Commands:
+
+&Rmlist <vnum> <higher vnum>&n
+   Mobile List.  This lists all the used mobiles from the first number entered to the second number entered.
 ~
 E
 page1 redit room~
@@ -737,164 +896,15 @@ the room you tell it to.
    Room List.  This lists all the used rooms from the first number entered to the second number entered.
 ~
 E
-page2 mob mobile medit~
-Mobile Edit - Page2
-
-&Rmedit <vnum>&n
-     This is used to create or edit a mobile (mob/npc).  If you are editing a mobile that is in play, please purge all the copies of it before 
-editing to prevent problems.
-
-Mobile Edit Flags:
-     &gSpec&n --- Unknown
-     &gSentinel&n --- Makes it so the mobile does not move on its own.  It will move if charmed, forced, or if it has the 
-&gHunter_Killer&n flag on it and a player attacks it.
-     &gScavenger&n --- Mobile will pick up items on the ground.
-     &gIsnpc&n --- Uh, well, just leave it on there.  It says "is npc" so I guess it has some use, but it doesn't hurt anything anyways and 
-it is automatically put on the mobile.
-     &gAware&n --- Mobile cannot be backstabbed.
-     &gAggr&n --- Mobile will attack any player it can see.
-     &gStay-Zone --- Mobile will stay in the same zone that it was built in.  Usually the room flag &g!Mob&n is used to keep mobiles 
-from leaving.
-     &gWimpy&n --- Mobile automatically tries to flee when it has low hit points, angering many players in the process by its constant 
-running.
-     &gAggr_Evil&n --- Mobile will attack evil players.
-     &gAggr_Good&n --- Mobile will attack good players.
-     &gAggr_Neutral&n --- Mobile will attack neutral players.
-     &gMemory&n --- Mobile will attack anybody that has attacked it before.  It will not track them down though.
-     &gHelper&n --- Mobile will assist other mobiles in battle (except on rare exceptions).
-     &g!Charm&n --- Mobile can't be charmed.
-     &g!Summn&n --- Mobile can't be summoned.
-     &g!Sleep&n --- Mobile can't be affected by sleep spell.
-     &g!Bash&n --- Mobile can't be tripped or bashed.
-     &g!Blind&n --- Mobile can't be blinded, but inability to see due to lack of light still affects them.
-     &gHunter_Killer&n --- Mobile will track down anybody that has attacked them and fled.  Even if they have the sentinel flag on them.
-     &gUse_Spells&n --- If the mobile's class is set to one that can use spells, this flag tells them that they should be casting.  To 
-make them use spells you have to set which spells they cast too, keeping in mind that defensive spells that can target anybody will 
-automatically target the player.  (For example, the spell casting mob will cast armor on a player it is fighting in battle.)
-     &gSecond_Attack&n --- Gives mobile two attacks.
-     &gThird_Attack&n --- Gives mobile three attacks.
-     &gFourth_Attack&n --- Gives mobile four attacks.
-     &gSentry&n --- Used together with the room flag &gGuarded&n.  This flag is used to tell the mobile to block players from moving 
-into a room that has the guarded flag on it.
-
-Related Commands:
-
-&Rmlist <vnum> <higher vnum>&n
-   Mobile List.  This lists all the used mobiles from the first number entered to the second number entered.
-~
-E
-page3 oedit object obj~
-Object Edit - Page3
-
-&Roedit <vnum>&n
-     Used to create or edit an object.  Oedit is very detailed.
-
-Related Commands:
-
-&Rolist <vnum> <higher vnum>&n
-   Object List.  This lists all the used objects from the first number entered to the second number entered.
-
-See Page3a for Object types.
-See Page3b for Extra Flags.
-~
-E
-page3a types type~
-Object Types - Page3a
-
-   These matter for when using the values part of the object.
-   ***Note:  Values is a set of four numbers.  (# # # #)  If I use (# # x x) that means that the first two numbers are entered and the rest 
-of the numbers are not asked for.
-   ***Note:  For space reasons, I will only list the object types used.  If it is not listed, it isn't used.
-
-     &gLight&n --- Any light source item.  You do not have to make Hold a wear flag for a light item.
-          &BValues&n --- (# x x x) <number of hours it lasts>
-     &gScroll&n --- Used to make a scroll type item.  These items need the read magic skill to be used.
-          &BValues&n --- (# # # #) <spell level> <spell one> <spell two> <spell three>
-     &gWand&n --- Used to make a wand item.
-          &BValues&n --- (# # # #) <spell level> <max number of charges> <initial number of charges> <spell>
-     &gWeapon&n --- Anything that should be wielded.  This includes off-handed weapons.  In the values command, hitroll modifier is 
-mentioned, use the affections list to add hitroll instead of values.
-          &BValues&n --- (# # # #) <modifier to hitroll, put in 0> <number of damage dice (#dx)> <size of damage dice (xd#)> <strike 
-message>
-     &gTreasure&n --- Jewelry items.  Values aren't used.
-     &gArmor&n --- Armor is anything heavier than really soft leather.  Usually things like hard leather or metal.  AC should be a 
-negative number.
-          &BValues&n --- (# x x x) <AC>
-     &gPotion&n --- Any item that is quaffed.
-          &BValues&n --- (# # # #) <spell level> <spell one> <spell two> <spell three>
-     &gWorn&n --- Clothing items.  Values isn't used here.
-     &gOther&n --- Items that just don't have a catagory.  Usually this is for decoration items that sit in a room, like a tombstone or a 
-tree stump.  No values.
-     &gTrap&n --- Currently not used, but plans for putting them in use have been done.
-     &gContainer&n --- Any item that will hold other items.  Bags and packs are good examples.
-          &BValues&n --- (# # # x) <max weight it can hold> <container options> <key number>
-     &gNote&n --- Any item like a book that has a lot of writing or for parchment paper.  No values.
-     &gLiquid Container&n --- Water containers that are in inventory, like waterskins.
-          &BValues&n --- (# # # #) <maximum drink units> <drinks in the object when created> <contents> <poison>
-     &gFood&n --- Obvious isn't it?
-          &BValues&n --- (# # x x) <hours it makes full> <poison>
-     &gMoney&n --- This is to be used as money if you load it inside of an object.
-          &BValues&n --- (# # # #) <plat> <steel> <gold> <copper>
-     &gPen&n --- One of the things needed to write on a note.  No values.
-     &gFountain&n --- Any think that players can drink from while it is sitting on the ground.
-          &BValues&n --- (# # # #) <max drink units> <initial drink units> <contents> <poison>
-~
-E
-page3b extra flags flag ex~
-Extra Flags - Page3b
-   The ! infront of a word means no or cannot.  !Good means that good aligned players cannot wear it.  !rent means that it cannot be rented with.
-
-     &gGlow&n --- For looks only.  Makes it glow with a soft aura.
-     &gHidden&n --- Cannot be seen on the ground when dropped.  (Like the gauntlets of ogre power.)
-     &gMagic&n --- Gives it the magic glow if somebody has detect magic on.  Use this on magical items (magi type).  This does matter because some spells on weapons will have different effects based on if this flag is on the item or not.
-     &gBless&n --- Similar to the above.  This time though, if somebody has detect-alignment on and they see it, it glows.  Use this for clerical or holy type equipment.
-     &g+Monk&n --- Makes it so it can be worn by a monk.  Monks can only wear clothing (worn) items and the item should not be magical or have stat bonuses except on rare occasions.
-     &gTwo_Handed&n --- For two handed weapons, makes it so people need two hands to use it.
-~
-E
-page4 zone zedit~
-Zone Edit - Page4
-
-&Rzedit <room number>&n
-
-   This is used for:
-&gloading objects
-loading objects in objects
-loading mobiles
-loading equipment onto mobiles
-loading objects into a mobile's inventory
-closing/opening/locking doors
-removing objects from a room&n (not used often)
-
-Related Commands:
-
-&Rshow zone&n
-   This shows all the zones used, as well as zone number, and zone status.
-
-&Rzstat <zone number>&n
-   This shows more detail in a specific zone.  It shows zone name, zone number, age (when it will reset/repop), how long it takes to reset/repop, what type of reset it is (1 means only if nobody is in the zone, 2 means normal), top room of the zone, zone owner, and zone status.
-~
-E
-page5 save~
-How to Save - Page5
-
-   You have to know how to save if you want your zone to stay after a crash/reset.
-
-&Rredit save <zone number>&n
-   Saves all rooms in the zone.
-&Rmedit save <zone number>&n
-   Saves all mobiles in the zone.
-&Roedit save <zone number>&n
-   Saves all objects in the zone.
-&Rzedit save <zone number>&n
-   Saves all zone commands in the zone.
-
-After using those to save, save yourself too.
-
-Related Commands:
-
-&ROLC&n
-   This will display all the unsaved zones and what needs saving.
+book building commands command build help table contents content~
+&BTable of Contents:&n
+Page1 - Room Edit
+Page2 - Mobile Edit
+Page3 - Object Edit
+   Page3a - Object Types
+   Page3b - Extra Flags
+Page4 - Zone Edit
+Page5 - How to Save
 ~
 A
 4 3
@@ -909,155 +919,185 @@ charts big book building weapons/armor/worn~
 0 0 0 0
 0 0 99999 38 -1
 E
-page5a~
-&4Page5a - Monk&n
-With monk, it is hard to give very specific rules.  Builders have to use their best judgment
-if the item they're making is &B+MONK&n or not.
-&BGuidelines:&n
-Just clothing.  Nothing heavy or restrictive in movement.
-Soft leather is allowed if item is WORN type.
-No ARMOR.  Ever.  If it's ARMOR and fits into every other guideline for monks, the item 
-probably should be changed to WORN.
-No stat bonuses.  (The "armor" stat on WORN items is allowed.)
-  -There are exceptions, but each is dealt with on a case by case basis.
-Jewelry allowed if it is simple.  Nothing dangly'.  Nothing ornate.
-No magical items.  Blessed are allowed.
-Nothing on face more than paint.
-No shields.  Ever.
-Exotic Blunt weapons allowed.  (Nunchaku.  Bo staves.)
-Staves allowed if they do not have magical bonuses.
-Robes allowed if they are not specifically made for clerics or mages.
- 
+charts big book building weapons/armor/worn~
+&4Big Book of Building Charts - Weapons/Armor/Worn - 2006 Edition&n
+
+&B                TABLE OF CONTENTS&n
+Page1 - ARMOR
+    Page1a - Armor Weight
+    Page1b - Armor Weight Part 2
+    Page1c - Armor Pricing 
+Page2 - WORN
+    Page2a - Worn Weight
+    Page2b - Worn Pricing
+Page3 - WEAPON
+    Page3a - Damage List (e-mail link)
+    Page3b - Weapon Pricing
+Page4 - Price Modifiers Armor/Worn
+    Page4a - Price Modifiers Weapon 
+Page5 - Class Restrictions
+    Page5a - Monk
+Version 1 - Jan 25, 2006. - Majere
+~
+E
+page1~
+&4Page 1 - ARMOR&n
+Please note: Armor is just that, armor.  Jewelry should be TREASURE and clothes
+should be WORN.  Please make sure that anything you make as ARMOR really is some
+sort of armor.
+THE MAXIMUM AC VALUE FOR BODY ARMOR IS 15 AT LEVEL 30.
+THE MAXIMUM AC VALUE FOR ARM/LEG ARMOR IS 10 AT LEVEL 30.
+THE MAXIMUM AC VALUE FOR A LARGE SHIELD IS 15 AT LEVEL 30.
+THE MAXIMUM AC VALUE FOR ALL OTHER WEAR LOCATIONS IS 6 AT LEVEL 30.
+
+&BSetting AC Value&n
+Body/Large Shield = level / 2
+Arm/Leg/Medium Shield = level / 3
+Small Shield = level / 4
+Other = level / 5 or level / 6
+
 &RRelated Pages:&n
+    Page1a - Armor Weight
+    Page1c - Armor Pricing 
 Page5 - Class Restrictions
 ~
 E
-page5~
-&4Page5 - Class Restrictions&n
-&BFighter&n: Any weapon and any type of armor. Can also use any shield.
- 
-&BPaladin&n: Any weapon and any type of armor. Can also use any shield.
- 
-&BKnight&n: Any weapon and any type of armor. Can also use any shield.
- 
-&BRanger&n: Can use any weapon. Can wear nothing heavier then studded leather except
-for some sets of elven chain mail (these should be VERY limited for this class IMO).
-Can use any NONMETAL shield.
- 
-&BMage&n: Can only wear cloth armor. Can only use a dagger, dirk, knife, staff or
-sling for a weapon. Can NOT use a shield.
- 
-&BCleric&n: Any type of armor. Can only use blunt bludgeoning weapons. Can use any shield.
- 
-&BDruid&n: Can only use armor, including shields, made from a natural material, meaning
-leather, wood or cloth. Can use club, sickle, dart, spear, dagger, scimitar sling and staff
-for weapons.
- 
-&BThief&n: Can wear nothing heavier then studded leather except for some sets of
-elven chain mail (these should be VERY limited for this class IMO). Can use
-club, dagger, dart, crossbow, knife, lasso, short bow, sling, broad sword, long
-and short swords and a staff for weapon. Can use any NONMETAL shield.
- 
-&BMonk&n: Please refer to the monk chart for information on using the +MONK flag.
-No armor with bonus applies should have the +MONK flag.
- 
-&RRelated Pages:&n
-    Page5a - Monk
+page1a~
+&4Page1a - Armor Weight&n
+&BArmor Type    Location     Weight&n
+&BCloth&n               Head               0 to 1
+                        Body               1 to 10
+                        Arms               2 or so
+                        Legs                2 or so
+                        Hands             0 to 1
+                        Feet                 0 to 2
+&BLeather&n            Head               0 to 2
+                        Body               4 to 12
+                        Arms               2 to 6
+                        Legs                2 to 6
+                        Hands              0 to 1
+                        Feet                 2 to 6
+&BChain&n              Head                3 to 6
+                        Body               18 to 25
+                        Arms9 to 15
+                        Legs                9 to 15
+                        Hands              4 to 6
+                        Feet                 4 to 6
+
+&RContinue&n
+&RPage1b - Armor Weight Part 2&n
 ~
 E
-page4a~
-&4Page4a - Price Modifiers Weapon&n
-1 - All level 30 weapons are artifacts/Quest items/unique/ONE OF A KIND and 
-    &BMANUALLY&n loaded.
-2 - Any weapon that is level 25+ is to be limited to 1 or 2 existing in the mud.
-3 - TWO (2) HANDED weapons that are between levels 5 and 15 will receive an
-    automatic +1dam
-4 - TWO (2) HANDED weapons that are level 16 or higher shall receive an automatic +2dam
-5 - For every point of + to HITROLL add 30% to the price.
-6 - For every point of + to DAMROLL add 50% to the price UNLESS the + comes from
-the weapon being two handed.
-7 - For each point of &BSTAT&n increased add 60% to the price.
-8 - For each bonus point to &BSAVING THROW&n add 30% to the price.
-9 - For every plus to &BHIT POINTS&n add 5% to the price.
-10 - For every &B2 points of MOVES*n added increase the price by 5%.
-11 - For &BFINE&n workmanship add 5 to 10% to the price.
-12 - For &BSHODDY&n workmanship subtract 5% from the price.
-13 - For any &BJEWELS, GEMS, or PRECIOUS METALS&n on the weapon add a minimum of 10% to the price.
-14 - For all other &BSPECIAL ABILITIES&n add 10% to the price or your best judgement.
-15 - For &BHOLDable&n weapons larger than a dagger or small short sword add 30%.
-
-
-&RRent price&n - %25 of base price if level   1 - 15
-                  - %50 of base price if level 16 - 30
+page1b~
+&4Page1b - Armor Weight Part 2&n
+&BArmor Type    Location     Weight&n
+&BScale&n               Head                5 to 10
+                        Body               25 to 35
+                        Arms               12 to 18
+                        Legs                12 to 18
+                        Hands              6 to 9
+                        Feet                 6 to 9
+&BPlate&n                Head               8 to 12
+                        Body               35 to 45
+                        Arms               15 to 20
+                        Legs                15 to 20
+                        Hands              3 to 10
+                        Feet                 3 to 10
+&BShields&n            Large               12 to 18
+                        Medium          8 to 14
+                        Small              3 to 8
 
 &RRelated Pages:&n
+Page1 - ARMOR
     Page1c - Armor Pricing 
-    Page2b - Worn Pricing
-    Page3b - Weapon Pricing
+~
+E
+page1c~
+&4Page1c - Armor Pricing&n
+Level         Cost
+1              8cp
+2              14cp
+3              20cp
+4-6            40cp
+7-8            70cp
+9-10          120cp
+11-12         200cp
+13-14         350cp
+15-16         550cp
+17-18         900cp
+19-20        1300cp
+21-22        1800cp
+23-24        2300cp
+25-26        2800cp
+27+          3500cp
+
+&RRelated Pages:&n
+Page1 - ARMOR
+    Page1a - Armor Weight
 Page4 - Price Modifiers Armor/Worn
 ~
 E
-page4~
-&4Page4 - Price Modifiers Armor/Worn&n
-Use the following rules to adjust the above listed base price for each item:
-1- For each point of &B+HITROLL&n add 40% to the price.
-2- For each point of &B+DAMROLL&n add 50% to the price.
-3- For each &BSTAT&n point increased add 60% to the price.
-4- For each minus point to a &BSAVING THROW&n add 30% to the price.
-5- For every point of &BHP&n increased add 5% to the price.
-6- For every &B2 points of MV&n increased add 5% to the price.
-7- For any &BSPECIAL&n abilities increase the base price by your best judgement.
-8- For &BFINE&n workmanship add 5% to the price.
-9- For &BSHODDY&n workmanship subtract 5% from the price.
-10- For &BJEWELS, GOLD or GEMS&n worked into the item increase the base price
-     by your best judgement based on the number and quality of the metals or gems.
-11- If worn on &BLEGS, ARMS, ABOUT or on the BACK&n add 15% to the price.
-12- If worn on &BSHOULDERS or HEAD&n add 20% to the price.
-13- If worn on &BFACE, WRISTS, ANKLES, NECK or WAIST&n add 30% to the price.
-14- If worn on &BFEET or HANDS&n add 25% to the price.
-15- If worn on &BEAR or NOSE&n add 40% to the price.
-     &RNOSE ITEMS ARE FOR MINOTAURS ONLY&n
-16- If worn on &BFINGER&n add 60% to the base price.
-17- If worn &BABOVE&n add 70% to the base price.
-18- If a &BSMALL SHIELD&n add 10% to the base price.
-19- If a &BMEDIUM SHIELD&n add 15% to the base price.
-20- If a &BLARGE SHIELD&n add 20% to the base price.
-21- If an item has &BMULTIPLE&n wear locations add the % for all possible wear
-    locations together and increase the base price by that amount.
+page2~
+&4Page2 - WORN&n
+If it's not &Rarmor&n, and it's not &Rjewelry&n...  It's WORN.  Worn is pretty much
+everything nonmetallic, with the exception of hard leather armor.
+THE MAXIMUM AC VALUE FOR BODY IS 5 AT LEVEL 30.
+THE MAXIMUM AC VALUE FOR ARM/LEG IS 3 AT LEVEL 30.
+THE MAXIMUM AC VALUE FOR ALL OTHER WEAR LOCATIONS IS 2 AT LEVEL 30.
 
-&RRent price&n - %25 of base price if level   1 - 15
-                  - %50 of base price if level 16 - 30
-~
-E
-page3b~
-&4Page3b - Weapon Pricing&n
-LEVEL           PRICE             LEVEL           PRICE
-1-2             10cp              17-18           800cp
-3-4		15cp	    	  19-20	         1100cp
-5-6             30cp              21-22          1500cp
-7-8             50cp              23-24          2000cp
-9-10            85cp              25-26          2600cp
-11-12          150cp              27-28          3300cp
-13-14          250cp              29-30          4000cp
-15-16          450cp
+AC must be set in &BApplies&n option for WORN under &BARMOR&n.  Number must be &Bnegative&n.  Not all WORN items needs to have ARMOR set.  Low level worn items are allowed to have -1 ARMOR even if they would not normally have it.
+Body/Torso = level / 6
+Arm/Leg = level / 9
+Other = level / 15
 
 &RRelated Pages:&n
-Page3 - WEAPON
-    Page3a - Damage List (e-mail link)
-    Page4a - Price Modifiers Weapon 
+    Page2a - Worn Weight
+    Page2b - Worn Pricing
 ~
 E
-page3a~
-&4Page3a - Damage List&n
-Uh...there's no way I'm translating all that stuff into the MUD.  >_>
-E-mail tirrock@yahoo.com  or majere@ageoflegends.com (I check the tirrock one more
-often) and I'll mail you a copy of the weapon damage charts.  Just don't open it up with
-notepad, or you'll just get a big headache.  Open it with internet explorer if you have to,
-just not notepad.
+page2a~
+&4Page2a - Worn Weight&n
+&BMaterial   Location    Weight&n
+&BCloth&n      Head           0 to 1
+                Body           1 to 10
+                Arms           2 or so
+                Legs            2 or so
+                Hands         0 to 1
+                Feet             0 to 2
+&BLeather&n    Head           0 to 2
+                Body           4 to 12 
+                Arms           2 to 6
+                Legs            2 to 6
+                Hands          0 to 1
+                Feet             2 to 6
 
 &RRelated Pages:&n
-Page3 - WEAPON
-    Page3b - Weapon Pricing
+Page2 - WORN
+    Page2b - Worn Pricing
+~
+E
+page2b~
+&4Page2b - Worn Pricing&n
+Level        Cost
+1             8cp
+2            14cp
+3            20cp
+4-6          40cp
+7-8          70cp
+9-10        120cp
+11-12       200cp
+13-14       350cp
+15-16       550cp
+17-18       900cp
+19-20      1300cp
+21-22      1500cp
+23-24      2000cp
+25-26      2500cp
+27+        3000cp
+&RRelated Pages:&n
+Page2 - WORN
+    Page2a - Worn Weight
+Page4 - Price Modifiers Armor/Worn
 ~
 E
 page3~
@@ -1093,185 +1133,155 @@ that you don't make a weapon much to light, or a weapon that is much too heavy.
     Page3b - Weapon Pricing
 ~
 E
-page2b~
-&4Page2b - Worn Pricing&n
-Level        Cost
-1             8cp
-2            14cp
-3            20cp
-4-6          40cp
-7-8          70cp
-9-10        120cp
-11-12       200cp
-13-14       350cp
-15-16       550cp
-17-18       900cp
-19-20      1300cp
-21-22      1500cp
-23-24      2000cp
-25-26      2500cp
-27+        3000cp
-&RRelated Pages:&n
-Page2 - WORN
-    Page2a - Worn Weight
-Page4 - Price Modifiers Armor/Worn
-~
-E
-page2a~
-&4Page2a - Worn Weight&n
-&BMaterial   Location    Weight&n
-&BCloth&n      Head           0 to 1
-                Body           1 to 10
-                Arms           2 or so
-                Legs            2 or so
-                Hands         0 to 1
-                Feet             0 to 2
-&BLeather&n    Head           0 to 2
-                Body           4 to 12 
-                Arms           2 to 6
-                Legs            2 to 6
-                Hands          0 to 1
-                Feet             2 to 6
+page3a~
+&4Page3a - Damage List&n
+Uh...there's no way I'm translating all that stuff into the MUD.  >_>
+E-mail tirrock@yahoo.com  or majere@ageoflegends.com (I check the tirrock one more
+often) and I'll mail you a copy of the weapon damage charts.  Just don't open it up with
+notepad, or you'll just get a big headache.  Open it with internet explorer if you have to,
+just not notepad.
 
 &RRelated Pages:&n
-Page2 - WORN
-    Page2b - Worn Pricing
+Page3 - WEAPON
+    Page3b - Weapon Pricing
 ~
 E
-page2~
-&4Page2 - WORN&n
-If it's not &Rarmor&n, and it's not &Rjewelry&n...  It's WORN.  Worn is pretty much
-everything nonmetallic, with the exception of hard leather armor.
-THE MAXIMUM AC VALUE FOR BODY IS 5 AT LEVEL 30.
-THE MAXIMUM AC VALUE FOR ARM/LEG IS 3 AT LEVEL 30.
-THE MAXIMUM AC VALUE FOR ALL OTHER WEAR LOCATIONS IS 2 AT LEVEL 30.
-
-AC must be set in &BApplies&n option for WORN under &BARMOR&n.  Number must be &Bnegative&n.  Not all WORN items needs to have ARMOR set.  Low level worn items are allowed to have -1 ARMOR even if they would not normally have it.
-Body/Torso = level / 6
-Arm/Leg = level / 9
-Other = level / 15
+page3b~
+&4Page3b - Weapon Pricing&n
+LEVEL           PRICE             LEVEL           PRICE
+1-2             10cp              17-18           800cp
+3-4		15cp	    	  19-20	         1100cp
+5-6             30cp              21-22          1500cp
+7-8             50cp              23-24          2000cp
+9-10            85cp              25-26          2600cp
+11-12          150cp              27-28          3300cp
+13-14          250cp              29-30          4000cp
+15-16          450cp
 
 &RRelated Pages:&n
-    Page2a - Worn Weight
-    Page2b - Worn Pricing
-~
-E
-page1c~
-&4Page1c - Armor Pricing&n
-Level         Cost
-1              8cp
-2              14cp
-3              20cp
-4-6            40cp
-7-8            70cp
-9-10          120cp
-11-12         200cp
-13-14         350cp
-15-16         550cp
-17-18         900cp
-19-20        1300cp
-21-22        1800cp
-23-24        2300cp
-25-26        2800cp
-27+          3500cp
-
-&RRelated Pages:&n
-Page1 - ARMOR
-    Page1a - Armor Weight
-Page4 - Price Modifiers Armor/Worn
-~
-E
-page1b~
-&4Page1b - Armor Weight Part 2&n
-&BArmor Type    Location     Weight&n
-&BScale&n               Head                5 to 10
-                        Body               25 to 35
-                        Arms               12 to 18
-                        Legs                12 to 18
-                        Hands              6 to 9
-                        Feet                 6 to 9
-&BPlate&n                Head               8 to 12
-                        Body               35 to 45
-                        Arms               15 to 20
-                        Legs                15 to 20
-                        Hands              3 to 10
-                        Feet                 3 to 10
-&BShields&n            Large               12 to 18
-                        Medium          8 to 14
-                        Small              3 to 8
-
-&RRelated Pages:&n
-Page1 - ARMOR
-    Page1c - Armor Pricing 
-~
-E
-page1a~
-&4Page1a - Armor Weight&n
-&BArmor Type    Location     Weight&n
-&BCloth&n               Head               0 to 1
-                        Body               1 to 10
-                        Arms               2 or so
-                        Legs                2 or so
-                        Hands             0 to 1
-                        Feet                 0 to 2
-&BLeather&n            Head               0 to 2
-                        Body               4 to 12
-                        Arms               2 to 6
-                        Legs                2 to 6
-                        Hands              0 to 1
-                        Feet                 2 to 6
-&BChain&n              Head                3 to 6
-                        Body               18 to 25
-                        Arms9 to 15
-                        Legs                9 to 15
-                        Hands              4 to 6
-                        Feet                 4 to 6
-
-&RContinue&n
-&RPage1b - Armor Weight Part 2&n
-~
-E
-page1~
-&4Page 1 - ARMOR&n
-Please note: Armor is just that, armor.  Jewelry should be TREASURE and clothes
-should be WORN.  Please make sure that anything you make as ARMOR really is some
-sort of armor.
-THE MAXIMUM AC VALUE FOR BODY ARMOR IS 15 AT LEVEL 30.
-THE MAXIMUM AC VALUE FOR ARM/LEG ARMOR IS 10 AT LEVEL 30.
-THE MAXIMUM AC VALUE FOR A LARGE SHIELD IS 15 AT LEVEL 30.
-THE MAXIMUM AC VALUE FOR ALL OTHER WEAR LOCATIONS IS 6 AT LEVEL 30.
-
-&BSetting AC Value&n
-Body/Large Shield = level / 2
-Arm/Leg/Medium Shield = level / 3
-Small Shield = level / 4
-Other = level / 5 or level / 6
-
-&RRelated Pages:&n
-    Page1a - Armor Weight
-    Page1c - Armor Pricing 
-Page5 - Class Restrictions
-~
-E
-charts big book building weapons/armor/worn~
-&4Big Book of Building Charts - Weapons/Armor/Worn - 2006 Edition&n
-
-&B                TABLE OF CONTENTS&n
-Page1 - ARMOR
-    Page1a - Armor Weight
-    Page1b - Armor Weight Part 2
-    Page1c - Armor Pricing 
-Page2 - WORN
-    Page2a - Worn Weight
-    Page2b - Worn Pricing
 Page3 - WEAPON
     Page3a - Damage List (e-mail link)
+    Page4a - Price Modifiers Weapon 
+~
+E
+page4~
+&4Page4 - Price Modifiers Armor/Worn&n
+Use the following rules to adjust the above listed base price for each item:
+1- For each point of &B+HITROLL&n add 40% to the price.
+2- For each point of &B+DAMROLL&n add 50% to the price.
+3- For each &BSTAT&n point increased add 60% to the price.
+4- For each minus point to a &BSAVING THROW&n add 30% to the price.
+5- For every point of &BHP&n increased add 5% to the price.
+6- For every &B2 points of MV&n increased add 5% to the price.
+7- For any &BSPECIAL&n abilities increase the base price by your best judgement.
+8- For &BFINE&n workmanship add 5% to the price.
+9- For &BSHODDY&n workmanship subtract 5% from the price.
+10- For &BJEWELS, GOLD or GEMS&n worked into the item increase the base price
+     by your best judgement based on the number and quality of the metals or gems.
+11- If worn on &BLEGS, ARMS, ABOUT or on the BACK&n add 15% to the price.
+12- If worn on &BSHOULDERS or HEAD&n add 20% to the price.
+13- If worn on &BFACE, WRISTS, ANKLES, NECK or WAIST&n add 30% to the price.
+14- If worn on &BFEET or HANDS&n add 25% to the price.
+15- If worn on &BEAR or NOSE&n add 40% to the price.
+     &RNOSE ITEMS ARE FOR MINOTAURS ONLY&n
+16- If worn on &BFINGER&n add 60% to the base price.
+17- If worn &BABOVE&n add 70% to the base price.
+18- If a &BSMALL SHIELD&n add 10% to the base price.
+19- If a &BMEDIUM SHIELD&n add 15% to the base price.
+20- If a &BLARGE SHIELD&n add 20% to the base price.
+21- If an item has &BMULTIPLE&n wear locations add the % for all possible wear
+    locations together and increase the base price by that amount.
+
+&RRent price&n - %25 of base price if level   1 - 15
+                  - %50 of base price if level 16 - 30
+~
+E
+page4a~
+&4Page4a - Price Modifiers Weapon&n
+1 - All level 30 weapons are artifacts/Quest items/unique/ONE OF A KIND and 
+    &BMANUALLY&n loaded.
+2 - Any weapon that is level 25+ is to be limited to 1 or 2 existing in the mud.
+3 - TWO (2) HANDED weapons that are between levels 5 and 15 will receive an
+    automatic +1dam
+4 - TWO (2) HANDED weapons that are level 16 or higher shall receive an automatic +2dam
+5 - For every point of + to HITROLL add 30% to the price.
+6 - For every point of + to DAMROLL add 50% to the price UNLESS the + comes from
+the weapon being two handed.
+7 - For each point of &BSTAT&n increased add 60% to the price.
+8 - For each bonus point to &BSAVING THROW&n add 30% to the price.
+9 - For every plus to &BHIT POINTS&n add 5% to the price.
+10 - For every &B2 points of MOVES*n added increase the price by 5%.
+11 - For &BFINE&n workmanship add 5 to 10% to the price.
+12 - For &BSHODDY&n workmanship subtract 5% from the price.
+13 - For any &BJEWELS, GEMS, or PRECIOUS METALS&n on the weapon add a minimum of 10% to the price.
+14 - For all other &BSPECIAL ABILITIES&n add 10% to the price or your best judgement.
+15 - For &BHOLDable&n weapons larger than a dagger or small short sword add 30%.
+
+
+&RRent price&n - %25 of base price if level   1 - 15
+                  - %50 of base price if level 16 - 30
+
+&RRelated Pages:&n
+    Page1c - Armor Pricing 
+    Page2b - Worn Pricing
     Page3b - Weapon Pricing
 Page4 - Price Modifiers Armor/Worn
-    Page4a - Price Modifiers Weapon 
-Page5 - Class Restrictions
+~
+E
+page5~
+&4Page5 - Class Restrictions&n
+&BFighter&n: Any weapon and any type of armor. Can also use any shield.
+ 
+&BPaladin&n: Any weapon and any type of armor. Can also use any shield.
+ 
+&BKnight&n: Any weapon and any type of armor. Can also use any shield.
+ 
+&BRanger&n: Can use any weapon. Can wear nothing heavier then studded leather except
+for some sets of elven chain mail (these should be VERY limited for this class IMO).
+Can use any NONMETAL shield.
+ 
+&BMage&n: Can only wear cloth armor. Can only use a dagger, dirk, knife, staff or
+sling for a weapon. Can NOT use a shield.
+ 
+&BCleric&n: Any type of armor. Can only use blunt bludgeoning weapons. Can use any shield.
+ 
+&BDruid&n: Can only use armor, including shields, made from a natural material, meaning
+leather, wood or cloth. Can use club, sickle, dart, spear, dagger, scimitar sling and staff
+for weapons.
+ 
+&BThief&n: Can wear nothing heavier then studded leather except for some sets of
+elven chain mail (these should be VERY limited for this class IMO). Can use
+club, dagger, dart, crossbow, knife, lasso, short bow, sling, broad sword, long
+and short swords and a staff for weapon. Can use any NONMETAL shield.
+ 
+&BMonk&n: Please refer to the monk chart for information on using the +MONK flag.
+No armor with bonus applies should have the +MONK flag.
+ 
+&RRelated Pages:&n
     Page5a - Monk
-Version 1 - Jan 25, 2006. - Majere
+~
+E
+page5a~
+&4Page5a - Monk&n
+With monk, it is hard to give very specific rules.  Builders have to use their best judgment
+if the item they're making is &B+MONK&n or not.
+&BGuidelines:&n
+Just clothing.  Nothing heavy or restrictive in movement.
+Soft leather is allowed if item is WORN type.
+No ARMOR.  Ever.  If it's ARMOR and fits into every other guideline for monks, the item 
+probably should be changed to WORN.
+No stat bonuses.  (The "armor" stat on WORN items is allowed.)
+  -There are exceptions, but each is dealt with on a case by case basis.
+Jewelry allowed if it is simple.  Nothing dangly'.  Nothing ornate.
+No magical items.  Blessed are allowed.
+Nothing on face more than paint.
+No shields.  Ever.
+Exotic Blunt weapons allowed.  (Nunchaku.  Bo staves.)
+Staves allowed if they do not have magical bonuses.
+Robes allowed if they are not specifically made for clerics or mages.
+ 
+&RRelated Pages:&n
+Page5 - Class Restrictions
 ~
 #1277
 delete me~
@@ -1318,21 +1328,6 @@ Delete me~
 0 0 0 0
 0 0 0 0 -1
 E
-nextpage~
-POLICY - Here are some, but not all, of the rules that are meant to be
-followed by all mortals.  Some other rules may be posted upon the boards
-that can be found within most major towns, but you are expected to know
-and follow theses rules!  Ignorance is not an exception.
-
-Type "policy" to read the MUD's policies.
-
-
-BOARDS - There are various boards in the inns of each city.  You are expected
-to read them.  Some are in character, while some pertain to issues of the
-MUD, rules, policies, etc.  They are a great asset to you, the player.
-
-~
-E
 newbie sign~
 For those just entering the World of Krynn for the first time:
  
@@ -1356,6 +1351,21 @@ as visible players when you type 'who'. You can 'intro' with, or
 without 'intro' on (the toggle only pertains to the intros you get.)
  
 (continues on next page:  type look nextpage)
+~
+E
+nextpage~
+POLICY - Here are some, but not all, of the rules that are meant to be
+followed by all mortals.  Some other rules may be posted upon the boards
+that can be found within most major towns, but you are expected to know
+and follow theses rules!  Ignorance is not an exception.
+
+Type "policy" to read the MUD's policies.
+
+
+BOARDS - There are various boards in the inns of each city.  You are expected
+to read them.  Some are in character, while some pertain to issues of the
+MUD, rules, policies, etc.  They are a great asset to you, the player.
+
 ~
 #1281
 sign (more-info-for-newbies)~
