@@ -1820,10 +1820,8 @@ void holdhit(struct char_data * ch, struct char_data * victim, int type)
   }
 
   /* Calculate the raw armor including magic armor.  Lower AC is better. */
-
   calc_thaco1 = calc_thaco(ch);
-
-  victim_ac1 = calc_ac(victim, ch);
+  victim_ac1 = calc_ac(victim, ch) / 10;
 
   if (type == SKILL_BACKSTAB || type == SKILL_ADVANCED_BACKSTAB) {
     if (check_skill(ch, 101, SKILL_HIDE) && check_skill(ch, 101, SKILL_SNEAK))

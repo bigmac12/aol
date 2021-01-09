@@ -19,20 +19,34 @@ m7404 death load o7481, o7484, o7488, o7489~
 0 f 100
 ~
 eval chance %random.70%
-if (%chance% == 1) then  mload obj 7477
-elseif (%chance% == 2) then  mload obj 7478
-elseif (%chance% == 3) then  mload obj 7479
-elseif (%chance% == 4) then  mload obj 7480
-elseif (%chance% == 4) then  mload obj 7481
-elseif (%chance% == 5) then  mload obj 7482
-elseif (%chance% == 6) then  mload obj 7483
-elseif (%chance% == 7) then  mload obj 7484
-elseif (%chance% == 8) then  mload obj 7485
-elseif (%chance% == 9) then  mload obj 7486
-elseif (%chance% == 10) then  mload obj 7487
-elseif (%chance% == 11) then  mload obj 7488
-elseif (%chance% == 12) then  mload obj 7489
-else  return 0
+if (%chance% == 1) then  
+    mload obj 7477
+elseif (%chance% == 2) then  
+    mload obj 7478
+elseif (%chance% == 3) then  
+    mload obj 7479
+elseif (%chance% == 4) then  
+    mload obj 7480
+elseif (%chance% == 4) then  
+    mload obj 7481
+elseif (%chance% == 5) then  
+    mload obj 7482
+elseif (%chance% == 6) then  
+    mload obj 7483
+elseif (%chance% == 7) then  
+    mload obj 7484
+elseif (%chance% == 8) then  
+    mload obj 7485
+elseif (%chance% == 9) then  
+    mload obj 7486
+elseif (%chance% == 10) then  
+    mload obj 7487
+elseif (%chance% == 11) then  
+    mload obj 7488
+elseif (%chance% == 12) then  
+    mload obj 7489
+else  
+    return 0
 end
 ~
 $~
