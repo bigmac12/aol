@@ -513,7 +513,7 @@ ASPELL(spell_legend_lore)
           avg--;
       }
 
-      sprintf(buf, "Approximate AC:  %d", avg);
+      sprintf(buf, "Approximate AC:  %d\r\n", avg);
       send_to_char(buf, ch);
       break;
     }

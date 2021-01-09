@@ -635,12 +635,12 @@ void advance_level(struct char_data * ch)
     break;
 
   case CLASS_PALADIN:
-    add_hp += number(11, 15);
+    add_hp += number(10, 14);
     add_move = number(1, 3);
     break;
 
   case CLASS_KNIGHT:
-    add_hp += number(12, 17);
+    add_hp += number(10, 14);
     add_move = number(1, 3);
     break;
 
@@ -1131,7 +1131,7 @@ void init_spell_levels(void)
   spell_level(SPELL_LOCATE_OBJECT, CLASS_CLERIC,   18, SPHERE_CLE_DIVINATION);
   spell_level(SPELL_DETECT_INVIS, CLASS_CLERIC,    20, SPHERE_CLE_DIVINATION);
   spell_level(SPELL_REFLECTING_POOL, CLASS_CLERIC, 24, SPHERE_CLE_DIVINATION);
-  spell_level(SPELL_IDENTIFY, CLASS_CLERIC,        27, SPHERE_CLE_DIVINATION);
+  spell_level(SPELL_LEGEND_LORE, CLASS_CLERIC,     27, SPHERE_CLE_DIVINATION);
 
   spell_level(SPELL_ARMOR, CLASS_CLERIC,            5, SPHERE_CLE_PROTECTION);
   spell_level(SPELL_PROT_FROM_UNDEAD, CLASS_CLERIC, 8, SPHERE_CLE_PROTECTION);

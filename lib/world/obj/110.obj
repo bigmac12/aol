@@ -665,16 +665,31 @@ Three bone dice marked with strange black runes lie here.~
 0 0 0 0
 0 90 22 7 -1
 E
-dice bone pair strange black runes~
-   These two dice, carved from bone, have been marked with strange runes on all
-six sides.  The tradition of gambling with such dice has gone back several
-hundred years, and while the rules may have changed somewhat, the runes
-themselves have kept the same shapes since.    
+DEFENDING~
+Defending Rune Combinations, listed in value from lowest to highest
+Low runes:   Ghura, Reja, Marixa
+High runes:  Uia and Kav
+Ender rune:  Sen
 
-(type 'look ROLLING' for information on how to roll the dice)
-(type 'look RULES' for information on how to play the rune dice game)
-(type 'look DEFENDING' for defending rune combinations)
-(type 'look ATTACKING' for attacking rune combinations)
+Void - a pair of Ender runes (Sen, Sen).  If there are exactly two Ender
+runes, this combination MUST be taken.
+Low pair - a pair of Low runes (Reja, Reja)
+High pair - a pair of High runes (Uia, Uia)
+Ender - a single Ender rune (Sen)
+Kingdom - a High rune and pair of Low runes (Kav, Marixa, Marixa)
+Squires - a trio of Low runes (Ghura, Ghura, Ghura)
+Triple Moons - Guara, Reja, and Marixa
+The Father - Kav, Ghura, and Reja
+Blades - a pair of High runes and a Low rune (Uia, Uia, Ghura)
+The Mother - Uia, Reja, and Marixa
+Nobility - all High runes (Uia, Kav, Uia)
+Knights - a trio of High runes (Kav, Kav, Kav)
+Final - a trio of Ender runes (Sen, Sen, Sen).  If this combination
+is rolled, the player wins, and the round is over.  Any players who were
+after the winning player lose their chance to play.
+
+After the defending roll, the attacking roll can then modify the defending
+roll, after which it must be re-evaluated.
 ~
 E
 rules~
@@ -702,31 +717,16 @@ antes the same amount as they did the past round, and another round is
 played.
 ~
 E
-DEFENDING~
-Defending Rune Combinations, listed in value from lowest to highest
-Low runes:   Ghura, Reja, Marixa
-High runes:  Uia and Kav
-Ender rune:  Sen
+dice bone pair strange black runes~
+   These two dice, carved from bone, have been marked with strange runes on all
+six sides.  The tradition of gambling with such dice has gone back several
+hundred years, and while the rules may have changed somewhat, the runes
+themselves have kept the same shapes since.    
 
-Void - a pair of Ender runes (Sen, Sen).  If there are exactly two Ender
-runes, this combination MUST be taken.
-Low pair - a pair of Low runes (Reja, Reja)
-High pair - a pair of High runes (Uia, Uia)
-Ender - a single Ender rune (Sen)
-Kingdom - a High rune and pair of Low runes (Kav, Marixa, Marixa)
-Squires - a trio of Low runes (Ghura, Ghura, Ghura)
-Triple Moons - Guara, Reja, and Marixa
-The Father - Kav, Ghura, and Reja
-Blades - a pair of High runes and a Low rune (Uia, Uia, Ghura)
-The Mother - Uia, Reja, and Marixa
-Nobility - all High runes (Uia, Kav, Uia)
-Knights - a trio of High runes (Kav, Kav, Kav)
-Final - a trio of Ender runes (Sen, Sen, Sen).  If this combination
-is rolled, the player wins, and the round is over.  Any players who were
-after the winning player lose their chance to play.
-
-After the defending roll, the attacking roll can then modify the defending
-roll, after which it must be re-evaluated.
+(type 'look ROLLING' for information on how to roll the dice)
+(type 'look RULES' for information on how to play the rune dice game)
+(type 'look DEFENDING' for defending rune combinations)
+(type 'look ATTACKING' for attacking rune combinations)
 ~
 #11074
 dice bone pair strange black runes~
@@ -739,105 +739,39 @@ Three bone dice marked with strange black runes lie here.~
 T 11058
 T 11059
 E
-rolling~
-Rolling the Dice
+example~
+A betting example in a round of dice
+------------------------------------
+   At the beginning of the round, the starting player sets the ante at 3 steel.
+Everyone drops 3 steel and the game begins.
+   The starting player makes his defending roll and gets Blades.  This is a 
+decent roll, and he so decides to bet 2 steel.
+   The player to the right thinks that he has a chance at beating that, and so
+decides to call.  He drops 2 steel and says, "I call."
+   The third player has not been doing so well lately, and decides to cut his
+losses while it looks like he still can.  He says, "I fold," forfeiting his ante
+but saving him 2 steel which he may have lost otherwise.
+   The fourth and final player has been winning lately, and feels she may be
+able to force others into winning her the match.  She decides to raise the wager
+by 3 steel.  First she drops 2 steel, saying, "I call your 2 steel..." and then
+places 3 more down, saying, "...and raise you 3 steel."
+   The first player who started the betting decides that while Blades roll is
+decent, it may not be enough to win with that much money on the line.  He thus
+decides to fold.
+   The second player now has to put down 3 steel to call, because the original
+bet was 2 steel, which he payed already, and was raised 3 steel, which he has
+yet to pay.  He decides to stay in, and drops three 3 steel, saying, "I call."
+Had he chosen instead to raise once more, the betting would have continued until
+both decide to call.
+   There is no more betting for the round (that is, just after any other
+defending rolls, NO betting takes place).  The fourth player ends up winning,
+taking the pot.
 
-(To roll the dice for a defending roll, type rolldefend)
-(To roll the dice for an attacking roll, type rollattack)
-~
-E
-attack attacking~
-Attacking Rune Combinations
-Low runes:   Ghura, Reja, Marixa
-High runes:  Uia and Kav
-Ender rune:  Sen
-
-Void - a pair of Ender runes (Sen, Sen).  This combination forces the
-defender to re-roll, if you wish them to do so, with play continuing as if
-their turn just began.  HOWEVER, if the defending roll is also Void, the
-defending player's roll is immediately changed to a Dual Void and he or
-she wins the round.
-Ender - a single Ender rune (Sen).  The defending roll remains untouched,
-but for the purposes of the round, the roll becomes devalued by two steps.
-For example, if the defending roll was Triple Moons, it would be considered
-a Kingdom instead.
-Low pair - a pair of Low runes (Ghura, Ghura).  You may change one die in
-the defending roll of the same rune as the pair you rolled to a High rune
-of your choice.  For example, if you rolled Reja, Reja, you could change
-one Reja in the defending roll to a Kav or Uia.
-High pair - a pair of High runes (Kav, Kav).  You may change one die in
-the defending roll of the same rune as the pair you rolled to a Low rune
-of your choice.  For example, if you rolled Uia, Uia, you could change
-one Uia in the defending roll to a Ghura, Reja, or Marixa.
-Lovers - Ghura and Marixa.  You may change one Low rune in the defending
-roll into an Ender rune.
-Pigeon - Uia and Kav.  You may change one Ender rune in the defending roll
-into any other rune.
-~
-E
-defend defending~
-Defending Rune Combinations, listed in value from lowest to highest
-Low runes:   Ghura, Reja, Marixa
-High runes:  Uia and Kav
-Ender rune:  Sen
-
-Void - a pair of Ender runes (Sen, Sen).  If there are exactly two Ender
-runes, this combination MUST be taken.
-Low pair - a pair of Low runes (Reja, Reja)
-High pair - a pair of High runes (Uia, Uia)
-Ender - a single Ender rune (Sen)
-Kingdom - a High rune and pair of Low runes (Kav, Marixa, Marixa)
-Squires - a trio of Low runes (Ghura, Ghura, Ghura)
-Triple Moons - Guara, Reja, and Marixa
-The Father - Kav, Ghura, and Reja
-Blades - a pair of High runes and a Low rune (Uia, Uia, Ghura)
-The Mother - Uia, Reja, and Marixa
-Nobility - all High runes (Uia, Kav, Uia)
-Knights - a trio of High runes (Kav, Kav, Kav)
-Dual Void - a trio of Ender runes (Sen, Sen, Sen).  If this combination
-is rolled, the player wins, and the round is over.  Any players who were
-after the winning player lose their chance to play.
-
-After the defending roll, the attacking roll can then modify the defending
-roll, after which it must be re-evaluated.
-~
-E
-rules~
-Of the six runes, there are three Low runes (Ghura, Reja, and Marixa), two
-High runes (Uia and Kav), and the Ender rune (Sen).  The object of the game
-is to end up with a combination of runes that beats your opponent's.  There
-is a defending and attacking round, one of each for every player, and the
-successful rune combinations are different depending on which round you
-are rolling for.
-
-The game begins with the first roller -- the loser of the last bet, or a
-random starter -- throwing all three dice for the defending round.  She
-then decides what combination to classify the roll under, if there is a
-combination.  The player directly to the left then rolls two dice for the
-attacking round, and uses the best combination he can to reduce the value
-of the defending player's roll, if possible.  The defending player then
-re-classifies the combination the best she can, which ends up being the
-final value of her roll.  She then passes the dice to the right, and the
-next player rolls their defending roll.  This continues until the last
-player is finished with their turn.  Then each player's dice rolls are
-compared, and the player with the highest valued roll wins the round.
-If there is a tie, the two tying players play another round for the pot
-while the others sit out, or, if the tie is between all players, everyone
-antes the same amount as they did the past round, and another round is
-played.
-~
-E
-dice bone pair strange black runes~
-   These two dice, carved from bone, have been marked with strange runes on all
-six sides.  The tradition of gambling with such dice has gone back several
-hundred years, and while the rules may have changed somewhat, the runes
-themselves have kept the same shapes since.    
-
-(type 'look ROLLING' for information on how to roll the dice)
-(type 'look RULES' for information on how to play the rune dice game)
-(type 'look DEFEND' for defending rune combinations)
-(type 'look ATTACK' for attacking rune combinations)
-(type 'look BETTING' for how to bet, and 'look EXAMPLE' for a betting example)
+   IMPORTANT NOTE: If player two had decided to raise by 3 platinum, this may
+have caused player four to fold due to the high risk involved, or because of
+insufficient funds, and player two would have won the entire pot without ever
+even making a defending roll.  It is for this reason that betting limits are
+often put in place -- so that no-one can out-bid anyone else.
 ~
 E
 betting~
@@ -875,39 +809,105 @@ plays a deciding round for the pot, with no ante or betting allowed.
    Please see 'look EXAMPLE' for an example of a sample betting round.
 ~
 E
-example~
-A betting example in a round of dice
-------------------------------------
-   At the beginning of the round, the starting player sets the ante at 3 steel.
-Everyone drops 3 steel and the game begins.
-   The starting player makes his defending roll and gets Blades.  This is a 
-decent roll, and he so decides to bet 2 steel.
-   The player to the right thinks that he has a chance at beating that, and so
-decides to call.  He drops 2 steel and says, "I call."
-   The third player has not been doing so well lately, and decides to cut his
-losses while it looks like he still can.  He says, "I fold," forfeiting his ante
-but saving him 2 steel which he may have lost otherwise.
-   The fourth and final player has been winning lately, and feels she may be
-able to force others into winning her the match.  She decides to raise the wager
-by 3 steel.  First she drops 2 steel, saying, "I call your 2 steel..." and then
-places 3 more down, saying, "...and raise you 3 steel."
-   The first player who started the betting decides that while Blades roll is
-decent, it may not be enough to win with that much money on the line.  He thus
-decides to fold.
-   The second player now has to put down 3 steel to call, because the original
-bet was 2 steel, which he payed already, and was raised 3 steel, which he has
-yet to pay.  He decides to stay in, and drops three 3 steel, saying, "I call."
-Had he chosen instead to raise once more, the betting would have continued until
-both decide to call.
-   There is no more betting for the round (that is, just after any other
-defending rolls, NO betting takes place).  The fourth player ends up winning,
-taking the pot.
+dice bone pair strange black runes~
+   These two dice, carved from bone, have been marked with strange runes on all
+six sides.  The tradition of gambling with such dice has gone back several
+hundred years, and while the rules may have changed somewhat, the runes
+themselves have kept the same shapes since.    
 
-   IMPORTANT NOTE: If player two had decided to raise by 3 platinum, this may
-have caused player four to fold due to the high risk involved, or because of
-insufficient funds, and player two would have won the entire pot without ever
-even making a defending roll.  It is for this reason that betting limits are
-often put in place -- so that no-one can out-bid anyone else.
+(type 'look ROLLING' for information on how to roll the dice)
+(type 'look RULES' for information on how to play the rune dice game)
+(type 'look DEFEND' for defending rune combinations)
+(type 'look ATTACK' for attacking rune combinations)
+(type 'look BETTING' for how to bet, and 'look EXAMPLE' for a betting example)
+~
+E
+rules~
+Of the six runes, there are three Low runes (Ghura, Reja, and Marixa), two
+High runes (Uia and Kav), and the Ender rune (Sen).  The object of the game
+is to end up with a combination of runes that beats your opponent's.  There
+is a defending and attacking round, one of each for every player, and the
+successful rune combinations are different depending on which round you
+are rolling for.
+
+The game begins with the first roller -- the loser of the last bet, or a
+random starter -- throwing all three dice for the defending round.  She
+then decides what combination to classify the roll under, if there is a
+combination.  The player directly to the left then rolls two dice for the
+attacking round, and uses the best combination he can to reduce the value
+of the defending player's roll, if possible.  The defending player then
+re-classifies the combination the best she can, which ends up being the
+final value of her roll.  She then passes the dice to the right, and the
+next player rolls their defending roll.  This continues until the last
+player is finished with their turn.  Then each player's dice rolls are
+compared, and the player with the highest valued roll wins the round.
+If there is a tie, the two tying players play another round for the pot
+while the others sit out, or, if the tie is between all players, everyone
+antes the same amount as they did the past round, and another round is
+played.
+~
+E
+defend defending~
+Defending Rune Combinations, listed in value from lowest to highest
+Low runes:   Ghura, Reja, Marixa
+High runes:  Uia and Kav
+Ender rune:  Sen
+
+Void - a pair of Ender runes (Sen, Sen).  If there are exactly two Ender
+runes, this combination MUST be taken.
+Low pair - a pair of Low runes (Reja, Reja)
+High pair - a pair of High runes (Uia, Uia)
+Ender - a single Ender rune (Sen)
+Kingdom - a High rune and pair of Low runes (Kav, Marixa, Marixa)
+Squires - a trio of Low runes (Ghura, Ghura, Ghura)
+Triple Moons - Guara, Reja, and Marixa
+The Father - Kav, Ghura, and Reja
+Blades - a pair of High runes and a Low rune (Uia, Uia, Ghura)
+The Mother - Uia, Reja, and Marixa
+Nobility - all High runes (Uia, Kav, Uia)
+Knights - a trio of High runes (Kav, Kav, Kav)
+Dual Void - a trio of Ender runes (Sen, Sen, Sen).  If this combination
+is rolled, the player wins, and the round is over.  Any players who were
+after the winning player lose their chance to play.
+
+After the defending roll, the attacking roll can then modify the defending
+roll, after which it must be re-evaluated.
+~
+E
+attack attacking~
+Attacking Rune Combinations
+Low runes:   Ghura, Reja, Marixa
+High runes:  Uia and Kav
+Ender rune:  Sen
+
+Void - a pair of Ender runes (Sen, Sen).  This combination forces the
+defender to re-roll, if you wish them to do so, with play continuing as if
+their turn just began.  HOWEVER, if the defending roll is also Void, the
+defending player's roll is immediately changed to a Dual Void and he or
+she wins the round.
+Ender - a single Ender rune (Sen).  The defending roll remains untouched,
+but for the purposes of the round, the roll becomes devalued by two steps.
+For example, if the defending roll was Triple Moons, it would be considered
+a Kingdom instead.
+Low pair - a pair of Low runes (Ghura, Ghura).  You may change one die in
+the defending roll of the same rune as the pair you rolled to a High rune
+of your choice.  For example, if you rolled Reja, Reja, you could change
+one Reja in the defending roll to a Kav or Uia.
+High pair - a pair of High runes (Kav, Kav).  You may change one die in
+the defending roll of the same rune as the pair you rolled to a Low rune
+of your choice.  For example, if you rolled Uia, Uia, you could change
+one Uia in the defending roll to a Ghura, Reja, or Marixa.
+Lovers - Ghura and Marixa.  You may change one Low rune in the defending
+roll into an Ender rune.
+Pigeon - Uia and Kav.  You may change one Ender rune in the defending roll
+into any other rune.
+~
+E
+rolling~
+Rolling the Dice
+
+(To roll the dice for a defending roll, type rolldefend)
+(To roll the dice for an attacking roll, type rollattack)
 ~
 #11075
 pendant small silver shape teardrop~

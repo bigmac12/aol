@@ -12,6 +12,7 @@ floats off the ground with ease and whatever it passes turns to a black ice.
 1400 87000 2
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11901
 lava guardian form flows lava death~
@@ -26,6 +27,7 @@ changes form into a variety of deadly weapons.
 25 5 -9 3d33+850 4d6+8
 1400 87000 0
 8 8 0 0
+Maxmove: 50
 E
 #11902
 groaning spirit~
@@ -42,6 +44,7 @@ as its bonds holds it fast.
 1500 135000 8
 8 8 1 8
 BareHandAttack: 8
+Maxmove: 50
 E
 #11903
 shambling visage~
@@ -56,6 +59,7 @@ off the ground with ease.  Its voice has a soft deadly echo to it.
 1400 87000 0
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11904
 bodhi crypt master cryptmaster form~
@@ -72,6 +76,7 @@ shroud of mist that covers him.
 1600 135000 0
 8 8 1 8
 BareHandAttack: 8
+Maxmove: 50
 E
 #11905
 Dalfice dal captain guard rock hard cold steel ~
@@ -82,11 +87,12 @@ A rock hard man with cold steel eyes
 different story.  His once rock hard muscles fathom and bend with ease.  His
 voice is weak and subtle, as if this man has lost his soul.    
 ~
-7421960 163840 0 -1000 E
+7405576 163840 0 -1000 E
 29 2 -13 3d33+1450 4d7+9
 1800 213000 3
 8 8 1 0
 BareHandAttack: 13
+Maxmove: 50
 E
 #11906
 mummified corpse bandages dusty~
@@ -100,6 +106,7 @@ stare at you through holes made from the hardened bandages.
 26 4 -10 3d33+950 4d7+7
 0 115000 0
 8 8 0 0
+Maxmove: 50
 E
 #11907
 shift shiftling~
@@ -116,6 +123,7 @@ eyes, that shift color as you gaze at their hypnotic appearance.
 1700 175000 0
 8 8 0 0
 BareHandAttack: 8
+Maxmove: 50
 E
 #11908
 living wall~
@@ -134,6 +142,7 @@ were alive.
 3000 270000 0
 8 8 0 0
 BareHandAttack: 4
+Maxmove: 50
 E
 #11909
 gate master~
@@ -148,6 +157,7 @@ sunstance that holds no form.  A suit of armor decorates its torso.
 30 -30 -14 3d33+1700 4d8+25
 0 250000 7
 8 8 0 0
+Maxmove: 50
 E
 T 11904
 T 11905
@@ -165,6 +175,7 @@ skeletal like head of this death knight.
 28 2 -12 3d33+1250 4d7+9
 0 175000 7
 8 8 0 0
+Maxmove: 50
 E
 T 11906
 #11911
@@ -182,5 +193,6 @@ cover the rest of this spectres torso.
 1400 87000 8
 8 8 1 0
 BareHandAttack: 8
+Maxmove: 50
 E
 $

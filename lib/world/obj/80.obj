@@ -1193,10 +1193,6 @@ shape of a band around the waist.  The dress stops just above the floor.  When
 the wearer moves, the dress moves with them.  The dress is not very wide, even
 at the ankles, making movement difficult.    
 ~
-A
-17 -1
-A
-4 2
 #8076
 shield wood wooden large~
 a large wooden shield with reinforced steel siding~
@@ -1450,4 +1446,34 @@ A
 17 -2
 A
 3 1
+#8099
+fountain granite marble inlay~
+a large granite fountain with exquisite marble inlay~
+A large granite fountain with exquisite marble inlay stands proudly near the statue.~
+~
+17 0 0
+9999 9999 15 0
+1500 0 0 0 -1
+E
+fountain granite marble inlay~
+   This fountain is large, but does not overshadow the statue near it.  It is
+made of hand-carved granite at the hands of an expert craftsman, and has a
+beautiful and intricate marble inlay across its surface.  On the central
+fountain pedestal, cleverly hidden behind the flowing water, is a symbol carved
+in to the stone.    
+~
+E
+stamp mark maker symbol~
+ .----------------.
+| .--------------. |
+| | ____    ____ | |
+| ||_   \  /   _|| |
+| |  |   \/   |  | |
+| |  | |\  /| |  | |
+| | _| |_\/_| |_ | |
+| ||_____||_____|| |
+| |              | |
+| '--------------' |
+ '----------------'
+~
 $~

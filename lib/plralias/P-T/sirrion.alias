@@ -1,7 +1,12 @@
+6
+nomeet
+48
+set sirrion title &RSirrion, the Flowing Flame&n
+0
 7
 meeting
-82
-set sirrion title &RSirrion, the Flowing Flame &W(In a meeting, leave a message)&n
+73
+set sirrion title &RSirrion, the Flowing Flame &W(AFK, leave a message)&n
 0
 3
 sdd
@@ -52,11 +57,6 @@ goto 1007
 find
 11
 vnum obj $*
-1
-2
-ch
-12
-vstat obj $*
 1
 5
 mfind

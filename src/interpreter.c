@@ -754,7 +754,7 @@ const struct command_info cmd_info[] = {
   { "stand"    , "sta",     POS_RESTING , do_stand    , 0, 0 },
   { "stagger"  , "stagger", POS_RESTING , do_action   , 1, 0 },
   { "stare"    , "stare",   POS_RESTING , do_action   , 1, 0 },
-  { "stat"     , "stat",    POS_DEAD    , do_stat     , LVL_ADMIN, 0 },
+  { "stat"     , "stat",    POS_DEAD    , do_stat     , LVL_GOD, 0 },
   { "quest"    , "quest",   POS_DEAD    , do_quest    , LVL_LESSERGOD, 0 },
   { "steal"    , "steal",   POS_STANDING, do_steal    , 1, 0 },
   { "steam"    , "steam",   POS_RESTING , do_action   , 1, 0 },

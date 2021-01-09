@@ -851,17 +851,6 @@ A towering black monolith casts its dark shadow over the forest.~
 4 1 -1 0
 2000000 0 0 1 -1
 E
-eyes ruby red spheres crystal glowing~
-   You look up, way up to the face of the statue.  The woman's terrifying
-expression is owing in no small part to the two ruby spheres that make up her
-eyes.  A properly motivated person might be able to use parts of the statue as
-footholds, scaling the monolith to get a closer look.  It just might be
-possible to pry one of the eyes loose, though that would prove dangerous.  Not
-just because of the towering climb that would be needed, but also because to do
-so would surely insult and upset the goddess in question.  And those who upset
-Zeboim often meet with painful and tortured ends.    
-~
-E
 monolith black ebony towering tower statue~
    This great and terrifying structure casts a long shadow over the forest
 here.  It must stand some twenty feet high.  When you step back a moment to
@@ -879,6 +868,17 @@ Zeboim.  Her eyes are two glowing-red crystal spheres which ooze with a
 malignant hatred of all things living.  It is difficult not to be glad that
 this is simply a statue, and poses no immediate threat to you one way or
 another.    
+~
+E
+eyes ruby red spheres crystal glowing~
+   You look up, way up to the face of the statue.  The woman's terrifying
+expression is owing in no small part to the two ruby spheres that make up her
+eyes.  A properly motivated person might be able to use parts of the statue as
+footholds, scaling the monolith to get a closer look.  It just might be
+possible to pry one of the eyes loose, though that would prove dangerous.  Not
+just because of the towering climb that would be needed, but also because to do
+so would surely insult and upset the goddess in question.  And those who upset
+Zeboim often meet with painful and tortured ends.    
 ~
 #4651
 blood pool splatter~
@@ -1397,8 +1397,8 @@ A
 A
 24 -4
 #4696
-bone long sharp sword nature's ruin nature dark glow~
-&K"Nature's Ruin", a massive scythe of charred bone&n~
+scythe nature ruin massive charred dragon bone~
+&K"Nature's Ruin", a massive scythe made of charred dragon bone&n~
 A long, sharp bone lies here, a dark glow surrounding it.~
 ~
 5 1074166352 109060097

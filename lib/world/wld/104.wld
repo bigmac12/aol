@@ -804,8 +804,10 @@ D5
 ~
 0 0 10425
 E
-stairway stairs~
-   The stairway winds its way back to the Inner Sacntum of the Temple.    
+door black~
+   The door looms before you ominously, dark as sin and looking impossible to
+break down.  There is a large symbol of a condor in its center, carved out from
+the door's face.    
 ~
 E
 symbol large center~
@@ -814,10 +816,8 @@ out from the door as most ritualistic carvings are.  Perhaps something is
 supposed to be placed within it?    
 ~
 E
-door black~
-   The door looms before you ominously, dark as sin and looking impossible to
-break down.  There is a large symbol of a condor in its center, carved out from
-the door's face.    
+stairway stairs~
+   The stairway winds its way back to the Inner Sacntum of the Temple.    
 ~
 S
 #10435
@@ -1116,7 +1116,7 @@ priests and priestesses of the Temple in Sargonnas's unholy name.  The sound of
 bones cracking underfoot is audible as you walk, and the air hangs thickly with
 the sickly-sweet smell of flesh decaying in the open air.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D1
 ~
 ~
@@ -1228,7 +1228,7 @@ bones litter the earth, bleached from exposure and the sun.  Other corpses lie
 strewn about like broken dolls in various states of decomposure, flesh bloated
 and limbs akimbo in a bizarre parody of life.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1251,7 +1251,7 @@ itself looms overhead to the northeast, casting its shadow over the field of
 the dead mockingly, as if even in death, these bodies fall under the evil and
 menacingly dark shadow of Sargonnas.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1355,7 +1355,7 @@ the god of Dark Vengeance.  The ground is muddy with blood and gore, making a
 faint, wet sucking sound as you slosh your way slowly amidst the twisted,
 broken, and mutilated bodies.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1379,7 +1379,7 @@ is coated with bones and rotting flesh, and a solitary skull faces the heavens,
 an immortal, mocking grin on its face as it looks upwards in a permanently
 condemning stare.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1409,7 +1409,7 @@ powder.  Surrounding the pyre is a ring of wooden poles and spears, bodies
 impaled upon them, each one bearing silent, eternal testimonial to the
 ceaseless demands of Sargonnas.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1463,7 +1463,7 @@ priests and priestesses of the Temple in Sargonnas's unholy name.  The sound of
 bones cracking underfoot is audible as you walk, and the air hangs thickly with
 the sickly-sweet smell of flesh decaying in the open air.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1486,7 +1486,7 @@ itself looms overhead to the northeast, casting its shadow over the field of
 the dead mockingly, as if even in death, these bodies fall under the evil and
 menacingly dark shadow of Sargonnas.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1509,7 +1509,7 @@ priests and priestesses of the Temple in Sargonnas's unholy name.  The sound of
 bones cracking underfoot is audible as you walk, and the air hangs thickly with
 the sickly-sweet smell of flesh decaying in the open air.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1535,7 +1535,7 @@ the god of Dark Vengeance.  The ground is muddy with blood and gore, making a
 faint, wet sucking sound as you slosh your way slowly amidst the twisted,
 broken, and mutilated bodies.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1563,7 +1563,7 @@ is coated with bones and rotting flesh, and a solitary skull faces the heavens,
 an immortal, mocking grin on its face as it looks upwards in a permanently
 condemning stare.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1590,7 +1590,7 @@ bones litter the earth, bleached from exposure and the sun.  Other corpses lie
 strewn about like broken dolls in various states of decomposure, flesh bloated
 and limbs akimbo in a bizarre parody of life.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1614,7 +1614,7 @@ is coated with bones and rotting flesh, and a solitary skull faces the heavens,
 an immortal, mocking grin on its face as it looks upwards in a permanently
 condemning stare.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1633,7 +1633,7 @@ bones litter the earth, bleached from exposure and the sun.  Other corpses lie
 strewn about like broken dolls in various states of decomposure, flesh bloated
 and limbs akimbo in a bizarre parody of life.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1656,7 +1656,7 @@ itself looms overhead to the northeast, casting its shadow over the field of
 the dead mockingly, as if even in death, these bodies fall under the evil and
 menacingly dark shadow of Sargonnas.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1683,7 +1683,7 @@ priests and priestesses of the Temple in Sargonnas's unholy name.  The sound of
 bones cracking underfoot is audible as you walk, and the air hangs thickly with
 the sickly-sweet smell of flesh decaying in the open air.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1705,7 +1705,7 @@ the god of Dark Vengeance.  The ground is muddy with blood and gore, making a
 faint, wet sucking sound as you slosh your way slowly amidst the twisted,
 broken, and mutilated bodies.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1724,7 +1724,7 @@ off to the east, devoid of leaves, its dead branches reaching towards the
 heavens in a manner that almost seems to resemble a creature clawing viciosuly
 at the sky above.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D2
 ~
 ~
@@ -1742,7 +1742,7 @@ some sort of building or structure built into the mountain's peak, and even
 from this distance the stone effigy of a condor, wings outspread and beak open
 in a scream, can be seen.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1759,7 +1759,7 @@ way across the fields.  The air feels unusually still here, hanging thick and
 heavy around you.  The road itself is cut from large blocks of a pure black
 stone, precise squares polished to a glossy perfection.    
 ~
-104 32772 2 0 0
+104 4 2 0 0
 D0
 ~
 ~
@@ -1776,7 +1776,7 @@ northeast, and the main highway towards the south.  Grasses grow high on either
 side of the road, and a few solitary trees try to find purchase in the rocky
 soil of the moutain's base here and there.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D2
 ~
 ~
@@ -1794,7 +1794,7 @@ rise up into a mountain range whose peaks are enshrouded in clouds.  Though
 somewhat narrow, the road appears to be well travelled, and its surface has
 been paved with black stone blocks.    
 ~
-104 32772 2 0 0
+104 4 2 0 0
 D1
 ~
 ~
@@ -1812,7 +1812,7 @@ to the barren, rocky soil, and what few plants there are only highlight the
 lifeless sense of this place.  The highway continues to the north and
 southeast.  A less travelled path branches off the highway to the west.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D0
 ~
 ~
@@ -1833,7 +1833,7 @@ the larger mountains.  Its dirt surface is not very well packed, and it does
 not appear to be too heavily travelled.  A few barren trees stand along the
 road side providing little by way of shelter or shade.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D1
 ~
 ~
@@ -1852,7 +1852,7 @@ few small shrubs and an occasional tree grow out from the mountain side.  The
 road leads back into the hills to the southeast and further around the mountain
 to the west.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D3
 ~
 ~
@@ -1871,7 +1871,7 @@ Thick shrubs and a few tall trees grow along the mountain side.  The road leads
 back into the hills to the northwest and further around the mountain to the
 east.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D1
 ~
 ~
@@ -1891,6 +1891,10 @@ condor is cut from some red stone, and to be visible from this distance they
 must each be the size of a full-grown human male.    
 ~
 104 32772 4 0 0
+D5
+~
+~
+0 0 10451
 D7
 ~
 ~
@@ -1905,7 +1909,7 @@ road itself does not appear to be that well-travelled.  Its surface is covered
 with leaves and fallen tree limbs.  The road continues its trek through the
 hillside to the west and winds southeast, around the base of the mountain.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D3
 ~
 ~
@@ -1924,7 +1928,7 @@ road itself does not appear to be that well-travelled.  Its surface is covered
 with leaves and fallen tree limbs.  The road leans down into the tree-filled
 valley to the southwest and continues its way through the hillside to the east.
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D1
 ~
 ~
@@ -1941,7 +1945,7 @@ across the fields.  The air feels unusually still here, hanging thick and heavy
 around you.  The road itself is cut from large blocks of a pure black stone,
 precise squares polished to a glossy perfection.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D2
 ~
 ~
@@ -1958,7 +1962,7 @@ Though small in comparison to the massive mountains which tower overhead, these
 hills can make travel a bit rough.  The roads surface is paved with blocks of
 black stone and appears to be rather well travelled.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D0
 ~
 ~
@@ -1975,7 +1979,7 @@ across the fields.  The air feels unusually still here, hanging thick and heavy
 around you.  The road itself is cut from large blocks of a pure black stone,
 precise squares polished to a glossy perfection.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D2
 ~
 ~
@@ -1992,7 +1996,7 @@ Though small in comparison to the massive mountains which tower overhead, these
 hills can make travel a bit rough.  The roads surface is paved with blocks of
 black stone and appears to be rather well travelled.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D1
 ~
 ~
@@ -2011,7 +2015,7 @@ off to the east, devoid of leaves, its dead branches reaching towards the
 heavens in a manner that almost seems to resemble a creature clawing viciosuly
 at the sky above.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D3
 ~
 ~
@@ -2033,7 +2037,7 @@ hills around the base of the mountains.  The northwest path leads up into the
 hills, angling steeply as it winds between two mountains.  Visible in the
 distance is a bizarre carving of a condor on the mountain's summit.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D1
 ~
 ~
@@ -2055,7 +2059,7 @@ visible to the northwest.  The ground on either side of the road is barren and
 rocky, with precious few plants or grass growing.  The few clumps of grass that
 do cling to the rocky soil highlight the desolateness of this area.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D3
 ~
 ~
@@ -2072,7 +2076,7 @@ Though small in comparison to the massive mountains which tower overhead, these
 hills can make travel a bit rough.  The roads surface, however, is still firmly
 packed which would seem to indicate that it is well travelled.    
 ~
-104 32768 4 0 0
+104 0 4 0 0
 D6
 ~
 ~
@@ -2091,7 +2095,7 @@ the road surface is firmly packed and appears to be regularly travelled.  A
 small, brushy trail meanders off into the wilderness along the northern edge of
 the road.    
 ~
-104 32768 2 0 0
+104 0 2 0 0
 D6
 ~
 ~
@@ -2113,7 +2117,7 @@ series of low hills which rise up into a mountain range whose peaks are
 enshrouded in clouds.  Though narrow in comparison to the highway, the road
 surface is firmly packed and appears to be regularly travelled.    
 ~
-104 32772 2 0 0
+104 4 2 0 0
 D1
 ~
 ~
@@ -2131,7 +2135,7 @@ of black, oily smoke rising into the air.  The acrid stench of burningn flesh
 is distinct, and a thin film of white ash filters down on you from above,
 coating you in a fine layer of chalky dust.    
 ~
-104 32772 4 0 0
+104 4 4 0 0
 D0
 ~
 ~

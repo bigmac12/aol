@@ -2499,7 +2499,7 @@ int use_skill(struct char_data * ch, int percent, int skillnum)
   }
   
   skilled -= 10;
-  skilled /= 4;
+  skilled /= 2;
   mod += skilled;
   
   if (skillnum == SKILL_BACKSTAB && check_skill(ch, 101, SKILL_IMPROVED_BACKSTAB))

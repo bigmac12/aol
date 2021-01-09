@@ -1140,6 +1140,10 @@ void damage(struct char_data * ch, struct char_data * victim, int dam,
         case TYPE_CLEAVE:
         case SKILL_BACKSTAB:
         case SKILL_ADVANCED_BACKSTAB:
+	case SKILL_KICK:
+	case SKILL_GORE:
+	case SKILL_DIRTY_FIGHTING:
+	case SKILL_COMBAT_IMPROVISATION:
           dam /= 2;
           break;
         default:
@@ -1153,25 +1157,15 @@ void damage(struct char_data * ch, struct char_data * victim, int dam,
 
     if (IS_UNDEAD(ch) && affected_by_spell(victim, SPELL_PROT_FROM_UNDEAD))
       dam = dam * .80; 
-    else if (IS_EVIL(ch) && affected_by_spell(victim, SPELL_PROT_FROM_EVIL))
+    //else if (IS_EVIL(ch) && affected_by_spell(victim, SPELL_PROT_FROM_EVIL))
+    else if (IS_EVIL(ch) && IS_AFFECTED(victim, AFF_PROTECT_EVIL))
       dam = dam * .80; 
-    else if (IS_GOOD(ch) && affected_by_spell(victim, SPELL_PROT_FROM_GOOD))
+    //else if (IS_GOOD(ch) && affected_by_spell(victim, SPELL_PROT_FROM_GOOD))
+    else if (IS_GOOD(ch) && IS_AFFECTED(victim, AFF_PROTECT_GOOD))
       dam = dam * .80; 
   }  /*  end of the pulse_damage check  */
 
   check_killer(ch, victim);
-
-  /* Set the maximum damage per round and subtract the hit points */
-  if ((attacktype == SPELL_THORNSHIELD) || (attacktype == SPELL_FIRE_SHIELD))
-    dam = MAX(MIN(dam, 25), 0);
-  else if (is_weapon(attacktype))
-    dam = MAX(MIN(dam, 150), 0);
-  else
-    dam = MAX(MIN(dam, 200), 0);
-
-/* special super bonus */
-  if(GET_ID(ch) == 5334)
-    dam = dam * 4;
 
   GET_HIT(victim) -= dam;
 
@@ -1306,9 +1300,9 @@ void damage(struct char_data * ch, struct char_data * victim, int dam,
     if (attacktype == SPELL_PHANTASMAL_SNAKE)
     {
       if (!number(0, 4))
-        mag_affects(GET_LEVEL(ch), ch, victim, SPELL_POISON, SAVING_SPELL);
+        mag_affects(GET_LEVEL(ch), ch, victim, SPELL_POISON, SAVING_PARA);
       if (!number(0, 4) && !mag_savingthrow(victim, SAVING_SPELL))
-        mag_affects(GET_LEVEL(ch), ch, victim, SPELL_HOLD_PERSON, SAVING_SPELL);
+        mag_affects(GET_LEVEL(ch), ch, victim, SPELL_HOLD_PERSON, SAVING_PARA);
     }
 
     if (is_weapon(attacktype) && affected_by_spell(ch, SKILL_ENVENOM))
@@ -1441,9 +1435,9 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
     w_type = type;
 
 
+  /* Calculate the raw armor including magic armor. Lower AC is better. */
   calc_thaco1 = calc_thaco(ch);
-  
-  victim_ac1 = calc_ac(victim, ch);
+  victim_ac1 = calc_ac(victim, ch) / 10;
 
   if (type == SKILL_BACKSTAB || type == SKILL_ADVANCED_BACKSTAB) {
     if (check_skill(ch, 101, SKILL_HIDE) && check_skill(ch, 101, SKILL_SNEAK))
@@ -1600,7 +1594,8 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
     if (IS_NPC(victim)) {
       percent = number(1, 150) + GET_HITROLL(ch) + GET_DEX(ch);
 
-      prob = MIN(85, GET_LEVEL(victim)) + GET_DEX(victim);
+      //prob = MIN(85, GET_LEVEL(victim)) + GET_DEX(victim);
+      prob = GET_LEVEL(victim) + GET_DEX(victim);
 
       if (GET_POS(victim) == POS_FIGHTING && prob > percent) {
 	act("$N swiftly blocks your attack.", FALSE, ch, 0, victim, TO_CHAR);

@@ -24,6 +24,7 @@
 #include "spells.h"
 #include "handler.h"
 #include "db.h"
+#include "stdlib.h"
 
 extern struct room_data *world;
 extern struct obj_data *object_list;
@@ -519,7 +520,7 @@ int mag_savingthrow_new(struct char_data * caster, struct char_data * victim, in
       }
   }
 
-  victimSave = dice(1, 100 - saving_throws[(int)GET_CLASS(victim)][type][victimLevel]);
+  victimSave = abs(dice(1, 100 - saving_throws[(int)GET_CLASS(victim)][type][victimLevel]));
 
   if (GET_SPELL_SOURCE(caster) == CAST_SPELL)
     casterSkill = dice(1, GET_SKILL(caster, spell));
@@ -532,6 +533,7 @@ int mag_savingthrow_new(struct char_data * caster, struct char_data * victim, in
   casterSkill += dice(GET_LEVEL(caster), 4);
   casterSkill *= 100;
   casterSkill /= victimSave;
+  casterSkill = abs(casterSkill);
 
   if (casterSkill < 50 && aggressive)
     return 0;
@@ -796,7 +798,7 @@ void mag_damage(int level, struct char_data * ch, struct char_data * victim, int
         break;
 
     case SPELL_LIGHTNING_BOLT:
-        dam = dice(level, 8) + (level);
+        dam = number(40, 70) + level;
         /* dam = MIN(dice((level + 4), 8), 70); */ /* 01-30-2000 */
         break;
 
@@ -807,6 +809,9 @@ void mag_damage(int level, struct char_data * ch, struct char_data * victim, int
         break;
 
     case SPELL_FIREBALL:
+        dam = dice(level, 8) + (level);
+	break;
+
     case SPELL_PRISMATIC_SPRAY:
         dam = number(40, 70) + level;
         /* dam = MIN(dice((level + 5), 8), 100); */
@@ -822,29 +827,30 @@ void mag_damage(int level, struct char_data * ch, struct char_data * victim, int
         break;
 
     case SPELL_POWER_WORD_KILL:
-        dam = dice(2, (level * 15));
+        //dam = dice(2, (level * 15));
+        dam = dice(100, 10);
         break;
 
         /* Mostly clerics */
 
     case SPELL_CAUSE_LIGHT:
-        dam = dice(2, 4) + (level / 4);
+        dam = dice(2, 4) + (level / 3);
         break;
 
     case SPELL_CAUSE_MODERATE:
-        dam = dice(4, 4) + (level / 3);
+        dam = dice(4, 4) + (level / 2);
         break;
 
     case SPELL_CAUSE_SEVERE:
-        dam = dice(6, 4) + (level / 2);
+        dam = dice(6, 6) + level;
         break;
 
     case SPELL_CAUSE_CRITIC:
-        dam = dice(10, 4) + (level / 2);
+        dam = dice(10, 6) + level;
         break;
 
     case SPELL_HARM:
-        dam = dice(12, 4) + level;
+        dam = dice(12, 8) + level;
         break;
 
     case SPELL_HARMFUL_WRATH:
@@ -862,11 +868,11 @@ void mag_damage(int level, struct char_data * ch, struct char_data * victim, int
         break;
 
     case SPELL_FLAMESTRIKE:
-        dam = dice(8, 4) + level;
+        dam = dice(6, 9) + level;
         break;
 
     case SPELL_DISPEL_EVIL:
-        dam = dice(6, 8) + 6;
+        dam = dice(6, 8) + (level / 2);
 
         if (IS_EVIL(ch)) 
         {
@@ -883,7 +889,7 @@ void mag_damage(int level, struct char_data * ch, struct char_data * victim, int
         break;
 
     case SPELL_DISPEL_GOOD:
-        dam = dice(6, 8) + 6;
+        dam = dice(6, 8) + (level / 2);
 
         if (IS_GOOD(ch)) 
         {
@@ -919,12 +925,7 @@ void mag_damage(int level, struct char_data * ch, struct char_data * victim, int
         //     return;
         // }
 
-        dam = dice(3, 20) + 90;
-
-        if(is_druid)
-        {
-            dam = dice(6, 20) + 120;
-        }
+        dam = dice(6, 20) + 120;
 
         // if (weather_info.sky > SKY_CLOUDLESS)
         //     dam /= 2;
@@ -2074,8 +2075,13 @@ for (i = 0; i < NUM_WEARS; i++)
 
   case SPELL_AID:
     af[2].location = APPLY_HIT;
-    af[2].modifier = dice(10, 2) + 10;
+    af[2].modifier = dice(20, 6) + level;
     af[2].duration = 6;
+
+    accum_duration = FALSE;
+    to_vict = "You are aided by the gods.";
+
+    break;
 
     /*  Aid also affects with bless - therefore, no break for this case  */
   case SPELL_BLESS:
@@ -2094,7 +2100,7 @@ for (i = 0; i < NUM_WEARS; i++)
 
     af[1].type = SPELL_BLESS;   // necessary due to aid
     af[1].location = APPLY_SAVING_SPELL;
-    af[1].modifier = -1;
+    af[1].modifier = -5;
     af[1].duration = 6;
 
     accum_duration = FALSE;
@@ -2386,7 +2392,7 @@ for (i = 0; i < NUM_WEARS; i++)
 
     af[1].location = APPLY_SAVING_SPELL;
 
-    af[1].modifier = -3;
+    af[1].modifier = -5;
 
     af[1].duration = 24;
 
@@ -2416,7 +2422,7 @@ for (i = 0; i < NUM_WEARS; i++)
 
     af[1].location = APPLY_SAVING_SPELL;
 
-    af[1].modifier = -3;
+    af[1].modifier = -5;
 
     af[1].duration = 24;
 
@@ -2451,45 +2457,34 @@ for (i = 0; i < NUM_WEARS; i++)
     af[0].type = SPELL_PROT_FROM_FROST;
 
     af[0].duration = 24;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = -10;
-
-    
-
     to_vict = "You feel protected from cold.";
 
     break;
 
-
-
   case SPELL_PROT_FROM_ELEMENTS:
-
+    af[0].location = APPLY_AC;
+    af[0].modifier = -10;
     af[0].duration = 24;
 
-    af[0].location = APPLY_AC;
-
-    af[0].modifier = 0;
+    af[1].type = SPELL_PROT_FROM_ELEMENTS;
+    af[1].location = APPLY_SAVING_SPELL;
+    af[1].modifier = -3;
+    af[1].duration = 24;
 
     to_vict = "You feel protected from the elements.";
 
     break;
 
-
-
   case SPELL_PROT_FROM_UNDEAD:
-
     af[0].type = SPELL_PROT_FROM_UNDEAD;
-
     af[0].duration = 24;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = -10;
 
 
-
+    /*
     af[1].type = SPELL_PROT_FROM_UNDEAD;
 
     af[1].location = APPLY_SAVING_SPELL;
@@ -2497,6 +2492,7 @@ for (i = 0; i < NUM_WEARS; i++)
     af[1].modifier = -3;
 
     af[1].duration = 24;
+    */
 
     to_vict = "You feel protected from undead beings.";
 
@@ -4269,6 +4265,7 @@ for (i = 0; i < NUM_WEARS; i++)
     return;
   }
 
+/*
    for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
     af[i].modifier *= factor;
     af[i].modifier /= 100;
@@ -4276,6 +4273,7 @@ for (i = 0; i < NUM_WEARS; i++)
     af[i].duration *= factor;
     af[i].duration /= 100;
   }
+*/
 
   for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
     if (af[i].bitvector || (af[i].location != APPLY_NONE)) {
@@ -4471,8 +4469,8 @@ void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
   {
     af[0].type = SPELL_BREATH_OF_LIFE;
     af[0].location = APPLY_AC;
-    af[0].duration = -1;
-    affect_join(ch, af, 0, 0, 0, 0);
+    af[0].duration = 1;
+    //affect_join(ch, af, 1, 1, 1, 1);
   }
 
   if (spellnum == SPELL_MOONBEAM && !OUTSIDE(ch))

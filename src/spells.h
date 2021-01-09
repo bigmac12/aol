@@ -509,7 +509,7 @@ struct element_type {
 #define VNUM_ELEMENTAL_2        18
 #define VNUM_ELEMENTAL_3        19
 #define VNUM_ELEMENTAL_4        20
-#define VNUM_SNAKES             21
+#define VNUM_SNAKES             28
 #define VNUM_GUARD              22
 #define VNUM_GREATER_ELEMENTAL  23
 #define VNUM_GREATER_ELEM_2     24

@@ -51,7 +51,7 @@ the Crystal Staff of Mishakal~
 The crystal staff of Mishakal rests upright here, glowing with a blue light.~
 ~
 5 65793 24576
-2 4 1 3
+1 400 1 0
 1 0 10000 35 -1
 E
 staff ~
@@ -269,19 +269,19 @@ A golden crown shines in the dim light, shadows reflecting off its runes~
 0 0 0 0
 0 0 0 35 -1
 E
-runes words rune~
-These runes are strange, for they don't really seem to spell out quite
-anything.  The best you can make out is, 
-Tihs Crown Denotes hte Heir ot teh Typo Emipre
-Long Lvie teh Tpyo Dynasty!!
-~
-E
 crown golden~
    This golden crown is of fine and painstakingly detailed craftmanship, its
 surface beaten into a smooth sheen.  Numerous ancient runes are traced into the
 hammered surface, though they seem to be in a rather odd and unusual order.  
 The crown itself radiates a palpable, if slightly confusing and broken, sense
 of power and majesty.    
+~
+E
+runes words rune~
+These runes are strange, for they don't really seem to spell out quite
+anything.  The best you can make out is, 
+Tihs Crown Denotes hte Heir ot teh Typo Emipre
+Long Lvie teh Tpyo Dynasty!!
 ~
 #1021
 sceptre zeboim~
@@ -292,19 +292,19 @@ A golden sceptre, mounted with a single stone of amber, rests here.~
 0 0 0 0
 0 0 0 35 -1
 E
-rune runes amber ball~
-   The letters and runes are in no particular order, seeming to form broken
-fragments and partial words.  There is a sense of power emanating from the
-sceptre, though there is something rather...  Confusing, about its sentience.
-  
-~
-E
 sceptre golden~
    The sceptre is about two feet long, heavy and made of solid gold.  At one
 end is a large sphere of amber, clutched within the talons of an eagle or hawk.
 Trails of branches and ivy meander down the sceptre's base, inscribed with
 untranslatable runes.  The amber ball itself glows slightly, strange runes
 flickering within its golden depths.    
+~
+E
+rune runes amber ball~
+   The letters and runes are in no particular order, seeming to form broken
+fragments and partial words.  There is a sense of power emanating from the
+sceptre, though there is something rather...  Confusing, about its sentience.
+  
 ~
 #1022
 totem miniature takhisis~
@@ -557,16 +557,16 @@ A red silk dress, trimmed in rubies and gold, is rumpled on the floor here~
 0 0 0 0
 0 0 0 38 -1
 E
-tag~
-The tag reads, "For my red cousin, the most fashion conscious of us all.    
---Nuitari
-~
-E
 dress red silk rubies gold lunitari~
    This red silk dress is of the finest craftsmanship, and cut.  It can,
 depending on how you adjust the straps, show a lot of skin, or leave everything
 below the neck to the imagination.  It is trimmed in gold and rubies, and feels
 as smooth as a newborn's skin.  There is a small tag on the inside.    
+~
+E
+tag~
+The tag reads, "For my red cousin, the most fashion conscious of us all.    
+--Nuitari
 ~
 #1068
 robe robes lunitari thigh-high thigh high slit sheer crimson~
@@ -632,8 +632,10 @@ Mishakal's box of chocolates hovers here.~
 50 1 -1 0
 0 0 0 35 -1
 E
-box choc chocolate chocolates~
-   This is Mishakal's chocolate box.  HANDS OFF!!!    
+vnum~
+11809
+1682
+19065
 ~
 E
 sky-blue sky blue gown dress shimmering silver rune runes~
@@ -644,10 +646,8 @@ out of a shimmering sky-blue material, and the fabric clings closely to its
 wearer's body, showing off their figure.    
 ~
 E
-vnum~
-11809
-1682
-19065
+box choc chocolate chocolates~
+   This is Mishakal's chocolate box.  HANDS OFF!!!    
 ~
 #1091
 asprin container bottle dragon-sized dragon sized~

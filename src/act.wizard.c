@@ -2482,7 +2482,7 @@ ACMD(do_wizutil)
         {
           i = af->next;
           if (af->duration > -1)  // don't remove permanent effects
-            affect_remove(vict, vict->affected, 1);
+              affect_remove(vict, vict->affected, 1);
           af = i;
         }
 	send_to_char("There is a brief flash of light!\r\n"
