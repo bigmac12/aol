@@ -1610,20 +1610,19 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
 
     if (type == SPELL_FLAME_BLADE)
     {
-      dam = dice(1, 5) + 1;
+      dam = dice(1, 5) + GET_LEVEL(ch);
     }
     else if (type == SPELL_SPIRIT_HAMMER)
     {
-      dam = dice(2, 3);
+      dam = dice(2, 3) + GET_LEVEL(ch);
     }
-
     else if (type == SPELL_DANCING_SWORD)
     {
-      dam = dice(2, GET_LEVEL(ch) / 4);
+      dam = dice(2, 5) + GET_LEVEL(ch));
     }
     else if (type == SPELL_PHANTASMAL_SNAKE)
     {
-      dam = number(GET_LEVEL(ch) / 3, GET_LEVEL(ch) / 2);
+      dam = GET_LEVEL(ch) * 1.5;
     }
     else
     {

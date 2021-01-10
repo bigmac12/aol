@@ -5094,9 +5094,7 @@ void mag_summons(int level, struct char_data * ch, struct char_data * victim, st
 
 }
 
-
-int allowNewFollower(struct char_data* ch, int maxFollowerAllowed)
-{
+int allowNewFollower(struct char_data* ch, int maxFollowerAllowed) {
   int permitNewFollower = 1;
   int numCharmed = 0;
   struct follow_type* fol = (struct follow_type*) NULL;
@@ -5114,8 +5112,7 @@ int allowNewFollower(struct char_data* ch, int maxFollowerAllowed)
     }
   }
 
-  if (numCharmed >= maxFollowerAllowed)
-  {
+  if (numCharmed >= maxFollowerAllowed) {
     sprintf(buf, "You may have no more than %d followers at a time.\r\n", maxFollowerAllowed);
 
     send_to_char(buf, ch);
@@ -5126,14 +5123,12 @@ int allowNewFollower(struct char_data* ch, int maxFollowerAllowed)
 }
 
 
-void mag_points(int level, struct char_data * ch, struct char_data * victim, int spellnum, int savetype)
-{
+void mag_points(int level, struct char_data * ch, struct char_data * victim, int spellnum, int savetype) {
   int hit = 0;
   int move = 0;
   int factor = 0, aggressive = spell_info[spellnum].violent;
 
   if (ch == NULL)
-
     return;
 
   if ((factor = mag_savingthrow_new(ch, victim, aggressive, savetype, spellnum)) <50 ) {
@@ -5145,77 +5140,51 @@ void mag_points(int level, struct char_data * ch, struct char_data * victim, int
 
 
   if (victim == NULL)
-
     return;
-
-
 
   switch (spellnum) {
 
   case SPELL_CURE_LIGHT:
-
-    hit = dice(2, 4) + (level / 4);
-
-    /* hit = dice(2, 4) + (MIN(level, 8)); REVAMP */
-
+    hit = MAX(dice(2, 4) + (level / 4), 8);
     send_to_char("You feel better.\r\n", victim);
 
     break;
 
   case SPELL_CURE_MODERATE:
-
-    hit = dice(4, 4) + (level / 3);
-
-    /* hit = dice(5, 4) + (MIN(level, 10)); REVAMP */
-
+    hit = MAX(dice(4, 4) + (level / 3), 15);
     send_to_char("You feel better.\r\n", victim);
 
     break;
 
   case SPELL_CURE_SEVERE:
-
-    hit = dice(6, 4) + (level / 2);
-
-    /* hit = dice(8, 4) + (MIN(level, 15)); REVAMP */
-
+    hit = MAX(dice(6, 4) + (level / 2), 25);
     send_to_char("You feel better.\r\n", victim);
 
     break;
 
   case SPELL_CURE_CRITIC:
-
-    hit = dice(10, 4) + (level / 2);
-
-    /* hit = dice(10, 4) + (level); REVAMP */
-
+    hit = MAX(dice(10, 4) + (level / 2), 35);
     send_to_char("You feel better.\r\n", victim);
 
     break;
 
   case SPELL_HEAL:
-
-    hit = dice(14, 4) + (2 *level);
-
+    hit = dice(14, 4) + (2 * level);
     send_to_char("A warm feeling fills your body.\r\n", victim);
 
     break;
 
   case SPELL_VAMPIRIC_TOUCH:
-
     hit = MIN(dice((level / 6) + 3, 10), 50) / 2;
 
     break;
 
   case SPELL_REFRESH:
-
     move = number(level * 3, level * 5);
-
     send_to_char("You feel refreshed.\r\n", victim);
 
     break;
-
   }
-
 
   hit *= factor;
   hit /= 100;
@@ -5223,39 +5192,20 @@ void mag_points(int level, struct char_data * ch, struct char_data * victim, int
   move *= factor;
   move /= 100;
 
-  if (affected_by_spell(victim, SPELL_BLACK_PLAGUE) ||
-
-      affected_by_spell(victim, SPELL_BLACKMANTLE))
-
-  {
-
+  if (affected_by_spell(victim, SPELL_BLACK_PLAGUE) || affected_by_spell(victim, SPELL_BLACKMANTLE)) {
     hit = hit / 2;
-
     move = move / 2;
-
-  } else if (affected_by_spell(victim, SPELL_DISEASE))
-
-  {
-
+  } else if (affected_by_spell(victim, SPELL_DISEASE)) {
     hit = (2 * hit) / 3;
-
     move = (2 * move) / 3;
-
   }
 
-
-
   GET_HIT(victim) = MIN(GET_MAX_HIT(victim), GET_HIT(victim) + hit);
-
   GET_MOVE(victim) = MIN(GET_MAX_MOVE(victim), GET_MOVE(victim) + move);
-
   update_pos(victim);
-
 }
 
-
-void mag_unaffects(int level, struct char_data * ch, struct char_data * victim, int spellnum, int type)
-{
+void mag_unaffects(int level, struct char_data * ch, struct char_data * victim, int spellnum, int type) {
   int spell=0, spell2=0, spell3=0, spell4=0, spell5=0;
   char *to_vict = NULL, *to_room = NULL;
   int tot_unaffects = 0;
