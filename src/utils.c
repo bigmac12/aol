@@ -2648,3 +2648,4 @@ void max_group_exp_mult(struct char_data *ch)
 int stat_bonus(struct char_data *ch) {
     return 0;
 }
+

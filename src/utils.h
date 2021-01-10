@@ -39,7 +39,6 @@ int is_thief(struct char_data *ch);
 int get_filename2(char *filename, size_t fbufsize, int mode, const char *orig_name);
 void max_group_exp_mult(struct char_data *ch);
 void check_improve(struct char_data * ch, int skill);
-int* tnl_progress(struct char_data *ch);  // In act.informative.c
 
 #define core_dump()             core_dump_real(__FILE__, __LINE__)
 
@@ -53,8 +52,8 @@ int     is_weapon(int type);
 /*  GMB 10/29/99 - rewrite of GET_NAME and GET_NAME_II */
 void get_name(struct char_data* ch, char** chname);
 void get_name_II(struct char_data* ch, const struct char_data* vi, char** chname);
-void get_name_IV(struct char_data* ch, char** chname);
 void get_name_III(struct char_data* ch, const struct char_data* vi, char** chname);
+void get_name_IV(struct char_data* ch, char** chname);
 void choose_name(struct char_data* ch, char** chname);
 void choose_name_II(struct char_data* ch, const struct char_data* vi, char** chname);
 void get_pers(struct char_data* ch, const struct char_data* vi, char** chname);

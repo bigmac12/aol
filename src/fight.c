@@ -1618,7 +1618,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
     }
     else if (type == SPELL_DANCING_SWORD)
     {
-      dam = dice(2, 5) + GET_LEVEL(ch));
+      dam = dice(2, 5) + GET_LEVEL(ch);
     }
     else if (type == SPELL_PHANTASMAL_SNAKE)
     {

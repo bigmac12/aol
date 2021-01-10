@@ -26,6 +26,7 @@
 *.i*86
 *.x86_64
 *.hex
+!bin/circle
 
 # Debug files
 *.dSYM/
@@ -35,3 +36,4 @@
 log/
 aol.code-workspace
 autorun
+bin/

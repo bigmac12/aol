@@ -65,6 +65,7 @@ void send_news(struct char_data *ch, char *arg);
 void send_rules(struct char_data *ch);
 void sort_commands(void);
 int sort_commands_helper(const void *a, const void *b);
+int* tnl_progress(struct char_data *ch);
 
 ACMD(do_autocon);
 
@@ -1161,6 +1162,8 @@ ACMD(do_score) {
    */
 
   int *tnl_values = tnl_progress(ch);
+  int int_xp = tnl_values[0];
+  int int_percent = tnl_values[1];
 
   if (GET_LEVEL(ch) < 30) {
      sprintf(buf, "%s \r\n&CProgress toward next level: &W[ &R%d.%d%%&W ]&n", buf, int_xp, int_percent);
@@ -3188,7 +3191,7 @@ else {
 
 }
 
-int* tnl_process(struct char_data* ch) {
+int* tnl_progress(struct char_data* ch) {
   // We're returning multiple values, so we use pointers to do it.
   int* tnl_values = (int*)malloc(sizeof(int) * 2);
 
@@ -3219,6 +3222,9 @@ int* tnl_process(struct char_data* ch) {
     int_xp = MAX(0, (int) xp);
     int_percent = MAX(0, MIN((int) percent, 99));   
   }
+
+  *tnl_values = int_xp;
+  *(tnl_values + 1) = int_percent;
 
   return tnl_values;
  

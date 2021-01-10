@@ -89,6 +89,7 @@ int level_exp(int class, int level);
 void dismount_char(struct char_data * ch);
 int shout_range(struct char_data * ch, struct char_data * vict);
 void Crash_rentsave(struct char_data *ch, int cost);
+int* tnl_progress(struct char_data *ch);
 
 ACMD(do_echo)
 {
@@ -953,8 +954,11 @@ void do_stat_character(struct char_data * ch, struct char_data * k) {
   send_to_char(buf, ch);
 
   // REPLACE THIS
-  sprintf(buf, "Level progress: %d \r\n",
-          tnl_progress(k));
+  int* tnl_values = tnl_progress(k);
+  int int_xp = tnl_values[0];
+  int int_percent = tnl_values[1];
+
+  sprintf(buf, "Progress to Level: [&g%d.%d%%&n]\r\n", int_xp, int_percent);
   send_to_char(buf, ch);
 
   sprintf(buf, "AC: [%d/10], Hitroll: [%2d], Damroll: [%2d], Saving throws: [%d/%d/%d/%d/%d]\r\n",
