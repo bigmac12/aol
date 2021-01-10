@@ -207,7 +207,6 @@ ACMD(do_send) {
   }
 }
 
-
 /* take a string, and return an rnum.. used for goto, at, etc.  -je 4/6/93 */
 room_rnum find_target_room(struct char_data * ch, char *rawroomstr)
 {
@@ -263,7 +262,6 @@ room_rnum find_target_room(struct char_data * ch, char *rawroomstr)
   return location;
 }
 
-
 ACMD(do_at)
 {
   char command[MAX_INPUT_LENGTH];
@@ -296,7 +294,6 @@ ACMD(do_at)
   }
 }
 
-
 ACMD(do_goto)
 {
   room_rnum location;
@@ -321,7 +318,6 @@ ACMD(do_goto)
   act(buf, TRUE, ch, 0, 0, TO_ROOM);
   look_at_room(ch, 0);
 }
-
 
 ACMD(do_trans)
 {
@@ -392,8 +388,6 @@ ACMD(do_trans)
   }
 }
 
-
-
 ACMD(do_teleport)
 {
   struct char_data *victim;
@@ -422,7 +416,6 @@ ACMD(do_teleport)
   }
 }
 
-
 ACMD(do_vnum)
 {
   two_arguments(argument, buf, buf2);
@@ -439,7 +432,6 @@ ACMD(do_vnum)
     if (!vnum_object(buf2, ch))
       send_to_char("No objects by that name.\r\n", ch);
 }
-
 
 // Prevent crashing with this command.
 ACMD(do_vwear)
@@ -466,7 +458,6 @@ ACMD(do_vwear)
 
   return;
 }
-
 
 void do_stat_room(struct char_data * ch)
 {
@@ -579,7 +570,6 @@ void do_stat_room(struct char_data * ch)
   /* check the room for a script */
   do_sstat_room(ch);
 }
-
 
 void do_stat_object(struct char_data * ch, struct obj_data * j)
 {
@@ -794,9 +784,7 @@ void do_stat_object(struct char_data * ch, struct obj_data * j)
   do_sstat_object(ch, j);
 }
 
-
-void do_stat_character(struct char_data * ch, struct char_data * k)
-{
+void do_stat_character(struct char_data * ch, struct char_data * k) {
   int i, i2, found = 0;
   struct obj_data *j;
   struct follow_type *fol;
@@ -805,10 +793,10 @@ void do_stat_character(struct char_data * ch, struct char_data * k)
   extern char *  godSelected(struct char_data *ch);
 
   switch (GET_SEX(k)) {
-  case SEX_NEUTRAL:    strcpy(buf, "NEUTRAL-SEX");   break;
-  case SEX_MALE:       strcpy(buf, "MALE");          break;
-  case SEX_FEMALE:     strcpy(buf, "FEMALE");        break;
-  default:             strcpy(buf, "ILLEGAL-SEX!"); break;
+    case SEX_NEUTRAL:    strcpy(buf, "NEUTRAL-SEX");   break;
+    case SEX_MALE:       strcpy(buf, "MALE");          break;
+    case SEX_FEMALE:     strcpy(buf, "FEMALE");        break;
+    default:             strcpy(buf, "ILLEGAL-SEX!");  break;
   }
 
   send_to_char(buf, ch);
@@ -822,8 +810,11 @@ void do_stat_character(struct char_data * ch, struct char_data * k)
     GET_NAME(k, chname);
     sprintf(buf2, " %s '%s'  IDNum: [%5ld], In room [%5d],  Passwd [%s]\r\n",
             (!IS_NPC(k) ? "PC" : (!IS_MOB(k) ? "NPC" : "MOB")),
-	    chname, GET_IDNUM(k), world[k->in_room].number,
+            chname, 
+            GET_IDNUM(k), 
+            world[k->in_room].number,
             GET_PASSWD(k));
+
     FREE_NAME(chname);
     send_to_char(buf2, ch);
 
@@ -831,7 +822,10 @@ void do_stat_character(struct char_data * ch, struct char_data * k)
     GET_NAME(k, chname);
     sprintf(buf2, " %s '%s'  IDNum: [%5ld], In room [%5d]\r\n",
             (!IS_NPC(k) ? "PC" : (!IS_MOB(k) ? "NPC" : "MOB")),
-	    chname, GET_IDNUM(k), world[k->in_room].number);
+            chname, 
+            GET_IDNUM(k), 
+            world[k->in_room].number);
+
     FREE_NAME(chname);
     send_to_char(buf2, ch);
   }
@@ -894,7 +888,7 @@ void do_stat_character(struct char_data * ch, struct char_data * k)
   strcat(buf, buf2);
   send_to_char(buf, ch);
 
-  if ( ! IS_NPC(k)) {
+  if (!IS_NPC(k)) {
     sprintf(buf, "RP Experience Factor: [%d]\r\n", GET_RPFACTOR(k));
     send_to_char(buf, ch);
   }
@@ -948,8 +942,6 @@ void do_stat_character(struct char_data * ch, struct char_data * k)
 	  CCCYN(ch, C_NRM), GET_CHA(k), CCNRM(ch, C_NRM));
   send_to_char(buf, ch);
 
-
-
   sprintf(buf, "Hit p.:[%s%d/%d+%d%s]    Move p.:[%s%d/%d+%d%s]\r\n",
 	  CCGRN(ch, C_NRM), GET_HIT(k), GET_MAX_HIT(k), hit_gain(k), CCNRM(ch, C_NRM),
 	  CCGRN(ch, C_NRM), GET_MOVE(k), GET_MAX_MOVE(k), move_gain(k), CCNRM(ch, C_NRM));
@@ -960,8 +952,9 @@ void do_stat_character(struct char_data * ch, struct char_data * k)
 	  GET_BANK_GOLD(k), money_to_copper(GET_MONEY(k)) + GET_BANK_GOLD(k));
   send_to_char(buf, ch);
 
-  sprintf(buf, "Quest Points %d \r\n",
-          GET_QUESTPOINTS(k));
+  // REPLACE THIS
+  sprintf(buf, "Level progress: %d \r\n",
+          tnl_progress(k));
   send_to_char(buf, ch);
 
   sprintf(buf, "AC: [%d/10], Hitroll: [%2d], Damroll: [%2d], Saving throws: [%d/%d/%d/%d/%d]\r\n",
@@ -1144,9 +1137,7 @@ ACMD(do_mysql_convert) {
 
 }
 
-
-ACMD(do_stat)
-{
+ACMD(do_stat) {
   struct char_data *victim = 0;
   struct obj_data *object = 0;
   struct char_file_u tmp_store;
@@ -1164,18 +1155,18 @@ ACMD(do_stat)
       send_to_char("Stats on which mobile?\r\n", ch);
     else {
       if ((victim = get_char_vis(ch, buf2, FIND_CHAR_WORLD)))
-	do_stat_character(ch, victim);
+        do_stat_character(ch, victim);
       else
-	send_to_char("No such mobile around.\r\n", ch);
+        send_to_char("No such mobile around.\r\n", ch);
     }
   } else if (is_abbrev(buf1, "player")) {
     if (!*buf2) {
       send_to_char("Stats on which player?\r\n", ch);
     } else {
       if ((victim = get_player_vis(ch, buf2, FIND_CHAR_WORLD)))
-	do_stat_character(ch, victim);
+        do_stat_character(ch, victim);
       else
-	send_to_char("No such player around.\r\n", ch);
+        send_to_char("No such player around.\r\n", ch);
     }
   } else if (is_abbrev(buf1, "file")) {
     if (!*buf2) {
@@ -1183,21 +1174,25 @@ ACMD(do_stat)
     } else {
       CREATE(victim, struct char_data, 1);
       clear_char(victim);
+
       if (load_char(buf2, &tmp_store) > -1) {
-	store_to_char(&tmp_store, victim);
+        store_to_char(&tmp_store, victim);
         victim->player.time.logon = tmp_store.last_logon;
         char_to_room(victim, 0);
-	if (GET_LEVEL(victim) > GET_LEVEL(ch))
-	  send_to_char("Sorry, you can't do that.\r\n", ch);
-	else
-	  do_stat_character(ch, victim);
+
+        if (GET_LEVEL(victim) > GET_LEVEL(ch))
+          send_to_char("Sorry, you can't do that.\r\n", ch);
+        else
+          do_stat_character(ch, victim);
+
         extract_char(victim);
       } else {
-	send_to_char("There is no such player.\r\n", ch);
-	free(victim);
+        send_to_char("There is no such player.\r\n", ch);
+        free(victim);
         victim = (struct char_data*) NULL;
       }
     }
+
   } else if (is_abbrev(buf1, "object")) {
     if (!*buf2)
       send_to_char("Stats on which object?\r\n", ch);
@@ -4248,7 +4243,7 @@ ACMD(do_award) {
   struct char_data *vict;
   char name[100], buf[100], buf2[100], buf3[100];
   int percent_to_award = 0, xp_to_award = 0;
-  int XP_AWARD_CAP = 25;  // If you change this, change the error message below.
+  int XP_AWARD_CAP = 25;  // If you change this, change the error message below. TODO: make a global const?
 
   argument = one_argument(argument, name);
 
@@ -4272,6 +4267,7 @@ ACMD(do_award) {
   argument = one_argument(argument, buf);
   percent_to_award = atoi(buf);
 
+  // TODO: remove the magic number from this string and just use the XP_AWARD_CAP value instead.
   if (percent_to_award > XP_AWARD_CAP) {
     send_to_char("You may only award up to 25% experience at a time.\r\n", ch);
     return;

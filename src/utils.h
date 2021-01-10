@@ -39,6 +39,7 @@ int is_thief(struct char_data *ch);
 int get_filename2(char *filename, size_t fbufsize, int mode, const char *orig_name);
 void max_group_exp_mult(struct char_data *ch);
 void check_improve(struct char_data * ch, int skill);
+int* tnl_progress(struct char_data *ch);  // In act.informative.c
 
 #define core_dump()             core_dump_real(__FILE__, __LINE__)
 
@@ -158,10 +159,7 @@ void update_pos(struct char_data *victim);
 #define SECS_PER_REAL_DAY	(24*SECS_PER_REAL_HOUR)
 #define SECS_PER_REAL_YEAR	(365*SECS_PER_REAL_DAY)
 
-
 /* string utils **********************************************************/
-
-
 #define YESNO(a) ((a) ? "YES" : "NO")
 #define ONOFF(a) ((a) ? "ON" : "OFF")
 
@@ -175,8 +173,6 @@ void update_pos(struct char_data *victim);
 
 
 /* memory utils **********************************************************/
-
-
 #define CREATE(result, type, number)  do {\
     if ((number) * sizeof(type) <= 0) \
         { log("SYSERR: Zero bytes or less requested at %s:%d.", __FILE__, __LINE__); }\
@@ -209,8 +205,6 @@ void update_pos(struct char_data *victim);
 
 
 /* basic bitvector utils *************************************************/
-
-
 #define IS_SET(flag,bit)  ((flag) & (bit))
 #define SET_BIT(var,bit)  ((var) |= (bit))
 #define REMOVE_BIT(var,bit)  ((var) &= ~(bit))
@@ -284,21 +278,14 @@ void update_pos(struct char_data *victim);
 #define SEND_TO_CHAR(ch, string) (send_to_char(string, ch))
 
 /* char utils ************************************************************/
-
-
-
-#define IN_ROOM(ch)	((ch)->in_room)
+#define IN_ROOM(ch)	   ((ch)->in_room)
 #define GET_WAS_IN(ch)	((ch)->was_in_room)
 #define GET_AGE(ch)     (age(ch).year)
 
 int known_player(const struct char_data *ch, struct char_data *who);
 
-#define GET_PC_NAME(ch)    (IS_NPC(ch) ? \
-                          (ch)->player.short_descr : strtok((ch)->player.name, ""))
-
+#define GET_PC_NAME(ch)    (IS_NPC(ch) ? (ch)->player.short_descr : strtok((ch)->player.name, ""))
 #if 0
-
-
 #define GET_NAME(ch)    (IS_NPC(ch) ? \
                           (ch)->player.short_descr : strtok((ch)->player.name, ""))
 
@@ -315,11 +302,9 @@ int known_player(const struct char_data *ch, struct char_data *who);
 #define POOFOUT(ch)        ((ch)->player.poofout)
 #define GET_LEVEL(ch)      ((int) (ch)->player.level)
 /*  No, no, no, no, no, this is very, very bad.... Soli, 6/5/99
-#define GET_TRUST_LEVEL(ch)  \
-                           ((ch)->player_specials->saved.trust)
+#define GET_TRUST_LEVEL(ch) ((ch)->player_specials->saved.trust)
   Let's try THIS instead... */
-#define GET_TRUST_LEVEL(ch)  (IS_MOB(ch) ? GET_LEVEL(ch) : \
-                             ((ch)->player_specials->saved.trust))
+#define GET_TRUST_LEVEL(ch)  (IS_MOB(ch) ? GET_LEVEL(ch) : ((ch)->player_specials->saved.trust))
 #define GET_PASSWD(ch)     ((ch)->player.passwd)
 #define GET_PFILEPOS(ch)   ((ch)->pfilepos)
 

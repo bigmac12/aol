@@ -4452,124 +4452,81 @@ void mag_groups(int level, struct char_data * ch, int spellnum, int savetype)
  */
 
 
-void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
-{
+void mag_masses(int level, struct char_data * ch, int spellnum, int savetype) {
   struct char_data *tch, *next;
-
   struct affected_type af[MAX_SPELL_AFFECTS];
-
   bool accum_affect = FALSE, accum_duration = FALSE;
-
   char *to_vict = NULL, *to_room = NULL;
-
   int i;
   int factor = 0, aggressive = spell_info[spellnum].violent;
 
-  if (spellnum == SPELL_BLACK_PLAGUE)
-  {
+  if (spellnum == SPELL_BLACK_PLAGUE) {
     af[0].type = SPELL_BREATH_OF_LIFE;
     af[0].location = APPLY_AC;
     af[0].duration = 1;
-    //affect_join(ch, af, 1, 1, 1, 1);
   }
 
-  if (spellnum == SPELL_MOONBEAM && !OUTSIDE(ch))
-  {
+  if (spellnum == SPELL_MOONBEAM && !OUTSIDE(ch)) {
     send_to_char("You cannot focus the rays of the moons inside.\r\n", ch);
     return;
   }
 
-  for (tch = world[ch->in_room].people; tch; tch = next)
-  {
+  for (tch = world[ch->in_room].people; tch; tch = next) {
     next = tch->next_in_room;
 
-   if ((factor = mag_savingthrow_new(ch, tch, aggressive, savetype, spellnum)) <50 ) {
-    if (!aggressive) {
-      send_to_char("You were unable to summon enough energy and concentration to complete the spell.\r\n", ch);
-      return;
+    if ((factor = mag_savingthrow_new(ch, tch, aggressive, savetype, spellnum)) <50 ) {
+      if (!aggressive) {
+        send_to_char("You were unable to summon enough energy and concentration to complete the spell.\r\n", ch);
+        return;
+      }
     }
-  }
 
     for (i=0; i<MAX_SPELL_AFFECTS; i++) {
-
       af[i].type = spellnum;
-
       af[i].bitvector = 0;
-
       af[i].modifier = 0;
-
       af[i].location = APPLY_NONE;
-
       af[i].duration = 0;
-
     }
 
     to_vict = NULL;
 
-
-
     if (!IS_NPC(tch) && (GET_LEVEL(tch) > LVL_IMMORT))
-
       continue;
 
-
-
-    switch(spellnum)
-    {
+    switch(spellnum) {
       case SPELL_SPHERE_SILENCE:
-
-     if (ch == tch)
-
-     continue;
-
-     else
-
-        mag_affects(level, ch, tch, SPELL_SILENCE, savetype);
+        if (ch == tch)
+          continue;
+        else
+          mag_affects(level, ch, tch, SPELL_SILENCE, savetype);
 
         break;
 
       case SPELL_MIRE:
-
         af[0].duration = 3;
-
         to_vict = "The entire room suddenly becomes a mire, entrapping you!";
-
         mag_affects(level, ch, tch, SPELL_MIRE, savetype);
-
         break;
 
       case SPELL_MOONBEAM:
-
-        if ((ch == tch) || (IS_AFFECTED(ch, AFF_GROUP) &&
-
-             IS_AFFECTED(tch, AFF_GROUP) &&
-
-           ((ch->master == tch) || (tch->master == ch) ||
-
-            (ch->master == tch->master))))
-
+        // Dev note: why not just write a function that returns true/false for this condition?
+        // In order:
+        // - Don't hit self
+        // - Don't hit if target is grouped with you
+        // - Don't hit if target is master
+        // - Don't hit if target's master is you
+        // - Don't hit if you and target have same master
+        if ((ch == tch) || (IS_AFFECTED(ch, AFF_GROUP) && IS_AFFECTED(tch, AFF_GROUP) && ((ch->master == tch) || (tch->master == ch) || (ch->master == tch->master))))
           continue;
 
         mag_affects(level, ch, tch, SPELL_MOONBEAM, savetype);
-
         mag_damage(level, ch, tch, SPELL_MOONBEAM, savetype);
-
         break;
 
-
-
       case SPELL_METEOR_SWARM:
-
       case SPELL_HARMFUL_WRATH:
-
-        if ((ch == tch) || (IS_AFFECTED(ch, AFF_GROUP) && 
-
-             IS_AFFECTED(tch, AFF_GROUP) &&
-
-           ((ch->master == tch) || (tch->master == ch) ||
-
-            (ch->master == tch->master))))
-
+        if ((ch == tch) || (IS_AFFECTED(ch, AFF_GROUP) && IS_AFFECTED(tch, AFF_GROUP) && ((ch->master == tch) || (tch->master == ch) || (ch->master == tch->master))))
           continue;
 
         mag_damage(level, ch, tch, spellnum, savetype);
@@ -4618,56 +4575,28 @@ void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
 
     }
 
-
-
     /*  below copied from mag_affects  */
 
-    /*
-
-     * If this is a mob that has this affect set in its mob file, do not
-
+    /* If this is a mob that has this affect set in its mob file, do not
      * perform the affect.  This prevents people from un-sancting mobs
-
-     * by sancting them and waiting for it to fade, for example.
-
-     */
+     * by sancting them and waiting for it to fade, for example. */
 
     if (IS_NPC(tch) && !affected_by_spell(tch, spellnum)) {
-
       for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
-
-	if (IS_AFFECTED(tch, af[i].bitvector)) {
-
-	  continue;
-
-	}
-
+        if (IS_AFFECTED(tch, af[i].bitvector)) {
+          continue;
+        }
       }
-
     }
 
+    /* If the victim is already affected by this spell, and the spell does
+     * not have an accumulative effect, then fail the spell. */
 
-
-    /*
-
-     * If the victim is already affected by this spell, and the spell does
-
-     * not have an accumulative effect, then fail the spell.
-
-     */
-
-    if (affected_by_spell(tch,spellnum) &&
-
-	!(accum_duration||accum_affect)) {
-
+    if (affected_by_spell(tch,spellnum) && !(accum_duration||accum_affect)) {
       continue;
-
     }
-
-
 
     for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
-
       af[i].modifier *= factor;
       af[i].modifier /= 100;
 
@@ -4675,184 +4604,89 @@ void mag_masses(int level, struct char_data * ch, int spellnum, int savetype)
       af[i].duration /= 100;
 
       if (af[i].bitvector || (af[i].location != APPLY_NONE)) {
-
-	affect_join(tch, af+i, accum_duration, FALSE, accum_affect, FALSE);
-
+        affect_join(tch, af+i, accum_duration, FALSE, accum_affect, FALSE);
       }
-
     }
 
-
-
     if (to_vict != NULL)
-
       act(to_vict, FALSE, tch, 0, ch, TO_CHAR);
 
-
-
     if (to_room != NULL)
-
       act(to_room, TRUE, tch, 0, ch, TO_ROOM);
-
-
-
   }
-
 }
 
-
-/*
-
- * Every spell that affects an area (room) runs through here.  These are
-
+/* Every spell that affects an area (room) runs through here.  These are
  * generally offensive spells.  This calls mag_damage to do the actual
-
  * damage -- all spells listed here must also have a case in mag_damage()
-
  * in order for them to work.
+ * area spells have limited targets within the room. */
 
- *
-
- *  area spells have limited targets within the room.
-
-*/
-
-
-
-void mag_areas(int level, struct char_data * ch, int spellnum, int savetype)
-{
-
+void mag_areas(int level, struct char_data * ch, int spellnum, int savetype) {
   struct char_data *tch, *next_tch;
-
   char *to_char = NULL;
-
   char *to_room = NULL;
 
-
-
   if (ch == NULL)
-
     return;
 
-
-
-  /*
-
-   * to add spells to this fn, just add the message here plus an entry
-
-   * in mag_damage for the damaging part of the spell.
-
-   */
+  /* to add spells to this fn, just add the message here plus an entry
+   * in mag_damage for the damaging part of the spell. */
 
   switch (spellnum) {
-
     default:
-
       break;
-
   }
 
-
-
   if (to_char != NULL)
-
     act(to_char, FALSE, ch, 0, 0, TO_CHAR);
 
   if (to_room != NULL)
-
     act(to_room, FALSE, ch, 0, 0, TO_ROOM);
 
-  
-
-
-
   for (tch = world[ch->in_room].people; tch; tch = next_tch) {
-
     next_tch = tch->next_in_room;
 
-
-
-    /*
-
-     * The skips: 1: the caster
-
+    /* The skips: 1: the caster
      *            2: immortals
-
      *            3: if no pk on this mud, skips over all players
-
      *            4: pets (charmed NPCs)
-
      * 
-
      *   Yeah, but that's stupid.  If PK is allowed, which it is, why not hit
-
      * your victim's pets?  It's supposed to hit everything in the room -
-
-     * Let it.   Soli, 9/5/99
-
-     */
-
-
+     * Let it.   Soli, 9/5/99 */
 
     if (tch == ch)
-
       continue;
 
     if (!IS_NPC(tch) && GET_LEVEL(tch) >= LVL_IMMORT)
-
       continue;
 
-
-
     mag_damage(GET_LEVEL(ch), ch, tch, spellnum, 1);
-
   }
-
 }
 
-
-
-/*
-
- *  Every spell which summons/gates/conjures a mob comes through here.
-
- */
-
-
-static char *mag_summon_msgs[] = {
-
+/* Every spell which summons/gates/conjures a mob comes through here. */
+static char *mag_summon_msgs[] = { 
   "$n animates a corpse!\r\n",
-
   "$n has called an animal spirit.\r\n",
-
   "$n has summoned an animal.\r\n",
-
   "$n has summoned some angry insects!\r\n",
-
   "$n summons an enraged dust devil!\r\n",
-
   "$n has summoned an aerial servant.\r\n",
-
   "$n has conjured an elemental.\r\n",
-
   "$n transforms some sticks into snakes!\r\n",
-
   "$n has summoned a large guardian.\r\n"
-
 };
 
-
-static char *mag_summon_fail_msgs[] = 
-{
+static char *mag_summon_fail_msgs[] = {
   "You fail to animate the spirits of the dead.\r\n",
   "Your call goes unanswered.\r\n",
   "Your summoning goes unanswered.\r\n",
   "The snakes fail to answer your call.\r\n"
 };
 
-
-void mag_summons(int level, struct char_data * ch, struct char_data * victim, struct obj_data * obj, int spellnum, int savetype)
-{
+void mag_summons(int level, struct char_data * ch, struct char_data * victim, struct obj_data * obj, int spellnum, int savetype) {
   struct char_data *mob = NULL;
   struct affected_type af;
   int pfail = 0;
@@ -4862,236 +4696,196 @@ void mag_summons(int level, struct char_data * ch, struct char_data * victim, st
   int factor = 0, aggressive = spell_info[spellnum].violent;
   bool hit_vict = FALSE, charmed = TRUE;
 
-  if (ch == NULL)
-  {
+  if (ch == NULL) {
     return;
   }
 
-  if ((factor = mag_savingthrow_new(ch, ch, aggressive, savetype, spellnum)) <50 ) 
-  {
-    if (!aggressive) 
-    {
+  if ((factor = mag_savingthrow_new(ch, ch, aggressive, savetype, spellnum)) <50 ) {
+    if (!aggressive) {
       send_to_char("You were unable to summon enough energy and concentration to complete the spell.\r\n", ch);
       return;
     }
   }
 
-
-
-  switch (spellnum) 
-  {
+  switch (spellnum) {
     case SPELL_AERIAL_SERVANT:
-        mob_num = VNUM_AERIAL_SERVANT;
-        pfail = 75;
-        msg = 5;  fail_msg = 2;
-        affect = 1;   af.duration = 5 + (level / 4);
-        break;
+      mob_num = VNUM_AERIAL_SERVANT;
+      pfail = 75;
+      msg = 5;  fail_msg = 2;
+      affect = 1;   af.duration = 5 + (level / 4);
+      break;
 
     case SPELL_DUST_DEVIL:
-        if (!victim || (victim == ch))
-        {
-            send_to_char("That is not a valid target!\r\n", ch);
-            return;
-        }
+      if (!victim || (victim == ch)) {
+        send_to_char("That is not a valid target!\r\n", ch);
+        return;
+      }
 
-        mob_num = VNUM_DUST_DEVIL;
-        pfail = 75;
-        hit_vict = TRUE;  charmed = FALSE;
-        msg = 4;  fail_msg = 2;
-        affect = 1;   af.duration = 6;
-        break;
+      mob_num = VNUM_DUST_DEVIL;
+      pfail = 75;
+      hit_vict = TRUE;  charmed = FALSE;
+      msg = 4;  fail_msg = 2;
+      affect = 1;   af.duration = 6;
+      break;
 
     case SPELL_SUMMON_INSECTS:
-        if (!victim || (victim == ch))
-        {
-            send_to_char("That is not a valid target!\r\n", ch);
-            return;
-        }
+      if (!victim || (victim == ch)) {
+        send_to_char("That is not a valid target!\r\n", ch);
+        return;
+      }
 
-        mob_num = VNUM_INSECTS;
-        pfail = 80;
-        hit_vict = TRUE;  charmed = FALSE;
-        msg = 3;  fail_msg = 2;
-        affect = 1;   af.duration = 4;
-        break;
+      mob_num = VNUM_INSECTS;
+      pfail = 80;
+      hit_vict = TRUE;  charmed = FALSE;
+      msg = 3;  
+      fail_msg = 2;
+      affect = 1;   
+      af.duration = 4;
+      break;
 
     case SPELL_ANIMAL_SUMMONING:
-        mob_num = VNUM_ANIMAL_SUM_I + number(0, 2);
-        pfail = GET_SKILL(ch, SPELL_ANIMAL_SUMMONING) - 25;
-        msg = 2;  fail_msg = 2;
-        affect = 1;   af.duration = 3 + (level / 3); 
-        break;
+      mob_num = VNUM_ANIMAL_SUM_I + number(0, 2);
+      pfail = GET_SKILL(ch, SPELL_ANIMAL_SUMMONING) - 25;
+      msg = 2;  
+      fail_msg = 2;
+      affect = 1;   
+      af.duration = 3 + (level / 3); 
+      break;
 
     case SPELL_ANIMAL_SUMMONING_II:
-        mob_num = VNUM_ANIMAL_SUM_II + number(0, 2);
-        pfail = GET_SKILL(ch, SPELL_ANIMAL_SUMMONING_II) - 30;
-        msg = 2;   fail_msg = 2;
-        affect = 1;   af.duration = 4 + (level / 3);
-        break;
+      mob_num = VNUM_ANIMAL_SUM_II + number(0, 2);
+      pfail = GET_SKILL(ch, SPELL_ANIMAL_SUMMONING_II) - 30;
+      msg = 2;   
+      fail_msg = 2;
+      affect = 1;   
+      af.duration = 4 + (level / 3);
+      break;
 
     case SPELL_ANIMAL_SUMMONING_III:
-        mob_num = VNUM_ANIMAL_SUM_III + number(0, 3);
-        pfail = GET_SKILL(ch, SPELL_ANIMAL_SUMMONING_III) - 35;
-        msg = 2;  fail_msg = 2;
-        affect = 1;   af.duration = 5 + (level / 3);
-        break;
+      mob_num = VNUM_ANIMAL_SUM_III + number(0, 3);
+      pfail = GET_SKILL(ch, SPELL_ANIMAL_SUMMONING_III) - 35;
+      msg = 2;  
+      fail_msg = 2;
+      affect = 1;   
+      af.duration = 5 + (level / 3);
+      break;
 
     case SPELL_CALL_ANIMAL_SPIRIT:
-        mob_num = VNUM_ANIMAL_SPIRIT + number(0, 2);
-        pfail = GET_SKILL(ch, SPELL_CALL_ANIMAL_SPIRIT) - 15;
-        msg = 1;  fail_msg = 1;
-        affect = 1;   af.duration = 5 + (level / 3);
-        break;
+      mob_num = VNUM_ANIMAL_SPIRIT + number(0, 2);
+      pfail = GET_SKILL(ch, SPELL_CALL_ANIMAL_SPIRIT) - 15;
+      msg = 1;  
+      fail_msg = 1;
+      affect = 1;   
+      af.duration = 5 + (level / 3);
+      break;
 
     case SPELL_CONJURE_ELEMENTAL:
-        mob_num = VNUM_ELEMENTAL + number(0, 3);
-        pfail = GET_SKILL(ch, SPELL_CONJURE_ELEMENTAL) - 15;
-        msg = 6;  fail_msg = 2;
-        affect = 1;   af.duration = 4 + (level / 4);
-        break;
+      mob_num = VNUM_ELEMENTAL + number(0, 3);
+      pfail = GET_SKILL(ch, SPELL_CONJURE_ELEMENTAL) - 15;
+      msg = 6;  
+      fail_msg = 2;
+      affect = 1;   
+      af.duration = 4 + (level / 4);
+      break;
 
     case SPELL_GREATER_ELEMENTAL:
-        mob_num = VNUM_GREATER_ELEMENTAL + number(0, 3);
-        pfail = GET_SKILL(ch, SPELL_GREATER_ELEMENTAL);
-        msg = 6;  fail_msg = 2;
-        affect = 1;   af.duration = 4 + (level / 4);
-        break;
+      mob_num = VNUM_GREATER_ELEMENTAL + number(0, 3);
+      pfail = GET_SKILL(ch, SPELL_GREATER_ELEMENTAL);
+      msg = 6;  
+      fail_msg = 2;
+      affect = 1;   
+      af.duration = 4 + (level / 4);
+      break;
 
     case SPELL_SUMMON_GUARD:
-        mob_num = VNUM_GUARD;
-        pfail = GET_SKILL(ch, SPELL_SUMMON_GUARD) - 20;
-        msg = 9;  fail_msg = 2;
-        charmed = FALSE;
-        affect = 1;   af.duration = 12;
-        break;
+      mob_num = VNUM_GUARD;
+      pfail = GET_SKILL(ch, SPELL_SUMMON_GUARD) - 20;
+      msg = 9;  
+      fail_msg = 2;
+      charmed = FALSE;
+      affect = 1;   
+      af.duration = 12;
+      break;
 
     case SPELL_STICKS_TO_SNAKES:
-        if (!victim || (victim == ch))
-        {
-            send_to_char("That is not a valid target!\r\n", ch);
-            return;
-        }
+      if (!victim || (victim == ch)) {
+        send_to_char("That is not a valid target!\r\n", ch);
+        return;
+      }
 
-        mob_num = VNUM_SNAKES;
-        pfail = GET_SKILL(ch, SPELL_STICKS_TO_SNAKES) - 20;
-        msg = 8;  fail_msg = 3;
-        hit_vict = TRUE;
-        charmed = FALSE;
-        affect = 1;   af.duration = 3;
-        break;
+      mob_num = VNUM_SNAKES;
+      pfail = GET_SKILL(ch, SPELL_STICKS_TO_SNAKES) - 20;
+      msg = 8;  
+      fail_msg = 3;
+      hit_vict = TRUE;
+      charmed = FALSE;
+      affect = 1;   
+      af.duration = 3;
+      break;
 
     default:
         return;
   }
 
-  if (IS_AFFECTED(ch, AFF_CHARM)) 
-  {
+  if (IS_AFFECTED(ch, AFF_CHARM)) {
     send_to_char("You are too giddy to have any followers!\r\n", ch);
     return;
   }
 
-  if (number(0, 101) > GET_SKILL(ch, spellnum)) 
-  {
+  if (number(0, 101) > GET_SKILL(ch, spellnum)) {
     send_to_char(mag_summon_fail_msgs[fail_msg], ch);
     return;
   }
 
-  if (hit_vict && (victim == NULL))
-  {
+  if (hit_vict && (victim == NULL)) {
     send_to_char("Upon whom should the spell be cast?\r\n", ch);
     return;
   }
 
-  if (!allowNewFollower(ch, 3))
-  { 
-
+  if (!allowNewFollower(ch, 3)) { 
     return;
-
   }
 
-
-
   for (i = 0; i < num; i++) {
-
     mob = read_mobile(mob_num, VIRTUAL);
 
-
-
-    if (mob == (struct char_data*) NULL)
-
-    {
-
-      sprintf(buf, 
-
-        "SYSERR: (mag_summons) Attempt to create a mob that does not exist (%d)\n",
-
-        mob_num);
-
+    if (mob == (struct char_data*) NULL) {
+      sprintf(buf, "SYSERR: (mag_summons) Attempt to create a mob that does not exist (%d)\n", mob_num);
       mudlog(buf, BRF, LVL_GRGOD, TRUE);
-
       return;
-
     }
 
-
-
     char_to_room(mob, ch->in_room);
-
     IS_CARRYING_W(mob) = 0;
-
     IS_CARRYING_N(mob) = 0;
 
     if (charmed)
-
       add_follower(mob, ch);
 
     if (spellnum == SPELL_SUMMON_GUARD)
-
       GUARDING(mob) = ch;
-
-
 
     act(mag_summon_msgs[msg], FALSE, ch, 0, mob, TO_ROOM);
 
-
-
 /*  Pending - Soli, 11/1/99 */
-
 #if 1
-
-    if (affect)
-
-    {
-
+    if (affect) {
       af.location  = APPLY_AC;
-
       af.modifier  = 0;
-
       af.type      = spellnum;
-
       af.bitvector = 0;
-
       af.duration *= factor;
       af.duration /= 100;
-
       affect_join(mob, &af, 0, 0, 0, 0);
-
     }
-
 #endif
 
-
-
     if (spellnum == SPELL_STICKS_TO_SNAKES)
-
       FIGHTING(victim) = mob;
 
     if (hit_vict)
-
       hit(mob, victim, TYPE_UNDEFINED);
-
   }
-
 }
 
 int allowNewFollower(struct char_data* ch, int maxFollowerAllowed) {
@@ -5143,47 +4937,39 @@ void mag_points(int level, struct char_data * ch, struct char_data * victim, int
     return;
 
   switch (spellnum) {
+    case SPELL_CURE_LIGHT:
+      hit = MAX(dice(2, 4) + (level / 4), 8);
+      send_to_char("You feel better.\r\n", victim);
+      break;
 
-  case SPELL_CURE_LIGHT:
-    hit = MAX(dice(2, 4) + (level / 4), 8);
-    send_to_char("You feel better.\r\n", victim);
+    case SPELL_CURE_MODERATE:
+      hit = MAX(dice(4, 4) + (level / 3), 15);
+      send_to_char("You feel better.\r\n", victim);
+      break;
 
-    break;
+    case SPELL_CURE_SEVERE:
+      hit = MAX(dice(6, 4) + (level / 2), 23);
+      send_to_char("You feel better.\r\n", victim);
+      break;
 
-  case SPELL_CURE_MODERATE:
-    hit = MAX(dice(4, 4) + (level / 3), 15);
-    send_to_char("You feel better.\r\n", victim);
+    case SPELL_CURE_CRITIC:
+      hit = MAX(dice(10, 4) + (level / 2), 31);
+      send_to_char("You feel better.\r\n", victim);
+      break;
 
-    break;
+    case SPELL_HEAL:
+      hit = dice(14, 4) + (2 * level);
+      send_to_char("A warm feeling fills your body.\r\n", victim);
+      break;
 
-  case SPELL_CURE_SEVERE:
-    hit = MAX(dice(6, 4) + (level / 2), 25);
-    send_to_char("You feel better.\r\n", victim);
+    case SPELL_VAMPIRIC_TOUCH:
+      hit = MIN(dice((level / 6) + 3, 10), 50) / 2;
+      break;
 
-    break;
-
-  case SPELL_CURE_CRITIC:
-    hit = MAX(dice(10, 4) + (level / 2), 35);
-    send_to_char("You feel better.\r\n", victim);
-
-    break;
-
-  case SPELL_HEAL:
-    hit = dice(14, 4) + (2 * level);
-    send_to_char("A warm feeling fills your body.\r\n", victim);
-
-    break;
-
-  case SPELL_VAMPIRIC_TOUCH:
-    hit = MIN(dice((level / 6) + 3, 10), 50) / 2;
-
-    break;
-
-  case SPELL_REFRESH:
-    move = number(level * 3, level * 5);
-    send_to_char("You feel refreshed.\r\n", victim);
-
-    break;
+    case SPELL_REFRESH:
+      move = number(level * 3, level * 5);
+      send_to_char("You feel refreshed.\r\n", victim);
+      break;
   }
 
   hit *= factor;

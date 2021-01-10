@@ -56,11 +56,9 @@ void show_sheathed(struct char_data * ch, struct obj_data * obj,  struct obj_dat
 char *current_short_desc(struct char_data *ch);
 int check_disabled(const struct command_info *command);
 
-
 /* globals */
 int boot_high;
 //int *cmd_sort_info;
-
 
 // Locals
 void send_news(struct char_data *ch, char *arg);
@@ -89,7 +87,6 @@ int hidden_eq(struct char_data *ch, struct obj_data *obj)
   else
   return 0;
 }
-
 
 void show_obj_to_char(struct obj_data * object, struct char_data * ch, int mode)
 {
@@ -503,8 +500,7 @@ ACMD(do_autocon)
 	}
 }
 
-void list_one_npc(struct char_data * i, struct char_data * ch)
-{
+void list_one_npc(struct char_data * i, struct char_data * ch) {
   char mobLev[10];
 	char *color = NULL;
 	int j, lvl_diff;
@@ -611,8 +607,8 @@ void list_one_npc(struct char_data * i, struct char_data * ch)
   }
   strcat(buf, mobLev);
   strcat(buf, i->player.long_descr);
-
 }
+
 void list_one_char(struct char_data * i, struct char_data * ch)
 {
 
@@ -662,7 +658,6 @@ void list_char_to_char(struct char_data * list, struct char_data * ch)
   }
 }
 
-
 void do_auto_exits(struct char_data * ch)
 {
   int door;
@@ -679,7 +674,6 @@ void do_auto_exits(struct char_data * ch)
 
   send_to_char(buf2, ch);
 }
-
 
 ACMD(do_exits)
 {
@@ -730,11 +724,7 @@ if (IS_DARK(EXIT(ch, door)->to_room) && !CAN_SEE_IN_DARK(ch))
     send_to_char(" None.\r\n", ch);
 }
 
-
-
-void look_at_room(struct char_data * ch, int ignore_brief)
-{
-
+void look_at_room(struct char_data * ch, int ignore_brief) {
  struct obj_data *o, *next_o;
 
   const char *blood_messages[] = {
@@ -811,10 +801,7 @@ void look_at_room(struct char_data * ch, int ignore_brief)
 
 }
 
-
-
-void look_in_direction(struct char_data * ch, int dir)
-{
+void look_in_direction(struct char_data * ch, int dir) {
   if (EXIT(ch, dir)) {
     if (EXIT(ch, dir)->general_description)
       send_to_char(EXIT(ch, dir)->general_description, ch);
@@ -836,10 +823,7 @@ void look_in_direction(struct char_data * ch, int dir)
     send_to_char("You see nothing special.\r\n", ch);
 }
 
-
-
-void look_in_obj(struct char_data * ch, char *arg)
-{
+void look_in_obj(struct char_data * ch, char *arg) {
   struct obj_data *obj = NULL;
   struct char_data *dummy = NULL;
   int amt, bits;
@@ -892,10 +876,7 @@ void look_in_obj(struct char_data * ch, char *arg)
   }
 }
 
-
-
-char *find_exdesc(char *word, struct extra_descr_data * list)
-{
+char *find_exdesc(char *word, struct extra_descr_data * list) {
   struct extra_descr_data *i;
 
   for (i = list; i; i = i->next)
@@ -905,14 +886,10 @@ char *find_exdesc(char *word, struct extra_descr_data * list)
   return NULL;
 }
 
-
-/*
- * Given the argument "look at <target>", figure out what object or char
+/* Given the argument "look at <target>", figure out what object or char
  * matches the target.  First, see if there is another char in the room
- * with the name.  Then check local objs for exdescs.
- */
-void look_at_target(struct char_data * ch, char *arg)
-{
+ * with the name.  Then check local objs for exdescs. */
+void look_at_target(struct char_data * ch, char *arg) {
   int bits, found = 0, j;
   //int i = 0;
   struct char_data *found_char = NULL;
@@ -993,9 +970,7 @@ void look_at_target(struct char_data * ch, char *arg)
     send_to_char("You do not see that here.\r\n", ch);
 }
 
-
-ACMD(do_look)
-{
+ACMD(do_look) {
   static char arg2[MAX_INPUT_LENGTH];
   int look_type;
   struct obj_data *o, *next_o;
@@ -1047,10 +1022,7 @@ ACMD(do_look)
   }
 }
 
-
-
-ACMD(do_examine)
-{
+ACMD(do_examine) {
   int bits;
   struct char_data *tmp_char;
   struct obj_data *tmp_object;
@@ -1078,10 +1050,7 @@ ACMD(do_examine)
   }
 }
 
-
-
-ACMD(do_gold)
-{
+ACMD(do_gold) {
   int copper = money_to_copper(GET_MONEY(ch));
 
   if (copper == 0) {
@@ -1092,10 +1061,8 @@ ACMD(do_gold)
   }
 }
 
-
 /* here is a revised version of the score :) */ 
-ACMD(do_score)
-{
+ACMD(do_score) {
     extern  char *  godSelected(struct char_data *ch);
     extern  const char *pc_class_types[];
     extern  const char *pc_race_types[];
@@ -1161,15 +1128,16 @@ ACMD(do_score)
 
     sprintf(buf, "%s\r\n&CRP Experience Factor: &W[ &R%d&W ]&n", buf, GET_RPFACTOR(ch));
 
-// New exp % code by Gicker
-   int int_xp = 0;
-   int int_percent;
-   float percent = 0.0;
-   float xp = (((float) GET_EXP(ch)) - ((float) level_exp(GET_CLASS(ch), GET_LEVEL(ch)))) /
+  /*
+  // New exp % code by Gicker
+  int int_xp = 0;
+  int int_percent;
+  float percent = 0.0;
+  float xp = (((float) GET_EXP(ch)) - ((float) level_exp(GET_CLASS(ch), GET_LEVEL(ch)))) /
               (((float) level_exp(GET_CLASS(ch), (GET_LEVEL(ch) + 1)) -
               (float) level_exp(GET_CLASS(ch), GET_LEVEL(ch))));
 	
-   if (((float) GET_EXP(ch) - (float) level_exp(GET_CLASS(ch), GET_LEVEL(ch))) < 0)	{
+  if (((float) GET_EXP(ch) - (float) level_exp(GET_CLASS(ch), GET_LEVEL(ch))) < 0)	{
 	
 	  xp = (((float) level_exp(GET_CLASS(ch), GET_LEVEL(ch))) - (float) GET_EXP(ch)) /
 	     ((float) level_exp(GET_CLASS(ch), (GET_LEVEL(ch) + 1)) -
@@ -1190,11 +1158,14 @@ ACMD(do_score)
 	   int_xp = MAX(0, (int) xp);
 	   int_percent = MAX(0, MIN((int) percent, 99));   
    }
+   */
 
-   if (GET_LEVEL(ch) < 30) {
+  int *tnl_values = tnl_progress(ch);
+
+  if (GET_LEVEL(ch) < 30) {
      sprintf(buf, "%s \r\n&CProgress toward next level: &W[ &R%d.%d%%&W ]&n", buf, int_xp, int_percent);
      sprintf(buf, "%s\r\n", buf);
-   }
+  }
    //else
      //sprintf(buf, "%s\r\n&CExperience Points: &W[&R%d&W]&n\r\n", buf, GET_EXP(ch));
      // No-op
@@ -1295,17 +1266,12 @@ ACMD(do_score)
 }
 /* end of new_do_score */
 
-
-
-ACMD(do_inventory)
-{
+ACMD(do_inventory) {
   send_to_char("You are carrying:\r\n", ch);
   list_obj_to_char(ch->carrying, ch, 1, TRUE);
 }
 
-
-ACMD(do_equipment)
-{
+ACMD(do_equipment) {
   int i, found = 0;
     struct obj_data *o, *next_o;
     struct obj_data *item, *ob, *next_ob;
@@ -1350,9 +1316,7 @@ ACMD(do_equipment)
   }
 }
 
-
-ACMD(do_time)
-{
+ACMD(do_time) {
   char *suf;
   int weekday, day;
   extern struct time_info_data time_info;
@@ -1395,9 +1359,7 @@ ACMD(do_time)
   send_to_char(buf, ch);
 }
 
-
-ACMD(do_weather)
-{
+ACMD(do_weather) {
   static char *sky_look[] = {
     "cloudless",
     "cloudy",
@@ -1413,9 +1375,7 @@ ACMD(do_weather)
     send_to_char("You have no feeling about the weather at all.\r\n", ch);
 }
 
-
-ACMD(do_help)
-{
+ACMD(do_help) {
   extern int top_of_helpt;
   extern struct help_index_element *help_table;
   extern char *help;
@@ -1462,28 +1422,21 @@ ACMD(do_help)
   }
 }
 
-
-/*
- *  PDH 11/24/98
- *  check's a player's intro list to see if the player's name is known
- */
-int known_player(const struct char_data * ch, struct char_data * who)
-{
+/*  PDH 11/24/98
+ *  check's a player's intro list to see if the player's name is known */
+int known_player(const struct char_data * ch, struct char_data * who) {
   int i;
 
   /*  Imms know everyone, and everyone knows imms, but nobody knows mobs  */
     if (IS_NPC(ch) || IS_NPC(who))
       return 0;
-    if ((ch == who) || (GET_LEVEL(ch) >= LVL_IMMORT) ||
-        (GET_LEVEL(who) >= LVL_IMMORT))
+
+    if ((ch == who) || (GET_LEVEL(ch) >= LVL_IMMORT) || (GET_LEVEL(who) >= LVL_IMMORT))
       return 1;
 
-  for (i = 0; i < MAX_INTROS; i++)
-  {
+  for (i = 0; i < MAX_INTROS; i++) {
     GET_NAME(who, chname);
-    if (!(str_cmp(GET_INTRO(ch, i), chname)) &&
-         (GET_INTRONUM(ch, i) == GET_MAX_MANA(who)))
-    {
+    if (!(str_cmp(GET_INTRO(ch, i), chname)) && (GET_INTRONUM(ch, i) == GET_MAX_MANA(who))) {
       return 1;
     }
     FREE_NAME(chname);
@@ -1492,13 +1445,10 @@ int known_player(const struct char_data * ch, struct char_data * who)
   return 0;
 }
 
-
 #define WHO_USAGE \
 "format: who [minlev[-maxlev]] [-n name] [-c classlist] [-s] [-o] [-q] [-r] [-z]\r\n"
 
-
-ACMD(do_who)
-{
+ACMD(do_who) {
   struct descriptor_data *d;
   struct char_data *wch;
   char godbuf[MAX_STRING_LENGTH];
@@ -1534,82 +1484,86 @@ ACMD(do_who)
   };
   */
 
-
-
   skip_spaces(&argument);
   strcpy(buf, argument);
   name_search[0] = '\0';
-
   
     if (PLR_FLAGGED(ch, PLR_FIRE_ON)) {
-    REMOVE_BIT(PLR_FLAGS(ch), PLR_FIRE_ON);
-   }
+      REMOVE_BIT(PLR_FLAGS(ch), PLR_FIRE_ON);
+    }
 
   for (o = world[ch->in_room].contents; o; o = next_o) {
       next_o = o->next_content;
       if (GET_OBJ_TYPE(o) == ITEM_FIRE) {
           SET_BIT(PLR_FLAGS(ch), PLR_FIRE_ON);
-                   }
-           }
-
+      }
+  }
 
   if ( GET_LEVEL(ch) >= LVL_IMMORT ) {
     while (*buf) {
       half_chop(buf, arg, buf1);
 
       if (isdigit(*arg)) {
-	sscanf(arg, "%d-%d", &low, &high);
-	strcpy(buf, buf1);
+        sscanf(arg, "%d-%d", &low, &high);
+        strcpy(buf, buf1);
 
       } else if (*arg == '-') {
-	mode = *(arg + 1);        /* just in case; we destroy arg in the
-				     switch */
-	switch (mode) {
-	case 'o':
-	  outlaws = TRUE;
-	  strcpy(buf, buf1);
-	  break;
-	case 'z':
-	  who_zone = TRUE;
-	  strcpy(buf, buf1);
-	  break;
-	case 'q':
-	  who_quest = TRUE;
-	  strcpy(buf, buf1);
-	  break;
-	case 'l':
-	  half_chop(buf1, arg, buf);
-	  sscanf(arg, "%d-%d", &low, &high);
-	  break;
-	case 'n':
-	  half_chop(buf1, name_search, buf);
-	  break;
-	case 'r':
-	  who_room = TRUE;
-	  strcpy(buf, buf1);
-	  break;
-	case 'c':
-	  half_chop(buf1, arg, buf);
-	  for (i = 0; i < strlen(arg); i++)
-	    showclass |= find_class_bitvector(arg[i]);
-	  break;
-	case 'i':
-	  nomort = TRUE;
-	  strcpy(buf, buf1);
-	  break;
-	case 'm':
-	  noimm = TRUE;
-	  strcpy(buf, buf1);
-	  break;
-	default:
-	  send_to_char(WHO_USAGE, ch);
-	  return;
-	  break;
-	}                         /* end of switch */
+        mode = *(arg + 1);        /* just in case; we destroy arg in the
+                  switch */
+        switch (mode) {
+          case 'o':
+            outlaws = TRUE;
+            strcpy(buf, buf1);
+            break;
 
+          case 'z':
+            who_zone = TRUE;
+            strcpy(buf, buf1);
+            break;
+
+          case 'q':
+            who_quest = TRUE;
+            strcpy(buf, buf1);
+            break;
+
+          case 'l':
+            half_chop(buf1, arg, buf);
+            sscanf(arg, "%d-%d", &low, &high);
+            break;
+
+          case 'n':
+            half_chop(buf1, name_search, buf);
+            break;
+
+          case 'r':
+            who_room = TRUE;
+            strcpy(buf, buf1);
+            break;
+
+          case 'c':
+            half_chop(buf1, arg, buf);
+            for (i = 0; i < strlen(arg); i++)
+              showclass |= find_class_bitvector(arg[i]);
+            break;
+
+          case 'i':
+            nomort = TRUE;
+            strcpy(buf, buf1);
+            break;
+
+          case 'm':
+            noimm = TRUE;
+            strcpy(buf, buf1);
+            break;
+
+          default:
+            send_to_char(WHO_USAGE, ch);
+            return;
+            break;
+        }                         /* end of switch */
       } else {                    /* endif */
-	send_to_char(WHO_USAGE, ch);
-	return;
+        send_to_char(WHO_USAGE, ch);
+        return;
       }
     }                             /* end while (parser) */
   }
@@ -1625,50 +1579,54 @@ ACMD(do_who)
       wch = d->original;
     else if (!(wch = d->character))
       continue;
+
     if(GET_LEVEL(wch) < 31)   /* Only want to count player, not imms -gan */
       current_boot++;  /*  more accurate count of max connections this boot  */
 
     if (!CAN_SEE(ch, wch))
       continue;
+
     if (GET_LEVEL(wch) < low || GET_LEVEL(wch) > high)
       continue;
-    if ((noimm && GET_LEVEL(wch) >= LVL_IMMORT) || (nomort &&
-GET_LEVEL(wch) < LVL_IMMORT))
+
+    if ((noimm && GET_LEVEL(wch) >= LVL_IMMORT) || (nomort && GET_LEVEL(wch) < LVL_IMMORT))
       continue;
+
     flag=0;
     GET_NAME(wch, chname);
-    if (*name_search && str_cmp(chname, name_search) &&
-      !strstr(GET_TITLE(wch), name_search))
-    {
+
+    if (*name_search && str_cmp(chname, name_search) && !strstr(GET_TITLE(wch), name_search)) {
       flag=1;
     }
+
     FREE_NAME(chname);
    
     if (flag == 1) continue; 
 
-    if (outlaws && !PLR_FLAGGED(wch, PLR_KILLER) &&
-	!PLR_FLAGGED(wch, PLR_THIEF))
+    if (outlaws && !PLR_FLAGGED(wch, PLR_KILLER) && !PLR_FLAGGED(wch, PLR_THIEF))
       continue;
+
     if (who_quest && !PRF_FLAGGED(wch, PRF_QUEST))
       continue;
+
     if (who_zone && world[ch->in_room].zone != world[wch->in_room].zone)
       continue;
+
     if (who_room && (wch->in_room != ch->in_room))
       continue;
+
     if (showclass && !(showclass & (1 << GET_CLASS(wch))))
       continue;
 
     /*  PDH 11/24/98 - intro system  */
 
- /*  Let's fix people with a NULL title, too - Soli, 8/99  */
+    /*  Let's fix people with a NULL title, too - Soli, 8/99  */
     if (GET_TITLE(wch))
       sprintf(buf, "%s", GET_TITLE(wch));
     else
-    {
       GET_NAME(wch, chname);
       sprintf(buf, "%s", chname);
       FREE_NAME(chname);
-    }
 
     if (GET_LEVEL(wch) >= LVL_IMMORT) {
       sprintf(godbuf, "%s%s", godbuf, buf);
@@ -1677,13 +1635,12 @@ GET_LEVEL(wch) < LVL_IMMORT))
       /* sprintf(mortbuf, "%s%s %s", mortbuf, GET_NAME(wch), GET_TITLE(wch)); */
       /* Okay, intros can be checked here now.  Soli, 7/29/99  */
       morts++;
-      if (known_player(ch, wch))
-      {
+
+      if (known_player(ch, wch)) {
         sprintf(mortbuf, "%s%s", mortbuf, buf);
         known++;
       }
-      else
-      {
+      else {
         if (IS_APPROVED(wch))
           sprintf(mortbuf, "%s%s", mortbuf, wch->player.short_descr);
         else
@@ -1694,10 +1651,12 @@ GET_LEVEL(wch) < LVL_IMMORT))
     *buf = '\0';
     if (!IS_APPROVED(wch) && GET_LEVEL(wch) < LVL_IMMORT && GET_LEVEL(ch) >= LVL_IMMORT && wch->player.short_descr)
       strcat(buf, " &W(&Cawaiting approval&W)&n");
+
     if (GET_INVIS_LEV(wch))
       sprintf(buf, "%s &W(&Gi&C%3d&W)&n", buf, GET_INVIS_LEV(wch));
     else if (IS_AFFECTED(wch, AFF_INVISIBLE))
       strcat(buf, " &W(&Cinvis&W)&n");
+
     if (PLR_FLAGGED(wch, PLR_MAILING))
       strcat(buf, " &W(&Gmailing&W)&n");
     else if (PLR_FLAGGED(wch, PLR_WRITING))
@@ -1705,19 +1664,23 @@ GET_LEVEL(wch) < LVL_IMMORT))
 
     if (PRF_FLAGGED(wch, PRF_DEAF))
       strcat(buf, " &Y(&Rdeaf&Y)&n");
+
     if (PRF_FLAGGED(wch, PRF_NOTELL))
       strcat(buf, " &W(&Rnotell&W)&n");
+
     if (PRF_FLAGGED(wch, PRF_QUEST))
       strcat(buf, " &B(&Mquest&B)&n");
-    if ( (PLR_FLAGGED(wch, PLR_THIEF)) && (GET_LEVEL(ch) > LVL_IMMORT) )
-    {
+
+    if ((PLR_FLAGGED(wch, PLR_THIEF)) && (GET_LEVEL(ch) > LVL_IMMORT)) {
       if (GET_RACE(wch) == RACE_KENDER)
         strcat(buf, "&R(&YHANDLER&R)&n");
       else
         strcat(buf, " &R(&YTHIEF&R)&n");
     }
-    if ( (PLR_FLAGGED(wch, PLR_KILLER)) && (GET_LEVEL(ch) > LVL_IMMORT) )
+
+    if ((PLR_FLAGGED(wch, PLR_KILLER)) && (GET_LEVEL(ch) > LVL_IMMORT))
       strcat(buf, " &Y(&RKILLER&Y)&n");
+
     if (PRF_FLAGGED(wch, PRF_AFK))
       strcat(buf, " &B(&MAFK&B)&n");
 
@@ -1727,25 +1690,19 @@ GET_LEVEL(wch) < LVL_IMMORT))
       strcat(godbuf, buf);
     else
       strcat(mortbuf, buf);
-
   }                             /* end of for */
 
   if (gods == 0)
     sprintf(godbuf, "%s<none>\r\n", godbuf);
 
-  /*
-    sprintf(godbuf, "%s\r\nThere %s %d visible immortal%s.\r\n", godbuf, (gods == 1 ? "is" : "are"), gods, (gods == 1 ? "" : "s"));
-    */
+  /* sprintf(godbuf, "%s\r\nThere %s %d visible immortal%s.\r\n", godbuf, (gods == 1 ? "is" : "are"), gods, (gods == 1 ? "" : "s")); */
   page_string(ch->desc, godbuf, 0);
   send_to_char("\r\n", ch);
 
   if (morts == 0)
     sprintf(mortbuf, "%s<none>\r\n", mortbuf);
 
-  /*
-    sprintf(mortbuf, "%s\r\nThere %s %d visible mortal%s.",
-    mortbuf, (morts == 1 ? "is" : "are"), morts, (morts == 1 ? "" : "s"));
-    */
+  /* sprintf(mortbuf, "%s\r\nThere %s %d visible mortal%s.", mortbuf, (morts == 1 ? "is" : "are"), morts, (morts == 1 ? "" : "s")); */
   page_string(ch->desc, mortbuf, 0);
   send_to_char("\r\n", ch);
 
@@ -1753,7 +1710,7 @@ GET_LEVEL(wch) < LVL_IMMORT))
     boot_high = current_boot;
   }
 
-/*  Fixing the visible invisible imm bug - Soli, 7/27/99
+  /*  Fixing the visible invisible imm bug - Soli, 7/27/99
   if ( GET_LEVEL(ch) >= LVL_IMMORT ) {
     sprintf(buf, "%sTotal visible players: %d.\r\n", buf, gods+morts);
     sprintf(buf, "%sMaximum number of players on this boot: %d.\r\n",
@@ -1767,29 +1724,23 @@ visible players.  So we can remedy that like this.  */
 
 /*  Or we thought we could - then they miss intros.  Fixed - Soli, 7/29/99 */
 
-  if (GET_LEVEL(ch) >= LVL_IMMORT)
-  {
+  if (GET_LEVEL(ch) >= LVL_IMMORT) {
     sprintf(buf, "%sTotal visible players: %d.\r\n", buf, gods+morts);
     sprintf(buf, "%sMaximum number of players on this boot: %d.\r\n",
       buf, boot_high);
-  }
-  else
-  {
+  } else {
     sprintf(buf, "%sTotal known players: %d.\r\n", buf, gods+known);
     sprintf(buf, "%sTotal visible players: %d.\r\n", buf, gods+morts);
   }
 
   send_to_char(buf, ch);
 }
-
 /* end of new do_who */
 
 #define USERS_FORMAT \
 "format: users [-l minlevel[-maxlevel]] [-n name] [-h host] [-c classlist] [-o] [-p]\r\n"
 
-
-ACMD(do_users)
-{
+ACMD(do_users) {
   char line[200], line2[220], idletime[10], classname[20];
   char state[30], *timeptr, *format, mode;
   char name_search[MAX_INPUT_LENGTH], host_search[MAX_INPUT_LENGTH];
@@ -1808,54 +1759,59 @@ ACMD(do_users)
     if (*arg == '-') {
       mode = *(arg + 1);  /* just in case; we destroy arg in the switch */
       switch (mode) {
-      case 'o':
-      case 'k':
-	outlaws = 1;
-	playing = 1;
-	strcpy(buf, buf1);
-	break;
-      case 'p':
-	playing = 1;
-	strcpy(buf, buf1);
-	break;
-      case 'd':
-	deadweight = 1;
-	strcpy(buf, buf1);
-	break;
-      case 'l':
-	playing = 1;
-	half_chop(buf1, arg, buf);
-	sscanf(arg, "%d-%d", &low, &high);
-	break;
-      case 'n':
-	playing = 1;
-	half_chop(buf1, name_search, buf);
-	break;
-      case 'h':
-	playing = 1;
-	half_chop(buf1, host_search, buf);
-	break;
-      case 'c':
-	playing = 1;
-	half_chop(buf1, arg, buf);
-	for (i = 0; i < strlen(arg); i++)
-	  showclass |= find_class_bitvector(arg[i]);
-	break;
-      default:
-	send_to_char(USERS_FORMAT, ch);
-	return;
-	break;
-      }				/* end of switch */
+        case 'o':
+        case 'k':
+          outlaws = 1;
+          playing = 1;
+          strcpy(buf, buf1);
+          break;
 
+        case 'p':
+          playing = 1;
+          strcpy(buf, buf1);
+          break;
+
+        case 'd':
+          deadweight = 1;
+          strcpy(buf, buf1);
+          break;
+
+        case 'l':
+          playing = 1;
+          half_chop(buf1, arg, buf);
+          sscanf(arg, "%d-%d", &low, &high);
+          break;
+
+        case 'n':
+          playing = 1;
+          half_chop(buf1, name_search, buf);
+          break;
+
+        case 'h':
+          playing = 1;
+          half_chop(buf1, host_search, buf);
+          break;
+
+        case 'c':
+          playing = 1;
+          half_chop(buf1, arg, buf);
+          for (i = 0; i < strlen(arg); i++)
+            showclass |= find_class_bitvector(arg[i]);
+          break;
+
+        default:
+          send_to_char(USERS_FORMAT, ch);
+          return;
+          break;
+      }				/* end of switch */
     } else {			/* endif */
       send_to_char(USERS_FORMAT, ch);
       return;
     }
   }				/* end while (parser) */
-  strcpy(line,
-	 "Num Class   Name         State          Idl Login@   Site\r\n");
-  strcat(line,
-	 "--- ------- ------------ -------------- --- -------- ------------------------\r\n");
+
+  strcpy(line, "Num Class   Name         State          Idl Login@   Site\r\n");
+  strcat(line, "--- ------- ------------ -------------- --- -------- ------------------------\r\n");
   send_to_char(line, ch);
 
   one_argument(argument, arg);
@@ -1863,35 +1819,41 @@ ACMD(do_users)
   for (d = descriptor_list; d; d = d->next) {
     if (STATE(d) != CON_PLAYING && playing)
       continue;
+
     if (STATE(d) == CON_PLAYING && deadweight)
       continue;
+
     if (STATE(d) == CON_PLAYING) {
       if (d->original)
-	tch = d->original;
+        tch = d->original;
       else if (!(tch = d->character))
-	continue;
+        continue;
 
       if (*host_search && !strstr(d->host, host_search))
-	continue;
+        continue;
+
       flag=0;
       GET_NAME(tch, chname);
-      if (*name_search && str_cmp(chname, name_search))
-      {
+
+      if (*name_search && str_cmp(chname, name_search)) {
         flag=1;
       }
+
       FREE_NAME(chname);
 
       if (flag == 1) continue;
 
       if (!CAN_SEE(ch, tch) || GET_LEVEL(tch) < low || GET_LEVEL(tch) > high)
-	continue;
-      if (outlaws && !PLR_FLAGGED(tch, PLR_KILLER) &&
-	  !PLR_FLAGGED(tch, PLR_THIEF))
-	continue;
+        continue;
+
+      if (outlaws && !PLR_FLAGGED(tch, PLR_KILLER) && !PLR_FLAGGED(tch, PLR_THIEF))
+        continue;
+
       if (showclass && !(showclass & (1 << GET_CLASS(tch))))
-	continue;
+        continue;
+
       if (GET_INVIS_LEV(ch) > GET_LEVEL(ch))
-	continue;
+        continue;
 
       if (d->original) {
 	sprintf(classname, "[%2d %s]", GET_LEVEL(d->original),
@@ -1960,7 +1922,6 @@ ACMD(do_users)
   sprintf(line, "\r\n%d visible sockets connected.\r\n", num_can_see);
   send_to_char(line, ch);
 }
-
 
 /* Generic page_string function for displaying text */
 ACMD(do_gen_ps)
@@ -2192,9 +2153,7 @@ char * areas_level(bool * lev, int toFile)
   return lvlStr;
 }
 
-
-void print_object_location(int num, struct obj_data * obj, struct char_data * ch,
-			        int recur)
+void print_object_location(int num, struct obj_data * obj, struct char_data * ch, int recur)
 {
   if (num > 0)
     sprintf(buf, "O%3d. %-25s - ", num, obj->short_description);
@@ -2226,8 +2185,6 @@ void print_object_location(int num, struct obj_data * obj, struct char_data * ch
     send_to_char(buf, ch);
   }
 }
-
-
 
 void perform_immort_where(struct char_data * ch, char *arg)
 {
@@ -2282,8 +2239,6 @@ void perform_immort_where(struct char_data * ch, char *arg)
   }
 }
 
-
-
 ACMD(do_where)
 {
   one_argument(argument, arg);
@@ -2292,8 +2247,6 @@ ACMD(do_where)
     perform_immort_where(ch, arg);
   }
 }
-
-
 
 ACMD(do_levels)
 {
@@ -2332,8 +2285,6 @@ ACMD(do_levels)
 	  LVL_IMMORT, level_exp(GET_CLASS(ch), LVL_IMMORT)+1);
   page_string(ch->desc, buf, 1);
 }
-
-
 
 ACMD(do_consider)
 {
@@ -2384,8 +2335,6 @@ ACMD(do_consider)
 
 }
 
-
-
 ACMD(do_diagnose)
 {
   struct char_data *vict;
@@ -2404,7 +2353,6 @@ ACMD(do_diagnose)
       send_to_char("Diagnose who?\r\n", ch);
   }
 }
-
 
 static const char *ctypes[] = {
 "off", "sparse", "normal", "complete", "\n"};
@@ -2431,7 +2379,6 @@ ACMD(do_color)
 	  CCNRM(ch, C_OFF), ctypes[tp]);
   send_to_char(buf, ch);
 }
-
 
 ACMD(do_toggle)
 {
@@ -2686,7 +2633,6 @@ ACMD(do_commands)
   send_to_char(buf, ch);
 }
 
-
 int bitVToInt(long bit)
 {
   int ret;
@@ -2698,7 +2644,6 @@ int bitVToInt(long bit)
   return ret;
 }
 
-
 int printAffStr(int val, struct char_data * ch)
 {
   if ( val < 1 ) {
@@ -2708,7 +2653,6 @@ int printAffStr(int val, struct char_data * ch)
 
   return 1;
 }
-
    
 ACMD(do_affected)
 {
@@ -2847,8 +2791,6 @@ ACMD(do_affected)
   }
 
 }
-
-          
 
 ACMD(do_scan)
 {
@@ -3129,7 +3071,6 @@ void display_visual_effects(struct char_data* ch, struct char_data* to_ch)
   }
 }
 
-
 ACMD(do_show)
 {
         char arg1[MAX_INPUT_LENGTH];
@@ -3247,4 +3188,38 @@ else {
 
 }
 
+int* tnl_process(struct char_data* ch) {
+  // We're returning multiple values, so we use pointers to do it.
+  int* tnl_values = (int*)malloc(sizeof(int) * 2);
 
+  // New exp % code by Gicker
+  int int_xp = 0;
+  int int_percent;
+  float percent = 0.0;
+  float xp = (((float) GET_EXP(ch)) - ((float) level_exp(GET_CLASS(ch), GET_LEVEL(ch)))) /
+            (((float) level_exp(GET_CLASS(ch), (GET_LEVEL(ch) + 1)) -
+            (float) level_exp(GET_CLASS(ch), GET_LEVEL(ch))));
+
+  if (((float) GET_EXP(ch) - (float) level_exp(GET_CLASS(ch), GET_LEVEL(ch))) < 0)	{
+    xp = (((float) level_exp(GET_CLASS(ch), GET_LEVEL(ch))) - (float) GET_EXP(ch)) / 
+          ((float) level_exp(GET_CLASS(ch), (GET_LEVEL(ch) + 1)) - 
+          (float) level_exp(GET_CLASS(ch), GET_LEVEL(ch)));
+    
+    xp *= (float) 1000.0;
+    percent = (int) xp % 10;
+    xp /= (float) 10;
+    int_xp = MAX(0, (int) xp);
+    int_percent = MAX(0, MIN((int) percent, 99));
+    
+    int_xp = int_xp - (int_xp * 2);
+  } else {
+    xp *= (float) 1000.0;
+    percent = (int) xp % 10;
+    xp /= (float) 10;
+    int_xp = MAX(0, (int) xp);
+    int_percent = MAX(0, MIN((int) percent, 99));   
+  }
+
+  return tnl_values;
+ 
+}
