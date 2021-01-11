@@ -12,8 +12,8 @@
 
 #include "conf.h"
 #include "sysdep.h"
-
 #include "structs.h"
+#include <stdio.h>
 
 #define TRUE	1
 #define YES	1
@@ -266,42 +266,72 @@ char *MENU =
 "                       &bo -    -  - -)-=-(- -   -    - o\r\n"
 "                                &WYour choice: &n";
 
+char buff[FILENAME_MAX];
+GetCurrentDir(buff, FILENAME_MAX);
+char *dev_path = "dev";
 
-char *GREETINGS =
+char *in_dev_mode = strstr(buff, dev_path);
 
-"\r\n\r\n"
-" +--------------------------------------------------------------------+\r\n"
-" |                   __                                               |\r\n"
-" |                .-'  `.    _.-----------'-----------..__            |\r\n"
-" |              .'       | .'             |`.            /            |\r\n"
-" |            .'     o   |.      .--.    .' |    _____  /             |\r\n"
-" |          .'           ||     '   __\\ /__ |       / `/              |\r\n"
-" |         /.-.    .     ||    |   /_     / |    __/  .\\              |\r\n"
-" |        ,'   `. / \\    |`.   `.___.'   |  |    \\__.-' \\             |\r\n"
-" |               `  | _  |  .            |  |          __\\            |\r\n"
-" |                  '` `.|   `-._____    | .'____..-- '  `            |\r\n"
-" |      _____            `          /    |                            |\r\n"
-" |     `.   .'                   of/_____|                            |\r\n"
-" |     /   /      .--._.   .-.    .--._.  _.-.    ____.----.   .----. |\r\n"
-" |    /   /      /  .__/ .'   `. /  .__/  .   |  /  .'/     `./ .-. / |\r\n" 
-" |   /   /   _.//   _\\  /  .^-,//   _\\    /   | /  / /  /|   /\\ `. `  |\r\n"
-" |  /    `--' //   (_.-.  / ___/   (_.-. /    |/  / /  //   //\\  `.   |\r\n"
-" | /         / |      /|  \\_> /|      / /  /|    / /  /'   //  `   /  |\r\n"
-" |'  _..--../  `.___./ `.___.' `.___./ /  / `.__/.'______.' `.___.'   |\r\n"
-" ||.'                                 | /                             |\r\n"
-" |'                                   '/                              |\r\n"
-" +----------o-     T a l e s   o f   t'h e   L a n c e    -o----------+\r\n"
-" Based on CircleMUD 3.0, Created by Jeremy Elson                       \r\n"
-" A derivative of DikuMUD (GAMMA 0.0)                                   \r\n"
-" Created by, Hans Henrik Staerfeldt, Katja Nyboe, Tom Madsen,          \r\n"
-" Michael Seifert, and Sebastian Hammer                                 \r\n"
-"\r\n\r\n"
-"Before creating please goto: \r\n"
-"http://ageoflegends.com/old/charactercreationtips.html for rules on "
-"creating a character.\r\n\r\n"
-"To email the owner: chemosh@ageoflegends.com\r\n\r\n"
-"By what unique name do you wish to be known? ";
-
+if (in_dev_mode) {
+   char *GREETINGS = 
+      "\r\n\r\n"
+      " +--------------------------------------------------------------------+\r\n"
+      " |                                                                    |\r\n"
+      " |                                                                    |\r\n"
+      " |                                                                    |\r\n"
+      " |             ___                   __  __          _                |\r\n"
+      " |            |   \  ___ __ __      |  \/  | ___  __| | ___           |\r\n"
+      " |            | |) |/ -_)\ V /      | |\/| |/ _ \/ _` |/ -_)          |\r\n"
+      " |            |___/ \___| \_/       |_|  |_|\___/\__/_|\___|          |\r\n"
+      " |             ___                   __  __          _                |\r\n"
+      " |            |   \  ___ __ __      |  \/  | ___  __| | ___           |\r\n"
+      " |            | |) |/ -_)\ V /      | |\/| |/ _ \/ _` |/ -_)          |\r\n"
+      " |            |___/ \___| \_/       |_|  |_|\___/\__/_|\___|          |\r\n"
+      " |                                                                    |\r\n"
+      " |            |   \  ___ __ __      |  \/  | ___  __| | ___           |\r\n"
+      " |            | |) |/ -_)\ V /      | |\/| |/ _ \/ _` |/ -_)          |\r\n"
+      " |            |___/ \___| \_/       |_|  |_|\___/\__/_|\___|          |\r\n"
+      " |                                                                    |\r\n"
+      " |                                                                    |\r\n"
+      " |                                                                    |\r\n"
+      " |                                                                    |\r\n"
+      " +--------------------------------------------------------------------+\r\n"
+      " By what unique name do you wish to be known? ";
+} else {
+   char *GREETINGS =
+   "\r\n\r\n"
+   " +--------------------------------------------------------------------+\r\n"
+   " |                   __                                               |\r\n"
+   " |                .-'  `.    _.-----------'-----------..__            |\r\n"
+   " |              .'       | .'             |`.            /            |\r\n"
+   " |            .'     o   |.      .--.    .' |    _____  /             |\r\n"
+   " |          .'           ||     '   __\\ /__ |       / `/              |\r\n"
+   " |         /.-.    .     ||    |   /_     / |    __/  .\\              |\r\n"
+   " |        ,'   `. / \\    |`.   `.___.'   |  |    \\__.-' \\             |\r\n"
+   " |               `  | _  |  .            |  |          __\\            |\r\n"
+   " |                  '` `.|   `-._____    | .'____..-- '  `            |\r\n"
+   " |      _____            `          /    |                            |\r\n"
+   " |     `.   .'                   of/_____|                            |\r\n"
+   " |     /   /      .--._.   .-.    .--._.  _.-.    ____.----.   .----. |\r\n"
+   " |    /   /      /  .__/ .'   `. /  .__/  .   |  /  .'/     `./ .-. / |\r\n" 
+   " |   /   /   _.//   _\\  /  .^-,//   _\\    /   | /  / /  /|   /\\ `. `  |\r\n"
+   " |  /    `--' //   (_.-.  / ___/   (_.-. /    |/  / /  //   //\\  `.   |\r\n"
+   " | /         / |      /|  \\_> /|      / /  /|    / /  /'   //  `   /  |\r\n"
+   " |'  _..--../  `.___./ `.___.' `.___./ /  / `.__/.'______.' `.___.'   |\r\n"
+   " ||.'                                 | /                             |\r\n"
+   " |'                                   '/                              |\r\n"
+   " +----------o-     T a l e s   o f   t'h e   L a n c e    -o----------+\r\n"
+   " Based on CircleMUD 3.0, Created by Jeremy Elson                       \r\n"
+   " A derivative of DikuMUD (GAMMA 0.0)                                   \r\n"
+   " Created by, Hans Henrik Staerfeldt, Katja Nyboe, Tom Madsen,          \r\n"
+   " Michael Seifert, and Sebastian Hammer                                 \r\n"
+   "\r\n\r\n"
+   "Before creating please goto: \r\n"
+   "http://ageoflegends.com/old/charactercreationtips.html for rules on "
+   "creating a character.\r\n\r\n"
+   "To email the owner: chemosh@ageoflegends.com\r\n\r\n"
+   "By what unique name do you wish to be known? ";
+}
 
 char *WELC_MESSG =
 "\r\n"
