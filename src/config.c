@@ -264,7 +264,7 @@ char *MENU =
 "                                &WYour choice: &n";
 
 // TODO put this in a function. Can be useful elsewhere in the code.
-char current_dir[FILENAME_MAX];
+char current_dir[PATH_MAX];
 getcwd(current_dir, sizeof(current_dir));
 char *dev_path = "dev";
 
