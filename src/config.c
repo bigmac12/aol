@@ -268,7 +268,7 @@ char current_dir[PATH_MAX];
 getcwd(current_dir, sizeof(current_dir));
 char *dev_path = "dev";
 
-char *in_dev_mode = strstr(buff, dev_path);
+char *in_dev_mode = strstr(current_dir, dev_path);
 
 if (in_dev_mode) {
    char *GREETINGS = 
