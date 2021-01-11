@@ -13,7 +13,9 @@
 #include "conf.h"
 #include "sysdep.h"
 #include "structs.h"
+#include <unistd.h>
 #include <stdio.h>
+#include <limits.h>
 
 #define TRUE	1
 #define YES	1
@@ -98,15 +100,10 @@ char *NOEFFECT = "&BNothing seems to happen&C.&n\r\n";
 int track_through_doors = YES;
 
 /****************************************************************************/
-/****************************************************************************/
-
 
 /* RENT/CRASHSAVE OPTIONS */
-
-/*
- * Should the MUD allow you to 'rent' for free?  (i.e. if you just quit,
- * your objects are saved at no cost, as in Merc-type MUDs.)
- */
+/* Should the MUD allow you to 'rent' for free?  (i.e. if you just quit,
+ * your objects are saved at no cost, as in Merc-type MUDs.) */
 int free_rent = NO;
 
 /* maximum number of items players are allowed to rent */
@@ -267,8 +264,8 @@ char *MENU =
 "                                &WYour choice: &n";
 
 // TODO put this in a function. Can be useful elsewhere in the code.
-char buff[FILENAME_MAX];
-GetCurrentDir(buff, FILENAME_MAX);
+char current_dir[FILENAME_MAX];
+getcwd(current_dir, sizeof(current_dir));
 char *dev_path = "dev";
 
 char *in_dev_mode = strstr(buff, dev_path);
