@@ -2478,8 +2478,11 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
       to_vict = "You feel the spirit of the bear infuse you with strength.";
       to_room = "$n has been infused with the spirit of the bear.";
     } else if (random == 3) {
+      aid_modifier = number(10, GET_LEVEL(ch));
       af[0].location = APPLY_HIT;
-      af[0].modifier = number(10, GET_LEVEL(ch));
+      af[0].modifier = aid_modifier;
+
+      GET_HIT(ch) = GET_HIT(ch) + aid_modifier;
 
       to_vict = "You feel the spirit of the tiger infuse you with energy.";
       to_room = "$n briefly assumes the appearance of a tiger.";
