@@ -1838,7 +1838,7 @@ ACMD(do_assess) {
 
   two_arguments(argument, arg, arg2);
 
-  if (!*arg || !(obj = get_obj_in_list_vis(ch, arg, ch->carrying)) || !IS_NPC(arg)) {
+  if (!*arg || !(obj = get_obj_in_list_vis(ch, arg, ch->carrying))) {
     send_to_char("Assess what?\r\n", ch);
     return;
   }
@@ -1905,8 +1905,7 @@ ACMD(do_assess) {
     value = (value - 1) / 3;
     value = MAX(0, MIN(4, value));
     sprintf(buf, "Armor class: %s\r\n", armor_mesg[value]);
-  } else if (is_char) {
-    sprintf(buf, "Assessing character");
+  } else {
   }
 
   send_to_char(buf, ch);
