@@ -1901,7 +1901,7 @@ ACMD(do_poofset)
     {
       GET_NAME(ch, chname);
       log("Attempting to set poof > POOF_LENGTH (%d/%d) for %s.",
-        strlen(argument), POOF_LENGTH, chname);
+        (int)strlen(argument), (int)POOF_LENGTH, chname);
       FREE_NAME(chname);
     }
     memset(tmpPoof, (char) NULL, POOF_LENGTH);
