@@ -1033,7 +1033,7 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
   bool accum_affect = FALSE, accum_duration = FALSE;
   char *to_vict = NULL, *to_room = NULL;
 
-  if(victim == NULL || ch == NULL) || GET_POS(victim) <= POS_DEAD) {
+  if(victim == NULL || ch == NULL || GET_POS(victim) <= POS_DEAD) {
     return;
   }
 
