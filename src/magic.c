@@ -1029,6 +1029,7 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
   int a = 0, poly_animal_type, b = 0;
   int i, random, rand = 0;
   int factor = 0, aggressive = spell_info[spellnum].violent;
+  int aid_modifier = 0;
 
   bool accum_affect = FALSE, accum_duration = FALSE;
   char *to_vict = NULL, *to_room = NULL;
@@ -1611,7 +1612,7 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
     break;
 
   case SPELL_AID:
-    int modifier = dice(20, 6) + level;
+    modifier = dice(20, 6) + level;
     af[2].location = APPLY_HIT;
     af[2].modifier = modifer;
     af[2].duration = 6;
