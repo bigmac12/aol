@@ -1318,7 +1318,7 @@ ACMD(do_snoop)
     else
       tch = victim;
 
-    if (GET_LEVEL(tch) >= GET_LEVEL(ch)) {
+    if (GET_LEVEL(tch) > GET_LEVEL(ch)) {
       send_to_char("You can't.\r\n", ch);
       return;
     }
