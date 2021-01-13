@@ -1611,12 +1611,15 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
     break;
 
   case SPELL_AID:
+    modifier = dice(20, 6) + level;
     af[2].location = APPLY_HIT;
-    af[2].modifier = dice(20, 6) + level;
+    af[2].modifier = modifer;
     af[2].duration = 6;
 
     accum_duration = FALSE;
     to_vict = "You are aided by the gods.";
+
+    GET_HIT(victim) = GET_HIT(victim) + modifier;
     break;
 
     /*  Aid also affects with bless - therefore, no break for this case  */
