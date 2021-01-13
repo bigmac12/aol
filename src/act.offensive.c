@@ -306,16 +306,17 @@ ACMD(do_order)
       org_room = ch->in_room;
 
       for (k = ch->followers; k; k = k->next) {
-	if (org_room == k->follower->in_room)
-	  if (IS_AFFECTED(k->follower, AFF_CHARM)) {
-	    found = TRUE;
-	    command_interpreter(k->follower, message);
-	  }
+        if (org_room == k->follower->in_room)
+          if (IS_AFFECTED(k->follower, AFF_CHARM)) {
+            found = TRUE;
+            command_interpreter(k->follower, message);
+          }
       }
+
       if (found)
-	send_to_char(OK, ch);
+        send_to_char(OK, ch);
       else
-	send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
+        send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
     }
   }
 }
