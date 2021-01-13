@@ -2063,136 +2063,66 @@ ACMD(do_follow)
 /* Mounts (DAK) */
 
 ACMD(do_mount) {
-
   char arg[MAX_INPUT_LENGTH];
-
   struct char_data *vict;
-
   int chance;
-
   one_argument(argument, arg);
 
-  
-
   if (!arg || !*arg) {
-
     send_to_char("Mount who?\r\n", ch);
-
     return;
-
   } else if (!(vict = get_char_room_vis(ch, arg))) {
-
     send_to_char("There is no-one by that name here.\r\n", ch);
-
     return;
-
   } else if (!IS_NPC(vict)) {
-
     send_to_char("Ehh... no.\r\n", ch);
-
     return;
-
   } else if (RIDING(ch) || RIDDEN_BY(ch)) {
-
     send_to_char("You are already mounted.\r\n", ch);
-
     return;
-
   } else if (RIDING(vict) || RIDDEN_BY(vict)) {
-
     send_to_char("It is already mounted.\r\n", ch);
-
     return;
-
   } else if (GET_LEVEL(ch) < LVL_IMMORT && IS_NPC(vict) && !MOB_FLAGGED(vict, MOB_MOUNTABLE)) {
-
     send_to_char("You can't mount that!\r\n", ch);
-
     return;
-
   } else if (GET_SKILL(ch, SKILL_RIDING) <= number(1, 70)) {
-
     act("You try to mount $N, but slip and fall off. Ouch! Brush up on your riding skills first!", FALSE, ch, 0, vict, TO_CHAR);
-
     act("$n tries to mount you, but slips and falls off. Ouch!", FALSE, ch, 0, vict, TO_VICT);
-
     act("$n tries to mount $N, but slips and falls off. Ouch!", TRUE, ch, 0, vict, TO_NOTVICT);
-
     damage(ch, ch, dice(1, 2), -1);
-
     return;
-
   }
-
-  
 
   act("You mount $N.", FALSE, ch, 0, vict, TO_CHAR);
-
   act("$n mounts you.", FALSE, ch, 0, vict, TO_VICT);
-
   act("$n mounts $N.", TRUE, ch, 0, vict, TO_NOTVICT);
 
+  if (vict->master != ch) {
+    if (vict->master)
+        stop_follower(vict);
 
-
- if (vict->master != ch) {
-
-  if (vict->master)
-
-      stop_follower(vict);
-
-
-
-    add_follower(vict, ch);
-
- }
-
-
-
-  GET_POS(ch) = POS_RIDING;
-
-
-
-  mount_char(ch, vict);
-
-  
-
-  if (IS_NPC(vict) && !AFF_FLAGGED(vict, AFF_TAMED) &&!AFF_FLAGGED(vict, AFF_CHARM) && GET_SKILL(ch, SKILL_RIDING) <= number(1, 55)) {
-
-    act("$N suddenly bucks upwards, throwing you violently to the ground!", FALSE, ch, 0, vict, TO_CHAR);
-
-    act("$n is thrown to the ground as $N violently bucks!", TRUE, ch, 0, vict, TO_NOTVICT);
-
-    act("You buck violently and throw $n to the ground.", FALSE, ch, 0, vict, TO_VICT);
-
-    dismount_char(ch);
-
-    GET_POS(ch) = POS_SITTING;
-
-
-
-    chance = number(1, 10);
-
-
-
-    if (chance <= 3) 
-
-    damage(vict, ch, dice(1,3), -1);
-
-
-
-    else
-
-     damage(ch, ch, dice(1,3), -1);
-
-
-
+      add_follower(vict, ch);
   }
 
+  GET_POS(ch) = POS_RIDING;
+  GET_POS(vict) = POS_STANDING;
+  mount_char(ch, vict);
+
+  if (IS_NPC(vict) && !AFF_FLAGGED(vict, AFF_TAMED) &&!AFF_FLAGGED(vict, AFF_CHARM) && GET_SKILL(ch, SKILL_RIDING) <= number(1, 55)) {
+    act("$N suddenly bucks upwards, throwing you violently to the ground!", FALSE, ch, 0, vict, TO_CHAR);
+    act("$n is thrown to the ground as $N violently bucks!", TRUE, ch, 0, vict, TO_NOTVICT);
+    act("You buck violently and throw $n to the ground.", FALSE, ch, 0, vict, TO_VICT);
+    dismount_char(ch);
+    GET_POS(ch) = POS_SITTING;
+    chance = number(1, 10);
+
+    if (chance <= 3) 
+      damage(vict, ch, dice(1,3), -1);
+    else
+      damage(ch, ch, dice(1,3), -1);
+  }
 }
-
-
-
-
 
 ACMD(do_dismount) {
 

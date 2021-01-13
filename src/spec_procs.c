@@ -951,27 +951,24 @@ SPECIAL(bank)
     return 1;
 
   } else if (CMD_IS("deposit")) {
-
     argument = one_argument(argument, arg);
-
     amount.platinum = amount.steel = amount.gold = amount.copper = 0;
 
-    while( *arg ) {
-      if ( is_money(arg) ) {
-	struct money_data tmpAmt;
+    while(*arg) {
+      if (is_money(arg)) {
+        struct money_data tmpAmt;
 
-	tmpAmt.platinum = tmpAmt.steel = tmpAmt.gold = tmpAmt.copper = 0;
-	value_money(&tmpAmt, arg);
+        tmpAmt.platinum = tmpAmt.steel = tmpAmt.gold = tmpAmt.copper = 0;
+        value_money(&tmpAmt, arg);
 
-	amount.platinum += tmpAmt.platinum;
-	amount.steel += tmpAmt.steel;
-	amount.gold += tmpAmt.gold;
-	amount.copper += tmpAmt.copper;
-
+        amount.platinum += tmpAmt.platinum;
+        amount.steel += tmpAmt.steel;
+        amount.gold += tmpAmt.gold;
+        amount.copper += tmpAmt.copper;
       } else {
-	/*  trying money and something else...  */
-	send_to_char("Sorry, you can't do that to money and something else at the same time.\r\n", ch);
-	return 1;
+        /*  trying money and something else...  */
+        send_to_char("Sorry, you can't do that to money and something else at the same time.\r\n", ch);
+        return 1;
       }
 
       argument = one_argument(argument, arg);

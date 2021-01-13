@@ -2761,11 +2761,13 @@ ACMD(do_mstand)
 
   one_argument(argument, arg);
 
-  if (!*arg) {
+  /*if (!*arg) {
     send_to_char("Who?!?\r\n", ch);
     return;
   }
-  else if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) && !is_abbrev(arg, "followers"))
+  else if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) && !is_abbrev(arg, "followers"))*/
+
+  if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) && !is_abbrev(arg, "followers"))
     send_to_char("That person isn't here.\r\n", ch);
   else if (ch == vict)
     send_to_char("You obviously suffer from skitzofrenia.\r\n", ch);
@@ -2783,7 +2785,7 @@ ACMD(do_mstand)
         act("$n has an indifferent look.", FALSE, vict, 0, 0, TO_ROOM);
 
       else if (!IS_NPC(vict) || !MOB_FLAGGED(vict, MOB_MOUNTABLE))  {
-      send_to_char("They are not a mount!!\r\n", ch);
+      send_to_char("They are not a mount!\r\n", ch);
       return;
      }
 
