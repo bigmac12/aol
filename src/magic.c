@@ -2034,7 +2034,7 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
     break;
 
   case SPELL_BARKSKIN:
-    if (affected_by_spell(victim, SPELL_ARMOR) || affected_by_spell(victim, SPELL_MAGIC_VEST)) {
+    if (affected_by_spell(victim, SPELL_MAGIC_VEST)) {
       send_to_char(NOEFFECT, ch);
       return;
     }
@@ -2149,11 +2149,6 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
     break;
 
   case SPELL_MAGIC_VEST:
-    if (affected_by_spell(victim, SPELL_ARMOR) || affected_by_spell(victim, SPELL_BARKSKIN)) {
-      send_to_char(NOEFFECT, ch);
-      return;
-    }
-
     af[0].location = APPLY_AC;
     af[0].modifier = -40;
     af[0].duration = 4;
