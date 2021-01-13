@@ -2767,6 +2767,8 @@ ACMD(do_mstand) {
           command_interpreter(k->follower, "stand");
         }
     }
+    return;
+
   } else if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) && !is_abbrev(arg, "followers")) {
     send_to_char("That person isn't here.\r\n", ch);
   } else if (ch == vict) {
