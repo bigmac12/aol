@@ -1020,56 +1020,44 @@ void mag_damage(int level, struct char_data * ch, struct char_data * victim, int
 
 #define MAX_SPELL_AFFECTS 6	/* change if more needed */
 
-void mag_affects(int level, struct char_data * ch, struct char_data * victim, int spellnum, int savetype)
-{
+void mag_affects(int level, struct char_data * ch, struct char_data * victim, int spellnum, int savetype) {
   struct affected_type af[MAX_SPELL_AFFECTS];
   struct char_data *mob = NULL;
   struct char_data *target = NULL, *next_target;
 
   int is_mage = FALSE, is_cleric = FALSE;
-  int a = 0, thing, b = 0;
+  int a = 0, poly_animal_type, b = 0;
   int i, random, rand = 0;
   int factor = 0, aggressive = spell_info[spellnum].violent;
 
   bool accum_affect = FALSE, accum_duration = FALSE;
   char *to_vict = NULL, *to_room = NULL;
 
-  if (victim == NULL || ch == NULL)
-  {
-    return;
-  }
-
-  if (GET_POS(victim) <= POS_DEAD) 
-  {
+  if(victim == NULL || ch == NULL) || GET_POS(victim) <= POS_DEAD) {
     return;
   }
 
   is_mage = (GET_CLASS(ch) == (CLASS_MAGE));
   is_cleric = (GET_CLASS(ch) == (CLASS_CLERIC | CLASS_DRUID));
 
-   for (i = 0; i < MAX_SPELL_AFFECTS; i++) 
-   {
+   for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
      af[i].type = spellnum;
      af[i].bitvector = 0;
      af[i].modifier = 0;
      af[i].location = APPLY_NONE;
   }
 
-  if ((factor = mag_savingthrow_new(ch, victim, aggressive, savetype, spellnum)) < 50 )
-  {
-    if (!aggressive) 
-    {
+  if ((factor = mag_savingthrow_new(ch, victim, aggressive, savetype, spellnum)) < 50 ) {
+    if (!aggressive) {
       send_to_char("You were unable to summon enough energy and concentration to complete the spell.\r\n", ch);
       return;
     }
   }
 
-
   while (affected_by_spell(victim, spellnum) && spell_info[spellnum].violent == FALSE)
     affect_from_char(victim, spellnum);
 
-  switch (spellnum) 
-  {
+  switch (spellnum) {
   case SPELL_SK_CHALLENGE:
     af[0].location = APPLY_HITROLL;
     af[0].modifier = (MAX(1, GET_LEVEL(ch) / 15));
@@ -1102,965 +1090,515 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
     break;
 
   case SPELL_POLYMORPH:
-  if (PLR_FLAGGED(victim, PLR_RABBIT)   || PLR_FLAGGED(victim, PLR_BIRD) ||
-      PLR_FLAGGED(victim, PLR_WOLF)     || PLR_FLAGGED(victim, PLR_BEAR) || 
-      PLR_FLAGGED(victim, PLR_CAT))
-  {
-     return;
-  }
+    if (PLR_FLAGGED(victim, PLR_RABBIT)   || PLR_FLAGGED(victim, PLR_BIRD) ||
+        PLR_FLAGGED(victim, PLR_WOLF)     || PLR_FLAGGED(victim, PLR_BEAR) || 
+        PLR_FLAGGED(victim, PLR_CAT)) {
+      return;
+    }
 
-   for (i = 0; i < NUM_WEARS; i++)
-
-    if (GET_EQ(ch, i))
-    {
-        if (i == WEAR_WIELD) 
-        {
+    for (i = 0; i < NUM_WEARS; i++) {
+      if (GET_EQ(ch, i)) {
+        if (i == WEAR_WIELD) {
             send_to_char("But you can't be wielding a weapon to cast this spell!\r\n", ch);
             return;
         }
+      }
     }
 
-  thing = number(GET_LEVEL(ch)/2, GET_LEVEL(ch));
-
-  thing += GET_STR(ch);
-
-
-
-  free(ch->char_specials.name_dis);
-
- ch->char_specials.name_dis = (char*) NULL;
-
- free(ch->char_specials.desc_dis);
-
- ch->char_specials.desc_dis = (char*) NULL;
-
- free(ch->char_specials.ldesc_dis);
-
- ch->char_specials.ldesc_dis = (char*) NULL;
-
-
-
-
-
-if (!IS_MAGE(ch)) {
-
-    if (thing <= 15) 
-
-   rand = 1;
-
-    else if (thing <= 25) 
-
-    rand = number(1, 2);
-
-   else if (thing <= 25) 
-
-     rand = number(1, 3);
-
-  else if (thing <= 35)
-
-     rand = number(1, 4);
-
-  else 
-
-    rand = number(1, 5);
-
-}
-
-
-
-else if (IS_MAGE(ch)) {
-
-  if (IS_GOOD(ch))
-
-    rand = number(6, 7);
-
-   else if (IS_NEUTRAL(ch))
-
-    rand = number(8, 9);
-
-  else
-
-      rand = number(9, 10);
-
-}
-
-switch (rand) {
-
-case 1:
-
-     sprintf(buf, "a small hummingbird");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_BIRD);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);  
-
-
-
-      af[0].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[0].modifier = 0;
-
-      af[0].bitvector = AFF_FLIGHT;
-
-      af[0].location = APPLY_NONE;
-
-      af[0].type = SPELL_FLIGHT;
-
-
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_DEX;
-
-      af[2].modifier = 1;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -(2+ (GET_LEVEL(ch) >= 30));
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = +10;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-       accum_affect = FALSE;
-
-       accum_duration = FALSE;
-
- 
-
- mob = read_mobile( 2319, VIRTUAL);
-
- char_to_room(mob, 0);
-
- ch->char_specials.name_dis = str_dup("a small hummingbird");
-
-   free(ch->char_specials.desc_dis);
-
-   ch->char_specials.desc_dis = str_dup("&yA small hummingbird constantly darts about here.&n");
-
-break;
-
-  case 2:
-
-     sprintf(buf, "a fluffy-tailed white rabbit");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_RABBIT);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
-
-
-
-      af[0].type = SPELL_HASTE;
-
-      af[0].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[0].modifier = 0;
-
-      af[0].bitvector = AFF_HASTE;
-
-      af[0].location = APPLY_NONE;
-
-
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_DEX;
-
-      af[2].modifier = 1;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -(2 + (GET_LEVEL(ch) >= 30));
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = +10;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-       accum_affect = FALSE;
-
-       accum_duration = FALSE;
-
-
-
-     mob = read_mobile(6001, VIRTUAL);
-
-     char_to_room(mob, 0);
-
-      ch->char_specials.name_dis = str_dup("a fluffy-tailed white rabbit");
-
-       free(ch->char_specials.desc_dis);
-
-    ch->char_specials.desc_dis = str_dup("&yA fluffy-tailed white rabbit hops along here.&n");
-
-  break;
-
-case 3:
-
-     sprintf(buf, "a large black cat");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_CAT);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_DEX;
-
-      af[2].modifier = 1;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -(1 + (GET_LEVEL(ch) >= 30));
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = +10;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-       accum_affect = FALSE;
-
-       accum_duration = FALSE;
-
-     
-
-     mob = read_mobile( 6283, VIRTUAL);
-
-     char_to_room(mob, 0);
-
-      ch->char_specials.name_dis = str_dup("a large black cat");
-
-      free(ch->char_specials.desc_dis);
-
-     ch->char_specials.desc_dis = str_dup("&yA large black cat stretches lazily here.&n");
-
-break;
-
-case 4:
-
-     sprintf(buf, "a large timber wolf");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_WOLF);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
-
-
-
-      af[0].type = SPELL_HASTE;
-
-      af[0].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[0].modifier = 0;
-
-      af[0].bitvector = AFF_HASTE;
-
-      af[0].location = APPLY_NONE;
-
-
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_HITROLL;
-
-      af[2].modifier = 1;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -1;
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = -2;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-      accum_affect = FALSE;
-
-    accum_duration = FALSE;
-
-
-
-     mob = read_mobile( 4992, VIRTUAL);
-
-     char_to_room(mob, 0);
-
-      ch->char_specials.name_dis = str_dup("a sleek, grey and black timberwolf");
-
-       free(ch->char_specials.desc_dis);
-
-     ch->char_specials.desc_dis = str_dup("&yA  sleek, grey and black timberwolf paces around, its eyes searching the area restlessly.&n");
-
-break;
-
-case 5:
-
-     sprintf(buf, "a black bear");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_BEAR);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
-
-
-
-      af[0].type = SPELL_POLYMORPH;
-
-      af[0].location = 0;
-
-      af[0].modifier = 0;
-
-      af[0].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[0].bitvector = AFF_INFRAVISION;
-
-
-
-      af[1].location = APPLY_DEX;
-
-      af[1].modifier = -(1 + (GET_LEVEL(ch) >= 30));
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_POLYMORPH;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_AC;
-
-      af[2].modifier = -3;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = 1;
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-     af[4].location = APPLY_DAMROLL;
-
-      af[4].modifier = 1;
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-    accum_affect = FALSE;
-
-    accum_duration = FALSE;
-
-      
-
-
-
-    mob = read_mobile(79, VIRTUAL);
-
-     char_to_room(mob, 0);
-
-     ch->char_specials.name_dis = str_dup("a black bear");
-
-       free(ch->char_specials.desc_dis);
-
-    ch->char_specials.desc_dis = str_dup("&yA black bear rears up on its hind legs, sniffing the air.&n");
-
-break;
-
-case 6:
-
-sprintf(buf, "a snow-white owl");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_BIRD);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);  
-
-
-
-      af[0].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[0].modifier = 0;
-
-      af[0].bitvector = AFF_FLIGHT;
-
-      af[0].location = APPLY_NONE;
-
-      af[0].type = SPELL_FLIGHT;
-
-
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_MOVE;
-
-      af[2].modifier = +50;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -(2+ (GET_LEVEL(ch) >= 30));
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = +10;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-       accum_affect = FALSE;
-
-       accum_duration = FALSE;
-
-  mob = read_mobile(6042, VIRTUAL);
-
-  char_to_room(mob, 0);
-
-  ch->char_specials.name_dis = str_dup("a snow-white owl");
-
-       free(ch->char_specials.desc_dis);
-
-    ch->char_specials.desc_dis = str_dup("&yA snow-white owl flies over the area, perhaps looking for prey.&n");
-
-break;
-
-case 7:
-
- sprintf(buf, "a large white cat");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_CAT);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_DEX;
-
-      af[2].modifier = 1;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -(1 + (GET_LEVEL(ch) >= 30));
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = +10;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-       accum_affect = FALSE;
-
-       accum_duration = FALSE;
-
-      mob = read_mobile(3519, VIRTUAL);
-
-     char_to_room(mob, 0);
-
-      ch->char_specials.name_dis = str_dup("a large white cat");
-
-      free(ch->char_specials.desc_dis);
-
-     ch->char_specials.desc_dis = str_dup("&yA large white cat wanders the area, looking a bit sleepy.&n");
-
-break;
-
-case 8:
-
-     sprintf(buf, "a large tabby");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_CAT);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_DEX;
-
-      af[2].modifier = 1;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -(1 + (GET_LEVEL(ch) >= 30));
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = +10;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-       accum_affect = FALSE;
-
-       accum_duration = FALSE;
-
-      mob = read_mobile(4731, VIRTUAL);
-
-     char_to_room(mob, 0);
-
-      ch->char_specials.name_dis = str_dup("a large tabby");
-
-      free(ch->char_specials.desc_dis);
-
-     ch->char_specials.desc_dis = str_dup("&yA large red tabby pads quietly about the area, looking for prey.&n");
-
-break;
-
-case 9:
-
-sprintf(buf, "a majestic falcon");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_BIRD);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);  
-
-      af[0].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[0].modifier = 0;
-
-      af[0].bitvector = AFF_FLIGHT;
-
-      af[0].location = APPLY_NONE;
-
-      af[0].type = SPELL_FLIGHT;
-
-
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_MOVE;
-
-      af[2].modifier = +30;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -(2+ (GET_LEVEL(ch) >= 30));
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = +10;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-       accum_affect = FALSE;
-
-       accum_duration = FALSE;
-
-  mob = read_mobile(13, VIRTUAL);
-
-  char_to_room(mob, 0);
-
-  ch->char_specials.name_dis = str_dup("a majestic falcon");
-
-       free(ch->char_specials.desc_dis);
-
-    ch->char_specials.desc_dis = str_dup("&yA beautiful bird majestically soars over the area.&n");
-
-break;
-
-case 10:
-
-sprintf(buf, "a common crow");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_BIRD);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);  
-
-      af[0].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[0].modifier = 0;
-
-      af[0].bitvector = AFF_FLIGHT;
-
-      af[0].location = APPLY_NONE;
-
-      af[0].type = SPELL_FLIGHT;
-
-
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_MOVE;
-
-      af[2].modifier = +30;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -(2+ (GET_LEVEL(ch) >= 30));
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = +10;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-       accum_affect = FALSE;
-
-       accum_duration = FALSE;
-
-
-
-      mob = read_mobile(4124, VIRTUAL);
-
-     char_to_room(mob, 0);
-
-  ch->char_specials.name_dis = str_dup("a common crow");
-
-       free(ch->char_specials.desc_dis);
-
-    ch->char_specials.desc_dis = str_dup("&yA common crow flies overhead, looking for a place to perch.&n");
-
-break;
-
-case 11:
-
- sprintf(buf, "a black cat");
-
-     SET_BIT(PLR_FLAGS(victim), PLR_CAT);
-
-     SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
-
-      af[1].type = SPELL_POLYMORPH;
-
-      af[1].location = 0;
-
-      af[1].modifier = 0;
-
-      af[1].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[1].bitvector = AFF_INFRAVISION;
-
-
-
-      af[2].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[2].location = APPLY_DEX;
-
-      af[2].modifier = 1;
-
-      af[2].bitvector = AFF_POLYMORPH;
-
-
-
-      af[3].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[3].location = APPLY_STR;
-
-      af[3].modifier = -(1 + (GET_LEVEL(ch) >= 30));
-
-      af[3].bitvector = AFF_POLYMORPH;
-
-
-
-      af[4].duration = (GET_LEVEL(ch) / 2) + 5;
-
-      af[4].location = APPLY_AC;
-
-      af[4].modifier = +10;
-
-      af[4].bitvector = AFF_POLYMORPH;
-
-
-
-       accum_affect = FALSE;
-
-       accum_duration = FALSE;
-
-
-
-     mob = read_mobile(4125, VIRTUAL);
-
-     char_to_room(mob, 0);
-
-      ch->char_specials.name_dis = str_dup("a black cat");
-
-      free(ch->char_specials.desc_dis);
-
-     ch->char_specials.desc_dis = str_dup("&yA large cat the color of midnight prowls the area here.&n");
-
-break;
-
-          }
-
-ch->char_specials.ldesc_dis = str_dup(mob->player.description);
-
-ch->char_specials.sex_dis = mob->player.sex;
-
-extract_char(mob);
-
-
-
-for (i = 0; i < NUM_WEARS; i++)
-
-  if (GET_EQ(ch, i)){
-
-    GET_OBJ_DISGUISE(GET_EQ(ch, i)) = 2;
-
-  }
-
-
-
-  for (target = world[ch->in_room].people; target; target = next_target) {
-
-    next_target = target->next_in_room;
-
-    if (target == ch) {
-        sprintf(buf2, "You have transformed yourself into %s!", buf);
-        send_to_char(buf2, ch);
+    poly_animal_type = number(GET_LEVEL(ch)/2, GET_LEVEL(ch)) + GET_STR(ch);
+
+    free(ch->char_specials.name_dis);
+    ch->char_specials.name_dis = (char*) NULL;
+    free(ch->char_specials.desc_dis);
+    ch->char_specials.desc_dis = (char*) NULL;
+    free(ch->char_specials.ldesc_dis);
+    ch->char_specials.ldesc_dis = (char*) NULL;
+
+    if (!IS_MAGE(ch)) {
+      rand = number(1, 5);
     } else {
-        GET_NAME_II(ch, target, chname);
-        sprintf(buf2, "%s has transformed $mself into a %s!", chname, buf);
-        FREE_NAME(chname);
-        act(buf2, FALSE, ch, 0, target, TO_VICT);
+      rand = number(6, 10);
     }
-  }
 
-  break;
+    /*
+    // Why is this so complicated?
+    if (!IS_MAGE(ch)) {
+      if (poly_animal_type <= 15) 
+        rand = 1;
+      else if (poly_animal_type <= 25) 
+        rand = number(1, 3);
+      else if (poly_animal_type <= 35)
+        rand = number(1, 4);
+      else 
+        rand = number(1, 5);
+
+    } else if (IS_MAGE(ch)) {
+      if (IS_GOOD(ch))
+        rand = number(6, 7);
+      else if (IS_NEUTRAL(ch))
+        rand = number(8, 9);
+      else
+        rand = number(9, 10);
+    }
+    */
+
+    // ...why is this not a function using data structures? 
+    switch (rand) {
+      case 1:
+        sprintf(buf, "a small hummingbird");
+        SET_BIT(PLR_FLAGS(victim), PLR_BIRD);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);  
+
+        af[0].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[0].modifier = 0;
+        af[0].bitvector = AFF_FLIGHT;
+        af[0].location = APPLY_NONE;
+        af[0].type = SPELL_FLIGHT;
+
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_DEX;
+        af[2].modifier = 1;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -(2+ (GET_LEVEL(ch) >= 30));
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = -10;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+
+        mob = read_mobile( 2319, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a small hummingbird");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA small hummingbird constantly darts about here.&n");
+        break;
+
+      case 2:
+        sprintf(buf, "a fluffy-tailed white rabbit");
+        SET_BIT(PLR_FLAGS(victim), PLR_RABBIT);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
+
+        af[0].type = SPELL_HASTE;
+        af[0].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[0].modifier = 0;
+        af[0].bitvector = AFF_HASTE;
+        af[0].location = APPLY_NONE;
+
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_DEX;
+        af[2].modifier = 1;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -(2 + (GET_LEVEL(ch) >= 30));
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = -10;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+
+        mob = read_mobile(6001, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a fluffy-tailed white rabbit");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA fluffy-tailed white rabbit hops along here.&n");
+        break;
+
+      case 3:
+        sprintf(buf, "a large black cat");
+        SET_BIT(PLR_FLAGS(victim), PLR_CAT);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_DEX;
+        af[2].modifier = 1;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -(1 + (GET_LEVEL(ch) >= 30));
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = +10;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+
+        mob = read_mobile( 6283, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a large black cat");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA large black cat stretches lazily here.&n");
+        break;
+
+      case 4:
+        sprintf(buf, "a large timber wolf");
+        SET_BIT(PLR_FLAGS(victim), PLR_WOLF);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
+
+        af[0].type = SPELL_HASTE;
+        af[0].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[0].modifier = 0;
+        af[0].bitvector = AFF_HASTE;
+        af[0].location = APPLY_NONE;
+
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_HITROLL;
+        af[2].modifier = 1;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -1;
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = -2;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+
+        mob = read_mobile( 4992, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a sleek, grey and black timberwolf");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA  sleek, grey and black timberwolf paces around, its eyes searching the area restlessly.&n");
+        break;
+
+      case 5:
+        sprintf(buf, "a black bear");
+        SET_BIT(PLR_FLAGS(victim), PLR_BEAR);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
+
+        af[0].type = SPELL_POLYMORPH;
+        af[0].location = 0;
+        af[0].modifier = 0;
+        af[0].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[0].bitvector = AFF_INFRAVISION;
+
+        af[1].location = APPLY_DEX;
+        af[1].modifier = -(1 + (GET_LEVEL(ch) >= 30));
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_POLYMORPH;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_AC;
+        af[2].modifier = -3;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = 1;
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].location = APPLY_DAMROLL;
+        af[4].modifier = 1;
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+
+        mob = read_mobile(79, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a black bear");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA black bear rears up on its hind legs, sniffing the air.&n");
+        break;
+
+      case 6:
+        sprintf(buf, "a snow-white owl");
+        SET_BIT(PLR_FLAGS(victim), PLR_BIRD);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);  
+
+        af[0].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[0].modifier = 0;
+        af[0].bitvector = AFF_FLIGHT;
+        af[0].location = APPLY_NONE;
+        af[0].type = SPELL_FLIGHT;
+
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_MOVE;
+        af[2].modifier = +50;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -(2+ (GET_LEVEL(ch) >= 30));
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = +10;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+        mob = read_mobile(6042, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a snow-white owl");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA snow-white owl flies over the area, perhaps looking for prey.&n");
+        break;
+
+      case 7:
+        sprintf(buf, "a large white cat");
+        SET_BIT(PLR_FLAGS(victim), PLR_CAT);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_DEX;
+        af[2].modifier = 1;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -(1 + (GET_LEVEL(ch) >= 30));
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = +10;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+        mob = read_mobile(3519, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a large white cat");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA large white cat wanders the area, looking a bit sleepy.&n");
+        break;
+
+      case 8:
+        sprintf(buf, "a large tabby");
+        SET_BIT(PLR_FLAGS(victim), PLR_CAT);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_DEX;
+        af[2].modifier = 1;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -(1 + (GET_LEVEL(ch) >= 30));
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = +10;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+        mob = read_mobile(4731, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a large tabby");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA large red tabby pads quietly about the area, looking for prey.&n");
+        break;
+
+      case 9:
+        sprintf(buf, "a majestic falcon");
+        SET_BIT(PLR_FLAGS(victim), PLR_BIRD);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);  
+        af[0].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[0].modifier = 0;
+        af[0].bitvector = AFF_FLIGHT;
+        af[0].location = APPLY_NONE;
+        af[0].type = SPELL_FLIGHT;
+
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_MOVE;
+        af[2].modifier = +30;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -(2+ (GET_LEVEL(ch) >= 30));
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = +10;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+        mob = read_mobile(13, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a majestic falcon");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA beautiful bird majestically soars over the area.&n");
+        break;
+
+      case 10:
+        sprintf(buf, "a common crow");
+        SET_BIT(PLR_FLAGS(victim), PLR_BIRD);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);  
+        af[0].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[0].modifier = 0;
+        af[0].bitvector = AFF_FLIGHT;
+        af[0].location = APPLY_NONE;
+        af[0].type = SPELL_FLIGHT;
+
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_MOVE;
+        af[2].modifier = +30;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -(2+ (GET_LEVEL(ch) >= 30));
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = +10;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+
+        mob = read_mobile(4124, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a common crow");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA common crow flies overhead, looking for a place to perch.&n");
+        break;
+
+      case 11:
+        sprintf(buf, "a black cat");
+        SET_BIT(PLR_FLAGS(victim), PLR_CAT);
+        SET_BIT(PRF_FLAGS(victim), PRF_NOTSELF);
+        af[1].type = SPELL_POLYMORPH;
+        af[1].location = 0;
+        af[1].modifier = 0;
+        af[1].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[1].bitvector = AFF_INFRAVISION;
+
+        af[2].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[2].location = APPLY_DEX;
+        af[2].modifier = 1;
+        af[2].bitvector = AFF_POLYMORPH;
+
+        af[3].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[3].location = APPLY_STR;
+        af[3].modifier = -(1 + (GET_LEVEL(ch) >= 30));
+        af[3].bitvector = AFF_POLYMORPH;
+
+        af[4].duration = (GET_LEVEL(ch) / 2) + 5;
+        af[4].location = APPLY_AC;
+        af[4].modifier = +10;
+        af[4].bitvector = AFF_POLYMORPH;
+
+        accum_affect = FALSE;
+        accum_duration = FALSE;
+
+        mob = read_mobile(4125, VIRTUAL);
+        char_to_room(mob, 0);
+        ch->char_specials.name_dis = str_dup("a black cat");
+        free(ch->char_specials.desc_dis);
+        ch->char_specials.desc_dis = str_dup("&yA large cat the color of midnight prowls the area here.&n");
+        break;
+    }
+
+    ch->char_specials.ldesc_dis = str_dup(mob->player.description);
+    ch->char_specials.sex_dis = mob->player.sex;
+    extract_char(mob);
+
+    for (i = 0; i < NUM_WEARS; i++) {
+      if (GET_EQ(ch, i)) {
+        GET_OBJ_DISGUISE(GET_EQ(ch, i)) = 2;
+      }
+
+      for (target = world[ch->in_room].people; target; target = next_target) {
+        next_target = target->next_in_room;
+
+        if (target == ch) {
+          sprintf(buf2, "You have transformed yourself into %s!", buf);
+          send_to_char(buf2, ch);
+        } else {
+          GET_NAME_II(ch, target, chname);
+          sprintf(buf2, "%s has transformed $mself into a %s!", chname, buf);
+          FREE_NAME(chname);
+          act(buf2, FALSE, ch, 0, target, TO_VICT);
+        }
+      }
+    }
+    break;
 
   case SPELL_ARMOR:
-    if (affected_by_spell(victim, SPELL_BARKSKIN) ||
-        affected_by_spell(victim, SPELL_MAGIC_VEST))
-    {
+    if (affected_by_spell(victim, SPELL_BARKSKIN) || affected_by_spell(victim, SPELL_MAGIC_VEST)) {
       send_to_char("Nothing seems to happen.\r\n", ch);
       return;
     }
@@ -2070,7 +1608,6 @@ for (i = 0; i < NUM_WEARS; i++)
     af[0].duration = 24;
     accum_duration = FALSE;
     to_vict = "You feel someone protecting you.";
-
     break;
 
   case SPELL_AID:
@@ -2080,15 +1617,11 @@ for (i = 0; i < NUM_WEARS; i++)
 
     accum_duration = FALSE;
     to_vict = "You are aided by the gods.";
-
     break;
 
     /*  Aid also affects with bless - therefore, no break for this case  */
   case SPELL_BLESS:
-    if (affected_by_spell(victim, SPELL_THORNFLESH) ||
-       (affected_by_spell(victim, SPELL_DIVINE_WRATH)) ||
-       (affected_by_spell(victim, SPELL_BLESS)))
-    {
+    if (affected_by_spell(victim, SPELL_THORNFLESH) || (affected_by_spell(victim, SPELL_DIVINE_WRATH)) || (affected_by_spell(victim, SPELL_BLESS))) {
       send_to_char(NOEFFECT, ch);
       return;
     }
@@ -2105,362 +1638,191 @@ for (i = 0; i < NUM_WEARS; i++)
 
     accum_duration = FALSE;
     to_vict = "You feel righteous.";
-
     break;
 
   case SPELL_BLINDNESS:
 
     if (MOB_FLAGGED(victim,MOB_NOBLIND) || factor < 50) {
-
       if (GET_POS(victim) != POS_FIGHTING && IS_NPC(victim))
-
         hit(victim, ch, TYPE_UNDEFINED);
 
       return;
-
     }
-
-
 
     af[0].location = APPLY_HITROLL;
-
     af[0].modifier = -4;
-
     af[0].duration = 2;
-
     af[0].bitvector = AFF_BLIND;
 
-
-
     af[1].location = APPLY_AC;
-
     af[1].modifier = 40;
-
     af[1].duration = 2;
-
     af[1].bitvector = AFF_BLIND;
 
-
-
     to_room = "$n seems to be blinded!";
-
     to_vict = "You have been blinded!";
-
     break;
 
-  
-
   case SPELL_BESTOW_CURSE:
-
-
-
-    if (factor < 50)
-
-    {
-
+    if (factor < 50) {
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim))
-
         hit(victim, ch, TYPE_UNDEFINED);
 
       return;
-
     }
 
-
-
-    if (IS_AFFECTED(victim, AFF_CURSE))
-
-    {
-
+    if (IS_AFFECTED(victim, AFF_CURSE)) {
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
-
-
 
     random = number(1, 5);
-
     af[0].duration = 215;
-
     af[0].bitvector = AFF_CURSE;
 
-
-
-    switch (random)
-
-    {
-
+    switch (random) {
       case 1:
-
         af[0].location = APPLY_HITROLL;
-
         af[0].modifier = -(2 + (GET_LEVEL(ch) / 15));
-
         break;
 
       case 2:
-
         af[0].location = APPLY_DAMROLL;
-
         af[0].modifier = -(1 + (GET_LEVEL(ch) / 15));
-
         break;
 
       case 3:
-
         af[0].location = APPLY_STR;
-
         af[0].modifier = -(1 + (GET_LEVEL(ch) >= 30));
-
         break;
 
       case 4:
-
         af[0].location = APPLY_DEX;
-
         af[0].modifier = -(1 + (GET_LEVEL(ch) >= 30));
-
         break;
 
       case 5:
-
         af[0].location = APPLY_CON;
-
         af[0].modifier = -(1 + (GET_LEVEL(ch) >= 30));
-
         break;
-
     }
 
-
-
     to_room = "$n briefly glows red!";
-
     to_vict = "You feel very uncomfortable.";
 
     break;
 
-
-
   case SPELL_DETECT_ALIGN:
-
     af[0].duration = 12 + level;
-
     af[0].bitvector = AFF_DETECT_ALIGN;
-
     accum_duration = FALSE;
-
     to_vict = "Your eyes tingle.";
-
     break;
-
-
 
   case SPELL_CONCEAL_ALIGN:
-
     af[0].duration = 12 + (GET_LEVEL(ch) >> 2);
-
     af[0].bitvector = AFF_CONCEAL_ALIGN;
-
     accum_duration = FALSE;
-
     to_vict = "The hairs on the back of your neck stand up.";
-
     break;
-
-
 
   case SPELL_DETECT_INVIS:
-
     af[0].duration = 12 + level;
-
     af[0].bitvector = AFF_DETECT_INVIS;
-
     accum_duration = FALSE;
-
     to_vict = "Your eyes tingle.";
-
     break;
-
-
 
   case SPELL_DETECT_MAGIC:
-
     af[0].duration = 12 + level;
-
     af[0].bitvector = AFF_DETECT_MAGIC;
-
     accum_duration = FALSE;
-
     to_vict = "Your eyes tingle.";
-
     break;
-
-
 
   case SPELL_INFRAVISION:
-
     af[0].duration = 12 + level;
-
     af[0].bitvector = AFF_INFRAVISION;
-
     accum_duration = FALSE;
-
     to_vict = "Your eyes glow red.";
-
     to_room = "$n's eyes glow red.";
-
     break;
-
-
 
   case SPELL_INVISIBILITY:
-
     if (!victim)
-
       victim = ch;
 
-
-
     af[0].duration = 12 + (GET_LEVEL(ch) >> 2);
-
     af[0].modifier = -40;
-
     af[0].location = APPLY_AC;
-
     af[0].bitvector = AFF_INVISIBLE;
-
     accum_duration = FALSE;
-
     to_vict = "You vanish.";
-
     to_room = "$n slowly fades out of existence.";
-
     break;
-
-
 
   case SPELL_POISON:
-
     if (factor < 50) {
-
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
-
       return;
-
     }
 
-
-
     af[0].location = APPLY_STR;
-
     af[0].duration = GET_LEVEL(ch);
-
     af[0].modifier = -2;
-
     af[0].bitvector = AFF_POISON;
-
     to_vict = "You feel very sick.";
-
     to_room = "$n gets violently ill.";
-
     accum_affect = TRUE;
-
     break;
-
-
 
   case SPELL_PROT_FROM_EVIL:
-
     af[0].type = SPELL_PROT_FROM_EVIL;
-
     af[0].bitvector = AFF_PROTECT_EVIL; 
-
     af[0].duration = 24;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = -10;
-
-    
 
     af[1].type = SPELL_PROT_FROM_EVIL;
-
     af[1].location = APPLY_SAVING_SPELL;
-
     af[1].modifier = -5;
-
     af[1].duration = 24;
-
-
 
     to_vict = "You feel protected from evil.";
-
     break;
-
-
 
   case SPELL_PROT_FROM_GOOD:
-
     af[0].type = SPELL_PROT_FROM_GOOD;
-
     af[0].bitvector = AFF_PROTECT_GOOD; 
-
     af[0].duration = 24;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = -10;
-
-
 
     af[1].type = SPELL_PROT_FROM_GOOD;
-
     af[1].location = APPLY_SAVING_SPELL;
-
     af[1].modifier = -5;
-
     af[1].duration = 24;
 
-
-
     to_vict = "You feel protected from good.";
-
     break;
-
-
 
   case SPELL_PROT_FROM_FIRE:
-
     af[0].type = SPELL_PROT_FROM_FIRE;
-
     af[0].duration = 24;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = -10;
-
-
 
     to_vict = "You feel protected from fire.";
-
     break;
 
-
-
   case SPELL_PROT_FROM_FROST:
-
     af[0].type = SPELL_PROT_FROM_FROST;
-
     af[0].duration = 24;
     af[0].location = APPLY_AC;
     af[0].modifier = -10;
-    to_vict = "You feel protected from cold.";
 
+    to_vict = "You feel protected from cold.";
     break;
 
   case SPELL_PROT_FROM_ELEMENTS:
@@ -2474,7 +1836,6 @@ for (i = 0; i < NUM_WEARS; i++)
     af[1].duration = 24;
 
     to_vict = "You feel protected from the elements.";
-
     break;
 
   case SPELL_PROT_FROM_UNDEAD:
@@ -2483,88 +1844,44 @@ for (i = 0; i < NUM_WEARS; i++)
     af[0].location = APPLY_AC;
     af[0].modifier = -10;
 
-
     /*
     af[1].type = SPELL_PROT_FROM_UNDEAD;
-
     af[1].location = APPLY_SAVING_SPELL;
-
     af[1].modifier = -3;
-
     af[1].duration = 24;
     */
 
     to_vict = "You feel protected from undead beings.";
-
     break;
-
-
 
   case SPELL_SANCTUARY:
-
-    if (affected_by_spell(victim, SPELL_MINOR_SANCTUARY) ||
-
-        affected_by_spell(victim, SPELL_FIRE_SHIELD) ||
-
-        affected_by_spell(victim, SPELL_THORNSHIELD))
-
-    {
-
+    if (affected_by_spell(victim, SPELL_MINOR_SANCTUARY) || affected_by_spell(victim, SPELL_FIRE_SHIELD) || affected_by_spell(victim, SPELL_THORNSHIELD)) {
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
 
-
-
     af[0].duration = 4;
-
     af[0].bitvector = AFF_SANCTUARY;
-
     to_vict = "A white aura momentarily surrounds you.";
-
     to_room = "$n is surrounded by a white aura.";
-
     break;
 
-
-
   case SPELL_MINOR_SANCTUARY:
-
-    if (affected_by_spell(victim, SPELL_SANCTUARY) ||
-
-        affected_by_spell(victim, SPELL_FIRE_SHIELD) ||
-
-        affected_by_spell(victim, SPELL_THORNSHIELD))
-
-    {
-
+    if (affected_by_spell(victim, SPELL_SANCTUARY) || affected_by_spell(victim, SPELL_FIRE_SHIELD) || affected_by_spell(victim, SPELL_THORNSHIELD)) {
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
 
-
-
     af[0].duration = 4;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
 
     to_vict = "A faint white aura momentarily surrounds you.";
-
     to_room = "$n is surrounded by a faint white aura.";
-
     break;
 
-
-
   case SPELL_SLEEP:
-    if (MOB_FLAGGED(victim, MOB_NOSLEEP) || factor < 50 || affected_by_spell(victim, SPELL_IMPERVIOUS_MIND))
-    {
+    if (MOB_FLAGGED(victim, MOB_NOSLEEP) || factor < 50 || affected_by_spell(victim, SPELL_IMPERVIOUS_MIND)) {
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim))
         hit(victim, ch, TYPE_UNDEFINED);
       return;
@@ -2582,7 +1899,6 @@ for (i = 0; i < NUM_WEARS; i++)
     break;
 
   case SPELL_STRENGTH:
-
     af[0].location = APPLY_STR;
     af[0].duration = (GET_LEVEL(ch) >> 1) + 4;
 
@@ -2599,11 +1915,9 @@ for (i = 0; i < NUM_WEARS; i++)
     accum_affect = FALSE;
 
     to_vict = "You feel stronger.";
-
     break;
 
   case SPELL_ENHANCE_AGILITY:
-
     af[0].location = APPLY_DEX;
     af[0].duration = (GET_LEVEL(ch) >> 1) + 4;
 
@@ -2620,11 +1934,9 @@ for (i = 0; i < NUM_WEARS; i++)
     accum_affect = FALSE;
 
     to_vict = "You feel more agile.";
-
     break;
 
   case SPELL_ENHANCE_ENDURANCE:
-
     af[0].location = APPLY_CON;
     af[0].duration = (GET_LEVEL(ch) >> 1) + 4;
 
@@ -2641,11 +1953,9 @@ for (i = 0; i < NUM_WEARS; i++)
     accum_affect = FALSE;
 
     to_vict = "You feel healthier and more energetic.";
-
     break;
 
   case SPELL_ENHANCE_INSIGHT:
-
     af[0].location = APPLY_WIS;
     af[0].duration = (GET_LEVEL(ch) >> 1) + 4;
 
@@ -2662,11 +1972,9 @@ for (i = 0; i < NUM_WEARS; i++)
     accum_affect = FALSE;
 
     to_vict = "You feel more insightful.";
-
     break;
 
   case SPELL_ENHANCE_CUNNING:
-
     af[0].location = APPLY_INT;
     af[0].duration = (GET_LEVEL(ch) >> 1) + 4;
 
@@ -2683,11 +1991,9 @@ for (i = 0; i < NUM_WEARS; i++)
     accum_affect = FALSE;
 
     to_vict = "You feel smarter.";
-
     break;
 
   case SPELL_ENHANCE_CHARISMA:
-
     af[0].location = APPLY_CHA;
     af[0].duration = (GET_LEVEL(ch) >> 1) + 4;
 
@@ -2704,1037 +2010,511 @@ for (i = 0; i < NUM_WEARS; i++)
     accum_affect = FALSE;
 
     to_vict = "You feel more socially adept.";
-
     break;
-
-
 
   case SPELL_SENSE_LIFE:
-
     to_vict = "Your feel your awareness improve.";
-
     af[0].duration = GET_LEVEL(ch);
-
     af[0].bitvector = AFF_SENSE_LIFE;
-
     accum_duration = FALSE;
-
     break;
-
-
 
   case SPELL_WATER_WALK:
-
     af[0].duration = 12;
-
     af[0].bitvector = AFF_WATERWALK;
-
     accum_duration = FALSE;
-
     to_vict = "You feel webbing between your toes.";
-
     break;
-
-
 
   case SPELL_WATER_BREATHING:
-
     af[0].duration = 12;
-
     af[0].bitvector = AFF_WATERBREATH;
-
     accum_duration = FALSE;
-
     to_vict = "Gils sprout on the sides of your throat!";
-
     break;
 
-
-
   case SPELL_BARKSKIN:
-
-    if (affected_by_spell(victim, SPELL_ARMOR) ||
-
-        affected_by_spell(victim, SPELL_MAGIC_VEST))
-
-    {
-
+    if (affected_by_spell(victim, SPELL_ARMOR) || affected_by_spell(victim, SPELL_MAGIC_VEST)) {
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
 
     af[0].location = APPLY_AC;
-
     af[0].modifier = -35;
-
     af[0].duration = 24;
-
     accum_duration = FALSE;
-
     to_vict = "Your skin begins to feel thicker.";
-
     break;
-
-                            
 
   case SPELL_STONESKIN:
-
     af[0].duration = 4;
-
     af[0].bitvector = AFF_STONESKIN;
-
     to_vict = "Your skin suddenly turns incredibly hard.";
-
     to_room = "$n's skin suddenly turns granite-like.";
-
     break;
-
-                            
 
   case SPELL_FLIGHT:
-
     af[0].duration = 6;
-
     af[0].bitvector = AFF_FLIGHT;
-
     accum_duration = FALSE;
-
     to_vict = "Your feet rise from the ground.";
-
     to_room = "$n's feet rise from the ground.";
-
     break;
 
-
-
   case SPELL_WEAKNESS:
-
     if (factor < 50) {
-
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
-
-
 
     af[0].location = APPLY_STR;
 
-
-
     if (is_cleric) {
-
       af[0].modifier = -1 - (level / 10);
-
       af[0].duration = (GET_LEVEL(ch) >> 1) + 4;
-
     } else {
-
       af[0].modifier = -3;
-
       af[0].duration = 24;
-
-
-
       af[1].duration = 24;
-
       af[1].location = APPLY_AC;
-
       af[1].modifier = 20;
-
     }
 
-
-
     accum_affect = FALSE;
-
     accum_duration = FALSE;
 
     to_vict = "You feel weaker.";
-
     break;
 
-
-
   case SPELL_HASTE:
-
     af[0].duration = 6;
-
     af[0].bitvector = AFF_HASTE;
 
     accum_duration = FALSE;
-
     to_vict = "You start to move rapidly.";
-
     break;
-
-
 
   case SPELL_LIGHT:
-
     if (!victim)
-
       victim = ch;
 
-
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = GET_LEVEL(ch) / 2;
 
     accum_duration = FALSE;
-
     to_vict = "Your body begins to shine brightly.";
-
     to_room = "$n's body begins to shine brightly.";
-
     world[victim->in_room].light += 10;
-
     break;
-
-
 
   case SPELL_DARKNESS:
-
     if ((ch != victim) && (factor < 50)) {
-
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
 
-
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = GET_LEVEL(ch) / 2;
 
     accum_duration = FALSE;
-
     to_vict = "A darkness flows out from your body.";
-
     to_room = "A darkness flows out from $n's body.";
-
     world[victim->in_room].light -= 10;
-
     break;
-
-
 
    case SPELL_DONTUSEME:
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = GET_LEVEL(ch) / 2;
-
     accum_duration = FALSE;
-
     break;
-
-
 
   case SPELL_SILENCE:
-
     if (factor < 50 ) {
-
       send_to_char(NOEFFECT, ch);
-
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
-
       return;
-
     }
 
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = GET_LEVEL(ch) / 2;
 
     accum_duration = FALSE;
-
     to_vict = "You are unable to say anything now.";
-
     to_room = "$n appears to be rather silent now.";
-
     break;
 
-
-
   case SPELL_MAGIC_VEST:
-
-    if (affected_by_spell(victim, SPELL_ARMOR) ||
-
-        affected_by_spell(victim, SPELL_BARKSKIN))
-
-    {
-
+    if (affected_by_spell(victim, SPELL_ARMOR) || affected_by_spell(victim, SPELL_BARKSKIN)) {
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
 
     af[0].location = APPLY_AC;
-
     af[0].modifier = -40;
-
     af[0].duration = 4;
-
     af[0].bitvector = AFF_MAGIC_VEST;
 
     to_vict = "You feel your skin begin to harden.";
-
     break;
 
-
-
   case SPELL_FAERIE_FIRE:
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 20;
-
     af[0].duration = 1 + (GET_LEVEL(ch) / 5);
 
-
-
     if (AFF_FLAGGED(victim, AFF_HIDE))
-
        REMOVE_BIT(AFF_FLAGS(victim), AFF_HIDE);
 
     if (AFF_FLAGGED(victim, AFF_SNEAK))
-
        REMOVE_BIT(AFF_FLAGS(victim), AFF_SNEAK);
 
-
-
     to_room = "$n is outlined in flickering faerie fire!";
-
     to_vict = "$N outlines you in flickering faerie fire!";
-
     break;
 
-
-
   case SPELL_SPIRIT_HAMMER:
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = GET_LEVEL(ch);
 
     to_vict = "A magical hammer begins floating above your head.";
-
     to_room = "A magical hammer begins floating above $n's head.";
-
     break;
 
-
-
   case SPELL_FLAME_BLADE:
-
     af[0].duration = GET_LEVEL(ch);
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
 
     to_vict = "A blade of fire comes into existence.";
     to_room = "A blade of fire manifests in the hands of $n.";
-
     break;
 
-
-
   case SPELL_DEAFENING_WIND:
-
-    if (factor < 50)
-
-    {
-
+    if (factor < 50) {
       if (IS_NPC(victim) && !FIGHTING(victim) && AWAKE(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
-
       return;
-
     }
 
     af[0].duration = 6;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
 
     to_vict = "The sound of wind fills your ears, totally deafening you.";
-
     break;
 
-
-
   case SPELL_THORNSHIELD:
-
-    if (affected_by_spell(victim, SPELL_SANCTUARY) ||
-
-        affected_by_spell(victim, SPELL_MINOR_SANCTUARY) ||
-
-        affected_by_spell(victim, SPELL_FIRE_SHIELD))
-
+    if (affected_by_spell(victim, SPELL_SANCTUARY) || affected_by_spell(victim, SPELL_MINOR_SANCTUARY) || affected_by_spell(victim, SPELL_FIRE_SHIELD)) 
       return;
 
-
-
     af[0].duration = 4;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = -10;
 
     to_vict = "You are surrounded by a shield of thorns.";
-
     break;
 
-
-
   case SPELL_FREE_ACTION:
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = 4;
 
     to_vict = "You feel as though there was no weight on your body.";
-
     break;
 
-
-
   case SPELL_DISEASE:
-
-    if (factor < 50)
-
-    {
-
+    if (factor < 50) {
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
-
       return;
-
     }
 
     af[0].duration = -1;
-
     af[0].location = APPLY_CON;
-
     af[0].modifier = -2;
 
-
-
     af[1].duration = -1;
-
     af[1].location = APPLY_STR;
-
     af[1].modifier = -1;
 
-
-
     to_vict = "You have become infected with some sort of disease!";
-
     to_room = "$n has become affected with some form of disease.";
-
     break;
-
-
 
   case SPELL_WITHER:
-
-    if (factor < 50)
-
-    {
-
+    if (factor < 50) {
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
-
       return;
-
     }
 
-
-
-    if (number(0, 1))      // arm withered
-
-    {
-
+    // arm withered
+    if (number(0, 1)) {
       af[0].location = APPLY_STR;
-
       af[0].modifier = -2;
-
       af[0].duration = -1;
-
-
 
       to_vict = "One of your arms has become withered and useless!";
-
       to_room = "One of $n's arms has become withered!";
-
       lose_arm(victim);
-
-    }
-
-    else   // leg withered
-
-    {
-
+    } else {
+      // leg withered
       af[0].location = APPLY_DEX;
-
       af[0].modifier = -2;
-
       af[0].duration = -1;
 
-
-
       af[1].location = APPLY_MOVE;
-
       af[1].modifier = -(GET_MAX_MOVE(victim) / 2);
-
       af[1].duration = -1;
 
-
-
       to_vict = "One of your legs becomes withered and useless!";
-
       to_room = "One of $n's legs has become withered!";
-
     }
 
-
-
     break;
-
-
 
   case SPELL_PARALYZE:
-
-    if (affected_by_spell(victim, SPELL_FREE_ACTION) ||
-
-        affected_by_spell(victim, SPELL_IMPERVIOUS_MIND) ||
-
-        factor < 50)
-
-    {
-
+    if (affected_by_spell(victim, SPELL_FREE_ACTION) || affected_by_spell(victim, SPELL_IMPERVIOUS_MIND) || factor < 50) {
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
-
       return;
-
     }
 
-
-
     af[0].duration = level/3;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 60;
 
-
-
     af[1].duration = 3;
-
     af[1].location = APPLY_HITROLL;
-
     af[1].modifier = -3;
 
-
-
     af[2].duration = 3;
-
     af[2].location = APPLY_DAMROLL;
-
     af[2].modifier = -3;
-
   
-
     to_vict = "Your body locks up, completely paralyzing you.";
-
     to_room = "$n has become completely paralyzed.";
-
-
-
     break;
-
-
 
   case SPELL_HOLD_PERSON:
-
-    if (affected_by_spell(victim, SPELL_FREE_ACTION) ||
-
-        affected_by_spell(victim, SPELL_IMPERVIOUS_MIND))
-
+    if (affected_by_spell(victim, SPELL_FREE_ACTION) || affected_by_spell(victim, SPELL_IMPERVIOUS_MIND)) 
       return;
 
-
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 5;
-
     af[0].duration = 2;
 
-
-
     to_vict = "All the muscles in your body fail to respond.";
-
     to_room = "$n appears to be unable to move now.";
-
-
-
     break;
 
-
-
   case SPELL_ENTANGLE:
-
-    switch(world[ch->in_room].sector_type)
-
-    {
-
+    switch(world[ch->in_room].sector_type) {
       case SECT_INSIDE:
-
       case SECT_CITY:
-
       case SECT_WATER_SWIM:
-
       case SECT_WATER_NOSWIM:
-
       case SECT_FLYING:
-
       case SECT_UNUSED_1:
-
       case SECT_UNUSED_2:
-
         send_to_char("Entangle them here, with no undergrowth?", ch);
-
         return;
 
       default:
-
         break;
-
     }
-
-
 
     if (affected_by_spell(victim, SPELL_FREE_ACTION))
-
       return;
 
-
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 5;
-
     af[0].duration = 4;
-
-
 
     to_vict = "Vines and roots shoot up out of the ground and entangle you.";
-
     to_room = "Vines and roots suddenly entangle $n.";
-
-
-
     break;
-
-
 
   case SPELL_BRAVERY:
-
     af[0].location = APPLY_HITROLL;
-
     af[0].modifier = dice(1, MAX(1, (GET_CHA(ch) - 6) / 4));
-
     af[0].duration = 2 + dice(1, MAX(1, (GET_CHA(ch) - 6) / 4));
 
-
-
     af[1].location = APPLY_DAMROLL;
-
     af[1].modifier = dice(1, MAX(1, (GET_CHA(ch) - 6) / 4));
-
     af[1].duration = 2 + dice(1, MAX(1, (GET_CHA(ch) - 6) / 4));
 
-
-
     to_vict = "You feel braver.";
-
-
-
     break;
-
-
 
   case SPELL_INSPIRE_FEAR:
-
-    if (affected_by_spell(victim, SPELL_BRAVERY) ||
-
-        affected_by_spell(victim, SPELL_IMPERVIOUS_MIND) ||
-
-        (dice(1, 100) > GET_CHA(ch) && factor < 50))
-
-    {
-
+    if (affected_by_spell(victim, SPELL_BRAVERY) || affected_by_spell(victim, SPELL_IMPERVIOUS_MIND) || (dice(1, 100) > GET_CHA(ch) && factor < 50)) {
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
-
       return;
-
     }
 
-
-
     af[0].location = APPLY_HITROLL;
-
     af[0].modifier = -1;
-
     af[0].duration = 4;
-
-
 
     af[0].location = APPLY_DAMROLL;
-
     af[0].modifier = -1;
-
     af[0].duration = 4;
-
-
 
     to_vict = "You are suddenly very afraid!";
-
     to_room = "$n suddenly looks very afraid.";
-
-
-
     break;
-
-
 
   case SPELL_CLOAK_OF_FEAR:
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = -10;
-
     af[0].duration = 2;
 
-
-
     to_vict = "You are surrounded by a cloak of fear.";
-
     to_room = "$n has surrounded $mself with a cloak of fear.";
-
     break;
-
-
 
   case SPELL_THORNFLESH:
-
-    if (affected_by_spell(victim, SPELL_BLESS))
-
-    {
-
+    if (affected_by_spell(victim, SPELL_BLESS)) {
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
 
-
-
     af[0].location = APPLY_HITROLL;
-
     af[0].modifier = 1;
-
     af[0].duration = 5;
 
-
-
     af[1].location = APPLY_DAMROLL;
-
     af[1].modifier = 1;
-
     af[1].duration = 5;
 
-
-
     to_vict = "Thorns spring from your flesh enveloping your body.";
-
     to_room = "Thick, sharp thorns sprout from $n's body.";
-
     break;
-
-
 
   case SPELL_ADAMANT_MACE:
-
-    if (affected_by_spell(victim, SPELL_ADAMANT_MACE))
-
-    {
-
+    if (affected_by_spell(victim, SPELL_ADAMANT_MACE)) {
       send_to_char(NOEFFECT, ch);
-
       return;
-
-    }
-
-    else
-
-    {
-
+    } else {
       struct obj_data *wielded = GET_EQ(ch, WEAR_WIELD);
 
-
-
-      if (!wielded)
-
-      {
-
+      if (!wielded) {
         send_to_char("But you don't even have a weapon!\r\n", ch);
-
         return;
-
       }
 
-
-
-      if (IS_OBJ_STAT(wielded, ITEM_MAGIC))
-
-      {
-
+      if (IS_OBJ_STAT(wielded, ITEM_MAGIC)) {
         send_to_char("The magic in your weapon resists the spell.\r\n", ch);
-
         return;
-
       }
-
     }
-
-    
 
     af[0].location = APPLY_HITROLL;
-
     af[0].modifier = 2;
-
     af[0].duration = 4;
 
-
-
     af[1].location = APPLY_DAMROLL;
-
     af[1].modifier = 2;
-
     af[1].duration = 4;
 
-
-
     to_vict = "Your weapon takes on the hardness of adamantite.";
-
     break;
 
-
-
   case SPELL_SOUL_DRAIN:
-
-    if (factor < 50)
-
-    {
-
+    if (factor < 50) {
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
-
       return;
-
     }
 
-
-
     af[0].location = APPLY_WIS;
-
     af[0].modifier = -3;
-
     af[0].duration = -1;
 
-
-
     af[1].location = APPLY_AGE;
-
     af[1].modifier = 30;
-
     af[1].duration = -1;
-
-
 
     accum_affect = TRUE;
 
-
-
     to_vict = "You feel a strong drain on your soul, sapping your willpower.";
-
     to_room = "$n's soul appears to have been partially drained!";
 
     break;
 
-
-
   case SPELL_IMPERVIOUS_MIND:
-
     af[0].location = APPLY_SAVING_SPELL;
-
     af[0].modifier = -2;
-
     af[0].duration = 6;
 
-
-
     to_vict = "Your mind feels quite safe from magical assaults.";
-
     break;
 
-
-
   case SPELL_MYSTIC_SPIRIT:
-
-    if (affected_by_spell(victim, SPELL_MYSTIC_SPIRIT) ||
-
-        IS_AFFECTED(victim, AFF_CURSE))
-
-    {
-
+    if (affected_by_spell(victim, SPELL_MYSTIC_SPIRIT) || IS_AFFECTED(victim, AFF_CURSE)) {
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
-
-
 
     random = number(1, 4);
 
-
-
-    if (random == 1)
-
-    {
-
+    if (random == 1) {
       af[0].location = APPLY_AC;
-
       af[0].modifier = -number(GET_LEVEL(ch) / 2, GET_LEVEL(ch));
 
       to_vict = "The spirit of the armadillo augments your defensive power.";
-
       to_room = "$n has been granted the power of the armadillo.";
-
     } else if (random == 2) {
-
       af[0].location = APPLY_STR;
-
       af[0].modifier = 2;
 
       to_vict = "You feel the spirit of the bear infuse you with strength.";
-
       to_room = "$n has been infused with the spirit of the bear.";
-
     } else if (random == 3) {
-
       af[0].location = APPLY_HIT;
-
       af[0].modifier = number(10, GET_LEVEL(ch));
 
       to_vict = "You feel the spirit of the tiger infuse you with energy.";
-
       to_room = "$n briefly assumes the appearance of a tiger.";
-
     } else {  // random == 4
-
       af[0].location = APPLY_HITROLL;
-
       af[0].modifier = 1;
 
-
-
       af[1].location = APPLY_DAMROLL;
-
       af[1].modifier = 1;
-
       af[1].duration = 6;
 
       to_vict = "The spirit of the wolverine augments your combat skills.";
-
       to_room = "$n is augmented by the power of the wolverine.";
-
     }
 
-
-
     af[0].duration = 6;
-
     break;
-
-
 
   case SPELL_DIVINE_WRATH:
-
     af[0].location = APPLY_DAMROLL;
-
     af[0].modifier = 2;
-
     af[0].duration = 6;
-
     af[0].bitvector = AFF_HASTE;
 
-
-
     to_vict = "You are transported into a state of divine frenzy.";
-
     break;
-
-
 
   case SPELL_MOONBEAM:
-
     mag_affects(level, ch, victim, SPELL_FAERIE_FIRE, savetype);
-
     mag_affects(level, ch, victim, SPELL_SLOW, savetype);
-
     break;
 
-
-
   case SPELL_MIRE:
-    if (affected_by_spell(victim, SPELL_FREE_ACTION))
-    {
+    if (affected_by_spell(victim, SPELL_FREE_ACTION)) {
       return;
     }
 
@@ -3744,7 +2524,6 @@ for (i = 0; i < NUM_WEARS; i++)
 
     to_vict = "You suddenly find yourself trapped in some sort of quagmire!.";
     to_room = "$n is suddenly trapped in some sort of quagmire!.";
-
     break;
 
   case SPELL_RAINBOW:
@@ -3756,8 +2535,7 @@ for (i = 0; i < NUM_WEARS; i++)
     break;
 
   case SPELL_BLACK_PLAGUE:
-    if (affected_by_spell(victim, SPELL_BREATH_OF_LIFE) || factor < 50)
-    {
+    if (affected_by_spell(victim, SPELL_BREATH_OF_LIFE) || factor < 50) {
       return;
     }
 
@@ -3767,7 +2545,6 @@ for (i = 0; i < NUM_WEARS; i++)
 
     to_vict = "You feel very ill as a dark disease falls upon you.";
     to_room = "$n appears to have caught some sort of disease.";
-
     break;
 
   case SPELL_BREATH_OF_LIFE:
@@ -3776,17 +2553,13 @@ for (i = 0; i < NUM_WEARS; i++)
     af[0].duration = 48;
 
     to_vict = "You feel somewhat resistant to the spread of plague.";
-
     break;
 
   case SPELL_SLOW:
-    if (factor < 50)
-    {
-      if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-      {
+    if (factor < 50) {
+      if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch) {
         hit(victim, ch, TYPE_UNDEFINED);
       }
-
       return;
     }
 
@@ -3796,17 +2569,13 @@ for (i = 0; i < NUM_WEARS; i++)
 
     to_vict = "You begin moving a bit slower.";
     to_room = "$n begins moving a bit slower now.";
-
     break;
 
   case SPELL_BLACKMANTLE:
-    if (factor < 50)
-    {
-      if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-      {
+    if (factor < 50) {
+      if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch) {
         hit(victim, ch, TYPE_UNDEFINED);
       }
-
       return;
     }
 
@@ -3816,13 +2585,10 @@ for (i = 0; i < NUM_WEARS; i++)
 
     to_vict = "A black aura begins clinging to you.";
     to_room = "A black aura begins clinging to $n.";
-
     break;
 
   case SPELL_FIRE_SHIELD:
-    if (affected_by_spell(ch, SPELL_SANCTUARY) || affected_by_spell(ch, SPELL_MINOR_SANCTUARY) ||
-        affected_by_spell(ch, SPELL_THORNSHIELD))
-    {
+    if (affected_by_spell(ch, SPELL_SANCTUARY) || affected_by_spell(ch, SPELL_MINOR_SANCTUARY) || affected_by_spell(ch, SPELL_THORNSHIELD)) {
       send_to_char(NOEFFECT, ch);
       return;
     }
@@ -3833,167 +2599,88 @@ for (i = 0; i < NUM_WEARS; i++)
 
     to_vict = "A red shield of fire surrounds your body.";
     to_room = "$n is surrounded by a fire shield.";
-
     break;
-
-
 
   case SPELL_BLINK:
-
      af[0].location = APPLY_AC;
-
      af[0].modifier = 0;
-
      af[0].duration = 4;
 
-
-
      to_vict = "Your body momentarily blinks out of view.";
-
      to_room = "$n begins blinking in and out of existence.";
-
      break;
 
-
-
   case SPELL_DANCING_SWORD:
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = level * 3;
 
-
-
     to_vict = "A dancing sword fades into existence.";
-
     to_room = "A magical dancing sword fades into existence above $n.";
-
     break;
-
-
 
   case SPELL_CONE_OF_COLD:
-
     af[0].type = SPELL_SLOW;
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = level;
-
     break;
 
-
-
   case SPELL_PRISMATIC_SPRAY:
-
     if (number(0, 1)) {
-
       mag_affects(level, ch, victim, SPELL_BLINDNESS, savetype);
-
-     }
+    }
 
     if (number(0, 1)) {
-
       mag_affects(level, ch, victim, SPELL_SILENCE, savetype);
 
     }
 
     if (number(0, 1)) {
-
       mag_affects(level, ch, victim, SPELL_WEB, savetype);
-
     }
 
     if (number(0, 1)) {
-
       mag_affects(level, ch, victim, SPELL_POISON, savetype);
-
     }
 
     break;
-
-
 
   case SPELL_ARROW_OF_BONE:
-
     if (affected_by_spell(victim, SPELL_FREE_ACTION))
-
       return;
 
-
-
-    if (factor < 50)
-
-    {
-
+    if (factor < 50) {
       af[0].type = SPELL_SLOW;
-
-    to_vict = "You begin moving a bit slower.";
-
-    to_room = "$n begins moving a bit slower now.";
-
+      to_vict = "You begin moving a bit slower.";
+      to_room = "$n begins moving a bit slower now.";
     } else {
-
       af[0].type = SPELL_PARALYZE; 
-
-    to_vict = "Your body locks up, completely paralyzing you.";
-
-    to_room = "$n has become completely paralyzed.";
-
+      to_vict = "Your body locks up, completely paralyzing you.";
+      to_room = "$n has become completely paralyzed.";
     }
 
     af[0].location = APPLY_AC;
-
     af[0].modifier = 10;
-
     af[0].duration = level/2;
-
-
-
     break;
-
-
 
   case SPELL_WEB:
-
-    if (factor < 50  ||
-
-        affected_by_spell(victim, SPELL_FREE_ACTION))
-
-    {
-
+    if (factor < 50  || affected_by_spell(victim, SPELL_FREE_ACTION)) {
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
-
       return;
-
     }
 
-
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = 0;
-
     af[0].duration = 5;
 
-
-
     to_vict = "Thick webs leap out and cover you.";
-
     to_room = "Thick webs leap out and cover $n.";
-
     break;
 
-
-
   case SPELL_MINOR_GLOBE:
-
     if (affected_by_spell(victim, SPELL_MAJOR_GLOBE))
       return;
 
@@ -4005,10 +2692,7 @@ for (i = 0; i < NUM_WEARS; i++)
     to_room = "$n is surrounded by a semi-transparent globe.";
     break;
 
-
-
   case SPELL_MAJOR_GLOBE:
-
     if (affected_by_spell(victim, SPELL_MINOR_GLOBE))
       affect_from_char(victim, SPELL_MINOR_GLOBE);
 
@@ -4021,204 +2705,99 @@ for (i = 0; i < NUM_WEARS; i++)
     to_room = "$n is surrounded by a transparent shimmering globe.";
     break;
 
-
-
   case SPELL_BLUR:
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = -20;
-
     af[0].duration = level/3;
-
-
 
     to_vict = "Your body becomes blurry and unfocused.";
-
     to_room = "$n's body becomes blurry and unfocused.";
-
     break;
-
-
 
   case SPELL_SHIELD:
-
     af[0].location = APPLY_SAVING_SPELL;
-
     af[0].modifier = -15;
-
     af[0].duration = level/3;
 
-
-
     to_vict = "A faintly visible shield surrounds you.";
-
     to_room = "$n is surrounded by a faintly visible shield.";
-
     break;
 
-
-
   case SPELL_MIRROR_IMAGE:
-
   case SPELL_DECEPTIVE_IMAGERY:
-
-    if (affected_by_spell(victim, SPELL_MIRROR_IMAGE) ||
-
-        affected_by_spell(victim, SPELL_DECEPTIVE_IMAGERY))
-
+    if (affected_by_spell(victim, SPELL_MIRROR_IMAGE) || affected_by_spell(victim, SPELL_DECEPTIVE_IMAGERY))
       return;
-
-
 
     a = number(3, 5);
 
-
-
-    for (b = 0; b < a; b++)
-
-    {
-
+    for (b = 0; b < a; b++) {
       af[b].location = 1 + b;
-
       af[b].modifier = 0;
-
       af[b].duration = 4 + b;
-
     }
-
-
 
     to_vict = "A few shimmering images appear around you.";
-
     to_room = "$n has created some images of $mself!";
-
     break;
-
-
 
   case SPELL_SPELL_TURNING:
-
     if (affected_by_spell(victim, SPELL_SPELL_TURNING))
-
       return;
 
-
-
     af[0].location = APPLY_AC;
-
     af[0].duration = level;
 
-
-
     to_vict = "You ready yourself to turn oncoming spells.";
-
     to_room = "A faint blue glow momentarily surrounds $n.";
-
     break;
-
-
 
   case SPELL_ANTIMAGIC_AURA:
-
-    if (affected_by_spell(victim, SPELL_SILENCE) ||
-
-        affected_by_spell(victim, SPELL_ANTIMAGIC_AURA) ||
-
-        factor < 50 ) {
-
+    if (affected_by_spell(victim, SPELL_SILENCE) || affected_by_spell(victim, SPELL_ANTIMAGIC_AURA) || factor < 50 ) {
       send_to_char(NOEFFECT, ch);
-
       return;
-
     }
 
-
-
     af[0].location = APPLY_AC;
-
     af[0].duration = level / 2;
 
-
-
     to_vict = "A faint yellow aura suddenly clings to you.";
-
     to_room = "A faint yellowish aura suddenly clings to $n!";
-
     break;
 
-  
-
   case SPELL_MAGICAL_SUSCEPT:
-
-    if (factor < 50)
-
-    {
-
+    if (factor < 50) {
       send_to_char(NOEFFECT, ch);
 
       if (IS_NPC(victim) && AWAKE(victim) && !FIGHTING(victim) && victim != ch)
-
         hit(victim, ch, TYPE_UNDEFINED);
 
       return;
-
     }
 
-
-
     af[0].location = APPLY_SAVING_SPELL;
-
     af[0].modifier = 5;
-
     af[0].duration = -1;
 
-
-
     accum_affect = TRUE;
-
     to_vict = "You suddenly feel more susceptible to magical assault.";
-
-
-
     break;
-
-
 
   case SPELL_STATUE:
-
     af[0].location = APPLY_AC;
-
     af[0].modifier = -100;
-
     af[0].duration = 4;
 
-
-
     to_vict = "You become a stone statue.";
-
     to_room = "$n suddenly becomes a stone statue.";
-
-
-
     break;
 
-
-
   case SPELL_VAMPIRIC_AURA:
-
     af[0].location = APPLY_HITROLL;
-
     af[0].modifier = 0;
-
     af[0].duration = 2;
 
-
-
     to_vict = "You begin emitting a pale black glow.";
-
     to_room = "$n begins to emit a pale black glow.";
-
     break;
 
   case SPELL_PHANTASMAL_SNAKE:
@@ -4240,11 +2819,9 @@ for (i = 0; i < NUM_WEARS; i++)
     break;
   }
 
-  /*
-   * If this is a mob that has this affect set in its mob file, do not
+  /* If this is a mob that has this affect set in its mob file, do not
    * perform the affect.  This prevents people from un-sancing mobs
-   * by sancing them and waiting for it to fade, for example.
-   */
+   * by sancing them and waiting for it to fade, for example. */
   if (IS_NPC(victim) && !affected_by_spell(victim, spellnum)) {
     for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
       if (IS_AFFECTED(victim, af[i].bitvector)) {
@@ -4256,16 +2833,15 @@ for (i = 0; i < NUM_WEARS; i++)
 
   if (GET_POS(victim) <= POS_DEAD) return;
 
-  /*
-   * If the victim is already affected by this spell, and the spell does
-   * not have an accumulative effect, then fail the spell.
-   */
+  /* If the victim is already affected by this spell, and the spell does
+   * not have an accumulative effect, then fail the spell. */
   if (affected_by_spell(victim,spellnum) && !(accum_duration||accum_affect)) {
     send_to_char(NOEFFECT, ch);
     return;
   }
 
 /*
+  // This shit broke buffs/debuffs. Don't use it.
    for (i = 0; i < MAX_SPELL_AFFECTS; i++) {
     af[i].modifier *= factor;
     af[i].modifier /= 100;
@@ -4287,26 +2863,19 @@ for (i = 0; i < NUM_WEARS; i++)
   if (to_room != NULL)
     act(to_room, TRUE, victim, 0, ch, TO_ROOM);
 
- 
-
   GET_MOVE(victim) = MIN(GET_MOVE(victim), GET_MAX_MOVE(victim));
 }
 
-/*
- * This function is used to provide services to mag_groups.  This function
- * is the one you should change to add new group spells.
- */
+/* This function is used to provide services to mag_groups.  This function
+ * is the one you should change to add new group spells. */
 
 void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch, int spellnum, int savetype) {
   int percent = 0;
   int factor = 0, aggressive = spell_info[spellnum].violent;
 
   switch (spellnum) {
-
     case SPELL_HEALING_LIGHT:
-
       mag_points(level, ch, tch, SPELL_HEAL, savetype);
-
       break;
 
     case SPELL_SK_CHALLENGE:
@@ -4314,9 +2883,7 @@ void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch
       break;
 
     case SPELL_DIVINE_WRATH:
-
       mag_affects(level, ch, tch, SPELL_AID, savetype);
-
 
       if (!IS_NPC(ch) && !IS_NPC(tch) &&
          (IS_CLERIC(tch) || IS_PALADIN(tch)) && IS_CLERIC(ch) &&
@@ -4326,14 +2893,12 @@ void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch
 
       break;
 
-
     case SPELL_BLESSING_OF_KINGS:
 
       if (!IS_NPC(ch) && !IS_NPC(tch) &&
          (IS_CLERIC(tch) || IS_PALADIN(tch)) && IS_CLERIC(ch) &&
          (GET_GODSELECT(ch) == GET_GODSELECT(tch)))
         percent = 101;
-
 
       if (percent < 101) 
         percent = dice(1,100);
@@ -4378,28 +2943,20 @@ void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch
       send_to_char("You eat your fill of the Heroes' Feast.\r\n", tch);
 
       if (GET_COND(tch, FULL) != -1)
-
         GET_COND(tch, FULL) = 24;
 
       if (GET_COND(tch, THIRST) != -1)
-
         GET_COND(tch, THIRST) = 24;
 
       break;
 
     case SPELL_PRAYER:
-
       mag_affects(level, ch, tch, SPELL_BLESS, savetype);
-
       break;
-
   }
-
 }
 
-
-/*
- * Every spell that affects the group should run through here
+/* Every spell that affects the group should run through here
  * perform_mag_groups contains the switch statement to send us to the right
  * magic.
  *
@@ -4407,12 +2964,9 @@ void perform_mag_groups(int level, struct char_data * ch, struct char_data * tch
  * caster last.
  *
  * To add new group spells, you shouldn't have to change anything in
- * mag_groups -- just add a new case to perform_mag_groups.
- */
+ * mag_groups -- just add a new case to perform_mag_groups. */
 
-void mag_groups(int level, struct char_data * ch, int spellnum, int savetype)
-{
-
+void mag_groups(int level, struct char_data * ch, int spellnum, int savetype) {
   struct char_data *tch, *k;
   struct follow_type *f;
 
@@ -4430,9 +2984,7 @@ void mag_groups(int level, struct char_data * ch, int spellnum, int savetype)
     k = ch;
 
   for (f = k->followers; f; f = f->next) {
-    if (IS_AFFECTED(f->follower, AFF_GROUP) &&
-        f->follower->in_room == ch->in_room)
-    {
+    if (IS_AFFECTED(f->follower, AFF_GROUP) && f->follower->in_room == ch->in_room) {
       tch = f->follower;
       if (ch == tch)
         continue;
@@ -4442,16 +2994,9 @@ void mag_groups(int level, struct char_data * ch, int spellnum, int savetype)
 
   if ((k != ch) && IS_AFFECTED(k, AFF_GROUP) && (k->in_room == ch->in_room))
     perform_mag_groups(level, ch, k, spellnum, savetype);
-
 }
 
-/*
-
- * mass spells affect every creature in the room, even the caster.
-
- */
-
-
+/* mass spells affect every creature in the room, even the caster. */
 void mag_masses(int level, struct char_data * ch, int spellnum, int savetype) {
   struct char_data *tch, *next;
   struct affected_type af[MAX_SPELL_AFFECTS];
@@ -4530,49 +3075,25 @@ void mag_masses(int level, struct char_data * ch, int spellnum, int savetype) {
           continue;
 
         mag_damage(level, ch, tch, spellnum, savetype);
-
         break;
 
-
-
       case SPELL_MASS_CHARM:
-
-        if ((ch == tch) || (IS_AFFECTED(ch, AFF_GROUP) &&
-
-             IS_AFFECTED(tch, AFF_GROUP) &&
-
-           ((ch->master == tch) || (tch->master == ch) ||
-
-            (ch->master == tch->master))))
-
+        if ((ch == tch) || (IS_AFFECTED(ch, AFF_GROUP) && IS_AFFECTED(tch, AFF_GROUP) && ((ch->master == tch) || (tch->master == ch) || (ch->master == tch->master))))
           continue;
 
         if (GET_LEVEL(ch) - 10 < GET_LEVEL(tch))
-
           continue;
 
         spell_charm(level, ch, tch, 0);
-
-
-
         break;
-
-
 
       case SPELL_BLACK_PLAGUE:
-
         mag_affects(level, ch, tch, SPELL_BLACK_PLAGUE, savetype);
-
         break;
-
-
 
       case SPELL_BREATH_OF_LIFE:
-
         mag_unaffects(level, ch, tch, SPELL_BREATH_OF_LIFE, savetype);
-
         break;
-
     }
 
     /*  below copied from mag_affects  */
@@ -4824,7 +3345,7 @@ void mag_summons(int level, struct char_data * ch, struct char_data * victim, st
       break;
 
     default:
-        return;
+      return;
   }
 
   if (IS_AFFECTED(ch, AFF_CHARM)) {
@@ -4893,15 +3414,13 @@ int allowNewFollower(struct char_data* ch, int maxFollowerAllowed) {
   int numCharmed = 0;
   struct follow_type* fol = (struct follow_type*) NULL;
 
-  for (fol = ch->followers; fol; fol = fol->next)
-  {
+  for (fol = ch->followers; fol; fol = fol->next) {
     struct char_data* tmpFollower = fol->follower;
 
     if (tmpFollower == (struct char_data*) NULL)
       continue;
 
-    if (IS_AFFECTED(tmpFollower, AFF_CHARM))
-    {
+    if (IS_AFFECTED(tmpFollower, AFF_CHARM)) {
       numCharmed++;
     }
   }
@@ -4931,7 +3450,6 @@ void mag_points(int level, struct char_data * ch, struct char_data * victim, int
       return;
     }
   }
-
 
   if (victim == NULL)
     return;
