@@ -1614,8 +1614,7 @@ ACMD(do_detect_poison)
   WAIT_STATE(ch, PULSE_VIOLENCE * 2);
 }
 
-ACMD(do_lay_hands)
-{
+ACMD(do_lay_hands) {
   int amount, cha_modifier;
   int BASE_CHA_MODIFIER = 4;
   int BASE_CHA = 12;
@@ -1818,25 +1817,20 @@ ACMD(do_chakra)
 }
 
 
-ACMD(do_assess)
-{
+ACMD(do_assess) {
   char arg2[100];
   int value, offset, value2;
-  bool is_weapon = FALSE, is_armor = FALSE;
+  bool is_weapon = FALSE, is_armor = FALSE, is_char = FALSE;
   struct obj_data *obj;
   struct obj_data *obj2 = NULL;
   //char plusses[5];
   //int num_plus = 0;
   //int i = 0;
 
-  const char *weap_mesg[] =
-  { "minimal", "nominal", "serious", "critical", "massive"};
-  const char *armor_mesg[] =
-  { "very light", "light", "moderate", "heavy", "very heavy"};
+  const char *weap_mesg[] = {"minimal", "nominal", "serious", "critical", "massive"};
+  const char *armor_mesg[] = {"very light", "light", "moderate", "heavy", "very heavy"};
 
-
-  if (!GET_SKILL(ch, SKILL_ASSESS))
-  {
+  if (!GET_SKILL(ch, SKILL_ASSESS)) {
     send_to_char("Your assessment isn't very revealing.\r\n", ch);
     mudlog("SYSERR: ch without skill_assess in do_assess", BRF, LVL_GRGOD, 1);
     return;
@@ -1844,24 +1838,21 @@ ACMD(do_assess)
 
   two_arguments(argument, arg, arg2);
 
-  if (!*arg || !(obj = get_obj_in_list_vis(ch, arg, ch->carrying)))
-  {
+  if (!*arg || !(obj = get_obj_in_list_vis(ch, arg, ch->carrying)) || !IS_NPC(arg)) {
     send_to_char("Assess what?\r\n", ch);
     return;
   }
 
-  if (*arg2 && !(obj2 = get_obj_in_list_vis(ch, arg2, ch->carrying)))
-  {
+  if (*arg2 && !(obj2 = get_obj_in_list_vis(ch, arg2, ch->carrying))) {
     send_to_char("Assess it against what?\r\n", ch);
     return;
   }
 
-  if (GET_OBJ_TYPE(obj) == ITEM_WEAPON)
+  if (GET_OBJ_TYPE(obj) == ITEM_WEAPON) {
     is_weapon = TRUE;
-  else if (GET_OBJ_TYPE(obj) == ITEM_ARMOR)
+  } else if (GET_OBJ_TYPE(obj) == ITEM_ARMOR) {
     is_armor = TRUE;
-  else
-  {
+  } else {
     send_to_char("Your assessment reveals nothing.\r\n", ch);
     return;
   }
@@ -1872,7 +1863,6 @@ ACMD(do_assess)
   }
 
   if (*arg2 && obj && obj2) {
-
     if (GET_OBJ_LEVEL(obj2) > MAX(1, GET_LEVEL(ch) + (GET_SKILL(ch, SKILL_ASSESS) / 10) - 2)) {
       send_to_char("Your assessment reveals nothing.\r\n", ch);
       return;
@@ -1881,8 +1871,7 @@ ACMD(do_assess)
     if (is_weapon) {
       value = ((GET_OBJ_VAL(obj, 1) * GET_OBJ_VAL(obj, 2)) + 1) * 100 / 2;
       value2 = ((GET_OBJ_VAL(obj2, 1) * GET_OBJ_VAL(obj2, 2)) + 1) * 100 / 2;
-    }
-    else {
+    } else {
       value = GET_OBJ_VAL(obj, 0);
       value2 = GET_OBJ_VAL(obj2, 0);
     }
@@ -1890,37 +1879,34 @@ ACMD(do_assess)
     if (value > value2) {
        sprintf(buf, "%s seems to be better in quality than %s.\r\n", obj->short_description, obj2->short_description);
        send_to_char(buf, ch);
-    }
-    else if (value2 > value) {
+    } else if (value2 > value) {
        sprintf(buf, "%s seems to be better in quality than %s.\r\n", obj2->short_description, obj->short_description);
        send_to_char(buf, ch);
-    }
-    else {
+    } else {
        sprintf(buf, "%s seems to be about the same in quality as %s.\r\n", obj->short_description, obj2->short_description);
        send_to_char(buf, ch);
     }
+
     value = check_skill(ch, 0, SKILL_ASSESS);  // just for skill improvement
     return;
   }
 
-
   offset = (100 - GET_SKILL(ch, SKILL_ASSESS)) / 10;
   offset = number(-offset, offset);
 
-  if (is_weapon)
-  {
+  if (is_weapon) {
     value = ((GET_OBJ_VAL(obj, 1) + 1) * GET_OBJ_VAL(obj, 2)) / 2;
     value = (value - 1) / 4;
     value = MAX(0, MIN(4, value));
     sprintf(buf, "Damage: %s\r\n", weap_mesg[value]);
 
-  }
-  else
-  {
+  } else if (!is_weapon) {
     value = GET_OBJ_VAL(obj, 0);
     value = (value - 1) / 3;
     value = MAX(0, MIN(4, value));
     sprintf(buf, "Armor class: %s\r\n", armor_mesg[value]);
+  } else if (is_char) {
+    sprintf(buf, "Assessing character");
   }
 
   send_to_char(buf, ch);
