@@ -1611,7 +1611,7 @@ void mag_affects(int level, struct char_data * ch, struct char_data * victim, in
     break;
 
   case SPELL_AID:
-    modifier = dice(20, 6) + level;
+    int modifier = dice(20, 6) + level;
     af[2].location = APPLY_HIT;
     af[2].modifier = modifer;
     af[2].duration = 6;
