@@ -2762,7 +2762,10 @@ ACMD(do_mstand) {
 
     for (k = ch->followers; k; k = k->next) {
       if (org_room == k->follower->in_room)
-        if (IS_AFFECTED(k->follower, AFF_CHARM) || IS_AFFECTED(k->follower, AFF_TAMED)) {
+        // Dev note: check for mounted horses that ARE NOT tamed - they don't respond
+        // until you set the tame flag. Is there a "is_master" function?
+        if (IS_AFFECTED(k->follower, AFF_CHARM) || 
+            IS_AFFECTED(k->follower, AFF_TAMED)) {
           found = TRUE;
           command_interpreter(k->follower, "stand");
         }

@@ -457,9 +457,9 @@ void do_start(struct char_data * ch) {
   obj_to_char(read_object(10171, VIRTUAL), ch);                  /* torch    */
 
   if(GET_HOME(ch) == 2) {
-    obj_to_char(read_object(5007, VIRTUAL), ch);                 /* Kar map  */ 
+    obj_to_char(read_object(30307, VIRTUAL), ch);                /* Sanction map  */ 
   } else {
-    obj_to_char(read_object(10000, VIRTUAL), ch);                /* Kal map  */
+    obj_to_char(read_object(10000, VIRTUAL), ch);                /* Kalaman map  */
   }
 
   equip_char(ch, read_object( 2487, VIRTUAL), WEAR_LEGS);

@@ -362,12 +362,10 @@ ACMD(do_steal) {
         }
     }
   } else {			/* Steal some coins */
-    if (AWAKE(vict) && (!use_skill(ch, percent, SKILL_STEAL)))
-    {
+    if (AWAKE(vict) && (!use_skill(ch, percent, SKILL_STEAL))) {
       ohoh = TRUE;
       act("Oops..", FALSE, ch, 0, 0, TO_CHAR);
-      act("You discover that $n has $s hands in your wallet.",
-	  FALSE, ch, 0, vict, TO_VICT);
+      act("You discover that $n has $s hands in your wallet.", FALSE, ch, 0, vict, TO_VICT);
       act("$n tries to steal money from $N.", TRUE, ch, 0, vict, TO_NOTVICT);
 
     } else {
@@ -375,16 +373,16 @@ ACMD(do_steal) {
        *  steal some coins - randomly decide on which ones
        *  line up all the coins, and select which randomly
        */
-      int               total_coins = 0, loop_coins, which_coin;
+      int total_coins = 0, loop_coins, which_coin;
       struct money_data  stolen;
 
       stolen.platinum = stolen.steel = stolen.gold = stolen.copper = 0;
 
       /*  determine how many coins  */
       total_coins = (GET_MONEY(vict)).platinum +
-	(GET_MONEY(vict)).steel +
-	(GET_MONEY(vict)).gold +
-	(GET_MONEY(vict)).copper;
+        (GET_MONEY(vict)).steel +
+        (GET_MONEY(vict)).gold +
+        (GET_MONEY(vict)).copper;
       coinsGot = (int) ((total_coins * number(1, 10)) / 100);
       coinsGot = MIN(1782, coinsGot);
 
@@ -448,10 +446,7 @@ ACMD(do_steal) {
   WAIT_STATE(ch, 3 * PULSE_VIOLENCE);
 }
 
-
-
-ACMD(do_practice)
-{
+ACMD(do_practice) {
   one_argument(argument, arg);
 
   if (*arg)
@@ -459,8 +454,6 @@ ACMD(do_practice)
   else
     list_skills(ch);
 }
-
-
 
 ACMD(do_visible)
 {
@@ -475,8 +468,6 @@ ACMD(do_visible)
   } else
     send_to_char("You are already visible.\r\n", ch);
 }
-
-
 
 ACMD(do_title)
 {

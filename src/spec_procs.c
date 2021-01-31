@@ -128,16 +128,14 @@ extern int prac_params[3][NUM_CLASSES];
 #define MINGAIN(ch) (prac_params[MIN_PER_PRAC][(int)GET_CLASS(ch)])
 #define MAXGAIN(ch) (prac_params[MAX_PER_PRAC][(int)GET_CLASS(ch)])
 
-void list_skills(struct char_data * ch)
-{
+void list_skills(struct char_data * ch) {
   extern char *spells[];
   int i, sortpos;
 
   if (!GET_PRACTICES(ch)) {
     strcpy(buf, "You have no practice sessions remaining.\r\n");
   } else {
-    sprintf(buf, "You have %d practice session%s remaining.\r\n",
-	    GET_PRACTICES(ch), (GET_PRACTICES(ch) == 1 ? "" : "s"));
+    sprintf(buf, "You have %d practice session%s remaining.\r\n", GET_PRACTICES(ch), (GET_PRACTICES(ch) == 1 ? "" : "s"));
   }
 
   sprintf(buf, "%sYou know of the following spells:\r\n", buf);

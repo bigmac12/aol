@@ -788,9 +788,7 @@ void string_add(struct descriptor_data *d, char *str)
 /*************************************
  * Modification of character skills. *
  *************************************/
-
-ACMD(do_skillset)
-{
+ACMD(do_skillset) {
   extern char *spells[];
   struct char_data *vict;
   char name[100], buf2[100], buf[100], help[MAX_STRING_LENGTH];
@@ -804,30 +802,36 @@ ACMD(do_skillset)
   if (!*name) {
     send_to_char("Syntax: skillset <name> '<skill>' <value>\r\n", ch);
     strcpy(help, "Skill being one of the following:\n\r");
+
     for (i = 0; *spells[i] != '\n'; i++) {
       if (*spells[i] == '!')
-	continue;
+        continue;
+
       sprintf(help + strlen(help), "%18s", spells[i]);
+
       if (i % 4 == 3) {
-	strcat(help, "\r\n");
-	send_to_char(help, ch);
-	*help = '\0';
+        strcat(help, "\r\n");
+        send_to_char(help, ch);
+        *help = '\0';
       }
     }
+
     if (*help)
       send_to_char(help, ch);
+
     send_to_char("\n\r", ch);
+
     return;
   }
+
   if (!(vict = get_char_vis(ch, name, FIND_CHAR_WORLD))) {
     send_to_char(NOPERSON, ch);
     return;
   }
+
   skip_spaces(&argument);
 
-  /*
-   * If there is no characters in argument.
-   */
+  /* If there is no characters in argument. */
   if (!*argument) {
     send_to_char("Skill name expected.\n\r", ch);
     return;
@@ -835,9 +839,8 @@ ACMD(do_skillset)
     send_to_char("Skill must be enclosed in: ''\n\r", ch);
     return;
   }
-  /*
-   * Locate the last quote and lowercase the magic words (if any).
-   */
+
+  /* Locate the last quote and lowercase the magic words (if any). */
 
   for (qend = 1; *(argument + qend) && (*(argument + qend) != '\''); qend++)
     *(argument + qend) = LOWER(*(argument + qend));
@@ -846,15 +849,16 @@ ACMD(do_skillset)
     send_to_char("Skill must be enclosed in: ''\n\r", ch);
     return;
   }
+
   strcpy(help, (argument + 1));
   help[qend - 1] = '\0';
+
   if ((skill = find_skill_num(help)) <= 0) {
     send_to_char("Unrecognized skill.\n\r", ch);
     return;
   }
-  /*
-   * Skip to next parameter.
-   */
+
+  /* Skip to next parameter. */
   argument += qend + 1;
   argument = one_argument(argument, buf);
 
@@ -871,23 +875,21 @@ ACMD(do_skillset)
     send_to_char("You can't set NPC skills.\n\r", ch);
     return;
   }
+
   GET_NAME(vict, victname);
   GET_NAME(ch, chname);
-  sprintf(buf2, "%s changed %s's %s to %d.", chname, victname, 
-	  spells[skill], value);
+
+  sprintf(buf2, "%s changed %s's %s to %d.", chname, victname, spells[skill], value);
   FREE_NAME(chname);
   
   mudlog(buf2, BRF, -1, TRUE);
 
   SET_SKILL(vict, skill, value);
 
-  sprintf(buf2, "You change %s's %s to %d.\n\r", victname,
-    spells[skill], value);
+  sprintf(buf2, "You change %s's %s to %d.\n\r", victname, spells[skill], value);
   FREE_NAME(victname);
   send_to_char(buf2, ch);
 }
-
-
 
 /*********************************************************************
 * New Pagination Code
