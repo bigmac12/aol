@@ -1428,6 +1428,7 @@ void init_spell_levels(void)
   spell_level(SKILL_HIDE, CLASS_DRUID, 14, 0);
   spell_level(SPELL_REVEAL_ILLUSION, CLASS_DRUID, 14, 0);
   spell_level(SKILL_REMOVE_POISON, CLASS_DRUID, 17, 0);
+  spell_level(SKILL_SECOND_ATTACK, CLASS_DRUID, 18, 0);
   
   spell_level(SPELL_REFRESH, CLASS_DRUID, 1, 0);
   spell_level(SPELL_GOODBERRY, CLASS_DRUID, 1, SPHERE_CLE_PLANT);

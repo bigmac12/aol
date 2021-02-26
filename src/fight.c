@@ -1011,41 +1011,33 @@ void damage(struct char_data * ch, struct char_data * victim, int dam,
 
   if (victim != ch)
   {
-    for (tmp = world[ch->in_room].people; tmp; tmp = tmp->next)
-    {
-      if (affected_by_spell(tmp, SPELL_SUMMON_GUARD) && !FIGHTING(ch) &&
-         (GUARDING(tmp) == victim))
-      {
+    for (tmp = world[ch->in_room].people; tmp; tmp = tmp->next) {
+      if (affected_by_spell(tmp, SPELL_SUMMON_GUARD) && !FIGHTING(ch) && (GUARDING(tmp) == victim)) {
+
         if (GET_POS(ch) > POS_STUNNED)
           stop_fighting(ch);
-        act("$n moves $N out of harm's way.",
-          TRUE, tmp, 0, victim, TO_NOTVICT);
-        act("You push $N aside, saving $M.",
-          FALSE, tmp, 0, victim, TO_CHAR);
-        act("$n pushes you out of harm's way.",
-          FALSE, tmp, 0, victim, TO_VICT);
+
+        act("$n moves $N out of harm's way.", TRUE, tmp, 0, victim, TO_NOTVICT);
+        act("You push $N aside, saving $M.", FALSE, tmp, 0, victim, TO_CHAR);
+        act("$n pushes you out of harm's way.", FALSE, tmp, 0, victim, TO_VICT);
         victim = tmp;
       }
 
-      if ((tmp != ch) && (tmp != victim) && (GUARDING(tmp) == victim) &&
-          (victim->in_room == tmp->in_room) && (GET_POS(tmp) == POS_STANDING))
-      {
-        if (check_skill(tmp, 101, SKILL_GUARD))
-        {
+      if ((tmp != ch) && (tmp != victim) && (GUARDING(tmp) == victim) && (victim->in_room == tmp->in_room) && (GET_POS(tmp) == POS_STANDING)) {
+        if (check_skill(tmp, 101, SKILL_GUARD)) {
+
           if (GET_POS(ch) > POS_STUNNED)
             stop_fighting(ch);
-          act("$n moves $N out of harm's way.",
-               TRUE, tmp, 0, victim, TO_NOTVICT);
-          act("You push $N aside, saving $M.",
-               FALSE, tmp, 0, victim, TO_CHAR);
-          act("$n pushes you out of harm's way.",
-               FALSE, tmp, 0, victim, TO_VICT);
+
+          act("$n moves $N out of harm's way.", TRUE, tmp, 0, victim, TO_NOTVICT);
+          act("You push $N aside, saving $M.", FALSE, tmp, 0, victim, TO_CHAR);
+          act("$n pushes you out of harm's way.", FALSE, tmp, 0, victim, TO_VICT);
+
           victim = tmp;
           GUARDING(victim) = NULL;
           break;
-        }
-        else
-        {
+
+        } else {
           sprintf(buf, "You find yourself unable to protect $N.");
           act(buf, FALSE, tmp, 0, victim, TO_CHAR);
           GUARDING(tmp) = NULL;
