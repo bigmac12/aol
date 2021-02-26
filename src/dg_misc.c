@@ -80,19 +80,22 @@ void do_dg_cast(void *go, struct script_data *sc, trig_data *trig,
       GET_TRIG_NAME(trig), GET_TRIG_VNUM(trig));
     return;
   }
+
   s = strtok(NULL, "'");
+
   if (s == NULL) {
     script_log("Trigger: %s, VNum %d. dg_cast needs spell name in `'s.",
       GET_TRIG_NAME(trig), GET_TRIG_VNUM(trig));
     return;
   }
+
   t = strtok(NULL, "\0");
 
   /* spellnum = search_block(s, spells, 0); */
   spellnum = find_skill_num(s);
+
   if ((spellnum < 1) || (spellnum > MAX_SPELLS)) {
-    script_log("Trigger: %s, VNum %d. dg_cast: invalid spell name (%s)",
-      GET_TRIG_NAME(trig), GET_TRIG_VNUM(trig), cmd);
+    script_log("Trigger: %s, VNum %d. dg_cast: invalid spell name (%s)", GET_TRIG_NAME(trig), GET_TRIG_VNUM(trig), cmd);
     return;
   }
 
@@ -101,8 +104,10 @@ void do_dg_cast(void *go, struct script_data *sc, trig_data *trig,
     one_argument(strcpy(buf2, t), t);
     skip_spaces(&t);
   }
+
   if (IS_SET(SINFO.targets, TAR_IGNORE)) {
     target = TRUE;
+
   } else if (t != NULL && *t) {
     if (!target &&
           (IS_SET(SINFO.targets, TAR_CHAR_ROOM) ||
@@ -135,23 +140,27 @@ void do_dg_cast(void *go, struct script_data *sc, trig_data *trig,
 
   if (!caster) {
     caster = read_mobile(DG_CASTER_PROXY, VIRTUAL);
+
     if (!caster) {
       script_log("dg_cast: Cannot load the caster mob!");
       return;
     }
+
     /* set the caster's name to that of the object, or the gods.... */
     if (type==OBJ_TRIGGER)
-      caster->player.short_descr = 
-        strdup(((struct obj_data *)go)->short_description);
+      caster->player.short_descr = strdup(((struct obj_data *)go)->short_description);
+
     else if (type==WLD_TRIGGER)
       caster->player.short_descr = strdup("The gods");
+
     caster->next_in_room = caster_room->people;
     caster_room->people = caster;
     caster->in_room = real_room(caster_room->number);
     call_magic(caster, tch, tobj, spellnum, DG_SPELL_LEVEL, CAST_SPELL);
     extract_char(caster);
-  } else
+  } else {
     call_magic(caster, tch, tobj, spellnum, GET_LEVEL(caster), CAST_SPELL);
+  }
 }
 
 
@@ -162,9 +171,7 @@ void do_dg_cast(void *go, struct script_data *sc, trig_data *trig,
 /* usage:  apply <target> <property> <value> <duration>               */
 #define APPLY_TYPE	1
 #define AFFECT_TYPE	2
-void do_dg_affect(void *go, struct script_data *sc, trig_data *trig,
-		  int script_type, char *cmd)
-{
+void do_dg_affect(void *go, struct script_data *sc, trig_data *trig, int script_type, char *cmd) {
   struct char_data *ch = NULL;
   int value=0, duration=0;
   char junk[MAX_INPUT_LENGTH]; /* will be set to "dg_affect" */
@@ -247,31 +254,34 @@ void do_dg_affect(void *go, struct script_data *sc, trig_data *trig,
   affect_to_char(ch, &af);
 }
 
-void send_char_pos(struct char_data *ch, int dam)
-{
+void send_char_pos(struct char_data *ch, int dam) {
   switch (GET_POS(ch)) {
     case POS_MORTALLYW:
       act("$n is mortally wounded, and will die soon, if not aided.", TRUE, ch, 0, 0, TO_ROOM);
       send_to_char(ch, "You are mortally wounded, and will die soon, if not aided.\r\n");
       break;
+
     case POS_INCAP:
       act("$n is incapacitated and will slowly die, if not aided.", TRUE, ch, 0, 0, TO_ROOM);
       send_to_char(ch, "You are incapacitated an will slowly die, if not aided.\r\n");
       break;
+
     case POS_STUNNED:
       act("$n is stunned, but will probably regain consciousness again.", TRUE, ch, 0, 0, TO_ROOM);
       send_to_char(ch, "You're stunned, but will probably regain consciousness again.\r\n");
       break;
+
     case POS_DEAD:
       act("$n is dead!  R.I.P.", FALSE, ch, 0, 0, TO_ROOM);
       send_to_char(ch, "You are dead!  Sorry...\r\n");
       break;
+
     default:                        /* >= POSITION SLEEPING */
       if (dam > (GET_MAX_HIT(ch) >> 2))
         act("That really did HURT!", FALSE, ch, 0, 0, TO_CHAR);
+
       if (GET_HIT(ch) < (GET_MAX_HIT(ch) >> 2))
-        send_to_char(ch, "%sYou wish that your wounds would stop BLEEDING so much!%s\r\n",
-                         CCRED(ch, C_SPR), CCNRM(ch, C_SPR));
+        send_to_char(ch, "%sYou wish that your wounds would stop BLEEDING so much!%s\r\n", CCRED(ch, C_SPR), CCNRM(ch, C_SPR));
   }
 }
 
@@ -281,15 +291,16 @@ void send_char_pos(struct char_data *ch, int dam)
  * - allow_gods is false when called by %force%, for instance,
  * while true for %teleport%.  -- Welcor 
  */
-int valid_dg_target(struct char_data *ch, int bitvector)
-{
+int valid_dg_target(struct char_data *ch, int bitvector) {
   if (IS_NPC(ch))  
     return TRUE;  /* all npcs are allowed as targets */
+
   else if (GET_LEVEL(ch) < LVL_IMMORT) 
     return TRUE;  /* as well as all mortals */
-  else if (!IS_SET(bitvector, DG_ALLOW_GODS) &&
-           GET_LEVEL(ch) >= LVL_GOD) 
+
+  else if (!IS_SET(bitvector, DG_ALLOW_GODS) && GET_LEVEL(ch) >= LVL_GOD) 
     return FALSE; /* but not always the highest gods */
+
   else if (!PRF_FLAGGED(ch, PRF_NOHASSLE) && GET_INVIS_LEV(ch) < LVL_IMMORT)
     return TRUE;  /* the ones in between as allowed as long as they're visible, 
                    * and have no-hassle off.   */

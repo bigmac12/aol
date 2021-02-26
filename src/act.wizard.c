@@ -958,8 +958,10 @@ void do_stat_character(struct char_data * ch, struct char_data * k) {
   int int_xp = tnl_values[0];
   int int_percent = tnl_values[1];
 
-  sprintf(buf, "Progress to Level: [&g%d.%d%%&n]\r\n", int_xp, int_percent);
-  send_to_char(buf, ch);
+  if (!IS_NPC(k)) {
+    sprintf(buf, "Progress to Level: [&g%d.%d%%&n]\r\n", int_xp, int_percent);
+    send_to_char(buf, ch);
+  }
 
   sprintf(buf, "AC: [%d/10], Hitroll: [%2d], Damroll: [%2d], Saving throws: [%d/%d/%d/%d/%d]\r\n",
 	  GET_AC(k), k->points.hitroll, k->points.damroll, GET_SAVE(k, 0),
@@ -1318,7 +1320,7 @@ ACMD(do_snoop)
     else
       tch = victim;
 
-    if (GET_LEVEL(tch) >= GET_LEVEL(ch)) {
+    if (GET_LEVEL(tch) > GET_LEVEL(ch)) {
       send_to_char("You can't.\r\n", ch);
       return;
     }
@@ -1901,7 +1903,7 @@ ACMD(do_poofset)
     {
       GET_NAME(ch, chname);
       log("Attempting to set poof > POOF_LENGTH (%d/%d) for %s.",
-        strlen(argument), POOF_LENGTH, chname);
+        (int)strlen(argument), (int)POOF_LENGTH, chname);
       FREE_NAME(chname);
     }
     memset(tmpPoof, (char) NULL, POOF_LENGTH);
@@ -3196,34 +3198,34 @@ int perform_set(struct char_data *ch, struct char_data *vict, int mode, char *va
     /*
     if (GET_IDNUM(ch) != 1 || !IS_NPC(vict))  one_argument(argument, arg);
 
-  if (!*arg) {
-    send_to_char("Who needs a spankin'?\r\n", ch);
-    return;
-  }
+    if (!*arg) {
+      send_to_char("Who needs a spankin'?\r\n", ch);
+      return;
+    }
 
-  if (ch == vict) {
-    send_to_char("Probably not a good idea...\r\n", ch);
-    return;
-  }
+    if (ch == vict) {
+      send_to_char("Probably not a good idea...\r\n", ch);
+      return;
+    }
 
-  if (GET_LEVEL(vict) >= LVL_IMMORT) {
-    send_to_char("Hrm.... that's not cool man.\r\n", ch);
-    return;
-  }
+    if (GET_LEVEL(vict) >= LVL_IMMORT) {
+      send_to_char("Hrm.... that's not cool man.\r\n", ch);
+      return;
+    }
 
-  if (PLR_FLAGGED(vict, PLR_BADMORT)) {
-    REMOVE_BIT(PLR_FLAGS(vict), PLR_BADMORT);
-    send_to_char("Ok.\r\n", ch);
-    send_to_char("Your newbie permissions have been restored.\r\n", vict);
+    if (PLR_FLAGGED(vict, PLR_BADMORT)) {
+      REMOVE_BIT(PLR_FLAGS(vict), PLR_BADMORT);
+      send_to_char("Ok.\r\n", ch);
+      send_to_char("Your newbie permissions have been restored.\r\n", vict);
 
-    GET_NAME(ch, chname);
-    GET_NAME(vict, victname);
-    sprintf(buf, "(GC) BADMORT removed from %s by %s.", victname, chname);
-    FREE_NAME(victname);
-    FREE_NAME(chname);
-    mudlog(buf, BRF, LVL_IMMORT, TRUE);
+      GET_NAME(ch, chname);
+      GET_NAME(vict, victname);
+      sprintf(buf, "(GC) BADMORT removed from %s by %s.", victname, chname);
+      FREE_NAME(victname);
+      FREE_NAME(chname);
+      mudlog(buf, BRF, LVL_IMMORT, TRUE);
 
-  } else {
+    } else {
     SET_BIT(PLR_FLAGS(vict), PLR_BADMORT);
     send_to_char("Ok.\r\n", ch);
     send_to_char("Your newbie permissions have been suspended.\r\n", vict);
@@ -3298,57 +3300,41 @@ int perform_set(struct char_data *ch, struct char_data *vict, int mode, char *va
     break;
 
   case 55:
-  {
     SET_OR_REMOVE(PLR_FLAGS(vict), PLR_IMMCHAR);
     break;
-  }
 
   case 56:
-  {
     SET_OR_REMOVE(PLR_FLAGS(vict), PLR_FREERENT);
     break;
-  }
 
   case 57:
-  {
     GET_ETHOS(vict) = RANGE(-1000, 1000);
     affect_total(vict);
     break;
-  }
 
   case 58:
-  {
     GET_CLAN(vict) = RANGE(0, CLAN_MAX_CLAN);
     affect_total(vict);
     break;
-  }
 
   case 59:
-  {
     GET_CLANLEVEL(vict) = RANGE(0, CLAN_MAX_LEVEL);
     affect_total(vict);
    break;
-  }
 
   case 60:
-  {
     GET_HOME(vict) = RANGE(0, 2);
     affect_total(vict);
     break;
-  }
 
   case 61:
-  {
     SET_OR_REMOVE(PLR_FLAGS(vict), PLR_PRISONER);
     break;
-  }
 
   case 62:
-  {
    ch->player.time.birth = time(0) - (SECS_PER_MUD_YEAR * RANGE(8, 100)) + (SECS_PER_MUD_YEAR * 17);
    affect_total(vict);
    break;
-  }
 
   default:
     send_to_char("Can't set that!\r\n", ch);

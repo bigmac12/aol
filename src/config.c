@@ -12,7 +12,6 @@
 
 #include "conf.h"
 #include "sysdep.h"
-
 #include "structs.h"
 
 #define TRUE	1
@@ -20,12 +19,9 @@
 #define FALSE	0
 #define NO	0
 
-
-/*
- * Below are several constants which you can change to alter certain aspects
+/* Below are several constants which you can change to alter certain aspects
  * of the way CircleMUD acts.  Since this is a .c file, all you have to do
- * to change one of the constants (assuming you keep your object files
-around)
+ * to change one of the constants (assuming you keep your object files around)
  * is change the constant in this file and type 'make'.  Make will recompile
  * this file and relink; you don't have to wait for the whole thing to
  * recompile as you do if you change a header file.
@@ -36,25 +32,15 @@ around)
  * code for the various options is quite small, as is the computational time
  * in checking the option you've selected at run-time, so I've decided the
  * convenience of having all your options in this one file outweighs the
- * efficency of doing it the other way.
- *
- */
-
-
-/****************************************************************************/
-
-/****************************************************************************/
-
+ * efficency of doing it the other way. */
 
 /* GAME PLAY OPTIONS */
 
-/*
- * pk_allowed sets the tone of the entire game.  If pk_allowed is set to
+/* pk_allowed sets the tone of the entire game.  If pk_allowed is set to
  * NO, then players will not be allowed to kill, summon, charm, or sleep
  * other players, as well as a variety of other "asshole player" protections.
  * However, if you decide you want to have an all-out knock-down drag-out
- * PK Mud, just set pk_allowed to YES - and anything goes.
- */
+ * PK Mud, just set pk_allowed to YES - and anything goes. */
 int pk_allowed = YES;
 
 /* is playerthieving allowed? */
@@ -89,24 +75,17 @@ char *OK = "&BOkay&C.&n\r\n";
 char *NOPERSON = "&BNo-one by that name here&C.&n\r\n";
 char *NOEFFECT = "&BNothing seems to happen&C.&n\r\n";
 
-/*
- * You can define or not define TRACK_THOUGH_DOORS, depending on whether
+/* You can define or not define TRACK_THOUGH_DOORS, depending on whether
  * or not you want track to find paths which lead through closed or
  * hidden doors. A setting of 'NO' means to not go through the doors
- * while 'YES' will pass through doors to find the target.
- */
+ * while 'YES' will pass through doors to find the target. */
 int track_through_doors = YES;
 
 /****************************************************************************/
-/****************************************************************************/
-
 
 /* RENT/CRASHSAVE OPTIONS */
-
-/*
- * Should the MUD allow you to 'rent' for free?  (i.e. if you just quit,
- * your objects are saved at no cost, as in Merc-type MUDs.)
- */
+/* Should the MUD allow you to 'rent' for free?  (i.e. if you just quit,
+ * your objects are saved at no cost, as in Merc-type MUDs.) */
 int free_rent = NO;
 
 /* maximum number of items players are allowed to rent */
@@ -266,9 +245,9 @@ char *MENU =
 "                       &bo -    -  - -)-=-(- -   -    - o\r\n"
 "                                &WYour choice: &n";
 
+// TODO put this in a function. Can be useful elsewhere in the code.
 
 char *GREETINGS =
-
 "\r\n\r\n"
 " +--------------------------------------------------------------------+\r\n"
 " |                   __                                               |\r\n"
@@ -301,7 +280,6 @@ char *GREETINGS =
 "creating a character.\r\n\r\n"
 "To email the owner: chemosh@ageoflegends.com\r\n\r\n"
 "By what unique name do you wish to be known? ";
-
 
 char *WELC_MESSG =
 "\r\n"

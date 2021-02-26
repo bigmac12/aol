@@ -457,9 +457,9 @@ void do_start(struct char_data * ch) {
   obj_to_char(read_object(10171, VIRTUAL), ch);                  /* torch    */
 
   if(GET_HOME(ch) == 2) {
-    obj_to_char(read_object(5007, VIRTUAL), ch);                 /* Kar map  */ 
+    obj_to_char(read_object(30307, VIRTUAL), ch);                /* Sanction map  */ 
   } else {
-    obj_to_char(read_object(10000, VIRTUAL), ch);                /* Kal map  */
+    obj_to_char(read_object(10000, VIRTUAL), ch);                /* Kalaman map  */
   }
 
   equip_char(ch, read_object( 2487, VIRTUAL), WEAR_LEGS);
@@ -1428,6 +1428,7 @@ void init_spell_levels(void)
   spell_level(SKILL_HIDE, CLASS_DRUID, 14, 0);
   spell_level(SPELL_REVEAL_ILLUSION, CLASS_DRUID, 14, 0);
   spell_level(SKILL_REMOVE_POISON, CLASS_DRUID, 17, 0);
+  spell_level(SKILL_SECOND_ATTACK, CLASS_DRUID, 18, 0);
   
   spell_level(SPELL_REFRESH, CLASS_DRUID, 1, 0);
   spell_level(SPELL_GOODBERRY, CLASS_DRUID, 1, SPHERE_CLE_PLANT);

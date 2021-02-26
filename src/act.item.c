@@ -2678,7 +2678,6 @@ if (!IS_AFFECTED(ch, AFF_GROUP)) {
   }
 }
 
-
 ACMD(do_release)
 {
   bool found = FALSE;
@@ -2750,10 +2749,7 @@ ACMD(do_release)
   }
 }
 
-
-
-ACMD(do_mstand)
-{
+ACMD(do_mstand) {
   bool found = FALSE;
   room_rnum org_room;
   struct char_data *vict;
@@ -2762,37 +2758,44 @@ ACMD(do_mstand)
   one_argument(argument, arg);
 
   if (!*arg) {
-    send_to_char("Who?!?\r\n", ch);
+    org_room = ch->in_room;
+
+    for (k = ch->followers; k; k = k->next) {
+      if (org_room == k->follower->in_room)
+        // Dev note: check for mounted horses that ARE NOT tamed - they don't respond
+        // until you set the tame flag. Is there a "is_master" function?
+        if (IS_AFFECTED(k->follower, AFF_CHARM) || 
+            IS_AFFECTED(k->follower, AFF_TAMED)) {
+          found = TRUE;
+          command_interpreter(k->follower, "stand");
+        }
+    }
     return;
-  }
-  else if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) && !is_abbrev(arg, "followers"))
+
+  } else if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) && !is_abbrev(arg, "followers")) {
     send_to_char("That person isn't here.\r\n", ch);
-  else if (ch == vict)
+  } else if (ch == vict) {
     send_to_char("You obviously suffer from skitzofrenia.\r\n", ch);
 
-  else {
+  } else {
     if (IS_AFFECTED(ch, AFF_CHARM)) {
       send_to_char("Your superior would not aprove of you giving orders.\r\n", ch);
       return;
     }
-    if (vict) {
 
+    if (vict) {
       act("$n gives $N an order.", FALSE, ch, 0, vict, TO_ROOM);
 
-      if (vict->master != ch)
+      if (vict->master != ch) {
         act("$n has an indifferent look.", FALSE, vict, 0, 0, TO_ROOM);
-
-      else if (!IS_NPC(vict) || !MOB_FLAGGED(vict, MOB_MOUNTABLE))  {
-      send_to_char("They are not a mount!!\r\n", ch);
-      return;
-     }
-
-      else {
+      } else if (!IS_NPC(vict) || !MOB_FLAGGED(vict, MOB_MOUNTABLE))  {
+        send_to_char("They are not a mount!\r\n", ch);
+        return;
+      } else {
         send_to_char(OK, ch);
         command_interpreter(vict, "stand");
       }
     } else {
-
       org_room = ch->in_room;
 
       for (k = ch->followers; k; k = k->next) {
@@ -2802,6 +2805,7 @@ ACMD(do_mstand)
             command_interpreter(k->follower, "stand");
           }
       }
+
       if (found)
         send_to_char(OK, ch);
       else
@@ -2810,20 +2814,16 @@ ACMD(do_mstand)
   }
 }
 
-ACMD(do_mget)
-{
+ACMD(do_mget) {
   char name[MAX_INPUT_LENGTH], message[MAX_INPUT_LENGTH];
   char buf[MAX_INPUT_LENGTH];
   bool found = FALSE;
   room_rnum org_room;
   struct char_data *vict;
   struct follow_type *k;
-  
 
   struct obj_data *obj;
   int i;
-
-  
 
   half_chop(argument, message, name);
 
