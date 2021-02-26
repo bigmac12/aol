@@ -1954,259 +1954,167 @@ ACMD(do_wake) {
 }
 
 
-ACMD(do_follow)
+ACMD(do_follow) {
+    struct char_data *leader;
+    void stop_follower(struct char_data *ch);
+    void add_follower(struct char_data *ch, struct char_data *leader);
+    one_argument(argument, buf);
 
-{
-
-  struct char_data *leader;
-
-
-
-  void stop_follower(struct char_data *ch);
-
-  void add_follower(struct char_data *ch, struct char_data *leader);
-
-
-
-  one_argument(argument, buf);
-
-
-
-  if (*buf) {
-
-    if (!(leader = get_char_vis(ch, buf, FIND_CHAR_ROOM))) {
-
-      send_to_char(NOPERSON, ch);
-
-      return;
-
-    }
-
-  } else {
-
-    send_to_char("Whom do you wish to follow?\r\n", ch);
-
-    return;
-
-  }
-
-
-
-  if (ch->master == leader) {
-
-    act("You are already following $M.", FALSE, ch, 0, leader, TO_CHAR);
-
-    return;
-
-  }
-
-
-
-  if (IS_AFFECTED(ch, AFF_CHARM) && (ch->master)) {
-
-    act("But you only feel like following $N!", FALSE, ch, 0, ch->master, TO_CHAR);
-
-
-
-  } else {			/* Not Charmed follow person */
-
-    if (leader == ch) {
-
-      if (!ch->master) {
-
-	send_to_char("You are already following yourself.\r\n", ch);
-
-	return;
-
-      }
-
-      stop_follower(ch);
-
-
-
+    if (*buf) {
+        if (!(leader = get_char_vis(ch, buf, FIND_CHAR_ROOM))) {
+            send_to_char(NOPERSON, ch);
+            return;
+        }
     } else {
-
-      if (circle_follow(ch, leader)) {
-
-	act("Sorry, but following in loops is not allowed.", FALSE, ch, 0, 0, TO_CHAR);
-
-	return;
-
-      }
-
-
-
-      if (ch->master) {
-
-	stop_follower(ch);
-
-      }
-
-
-
-      REMOVE_BIT(AFF_FLAGS(ch), AFF_GROUP);
-      max_group_exp_mult(ch);
-      GET_EXP_MULT(ch) = 0;
-
-      add_follower(ch, leader);
-
+        send_to_char("Whom do you wish to follow?\r\n", ch);
+        return;
     }
 
-  }
+    if (ch->master == leader) {
+        act("You are already following $M.", FALSE, ch, 0, leader, TO_CHAR);
+        return;
+    }
 
+    if (IS_AFFECTED(ch, AFF_CHARM) && (ch->master)) {
+        act("But you only feel like following $N!", FALSE, ch, 0, ch->master, TO_CHAR);
+    } else {			
+        /* Not Charmed follow person */
+        if (leader == ch) {
+            if (!ch->master) {
+                send_to_char("You are already following yourself.\r\n", ch);
+                return;
+            }
 
+            stop_follower(ch);
+        } else {
+            if (circle_follow(ch, leader)) {
+                act("Sorry, but following in loops is not allowed.", FALSE, ch, 0, 0, TO_CHAR);
+                return;
+            }
 
+            if (ch->master) {
+                stop_follower(ch);
+            }
+
+            REMOVE_BIT(AFF_FLAGS(ch), AFF_GROUP);
+            max_group_exp_mult(ch);
+            GET_EXP_MULT(ch) = 0;
+
+            add_follower(ch, leader);
+        }
+    }
 }
-
-
 
 /* Mounts (DAK) */
 
 ACMD(do_mount) {
-  char arg[MAX_INPUT_LENGTH];
-  struct char_data *vict;
-  int chance;
-  one_argument(argument, arg);
+    char arg[MAX_INPUT_LENGTH];
+    struct char_data *vict;
+    struct affected_type af;
+    int chance;
+    one_argument(argument, arg);
 
-  if (!arg || !*arg) {
-    send_to_char("Mount who?\r\n", ch);
-    return;
-  } else if (!(vict = get_char_room_vis(ch, arg))) {
-    send_to_char("There is no-one by that name here.\r\n", ch);
-    return;
-  } else if (!IS_NPC(vict)) {
-    send_to_char("Ehh... no.\r\n", ch);
-    return;
-  } else if (RIDING(ch) || RIDDEN_BY(ch)) {
-    send_to_char("You are already mounted.\r\n", ch);
-    return;
-  } else if (RIDING(vict) || RIDDEN_BY(vict)) {
-    send_to_char("It is already mounted.\r\n", ch);
-    return;
-  } else if (GET_LEVEL(ch) < LVL_IMMORT && IS_NPC(vict) && !MOB_FLAGGED(vict, MOB_MOUNTABLE)) {
-    send_to_char("You can't mount that!\r\n", ch);
-    return;
-  } else if (GET_SKILL(ch, SKILL_RIDING) <= number(1, 70)) {
-    act("You try to mount $N, but slip and fall off. Ouch! Brush up on your riding skills first!", FALSE, ch, 0, vict, TO_CHAR);
-    act("$n tries to mount you, but slips and falls off. Ouch!", FALSE, ch, 0, vict, TO_VICT);
-    act("$n tries to mount $N, but slips and falls off. Ouch!", TRUE, ch, 0, vict, TO_NOTVICT);
-    damage(ch, ch, dice(1, 2), -1);
-    return;
-  }
+    if (!arg || !*arg) {
+        send_to_char("Mount who?\r\n", ch);
+        return;
 
-  act("You mount $N.", FALSE, ch, 0, vict, TO_CHAR);
-  act("$n mounts you.", FALSE, ch, 0, vict, TO_VICT);
-  act("$n mounts $N.", TRUE, ch, 0, vict, TO_NOTVICT);
+    } else if (!(vict = get_char_room_vis(ch, arg))) {
+        send_to_char("There is no-one by that name here.\r\n", ch);
+        return;
 
-  if (vict->master != ch) {
-    if (vict->master)
-        stop_follower(vict);
+    } else if (!IS_NPC(vict)) {
+        send_to_char("Ehh... no.\r\n", ch);
+        return;
 
-      add_follower(vict, ch);
-  }
+    } else if (RIDING(ch) || RIDDEN_BY(ch)) {
+        send_to_char("You are already mounted.\r\n", ch);
+        return;
 
-  GET_POS(ch) = POS_RIDING;
-  GET_POS(vict) = POS_STANDING;
-  mount_char(ch, vict);
+    } else if (RIDING(vict) || RIDDEN_BY(vict)) {
+        send_to_char("It is already mounted.\r\n", ch);
+        return;
 
-  if (IS_NPC(vict) && !AFF_FLAGGED(vict, AFF_TAMED) &&!AFF_FLAGGED(vict, AFF_CHARM) && GET_SKILL(ch, SKILL_RIDING) <= number(1, 55)) {
-    act("$N suddenly bucks upwards, throwing you violently to the ground!", FALSE, ch, 0, vict, TO_CHAR);
-    act("$n is thrown to the ground as $N violently bucks!", TRUE, ch, 0, vict, TO_NOTVICT);
-    act("You buck violently and throw $n to the ground.", FALSE, ch, 0, vict, TO_VICT);
-    dismount_char(ch);
-    GET_POS(ch) = POS_SITTING;
-    chance = number(1, 10);
+    } else if (GET_LEVEL(ch) < LVL_IMMORT && IS_NPC(vict) && !MOB_FLAGGED(vict, MOB_MOUNTABLE)) {
+        send_to_char("You can't mount that!\r\n", ch);
+        return;
 
-    if (chance <= 3) 
-      damage(vict, ch, dice(1,3), -1);
-    else
-      damage(ch, ch, dice(1,3), -1);
-  }
+    } else if (GET_SKILL(ch, SKILL_RIDING) <= number(1, 70)) {
+        act("You try to mount $N, but slip and fall off. Ouch! Brush up on your riding skills first!", FALSE, ch, 0, vict, TO_CHAR);
+        act("$n tries to mount you, but slips and falls off. Ouch!", FALSE, ch, 0, vict, TO_VICT);
+        act("$n tries to mount $N, but slips and falls off. Ouch!", TRUE, ch, 0, vict, TO_NOTVICT);
+        damage(ch, ch, dice(1, 2), -1);
+        return;
+    }
+
+    act("You mount $N.", FALSE, ch, 0, vict, TO_CHAR);
+    act("$n mounts you.", FALSE, ch, 0, vict, TO_VICT);
+    act("$n mounts $N.", TRUE, ch, 0, vict, TO_NOTVICT);
+
+    if (vict->master != ch) {
+        if (vict->master)
+            stop_follower(vict);
+
+        add_follower(vict, ch);
+        af.type      = SPELL_CHARM;
+        af.duration  = -1;
+        af.modifier  = 0;
+        af.location  = APPLY_NONE;
+        af.bitvector = AFF_TAMED;
+
+        affect_join(vict, &af, FALSE, FALSE, FALSE, FALSE);
+    }
+
+    GET_POS(ch) = POS_RIDING;
+    GET_POS(vict) = POS_STANDING;
+    mount_char(ch, vict);
+
+    if (IS_NPC(vict) && !AFF_FLAGGED(vict, AFF_TAMED) &&! AFF_FLAGGED(vict, AFF_CHARM) && GET_SKILL(ch, SKILL_RIDING) <= number(1, 55)) {
+        act("$N suddenly bucks upwards, throwing you violently to the ground!", FALSE, ch, 0, vict, TO_CHAR);
+        act("$n is thrown to the ground as $N violently bucks!", TRUE, ch, 0, vict, TO_NOTVICT);
+        act("You buck violently and throw $n to the ground.", FALSE, ch, 0, vict, TO_VICT);
+
+        dismount_char(ch);
+        GET_POS(ch) = POS_SITTING;
+
+        if (number(1, 10) <= 3) {
+            damage(vict, ch, dice(1,3), -1);
+        } else {
+            damage(ch, ch, dice(1, 3), -1);
+        }
+    }
 }
 
 ACMD(do_dismount) {
+    char arg[MAX_INPUT_LENGTH];
+    struct char_data *vict;
 
-  char arg[MAX_INPUT_LENGTH];
+    one_argument(argument, arg);
 
-  struct char_data *vict;
+    if (!arg || !*arg) {
+        send_to_char("Dismount from who?\r\n", ch);
+        return;
 
+    } else if (!(vict = get_char_room_vis(ch, arg))) {
+        send_to_char("There is noone by that name here.\r\n", ch);
+        return;
 
+    } else if (!RIDING(ch)) {
+        send_to_char("You aren't even riding anything.\r\n", ch);
+        return;
 
-  one_argument(argument, arg);
-
-
-
-  if (!arg || !*arg) {
-
-    send_to_char("Dismount from who?\r\n", ch);
-
-    return;
-
-  } else if (!(vict = get_char_room_vis(ch, arg))) {
-
-    send_to_char("There is no-one by that name here.\r\n", ch);
-
-    return;
-
-  }
-
-    else if (!RIDING(ch)) {
-
-    send_to_char("You aren't even riding anything.\r\n", ch);
-
-    return;
-
-  } else if (SECT(ch->in_room) == SECT_WATER_NOSWIM) {
-
-    send_to_char("Yah, right, and then drown...\r\n", ch);
-
-    return;
-
-  }
-
-  
-
-  act("You dismount $N.", FALSE, ch, 0, RIDING(ch), TO_CHAR);
-
-  act("$n dismounts from you.", FALSE, ch, 0, RIDING(ch), TO_VICT);
-
-  act("$n dismounts $N.", TRUE, ch, 0, RIDING(ch), TO_NOTVICT);
-
-
-
-
-
-  GET_POS(ch) = POS_STANDING;
-
-
-
-/*if ((vict->master == ch) || AFF_FLAGGED(vict, AFF_CHARM) || AFF_FLAGGED(vict, AFF_TAMED)){
-
-   
-
-   if (!allowNewFollower(ch, 3))
-
-    {
-
-      return;
-
+    } else if (SECT(ch->in_room) == SECT_WATER_NOSWIM) {
+        // ...wat
+        send_to_char("You can't do that in a room full of water.\r\n", ch);
+        return;
     }
 
-                                                                                
+    act("You dismount $N.", FALSE, ch, 0, RIDING(ch), TO_CHAR);
+    act("$n dismounts from you.", FALSE, ch, 0, RIDING(ch), TO_VICT);
+    act("$n dismounts $N.", TRUE, ch, 0, RIDING(ch), TO_NOTVICT);
 
-    add_follower(vict, ch);
-
-} */
-
- 
-
-   dismount_char(ch);
-
+    GET_POS(ch) = POS_STANDING;
+    dismount_char(ch);
 }
-
-
-
-
 
 ACMD(do_buck) {
 
@@ -2243,184 +2151,86 @@ ACMD(do_buck) {
   }
 
   dismount_char(ch);
-
-  
-
-  
-
-  /*
-
-   * you might want to call set_fighting() or some nonsense here if you
-
-   * want the mount to attack the unseated rider or vice-versa.
-
-   */
-
 }
-
-
 
 ACMD(do_tame) {
+    char arg[MAX_INPUT_LENGTH];
+    struct affected_type af;
+    struct char_data *vict;
+    int percent;
 
-  char arg[MAX_INPUT_LENGTH];
+    percent = number(1, 101) - GET_CHA(ch) ;
+    one_argument(argument, arg);
 
-  struct affected_type af;
+    if (!arg || !*arg) {
+        send_to_char("Tame who?\r\n", ch);
+        return;
 
-  struct char_data *vict;
+    } else if (!(vict = get_char_room_vis(ch, arg))) {
+        send_to_char("They're not here.\r\n", ch);
+        return;
 
-  int percent;
+    } else if (GET_LEVEL(ch) < LVL_IMMORT && IS_NPC(vict) && !MOB_FLAGGED(vict, MOB_MOUNTABLE)) {
+        send_to_char("You can't do that to them.\r\n", ch);
+        return;
 
+    } else if (!GET_SKILL(ch, SKILL_TAME)) {
+        send_to_char("You don't even know how to tame something.\r\n", ch);
+        return;
 
+    } else if (!IS_NPC(vict) && GET_LEVEL(ch) < LVL_IMMORT) {
+        send_to_char("You can't do that.\r\n", ch);
+        return;
 
-  percent = number(1, 101) - GET_CHA(ch) ;
+    } else if (RIDING(vict) || RIDDEN_BY(vict)) {
+        send_to_char("But they are mounted by someone!\r\n", ch);
+        return;
 
+    } else if (IS_AFFECTED(vict, AFF_CHARM) && vict->master != ch ){
+        send_to_char("They have already a master.\r\n", ch);
+        return;
 
+    } else if (IS_AFFECTED(vict, AFF_TAMED) && vict->master != ch){
+        send_to_char("They have already a master.\r\n", ch);
+        return;
 
+    } else if ((IS_AFFECTED(vict, AFF_CHARM) || IS_AFFECTED(vict, AFF_TAMED)) && vict->master == ch ){
+        send_to_char("You've already tamed them!\r\n", ch);
+        return;
 
+    } else if (IS_AFFECTED(ch, AFF_CHARM)){
+        send_to_char("Your master might not approve of that!.\r\n", ch);
+        return;
 
-  one_argument(argument, arg);
+    } else if (!use_skill(ch, percent, SKILL_TAME))  {
+        send_to_char("You fail to tame it.\r\n", ch);
+        return;
 
+    } else {
+        if (!allowNewFollower(ch, 3)) {
+            return;
+        }
 
+        if (vict->master)
+            stop_follower(vict);
 
+        add_follower(vict, ch);
 
+        af.type      = SPELL_CHARM;
+        af.duration  = -1;
+        af.modifier  = 0;
+        af.location  = APPLY_NONE;
+        af.bitvector = AFF_TAMED;
 
-  if (!arg || !*arg) {
+        affect_join(vict, &af, FALSE, FALSE, FALSE, FALSE);
 
-    send_to_char("Tame who?\r\n", ch);
+        act("You tame $N.", FALSE, ch, 0, vict, TO_CHAR);
+        act("$n tames you.", FALSE, ch, 0, vict, TO_VICT);
+        act("$n tames $N.", FALSE, ch, 0, vict, TO_NOTVICT);
 
-    return;
-
-  } else if (!(vict = get_char_room_vis(ch, arg))) {
-
-    send_to_char("They're not here.\r\n", ch);
-
-    return;
-
-  } else if (GET_LEVEL(ch) < LVL_IMMORT && IS_NPC(vict) && !MOB_FLAGGED(vict, MOB_MOUNTABLE)) {
-
-    send_to_char("You can't do that to them.\r\n", ch);
-
-    return;
-
-  } else if (!GET_SKILL(ch, SKILL_TAME)) {
-
-    send_to_char("You don't even know how to tame something.\r\n", ch);
-
-    return;
-
-  } else if (!IS_NPC(vict) && GET_LEVEL(ch) < LVL_IMMORT) {
-
-    send_to_char("You can't do that.\r\n", ch);
-
-    return;
-
-  } else if (RIDING(vict) || RIDDEN_BY(vict)) {
-
-    send_to_char("But they are mounted by someone!\r\n", ch);
-
-    return;
-
-  } else if (IS_AFFECTED(vict, AFF_CHARM) && vict->master != ch ){
-
-    send_to_char("They have already a master.\r\n", ch);
-
-    return;
-
-  }
-
-  else if (IS_AFFECTED(vict, AFF_TAMED) && vict->master != ch){
-
-    send_to_char("They have already a master.\r\n", ch);
-
-    return;
-
-  }
-
-  else if ((IS_AFFECTED(vict, AFF_CHARM) || IS_AFFECTED(vict, AFF_TAMED)) && vict->master == ch ){
-
-    send_to_char("You've already tamed them!\r\n", ch);
-
-    return;
-
-  } else if (IS_AFFECTED(ch, AFF_CHARM)){
-
-    send_to_char("Your master might not approve of that!.\r\n", ch);
-
-    return;
-
-  } else if (!use_skill(ch, percent, SKILL_TAME))  {
-
-    send_to_char("You fail to tame it.\r\n", ch);
-
-    return;
-
-  }
-
-
-
- else {
-
-
-
-    if (!allowNewFollower(ch, 3))
-
-    {
-
-      return;
-
+        if (IS_NPC(vict)) {
+            REMOVE_BIT(MOB_FLAGS(vict), MOB_AGGRESSIVE);
+            REMOVE_BIT(MOB_FLAGS(vict), MOB_SPEC);
+        }
     }
-
-
-
-    if (vict->master)
-
-      stop_follower(vict);
-
-
-
-    add_follower(vict, ch);
-
-
-
-    af.type      = SPELL_CHARM;
-
-    af.duration  = -1;
-
-    af.modifier  = 0;
-
-    af.location  = APPLY_NONE;
-
-    af.bitvector = AFF_TAMED;
-
-
-
- affect_join(vict, &af, FALSE, FALSE, FALSE, FALSE);
-
-
-
-    act("You tame $N.", FALSE, ch, 0, vict, TO_CHAR);
-
-    act("$n tames you.", FALSE, ch, 0, vict, TO_VICT);
-
-    act("$n tames $N.", FALSE, ch, 0, vict, TO_NOTVICT);
-
-
-
-
-
-    if (IS_NPC(vict)) {
-
-      REMOVE_BIT(MOB_FLAGS(vict), MOB_AGGRESSIVE);
-
-      REMOVE_BIT(MOB_FLAGS(vict), MOB_SPEC);
-
 }
-
-}
-
-
-
-}
-
-
-
