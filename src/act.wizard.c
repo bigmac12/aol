@@ -958,8 +958,10 @@ void do_stat_character(struct char_data * ch, struct char_data * k) {
   int int_xp = tnl_values[0];
   int int_percent = tnl_values[1];
 
-  sprintf(buf, "Progress to Level: [&g%d.%d%%&n]\r\n", int_xp, int_percent);
-  send_to_char(buf, ch);
+  if (!IS_NPC(k)) {
+    sprintf(buf, "Progress to Level: [&g%d.%d%%&n]\r\n", int_xp, int_percent);
+    send_to_char(buf, ch);
+  }
 
   sprintf(buf, "AC: [%d/10], Hitroll: [%2d], Damroll: [%2d], Saving throws: [%d/%d/%d/%d/%d]\r\n",
 	  GET_AC(k), k->points.hitroll, k->points.damroll, GET_SAVE(k, 0),
