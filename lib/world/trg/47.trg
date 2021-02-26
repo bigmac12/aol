@@ -628,11 +628,11 @@ look~
    end
 ~
 #4757
-new trigger~
-1 j 100
+m4779 Perm Debuff Removal~
+0 m 1
 ~
-   otransform 4767
-   halt
+msend %actor% trigger
+dg_cast 'heal' %actor%
 ~
 #4763
 m4763 aggro~

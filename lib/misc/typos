@@ -416,3 +416,23 @@ Sirrion  (Dec 30) [ 1007] you suck
 Nuitari  (Dec 30) [ 1006] same
 Rubirathar (Dec 30) [ 8209] Seems legit
 Galvin   (Dec 30) [ 8218] typo chat new wiz chat
+Ilyena   (Feb 14) [ 7129] 'a gnarled staff crafed from solid vallenwood'
+Tivanosa (Feb 15) [ 7107] Looks like the room is probably missing a purge at the end of its trigger sequence.  There are now 10 carts here.
+Tivanosa (Feb 16) [ 9828] 'a small, steel buckler with rusty rivets' has an extra space at the end of its short desc.
+Tivanosa (Feb 16) [ 8025] This fountain doesn't seem to be a fountain.
+Tivanosa (Feb 16) [10157] Not sure why a rogue can't use 'a steel-bladed short sword with a polished wooden hilt'.?
+Tivanosa (Feb 16) [ 2017] Might want to... check the max load of mobs in this room.  At the time of this writing, there are 13 merchants and 14 sailors all camped out here.  It's... kind of freaky.
+Tivanosa (Feb 17) [10838] a wool one-shoulder cape with a tooled leather pauldron - needs more aliases added.  And also a long description.  Lazy building!
+Tivanosa (Feb 18) [ 7107] 18 carts and counting...
+Tivanosa (Feb 18) [ 9828] Apparently halfelves can't use an antique elven scimitar flickering with azure faerie fire??
+Tivanosa (Feb 18) [19064] This room is linked to from Mystvale Lake Trail.  Seems to be a bug.
+Tivanosa (Feb 18) [ 8128] a simple black eye patch, tied with a long cloth cord needs its aliases updated.
+Tivanosa (Feb 19) [ 7316] a tall, sturdy quarter horse gives no exp upon kill.
+Avra     (Feb 22) [30397] None of the shopkeepers in Sanction appear to buy the things they're supposed to trade in.
+Avra     (Feb 22) [ 2099] a black, solid steel backplate with soft velvet padding is missing 'backplate' as an alias.
+Avra     (Feb 22) [ 2099] Similarly, a simple black eye patch, tied with a long cloth cord is missing several aliases.  Notably, 'eye', and 'patch', though it does alias to 'eyepatch'.  Sigh...
+Adriahna (Feb 23) [10113] 'thick leather gauntlets with studded knuckles' has a typo in its long desc ("guantlets").
+Avra     (Feb 24) [30322] :D
+Avra     (Feb 25) [ 5223] The south exit here doesn't appear to have a name.
+Tivanosa (Feb 25) [ 8913] 'a tall man with a muscular build' is missing many aliases.
+Ilyena   (Feb 25) [11123] 'a vaguely spherical mass oozing an aura of darkness' seems to alias to nothing in its name.

@@ -1,0 +1,90 @@
+2
+eb
+11
+eat chicken
+0
+3
+gbp
+16
+get chicken wind
+0
+1
+2
+20
+put all.chicken wind
+0
+1
+1
+13
+buy 5 chicken
+0
+2
+wp
+14
+hang wind sash
+0
+1
+3
+64
+remo zweihander ; remo dagger ; wield spear ; wear shield shield
+1
+1
+4
+57
+remo zweihander ; wield spear ; remo shield ; hold dagger
+1
+1
+5
+57
+remo spear ; remo shield ; remo dagger ; wield zweihander
+1
+2
+rp
+9
+remo wind
+0
+3
+lip
+12
+look in wind
+0
+1
+x
+22
+throw axe $* ; get axe
+1
+6
+unlock
+19
+unlock $* ; open $*
+1
+3
+lib
+12
+look in ruck
+0
+2
+sc
+4
+scan
+0
+8
+dismount
+11
+dismount me
+0
+3
+gac
+18
+get all all.corpse
+0
+2
+sk
+11
+skin corpse
+0
+4
+drin
+9
+drin skin
+0
