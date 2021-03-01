@@ -718,19 +718,19 @@ int perform_move(struct char_data *ch, int dir, int need_specials_check) {
         return 0;
 
     } else if (!EXIT(ch, dir) || EXIT(ch, dir)->to_room == NOWHERE) {
-        log("Can't go that way.");
+        //log("Can't go that way.");
         send_to_char("Alas, you cannot go that way...\r\n", ch);
 
     } else if (IS_SET(EXIT(ch, dir)->exit_info, EX_CLOSED)) {
         if (EXIT(ch, dir)->keyword && !IS_SET(EXIT(ch, dir)->exit_info, EX_HIDDEN)) {
-            log("Door closed.");
+            //log("Door closed.");
             sprintf(buf2, "The %s seems to be closed.\r\n", fname(EXIT(ch, dir)->keyword));
             send_to_char(buf2, ch);
         } else if (!IS_SET(EXIT(ch, dir)->exit_info, EX_HIDDEN)) {
-            log("Hidden door closed.");
+            //log("Hidden door closed.");
             send_to_char("It seems to be closed.\r\n", ch);
         } else {
-            log("Can't got that way 2.");
+            //log("Can't got that way 2.");
             send_to_char("Alas, you cannot go that way...\r\n", ch);
         }
     } else {
