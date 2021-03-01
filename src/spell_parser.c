@@ -1704,8 +1704,7 @@ void mag_objectmagic(struct char_data * ch, struct obj_data * obj, char *argumen
 
     WAIT_STATE(ch, 2 * PULSE_VIOLENCE);
     for (i = 1; i < 4; i++)
-      if (!(call_magic(ch, ch, NULL, GET_OBJ_VAL(obj, i),
-		       GET_OBJ_VAL(obj, 0), CAST_POTION)))
+      if (!(call_magic(ch, ch, NULL, GET_OBJ_VAL(obj, i), GET_OBJ_VAL(obj, 0), CAST_POTION)))
 	break;
 
     if (obj != NULL)

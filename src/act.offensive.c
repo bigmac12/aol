@@ -1418,6 +1418,7 @@ ACMD(do_throw) {
     int damage_val;
     int obj_type;
     int item_damage;
+    int stat_bonus_damage;
     two_arguments(argument, buf, buf2);
 
     if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING) {
@@ -1451,15 +1452,14 @@ ACMD(do_throw) {
     //damage_val = GET_STR(ch) / 2 + GET_OBJ_WEIGHT(obj) / 4 + GET_LEVEL(ch) / 2;
     //obj_type = GET_OBJ_TYPE(obj);
 
-    //if (GET_OBJ_TYPE(obj) == ITEM_WEAPON) {
-        // item_damage = dice(min, max);
-    //} else {
-        // item_damage = GET_OBJ_WEIGHT(obj);
-    //}
+    if (GET_OBJ_TYPE(obj) == ITEM_WEAPON) {
+        item_damage = dice(GET_OBJ_VAL(wielded, 1), GET_OBJ_VAL(wielded, 2));
+    } else {
+        item_damage = GET_OBJ_WEIGHT(obj);
+    }
 
-    //bonus_damage = GET_STR(ch)/2 + GET_DEX(ch)/2;
-    //damage_val = (GET_STR(ch) / 2) + item_damage + (GET_SKILL(SKILL_THROW) / 4);
-    damage_val = GET_STR(ch)/2 + GET_OBJ_WEIGHT(obj)/4 + GET_LEVEL(ch)/2;
+    stat_bonus_damage = GET_STR(ch)/2 + GET_DEX(ch)/2;
+    damage_val = stat_bonus_damage + item_damage + (GET_SKILL(SKILL_THROW) / 4);
 
     if (!use_skill(ch, percent, SKILL_THROW) || percent > prob) {
         /* miss */
@@ -1488,6 +1488,16 @@ ACMD(do_throw) {
             act("$N throws $p at you and it shatters in your face!", FALSE, vict, obj, ch, TO_CHAR);
             act("You throw $p at $n and it shatters in $s face!", FALSE, vict, obj, ch, TO_VICT);
             act("$N throws $p at $n and it shatters in $s face!", FALSE, vict, obj, ch, TO_NOTVICT);
+
+            // Make potions do zero damage - since they do spells, 
+            // physical damage from the throw is somewhat pointless.
+            damage_val = 0;  
+
+            for (i = 1; i < 4; i++) {
+                if (!(call_magic(ch, vict, NULL, GET_OBJ_VAL(obj, i), GET_OBJ_VAL(obj, 0), CAST_POTION))){
+                    continue;
+                }
+            }
 
         } else {
             act("$N throws $p and hits you square in the chest!", FALSE, vict, obj, ch, TO_CHAR);
