@@ -467,12 +467,12 @@
 #define ITEM_WAND       3		/* Item is a wand		*/
 #define ITEM_STAFF      4		/* Item is a staff		*/
 #define ITEM_WEAPON     5		/* Item is a weapon		*/
-#define ITEM_SALVE      6               /* Item is a salve              */
-#define ITEM_BELT       7		/* Unimplemented		*/
+#define ITEM_SALVE      6       /* Item is a salve      */
+#define ITEM_BELT       7		/* Item is a belt		*/
 #define ITEM_TREASURE   8		/* Item is a treasure, not gold	*/
 #define ITEM_ARMOR      9		/* Item is armor		*/
 #define ITEM_POTION    10 		/* Item is a potion		*/
-#define ITEM_WORN      11		/* Unimplemented		*/
+#define ITEM_WORN      11		/* Item is plain clothes*/
 #define ITEM_OTHER     12		/* Misc object			*/
 #define ITEM_TRASH     13		/* Trash - shopkeeps won't buy	*/
 #define ITEM_BOTTLE    14		/* Unimplemented		*/
