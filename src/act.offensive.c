@@ -1419,6 +1419,8 @@ ACMD(do_throw) {
     int obj_type;
     int item_damage;
     int stat_bonus_damage;
+    int i;
+    bool remove_item;
     two_arguments(argument, buf, buf2);
 
     if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING) {
@@ -1489,11 +1491,8 @@ ACMD(do_throw) {
             act("You throw $p at $n and it shatters in $s face!", FALSE, vict, obj, ch, TO_VICT);
             act("$N throws $p at $n and it shatters in $s face!", FALSE, vict, obj, ch, TO_NOTVICT);
 
-            // Make potions do zero damage - since they do spells, 
-            // physical damage from the throw is somewhat pointless.
-            damage_val = 0;  
+            remove_item = TRUE;
 
-            int i;
             for (i = 1; i < 4; i++) {
                 if (!(call_magic(ch, vict, NULL, GET_OBJ_VAL(obj, i), GET_OBJ_VAL(obj, 0), CAST_POTION))){
                     continue;
@@ -1507,10 +1506,20 @@ ACMD(do_throw) {
         }
     }
 
-    damage(ch, vict, damage_val, SKILL_THROW);
+    // Check for followers - no aggro
+    // Consume item when thrown if potion
+    if(IS_NPC(vict)){
+        damage(ch, vict, damage_val, SKILL_THROW);
+    } else {
+        // Target was a player - no action.
+    }
+
     WAIT_STATE(ch, PULSE_VIOLENCE * 3);
     obj_from_char(obj);
-    obj_to_char(obj, vict);
+
+    if(!remove_item){
+        obj_to_char(obj, vict);
+    }
 }
 
 ACMD(do_knockout)
