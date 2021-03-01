@@ -1661,7 +1661,7 @@ ACMD(do_charge)
     act("$N sidesteps $n's charge who tramples past $M.", FALSE, ch, 0, vict, TO_NOTVICT);
 	act("$N sidesteps your charge and you trample past $M.", FALSE, ch, 0, vict, TO_CHAR);
 	act("You sidestep $n's charge who tramples past you.", FALSE, ch, 0, vict, TO_VICT);
-    WAIT_STATE(ch, PULSE_VIOLENCE * 4);
+    WAIT_STATE(ch, PULSE_VIOLENCE);
     return;
   }
 
