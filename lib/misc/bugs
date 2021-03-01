@@ -199,3 +199,8 @@ Ilyena   (Feb 25) [30378] 'Summon Guard' spell seems to crash the mud.
 Adriahna (Feb 25) [ 2304] After the crash, the mobs' extra attacks seem to be gone? Not sure what that's about, but I'll try fighting a few more mobs and see if it's just by chance.
 Adriahna (Feb 25) [ 7112] It would now seem that the extra attacks mobs had (the 'dirty fighting' style stuff) the last crash have vanished after this one.  Might be worth looking into what happened and how?
 Adriahna (Feb 26) [ 4718] 'charge' and 'armor mastery' skills lack any help files.
+Adriahna (Feb 26) [ 7071] The charge skill has a typo in its success message. "Devestation".
+Tivanosa (Feb 28) [ 9489] The sheath message 'you light a beautifully crafted dwarven seax and hold it' seems inaccurate.
+Tivanosa (Feb 28) [ 8277] The duration of bestow curse is goddamn ridiculous.
+Adriahna (Feb 28) [11861] You can apparently accidentally charge yourself.
+Adriahna (Feb 28) [10063] Mobs are doing the universal dirty fighting extra attacks thing again.
