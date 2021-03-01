@@ -1457,8 +1457,9 @@ ACMD(do_throw) {
         // item_damage = GET_OBJ_WEIGHT(obj);
     //}
 
-    bonus_damage = GET_STR(ch)/2 + GET_DEX(ch)/2;
-    damage_val = (GET_STR(ch) / 2) + item_damage + (GET_SKILL(SKILL_THROW) / 4);
+    //bonus_damage = GET_STR(ch)/2 + GET_DEX(ch)/2;
+    //damage_val = (GET_STR(ch) / 2) + item_damage + (GET_SKILL(SKILL_THROW) / 4);
+    damage_val = GET_STR(ch)/2 + GET_OBJ_WEIGHT(obj)/4 + GET_LEVEL(ch)/2;
 
     if (!use_skill(ch, percent, SKILL_THROW) || percent > prob) {
         /* miss */
