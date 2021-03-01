@@ -1493,7 +1493,8 @@ ACMD(do_throw) {
             // physical damage from the throw is somewhat pointless.
             damage_val = 0;  
 
-            for (int i = 1; i < 4; i++) {
+            int i;
+            for (i = 1; i < 4; i++) {
                 if (!(call_magic(ch, vict, NULL, GET_OBJ_VAL(obj, i), GET_OBJ_VAL(obj, 0), CAST_POTION))){
                     continue;
                 }
