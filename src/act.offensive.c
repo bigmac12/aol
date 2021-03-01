@@ -1453,7 +1453,7 @@ ACMD(do_throw) {
     //obj_type = GET_OBJ_TYPE(obj);
 
     if (GET_OBJ_TYPE(obj) == ITEM_WEAPON) {
-        item_damage = dice(GET_OBJ_VAL(wielded, 1), GET_OBJ_VAL(wielded, 2));
+        item_damage = dice(GET_OBJ_VAL(obj, 1), GET_OBJ_VAL(obj, 2));
     } else {
         item_damage = GET_OBJ_WEIGHT(obj);
     }
