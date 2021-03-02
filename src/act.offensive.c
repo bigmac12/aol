@@ -1507,7 +1507,6 @@ ACMD(do_throw) {
     }
 
     // Check for followers - no aggro
-    // Consume item when thrown if potion
     if(IS_NPC(vict)){
         damage(ch, vict, damage_val, SKILL_THROW);
     } else {
