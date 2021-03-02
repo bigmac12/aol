@@ -234,7 +234,7 @@ feather magnificent wreathed aura blue flames phoenix~
 &Ba magnificent feather wreathed in an aura of blue flames&n~
 A feather lies on the ground here, surrounded in flames.~
 ~
-1 3393 1
+1 1345 1
 0 0 -1 0
 1 3650 1825 25 -1
 E
@@ -393,19 +393,6 @@ A gold encased book titled "History of the Flame" has been discarded here.~
 0 0 0 0
 1 50 13 0 -1
 E
-book history flame ~
-The contents of this book have been scribed in strange golden ink. 
-
-Second Month of year 290
-   A strange feather appeared at my door.  It was warm to the touch and it
-seemed to be glowing a golden brown.  I am by far not a holy man.  This has
-been a message from the Gods.  It has to be.  When I held the feather to the
-flame of my candle it glowed brightly and then burst into flame sending a fine
-smelling smoke into the air.  I panicked and tried to hide the smell.    
-
-Continued on page two (page2).
-~
-E
 page2 chapter2~
    A glowing bird of flame dove at our peaceful town and landed before my
 house.  My tongue was held and my throat wend dry then it spoke.  " Human, I
@@ -418,6 +405,19 @@ red flame.  Then he spoke again " Create a church dedicated to him, and in the
 basement of this room, this will be his nest for him to grow strong, take my
 feathers and create a heating system, with this system it will provide
 sufficient heat to keep my child alive, I repeat, this is your only hope"
+~
+E
+book history flame ~
+The contents of this book have been scribed in strange golden ink. 
+
+Second Month of year 290
+   A strange feather appeared at my door.  It was warm to the touch and it
+seemed to be glowing a golden brown.  I am by far not a holy man.  This has
+been a message from the Gods.  It has to be.  When I held the feather to the
+flame of my candle it glowed brightly and then burst into flame sending a fine
+smelling smoke into the air.  I panicked and tried to hide the smell.    
+
+Continued on page two (page2).
 ~
 #11724
 desk old-fashioned old solid oak~
@@ -579,6 +579,13 @@ A large leather bound book entitled " Birth of the Phoenix" is here.~
 0 0 0 0
 1 120 30 15 -1
 E
+page2~
+   This Baby Phoenix watched and listened as I told him of the reports of the
+Invasion that was heading our way.  I told him of the masses of armies of
+trolls that his father told me about.  Even though a date was not yet given.  
+This omen could not be far away.  Then the Phoenix devised a plan.    
+~
+E
 book birth of the phoenix~
    Birth of the Phoenix: It was a marvelous sight.  That single egg that was
 dropped off to be our savior.  We did as we were ordered.  Underneath the
@@ -594,13 +601,6 @@ and its destiny has been foretold.
 
 
 (To read the next chapter, type:  read page2)
-~
-E
-page2~
-   This Baby Phoenix watched and listened as I told him of the reports of the
-Invasion that was heading our way.  I told him of the masses of armies of
-trolls that his father told me about.  Even though a date was not yet given.  
-This omen could not be far away.  Then the Phoenix devised a plan.    
 ~
 #11736
 oak bookshelf~
@@ -787,31 +787,18 @@ A black book with red lettering is here.~
 0 0 0 0
 0 0 0 0 -1
 E
-chapter4~
-   The sun chamber seems to be the strangest of them.  Its purpose represents
-the home of this legendary bird of fire.  The room though pulsates with heat
-energy.  The walls seem to move and fluxate with each blinking of my eye.  
-Strangely, when I reach out to feel the heat it's not present, in fact all
-appears to be a mirage to sustain the phoenix growth.  Now the sun child is a
-scary creature.  Its skin has been charred and it also pulsates with heat and
-fire.  It burns by eyes to look at this manifestation of a simple child we
-created.    
+book kaaba lost journal chapter1~
+Chapter One:  Chamber of Fire
 
-Kaaba
-~
-E
-chapter3~
-   This strange chamber represents the sleeping stage of the phoenix.  After
-the egg has hatched and the infant phoenix is placed into proper custody.  I
-had to make sure it spent at least six hours under the moonlight.  The reasons
-for this I don not know.  The upper level of the moon chamber has large glass
-to magnify the intensity of the moonlight, there fore speeding up the growth
-rate of the phoenix.  Is the wrong?  The guardian of this chamber is a blue
-skilled elf, who has been chosen by the Phoenix elders of the village.  The
-process to choose the elf is simple.  The same process in making an elf, a dark
-elf.    
+   This is the first of the four rooms that crafted is the Chamber of the sun.
+This chamber was to honor the Phoenix and its living flame.  The two rulers or
+this room were selected by there dedication to the church.  There represent the
+Peaceful and Kind Side of the Phoenix: The Lord of the Flame.  The process to
+create the Lord of the flame as instructed by the Phoenix appears to be quite
+painful procedure.  One that myself could not endure.  To read more on this
+procedure: Read Second Chapter: The Bathing of Flames
 
-(To read the next chapter, type:  read chapter4)
+(To read the next chapter, type:  read chapter2)
 ~
 E
 chapter2~
@@ -828,18 +815,31 @@ skin, making him the lord of the flame.
 (To read the next chapter, type:  read chapter3)
 ~
 E
-book kaaba lost journal chapter1~
-Chapter One:  Chamber of Fire
+chapter3~
+   This strange chamber represents the sleeping stage of the phoenix.  After
+the egg has hatched and the infant phoenix is placed into proper custody.  I
+had to make sure it spent at least six hours under the moonlight.  The reasons
+for this I don not know.  The upper level of the moon chamber has large glass
+to magnify the intensity of the moonlight, there fore speeding up the growth
+rate of the phoenix.  Is the wrong?  The guardian of this chamber is a blue
+skilled elf, who has been chosen by the Phoenix elders of the village.  The
+process to choose the elf is simple.  The same process in making an elf, a dark
+elf.    
 
-   This is the first of the four rooms that crafted is the Chamber of the sun.
-This chamber was to honor the Phoenix and its living flame.  The two rulers or
-this room were selected by there dedication to the church.  There represent the
-Peaceful and Kind Side of the Phoenix: The Lord of the Flame.  The process to
-create the Lord of the flame as instructed by the Phoenix appears to be quite
-painful procedure.  One that myself could not endure.  To read more on this
-procedure: Read Second Chapter: The Bathing of Flames
+(To read the next chapter, type:  read chapter4)
+~
+E
+chapter4~
+   The sun chamber seems to be the strangest of them.  Its purpose represents
+the home of this legendary bird of fire.  The room though pulsates with heat
+energy.  The walls seem to move and fluxate with each blinking of my eye.  
+Strangely, when I reach out to feel the heat it's not present, in fact all
+appears to be a mirage to sustain the phoenix growth.  Now the sun child is a
+scary creature.  Its skin has been charred and it also pulsates with heat and
+fire.  It burns by eyes to look at this manifestation of a simple child we
+created.    
 
-(To read the next chapter, type:  read chapter2)
+Kaaba
 ~
 #11747
 sapphire earring~
