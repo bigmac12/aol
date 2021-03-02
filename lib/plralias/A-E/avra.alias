@@ -1,3 +1,18 @@
+1
+2
+15
+put all.pa wind
+0
+2
+eb
+6
+eat pa
+0
+3
+gbp
+11
+get pa wind
+0
 6
 dispel
 13
@@ -29,16 +44,6 @@ wp
 hang wind sash
 0
 3
-gbp
-16
-get berries wind
-0
-1
-2
-20
-put all.berries wind
-0
-3
 lip
 12
 look in wind
@@ -63,11 +68,6 @@ ob
 15
 order ferret $*
 1
-2
-eb
-11
-eat berries
-0
 2
 dm
 12
