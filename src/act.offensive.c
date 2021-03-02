@@ -1418,6 +1418,9 @@ ACMD(do_throw) {
     int damage_val;
     int obj_type;
     int item_damage;
+    int stat_bonus_damage;
+    int i;
+    bool remove_item;
     two_arguments(argument, buf, buf2);
 
     if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING) {
@@ -1451,15 +1454,14 @@ ACMD(do_throw) {
     //damage_val = GET_STR(ch) / 2 + GET_OBJ_WEIGHT(obj) / 4 + GET_LEVEL(ch) / 2;
     //obj_type = GET_OBJ_TYPE(obj);
 
-    //if (GET_OBJ_TYPE(obj) == ITEM_WEAPON) {
-        // item_damage = dice(min, max);
-    //} else {
-        // item_damage = GET_OBJ_WEIGHT(obj);
-    //}
+    if (GET_OBJ_TYPE(obj) == ITEM_WEAPON) {
+        item_damage = dice(GET_OBJ_VAL(obj, 1), GET_OBJ_VAL(obj, 2));
+    } else {
+        item_damage = GET_OBJ_WEIGHT(obj);
+    }
 
-    //bonus_damage = GET_STR(ch)/2 + GET_DEX(ch)/2;
-    //damage_val = (GET_STR(ch) / 2) + item_damage + (GET_SKILL(SKILL_THROW) / 4);
-    damage_val = GET_STR(ch)/2 + GET_OBJ_WEIGHT(obj)/4 + GET_LEVEL(ch)/2;
+    stat_bonus_damage = GET_STR(ch)/2 + GET_DEX(ch)/2;
+    damage_val = stat_bonus_damage + item_damage + (GET_SKILL(ch, SKILL_THROW) / 4);
 
     if (!use_skill(ch, percent, SKILL_THROW) || percent > prob) {
         /* miss */
@@ -1489,6 +1491,14 @@ ACMD(do_throw) {
             act("You throw $p at $n and it shatters in $s face!", FALSE, vict, obj, ch, TO_VICT);
             act("$N throws $p at $n and it shatters in $s face!", FALSE, vict, obj, ch, TO_NOTVICT);
 
+            remove_item = TRUE;
+
+            for (i = 1; i < 4; i++) {
+                if (!(call_magic(ch, vict, NULL, GET_OBJ_VAL(obj, i), GET_OBJ_VAL(obj, 0), CAST_POTION))){
+                    continue;
+                }
+            }
+
         } else {
             act("$N throws $p and hits you square in the chest!", FALSE, vict, obj, ch, TO_CHAR);
             act("You throw $p at $n and hit $m in the chest!", FALSE, vict, obj, ch, TO_VICT);
@@ -1496,10 +1506,19 @@ ACMD(do_throw) {
         }
     }
 
-    damage(ch, vict, damage_val, SKILL_THROW);
+    // Check for followers - no aggro
+    if(IS_NPC(vict)){
+        damage(ch, vict, damage_val, SKILL_THROW);
+    } else {
+        // Target was a player - no action.
+    }
+
     WAIT_STATE(ch, PULSE_VIOLENCE * 3);
     obj_from_char(obj);
-    obj_to_char(obj, vict);
+
+    if(!remove_item){
+        obj_to_char(obj, vict);
+    }
 }
 
 ACMD(do_knockout)
