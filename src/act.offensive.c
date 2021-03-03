@@ -1420,7 +1420,7 @@ ACMD(do_throw) {
     int item_damage;
     int stat_bonus_damage;
     int i;
-    bool remove_item;
+    bool remove_item = FALSE;
     two_arguments(argument, buf, buf2);
 
     if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING) {
