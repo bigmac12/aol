@@ -1656,7 +1656,7 @@ ACMD(do_lay_hands) {
   }
 
   if (char_charisma > BASE_CHA) {
-    cha_modifier = char_charisma - BASE_CHA
+    cha_modifier = char_charisma - BASE_CHA;
   } else {
     cha_modifier= BASE_CHA - char_charisma;
   }
