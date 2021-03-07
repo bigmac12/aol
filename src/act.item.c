@@ -2601,98 +2601,100 @@ ACMD(do_mreport) {
             return;
         }
 
-    if (vict) {
-        act("$n gives $N an order.", FALSE, ch, 0, vict, TO_ROOM);
+        if (vict) {
+            act("$n gives $N an order.", FALSE, ch, 0, vict, TO_ROOM);
 
-        if (vict->master != ch) {
-            act("$n has an indifferent look.", FALSE, vict, 0, 0, TO_ROOM);
-            return;
+            if (vict->master != ch) {
+                act("$n has an indifferent look.", FALSE, vict, 0, 0, TO_ROOM);
+                return;
 
-        } else if (!IS_NPC(vict) || !MOB_FLAGGED(vict, MOB_MOUNTABLE))  {
-            send_to_char("They are not a mount!!\r\n", ch);
-            return;
-        }
-
-        l = (ch->master ? ch->master : ch);
-
-        for (f = l->followers; f; f = f->next){
-            if (f->follower != ch) {
-                GET_NAME_II(vict, f->follower, chname);
-                sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-                    chname, GET_HIT(vict), GET_MAX_HIT(vict),
-                    GET_MOVE(vict), GET_MAX_MOVE(vict));
-                FREE_NAME(chname);
-                CAP(buf);
-                send_to_char(buf, f->follower);
+            } else if (!IS_NPC(vict) || !MOB_FLAGGED(vict, MOB_MOUNTABLE))  {
+                send_to_char("They are not a mount!!\r\n", ch);
+                return;
             }
-
-            if (l != ch) {
-                GET_NAME_II(vict, l, chname);
-                sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-                    chname, GET_HIT(vict), GET_MAX_HIT(vict),
-                    GET_MOVE(vict), GET_MAX_MOVE(vict));
-                FREE_NAME(chname);
-                CAP(buf);
-                send_to_char(buf, l);
-            }
-            
-            GET_NAME_II(vict, ch, chname);
-            sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-                    chname, GET_HIT(vict), GET_MAX_HIT(vict),
-                    GET_MOVE(vict), GET_MAX_MOVE(vict));
-            FREE_NAME(chname);
-            CAP(buf);
-            send_to_char(buf, ch);		 
-        }
-    } else {                    
-
-        //   send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
-        //   return;
-
-      org_room = ch->in_room;
-
-      for (k = ch->followers; k; k = k->next) {
-        if (org_room == k->follower->in_room)
-          if (IS_AFFECTED(k->follower, AFF_CHARM) || IS_AFFECTED(k->follower, AFF_TAMED)) {
-            found = TRUE;
 
             l = (ch->master ? ch->master : ch);
 
-            for (f = l->followers; f; f = f->next)
+            for (f = l->followers; f; f = f->next){
                 if (f->follower != ch) {
-                    GET_NAME_II(k->follower, f->follower, chname);
+                    GET_NAME_II(vict, f->follower, chname);
                     sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-                        chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
-                        GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
+                        chname, GET_HIT(vict), GET_MAX_HIT(vict),
+                        GET_MOVE(vict), GET_MAX_MOVE(vict));
                     FREE_NAME(chname);
                     CAP(buf);
                     send_to_char(buf, f->follower);
                 }
 
                 if (l != ch) {
-                GET_NAME_II(k->follower, l, chname);
-                sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-                    chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
-                    GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
-                FREE_NAME(chname);
-                CAP(buf);
-                send_to_char(buf, l);
+                    GET_NAME_II(vict, l, chname);
+                    sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                        chname, GET_HIT(vict), GET_MAX_HIT(vict),
+                        GET_MOVE(vict), GET_MAX_MOVE(vict));
+                    FREE_NAME(chname);
+                    CAP(buf);
+                    send_to_char(buf, l);
                 }
                 
-                GET_NAME_II(k->follower, ch, chname);
+                GET_NAME_II(vict, ch, chname);
                 sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-                        chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
-                        GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
+                        chname, GET_HIT(vict), GET_MAX_HIT(vict),
+                        GET_MOVE(vict), GET_MAX_MOVE(vict));
                 FREE_NAME(chname);
                 CAP(buf);
-                send_to_char(buf, ch);
-          }
-      }
-      if (found)
-        send_to_char(OK, ch);
-      else
-        send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
-    }
+                send_to_char(buf, ch);		 
+            }
+        } else {                    
+            //   send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
+            //   return;
+
+            org_room = ch->in_room;
+
+            for (k = ch->followers; k; k = k->next) {
+                if (org_room == k->follower->in_room)
+                if (IS_AFFECTED(k->follower, AFF_CHARM) || IS_AFFECTED(k->follower, AFF_TAMED)) {
+                    found = TRUE;
+
+                    l = (ch->master ? ch->master : ch);
+
+                    for (f = l->followers; f; f = f->next)
+                        if (f->follower != ch) {
+                            GET_NAME_II(k->follower, f->follower, chname);
+                            sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                                chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
+                                GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
+                            FREE_NAME(chname);
+                            CAP(buf);
+                            send_to_char(buf, f->follower);
+                        }
+
+                        if (l != ch) {
+                        GET_NAME_II(k->follower, l, chname);
+                        sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                            chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
+                            GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
+                        FREE_NAME(chname);
+                        CAP(buf);
+                        send_to_char(buf, l);
+                        }
+                        
+                        GET_NAME_II(k->follower, ch, chname);
+                        sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                                chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
+                                GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
+                        FREE_NAME(chname);
+                        CAP(buf);
+                        send_to_char(buf, ch);
+                }
+            }
+
+            if (found) {
+                send_to_char(OK, ch);
+            } else {
+                send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
+            }
+
+        }
     }
 }
 

@@ -65,8 +65,10 @@ long pop_free_list(void)
     free_list = old_pos->next;
     free(old_pos);
     return return_value;
-  } else
+
+  } else {
     return file_end_pos;
+  }
 }
 
 
@@ -221,6 +223,7 @@ void store_mail(long to, long from, char *message_pointer)
   int bytes_written = 0;
   int total_length = strlen(message_pointer);
 
+    log(sizeof(header_block_type));
   assert(sizeof(header_block_type) == sizeof(data_block_type));
   assert(sizeof(header_block_type) == BLOCK_SIZE);
 

@@ -757,8 +757,7 @@ ACMD(do_kick)
 }
 */
 
-ACMD(do_disarm)
-{
+ACMD(do_disarm) {
   int eq_pos, percent;
   struct char_data *vict;
   struct obj_data *obj;
@@ -768,18 +767,15 @@ ACMD(do_disarm)
     return ;
 }
 
-  if (!GET_SKILL(ch, SKILL_DISARM))
-  {
+  if (!GET_SKILL(ch, SKILL_DISARM)) {
     send_to_char("You are unskilled in the art of disarming.\r\n", ch);
     return;
   }
 
   one_argument(argument, arg);
 
-  if (!arg || !(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)))
-  {
-    if (!FIGHTING(ch))
-    {
+  if (!arg || !(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM))) {
+    if (!FIGHTING(ch)) {
       send_to_char("Who do you want to disarm?\r\n", ch);
       return;
     }
