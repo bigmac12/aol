@@ -2474,8 +2474,7 @@ if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING) {
 }
 
 
-ACMD(do_mrest)
-{
+ACMD(do_mrest) {
   bool found = FALSE;
   room_rnum org_room;
   struct char_data *vict;
@@ -2494,7 +2493,18 @@ ACMD(do_mrest)
 }
 
   if (!*arg) {
-    send_to_char("Who?!?\r\n", ch);
+    org_room = ch->in_room;
+
+    for (k = ch->followers; k; k = k->next) {
+      if (org_room == k->follower->in_room)
+        // Dev note: check for mounted horses that ARE NOT tamed - they don't respond
+        // until you set the tame flag. Is there a "is_master" function?
+        if (IS_AFFECTED(k->follower, AFF_CHARM) || 
+            IS_AFFECTED(k->follower, AFF_TAMED)) {
+          found = TRUE;
+          command_interpreter(k->follower, "rest");
+        }
+    }
     return;
   }
   else if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) && !is_abbrev(arg, "followers"))
@@ -2542,92 +2552,102 @@ ACMD(do_mrest)
   }
 }
 
-ACMD(do_mreport)
-{
-  bool found = FALSE;
-  room_rnum org_room;
-  struct char_data *vict;
-  struct follow_type *k;
-  struct char_data *l;
-	struct follow_type *f;	
 
-  one_argument(argument, arg);
+ACMD(do_mreport) {
+    bool found = FALSE;
+    room_rnum org_room;
+    struct char_data *vict;
+    struct follow_type *k;
+    struct char_data *l;
+    struct follow_type *f;	
 
- if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING) {
-     send_to_char("You are not in a proper position for that!\r\n", ch);
-    return;
-}
+    one_argument(argument, arg);
 
-if (!IS_AFFECTED(ch, AFF_GROUP)) {
-	send_to_char("But you are not a member of any group!\r\n", ch);
-	return;
-}
-
-  if (!*arg) {
-    send_to_char("Who?!?\r\n", ch);
-    return;
-  }
-  else if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) && !is_abbrev(arg, "followers"))
-    send_to_char("That person isn't here.\r\n", ch);
-  else if (ch == vict)
-    send_to_char("You obviously suffer from skitzofrenia.\r\n", ch);
-
-  else {
-    if (IS_AFFECTED(ch, AFF_CHARM)) {
-      send_to_char("Your superior would not aprove of you giving orders.\r\n", ch);
-      return;
-    }
-    if (vict) {
-      
-      act("$n gives $N an order.", FALSE, ch, 0, vict, TO_ROOM);
-
-      if (vict->master != ch) {
-        act("$n has an indifferent look.", FALSE, vict, 0, 0, TO_ROOM);
+    if (GET_POS(ch) == POS_FISHING || GET_POS(ch) == POS_DIGGING) {
+        send_to_char("You are not in a proper position for that!\r\n", ch);
         return;
-      }
-      else if (!IS_NPC(vict) || !MOB_FLAGGED(vict, MOB_MOUNTABLE))  {
-      send_to_char("They are not a mount!!\r\n", ch);
-      return;
-     }
+    }
 
-		  l = (ch->master ? ch->master : ch);
+    if (!IS_AFFECTED(ch, AFF_GROUP)) {
+        send_to_char("But you are not a member of any group!\r\n", ch);
+        return;
+    }
 
-		  for (f = l->followers; f; f = f->next)
-		    if (f->follower != ch)
-		    {
-		      GET_NAME_II(vict, f->follower, chname);
-		      sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-		          chname, GET_HIT(vict), GET_MAX_HIT(vict),
-		          GET_MOVE(vict), GET_MAX_MOVE(vict));
-		      FREE_NAME(chname);
-		      CAP(buf);
-		      send_to_char(buf, f->follower);
-		    }
+    if (!*arg) {
+        org_room = ch->in_room;
 
-		  if (l != ch)
-		  {
-		    GET_NAME_II(vict, l, chname);
-		    sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-		        chname, GET_HIT(vict), GET_MAX_HIT(vict),
-		        GET_MOVE(vict), GET_MAX_MOVE(vict));
-		    FREE_NAME(chname);
-		    CAP(buf);
-		    send_to_char(buf, l);
-		  }
-		 
-			GET_NAME_II(vict, ch, chname);
-			sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-					chname, GET_HIT(vict), GET_MAX_HIT(vict),
-					GET_MOVE(vict), GET_MAX_MOVE(vict));
-			FREE_NAME(chname);
-			CAP(buf);
-			send_to_char(buf, ch);		 
+        for (k = ch->followers; k; k = k->next) {
+            if (org_room == k->follower->in_room) {
+                // Dev note: check for mounted horses that ARE NOT tamed - they don't respond
+                // until you set the tame flag. Is there a "is_master" function?
+                if (IS_AFFECTED(k->follower, AFF_CHARM) || IS_AFFECTED(k->follower, AFF_TAMED)) {
+                    found = TRUE;
+                    command_interpreter(k->follower, "report");
+                }
+            }
+        }
 
-		 
+        return;
+
+    } else if (!(vict = get_char_vis(ch, arg, FIND_CHAR_ROOM)) && !is_abbrev(arg, "followers")) {
+        send_to_char("That person isn't here.\r\n", ch);
+
+    } else if (ch == vict) {
+        send_to_char("You obviously suffer from skitzofrenia.\r\n", ch);
+
+    } else {
+        if (IS_AFFECTED(ch, AFF_CHARM)) {
+            send_to_char("Your superior would not aprove of you giving orders.\r\n", ch);
+            return;
+        }
+
+    if (vict) {
+        act("$n gives $N an order.", FALSE, ch, 0, vict, TO_ROOM);
+
+        if (vict->master != ch) {
+            act("$n has an indifferent look.", FALSE, vict, 0, 0, TO_ROOM);
+            return;
+
+        } else if (!IS_NPC(vict) || !MOB_FLAGGED(vict, MOB_MOUNTABLE))  {
+            send_to_char("They are not a mount!!\r\n", ch);
+            return;
+        }
+
+        l = (ch->master ? ch->master : ch);
+
+        for (f = l->followers; f; f = f->next){
+            if (f->follower != ch) {
+                GET_NAME_II(vict, f->follower, chname);
+                sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                    chname, GET_HIT(vict), GET_MAX_HIT(vict),
+                    GET_MOVE(vict), GET_MAX_MOVE(vict));
+                FREE_NAME(chname);
+                CAP(buf);
+                send_to_char(buf, f->follower);
+            }
+
+            if (l != ch) {
+                GET_NAME_II(vict, l, chname);
+                sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                    chname, GET_HIT(vict), GET_MAX_HIT(vict),
+                    GET_MOVE(vict), GET_MAX_MOVE(vict));
+                FREE_NAME(chname);
+                CAP(buf);
+                send_to_char(buf, l);
+            }
+            
+            GET_NAME_II(vict, ch, chname);
+            sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                    chname, GET_HIT(vict), GET_MAX_HIT(vict),
+                    GET_MOVE(vict), GET_MAX_MOVE(vict));
+            FREE_NAME(chname);
+            CAP(buf);
+            send_to_char(buf, ch);		 
+        }
     } else {                    
 
-      send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
-      return;
+        //   send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
+        //   return;
 
       org_room = ch->in_room;
 
@@ -2636,38 +2656,36 @@ if (!IS_AFFECTED(ch, AFF_GROUP)) {
           if (IS_AFFECTED(k->follower, AFF_CHARM) || IS_AFFECTED(k->follower, AFF_TAMED)) {
             found = TRUE;
 
-			  		l = (ch->master ? ch->master : ch);
+            l = (ch->master ? ch->master : ch);
 
-					  for (f = l->followers; f; f = f->next)
-					    if (f->follower != ch)
-					    {
-					      GET_NAME_II(k->follower, f->follower, chname);
-					      sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-					          chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
-					          GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
-					      FREE_NAME(chname);
-					      CAP(buf);
-					      send_to_char(buf, f->follower);
-					    }
+            for (f = l->followers; f; f = f->next)
+                if (f->follower != ch) {
+                    GET_NAME_II(k->follower, f->follower, chname);
+                    sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                        chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
+                        GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
+                    FREE_NAME(chname);
+                    CAP(buf);
+                    send_to_char(buf, f->follower);
+                }
 
-						  if (l != ch)
-						  {
-						    GET_NAME_II(k->follower, l, chname);
-						    sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-						        chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
-						        GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
-						    FREE_NAME(chname);
-						    CAP(buf);
-						    send_to_char(buf, l);
-						  }
-						 
-							GET_NAME_II(k->follower, ch, chname);
-							sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
-									chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
-									GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
-							FREE_NAME(chname);
-							CAP(buf);
-							send_to_char(buf, ch);
+                if (l != ch) {
+                GET_NAME_II(k->follower, l, chname);
+                sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                    chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
+                    GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
+                FREE_NAME(chname);
+                CAP(buf);
+                send_to_char(buf, l);
+                }
+                
+                GET_NAME_II(k->follower, ch, chname);
+                sprintf(buf, "%s reports: %d/%dH, %d/%dV\r\n",
+                        chname, GET_HIT(k->follower), GET_MAX_HIT(k->follower),
+                        GET_MOVE(k->follower), GET_MAX_MOVE(k->follower));
+                FREE_NAME(chname);
+                CAP(buf);
+                send_to_char(buf, ch);
           }
       }
       if (found)
@@ -2675,7 +2693,7 @@ if (!IS_AFFECTED(ch, AFF_GROUP)) {
       else
         send_to_char("Nobody here is a loyal subject of yours!\r\n", ch);
     }
-  }
+    }
 }
 
 ACMD(do_release)
