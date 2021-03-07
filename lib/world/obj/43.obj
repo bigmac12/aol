@@ -41,13 +41,26 @@ A well-used cutlass is lying here.~
 A
 19 1
 #4304
-eyepatch black~
+eyepatch black simple eye patch cloth cord~
 &Ka simple black eye patch, tied with a long cloth cord&n~
 A black eyepatch lies here.~
 ~
 11 0 32769
 0 0 0 0
 1 551 126 15 -1
+E
+eyepatch black simple eye patch cloth cord~
+   This eyepatch is attractive in its simplicity.  It is made of some unknown
+material, but is glossy and black.  It is made to fit over one eye or another.
+The eyepatch serves two uses: it can cover the unsightly injury left by a
+missing eye, obviously.  Less obviously, buccaneers are known to wear
+eyepatches even though they have two good eyes.  The reason is that, when one
+goes belowdecks on a raided ship, the eyepatch can then be swung over to the
+other eye, allowing the raider to see in the dark better than those who have
+gone from the sun and sea to the relative darkness of the bowels of the ship,
+giving them a significant advantage over those poor souls aboard the ships they
+attack.    
+~
 A
 17 -1
 #4305
@@ -77,7 +90,7 @@ you could make sense of it, it would be a valuable find indeed.
 A
 3 1
 #4307
-anklet strand gems gemstones large~
+anklet cobalt chain strands large gemstones~
 &Ba cobalt chain anklet with strands of large gemstones&n~
 A strand of large gemstone is lying here.~
 ~
@@ -85,7 +98,7 @@ A strand of large gemstone is lying here.~
 0 0 0 0
 1 550 225 18 -1
 E
-anklet strand gems gemstones large~
+anklet cobalt chain strands large gemstones~
    This anklet is made of a thin cobalt chain, and has large gemstones fastened
 to it by little golden clips.  The gems alternate in a pattern between
 sapphires, rubies, and emeralds, with a continuing pattern of blue, red, and
@@ -181,7 +194,7 @@ A
 A
 4 1
 #4320
-staff ogham druid ash ashwood wood wooden crafted tall~
+staff ogham druid tall simple ash ashwood wood wooden crafted~
 a tall, simple staff crafted of ashwood~
 A tall, intricately carved staff of ash lies here forgotten.~
 ~
@@ -193,7 +206,7 @@ pattern engraved~
    &k&7|||||&n
 ~
 E
-staff ogham druid ash ashwood wood wooden crafted tall~
+staff ogham druid tall simple ash ashwood wood wooden crafted~
    This long, straight staff is made of a light, creamy-colored ashwood.  Ash
 is amongst the hardest of the natural woods, and is ideal in crafting weapons,
 weapon handles, or in the construction of small homes.  Small strips of leather

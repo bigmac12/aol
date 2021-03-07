@@ -805,71 +805,6 @@ A golden bound book lies on the ground here, collecting dust.~
 0 0 0 0
 2 60 15 1 -1
 E
-book golden bound deities gods~
-Gods of Light:
-
-Paladine:  Paladine is the father of all that is good and
- holy.  He protects Istar and helps it grow into the heart
- of good.  Paladine wishes all his children comfort and
- happiness, and so we live like that.  Under his guidance
- and will, we destroy evil for him.  Soon he will be the
- true ruler of Ansalon and everyone will live a wonderful
- life without evil.
-
-Mishakal:  Paladine's faithful wife.  Together they had
- wonderful children, Kiri-Jolith, Habbakuk, and Solinari.
-  Mishakal watches over the people of Istar and heals those
- who follow the light with her touch.
-
-Kiri-Jolith:  Kiri-Jolith is one of the wonderful sons of
- Paladine.  He and his followers help destroy evil and keep
- peace and justice in the lands of Istar.  Even a few
- minotaurs understand the great power of Kiri-Jolith and
- have temples of him in their dark lands.
-
-Habbakuk:  Another wonderful son of the great god Paladine.
-  Habbakuk is more centered around nature and keeps the 
-trees and the animals in the lands of Istar thriving.
-
-Majere:  Majere is not related to Paladine, but he is a
- friend of his.  Followers of Majere help Istar through
- their scribes.  He is wise and guides Istar, making sure it
- becomes all it can be.
-
-Branchala:  The god of music and happiness.  He keeps Istar
- happy and helps to make it a great place to live or visit.
-  He and his followers truely shine when there are parties.
-
-(To read the next page, type: read page2)
-~
-E
-page2~
-Other Gods
-
-Gilean:  Gilean and his followers do not get involved with
- many things.  The Solamnics found some use out of his
- followers and use them in the library in one of their
- cities.
-
-Chislev:  A nature goddess.  Her followers often take
- credit for things that Habbakuk did.
-
-Zivilyn:  A god of wisdom.  His followers would be
- Majerians, but are often too dark to follow a god of the
- light.
-
-Reorx:  The dwarven god.  He has helped some of the gods of
- light by forging weapons for them.
-
-Sirrion:  The god of fire.  He and his followers are often
- out of control and destroy more than intended.
-
-Shinare:  The god of business.  She promotes wealth through
- work.
-
-(To read the next page, type: read page3)
-~
-E
 page3~
 Other Gods (cont.)
 
@@ -907,16 +842,81 @@ Nuitari:  The god of the black robed mages.  It was because
   These black robe mages are being hunted down and killed
  on sight.
 ~
+E
+page2~
+Other Gods
+
+Gilean:  Gilean and his followers do not get involved with
+ many things.  The Solamnics found some use out of his
+ followers and use them in the library in one of their
+ cities.
+
+Chislev:  A nature goddess.  Her followers often take
+ credit for things that Habbakuk did.
+
+Zivilyn:  A god of wisdom.  His followers would be
+ Majerians, but are often too dark to follow a god of the
+ light.
+
+Reorx:  The dwarven god.  He has helped some of the gods of
+ light by forging weapons for them.
+
+Sirrion:  The god of fire.  He and his followers are often
+ out of control and destroy more than intended.
+
+Shinare:  The god of business.  She promotes wealth through
+ work.
+
+(To read the next page, type: read page3)
+~
+E
+book golden bound deities gods~
+Gods of Light:
+
+Paladine:  Paladine is the father of all that is good and
+ holy.  He protects Istar and helps it grow into the heart
+ of good.  Paladine wishes all his children comfort and
+ happiness, and so we live like that.  Under his guidance
+ and will, we destroy evil for him.  Soon he will be the
+ true ruler of Ansalon and everyone will live a wonderful
+ life without evil.
+
+Mishakal:  Paladine's faithful wife.  Together they had
+ wonderful children, Kiri-Jolith, Habbakuk, and Solinari.
+  Mishakal watches over the people of Istar and heals those
+ who follow the light with her touch.
+
+Kiri-Jolith:  Kiri-Jolith is one of the wonderful sons of
+ Paladine.  He and his followers help destroy evil and keep
+ peace and justice in the lands of Istar.  Even a few
+ minotaurs understand the great power of Kiri-Jolith and
+ have temples of him in their dark lands.
+
+Habbakuk:  Another wonderful son of the great god Paladine.
+  Habbakuk is more centered around nature and keeps the 
+trees and the animals in the lands of Istar thriving.
+
+Majere:  Majere is not related to Paladine, but he is a
+ friend of his.  Followers of Majere help Istar through
+ their scribes.  He is wise and guides Istar, making sure it
+ becomes all it can be.
+
+Branchala:  The god of music and happiness.  He keeps Istar
+ happy and helps to make it a great place to live or visit.
+  He and his followers truely shine when there are parties.
+
+(To read the next page, type: read page2)
+~
 #8059
-buckler steel round small shield~
-&wa small, steel buckler with rusty rivets&n ~
+buckler small steel rusty rivets~
+a small, steel buckler with rusty rivets~
 A round steel buckler lies on the ground here.~
 ~
 9 2101248 2561
 2 0 0 0
 2 100 25 8 -1
 E
-buckler steel round small shield~
+buckler small steel rusty rivets~
    This type of shield is small and lightweight.  Most of it is a large disc,
 but in the center, there is a large dome of steel.  On the back, one can see
 that in the dome covers a metal handle.  Bucklers are fairly common due to
@@ -1453,15 +1453,7 @@ A large granite fountain with exquisite marble inlay stands proudly near the sta
 ~
 17 0 0
 9999 9999 15 0
-1500 0 0 0 -1
-E
-fountain granite marble inlay~
-   This fountain is large, but does not overshadow the statue near it.  It is
-made of hand-carved granite at the hands of an expert craftsman, and has a
-beautiful and intricate marble inlay across its surface.  On the central
-fountain pedestal, cleverly hidden behind the flowing water, is a symbol carved
-in to the stone.    
-~
+10004 0 0 0 -1
 E
 stamp mark maker symbol~
  .----------------.
@@ -1475,5 +1467,13 @@ stamp mark maker symbol~
 | |              | |
 | '--------------' |
  '----------------'
+~
+E
+fountain granite marble inlay~
+   This fountain is large, but does not overshadow the statue near it.  It is
+made of hand-carved granite at the hands of an expert craftsman, and has a
+beautiful and intricate marble inlay across its surface.  On the central
+fountain pedestal, cleverly hidden behind the flowing water, is a symbol carved
+in to the stone.    
 ~
 $~

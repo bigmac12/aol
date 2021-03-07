@@ -148,13 +148,20 @@ A
 A
 9 -4
 #3508
-skirt floor-length silk~
+skirt floor-length silk sky-blue~
 &Ca floor-length silk skirt dyed a sky-blue&n~
 A pile of sky-blue silk has been left here.~
 ~
 11 0 33
 0 0 0 0
 1 450 24 15 -1
+E
+skirt floor-length silk sky-blue~
+   The skirt is made of thick but very smooth silk.  Its cut is simple, but
+flexible, with interior lacing allowing the waist to be cinched in so as to fit
+most wearers.  The skirt would reach the floor, or even beyond on particularly
+short wearers.  The cut is very modest.    
+~
 #3510
 bracer canvas sturdy blue~
 &Ba bracer made of sturdy blue canvas&n~
@@ -166,13 +173,22 @@ A canvas bracer has been left here.~
 A
 18 2
 #3511
-gloves velvet soft azure~
+gloves azure soft velvet~
 &Ba pair of azure gloves, made of soft velvet&n~
 A pair of azure gloves have been left here.~
 ~
 11 0 129
 0 0 0 0
 1 450 24 15 -1
+E
+gloves azure soft velvet~
+   These gloves are made of a soft but very satisfying-feeling velvet, and fit
+most adult wearers rather snugly.  Pulled up to their full length, they cover
+up to the elbows of an adult human wearer, however, the fabric is pliable
+enough and the inner lining attractive enough that they can easily be rolled
+back or cuffed to shorten them and still remain a very attractive pair of
+gloves.    
+~
 #3512
 necklace prayer bead aquamarine pearl~
 &Can aquamarine and &Wpearl&C prayer bead necklace&n~
@@ -181,8 +197,17 @@ An aquamarine necklace has been left here.~
 8 0 16389
 0 0 0 0
 1 245 24 15 -1
+E
+necklace prayer bead aquamarine pearl~
+   This string of prayer beads is quite long - easily able to loop at least
+twice, comfortably, around the neck and shoulders of an average adult wearer.
+The beads that make it up are arranged in a pattern, with seven aquamarine
+beads in between each pair of pearl beads.  There is a pattern to it, but the
+significance of it would be lost on anyone not intimately familiar with the
+Mishakal priesthood.    
+~
 A
-24 2
+24 -2
 #3513
 staff aquamarine mishakal infinity~
 &Can elongated aquamarine staff etched with tiny infinity symbols&n~
