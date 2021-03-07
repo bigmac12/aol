@@ -34,7 +34,7 @@
 #. /home/aol/production/bin/unlimit_resources
 
 # The port on which to run the MUD
-PORT=6030
+PORT=6010
 
 # Default flags to pass to the MUD server (see admin.txt for a description
 # of all flags).
