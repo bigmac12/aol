@@ -470,23 +470,10 @@ void create_command_list(void)
     j = 0;
     k = 0;
 
-    log("While");
-    log("List top: %d", list_top);
     while((*cmd_info[i].command != '\n') || (j <= list_top)) {
-        log("J: %d", j);
-//        log("End of line? %d", *cmd_info[i].command != '\n');
-//        log("J <= List top? %d", j <= list_top);
-//        log("CMD.command: %s", cmd_info[i].command);
-        //log("CMD sort_as: %s", cmd_info[i]);
-        //log("Soc sort_as: %s", soc_mess_list[j].sort_as);
-        if((i < RESERVE_CMDS) || (j > list_top) || (str_cmp(cmd_info[i].sort_as, soc_mess_list[j].sort_as) < 1))
-        {
-//            log("if");
+        if((i < RESERVE_CMDS) || (j > list_top) || (str_cmp(cmd_info[i].sort_as, soc_mess_list[j].sort_as) < 1)) {
             complete_cmd_info[k++] = cmd_info[i++];
-        }
-        else
-        {
-//            log("else");
+        } else {
             soc_mess_list[j].act_nr = k;
             complete_cmd_info[k].command            = soc_mess_list[j].command;
             complete_cmd_info[k].sort_as            = soc_mess_list[j].sort_as;
