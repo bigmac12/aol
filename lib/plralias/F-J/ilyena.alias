@@ -1,12 +1,42 @@
+2
+wp
+16
+hang wind girdle
+0
+3
+pff
+13
+c prot-fr-fro
+0
+1
+x
+75
+unlock sculpture ; open sculpture ; fle ; fle ; fle ; fle ; fle ; fle ; fle
+1
+2
+aa
+10
+ass aerial
+0
+2
+oa
+15
+order aerial $*
+1
+2
+dw
+10
+c div-wrat
+0
+6
+aerial
+13
+c aerial-serv
+0
 4
 weak
 9
 c weak $*
-1
-1
-x
-24
-throw claw $* ; get claw
 1
 3
 pfe
@@ -22,11 +52,6 @@ c div-wrath
 cg
 14
 control gholor
-0
-3
-pff
-13
-c prot-fr-fir
 0
 2
 eb
@@ -83,11 +108,6 @@ dex
 12
 c enh-agi $*
 1
-2
-wp
-14
-hang wind sash
-0
 2
 hw
 12
@@ -193,11 +213,6 @@ mv
 13
 c mag-vest $*
 1
-2
-aa
-9
-ass aerin
-0
 1
 1
 14
