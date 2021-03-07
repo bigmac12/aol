@@ -1,4 +1,49 @@
 2
+ec
+20
+cast enhance-cunning
+0
+6
+debuff
+112
+cast dispel-magic $1;cast hold-person $1;cast blindness $1;cast weakness $1;cast silence $1;cast inspire-fear $1
+1
+4
+buff
+86
+cast armor;cast blur;cast mirror-image;cast shield;cast infravision;cast dancing-sword
+1
+2
+ea
+20
+cast enhance-agility
+0
+2
+cl
+20
+cast chain-lightning
+0
+2
+fb
+16
+cast fireball $1
+1
+2
+ds
+18
+cast dancing-sword
+0
+2
+vt
+22
+cast vampiric-touch $1
+1
+2
+lt
+22
+cast lightning-bolt $1
+1
+2
 cs
 22
 cast shocking-grasp $1

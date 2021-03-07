@@ -1,0 +1,435 @@
+4
+weak
+9
+c weak $*
+1
+1
+x
+24
+throw claw $* ; get claw
+1
+3
+pfe
+17
+c prot-fr-elem $*
+1
+5
+wrath
+11
+c div-wrath
+0
+2
+cg
+14
+control gholor
+0
+3
+pff
+13
+c prot-fr-fir
+0
+2
+eb
+9
+eat bread
+0
+3
+gbp
+14
+get bread wind
+0
+5
+guard
+13
+c summo-guard
+0
+2
+ce
+15
+control eyewing
+0
+2
+ae
+11
+ass eyewing
+0
+2
+oe
+16
+order eyewing $*
+1
+2
+ov
+16
+order vampire $*
+1
+2
+ag
+10
+ass gholor
+0
+2
+og
+15
+order gholor $*
+1
+3
+aid
+8
+c aid $*
+1
+3
+dex
+12
+c enh-agi $*
+1
+2
+wp
+14
+hang wind sash
+0
+2
+hw
+12
+c harm-wrath
+0
+3
+lib
+12
+look in hole
+0
+3
+lic
+17
+look in container
+0
+1
+2
+18
+put all.bread wind
+0
+2
+oo
+13
+order form $*
+1
+2
+ao
+8
+ass form
+0
+2
+as
+10
+ass stahnk
+0
+2
+os
+15
+order stahnk $*
+1
+3
+lip
+12
+look in wind
+0
+2
+rp
+9
+remo wind
+0
+6
+summon
+11
+c summon $*
+1
+7
+spellup
+123
+c bles $* ; c armor $* ; c prot-fr-good $* ; c prot-fr-und $* ; c spir-hamm ; c enh-str $* ; c mag-ves $* ; c great-sanc $*
+1
+2
+af
+8
+ass form
+0
+3
+min
+15
+c great-sanc $*
+1
+2
+pg
+15
+c pro-fr-goo $*
+1
+7
+servant
+13
+c aer-servant
+0
+4
+harm
+9
+c harm $*
+1
+6
+hammer
+11
+c spir-hamm
+0
+3
+abj
+11
+c abjure $*
+1
+4
+tele
+13
+c teleport $*
+1
+2
+mv
+13
+c mag-vest $*
+1
+2
+aa
+9
+ass aerin
+0
+1
+1
+14
+buy 10 chicken
+0
+3
+end
+14
+c enh-endur $*
+1
+3
+sil
+11
+c silenc $*
+1
+2
+kc
+14
+c caus-crit $*
+1
+2
+cc
+14
+c cure-crit $*
+1
+3
+str
+12
+c enh-str $*
+1
+4
+word
+6
+c word
+0
+2
+ac
+10
+ass corpse
+0
+2
+oc
+15
+order corpse $*
+1
+2
+ab
+9
+ass blood
+0
+2
+ob
+14
+order blood $*
+1
+6
+dispel
+14
+c dispe-mag $*
+1
+2
+dm
+15
+c dispel-mag $*
+1
+2
+cs
+13
+c cure-sev $*
+1
+2
+aw
+10
+ass wraith
+0
+2
+ow
+15
+order wraith $*
+1
+2
+fl
+16
+c flamestrike $*
+1
+2
+np
+14
+c neut-pois $*
+1
+6
+poison
+11
+c poison $*
+1
+2
+ks
+13
+c caus-sev $*
+1
+7
+conceal
+15
+c conceal-align
+0
+2
+av
+29
+order followers Assist Ilyena
+0
+2
+sc
+4
+scan
+0
+6
+unlock
+19
+unlock $* ; open $*
+1
+2
+pu
+17
+c prot-fro-und $*
+1
+5
+mount
+16
+stand ; mount $*
+1
+2
+ap
+10
+ass priest
+0
+2
+op
+15
+order priest $*
+1
+2
+dg
+14
+c disp-good $*
+1
+2
+ok
+15
+order knight $*
+1
+2
+ak
+10
+ass knight
+0
+2
+of
+18
+order followers $*
+1
+8
+dismount
+11
+dismount me
+0
+2
+cm
+13
+c cure-mod $*
+1
+2
+km
+13
+c caus-mod $*
+1
+2
+ca
+10
+c armor $*
+1
+2
+cw
+13
+c cre-wa skin
+0
+2
+sk
+11
+skin corpse
+0
+2
+ms
+13
+c mag-ston $*
+1
+2
+cf
+11
+c crea-food
+0
+4
+dark
+9
+c dark $*
+1
+2
+ml
+11
+c mag-li $*
+1
+3
+gac
+18
+get all all.corpse
+0
+4
+drin
+9
+drin skin
+0
+2
+bl
+9
+c bles $*
+1
+2
+kl
+12
+c caus-li $*
+1
+2
+cl
+12
+c cure-li $*
+1

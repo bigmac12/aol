@@ -205,3 +205,12 @@ Zaneh    (Dec 29) [30506] longsword
 Zepharej (Dec 22) [11263] should be able to sell items at town shops - remove the need for "bulk seller" mob - makes for a reason to actually shop - make all shops more like the tradepost in that you can buy and sell high value items
 Zepharej (Dec 26) [ 7286] more horses outside of towns!
 Zepharej (Dec 30) [ 5291] bring back karthay!
+Zepharej (Jan 10) [ 7373] having an addition to the "release" command for horses so they repop and go to the stable - instead of having to kill them
+Zepharej (Jan 11) [ 3501] tune down silence - nobody wants to sit for 10 minutes to wait for it to end
+Adriahna (Feb 23) [ 2304] 'Title' command for mortals which allows characters to place title requests into a queue which can later be reviewed and approved / rejected later by imms who may not be online at the time of the request.
+Adriahna (Feb 23) [ 9828] An 'assess' skill usable on monsters (perhaps 'assess' is assigned to monsters, and assessment of eq is assigned to 'appraise', or vice versa?).  This allows a skill check to get some information about a monster - analyzing tags like SPELLCASTER, SENTRY, HUNTER_KILLER, !BASH etc.  Maybe also a rough estimate of the monster's HP relative to the character assessing it.  This info could be vague, and multiple pieces of information could be available, but perhaps only one or two pieces learned based on t
+Avra     (Feb 24) [ 7070] Have 'chat' channel default to a color other than... nothing.
+Avra     (Feb 24) [30386] Make me.
+Adriahna (Feb 27) [ 4724] How to nerf charge: Make it so that 1) You must be mounted on a horse.  2) You must be using a two-handed weapon.  3) Using it takes a toll on your mount's movement (like 50-100) so that you can only charge so many times before your steed tires out.
+Adriahna (Feb 27) [ 4715] Also it probably shouldn't work on mobs who are !BASH.
+Adriahna (Feb 27) [ 4715] And maybe if you miss your charge, you run a chance of being dismounted and left prone?
