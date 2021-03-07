@@ -1,32 +1,27 @@
-1
-2
-15
-put all.pa wind
-0
 2
 eb
-6
-eat pa
+11
+eat berries
 0
 3
 gbp
-11
-get pa wind
+16
+get berries wind
+0
+1
+2
+20
+put all.berries wind
+0
+2
+wp
+14
+hang wind belt
 0
 6
 dispel
 13
 c disp-mag $*
-1
-2
-st
-35
-remo tome ; hold shortsword ; stand
-1
-3
-res
-34
-remo shortsword ; hold tome ; rest
 1
 2
 ar
@@ -38,11 +33,6 @@ or
 14
 order raven $*
 1
-2
-wp
-14
-hang wind sash
-0
 3
 lip
 12
