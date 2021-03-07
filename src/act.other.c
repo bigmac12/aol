@@ -1656,17 +1656,16 @@ ACMD(do_lay_hands) {
   }
 
   if (char_charisma > BASE_CHA) {
-    cha_modifier = BASE_CHA + char_charisma;
+    cha_modifier = char_charisma - BASE_CHA
   } else {
     cha_modifier= BASE_CHA - char_charisma;
   }
 
-  amount = GET_LEVEL(ch) * (BASE_CHA_MODIFIER + cha_modifier);
+  amount = GET_LEVEL(ch) * (cha_modifier + BASE_CHA_MODIFIER);
 
   GET_HIT(vict) = MIN(GET_HIT(vict) + amount, GET_MAX_HIT(vict));
 
-  if (vict != ch)
-  {
+  if (vict != ch) {
     act("You place your hands on $N, healing $M.", FALSE, ch, 0, vict, TO_CHAR);
     act("$n places $s hands on you, healing you.", 0, ch, 0, vict, TO_VICT);
     act("$n places $s hands on $N, healing $M.", TRUE, ch, 0, vict, TO_NOTVICT);
