@@ -73,7 +73,7 @@ void dismount_char(struct char_data *ch);
 int special(struct char_data *ch, int cmd, char *arg);
 int isbanned(char *hostname);
 int Valid_Name(char *newname);
-int class_ok_race[NUM_RACES][NUM_CLASSES];
+extern int class_ok_race[NUM_RACES][NUM_CLASSES];
 extern char *class_display[];
 void oedit_parse(struct descriptor_data *d, char *arg);
 void redit_parse(struct descriptor_data *d, char *arg);

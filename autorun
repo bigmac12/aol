@@ -71,17 +71,17 @@ while ( : ) do
   fgrep "reject" log/syslog >> log/rejections.log
   fgrep '(prayer)' log/syslog >> log/prayer.log
 
-  rm log/syslog.1
-  mv log/syslog.2 log/syslog.1
-  mv log/syslog.3 log/syslog.2
-  mv log/syslog.4 log/syslog.3
-  mv log/syslog.5 log/syslog.4
-  mv log/syslog.6 log/syslog.5
-  mv log/syslog.7 log/syslog.6
-  mv log/syslog.8 log/syslog.7
-  mv log/syslog.9 log/syslog.8
-  mv log/syslog   log/syslog.9
-  mv log/prayer.log log/prayer.1
+  # rm log/syslog.1
+  # mv log/syslog.2 log/syslog.1
+  # mv log/syslog.3 log/syslog.2
+  # mv log/syslog.4 log/syslog.3
+  # mv log/syslog.5 log/syslog.4
+  # mv log/syslog.6 log/syslog.5
+  # mv log/syslog.7 log/syslog.6
+  # mv log/syslog.8 log/syslog.7
+  # mv log/syslog.9 log/syslog.8
+  # mv log/syslog   log/syslog.9
+  # mv log/prayer.log log/prayer.1
 
   touch log/syslog
 

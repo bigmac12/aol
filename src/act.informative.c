@@ -1090,8 +1090,10 @@ ACMD(do_score) {
 
     sprintf(buf,"%s\r\n&CMoney: &W[ &R%s&W ]", buf, describe_money(GET_MONEY(ch)));
 
-    //sprintf(buf,"%s \r\n&CAlignment: &W[&R%s %s&W]&n", buf, describe_ethos(GET_ETHOS(ch)), describe_align(GET_ALIGNMENT(ch)));
-    sprintf(buf,"%s \r\n&CAlignment:     &W[ &R%s&W ]&n", buf, describe_char_align(GET_ETHOS(ch), GET_ALIGNMENT(ch)));
+    sprintf(buf,"%s \r\n&CAlignment: &W[ &R%s %s&W ]&n", buf, describe_ethos(GET_ETHOS(ch)), describe_align(GET_ALIGNMENT(ch)));
+
+    // Returns null at the moment; not sure why. 09/2023
+    // sprintf(buf,"%s \r\n&CAlignment:     &W[ &R%s&W ]&n", buf, describe_char_align(GET_ETHOS(ch), GET_ALIGNMENT(ch)));
 
     /*  PDH  2/25/99 - god selection code  */
     if ( GET_CLASS(ch) == CLASS_CLERIC || GET_CLASS(ch) == CLASS_PALADIN ) {
@@ -1103,8 +1105,8 @@ ACMD(do_score) {
 
     int full = GET_COND(ch, FULL);
     int thirst = GET_COND(ch, THIRST);
-    char full_meter[24] = "";
-    char thirst_meter[24] = "";
+    char full_meter[25] = "";
+    char thirst_meter[25] = "";
     int i = 0;
     int j = 0;
 

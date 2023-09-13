@@ -287,55 +287,28 @@ A thick solamnic tome lies here upon an ornately carved table.~
 0 0 0 0
 0 0 0 0 -1
 E
-read page4~
-   Two other legends relating to Solamnia and the Knights from the time of the
-Age of Dreams stand out in the text.  The first tells of Bedal Brightblade, a
-hero who was said to have fought the desert nomads to a standstill, holding a
-pass into Solamnia single-handedly until help arrived.  His sword, Brightblade,
-was said to be of dwarven make and never rusted or dulled.  His tomb is located
-somewhere in the far southern mountains in an unknow location, and it is
-rumored that in times of great need Bedal will return to aid Solamnia.  The
-second tale is more recent, telling the tale of Huma Dragonbane, known as the
-most perfect of knights.  Huma's legend, being a masterwork of the great elven
-bard, Quevalen Soth, is much more well known and tells of Huma gathering
-together a great group of heroes to destroy the dragons and drive them from
-Krynn.  The story of the last battle betweem Huma and the Queen of Darkness is
-epic and oft told, along with the tragic love that Huma bore for a silver
-dragon.  Huma managed to drive the Queen back to the Abyss with the silver
-dragon's help, but in doing so, sustained a gravely mortal wound.  The accounts
-of Huma's final moments in this world are clouded and, even now, somewhat
-fragmented.  Some account claim that Huma died that day, on the field of battle
-after vanquishing the Dark Queen.  Others make claim that he lingered on for
-days in such intense agony that the gods themselves suffered in sympathy,
-inflicting terrible thunderstorms on the lands.  To this day, one may find
-people that claim that lightning and thunder strike the land in memory of
-Huma's pain.  Although never attaining high rank or station, Huma was buried
-with great reverence in a tomb shaped to resemble his love, the silver dragon.
-Before joining the Knighthood, tis said that many young squires often make the
-pilgrimage to his grave to pay homage to the sacrifice of this great knight and
-the ideals of the Orders he championed.    
-~
-E
-read page3~
-   After many weeks of searching and trial, he came at last to Sancrist Isle.
-There in that wild place he found a glade and offered supplication to the gods
-upon a black granite stone in the center of the clearing.  Three of the gods of
-light came to him then: Paladine, the Father of Good, god of balance, justice,
-and defense; Kiri-Jolith, the Great Bison, the god of just warefare; and
-Habbakuk, the Blue Phoenix, god of good nature, loyalty, and the elements.  In
-that glade did they outline for Vinas the model of a Knighthood that would last
-thoughout the centuries.  Three seperate Orders would balance one another with
-high ideals, each patterened after the ideals of the gods who came to visit
-Vinas that day.  The Order of the Crown, dedicated to Habbakuk, would become
-the epitome of Loyalty and Obedience to a rightous cause.  The Order of the
-Sword, sworn to Kiri-Jolith, were to be the bringers of Courage and Heroism to
-the rightous battle.  Lastly, the Order of the Rose, pledged to Paladine, were
-to exemplify honor guided by Wisdom and Justice.  As a final blessing, the gods
-transformed the stone before Solamnus into a pillar of translucent white
-crystal.  This action sanctified the glade and sealed the unity of these three
-gods in their commitment to uphold the Knighthood so long as the knights walked
-in honor and worthiness.    
--*To Continue read page4
+tome book ~
+   Vinus Solamnus, the commander of the Ergothian Emperor's Palace Guard, set
+forth from the capital city of Daltigoth to quell a rebellion brewing in the
+northern reaches of the empire.  After the bloody but victorious march to the
+heart of the uprising, Vingaard Keep, Commander Solamnus met with the head of
+the rebellion, the nobleman in command of Vingaard, Antonias.  Antonias struck
+upon something long lost in Solamnus, something great from his youth that he
+had forgotten, his honor.  Finding that the claims to rebellion were justified,
+Solamnus now sought some way to resolve the issue.  While all knew that it was
+too late for Antonias to repent in the eyes of the despot Emperor Emann of
+Ergoth, Antonias and Solamnus made a solemn oath that Vinus would take up the
+peoples' cause.  Even while Antonias willingly gave his life to appease the
+Emperor, Solamnus was gathering his troops together to present his case and ask
+for their aid.  During this, Solamnus addressed the bulk of his troops, not
+merely his advisors, and beseeched them to join him in his defense of the
+peoples of Ergoth and their rights.  Any knight, any soldier, under his command
+that believed in the cause of the rebels was entreated to stay.  Those who did
+not were given leave to return to Daltigoth, unharmed by Solamnus or any under
+his command.  Even though his men knew that doing so would mean exile and quite
+possibly death, most chose to stay with Solamnus and take up the just and
+honorable cause.    
+-*To Continue read page2
 ~
 E
 read page2~
@@ -368,28 +341,55 @@ lieutenants and journeyed forth into the wilds.
  
 ~
 E
-tome book ~
-   Vinus Solamnus, the commander of the Ergothian Emperor's Palace Guard, set
-forth from the capital city of Daltigoth to quell a rebellion brewing in the
-northern reaches of the empire.  After the bloody but victorious march to the
-heart of the uprising, Vingaard Keep, Commander Solamnus met with the head of
-the rebellion, the nobleman in command of Vingaard, Antonias.  Antonias struck
-upon something long lost in Solamnus, something great from his youth that he
-had forgotten, his honor.  Finding that the claims to rebellion were justified,
-Solamnus now sought some way to resolve the issue.  While all knew that it was
-too late for Antonias to repent in the eyes of the despot Emperor Emann of
-Ergoth, Antonias and Solamnus made a solemn oath that Vinus would take up the
-peoples' cause.  Even while Antonias willingly gave his life to appease the
-Emperor, Solamnus was gathering his troops together to present his case and ask
-for their aid.  During this, Solamnus addressed the bulk of his troops, not
-merely his advisors, and beseeched them to join him in his defense of the
-peoples of Ergoth and their rights.  Any knight, any soldier, under his command
-that believed in the cause of the rebels was entreated to stay.  Those who did
-not were given leave to return to Daltigoth, unharmed by Solamnus or any under
-his command.  Even though his men knew that doing so would mean exile and quite
-possibly death, most chose to stay with Solamnus and take up the just and
-honorable cause.    
--*To Continue read page2
+read page3~
+   After many weeks of searching and trial, he came at last to Sancrist Isle.
+There in that wild place he found a glade and offered supplication to the gods
+upon a black granite stone in the center of the clearing.  Three of the gods of
+light came to him then: Paladine, the Father of Good, god of balance, justice,
+and defense; Kiri-Jolith, the Great Bison, the god of just warefare; and
+Habbakuk, the Blue Phoenix, god of good nature, loyalty, and the elements.  In
+that glade did they outline for Vinas the model of a Knighthood that would last
+thoughout the centuries.  Three seperate Orders would balance one another with
+high ideals, each patterened after the ideals of the gods who came to visit
+Vinas that day.  The Order of the Crown, dedicated to Habbakuk, would become
+the epitome of Loyalty and Obedience to a rightous cause.  The Order of the
+Sword, sworn to Kiri-Jolith, were to be the bringers of Courage and Heroism to
+the rightous battle.  Lastly, the Order of the Rose, pledged to Paladine, were
+to exemplify honor guided by Wisdom and Justice.  As a final blessing, the gods
+transformed the stone before Solamnus into a pillar of translucent white
+crystal.  This action sanctified the glade and sealed the unity of these three
+gods in their commitment to uphold the Knighthood so long as the knights walked
+in honor and worthiness.    
+-*To Continue read page4
+~
+E
+read page4~
+   Two other legends relating to Solamnia and the Knights from the time of the
+Age of Dreams stand out in the text.  The first tells of Bedal Brightblade, a
+hero who was said to have fought the desert nomads to a standstill, holding a
+pass into Solamnia single-handedly until help arrived.  His sword, Brightblade,
+was said to be of dwarven make and never rusted or dulled.  His tomb is located
+somewhere in the far southern mountains in an unknow location, and it is
+rumored that in times of great need Bedal will return to aid Solamnia.  The
+second tale is more recent, telling the tale of Huma Dragonbane, known as the
+most perfect of knights.  Huma's legend, being a masterwork of the great elven
+bard, Quevalen Soth, is much more well known and tells of Huma gathering
+together a great group of heroes to destroy the dragons and drive them from
+Krynn.  The story of the last battle betweem Huma and the Queen of Darkness is
+epic and oft told, along with the tragic love that Huma bore for a silver
+dragon.  Huma managed to drive the Queen back to the Abyss with the silver
+dragon's help, but in doing so, sustained a gravely mortal wound.  The accounts
+of Huma's final moments in this world are clouded and, even now, somewhat
+fragmented.  Some account claim that Huma died that day, on the field of battle
+after vanquishing the Dark Queen.  Others make claim that he lingered on for
+days in such intense agony that the gods themselves suffered in sympathy,
+inflicting terrible thunderstorms on the lands.  To this day, one may find
+people that claim that lightning and thunder strike the land in memory of
+Huma's pain.  Although never attaining high rank or station, Huma was buried
+with great reverence in a tomb shaped to resemble his love, the silver dragon.
+Before joining the Knighthood, tis said that many young squires often make the
+pilgrimage to his grave to pay homage to the sacrifice of this great knight and
+the ideals of the Orders he championed.    
 ~
 #1450
 map scribbled Krynn~
@@ -510,18 +510,18 @@ A wide stone well has been dug into the center of the room.~
 0 0 0 0
 1000 0 0 1 -1
 E
-huge quartz lid~
-   Peering in beyond the lid, a giant form made of crystalline water froths
-and writhes.  Apparently held captive within, it provides the power that drives
-the fountain system, though it seems unlikely that it will be held within
-for too much longer.
-~
-E
 wide stone well~
    The well has been constructed from many wide, granite fieldstones into a
 firm, circular structure.  Although appearing quite strong, on closer
 inspection it looks as the stones have been loosened somewhat.  A huge quartz
 lid lies over the top allowing a view down into the interior.    
+~
+E
+huge quartz lid~
+   Peering in beyond the lid, a giant form made of crystalline water froths
+and writhes.  Apparently held captive within, it provides the power that drives
+the fountain system, though it seems unlikely that it will be held within
+for too much longer.
 ~
 #1464
 gnome corpse~

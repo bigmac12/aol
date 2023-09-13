@@ -406,26 +406,33 @@ void init_game(ush_int port)
 
     for (entry = olc_save_list; entry; entry = next_entry) {
       next_entry = entry->next;
+
       if (entry->type < 0 || entry->type > 4) {
         sprintf(buf, "OLC: Illegal save type %d!", entry->type);
         log(buf);
+
       } else if ((rznum = real_zone(entry->zone * 100)) == -1) {
         sprintf(buf, "OLC: Illegal save zone %d!", entry->zone);
         log(buf);
+
       } else if (rznum < 0 || rznum > top_of_zone_table) {
-	sprintf(buf, "OLC: Invalid real zone number %d!", rznum);
-	log(buf);
+        sprintf(buf, "OLC: Invalid real zone number %d!", rznum);
+        log(buf);
+
       } else {
         sprintf(buf, "OLC: Reboot saving %s for zone %d.",
-		save_info_msg[(int)entry->type], zone_table[rznum].number);
+        save_info_msg[(int)entry->type], zone_table[rznum].number);
         log(buf);
+
+        // This should be an interface.
+        // save_to_disk(rznum, OLC_SAVE_T);
         switch (entry->type) {
-        case OLC_SAVE_ROOM: redit_save_to_disk(rznum); break;
-        case OLC_SAVE_OBJ:  oedit_save_to_disk(rznum); break;
-        case OLC_SAVE_MOB:  medit_save_to_disk(rznum); break;
-        case OLC_SAVE_ZONE: zedit_save_to_disk(rznum); break;
-        case OLC_SAVE_SHOP: sedit_save_to_disk(rznum); break;
-        default:      log("Unexpected olc_save_list->type"); break;
+            case OLC_SAVE_ROOM: redit_save_to_disk(rznum); break;
+            case OLC_SAVE_OBJ:  oedit_save_to_disk(rznum); break;
+            case OLC_SAVE_MOB:  medit_save_to_disk(rznum); break;
+            case OLC_SAVE_ZONE: zedit_save_to_disk(rznum); break;
+            case OLC_SAVE_SHOP: sedit_save_to_disk(rznum); break;
+            default:      log("Unexpected olc_save_list->type"); break;
         }
       }
     }

@@ -15,8 +15,10 @@
 #include "spells.h"
 //  We need to include this for mob spellcasters - Soli, 8/4/99
 
-cpp_extern const char *circlemud_version = 
-	"CircleMUD, version 3.00 beta patchlevel 17-GAN";
+cpp_extern const char *circlemud_version = "CircleMUD, version 3.00 beta patchlevel 17-GAN";
+
+// cpp_extern const char circlemud_version[] = 
+// 	{"CircleMUD, version 3.00 beta patchlevel 17-GAN", "\0"};
 
 /* strings corresponding to ordinals/bitvectors in structs.h ***********/
 

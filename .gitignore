@@ -33,7 +33,9 @@
 
 # Other
 .idea
-log/
+.vscode
+src/.csvignore
+src/build.log
 aol.code-workspace
 lib/core*
 lib/etc/board.*

@@ -557,28 +557,16 @@ void basic_mud_log(const char *format, ...)
     format = "SYSERR: log() received a NULL format.";
   }
 
-
-
   time_s[strlen(time_s) - 1] = '\0';
-
-
 
   fprintf(logfile, "%-15.15s :: ", time_s + 4);
 
-
-
   va_start(args, format);
-
   vfprintf(logfile, format, args);
-
   va_end(args);
 
-
-
-  fprintf(logfile, "\n");
-
+  fprintf(logfile, "%s", "\n");
   fflush(logfile);
-
 }
 
 
@@ -1927,17 +1915,11 @@ char * describe_clan(int clannum) {
 /*  PDH  3/29/99
 
  *  new money system: plat, steel, gold, copper
-
  *        plat  stee  gold  copp
-
  * plat      1     2    10   100
-
  * stee    1/2     1     5    50
-
  * gold   1/10   1/5     1    10
-
  * copp  1/100  1/50  1/10     1
-
  */
 
 int money_to_copper(struct money_data money)
@@ -1960,7 +1942,6 @@ int money_to_copper(struct money_data money)
   return copper;
 
 }
-
 
 void copper_to_money(struct money_data * tar, int copper)
 {
@@ -1993,7 +1974,6 @@ void copper_to_money(struct money_data * tar, int copper)
   tar->copper = cc;
 
 }
-
 
 void money_subtract(struct money_data * tar, struct money_data subAmt)
 {
@@ -2045,7 +2025,6 @@ void money_subtract(struct money_data * tar, struct money_data subAmt)
   copper_to_money(tar, tarCp);
 
 }
-
 
 void money_assign(struct money_data * tar, struct money_data amount)
 {

@@ -946,8 +946,7 @@ int skill_message(int dam, struct char_data * ch, struct char_data * vict,
 }
 
 
-void damage(struct char_data * ch, struct char_data * victim, int dam,
-	    int attacktype)
+void damage(struct char_data * ch, struct char_data * victim, int dam, int attacktype)
 {
   ACMD(do_get);
   ACMD(do_split);
@@ -1655,7 +1654,7 @@ void hit(struct char_data * ch, struct char_data * victim, int type)
              w_type = TYPE_PUNCH;
              if(IS_MONK(ch))
              {
-                dam = dice(2, 4);
+                dam = dice(5, 5);
 
                 if (check_skill(ch, 101, SKILL_MARTIAL_ARTS))
                   dam += MAX(dice(2, MAX(1, GET_SKILL(ch, SKILL_MARTIAL_ARTS) / 15)), 
