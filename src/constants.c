@@ -273,7 +273,7 @@ const char *preference_bits[] = {
   "NO_NEWBIE",
   "NO_CHAT",
   "TIRED",
-  "AUTO-CONSIDER",
+  "AUTOCON",
   "\n"
 };
 

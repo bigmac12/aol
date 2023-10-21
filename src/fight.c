@@ -861,21 +861,18 @@ void dam_message(int dam, struct char_data * ch, struct char_data * victim,
 // else  msgnum = 8;
 
   /* damage message to onlookers */
-  buf = replace_string(dam_weapons[msgnum].to_room,
-	  attack_hit_text[w_type].singular, attack_hit_text[w_type].plural);
+  buf = replace_string(dam_weapons[msgnum].to_room, attack_hit_text[w_type].singular, attack_hit_text[w_type].plural);
   act(buf, FALSE, ch, NULL, victim, TO_NOTVICT);
 
   /* damage message to damager */
   send_to_char(CCYEL(ch, C_CMP), ch);
-  buf = replace_string(dam_weapons[msgnum].to_char,
-	  attack_hit_text[w_type].singular, attack_hit_text[w_type].plural);
+  buf = replace_string(dam_weapons[msgnum].to_char, attack_hit_text[w_type].singular, attack_hit_text[w_type].plural);
   act(buf, FALSE, ch, NULL, victim, TO_CHAR);
   send_to_char(CCNRM(ch, C_CMP), ch);
 
   /* damage message to damagee */
   send_to_char(CCRED(victim, C_CMP), victim);
-  buf = replace_string(dam_weapons[msgnum].to_victim,
-	  attack_hit_text[w_type].singular, attack_hit_text[w_type].plural);
+  buf = replace_string(dam_weapons[msgnum].to_victim, attack_hit_text[w_type].singular, attack_hit_text[w_type].plural);
   act(buf, FALSE, ch, NULL, victim, TO_VICT | TO_SLEEP);
   send_to_char(CCNRM(victim, C_CMP), victim);
 }
@@ -885,8 +882,7 @@ void dam_message(int dam, struct char_data * ch, struct char_data * victim,
  * message for doing damage with a spell or skill
  *  C3.0: Also used for weapon damage on miss and death blows
  */
-int skill_message(int dam, struct char_data * ch, struct char_data * vict,
-		      int attacktype)
+int skill_message(int dam, struct char_data * ch, struct char_data * vict, int attacktype)
 {
   int i, j, nr;
   struct message_type *msg;

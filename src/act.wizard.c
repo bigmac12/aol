@@ -1018,7 +1018,9 @@ void do_stat_character(struct char_data * ch, struct char_data * k) {
     sprintbit(PLR_FLAGS(k), player_bits, buf2);
     sprintf(buf, "PLR: %s%s%s\r\n", CCCYN(ch, C_NRM), buf2, CCNRM(ch, C_NRM));
     send_to_char(buf, ch);
+
     sprintbit(PRF_FLAGS(k), preference_bits, buf2);
+    // new_sprintbit(PRF_FLAGS(k), preference_bits, buf2, sizeof(buf2));
     sprintf(buf, "PRF: %s%s%s\r\n", CCGRN(ch, C_NRM), buf2, CCNRM(ch, C_NRM));
     send_to_char(buf, ch);
   }
@@ -1077,34 +1079,31 @@ void do_stat_character(struct char_data * ch, struct char_data * k) {
   send_to_char(buf, ch);
 
   /* Routine to show what spells a char is affected by */
-  if (k->affected)
-  {
+  if (k->affected) {
     int numAffects = 0;
 
-    for (aff = k->affected; (aff && (numAffects < MAX_AFFECT));
-      aff = aff->next)
-    {
-      *buf2 = '\0';
-      sprintf(buf, "SPL: (%3dhr) %s%-21s%s ", aff->duration + 1,
-              CCCYN(ch, C_NRM), (aff->type >= 0 && aff->type <= MAX_SKILLS) ?
-	      spells[aff->type] : "TYPE UNDEFINED", CCNRM(ch, C_NRM));
+    if (numAffects < MAX_AFFECT) {
+        for (aff = k->affected; (aff && (numAffects < MAX_AFFECT)); aff = aff->next) {
+            *buf2 = '\0';
+            sprintf(buf, "SPL: (%3dhr) %s%-21s%s ", aff->duration + 1, CCCYN(ch, C_NRM), (aff->type >= 0 && aff->type <= MAX_SKILLS) ?  spells[aff->type] : "TYPE UNDEFINED", CCNRM(ch, C_NRM));
 
-      if (aff->modifier) {
-	sprintf(buf2, "%+d to %s", aff->modifier,
-          apply_types[(int) aff->location]);
-	strcat(buf, buf2);
-      }
+            if (aff->modifier) {
+                sprintf(buf2, "%+d to %s", aff->modifier, apply_types[(int) aff->location]);
+                strcat(buf, buf2);
+            }
 
-      if (aff->bitvector) {
-	if (*buf2)
-	  strcat(buf, ", sets ");
-	else
-	  strcat(buf, "sets ");
-	sprintbit(aff->bitvector, affected_bits, buf2);
-	strcat(buf, buf2);
-      }
-      send_to_char(strcat(buf, "\r\n"), ch);
-      numAffects++;
+            if (aff->bitvector) {
+                if (*buf2) {
+                    strcat(buf, ", sets ");
+                } else {
+                    strcat(buf, "sets ");
+                    sprintbit(aff->bitvector, affected_bits, buf2);
+                    strcat(buf, buf2);
+                }
+            }
+            send_to_char(strcat(buf, "\r\n"), ch);
+            numAffects++;
+        }
     }
   }
   /* You've got mail! (maybe) */

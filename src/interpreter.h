@@ -38,25 +38,25 @@ extern struct command_info *complete_cmd_info;
 
 #endif
 
-int	    search_block(char *arg, const char **list, int exact);
-int	    fill_word(char *argument);
-int	    is_abbrev(char *arg1, char *arg2);
-int	    is_number(char *str);
-int	    find_command(char *command);
-int     is_money(char *str);
-char	lower( char c );
-char	*one_argument(char *argument, char *first_arg);
-char    *one_arg_dash(char *argument, char *first_arg);
-char    *one_arg_dots(char *argument, char *first_arg);
-char	*one_word(char *argument, char *first_arg);
-char	*any_one_arg(char *argument, char *first_arg);
-char	*two_arguments(char *argument, char *first_arg, char *second_arg);
-char	*delete_doubledollar(char *string);
-void	command_interpreter(struct char_data *ch, char *argument);
-void	half_chop(char *string, char *arg1, char *arg2);
-void	nanny(struct descriptor_data *d, char *arg);
-void	skip_spaces(char **string);
-void    value_money(struct money_data * tar, char *str);
+int search_block(char *arg, const char **list, int exact);
+int fill_word(char *argument);
+int is_abbrev(char *arg1, char *arg2);
+int is_number(char *str);
+int find_command(char *command);
+int is_money(char *str);
+char lower( char c );
+char *one_argument(char *argument, char *first_arg);
+char *one_arg_dash(char *argument, char *first_arg);
+char *one_arg_dots(char *argument, char *first_arg);
+char *one_word(char *argument, char *first_arg);
+char *any_one_arg(char *argument, char *first_arg);
+char *two_arguments(char *argument, char *first_arg, char *second_arg);
+char *delete_doubledollar(char *string);
+void command_interpreter(struct char_data *ch, char *argument);
+void half_chop(char *string, char *arg1, char *arg2);
+void nanny(struct descriptor_data *d, char *arg);
+void skip_spaces(char **string);
+void value_money(struct money_data * tar, char *str);
 
 /* This should be 11 or 15, depending on the number of
    reserved commands there are. For this MUD, 11 is fine */
