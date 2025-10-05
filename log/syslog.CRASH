@@ -1,29 +1,29 @@
-Oct 19 20:24:21 :: Resetting Extra Equipment (rooms 14000-14099).
-Oct 19 20:24:21 :: Resetting New Zone (rooms 14100-15099).
-Oct 19 20:24:21 :: Resetting New Zone (rooms 15100-15199).
-Oct 19 20:24:21 :: Resetting Armor Sets (rooms 15200-16099).
-Oct 19 20:24:21 :: Resetting Non-armor Items (rooms 16100-16199).
-Oct 19 20:24:21 :: Resetting New Zone (rooms 16200-18999).
-Oct 19 20:24:21 :: Resetting Housing (rooms 19000-19099).
-Oct 19 20:24:21 :: Resetting Artifacts (rooms 19100-19199).
-Oct 19 20:24:21 :: Resetting Wayside Temples II (rooms 19200-19999).
-Oct 19 20:24:21 :: Resetting Wayside Temples I (rooms 20000-20099).
-Oct 19 20:24:21 :: Resetting New Zone (rooms 20100-30099).
-Oct 19 20:24:21 :: Resetting Sanction City (rooms 30100-30399).
-Oct 19 20:24:21 :: Resetting Sanction City II (rooms 30400-30499).
-Oct 19 20:24:21 :: Resetting Sanction's Buildings (rooms 30500-30599).
-Oct 19 20:24:21 :: Resetting Sanction III (rooms 30600-30699).
-Oct 19 20:24:21 :: Booting houses.
-Oct 19 20:24:21 :: Boot db -- DONE.
-Oct 19 20:24:21 :: Signal trapping.
-Oct 19 20:24:21 :: Entering game loop.
-Oct 19 20:24:21 :: No connections.  Going to sleep.
-Oct 19 20:24:23 :: New connection.  Waking up.
-Oct 19 20:24:27 :: Sirrion retrieving crash-saved items and entering game.
-Oct 19 20:24:42 :: (GC) Shutdown by Sirrion.
-Oct 19 20:24:42 :: Closing all sockets.
-Oct 19 20:24:42 :: Closing link to: Sirrion.
-Oct 19 20:24:42 :: Normal termination of game.
+Oct 26 20:57:08 :: Resetting Extra Equipment (rooms 14000-14099).
+Oct 26 20:57:08 :: Resetting New Zone (rooms 14100-15099).
+Oct 26 20:57:08 :: Resetting New Zone (rooms 15100-15199).
+Oct 26 20:57:08 :: Resetting Armor Sets (rooms 15200-16099).
+Oct 26 20:57:08 :: Resetting Non-armor Items (rooms 16100-16199).
+Oct 26 20:57:08 :: Resetting New Zone (rooms 16200-18999).
+Oct 26 20:57:08 :: Resetting Housing (rooms 19000-19099).
+Oct 26 20:57:08 :: Resetting Artifacts (rooms 19100-19199).
+Oct 26 20:57:08 :: Resetting Wayside Temples II (rooms 19200-19999).
+Oct 26 20:57:08 :: Resetting Wayside Temples I (rooms 20000-20099).
+Oct 26 20:57:08 :: Resetting New Zone (rooms 20100-30099).
+Oct 26 20:57:08 :: Resetting Sanction City (rooms 30100-30399).
+Oct 26 20:57:08 :: Resetting Sanction City II (rooms 30400-30499).
+Oct 26 20:57:08 :: Resetting Sanction's Buildings (rooms 30500-30599).
+Oct 26 20:57:08 :: Resetting Sanction III (rooms 30600-30699).
+Oct 26 20:57:08 :: Booting houses.
+Oct 26 20:57:08 :: Boot db -- DONE.
+Oct 26 20:57:08 :: Signal trapping.
+Oct 26 20:57:08 :: Entering game loop.
+Oct 26 20:57:08 :: No connections.  Going to sleep.
+Oct 26 20:57:09 :: New connection.  Waking up.
+Oct 26 20:57:14 :: Sirrion retrieving crash-saved items and entering game.
+Oct 26 20:58:18 :: (GC) Shutdown by Sirrion.
+Oct 26 20:58:18 :: Closing all sockets.
+Oct 26 20:58:18 :: Closing link to: Sirrion.
+Oct 26 20:58:18 :: Normal termination of game.
 Quick boot mode -- rent check supressed.
 SYSERR: Unknown option -p in argument string.
 Loading player objects from secondary (ascii) files.
